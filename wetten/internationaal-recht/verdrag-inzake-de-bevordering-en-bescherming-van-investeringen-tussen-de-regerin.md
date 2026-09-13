@@ -1,48 +1,19 @@
 ---
 title: "Verdrag inzake de bevordering en bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein"
 identifier: "BWBV0004041"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-12-01"
-last_updated: "2007-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004041"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003859903"
-version_id: "10003930782"
-internal_id: "C10008336431"
-label_id: "10003844664"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004041/2009-12-01/0"
-intitule_bron: "Trb.2007-35"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-02-19"
-intitule_in_force: "2010-01-15"
-intitule_status: "goed"
-original_publication: "Trb.2007-35"
-original_published_date: "2007-02-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-35"
-entry_into_force_date: "2009-12-01"
-jci_1_3: "jci1.3:c:BWBV0004041&z=2009-12-01&g=2009-12-01"
-jci_1_0: "1.0:c:BWBV0004041&g=2009-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-12-01"
+publicatiedatum: 2009-12-01
+laatste_update: 2009-12-01
+status: geldig
+toestand: 2009-12-01
+bron: "https://wetten.overheid.nl/BWBV0004041"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake de bevordering en bescherming van investeringen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van het Koninkrijk Bahrein, hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Bahrein, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens hun van oudsher bestaande vriendschapsbanden te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de onderdanen van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -50,27 +21,27 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken en alle andere zakelijke rechten, zoals hypotheekrechten, panden en onderpanden, alsmede alle overige soortgelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken en alle andere zakelijke rechten, zoals hypotheekrechten, panden en onderpanden, alsmede alle overige soortgelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
 
 - b. omvat de term „onderdanen” met betrekking tot elk van de Verdragsluitende Partijen:
 
-- i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
+   - i. natuurlijke personen die de nationaliteit van die Verdragsluitende Partij hebben;
 
-- ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
+   - ii. rechtspersonen die zijn opgericht krachtens het recht van die Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
 
 - c. wordt onder de term „grondgebied” verstaan:
 
-- ten aanzien van elke Verdragsluitende Partij, het grondgebied onder de soevereiniteit van die Verdragsluitende Partij, met inbegrip van de territoriale zee, het continentaal plat en elke exclusieve economische zone waarover een Verdragsluitende Partij soevereine rechten of rechtsmacht uitoefent in overeenstemming met het internationale recht.
+   - ten aanzien van elke Verdragsluitende Partij, het grondgebied onder de soevereiniteit van die Verdragsluitende Partij, met inbegrip van de territoriale zee, het continentaal plat en elke exclusieve economische zone waarover een Verdragsluitende Partij soevereine rechten of rechtsmacht uitoefent in overeenstemming met het internationale recht.
 
 - d. Voor de toepassing van dit Verdrag doet een verandering in de vorm waarin de vermogensbestanddelen als investeringen worden gebruikt geen afbreuk aan hun hoedanigheid van investering.
 
@@ -108,9 +79,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -204,10 +175,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Manama op 5 februari 2007, in de Arabische, de Nederlandse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 C.G.J. VAN HONK
 
-**Voor de Regering van het Koninkrijk Bahrein**
+*Voor de Regering van het Koninkrijk Bahrein*
 
 AHMED BIN MOHAMMED AL KHALIFA

@@ -1,43 +1,38 @@
 ---
 title: "Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst betreffende de aanvullende bijdrage door de Regering van het Koninkrijk der Nederlanden"
 identifier: "BWBV0003997"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-03-13"
-last_updated: "1975-03-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003997"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003806023"
-version_id: "10003871472"
-internal_id: "C10006999951"
-label_id: "10003790694"
-dtd_version: "2.0"
-original_entry_into_force: "1975-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003997/1975-03-13/0"
-intitule_bron: "Trb.1974-237"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-12-18"
-intitule_in_force: "1975-04-10"
-intitule_status: "goed"
-original_publication: "Trb.1974-237"
-original_published_date: "1974-12-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-237"
-entry_into_force_date: "1975-03-13"
-jci_1_3: "jci1.3:c:BWBV0003997&z=1975-03-13&g=1975-03-13"
-jci_1_0: "1.0:c:BWBV0003997&g=1975-03-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-03-13"
+publicatiedatum: 1975-03-13
+laatste_update: 1975-03-13
+status: geldig
+toestand: 1975-03-13
+bron: "https://wetten.overheid.nl/BWBV0003997"
+opgehaald: 2026-09-13
 ---
+
 # Tweede Overeenkomst inzake het Nam Ngoem Ontwikkelingsfonds, 1974. Overeenkomst betreffende de aanvullende bijdrage door de Regering van het Koninkrijk der Nederlanden
+
+Whereas
+
+- (A) Under Section 3.01 (c) of the Second Nam Ngum Development Fund Agreement 1974 (the Fund Agreement), the Government of the Kingdom of the Netherlands has undertaken to contribute to the Second Nam Ngum Development Fund (the Fund) established under the Fund Agreement a grant of one hundred and forty-four thousand five hundred and forty five United States dollars (US $ 144,545) (the original contribution) upon the terms and conditions specified in the Fund Agreement,
+
+- (B) Pursuant to Section 12.02 of the Fund Agreement, the Government of the Kingdom of the Netherlands has offered to contribute to the Fund an additional grant of twenty-three thousand six hundred sixteen and 96/100 United States dollars (US $ 23,616.96) (the additional contribution), upon the same terms and conditions as apply under the Fund Agreement to the original contribution,
+
+Now therefore
+
+- 1. The Government of the Kingdom of the Netherlands hereby undertakes to contribute to the Fund an additional grant of twentythree thousand six hundred sixteen and 96/100 United States dollars (US $ 23,616.96) upon the same terms and conditions as apply under the Fund Agreement to the original contribution.
+
+- 2. The Asian Development Bank, as Administrator of the Fund, hereby undertakes, with the prior approval of the Government of Laos, to receive the additional contribution on behalf of the Fund and to hold and use such additional contribution as part of the Fund in accordance with the Fund Agreement.
+
+- 3. The provisions of the Fund Agreement shall apply mutatis mutandis to the additional contribution as if the additional contribution were part of the original contribution.
 
 DONE at Manila this 20th day of September 1974.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) VAN DER FELTZ
 
-**For the Asian Development Bank**
+*For the Asian Development Bank*
 
 (sd.) SHIRO INOUE

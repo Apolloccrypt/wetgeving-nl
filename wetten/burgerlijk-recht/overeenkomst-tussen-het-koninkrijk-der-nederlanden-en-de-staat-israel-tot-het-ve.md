@@ -1,306 +1,279 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël tot het vermijden van dubbele belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht"
 identifier: "BWBV0003325"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-07-14"
-last_updated: "1975-07-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003325"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10003475843"
-version_id: "10003522832"
-internal_id: "C10009632361"
-label_id: "10003461654"
-dtd_version: "2.0"
-original_entry_into_force: "1975-07-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003325/1975-07-14/0"
-intitule_bron: "Trb.1974-222"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-12-03"
-intitule_in_force: "1975-08-26"
-intitule_status: "goed"
-original_publication: "Trb.1974-222"
-original_published_date: "1974-12-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-222"
-entry_into_force_date: "1975-07-14"
-jci_1_3: "jci1.3:c:BWBV0003325&z=1975-07-14&g=1975-07-14"
-jci_1_0: "1.0:c:BWBV0003325&g=1975-07-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-07-14"
+publicatiedatum: 1975-07-14
+laatste_update: 1975-07-14
+status: geldig
+toestand: 1975-07-14
+bron: "https://wetten.overheid.nl/BWBV0003325"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël tot het vermijden van dubbele belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht
 
-De Regering van het Koninkrijk der Nederlanden, en
+*The Government of the Kingdom of the Netherlands and the Government of the State of Israel, Desiring to conclude a Convention for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on estates and inheritances, Have agreed as follows:*
 
-de Regering van de Staat Israël,
+### CHAPTER I. SCOPE OF THE CONVENTION
 
-De wens koesterende een Overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht,
+##### Article 1. Estates covered
 
-Zijn het volgende overeengekomen:
+This Convention shall apply to estates of deceased persons whose residence at their death was in one or both of the States.
 
-### HOOFDSTUK I. REIKWIJDTE VAN DE OVEREENKOMST
+##### Article 2. Taxes covered
 
-##### Artikel 1. Nalatenschappen waarop de Overeenkomst van toepassing is
+1. This Convention shall apply to taxes on estates and inheritances imposed on behalf of each of the States irrespective of the manner in which they are levied.
 
-Deze Overeenkomst is van toepassing op nalatenschappen van overledenen wier woonplaats bij hun overlijden in een van de Staten of in beide Staten was.
+2. There shall be regarded as taxes on estates and inheritances all taxes imposed on the occasion of death in the form of tax on the corpus of the estate, of tax on inheritances, of transfer duties, or of taxes on donations *mortis causa.*
 
-##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+3. The existing taxes to which the Convention shall apply are, in particular:
 
-1. Deze Overeenkomst is van toepassing op belastingen van nalatenschappen en verkrijgingen krachtens erfrecht die, ongeacht de wijze van heffing, worden geheven ten behoeve van elk van de Staten.
+- a) in the case of Israel: Estate Duty and Transfer Duty at death.
 
-2. Als belastingen van nalatenschappen en verkrijgingen krachtens erfrecht worden beschouwd alle belastingen die ter zake van overlijden worden geheven in de vorm van belasting over de nalatenschap in zijn geheel, van belasting over verkrijgingen krachtens erfrecht, van rechten van overgang, of van belastingen over schenkingen „mortis causa”.
+- b) in the case of the Netherlands:
 
-3. De bestaande belastingen waarop de Overeenkomst van toepassing is, zijn met name:
+   - - het recht van successie (succession duty);
 
-- a). voor Nederland:
+   - - het recht van overgang bij overlijden (transfer duty at death).
 
-- -. het recht van successie,
+4. This Convention shall also apply to any taxes on estates and inheritances which are subsequently imposed in addition to, or in place of, the existing taxes. The competent authorities of the States shall notify to each other any substantial changes which have been made in their respective taxation laws.
 
-- -. het recht van overgang bij overlijden;
+### CHAPTER II. DEFINITIONS
 
-- b). voor Israël:
+##### Article 3. General definitions
 
-- -. de belasting van nalatenschappen en
+1. In this Convention:
 
-- -. het recht van overgang bij overlijden.
+- a) the term “State” means the Netherlands or Israel, unless the context requires otherwise; the term “States” means the Netherlands and Israel;
 
-4. Deze Overeenkomst is ook van toepassing op alle belastingen van nalatenschappen en verkrijgingen krachtens erfrecht die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
+- b) the term “the Netherlands” comprises the part of the Kingdom of the Netherlands that is situated in Europe;
 
-### HOOFDSTUK II. BEGRIPSBEPALINGEN
+- c) the term “Israel” means the State of Israel;
 
-##### Artikel 3. Algemene begripsbepalingen
+- d) the term “competent authority” means:
 
-1. In deze Overeenkomst:
+   - 1. in the Netherlands, the Minister of Finance or his authorised representative;
 
-- a). betekent de uitdrukking „Staat” Nederland of Israël, tenzij het zinsverband anders vereist; betekent de uitdrukking „Staten” Nederland en Israël;
+   - 2. in Israel, the Minister of Finance or his authorised representative.
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen;
+2. As regards the application of the Convention by either of the States, any term not otherwise defined shall, unless the context requires otherwise, have the meaning which it has under the laws of that State relating to the taxes which are the subject of this Convention.
 
-- c). betekent de uitdrukking „Israël” de Staat Israël;
+##### Article 4. Fiscal domicile
 
-- d). betekent de uitdrukking „bevoegde autoriteit”:
+1. For the purposes of this Convention, the question whether a person at his death was a resident of one of the States shall be determined according to the law of that State.
 
-- 1. in Nederland, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+2. For the purposes of this Convention, an individual who was a member of a diplomatic or consular mission of one of the States in the other State or in a third State and who was a national of the sending State, as well as members of his family living with him, shall be deemed to have been a resident of the sending State if their heirs or legatees are subjected therein to the same obligations in respect of taxes on estates and inheritances as are heirs and legatees of persons being residents of that State.
 
-- 2. in Israël, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+3. Where by reason of the provisions of paragraph 1, a person was a resident of both States, then this case shall be determined in accordance with the following rules:
 
-2. Voor de toepassing van de Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
+- a) He shall be deemed to have been a resident of the State in which he had a permanent home available to him. If he had a permanent home available to him in both States, his residence shall be deemed to be in the State with which his personal and economic relations were closest (centre of vital interests). In the case of a person who entered Israel as an “Oleh” (that is, under a visa issued pursuant to paragraph 2 of the Law of Return, 5710-1950, or who after entering Israel applied for and received an “Oleh's Certificate”, under paragraph 3 of the said Law, such person hereinafter referred to as an “Oleh”), his centre of vital interests shall be deemed to be in Israel, unless the competent authorities of both States agree that all of the evidence considered together is clear and convincing to the contrary;
 
-##### Artikel 4. Fiscale woonplaats
+- b) If the State in which he had his centre of vital interests cannot be determined, or if he had not a permanent home available to him in either State, the residence shall be deemed to be in the State in which he had an habitual abode;
 
-1. Voor de toepassing van deze Overeenkomst wordt de vraag of een persoon bij zijn overlijden inwoner van een van de Staten was, beslist overeenkomstig de wetgeving van die Staat.
+- c) If he had an habitual abode in both States or in neither of them, the residence shall be deemed to be in the State of which he was a national;
 
-2. Voor de toepassing van deze Overeenkomst worden een natuurlijke persoon die deel uitmaakte van een diplomatieke of consulaire vertegenwoordiging van een van de Staten in de andere Staat of in een derde Staat en die onderdaan was van de zendstaat, alsmede bij hem wonende leden van zijn gezin, geacht inwoner van de zendstaat te zijn geweest, indien hun erfgenamen of legatarissen in die Staat aan dezelfde verplichtingen ter zake van belastingen van nalatenschappen en verkrijgingen krachtens erfrecht zijn onderworpen als erfgenamen en legatarissen van personen die inwoner zijn van die Staat.
+- d) If he was a national of both States or of neither of them, the competent authorities of the States shall settle the question by mutual agreement.
 
-3. Indien een persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten was, gelden de volgende regels:
+### CHAPTER III. TAXING RULES
 
-- a). Hij wordt geacht inwoner te zijn geweest van de Staat waar hij een duurzaam tehuis tot zijn beschikking had. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking had, wordt zijn woonplaats geacht te zijn in de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst waren (middelpunt van de levensbelangen). In het geval van een persoon die Israël is binnengekomen als een „Oleh” (d.w.z. met een visum uitgegeven ingevolge het tweede lid van de Wet op de terugkeer, 5710-1950, of die, na zijn binnenkomst in Israël een „Oleh's certificaat” heeft aangevraagd en gekregen op de voet van het derde lid van genoemde Wet, zulk een persoon hierna te noemen „Oleh”), wordt het middelpunt van zijn levensbelangen geacht in Israël te zijn, tenzij de bevoegde autoriteiten van beide Staten het er over eens zijn, dat alle bewijsmateriaal tezamen beschouwd duidelijk en overtuigend op het tegendeel wijst;
+##### Article 5. Immovable property
 
-- b). Indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen had, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking had, wordt zijn woonplaats geacht te zijn in de Staat waar hij gewoonlijk verbleef;
+1. Immovable property may be taxed in the State in which such property is situated.
 
-- c). Indien hij in beide Staten of in geen van beide gewoonlijk verbleef, wordt zijn woonplaats geacht te zijn in de Staat waarvan hij onderdaan was;
+2. The term “immovable property” shall be defined in accordance with the law of the State in which the property in question is situated. The term shall in any case include property accessory to immovable property, livestock and equipment used in agriculture and forestry, rights to which the provisions of general law respecting landed property apply, usufruct of immovable property and rights to variable or fixed payments as consideration for the working of, or the right to work, mineral deposits, sources and other natural resources and debt-claims of every kind, secured by mortgage, excluding bonds or debentures; ships, boats and aircraft shall not be regarded as immovable property.
 
-- d). Indien hij onderdaan was van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+3. The provisions of paragraphs 1 and 2 shall also apply to immovable property of an enterprise and to immovable property used for the performance of professional services or other independent activities of a similar character.
 
-### HOOFDSTUK III. REGELS VOOR DE BELASTINGHEFFING
+4. Shares and similar rights in a company, other than shares and rights dealt in on a Stock Exchange, the assets of which consist exclusively of real property situated in one of the States, including assets accessory thereto or assets material for the normal administriation, repair and upkeep thereof shall be deemed to be immovable property situated in that State. However, the foregoing provision shall not apply to shares or similar rights in such company incorporated in the State in which the deceased person was resident at his death.
 
-##### Artikel 5. Onroerende vermogensbestanddelen
+##### Article 6. Business property of a permanent establishment and assets pertaining to a fixed base used for the performance of professional services
 
-1. Onroerende vermogensbestanddelen mogen worden belast in de Staat waar deze vermogensbestanddelen zijn gelegen.
+1. Except for assets referred to in [Articles 5](https://wetten.overheid.nl/BWBV0003325) and [7](https://wetten.overheid.nl/BWBV0003325), assets forming part of the business property of a permanent establishment of an enterprise may be taxed in the State in which the permanent establishment is situated.
 
-2. De uitdrukking „onroerende vermogensbestanddelen” heeft de betekenis die daaraan wordt toegekend door de wetgeving van de Staat waar de desbetreffende vermogensbestanddelen zijn gelegen. De uitdrukking omvat in ieder (geval de goederen die bij de onroerende vermogensbestanddelen behoren, levende en dode have van landbouw- en busbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende goederen en rechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen, zomede schuldvorderingen van welke aard ook - niet zijnde obligaties - die verzekerd zijn door hypotheek op onroerende goederen; schepen en luchtvaartuigen worden niet als onroerende vermogensbestanddelen beschouwd.
+2. The term “permanent establishment” means a fixed place of business in which the business of the enterprise is wholly or partly carried on.
 
-3. De bepalingen van het eerste en tweede lid zijn ook van toepassing op onroerende vermogensbestanddelen van een onderneming en op onroerende vermogensbestanddelen gebezigd voor de uitoefening van een vrij beroep of andere zelfstandige werkzaamheden van soortgelijke aard.
+3. The term “permanent establishment” shall include especially:
 
-4. Aandelen en soortgelijke rechten, niet zijnde aandelen en rechten waarin op een effectenbeurs wordt gehandeld, in een lichaam waarvan de bezittingen uitsluitend bestaan uit in een van de Staten gelegen landerijen en gebouwen, daaronder begrepen bezittingen die daarbij behoren of bezittingen die verband houden met het normale beheer, herstel en onderhoud ervan, worden geacht in die Staat gelegen onroerende vermogensbestanddelen te zijn. De voorgaande bepaling is echter niet van toepassing op aandelen of soortgelijke rechten in zulk een lichaam, dat is opgericht in de Staat waarin de overledene bij zijn overlijden woonde.
+- a) a place of management;
 
-##### Artikel 6. Bedrijfsvermogen van een vaste inrichting en bezittingen die behoren tot een vast middelpunt gebezigd voor de uitoefening van een vrij beroep
+- b) a branch;
 
-1. Bezittingen, met uitzondering van die bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14), deel uitmakende van het bedrijfsvermogen van een vaste inrichting van een onderneming mogen worden belast in de Staat waar de vaste inrichting is gevestigd.
+- c) an office;
 
-2. De uitdrukking „vaste inrichting” betekent een vaste bedrijfsinrichting waarin de werkzaamheden van de onderneming geheel of gedeeltelijk worden uitgeoefend.
+- d) a factory;
 
-3. De uitdrukking „vaste inrichting” omvat in het bijzonder:
+- e) a workshop;
 
-- a). een plaats waar leiding wordt gegeven;
+- f) a mine, quarry or other place of extraction of natural resources;
 
-- b). een filiaal;
+- g) a plantation, vineyard, grove or orchard;
 
-- c). een kantoor;
+- h) a building site or construction or assembly project which exists for more than twelve months.
 
-- d). een fabriek;
+4. The term “permanent establishment” shall not be deemed to include:
 
-- e). een werkplaats;
+- a) The use of facilities solely for the purpose of storage, display or delivery of goods or merchandise belonging to the enterprise;
 
-- f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery;
 
-- g). een plantage, een wijngaard, een bos of een boomgaard;
+- c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise;
 
-- h). de plaats van uitvoering van een (bouwwerk of van constructie- of montagewerkzaamheden, waarvan de duur twaalf maanden overschrijdt.
+- d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or for collecting information, for the enterprise;
 
-4. Een „vaste inrichting” wordt niet aanwezig geacht, indien:
+- e) the maintenance of a fixed place of business solely for the purpose of advertising, for the supply of information, for scientific research or for similar activities which have a preparatory or auxiliary character, for the enterprise.
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+5. An enterprise of one of the States shall be deemed to have a permanent establishment in the other State if it carries on supervisory activities in that other State for more than twelve months in connection with a building site or construction or assembly project which is being undertaken in that other State.
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+6. A person acting in one of the States on behalf of an enterprise of the other State - other than an agent of an independent status to whom paragraph 7 applies - shall be deemed to be a permanent establishment in the first-mentioned State if:
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- a) he has, and habitually exercises in that State, an authority to conclude contracts in the name of the enterprise, unless his activities are limited to the purchase of goods or merchandise for the enterprise; or
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- b) he maintains in the first-mentioned State a stock of goods or merchandise belonging to the enterprise from which he regularly fills orders on behalf of the enterprise.
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+7. An enterprise of one of the States shall not be deemed to have a permanent establishment in the other State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where such persons are acting in the ordinary course of their business.
 
-5. Een onderneming van een van de Staten wordt geacht een vaste inrichting in de andere Staat (te bezitten, indien zij in die andere Staat gedurende langer dan twaalf maanden werkzaamheden van toezichthoudende aard verricht in verband met een bouwwerk dat, of constructie- of montagewerkzaamheden die in die andere Staat worden uitgevoerd.
+8. Except for assets described in [Article 5](https://wetten.overheid.nl/BWBV0003325), assets pertaining to a fixed base used for the performance of professional services or other independent activities of a similar character may be taxed in the State in which the fixed base is situated.
 
-6. Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zevende lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting beschouwd, indien:
+##### Article 7. Ships and aircraft
 
-- a). hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
+1. Subject to paragraph 2, ships and aircraft operated in international traffic and movable property pertaining to the operation of such ships and aircraft shall be taxable only in the State of which the owner of the ships or aircraft was a resident at his death.
 
-- b). hij in de eerstbedoelde Staat een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming.
+2. However, such assets may also be taxed in the other State, if the place of effective management of the enterprise is situated in that other State.
 
-7. Een onderneming van een van de Staten wordt niet geacht een vaste inrichting in de andere Staat te bezitten op grond van de enkele omstandigheid dat zij aldaar zaken doet door middel van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, indien deze personen in de normale uitoefening van hun bedrijf handelen.
+3. If the place of effective management of a shipping enterprise is aboard a ship, then il shall be deemed to be situated in the State in which the home harbour of the ship is situated, or if there is no such home harbour, in the State of which the owner of the ship was a resident at his death.
 
-8. Bezittingen, met uitzondering van die omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14), behorende tot een vast middelpunt dat gebezigd wordt voor de uitoefening van een vrij beroep of van andere zelfstandige werkzaamheden van soortgelijke aard, mogen worden belast in de Staat waar het vaste middelpunt is gelegen.
+##### Article 8. Substantial holding in a company
 
-##### Artikel 7. Schepen en luchtvaartuigen
+Shares in a company, which is incorporated and effectively managed in one of the States, may be taxed in that State, if the deceased, either alone or together with his spouse or his relatives in a straight line, owned at his death directly at least 25 per cent of the share capital of that company.
 
-1. Onder voorbehoud van het tweede lid zijn schepen en luchtvaartuigen geëxploiteerd in internationaal verkeer en roerende zaken die worden gebruikt bij de exploitatie van deze schepen en luchtvaartuigen, slechts belastbaar in de Staat waarvan de eigenaar van de schepen of luchtvaartuigen bij zijn overlijden inwoner was.
+##### Article 9. Property not expressly mentioned
 
-2. Deze bezittingen mogen evenwel ook in de andere Staat worden belast, indien de plaats van de werkelijke leiding van de onderneming in die andere Staat is gelegen.
+Subject to the provisions of [Article 12](https://wetten.overheid.nl/BWBV0003325), property other than property referred to in [Articles 5](https://wetten.overheid.nl/BWBV0003325), [6](https://wetten.overheid.nl/BWBV0003325), [7](https://wetten.overheid.nl/BWBV0003325) and [8](https://wetten.overheid.nl/BWBV0003325), shall be taxable only in the State of which the deceased was a resident at his death.
 
-3. Indien de plaats van de werkelijke leiding van een scheepvaartonderneming zich aan boord van een schip bevindt, wordt deze plaats geacht te zijn gelegen in de Staat waar de thuishaven van het schip is gelegen, of, indien er geen thuishaven is, in de Staat waarvan de eigenaar van het schip bij zijn overlijden inwoner was.
+##### Article 10. Property bequeathed or donated to a State
 
-##### Artikel 8. Aanmerkelijk belang in een lichaam
+1. Exemptions from and reductions of tax accorded by the law of either State to property bequeathed to that State or local authority thereof, shall apply to property bequeathed to the other State or a local authority thereof.
 
-Aandelen in een lichaam, dat in een van de Staten is opgericht en aldaar werkelijk wordt geleid, mogen in die Staat worden belast indien de overledene, hetzij alleen hetzij tezamen met zijn echtgenoot of zijn verwanten in de rechte lijn, bij zijn overlijden onmiddellijk ten minste 25 percent van het aandelenkapitaal van dat lichaam bezat.
+2. The provision of paragraph 1 shall likewise apply to taxes on donations, gifts and other transfers, inter-vivos.
 
-##### Artikel 9. Overige vermogensbestanddelen
+##### Article 11. Deduction of debts
 
-Onder voorbehoud van de bepalingen van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=12&z=1975-07-14&g=1975-07-14) zijn andere vermogensbestanddelen dan die bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=6&z=1975-07-14&g=1975-07-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=8&z=1975-07-14&g=1975-07-14) slechts belastbaar in de Staat waarvan de overledene bij zijn overlijden inwoner was.
+1. Debts especially secured on any property referred to in [Article 5](https://wetten.overheid.nl/BWBV0003325) shall be deducted from the value of that property. Debts, not being especially secured on any property referred to in Article 5, which are represented by the acquisition, conversion, repair or upkeep of any such property, shall be deducted from the value of that property.
 
-##### Artikel 10. Aan een Staat vermaakte of geschonken vermogensbestanddelen
+2. Subject to paragraph 1, debts pertaining to a permanent establishment of an enterprise or to a fixed base used for the performance of professional services or other independent activities of a similar character, debts pertaining to any business of shipping or air transport, and debts connected with a substantial holding, shall be deducted from the value of the property referred to in [Article 6](https://wetten.overheid.nl/BWBV0003325), [Article 7](https://wetten.overheid.nl/BWBV0003325), or [Article 8](https://wetten.overheid.nl/BWBV0003325), as the case may be.
 
-1. Vrijstellingen en verminderingen van belasting, door de wetgeving van een van de Staten verleend ter zake van aan die Staat of een plaatselijk publiekrechtelijk lichaam daarvan vermaakte vermogensbestanddelen, zijn van toepassing op aan de andere Staat of een plaatselijk publiekrechtelijk lichaam daarvan vermaakte vermogensbestanddelen.
+3. Other debts shall be deducted from the value of property to which [Article 9](https://wetten.overheid.nl/BWBV0003325) applies.
 
-2. De bepalingen van het eersite lid zijn op overeenkomstige wijze van toepassing op belastingen ter zake van schenkingen, giften en andere vermogensovergangen „inter-vivos”.
+4. If a debt exceeds the value of the property from which it is deductible in one of the States, according to paragraphs 1, 2 and 3, the excess shall be deducted from the value of any other property taxable in that State.
 
-##### Artikel 11. Aftrek van schulden
+5. Any excess still remaining after the deductions referred to in the preceding paragraphs shall be deducted from the value of the property liable to tax in the other State.
 
-1. Schulden, waarvoor een vermogensbestanddeel als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14) uitdrukkelijk is verbonden, worden op de waarde van dat vermogensbestanddeel in mindering gebracht. Schulden, waarvoor een vermogensbestanddeel als bedoeld in artikel 5 niet uitdrukkelijk is verbonden, doch die verband houden met de verkrijging, de omzetting, het herstel of het onderhoud van zulk een vermogensbestanddeel, worden op de waarde van dat vermogensbestanddeel in mindering gebracht.
+##### Article 12. Taxation on the basis of nationality
 
-2. Onder voorbehoud van het eerste lid worden schulden die betrekking hebben op een vaste inrichting van een onderneming of op een vast middelpunt gebezigd voor de uitoefening van een vrij beroep of van andere zelfstandige werkzaamheden van soortgelijke aard, schulden die betrekking hebben op een zeevaart- of luchtvaartbedrijf en schulden die verband houden met een aanmerkelijk belang, naar gelang van het geval, in mindering gebracht op de waarde van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=6&z=1975-07-14&g=1975-07-14), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14) of [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=8&z=1975-07-14&g=1975-07-14) bedoelde vermogensbestanddelen.
+1. If the deceased, being a resident of one of the States, at his death was a national of the other State, and had once been a resident of that other State within ten years before his death, that other State may tax the estate according to its domestic law, even if no part of the estate consists of property enumerated in Articles 5 to 8 and situated in its territory.
 
-3. Andere schulden worden in mindering gebracht op de waarde van vermogensbestanddelen waarop [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=9&z=1975-07-14&g=1975-07-14) van toepassing is.
+2. The provisions of paragraph 1, shall not apply if the deceased was at his death an “Oleh” and had continuously maintained his residence in Israel.
 
-4. Indien een schuld de waarde van het vermogensbestanddeel, waarvan zij volgens het eerste, tweede en derde lid in een van de Staten aftrekbaar is, overschrijdt, wordt het overschot in mindering gebracht op de waarde van enig ander in die Staat belastbaar vermogensbestanddeel.
+### CHAPTER IV
 
-5. Indien, na toepassing van de verminderingen als bedoeld in de voorgaande leden, nog een bedrag overblijft, wordt dit bedrag in mindering gebracht op de waarde van de vermogensbestanddelen, die in de andere Staat aan belasting zijn onderworpen.
+##### Article 13. Elimination of double taxation
 
-##### Artikel 12. Belastingheffing op grond van nationaliteit
+1. Where both States impose tax with respect to property which may be taxed by a State in accordance with [Articles 5](https://wetten.overheid.nl/BWBV0003325), [6](https://wetten.overheid.nl/BWBV0003325), [7, paragraph 2](https://wetten.overheid.nl/BWBV0003325), or [8](https://wetten.overheid.nl/BWBV0003325), a State which imposes its tax by reason of the decedent's residence therein or nationality thereof at death shall allow a credit equal to the amount of tax paid to the other State with respect to the net amount of property which may be taxed by that other State in accordance with Articles 5, 6, 7, paragraph 2, and 8, taking into account the provisions of [Article 11, paragraphs 1, 2 and 4](https://wetten.overheid.nl/BWBV0003325).
 
-1. Indien de overledene, inwoner van een van de Staten, bij zijn overlijden onderdaan van de andere Staat was en op een tijdstip binnen een periode van tien jaar voorafgaande aan zijn overlijden inwoner van die andere Staat is geweest, mag die andere Staat de nalatenschap overeenkomstig zijn nationale wetgeving belasten, zelfs indien de nalatenschap ook niet ten dele bestaat uit in de artikelen 5 tot en met 8 opgesomde en op zijn grondgebied gelegen vermogensbestanddelen.
+2. In addition to any credit allowable under paragraph 1 of this Article, where both States impose tax with respect to property which is not property which may be taxed by a State in accordance with [Articles 5](https://wetten.overheid.nl/BWBV0003325), [6](https://wetten.overheid.nl/BWBV0003325), [7, paragraph 2](https://wetten.overheid.nl/BWBV0003325), or [8](https://wetten.overheid.nl/BWBV0003325), the State of which the decedent was not a resident at death shall allow a credit equal to the amount of tax paid to the other State with respect to the net amount of such property.
 
-2. De bepalingen van het eerste lid zijn niet van toepassing, indien de overledene bij zijn overlijden een „Oleh” was en zijn woonplaats ononderbroken in Israël had behouden.
+3. Where, under the provisions of paragraph 1 or 2 above, the Netherlands is obliged to give credit for Israeli tax, credit will be given for any amount of Israeli tax that might have been payable under this Convention except for the provisions of the Law for the Encouragement of Capital Investments, 5719-1959. After a period of ten years subsequent to the entry into force of this Convention the two Governments shall enter into negotiations with each other in order to envisage a review of this provision in the light of the circumstances then prevailing.
 
-### HOOFDSTUK IV
+4. The total amount of all credits allowed by a State pursuant to this Article or pursuant to the laws or other conventions of such State with respect to the net amount of all property in respect of which a credit is allowable under paragraphs 1, 2 or 3, shall not exceed that part of the tax of the crediting State which is attributable to the net amount of such property.
 
-##### Artikel 13. Vermijding van dubbele belasting
+5. In determining the amount of the tax imposed by a State with respect to or attributable to the net amount of property there shall be subtracted from the gross tax so imposed all credits allowed by such State with respect to the net amount of such property except credits which are allowable under this Article.
 
-1. Indien beide Staten belasting heffen met betrekking tot vermogensbestanddelen welke door een van de Staten overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=6&z=1975-07-14&g=1975-07-14), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14), of [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=8&z=1975-07-14&g=1975-07-14) mogen worden belast, verleent een Staat die zijn belasting heft omdat de overledene bij zijn overlijden zijn woonplaats in die Staat had of onderdaan daarvan was, een verrekening gelijk aan het bedrag van de belasting die aan de andere Staat is betaald met betrekking tot het netto-bedrag van de vermogensbestanddelen welke door die andere Staat overeenkomstig de artikelen 5, 6, 7, tweede lid, en 8, met inachtneming van de bepalingen van [artikel 11, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=11&z=1975-07-14&g=1975-07-14), mogen worden belast.
+6. Where one of the States has imposed gift tax in respect of a donation of property, which under its legislation does not farm part of the estate, then that State shall allow a refund of that gift tax, provided that
 
-2. Indien beide Staten belasting heffen met betrekking tot vermogen, met uitzondering van vermogensbestanddelen die door een van de Staten overeenkomstig de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=6&z=1975-07-14&g=1975-07-14), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14), of [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=8&z=1975-07-14&g=1975-07-14) mogen worden belast, verleent de Staat waarvan de overledene bij zijn overlijden geen inwoner was, naast een verrekening die op grond van het eerste lid van dit artikel kan worden verleend, een verrekening gelijk aan het bedrag van de belasting die aan de andere Staat is betaald met betrekking tot het netto-bedrag van dat vermogen.
+- a) the donation did not concern property as meant in [Articles 5](https://wetten.overheid.nl/BWBV0003325), [6](https://wetten.overheid.nl/BWBV0003325), [7, paragraph 2](https://wetten.overheid.nl/BWBV0003325), and [8](https://wetten.overheid.nl/BWBV0003325), situated in its territory; and
 
-3. Indien Nederland ingevolge de bepalingen van het eerste of tweede lid gehouden is verrekening van Israëlische belasting te verlenen, wordt verrekening verleend van elk bedrag aan Israëlische belasting dat ingevolge deze Overeenkomst verschuldigd zou zijn geweest, indien geen rekening was gehouden met de bepalingen van de Wet ter bevordering van kapitaalsinvesteringen, 5719-1959. Na een tijdvak van tien jaren volgende op de inwerkingtreding van deze Overeenkomst zullen de beide Regeringen met elkaar in onderhandeling treden, ten einde in het licht van de dan vigerende omstandigheden een herziening van deze bepaling te overwegen.
+- b) the donation under the legislation of the other State forms part of the estate of the deceased; and
 
-4. Het totale bedrag van alle verrekeningen die een Staat verleent volgens dit artikel of volgens de wetgeving of andere overeenkomsten van die Staat met betrekking tot een netto-bedrag van alle vermogensbestanddelen waarvoor een verrekening kan worden verleend ingevolge het eerste, tweede of derde lid, overschrijdt niet dat deel van de belasting van de Staat die de verrekening verleent, dat aan het netto-bedrag van die vermogensbestanddelen kan worden toegerekend.
+- c) the donation was made within a period of five years before the donor's death.
 
-5. Bij de vaststelling van het bedrag van door een Staat geheven belasting met betrekking tot of toe te rekenen aan het netto-bedrag van vermogensbestanddelen, worden op de aldus geheven bruto-belasting in mindering gebracht alle verrekeningen die die Staat met betrekking tot het netto-bedrag van die vermogensbestanddelen heeft verleend, met uitzondering van verrekeningen die krachtens dit artikel kunnen worden verleend.
+However, the refund shall not exceed that part of the estate duty levied in the other State, which is attributable to the said property or, in the case of Israel, would have been attributable to the said property, if in the determination of the Israeli estate duty the provisions of the Law for the Encouragement of Capital Investments, 5719-1959, had been left out of account.
 
-6. Indien een van de Staten schenkingsrecht heeft geheven ter zake van een schenking van een vermogensbestanddeel, dat volgens zijn wetgeving geen deel uitmaakt van de nalatenschap, verleent die Staat teruggaaf van dat schenkingsrecht, mits
+7. Any credits authorised by this Article are in lieu of, and not in addition to, any credits authorised by the respective laws of the States for the taxes of the other State.
 
-- a). de schenking geen betrekking had op een in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=5&z=1975-07-14&g=1975-07-14), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=6&z=1975-07-14&g=1975-07-14), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=7&z=1975-07-14&g=1975-07-14), en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=III&artikel=8&z=1975-07-14&g=1975-07-14) bedoeld en op zijn grondgebied gelegen vermogensbestanddeel; en
+### CHAPTER V. SPECIAL PROVISIONS
 
-- b). de schenking volgens de wetgeving van de andere Staat deel uitmaakt van de nalatenschap van de overledene; en
+##### Article 14. Limitation on claims for credit or refund
 
-- c). de schenking binnen een periode van vijf jaren voorafgaande aan het overlijden van de schenker plaats vond.
+Any claims for credit or for refund of tax founded on the provisions of this Convention shall be made within five years from the date of death of the decedent in respect of whose death the claim is made, or within six months from the date that all legal remedies in both of the States have been exhausted, whichever period is the longer.
 
-De teruggaaf overschrijdt evenwel niet dat deel van de in de andere Staat geheven belasting ter zake van overlijden, dat aan dat vermogensbestanddeel is toe te rekenen of, wat Israël betreft, aan dat vermogensbestanddeel zou zijn toegerekend, indien bij het vaststellen van de Israëlische belasting van nalatenschappen geen rekening was gehouden met de bepalingen van de Wet ter bevordering van kapitaalsinvesteringen, 5719-1959.
+##### Article 15. Non-discrimination
 
-7. Verrekeningen die op grond van dit artikel woorden verleend treden in de plaats van, en worden niet verleend naast een verrekening die op grond van de onderscheidene wetgevingen van de Staten wordt verleend voor de belastingen van de andere Staat.
+1. The nationals of one of the States, whether they are residents of that State or not, shall not be subjected in the other State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which nationals of that other State in the same circumstances are or may be subjected.
 
-### HOOFDSTUK V. BIJZONDERE BEPALINGEN
+2. The term “nationals” means:
 
-##### Artikel 14. Beperking van verzoeken om verrekening of teruggaaf
+- a) all individuals possessing the nationality of one of the States;
 
-Verzoeken om verrekening of teruggaaf van belasting gegrond op de bepalingen van deze Overeenkomst moeten worden ingediend hetzij binnen vijf jaren te rekenen van de datum van het overlijden van de overledene met betrekking tot wiens overlijden het verzoek wordt ingediend, hetzij, indien deze termijn langer is, binnen zes maanden te rekenen van de datum waarop alle rechtsmiddelen in beide Staten zijn uitgeput.
+- b) all legal persons, partnerships and associations deriving their status as such from the law in force in one of the States.
 
-##### Artikel 15. Non-discriminatie
+3. The taxation on a permanent establishment which an enterprise of one of the States has in the other State shall not be less favourably levied in that other State than the taxation levied on enterprises of that other State carrying on the same activities.
 
-1. Onderdanen van een van de Staten, ongeacht of zij inwoner zijn van die Staat of niet, worden in de andere Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan onderdanen van die andere Staat onder dezelfde omstandigheden zijn of kunnen worden onderworpen.
+This provision shall not be construed as obliging one of the States to grant to residents of the other State any personal allowances, reliefs and reductions for taxation purposes on account of civil status or family responsibilities which it grants to its own residents.
 
-2. De uitdrukking „onderdanen” betekent:
+4. Enterprises of one of the States, the capital of which is wholly or partly owned controlled, directly or indirectly, by one or more residents of the other State, shall not be subjected in the first-mentioned State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements which other similar enterprises of that first-mentioned State are or may be subjected.
 
-- a). alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+5. In this Article the term “taxation” means taxes of every kind and description.
 
-- b). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
+##### Article 16. Mutual agreement procedure
 
-3. De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplicht aan inwoners van de andere Staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde Staat aan zijn eigen inwoners verleent.
+1. Any person who considers that the actions of one or both of the States result or will result for him in taxation not in accordance with this Convention may, notwithstanding the remedies provided by the national laws of those States, present his case to the competent authority of either State. Such presentation must be made within the period of time prescribed for the filing of a claim for credit or refund under [Article 14](https://wetten.overheid.nl/BWBV0003325).
 
-4. Ondernemingen van een van de Staten, waarvan het kapitaal geheel of gedeeltelijk, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan andere soortgelijke ondernemingen van die eerstbedoelde Staat zijn of kunnen worden onderworpen.
+2. The competent authority shall endeavour, if the objection appears to it to be justified and if it is not itself able to arrive at an appropriate solution, to resolve the case by mutual agreement with the competent authority of the other State, with a view to the avoidance of taxation not in accordance with this Convention.
 
-5. In dit artikel ziet de uitdrukking „belastingheffing” op belastingen van elke soort en benaming.
+3. The competent authorities of the States shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Convention. They may also consult together for the elimination of double taxation in cases not provided for in this Convention.
 
-##### Artikel 16. Regeling voor onderling overleg
+4. The competent authorities of the States may communicate with each other directly for the purpose of reaching an agreement in the sense of the preceding paragraphs.
 
-1. Een persoon die van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met deze Overeenkomst, kan, onverminderd de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van elk van de Staten. Zulk een geval moet worden voorgelegd binnen de termijn die krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003325&hoofdstuk=V&artikel=14&z=1975-07-14&g=1975-07-14) is voorgeschreven voor het indienen van een verzoek om verrekening of teruggaaf.
+##### Article 17. Exchange of information
 
-2. De bevoegde autoriteit tracht, indien het bezwaar hem gegrond voorkomt en indien hij niet zelf in staat is tot een bevredigende oplossing te komen, de aangelegenheid in onderlinge overeenstemming met de bevoegde autoriteit van de andere Staat te regelen ten einde een belastingheffing die niet in overeenstemming is met deze Overeenkomst, te vermijden.
+1. The competent authorities of the States shall exchange such information (being information which such authorities have in proper order at their disposal) as is necessary for the carrying out of this Convention, in particular for the prevention of fraud, and for the administration of statutory provisions against legal avoidance concerning taxes covered by this Convention. Any information so exchanged shall be treated as secret and shall not be disclosed to any persons or authorities other than those concerned with the assessment or collection of the taxes which are the subject of this Convention.
 
-3. De bevoegde autoriteiten van de Staten trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van de Overeenkomst in onderlinge overeenstemming op te lossen. Zij kunnen ook met elkaar overleg plegen ten einde dubbele belasting ongedaan te maken in gevallen waarvoor in deze Overeenkomst geen voorziening is getroffen.
+2. In no case shall the provisions of paragraph 1 be construed so as to impose on one of the States the obligation:
 
-4. De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
+- a) to carry out administrative measures at variance with the laws or the administrative practice of that or of the other State;
 
-##### Artikel 17. Uitwisseling van inlichtingen
+- b) to supply particulars which are not obtainable under the laws or in the normal course of the administration of that or of the other State;
 
-1. De bevoegde autoriteiten van de Staten wisselen zodanige inlichtingen uit (zijnde inlichtingen die deze autoriteiten geordend voorhanden hebben) als nodig zijn om uitvoering te geven aan deze Overeenkomst, in het bijzonder om fraude te voorkomen en om uitvoering te geven aan wettelijke voorzieningen tegen wetsontduiking met betrekking tot de belastingen waarop deze Overeenkomst van toepassing is. Elke aldus uitgewisselde inlichting wordt geheim gehouden en niet ter kennis gebracht van andere personen of autoriteiten dan die belast met de vaststelling of invordering van de belastingen die het onderwerp van deze Overeenkomst uitmaken.
+- c) to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information the disclosure of which would be contrary to public policy.
 
-2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
+3. Paragraph 1 shall not appply to information obtained from banks or from institutions assimilated therewith. The term “institutions assimilated therewith” means, *inter alia,* insurance companies.
 
-- a). maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
+##### Article 18. Diplomatic and consular officials
 
-- b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+1. Nothing in this Convention shall affect the fiscal privileges of diplomatic or consular officials under the general rules of international law or under the provisions of special agreements.
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+2. This Convention shall not apply to estates of deceased officials of international organisations or members of a diplomatic or consular mission of a third State, as well as to estates of deceased members of their family living with them, who were present in one of the States and were not treated as being residents of either State in respect of taxes on estates and inheritances.
 
-3. Het eerste lid is niet van toepassing op inlichtingen die verkregen zijn van banken of van daarmede gelijkgestelde instellingen. De uitdrukking „daarmede gelijkgestelde instellingen” betekent onder andere verzekeringsmaatschappijen.
+##### Article 19. Regulations
 
-##### Artikel 18. Diplomatieke en consulaire ambtenaren
+The competent authorities of each of the States, in accordance with the practices of that State, may prescribe regulations necessary to carry out the provisions of this Convention.
 
-1. De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren en beambten ontlenen aan de algemene regelen van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
+##### Article 20. Territorial extension
 
-2. Deze Overeenkomst is niet van toepassing op nalatenschappen van overleden functionarissen van internationale organisaties of personen deel uitmakende van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, noch op nalatenschappen van overleden bij hen wonende leden van hun gezin, die in een van de Staten verbleven en wat betreft belastingen van nalatenschappen en verkrijgingen krachtens erfrecht niet als inwoner van een van de Staten werden behandeld.
+1. This Convention may be extended, either in its entirety or with any necessary modifications, to either or both of the countries of Surinam or the Netherlands Antilles, if the country concerned imposes taxes substantially similar in character to those to which this Convention applies. Any such extension shall take effect from such date and subject to such modifications and conditions, including conditions as to termination, as may be specified and agreed in notes to be exchanged through diplomatic channels.
 
-##### Artikel 19. Uitvoeringsvoorschriften
+2. Unless otherwise agreed the termination of the Convention shall not also terminate the application of the Convention to any country to which it has been extended under this Article.
 
-De bevoegde autoriteiten van elk van de Staten kunnen, in overeenstemming met het gebruik van die Staat, voorschriften vaststellen die nodig zijn om de bepalingen van deze Overeenkomst uit te voeren.
+### CHAPTER VI. FINAL PROVISIONS
 
-##### Artikel 20. Uitbreiding tot andere gebieden
+##### Article 21. Entry into force
 
-1. Deze Overeenkomst kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de landen Suriname en de Nederlandse Antillen of tot een van die landen, indien het desbetreffende land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop deze Overeenkomst van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
+This Convention shall enter into force on the date on which the Contracting Governments have notified each other in writing that the formalities constitutionally required in their respective countries have been complied with, and its provisions shall have effect in relation to estates of persons dying on or after the date on which this Convention is signed.
 
-2. Tenzij anders is overeengekomen, wordt door de beëindiging van de Overeenkomst niet tevens de toepasselijkheid van de Overeenkomst op het land waartoe zij ingevolge dit artikel is uitgebreid, beëindigd.
+##### Article 22. Termination
 
-### HOOFDSTUK VI. SLOTBEPALINGEN
-
-##### Artikel 21. Inwerkingtreding
-
-Deze Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Regeringen elkaar schriftelijk hebben medegedeeld, dat aan de in hun onderscheiden landen vereiste grondwettelijke procedures is voldaan, en de bepalingen ervan vinden toepassing op nalatenschappen van personen die overlijden op of na de dag waarop deze Overeenkomst wordt ondertekend.
-
-##### Artikel 22. Beëindiging
-
-Deze Overeenkomst blijft van kracht totdat zij door een van de Staten is beëindigd. Elk van de Staten kan de Overeenkomst langs diplomatieke weg tegen het einde van ieder kalenderjaar, niet eerder vallende dan vijf jaren na haar inwerkingtreding, beëindigen door ten minste zes maanden te voren van zodanige beëindiging kennis te geven. In dat geval zal de Overeenkomst niet van toepassing zijn op nalatenschappen van personen die overlijden na het verstrijken van het kalenderjaar aan het einde waarvan de Overeenkomst is beëindigd.
+This Convention shall remain in force until terminated by one of the States. Either State may terminate the Convention, through diplomatic channels, with effect from the end of any calendar year not earlier than 5 years from its entry into force by giving at least six months notice of termination. In such an event, the Convention will not apply to estates of persons who died after the expiry of the calendar year with respect to the end of which the Convention has been terminated.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed this Convention.
 
@@ -308,11 +281,11 @@ DONE at Jerusalem on 9 September 1974, in two originals each, in the Netherlands
 
 In case there is any divergence of interpretation between the Netherlands and the Hebrew texts, the English shall prevail.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) G. J. JONGEJANS
 
-**For the Government of the State of Israel**
+*For the Government of the State of Israel*
 
 (sd.) YIGAL ALLON
 

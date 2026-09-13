@@ -1,486 +1,383 @@
 ---
 title: "Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972"
 identifier: "BWBV0003139"
-country: "nl"
-rank: "verdrag"
-publication_date: "2023-01-15"
-last_updated: "2023-01-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003139"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003354293"
-version_id: "10003390432"
-internal_id: "C10008430021"
-label_id: "10003340324"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003139/2023-01-15/0"
-intitule_bron: "Trb.1998-134"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1998-06-08"
-intitule_in_force: "2008-10-31"
-intitule_status: "goed"
-original_publication: "Trb.1998-134"
-original_published_date: "1998-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1998-134"
-entry_into_force_date: "2008-10-24"
-jci_1_3: "jci1.3:c:BWBV0003139&z=2023-01-15&g=2023-01-15"
-jci_1_0: "1.0:c:BWBV0003139&g=2023-01-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-10-24"
+publicatiedatum: 2008-10-24
+laatste_update: 2023-01-15
+status: geldig
+toestand: 2023-01-15
+bron: "https://wetten.overheid.nl/BWBV0003139"
+opgehaald: 2026-09-13
 ---
+
 # Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972
 
-De verdragsluitende partijen bij dit Protocol,
+*The Contracting Parties to this Protocol, Stressing the need to protect the marine environment and to promote the sustainable use and conservation of marine resources, Noting in this regard the achievements within the framework of the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972 and especially the evolution towards approaches based on precaution and prevention, Noting further the contribution in this regard by complementary regional and national instruments which aim to protect the marine environment and which take account of specific circumstances and needs of those regions and States, Reaffirming the value of a global approach to these matters and in particular the importance of continuing co-operation and collaboration between Contracting Parties in implementing the Convention and the Protocol, Recognizing that it may be desirable to adopt, on a national or regional level, more stringent measures with respect to prevention and elimination of pollution of the marine environment from dumping at sea than are provided for in international conventions or other types of agreements with a global scope, Taking into account relevant international agreements and actions, especially the United Nations Convention on the Law of the Sea, 1982, the Rio Declaration on Environment and Development and Agenda 21, Recognizing also the interests and capacities of developing States and in particular small island developing States, Being convinced that further international action to prevent, reduce and where practicable eliminate pollution of the sea caused by dumping can and must be taken without delay to protect and preserve the marine environment and to manage human activities in such a manner that the marine ecosystem will continue to sustain the legitimate uses of the sea and will continue to meet the needs of present and future generations, Have agreed as follows:*
 
-Benadrukkende de noodzaak het mariene milieu te beschermen en een duurzaam gebruik en het behoud van de mariene bronnen te bevorderen;
+##### Article 1. Definitions
 
-Gelet in dit verband op hetgeen is bereikt binnen het kader van het [Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972](https://wetten.overheid.nl/jci1.3:c:BWBV0001013), en in het bijzonder op de ontwikkeling naar een benadering die is gebaseerd op voorzorg en voorkoming;
+For the purposes of this Protocol:
 
-Voorts gelet op de bijdrage in dit verband van aanvullende regionale en nationale instrumenten die gericht zijn op de bescherming van het mariene milieu en die rekening houden met de specifieke omstandigheden en behoeften van de desbetreffende regio’s en Staten;
+- 1. ‘‘Convention’’ means the [Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972](https://wetten.overheid.nl/jci1.3:c:BWBV0001013), as amended.
 
-Opnieuw bevestigend de waarde van een mondiale aanpak van deze zaken en met name het belang van voortdurende samenwerking en medewerking tussen de verdragsluitende partijen bij de implementatie van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013) en het Protocol;
+- 2. ‘‘Organization’’ means the International Maritime Organization.
 
-Erkennende dat het wenselijk kan zijn op nationaal of regionaal niveau strengere maatregelen aan te nemen met betrekking tot de voorkoming en beëindiging van verontreiniging van het mariene milieu veroorzaakt door het storten in zee dan die welke zijn voorzien in internationale verdragen of andere overeenkomsten met mondiale reikwijdte;
-
-Rekening houdend met de desbetreffende internationale overeenkomsten en acties, met name het [Verdrag van de Verenigde Naties inzake het recht van de zee van 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), de Verklaring van Rio inzake Milieu en Ontwikkeling en Agenda 21;
-
-Eveneens erkennende de belangen en capaciteiten van in ontwikkeling zijnde Staten en met name van kleine eilandstaten die in ontwikkeling zijn;
-
-Ervan overtuigd dat verdere internationale maatregelen ter voorkoming, vermindering en waar praktisch uitvoerbaar ter beëindiging van verontreiniging van de zee veroorzaakt door storten onverwijld kunnen en moeten worden genomen teneinde het mariene milieu te beschermen en te behouden, en de menselijke activiteiten zodanig te beheren dat het mariene ecosysteem het rechtmatig gebruik van de zee kan blijven dragen en kan blijven voorzien in de behoeften van de huidige en toekomstige generaties;
-
-Zijn het volgende overeengekomen:
-
-##### Artikel 1. Begripsomschrijvingen
-
-Voor de toepassing van dit Protocol:
-
-- 1. wordt onder „Verdrag” verstaan het [Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972](https://wetten.overheid.nl/jci1.3:c:BWBV0001013), zoals gewijzigd;
-
-- 2. wordt onder „Organisatie” verstaan de Internationale Maritieme Organisatie;
-
-- 3. wordt onder „Secretaris-Generaal” verstaan de Secretaris-Generaal van de Organisatie;
+- 3. ‘‘Secretary-General’’ means the Secretary-General of the Organization.
 
 - 4.
 
-- .1. wordt onder „storten” verstaan:
+   - .1 ‘‘Dumping’’ means:
 
-- .1. het zich opzettelijk ontdoen in zee van afval of andere stoffen vanaf schepen, vanuit luchtvaartuigen, vanaf platforms of andere kunstmatige bouwwerken in zee;
+      - .1 any deliberate disposal into the sea of wastes or other matter from vessels, aircraft, platforms or other man-made structures at sea;
 
-- .2. het zich opzettelijk ontdoen in zee van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee;
+      - .2 any deliberate disposal into the sea of vessels, aircraft, platforms or other man-made structures at sea;
 
-- .3. het opslaan van afval of andere stoffen in de zeebodem en de ondergrond daarvan afkomstig van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee; en
+      - .3 any storage of wastes or other matter in the seabed and the subsoil thereof from vessels, aircraft, platforms or other man-made structures at sea; and
 
-- .4. het achterlaten of ter plaatse kantelen van platforms of andere kunstmatige bouwwerken in zee, met als enig doel het zich opzettelijk ontdoen hiervan;
+      - .4 any abandonment or toppling at site of platforms or other man-made structures at sea, for the sole purpose of deliberate disposal.
 
-- .2. wordt onder „storten” niet verstaan:
+   - .2 ‘‘Dumping’’ does not include:
 
-- .1. het zich op zee ontdoen van afval of andere stoffen verbonden met of afkomstig uit de normale exploitatie van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee en van hun uitrusting, waaronder niet begrepen zijn afval of andere stoffen die worden vervoerd door of overgeladen op schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee, gebruikt om zich van deze stoffen te ontdoen, of stoffen die afkomstig zijn van de verwerking van dergelijk afval of andere stoffen aan boord van deze schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken;
+      - .1 the disposal into the sea of wastes or other matter incidental to, or derived from the normal operations of vessels, aircraft, platforms or other man-made structures at sea and their equipment, other than wastes or other matter transported by or to vessels, aircraft, platforms or other man-made structures at sea, operating for the purpose of disposal of such matter or derived from the treatment of such wastes or other matter on such vessels, aircraft, platforms or other manmade structures;
 
-- .2. het plaatsen van stoffen met een ander oogmerk dan er zich enkel en alleen van te ontdoen, mits zulks niet strijdig is met het doel van dit Protocol; en
+      - .2 placement of matter for a purpose other than the mere disposal thereof, provided that such placement is not contrary to the aims of this Protocol; and
 
-- .3. onverminderd het bepaalde in het vierde lid, sub 1, onder 4, het achterlaten in zee van stoffen (bijvoorbeeld kabels, pijpleidingen en voorzieningen voor zee-onderzoek) geplaatst met een ander oogmerk dan zich hiervan enkel en alleen te ontdoen;
+      - .3 notwithstanding paragraph 4.1.4, abandonment in the sea of matter (e.g., cables, pipelines and marine research devices) placed for a purpose other than the mere disposal thereof.
 
-- .3. het zich ontdoen of het opslaan van afval of andere stoffen, onmiddellijk of middellijk afkomstig van de exploratie, de ontginning en de verwerking op zee van mineralen die zich in de zeebodem bevinden, valt niet onder de bepalingen van dit Protocol;
+   - .3 The disposal or storage of wastes or other matter directly arising from, or related to exploration, exploitation and associated off-shore processing of seabed mineral resources is not covered by the provisions of this Protocol.
 
 - 5.
 
-- .1. wordt onder „verbranding op zee” verstaan de verbranding aan boord van een schip, platform of ander kunstmatig bouwwerk in zee van afval of andere stoffen met het oogmerk zich hiervan opzettelijk te ontdoen door middel van thermische vernietiging;
+   - .1 ‘‘Incineration at sea’’ means the combustion on board a vessel, platform or other man-made structure at sea of wastes or other matter for the purpose of their deliberate disposal by thermal destruction.
 
-- .2. wordt onder „verbranding op zee” niet verstaan de verbranding van afval of andere stoffen aan boord van een schip, platform, of ander kunstmatig bouwwerk in zee, indien dit afval of deze andere stoffen voortkomen uit de normale exploitatie van dat schip, platform of kunstmatig bouwwerk in zee;
+   - .2 ‘‘Incineration at sea’’ does not include the incineration of wastes or other matter on board a vessel, platform, or other man-made structure at sea if such wastes or other matter were generated during the normal operation of that vessel, platform or other man-made structure at sea.
 
-- 6. wordt onder „schepen en luchtvaartuigen” verstaan (lucht)vaartuigen, die zich op het water, in het water of door de lucht voortbewegen, ongeacht van welk type zij zijn. Hieronder worden mede verstaan luchtkussenvaartuigen en drijvende toestellen, al dan niet met eigen voortstuwingsmiddelen;
+- 6. ‘‘Vessels and aircraft’’ means waterborne or airborne craft of any type whatsoever. This expression includes air-cushioned craft and floating craft, whether self-propelled or not.
 
-- 7. wordt onder „zee” verstaan alle mariene wateren met uitzondering van de binnenwateren van de Staten, alsmede de zeebodem en de ondergrond daarvan; de onder de zeebodem gelegen gewelven die uitsluitend vanaf het land bereikbaar zijn vallen niet onder deze begripsomschrijving;
+- 7. ‘‘Sea’’ means all marine waters other than the internal waters of States, as well as the seabed and the subsoil thereof; it does not include sub-seabed repositories accessed only from land.
 
-- 8. wordt onder „afval of andere stoffen” verstaan materialen en substanties, ongeacht hun aard, vorm of omschrijving;
+- 8. ‘‘Wastes or other matter’’ means material and substances of any kind, form or description.
 
-- 9. wordt onder „vergunning” verstaan de toestemming die van tevoren wordt verleend overeenkomstig de desbetreffende maatregelen aangenomen ingevolge [artikel 4, eerste lid, onder 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), of [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15);
+- 9. ‘‘Permit’’ means permission granted in advance and in accordance with relevant measures adopted pursuant to [article 4.1.2](https://wetten.overheid.nl/BWBV0003139) or [8.2](https://wetten.overheid.nl/BWBV0003139).
 
-- 10. wordt onder „verontreiniging” verstaan het direct of indirect door menselijke activiteit in zee brengen van afval of andere stoffen hetgeen leidt of kan leiden tot nadelige gevolgen zoals schade aan de levende rijkdommen en de mariene ecosystemen, gevaar voor de gezondheid van de mens, belemmering van de activiteiten op zee, met inbegrip van de visvangst en ander rechtmatig gebruik van de zee, aantasting van de kwaliteit van het zeewater in verband met het gebruik ervan en vermindering van de recreatieve waarde.
+- 10. ‘‘Pollution’’ means the introduction, directly or indirectly, by human activity, of wastes or orther matter into the sea which results or is likely to result in such deleterious effects as harm to living resources and marine ecosystems, hazards to human health, hindrance to marine activities, including fishing and other legitimate uses of the sea, impairment of quality for use of sea water and reduction of amenities.
 
-##### Artikel 2. Doelstellingen
+##### Article 2. Objectives
 
-De verdragsluitende partijen beschermen en behouden, zowel afzonderlijk als collectief, het mariene milieu tegen alle bronnen van verontreiniging en nemen doeltreffende maatregelen, naar gelang van hun wetenschappelijke, technische en economische capaciteiten, om de verontreiniging veroorzaakt door het storten in zee of verbranden op zee van afval of andere stoffen te voorkomen, te verminderen en waar praktisch uitvoerbaar te beëindigen. Indien nodig stemmen zij hun beleid ter zake op elkaar af.
+Contracting Parties shall individually and collectively protect and preserve the marine environment from all sources of pollution and take effective measures, according to their scientific, technical and economic capabilities, to prevent, reduce and where practicable eliminate pollution caused by dumping or incineration at sea of wastes or other matter. Where appropriate, they shall harmonize their policies in this regard.
 
-##### Artikel 3. Algemene verplichtingen
+##### Article 3. General obligations
 
-1. Bij het ten uitvoer brengen van dit Protocol passen de verdragsluitende partijen een voorzorgsbenadering toe met betrekking tot de bescherming van het milieu tegen het storten van afval of andere stoffen, waarbij gepaste preventieve maatregelen worden genomen, wanneer er redenen zijn om aan te nemen dat afval of andere stoffen die in het mariene milieu worden gebracht mogelijk schade kunnen veroorzaken, zelfs wanneer er geen afdoende bewijs is dat er een oorzakelijk verband bestaat tussen het inbrengen van afval of andere stoffen en de gevolgen hiervan.
+1. In implementing this Protocol, Contracting Parties shall apply a precautionary approach to environmental protection from dumping of wastes or other matter whereby appropriate preventative measures are taken when there is reason to believe that wastes or other matter introduced into the marine environment are likely to cause harm even when there is no conclusive evidence to prove a causal relation between inputs and their effects.
 
-2. Rekening houdend met de benadering dat de vervuiler in beginsel de kosten van de verontreiniging dient te dragen, zet elke verdragsluitende partij zich in om praktijken te bevorderen waarbij degene die toestemming heeft gegeven over te gaan tot het storten in of verbranden op zee de kosten draagt die gemoeid zijn met het voldoen aan de vereisten voor de voorkoming en beheersing van verontreiniging die gelden voor de toegestane activiteiten, naar behoren rekening houdend met het openbaar belang.
+2. Taking into account the approach that the polluter should, in principle, bear the cost of pollution, each Contracting Party shall endeavour to promote practices whereby those it has authorized to engage in dumping or incineration at sea bear the cost of meeting the pollution prevention and control requirements for the authorized activities, having due regard to the public interest.
 
-3. Bij de uitvoering van de bepalingen van dit Protocol handelen de verdragsluitende partijen zodanig dat zij niet de schade of mogelijke schade, rechtstreeks of niet-rechtstreeks, van een deel van het milieu naar een ander deel verplaatsen of een vorm van verontreiniging vervangen door een andere vorm.
+3. In implementing the provisions of this Protocol, Contracting Parties shall act so as not to transfer, directly or indirectly, damage or likelihood of damage from one part of the environment to another or transform one type of pollution into another.
 
-4. Geen enkele bepaling van dit Protocol mag zodanig worden geïnterpreteerd dat de verdragsluitende partijen worden belet, afzonderlijk of gezamenlijk, strengere maatregelen in overeenstemming met het internationale recht te nemen met betrekking tot de voorkoming, vermindering en waar praktisch uitvoerbaar de beëindiging van verontreiniging.
+4. No provision of this Protocol shall be interpreted as preventing Contracting Parties from taking, individually or jointly, more stringent measures in accordance with international law with respect to the prevention, reduction and where practicable elimination of pollution.
 
-##### Artikel 4. Het storten van afval of andere stoffen
+##### Article 4. Dumping of wastes or other matter
 
-- .1. De verdragsluitende partijen verbieden het storten van afval of andere stoffen, met uitzondering van die welke worden genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15).
+1. - .1 Contracting Parties shall prohibit the dumping of any wastes or other matter with the exception of those listed in [Annex 1](https://wetten.overheid.nl/BWBV0003139).
 
-- .2. Voor het storten van afval of andere stoffen genoemd in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15) is een vergunning vereist. De verdragsluitende partijen nemen administratieve of wettelijke maatregelen aan om ervoor zorg te dragen dat de verlening van vergunningen en de bijbehorende vergunningsvoorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2023-01-15&g=2023-01-15). Bijzondere aandacht dient te worden besteed aan de mogelijkheden storten te voorkomen en in plaats daarvan alternatieven te benutten die uit milieu-oogpunt de voorkeur genieten.
+- .2 The dumping of wastes or other matter listed in [Annex 1](https://wetten.overheid.nl/BWBV0003139) shall require a permit. Contracting Parties shall adopt administrative or legislative measures to ensure that issuance of permits and permit conditions comply with provisions of [Annex 2](https://wetten.overheid.nl/BWBV0003139). Particular attention shall be paid to opportunities to avoid dumping in favour of environmentally preferable alternatives.
 
-2. Geen enkele bepaling van dit Protocol mag worden geïnterpreteerd als beletsel voor een verdragsluitende partij om, wat haar betreft, het storten van afval of andere stoffen die in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=1&z=2023-01-15&g=2023-01-15) zijn genoemd te verbieden. De desbetreffende verdragsluitende partij stelt de Organisatie in kennis van dergelijke verbodsmaatregelen.
+2. No provision of this Protocol shall be interpreted as preventing a Contracting Party from prohibiting, insofar as that Contracting Party is concerned, the dumping of wastes or other matter mentioned in [Annex 1](https://wetten.overheid.nl/BWBV0003139). That Contracting Party shall notify the Organization of such measures.
 
-##### Artikel 5. Verbranding op zee
+##### Article 5. Incineration at sea
 
-De verdragsluitende partijen verbieden de verbranding op zee van afval of andere stoffen.
+Contracting Parties shall prohibit incineration at sea of wastes or other matter.
 
-##### Artikel 6. Uitvoer van afval of andere stoffen
+##### Article 6. Export of wastes or other matter
 
-1. De verdragsluitende partijen staan de uitvoer van afval of andere stoffen naar andere landen voor het storten in of verbranden op zee niet toe.
+1. Contracting Parties shall not allow the export of wastes or other matter to other countries for dumping or incineration at sea.
 
-2. Niettegenstaande het eerste lid kan de uitvoer van kooldioxidestromen met als doel zich hiervan te ontdoen in overeenstemming met bijlage 1 plaatsvinden, op voorwaarde dat er een overeenkomst of regeling tussen de betrokken landen is. Een dergelijke overeenkomst of regeling omvat:
+2. Notwithstanding paragraph 1, the export of carbon dioxide streams for disposal in accordance with annex 1 may occur, provided that an agreement or arrangement has been entered into by the countries concerned. Such an agreement or arrangement shall include:
 
-- 2.1. de bevestiging en toewijzing van verantwoordelijkheden voor het verstrekken van vergunningen tussen de uitvoerende en ontvangende landen, in overeenstemming met de bepalingen van dit Protocol en andere toepasselijk internationaal recht; en
+- 2.1 confirmation and allocation of permitting responsibilities between the exporting and receiving countries, consistent with the provisions of this Protocol and other applicable international law; and
 
-- 2.2. in het geval van uitvoer naar niet-verdragsluitende partijen, bepalingen die minimaal gelijk zijn aan die in dit Protocol, met inbegrip van bepalingen inzake de afgifte van vergunningen en vergunningsvoorwaarden voor het voldoen aan de bepalingen van bijlage 2, teneinde te waarborgen dat de overeenkomst of regeling niet afwijkt van de verplichtingen van de verdragsluitende partijen uit hoofde van dit Protocol om het mariene milieu te beschermen en te behouden.
+- 2.2 in the case of export to non-Contracting Parties, provisions at a minimum equivalent to those contained in this Protocol, including those relating to the issuance of permits and permit conditions for complying with the provisions of annex 2, to ensure that the agreement or arrangement does not derogate from the obligations of Contracting Parties under this Protocol to protect and preserve the marine environment.
 
-Een verdragsluitende partij die een dergelijke overeenkomst sluit of regeling aangaat brengt deze ter kennis van de Organisatie.
+A Contracting Party entering into such an agreement or arrangement shall notify it to the Organization.
 
-##### Artikel 7. Binnenwateren
+##### Article 7. Internal waters
 
-1. Onverminderd alle overige bepalingen van dit Protocol heeft dit Protocol alleen betrekking op de binnenwateren voor zover wordt bepaald in de leden 2 en 3.
+1. Notwithstanding any other provision of this Protocol, this Protocol shall relate to internal waters only to the extent provided for in paragraphs 2 and 3.
 
-2. Elke verdragsluitende partij kiest naar eigen oordeel hetzij voor toepassing van de bepalingen van dit Protocol, hetzij voor aanneming van andere doeltreffende maatregelen met betrekking tot vergunningen en regulering om controle uit te oefenen op de activiteit van het zich opzettelijk ontdoen van afval of andere stoffen in mariene binnenwateren ingeval een dergelijke activiteit in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2023-01-15&g=2023-01-15), indien deze op zee zou geschieden, „storten” of „verbranding op zee” zou inhouden.
+2. Each Contracting Party shall at its discretion either apply the provisions of this Protocol or adopt other effective permitting and regulatory measures to control the deliberate disposal of wastes or other matter in marine internal waters where such disposal would be ‘‘dumping’’ or ‘‘incineration at sea’’ within the meaning of [article 1](https://wetten.overheid.nl/BWBV0003139), if conducted at sea.
 
-3. Elke verdragsluitende partij dient de Organisatie inlichtingen te verschaffen betreffende de wetgeving en de institutionele mechanismen met betrekking tot de uitvoering, de naleving en de handhaving van de bepalingen in mariene binnenwateren. De verdragsluitende partijen dienen zich tevens tot het uiterste in te spannen om op vrijwillige basis overzichten te leveren inzake het type en de aard van de in de mariene binnenwateren gestorte materialen.
+3. Each Contracting Party should provide the Organization with information on legislation and institutional mechanisms regarding implementation, compliance and enforcement in marine internal waters. Contracting Parties should also use their best efforts to provide on a voluntary basis summary reports on the type and nature of the materials dumped in marine internal waters.
 
-##### Artikel 8. Uitzonderingen
+##### Article 8. Exceptions
 
-1. Het bepaalde in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2023-01-15&g=2023-01-15), is niet van toepassing wanneer het noodzakelijk is voor de veiligheid van mensenlevens of voor de veiligheid van schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee in geval van overmacht ten gevolge van noodweer of in alle andere gevallen waarin mensenlevens in gevaar zijn of een ernstige bedreiging bestaat voor schepen, luchtvaartuigen, platforms of andere kunstmatige bouwwerken in zee, mits het ernaar uitziet dat het storten in of verbranden op zee de enige oplossing is om de dreiging af te wenden en hierdoor naar alle waarschijnlijkheid de minste schade wordt veroorzaakt. Het storten of verbranden moet dan zodanig geschieden dat de gevaren voor het menselijk leven en voor de in zee voorkomende flora en fauna tot een minimum beperkt blijven. De Organisatie dient onverwijld van het storten of verbranden in kennis te worden gesteld.
+1. The provisions of [articles 4.1](https://wetten.overheid.nl/BWBV0003139) and [5](https://wetten.overheid.nl/BWBV0003139) shall not apply when it is necessary to secure the safety of human life or of vessels, aircraft, platforms or other man-made structures at sea in cases of force majeure caused by stress of weather, or in any case which constitutes a danger to human life or a real threat to vessels, aircraft, platforms or other man-made structures at sea, if dumping or incineration at sea appears to be the only way of averting the threat and if there is every probability that the damage consequent upon such dumping or incineration at sea will be less than would otherwise occur. Such dumping or incineration at sea shall be conducted so as to minimize the likelihood of damage to human or marine life and shall be reported forthwith to the Organization.
 
-2. Een verdragsluitende partij mag, in afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=5&z=2023-01-15&g=2023-01-15), een vergunning verlenen in noodgevallen die voor de menselijke gezondheid, veiligheid of voor het mariene milieu onaanvaardbare risico’s met zich brengen en waarvoor geen andere geschikte oplossing mogelijk is. Alvorens hiertoe over te gaan, raadpleegt de verdragsluitende partij ieder ander land of alle andere landen die erbij betrokken zouden kunnen zijn, alsmede de Organisatie die, na de andere verdragsluitende partijen en de daarvoor in aanmerking komende bevoegde internationale organisaties te hebben geraadpleegd, overeenkomstig [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2023-01-15&g=2023-01-15), de verdragsluitende partij zo spoedig mogelijk aanbevelingen doen omtrent de te volgen werkwijzen die het meest geschikt zijn. De verdragsluitende partij volgt deze aanbevelingen zoveel mogelijk op, binnen de tijd waarin de nodige maatregelen moeten worden genomen, en rekening houdend met de algemene verplichting het veroorzaken van schade aan het mariene milieu te vermijden; zij stelt de Organisatie in kennis van de door haar genomen maatregelen. De verdragsluitende partijen verbinden zich ertoe elkaar in dergelijke situaties onderling bijstand te verlenen.
+2. A Contracting Party may issue a permit as an exception to [articles 4.1](https://wetten.overheid.nl/BWBV0003139) and [5](https://wetten.overheid.nl/BWBV0003139), in emergencies posing an unacceptable threat to human health, safety, or the marine environment and admitting of no other feasible solution. Before doing so the Contracting Party shall consult any other country or countries that are likely to be affected and the Organization which, after consulting other Contracting Parties, and competent international organizations as appropriate, shall, in accordance with [article 18.6](https://wetten.overheid.nl/BWBV0003139) promptly recommend to the Contracting Party the most appropriate procedures to adopt. The Contracting Party shall follow these recommendations to the maximum extent feasible consistent with the time within which action must be taken and with the general obligation to avoid damage to the marine environment and shall inform the Organization of the action it takes. The Contracting Parties pledge themselves to assist one another in such situations.
 
-3. Iedere verdragsluitende partij kan bij de bekrachtiging van of de toetreding tot dit Protocol, of daarna, van haar in het tweede lid bedoelde rechten afzien.
+3. Any Contracting Party may waive its rights under paragraph 2 at the time of, or subsequent to ratification of, or accession to this Protocol.
 
-##### Artikel 9. Verlening van vergunningen en verslaglegging
+##### Article 9. Issuance of permits and reporting
 
-1. Iedere verdragsluitende partij wijst één of meer autoriteiten aan die bevoegd zijn tot:
+1. Each Contracting Party shall designate an appropriate authority or authorities to:
 
-- .1. het verlenen van vergunningen in overeenstemming met dit Protocol;
+- .1 issue permits in accordance with this Protocol;
 
-- .2. het bijhouden van lijsten, waarop de aard en de hoeveelheden van alle afval of andere stoffen waarvoor stortingsvergunningen zijn verleend, en voor zover praktisch uitvoerbaar de daadwerkelijk gestorte hoeveelheden, alsmede de plaats, de datum en de wijze van storten worden vermeld; en
+- .2 keep records of the nature and quantities of all wastes or other matter for which dumping permits have been issued and where practicable the quantities actually dumped and the location, time and method of dumping; and
 
-- .3. het afzonderlijk of in samenwerking met andere verdragsluitende partijen en de bevoegde internationale organisaties verrichten van controlemetingen betreffende de toestand van de zee ten behoeve van de uitvoering van dit Protocol.
+- .3 monitor individually, or in collaboration with other Contracting Parties and competent international organizations, the condition of the sea for the purposes of this Protocol.
 
-2. De bevoegde autoriteit of autoriteiten van een verdragsluitende partij verlenen vergunningen in overeenstemming met dit Protocol voor afval of andere te storten stoffen, of, zoals bepaald in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15), voor verbranding op zee:
+2. The appropriate authority or authorities of a Contracting Party shall issue permits in accordance with this Protocol in respect of wastes or other matter intended for dumping or, as provided for in [article 8.2](https://wetten.overheid.nl/BWBV0003139), incineration at sea:
 
-- .1. die geladen worden op haar grondgebied; en
+- .1 loaded in its territory; and
 
-- .2. ldie geladen worden op een schip of een luchtvaartuig dat op haar grondgebied staat ingeschreven of dat haar vlag voert, wanneer het laden plaatsvindt op het grondgebied van een Staat die geen verdragsluitende partij is.
+- .2 loaded onto a vessel or aircraft registered in its territory or flying its flag, when the loading occurs in the territory of a State not a Contracting Party to this Protocol.
 
-3. Bij het verlenen van vergunningen handelt de bevoegde autoriteit of handelen de bevoegde autoriteiten overeenkomstig de eisen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15) en overeenkomstig de aanvullende criteria, maatregelen en voorwaarden die zij ter zake dienende acht, respectievelijk achten.
+3. In issuing permits, the appropriate authority or authorities shall comply with the requirements of [article 4](https://wetten.overheid.nl/BWBV0003139), together with such additional criteria, measures and requirements as they may consider relevant.
 
-4. Iedere verdragsluitende partij brengt, rechtstreeks of door tussenkomst van een bij regionale overeenkomst ingesteld secretariaat, aan de Organisatie en zo nodig aan andere verdragsluitende partijen verslag uit van:
+4. Each Contracting Party, directly or through a secretariat established under a regional agreement, shall report to the Organization and where appropriate to other Contracting Parties:
 
-- .1. de informatie bedoeld in het eerste lid, onder 2 en 3;
+- .1 the information specified in paragraphs 1.2 and 1.3;
 
-- .2. de genomen administratieve en wettelijke maatregelen ter uitvoering van de bepalingen van dit Protocol, met inbegrip van een overzicht van handhavingsmaatregelen; en
+- .2 the administrative and legislative measures taken to implement the provisions of this Protocol, including a summary of enforcement measures; and
 
-- .3. de doeltreffendheid van de onder 2 bedoelde maatregelen en mogelijke problemen bij de toepassing daarvan.
+- .3 the effectiveness of the measures referred to in paragraph 4.2 and any problems encountered in their application.
 
-De informatie bedoeld in het eerste lid, onder 2 en 3, moet jaarlijks worden verstrekt. De informatie bedoeld in het vierde lid, onder 2 en 3, moet op een regelmatige basis worden verstrekt.
+The information referred to in paragraphs 1.2 and 1.3 shall be submitted on an annual basis. The information referred to in paragraphs 4.2 and 4.3 shall be submitted on a regular basis.
 
-5. Verslagleggingen die ingevolge het vierde lid, onder 2 en 3, worden gedaan, worden geëvalueerd door een geschikt ondersteunend orgaan zoals bepaald door de Vergadering van de verdragsluitende partijen. Dit orgaan brengt verslag uit van haar conclusies bij een Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
+5. Reports submitted under paragraphs 4.2 and 4.3 shall be evaluated by an appropriate subsidiary body as determined by the Meeting of Contracting Parties. This body will report its conclusions to an appropriate Meeting or Special Meeting of Contracting Parties.
 
-##### Artikel 10. Toepassing en handhaving
+##### Article 10. Application and enforcement
 
-1. Iedere verdragsluitende partij past de voor de uitvoering van dit Protocol vereiste maatregelen toe op alle:
+1. Each Contracting Party shall apply the measures required to implement this Protocol to all:
 
-- .1. schepen en luchtvaartuigen die op haar grondgebied staan ingeschreven of die haar vlag voeren;
+- .1 vessels and aircraft registered in its territory or flying its flag;
 
-- .2. schepen en luchtvaartuigen die op haar grondgebied afval of andere stoffen laden die in zee gestort of op zee verbrand moeten worden; en
+- .2 vessels and aircraft loading in its territory the wastes or other matter which are to be dumped or incinerated at sea; and
 
-- .3. schepen, luchtvaartuigen en platforms of andere kunstmatige bouwwerken waarvan wordt aangenomen dat zij stortingswerkzaamheden in zee of verbrandingswerkzaamheden op zee verrichten in gebieden waarin zij in overeenstemming met het internationale recht bevoegd is rechtsmacht uit te oefenen.
+- .3 vessels, aircraft and platforms or other man-made structures believed to be engaged in dumping or incineration at sea in areas within which it is entitled to exercise jurisdiction in accordance with international law.
 
-2. Iedere verdragsluitende partij neemt in overeenstemming met het internationale recht gepaste maatregelen ter voorkoming en indien nodig ter bestraffing van handelingen die in strijd zijn met de bepalingen van dit Protocol.
+2. Each Contracting Party shall take appropriate measures in accordance with international law to prevent and if necessary punish acts contrary to the provisions of this Protocol.
 
-3. De verdragsluitende partijen komen overeen samen te werken bij de opstelling van de procedures voor de doeltreffende toepassing van dit Protocol in gebieden buiten de rechtsmacht van enige Staat, met inbegrip van procedures voor het melden van schepen en luchtvaartuigen die worden waargenomen terwijl zij bezig zijn met het storten in of verbranden op zee in strijd met de bepalingen van dit Protocol.
+3. Contracting Parties agree to co-operate in the development of procedures for the effective application of this Protocol in areas beyond the jurisdiction of any State, including procedures for the reporting of vessels and aircraft observed dumping or incinerating at sea in contravention of this Protocol.
 
-4. Dit Protocol is niet van toepassing op schepen en luchtvaartuigen die ingevolge het internationale recht soevereine immuniteit genieten. Door het nemen van gepaste maatregelen ziet iedere verdragsluitende partij er evenwel op toe dat dergelijke schepen en luchtvaartuigen die zij in bezit of in gebruik heeft, handelen overeenkomstig voorwerp en doel van dit Protocol; zij doet de Organisatie dienovereenkomstig mededeling.
+4. This Protocol shall not apply to those vessels and aircraft entitled to sovereign immunity under international law. However, each Contracting Party shall ensure by the adoption of appropriate measures that such vessels and aircraft owned or operated by it act in a manner consistent with the object and purpose of this Protocol and shall inform the Organization accordingly.
 
-5. Een Staat kan, bij het tot uitdrukking brengen van het feit dat hij ermee instemt door dit Protocol te worden gebonden, of op enig tijdstip daarna, verklaren dat hij de bepalingen van dit Protocol toepast op zijn in het vierde lid bedoelde schepen en luchtvaartuigen, met dien verstande dat alleen die Staat die bepalingen kan handhaven ten aanzien van deze schepen en luchtvaartuigen.
+5. A State may, at the time it expresses its consent to be bound by this Protocol, or at any time thereafter, declare that it shall apply the provisions of this Protocol to its vessels and aircraft referred to in paragraph 4, recognising that only that State may enforce those provisions against such vessels and aircraft.
 
-##### Artikel 11. Procedures voor naleving
+##### Article 11. Compliance procedures
 
-1. Uiterlijk twee jaar na de inwerkingtreding van dit Protocol, stelt de Vergadering van de verdragsluitende partijen de procedures en mechanismen vast voor de evaluatie en bevordering van de naleving van dit Protocol. Deze procedures en mechanismen worden zodanig opgezet dat een volledige en openlijke, constructieve uitwisseling van informatie wordt bevorderd.
+1. No later than two years after the entry into force of this Protocol, the Meeting of Contracting Parties shall establish those procedures and mechanisms necessary to assess and promote compliance with this Protocol. Such procedures and mechanisms shall be developed with a view to allowing for the full and open exchange of information, in a constructive manner.
 
-2. Na volledige bestudering van de informatie die ingevolge dit Protocol aan haar wordt voorgelegd en van alle aanbevelingen die door middel van de krachtens het eerste lid ingestelde procedures en mechanismen aan haar worden gedaan, kan de Vergadering van verdragsluitende partijen aan de verdragsluitende partijen en aan niet-verdragsluitende partijen advies uitbrengen en bijstand of samenwerking aanbieden.
+2. After full consideration of any information submitted pursuant to this Protocol and any recommendations made through procedures or mechanisms established under paragraph 1, the Meeting of Contracting Parties may offer advice, assistance or co-operation to Contracting Parties and non-Contracting Parties.
 
-##### Artikel 12. Regionale samenwerking
+##### Article 12. Regional co-operation
 
-Teneinde de doelstellingen van dit Protocol te bevorderen, stellen de verdragsluitende partijen die een gemeenschappelijk belang hebben bij de bescherming van het mariene milieu in een bepaald geografisch gebied, alles in het werk om, rekening houdend met regionale bijzonderheden, de regionale samenwerking te intensiveren, met inbegrip van het sluiten van regionale overeenkomsten die verenigbaar zijn met dit Protocol, ter voorkoming, vermindering en, waar praktisch uitvoerbaar, beëindiging van verontreiniging veroorzaakt door het storten in zee of verbranden op zee van afval of andere stoffen. De verdragsluitende partijen streven naar samenwerking met de partijen bij regionale overeenkomsten ter harmonisering van de door de verdragsluitende partijen bij de verschillende verdragen te volgen procedures.
+In order to further the objectives of this Protocol, Contracting Parties with common interests to protect the marine environment in a given geographical area shall endeavour, taking into account characteristic regional features, to enhance regional co-operation including the conclusion of regional agreements consistent with this Protocol for the prevention, reduction and where practicable elimination of pollution caused by dumping or incineration at sea of wastes or other matter. Contracting Parties shall seek to co-operate with the parties to regional agreements in order to develop harmonized procedures to be followed by Contracting Parties to the different conventions concerned.
 
-##### Artikel 13. Technische samenwerking en bijstand
+##### Article 13. Technical co-operation and assistance
 
-1. Door middel van samenwerking binnen de Organisatie en in coördinatie met andere bevoegde internationale organisaties bevorderen de verdragsluitende partijen bilaterale en multilaterale bijstand ter voorkoming, vermindering en, waar praktisch uitvoerbaar, ter beëindiging van verontreiniging veroorzaakt door het storten, zoals bepaald in dit Protocol, aan die verdragsluitende partijen die daarom verzoeken voor:
+1. Contracting Parties shall, through collaboration within the Organization and in co-ordination with other competent international organizations, promote bilateral and multilateral support for the prevention, reduction and where practicable elimination of pollution caused by dumping as provided for in this Protocol to those Contracting Parties that request it for:
 
-- .1. het scholen van wetenschappelijk en technisch personeel voor onderzoek, controlemetingen en handhaving, met inbegrip van het naar behoefte leveren van de nodige uitrusting en voorzieningen, teneinde de nationale capaciteit te versterken;
+- .1 training of scientific and technical personnel for research, monitoring and enforcement, including as appropriate the supply of necessary equipment and facilities, with a view to strengthening national capabilities;
 
-- .2. advies met betrekking tot de uitvoering van dit Protocol;
+- .2 advice on implementation of this Protocol;
 
-- .3. informatie en technische samenwerking met betrekking tot minimalisering van afval en schone produktieprocessen;
+- .3 information and technical co-operation relating to waste minimization and clean production processes;
 
-- .4. informatie en technische samenwerking met betrekking tot het zich ontdoen van en verwerking van afval en andere maatregelen ter voorkoming, vermindering en, waar praktisch uitvoerbaar, de beëindiging van verontreiniging ten gevolge van storting; en
+- .4 information and technical co-operation relating to the disposal and treatment of waste and other measures to prevent, reduce and where practicable eliminate pollution caused by dumping; and
 
-- .5. toegang tot en overdracht van milieuvriendelijke technologieën en de daarbij behorende specialistische kennis, in het bijzonder voor ontwikkelingslanden en landen die overgaan op een markteconomie, onder gunstige voorwaarden, met inbegrip van milde en preferentiële voorwaarden, zoals onderling overeengekomen, rekening houdend met de noodzaak de intellectuele-eigendomsrechten te beschermen alsmede met de bijzondere behoeften van ontwikkelingslanden en van landen die overgaan op een markteconomie.
+- .5 access to and transfer of environmentally sound technologies and corresponding know-how, in particular to developing countries and countries in transition to market economies, on favourable terms, including on concessional and preferential terms, as mutually agreed, taking into account the need to protect intellectual property rights as well as the special needs of developing countries and countries in transition to market economies.
 
-2. De Organisatie verricht de volgende taken:
+2. The Organization shall perform the following functions:
 
-- .1. het verzenden van verzoeken om technische samenwerking van verdragsluitende partijen aan andere verdragsluitende partijen, rekening houdend met bepaalde factoren zoals technisch vermogen;
+- .1 forward requests from Contracting Parties for technical cooperation to other Contracting Parties, taking into account such factors as technical capabilities;
 
-- .2. het coördineren van verzoeken om bijstand met andere bevoegde internationale organisaties, indien nodig; en
+- .2 co-ordinate requests for assistance with other competent international organizations, as appropriate; and
 
-- .3. afhankelijk van de beschikbaarheid van geschikte middelen, het helpen van ontwikkelingslanden en van landen die overgaan op een markteconomie die te kennen hebben gegeven van plan te zijn verdragsluitende partijen te worden, bij het evalueren van de middelen die nodig zijn voor de volledige uitvoering hiervan.
+- .3 subject to the availability of adequate resources, assist developing countries and those in transition to market economies, which have declared their intention to become Contracting Parties to this Protocol, to examine the means necessary to achieve full implementation.
 
-##### Artikel 14. Wetenschappelijk en technisch onderzoek
+##### Article 14. Scientific and technical research
 
-1. De verdragsluitende partijen nemen de nodige maatregelen ter bevordering en vergemakkelijking van wetenschappelijk en technisch onderzoek naar de voorkoming, vermindering en, waar praktisch uitvoerbaar, de beëindiging van verontreiniging door storting en andere bronnen van mariene verontreiniging die onder dit Protocol vallen. Dit onderzoek dient met name te geschieden in de vorm van waarneming, meting, evaluatie en analyse van de verontreiniging door middel van wetenschappelijke methoden.
+1. Contracting Parties shall take appropriate measures to promote and facilitate scientific and technical research on the prevention, reduction and where practicable elimination of pollution by dumping and other sources of marine pollution relevant to this Protocol. In particular, such research should include observation, measurement, evaluation and analysis of pollution by scientific methods.
 
-2. Teneinde de doelstellingen van dit Protocol te verwezenlijken bevorderen de verdragsluitende partijen de verstrekking van relevante informatie aan andere verdragsluitende partijen die hierom verzoeken, betreffende:
+2. Contracting Parties shall, to achieve the objectives of this Protocol, promote the availability of relevant information to other Contracting Parties who request it on:
 
-- .1. wetenschappelijke en technische activiteiten en maatregelen genomen in overeenstemming met dit Protocol;
+- .1 scientific and technical activities and measures undertaken in accordance with this Protocol;
 
-- .2. mariene wetenschappelijke en technische programma’s en de doelstellingen daarvan; en
+- .2 marine scientific and technological programmes and their objectives; and
 
-- .3. de resultaten van de ingevolge [artikel 9, eerste lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15), verrichte controlemetingen en evaluaties.
+- .3 the impacts observed from the monitoring and assessment conducted pursuant to [article 9.1.3](https://wetten.overheid.nl/BWBV0003139).
 
-##### Artikel 15. Verantwoordelijkheid en aansprakelijkheid
+##### Article 15. Responsibility and liability
 
-In overeenstemming met de beginselen van het internationale recht met betrekking tot de aansprakelijkheid van Staten ter zake van schade toegebracht aan het milieu van andere Staten of aan iedere andere sector van het milieu, verbinden de verdragsluitende partijen zich tot het ontwikkelen van procedures voor het vaststellen van de aansprakelijkheid ten gevolge van het storten in of het verbranden op zee van afval of andere stoffen.
+In accordance with the principles of international law regarding State responsibility for damage to the environment of other States or to any other area of the environment, the Contracting Parties undertake to develop procedures regarding liability arising from the dumping or incineration at sea of wastes or other matter.
 
-##### Artikel 16. Beslechting van geschillen
+##### Article 16. Settlement of disputes
 
-1. Geschillen met betrekking tot de interpretatie of de toepassing van dit Protocol worden in eerste instantie beslecht door middel van onderhandelingen, bemiddeling of conciliatie, of andere vreedzame middelen die door de partijen bij het geschil worden gekozen.
+1. Any disputes regarding the interpretation or application of this Protocol shall be resolved in the first instance through negotiation, mediation or conciliation, or other peaceful means chosen by parties to the dispute.
 
-2. Indien een oplossing niet mogelijk is binnen twaalf maanden nadat een van de verdragsluitende partijen een andere verdragsluitende partij in kennis heeft gesteld van het feit dat er een geschil tussen hen bestaat, wordt het geschil, op verzoek van een partij bij het geschil, beslecht door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) bedoelde arbitrageprocedure, tenzij de partijen bij het geschil overeenkomen een van de procedures te gebruiken die worden genoemd in [artikel 287, eerste lid, van het Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287). De partijen bij het geschil kunnen hiertoe besluiten ongeacht het feit of zij al dan niet eveneens Staten zijn die partij zijn bij het [Verdrag van de Verenigde Naties inzake het recht van de zee, 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
+2. If no resolution is possible within twelve months after one Contracting Party has notified another that a dispute exists between them, the dispute shall be settled, at the request of a party to the dispute, by means of the Arbitral Procedure set forth in [Annex 3](https://wetten.overheid.nl/BWBV0003139), unless the parties to the dispute agree to use one of the procedures listed in [paragraph 1 of Article 287 of the 1982 United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287). The parties to the dispute may so agree, whether or not they are also States Parties to the [1982 United Nations Convention on the Law of the Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
 
-3. Indien overeenstemming wordt bereikt over het gebruik van een van de procedures genoemd in [artikel 287, eerste lid, van het Verdrag van de Verenigde Naties inzake het recht van de zee van 1982](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287), zijn de bepalingen genoemd in [Deel XV van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) die betrekking hebben op de gekozen procedure **mutatis mutandis** eveneens van toepassing.
+3. In the event an agreement to use one of the procedures listed in [paragraph 1 of Article 287 of the 1982 United Nations Convention on the Law of Sea](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=287) is reached, the provisions set forth in [Part XV of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) that are related to the chosen procedure would also apply, *mutatis mutandis*.
 
-4. Het in het tweede lid bedoelde tijdsbestek van twaalf maanden kan met twaalf maanden worden verlengd indien de betrokken partijen daartoe gezamenlijk overeenkomen.
+4. The twelve month period referred to in paragraph 2 may be extended for another twelve months by mutual consent of the parties concerned.
 
-5. Niettegenstaande het bepaalde in het tweede lid kan elke Staat, op het moment dat hij tot uitdrukking brengt ermee in te stemmen door dit Protocol te worden gebonden, de Secretaris-Generaal ervan in kennis stellen dat, indien hij een partij is bij een geschil betreffende de interpretatie of toepassing van [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=3&z=2023-01-15&g=2023-01-15), zijn instemming vereist is voordat het geschil beslecht kan worden door middel van de in [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) bedoelde arbitrageprocedure.
+5. Notwithstanding paragraph 2, any State may, at the time it expresses its consent to be bound by this Protocol, notify the Secretary-General that, when it is a party to a dispute about the interpretation or application of [article 3.1](https://wetten.overheid.nl/BWBV0003139) or [3.2](https://wetten.overheid.nl/BWBV0003139), its consent will be required before the dispute may be settled by means of the Arbitral Procedure set forth in [Annex 3](https://wetten.overheid.nl/BWBV0003139).
 
-##### Artikel 17. Internationale samenwerking
+##### Article 17. International co-operation
 
-De verdragsluitende partijen bevorderen de doelstellingen van dit Protocol binnen de bevoegde internationale organisaties.
+Contracting Parties shall promote the objectives of this Protocol within the competent international organizations.
 
-##### Artikel 18. Vergaderingen van de verdragsluitende partijen
+##### Article 18. Meetings of contracting parties
 
-1. Tijdens Vergaderingen of Bijzondere Vergaderingen wordt de uitvoering van dit Protocol door de verdragsluitende partijen voortdurend getoetst en de doeltreffendheid ervan geëvalueerd teneinde de middelen vast te stellen om maatregelen aan te scherpen, indien nodig, ter voorkoming, vermindering en, voor zover praktisch uitvoerbaar, beëindiging van verontreiniging veroorzaakt door het storten in of verbranding op zee van afval of andere stoffen. Hiertoe kunnen de verdragsluitende partijen tijdens hun Vergaderingen of Bijzondere Vergaderingen met name:
+1. Meetings of Contracting Parties or Special Meetings of Contracting Parties shall keep under continuing review the implementation of this Protocol and evaluate its effectiveness with a view to identifying means of strengthening action, where necessary, to prevent, reduce and where practicable eliminate pollution caused by dumping and incineration at sea of wastes or other matter. To these ends, Meetings of Contracting Parties or Special Meetings of Contracting Parties may:
 
-- .1. wijzigingen van dit Protocol bestuderen en aannemen in overeenstemming met de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2023-01-15&g=2023-01-15) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2023-01-15&g=2023-01-15);
+- .1 review and adopt amendments to this Protocol in accordance with [articles 21](https://wetten.overheid.nl/BWBV0003139) and [22](https://wetten.overheid.nl/BWBV0003139);
 
-- .2. naar behoefte ondergeschikte organen in het leven roepen belast met de bestudering van alle aangelegenheden ter bevordering van de doeltreffende uitvoering van dit Protocol;
+- .2 establish subsidiary bodies, as required, to consider any matter with a view to facilitating the effective implementation of this Protocol;
 
-- .3. deskundige instanties uitnodigen voor advisering van de verdragsluitende partijen of de Organisatie met betrekking tot aangelegenheden die betrekking hebben op dit Protocol;
+- .3 invite appropriate expert bodies to advise the Contracting Parties or the Organization on matters relevant to this Protocol;
 
-- .4. de samenwerking bevorderen met bevoegde internationale organisaties die betrokken zijn bij de voorkoming en de beheersing van verontreiniging;
+- .4 promote co-operation with competent international organizations concerned with the prevention and control of pollution;
 
-- .5. de informatie bestuderen die ingevolge [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15), wordt verstrekt;
+- .5 consider the information made available pursuant to [article 9.4](https://wetten.overheid.nl/BWBV0003139);
 
-- .6. in overleg met de bevoegde internationale organisaties de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=8&z=2023-01-15&g=2023-01-15), bedoelde procedures ontwikkelen of aannemen, met inbegrip van basiscriteria voor de vaststelling van uitzonderlijke en noodsituaties, en procedures voor consultatief advies en de veilige verwijdering van stoffen op zee in dergelijke gevallen;
+- .6 develop or adopt, in consultation with competent international organizations, procedures referred to in [article 8.2](https://wetten.overheid.nl/BWBV0003139), including basic criteria for determining exceptional and emergency situations, and procedures for consultative advice and the safe disposal of matter at sea in such circumstances;
 
-- .7. resoluties bestuderen en aannemen; en
+- .7 consider and adopt resolutions; and
 
-- .8. eventueel vereiste aanvullende maatregelen in overweging nemen.
+- .8 consider any additional action that may be required.
 
-2. De verdragsluitende partijen stellen tijdens hun eerste Vergadering de door hen nodig geachte reglement van orde op.
+2. The Contracting Parties at their first Meeting shall establish rules of procedure as necessary.
 
-##### Artikel 19. Taken van de Organisatie
+##### Article 19. Duties of the organization
 
-1. De Organisatie is verantwoordelijk voor de secretariaatswerkzaamheden met betrekking tot dit Protocol. Elke verdragsluitende partij die geen lid is van de Organisatie levert een gepaste bijdrage in de kosten die de Organisatie bij de uitvoering van deze taken maakt.
+1. The Organization shall be responsible for Secretariat duties in relation to this Protocol. Any Contracting Party to this Protocol not being a member of this Organization shall make an appropriate contribution to the expenses incurred by the Organization in performing these duties.
 
-2. Secretariaatswerkzaamheden nodig voor de administratieve uitvoering van dit Protocol zijn onder meer:
+2. Secretariat duties necessary for the administration of this Protocol include:
 
-- .1. het bijeenroepen van jaarlijkse Vergaderingen van verdragsluitende partijen, tenzij anders wordt beslist door de verdragsluitende partijen, en van Bijzondere Vergaderingen van de verdragsluitende partijen op elk tijdstip op verzoek van twee derde van de verdragsluitende partijen;
+- .1 convening Meetings of Contracting Parties once per year, unless otherwise decided by Contracting Parties, and Special Meetings of Contracting Parties at any time on the request of two-thirds of the Contracting Parties;
 
-- .2. het op verzoek verlenen van advies betreffende de uitvoering van dit Protocol en betreffende de met toepassing van dit Protocol opgestelde richtlijnen en procedures;
+- .2 providing advice on request on the implementation of this Protocol and on guidance and procedures developed thereunder;
 
-- .3. het in behandeling nemen van verzoeken en informatie van verdragsluitende partijen, het met hen en de bevoegde internationale organisaties overleg plegen, alsmede het doen van aanbevelingen aan de verdragsluitende partijen in aangelegenheden die betrekking hebben op dit Protocol, maar waar dit Protocol niet specifiek op doelt;
+- .3 considering enquiries by, and information from Contracting Parties, consulting with them and with the competent international organizations, and providing recommendations to Contracting Parties on questions related to, but not specifically covered by, this Protocol;
 
-- .4. in overleg met de verdragsluitende partijen en de bevoegde internationale organisaties, het voorbereiden van en het helpen bij de ontwikkeling en uitvoering van de in [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=18&z=2023-01-15&g=2023-01-15), bedoelde procedures;
+- .4 preparing and assisting, in consultation with Contracting Parties and the competent international organizations, in the development and implementation of procedures referred to in [article 18.6.](https://wetten.overheid.nl/BWBV0003139);
 
-- .5. het bekendmaken aan de betrokken verdragsluitende partijen van alle kennisgevingen die door de Organisatie in overeenstemming met dit Protocol worden ontvangen; en
+- .5 conveying to the Contracting Parties concerned all notifications received by the Organization in accordance with this Protocol; and
 
-- .6. het voorbereiden, elke twee jaar, van een begroting en een financieel overzicht ten behoeve van de administratieve uitvoering van dit Protocol, die aan alle verdragsluitende partijen worden toegezonden.
+- .6 preparing, every two years, a budget and financial account for the administration of this Protocol which shall be distributed to all Contracting Parties.
 
-3. In aanvulling op de in [artikel 13, tweede lid, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2023-01-15&g=2023-01-15), genoemde taken heeft de Organisatie als taak, mits hiervoor voldoende middelen beschikbaar zijn:
+3. The Organization shall, subject to the availability of adequate resources, in addition to the requirements set out in [article 13.2.3.](https://wetten.overheid.nl/BWBV0003139):
 
-- .1. mee te werken aan beoordelingen van de toestand van het mariene milieu; en
+- .1 collaborate in assessments of the state of the marine environment; and
 
-- .2. samen te werken met de bevoegde internationale organisaties die betrokken zijn bij de voorkoming en de beheersing van verontreiniging.
+- .2 co-operate with competent international organizations concerned with the prevention and control of pollution.
 
-##### Artikel 20. Bijlagen
+##### Article 20. Annexes
 
-De Bijlagen bij dit Protocol vormen een integrerend onderdeel van dit Protocol.
+Annexes to this Protocol form an integral part of this Protocol.
 
-##### Artikel 21. Wijziging van het Protocol
+##### Article 21. Amendment of the Protocol
 
-1. Elke verdragsluitende partij kan voorstellen doen voor wijziging van de artikelen van dit Protocol. De tekst van een voorgestelde wijziging wordt ten minste zes maanden voorafgaand aan de behandeling ervan tijdens een Vergadering of een Bijzondere Vergadering van de verdragsluitende partijen door de Organisatie bekendgemaakt aan de verdragsluitende partijen.
+1. Any Contracting Party may propose amendments to the articles of this Protocol. The text of a proposed amendment shall be cummunicated to Contracting Parties by the Organization at least six months prior to its consideration at a Meeting of Contracting Parties or a Special Meeting of Contracting Parties.
 
-2. Wijzigingen van de artikelen van dit Protocol worden aangenomen met een twee derde meerderheid van de verdragsluitende partijen die aanwezig zijn en hun stem uitbrengen tijdens de voor dit doel aangewezen Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
+2. Amendments to the articles of this Protocol shall be adopted by a two-thirds majority vote of the Contracting Parties which are present and voting at the Meeting of Contracting Parties or Special Meeting of Contracting Parties designated for this purpose.
 
-3. Een wijziging wordt van kracht voor de verdragsluitende partijen die haar hebben aanvaard op de zestigste dag nadat twee derde van de verdragsluitende partijen een akte van aanvaarding van de wijziging bij de Organisatie hebben nedergelegd. Daarna wordt de wijziging voor elke andere verdragsluitende partij van kracht op de zestigste dag na de datum waarop de desbetreffende verdragsluitende partij haar akte van aanvaarding van de wijziging heeft nedergelegd.
+3. An amendment shall enter into force for the Contracting Parties which have accepted it on the sixtieth day after two-thirds of the Contracting Parties shall have deposited an instrument of acceptance of the amendment with the Organization. Thereafter the amendment shall enter into force for any other Contracting Party on the sixtieth day after the date on which that Contracting Party has deposited its instrument of acceptance of the amendment.
 
-4. De Secretaris-Generaal stelt de verdragsluitende partijen op de hoogte van alle wijzigingen aangenomen tijdens Vergaderingen van de verdragsluitende partijen en van de datum waarop deze wijzigingen algemeen en ten aanzien van elke verdragsluitende partij van kracht wordt.
+4. The Secretary-General shall inform Contracting Parties of any amendments adopted at Meetings of Contracting Parties and of the date on which such amendments enter into force generally and for each Contracting Party.
 
-5. Nadat een wijziging van dit Protocol van kracht is geworden, wordt elke Staat die verdragsluitende partij bij dit Protocol wordt, een verdragsluitende partij zoals gewijzigd, tenzij twee derde van de verdragsluitende partijen die aanwezig zijn en hun stem uitbrengen tijdens de Vergadering of Bijzondere Vergadering van de verdragsluitende partijen die de wijziging aannemen anderszins overeenkomen.
+5. After entry into force of an amendment to this Protocol, any State that becomes a Contracting Party to this Protocol shall become a Contracting Party to this Protocol as amended, unless two-thirds of the Contracting Parties present and voting at the Meeting or Special Meeting of Contracting Parties adopting the amendment agree otherwise.
 
-##### Artikel 22. Wijziging van de Bijlagen
+##### Article 22. Amendment of the Annexes
 
-1. Elke verdragsluitende partij kan voorstellen doen voor wijziging van de Bijlagen bij dit Protocol. De tekst van een voorgestelde wijziging wordt ten minste zes maanden voorafgaand aan de behandeling ervan tijdens een Vergadering of een Bijzondere Vergadering van de verdragsluitende partijen door de Organisatie bekendgemaakt aan de verdragsluitende partijen.
+1. Any Contracting Party may propose amendments to the Annexes to this Protocol. The text of a proposed amendment shall be communicated to Contracting Parties by the Organization at least six months prior to its consideration at a Meeting of Contracting Parties or Special Meeting of Contracting Parties.
 
-2. Wijzigingen van de Bijlagen, behoudens van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15), dienen gebaseerd te zijn op wetenschappelijke of technische overwegingen en in de wijzigingen kan, naar gelang van hetgeen van toepassing is, rekening worden gehouden met juridische, sociale en economische factoren. Deze wijzigingen worden aangenomen met een twee derde meerderheid van de verdragsluitende partijen die aanwezig zijn en hun stem uitbrengen tijdens de voor dit doel aangewezen Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
+2. Amendments to the Annexes other than [Annex 3](https://wetten.overheid.nl/BWBV0003139) will be based on scientific or technical considerations and may take into account legal, social and economic factors as appropriate. Such amendments shall be adopted by a two-thirds majority vote of the Contracting Parties present and voting at a Meeting of Contracting Parties or Special Meeting of Contracting Parties designated for this purpose.
 
-3. De Organisatie stelt de verdragsluitende partijen onverwijld in kennis van de wijzigingen van de Bijlagen die zijn aangenomen tijdens een Vergadering of Bijzondere Vergadering van de verdragsluitende partijen.
+3. The Organization shall without delay communicate to Contracting Parties amendments to the Annexes that have been adopted at a Meeting of Contracting Parties or Special Meeting of Contracting Parties.
 
-4. Met uitzondering van het bepaalde in het zevende lid, worden wijzigingen van de Bijlagen voor iedere verdragsluitende partij onmiddellijk van kracht op het tijdstip dat zij de Organisatie van haar aanvaarding in kennis stelt of honderd dagen na de datum van hun aanneming tijdens een Vergadering van de verdragsluitende partijen, ingeval deze laatste datum later is, behalve voor die verdragsluitende partijen die voorafgaande aan het verstrijken van de termijn van honderd dagen hebben verklaard op dat ogenblik de wijziging niet te kunnen aanvaarden. Iedere verdragsluitende partij kan een eerder gedane verklaring van bezwaar te allen tijde vervangen door een verklaring van aanvaarding en de wijziging waartegen voordien bezwaar bestond, wordt dan van kracht voor die verdragsluitende partij.
+4. Except as provided in paragraph 7, amendments to the Annexes shall enter into force for each Contracting Party immediately on notification of its acceptance to the Organization or 100 days after the date of their adoption at a Meeting of Contracting Parties, if that is later, except for those Contracting Parties which before the end of the 100 days make a declaration that they are not able to accept the amendment at that time. A Contracting Party may at any time substitute an acceptance for a previous declaration of objection and the amendment previously objected to shall thereupon enter into force for that Contracting Party.
 
-5. De Secretaris-Generaal doet alle verdragsluitende partijen onverwijld kennisgeving van de nederlegging bij de Organisatie van de akten van aanvaarding of bezwaar.
+5. The Secretary-General shall without delay notify Contracting Parties of instruments of acceptance or objection deposited with the Organization.
 
-6. Een nieuwe Bijlage of een wijziging van een Bijlage die betrekking heeft op een wijziging van de artikelen van dit Protocol wordt niet van kracht voordat de wijziging van de artikelen van dit Protocol van kracht wordt.
+6. A new Annex or an amendment to an Annex which is related to an amendment to the articles of this Protocol shall not enter into force until such time as the amendment to the articles of this Protocol enters into force.
 
-7. Ten aanzien van wijzigingen van [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&z=2023-01-15&g=2023-01-15) betreffende de Arbitrageprocedure en ten aanzien van de aanneming en het van kracht worden van nieuwe Bijlagen zijn de procedures voor de wijziging van de artikelen van dit Protocol van toepassing.
+7. With regard to amendments to [Annex 3](https://wetten.overheid.nl/BWBV0003139) concerning the Arbitral Procedure and with regard to the adoption and entry into force of new Annexes the procedures on amendments to the articles of this Protocol shall apply.
 
-##### Artikel 23. Verhouding tussen het Protocol en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013)
+##### Article 23. Relationship between the Protocol and the Convention
 
-Dit Protocol vervangt het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013) tussen de verdragsluitende partijen bij dit Protocol die eveneens partij zijn bij het Verdrag.
+This Protocol will supersede the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001013) as between Contracting Parties to this Protocol which are also Parties to the Convention.
 
-##### Artikel 24. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Article 24. Signature, ratification, acceptance, approval and accession
 
-1. Dit Protocol staat van 1 april 1997 tot en met 31 maart 1998 op de zetel van de Organisatie open voor ondertekening door iedere Staat en blijft daarna openstaan voor toetreding door iedere Staat.
+1. This Protocol shall be open for signature by any State at the Headquarters of the Organization from 1 April 1997 to 31 March 1998 and shall thereafter remain open for accession by any State.
 
-2. Staten kunnen verdragsluitende partij worden bij dit Protocol door middel van:
+2. States may become Contracting Parties to this Protocol by:
 
-- .1. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+- .1 signature not subject to ratification, acceptance or approval; or
 
-- .2. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+- .2 signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-- .3. toetreding.
+- .3 accession.
 
-3. De bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door middel van nederlegging van de desbetreffende akte bij de Secretaris-Generaal.
+3. Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
-##### Artikel 25. Inwerkingtreding
+##### Article 25. Entry into force
 
-1. Dit Protocol treedt in werking op de dertigste dag volgende op de datum waarop:
+1. This Protocol shall enter into force on the thirtieth day following the date on which:
 
-- .1. ten minste zesentwintig Staten tot uitdrukking hebben gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2023-01-15&g=2023-01-15); en
+- .1 at least 26 States have expressed their consent to be bound by this Protocol in accordance with [article 24](https://wetten.overheid.nl/BWBV0003139); and
 
-- .2. ten minste vijftien van de Staten bedoeld in het eerste lid, onder 1, verdragsluitende partijen zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013).
+- .2 at least 15 Contracting Parties to the Convention are included in the number of States referred to in paragraph 1.1.
 
-2. Ten aanzien van elke Staat die tot uitdrukking heeft gebracht ermee in te stemmen door dit Protocol te worden gebonden overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=24&z=2023-01-15&g=2023-01-15), na de in het eerste lid bedoelde datum, treedt dit Protocol in werking op de dertigste dag na de datum waarop de desbetreffende Staat zijn instemming tot uitdrukking heeft gebracht door dit Protocol te worden gebonden.
+2. For each State that has expressed its consent to be bound by this Protocol in accordance with [article 24](https://wetten.overheid.nl/BWBV0003139) following the date referred to in paragraph 1, this Protocol shall enter into force on the thirthieth day after the day on which such State expressed its consent.
 
-##### Artikel 26. Overgangsperiode
+##### Article 26. Transitional period
 
-1. Iedere Staat die vóór 31 december 1996 geen verdragsluitende partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001013) was en vóór de inwerkingtreding ervan of binnen vijf jaar na de inwerkingtreding ervan tot uitdrukking brengt, ermee in te stemmen door dit Protocol te worden gebonden, kan, op het tijdstip dat hij zijn instemming tot uitdrukking brengt, de Secretaris-Generaal ervan in kennis stellen dat hij vanwege de in de kennisgeving vermelde redenen, niet in staat is specifieke bepalingen van dit Protocol anders dan die welke in het tweede lid worden bedoeld, na te leven gedurende een overgangsperiode die het in het vierde lid genoemde tijdvak niet zal overschrijden.
+1. Any State that was not a Contracting Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001013) before 31 December 1996 and that expresses its consent to be bound by this Protocol prior to its entry into force or within five years after its entry into force may, at the time it expresses its consent, notify the Secretary-General that, for reasons described in the notification, it will not be able to comply with specific provisions of this Protocol other than those provided in paragraph 2, for a transitional period that shall not exceed that described in paragraph 4.
 
-2. Geen enkele ingevolge het eerste lid gedane kennisgeving doet afbreuk aan de verplichtingen van een verdragsluitende partij bij dit Protocol ten aanzien van de verbranding op zee of het storten in zee van radioactief afval of andere radioactieve stoffen.
+2. No notification made under paragraph 1 shall affect the obligations of a Contracting Party to this Protocol with respect to incineration at sea or the dumping of radioactive wastes or other radioactive matter.
 
-3. Iedere verdragsluitende partij die de Secretaris-Generaal ingevolge het eerste lid kennisgeving heeft gedaan dat zij voor de aangegeven overgangsperiode geheel of ten dele niet in staat is de bepalingen van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=4&z=2023-01-15&g=2023-01-15) of [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=9&z=2023-01-15&g=2023-01-15) na te leven, verbiedt gedurende deze periode niettemin het storten van afval of andere stoffen waarvoor zij geen vergunning heeft afgegeven, doet haar best om administratieve of wettelijke maatregelen aan te nemen om ervoor zorg te dragen dat de verlening van vergunningen en de daarbij geldende voorwaarden in overeenstemming zijn met de bepalingen van [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=2&z=2023-01-15&g=2023-01-15), en doet de Secretaris-Generaal kennisgeving van alle verleende vergunningen.
+3. Any Contracting Party to this Protocol that has notified the Secretary-General under paragraph 1 that, for the specified transitional period, it will not be able to comply, in part or in whole, with [article 4.1](https://wetten.overheid.nl/BWBV0003139) or [article 9](https://wetten.overheid.nl/BWBV0003139) shall nonetheless during that period prohibit the dumping of wastes or other matter for which it has not issued a permit, use its best efforts to adopt administrative or legislative measures to ensure that issuance of permits and permit conditions comply with the provisions of [Annex 2](https://wetten.overheid.nl/BWBV0003139), and notify the Secretary-General of any permits issued.
 
-4. Iedere overgangsperiode aangegeven in een kennisgeving ingevolge het eerste lid, mag niet langer zijn dan een termijn van vijf jaar na indiening van deze kennisgeving.
+4. Any transitional period specified in a notification made under paragraph 1 shall not extend beyond five years after such notification is submitted.
 
-5. De verdragsluitende partijen die een kennisgeving ingevolge het eerste lid hebben gedaan, leggen aan de eerste Vergadering van de verdragsluitende partijen die plaatsvindt na de nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding een programma en tijdschema voor ter volledige naleving van dit Protocol, tezamen met eventuele verzoeken om relevante technische samenwerking en bijstand overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=13&z=2023-01-15&g=2023-01-15) van dit Protocol.
+5. Contracting Parties that have made a notification under paragraph 1 shall submit to the first Meeting of Contracting Parties occurring after deposit of their instrument of ratification, acceptance, approval or accession a programme and timetable to achieve full compliance with this Protocol, together with any requests for relevant technical co-operation and assistance in accordance with [article 13](https://wetten.overheid.nl/BWBV0003139) of this Protocol.
 
-6. De verdragsluitende partijen die een kennisgeving ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=1&z=2023-01-15&g=2023-01-15) hebben gedaan, stellen voor de overgangsperiode procedures op en mechanismen in voor de uitvoering van en controle op de voorgelegde programma’s gericht op de volledige naleving van dit Protocol. De desbetreffende verdragsluitende partijen leggen een verslag betreffende de voortgang in de naleving van deze programma’s voor aan elke Vergadering van verdragsluitende partijen die wordt gehouden gedurende de desbetreffende overgangsperiode, teneinde de nodige maatregelen te treffen.
+6. Contracting Parties that have made a notification under paragraph 1 shall establish procedures and mechanisms for the transitional period to implement and monitor submitted programmes designed to achieve full compliance with this Protocol. A report on progress toward compliance shall be submitted by such Contracting Parties to each Meeting of Contracting Parties held during their transitional period for appropriate action.
 
-##### Artikel 27. Opzegging
+##### Article 27. Withdrawal
 
-1. Iedere verdragsluitende partij kan dit Protocol opzeggen op elk tijdstip na het verstrijken van twee jaren vanaf de datum waarop dit Protocol voor die verdragsluitende partij in werking treedt.
+1. Any Contracting Party may withdraw from this Protocol at any time after the expiry of two years from the date on which this Protocol enters into force for that Contracting Party.
 
-2. Opzegging geschiedt door de nederlegging van een akte van opzegging bij de Secretaris-Generaal.
+2. Withdrawal shall be effected by the deposit of an instrument of withdrawal with the Secretary-General.
 
-3. De opzegging wordt van kracht een jaar na de ontvangst door de Secretaris-Generaal van de akte van opzegging of na het verstrijken van een in deze akte aangegeven langere periode.
+3. A withdrawal shall take effect one year after receipt by the Secretary-General of the instrument of withdrawal or such longer period as may be specified in that instrument.
 
-##### Artikel 28. Depositaris
+##### Article 28. Depositary
 
-1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal.
+1. This Protocol shall be deposited with the Secretary-General.
 
-2. Naast de in [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=10&z=2023-01-15&g=2023-01-15), [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2023-01-15&g=2023-01-15), [artikel 21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=21&z=2023-01-15&g=2023-01-15), [artikel 22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=22&z=2023-01-15&g=2023-01-15) en [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=26&z=2023-01-15&g=2023-01-15), aangegeven taken, is het de taak van de Secretaris-Generaal:
+2. In addition to the functions specified in [articles 10.5](https://wetten.overheid.nl/BWBV0003139), [16.5](https://wetten.overheid.nl/BWBV0003139), [21.4](https://wetten.overheid.nl/BWBV0003139), [22.5](https://wetten.overheid.nl/BWBV0003139) and [26.5](https://wetten.overheid.nl/BWBV0003139), the Secretary-General shall:
 
-- .1. alle Staten voor welke dit Protocol is ondertekend of die hiertoe zijn toegetreden kennisgeving te doen van:
+- .1 inform all States which have signed this Protocol or acceded thereto of:
 
-- .1. elke nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tezamen met de datum van deze ondertekening of nederlegging;
+   - .1 each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
 
-- .2. de datum van inwerkingtreding van dit Protocol; en
+   - .2 the date of entry into force of this Protocol; and
 
-- .3. de nederlegging van elke akte van opzegging uit dit Protocol tezamen met de datum waarop deze is ontvangen en de datum waarop de opzegging van kracht wordt;
+   - .3 the deposit of any instrument of withdrawal from this Protocol together with the date on which it was received and the date on which the withdrawal takes effect;
 
-- .2. voor eensluidend gewaarmerkte afschriften van dit Protocol te doen toekomen aan alle Staten voor welke dit Protocol is ondertekend of die hiertoe zijn toegetreden.
+- .2 transmit certified copies of this Protocol to all States which have signed this Protocol or acceded thereto.
 
-3. Zodra dit Protocol in werking treedt wordt een voor eensluidend gewaarmerkt afschrift hiervan door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+3. As soon as this Protocol enters into force, a certified true copy thereof shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-##### Artikel 29. Authentieke teksten
+##### Article 29. Authentic texts
 
-Dit Protocol is opgesteld in een enkel origineel in de Arabische, Chinese, Engelse, Franse, Russische en Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
-
-##### Artikel 1
-
-1. Een Scheidsgerecht (hierna te noemen „het Scheidsgerecht”) wordt ingesteld wanneer een verdragsluitende partij hiertoe een verzoek indient bij een andere verdragsluitende partij overeenkomstig [artikel 16 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&artikel=16&z=2023-01-15&g=2023-01-15). Het verzoek om arbitrage bestaat uit een uiteenzetting van het desbetreffende geval met eventuele documenten ter adstructie.
-
-2. De verzoekende verdragsluitende partij doet de Secretaris-Generaal mededeling van:
-
-- .1. haar verzoek om arbitrage;
-
-- .2. de bepalingen van dit Protocol over de uitleg of toepassing waarvan, volgens haar, onenigheid bestaat.
-
-3. De Secretaris-Generaal zendt deze mededeling naar alle verdragsluitende partijen.
-
-##### Artikel 2
-
-1. Het Scheidsgerecht bestaat uit een enkele scheidsman indien hierover tussen de partijen bij het geschil overeenstemming is bereikt binnen 30 dagen na ontvangst van het verzoek om arbitrage.
-
-2. Bij overlijden, arbeidsongeschiktheid of verzuim van de scheidsman kunnen de partijen bij het geschil binnen 30 dagen daarna besluiten tot vervanging.
-
-##### Artikel 3
-
-1. Indien de partijen bij een geschil geen overeenstemming bereiken ten aanzien van een Scheidsgerecht overeenkomstig het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=2&z=2023-01-15&g=2023-01-15) van deze Bijlage, zal het Scheidsgerecht bestaan uit drie leden:
-
-- .1. een scheidsman benoemd door iedere partij bij het geschil; en
-
-- .2. een derde scheidsman die zal worden benoemd bij overeenstemming tussen de eerste twee scheidsmannen en die zal optreden als voorzitter van het Scheidsgerecht.
-
-2. Indien de voorzitter van een Scheidsgerecht niet is benoemd binnen 30 dagen na de benoeming van de tweede scheidsman, leggen de partijen bij het geschil, op verzoek van een partij, aan de Secretaris-Generaal, binnen de daaropvolgende 30 dagen, een overeengekomen lijst van deskundigen voor. Uit deze lijst kiest de Secretaris-Generaal zo spoedig mogelijk de voorzitter. Hij kiest niet een voorzitter die onderdaan is of is geweest van een partij bij het geschil, tenzij met toestemming van de andere partij bij het geschil.
-
-3. Indien een partij bij een geschil niet binnen 60 dagen na de datum van ontvangst van het verzoek om arbitrage een scheidsman benoemt zoals bedoeld in het eerste lid, onder 1, van dit artikel, kan de andere partij verzoeken dat binnen 30 dagen een overeengekomen lijst van deskundigen wordt voorgelegd aan de Secretaris-Generaal. Uit deze lijst kiest de Secretaris-Generaal zo spoedig mogelijk de voorzitter van het Scheidsgerecht. De voorzitter verzoekt vervolgens de partij die geen scheidsman heeft benoemd, zulks alsnog te doen. Indien deze partij binnen 15 dagen na dit verzoek geen scheidsman heeft aangewezen, zal de Secretaris-Generaal, op verzoek van de voorzitter, de scheidsman aanwijzen uit de deskundigen van de overeengekomen lijst.
-
-4. Bij overlijden, arbeidsongeschiktheid of verzuim van een scheidsman wijst de partij bij het geschil die deze scheidsman had benoemd, binnen 30 dagen een vervanger aan. Indien de partij geen vervanger aanwijst, wordt de arbitrage voortgezet door de overblijvende scheidsmannen. Bij overlijden, arbeidsongeschiktheid of verzuim van de voorzitter wordt binnen 90 dagen een vervanger aangewezen overeenkomstig het bepaalde in het eerste lid, onder 2, en het tweede lid.
-
-5. Er wordt een lijst met scheidsmannen bijgehouden door de Secretaris-Generaal, bestaande uit door de verdragsluitende partijen aangewezen deskundigen. Iedere verdragsluitende partij kan voor opname op de lijst vier deskundigen aanwijzen die geen onderdaan van die verdragsluitende partij behoeven te zijn. Indien de partijen bij het geschil niet binnen de vastgestelde termijn aan de Secretaris-Generaal een in het tweede, derde en vierde lid bedoelde overeengekomen lijst van deskundigen hebben voorgelegd, kiest de Secretaris-Generaal uit de door hem bijgehouden lijst de nog niet aangewezen scheidsman of scheidsmannen.
-
-##### Artikel 4
-
-Het Scheidsgerecht kan tegeneisen die rechtstreeks voortvloeien uit het onderwerp van het geschil, in behandeling nemen en hierover uitspraak doen.
-
-##### Artikel 5
-
-Iedere partij bij het geschil draagt de kosten die zijn verbonden aan de voorbereiding van haar eigen zaak. De bezoldiging van de leden van het Scheidsgerecht en de betaling van algemene kosten verbonden aan de arbitrage worden gelijkelijk door de partijen bij het geschil gedragen. Het Scheidsgerecht houdt een overzicht bij van al zijn uitgaven en verstrekt daarvan een eindafrekening aan de partijen.
-
-##### Artikel 6
-
-Iedere verdragsluitende partij die een belang van juridische aard heeft, welk belang zou kunnen worden getroffen door het ter zake te nemen besluit, kan nadat zij schriftelijk mededeling heeft gedaan aan de partijen bij het geschil die de zaak oorspronkelijk aanhangig hebben gemaakt, met goedvinden van het Scheidsgerecht en op haar eigen kosten tot de arbitrageprocedure worden toegelaten. De aldus tussengekomen verdragsluitende partij heeft het recht om, overeenkomstig de ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003139&bijlage=3&artikel=7&z=2023-01-15&g=2023-01-15) van deze Bijlage vastgestelde procedures, bewijsmateriaal te leveren en schriftelijke en mondelinge uiteenzettingen te geven over zaken welke tot haar tussenkomst hebben geleid, doch heeft geen rechten met betrekking tot de samenstelling van het Scheidsgerecht.
-
-##### Artikel 7
-
-Een Scheidsgerecht dat is ingesteld krachtens het bepaalde in deze Bijlage stelt zijn eigen procedureregels vast.
-
-##### Artikel 8
-
-1. Tenzij een Scheidsgerecht bestaat uit een enkele scheidsman, worden de besluiten van het Scheidsgerecht betreffende de te volgen procedure, plaats van samenkomst en iedere aangelegenheid betreffende het hem voorgelegde geschil, genomen met een meerderheid van stemmen van zijn leden. Afwezigheid van of onthouding door een lid van het Scheidsgerecht dat door een partij bij het geschil is aangewezen, betekent echter voor het Scheidsgerecht geen belemmering om te komen tot een besluit. Bij het staken der stemmen is de stem van de voorzitter doorslaggevend.
-
-2. De partijen bij het geschil bevorderen de werkzaamheden van het Scheidsgerecht en zullen in het bijzonder, overeenkomstig hun wetgeving en met gebruikmaking van alle tot hun beschikking staande middelen:
-
-- .1. het Scheidsgerecht alle nodige documenten en inlichtingen verschaffen; en
-
-- .2. het Scheidsgerecht in staat stellen hun grondgebied te betreden, getuigen of deskundigen te horen en ter plaatse een onderzoek in te stellen.
-
-3. Indien een partij bij het geschil niet voldoet aan het bepaalde in het tweede lid, betekent dit voor het Scheidsgerecht geen belemmering om tot een beslissing te komen en uitspraak te doen.
-
-##### Artikel 9
-
-Het Scheidsgerecht doet zijn uitspraak binnen vijf maanden na de datum waarop het is ingesteld, tenzij het Scheidsgerecht het noodzakelijk acht deze periode met ten hoogste vijf maanden te verlengen. De uitspraak van het Scheidsgerecht gaat vergezeld van een met redenen omklede uiteenzetting. De uitspraak is definitief en onherroepelijk en wordt medegedeeld aan de Secretaris-Generaal die de verdragsluitende partijen hiervan in kennis stelt. De partijen bij het geschil geven onmiddellijk uitvoering aan de uitspraak.
+This Protocol is established in a single orginal in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed this Protocol.
 

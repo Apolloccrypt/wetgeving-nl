@@ -1,318 +1,281 @@
 ---
 title: "Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie"
 identifier: "BWBV0003423"
-country: "nl"
-rank: "verdrag"
-publication_date: "1974-07-04"
-last_updated: "1974-07-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003423"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003526513"
-version_id: "10003575862"
-internal_id: "C10006982411"
-label_id: "10003512284"
-dtd_version: "2.0"
-original_entry_into_force: "1974-07-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003423/1974-07-04/0"
-intitule_bron: "Trb.1973-162"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-11-14"
-intitule_in_force: "1974-08-16"
-intitule_status: "goed"
-original_publication: "Trb.1973-162"
-original_published_date: "1973-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-162"
-entry_into_force_date: "1974-07-04"
-jci_1_3: "jci1.3:c:BWBV0003423&z=1974-07-04&g=1974-07-04"
-jci_1_0: "1.0:c:BWBV0003423&g=1974-07-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-07-04"
+publicatiedatum: 1974-07-04
+laatste_update: 1974-07-04
+status: geldig
+toestand: 1974-07-04
+bron: "https://wetten.overheid.nl/BWBV0003423"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie
 
-Het Koninkrijk Denemarken
+*The Republic of Austria The Kingdom of Denmark The French Republic The Federal Republic of Germany The State of Israel The Italian Republic The Kingdom of the Netherlands The Kingdom of Sweden The Swiss Confederation The United Kingdom of Great Britain and Northern Ireland, being Parties to the Agreement establishing the European Molecular Biology Conference (hereinafter referred to as “EMBC”), signed at Geneva on 13 February 1969; Considering that the existing international co-operation in the domain of molecular biology should be further developed by establishing a European Molecular Biology Laboratory and taking note of the proposals to this end submitted by the European Molecular Biology Organisation (hereinafter referred to as “EMBO”); Having regard to the decision of 28 June 1972 by which EMBC approved the project for such a Laboratory in accordance with paragraph 3 of Article II of the said Agreement under which Special Projects may be established; Desiring to specify the terms and conditions under which the Laboratory shall be established and operated, in such a way that they would not be affected by any modification of the Agreement establishing EMBC; Taking note of the acceptance by EMBC of those provisions of this Agreement which concern it; Have agreed as follows:*
 
-De Bondsrepubliek Duitsland
+##### Article I. Establishment of the Laboratory
 
-De Franse Republiek
+1. A European Molecular Biology Laboratory (hereinafter referred to as “the Laboratory”) is hereby established as an intergovernmental institution.
 
-De Staat Israël
+2. The Headquarters of the Laboratory shall be situated at Heidelberg in the Federal Republic of Germany.
 
-De Italiaanse Republiek
+##### Article II. Purposes and means
 
-Het Koninkrijk der Nederlanden
+1. The Laboratory shall promote co-operation among European States in fundamental research, in the development of advanced instrumentation and in advanced teaching in molecular biology as well as in other areas of research essentially related thereto, and to this end shall concentrate its activities on work not normally or easily carried out in national institutions. The results of the experimental and theoretical work of the Laboratory shall be published or otherwise made generally available.
 
-De Republiek Oostenrijk
+2. In order to fulfil its purposes the Laboratory shall carry out a programme which provides for:
 
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
+- a. the application of molecular concepts and methods for the investigation of basic biological processes;
 
-Het Koninkrijk Zweden
+- b. the development and use of necessary instrumentation and technology;
 
-De Zwitserse Bondsstaat,
+- c. working accommodation and research facilities for visiting scientists;
 
-partijen bij de [Overeenkomst tot instelling van de Europese Conferentie inzake Moleculaire Biologie](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) (hierna te noemen „ECMB”), ondertekend te Genève op 13 februari 1969;
+- d. advanced training and teaching.
 
-Overwegende dat de bestaande internationale samenwerking op het gebied van de moleculaire biologie uitgebreid dient te worden door de oprichting van een Europees Laboratorium voor Moleculaire Biologie en gelet op de hiertoe strekkende voorstellen ingediend door de Europese Organisatie inzake Moleculaire Biologie (hierna te noemen „EMBO”);
+3. The Laboratory may establish and operate the facilities necessary for its programme.
 
-Gelet op het besluit van 28 juni 1972 waarbij de ECMB haar goedkeuring heeft gehecht aan het plan voor een zodanig Laboratorium overeenkomstig het [derde lid van artikel II van genoemde Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004298&artikel=II), krachtens hetwelk Bijzondere Projecten kunnen worden uitgevoerd;
+The Laboratory shall include:
 
-Geleid door de wens de voorwaarden en bedingen waaronder het Laboratorium wordt opgericht en geëxploiteerd zodanig vast te leggen dat enige wijziging in de [Overeenkomst tot instelling van de ECMB](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) daarop niet van invloed kan zijn;
+- a. the necessary equipment for use in the programme carried out by the Laboratory;
 
-Gelet op de aanvaarding door de ECMB van de bepalingen in deze Overeenkomst voor zover deze op haar zelf betrekking hebben;
+- b. the necessary buildings to contain the equipment referred to in a above and for the administration of the Laboratory and the fulfilment of its other functions.
 
-Zijn overeengekomen als volgt:
+4. The Laboratory shall organise and sponsor international cooperation, to the fullest possible extent, in the fields and programme of activities defined in paragraphs 1 and 2 of this Article, and in harmony with the General Programme of EMBC. This co-operation shall include in particular the promotion of contacts between, and the interchange of, scientists and the dissemination of information. So far as is consistent with its aims the Laboratory shall also seek to co-operate, to the fullest possible extent, with research institutions by collaborating with and advising them. The Laboratory should avoid duplication of work carried out in the said institutions.
 
-##### Artikel I. Oprichting van het Laboratorium
+##### Article III. Membership
 
-1. Hierbij wordt een Europees Laboratorium voor Moleculaire Biologie opgericht (hierna te noemen „het Laboratorium”) als een intergouvernementele instelling.
+The States Parties to this Agreement shall be Member States of the Laboratory.
 
-2. De zetel van het Laboratorium is gevestigd te Heidelberg in de Bondsrepubliek Duitsland.
+##### Article IV. Co-operation
 
-##### Artikel II. Doeleinden en middelen
+1. The Laboratory shall maintain close co-operation with EMBC.
 
-1. Het Laboratorium bevordert de samenwerking tussen de Europese Staten in het fundamenteel wetenschappelijk onderzoek, in de ontwikkeling van een geavanceerd instrumentarium en in onderwijs op hoog niveau in de moleculaire biologie alsook op andere daarmede wezenlijk verband houdende terreinen van onderzoek en richt hiertoe zijn activiteiten op werk dat gewoonlijk niet of niet licht wordt verricht in nationale instellingen. De resultaten van het experimentele en theoretische werk van het Laboratorium worden gepubliceerd of op andere wijze algemeen toegankelijk gemaakt.
+2. The Laboratory may establish formal co-operation with non-Member States, national bodies in those States, international governmental or non-governmental organisations. The establishment, conditions and terms of such co-operation shall be defined by the Council, by unanimous vote of the Member States present and voting, in each case according to the circumstances.
 
-2. Ten einde deze doeleinden te verwezenlijken voert het Laboratorium een programma uit dat voorziet in:
+##### Article V. Organs
 
-- a. de toepassing van moleculaire begrippen en methoden bij het onderzoek van fundamentele biologische processen;
+The organs of the Laboratory are the Council and the Director-General.
 
-- b. de ontwikkeling en het gebruik van het noodzakelijke instrumentarium en de vereiste technologie;
+##### Article IV. The Council
 
-- c. arbeidsruimten en onderzoeksfaciliteiten voor bezoekende wetenschapsmensen;
+Composition
 
-- d. opleiding en onderwijs op hoog niveau.
+1. The Council shall be composed of all Member States of the Laboratory. Each Member State shall be represented by not more than two delegates, who may be accompanied by advisers.
 
-3. Het Laboratorium kan de voor zijn programma noodzakelijke installaties bouwen en exploiteren.
+The Council shall elect a Chairman and two Vice-Chairmen who shall hold office for one year and may be re-elected on not more than two consecutive occasions.
 
-Het Laboratorium omvat:
+Observers
 
-- a. de uitrusting die voor de uitvoering van het programma door het Laboratorium noodzakelijk is;
+2. - a. States not Parties to this Agreement may attend sessions of the Council as observers as follows:
 
-- b. de noodzakelijke gebouwen waarin de in letter a hierboven bedoelde uitrusting wordt opgesteld en de diensten voor het beheer van het Laboratorium en voor de uitoefening van zijn andere functies worden ondergebracht.
+   - i. Members of EMBC as of right;
 
-4. Het Laboratorium organiseert en bevordert de internationale samenwerking, in de ruimst mogelijke zin, op de terreinen en binnen het programma van activiteiten omschreven in het eerste en tweede lid van dit artikel, en in overeenstemming met het Algemene Programma van de ECMB. Deze samenwerking omvat met name het bevorderen van contacten tussen en de uitwisseling van wetenschapsmensen en de verspreiding van kennis. Binnen het kader van zijn doelstellingen streeft het Laboratorium ook naar samenwerking, in de ruimst mogelijke zin, met instellingen voor onderzoek en wel door medewerking en verstrekking van adviezen. Het Laboratorium dient duplicering te vermijden van werk dat reeds in de genoemde instellingen wordt verricht.
+   - ii. States which are not Members of EMBC, on a decision of the Council taken by unanimous vote of the Member States present and voting.
 
-##### Artikel III. Lidmaatschap
+- b. EMBO and other observers may attend sessions of the Council in accordance with the Rules of Procedure adopted by the Council under paragraph 3, j of this Article.
 
-De Staten die Partij zijn bij deze Overeenkomst zijn de Lid-Staten van het Laboratorium.
+Powers
 
-##### Artikel IV. Samenwerking
+3. The Council shall:
 
-1. Het Laboratorium onderhoudt een nauwe samenwerking met de ECMB.
+- a. determine the Laboratory's policy in scientific, technical and administrative matters, in particular by giving guidelines to the Director-General;
 
-2. Het Laboratorium kan samenwerking overeenkomen met niet-Lid-Staten, nationale lichamen in deze Staten, internationale gouvernementele of niet-gouvernementele organisaties. De totstandkoming, voorwaarden en bedingen van een zodanige samenwerking worden door de Raad, met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen, vastgesteld, telkens naar gelang van de omstandigheden.
+- b. approve an indicative scheme for the realisation of the programme referred to in paragraph 2 of Article II of this Agreement and specify its duration. In approving this scheme, the Council shall determine, by unanimous vote of the Member States present and voting, a minimum period of participation in the said programme and maximum credits that may be committed or spent during that period. This period and this amount may not be varied thereafter, unless the Council by unanimous vote of the Member States present and voting so decides. After the expiry of the said period the Council shall determine in the same manner the maximum credits for a new period to be defined by the Council;
 
-##### Artikel V. Organen
+- c. adopt the annual budget by a two-thirds majority of the Member States present and voting provided that, either the contributions of such Member States constitute not less than two-thirds of the total contributions to the Laboratory budget, or that affirmative votes are cast by all but one of the Member States present and voting;
 
-De organen van het Laboratorium zijn de Raad en de Directeur-Generaal.
+- d. approve the provisional estimate of expenditure for the two following years by a two-thirds majority of the Member States present and voting;
 
-##### Artikel VI. De Raad
+- e. adopt Financial Regulations for the Laboratory by a two-thirds majority of the Member States present and voting;
 
-1. De Raad bestaat uit alle Lid-Staten van het Laboratorium. Elke Lid-Staat wordt vertegenwoordigd door ten hoogste twee afgevaardigden, die door raadgevers kunnen worden vergezeld.
+- f. approve and publish audited annual accounts;
 
-De Raad kiest een Voorzitter en twee Vice-Voorzitters die deze functie een jaar bekleden en niet meer dan twee achtereenvolgende malen mogen worden herkozen.
+- g. approve the annual report presented by the Director-General;
 
-- a. Staten die geen Partij zijn bij deze Overeenkomst mogen de zittingen van de Raad als waarnemer bijwonen op de volgende voorwaarden:
+- h. decide on the staff establishment required;
 
-- i. de leden van de ECMB van rechtswege;
+- i. adopt, by a two-thirds majority of all the Member States, Staff Rules;
 
-- ii. de Staten die geen lid zijn van de ECBM, op grond van een besluit van de Raad genomen met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen,
+- j. decide on the establishment of groups and facilities of the Laboratory outside its Headquarters by a two-thirds majority of the Member States present and voting;
 
-- b. De EMBO en andere waarnemers kunnen de zittingen van de Raad bijwonen overeenkomstig het Huishoudelijk Reglement dat de Raad krachtens het derde lid, letter j, van dit artikel vaststelt. **Bevoegdheden**
+- k. adopt its Rules of Procedure;
 
-3. De Raad:
+- l. have such other powers and perform such other functions as may be necessary for the purposes of the Laboratory as laid down in this Agreement.
 
-- a. bepaalt het beleid van het Laboratorium op wetenschappelijk en technisch gebied en in beheersaangelegenheden, met name door het verstrekken van richtlijnen aan de Directeur-Generaal;
+4. The Council may modify the programme referred to in paragraph 2 of Article II of this Agreement by a decision taken unanimously by the Member States present and voting.
 
-- b. hecht zijn goedkeuring aan een globaal plan voor de uitvoering van het programma bedoeld in het tweede lid van artikel II van deze Overeenkomst en stelt de duur daarvan vast. Bij het goedkeuren van dit plan bepaalt de Raad, met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen, een minimum periode voor deelneming aan het genoemd programma, alsmede tot welk maximum bedrag gedurende dat tijdsbestek betalingsverplichtingen kunnen worden aangegaan of uitgaven kunnen worden gedaan. Deze periode en dit bedrag mogen nadien niet meer worden gewijzigd, tenzij de Raad met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen, daartoe besluit. Na het verstrijken van genoemde periode stelt de Raad op dezelfde wijze het maximum bedrag der kredieten vast voor een door de Raad te bepalen nieuwe periode;
+Sessions
 
-- c. hecht met een twee-derde meerderheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen zijn goedkeuring aan de jaarlijkse begroting met dien verstande dat hetzij de bijdragen van die Lid-Staten niet minder dan twee-derde belopen van de totale bijdragen aan de begroting van het Laboratorium, hetzij de goedkeurende stemmen worden uitgebracht door alle aanwezige Lid-Staten die hun stem uitbrengen op één na;
+5. The Council shall meet at least once a year in ordinary session. It may also meet in extra-ordinary session. The sessions shall be held at the Laboratory's Headquarters, unless otherwise decided by the Council.
 
-- d. hecht met een twee-derde meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen zijn goedkeuring aan de voorlopige raming der kosten voor de volgende twee jaar;
+Voting
 
-- e. aanvaardt met een twee-derde meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen het Financiële Reglement voor het Laboratorium;
+6. - a.
 
-- f. hecht zijn goedkeuring aan de door een accountant gecontroleerde jaarrekeningen en publiceert deze;
+   - i. Each Member State shall have one vote in the Council.
 
-- g. hecht zijn goedkeuring aan het door de Directeur-Generaal overgelegde jaarverslag;
+   - ii. States which have signed but not yet ratified, accepted or approved this Agreement may be represented at the sessions of the Council and take part in its work, without the right to vote, for a period of two years after the coming into force of this Agreement in accordance with paragraph 4, a. of Article XV.
 
-- h. beslist over de vereiste personeelssterkte;
+   - iii. A Member State which is in arrears in the payment of its contributions shall have no vote at any Council session at which the Director-General states that the amount of its arrears equals or exceeds the amounts of the contributions due from it for the preceding two financial years.
 
-- i. stelt met een twee-derde meerderheid der stemmen van alle Lid-Staten het Personeelsstatuut vast;
+- b. Except where otherwise stipulated in this Agreement, decisions of the Council shall be taken by a majority of the Member States present and voting.
 
-- j. beslist met een twee-derde meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen inzake de instelling van onderzoekgroepen en de totstandkoming van faciliteiten van het Laboratorium buiten zijn zetel;
+- c. The presence of delegates of a majority of all Member States shall be necessary to constitute a quorum at any session of the Council.
 
-- k. stelt zijn Huishoudelijk Reglement vast;
+Subordinate Bodies
 
-- l. heeft alle overige bevoegdheden en vericht alle overige taken die noodzakelijk zijn voor de verwezenlijking van de doeleinden van het Laboratorium als vervat in deze Overeenkomst.
+7. - a. The Council shall establish, by a decision taken by a two-thirds majority of all the Member States, a Scientific Advisory Committee, a Finance Committee and such other subordinate bodies as may prove necessary.
 
-4. De Raad kan het programma bedoeld in het tweede lid van artikel II van deze Overeenkomst wijzigen bij een met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen genomen besluit.
+- b. The decision establishing the Scientific Advisory Committee shall include provisions concerning the membership, its rotation and terms of reference of that Committee in accordance with Article VIII of this Agreement and shall determine the conditions of office of its members.
 
-5. De Raad komt ten minste eenmaal per jaar in gewone zitting bijeen. Hij kan tevens in buitengewone zitting bijeenkomen. De zittingen worden gehouden in het Hoofdkwartier van het Laboratorium, tenzij de Raad anders beslist.
+- c. The decision establishing the Finance Committee and other subordinate bodies shall include provisions concerning the membership and terms of reference of such bodies.
 
-- a.
+- d. Subordinate bodies shall adopt their own rules of procedure.
 
-- i. Elke Lid-Staat heeft in de Raad één stem.
+##### Article VII. Director-General and Staff
 
-- ii. Staten die deze Overeenkomst hebben ondertekend, doch haar nog niet hebben bekrachtigd, aanvaard of goedgekeurd, kunnen zich voor een tijdvak van twee jaar te rekenen van het tijdstip van inwerkingtreding van deze Overeenkomst overeenkomstig het vierde lid, letter a, van artikel XV, op de zittingen van de Raad doen vertegenwoordigen en aan zijn werkzaamheden deelnemen zonder dat zij stemrecht hebben.
+1. - a. The Council shall appoint, by a two-thirds majority of all the Member States, a Director-General for a defined period of time and may by the same majority dismiss him.
 
-- iii. Een Lid-Staat die achterstallig is met de betaling van zijn bijdragen heeft geen stemrecht in een zitting van de Raad waarin de Directeur-Generaal verklaart dat het bedrag van zijn achterstalligheid gelijk is aan of meer beloopt dan de bedragen van de door hem verschuldigde bijdragen voor de voorafgaande twee boekjaren.
+- b. The Council may postpone the appointment of the Director-General for such a period as it considers necessary, on the occurrence of a subsequent vacancy. In this event it shall appoint a person to act in his stead, the person so appointed to have such powers and responsibilities as the Council may direct.
 
-- b. Tenzij in deze Overeenkomst anders wordt bepaald, worden de besluiten van de Raad genomen met een meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen.
+2. The Director-General shall be the chief executive officer and the legal representative of the Laboratory.
 
-- c. Om op een zitting van de Raad een quorum te vormen is de aanwezigheid van afgevaardigden van de meerderheid van alle Lid-Staten noodzakelijk. **Ondergeschikte organen**
+3. - a. The Director-General shall present to the Council:
 
-- a. De Raad stelt, bij besluit genomen met een twee-derde meerderheid van stemmen van alle Lid-Staten, een Wetenschappelijke Adviescommissie, een Financiële Commissie en enig ander noodzakelijk gebleken ondergeschikt orgaan in,
+   - i the draft indicative scheme referred to in paragraph 3, b.of Article VI of this Agreement;
 
-- b. Het besluit tot instelling van de Wetenschappelijke Adviescommissie omvat bepalingen betreffende het lidmaatschap, het rouleren van de leden en het mandaat van die Commissie overeenkomstig artikel VIII van deze Overeenkomst en bepaalt de voorwaarden waaronder haar leden hun functie vervullen.
+   - ii. the budget and provisional estimate provided for in subparagraphs c. and d. of paragraph 3 of Article VI of this Agreement;
 
-- c. Het besluit tot instelling van de Financiële Commissie of van andere ondergeschikte organen omvat bepalingen betreffende het lidmaatschap en het mandaat van deze organen.
+   - iii. the audited annual accounts and the annual report called for in sub-paragraphs f. and g. of paragraph 3 of Article VI of this Agreement.
 
-- d. Ondergeschikte organen stellen hun eigen huishoudelijk reglement vast.
+- b. The Director-General shall transmit to EMBC for consideration the annual report approved by the Council in accordance with paragraph 3, g. of Article VI of this Agreement.
 
-##### Artikel VII. Directeur-Generaal en personeel
+4. The Director-General shall be assisted by such scientific, technical, administrative and clerical staff as may be authorised by the Council.
 
-- a. De Raad benoemt met een twee-derde meerderheid van alle Lid-Staten een Directeur-Generaal voor een vastgesteld tijdvak en ontslaat hem met dezelfde meerderheid van stemmen,
+5. The Director-General shall appoint and dismiss the staff. The Council shall approve the appointment and dismissal of the senior staff as that category is defined in the Staff Rules. Any appointment and its termination shall be in accordance with the Staff Rules. Any persons, not members of the staff, who are invited to work at the Laboratory shall be subject to the authority of the Director-General and to such general conditions as may be approved by the Council.
 
-- b. Wanneer zich een vacature voordoet, kan de Raad de benoeming van de Directeur-Generaal voor een door hem noodzakelijk geachte periode uitstellen. In dat geval stelt hij een persoon aan die optreedt in de plaats van de Directeur-Generaal, waarbij de aldus benoemde persoon de bevoegdheden en verantwoordelijkheden heeft die de Raad bepaalt.
+6. Each Member State shall respect the exclusively international character of the responsibilities of the Director-General and the staff in regard to the Laboratory. In the discharge of their duties they shall neither seek nor receive instructions from any Member State or any government or other authority external to the Laboratory.
 
-2. De Directeur-Generaal is de hoogste uitvoerende functionaris en de wettige vertegenwoordiger van het Laboratorium.
+##### Article VIII. Scientific Advisory Committee
 
-- a. De Directeur-Generaal legt aan de Raad de volgende stukken voor:
+1. The Scientific Advisory Committee established in accordance with paragraph 7 of Article VI of this Agreement shall give advice to the Council, in particular with regard to proposals from the Director-General on the realisation of the programme of the Laboratory.
 
-- i. het ontwerp van het globale plan bedoeld in het derde lid, letter b, van artikel VI van deze Overeenkomst;
+2. The Committee shall be composed of distinguished scientists appointed in their own right, not as representatives of Member States. Membership of the Committee should be drawn from scientists in a wide range of relevant fields of science in order to cover as far as possible both the field of molecular biology and other appropriate scientific disciplines. The Director-General shall, after due consultations with, in particular, the Council of EMBO and appropriate national institutions, propose to the Council a list of candidates which the Council shall take into account in appointing the members of the Committee.
 
-- ii. de begroting en de voorlopige raming der kosten bedoeld in het derde lid, letters c en d, van artikel VI van deze Overeenkomst;
+##### Article IX. Budget
 
-- iii. de gecontroleerde jaarrekeningen en het jaarverslag bedoeld in het derde lid, letters f en g, van artikel VI van deze Overeenkomst.
+1. The financial year of the Laboratory shall run from 1 January to 31 December.
 
-- b. De Directeur-Generaal zendt het door de Raad overeenkomstig het derde lid, letter g, van artikel VI van deze Overeenkomst goedgekeurde jaarverslag ter kennisneming toe aan de ECMB.
+2. The Director-General shall, not later than 1 October of each year, submit to the Council for consideration and approval a budget showing detailed estimates of the income and expenditure of the Laboratory for the following financial year.
 
-4. De Directeur-Generaal wordt bijgestaan door het wetenschappelijke, technische en met het beheer belaste personeel en het kantoorpersoneel dat door de Raad is toegestaan.
+3. The Laboratory shall be financed by:
 
-5. De Directeur-Generaal benoemt en ontslaat het personeel. De Raad hecht zijn goedkeuring aan de benoeming en het ontslag van het hogere personeel zoals deze categorie is omschreven in het Personeelsstatuut. Elke benoeming en beëindiging van een aanstelling geschiedt overeenkomstig het Personeelsstatuut. Personen die niet tot het personeel behoren en die worden uitgenodigd in het Laboratorium te werken, zijn onderworpen aan het gezag van de Directeur-Generaal en aan de door de Raad goedgekeurde algemene voorwaarden.
+- a. the financial contributions of Member States;
 
-6. Elke Lid-Staat eerbiedigt het uitsluitend internationale karakter van de verantwoordelijkheden van de Directeur-Generaal en het personeel ten aanzien van het Laboratorium. Bij de uitoefening van hun functies vragen noch aanvaarden zij instructies van een Lid-Staat of een regering of van enige andere autoriteit buiten het Laboratorium.
+- b. any gifts contributed by Member States in addition to their financial contributions, unless the Council, by a two-thirds majority of Member States present and voting, decides that any such gift is inconsistent with the purposes of the Laboratory, and
 
-##### Artikel VIII. Wetenschappelijke Adviescommissie
+- c. any other resources, in particular gifts offered by private organisations or individuals, subject to their acceptance by approval of the Council given by a two-thirds majority of Member States present and voting.
 
-1. De Wetenschappelijke Adviescommissie ingesteld overeenkomstig het zevende lid van artikel VI van deze Overeenkomst geeft de Raad advies, met name ten aanzien van voorstellen van de Directeur-Generaal inzake de uitvoering van het programma van het Laboratorium.
+4. The budget of the Laboratory shall be expressed in accounting units representing a weight of 0.88867088 grammes of fine gold.
 
-2. De Commissie is samengesteld uit vooraanstaande wetenschapsmensen, die worden benoemd in hun persoonlijke hoedanigheid en niet als vertegenwoordigers van de Lid-Staten. De leden van de Commissie dienen te worden gekozen uit wetenschapsmensen werkzaam op een breed terrein van in aanmerking komende gebieden van wetenschap ten einde voor zover mogelijk zowel het gebied van de moleculaire biologie als andere passende takken van wetenschap te bestrijken. Na behoorlijk overleg met inzonderheid de Raad van de EMBO en daarvoor in aanmerking komende nationale instellingen, stelt de Directeur-Generaal aan de Raad een lijst van kandidaten voor, waarmede de Raad rekening houdt bij de benoeming van de leden van de Commissie.
+##### Article X. Contributions and Auditing
 
-##### Artikel IX. Begroting
+1. Each Member State shall contribute annually to the capital expenditure and to the current operating expenses of the Laboratory an aggregate amount of convertible funds in accordance with a scale which shall be fixed every three years by the Council by a two-thirds majority of all the Member States, and shall be based on the average net national income at factor cost of each Member State for the three latest preceding calendar years for which statistics are available.
 
-1. Het boekjaar van het Laboratorium loopt van 1 januari tot en met 31 december.
+2. The Council may decide, by a two-thirds majority of all the Member States, to take into account any special circumstances of a Member State and adjust its contribution accordingly. In applying this provision the term “special circumstances” shall include, in particular, a situation in which the per capita national income of a Member State is less than an amount which the Council shall fix by a two-thirds majority, or one by which any Member State is required to contribute more than thirty per cent of the aggregate amount of contributions assessed by the Council in accordance with the scale referred to in paragraph 1 of this Article.
 
-2. Elk jaar legt de Directeur-Generaal uiterlijk op 1 oktober de Raad ter overweging en goedkeuring een begroting voor, waaruit de uitvoerige ramingen van inkomsten en uitgaven van het Laboratorium voor het volgende boekjaar blijken.
+3. - a. States which become Parties to this Agreement after the thirty-first of December following its entry into force, shall make a special contribution towards the capital expenditure of the Laboratory already incurred, in addition to contributing to future capital expenditure and current operating expenses. The amount of this special contribution shall be fixed by the Council by a two-thirds majority of all Member States.
 
-3. Het Laboratorium wordt gefinancierd uit:
+- b. All contributions made in accordance with the provisions of sub-paragraph a of this paragraph shall be applied in reducing the contributions of the other Member States unless otherwise decided by the Council by a two-thirds majority of all Member States.
 
-- a. de financiële bijdragen van de Lid-Staten;
+4. If, after this Agreement has entered into force, a State becomes or ceases to be a Party thereto, the scale of contributions referred to in paragraph 1 of this Article shall be modified. The new scale shall take effect as from the beginning of the financial year following.
 
-- b. enige schenking van Lid-Staten, afgezien van hun financiële bijdragen, tenzij de Raad, met een twee-derde meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen, besluit dat een zodanige schenking strijdig is met de doeleinden van het Laboratorium, en
+5. The Director-General shall notify Member States of the amounts of their annual contributions and, in agreement with the Finance Committee, of the dates on which payments shall be made.
 
-- c. alle andere middelen, met name schenkingen door particuliere organisaties of personen, zulks onder voorbehoud van aanvaarding door goedkeuring van de Raad met een twee-derde meerderheid der stemmen van de aanwezige Lid-Staten die hun stem uitbrengen.
+6. The Director-General shall keep an accurate account of all receipts and disbursements.
 
-4. De begroting van het Laboratorium is uitgedrukt in rekeneenheden met een gewicht van 0,88867088 gram fijn goud.
+7. The Council shall appoint auditors to examine the accounts of the Laboratory. The auditors shall submit a report on the annual accounts to the Council.
 
-##### Artikel X. Bijdragen en accountantsonderzoek
+8. The Director-General shall furnish the auditors with such information and help as they may require to carry out their duties.
 
-1. Elke Lid-Staat draagt jaarlijks bij in de kapitaalsuitgaven en in de lopende exploitatiekosten van het Laboratorium tot een totaal bedrag aan inwisselbare valuta overeenkomstig een om de drie jaar door de Raad met een twee-derde meerderheid der stemmen van alle Lid-Staten vast te stellen verdeelsleutel, die is gebaseerd op het gemiddelde netto nationale inkomen tegen factorkosten van elk Lid-Staat over de laatste drie voorafgaande kalenderjaren, waarover gegevens beschikbaar zijn.
+##### Article XI. Legal Status
 
-2. De Raad kan met een twee-derde meerderheid der stemmen van alle Lid-Staten besluiten rekening te houden met eventuele bijzondere omstandigheden van een Lid-Staat en zijn bijdragen dienovereenkomstig aan te passen. Voor de toepassing van deze bepaling heeft de uitdrukking „bijzondere omstandigheden” met name betrekking op een toestand waarin het nationale inkomen van een Lid-Staat per hoofd van de bevolking lager is dan een bedrag dat door de Raad met een twee-derde meerderheid van stemmen wordt vastgesteld, of een toestand waarin van een Lid-Staat wordt verlangd dat hij meer dan dertig procent van het totale bedrag bijdraagt dat door de Raad is bepaald overeenkomstig de verdeelsleutel bedoeld in het eerste lid van dit artikel.
+The Laboratory shall have legal personality. It shall in particular have the capacity to contract, to acquire and dispose of movable and immovable property and to institute legal proceedings. The State in which the Laboratory is situated shall conclude with the Laboratory a headquarters agreement, to be approved by the Council by a two-thirds majority of the votes of all the Member States, relating to the status of the Laboratory and such privileges and immunities of the Laboratory and its staff which are necessary for the fulfilment of its objectives and for the exercise of its functions.
 
-- a. Staten die Partij bij deze Overeenkomst worden na de eenendertigste december volgend op haar inwerkingtreding leveren, naast een bijdrage in de toekomstige kapitaalsuitgaven en lopende exploitatiekosten, een speciale bijdrage in reeds gedane kapitaalsuitgaven van het Laboratorium. Het bedrag van deze speciale bijdrage wordt vastgesteld door de Raad met een twee-derde meerderheid der stemmen van alle Lid-Staten.
+##### Article XII. Settlement of disputes
 
-- b. Alle bijdragen verricht overeenkomstig het bepaalde onder letter a van dit lid worden in mindering gebracht op de bijdragen van de andere Lid-Staten, tenzij de Raad met een twee-derde meerderheid der stemmen van alle Lid-Staten anders beslist.
+Any dispute between two or more Member States concerning the interpretation or application of this Agreement which is not settled through the good offices of the Council shall be submitted, at the request of any party to the dispute, to the International Court of Justice, unless the Member States concerned agree on another mode of settlement within three months from the date on which the President of the Council states that the dispute cannot be settled through the good offices of the Council.
 
-4. Indien, nadat deze Overeenkomst in werking is getreden, een Staat Partij bij de Overeenkomst wordt of ophoudt Partij bij de Overeenkomst te zijn, wordt de in het eerste lid van dit artikel bedoelde verdeelsleutel voor de bijdragen gewijzigd. De nieuwe sleutel wordt van kracht met de aanvang van het daaropvolgende boekjaar.
+##### Article XIII. Amendments
 
-5. De Directeur-Generaal deelt de Lid-Staten mede welk bedrag zij als jaarlijkse bijdrage moeten betalen en, met instemming van de Financiële Commissie, op welke tijdstippen zij deze dienen te voldoen.
+1. A proposal by any Member State to amend this Agreement shall be placed on the agenda of the ordinary session of the Council which immediately follows the deposit of the proposal with the Director-General. Such a proposal may also be the object of an extraordinary session.
 
-6. De Directeur-Generaal houdt nauwkeurig boek van alle ontvangsten en uitgaven.
+2. Any amendment to this Agreement shall require unanimous acceptance by the Member States. They shall notify their acceptance in writing to the Government of Switzerland.
 
-7. De Raad benoemt accountants voor het controleren van de boeken van het Laboratorium. De accountants leggen de Raad een verslag voor over de jaarrekeningen.
+3. Amendments shall come into force thirty days after the deposit of the last written notification of acceptance.
 
-8. De Directeur-Generaal verstrekt de accountants alle inlichtingen en verleent alle hulp die zij, voor de uitvoering van hun taak, kunnen nodig hebben.
+##### Article XIV. Dissolution
 
-##### Artikel XI. Juridische status
+The Laboratory shall be dissolved if at any time there are less than three Member States. Subject to any agreement which may be made between Member States at the time of dissolution, the State in which the Laboratory's Headquarters are located shall be responsible for the liquidation. Except where otherwise decided by the Member States, the surplus shall be distributed among those States which are Members of the Laboratory at the time of the dissolution in proportion to all payments made by them. In the event of a deficit, this shall be met by the said Member States in the same proportions as those in which their contributions have been assessed for the current financial year.
 
-Het Laboratorium bezit rechtspersoonlijkheid. In het bijzonder heeft het de bevoegdheid overeenkomsten aan te gaan, roerende en onroerende goederen te verwerven en te vervreemden en rechtsgedingen aan te spannen. De Staat waar het Laboratorium is gevestigd sluit met het Laboratorium een overeenkomst inzake de zetel, die door de Raad moet worden goedgekeurd met een twee-derde meerderheid der stemmen van alle Lid-Staten, betreffende de status van het Laboratorium, alsmede de voorrechten en immuniteiten van het Laboratorium en zijn personeel die noodzakelijk zijn voor de verwezenlijking van zijn doeleinden en de uitoefening van zijn functies.
+##### Article XV. Signature, Ratification, Accession, Entry into force
 
-##### Artikel XII. Regeling van geschillen
+1. This Agreement shall be open for signature by the State Members of EMBC until the date of its entry into force in accordance with paragraph 4, a of this Article.
 
-Elk geschil tussen twee of meer Lid-Staten met betrekking tot de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld door tussenkomst van de Raad wordt, op verzoek van een der partijen bij het geschil, voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Lid-Staten binnen drie maanden na de datum waarop de Voorzitter van de Raad verklaart dat het geschil niet door tussenkomst van de Raad kan worden geregeld, overeenstemming bereiken over een andere wijze van regeling van het geschil.
+2. This Agreement shall be subject to ratification, acceptance or approval. The appropriate instruments shall be deposited with the Government of Switzerland.
 
-##### Artikel XIII. Wijzigingen
+3. - a. Any State Member of EMBC not a signatory to this Agreement may accede at any later time.
 
-1. Een voorstel van een Lid-Staat tot wijziging van deze Overeenkomst wordt geplaatst op de agenda van de eerstvolgende gewone zitting nadat het voorstel bij de Directeur-Generaal is nedergelegd. Voor de behandeling van een zodanig voorstel kan ook een buitengewone zitting worden bijeengeroepen.
+- b. If the [Agreement establishing EMBC](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) terminates this shall not preclude a State, formerly party to it or in respect of which a decision has been taken under [paragraph 2 of Article III of that Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004298&artikel=III) to permit that State to accede to it, from acceding to the present Agreement.
 
-2. Wijzigingen van deze Overeenkomst dienen door de Lid-Staten met eenparigheid van stemmen te worden aangenomen. Zij stellen de Zwitserse Bondsraad schriftelijk in kennis van hun aanvaarding.
+- c. The instruments of accession shall be deposited with the Government of Switzerland.
 
-3. Wijzigingen worden dertig dagen na nederlegging van de laatste schriftelijke kennisgeving van aanvaarding van kracht.
+4. - a. This Agreement shall enter into force when ratified, accepted or approved by the majority of States mentioned in the Preamble to this Agreement, including the State in which the Laboratory's Headquarters are located, and on condition that the total contributions of these States represent at least seventy per cent of the total of contributions shown in the scale annexed to this Agreement.
 
-##### Artikel XIV. Opheffing
+- b. After this Agreement enters into force as provided in paragraph 4, a of this Article, it shall, as regards any signatory State subsequently ratifying, accepting or approving the Agreement, come into force on the date on which such signatory State's instrument of ratification, acceptance or approval is deposited.
 
-Het Laboratorium wordt opgeheven indien er op enig tijdstip minder dan drie Lid-Staten zijn. Met inachtneming van eventuele afspraken tussen de Lid-Staten op het tijdstip van de liquidatie is de Staat waar de zetel van het Laboratorium is gevestigd verantwoordelijk voor de liquidatie. Tenzij de Lid-Staten anders beslissen, wordt het overschot tussen de Staten die Lid van het Laboratorium zijn op het tijdstip van de liquidatie verdeeld naar rato van alle door hen verrichte betalingen. In het geval dat er een tekort is, wordt dit door de Lid-Staten aangezuiverd op basis van dezelfde verdeelsleutel als die welke gold bij het vaststellen van hun bijdragen voor het lopende boekjaar.
-
-##### Artikel XV. Ondertekening, bekrachtiging, toetreding, inwerkingtreding
-
-1. Deze Overeenkomst staat open ter ondertekening door de Lid-Staten van de ECMB tot de datum van haar inwerkingtreding overeenkomstig het vierde lid, letter a, van dit artikel.
-
-2. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De desbetreffende akten worden nedergelegd bij de Zwitserse Bondsraad.
-
-- a. Een Staat die Lid is van de ECMB doch deze Overeenkomst niet heeft ondertekend, kan op elk later tijdstip toetreden,
-
-- b. Indien de [Overeenkomst tot instelling van de ECMB](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) wordt beëindigd, vormt dit voor een Staat die voordien partij daarbij was of ten aanzien waarvan krachtens het [tweede lid van artikel III van die Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004298&artikel=III) een besluit werd genomen deze Staat toe te staan tot die Overeenkomst toe te treden, geen beletsel toe te treden tot de onderhavige Overeenkomst.
-
-- c. De akte van toetreding wordt nedergelegd bij de Zwitserse Bondsraad.
-
-- a. Deze Overeenkomst treedt in werking nadat zij door de meerderheid van de in de Preambule van deze Overeenkomst genoemde Staten is bekrachtigd, aanvaard of goedgekeurd, met inbegrip van de Staat waar het Hoofdkwartier van het Laboratorium is gelegen, en op voorwaarde dat het totaal der bijdragen van deze Staten ten minste zeventig procent vertegenwoordigt van het totaal der bijdragen voorkomend op de lijst die bij deze Overeenkomst is gevoegd.
-
-- b. Nadat deze Overeenkomst in werking is getreden zoals bepaald in het vierde lid, letter a, van dit artikel, treedt zij, ten aanzien van een ondertekenende Staat die de Overeenkomst daarna bekrachtigt, aanvaardt of goedkeurt, in werking op de datum waarop de akte van bekrachtiging, aanvaarding of goedkeuring van die ondertekenende Staat is nedergelegd.
-
-- c. Voor elke toetredende Staat treedt deze Overeenkomst in werking op de datum waarop zijn akte van toetreding is nedergelegd.
+- c. For any acceding State this Agreement shall come into force on the date of deposit of its instrument of accession.
 
 - d.
 
-- i. Deze Overeenkomst blijft vooreerst gedurende zeven jaar van kracht. Daarna blijft zij voor onbepaalde tijd van kracht tenzij de Raad, uiterlijk één jaar voor afloop van de termijn van zeven jaar, met een twee-derde meerderheid der stemmen van alle Lid-Staten, besluit deze Overeenkomst voor een bepaalde termijn te verlengen dan wel haar te beëindigen, op voorwaarde dat de bijdragen van de vóórstemmende Lid-Staten niet minder dan twee-derde van de totale bijdragen aan de begroting van het Laboratorium belopen.
+   - i. This Agreement shall initially remain in force for a period of seven years. Thereafter it shall remain in force for an indefinite period unless the Council, not later than one year before the expiry of the seven year period, by a two-thirds majority of all the Member States provided the contributions of such Member States constitute not less than two-thirds of the total contributions to the Laboratory budget, decides to prolong this Agreement for a specific period or to terminate it.
 
-- ii. De beëindiging van de [Overeenkomst tot instelling van de ECMB](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) tast de geldigheid van deze Overeenkomst niet aan.
+   - ii. Termination of the [Agreement establishing EMBC](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) shall not affect the validity of this Agreement.
 
-##### Artikel XVI. Opzegging
+##### Article XVI. Denunciation
 
-1. Nadat deze Overeenkomst zes jaar van kracht is geweest, kan een Staat die Partij is bij de Overeenkomst, onder voorbehoud van het bepaalde in het derde lid, letter b, van artikel VI van deze Overeenkomst, haar opzeggen door van zijn voornemen daartoe kennis te geven aan de Zwitserse Bondsraad. Een zodanige opzegging wordt van kracht aan het eind van het daaropvolgende boekjaar.
+1. After this Agreement has been in force for six years, a State Party to the Agreement may, subject to the provisions of paragraph 3, b of Article VI of this Agreement denounce it by giving notification to that effect to the Government of Switzerland. Such denunciation shall take effect at the end of the following financial year.
 
-2. Indien een Lid-Staat zijn verplichtingen ingevolge deze Overeenkomst niet nakomt, kan hem, bij besluit van de Raad genomen met een twee-derde meerderheid van stemmen van alle Lid-Staten, zijn lidmaatschap worden ontnomen. De Directeur-Generaal stelt de ondertekenende en toetredende Staten van een zodanig besluit in kennis.
+2. If a Member State fails to fulfil its obligations under this Agreement, it may be deprived of its membership by decision of the Council taken by a majority of two-thirds of all the Member States. Such decision shall be notified to signatory and acceding States by the Director-General.
 
-##### Artikel XVII. Kennisgevingen en registratie
+##### Article XVII. Notifications and Registration
 
-1. De Zwitserse Bondsraad geeft de ondertekenende en toetredende Staten kennis van:
+1. The Government of Switzerland shall notify signatory and acceding States of:
 
-- a. alle ondertekeningen;
+- a. all signatures;
 
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- b. the deposit of any instrument of ratification, acceptance, approval or accession;
 
-- c. de inwerkingtreding van deze Overeenkomst;
+- c. the entry into force of this Agreement;
 
-- d. alle schriftelijke aanvaardingen van wijzigingen, waarvan ingevolge het derde lid van artikel XIII van deze Overeenkomst kennis is gegeven;
+- d. all written acceptances of amendments notified under paragraph 3 of Article XIII of this Agreement;
 
-- e. het van kracht worden van een wijziging;
+- e. the entry into force of any amendment;
 
-- f. elke opzegging van deze Overeenkomst.
+- f. any denunciation of this Agreement.
 
-2. De Zwitserse Bondsraad laat deze Overeenkomst, nadat zij in werking is getreden, overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), registreren bij het Secretariaat van de Verenigde Naties.
+2. The Government of Switzerland shall, upon entry into force of this Agreement, register it with the Secretariat of the United Nations in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-##### Artikel XVIII. Overgangsbepalingen
+##### Article XVIII. Transitional Provisions
 
-1. Voor het tijdvak lopende van de inwerkingtreding van de Overeenkomst tot de daaropvolgende eenendertigste december, treft de Raad regelingen voor de begroting en worden de uitgaven bestreden uit aan de Lid-Staten opgelegde aanslagen, vastgesteld overeenkomstig het bepaalde in de volgende twee leden.
+1. For the period from the entry into force of this Agreement to 31 December following, the Council shall make budgetary arrangements and expenditure shall be covered by assessments upon Member States established in accordance with the following two paragraphs.
 
-2. Staten die bij de inwerkingtreding van de Overeenkomst Partij daarbij zijn, alsmede Staten die tot 31 december daaropvolgend er Partij bij worden, betalen gezamenlijk alle uitgaven voorzien in de voorlopige begroting die door de Raad overeenkomstig het bepaalde in het eerste lid van dit artikel kan worden aangenomen.
+2. States Parties to this Agreement upon its coming into force, and States which may become parties up to 31 December following, shall together bear the whole of the expenditure foreseen in the budgetary arrangements which the Council may adopt in accordance with paragraph 1 of this Article.
 
-3. De aan de Staten opgelegde aanslagen, bedoeld in het tweede lid van dit artikel, worden op een voorlopige basis, naar gelang van de behoeften en in overeenstemming met het bepaalde in het eerste en tweede lid van artikel X van deze Overeenkomst, vastgesteld. Na afloop van het tijdvak aangegeven in het eerste lid van dit artikel, wordt een definitieve verdeling van de kosten over deze Staten vastgesteld op basis van de feitelijke uitgaven. Betalingen door een Staat die uitgaan boven zijn aldus vastgesteld definitief aandeel, worden op het credit van diens rekening geplaatst.
+3. The assessments upon States covered by paragraph 2 of this Article shall be established on a provisional basis according to the need and in conformity with paragraphs 1 and 2 of Article X of this Agreement. On the expiry of the period indicated in paragraph 1 of this Article a definitive sharing of costs as between these States shall be effected on the basis of actual expenditures. Any excess payment by a State, over and above its definitive share as thus established shall be placed to its credit.
 
 IN WITNESS WHEREOF, the undersigned plenipotentiaries having been duly authorised thereto, have signed this Agreement.
 

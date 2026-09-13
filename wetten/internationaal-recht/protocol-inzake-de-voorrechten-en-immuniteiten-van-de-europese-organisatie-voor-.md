@@ -1,46 +1,19 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond"
 identifier: "BWBV0003422"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-09-16"
-last_updated: "1975-09-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003422"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003526083"
-version_id: "10003575342"
-internal_id: "C10006982401"
-label_id: "10003511764"
-dtd_version: "2.0"
-original_entry_into_force: "1975-09-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003422/1975-09-16/0"
-intitule_bron: "Trb.1976-9"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-01-22"
-intitule_in_force: "1976-01-22"
-intitule_status: "goed"
-original_publication: "Trb.1976-9"
-original_published_date: "1976-01-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-9"
-entry_into_force_date: "1975-09-16"
-jci_1_3: "jci1.3:c:BWBV0003422&z=1975-09-16&g=1975-09-16"
-jci_1_0: "1.0:c:BWBV0003422&g=1975-09-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-09-16"
+publicatiedatum: 1975-09-16
+laatste_update: 1975-09-16
+status: geldig
+toestand: 1975-09-16
+bron: "https://wetten.overheid.nl/BWBV0003422"
+opgehaald: 2026-09-13
 ---
+
 # Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond
 
-**Preambule**
-
-De Staten die partij zijn bij het [Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond](https://wetten.overheid.nl/jci1.3:c:BWBV0004585), ondertekend te Parijs op 5 oktober 1962, hierna te noemen „het Verdrag”,
-
-Overwegende dat genoemde Organisatie, hierna te noemen „de Organisatie” op het grondgebied van haar Lid-Staten een juridische statuut dient te genieten dat een vaststelling inhoudt van de voorrechten en immuniteiten die noodzakelijk zijn voor de vervulling van haar taak,
-
-Overwegende dat de Organisatie in Chili haar zetel heeft, waar haar status is omschreven in de Overeenkomst van 6 november 1963 tussen de Regering van de Republiek Chili en de Organisatie,
-
-Zijn overeengekomen als volgt:
+*Preambule De Staten die partij zijn bij het Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond, ondertekend te Parijs op 5 oktober 1962, hierna te noemen „het Verdrag”, Overwegende dat genoemde Organisatie, hierna te noemen „de Organisatie” op het grondgebied van haar Lid-Staten een juridische statuut dient te genieten dat een vaststelling inhoudt van de voorrechten en immuniteiten die noodzakelijk zijn voor de vervulling van haar taak, Overwegende dat de Organisatie in Chili haar zetel heeft, waar haar status is omschreven in de Overeenkomst van 6 november 1963 tussen de Regering van de Republiek Chili en de Organisatie, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -180,7 +153,7 @@ De namen, hoedanigheden en adressen van de personeelsleden van de Organisatie be
 
 ##### Artikel 22
 
-1. Geen enkele Staat die partij is bij dit Protocol, is verplicht de in de artikelen 14, 15 en 17 onder **a, b, c, e** en **f,** genoemde voorrechten en immuniteiten te verlenen aan zijn eigen onderdanen of aan ingezetenen van zijn grondgebied.
+1. Geen enkele Staat die partij is bij dit Protocol, is verplicht de in de artikelen 14, 15 en 17 onder *a, b, c, e* en *f,* genoemde voorrechten en immuniteiten te verlenen aan zijn eigen onderdanen of aan ingezetenen van zijn grondgebied.
 
 ##### Artikel 23
 

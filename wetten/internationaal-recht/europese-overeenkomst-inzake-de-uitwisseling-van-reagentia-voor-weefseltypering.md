@@ -1,134 +1,107 @@
 ---
 title: "Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering"
 identifier: "BWBV0004016"
-country: "nl"
-rank: "verdrag"
-publication_date: "1985-03-28"
-last_updated: "1985-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004016"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003813193"
-version_id: "10003880042"
-internal_id: "C10006983351"
-label_id: "10003798354"
-dtd_version: "2.0"
-original_entry_into_force: "1978-05-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004016/1985-03-28/0"
-intitule_bron: "Trb.1977-153"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-11-04"
-intitule_in_force: "1978-07-03"
-intitule_status: "goed"
-original_publication: "Trb.1977-153"
-original_published_date: "1977-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-153"
-entry_into_force_date: "1978-05-13"
-jci_1_3: "jci1.3:c:BWBV0004016&z=1985-03-28&g=1985-03-28"
-jci_1_0: "1.0:c:BWBV0004016&g=1985-03-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-05-13"
+publicatiedatum: 1978-05-13
+laatste_update: 1985-03-28
+status: geldig
+toestand: 1985-03-28
+bron: "https://wetten.overheid.nl/BWBV0004016"
+opgehaald: 2026-09-13
 ---
+
 # Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering
 
-De Lid-Staten van de Raad van Europa, die deze Overeenkomst hebben ondertekend,
+*The member States of the Council of Europe, signatory hereto, Considering that tissue-typing reagents are not available in unlimited quantities; Considering that it is highly desirable that member States, in a spirit of European solidarity, should assist one another in the supply of these tissue-typing reagents, should the need arise; Considering that such mutual assistance is only possible if the character and use of such tissue-typing reagents are subject to rules to be laid down jointly by the member States and if the necessary import facilities and exemptions are granted, Have agreed as follows:*
 
-Overwegende dat reagentia voor weefseltyperingen niet in onbeperkte hoeveelheden beschikbaar zijn;
+##### Article 1
 
-Overwegende dat het in hoge mate wenselijk is dat de Lid-Staten, in een geest van Europese saamhorigheid, elkaar helpen door deze reagentia voor weefseltypering te verschaffen, indien de noodzakelijkheid zich daartoe doet gevoelen;
+1. For the purposes of this Agreement, the expression “tissue-typing reagents” refers to reagents of human, animal, plant and other origin, used for the determination of tissue-typing.
 
-Overwegende dat dergelijke wederzijdse hulp alleen mogelijk is, indien de eigenschappen en het gebruik van deze reagentia voor weefseltypering onderworpen zijn aan door de Lid-Staten gemeenschappelijk vast te stellen regels en indien voor de invoer van deze reagentia voor weefseltypering de nodige faciliteiten en vrijstellingen worden verleend,
+2. The provisions of Articles 2 to 6 of this Agreement shall also apply to cells of known antigenic composition to be used for the investigation of typing reagents.
 
-Zijn overeengekomen als volgt:
+##### Article 2
 
-##### Artikel 1
+The Contracting Parties undertake, provided that they have sufficient stocks for their own needs, to make tissue-typing reagents available to other Parties who are in need of them and to charge only those costs of collection, processing and carriage of such substances and the cost (if any) of their purchase.
 
-1. Voor de toepassing van deze Overeenkomst wordt onder „reagentia voor weefseltypering” verstaan reagentia van menselijke, dierlijke, plantaardige en andere oorsprong, gebruikt voor de bepaling van weefseltypering.
+##### Article 3
 
-2. De bepalingen van de artikelen 2 tot 6 van deze Overeenkomst zijn ook van toepassing op cellen van een bekende antigenetische samenstelling, te gebruiken voor het onderzoek van reagentia voor typering.
+Tissue-typing reagents shall be made available to the other Contracting Parties subject to the condition that no profit is made on them, and that they shall be used solely for medical and scientific, i.e. non-commercial, purposes and shall be delivered only to laboratories designated by the governments concerned in accordance with Article 6 of this Agreement.
 
-##### Artikel 2
+##### Article 4
 
-De Overeenkomstsluitende Partijen verbinden zich, zo zij over een voldoende voorraad voor eigen behoeften beschikken, om reagentia voor weefseltypering ter beschikking te stellen van andere Partijen die deze nodig hebben, en dat slechts tegen betaling van de kosten van het verwerven, bereiden en verzenden van deze reagentia en de eventuele kosten van aankoop.
+1. The Contracting Parties shall certify that the provisions as laid down in the Protocol to this Agreement have been observed.
 
-##### Artikel 3
+2. They shall also comply with any rules to which they have subscribed with regard to international standardisation in this field.
 
-Reagentia voor weefseltypering worden ter beschikking gesteld van de andere Overeenkomstsluitende Partijen onder de voorwaarde, dat er geen winst op wordt gemaakt, en dat zij alleen voor geneeskundige en wetenschappelijke, d.w.z. niet-commerciële, doeleinden worden gebruikt en dat zij slechts aan de door de betrokken regeringen aangewezen laboratoria worden afgeleverd in overeenstemming met artikel 6 van deze Overeenkomst.
+3. All consignments of tissue-typing reagents shall be accompanied by a certificate to the effect that they were prepared in accordance with the specifications in the Protocol. This certificate shall be based on the model to be found in the Annex to the Protocol.
 
-##### Artikel 4
+4. The Protocol and its Annex constitute an administrative arrangement and may be amended or supplemented by the governments of the Parties to this Agreement.
 
-1. De Overeenkomstsluitende Partijen verklaren, dat aan de bepalingen als nedergelegd in het Protocol bij deze Overeenkomst is voldaan.
+##### Article 5
 
-2. Zij houden zich bovendien aan de regels welke zij hebben aanvaard betreffende de internationale standaardisatie op dit gebied.
+1. The Contracting Parties shall take all necessary measures to exempt from all import duties the tissue-typing reagents placed at their disposal by the other Parties.
 
-3. Elke zending van reagentia voor weefseltypering dient vergezeld te gaan van een verklaring, dat zij zijn bereid overeenkomstig de voorschriften van het Protocol. Deze verklaring dient te zijn gebaseerd op het model vervat in de Bijlage bij het Protocol.
+2. They shall also take all necessary measures to provide for the speedy delivery of these substances, by the most direct route, to the consignees referred to in Article 3 of this Agreement.
 
-4. Het Protocol en zijn Bijlage vormen een administratieve afspraak en kunnen door de Regeringen van Partijen bij deze Overeenkomst worden gewijzigd of aangevuld.
+##### Article 6
 
-##### Artikel 5
+The Contracting Parties shall forward to one another, through the Secretary General of the Council of Euope, a list of the national and/or regional reference laboratories, empowered to issue certificates as provided in Article 4 of this Agreement and to distribute imported tissue-typing reagents.
 
-1. De Overeenkomstsluitende Partijen treffen alle nodige maatregelen ten einde de hun door andere Partijen ter beschikking gestelde reagentia voor weefseltypering vrij te stellen van alle invoerrechten.
+##### Article 7
 
-2. Zij treffen eveneens alle nodige maatregelen ten einde de snelle aflevering van deze reagentia, langs de meest rechtstreekse weg, aan de in artikel 3 van deze Overeenkomst bedoelde geadresseerden te bewerkstelligen.
+1. This Agreement shall be open to signature by the member States of the Council of Europe, who may become Parties to it either by:
 
-##### Artikel 6
+- a. signature without reservation in respect of ratification or acceptance, or
 
-De Overeenkomstsluitende Partijen doen elkaar, door bemiddeling van de Secretaris-Generaal van de Raad van Europa, een lijst toekomen van de nationale en/of regionale referentie-laboratoria die bevoegd zijn tot het afgeven van de verklaringen als voorzien in artikel 4 van deze Overeenkomst en tot het distribueren van ingevoerde reagentia voor weefseltypering.
+- b. signature with reservation in respect of ratification or acceptance, followed by ratification or acceptance.
 
-##### Artikel 7
+2. Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.
 
-1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa, die Partij daarbij kunnen worden door:
+##### Article 8
 
-- a. ondertekening zonder voorbehoud van bekrachtiging of aanvaarding; of
+1. This Agreement shall enter into force one month after the date on which three member States of the Council shall have become Parties to the Agreement, in accordance with the provisions of Article 7.
 
-- b. ondertekening onder voorbehoud van bekrachtiging of aanvaarding, gevolgd door bekrachtiging of aanvaarding.
+2. As regards any member State who shall subsequently sign the Agreement without reservation in respect of ratification or acceptance or who shall ratify or accept it, the Agreement shall enter into force one month after the date of such signature or after the date of deposit of the instrument of ratification or acceptance.
 
-2. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 9
 
-##### Artikel 8
+1. After the entry into force of this Agreement, the Committee of Ministers of the Council of Europe may invite any non-member State to accede thereto.
 
-1. Deze Overeenkomst treedt in werking een maand na de datum waarop drie Lid-Staten van de Raad overeenkomstig het in artikel 7 bepaalde Partij zijn geworden bij de Overeenkomst.
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect one month after the date of its deposit.
 
-2. Voor elke Lid-Staat die de Overeenkomst daarna zonder voorbehoud van bekrachtiging of aanvaarding ondertekent, dan wel haar bekrachtigt of aanvaardt, treedt de Overeenkomst in werking een maand na de datum van de ondertekening of van de nederlegging van de akte van bekrachtiging of aanvaarding.
+##### Article 10
 
-##### Artikel 9
+1. Any Contracting Party may at the time of signature or when depositing its instrument of ratification, acceptance or accession, specify the territory or territories to which this Agreement shall apply.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad, uitnodigen tot deze Overeenkomst toe te treden.
+2. Any Contracting Party may, when depositing its instrument of ratification, acceptance or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Agreement to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.
 
-2. Toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, die een maand na de datum van nederlegging van kracht wordt.
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 11 of this Agreement.
 
-##### Artikel 10
+##### Article 11
 
-1. Een Overeenkomstsluitende Partij kan op het tijdstip van ondertekening of van nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding het grondgebied of de grondgebieden aanwijzen waarop deze Overeenkomst van toepassing is.
+1. Any Contracting Party may, in so far as it is concerned, denounce this Agreement by means of a notification addressed to the Secretary General of the Council of Europe.
 
-2. Een Overeenkomstsluitende Partij kan op het tijdstip van nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding of op elk later tijdstip door middel van een verklaring, gericht aan de Secretaris-Generaal van de Raad van Europa, de toepassing van deze Overeenkomst uitbreiden tot ieder ander in de verklaring aangegeven grondgebied voor welks internationale betrekkingen zij verantwoordelijk is of voor hetwelk zij bevoegd is verbintenissen aan te gaan.
+2. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-3. Verklaringen, afgelegd krachtens het voorafgaande lid, kunnen, wat betreft een grondgebied dat is aangewezen in deze verklaring, onder de voorwaarden genoemd in artikel 11 van deze Overeenkomst worden ingetrokken.
+##### Article 12
 
-##### Artikel 11
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Agreement, of:
 
-1. Een Overeenkomstsluitende Partij kan deze Overeenkomst wat haar betreft opzeggen door een kennisgeving aan de Secretaris-Generaad van de Raad van Europa te richten.
+- a. any signature without reservation in respect of ratification or acceptance;
 
-2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- b. any signature with reservation in respect of ratification or acceptance;
 
-##### Artikel 12
+- c. the deposit of any instrument of ratification, acceptance or accession;
 
-De Secretaris-Generaal van de Raad van Europa geeft aan de Lid-Staten van de Raad en aan iedere Staat die is toegetreden tot deze Overeenkomst, kennis van:
+- d. any date of entry into force of this Agreement in accordance with Article 8 thereof;
 
-- a. ondertekeningen zonder voorbehoud van bekrachtiging of aanvaarding;
+- e. any declaration received in pursuance of the provisions of paragraphs 2 and 3 of Article 10;
 
-- b. ondertekeningen onder voorbehoud van bekrachtiging of aanvaarding;
+- f. any notification received in pursuance of the provisions of Article 11 and the date on which denunciation takes effect;
 
-- c. nederleggingen van akten van bekrachtiging, aanvaarding of toetreding;
-
-- d. data van inwerkingtreding van deze Overeenkomst overeenkomstig artikel 8;
-
-- e. verklaringen ontvangen krachtens het bepaalde in artikel 10, tweede en derde lid;
-
-- f. kennisgevingen ontvangen krachtens het bepaalde in artikel 11 en de datum waarop de opzegging van kracht wordt;
-
-- g. elke wijziging of aanvulling van het Protocol en de bijbehorende Bijlage krachtens het bepaalde in artikel 4, vierde lid, van deze Overeenkomst.
+- g. any amendment of or supplement to the Protocol and its Annex under Article 4, paragraph 4 of this Agreement.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 

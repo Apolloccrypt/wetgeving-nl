@@ -1,48 +1,19 @@
 ---
 title: "Vriendschaps- en samenwerkingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0003897"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-02-01"
-last_updated: "1982-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003897"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003761743"
-version_id: "10003826342"
-internal_id: "C10006981611"
-label_id: "10003746764"
-dtd_version: "2.0"
-original_entry_into_force: "1982-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003897/1982-02-01/0"
-intitule_bron: "Trb.1979-6"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-01-16"
-intitule_in_force: "1982-01-28"
-intitule_status: "goed"
-original_publication: "Trb.1979-6"
-original_published_date: "1979-01-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-6"
-entry_into_force_date: "1982-02-01"
-jci_1_3: "jci1.3:c:BWBV0003897&z=1982-02-01&g=1982-02-01"
-jci_1_0: "1.0:c:BWBV0003897&g=1982-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1982-02-01"
+publicatiedatum: 1982-02-01
+laatste_update: 1982-02-01
+status: geldig
+toestand: 1982-02-01
+bron: "https://wetten.overheid.nl/BWBV0003897"
+opgehaald: 2026-09-13
 ---
+
 # Vriendschaps- en samenwerkingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
-De Regering van de Nederlandse Antillen, handelend namens het Koninkrijk der Nederlanden,
-
-en
-
-de Regering van de Republiek Suriname,
-
-Verlangend de hartelijke betrekkingen tussen de Nederlandse Antillen en de Republiek Suriname opnieuw te bevestigen, alsmede de historische vriendschapsbanden tussen de volken van deze beide landen nauwer aan te halen,
-
-Overtuigd van het belang een effectieve samenwerking tussen beide landen en volken tot stand te brengen, in het bijzonder op het gebied van de economie, industrie, techniek en cultuur,
-
-hebben besloten daartoe een vriendschaps- en samenwerkingsovereenkomst tot stand te brengen en zijn daarbij het volgende overeengekomen:
+*De Regering van de Nederlandse Antillen, handelend namens het Koninkrijk der Nederlanden, en de Regering van de Republiek Suriname, Verlangend de hartelijke betrekkingen tussen de Nederlandse Antillen en de Republiek Suriname opnieuw te bevestigen, alsmede de historische vriendschapsbanden tussen de volken van deze beide landen nauwer aan te halen, Overtuigd van het belang een effectieve samenwerking tussen beide landen en volken tot stand te brengen, in het bijzonder op het gebied van de economie, industrie, techniek en cultuur, hebben besloten daartoe een vriendschaps- en samenwerkingsovereenkomst tot stand te brengen en zijn daarbij het volgende overeengekomen:*
 
 #### ALGEMEEN
 
@@ -158,15 +129,15 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN te Paramaribo op 27 november 1978, in tweevoud in de Nederlandse taal.
 
-**Voor de Regering van de Nederlandse Antillen,**
+*Voor de Regering van de Nederlandse Antillen,*
 
-**handelend namens het Koninkrijk der Nederlanden**
+*handelend namens het Koninkrijk der Nederlanden*
 
 (w.g.) S. G. M. ROZENDAL
 
 S. G. M. Rozendal
 
-**Voor de Regering van de Republiek Suriname**
+*Voor de Regering van de Republiek Suriname*
 
 (w.g.) H. A. E. ARRON
 

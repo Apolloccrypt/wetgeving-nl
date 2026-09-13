@@ -1,425 +1,364 @@
 ---
 title: "Verdrag inzake de fysieke beveiliging van kernmateriaal en kerninstallaties"
 identifier: "BWBV0003800"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-05-08"
-last_updated: "2016-05-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003800"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003715233"
-version_id: "10003776972"
-internal_id: "C10006980221"
-label_id: "10003700424"
-dtd_version: "2.0"
-original_entry_into_force: "1991-10-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003800/2016-05-08/0"
-intitule_bron: "Trb.1980-166"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-10-23"
-intitule_in_force: "1991-11-14"
-intitule_status: "goed"
-original_publication: "Trb.1980-166"
-original_published_date: "1980-10-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-166"
-entry_into_force_date: "1991-10-06"
-jci_1_3: "jci1.3:c:BWBV0003800&z=2016-05-08&g=2016-05-08"
-jci_1_0: "1.0:c:BWBV0003800&g=2016-05-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1991-10-06"
+publicatiedatum: 1991-10-06
+laatste_update: 2016-05-08
+status: geldig
+toestand: 2016-05-08
+bron: "https://wetten.overheid.nl/BWBV0003800"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake de fysieke beveiliging van kernmateriaal en kerninstallaties
 
-De Staten die partij zijn bij dit Verdrag,
+*The States Parties to this Convention, Recognizing the right of all States to develop and apply nuclear energy for peaceful purposes and their legitimate interests in the potential benefits to be derived from the peaceful application of nuclear energy, Convinced of the need to facilitate international co-operation and the transfer of nuclear technology for the peaceful application of nuclear energy, Bearing in mind that physical protection is of vital importance for the protection of public health, safety, the environment and national and international security, Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of good-neighbourliness and friendly relations and co-operation among States, Considering that under the terms of paragraph 4 of Article 2 of the Charter of the United Nations, “All members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations,” Recalling the Declaration on Measures to Eliminate International Terrorism, annexed to General Assembly resolution 49/60 of 9 December 1994, Desiring to avert the potential dangers posed by illicit trafficking, the unlawful taking and use of nuclear material and the sabotage of nuclear material and nuclear facilities, and noting that physical protection against such acts has become a matter of increased national and international concern, Deeply concerned by the worldwide escalation of acts of terrorism in all its forms and manifestations, and by the threats posed by international terrorism and organized crime, Believing that physical protection plays an important role in supporting nuclear non-proliferation and counter-terrorism objectives, Desiring through this Convention to contribute to strengthening worldwide the physical protection of nuclear material and nuclear facilities used for peaceful purposes, Convinced that offences relating to nuclear material and nuclear facilities are a matter of grave concern and that there is an urgent need to adopt appropriate and effective measures, or to strengthen existing measures, to ensure the prevention, detection and punishment of such offences, Desiring to strengthen further international co-operation to establish, in conformity with the national law of each State Party and with this Convention, effective measures for the physical protection of nuclear material and nuclear facilities, Convinced that this Convention should complement the safe use, storage and transport of nuclear material and the safe operation of nuclear facilities, Recognizing that there are internationally formulated physical protection recommendations that are updated from time to time which can provide guidance on contemporary means of achieving effective levels of physical protection, Recognizing also that effective physical protection of nuclear material and nuclear facilities used for military purposes is a responsibility of the State possessing such nuclear material and nuclear facilities, and understanding that such material and facilities are and will continue to be accorded stringent physical protection, Have agreed as follows:*
 
-Onder erkenning van het recht van alle Staten kernenergie te ontwikkelen en toe te passen voor vreedzame doeleinden, en het recht te genieten van de voordelen die uit een vreedzame toepassing van kernenergie kunnen voortvloeien,
+##### Article 1
 
-Overtuigd van de noodzaak de internationale samenwerking en de overdracht van nucleaire technologie betreffende de vreedzame toepassing van kernenergie te vergemakkelijken,
+For the purposes of this Convention:
 
-Indachtig dat fysieke beveiliging van wezenlijk belang is voor de bescherming van de volksgezondheid, de veiligheid, het milieu en de nationale en internationale veiligheid,
+- (a) “nuclear material” means plutonium. except that with isotopic concentration exceeding 80% in plutonium-238; uranium-233; uranium enriched in the isotopes 235 or 233; uranium containing the mixture of isotopes as occurring in nature other than in the form of ore or ore-residue: any material containing one or more of the foregoing;
 
-Indachtig de doelstellingen en beginselen van het Handvest van de Verenigde Naties betreffende de handhaving van de internationale vrede en veiligheid en de bevordering van goed nabuurschap, vriendschappelijke betrekkingen en samenwerking tussen Staten,
+- (b) “uranium enriched in the isotope 235 or 233” means uranium containing the isotopes 235 or 233 or both in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature;
 
-Overwegend dat ingevolge de bepalingen van [artikel 2, vierde lid, van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=2) het volgende van toepassing is: „In hun internationale betrekkingen onthouden alle Leden zich van bedreiging met of het gebruik van geweld tegen de territoriale integriteit of de politieke onafhankelijkheid van enige Staat of van elke andere handelwijze die onverenigbaar is met de doelstellingen van de Verenigde Naties”,
+- (c) “international nuclear transport” means the carriage of a consignment of nuclear material by any means of transportation intended to go beyond the territory of the State where the shipment originates beginning with the departure from a facility of the shipper in that State and ending with the arrival at a facility of the receiver within the State of ultimate destination;
 
-In herinnering brengend de Verklaring inzake maatregelen tot uitbanning van internationaal terrorisme als bijlage bij de resolutie van de Algemene Vergadering 49/60 van 9 december 1994,
+- (d) “nuclear facility” means a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
 
-Geleid door de wens de potentiële gevaren die gevormd worden door illegale handel, het wederrechtelijk toe-eigenen en gebruiken van kernmateriaal en de sabotage van kernmateriaal en kerninstallaties af te wenden en vaststellend dat de fysieke beveiliging tegen dergelijke daden in nationaal en internationaal opzicht een bron van toenemende zorg is geworden,
+- (e) “sabotage” means any deliberate act directed against a nuclear facility or nuclear material in use, storage or transport which could directly or indirectly endanger the health and safety of personnel, the public or the environment by exposure to radiation or release of radioactive substances.
 
-Ernstig bezorgd over de toeneming over de gehele wereld van daden van terrorisme, in al zijn gedaantes en verschijningsvormen, en over de bedreiging die wordt gevormd door internationaal terrorisme en georganiseerde misdaad,
+##### Article 1A
 
-Van mening dat fysieke beveiliging een belangrijke rol speelt bij het ondersteunen van de doelstellingen met betrekking tot de niet-verspreiding van kernwapens en het bestrijden van terrorisme,
+The purposes of this Convention are to achieve and maintain worldwide effective physical protection of nuclear material used for peaceful purposes and of nuclear facilities used for peaceful purposes; to prevent and combat offences relating to such material and facilities worldwide; as well as to facilitate co-operation among States Parties to those ends.
 
-Geleid door de wens dat via dit Verdrag een bijdrage wordt geleverd aan de wereldwijde versterking van de fysieke beveiliging van kernmateriaal en kerninstallaties gebruikt voor vreedzame doeleinden,
+##### Article 2
 
-Ervan overtuigd dat strafbare feiten met betrekking tot kernmateriaal en kerninstallaties een zaak van ernstige zorg zijn en dat het dringend noodzakelijk is gepaste en doeltreffende maatregelen te nemen, of bestaande maatregelen aan te scherpen, om deze strafbare feiten te voorkomen, op te sporen en te vervolgen,
+1. This Convention shall apply to nuclear material used for peaceful purposes in use, storage and transport and to nuclear facilities used for peaceful purposes, provided, however, that [articles 3](https://wetten.overheid.nl/BWBV0003800) and [4](https://wetten.overheid.nl/BWBV0003800) and [paragraph 4 of article 5](https://wetten.overheid.nl/BWBV0003800) of this Convention shall only apply to such nuclear material while in international nuclear transport.
 
-Geleid door de wens de internationale samenwerking verder te versterken met het oog op het tot stand brengen, in overeenstemming met de nationale wetgeving van iedere Verdragsluitende Partij en met dit Verdrag, van doeltreffende maatregelen voor de fysieke beveiliging van kernmateriaal en kerninstallaties,
+2. The responsibility for the establishment, implementation and maintenance of a physical protection regime within a State Party rests entirely with that State.
 
-Ervan overtuigd dat dit Verdrag het veilige gebruik en vervoer en de veilige opslag van kernmateriaal en de veilige exploitatie van kerninstallaties zou moeten aanvullen,
+3. Apart from the commitments expressly undertaken by States Parties under this Convention, nothing in this Convention shall be interpreted as affecting the sovereign rights of a State.
 
-Erkennend dat er internationaal vastgestelde aanbevelingen met betrekking tot fysieke beveiliging bestaan, die van tijd tot tijd worden geactualiseerd en die als leidraad kunnen dienen met betrekking tot eigentijdse middelen om een hoog niveau van fysieke beveiliging te bereiken,
+4. - (a) Nothing in this Convention shall affect other rights, obligations and responsibilities of States Parties under international law, in particular the purposes and principles of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and international humanitarian law.
 
-Tevens erkennend dat de doeltreffende fysieke beveiliging van kernmateriaal en kerninstallaties gebruikt voor militaire doeleinden onder de verantwoordelijkheid valt van de Staat die dergelijk kernmateriaal en dergelijke kerninstallaties bezit, en in het besef dat aan dergelijk materiaal en dergelijke installaties een strenge fysieke beveiliging gegeven wordt en blijft worden,
+- (b) The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention, and the activities undertaken by the military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
 
-Zijn het volgende overeengekomen:
+- (c) Nothing in this Convention shall be construed as a lawful authorization to use or threaten to use force against nuclear material or nuclear facilities used for peaceful purposes.
 
-##### Artikel 1
+- (d) Nothing in this Convention condones or makes lawful otherwise unlawful acts, nor precludes prosecution under other laws.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+5. This Convention shall not apply to nuclear material used or retained for military purposes or to a nuclear facility containing such material.
 
-- a. „kernmateriaal”: plutonium, met uitzondering van plutonium waarvan de isotoopconcentratie aan plutonium -238 hoger is dan 80%; uranium 233; uranium, verrijkt in de isotopen 235 of 233; uranium bestaande uit een mengsel van isotopen, zoals deze in de natuur voorkomen anders dan in de vorm van erts of ertsresidu, en elke stof die een of meer van de hierboven genoemde isotopen bevat;
+##### Article 2A
 
-- b. „uranium, verrijkt in de isotopen 235 of 233”: uranium dat de isotopen 235 of 233 of beide bevat in een zodanige hoeveelheid dat de verhouding van de totale hoeveelheid van deze isotopen tot het isotoop 238 groter is dan de verhouding van het isotoop 235 tot het isotoop 238 in natuurlijk uranium;
+1. Each State Party shall establish, implement and maintain an appropriate physical protection regime applicable to nuclear material and nuclear facilities under its jurisdiction, with the aim of:
 
-- c. „internationaal nucleair vervoer”: het vervoer met elk willekeurig vervoermiddel van een zending kernmateriaal tot buiten het grondgebied van de Staat van verzending, vanaf het vertrek uit de installatie van waaruit de verzending in die Staat geschiedt, tot de aankomst in de installatie van de ontvanger op het grondgebied van de Staat van uiteindelijke bestemming;
+- a) protecting against theft and other unlawful taking of nuclear material in use, storage and transport;
 
-- d. „kerninstallatie”: een installatie (met inbegrip van daarbij behorende gebouwen en apparatuur) waarin kernmateriaal wordt vervaardigd, verwerkt, gebruikt, behandeld, opgeslagen of afgevoerd, indien schade aan of verstoring van een dergelijke installatie zou kunnen leiden tot het vrijkomen van aanmerkelijke hoeveelheden straling of radioactief materiaal;
+- b) ensuring the implementation of rapid and comprehensive measures to locate and, where appropriate, recover missing or stolen nuclear material; when the material is located outside its territory, that State Party shall act in accordance with [article 5](https://wetten.overheid.nl/BWBV0003800);
 
-- e. „sabotage”: elk opzettelijk handelen gericht tegen een kerninstallatie of kernmateriaal dat wordt gebruikt, opgeslagen of vervoerd, dat direct of indirect de gezondheid en de veiligheid van personeel, het publiek of het milieu in gevaar zou kunnen brengen door blootstelling aan straling of het vrijkomen van radioactieve stoffen.
+- c) protecting nuclear material and nuclear facilities against sabotage; and
 
-##### Artikel 2
+- d) mitigating or minimizing the radiological consequences of sabotage.
 
-1. Dit Verdrag is van toepassing op kernmateriaal gebruikt voor vreedzame doeleinden, tijdens het gebruik, de opslag en het vervoer ervan en op kerninstallaties gebruikt voor vreedzame doeleinden, echter met dien verstande dat de [artikelen drie](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=3&z=2016-05-08&g=2016-05-08) en [vier](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=4&z=2016-05-08&g=2016-05-08) en [artikel vijf, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=5&z=2016-05-08&g=2016-05-08), van dit Verdrag uitsluitend van toepassing zijn op dergelijk kernmateriaal tijdens het internationaal vervoer ervan.
+2. In implementing paragraph 1, each State Party shall:
 
-2. De verantwoordelijkheid voor de instelling, uitvoering en handhaving van een stelsel voor fysieke beveiliging binnen een Verdragsluitende Staat, berust volledig bij die Staat.
+- a) establish and maintain a legislative and regulatory framework to govern physical protection;
 
-3. Met uitzondering van de verplichtingen die door de Verdragsluitende Staten uitdrukkelijk zijn aangegaan ingevolge dit Verdrag, wordt niets in dit Verdrag uitgelegd als een beperking van de soevereine rechten van een Staat.
+- b) establish or designate a competent authority or authorities responsible for the implementation of the legislative and regulatory framework; and
 
-- a. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van Verdragsluitende Staten op grond van het internationaal recht, met name de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en het internationaal humanitair recht.
+- c) take other appropriate measures necessary for the physical protection of nuclear material and nuclear facilities.
 
-- b. De handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht vallen niet onder dit Verdrag, evenmin als de handelingen ondernomen door de strijdkrachten van een Staat bij de uitoefening van hun officiële taken, voorzover onderworpen aan andere bepalingen van internationaal recht.
+3. In implementing the obligations under paragraphs 1 and 2, each State Party shall, without prejudice to any other provisions of this Convention, apply insofar as is reasonable and practicable the following Fundamental Principles of Physical Protection of Nuclear Material and Nuclear Facilities.
 
-- c. Niets in dit Verdrag wordt zo uitgelegd dat het gebruik van of het dreigen met het gebruik van geweld tegen kernmateriaal of kerninstallaties gebruikt voor vreedzame doeleinden, gewettigd wordt.
+Fundamental principle A: responsibility of the State
 
-- d. Door niets in dit Verdrag worden anderszins wederrechtelijke gedragingen gebillijkt of gewettigd noch wordt vervolging op grond van andere wetten belet.
+The responsibility for the establishment, implementation and maintenance of a physical protection regime within a State rests entirely with that State.
 
-5. Dit Verdrag is niet van toepassing op kernmateriaal dat voor militaire doeleinden wordt gebruikt of bewaard, of op een kerninstallatie die dergelijk materiaal bevat.
+Fundamental principle B: Responsibilities During International Transport
 
-##### Artikel 3
+The responsibility of a State for ensuring that nuclear material is adequately protected extends to the international transport thereof, until that responsibility is properly transferred to another State, as appropriate.
 
-Elke Verdragsluitende Staat neemt, overeenkomstig zijn nationale wetgeving en het internationaal recht, de noodzakelijke maatregelen om, tijdens internationaal nucleair vervoer, het kernmateriaal dat zich op zijn grondgebied of aan boord van een onder zijn rechtsmacht vallend vaartuig of luchtvaartuig bevindt, voor zover dit vaartuig of luchtvaartuig aan het vervoer naar of van deze Staat deelneemt, zoveel mogelijk te beveiligen overeenkomstig de in bijlage I omschreven niveaus.
+Fundamental principle C: Legislative and Regulatory Framework
 
-##### Artikel 4
+The State is responsible for establishing and maintaining a legislative and regulatory framework to govern physical protection. This framework should provide for the establishment of applicable physical protection requirements and include a system of evaluation and licensing or other procedures to grant authorization. This framework should include a system of inspection of nuclear facilities and transport to verify compliance with applicable requirements and conditions of the license or other authorizing document, and to establish a means to enforce applicable requirements and conditions, including effective sanctions.
 
-1. Iedere Verdragsluitende Staat voert geen kernmateriaal uit of laat de uitvoer ervan niet toe, tenzij deze Staat de zekerheid heeft ontvangen dat dit kernmateriaal tijdens het internationaal nucleair vervoer zal worden beveiligd overeenkomstig de in bijlage I omschreven niveaus.
+Fundamental principle D: Competent Authority
 
-2. Iedere Verdragsluitende Staat voert geen kernmateriaal in of laat de invoer ervan uit een Staat die geen partij is bij dit Verdrag niet toe, tenzij deze Staat de zekerheid heeft ontvangen dat dit kernmateriaal tijdens het internationaal nucleair vervoer zal worden beveiligd overeenkomstig de in bijlage I omschreven niveaus.
+The State should establish or designate a competent authority which is responsible for the implementation of the legislative and regulatory framework, and is provided with adequate authority, competence and financial and human resources to fulfill its assigned responsibilities. The State should take steps to ensure an effective independence between the functions of the State’s competent authority and those of any other body in charge of the promotion or utilization of nuclear energy.
 
-3. Een Verdragsluitende Staat geeft geen toestemming voor de doorvoer van kernmateriaal op zijn grondgebied over land of binnenwateren of via zijn lucht- of zeehavens, bij vervoer tussen Staten die geen partij zijn bij dit Verdrag, tenzij deze Staat de grootst mogelijke zekerheid heeft ontvangen dat dit kernmateriaal tijdens het internationaal nucleair vervoer zal worden beveiligd overeenkomstig de in bijlage I omschreven niveaus.
+Fundamental principle E: Responsibility of the License Holders
 
-4. Iedere Verdragsluitende Staat past overeenkomstig zijn nationale wetgeving de in bijlage I omschreven niveaus van fysieke beveiliging toe op het kernmateriaal dat van het ene deel van deze Staat naar een ander deel van dezelfde Staat wordt vervoerd via internationale wateren of door het internationale luchtruim.
+The responsibilities for implementing the various elements of physi-cal protection within a State should be clearly identified. The State should ensure that the prime responsibility for the implementation of physical protection of nuclear material or of nuclear facilities rests with the holders of the relevant licenses or of other authorizing documents (e.g., operators or shippers).
 
-5. De Verdragsluitende Staat aan wie volgens het eerste en het derde lid de zekerheid dient te worden gegeven dat het kernmateriaal zal worden beveiligd overeenkomstig de in bijlage I omschreven niveaus, stelt van tevoren de Staten vast via welke dit kernmateriaal vermoedelijk zal worden doorgevoerd over land of binnenwateren, of via welker lucht- of zeehavens het naar verwachting hun gebied zal binnenkomen, en stelt deze Staten daarvan vooraf in kennis.
+Fundamental principle F: Security Culture
 
-6. De verantwoordelijkheid met betrekking tot het verkrijgen van de in het eerste lid bedoelde zekerheid kan met wederzijds goedvinden worden overgedragen aan de Verdragsluitende Staat die als invoerende Staat bij het vervoer betrokken is.
+All organizations involved in implementing physical protection should give due priority to the security culture, to its development and maintenance necessary to ensure its effective implementation in the entire organization.
 
-7. Niets in dit artikel mag worden uitgelegd als enigerlei beperking van de territoriale soevereiniteit en rechtsmacht van een Staat, in het bijzonder met betrekking tot het luchtruim en de territoriale zee van deze Staat.
+Fundamental principle G: Threat
 
-##### Artikel 5
+The State’s physical protection should be based on the State’s current evaluation of the threat.
 
-1. De Verdragsluitende Staten stellen elkaar rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie in kennis van hun contactorgaan met betrekking tot aangelegenheden die onder dit Verdrag vallen.
+Fundamental principle H: Graded Approach
 
-2. In geval van diefstal, roof of enige andere wederrechtelijke toe-eigening van kernmateriaal of bij reëel gevaar daarvoor, dienen de Verdragsluitende Staten overeenkomstig hun nationale wetgeving aan iedere Staat die daarom verzoekt, naar hun beste vermogen medewerking en hulp te verlenen bij het terugkrijgen en beveiligen van dit materiaal. In het bijzonder:
+Physical protection requirements should be based on a graded approach, taking into account the current evaluation of the threat, the relative attractiveness, the nature of the material and potential consequences associated with the unauthorized removal of nuclear material and with the sabotage against nuclear material or nuclear facilities.
 
-- a. neemt een Verdragsluitende Staat de nodige maatregelen om de andere Staten voor wie zulks van belang lijkt te zijn, zo spoedig mogelijk in te lichten omtrent iedere diefstal, roof of andere wederrechtelijke toe-eigening van kernmateriaal of reëel gevaar daarvoor, en, wanneer van toepassing, de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties in te lichten;
+Fundamental principle I: Defence in Depth
 
-- b. daarbij wisselen de betrokken Verdragsluitende Staten, indien nodig, onderling en met de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties inlichtingen uit teneinde het bedreigde kernmateriaal te beveiligen, de ongeschonden toestand van de vervoerscontainer te controleren of het wederrechtelijk weggenomen kernmateriaal terug te krijgen en zij:
+The State’s requirements for physical protection should reflect a concept of several layers and methods of protection (structural or other technical, personnel and organizational) that have to be overcome or circumvented by an adversary in order to achieve his objectives.
 
-- i. coördineren hun werkzaamheden langs diplomatieke weg en andere overeengekomen wegen;
+Fundamental principle J: Quality Assurance
 
-- ii. verlenen elkaar bijstand, indien daarom wordt verzocht;
+A quality assurance policy and quality assurance programmes should be established and implemented with a view to providing confidence that specified requirements for all activities important to physical protection are satisfied.
 
-- iii. verzekeren de teruggave van het gestolen of ten gevolge van de hierboven genoemde handelingen ontbrekende kernmateriaal.
+Fundamental principle K: Contingency Plans
 
-De wijze waarop deze samenwerking plaatsvindt, wordt door de betrokken Verdragsluitende Staten bepaald.
+Contingency (emergency) plans to respond to unauthorized removal of nuclear material or sabotage of nuclear facilities or nuclear material, or attempts thereof, should be prepared and appropriately exercised by all license holders and authorities concerned.
 
-3. In geval van een reëel gevaar voor sabotage van kernmateriaal of een kerninstallatie of in geval van sabotage daarvan, werken de Verdragsluitende Staten, zoveel als mogelijk is, in overeenstemming met hun nationale wetgeving en verenigbaar met hun relevante verplichtingen ingevolge het internationaal recht, op de volgende wijze samen:
+Fundamental principle L: Confidentiality
 
-- a. indien een Verdragsluitende Staat kennis krijgt van het bestaan van een reëel gevaar voor sabotage van kernmateriaal of een kerninstallatie in een andere Staat, beslist de eerstgenoemde Staat welke stappen ondernomen dienen te worden om die andere Staat zo snel mogelijk, en indien nodig de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties, te informeren over deze dreiging met het oog op het voorkomen van de sabotage;
+The State should establish requirements for protecting the confidentiality of information, the unauthorized disclosure of which could compromise the physical protection of nuclear material and nuclear facilities.
 
-- b. in geval van sabotage van de kernmateriaal of een kerninstallatie in een Verdragsluitende Staat en indien deze Staat van mening is dat andere Staten waarschijnlijk gevolgen van straling zullen ondervinden, neemt de eerstgenoemde Staat, onverminderd zijn andere verplichtingen ingevolge het internationaal recht, passende stappen om de andere Staat of Staten die waarschijnlijk gevolgen van straling zal of zullen ondervinden zo snel mogelijk te informeren en de Internationale Organisatie voor Atoomenergie en, indien nodig, andere relevante internationale organisaties te informeren met het oog op het tot een minimum beperken of afzwakken van de radiologische gevolgen;
+4. - (a) The provisions of this article shall not apply to any nuclear material which the State Party reasonably decides does not need to be subject to the physical protection regime established pursuant to paragraph 1, taking into account the nature of the material, its quantity and relative attractiveness and the potential radiological and other consequences associated with any unauthorized act directed against it and the current evaluation of the threat against it.
 
-- c. indien in de context van onderdelen a en b een Verdragsluitende Staat om bijstand verzoekt, neemt elke Verdragsluitend Partij aan wie het verzoek om bijstand is gericht onverwijld een beslissing en stelt de verzoekende Verdragsluitende Staat ervan in kennis, rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie, of hij de gevraagde bijstand kan verlenen, en in welke omvang en op welke voorwaarden dit zou kunnen geschieden;
+- (b) Nuclear material which is not subject to the provisions of this article pursuant to subparagraph (a) should be protected in accordance with prudent management practice.
 
-- d. coördinatie van de samenwerking ingevolge de onderdelen a tot en met c vindt plaats langs diplomatieke weg of andere overeengekomen wegen. De wijze waarop deze samenwerking plaatsvindt, wordt door de betrokken Verdragsluitende Staten bilateraal of multilateraal bepaald.
+##### Article 3
 
-4. De Verdragsluitende Staten werken onderling samen en plegen overleg, indien nodig, rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties, teneinde richtsnoeren betreffende het ontwerp, de handhaving en verbetering van systemen voor fysieke beveiliging van kernmateriaal in internationaal vervoer te verkrijgen.
+Each State Party shall take appropriate steps within the framework of its national law and consistent with international law to ensure as far as practicable that, during international nuclear transport, nuclear material within its territory, or on board a ship or aircraft under its jurisdiction insofar as such ship or aircraft is engaged in the transport to or from that State, is protected at the levels described in Annex I.
 
-5. Een Verdragsluitende Staat kan, indien nodig, met andere Verdragsluitende Staten overleg plegen of ermee samenwerken, rechtstreeks of door tussenkomst van de Internationale Organisatie voor Atoomenergie en andere relevante internationale organisaties, teneinde van hen richtsnoeren te verkrijgen betreffende het ontwerp, de handhaving en verbetering van zijn nationale systeem voor fysieke beveiliging van kernmateriaal dat op zijn nationale grondgebied wordt gebruikt, opgeslagen en vervoerd en van kerninstallaties.
+##### Article 4
 
-##### Artikel 6
+1. Each State Party shall not export or authorize the export of nuclear material unless the State Party has received assurances that such material will be protected during the international nuclear transport at the levels described in Annex I.
 
-1. De Verdragsluitende Staten nemen passende maatregelen die verenigbaar zijn met hun nationale recht teneinde het vertrouwelijk karakter te beschermen van inlichtingen die zij in vertrouwen uit hoofde van de bepalingen van dit Verdrag van een andere Verdragsluitende Staat ontvangen of in het kader van hun deelname aan een activiteit die wordt verricht ten behoeve van de uitvoering van dit Verdrag. Indien Verdragsluitende Staten in vertrouwen inlichtingen verschaffen aan internationale organisaties of aan Staten die geen partij zijn bij dit Verdrag, worden maatregelen getroffen teneinde te verzekeren dat het vertrouwelijk karakter van dergelijke inlichtingen gewaarborgd wordt. Een Verdragsluitende Partij die inlichtingen in vertrouwen heeft ontvangen van een andere Verdragsluitende Partij mag deze inlichtingen uitsluitend met toestemming van die andere Verdragsluitende Partij aan derden verstrekken.
+2. Each State Party shall not import or authorize the import of nuclear material from a State not party to this Convention unless the State Party has received assurances that such material will during the international nuclear transport be protected at the levels described in Annex I.
 
-2. Van Verdragsluitende Staten wordt op grond van dit Verdrag niet verlangd dat zij inlichtingen verschaffen die zij niet mogen doorgeven ingevolge hun nationale wetgeving of wanneer zulks de veiligheid van de betrokken Staat of de fysieke beveiliging van kernmateriaal of kerninstallaties in gevaar zou brengen.
+3. A State Party shall not allow the transit of its territory by land or internal waterways or through its airports or seaports of nuclear material between States that are not parties to this Convention unless the State Party has received assurances as far as practicable that this nuclear material will be protected during international nuclear transport at the levels described in Annex I.
 
-##### Artikel 7
+4. Each State Party shall apply within the framework of its national law the levels of physical protection described in Annex I to nuclear material being transported from a part of that State to another part of the same State through international waters or airspace.
 
-1. Het opzettelijk begaan van een van de volgende feiten:
+5. The State Party responsible for receiving assurances that the nuclear material will be protected at the levels described in Annex I according to paragraphs 1 to 3 shall identify and inform in advance States which the nuclear material is expected to transit by land or internal waterways, or whose airports or seaports it is expected to enter.
 
-- a. het zonder vergunning verleend door het bevoegd gezag verkrijgen, voorhanden hebben, gebruiken, vervoeren, veranderen, verspreiden of zich ontdoen van kernmateriaal, indien dit iemands dood tot gevolg heeft of daardoor ernstig lichamelijk letsel voor een ander of aanzienlijke schade aan goederen of het milieu ontstaat, dan wel indien daarvan levensgevaar of gevaar voor ernstig lichamelijk letsel voor een ander of aanzienlijke schade aan goederen of het milieu te duchten is;
+6. The responsibility for obtaining assurances referred to in paragraph 1 may be transferred, by mutual agreement, to the State Party involved in the transport as the importing State.
 
-- b. diefstal of roof van kernmateriaal;
+7. Nothing in this article shall be interpreted as in any way affecting the territorial sovereignty and jurisdiction of a State, including that over its airspace and territorial sea.
 
-- c. het verduisteren of op bedrieglijke wijze toe-eigenen van kernmateriaal;
+##### Article 5
 
-- d. het zonder vergunning vervoeren, verzenden of verplaatsen van nucleair materiaal naar of vanuit een Staat;
+1. States Parties shall identify and make known to each other directly or through the International Atomic Energy Agency their point of contact in relation to matters within the scope of this Convention.
 
-- e. een rechtstreeks tegen een kerninstallatie gericht handelen, of een handelen dat de exploitatie van een kerninstallatie in de weg staat, indien de dader opzettelijk iemands dood veroorzaakt, iemand ernstig lichamelijk letsel toebrengt of aanzienlijke schade aan goederen of het milieu veroorzaakt, of indien de dader weet dat zijn handelen dit waarschijnlijk tot gevolg heeft, door blootstelling aan straling of het vrijkomen van radioactieve stoffen, tenzij het handelen plaatsvindt in overeenstemming met het nationale recht van de Verdragsluitende Staat op het grondgebied waarvan de kerninstallatie gevestigd is;
+2. In the case of theft, robbery or any other unlawful taking of nuclear material or credible threat thereof, States Parties shall, in accordance with their national law, provide co-operation and assistance to the maximum feasible extent in the recovery and protection of such material to any State that so requests. In particular:
 
-- f. het trachten te bemachtigen van kernmateriaal door middel van of dreiging met geweld of enige andere vorm van intimidatie;
+- a) a State Party shall take appropriate steps to inform as soon as possible other States, which appear to it to be concerned, of any theft, robbery or other unlawful taking of nuclear material or credible threat thereof, and to inform, where appropriate, the International Atomic Energy Agency and other relevant international organizations;
 
-- g. het uiten van de bedreiging om:
+- b) in doing so, as appropriate, the States Parties concerned shall exchange information with each other, the International Atomic Energy Agency and other relevant international organizations with a view to protecting threatened nuclear material, verifying the integrity of the shipping container or recovering unlawfully taken nuclear material and shall:
 
-- i. kernmateriaal te gebruiken teneinde iemands dood te veroorzaken of iemand ernstig lichamelijk letsel toe te brengen, dan wel aanzienlijke schade aan goederen of het milieu te veroorzaken of het plegen van het onder e genoemde strafbare feit, of
+   - (i) co-ordinate their efforts through diplomatic and other agreed channels;
 
-- ii. een van de strafbare feiten genoemd onder b en e te plegen, teneinde een natuurlijke persoon of een rechtspersoon, een internationale organisatie of Staat te dwingen iets te doen of na te laten;
+   - (ii) render assistance, if requested;
 
-- h. de poging tot het plegen van een van de strafbare feiten genoemd onder a tot en met e;
+   - (iii) ensure the return of recovered nuclear material stolen or missing as a consequence of the above-mentioned events.
 
-- i. het deelnemen aan een van de strafbare feiten genoemd onder a tot en met h;
+The means of implementation of this co-operation shall be determined by the States Parties concerned.
 
-- j. het handelen van een persoon die een van de strafbare feiten genoemd onder a tot en met h organiseert of anderen tot het plegen daarvan opdracht geeft; en
+3. In the case of a credible threat of sabotage of nuclear material or a nuclear facility or in the case of sabotage thereof, States Parties shall, to the maximum feasible extent, in accordance with their national law and consistent with their relevant obligations under international law, co-operate as follows:
 
-- k. handelen dat bijdraagt aan het plegen van een van de strafbare feiten genoemd onder a tot en met h door een groep personen die optreden met een gemeenschappelijk doel; deze bijdrage dient opzettelijk te zijn, en te worden geleverd:
+- a) if a State Party has knowledge of a credible threat of sabotage of nuclear material or a nuclear facility in another State, the former shall decide on appropriate steps to be taken in order to inform that State as soon as possible and, where appropriate, the International Atomic Energy Agency and other relevant international organizations of that threat, with a view to preventing the sabotage;
 
-- i. hetzij met het oog op de bevordering van de criminele activiteit of het criminele doel van de groep, wanneer een dergelijke activiteit of het doel het plegen van een strafbaar feit inhoudt als genoemd onder a tot en met g,
+- b) in the case of sabotage of nuclear material or a nuclear facility in a State Party and if in its view other States are likely to be radiologically affected, the former, without prejudice to its other obligations under international law, shall take appropriate steps to inform as soon as possible the State or the States which are likely to be radiologically affected and to inform, where appropriate, the International Atomic Energy Agency and other relevant international organizations, with a view to minimizing or mitigating the radiological consequences thereof;
 
-- ii. hetzij in de wetenschap van het oogmerk van de groep een van de strafbare feiten genoemd onder a tot en met g te plegen,
+- c) if in the context of sub-paragraphs (a) and (b), a State Party requests assistance, each State Party to which a request for assistance is directed shall promptly decide and notify the requesting State Party, directly or through the International Atomic Energy Agency, whether it is in a position to render the assistance requested and the scope and terms of the assistance that may be rendered;
 
-wordt door iedere Verdragsluitende Staat in zijn nationale wetgeving strafbaar gesteld.
+- d) co-ordination of the co-operation under sub-paragraphs (a) to (c) shall be through diplomatic or other agreed channels. The means of implementation of this co-operation shall be determined bilaterally or multilaterally by the States Parties concerned.
 
-2. Iedere Verdragsluitende Staat verbindt zich er toe op de in dit artikel genoemde strafbare feiten straffen te stellen die beantwoorden aan de ernst van deze feiten.
+4. States Parties shall co-operate and consult, as appropriate, with each other directly or through the International Atomic Energy Agency and other relevant international organizations, with a view to obtaining guidance on the design, maintenance and improvement of systems of physical protection of nuclear material in international transport.
 
-##### Artikel 8
+5. A State Party may consult and co-operate, as appropriate, with other States Parties directly or through the International Atomic Energy Agency and other relevant international organizations, with a view to obtaining their guidance on the design, maintenance and improvement of its national system of physical protection of nuclear material in domestic use, storage and transport and of nuclear facilities.
 
-1. Iedere Verdragsluitende Staat neemt de maatregelen die nodig zijn om zijn bevoegdheid vast te leggen tot kennisneming van de in artikel 7 bedoelde strafbare feiten in de volgende gevallen:
+##### Article 6
 
-- a. wanneer het strafbare feit wordt gepleegd op het grondgebied van deze Staat of aan boord van een vaartuig of luchtvaartuig dat in deze Staat is geregistreerd;
+1. States Parties shall take appropriate measures consistent with their national law to protect the confidentiality of any information which they receive in confidence by virtue of the provisions of this Convention from another State Party or through participation in an activity carried out for the implementation of this Convention. If States Parties provide information to international organizations or to States that are not parties to this Convention in confidence, steps shall be taken to ensure that the confidentiality of such information is protected. A State Party that has received information in confidence from another State Party may provide this information to third parties only with the consent of that other State Party.
 
-- b. wanneer de vermoedelijke dader een onderdaan van deze Staat is.
+2. States Parties shall not be required by this Convention to provide any information which they are not permitted to communicate pursuant to national law or which would jeopardize the security of the State concerned or the physical protection of nuclear material or nuclear facilities.
 
-2. Iedere Verdragsluitende Staat neemt tevens de maatregelen die nodig zijn om zijn bevoegdheid tot kennisneming van deze strafbare feiten vast te leggen in gevallen waarin de vermoedelijke dader zich op zijn grondgebied bevindt en de Staat hem niet overeenkomstig artikel 11 uitlevert aan een van de in het eerste lid bedoelde Staten.
+##### Article 7
 
-3. Dit Verdrag sluit geen enkele bevoegdheid in strafzaken uit, die wordt uitgeoefend krachtens de nationale wet.
+1. The intentional commission of:
 
-4. Behalve de in het eerste en tweede lid bedoelde Staten, kunnen ook alle andere Verdragsluitende Staten die bij internationaal vervoer van kernmateriaal betrokken zijn als uitvoerende of invoerende Staat, bevoegdheid tot kennisneming van de in artikel 7 genoemde strafbare feiten vastleggen, overeenkomstig het internationale recht.
+- a) an act without lawful authority which constitutes the receipt, possession, use, transfer, alteration, disposal or dispersal of nuclear material and which causes or is likely to cause death or serious injury to any person or substantial damage to property or to the environment;
 
-##### Artikel 9
+- b) a theft or robbery of nuclear material;
 
-Een Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader zich bevindt, neemt, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, overeenkomstig zijn nationale wetgeving passende maatregelen, vrijheidsbeneming inbegrepen, ter verzekering van diens aanwezigheid met het oog op strafvervolging of uitlevering.
+- c) an embezzlement or fraudulent obtaining of nuclear material;
 
-De maatregelen die op grond van dit artikel worden genomen, worden onverwijld meegedeeld aan de Staten die overeenkomstig artikel 8 hun bevoegdheid dienen vast te leggen, en zo nodig aan alle andere betrokken Staten.
+- d) an act which constitutes the carrying, sending, or moving of nuclear material into or out of a State without lawful authority;
 
-##### Artikel 10
+- e) an act directed against a nuclear facility, or an act interfering with the operation of a nuclear facility, where the offender intentionally causes, or where he knows that the act is likely to cause, death or serious injury to any person or substantial damage to property or to the environment by exposure to radiation or release of radioactive substances, unless the act is undertaken in conformity with the national law of the State Party in the territory of which the nuclear facility is situated;
 
-De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader wordt aangetroffen is, indien hij hem niet uitlevert, verplicht de zaak, zonder enige uitzondering en zonder onnodig uitstel, overeenkomstig de wetgeving van deze Staat voor vervolging aan zijn bevoegde autoriteiten over te dragen.
+- f) an act constituting a demand for nuclear material by threat or use of force or by any other form of intimidation;
 
-##### Artikel 11
+- g) a threat:
 
-1. De in artikel 7 genoemde strafbare feiten worden geacht in elk tussen de Verdragsluitende Staten bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Verdragsluitende Staten verplichten zich ertoe deze strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.
+   - (i) to use nuclear material to cause death or serious injury to any person or substantial damage to property or to the environment or to commit the offence described in sub-paragraph (e), or
 
-2. Indien een Verdragsluitende Staat welke uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere Verdragsluitende Staat waarmee hij geen uitleveringsverdrag heeft gesloten, kan hij, indien hij dat verkiest, dit Verdrag beschouwen als wettelijke basis voor uitlevering ter zake van de vorengenoemde strafbare feiten.
+   - (ii) to commit an offence described in sub-paragraphs (b) and (e) in order to compel a natural or legal person, international organization or State to do or to refrain from doing any act;
 
-De uitlevering is onderworpen aan de overige voorwaarden, waarin het recht van de aangezochte Staat voorziet.
+- (h) an attempt to commit any offence described in sub-paragraphs (a) to (e);
 
-3. De Verdragsluitende Staten die de uitlevering niet afhankelijk stellen van het bestaan van een verdrag, erkennen de vorengenoemde strafbare feiten onderling als uitleveringsdelicten, waarin het recht onderworpen aan de voorwaarden van de aangezochte Staat voorziet.
+- (i) an act which constitutes participation in any offence described in sub-paragraphs (a) to (h);
 
-4. Voor uitlevering tussen Verdragsluitende Staten wordt elk van deze strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de Verdragsluitende Staten die overeenkomstig het eerste lid van artikel 8 hun bevoegdheid dienen vast te leggen.
+- (j) an act of any person who organizes or directs others to commit an offence described in sub-paragraphs (a) to (h); and
 
-##### Artikel 12
+- (k) an act which contributes to the commission of any offence described in sub-paragraphs (a) to (h) by a group of persons acting with a common purpose; such act shall be intentional and shall either:
 
-Een ieder tegen wie een strafvervolging wordt ingesteld op grond van een van de in artikel 7 genoemde strafbare feiten, geniet een eerlijke behandeling in elk stadium van de gerechtelijke procedure.
+   - (i) be made with the aim of furthering the criminal activity or criminal purpose of the group, where such activity or purpose involves the commission of an offence described in sub-paragraphs (a) to (g), or
 
-##### Artikel 13
+   - (ii) be made in the knowledge of the intention of the group to commit an offence described in sub-paragraphs (a) to (g)
 
-1. De Verdragsluitende Staten verlenen wederzijds de ruimst mogelijke rechtshulp in strafzaken wegens de in artikel 7 genoemde strafbare feiten, met inbegrip van de verschaffing van bewijsstukken waarover zij beschikken en die noodzakelijk zijn voor strafvervolging.
+shall be made a punishable offence by each State Party under its national law.
 
-In alle gevallen is op de uitvoering van een verzoek om rechtshulp de wet van de aangezochte staat van toepassing.
+2. Each State Party shall make the offences described in this article punishable by appropriate penalties which take into account their grave nature.
 
-2. Het bepaalde in het eerste lid laat verplichtingen uit hoofde van een ander bilateraal of multilateraal Verdrag dat geheel of gedeeltelijk de rechtshulp in strafzaken regelt of zal regelen, onverlet.
+##### Article 8
 
-##### Artikel 14
+1. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 7 in the following cases:
 
-1. Iedere Verdragsluitende Staat stelt de Depositaris op de hoogte van de wetten en voorschriften uitgevaardigd ter uitvoering van dit Verdrag. De Depositaris brengt deze inlichtingen op geregelde tijdstippen ter kennis van alle Verdragsluitende Staten.
+- (a) when the offence is committed in the territory of that State or on board a ship or aircraft registered in that State;
 
-2. De Verdragsluitende Staat op het grondgebied waarvan de vermoedelijke dader wordt vervolgd, deelt, voor zover zulks uitvoerbaar is, de definitieve gerechtelijke uitspraak in de eerste plaats mee aan de rechtstreeks betrokken Staten. De Verdragsluitende Staat deelt tevens deze uitspraak mee aan de Depositaris, die daarvan kennis geeft aan alle Staten.
+- (b) when the alleged offender is a national of that State.
 
-3. In gevallen waarin een strafbaar feit betrekking heeft op het gebruik, de opslag of het vervoer op het nationale grondgebied van kernmateriaal, waarbij zowel de vermoedelijke dader als het kernmateriaal zich bevinden op het grondgebied van de Verdragsluitende Staat waar het strafbare feit is gepleegd, of in gevallen waarin een strafbaar feit betrekking heeft op een kerninstallatie en de vermoedelijke dader zich bevindt op het grondgebied van de Verdragssluitende Staat waar het strafbare feit is gepleegd, wordt niets in dit Verdrag uitgelegd als een verplichting van deze Verdragsluitende Staat om inlichtingen te verstrekken omtrent de strafrechtelijke procedures met betrekking tot dit strafbare feit.
+2. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over these offences in cases where the alleged offender is present in its territory and it does not extradite him pursuant to article 11 to any of the States mentioned in paragraph 1.
 
-##### Artikel 15
+3. This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.
 
-De Bijlagen bij dit Verdrag vormen een wezenlijk bestanddeel van het Verdrag.
+4. In addition to the States Parties mentioned in paragraphs 1 and 2, each State Party may, consistent with international law, establish its jurisdiction over the offences set forth in article 7 when it is involved in international nuclear transport as the exporting or importing State.
 
-##### Artikel 16
+##### Article 9
 
-1. Vijf jaar na de inwerkingtreding van de op 8 juli 2005 aangenomen wijziging roept de Depositaris een conferentie van de Verdragsluitende Staten bijeen teneinde de toepassing van het Verdrag te toetsen, alsmede de toereikendheid daarvan ten aanzien van de preambule, het geheel van de bepalingen en de Bijlagen in het licht van de situatie op dat tijdstip.
+Upon being satisfied that the circumstances so warrant, the State Party in whose territory the alleged offender is present shall take appropriate measures, including detention, under its national law to ensure his presence for the purpose of prosecution or extradition. Measures taken according to this article shall be notified without delay to the States required to establish jurisdiction pursuant to article 8 and, where appropriate, all other States concerned.
 
-2. Vervolgens kan de meerderheid van de Verdragsluitende Staten, met tussenpozen van ten minste vijf jaar, conferenties voor hetzelfde doel bijeenroepen door daartoe bij de Depositaris een voorstel in te dienen.
+##### Article 10
 
-##### Artikel 17
+The State Party in whose territory the alleged offender is present shall, if it does not extradite him, submit, without exception whatsoever and without undue delay, the case to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State.
 
-1. In geval van een geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van het Verdrag, plegen de betrokken Verdragsluitende Staten onderling overleg om het geschil bij te leggen door onderhandeling of door enig ander vreedzaam middel tot regeling van geschillen, dat voor alle partijen bij het geschil aanvaardbaar is.
+##### Article 11
 
-2. Elk zodanig geschil dat niet kan worden geregeld op de in het eerste lid voorgeschreven wijze, wordt op verzoek van een partij bij dit geschil onderworpen aan arbitrage of voor beslechting verwezen naar het Internationale Gerechtshof.
+1. The offences in article 7 shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include those offences as extraditable offences in every future extradition treaty to be concluded between them.
 
-Indien de partijen bij het geschil binnen zes maanden na de dagtekening van het verzoek om arbitrage geen overeenstemming hebben bereikt over de wijze van arbitrage, kan een partij de Voorzitter van het Internationale Gerechtshof of de Secretaris-Generaal van de Organisatie van de Verenigde Naties verzoeken een of meer scheidsmannen te benoemen. Ingeval de verzoeken van de partijen bij het geschil niet overeenstemmen, heeft het verzoek aan de Secretaris-Generaal van de Organisatie van de Verenigde Naties voorrang.
+2. If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of those offences. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
-3. Iedere Verdragsluitende Staat kan, op het tijdstip dat hij dit Verdrag ondertekent, bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, verklaren dat hij zich niet gebonden acht door een van beide of door beide procedures tot regeling van geschillen, bedoeld in het tweede lid van dit artikel. De andere Verdragsluitende Staten zijn door een in het tweede lid genoemde procedure tot regeling van geschillen niet gebonden met betrekking tot een Verdragsluitende Staat die een voorbehoud ten aanzien van deze procedure heeft gemaakt.
+3. States Parties which do not make extradition conditional on the existence of a treaty shall recognize those offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 
-4. Iedere Verdragsluitende Staat die een voorbehoud heeft gemaakt overeenkomstig de bepalingen van het derde lid van dit artikel, kan te allen tijde zijn voorbehoud intrekken door middel van een kennisgeving aan de Depositaris.
+4. Each of the offences shall be treated, for the purpose of extradition between States Parties, as if it had been committed not only in the place in which it occurred but also in the territories of the States Parties required to establish their jurisdiction in accordance with paragraph 1 of article 8.
 
-##### Artikel 18
+##### Article 11A
 
-1. Dit Verdrag staat open voor ondertekening door alle Staten op het Hoofdkantoor van de Internationale Organisatie voor Atoomenergie te Wenen, en op het Hoofdkantoor van de Organisatie van de Verenigde Naties te New York, vanaf 3 maart 1980 tot aan het tijdstip waarop het in werking treedt.
+None of the offences set forth in [article 7](https://wetten.overheid.nl/BWBV0003800) shall be regarded for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
 
-2. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de Staten die het hebben ondertekend.
+##### Article 11B
 
-3. Na inwerkingtreding staat dit Verdrag open voor toetreding door alle Staten.
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in [article 7](https://wetten.overheid.nl/BWBV0003800) or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person’s race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person’s position for any of these reasons.
 
-- a. Dit Verdrag staat open voor ondertekening of toetreding door internationale of regionale organisaties die integratie beogen of een ander doel hebben, mits elk van deze organisaties door soevereine Staten is opgericht en bevoegd is internationale overeenkomsten met betrekking tot in dit Verdrag behandelde aangelegenheden tot stand te brengen, af te sluiten en uit te voeren.
+##### Article 12
 
-- b. In kwesties die tot hun bevoegdheid behoren, oefenen deze organisaties zelfstandig de rechten uit en aanvaarden zij de verantwoordelijkheden die dit Verdrag aan de Verdragsluitende Staten toekent.
+Any person regarding whom proceedings are being carried out in connection with any of the offences set forth in article 7 shall be guaranteed fair treatment at all stages of the proceedings.
 
-- c. Bij toetreding tot dit Verdrag deelt een zodanige organisatie schriftelijk aan de Depositaris mede, welke Staten lid zijn van de organisatie en welke artikelen van dit Verdrag niet op haar van toepassing zijn.
+##### Article 13
 
-- d. Een zodanige organisatie bezit geen ander stemrecht dan dat van haar Lid-Staten.
+1. States Parties shall afford one another the greatest measure of assistance in connection with criminal proceedings brought in respect of the offences set forth in article 7, including the supply of evidence at their disposal necessary for the proceedings. The law of the State requested shall apply in all cases.
 
-5. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden bij de Depositaris nedergelegd.
+2. The provisions of paragraph 1 shall not affect obligations under any other treaty, bilateral or multilateral, which governs or will govern, in whole or in part, mutual assistance in criminal matters.
 
-##### Artikel 19
+##### Article 13A
 
-1. Dit Verdrag treedt in werking op de dertigste dag, volgend op de datum waarop de eenentwintigste akte van bekrachtiging, aanvaarding of goedkeuring bij de Depositaris is nedergelegd.
+Nothing in this Convention shall affect the transfer of nuclear technology for peaceful purposes that is undertaken to strengthen the physical protection of nuclear material and nuclear facilities.
 
-2. Voor iedere Staat die het Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de eenentwintigste akte van bekrachtiging, aanvaarding of goedkeuring, treedt het Verdrag in werking op de dertigste dag na de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door deze Staat.
+##### Article 14
 
-##### Artikel 20
+1. Each State Party shall inform the depositary of its laws and regulations which give effect to this Convention. The depositary shall communicate such information periodically to all States Parties.
 
-1. Onverminderd het bepaalde in artikel 16 kan een Verdragsluitende Staat een wijziging van dit Verdrag voorstellen. De voorgestelde wijziging wordt toegezonden aan de Depositaris, die hiervan onverwijld mededeling doet aan alle Verdragsluitende Staten. Indien de meerderheid van de Verdragsluitende Staten de Depositaris verzoekt een vergadering bijeen te roepen teneinde de voorgestelde wijzigingen te behandelen, dan zendt de Depositaris aan alle Verdragsluitende Staten een uitnodiging voor een vergadering, die niet eerder mag beginnen dan 30 dagen na het verzenden van de uitnodigingen. Elke wijziging die op deze vergadering door een tweederde meerderheid van alle Verdragsluitende Staten wordt aangenomen, wordt onmiddellijk door de Depositaris aan alle Verdragsluitende Staten meegedeeld.
+2. The State Party where an alleged offender is prosecuted shall, wherever practicable, first communicate the final outcome of the proceedings to the States directly concerned. The State Party shall also communicate the final outcome to the depositary who shall inform all States.
 
-2. De wijziging wordt van kracht voor iedere Verdragsluitende Staat die een akte van bekrachtiging, aanvaarding of goedkeuring van deze wijziging heeft nedergelegd, op de dertigste dag na de datum waarop tweederde van de Verdragsluitende Staten hun akten van bekrachtiging, aanvaarding of goedkeuring heeft nedergelegd bij de Depositaris. Daarna wordt de wijziging voor elke andere Verdragsluitende Staat van kracht op de dag waarop deze Staat zijn akte van bekrachtiging, aanvaarding of goedkeuring van de wijziging heeft nedergelegd.
+3. Where an offence involves nuclear material in domestic use, storage or transport, and both the alleged offender and the nuclear material remain in the territory of the State Party in which the offence was committed, or where an offence involves a nuclear facility and the alleged offender remains in the territory of the State Party in which the offence was committed, nothing in this Convention shall be interpreted as requiring that State Party to provide information concerning criminal proceedings arising out of such an offence.
 
-##### Artikel 21
+##### Article 15
 
-1. Iedere Verdragsluitende Staat kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
+The Annexes constitute an integral part of this Convention.
 
-2. De opzegging wordt van kracht honderdtachtig dagen na de datum waarop de Depositaris de kennisgeving heeft ontvangen.
+##### Article 16
 
-##### Artikel 22
+1. A conference of States Parties shall be convened by the depositary five years after the entry into force of the Amendment adopted on 8 July 2005 to review the implementation of this Convention and its adequacy as concerns the preamble, the whole of the operative part and the annexes in the light of the then prevailing situation.
 
-De Depositaris geeft alle Verdragsluitende Staten onverwijld kennis van:
+2. At intervals of not less than five years thereafter, the majority of States Parties may obtain, by submitting a proposal to this effect to the depositary, the convening of further conferences with the same objective.
 
-- a. elke ondertekening van dit Verdrag;
+##### Article 17
 
-- b. elke nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+1. In the event of a dispute between two or more States Parties concerning the interpretation or application of this Convention, such States Parties shall consult with a view to the settlement of the dispute by negotiation, or by any other peaceful means of settling disputes acceptable to all parties to the dispute.
 
-- c. elk voorbehoud dat wordt gemaakt of ingetrokken krachtens artikel 17;
+2. Any dispute of this character which cannot be settled in the manner prescribed in paragraph 1 shall, at the request of any party to such dispute, be submitted to arbitration or referred to the International Court of Justice for decision. Where a dispute is submitted to arbitration, if, within six months from the date of the request, the parties to the dispute are unable to agree on the organization of the arbitration, a party may request the President of the International Court of Justice or the Secretary-General of the United Nations to appoint one or more arbitrators. In case of conflicting requests by the parties to the dispute, the request to the Secretary-General of the United Nations shall have priority.
 
-- d. elke mededeling die door een organisatie overeenkomstig artikel 18, vierde lid, letter c, wordt gedaan;
+3. Each State Party may at the time of signature, ratification, acceptance or approval of this Convention or accession thereto declare that it does not consider itself bound by either or both of the dispute settlement procedures provided for in paragraph 2. The other States Parties shall not be bound by a dispute settlement procedure provided for in paragraph 2, with respect to a State Party which has made a reservation to that procedure.
 
-- e. de inwerkingtreding van dit Verdrag;
+4. Any State Party which has made a reservation in accordance with paragraph 3 may at any time withdraw that reservation by notification to the depositary.
 
-- f. het van kracht worden van elke wijziging van dit Verdrag;
+##### Article 18
 
-- g. elke opzegging overeenkomstig artikel 21.
+1. This Convention shall be open for signature by all States at the Headquarters of the International Atomic Energy Agency in Vienna and at the Headquarters of the United Nations in New York from 3 March 1980 until its entry into force.
 
-##### Artikel 23
+2. This Convention is subject to ratification, acceptance or approval by the signatory States.
 
-Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Directeur-Generaal van de Internationale Organisatie voor Atoomenergie, die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan de Staten die dit Verdrag hebben ondertekend.
+3. After its entry into force, this Convention will be open for accession by all States.
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized, have signed this Convention, opened for signature at Vienna and at New York on 3 March 1980.
+4. - (a) This Convention shall be open for signature or accession by international organizations and regional organizations of an integration or other nature, provided that any such organization is constituted by sovereign States and has competence in respect of the negotiation, conclusion and application of international agreements in matters covered by this Convention.
 
-##### Artikel 1A
+- (b) In matters within their competence, such organizations shall, on their own behalf, exercise the rights and fulfil the responsibilities which this Convention attributes to States Parties.
 
-De doelstellingen van dit Verdrag zijn het bereiken en handhaven van een doeltreffende wereldwijde fysieke beveiliging van kernmateriaal gebruikt voor vreedzame doeleinden en van kerninstallaties gebruikt voor vreedzame doeleinden; het voorkomen en bestrijden van strafbare feiten met betrekking tot dergelijk materiaal en dergelijke installaties over de hele wereld en tevens het vergemakkelijken van de samenwerking daartoe tussen de Verdragsluitende Staten.
+- (c) When becoming party to this Convention such an organization shall communicate to the depositary a declaration indicating which States are members thereof and which articles of this Convention do not apply to it.
 
-##### Artikel 2A
+- (d) Such an organization shall not hold any vote additional to those of its Member States.
 
-1. Elke Verdragsluitende Staat stelt een passend stelsel in voor de fysieke beveiliging van kernmateriaal en kerninstallaties die onder zijn rechtsmacht vallen, voert het uit en handhaaft het, met het oog op:
+5. Instruments of ratification, acceptance, approval or accession shall be deposited with the depositary.
 
-- a. de beveiliging tegen diefstal en andere wederrechtelijke toe-eigening van kernmateriaal bij het gebruik, de opslag en het vervoer ervan;
+##### Article 19
 
-- b. de waarborging van de uitvoering van snelle en allesomvattende maatregelen om vermist of ontvreemd kernmateriaal te lokaliseren en, wanneer van toepassing, terug te krijgen; indien het materiaal zich buiten zijn grondgebied bevindt, handelt de Verdragsluitende Staat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=5&z=2016-05-08&g=2016-05-08);
+1. This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty first instrument of ratification, acceptance or approval with the depositary.
 
-- c. de beveiliging van kernmateriaal en kerninstallaties tegen sabotage; en
+2. For each State ratifying, accepting, approving or acceding to the Convention after the date of deposit of the twenty first instrument of ratification, acceptance or approval, the Convention shall enter into force on the thirtieth day after the deposit by such State of its instrument of ratification, acceptance, approval or accession.
 
-- d. het afzwakken of tot een minimum beperken van de radiologische gevolgen van sabotage.
+##### Article 20
 
-2. Bij de uitvoering van het eerste lid onderneemt elke Verdragsluitende Staat het volgende:
+1. Without prejudice to article 16 a State Party may propose amendments to this Convention. The proposed amendment shall be submitted to the depositary who shall circulate it immediately to all States Parties. If a majority of States Parties request the depositary to convene a conference to consider the proposed amendments, the depositary shall invite all States Parties to attend such a conference to begin not sooner than thirty days after the invitations are issued. Any amendment adopted at the conference by a two-thirds majority of all States Parties shall be promptly circulated by the depositary to all States Parties.
 
-- a. het instellen en handhaven van een wet- en regelgevend kader dat op fysieke beveiliging van toepassing is;
+2. The amendment shall enter into force for each State Party that deposits its instrument of ratification, acceptance or approval of the amendment on the thirtieth day after the date on which two thirds of the States Parties have deposited their instruments of ratification, acceptance or approval with the depositary. Thereafter, the amendment shall enter into force for any other State Party on the day on which that State Party deposits its instrument of ratification, acceptance or approval of the amendment.
 
-- b. het oprichten of aanwijzen van een bevoegde autoriteit of bevoegde autoriteiten verantwoordelijk voor de uitvoering van het wet- en regelgevend kader; en
+##### Article 21
 
-- c. het nemen van andere passende maatregelen die noodzakelijk zijn voor de fysieke beveiliging van kernmateriaal en kerninstallaties.
+1. Any State Party may denounce this Convention by written notification to the depositary.
 
-3. Bij de nakoming van de verplichtingen uit hoofde van het eerste en tweede lid past elke Verdragsluitende Staat, onverminderd andere bepalingen van dit Verdrag, voorzover redelijk en praktisch uitvoerbaar, de volgende grondbeginselen inzake fysieke beveiliging van kernmateriaal en kerninstallaties toe.
+2. Denunciation shall take effect one hundred and eighty days following the date on which notification is received by the depositary.
 
-**Grondbeginsel A: Verantwoordelijkheid van de Staat**
+##### Article 22
 
-De verantwoordelijkheid voor de instelling, uitvoering en handhaving van een stelsel voor fysieke beveiliging binnen een Staat, berust volledig bij die Staat.
+The depositary shall promptly notify all States of:
 
-**Grondbeginsel B: Verantwoordelijkheden tijdens internationaal transport**
+- (a) each signature of this Convention;
 
-De verantwoordelijkheid van een Staat om te waarborgen dat kernmateriaal adequaat wordt beveiligd strekt zich uit tot het internationaal transport ervan, totdat deze verantwoordelijkheid naar behoren wordt overgedragen aan een andere Staat, al naar gelang wat van toepassing is.
+- (b) each deposit of an instrument of ratification, acceptance, approval or accession;
 
-**Grondbeginsel C: Wet- en regelgevend kader**
+- (c) any reservation or withdrawal in accordance with article 17;
 
-De Staat is verantwoordelijk voor het instellen en handhaven van een wet- en regelgevend kader dat op fysieke beveiliging van toepassing is. Dit kader dient te voorzien in de totstandkoming van toepasselijke eisen voor fysieke beveiliging met inbegrip van een beoordelings- en vergunningenstelsel of andere procedures om vergunning te verlenen. Dit kader dient een stelsel voor inspectie van kerninstallaties en vervoer te omvatten teneinde de naleving te controleren van de van toepassing zijnde vereisten en voorwaarden van de vergunning of een ander goedkeuringsdocument, en dient een middel vast te stellen om de toepasselijke vereisten en voorwaarden te handhaven, met inbegrip van doeltreffende sancties.
+- (d) any communication made by an organization in accordance with paragraph 4(c) of article 18;
 
-**Grondbeginsel D: Bevoegde autoriteit**
+- (e) the entry into force of this Convention;
 
-De Staat dient een bevoegde autoriteit op te richten of aan te wijzen die verantwoordelijk is voor de uitvoering van het wet- en regelgevend kader en die over passende bevoegdheden, bekwaamheid en financiële en personele middelen beschikt om de toegewezen taken te vervullen. De Staat dient maatregelen te nemen om te zorgen voor een daadwerkelijke scheiding tussen de taken van de bevoegde autoriteit van de Staat en die van elk ander lichaam dat belast is met de bevordering of het gebruik van kernenergie.
+- (f) the entry into force of any amendment to this Convention; and
 
-**Grondbeginsel E: Verantwoordelijkheid van de vergunninghouders**
+- (g) any denunciation made under article 21.
 
-De verantwoordelijkheden voor het uitvoeren van de verschillende onderdelen van fysieke beveiliging binnen een Staat dienen duidelijk vastgesteld te zijn. De Staat dient te waarborgen dat de hoofdverantwoordelijkheid voor de uitvoering van fysieke beveiliging van kernmateriaal of van kerninstallaties berust bij de houders van de desbetreffende vergunningen of andere goedkeuringsdocumenten (bijvoorbeeld exploitanten of vervoerders).
+##### Article 23
 
-**Grondbeginsel F: Veiligheidscultuur**
-
-Alle organisaties die betrokken zijn bij de uitvoering van fysieke beveiliging dienen de nodige prioriteit te verlenen aan de veiligheidscultuur en de ontwikkeling en instandhouding daarvan teneinde de doeltreffende uitvoering ervan in de gehele organisatie te waarborgen.
-
-**Grondbeginsel G: Dreiging**
-
-De fysieke beveiliging door een Staat dient gebaseerd te zijn op de actuele beoordeling van de dreiging door de Staat.
-
-**Grondbeginsel H: Gradatiesysteem**
-
-Vereisten voor fysieke beveiliging dienen gebaseerd te zijn op een gradatiesysteem, rekening houdend met de huidige inschatting van de dreiging, de relatieve aantrekkelijkheid, de aard van het materiaal en de mogelijke gevolgen van het ongeoorloofd wegnemen van kernmateriaal en van sabotage van kernmateriaal of kerninstallaties.
-
-**Grondbeginsel I: Verdediging in de diepte**
-
-De vereisten van de Staat betreffende fysieke beveiliging dienen een afspiegeling te zijn van een concept dat uitgaat van verschillende beveiligingslagen en -methoden (structureel of anderszins technisch, personeel en organisatorisch) die een persoon te kwader trouw moet overwinnen of omzeilen om zijn doelen te verwezenlijken.
-
-**Grondbeginsel J: Kwaliteitsborging**
-
-Er dienen een beleid en programma’s voor kwaliteitsborging te worden opgezet en uitgevoerd teneinde vertrouwen te bieden dat de gestelde eisen voor alle activiteiten die voor fysieke beveiliging van belang zijn in acht worden genomen.
-
-**Grondbeginsel K: Rampenplannen**
-
-Rampenplannen (noodplannen) om te kunnen reageren op het ongeoorloofd wegnemen van kernmateriaal of het saboteren van kerninstallaties of kernmateriaal, of pogingen daartoe, dienen door alle vergunninghouders en betrokken autoriteiten te worden opgesteld en op de juiste wijze te worden geoefend.
-
-**Grondbeginsel L: Vertrouwelijkheid**
-
-De Staat dient vereisten vast te stellen ter bescherming van de vertrouwelijkheid van informatie waarvan de ongeoorloofde openbaarmaking ten koste zou gaan van de fysieke beveiliging van kernmateriaal en kerninstallaties.
-
-- a. De bepalingen van dit artikel zijn niet van toepassing op enig kernmateriaal dat naar het redelijk oordeel van de Verdragsluitende Staat niet onder het ingevolge het eerste lid ingestelde stelsel voor fysieke beveiliging behoeft te vallen, rekening houden met de aard van het materiaal, de hoeveelheid en relatieve aantrekkelijkheid ervan en de mogelijke radiologische en andere gevolgen van elk ongeoorloofd handelen gericht tegen dat kernmateriaal en de actuele inschatting van de dreiging tegen dat kernmateriaal.
-
-- b. Kernmateriaal waarop de bepalingen van dit artikel ingevolge onderdeel a niet van toepassing zijn, dient te worden beschermd overeenkomstig zorgvuldige beheersmethoden.
-
-##### Artikel 11A
-
-Geen van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=7&z=2016-05-08&g=2016-05-08) omschreven strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend feit of een feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of wederzijdse rechtshulp op basis van een dergelijk strafbaar feit niet worden geweigerd met als enige reden dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.
-
-##### Artikel 11B
-
-Niets in dit Verdrag wordt zo uitgelegd dat het verplicht tot uitlevering of tot het verlenen van wederzijdse rechtshulp in gevallen waarin de aangezochte Verdragsluitende Staat ernstige redenen heeft om aan te nemen dat het verzoek tot uitlevering vanwege in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003800&artikel=7&z=2016-05-08&g=2016-05-08) omschreven strafbare feiten of tot wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst of politieke overtuiging of dat inwilliging van het verzoek de positie van betrokkene om een van deze redenen ongunstig zou kunnen beïnvloeden.
-
-##### Artikel 13A
-
-Dit Verdrag laat onverlet de overdracht van nucleaire technologie voor vreedzame doeleinden bedoeld om de fysieke beveiliging van kernmateriaal en kerninstallaties te versterken.
+The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Director General of the International Atomic Energy Agency who shall send certified copies thereof to all States.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized, have signed this Convention, opened for signature at Vienna and at New York on 3 March 1980.

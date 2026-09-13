@@ -1,204 +1,173 @@
 ---
 title: "Europese Overeenkomst inzake de controle op de verwerving en het bezit van vuurwapens door particulieren"
 identifier: "BWBV0003988"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-07-01"
-last_updated: "1982-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003988"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003798883"
-version_id: "10003864612"
-internal_id: "C10006981821"
-label_id: "10003784134"
-dtd_version: "2.0"
-original_entry_into_force: "1982-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003988/1982-07-01/0"
-intitule_bron: "Trb.1980-123"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-08-04"
-intitule_in_force: "1982-06-04"
-intitule_status: "goed"
-original_publication: "Trb.1980-123"
-original_published_date: "1980-08-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-123"
-entry_into_force_date: "1982-07-01"
-jci_1_3: "jci1.3:c:BWBV0003988&z=1982-07-01&g=1982-07-01"
-jci_1_0: "1.0:c:BWBV0003988&g=1982-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1982-07-01"
+publicatiedatum: 1982-07-01
+laatste_update: 1982-07-01
+status: geldig
+toestand: 1982-07-01
+bron: "https://wetten.overheid.nl/BWBV0003988"
+opgehaald: 2026-09-13
 ---
+
 # Europese Overeenkomst inzake de controle op de verwerving en het bezit van vuurwapens door particulieren
 
-De Lid-Staten van de Raad van Europa die deze Overeenkomst hebben ondertekend,
+*The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members; Considering the threat posed by the increasing use of firearms in crime; Conscious of the fact that such firearms are often obtained abroad; Desirous of instituting on an international scale effective methods of controling the movement of firearms across frontiers; Aware of the need to avoid measures that may hamper legitimate international trade or result in impracticable or unduly onerous frontier controls that conflict with modern goals of freedom of movement of goods and of persons, Have agreed as follows:*
 
-Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden;
+### CHAPTER I. Definitions and general provisions
 
-Overwegende dat het groeiend gebruik van vuurwapens voor criminele doeleinden een bedreiging vormt;
+##### Article I
 
-Zich bewust van het feit dat deze vuurwapens dikwijls in het buitenland worden verworven;
+For the purposes of this Convention:
 
-Verlangende op internationaal vlak doeltreffende methoden in te voeren ter controle van het grensoverschrijdend verkeer van vuurwapens;
+- a. “firearm” has the meaning assigned to it in Appendix I to this Convention;
 
-Zich bewust van de noodzaak maatregelen te vermijden die de wettige internationale handel zouden kunnen hinderen of zouden kunnen resulteren in onuitvoerbare of buitengewoon bezwarende grenscontroles, in strijd met de moderne doelstellingen van vrijheid van verkeer van goederen en personen,
+- b. “person” shall also mean a legal person having a place of business in the territory of a Contracting Party;
 
-Zijn overeengekomen als volgt:
+- c. “dealer” means a person whose trade or business consists wholly or partly in the manufacture, sale, purchase, exchange or hire of firearms;
 
-### HOOFDSTUK I. Begripsomschrijvingen en algemene bepalingen
+- d. “resident” refers to a person who has habitual residence in the territory of a Contracting Party within the meaning of Rule No. 9 of the Annex to Resolution (72) 1 of the Committee of Ministers of the Council of Europe.
 
-##### Artikel 1
+##### Article 2
 
-Voor de toepassing van deze Overeenkomst:
+The Contracting Parties undertake to afford each other mutual assistance through the appropriate administrative authorities in the suppression of illegal traffic in firearms and in the tracing and locating of firearms transferred from the territory of one State to the territory of another.
 
-- a. heeft de term „vuurwapen” de betekenis die in Bijlage I bij deze Overeenkomst daaraan wordt toegekend;
+##### Article 3
 
-- b. wordt onder „persoon” tevens verstaan een rechtspersoon die een vestiging heeft op het grondgebied van een Overeenkomstsluitende Partij;
+Each Contracting Party shall remain free to prescribe laws and regulations concerning firearms provided that such laws and regulations are not incompatible with the provisions of this Convention.
 
-- c. wordt onder „wapenhandelaar” verstaan een persoon wiens beroepswerkzaamheden geheel of gedeeltelijk bestaan uit de vervaardiging, verkoop, aankoop, uitwisseling of verhuur van vuurwapens;
+##### Article 4
 
-- d. wordt onder „ingezetene” verstaan een persoon die zijn gewone verblijfplaats heeft op het grondgebied van een Overeenkomstsluitende Partij, in de zin van Voorschrift nr. 9 van de Bijlage bij Resolutie (72) 1 van het Comité van Ministers van de Raad van Europa.
+This Convention does not apply to any transaction concerning firearms to which all the parties are States or acting on behalf of States.
 
-##### Artikel 2
+### CHAPTER II. Notification of transactions
 
-De Overeenkomstsluitende Partijen verbinden zich ertoe elkaar wederzijds hulp te verlenen, via de desbetreffende administratieve autoriteiten, bij het terugdringen van de onwettige handel in vuurwapens en bij het opsporen en ontdekken van vuurwapens die van het grondgebied van de ene Staat naar dat van een andere Staat zijn overgebracht.
+##### Article 5
 
-##### Artikel 3
+1. If a firearm situate within the territory of a Contracting Party is sold, transferred or otherwise disposed of to a person resident in the territory of another Contracting Party, the former Party shall notify the latter in the manner provided in Articles 8 and 9.
 
-Elke Overeenkomstsluitende Partij behoudt de vrijheid wetten en voorschriften met betrekking tot vuurwapens uit te vaardigen mits deze wetten en voorschriften niet in strijd zijn met het bepaalde in deze Overeenkomst.
+2. For the purpose of the application of the provisions of paragraph 1 of this Article, each Contracting Party shall take the steps necessary to ensure that any person who sells, transfers or otherwise disposes of a firearm situate within its territory shall furnish particulars of the transaction to the competent authorities of that Party.
 
-##### Artikel 4
+##### Article 6
 
-Deze Overeenkomst is niet van toepassing op transacties betreffende vuurwapens waarbij alle partijen Staten zijn of voor Staten handelen.
+If a firearm situate within the territory of a Contracting Party is transferred permanently and without change in the possession thereof to the territory of another Contracting Party, the former Party shall notify the latter in the manner provided in Articles 8 and 9.
 
-### HOOFDSTUK II. Kennisgeving van transacties
+##### Article 7
 
-##### Artikel 5
+The notifications referred to in Articles 5 and 6 shall also be made to the Contracting Parties through whose territory a firearm passes in transit when the State from whose territory it is sent deems such information to be useful.
 
-1. Indien een vuurwapen dat zich bevindt op het grondgebied van een Overeenkomstsluitende Partij wordt verkocht, overgedragen of anderszins afgestaan aan een persoon die ingezetene is van een andere Overeenkomstsluitende Partij, geeft de eerste Partij de tweede hiervan kennis op de wijze bepaald in de artikelen 8 en 9.
+##### Article 8
 
-2. Voor de toepassing van het bepaalde in het eerste lid van dit artikel neemt iedere Overeenkomstsluitende Partij de nodige maatregelen opdat iedere persoon die een vuurwapen dat zich op het grondgebied van deze Partij bevindt, verkoopt, overdraagt of anderszins afstaat, de bevoegde autoriteiten van deze Partij inlichtingen verschaft over deze transactie.
+1. The notifications referred to in Articles 5, 6 and 7 shall be made as expeditiously as possible. The Contracting Parties shall use their best endeavours to ensure that notification is made prior to the transaction or the transfer to which it relates, failing which it shall be made as soon as possible thereafter.
 
-##### Artikel 6
+2. The notifications referred to in Articles 5, 6 and 7 shall, in particular, indicate:
 
-Indien een vuurwapen dat zich bevindt op het grondgebied van een Overeenkomstsluitende Partij permanent en zonder dat het van eigenaar verandert, wordt overgebracht naar het grondgebied van een andere Overeenkomstsluitende Partij, geeft de eerste Partij de tweede hiervan kennis op de wijze bepaald in de artikelen 8 en 9.
+- a. the identity, the number of passport or identity card and the address of the person to whom the firearm in question is sold, transferred or otherwise disposed of or of the person who is transferring a firearm permanently to the territory of another Contracting Party without change of possession;
 
-##### Artikel 7
+- b. the type, make and characteristics of the firearm in question as well as its number or any other distinguishing mark.
 
-De kennisgevingen bedoeld in de artikelen 5 en 6 worden eveneens gericht aan de Overeenkomstsluitende Partijen over het grondgebied waarvan een vuurwapen in doorvoer wordt gezonden indien de Staat van herkomst van dit wapen een dergelijke inlichting nuttig acht.
+##### Article 9
 
-##### Artikel 8
+1. The notifications referred to in Articles 5, 6 and 7 shall be made between such national authorities as the Contracting Parties shall designate.
 
-1. De kennisgevingen bedoeld in de artikelen 5, 6 en 7 dienen zo snel mogelijk te geschieden. De Overeenkomstsluitende Partijen stellen alles in het werk om ervoor te zorgen dat de kennisgeving aan de transactie of overdracht waarop zij betrekking heeft vooraf gaat, bij gebreke waarvan zij zo snel mogelijk daarna dient te geschieden.
+2. When appropriate the notifications may be sent through the International Criminal Police Organisation (Interpol).
 
-2. De kennisgevingen bedoeld in de artikelen 5, 6 en 7 vermelden met name:
+3. Any State shall, at the time of depositing its instrument of ratification, acceptance, approval or accession, by declaration addressed to the Secretary General of the Council of Europe, indicate the authority to which notifications should be addressed. It shall forthwith notify the Secretary General of the Council of Europe of any subsequent modification of the identity of such authorities.
 
-- a. de identiteit, het nummer van het paspoort of het persoonsbewijs en het adres van de persoon aan wie het desbetreffende vuurwapen wordt verkocht, overgedragen of anderszins afgestaan, of van de persoon die een vuurwapen permanent overbrengt naar het grondgebied van een andere Overeenkomstsluitende Partij, zonder dat het van eigenaar verandert;
+### CHAPTER III. Double authorisation
 
-- b. het type, het merk en de bijzonderheden van het desbetreffende vuurwapen alsmede het nummer of enig ander onderscheidend kenmerk.
+##### Article 10
 
-##### Artikel 9
+I. Each Contracting Party shall take the measures appropriate to ensure that no firearm situate within its territory is sold, transferred or otherwise disposed of to a person not resident there who has not first obtained authorisation from the competent authorities of the said Contracting Party.
 
-1. De kennisgevingen bedoeld in de artikelen 5, 6 en 7 geschieden tussen de nationale autoriteiten die door de Overeenkomstsluitende Partijen worden aangewezen.
+2. This authorisation shall not be granted unless the competent authorities shall first have been satisfied that an authorisation in respect of the transaction in question has been granted to the said person by the competent authorities of the Contracting Party in which he is resident.
 
-2. Eventueel kunnen de kennisgevingen overgebracht worden via de Internationale Politie Organisatie (Interpol).
+3. If this person takes possession of the firearm in the territory of the Contracting Party in which the transaction takes place, the authorisation referred to in paragraph 1 shall only be granted on the terms and conditions on which an authorisation would be granted in a transaction involving residents of the Contracting Party concerned. If the firearm is immediately exported, the authorities referred to in paragraph 1 are only obliged to ascertain that the authorities of the Contracting Party in which the said person is a resident have authorised this particular transaction or such transactions in general.
 
-3. Iedere Staat wijst op het tijdstip van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de autoriteit aan waaraan de kennisgevingen moeten worden gericht. Deze Staat geeft de Secretaris-Generaal van de Raad van Europa onverwijld kennis van iedere latere wijziging in de identiteit van deze autoriteiten.
+4. The authorisations referred to in paragraphs 1 and 2 of this Article may be replaced by an international licence.
 
-### HOOFDSTUK III. Dubbele vergunning
+##### Article 11
 
-##### Artikel 10
+Any State shall, at the time of depositing its instrument of ratification, acceptance, approval or accession, specify which of its authorities is competent to issue the authorisations referred to in paragraph 2 of Article 10. It shall forthwith notify the Secretary General of the Council of Europe of any subsequent modification of the identity of such authorities.
 
-1. Iedere Overeenkomstsluitende Partij neemt maatregelen ten einde te verzekeren dat geen enkel vuurwapen dat zich op haar grondgebied bevindt zal worden verkocht, overgedragen of anderszins afgestaan aan een aldaar niet ingezeten persoon die niet vooraf vergunning daartoe heeft verkregen van de bevoegde autoriteiten van genoemde Overeenkomstsluitende Partij.
+### CHAPTER IV. Final provisions
 
-2. Deze vergunning wordt slechts verleend indien bovengenoemde bevoegde autoriteiten zich eerst ervan hebben verzekerd dat een vergunning inzake de desbetreffende transactie aan genoemde persoon is verleend door de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar deze persoon zijn gewone verblijfplaats heeft.
+##### Article 12
 
-3. Indien deze persoon een vuurwapen in bezit neemt op het grondgebied van een Overeenkomstsluitende Partij waarop de transactie plaatsvindt, zal de vergunning bedoeld in het eerste lid, slechts worden verleend onder de bedingen en voorwaarden waaronder een vergunning zou zijn verleend voor een transactie tussen ingezetenen van de betrokken Overeenkomstsluitende Partij. Indien het vuurwapen onmiddellijk wordt uitgevoerd, zijn de autoriteiten bedoeld in het eerste lid slechts verplicht zich ervan te verzekeren dat de autoriteiten van de Overeenkomstsluitende Partij waar de persoon zijn gewone verblijfplaats heeft vergunning hebben verleend voor deze transactie in het bijzonder of voor dergelijke transacties in het algemeen.
+1. This Convention shall be open to signature by the member States of the Council of Europe. It shall be subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-4. De vergunningen bedoeld in het eerste en tweede lid van dit artikel kunnen worden vervangen door een internationale machtiging.
+2. The Convention shall enter into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance or approval.
 
-##### Artikel 11
+3. In respect of any signatory State ratifying, accepting or approving it subsequently, the Convention shall come into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance or approval.
 
-Iedere Staat deelt op het tijdstip van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding mede, welke van zijn autoriteiten bevoegd is de vergunningen bedoeld in artikel 10, tweede lid, te verlenen. Deze Staat geeft de Secretaris-Generaal van de Raad van Europa onverwijld kennis van iedere latere wijziging in de identiteit van deze autoriteiten.
+##### Article 13
 
-### HOOFDSTUK IV. Slotbepalingen
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any non-member State to accede thereto. The decision containing this invitation shall be in accordance with [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and receive the unanimous agreement of the member States of the Council of Europe which are Contracting Parties to the Convention.
 
-##### Artikel 12
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect three months after the date of its deposit.
 
-1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Zij is onderworpen aan bekrachtiging, aanvaarding of goedkeuring. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 14
 
-2. De Overeenkomst treedt in werking de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-3. Ten aanzien van iedere ondertekenende Staat die de Overeenkomst daarna bekrachtigt, aanvaardt of goedkeurt, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden na de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
+2. Any State may, when depositing its instrument of ratification, acceptance, approval or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Convention to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertaking.
 
-##### Artikel 13
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn by means of a notification addressed to the Secretary General. Such withdrawal shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen Lid is van de Raad van Europa uitnodigen toe te treden tot deze Overeenkomst. De beslissing betreffende deze uitnodiging wordt genomen overeenkomstig [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en dient de eenstemmige goedkeuring te verkrijgen van de Lid-Staten van de Raad van Europa die Overeenkomstsluitende Partijen zijn bij deze Overeenkomst.
+##### Article 15
 
-2. De toetreding geschiedt door de nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding die drie maanden na de datum van nederlegging van kracht wordt.
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it avails itself of one or more of the reservations provided for in Appendix II to this Convention.
 
-##### Artikel 14
+2. Any Contracting Party may wholly or partly withdraw a reservation it has made in accordance with the foregoing paragraph by means of a declaration addressed to the Secretary General of the Council of Europe which shall become effective as from the date of its receipt.
 
-1. ledere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen waarop deze Overeenkomst van toepassing is.
+3. A Contracting Party which has made a reservation in accordance with paragraph I of this Article may not claim the application by any other Party of the provision on which the reservation has been made; it may, however, if its reservation is partial or conditional, claim the application of that provision insofar as it has itself accepted it.
 
-2. Iedere Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op elk later tijdstip, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepassing van deze Overeenkomst uitbreiden tot ieder ander in deze verklaring aan te wijzen grondgebied voor welks internationale betrekkingen hij verantwoordelijk is of voor hetwelk hij bevoegd is verbintenissen aan te gaan.
+##### Article 16
 
-3. Iedere krachtens het vorige lid gedane verklaring kan, wat ieder in deze verklaring aangewezen grondgebied betreft, worden ingetrokken door een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+1. The Contracting Parties may not conclude bilateral or multilateral agreements with one another on the matters dealt with in this Convention, except in order to supplement its provisions or facilitate application of the principles embodied in it.
 
-##### Artikel 15
+2. However, should two or more Contracting Parties establish or have already established their relations in this matter on the basis of uniform legislation or a special system of their own, providing for more extensive obligations, they shall be entitled to regulate those relations accordingly notwithstanding the provisions of this Convention.
 
-1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren gebruik te maken van een of meer voorbehouden vermeld in Bijlage II bij deze Overeenkomst.
+3. Contracting Parties ceasing in accordance with paragraph 2 of this Article to apply the terms of this Convention to their mutual relations in this matter shall notify the Secretary General of the Council of Europe to that effect.
 
-2. Iedere Overeenkomstsluitende Partij die in overeenstemming met het voorafgaande lid een voorbehoud heeft gemaakt, kan dit voorbehoud geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring die van kracht wordt op de datum van ontvangst.
+##### Article 17
 
-3. De Overeenkomstsluitende Partij die krachtens het eerste lid van dit artikel een voorbehoud heeft gemaakt, kan niet de toepassing verlangen door een andere Partij van de bepaling die het onderwerp vormt van het voorbehoud; zij kan evenwel, indien het een gedeeltelijk of voorwaardelijk voorbehoud betreft, de toepassing van die bepaling verlangen voor zover zij deze zelf heeft aanvaard.
+1. The European Committee on Crime Problems of the Council of Europe shall be kept informed regarding the application of this Convention and shall do whatever is needful to facilitate a friendly settlement of any difficulty which may arise out of its execution.
 
-##### Artikel 16
+2. The European Committee on Crime Problems may, in the light of future technical, social and economic developments, formulate and submit to the Committee of Ministers of the Council of Europe proposals designed to amend or supplement the provisions of this Convention and in particular to alter the contents of Appendix I.
 
-1. De Overeenkomstsluitende Partijen kunnen slechts ter aanvulling van het bepaalde in deze Overeenkomst of ter bevordering van de toepassing van de beginselen die daarin zijn vervat, onderling bilaterale of multilaterale overeenkomsten sluiten met betrekking tot de vraagstukken geregeld in deze Overeenkomst.
+##### Article 18
 
-2. Indien echter twee of meer Overeenkomstsluitende Partijen hun betrekkingen vestigen of hebben gevestigd op basis van een eenvormige wetgeving of van een bijzonder stelsel dat hun uitgebreidere verplichtingen oplegt, hebben deze Partijen het recht hun wederzijdse betrekkingen in deze te regelen door zich uitsluitend te baseren op deze stelsels niettegenstaande het bepaalde in deze Overeenkomst.
+1. In the event of war or other exceptional circumstances any Contracting Party may make rules temporarily derogating from the provisions of this Convention and having immediate effect. It shall forthwith notify the Secretary General of the Council of Europe of any such derogation and of its cesser.
 
-3. De Overeenkomstsluitende Partijen die overeenkomstig het tweede lid van dit artikel ophouden de bepalingen van deze Overeenkomst toe te passen op hun wederzijdse betrekkingen, richten hiertoe een kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
+2. Any Contracting Party may denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-##### Artikel 17
+##### Article 19
 
-1. De Europese Commissie voor strafrechtelijke vraagstukken van de Raad van Europa volgt de uitvoering van deze Overeenkomst en bevordert zoveel als nodig is de minnelijke regeling van ieder geschil waartoe de uitvoering van de Overeenkomst aanleiding zou kunnen geven.
+The Secretary General of the Coucil of Europe shall notify the member States of the Council and any State that has acceded to this Convention of:
 
-2. De Europese Commissie voor strafrechtelijke vraagstukken kan in het licht van de technische, sociale en economische ontwikkeling voorstellen formuleren en voorleggen aan het Comité van Ministers van de Raad van Europa ten einde de bepalingen van deze Overeenkomst te wijzigen of aan te vullen en met name om de inhoud van Bijlage I te wijzigen.
+- a. any signature;
 
-##### Artikel 18
+- b. any deposit of an instrument of ratification, acceptance, approval or accession;
 
-1. In geval van oorlog of van andere buitengewone omstandigheden kan iedere Overeenkomstsluitende Partij regels vaststellen die tijdelijk afwijken van de bepalingen van deze Overeenkomst en onmiddellijk in werking treden. Zij geeft de Secretaris-Generaal van de Raad van Europa onverwijld kennis van de afwijkingen en van de beëindiging daarvan.
+- c. any date of entry into force of this Convention in accordance with Articles 12 and 13;
 
-2. Iedere Overeenkomstsluitende partij kan deze Overeenkomst opzeggen door een daartoe strekkende kennisgeving te richten aan de Secretaris-Generaal van de Raad van Europa. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- d. any declaration or notification received in pursuance of the provisions of Article 9, paragraph 3;
 
-##### Artikel 19
+- e. any declaration or notification received in pursuance of the provisions of Article 11;
 
-De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad en iedere Staat die tot deze Overeenkomst is toegetreden kennis van:
+- f. any declaration or notification received in pursuance of the provisions of Article 14;
 
-- a. elke ondertekening;
+- g. any reservation made in pursuance of the provisions of Article 15, paragraph 1;
 
-- b. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- h. the withdrawal of any reservation made in pursuance of the provisions of Article 15, paragraph 2;
 
-- c. elke datum van inwerkingtreding van deze Overeenkomst overeenkomstig de artikelen 12 en 13;
+- i. any notification received in pursuance of the provisions of Article 16, paragraph 3, and concerning uniform legislation or a special system;
 
-- d. elke verklaring of kennisgeving ontvangen krachtens het bepaalde in artikel 9, derde lid;
+- j. any notification received in pursuance of the provisions of Article 18, paragraph 1, and the date on which the derogation is made or ceases, as the case may be;
 
-- e. elke verklaring of kennisgeving ontvangen krachtens het bepaalde in artikel 11;
-
-- f. elke verklaring of kennisgeving ontvangen krachtens het bepaalde in artikel 14;
-
-- g. elk voorbehoud gemaakt krachtens het bepaalde in artikel 15, eerste lid;
-
-- h. de intrekking van elk voorbehoud krachtens het bepaalde in artikel 15, tweede lid;
-
-- i. elke kennisgeving ontvangen krachtens het bepaalde in artikel 16, derde lid, en betrekking hebbend op een eenvormige wetgeving of op een bijzonder stelsel;
-
-- j. elke kennisgeving ontvangen krachtens het bepaalde in artikel 18, eerste lid, alsmede de datum waarop de afwijkende regel is gemaakt of eindigt, al naar gelang het geval;
-
-- k. elke kennisgeving ontvangen krachtens het bepaalde in artikel 18, tweede lid, alsmede de datum waarop de opzegging van kracht wordt.
+- k. any notification received in pursuance of the provisions of Article 18, paragraph 2, and the date on which denunciation takes effect.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

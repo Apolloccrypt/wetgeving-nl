@@ -1,54 +1,27 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Straelener Leitgraben en de Lingsforterbeek alsmede het beheren van de kunstwerken in en aan deze waterlossingen"
 identifier: "BWBV0003892"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-02-28"
-last_updated: "1981-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003892"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003760623"
-version_id: "10003825172"
-internal_id: "C10006980301"
-label_id: "10003745594"
-dtd_version: "2.0"
-original_entry_into_force: "1981-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003892/1981-02-28/0"
-intitule_bron: "Trb.1980-137"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-08-29"
-intitule_in_force: "1981-09-10"
-intitule_status: "goed"
-original_publication: "Trb.1980-137"
-original_published_date: "1980-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-137"
-entry_into_force_date: "1981-02-28"
-jci_1_3: "jci1.3:c:BWBV0003892&z=1981-02-28&g=1981-02-28"
-jci_1_0: "1.0:c:BWBV0003892&g=1981-02-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-02-28"
+publicatiedatum: 1981-02-28
+laatste_update: 1981-02-28
+status: geldig
+toestand: 1981-02-28
+bron: "https://wetten.overheid.nl/BWBV0003892"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake het onderhoud van de Straelener Leitgraben en de Lingsforterbeek alsmede het beheren van de kunstwerken in en aan deze waterlossingen
 
-Het Wasser- und Bodenverband Straelener Veen in Straelen, vertegenwoordigd door de voorzitter Jakob Janssen
-
-en
-
-het waterschap Het Maasterras vertegenwoordigd door de voorzitter B. H. Caris
-
-gelet op hoofdstuk 4, artikel 59, lid 2 van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag
-
-sluiten de volgende overeenkomst:
+*Het Wasser- und Bodenverband Straelener Veen in Straelen, vertegenwoordigd door de voorzitter Jakob Janssen en het waterschap Het Maasterras vertegenwoordigd door de voorzitter B. H. Caris gelet op hoofdstuk 4, artikel 59, lid 2 van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag sluiten de volgende overeenkomst:*
 
 ##### Artikel 1
 
 1. Het Waterschap Het Maasterras verbindt zich
 
-- a). het gedeelte van de waterlossing Straelener Leitgraben (Grensbeek) stroomopwaarts vanaf de grenssteen 475, en
+- a) het gedeelte van de waterlossing Straelener Leitgraben (Grensbeek) stroomopwaarts vanaf de grenssteen 475, en
 
-- b). het gedeelte van de Lingsforterbeek vanaf de grens tot aan de molen bij kasteel Arcen
+- b) het gedeelte van de Lingsforterbeek vanaf de grens tot aan de molen bij kasteel Arcen
 
 te onderhouden en steeds de kunstwerken in en aan deze gedeelten van waterlossingen, die naar aanleiding van of in verband met de verbetering en het onderhoud van deze beken werden aangelegd of nog zullen worden aangelegd en hun eigendom zijn, te onderhouden en te beheren.
 
@@ -74,11 +47,11 @@ Iedere partij is verplicht, de andere partij tijdig in kennis te stellen van haa
 
 De partijen verbinden zich, onverminderd het geldende nationale recht, te bewerkstelligen, dat in hun reglementen bepalingen worden opgenomen, ingevolge waarvan de oevereigenaren langs het gedeelte van de Lingsforterbeek vanaf de grens tot aan de Zandhoekse Vonder verplicht worden:
 
-- a). bij nieuwe beplantingen van bomen en struiken een afstand in acht te nemen van tenminste 2 m gerekend vanuit de bovenkant van het talud;
+- a) bij nieuwe beplantingen van bomen en struiken een afstand in acht te nemen van tenminste 2 m gerekend vanuit de bovenkant van het talud;
 
-- b). onderhoudswerkzaamheden - ook met machines - te dulden;
+- b) onderhoudswerkzaamheden - ook met machines - te dulden;
 
-- c). op hun oeverpercelen, voor zover zij als weide worden benut, afrasteringen aan te brengen en te onderhouden en wel op een afstand van tenminste 1 m gerekend vanuit de bovenkant van het talud, zodat het vee de oevers niet kan betreden.
+- c) op hun oeverpercelen, voor zover zij als weide worden benut, afrasteringen aan te brengen en te onderhouden en wel op een afstand van tenminste 1 m gerekend vanuit de bovenkant van het talud, zodat het vee de oevers niet kan betreden.
 
 ##### Artikel 7
 
@@ -88,9 +61,9 @@ De partijen verplichten zich, binnen het raam van hun mogelijkheden, te verhinde
 
 1. Voor het toezicht op een behoorlijk onderhoud wordt een commissie van 4 leden gevormd (schouwcommissie), welke bestaat uit:
 
-- a). aan Duitse zijde Wasser- und Bodenverband Straelener Veen, 2 vertegenwoordigers
+- a) aan Duitse zijde Wasser- und Bodenverband Straelener Veen, 2 vertegenwoordigers
 
-- b). aan Nederlandse zijde Waterschap Het Maasterras, 2 vertegenwoordigers
+- b) aan Nederlandse zijde Waterschap Het Maasterras, 2 vertegenwoordigers
 
 Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordiger van de Duitse en de Nederlandse partij, te beginnen met de eerstgenoemde.
 
@@ -130,16 +103,16 @@ Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordig
 
 2. De overeenkomst vervangt vanaf de dag van inwerkingtreding:
 
-- a). de overeenkomst van 26 juni 1931 gesloten tussen de gemeente Arcen en Velden enerzijds en het Straelener Veengenossenschaft in Straelen anderzijds inzake de verbetering en het onderhoud van de Lingsforterbeek en de Straelener Leitgraben;
+- a) de overeenkomst van 26 juni 1931 gesloten tussen de gemeente Arcen en Velden enerzijds en het Straelener Veengenossenschaft in Straelen anderzijds inzake de verbetering en het onderhoud van de Lingsforterbeek en de Straelener Leitgraben;
 
-- b). de aanvullingen van 5 oktober 1931 en 18 april 1932 en 30 september 1933 op de overeenkomst van 26 juni 1931.
+- b) de aanvullingen van 5 oktober 1931 en 18 april 1932 en 30 september 1933 op de overeenkomst van 26 juni 1931.
 
 OPGEMAAKT te Weeze, de 21e maart 1980 in zeven exemplaren elk in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk bindend zijn.
 
 (w.g.) JAKOB JANSSEN
 
-**Voorzitter van het Wasser- und Bodenverband Straelener Veen**
+*Voorzitter van het Wasser- und Bodenverband Straelener Veen*
 
 (w.g.) B. H. CARIS
 
-**Voorzitter van het Waterschap Het Maasterras**
+*Voorzitter van het Waterschap Het Maasterras*

@@ -1,152 +1,25 @@
 ---
 title: "Complementair Protocol bij de Associatieovereenkomst tussen de Europese Economische Gemeenschap en Turkije in verband met de toetreding van nieuwe Lid-Staten tot de Gemeenschap"
 identifier: "BWBV0003975"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-03-01"
-last_updated: "1986-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003975"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003793803"
-version_id: "10003859352"
-internal_id: "C10006983301"
-label_id: "10003778824"
-dtd_version: "2.0"
-original_entry_into_force: "1986-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003975/1986-03-01/0"
-intitule_bron: "Trb.1974-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-03-28"
-intitule_in_force: "2007-08-24"
-intitule_status: "goed"
-original_publication: "Trb.1974-45"
-original_published_date: "1974-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-45"
-entry_into_force_date: "1986-03-01"
-jci_1_3: "jci1.3:c:BWBV0003975&z=1986-03-01&g=1986-03-01"
-jci_1_0: "1.0:c:BWBV0003975&g=1986-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1986-03-01"
+publicatiedatum: 1986-03-01
+laatste_update: 1986-03-01
+status: geldig
+toestand: 1986-03-01
+bron: "https://wetten.overheid.nl/BWBV0003975"
+opgehaald: 2026-09-13
 ---
+
 # Complementair Protocol bij de Associatieovereenkomst tussen de Europese Economische Gemeenschap en Turkije in verband met de toetreding van nieuwe Lid-Staten tot de Gemeenschap
 
-Zijne Majesteit de Koning der Belgen,
-
-De President van de Bondsrepubliek Duitsland,
-
-De President van de Franse Republiek,
-
-De President van de Italiaanse Republiek,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-voor de Staten die Verdragspartijen zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „oorspronkelijke Lid-Staten” te noemen,
-
-Hare Majesteit de Koningin van Denemarken,
-
-De President van Ierland,
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-voor de Staten die toetredende Partijen zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, hierna „nieuwe Lid-Staten” te noemen,
-
-welke Staten allen Verdragspartijen zijn bij het op 22 januari 1972 te Brussel ondertekende Verdrag betreffende de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „Toetredingsverdrag” te noemen,
-
-en de Raad van de Europese Gemeenschappen, enerzijds en
-
-de President van de Republiek Turkije, anderzijds,
-
-hebben besloten in gemeenschappelijk overleg de aanpassingen vast te stellen van de overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije, hierna „associatieovereenkomst” te noemen, alsmede van het aanvullend protocol en het financieel protocol, welke aanpassingen noodzakelijk zijn in verband met de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot de Europese Economische Gemeenschap,
-
-en hebben daartoe als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning van België:
-
-de heer Renaat van Elslande,
-
-Minister van Buitenlandse Zaken;
-
-Hare Majesteit de Koningin van Denemarken:
-
-de heer Niels Ersbøll,
-
-Ambassadeur, Permanente Vertegenwoordiger;
-
-De President van de Bondsrepubliek Duitsland:
-
-de heer Otto Schlecht,
-
-Staatssecretaris van Economische Zaken;
-
-de heer U. Lebsanft,
-
-Ambassadeur, Permanente Vertegenwoordiger;
-
-De President van de Franse Republiek:
-
-de heer de Lipkowski,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-De President van Ierland:
-
-de heer J. Keating,
-
-Minister van Industrie en Handel;
-
-De President van de Italiaanse Republiek:
-
-de heer Mario Pedini,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-de heer Jean Dondelinger,
-
-Ambassadeur, Permanente Vertegenwoordiger;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-de heer L. Brinkhorst,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-de heer Davies,
-
-Kanselier van het Hertogdom Lancaster;
-
-De Raad van de Europese Gemeenschappen:
-
-de heer Renaat van Elslande,
-
-Voorzitter van de Raad;
-
-Sir Christopher Soames,
-
-Vice-Voorzitter van de Commissie;
-
-De President van de Republiek Turkije:
-
-de heer Ümit Halük Bayülken,
-
-Minister van Buitenlandse Zaken,
-
-welke, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-overeenstemming hebben bereikt omtrent de volgende bepalingen:
+*Zijne Majesteit de Koning der Belgen, De President van de Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, voor de Staten die Verdragspartijen zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, hierna „oorspronkelijke Lid-Staten” te noemen, Hare Majesteit de Koningin van Denemarken, De President van Ierland, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, voor de Staten die toetredende Partijen zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, hierna „nieuwe Lid-Staten” te noemen, welke Staten allen Verdragspartijen zijn bij het op 22 januari 1972 te Brussel ondertekende Verdrag betreffende de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie, hierna „Toetredingsverdrag” te noemen, en de Raad van de Europese Gemeenschappen, enerzijds en de President van de Republiek Turkije, anderzijds, hebben besloten in gemeenschappelijk overleg de aanpassingen vast te stellen van de overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije, hierna „associatieovereenkomst” te noemen, alsmede van het aanvullend protocol en het financieel protocol, welke aanpassingen noodzakelijk zijn in verband met de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot de Europese Economische Gemeenschap, en hebben daartoe als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning van België: de heer Renaat van Elslande, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin van Denemarken: de heer Niels Ersbøll, Ambassadeur, Permanente Vertegenwoordiger; De President van de Bondsrepubliek Duitsland: de heer Otto Schlecht, Staatssecretaris van Economische Zaken; de heer U. Lebsanft, Ambassadeur, Permanente Vertegenwoordiger; De President van de Franse Republiek: de heer de Lipkowski, Staatssecretaris van Buitenlandse Zaken; De President van Ierland: de heer J. Keating, Minister van Industrie en Handel; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Jean Dondelinger, Ambassadeur, Permanente Vertegenwoordiger; Hare Majesteit de Koningin der Nederlanden: de heer L. Brinkhorst, Staatssecretaris van Buitenlandse Zaken; Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: de heer Davies, Kanselier van het Hertogdom Lancaster; De Raad van de Europese Gemeenschappen: de heer Renaat van Elslande, Voorzitter van de Raad; Sir Christopher Soames, Vice-Voorzitter van de Commissie; De President van de Republiek Turkije: de heer Ümit Halük Bayülken, Minister van Buitenlandse Zaken, welke, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1
 
 Het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland worden partij bij de associatieovereenkomst tussen de Europese Economische Gemeenschap en Turkije, alsmede bij de verklaringen gehecht aan de op 12 september 1963 te Ankara en de op 23 november 1970 te Brussel ondertekende slotakten.
 
-## TITEL I. AANPASSINGSMAATREGELEN
+### TITEL I. AANPASSINGSMAATREGELEN
 
 ##### Artikel 2
 
@@ -154,7 +27,7 @@ De teksten van de associatieovereenkomst, met inbegrip van de protocollen die hi
 
 ##### Artikel 3
 
-Wijzigt het Aanvullend Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Brussel, 23 november 1970.
+*Wijzigt het Aanvullend Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Brussel, 23 november 1970.*
 
 ##### Artikel 4
 
@@ -164,11 +37,11 @@ Voor de toepassing van artikel 22, lid 2, van het aanvullend protocol geldt deze
 
 2. Bij de inwerkingtreding van dit protocol kan Turkije wijzigingen aanbrengen op de liberalisatielijst die overeenkomstig artikel 22, lid 4, van het aanvullend protocol ter kennis werd gebracht, mits:
 
-- -. met deze wijzigingen niet meer dan 10 % van de waarde van de invoer over 1967 uit de Gemeenschap van de in de lijst opgenomen produkten gemoeid is,
+- - met deze wijzigingen niet meer dan 10 % van de waarde van de invoer over 1967 uit de Gemeenschap van de in de lijst opgenomen produkten gemoeid is,
 
-- -. de waarde van de invoer uit de Gemeenschap van het geheel van de op de liberalisatielijst voorkomende produkten, steeds berekend op basis van de cijfers over 1967, niet wordt verminderd,
+- - de waarde van de invoer uit de Gemeenschap van het geheel van de op de liberalisatielijst voorkomende produkten, steeds berekend op basis van de cijfers over 1967, niet wordt verminderd,
 
-- -. voor de van de liberalisatielijst afgevoerde produkten contingenten worden geopend die ten minste gelijk zijn aan 60 % van de in het voorgaande jaar verrichte invoer van deze produkten uit de Gemeenschap, onverminderd de bevoegdheid voor Turkije op deze produkten artikel 22, lid 5, van het aanvullend protocol toe te passen.
+- - voor de van de liberalisatielijst afgevoerde produkten contingenten worden geopend die ten minste gelijk zijn aan 60 % van de in het voorgaande jaar verrichte invoer van deze produkten uit de Gemeenschap, onverminderd de bevoegdheid voor Turkije op deze produkten artikel 22, lid 5, van het aanvullend protocol toe te passen.
 
 De waarde van de invoer uit de Gemeenschap waarop deze wijzigingen betrekking hebben, moet in mindering worden gebracht op de totale waarde van de in artikel 12, lid 3, eerste alinea, van het aanvullend protocol bedoelde invoer.
 
@@ -176,7 +49,7 @@ Turkije stelt de Associatieraad in kennis van de overeenkomstig de hierboven gen
 
 ##### Artikel 5
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.*
 
 ##### Artikel 6
 
@@ -184,13 +57,13 @@ De achtereenvolgende onderzoeken als bedoeld in artikel 35, lid 3, van het aanvu
 
 ##### Artikel 7
 
-Wijzigt het Aanvullend Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije; Brussel, 23 november 1970.
+*Wijzigt het Aanvullend Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije; Brussel, 23 november 1970.*
 
 ##### Artikel 8
 
-Wijzigt het Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Brussel, 23 november 1970.
+*Wijzigt het Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Brussel, 23 november 1970.*
 
-## TITEL II. OVERGANGSMAATREGELEN
+### TITEL II. OVERGANGSMAATREGELEN
 
 ##### Artikel 9
 
@@ -212,9 +85,9 @@ Artikel 9 is van toepassing op het beschermend element van deze rechten.
 
 1. Turkije verlaagt ten opzichte van de nieuwe Lid-Staten het verschil tussen de douanerechten en de heffingen van gelijke werking die het toepast ten opzichte van derde landen en die welke het krachtens de associatieovereenkomst toepast ten opzichte van de Gemeenschap in haar oorspronkelijke samenstelling, met telkens 20 %, volgens onderstaand tijdschema:
 
-- -. de eerste aanpassing geschiedt bij de inwerkingtreding van het onderhavige protocol;
+- - de eerste aanpassing geschiedt bij de inwerkingtreding van het onderhavige protocol;
 
-- -. de vier volgende aanpassingen geschieden op 1 januari 1974, 1 januari 1975, 1 januari 1976 en 1 juli 1977.
+- - de vier volgende aanpassingen geschieden op 1 januari 1974, 1 januari 1975, 1 januari 1976 en 1 juli 1977.
 
 2. Indien dit protocol na 1 januari 1974 in werking treedt, past Turkije ten opzichte van de nieuwe Lid-Staten het aanpassingsniveau toe dat op het ogenblik van de inwerkingtreding voortvloeit uit het in lid 1 aangegeven tijdschema.
 
@@ -236,25 +109,25 @@ Artikel 3 van het aanvullend protocol is van toepassing.
 
 2. Tot en met 31 december 1974 mag de invoer uit Turkije in het Verenigd Koninkrijk van de in bijlage IV genoemde produkten worden beperkt tot de volgende jaarlijkse contingenten:
 
-- -. contingent 1973: 306 ton
+- - contingent 1973: 306 ton
 
-- -. contingent 1974: 368 ton.
+- - contingent 1974: 368 ton.
 
 ##### Artikel 14
 
 Gedurende een periode die op 1 juli 1977 eindigt, worden de in artikel 1, lid 2, van bijlage No. 2 van het aanvullend protocol bedoelde tariefcontingenten op de volgende wijze verdeeld:
 
-| **Garens van katoen, niet gereed voor de verkoop in het klein (post 55.05 van het gemeenschappelijk douanetarief):** | **Garens van katoen, niet gereed voor de verkoop in het klein (post 55.05 van het gemeenschappelijk douanetarief):** |   |
-| --- | --- | --- |
-| - voor de Gemeenschap in haar oorspronkelijke samenstelling | : 300 ton |   |
-| - voor Denemarken | : 40 ton |   |
-| - voor Ierland | : 10 ton |   |
-| - voor het Verenigd Koninkrijk | : 40 ton |   |
-| **Andere weefsels van katoen (post 55.09 van het gemeenschappelijk douanetarief):** | **Andere weefsels van katoen (post 55.09 van het gemeenschappelijk douanetarief):** |   |
-| - voor de Gemeenschap in haar oorspronkelijke samenstelling | : 1.000 ton |   |
-| - voor Denemarken | : 20 ton |   |
-| - voor Ierland | : 10 ton |   |
-| - voor het Verenigd Koninkrijk | : 360 ton |   |
+| Garens van katoen, niet gereed voor de verkoop in het klein (post 55.05 van het gemeenschappelijk douanetarief): |  |
+| --- | --- |
+| - voor de Gemeenschap in haar oorspronkelijke samenstelling | : 300 ton |
+| - voor Denemarken | : 40 ton |
+| - voor Ierland | : 10 ton |
+| - voor het Verenigd Koninkrijk | : 40 ton |
+| Andere weefsels van katoen (post 55.09 van het gemeenschappelijk douanetarief): |  |
+| - voor de Gemeenschap in haar oorspronkelijke samenstelling | : 1.000 ton |
+| - voor Denemarken | : 20 ton |
+| - voor Ierland | : 10 ton |
+| - voor het Verenigd Koninkrijk | : 360 ton |
 
 ##### Artikel 15
 
@@ -262,7 +135,7 @@ Gedurende een periode die op 1 juli 1977 eindigt, worden de in artikel 1, lid 2,
 
 2. Gedurende dezelfde periode worden de in bijlage No. 6 van het aanvullend protocol bedoelde heffingen, variabele en vaste elementen in de nieuwe Lid-Staten berekend met inachtneming van de rechten die zij steeds ten opzichte van derde landen toepassen.
 
-## TITEL III. SLOTBEPALINGEN
+### TITEL III. SLOTBEPALINGEN
 
 ##### Artikel 16
 

@@ -1,60 +1,31 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Duitse Bondsrepubliek inzake de begrenzing van het continentaal plat onder de Noordzee"
 identifier: "BWBV0003545"
-country: "nl"
-rank: "verdrag"
-publication_date: "1972-12-07"
-last_updated: "1972-12-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003545"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003581633"
-version_id: "10003639172"
-internal_id: "C10006983691"
-label_id: "10003567084"
-dtd_version: "2.0"
-original_entry_into_force: "1972-12-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003545/1972-12-07/0"
-intitule_bron: "Trb.1971-53"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-04-06"
-intitule_in_force: "1972-11-21"
-intitule_status: "goed"
-original_publication: "Trb.1971-53"
-original_published_date: "1971-04-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-53"
-entry_into_force_date: "1972-12-07"
-jci_1_3: "jci1.3:c:BWBV0003545&z=1972-12-07&g=1972-12-07"
-jci_1_0: "1.0:c:BWBV0003545&g=1972-12-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1972-12-07"
+publicatiedatum: 1972-12-07
+laatste_update: 1972-12-07
+status: geldig
+toestand: 1972-12-07
+bron: "https://wetten.overheid.nl/BWBV0003545"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Duitse Bondsrepubliek inzake de begrenzing van het continentaal plat onder de Noordzee
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland,
-
-Ten einde de grens vast te stellen tussen de aan elk van hen toekomende delen van het continentaal plat onder de Noordzee, voor zover dit niet reeds is geschied bij het Verdrag van 1 december 1964 inzake de zijdelingse begrenzing van het continentaal plat in de nabijheid van de kust,
-
-Verlangende tevens het economische gebruik van het continentaal plat te regelen voor zover hun gemeenschappelijk belang zulk een regeling vordert,
-
-Zich baserende op het arrest van het Internationale Gerechtshof van 20 februari 1969 in de geschillen tussen de Bondsrepubliek Duitsland, enerzijds, en het Koninkrijk Denemarken en het Koninkrijk der Nederlanden, anderzijds, over de afbakening van het continentaal plat onder de Noordzee,
-
-Met inachtneming van de grenzen op het continentaal plat die door het arrest van het Internationale Gerechtshof niet zijn getroffen,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Ten einde de grens vast te stellen tussen de aan elk van hen toekomende delen van het continentaal plat onder de Noordzee, voor zover dit niet reeds is geschied bij het Verdrag van 1 december 1964 inzake de zijdelingse begrenzing van het continentaal plat in de nabijheid van de kust, Verlangende tevens het economische gebruik van het continentaal plat te regelen voor zover hun gemeenschappelijk belang zulk een regeling vordert, Zich baserende op het arrest van het Internationale Gerechtshof van 20 februari 1969 in de geschillen tussen de Bondsrepubliek Duitsland, enerzijds, en het Koninkrijk Denemarken en het Koninkrijk der Nederlanden, anderzijds, over de afbakening van het continentaal plat onder de Noordzee, Met inachtneming van de grenzen op het continentaal plat die door het arrest van het Internationale Gerechtshof niet zijn getroffen, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
 (1). De grens tussen het Nederlandse en het Duitse deel van het continentaal plat onder de Noordzee wordt, in aansluiting aan het bij het Verdrag van 1 december 1964 vastgestelde grensgedeelte, gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
-| E3 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 | zoals vastgesteld in het Verdrag van 1 december 1964 |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E4 | 54° | 11' | 12" N | 06° | 00' | 00" | O |   |
-| E5 | 54° | 37' | 12" N | 05° | 00' | 00" | O |   |
-| E6 | 55° | 00' | 00" N | 05° | 00' | 00" | O |   |
-| E7 | 55° | 20' | 00" N | 04° | 20' | 00" | O |   |
-| E8 | 55° | 45' | 54" N | 03° | 22' | 13" | O |   |
+| E3 | zoals vastgesteld in het Verdrag van 1 december 1964 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| E4 | 54° | 11' | 12" N | 06° | 00' | 00" | O |
+| E5 | 54° | 37' | 12" N | 05° | 00' | 00" | O |
+| E6 | 55° | 00' | 00" N | 05° | 00' | 00" | O |
+| E7 | 55° | 20' | 00" N | 04° | 20' | 00" | O |
+| E8 | 55° | 45' | 54" N | 03° | 22' | 13" | O |
 
 De ligging van de punten E4 tot en met E8 is uitgedrukt in lengte en breedte volgens Europese coördinaten (1e Vereffening 1950).
 

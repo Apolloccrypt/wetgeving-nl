@@ -9,7 +9,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0053089"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 17 juni 2026, nr. OA2627, tot vaststelling van een subsidieregeling Onderzoek naar de journalistieke praktijk: open aanvraag 2026–2027

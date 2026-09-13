@@ -1,46 +1,19 @@
 ---
 title: "Overeenkomst inzake economische en industriële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië"
 identifier: "BWBV0003388"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-10-21"
-last_updated: "1981-10-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003388"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003509443"
-version_id: "10003556622"
-internal_id: "C10006979951"
-label_id: "10003494864"
-dtd_version: "2.0"
-original_entry_into_force: "1981-10-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003388/1981-10-21/0"
-intitule_bron: "Trb.1980-135"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-08-20"
-intitule_in_force: "1981-11-24"
-intitule_status: "goed"
-original_publication: "Trb.1980-135"
-original_published_date: "1980-08-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-135"
-entry_into_force_date: "1981-10-21"
-jci_1_3: "jci1.3:c:BWBV0003388&z=1981-10-21&g=1981-10-21"
-jci_1_0: "1.0:c:BWBV0003388&g=1981-10-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-10-21"
+publicatiedatum: 1981-10-21
+laatste_update: 1981-10-21
+status: geldig
+toestand: 1981-10-21
+bron: "https://wetten.overheid.nl/BWBV0003388"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake economische en industriële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek Brazilië
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Federatieve Republiek Brazilië,
-
-Verlangende de traditionele vriendschapsbanden tussen hun landen te verstevigen en economische en industriële samenwerking op basis van gelijkheid en tot wederzijds voordeel van beide landen te bevorderen,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Federatieve Republiek Brazilië, Verlangende de traditionele vriendschapsbanden tussen hun landen te verstevigen en economische en industriële samenwerking op basis van gelijkheid en tot wederzijds voordeel van beide landen te bevorderen, Zijn overeengekomen als volgt:*
 
 ##### Artikel I
 
@@ -86,10 +59,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe behoorlijk gema
 
 GEDAAN te Brasilia, op de 23e juli 1980, in twee originelen, in de Nederlandse, Portugese en Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst beslissend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (sd.) H. Th. SCHAAPVELD
 
-**Voor de Regering van de Federatieve Republiek Brazilië:**
+*Voor de Regering van de Federatieve Republiek Brazilië:*
 
 (w.g.) R. E. S. GUERREIRO

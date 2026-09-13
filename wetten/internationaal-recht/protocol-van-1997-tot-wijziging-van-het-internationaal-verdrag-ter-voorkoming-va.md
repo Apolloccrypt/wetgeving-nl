@@ -1,120 +1,91 @@
 ---
 title: "Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij"
 identifier: "BWBV0003459"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-03-01"
-last_updated: "1997-09-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003459"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003544423"
-version_id: "10003595552"
-internal_id: "C10006990691"
-label_id: "10003529874"
-dtd_version: "2.0"
-original_entry_into_force: "2007-01-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003459/2026-03-01/0"
-intitule_bron: "Trb.1999-169"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1999-09-13"
-intitule_in_force: "2007-02-19"
-intitule_status: "goed"
-original_publication: "Trb.1999-169"
-original_published_date: "1999-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-169"
-entry_into_force_date: "2007-01-02"
-jci_1_3: "jci1.3:c:BWBV0003459&z=2026-03-01&g=2026-03-01"
-jci_1_0: "1.0:c:BWBV0003459&g=2026-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2007-01-02"
+publicatiedatum: 2007-01-02
+laatste_update: 2026-03-01
+status: geldig
+toestand: 2026-03-01
+bron: "https://wetten.overheid.nl/BWBV0003459"
+opgehaald: 2026-09-13
 ---
+
 # Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 
-De Partijen bij dit Protocol,
+*The Parties to the present protocol, Being Parties to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, Recognizing the need to prevent and control air pollution from ships, Recalling Principle 15 of the Rio Declaration on Environment and Development which calls for the application of a precautionary approach, Considering that this objective could best be achieved by the conclusion of a Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, Have Agreed as follows:*
 
-Partij zijnde bij het [Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](https://wetten.overheid.nl/jci1.3:c:BWBV0003287)
+##### Article 1. Instrument to be amended
 
-Erkennend de noodzaak luchtverontreiniging door schepen te voorkomen en te beheersen,
+The instrument which the present Protocol amends is the [International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) (hereinafter referred to as the “Convention”).
 
-Herinnerend aan beginsel 15 van de Verklaring van Rio inzake milieu en ontwikkeling waarin wordt opgeroepen tot een preventieve aanpak,
+##### Article 2. Addition of Annex VI to the Convention
 
-Overwegend dat deze doelstelling het best kan worden verwezenlijkt door het sluiten van een protocol van 1997 tot wijziging van het [Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol daarbij van 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003241),
+Annex VI entitled Regulations for the Prevention of Air Pollution from Ships, the text of which is set out in the annex to the present Protocol, is added.
 
-Zijn het volgende overeengekomen:
+##### Article 3. General Obligations
 
-##### Artikel 1. Te wijzigen verdrag
+1. The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) and the present Protocol shall, as between the Parties to the present Protocol, be read and interpreted together as one single instrument.
 
-Het verdrag dat door dit Protocol wordt gewijzigd is het [Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol daarbij van 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) (hierna te noemen het „Verdrag”).
+2. Every reference to the present Protocol constitutes at the same time a reference to the Annex hereto.
 
-##### Artikel 2. Toevoeging van Bijlage VI aan het Verdrag
+##### Article 4. Amendment procedure
 
-Bijlage VI getiteld Voorschriften voor de voorkoming van luchtverontreiniging door schepen, waarvan de tekst is opgenomen in de Bijlage bij dit Protocol, wordt toegevoegd.
+In applying [article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16) to an amendment to Annex VI and its appendices, the reference to “a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003241)” shall be deemed to mean the reference to a Party bound by that Annex.
 
-##### Artikel 3. Algemene verplichtingen
+### FINAL CLAUSES
 
-1. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) en dit Protocol dienen, tussen de Partijen bij dit Protocol, tezamen te worden gelezen en geïnterpreteerd als een enkel verdrag.
+##### Article 5. Signature, ratification, acceptance, approval and accession
 
-2. Elke verwijzing naar dit Protocol houdt tegelijkertijd een verwijzing in naar de Bijlage hierbij.
+1. The present Protocol shall be open for signature at the Headquarters of the International Maritime Organization (hereinafter referred to as the “Organization”) from 1 January 1998 until 31 December 1998 and shall thereafter remain open for accession. Only Contracting States to the [Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973](https://wetten.overheid.nl/jci1.3:c:BWBV0003287) (hereinafter referred to as the “1978 Protocol”) may become Parties to the present Protocol by:
 
-##### Artikel 4. Wijzigingsprocedure
+- a) signature without reservation as to ratification, acceptance or approval; or
 
-Bij toepassing van [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16) op een wijziging van Bijlage VI en de aanhangsels daarbij, wordt de verwijzing „een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241)” geacht een verwijzing te zijn naar een Partij gebonden door die Bijlage.
+- b) signature, subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-#### Slotbepalingen
+- c) accession.
 
-##### Artikel 5. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+2. Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General of the Organization (hereinafter referred to as the “Secretary-General”).
 
-1. Dit Protocol staat open voor ondertekening op de Hoofzetel van de Internationale Maritieme Organisatie (hierna te noemen de „Organisatie”) vanaf 1 januari 1998 tot en met 31 december 1998 en blijft daarna open voor toetreding. Alleen Verdragsluitende Staten die Partij zijn bij het [Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](https://wetten.overheid.nl/jci1.3:c:BWBV0003287), (hierna te noemen het Protocol van 1978) kunnen Partij worden bij dit Protocol door:
+##### Article 6. Entry into force
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+1. The present Protocol shall enter into force twelve months after the date on which not less than fifteen States, the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant shipping, have become Parties to it in accordance with article 5 of the present Protocol.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+2. Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Protocol enters into force shall take effect three months after the date of deposit.
 
-- c. toetreding.
+3. After the date on which an amendment to the present Protocol is deemed to have been accepted in accordance with [article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16), any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol as amended.
 
-2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie (hierna te noemen de „Secretaris-Generaal”).
+##### Article 7. Denunciation
 
-##### Artikel 6. Inwerkingtreding
+1. The present Protocol may be denounced by any Party to the present Protocol at any time after the expiry of five years from the date on which the Protocol enters into force for that Party.
 
-1. Dit Protocol treedt in werking twaalf maanden na de datum waarop ten minste vijftien Staten waarvan de koopvaardijvloten tezamen ten minste vijftig procent vormen van de brutotonnage van de wereldkoopvaardijvloot Partij daarbij zijn geworden in overeenstemming met artikel 5 van dit Protocol.
+2. Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General.
 
-2. Elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.
+3. A denunciation shall take effect twelve months after receipt of the notification by the Secretary-General or after the expiry of any other longer period which may be indicated in the notification.
 
-3. Na de datum waarop een wijziging van dit Protocol wordt geacht te zijn aanvaard in overeenstemming met [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&artikel=16), is iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op dit Protocol zoals gewijzigd.
+4. A denunciation of the [1978 Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003287) in accordance with [article VII thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0003287&artikel=VII) shall be deemed to include a denunciation of the present Protocol in accordance with this article. Such denunciation shall take effect on the date on which denunciation of the 1978 Protocol takes effect in accordance with article VII of that Protocol.
 
-##### Artikel 7. Opzegging
+##### Article 8. Depositary
 
-1. Dit Protocol kan door elke Partij bij dit Protocol te allen tijde worden opgezegd na afloop van vijf jaar te rekenen vanaf de datum waarop het Protocol voor die Partij in werking trad.
+1. The present Protocol shall be deposited with the Secretary-General (hereinafter referred to as the “Depositary”).
 
-2. Opzegging geschiedt door nederlegging van een akte van opzegging bij de Secretaris-Generaal.
+2. The Depositary shall:
 
-3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving door de Secretaris-Generaal dan wel na het verstrijken van een langer tijdvak indien dit in de kennisgeving wordt aangegeven.
+- a) inform all States which have signed the present Protocol or acceded thereto of:
 
-4. Opzegging van het [Protocol van 1978](https://wetten.overheid.nl/jci1.3:c:BWBV0003287) in overeenstemming met [artikel VII daarvan](https://wetten.overheid.nl/jci1.3:c:BWBV0003287&artikel=VII) wordt geacht opzegging te omvatten van dit Protocol in overeenstemming met dit artikel. Een dergelijke opzegging wordt van kracht op de datum waarop de opzegging van het Protocol van 1978 van kracht wordt in overeenstemming met artikel VII van dat Protocol.
+   - (i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
 
-##### Artikel 8. Depositaris
+   - (ii) the date of entry into force of the present Protocol; and
 
-1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal (hierna te noemen de „Depositaris”).
+   - (iii) the deposit of any instrument of denunciation of the present Protocol, together with the date on which it was received and the date on which the denunciation takes effect; and
 
-2. De Depositaris
+- b) transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto.
 
-- a. stelt alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden in kennis van:
+3. As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- i. iedere nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede de datum ervan;
+##### Article 9. Languages
 
-- ii. de datum waarop dit Protocol in werking treedt; en
-
-- iii. de nederlegging van elke akte van opzegging van dit Protocol, alsmede de datum van ontvangst ervan en de datum waarop de opzegging van kracht wordt.
-
-- b. zendt voor eensluidend gewaarmerkte afschriften van dit Protocol toe aan alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden.
-
-3. Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift ervan door de Depositaris gezonden aan het Secretariaat van de Verenigde Naties voor registratie en publicatie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 9. Talen
-
-Dit Protocol is opgesteld in één enkel exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
+The present Protocol is established in a single copy in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the present Protocol.
 

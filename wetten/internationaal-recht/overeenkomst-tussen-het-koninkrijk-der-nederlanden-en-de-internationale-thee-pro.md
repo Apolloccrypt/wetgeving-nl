@@ -1,46 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Thee Promotie Associatie (ITPA) betreffende de zetel van de Organisatie"
 identifier: "BWBV0003817"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-01-30"
-last_updated: "1980-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003817"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003728893"
-version_id: "10003791112"
-internal_id: "C10006980231"
-label_id: "10003714074"
-dtd_version: "2.0"
-original_entry_into_force: "1980-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003817/1980-01-30/0"
-intitule_bron: "Trb.1980-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-04-01"
-intitule_in_force: "1980-04-01"
-intitule_status: "goed"
-original_publication: "Trb.1980-49"
-original_published_date: "1980-04-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-49"
-entry_into_force_date: "1980-01-30"
-jci_1_3: "jci1.3:c:BWBV0003817&z=1980-01-30&g=1980-01-30"
-jci_1_0: "1.0:c:BWBV0003817&g=1980-01-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-01-30"
+publicatiedatum: 1980-01-30
+laatste_update: 1980-01-30
+status: geldig
+toestand: 1980-01-30
+bron: "https://wetten.overheid.nl/BWBV0003817"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Thee Promotie Associatie (ITPA) betreffende de zetel van de Organisatie
 
-The Government of the Kingdom of the Netherlands and the International Tea Promotion Association,
-
-Having regard to Article 15 of the International Tea Promotion Association Agreement;
-
-Desiring to define the status, privileges and immunities referred to in the said Article 15;
-
-Have agreed as follows:
-
-De werking van de Overeenkomst is opgeschort van 30 september 1987 tot 30 juni 1989 (Trb. 1987/173).
+*The Government of the Kingdom of the Netherlands and the International Tea Promotion Association, Having regard to Article 15 of the International Tea Promotion Association Agreement; Desiring to define the status, privileges and immunities referred to in the said Article 15; Have agreed as follows:*
 
 ##### Article 1
 
@@ -72,13 +45,13 @@ The premises of the Association shall be inviolable subject to the provisions of
 
 1). The Association shall have immunity from jurisdiction and execution except:
 
-- a). to the extent that the Association shall have expressly waived such immunity in a particular case;
+- a) to the extent that the Association shall have expressly waived such immunity in a particular case;
 
-- b). in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or operated on behalf of the Association or in respect of a motor traffic offence involving such a vehicle;
+- b) in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or operated on behalf of the Association or in respect of a motor traffic offence involving such a vehicle;
 
-- c). in respect of an enforcement of an arbitration award made under either Article 21 or Article 22 of this Agreement;
+- c) in respect of an enforcement of an arbitration award made under either Article 21 or Article 22 of this Agreement;
 
-- d). in the event of the attachment, pursuant to a decision by the judicial authorities, of the salaries and emoluments owed by the Association to a staff member who is a Netherlands national or a permanent resident of the Netherlands.
+- d) in the event of the attachment, pursuant to a decision by the judicial authorities, of the salaries and emoluments owed by the Association to a staff member who is a Netherlands national or a permanent resident of the Netherlands.
 
 2). The Association's property and assets wherever situated shall be immune from any form of requisition, confiscation, expropriation and sequestration.
 
@@ -124,17 +97,17 @@ The circulation of publications and other information material sent by or to the
 
 1). Representatives shall enjoy, while exercising their functions and in the course of their journeys to and from the place of meeting, the following privileges and immunities:
 
-- a). immunity from arrest and detention and from seizure of their personal luggage;
+- a) immunity from arrest and detention and from seizure of their personal luggage;
 
-- b). immunity from jurisdiction (even after the termination of their mission) in respect of acts, including words written or spoken, done by them in the exercise of their functions: this immunity shall not, however, apply in the case of a motor traffic offence committed by a representative nor in the case of damage caused by a motor vehicle belonging to or driven by a representative;
+- b) immunity from jurisdiction (even after the termination of their mission) in respect of acts, including words written or spoken, done by them in the exercise of their functions: this immunity shall not, however, apply in the case of a motor traffic offence committed by a representative nor in the case of damage caused by a motor vehicle belonging to or driven by a representative;
 
-- c). inviolability for all their official papers and documents;
+- c) inviolability for all their official papers and documents;
 
-- d). the right to use codes and to receive documents or correspondence by special courier or sealed bag;
+- d) the right to use codes and to receive documents or correspondence by special courier or sealed bag;
 
-- e). exemption for themselves and their spouses from all measures restricting entry, from charges for visas and from aliens' registration formalities;
+- e) exemption for themselves and their spouses from all measures restricting entry, from charges for visas and from aliens' registration formalities;
 
-- f). the same customs facilities as regards their personal luggage and the same facilities in the matter of currency and exchange control as are accorded to the representatives of foreign Governments on temporary official missions.
+- f) the same customs facilities as regards their personal luggage and the same facilities in the matter of currency and exchange control as are accorded to the representatives of foreign Governments on temporary official missions.
 
 2). Privileges and immunities are accorded to representatives not for their personal advantage but in order to ensure complete independence in the exercise of their functions in connection with the Association. Consequently, a Member of the International Tea Promotion Association Agreement has the duty to waive the immunity of a representative where retaining it would impede the course of justice and it can be waived without prejudicing the purposes for which it was accorded.
 
@@ -146,23 +119,23 @@ In addition to the privileges and immunities provided for in Article 14 of this 
 
 The staff members of the Association:
 
-- a). shall have (even after they have left the service of the Association) immunity from jurisdiction in respect of acts done by them in the exercise of their functions, including words written or spoken; this immunity shall not, however, apply in the case of a motor traffic offence committed by a staff member of the Association nor in the case of damage caused by a motor vehicle belonging to or driven by a staff member;
+- a) shall have (even after they have left the service of the Association) immunity from jurisdiction in respect of acts done by them in the exercise of their functions, including words written or spoken; this immunity shall not, however, apply in the case of a motor traffic offence committed by a staff member of the Association nor in the case of damage caused by a motor vehicle belonging to or driven by a staff member;
 
-- b). shall enjoy inviolability for all their official papers and documents;
+- b) shall enjoy inviolability for all their official papers and documents;
 
-- c). shall enjoy exemption from all measures restricting immigration, from charges for visas and from aliens' registration formalities; and members of their families forming part of their households shall enjoy the same facilities;
+- c) shall enjoy exemption from all measures restricting immigration, from charges for visas and from aliens' registration formalities; and members of their families forming part of their households shall enjoy the same facilities;
 
-- d). shall enjoy the same facilities as to repatriation as diplomatic agents in time of international crisis; and members of their family forming part of their households shall enjoy the same facilities;
+- d) shall enjoy the same facilities as to repatriation as diplomatic agents in time of international crisis; and members of their family forming part of their households shall enjoy the same facilities;
 
-- e). unless they are Netherlands nationals, shall have the right to import duty-free their furniture and personal effects at the time of first taking up their post in the Netherlands and the right on the termination of their functions in the Netherlands to export free of duty their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government.
+- e) unless they are Netherlands nationals, shall have the right to import duty-free their furniture and personal effects at the time of first taking up their post in the Netherlands and the right on the termination of their functions in the Netherlands to export free of duty their furniture and personal effects, subject, in both cases, to the conditions agreed with the Government.
 
 ##### Article 15
 
 1). The staff members of the Association:
 
-- a). shall not require a work permit;
+- a) shall not require a work permit;
 
-- b). shall not require a residence permit provided that they hold the personal identity card referred to in paragraph 2 of this Article; the same shall apply to non-Netherlands members of their families forming part of their households.
+- b) shall not require a residence permit provided that they hold the personal identity card referred to in paragraph 2 of this Article; the same shall apply to non-Netherlands members of their families forming part of their households.
 
 2). The staff members of the Association and non-Netherlands members of their families forming part of their households shall hold a personal identity card issued by the Association stating names, date and place of birth, nationality, number of passport (aliens only), and bearing photograph and signature. The identity cards shall be authenticated by the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 
@@ -170,11 +143,11 @@ The staff members of the Association:
 
 Experts (other than the staff members referred to in Article 14 of this Agreement) in the exercise of their functions in connection with the Association or in carrying out missions for the Association shall enjoy the following privileges and immunities to the extent that they are necessary for the carrying out of their functions, including during journeys made in carrying out their functions and in the course of such missions:
 
-- a). immunity from jurisdiction in respect of acts done by them in the exercise of their functions, including words written or spoken, except in the case of a motor traffic offence committed by an expert or in the case of damage caused by a motor vehicle belonging to or driven by him; experts shall continue to enjoy this immunity after they have ceased to be employed by the Association;
+- a) immunity from jurisdiction in respect of acts done by them in the exercise of their functions, including words written or spoken, except in the case of a motor traffic offence committed by an expert or in the case of damage caused by a motor vehicle belonging to or driven by him; experts shall continue to enjoy this immunity after they have ceased to be employed by the Association;
 
-- b). inviolability for all their official papers and documents;
+- b) inviolability for all their official papers and documents;
 
-- c). the same customs facilities as regards their personal luggage as are accorded to the officials of foreign Governments on temporary official missions.
+- c) the same customs facilities as regards their personal luggage as are accorded to the officials of foreign Governments on temporary official missions.
 
 ##### Article 17
 
@@ -204,11 +177,11 @@ Where the Association enters into contracts (other than contracts concluded in a
 
 The Association shall, at the instance of the Government, submit to an international arbitration tribunal any dispute (other than a dispute concerning the interpretation or application of the International Tea Promotion Association Agreement, or any succeeding agreement):
 
-- a). arising out of damage caused by the Association;
+- a) arising out of damage caused by the Association;
 
-- b). involving any other non-contractual responsibility of the Association; or
+- b) involving any other non-contractual responsibility of the Association; or
 
-- c). involving the Executive Director, a staff member or expert of the Association, and in which the person concerned can claim immunity from jurisdiction under this Agreement, if this immunity is not waived.
+- c) involving the Executive Director, a staff member or expert of the Association, and in which the person concerned can claim immunity from jurisdiction under this Agreement, if this immunity is not waived.
 
 ##### Article 23
 
@@ -244,12 +217,12 @@ IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Ag
 
 DONE at The Hague on 30 January 1980, in two copies in the English language.
 
-**For the Kingdom of the Netherlands:**
+*For the Kingdom of the Netherlands:*
 
 (s.) C. A. VAN DER KLAAUW
 
 (s.) J. DE KONING
 
-**For the International Tea Promotion Association:**
+*For the International Tea Promotion Association:*
 
 (s.) T. S. BROCA

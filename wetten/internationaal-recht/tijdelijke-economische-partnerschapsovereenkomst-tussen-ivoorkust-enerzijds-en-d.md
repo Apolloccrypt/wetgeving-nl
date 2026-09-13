@@ -1,71 +1,18 @@
 ---
 title: "Tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds"
 identifier: "BWBV0003177"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-01-22"
-last_updated: "2009-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003177"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003386263"
-version_id: "10003426512"
-internal_id: "C10008429451"
-label_id: "10003373134"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003177/2009-01-22/0"
-intitule_bron: "Trb.2009-72"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-05-14"
-intitule_status: "nogniet"
-original_publication: "Trb.2009-72"
-original_published_date: "2009-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-72"
-jci_1_3: "jci1.3:c:BWBV0003177&z=2009-01-22&g=2009-01-22"
-jci_1_0: "1.0:c:BWBV0003177&g=2009-01-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-05-14"
+laatste_update: 2009-01-22
+status: geldig
+toestand: 2009-01-22
+bron: "https://wetten.overheid.nl/BWBV0003177"
+opgehaald: 2026-09-13
 ---
+
 # Tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds
 
-**Preambule**
-
-Gelet op de [ACS-EG-partnerschapsovereenkomst](onbekend), die op 23 juni 2000 te Cotonou werd ondertekend en op 25 juni 2005 te Luxemburg werd herzien, hierna de „[Overeenkomst van Cotonou](onbekend)” genoemd,
-
-In aanmerking nemende dat de overgangsregeling inzake handelspreferenties in het kader van de [Overeenkomst van Cotonou](onbekend) op 31 december 2007 vervalt,
-
-Gelet op de negatieve invloed die het vervallen van de overgangsregeling inzake handelspreferenties in het kader van de [overeenkomst van Cotonou](onbekend) op de handel tussen de partijen kan hebben wanneer op 1 januari 2008 geen nieuwe met de WTO-voorschriften compatibele handelsregeling van kracht is,
-
-Erkennende dat derhalve een tijdelijke economische partnerschapsovereenkomst moet worden gesloten om de economische en handelsbelangen van de partijen te beschermen,
-
-Overwegende dat de partijen hun economische en handelsbanden verder willen aanhalen en duurzame betrekkingen op basis van partnerschap en samenwerking tot stand willen brengen,
-
-Gelet op het belang dat de partijen hechten aan de beginselen en regels van het internationale handelssysteem, en met name aan de rechten en verplichtingen die voortvloeien uit de [GATT 1994](onbekend) en uit andere multilaterale overeenkomsten die gehecht zijn aan de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (WTO), en aan de noodzaak deze op transparante en niet-discriminerende wijze toe te passen,
-
-Opnieuw uitdrukking gevende aan hun engagement voor eerbiediging van de rechten van de mens, de democratische beginselen en de rechtsstaat, die de essentiële elementen van de [Overeenkomst van Cotonou](onbekend) vormen, en goed bestuur, dat het fundamentele element van de [Overeenkomst van Cotonou](onbekend) is,
-
-Rekening houdende met de noodzaak de economische, culturele en sociale ontwikkeling van de West-Afrikaanse staten te bevorderen en te bespoedigen, teneinde een bijdrage te leveren tot vrede en veiligheid en een stabiel en democratisch politiek klimaat,
-
-Gezien het belang dat de partijen hechten aan de op internationaal vlak overeengekomen ontwikkelingsdoelstellingen en aan de millenniumdoelstellingen voor ontwikkeling van de Verenigde Naties,
-
-Vastbesloten samen te werken om de doelstellingen van de [Overeenkomst van Cotonou](onbekend), waaronder de uitroeiing van armoede, duurzame ontwikkeling en de geleidelijke integratie van de staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS-staten) in de wereldeconomie, te verwezenlijken,
-
-Met de wens nieuwe werkgelegenheidsmogelijkheden te scheppen, investeringen aan te trekken en de levensomstandigheden te verbeteren op het grondgebied van de partijen en daarbij een duurzame ontwikkeling te bevorderen,
-
-Gelet op het belang van de traditionele banden tussen de Europese Gemeenschap, haar lidstaten en de West-Afrikaanse staten, met name die op historisch, politiek en economisch vlak,
-
-Erkenning gevende aan het verschil in economische en sociale ontwikkeling tussen de West-Afrikaanse staten en de Europese Gemeenschap,
-
-Ervan overtuigd dat deze overeenkomst een nieuw, gunstiger klimaat voor hun relaties op het gebied van economisch bestuur, handel en investeringen zal scheppen en nieuwe perspectieven voor groei en ontwikkeling zal openen,
-
-Erkenning gevende aan het belang van ontwikkelingssamenwerking voor de tenuitvoerlegging van deze overeenkomst,
-
-In afwachting van de ondertekening van een algemene economische partnerschapsovereenkomst tussen West-Afrika en de Europese Unie, die de voortdurende, harmonieuze ontwikkeling en integratie van de West-Afrikaanse regio moet waarborgen,
-
-Opnieuw uitdrukking gevende aan hun streven de regionale integratie in West-Afrika te steunen en met name de regionale economische integratie als essentieel instrument voor de integratie van de West-Afrikaanse staten in de wereldeconomie te bevorderen, door deze landen te helpen bij de uitdagingen waarvoor zij zich door de mondialisering gesteld zien en bij de verwezenlijking van de door hen beoogde economische en sociale ontwikkeling,
-
-Zijn als volgt overeengekomen:
+*De Republiek Ivoorkust, enerzijds, en Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, en De Europese Gemeenschap, anderzijds, Preambule Gelet op de ACS-EG-partnerschapsovereenkomst, die op 23 juni 2000 te Cotonou werd ondertekend en op 25 juni 2005 te Luxemburg werd herzien, hierna de „Overeenkomst van Cotonou” genoemd, In aanmerking nemende dat de overgangsregeling inzake handelspreferenties in het kader van de Overeenkomst van Cotonou op 31 december 2007 vervalt, Gelet op de negatieve invloed die het vervallen van de overgangsregeling inzake handelspreferenties in het kader van de overeenkomst van Cotonou op de handel tussen de partijen kan hebben wanneer op 1 januari 2008 geen nieuwe met de WTO-voorschriften compatibele handelsregeling van kracht is, Erkennende dat derhalve een tijdelijke economische partnerschapsovereenkomst moet worden gesloten om de economische en handelsbelangen van de partijen te beschermen, Overwegende dat de partijen hun economische en handelsbanden verder willen aanhalen en duurzame betrekkingen op basis van partnerschap en samenwerking tot stand willen brengen, Gelet op het belang dat de partijen hechten aan de beginselen en regels van het internationale handelssysteem, en met name aan de rechten en verplichtingen die voortvloeien uit de GATT 1994 en uit andere multilaterale overeenkomsten die gehecht zijn aan de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO), en aan de noodzaak deze op transparante en niet-discriminerende wijze toe te passen, Opnieuw uitdrukking gevende aan hun engagement voor eerbiediging van de rechten van de mens, de democratische beginselen en de rechtsstaat, die de essentiële elementen van de Overeenkomst van Cotonou vormen, en goed bestuur, dat het fundamentele element van de Overeenkomst van Cotonou is, Rekening houdende met de noodzaak de economische, culturele en sociale ontwikkeling van de West-Afrikaanse staten te bevorderen en te bespoedigen, teneinde een bijdrage te leveren tot vrede en veiligheid en een stabiel en democratisch politiek klimaat, Gezien het belang dat de partijen hechten aan de op internationaal vlak overeengekomen ontwikkelingsdoelstellingen en aan de millenniumdoelstellingen voor ontwikkeling van de Verenigde Naties, Vastbesloten samen te werken om de doelstellingen van de Overeenkomst van Cotonou, waaronder de uitroeiing van armoede, duurzame ontwikkeling en de geleidelijke integratie van de staten in Afrika, het Caribisch gebied en de Stille Oceaan (ACS-staten) in de wereldeconomie, te verwezenlijken, Met de wens nieuwe werkgelegenheidsmogelijkheden te scheppen, investeringen aan te trekken en de levensomstandigheden te verbeteren op het grondgebied van de partijen en daarbij een duurzame ontwikkeling te bevorderen, Gelet op het belang van de traditionele banden tussen de Europese Gemeenschap, haar lidstaten en de West-Afrikaanse staten, met name die op historisch, politiek en economisch vlak, Erkenning gevende aan het verschil in economische en sociale ontwikkeling tussen de West-Afrikaanse staten en de Europese Gemeenschap, Ervan overtuigd dat deze overeenkomst een nieuw, gunstiger klimaat voor hun relaties op het gebied van economisch bestuur, handel en investeringen zal scheppen en nieuwe perspectieven voor groei en ontwikkeling zal openen, Erkenning gevende aan het belang van ontwikkelingssamenwerking voor de tenuitvoerlegging van deze overeenkomst, In afwachting van de ondertekening van een algemene economische partnerschapsovereenkomst tussen West-Afrika en de Europese Unie, die de voortdurende, harmonieuze ontwikkeling en integratie van de West-Afrikaanse regio moet waarborgen, Opnieuw uitdrukking gevende aan hun streven de regionale integratie in West-Afrika te steunen en met name de regionale economische integratie als essentieel instrument voor de integratie van de West-Afrikaanse staten in de wereldeconomie te bevorderen, door deze landen te helpen bij de uitdagingen waarvoor zij zich door de mondialisering gesteld zien en bij de verwezenlijking van de door hen beoogde economische en sociale ontwikkeling, Zijn als volgt overeengekomen:*
 
 ## TITEL I. DOELSTELLINGEN
 
@@ -77,7 +24,7 @@ Bij deze overeenkomst wordt een initieel kader voor een economische partnerschap
 
 De doelstellingen van deze overeenkomst zijn:
 
-- a. Ivoorkust in staat stellen profijt te trekken van de betere markttoegang die de EG Ivoorkust in het kader van de EPO-onderhandelingen heeft geboden en daardoor vermijden dat de handel tussen Ivoorkust en de Europese Gemeenschap wordt verstoord wanneer de overgangsregeling van de [overeenkomst van Cotonou](onbekend) op 31 december 2007 afloopt zonder dat er een volledige EPO is gesloten;
+- a. Ivoorkust in staat stellen profijt te trekken van de betere markttoegang die de EG Ivoorkust in het kader van de EPO-onderhandelingen heeft geboden en daardoor vermijden dat de handel tussen Ivoorkust en de Europese Gemeenschap wordt verstoord wanneer de overgangsregeling van de overeenkomst van Cotonou op 31 december 2007 afloopt zonder dat er een volledige EPO is gesloten;
 
 - b. de grondslagen leggen voor onderhandelingen over een EPO die tot een vermindering van de armoede bijdraagt, die de regionale integratie, de economische samenwerking en een goed bestuur in West-Afrika bevordert en die de capaciteiten van West-Afrika inzake handelsbeleid en handelsgerelateerde vraagstukken verbetert;
 
@@ -95,15 +42,15 @@ De partijen verbinden zich ertoe samen te werken om deze overeenkomst ten uitvoe
 
 ##### Artikel 4. Samenwerking inzake ontwikkelingsfinanciering in het kader van deze overeenkomst
 
-1. De bepalingen van de [Overeenkomst van Cotonou](onbekend) betreffende regionale economische samenwerking en integratie worden zodanig ten uitvoer gelegd dat de voordelen van deze overeenkomst zo groot mogelijk zijn.
+1. De bepalingen van de Overeenkomst van Cotonou betreffende regionale economische samenwerking en integratie worden zodanig ten uitvoer gelegd dat de voordelen van deze overeenkomst zo groot mogelijk zijn.
 
-2. De financiering door de Europese Gemeenschap1)Exclusief de lidstaten. van de ontwikkelingssamenwerking tussen Ivoorkust en de Europese Gemeenschap ter ondersteuning van de uitvoering van deze overeenkomst vindt plaats in het kader van de voorschriften en passende procedures die zijn neergelegd in de [Overeenkomst van Cotonou](onbekend), met name de programmeringsprocedures van het Europees Ontwikkelingsfonds, en in het kader van de desbetreffende instrumenten die uit de algemene begroting van de Europese Unie worden gefinancierd. Steun bij de uitvoering van deze overeenkomst is een van de prioriteiten in dit verband.
+2. De financiering door de Europese Gemeenschap1)Exclusief de lidstaten. van de ontwikkelingssamenwerking tussen Ivoorkust en de Europese Gemeenschap ter ondersteuning van de uitvoering van deze overeenkomst vindt plaats in het kader van de voorschriften en passende procedures die zijn neergelegd in de Overeenkomst van Cotonou, met name de programmeringsprocedures van het Europees Ontwikkelingsfonds, en in het kader van de desbetreffende instrumenten die uit de algemene begroting van de Europese Unie worden gefinancierd. Steun bij de uitvoering van deze overeenkomst is een van de prioriteiten in dit verband.
 
 3. De lidstaten van de Europese Gemeenschap verbinden zich er gezamenlijk toe ontwikkelingsacties die gericht zijn op regionale economische samenwerking en de uitvoering van deze overeenkomst, zowel op nationaal als op regionaal niveau, door middel van hun respectieve ontwikkelingsbeleid en -instrumenten en in overeenstemming met de beginselen van doeltreffendheid en complementariteit van de hulp te steunen.
 
 4. De partijen werken samen om hulp te bevorderen van andere donoren die bereid zijn de inspanningen van Ivoorkust tot verwezenlijking van de doelstellingen van deze overeenkomst te ondersteunen.
 
-5. De partijen erkennen het nut van regionale financieringsmechanismen zoals een regionaal EPO-fonds dat door en voor de regio is opgericht om de financiering op regionaal en nationaal niveau te kanaliseren, en geven op doeltreffende wijze uitvoering aan begeleidende maatregelen bij deze overeenkomst. De Europese Gemeenschap verbindt zich ertoe haar steun te verlenen via de financieringsmechanismen van de regio zelf of via die welke door de overeenkomstsluitende staten in overeenstemming met de voorschriften en procedures van de [Overeenkomst van Cotonou](onbekend) en met het in de Verklaring van Parijs neergelegde beginsel van doeltreffendheid van de hulp zijn overeengekomen om een eenvoudige, doeltreffende en snelle tenuitvoerlegging te waarborgen.
+5. De partijen erkennen het nut van regionale financieringsmechanismen zoals een regionaal EPO-fonds dat door en voor de regio is opgericht om de financiering op regionaal en nationaal niveau te kanaliseren, en geven op doeltreffende wijze uitvoering aan begeleidende maatregelen bij deze overeenkomst. De Europese Gemeenschap verbindt zich ertoe haar steun te verlenen via de financieringsmechanismen van de regio zelf of via die welke door de overeenkomstsluitende staten in overeenstemming met de voorschriften en procedures van de Overeenkomst van Cotonou en met het in de Verklaring van Parijs neergelegde beginsel van doeltreffendheid van de hulp zijn overeengekomen om een eenvoudige, doeltreffende en snelle tenuitvoerlegging te waarborgen.
 
 6. Wat de uitvoering van de leden 1 tot en met 5 betreft, verbinden de partijen zich tot financiële en niet-financiële samenwerking op de in de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=5&z=2009-01-22&g=2009-01-22) bedoelde gebieden.
 
@@ -123,13 +70,13 @@ In het kader van de tenuitvoerlegging van deze overeenkomst bevestigen de partij
 
 De partijen komen overeen door middel van de daartoe bestemde instrumenten en in overeenstemming met [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=4&z=2009-01-22&g=2009-01-22) samen te werken en steun te geven aan:
 
-- –. de herpositionering van de particuliere sector ten aanzien van nieuwe economische kansen die uit deze overeenkomst voortvloeien;
+- – de herpositionering van de particuliere sector ten aanzien van nieuwe economische kansen die uit deze overeenkomst voortvloeien;
 
-- –. de vaststelling en uitvoering van moderniseringsstrategieën;
+- – de vaststelling en uitvoering van moderniseringsstrategieën;
 
-- –. de verbetering van de randvoorwaarden voor de particuliere sector en van het ondernemingsklimaat als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=5&z=2009-01-22&g=2009-01-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=6&z=2009-01-22&g=2009-01-22);
+- – de verbetering van de randvoorwaarden voor de particuliere sector en van het ondernemingsklimaat als bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=5&z=2009-01-22&g=2009-01-22) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&artikel=6&z=2009-01-22&g=2009-01-22);
 
-- –. de bevordering van het partnerschap tussen de particuliere sectoren van de partijen.
+- – de bevordering van het partnerschap tussen de particuliere sectoren van de partijen.
 
 ##### Artikel 8. Samenwerking bij fiscale aanpassingen
 
@@ -175,7 +122,7 @@ Douanerechten op producten van oorsprong uit de EG die in Ivoorkust worden ingev
 
 1. Voor de toepassing van dit hoofdstuk worden als „van oorsprong” beschouwd de goederen die voldoen aan de oorsprongsregels die op 1 januari 2008 op het gebied van de partijen van toepassing zijn.
 
-2. De partijen stellen uiterlijk op 31 juli 2008 op basis van de uit de [Overeenkomst van Cotonou](onbekend) voortvloeiende oorsprongsregels een wederkerige gemeenschappelijke regeling inzake de oorsprongsregels vast, die beoogt deze regels in het licht van de ontwikkelingsdoelstellingen van Ivoorkust te vereenvoudigen. Deze nieuwe regeling wordt bij besluit van het EPO-comité aan deze overeenkomst gehecht. Indien de partijen geen overeenstemming bereiken, is van de door de EG toegepaste regeling en de verbeterde regels van de [Overeenkomst van Cotonou](onbekend) die regeling van toepassing die voor Ivoorkust het voordeligst is.
+2. De partijen stellen uiterlijk op 31 juli 2008 op basis van de uit de Overeenkomst van Cotonou voortvloeiende oorsprongsregels een wederkerige gemeenschappelijke regeling inzake de oorsprongsregels vast, die beoogt deze regels in het licht van de ontwikkelingsdoelstellingen van Ivoorkust te vereenvoudigen. Deze nieuwe regeling wordt bij besluit van het EPO-comité aan deze overeenkomst gehecht. Indien de partijen geen overeenstemming bereiken, is van de door de EG toegepaste regeling en de verbeterde regels van de Overeenkomst van Cotonou die regeling van toepassing die voor Ivoorkust het voordeligst is.
 
 3. Binnen drie jaar na de inwerkingtreding van deze overeenkomst herzien de partijen de geldende bepalingen betreffende de oorsprongsregels om de voor de vaststelling van de oorsprong gebruikte begrippen en methoden in het licht van de ontwikkelingsdoelstellingen van Ivoorkust in samenhang met die van West-Afrika te vereenvoudigen. Bij deze herziening houden de partijen rekening met de technologische ontwikkeling, de productieprocessen en alle andere factoren, met inbegrip van de lopende hervormingen van de oorsprongsregels, die een wijziging van de overeengekomen wederkerige regeling nodig kunnen maken. Het EPO-comité besluit over wijziging of vervanging van de oorsprongsregels.
 
@@ -303,11 +250,11 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 4. Onverminderd de leden 1 en 2 kan de EG, wanneer een product van oorsprong uit Ivoorkust in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor een of meer ultraperifere gebieden van de EG een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, volgens de in de leden 6 tot en met 9 neergelegde procedures de in lid 3 bedoelde toezicht- of vrijwaringsmaatregelen nemen die beperkt zijn tot dat gebied of die gebieden.
 
-- a. Wanneer een product van oorsprong uit de EG in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor Ivoorkust een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, kan dit land volgens de in de leden 6 tot en met 9 neergelegde procedures toezicht- of vrijwaringsmaatregelen nemen die tot zijn gebied beperkt zijn.
+5. - a. Wanneer een product van oorsprong uit de EG in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor Ivoorkust een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, kan dit land volgens de in de leden 6 tot en met 9 neergelegde procedures toezicht- of vrijwaringsmaatregelen nemen die tot zijn gebied beperkt zijn.
 
 - b. Onverminderd de leden 1 en 2 kan Ivoorkust de in lid 3 bedoelde vrijwaringsmaatregelen nemen wanneer een product van oorsprong uit de EG in dermate toegenomen hoeveelheden en onder zodanige omstandigheden op zijn gebied wordt ingevoerd dat hierdoor voor een opkomende industrie die soortgelijke of rechtstreeks concurrerende producten vervaardigt, verstoringen ontstaan of dreigen te ontstaan. Deze bepaling geldt slechts voor een periode van tien jaar vanaf de datum van inwerkingtreding van deze overeenkomst. De partijen kunnen deze termijn echter in onderling overleg verlengen wanneer dit doel ondanks het ontwikkelingspotentieel van de industrie en de daadwerkelijk verrichte inspanningen niet is bereikt als gevolg van de economische situatie in de wereld of van ernstige problemen die op Ivoorkust van invloed zijn. De maatregelen moeten in overeenstemming met de leden 6 tot en met 9 worden genomen.
 
-- a. De in dit artikel bedoelde vrijwaringsmaatregelen worden slechts zolang gehandhaafd als nodig is om ernstige schade of verstoringen als bedoeld in de leden 2, 4 en 5 te voorkomen of te verhelpen.
+6. - a. De in dit artikel bedoelde vrijwaringsmaatregelen worden slechts zolang gehandhaafd als nodig is om ernstige schade of verstoringen als bedoeld in de leden 2, 4 en 5 te voorkomen of te verhelpen.
 
 - b. De in dit artikel bedoelde vrijwaringsmaatregelen worden niet langer dan twee jaar toegepast. Wanneer de omstandigheden die de instelling van vrijwaringsmaatregelen rechtvaardigden, blijven bestaan, kunnen deze maatregelen worden verlengd voor nog eens maximaal twee jaar. Wanneer Ivoorkust een vrijwaringsmaatregel toepast, of wanneer de EG een maatregel toepast die beperkt is tot een of meer van haar ultraperifere gebieden, kan die maatregel evenwel voor een periode van niet meer dan vier jaar worden toegepast, met een mogelijke verlenging met nog eens vier jaar wanneer de omstandigheden die de instelling van vrijwaringsmaatregelen rechtvaardigden, blijven bestaan.
 
@@ -369,7 +316,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 - f. zij bevorderen de samenwerking tussen alle betrokken instanties, zowel in het binnenland als grensoverschrijdend.
 
-2. Onverminderd lid 1 verlenen de diensten van de partijen elkaar administratieve bijstand in douaneaangelegenheden in overeenstemming met protocol 1.
+2. Onverminderd lid 1 verlenen de diensten van de partijen elkaar administratieve bijstand in douaneaangelegenheden in overeenstemming met [protocol 1](https://wetten.overheid.nl/BWBV0003177).
 
 ##### Artikel 29. Douanewetgeving en -procedures
 
@@ -447,7 +394,7 @@ De partijen richten binnen het EPO-comité een speciaal comité voor douane en h
 
 ##### Artikel 36. Multilaterale verplichtingen
 
-De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), en met name de [WTO-Overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](onbekend), hierna „de [SPS-overeenkomst](onbekend)” genoemd, en de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend), hierna de „[TBT-overeenkomst](onbekend)” genoemd. De partijen bevestigen ook hun rechten en verplichtingen uit hoofde van het Internationaal Verdrag voor de bescherming van planten (IPCC), de Codex Alimentarius en hun lidmaatschap van de Wereldorganisatie voor diergezondheid (OIE).
+De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), en met name de [WTO-Overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), hierna „de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160)” genoemd, en de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160), hierna de „[TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160)” genoemd. De partijen bevestigen ook hun rechten en verplichtingen uit hoofde van het Internationaal Verdrag voor de bescherming van planten (IPCC), de Codex Alimentarius en hun lidmaatschap van de Wereldorganisatie voor diergezondheid (OIE).
 
 De partijen bevestigen opnieuw hun verbintenis om de volksgezondheid in Ivoorkust te verbeteren, met name door opbouw van de capaciteit van Ivoorkust voor het opsporen van niet-conforme producten.
 
@@ -459,9 +406,9 @@ Dit hoofdstuk heeft tot doel het verkeer van goederen tussen de partijen te verg
 
 ##### Artikel 38. Werkingssfeer en definities
 
-1. De bepalingen van dit hoofdstuk zijn van toepassing op in de [TBT-overeenkomst](onbekend) van de WTO omschreven technische voorschriften en normen en conformiteitsbeoordelingsprocedures en op de sanitaire en fytosanitaire maatregelen, hierna „SPS-normen” genoemd, voor zover zij van invloed zijn op de handel tussen de partijen.
+1. De bepalingen van dit hoofdstuk zijn van toepassing op in de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) van de WTO omschreven technische voorschriften en normen en conformiteitsbeoordelingsprocedures en op de sanitaire en fytosanitaire maatregelen, hierna „SPS-normen” genoemd, voor zover zij van invloed zijn op de handel tussen de partijen.
 
-2. Voor de toepassing van dit hoofdstuk en behoudens andersluidende bepalingen gelden de definities in de [SPS-](onbekend) en de [TBT-overeenkomst](onbekend), in de Codex Alimentarius en in het Internationaal Verdrag voor de bescherming van planten alsmede de definities van de Wereldorganisatie voor diergezondheid; dat geldt ook voor alle verwijzingen naar „producten” in dit hoofdstuk.
+2. Voor de toepassing van dit hoofdstuk en behoudens andersluidende bepalingen gelden de definities in de [SPS-](https://wetten.overheid.nl/BWBV0001160) en de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160), in de Codex Alimentarius en in het Internationaal Verdrag voor de bescherming van planten alsmede de definities van de Wereldorganisatie voor diergezondheid; dat geldt ook voor alle verwijzingen naar „producten” in dit hoofdstuk.
 
 ##### Artikel 39. Bevoegde instanties
 
@@ -477,7 +424,7 @@ Bij de vaststelling van de voorwaarden voor invoer kunnen de partijen per geval 
 
 1. De partijen stellen elkaar in kennis van alle wijzigingen in hun technische voorschriften voor producten (met inbegrip van levende dieren en planten).
 
-2. De partijen komen overeen elkaar schriftelijk in kennis te stellen van maatregelen die zijn getroffen om de invoer van goederen wegens een probleem in verband met de gezondheid (volks-, dier- of plantgezondheid), de veiligheid en het milieu te beletten; overeenkomstig de aanbevelingen in de [SPS-overeenkomst](onbekend) doen zij dit zo spoedig mogelijk.
+2. De partijen komen overeen elkaar schriftelijk in kennis te stellen van maatregelen die zijn getroffen om de invoer van goederen wegens een probleem in verband met de gezondheid (volks-, dier- of plantgezondheid), de veiligheid en het milieu te beletten; overeenkomstig de aanbevelingen in de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160) doen zij dit zo spoedig mogelijk.
 
 3. De partijen komen overeen gegevens uit te wisselen met het doel door middel van samenwerking te bewerkstelligen dat hun producten voldoen aan de technische voorschriften en normen die voor de toegang tot hun respectieve markten gelden.
 
@@ -509,7 +456,7 @@ De partijen komen overeen met de internationale normalisatieinstellingen samen t
 
 ##### Artikel 44
 
-Op basis van de [Overeenkomst van Cotonou](onbekend) verbinden de partijen zich ertoe alle nodige maatregelen te nemen of samen te werken om de onderhandelingen over en de spoedige sluiting van een EPO, in overeenstemming met de desbetreffende WTO-bepalingen, tussen de EG en de gehele West-Afrikaanse regio op de volgende gebieden te bevorderen:
+Op basis van de Overeenkomst van Cotonou verbinden de partijen zich ertoe alle nodige maatregelen te nemen of samen te werken om de onderhandelingen over en de spoedige sluiting van een EPO, in overeenstemming met de desbetreffende WTO-bepalingen, tussen de EG en de gehele West-Afrikaanse regio op de volgende gebieden te bevorderen:
 
 - a. handel in diensten en elektronische handel;
 
@@ -541,7 +488,7 @@ Het doel van deze titel is geschillen tussen de partijen te vermijden en te besl
 
 1. Deze titel is van toepassing op alle geschillen over de interpretatie en toepassing van deze overeenkomst, met uitzondering van [titel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=II&z=2009-01-22&g=2009-01-22) en tenzij uitdrukkelijk anders bepaald.
 
-2. In afwijking van lid 1 is de procedure van [artikel 98 van de Overeenkomst van Cotonou](onbekend) van toepassing bij geschillen over de financiering van ontwikkelingssamenwerking, als bedoeld in de Overeenkomst van Cotonou.
+2. In afwijking van lid 1 is de procedure van artikel 98 van de Overeenkomst van Cotonou van toepassing bij geschillen over de financiering van ontwikkelingssamenwerking, als bedoeld in de Overeenkomst van Cotonou.
 
 ### HOOFDSTUK 2. OVERLEG EN BEMIDDELING
 
@@ -571,7 +518,7 @@ Het doel van deze titel is geschillen tussen de partijen te vermijden en te besl
 
 ### HOOFDSTUK 3. PROCEDURES VOOR DE BESLECHTING VAN GESCHILLEN
 
-### AFDELING I. ARBITRAGEPROCEDURE
+#### AFDELING I. ARBITRAGEPROCEDURE
 
 ##### Artikel 49. Inleiding van de arbitrageprocedure
 
@@ -605,7 +552,7 @@ Het arbitragepanel legt in de regel uiterlijk 120 dagen na de datum van instelli
 
 3. Elk van de partijen kan het arbitragepanel verzoeken een aanbeveling te doen over de wijze waarop de partij waartegen de klacht gericht is, aan de overeenkomst kan voldoen.
 
-### AFDELING II. NALEVING
+#### AFDELING II. NALEVING
 
 ##### Artikel 53. Naleving van de uitspraak van het arbitragepanel
 
@@ -651,7 +598,7 @@ In geen geval zijn de krachtens dit lid vastgestelde passende maatregelen van in
 
 3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw kan (kunnen) bijeenkomen, is de procedure van [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=V&hoofdstuk=3&afdeling=I&artikel=50&z=2009-01-22&g=2009-01-22) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt 60 dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
-### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
+#### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ##### Artikel 58. Onderling overeengekomen oplossing
 
@@ -665,7 +612,7 @@ In het kader van deze titel kunnen de partijen te allen tijde onderling een oplo
 
 ##### Artikel 60. Inlichtingen en technisch advies
 
-Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle bronnen, met inbegrip van de bij het geschil betrokken partijen, de inlichtingen inwinnen die het nuttig acht voor de arbritageprocedure. Het arbitragepanel heeft tevens het recht deskundigen om advies te vragen wanneer het dat nuttig acht. Belanghebbenden kunnen als **amicus curiae** overeenkomstig het reglement van orde bij het arbitragepanel opmerkingen indienen. Alle op deze manier verkregen informatie moet aan beide partijen worden medegedeeld en voor commentaar aan hen worden voorgelegd.
+Het arbitragepanel kan op verzoek van een partij of op eigen initiatief bij alle bronnen, met inbegrip van de bij het geschil betrokken partijen, de inlichtingen inwinnen die het nuttig acht voor de arbritageprocedure. Het arbitragepanel heeft tevens het recht deskundigen om advies te vragen wanneer het dat nuttig acht. Belanghebbenden kunnen als *amicus curiae* overeenkomstig het reglement van orde bij het arbitragepanel opmerkingen indienen. Alle op deze manier verkregen informatie moet aan beide partijen worden medegedeeld en voor commentaar aan hen worden voorgelegd.
 
 ##### Artikel 61. Taal van de stukken en opmerkingen
 
@@ -695,7 +642,7 @@ Arbitragepanels verbinden zich ertoe de bepalingen van deze overeenkomst uit te 
 
 1. Arbitragepanels die krachtens deze overeenkomst zijn ingesteld, doen geen uitspraak in geschillen die verband houden met de rechten en verplichtingen van de partijen krachtens de WTO.
 
-2. Een beroep op de bepalingen in deze overeenkomst over de beslechting van geschillen doet geen afbreuk aan enige rechtsvordering in het kader van de WTO, met inbegrip van die tot beslechting van een geschil. Wanneer echter een partij in verband met een specifieke maatregel een procedure voor de beslechting van een geschil heeft ingeleid, hetzij krachtens [artikel 49, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=V&hoofdstuk=3&afdeling=I&artikel=49&z=2009-01-22&g=2009-01-22), hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan deze in verband met dezelfde maatregel geen procedure voor geschillenbeslechting in het andere forum inleiden totdat de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) geacht door een partij te zijn ingeleid wanneer deze overeenkomstig [artikel 6 van het WTO-memorandum van overeenstemming inzake de beslechting van geschillen](onbekend) een verzoek om instelling van een arbitragepanel heeft ingediend.
+2. Een beroep op de bepalingen in deze overeenkomst over de beslechting van geschillen doet geen afbreuk aan enige rechtsvordering in het kader van de WTO, met inbegrip van die tot beslechting van een geschil. Wanneer echter een partij in verband met een specifieke maatregel een procedure voor de beslechting van een geschil heeft ingeleid, hetzij krachtens [artikel 49, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=V&hoofdstuk=3&afdeling=I&artikel=49&z=2009-01-22&g=2009-01-22), hetzij krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), kan deze in verband met dezelfde maatregel geen procedure voor geschillenbeslechting in het andere forum inleiden totdat de eerste procedure is afgesloten. Voor de toepassing van dit lid worden procedures voor geschillenbeslechting krachtens de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) geacht door een partij te zijn ingeleid wanneer deze overeenkomstig [artikel 6 van het WTO-memorandum van overeenstemming inzake de beslechting van geschillen](https://wetten.overheid.nl/BWBV0001160) een verzoek om instelling van een arbitragepanel heeft ingediend.
 
 3. Deze overeenkomst belet een partij niet een schorsing van verplichtingen die is toegestaan door het Orgaan voor geschillenbeslechting van de WTO, ten uitvoer te leggen.
 
@@ -705,7 +652,7 @@ Arbitragepanels verbinden zich ertoe de bepalingen van deze overeenkomst uit te 
 
 2. De partijen kunnen in onderling overleg alle in deze titel vermelde termijnen verlengen.
 
-##### Artikel 67. Wijziging van [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=V&z=2009-01-22&g=2009-01-22)
+##### Artikel 67. Wijziging van titel V
 
 Zowel het EPO-comité als elk van de partijen kan het initiatief nemen om wijziging van [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=V&z=2009-01-22&g=2009-01-22) te verzoeken. De verzoeken om wijziging worden door het EPO-comité onderzocht. De wijziging gaat pas in nadat beide partijen deze hebben goedgekeurd.
 
@@ -721,15 +668,15 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - c. die noodzakelijk zijn voor de handhaving van wetten of voorschriften en die niet strijdig zijn met de bepalingen van deze overeenkomst, met inbegrip van maatregelen die betrekking hebben op:
 
-- i. het voorkómen van misleidende of frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van betalingsverplichtingen in verband met contracten te compenseren;
+   - i. het voorkómen van misleidende of frauduleuze praktijken of op middelen om de gevolgen van de niet-nakoming van betalingsverplichtingen in verband met contracten te compenseren;
 
-- ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en op de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
+   - ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en op de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
 
-- iii. de veiligheid;
+   - iii. de veiligheid;
 
-- iv. de toepassing van douanevoorschriften en -procedures; of
+   - iv. de toepassing van douanevoorschriften en -procedures; of
 
-- v. de bescherming van intellectuele-eigendomsrechten;
+   - v. de bescherming van intellectuele-eigendomsrechten;
 
 - d. die verband houden met de invoer of de uitvoer van goud of zilver;
 
@@ -749,15 +696,15 @@ Mits de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een
 
 - b. de partijen belet maatregelen te nemen die zij ter bescherming van hun wezenlijke veiligheidsbelangen noodzakelijk achten en die:
 
-- i. betrekking hebben op splijt- of fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
+   - i. betrekking hebben op splijt- of fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
 
-- ii. betrekking hebben op economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting als doel hebben;
+   - ii. betrekking hebben op economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting als doel hebben;
 
-- iii. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig;
+   - iii. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig;
 
-- iv. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie; of
+   - iv. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie; of
 
-- v. in tijden van oorlog of ernstige internationale spanningen worden genomen;
+   - v. in tijden van oorlog of ernstige internationale spanningen worden genomen;
 
 - c. de partijen belet maatregelen te nemen tot uitvoering van de verplichtingen die zij op zich hebben genomen met het oog op de handhaving van de internationale vrede en veiligheid.
 
@@ -849,9 +796,9 @@ De EG en Ivoorkust zijn vastbesloten illegale activiteiten, fraude, corruptie, h
 
 ##### Artikel 80. Relatie tot andere overeenkomsten
 
-1. Met uitzondering van de artikelen inzake ontwikkelingssamenwerking in [deel 3, titel II, van de Overeenkomst van Cotonou](onbekend), hebben in geval van strijdigheid tussen de bepalingen van deze overeenkomst en die van [deel 3, titel II, van de Overeenkomst van Cotonou](onbekend), de bepalingen van deze overeenkomst voorrang.
+1. Met uitzondering van de artikelen inzake ontwikkelingssamenwerking in deel 3, titel II, van de Overeenkomst van Cotonou, hebben in geval van strijdigheid tussen de bepalingen van deze overeenkomst en die van deel 3, titel II, van de Overeenkomst van Cotonou, de bepalingen van deze overeenkomst voorrang.
 
-2. Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de goedkeuring door de Europese Gemeenschap of door Ivoorkust van maatregelen, met inbegrip van maatregelen op handelsgebied, die passend worden geacht en waarin wordt voorzien door de [artikelen 11 ter](onbekend), [96](onbekend) en [97 van de Overeenkomst van Cotonou](onbekend).
+2. Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de goedkeuring door de Europese Gemeenschap of door Ivoorkust van maatregelen, met inbegrip van maatregelen op handelsgebied, die passend worden geacht en waarin wordt voorzien door de artikelen 11 ter, 96 en 97 van de Overeenkomst van Cotonou.
 
 3. De partijen komen overeen dat geen enkele bepaling in deze overeenkomst hen verplicht te handelen op een wijze die in strijd is met hun WTO-verplichtingen.
 
@@ -864,168 +811,6 @@ Wanneer de teksten elkaar tegenspreken, geldt de taal waarin de onderhandelingen
 ##### Artikel 82. Bijlagen
 
 De bijlagen, aanhangsels en protocollen vormen een integrerend deel van deze overeenkomst.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit protocol wordt verstaan onder:
-
-- a. „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen of -procedures, met inbegrip van verbods-, beperkings- en controlemaatregelen;
-
-- b. „verzoekende autoriteit”: een bevoegde overheidsinstantie die hiertoe door een partij is aangewezen en die op grond van dit protocol een verzoek om bijstand indient;
-
-- c. „aangezochte autoriteit”: een bevoegde overheidsinstantie die hiertoe door een partij is aangewezen en die op grond van dit protocol een verzoek om bijstand ontvangt;
-
-- d. „persoonsgegevens”: alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
-
-- e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
-
-##### Artikel 2. Werkingssfeer
-
-1. De partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te vervolgen.
-
-2. De in dit protocol bedoelde bijstand in douaneaangelegenheden geldt voor alle overheidsinstanties van de partijen die voor de toepassing van dit protocol bevoegd zijn. Deze bijstand laat de regels inzake wederzijdse bijstand in strafzaken onverlet. Hij geldt evenmin voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke instantie worden uitgeoefend, tenzij deze ermee instemt dat die informatie wordt verstrekt.
-
-3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
-
-##### Artikel 3. Bijstand op verzoek
-
-1. Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.
-
-2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede:
-
-- a. of goederen die uit het gebied van een van de partijen zijn uitgevoerd, op regelmatige wijze in het gebied van een andere partij zijn ingevoerd, in voorkomend geval onder vermelding van de douaneregeling waaronder de goederen zijn geplaatst;
-
-- b. of goederen die in het gebied van een van de partijen zijn ingevoerd, op regelmatige wijze uit het gebied van de andere partij zijn uitgevoerd, in voorkomend geval onder vermelding van de douaneregeling waaronder de goederen zijn geplaatst.
-
-3. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in het kader van haar wettelijke en bestuursrechtelijke bepalingen, de nodige maatregelen om te zorgen voor toezicht op:
-
-- a. natuurlijke personen of rechtspersonen van wie redelijkerwijze kan worden vermoed dat zij met de douanewetgeving strijdige handelingen verrichten of hebben verricht;
-
-- b. plaatsen waar op zodanige wijze voorraden goederen zijn of kunnen worden aangelegd dat redelijkerwijs kan worden vermoed dat deze goederen bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- c. goederen die op zodanige wijze worden of kunnen worden vervoerd dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 4. Ongevraagde bijstand
-
-De partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door de doorgifte van informatie die zij hebben verkregen over:
-
-- a. activiteiten die met de douanewetgeving strijdige handelingen zijn of lijken te zijn en die van belang kunnen zijn voor een andere partij;
-
-- b. nieuwe middelen of methoden die worden gebruikt om met de douanewetgeving strijdige handelingen te verrichten;
-
-- c. goederen waarvan bekend is dat zij het voorwerp vormen van met de douanewetgeving strijdige handelingen;
-
-- d. natuurlijke personen of rechtspersonen van wie redelijkerwijs kan worden vermoed dat zij betrokken zijn of waren bij met de douanewetgeving strijdige handelingen;
-
-- e. vervoermiddelen waarvan redelijkerwijs kan worden vermoed dat zij zijn, worden of kunnen worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
-
-1. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wettelijke en bestuursrechtelijke bepalingen, alle maatregelen die nodig zijn voor
-
-- –. de verstrekking van documenten of
-
-- –. de kennisgeving van besluiten
-
-van de verzoekende autoriteit in verband met de toepassing van dit protocol aan adressaten die op het gebied van de aangezochte autoriteit verblijven of gevestigd zijn.
-
-2. Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
-
-##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
-
-1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling van het verzoek noodzakelijk worden geacht. In spoedeisende gevallen kunnen verzoeken ook mondeling worden gedaan, mits zij onmiddellijk schriftelijk worden bevestigd.
-
-2. De overeenkomstig lid 1 ingediende verzoeken bevatten de volgende gegevens:
-
-- a. de verzoekende autoriteit;
-
-- b. de maatregel waarom wordt gevraagd;
-
-- c. het doel en de reden van het verzoek;
-
-- d. de toepasselijke wettelijke en bestuursrechtelijke bepalingen en andere juridische aspecten;
-
-- e. zo nauwkeurig en volledig mogelijke informatie over de natuurlijke personen of rechtspersonen op wie het onderzoek betrekking heeft;
-
-- f. een samenvatting van de feiten en van het reeds uitgevoerde onderzoek.
-
-3. De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor die autoriteit aanvaardbare taal. Deze eis geldt niet voor de in lid 1 bedoelde documenten bij het verzoek.
-
-4. Indien een verzoek niet aan de hierboven vermelde vormvereisten voldoet, kan worden verzocht het te corrigeren of aan te vullen; in de tussentijd kan opdracht worden gegeven tot conservatoire maatregelen.
-
-##### Artikel 7. Uitvoering van verzoeken
-
-1. Binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde partij handelt, en verstrekt zij de al beschikbare informatie en verricht zij het nodige onderzoek of laat zij dit verrichten. Deze bepaling is eveneens van toepassing op autoriteiten waaraan de op grond van dit protocol aangezochte autoriteit het verzoek doorstuurt wanneer zij dit niet zelf kan afhandelen.
-
-2. Aan verzoeken om bijstand wordt voldaan overeenkomstig de wettelijke of bestuursrechtelijke bepalingen van de partij waaraan het verzoek is gericht.
-
-3. Daartoe gemachtigde ambtenaren van een partij kunnen met instemming van de andere betrokken partij en op de door deze gestelde voorwaarden, ten kantore van de aangezochte autoriteit of van een andere betrokken autoriteit als bedoeld in lid 1, informatie verzamelen over activiteiten die met de douanewetgeving strijdige handelingen zijn of kunnen zijn, die de verzoekende autoriteit voor de toepassing van dit protocol nodig heeft.
-
-4. Daartoe gemachtigde ambtenaren van een partij kunnen, met instemming van de andere betrokken partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het gebied van laatstgenoemde wordt verricht.
-
-##### Artikel 8. Vorm waarin de informatie moet worden verstrekt
-
-1. De aangezochte autoriteit deelt de uitslag van het onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.
-
-2. Deze informatie kan in de vorm van computerbestanden worden verstrekt.
-
-3. Originelen van documenten worden uitsluitend op verzoek verstrekt wanneer gewaarmerkte afschriften niet toereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
-
-##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
-
-1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van deze overeenkomst:
-
-- a. de soevereiniteit van Ivoorkust of van een lidstaat waaraan op grond van dit protocol om bijstand is gevraagd, zou kunnen aantasten; of
-
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&artikel=10&z=2009-01-22&g=2009-01-22), bedoelde gevallen; of
-
-- c. tot schending van een industrieel geheim, een handelsgeheim of een beroepsgeheim zou leiden.
-
-2. De aangezochte autoriteit kan de bijstand uitstellen indien deze een lopend onderzoek of een lopende strafvervolging of procedure zou verstoren. In dat geval pleegt de aangezochte autoriteit overleg met de verzoekende autoriteit om na te gaan of bijstand kan worden verleend op door de aangezochte autoriteit te stellen voorwaarden.
-
-3. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit is vrij te bepalen hoe zij op een dergelijk verzoek reageert.
-
-4. In de in de leden 1 en 2 bedoelde gevallen moeten het besluit van de aangezochte autoriteit en de redenen ervan onverwijld aan de verzoekende autoriteit worden medegedeeld.
-
-##### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
-
-1. Alle informatie die, in welke vorm dan ook, op grond van dit protocol wordt verstrekt, heeft een vertrouwelijk karakter of is alleen bestemd voor beperkte verspreiding, afhankelijk van de toepasselijke voorschriften van elk van de partijen. De verstrekte gegevens vallen onder de geheimhoudingsplicht en genieten de bescherming die door de desbetreffende wetgeving van de ontvangende partij, dan wel door de desbetreffende bepalingen die op de instellingen van de Europese Gemeenschap van toepassing zijn, aan dergelijke gegevens wordt geboden.
-
-2. Persoonsgegevens mogen uitsluitend worden doorgegeven indien de partij die de gegevens ontvangt, zich ertoe verbindt deze te beschermen op een wijze die ten minste gelijkwaardig is aan de bescherming van dergelijke gegevens door de partij die de gegevens verstrekt. Te dien einde stellen de partijen elkaar in kennis van hun ter zake geldende voorschriften, in voorkomend geval met inbegrip van de rechtsvoorschriften van de lidstaten van de Europese Gemeenschap.
-
-3. Het gebruik van op grond van dit protocol verkregen informatie in gerechtelijke of administratieve procedures betreffende met de douanewetgeving strijdige handelingen wordt beschouwd als gebruik voor de doeleinden van dit protocol. De partijen kunnen derhalve bij de bewijsvoering, in verslagen en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruikmaken van de informatie die zij op grond van dit protocol hebben verkregen en van de documenten waarin zij op grond van dit protocol inzage hebben gekregen. De bevoegde autoriteit die de informatie heeft verstrekt of die inzage heeft gegeven in de documenten, wordt van dergelijk gebruik in kennis gesteld.
-
-4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Indien een van de partijen de informatie voor andere doeleinden wenst te gebruiken, moet zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming vragen. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
-
-##### Artikel 11. Deskundigen en getuigen
-
-Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige te verschijnen in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften voor te leggen. In de dagvaarding dient uitdrukkelijk te worden vermeld voor welke rechterlijke of administratieve instantie de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd.
-
-##### Artikel 12. Kosten van de bijstand
-
-De partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn.
-
-##### Artikel 13. Tenuitvoerlegging
-
-1. Dit protocol wordt ten uitvoer gelegd door de douaneautoriteiten van Ivoorkust, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten van de Europese Gemeenschap, anderzijds. Zij stellen alle voor de toepassing van dit protocol noodzakelijke praktische maatregelen en regelingen vast, rekening houdend met de geldende voorschriften, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
-
-2. De partijen plegen onderling overleg en lichten elkaar in over alle uitvoeringsbepalingen die zij op grond van dit protocol vaststellen.
-
-##### Artikel 14. Andere overeenkomsten
-
-1. Met inachtneming van de respectieve bevoegdheden van de Europese Gemeenschap en haar lidstaten:
-
-- –. laat dit protocol de verplichtingen van de partijen krachtens andere internationale overeenkomsten of verdragen onverlet;
-
-- –. wordt dit protocol geacht een aanvulling te vormen op overeenkomsten inzake wederzijdse bijstand die tussen afzonderlijke lidstaten van de Europese Gemeenschap en Ivoorkust zijn of kunnen worden gesloten;
-
-- –. laat dit protocol onverlet de bepalingen van de Europese Gemeenschap betreffende de doorgifte, tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten van de Europese Gemeenschap, van gegevens die op grond van dit protocol zijn verkregen en die van belang kunnen zijn voor de Europese Gemeenschap.
-
-2. Niettegenstaande het bepaalde in lid 1 prevaleert dit protocol boven bilaterale overeenkomsten inzake wederzijdse bijstand die tussen afzonderlijke lidstaten van de Europese Gemeenschap en Ivoorkust zijn of kunnen worden gesloten, indien de bepalingen van die overeenkomsten strijdig zijn met die van dit protocol.
-
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de partijen onderling overleg om deze op te lossen in het kader van het EPO-comité dat is ingesteld bij [artikel 73](https://wetten.overheid.nl/jci1.3:c:BWBV0003177&titeldeel=VII&artikel=73&z=2009-01-22&g=2009-01-22) van de tijdelijke economische partnerschapsovereenkomst tussen Ivoorkust, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze overeenkomst hebben geplaatst.
 

@@ -1,66 +1,19 @@
 ---
 title: "Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela"
 identifier: "BWBV0003552"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-12-15"
-last_updated: "1978-12-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003552"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003585133"
-version_id: "10003643102"
-internal_id: "C10006981091"
-label_id: "10003570594"
-dtd_version: "2.0"
-original_entry_into_force: "1978-12-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003552/1978-12-15/0"
-intitule_bron: "Trb.1978-61"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-05-19"
-intitule_in_force: "1979-01-29"
-intitule_status: "goed"
-original_publication: "Trb.1978-61"
-original_published_date: "1978-05-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-61"
-entry_into_force_date: "1978-12-15"
-jci_1_3: "jci1.3:c:BWBV0003552&z=1978-12-15&g=1978-12-15"
-jci_1_0: "1.0:c:BWBV0003552&g=1978-12-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-12-15"
+publicatiedatum: 1978-12-15
+laatste_update: 1978-12-15
+status: geldig
+toestand: 1978-12-15
+bron: "https://wetten.overheid.nl/BWBV0003552"
+opgehaald: 2026-09-13
 ---
+
 # Grensverdrag tussen het Koninkrijk der Nederlanden en de Republiek Venezuela
 
-Hare Majesteit de Koningin der Nederlanden
-
-en
-
-de President van de Republiek Venezuela,
-
-Opnieuw bevestigende de hartelijke betrekkingen tussen Hun Staten, alsmede in het bijzonder de historische, sociale, economische en culturele banden tussen de volken van de Nederlandse Antillen en Venezuela,
-
-Bezield door het voornemen om op een rechtvaardige en nauwkeurige wijze en op basis van beginselen van billijkheid, de zeegebieden met inbegrip van de daaronder gelegen zeebodem en ondergrond af te bakenen tussen de Nederlandse Antillen en Venezuela,
-
-Overwegende dat het noodzakelijk is doelmatige maatregelen te treffen voor de instandhouding en het rationele gebruik van de bestaande hulpbronnen binnen de gebieden waar Zij onderscheidenlijk rechtsmacht uitoefenen,
-
-Erkennende het vitale en historische belang dat Venezuela heeft bij de Golf van Venezuela en het geheel van fundamentele belangen waardoor de Golf wordt gekenmerkt, alsmede het belang van de doorvaart van en naar Venezuela,
-
-Erkennende dat het voor de Nederlandse Antillen van essentieel belang is de middelen voor hun economische ontwikkeling te waarborgen,
-
-Rekening houdende met de normen van het geldende internationale recht en met de ontwikkeling van het nieuwe zeerecht,
-
-Hebben besloten dit Verdrag aan te gaan en hebben te dien einde tot Hun gevolmachtigden aangewezen:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-de Heer S. G. M. Rozendal, Minister-President van de Nederlandse Antillen,
-
-Zijne Excellentie de President van de Republiek Venezuela:
-
-de Heer S. A. Consalvi, Minister van Buitenlandse Zaken van de Republiek Venezuela,
-
-Die, na hun in behoorlijke en goede vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Venezuela, Opnieuw bevestigende de hartelijke betrekkingen tussen Hun Staten, alsmede in het bijzonder de historische, sociale, economische en culturele banden tussen de volken van de Nederlandse Antillen en Venezuela, Bezield door het voornemen om op een rechtvaardige en nauwkeurige wijze en op basis van beginselen van billijkheid, de zeegebieden met inbegrip van de daaronder gelegen zeebodem en ondergrond af te bakenen tussen de Nederlandse Antillen en Venezuela, Overwegende dat het noodzakelijk is doelmatige maatregelen te treffen voor de instandhouding en het rationele gebruik van de bestaande hulpbronnen binnen de gebieden waar Zij onderscheidenlijk rechtsmacht uitoefenen, Erkennende het vitale en historische belang dat Venezuela heeft bij de Golf van Venezuela en het geheel van fundamentele belangen waardoor de Golf wordt gekenmerkt, alsmede het belang van de doorvaart van en naar Venezuela, Erkennende dat het voor de Nederlandse Antillen van essentieel belang is de middelen voor hun economische ontwikkeling te waarborgen, Rekening houdende met de normen van het geldende internationale recht en met de ontwikkeling van het nieuwe zeerecht, Hebben besloten dit Verdrag aan te gaan en hebben te dien einde tot Hun gevolmachtigden aangewezen: Hare Majesteit de Koningin der Nederlanden: de Heer S. G. M. Rozendal, Minister-President van de Nederlandse Antillen, Zijne Excellentie de President van de Republiek Venezuela: de Heer S. A. Consalvi, Minister van Buitenlandse Zaken van de Republiek Venezuela, Die, na hun in behoorlijke en goede vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -72,41 +25,41 @@ Die, na hun in behoorlijke en goede vorm bevonden volmachten te hebben uitgewiss
 
 De zeegrenzen tussen de Nederlandse Antillen en Venezuela zijn:
 
-- 1. **Sector A: tussen de westzijde van Aruba en Venezolaans grondgebied:**
+- 1. *Sector A: tussen de westzijde van Aruba en Venezolaans grondgebied:*
 
-- 1.1. – Beginnend vanaf het punt no. 3, op 12°21'00" noorderbreedte en 70°25'00" westerlengte, de meridiaan van 70°25'00" westerlengte tot het punt no. 2, op 12°49'00" noorderbreedte en 70°25'00" westerlengte;
+   - 1.1. – Beginnend vanaf het punt no. 3, op 12°21'00" noorderbreedte en 70°25'00" westerlengte, de meridiaan van 70°25'00" westerlengte tot het punt no. 2, op 12°49'00" noorderbreedte en 70°25'00" westerlengte;
 
-- 1.2. – van dit punt no. 2 een boog van de grootcirkel tot het punt no. 1, op 15°24'48" noorderbreedte en 69°34'38" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
+   - 1.2. – van dit punt no. 2 een boog van de grootcirkel tot het punt no. 1, op 15°24'48" noorderbreedte en 69°34'38" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
 
-- 2. **Sector B: tussen de Benedenwindse Eilanden van de Nederlandse Antillen (Aruba, Bonaire, Curaçao) en de Noordkust van Venezuela:**
+- 2. *Sector B: tussen de Benedenwindse Eilanden van de Nederlandse Antillen (Aruba, Bonaire, Curaçao) en de Noordkust van Venezuela:*
 
-- 2.1. – Vanaf het punt no. 3, op 12º21'00" noorderbreedte en 70°25'00" westerlengte, de parallel 12°21'00" noorderbreedte tot het punt no. 4, op 12°21/00" noorderbreedte en 70°09'51" westerlengte;
+   - 2.1. – Vanaf het punt no. 3, op 12º21'00" noorderbreedte en 70°25'00" westerlengte, de parallel 12°21'00" noorderbreedte tot het punt no. 4, op 12°21/00" noorderbreedte en 70°09'51" westerlengte;
 
-- 2.2. – van dit punt no. 4 een boog van de grootcirkel tot het punt no. 5, op 12°21'54" noorderbreedte en 70°08'25" westerlengte;
+   - 2.2. – van dit punt no. 4 een boog van de grootcirkel tot het punt no. 5, op 12°21'54" noorderbreedte en 70°08'25" westerlengte;
 
-- 2.3. – van dit punt no. 5 een boog van de grootcirkel tot het punt no. 6, op 12°15'46" noorderbreedte en 69°44'12" westerlengte;
+   - 2.3. – van dit punt no. 5 een boog van de grootcirkel tot het punt no. 6, op 12°15'46" noorderbreedte en 69°44'12" westerlengte;
 
-- 2.4. – van dit punt no. 6 een boog van de grootcirkel tot het punt no. 7, op 11°52'45" noorderbreedte en 69°04'45" westerlengte;
+   - 2.4. – van dit punt no. 6 een boog van de grootcirkel tot het punt no. 7, op 11°52'45" noorderbreedte en 69°04'45" westerlengte;
 
-- 2.5. – van dit punt no. 7 een boog van de grootcirkel tot het punt no. 8, op 11°45'30" noorderbreedte en 68°57'15" westerlengte;
+   - 2.5. – van dit punt no. 7 een boog van de grootcirkel tot het punt no. 8, op 11°45'30" noorderbreedte en 68°57'15" westerlengte;
 
-- 2.6. – van dit punt no. 8 een boog van de grootcirkel tot het punt no. 9, op 11°44'30" noorderbreedte en 68°49'45" westerlengte;
+   - 2.6. – van dit punt no. 8 een boog van de grootcirkel tot het punt no. 9, op 11°44'30" noorderbreedte en 68°49'45" westerlengte;
 
-- 2.7. – van dit punt no. 9 een boog van de grootcirkel tot het punt no. 10, op 11º40'00" noorderbreedte en 68°36'00" westerlengte;
+   - 2.7. – van dit punt no. 9 een boog van de grootcirkel tot het punt no. 10, op 11º40'00" noorderbreedte en 68°36'00" westerlengte;
 
-- 2.8. – van dit punt no. 10 de parallel van 11°40'00" noorderbreedte tot het punt no. 11, op 11°40'00" noorderbreedte en 67°59'23" westerlengte.
+   - 2.8. – van dit punt no. 10 de parallel van 11°40'00" noorderbreedte tot het punt no. 11, op 11°40'00" noorderbreedte en 67°59'23" westerlengte.
 
-- 3. **Sector C: tussen Bonaire en Venezolaans grondgebied:**
+- 3. *Sector C: tussen Bonaire en Venezolaans grondgebied:*
 
-- 3.1. – Vanaf het punt no. 11, op 11°40'00" noorderbreedte en 67°59'23" westerlengte, de meridiaan 67°59'23" westerlengte tot het punt no. 12, op 12°27'00" noorderbreedte en 67°59'23" westerlengte;
+   - 3.1. – Vanaf het punt no. 11, op 11°40'00" noorderbreedte en 67°59'23" westerlengte, de meridiaan 67°59'23" westerlengte tot het punt no. 12, op 12°27'00" noorderbreedte en 67°59'23" westerlengte;
 
-- 3.2. – van dit punt no. 12 een boog van de grootcirkel tot het punt no. 13, op 15°14'28" noorderbreedte en 68°51'44" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
+   - 3.2. – van dit punt no. 12 een boog van de grootcirkel tot het punt no. 13, op 15°14'28" noorderbreedte en 68°51'44" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
 
-- 4. **Sector D: tussen de eilanden Aves, Saba en St. Eustatius:**
+- 4. *Sector D: tussen de eilanden Aves, Saba en St. Eustatius:*
 
-- 4.1. – Vanaf het punt no. 15, op 16°40'50" noorderbreedte en 63°37'50" westerlengte, een boog van de grootcirkel tot het punt no. 14, op 16°44'49" noorderbreedte en 64°01‘08" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten;
+   - 4.1. – Vanaf het punt no. 15, op 16°40'50" noorderbreedte en 63°37'50" westerlengte, een boog van de grootcirkel tot het punt no. 14, op 16°44'49" noorderbreedte en 64°01‘08" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten;
 
-- 4.2. – van het punt no. 15 een boog van de grootcirkel tot het punt no. 16, op 16°40'01" noorderbreedte en 63°35'20" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
+   - 4.2. – van het punt no. 15 een boog van de grootcirkel tot het punt no. 16, op 16°40'01" noorderbreedte en 63°35'20" westerlengte, of tot het punt op deze grootcirkel dat wordt bereikt in de afbakening met derde Staten.
 
 ##### Artikel 3
 
@@ -200,10 +153,10 @@ TEN BLIJKE WAARVAN de voornoemde gevolmachtigden dit Verdrag hebben ondertekend.
 
 GEDAAN te Willemstad, Curaçao, de 31ste maart van het jaar negentienhonderd achtenzeventig, in drie (3) gelijke exemplaren, elk in de Nederlandse en Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor Hare Majesteit de Koningin der Nederlanden:**
+*Voor Hare Majesteit de Koningin der Nederlanden:*
 
 (w.g.) S. G. M. ROZENDAL
 
-**Voor Zijne Excellentie de President van de Republiek Venezuela:**
+*Voor Zijne Excellentie de President van de Republiek Venezuela:*
 
 (w.g.) S. A. CONSALVI

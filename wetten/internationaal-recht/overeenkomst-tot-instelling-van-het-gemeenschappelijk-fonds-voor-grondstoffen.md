@@ -1,676 +1,643 @@
 ---
 title: "Overeenkomst tot instelling van het Gemeenschappelijk Fonds voor Grondstoffen"
 identifier: "BWBV0003602"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-01-10"
-last_updated: "2016-01-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003602"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003601033"
-version_id: "10003661722"
-internal_id: "C10006980051"
-label_id: "10003587054"
-dtd_version: "2.0"
-original_entry_into_force: "1989-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003602/2016-01-10/0"
-intitule_bron: "Trb.1981-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1981-03-18"
-intitule_in_force: "1989-08-30"
-intitule_status: "goed"
-original_publication: "Trb.1981-49"
-original_published_date: "1981-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-49"
-entry_into_force_date: "1989-06-19"
-jci_1_3: "jci1.3:c:BWBV0003602&z=2016-01-10&g=2016-01-10"
-jci_1_0: "1.0:c:BWBV0003602&g=2016-01-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1989-06-19"
+publicatiedatum: 1989-06-19
+laatste_update: 2016-01-10
+status: geldig
+toestand: 2016-01-10
+bron: "https://wetten.overheid.nl/BWBV0003602"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tot instelling van het Gemeenschappelijk Fonds voor Grondstoffen
 
-**Preambule**
+*Preamble The Parties, Determined to promote economic co-operation and understanding among all States, particularly between developed and developing countries, based on the principles of equity and sovereign equality and thereby to contribute to the establishment of a New International Economic Order, Recognizing the need for improved forms of international co-operation in the field of commodities as an essential condition for the establishment of a New International Economic Order, aimed at promoting economic and social development, particularly of developing countries, Desirous of promoting global action to improve market structures in international trade in commodities of interest to developing countries, Recalling resolution 93(IV) on the Integrated Programme for Commodities adopted at the fourth session of the United Nations Conference on Trade and Development (hereinafter referred to as UNCTAD), Have agreed to establish hereby the Common Fund for Commodities, which shall operate in accordance with the following provisions:*
 
-De Partijen,
+### CHAPTER I. DEFINITIONS
 
-Vastbesloten de economische samenwerking en verstandhouding tussen alle Staten, in het bijzonder tussen ontwikkelde landen en ontwikkelingslanden, te bevorderen op basis van de beginselen van rechtvaardigheid en soevereine gelijkheid en aldus een bijdrage te leveren aan de totstandkoming van een nieuwe internationale economische orde;
+##### Article 1. Definitions
 
-Zich bewust van de noodzaak van verbeterde vormen van internationale samenwerking op het gebied van grondstoffen, als een wezenlijke voorwaarde voor de totstandkoming van een nieuwe internationale economische orde, gericht op het bevorderen van de economische en sociale ontwikkeling, in het bijzonder van ontwikkelingslanden;
+For the purpose of this Agreement:
 
-Geleid door de wens mondiale maatregelen te bevorderen teneinde marktstructuren te verbeteren op het gebied van de internationale handel in grondstoffen die voor de ontwikkelingslanden van belang zijn;
+- 1. “Capital” means capital of the Fund as specified in [article 8, paragraph 1](https://wetten.overheid.nl/BWBV0003602).
 
-Herinnerend aan Resolutie 93 (IV) inzake het Geïntegreerde Grondstoffenprogramma, aangenomen tijdens de vierde zitting van de Conferentie inzake Handel en Ontwikkeling van de Verenigde Naties (hierna te noemen de UNCTAD);
+- 2. “Financial Intervention” means any grant, loan or other credit instrument, investment in equity, debt or investment funds, or any other form of financial intervention or contribution, except loan guarantees, that the Governing Council shall approve on a general basis or that the Executive Board shall approve for any individual case, for financing by the Fund under its Operations Account activities.
 
-Zijn hierbij overeengekomen het Gemeenschappelijk Fonds voor Grondstoffen in te stellen, dat zal functioneren in overeenstemming met de volgende bepalingen:
+- 3. “Fund” means the Common Fund for Commodities established by this Agreement.
 
-### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
+- 4. “International Commodity Body” (hereinafter referred to as ICB) means a body designated by the Executive Board in accordance with the criteria set out in schedule C, for the purpose of the Fund’s Operations Account activities.
 
-##### Artikel 1. Begripsomschrijvingen
+- 5. “Shares” means the shares of Capital specified in [article 8, paragraph 1](https://wetten.overheid.nl/BWBV0003602).
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+- 6. “Highly Qualified Majority” means at least three fourths of all votes cast.
 
-- 1. „Kapitaal”: het kapitaal van het Fonds zoals omschreven in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=8&z=2016-01-10&g=2016-01-10).
+- 7. “Qualified Majority” means at least two thirds of all votes cast.
 
-- 2. „Financiële interventie”: elke schenking, lening of ander kredietmiddel, investering in een aandelen-, schuld- of investeringsfonds, of enige andere vorm van financiële interventie of bijdrage, met uitzondering van leninggaranties, die de Raad van Bestuur op algemene basis dient goed te keuren of die het College van Bewindvoerders in een afzonderlijk geval dient goed te keuren, ten behoeve van financiering door het Fonds uit hoofde van zijn activiteiten in het kader van de Activiteitenrekening.
+- 8. “Simple Majority” means more than half of all votes cast.
 
-- 3. „Fonds” het Gemeenschappelijk Fonds voor Grondstoffen ingesteld bij deze Overeenkomst.
+- 9. “Total voting power” means the sum of the votes held by all the Members of the Fund.
 
-- 4. „Internationaal grondstoffenorgaan”: (hierna te noemen ICB) een door het College van Bewindvoerders in overeenstemming met de criteria vervat in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=C&z=2016-01-10&g=2016-01-10) aangewezen orgaan ten behoeve van de activiteiten uit hoofde van de Activiteitenrekening van het Fonds.
+- 10. “Trust Fund” means any amount of cash and/or number of other financial instruments of another party or parties, which is administered and/or managed by the Fund.
 
-- 5. „Aandelen”: de aandelen in het kapitaal omschreven in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=8&z=2016-01-10&g=2016-01-10).
+- 11. “Unit of Account” means the unit of account of the Fund as defined in accordance with [article 7, paragraph 1](https://wetten.overheid.nl/BWBV0003602).
 
-- 6. „Versterkt gekwalificeerde meerderheid”: ten minste driekwart van alle uitgebrachte stemmen.
+- 12. “Usable Currencies” means (a) the Japanese yen, the pound sterling, the Euro, the United States dollar and any other currency which has been designated from time to time by a competent international monetary organization as being in fact widely used to make payments for international transactions and widely traded in the principal exchange markets, and (b) any other freely available and effectively usable currency which the Executive Board may designate by a Qualified Majority after the approval of the country whose currency the Fund proposes to designate as such. Currencies may be removed from the list of Usable Currencies by the Executive Board by a Qualified Majority.
 
-- 7. „Gekwalificeerde meerderheid”: ten minste twee derde van alle uitgebrachte stemmen.
+- 13. “Votes cast” means affirmative and negative votes.
 
-- 8. „Gewone meerderheid”: meer dan de helft van alle uitgebrachte stemmen.
+### CHAPTER II. OBJECTIVES AND FUNCTIONS
 
-- 9. „Totaal aantal stemmen”: de som van de stemmen die in het bezit zijn van alle Leden van het Fonds.
+##### Article 2. Objectives
 
-- 10. „Trustfonds”: elk bedrag aan contanten en/of aantal andere financiële instrumenten van een andere partij of andere partijen waarvan het Fonds de administratie en/of het beheer verzorgt.
+The objectives of the Fund shall be:
 
-- 11. „Rekeneenheid”: de overeenkomstig [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=7&z=2016-01-10&g=2016-01-10), omschreven rekeneenheid van het Fonds.
+- a) To serve as a key instrument in attaining the agreed objectives of the Integrated Programme for Commodities as embodied in resolution 93(IV) of UNCTAD;
 
-- 12. „Bruikbare valuta”: (a) de Japanse yen, het pond sterling, de euro, de U.S. dollar en iedere andere valuta die door een bevoegde internationale monetaire organisatie op enig moment is aangewezen als een valuta die daadwerkelijk op grote schaal wordt gebruikt om betalingen te verrichten voor internationale transacties en die op grote schaal wordt verhandeld op de voornaamste valutamarkten, alsmede (b) iedere andere vrij beschikbare en daadwerkelijk bruikbare valuta die met een gekwalificeerde meerderheid door het College van Bewindvoerders kan worden aangewezen, nadat het land waarvan de valuta door het Fonds is voorgesteld, daarmee heeft ingestemd. Valuta kunnen met een gekwalificeerde meerderheid door het College van Bewindvoerders van de lijst van bruikbare valuta worden afgevoerd.
+- b) To promote the development of the commodity sector and to contribute to sustainable development in its three dimensions i.e. social, economic and environmental; acknowledging the diversity of ways towards sustainable development and in this regard recall that each country has the primary responsibility for its own development and the right to determine its own development paths and appropriate strategies.
 
-- 13. „Uitgebrachte stemmen”: stemmen vóór en stemmen tegen.
+##### Article 3. Functions
 
-### HOOFDSTUK II. DOELSTELLINGEN EN TAKEN
+To further its objectives as stated in [article 2](https://wetten.overheid.nl/BWBV0003602), the Fund shall exercise the following functions:
 
-##### Artikel 2. Doelstellingen
+- a) To mobilize resources and to finance measures and actions in the field of commodities as hereinafter provided;
 
-De doelstellingen van het Fonds zijn:
+- b) To establish partnerships to encourage synergies through co-operation and implementation of commodity development activities;
 
-- a. te dienen als een belangrijk instrument bij het bereiken van de overeengekomen doelstellingen van het geïntegreerde grondstoffenprogramma, zoals deze in UNCTAD-resolutie 93 (IV) zijn neergelegd;
+- c) To operate as a service provider;
 
-- b. de ontwikkeling van de grondstoffensector te bevorderen en bij te dragen aan duurzame ontwikkeling in de drie aspecten daarvan, te weten het sociale, economische en milieutechnische aspect, daarbij erkennend dat meerdere wegen naar duurzame ontwikkeling leiden en in dit verband erop wijzend dat elk land primair verantwoordelijk is voor zijn eigen ontwikkeling en het recht heeft zijn eigen ontwikkelingstraject en passende strategieën te bepalen.
+- d) To disseminate knowledge and to provide information on new and innovative approaches in the field of commodities;
 
-##### Artikel 3. Taken
+- e) To perform other functions as decided by the Governing Council.
 
-Teneinde zijn doelstellingen zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=II&artikel=2&z=2016-01-10&g=2016-01-10) te verwezenlijken vervult het Fonds de volgende taken:
+### CHAPTER III. MEMBERSHIP
 
-- a. het beschikbaar stellen van middelen en financieren van maatregelen en acties op het gebied van grondstoffen op de wijze zoals hierna aangegeven;
+##### Article 4. Eligibility
 
-- b. het tot stand brengen van partnerschappen om de synergie te bevorderen door samenwerking en uitvoering van activiteiten op het gebied van de ontwikkeling van grondstoffen;
+Membership in the Fund shall be open to:
 
-- c. het fungeren als dienstverlener;
+- a) All States Members of the United Nations or of any of its specialized agencies or of the International Atomic Energy Agency; and
 
-- d. het verspreiden van kennis en verstrekken van informatie over nieuwe en innovatieve benaderingen op het terrein van grondstoffen;
+- b) Any intergovernmental organization which exercises competence in fields of activity of the Fund. Such intergovernmental organizations shall not be required to undertake any financial obligations to the Fund; nor shall they hold any votes.
 
-- e. het vervullen van andere taken zoals besloten door de Raad van Bestuur.
+##### Article 5. Members
 
-### HOOFDSTUK III. LIDMAATSCHAP
+The Members of the Fund (hereinafter referred to as Members) shall be:
 
-##### Artikel 4. Voorwaarden voor lidmaatschap
+- a) Those States which have ratified, accepted or approved this Agreement on or prior to its date of entry into force;
 
-Het lidmaatschap van het Fonds staat open voor:
+- b) Those States which have acceded to this Agreement in accordance with [article 56](https://wetten.overheid.nl/BWBV0003602);
 
-- a. alle Staten die lid zijn van de Verenigde Naties, van haar gespecialiseerde organisaties of van de Internationale Organisatie voor Atoomenergie; en
+- c) Those intergovernmental organizations referred to in [article 4 (b)](https://wetten.overheid.nl/BWBV0003602) which have ratified, accepted or approved this Agreement on or prior to its date of entry into force;
 
-- b. iedere intergouvernementele organisatie die bevoegdheden uitoefent op de werkterreinen van het Fonds. Deze intergouvernementele organisaties behoeven geen financiële verplichtingen jegens het Fonds op zich te nemen en bezitten geen stemmen.
+- d) Those intergovernmental organizations referred to in [article 4 (b)](https://wetten.overheid.nl/BWBV0003602) which have acceded to this Agreement in accordance with [article 56](https://wetten.overheid.nl/BWBV0003602).
 
-##### Artikel 5. Leden
+##### Article 6. Limitations of Liability
 
-De Leden van het Fonds (hierna te noemen Leden) zijn:
+No Member shall be liable, by reason only of its membership, for acts or obligations of the Fund.
 
-- a. de Staten die deze Overeenkomst hebben bekrachtigd, aanvaard of goedgekeurd op of voorafgaand aan de datum van inwerkingtreding ervan;
+### CHAPTER IV. CAPITAL AND OTHER RESOURCES
 
-- b. de Staten die overeenkomstig [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10) tot deze Overeenkomst zijn toegetreden;
+##### Article 7. Unit of Account and Currencies
 
-- c. de in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=4&z=2016-01-10&g=2016-01-10), bedoelde intergouvernementele organisaties die deze Overeenkomst hebben bekrachtigd, aanvaard of goedgekeurd op of voorafgaand aan de datum van inwerkingtreding ervan;
+1. The Unit of Account of the Fund shall be as defined in [schedule F](https://wetten.overheid.nl/BWBV0003602).
 
-- d. de in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=4&z=2016-01-10&g=2016-01-10), bedoelde intergouvernementele organisaties die overeenkomstig [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10) tot deze Overeenkomst zijn toegetreden.
+2. The Fund shall hold, and conduct its financial transactions in Usable Currencies. No Member shall maintain or impose restrictions on the holding, use or exchange by the Fund of Usable Currencies deriving from:
 
-##### Artikel 6. Beperking van aansprakelijkheid
+- a) Payment of subscriptions of Shares of Capital;
 
-Geen Lid is, uitsluitend op grond van zijn lidmaatschap, aansprakelijk voor handelingen of verplichtingen van het Fonds.
+- b) Payment of voluntary contributions;
 
-### HOOFDSTUK IV. KAPITAAL EN ANDERE MIDDELEN
+- c) Borrowing;
 
-##### Artikel 7. Rekeneenheid en valuta
+- d) Payment on account of principal, income, interest or other charges in respect of loans or investments made out of any of the funds referred to in this paragraph.
 
-1. De rekeneenheid van het Fonds wordt in [Bijlage F](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=F&z=2016-01-10&g=2016-01-10) omschreven.
+3. The Executive Board shall determine the method of valuation of Usable Currencies, in terms of the Unit of Account, in accordance with prevailing international monetary practice.
 
-2. Het Fonds hanteert bruikbare valuta en verricht zijn financiële transacties daarin. Geen Lid houdt beperkingen in stand of legt deze op ten aanzien van het bezit, het gebruik of de omwisseling door het Fonds van bruikbare valuta die afkomstig zijn van:
+##### Article 8. Capital Resources
 
-- a. betaling van inschrijvingen op aandelen in het kapitaal;
+1. The capital of the Fund (referred to herein as Capital) shall be divided into 37,000 Shares to be issued by the Fund, having a par value of 7,566.47145 Units of Account each and a total value of 279,959,444 Units of Account.
 
-- b. betaling van vrijwillige bijdragen;
+2. Shares of Capital shall be available for subscription only by Members in accordance with the provisions of [article 9](https://wetten.overheid.nl/BWBV0003602).
 
-- c. leningen;
+3. The Shares of Capital:
 
-- d. betaling ter zake van hoofdsommen, inkomsten, rente of andere kosten betreffende leningen of investeringen verstrekt uit een van de in dit lid bedoelde middelen.
+- a) Shall, if necessary, be increased by the Governing Council upon the accession of any State under [article 56](https://wetten.overheid.nl/BWBV0003602);
 
-3. Het College van Bewindvoerders bepaalt de wijze van waardebepaling van bruikbare valuta uitgedrukt in de rekeneenheid, overeenkomstig de heersende internationale monetaire praktijk.
+- b) May be increased by the Governing Council in accordance with [article 11](https://wetten.overheid.nl/BWBV0003602).
 
-### HOOFDSTUK V. KAPITAAL EN ANDERE MIDDELEN
+4. If the Governing Council makes available for subscription unsubscribed Shares of Capital pursuant to [article 11, paragraph 2](https://wetten.overheid.nl/BWBV0003602), or increases the Shares of Capital pursuant to paragraph 3 (b) of this article, each Member shall have the right, but shall not be required, to subscribe such Shares.
 
-##### Artikel 8. Kapitaalmiddelen
+##### Article 9. Subscription of Shares
 
-1. Het kapitaal van het Fonds (hierna te noemen kapitaal) wordt verdeeld in 37.000 aandelen die door het Fonds worden uitgegeven en die elk een nominale waarde hebben van 7.566.47145 rekeneenheden en een totale waarde van 279.959.444 rekeneenheden.
+1. Each Member referred to in [article 5 (a)](https://wetten.overheid.nl/BWBV0003602) shall maintain a subscription, as set forth in [schedule A](https://wetten.overheid.nl/BWBV0003602), of:
 
-2. Op aandelen in het kapitaal kan slechts door Leden worden ingeschreven overeenkomstig de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10).
+- a) 100 Shares; and
 
-3. Het aantal aandelen in het kapitaal:
+- b) Any additional Shares.
 
-- a. wordt zo nodig door de Raad van Bestuur bij toetreding van een Staat ingevolge [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10) verhoogd;
+2. Each Member referred to in [article 5 (b)](https://wetten.overheid.nl/BWBV0003602) shall subscribe:
 
-- b. kan door de Raad van Bestuur overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=11&z=2016-01-10&g=2016-01-10) worden verhoogd.
+- a) 100 Shares; and
 
-4. Indien de Raad van Bestuur ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=11&z=2016-01-10&g=2016-01-10), de inschrijving openstelt op aandelen in het kapitaal waarop niet is ingeschreven, of ingevolge het derde lid, onderdeel b, van dit artikel het aantal aandelen in het kapitaal verhoogt, heeft ieder Lid het recht op deze aandelen in te schrijven, doch is daartoe niet gehouden.
+- b) Any additional Shares to be determined by the Governing Council by a Qualified Majority in a manner consistent with the allocation of Shares in [schedule A](https://wetten.overheid.nl/BWBV0003602) and in accordance with the terms and conditions agreed pursuant to [article 56](https://wetten.overheid.nl/BWBV0003602).
 
-##### Artikel 9. Inschrijving op aandelen
+3. Each Member may on a voluntary basis allocate to the Operations Account a part of its subscription under, respectively, paragraph 1 (a) or 2 (a) of this article, as well as such part or parts of its subscription under, respectively, paragraph 1 (b) or 2 (b) as the Governing Council in consensus shall allow at the request of such Member.
 
-1. Elk Lid bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=5&z=2016-01-10&g=2016-01-10), handhaaft de inschrijving zoals vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=A&z=2016-01-10&g=2016-01-10) op:
+4. In addition to its mandatory subscription pursuant to [article 9, paragraph 1 or 2](https://wetten.overheid.nl/BWBV0003602) respectively, each Member may at its own discretion request the Governing Council to make available for such Member for subscription any number of Shares of Capital as referred to in article 8, that remain unsubscribed as of the date of such request. The payment of any Shares so subscribed shall take place on terms and conditions to be agreed between the Governing Council and the Member concerned.
 
-- a. 100 aandelen; en
+5. Shares of Capital shall not be pledged or encumbered by Members in any manner whatsoever and shall be transferable only to the Fund.
 
-- b. eventuele bijkomende aandelen.
+##### Article 10. Payment of Shares
 
-2. Elk Lid bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=5&z=2016-01-10&g=2016-01-10), schrijft in op:
+1. Payments of Shares of Capital subscribed by each Member shall be made:
 
-- a. 100 aandelen; en
+- a) In any Usable Currency at the rate of conversion between that Usable Currency and the Unit of Account as at the date of payment; or
 
-- b. eventuele bijkomende aandelen zoals door de Raad van Bestuur met een gekwalificeerde meerderheid bepaald, op een wijze die verenigbaar is met de toewijzing van aandelen zoals vastgelegd in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=A&z=2016-01-10&g=2016-01-10) en in overeenstemming met de ingevolge [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10) overeengekomen voorwaarden.
+- b) In a Usable Currency selected by that Member at the time of deposit of its instrument of ratification, acceptance or approval, and at the rate of conversion between that Usable Currency and the Unit of Account as at the date of this Agreement.
 
-3. Elk Lid kan op vrijwillige basis een deel van zijn inschrijving toewijzen aan de Activiteitenrekening, ingevolge respectievelijk het eerste lid, onderdeel a, of het tweede lid, onderdeel a, van dit artikel alsmede een deel of delen van zijn inschrijving ingevolge respectievelijk het eerste lid, onderdeel b, of het tweede lid, onderdeel b, zoals door de Raad van Bestuur bij consensus wordt toegestaan op verzoek van dit Lid.
+At the time of deposit of its instrument of ratification, acceptance or approval, each Member shall select one of the procedures above, which shall apply to all such payments.
 
-4. Naast zijn verplichte inschrijving ingevolge [artikel 9, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10), kan elk Lid naar eigen goeddunken de Raad van Bestuur verzoeken een aantal aandelen in het kapitaal zoals bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=8&z=2016-01-10&g=2016-01-10) waarop niet is ingeschreven op de datum van het verzoek ter beschikking te stellen aan dat Lid ten behoeve van inschrijving daarop. De betaling van aandelen waarop aldus is ingeschreven vindt plaats volgens de voorwaarden die de Raad van Bestuur en het betrokken Lid overeenkomen.
+2. When undertaking any review in accordance with [article 11, paragraph 1](https://wetten.overheid.nl/BWBV0003602), the Governing Council shall review the operation of the method of payment referred to in paragraph 1 of this article, in the light of exchange-rate fluctuations, and, taking into account developments in the practice of international lending institutions, shall decide by a Highly Qualified Majority on changes, if any, in the method of payment of subscriptions of any additional Shares of Capital subsequently issued in accordance with article 11, paragraph 2.
 
-5. De aandelen in het kapitaal worden op generlei wijze door de Leden verpand of bezwaard en kunnen uitsluitend aan het Fonds worden overgedragen.
+3. Each Member referred to in [article 5 (a)](https://wetten.overheid.nl/BWBV0003602) shall:
 
-##### Artikel 10. Betaling van aandelen
+- a) Have paid 30 per cent of its total subscription of Shares within 60 days after the entry into force of this Agreement, or within 30 days after the date of deposit of its instrument of ratification, acceptance or approval, whichever was later;
 
-1. Betalingen van aandelen in het kapitaal waarop door ieder Lid is ingeschreven, worden gedaan:
+- b) One year after the payment provided for in subparagraph (a) above, have paid 20 per cent of its total subscription of Shares and deposited with the Fund irrevocable, non-negotiable, non-interest-bearing promissory notes in an amount of 10 per cent of its total subscription of Shares. Such notes shall be encashed as and when decided by the Governing Council by a Qualified Majority;
 
-- a. in elke bruikbare valuta tegen de omrekeningskoers tussen deze valuta en de rekeneenheid op de dag waarop de betaling plaatsvindt; of
+- c) Two years after the payment provided for in subparagraph (a) above, have deposited with the Fund irrevocable, non-negotiable, non-interest-bearing promissory notes in an amount of 40 per cent of its total subscription of Shares. Such notes shall be encashed as and when decided by the Governing Council by a Qualified Majority, except that the promissory notes in respect of Shares allocated to the Operations Account shall be encashed as and when decided by the Executive Board.
 
-- b. in een bruikbare valuta, door dat Lid gekozen op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring en tegen de omrekeningskoers tussen deze valuta en de rekeneenheid op de datum van deze Overeenkomst.
+4. Calls on Shares of Capital shall be made*pro rata* from all Members, except as provided for in paragraph 3 (c) of this article.
 
-Op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring maakt ieder Lid een keuze uit een van bovenstaande procedures die op elke zodanige betaling van toepassing zal zijn.
+5. Special arrangements for payment of subscriptions of Shares of Capital by the least developed countries are set forth in [schedule B](https://wetten.overheid.nl/BWBV0003602).
 
-2. In het geval van een onderzoek overeenkomstig [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=11&z=2016-01-10&g=2016-01-10), toetst de Raad van Bestuur het functioneren van de in het eerste lid van dit artikel bedoelde betalingswijze in het licht van wisselkoersschommelingen en neemt de Raad, rekening houdend met de ontwikkelingen in de praktijk van instellingen die internationale leningen verstrekken, met een versterkt gekwalificeerde meerderheid besluiten inzake eventuele wijzigingen in de betalingswijze voor inschrijvingen op bijkomende aandelen in het rechtstreeks bijgedragen kapitaal die daarna overeenkomstig artikel 11, tweede lid, worden uitgegeven.
+6. Subscription of Shares of Capital may, when relevant, be paid by the appropriate agencies of Members concerned.
 
-3. Elk in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=5&z=2016-01-10&g=2016-01-10), bedoeld Lid:
+##### Article 11. Adequacy of Subscriptions of Shares of Capital
 
-- a. dient binnen 60 dagen na de inwerkingtreding van deze Overeenkomst of binnen 30 dagen na het tijdstip waarop zijn akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd, naargelang welke van beide data het laatste valt, 30% van zijn totale inschrijving op aandelen te hebben betaald;
+1. The Governing Council may review, at such intervals as it may deem appropriate, the adequacy of the Capital available to the Capital Account.
 
-- b. dient één jaar na de betaling zoals voorzien in onderdeel a hierboven, 20% van zijn totale inschrijving op aandelen te hebben betaald en bij het Fonds niet-herroepbare, niet-overdraagbare en niet-rentedragende promessen ten bedrage van 10% van zijn totale inschrijving op aandelen te hebben gedeponeerd. Deze promessen worden verzilverd op de wijze en het tijdstip waartoe het College van Bewindvoerders met een gekwalificeerde meerderheid besluit;
+2. As a result of any review under paragraph 1 of this article, the Governing Council may decide to make available for subscription unsubscribed Shares or to issue additional Shares of Capital on a basis of assessment to be decided by the Governing Council.
 
-- c. dient 2 jaar na de betaling zoals voorzien in onderdeel a hierboven, bij het Fonds niet-herroepbare, niet-overdraagbare, niet-rentedragende promessen ten bedrage van 40% van zijn totale inschrijving op aandelen te hebben gedeponeerd. Deze promessen worden verzilverd op de wijze en het tijdstip waartoe het College van Bewindvoerders met een gekwalificeerde meerderheid besluit, met dien verstande dat promessen met betrekking tot aan de Activiteitenrekening toegewezen aandelen verzilverd worden op de wijze en het tijdstip waartoe het College van Bewindvoerders besluit.
+3. Decisions by the Governing Council under this article shall be adopted by a Highly Qualified Majority but shall not come into force until accepted by all Members. Acceptance shall be deemed to have been given unless any Member notifies its objection to the Managing Director in writing within six months after the adoption of the decision. Such period of time may be extended by the Governing Council at the time of the adoption of the decision, at the request of any Member.
 
-4. De opvraag van stortingen op aandelen in het kapitaal van alle Leden geschiedt naar evenredigheid, behoudens het bepaalde in het derde lid, onderdeel c, van dit artikel.
+##### Article 12. Voluntary Contributions
 
-5. Bijzondere betalingsregelingen voor inschrijvingen op aandelen in het kapitaal door de minst-ontwikkelde landen worden in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=B&z=2016-01-10&g=2016-01-10) vermeld.
+1. The Fund may accept voluntary contributions from Members and other sources. Such contributions shall be paid in Usable Currencies.
 
-6. Inschrijvingen op aandelen in het kapitaal kunnen in voorkomende gevallen betaald worden door de desbetreffende instellingen van de betrokken Leden.
+2. The Governing Council may review the adequacy of the resources of the Operations Account at such times as it decides. In the light of any such reviews, the Governing Council may decide to replenish the resources of the Operations Account and make the necessary arrangements. Any such replenishments shall be voluntary for Members and in accordance with this Agreement.
 
-##### Artikel 11. Toereikendheid van inschrijvingen op aandelen in het kapitaal
+3. Voluntary contributions may, at the discretion of the contributor, be made with or without restrictions as to their use by the Fund.
 
-1. De Raad van Bestuur kan, met door de Raad passend geachte tussenpozen, de toereikendheid van het aan de Kapitaalrekening ter beschikking staande kapitaal onderzoeken.
+##### Article 13. Collateral Reserve
 
-2. Naar aanleiding van een ingevolge het eerste lid van dit artikel verricht onderzoek kan de Raad van Bestuur besluiten aandelen waarop niet is ingeschreven, voor inschrijving open te stellen of bijkomende aandelen in het kapitaal op basis van een door de Raad van Bestuur vast te stellen verdeling uit te geven.
+1. The Governing Council shall establish a Collateral Reserve, the resources of which shall be employed as collateral for borrowings made by the Fund.
 
-3. Besluiten van de Raad van Bestuur ingevolge dit artikel worden aangenomen met een versterkt gekwalificeerde meerderheid, maar treden pas in werking wanneer alle Leden deze aanvaard hebben. Aanvaarding wordt geacht te zijn geschied tenzij een Lid binnen zes maanden na de aanneming van het besluit de Directeur schriftelijk in kennis stelt van zijn bezwaar. Deze termijn kan op verzoek van een Lid door de Raad van Bestuur worden verlengd op het tijdstip waarop het besluit wordt aangenomen.
+2. The resources of the Collateral Reserve shall consist of:
 
-##### Artikel 12. Vrijwillige bijdragen
+- a) Earnings of the Capital Account, net of administrative expenses, in such amounts as the Governing Council shall determine annually;
 
-1. Het Fonds kan vrijwillige bijdragen van Leden en uit andere bronnen aanvaarden. Deze bijdragen worden in bruikbare valuta betaald.
+- b) Voluntary contributions to the Collateral Reserve from Members; and
 
-2. De Raad van Bestuur kan op een door de Raad vast te stellen tijdstip de toereikendheid van de aan de Activiteitenrekening ter beschikking staande middelen onderzoeken. In het licht van al deze onderzoeken kan de Raad van Bestuur besluiten de middelen van de Activiteitenrekening aan te vullen en de noodzakelijke regelingen te treffen. Deze aanvullingen geschieden voor Leden op vrijwillige basis en in overeenstemming met deze Overeenkomst.
+- c) Any other resources made available for the Collateral Reserve by any party.
 
-3. Vrijwillige bijdragen worden, naar keuze van de bijdragende partij, al dan niet onderworpen aan beperkingen ter zake van hun gebruik door het Fonds.
+3. Notwithstanding the provisions of paragraphs 1 and 2 of this article, the Governing Council shall decide by a Highly Qualified Majority how to dispose of any net earnings of the Capital Account not allocated to the Collateral Reserve.
 
-##### Artikel 13. Reserve tot zekerheidstelling
+##### Article 14. Debt
 
-1. De Raad van Bestuur stelt een Reserve tot zekerheidstelling in waarvan de middelen zullen dienen als zekerheidstelling voor leningen van het Fonds.
+1. The Fund shall not borrow or otherwise incur debt obligations in any form except as in accordance with paragraph 2 of this article.
 
-2. De middelen van deze Reserve tot zekerheidstelling bestaan uit:
+2. For the purpose of effective administration of its operations, the Fund may incur short term liabilities for the purpose of:
 
-- a. opbrengsten van de Kapitaalrekening, onder aftrek van administratiekosten, tot bedragen die de Raad van Bestuur jaarlijks vaststelt;
+- (i) settlement of financial transactions or other treasury operations;
 
-- b. vrijwillige bijdragen aan de Reserve tot zekerheidstelling van Leden; en
+- (ii) liquidity needs.
 
-- c. alle overige bronnen die door een partij aan de Reserve tot zekerheidstelling ter beschikking worden gesteld.
+3. The total debt of the Fund shall at no time exceed the resources of the Collateral Reserve.
 
-3. Niettegenstaande de bepalingen van het eerste en tweede lid van dit artikel beslist de Raad van Bestuur met een versterkt gekwalificeerde meerderheid op welke wijze zal worden beschikt over netto-opbrengsten van de Kapitaalrekening die niet aan de Reserve tot zekerheidstelling zijn toegewezen.
+##### Article 15. Trust Funds
 
-##### Artikel 14. Schulden
+1. The Fund may accept financial resources from any party or parties for the purpose of establishment of a Trust Fund provided that the resources of such Trust Fund shall be applied to further the objectives of the Fund as set out in [article 2](https://wetten.overheid.nl/BWBV0003602).
 
-1. Het Fonds sluit geen leningen af en gaat op geen enkele wijze schuldverplichtingen aan tenzij in overeenstemming met het tweede lid van dit artikel.
+2. The resources of each Trust Fund shall be held in a separate account, segregated from the resources of the Fund and those of other Trust Funds.
 
-2. Ten behoeve van een effectief beheer van zijn activiteiten mag het Fonds schulden met een korte looptijd aangaan ten behoeve van:
+3. The terms and conditions for utilization of the resources of each Trust Fund and for the Fund’s administration and/or management thereof shall, after approval by the Executive Board, be laid down in an agreement between the Fund and the owner or owners of the resources of the Trust Fund.
 
-- i. het afwikkelen van financiële transacties of andere kasverrichtingen;
+### CHAPTER V. OPERATIONS
 
-- ii. liquiditeitsbehoeften.
+##### Article 16. General Provisions
 
-3. Het totale bedrag aan schulden van het Fonds mag de middelen van de Reserve tot zekerheidstelling nooit te boven gaan.
+A. Use of resources
 
-##### Artikel 15. Trustfondsen
+1. The resources and facilities of the Fund shall be used exclusively to achieve its objectives and fulfil its functions.
 
-1. Het Fonds mag financiële middelen aanvaarden van een andere partij of partijen voor het instellen van een Trustfonds mits de middelen van het Trustfonds worden ingezet voor het bevorderen van de doelstellingen van het Fonds zoals vervat in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=II&artikel=2&z=2016-01-10&g=2016-01-10).
+B. Two accounts
 
-2. De middelen van elk Trustfonds worden op een aparte rekening gezet, afgescheiden van de middelen van het Fonds en van andere Trustfondsen.
+2. The Fund shall establish, and maintain its resources in two separate Accounts: a Capital Account, with resources as provided for in [article 17, paragraph 1](https://wetten.overheid.nl/BWBV0003602), and an Operations Account, with resources as provided for in [article 18, paragraph 1](https://wetten.overheid.nl/BWBV0003602). Such separation of Accounts shall be reflected in the financial statements of the Fund.
 
-3. De voorwaarden verbonden aan het gebruik van de middelen van elk Trustfonds en aan de administratie en/of het beheer daarvan door het Fonds worden, na goedkeuring door het College van Bewindvoerders, vastgelegd in een overeenkomst tussen het Fonds en de eigenaar of eigenaren van de middelen van het Trustfonds.
+3. With the exception of Shares of Capital, the Governing Council may decide to re-allocate resources of one Account to the other Account and may apply resources of either Account to cover losses, or discharge liabilities, arising out of the operations or other activities of the other Account.
 
-### HOOFDSTUK VI. WERKZAAMHEDEN
+C. General powers
 
-##### Artikel 16. Algemene bepalingen
+4. In addition to any powers set forth elsewhere in this Agreement, the Fund may exercise the following powers in connection with its operations, subject to and consistent with general operating principles and the terms of this Agreement:
 
-1. De middelen en faciliteiten van het Fonds worden uitsluitend gebruikt ter verwezenlijking van zijn doelstellingen en ter vervulling van zijn taken.
+- a) To invest funds at any time not needed for its operations or for the Collateral Reserve in such financial instruments as the Fund may determine;
 
-2. Het Fonds stelt twee afzonderlijke rekeningen in, waarin het zijn middelen aanhoudt: een Kapitaalrekening, waarvoor de middelen worden verstrekt als in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=17&z=2016-01-10&g=2016-01-10), is bepaald en een Activiteitenrekening, waarvoor de middelen worden verstrekt als in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=18&z=2016-01-10&g=2016-01-10), is bepaald. Deze afzonderlijke rekeningen komen in de financiële stukken van het Fonds tot uitdrukking.
+- b) To exercise such other powers necessary to further its objectives and functions and to implement the provisions of this Agreement.
 
-3. Met uitzondering van aandelen in het kapitaal kan de Raad van Bestuur besluiten de middelen van de ene rekening toe te wijzen aan de andere rekening en de middelen van beide rekeningen te gebruiken om verliezen te dekken of verplichtingen te betalen die voortvloeien uit de activiteiten of andere werkzaamheden uit hoofde van de andere rekening.
+D. General operating principles
 
-4. Naast de elders in deze Overeenkomst uiteengezette bevoegdheden kan het Fonds in het kader van zijn activiteiten de volgende bevoegdheden uitoefenen, die onderworpen aan en in overeenstemming dienen te zijn met de algemene beginselen van bedrijfsvoering en met de voorwaarden van deze Overeenkomst:
+5. The Fund shall operate according to the provisions of this Agreement and any rules and regulations which the Governing Council may adopt.
 
-- a. gelden die het Fonds op enig moment niet nodig heeft voor zijn activiteiten of voor de Reserve tot zekerheidstelling beleggen in financiële instrumenten zoals door het Fonds te bepalen;
+6. The Fund shall operate in a manner consistent with good practice for prudent financial management of public funds.
 
-- b. de andere bevoegdheden uitoefenen die noodzakelijk zijn ter bevordering van de doelstellingen en taken van het Fonds en ter uitvoering van de bepalingen van deze Overeenkomst.
+##### Article 17. The Capital Account
 
-5. Het Fonds verricht zijn activiteiten overeenkomstig de bepalingen van deze Overeenkomst en de regels en voorschriften die door de Raad van Bestuur kunnen worden aangenomen.
+A. Resources
 
-6. Het Fonds verricht zijn activiteiten op een wijze die verenigbaar is met goede praktijken voor verantwoord financieel beheer van publieke gelden.
+1. The resources of the Capital Account shall consist of:
 
-##### Artikel 17. De Kapitaalrekening
+- a) Subscriptions by Members of Shares of Capital, except such part of their subscriptions as may have been allocated to the Operations Account in accordance with [article 9, paragraph 3](https://wetten.overheid.nl/BWBV0003602);
 
-1. De middelen van de Kapitaalrekening bestaan uit:
+- b) Voluntary contributions allocated to the Capital Account;
 
-- a. inschrijvingen door Leden op aandelen in het kapitaal, met uitzondering van het gedeelte van hun inschrijvingen dat overeenkomstig [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10), aan de Activiteitenrekening kan zijn toegewezen;
+- c) Earnings accrued from investment or deposit of the resources of the Capital Account;
 
-- b. aan de Kapitaalrekening toegewezen vrijwillige bijdragen;
+- d) Earnings received by the Fund as service provider pursuant to [article 3 (c)](https://wetten.overheid.nl/BWBV0003602);
 
-- c. inkomsten die voortvloeien uit het investeren of deponeren van de middelen van de Kapitaalrekening;
+- e) Earnings received by the Fund for its administration and management of Trust Funds;
 
-- d. inkomsten die het Fonds ontvangt als dienstverlener uit hoofde van [artikel 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=II&artikel=3&z=2016-01-10&g=2016-01-10);
+- f) Earnings received by the Fund in the form of interest, service charge, commitment fee and other charges emanating from Financial Interventions;
 
-- e. inkomsten die het Fonds ontvangt voor het administreren en beheren van de Trustfondsen;
+- g) Resources re-allocated from the Operations Account to the Capital Account in accordance with [article 16, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10);
 
-- f. inkomsten die het Fonds ontvangt in de vorm van interest, servicetoeslagen, bereidstellingsprovisie en andere kosten die voortvloeien uit financiële interventies;
+- h) Borrowings; and
 
-- g. middelen die vanuit de Activiteitenrekening aan de Kapitaalrekening zijn toegewezen in overeenstemming met [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10);
+- i) The Collateral Reserve.
 
-- h. leningen; en
+B. Use of the resources of Capital in the Capital Account
 
-- i. de Reserve tot zekerheidstelling.
+2. Capital allocated to the Capital Account shall be employed exclusively to provide revenues:
 
-2. Kapitaal dat aan de Kapitaalrekening is toegewezen wordt uitsluitend ingezet om inkomsten te genereren:
+- a) To cover the administrative expenses of the Fund; and
 
-- a. om de administratiekosten van het Fonds te dekken; en
+- b) To be allocated to the Collateral Reserve, or be disposed of in such other way, as the Governing Council shall determine in accordance with [article 13, paragraphs 2 (a) and 3](https://wetten.overheid.nl/BWBV0003602).
 
-- b. die aan de Reserve tot zekerheidsstelling worden toegewezen, of anderszins aangewend op de wijze die de Raad van Bestuur besluit in overeenstemming met [artikel 13, tweede lid, onderdeel a, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=13&z=2016-01-10&g=2016-01-10).
+3. For the purposes of [article 17, paragraph 2](https://wetten.overheid.nl/BWBV0003602) the Capital allocated to the Capital Account shall be invested and/or deposited in accordance with rules and regulations adopted by the Governing Council. Such rules and regulations shall pay due regard to the objective that such Capital shall remain unimpaired at all times and shall not be pledged or encumbered in any manner.
 
-3. Voor de toepassing van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=17&z=2016-01-10&g=2016-01-10), wordt het kapitaal dat aan de Kapitaalrekening wordt toegewezen geïnvesteerd en/of gedeponeerd in overeenstemming met de door de Raad van Bestuur aangenomen regels en voorschriften. Bij deze regels en voorschriften wordt terdege rekening gehouden met de doelstelling dat dit kapitaal te allen tijde intact blijft en op generlei wijze wordt verpand of bezwaard.
+##### Article 18. The Operations Account
 
-##### Artikel 18. De Activiteitenrekening
+A. Resources
 
-1. De middelen van de Activiteitenrekening bestaan uit:
+1. The resources of the Operations Account shall consist of:
 
-- a. het deel van het kapitaal dat aan de Activiteitenrekening is toegewezen in overeenstemming met [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10);
+- a) The part of Capital allocated to the Operations Account in accordance with [article 9, paragraph 3](https://wetten.overheid.nl/BWBV0003602);
 
-- b. aan de Activiteitenrekening toegewezen vrijwillige bijdragen;
+- b) Voluntary contributions made to the Operations Account;
 
-- c. inkomsten die van tijd tot tijd kunnen voortvloeien uit het investeren of deponeren van de middelen van de Activiteitenrekening;
+- c) Such income as may accrue from time to time from investment or deposit of the resources of the Operations Account;
 
-- d. middelen die vanuit de Kapitaalrekening aan de Activiteitenrekening zijn toegewezen in overeenstemming met [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10); en
+- d) Resources re-allocated from the Capital Account to the Operations Account in accordance with [article 16, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10); and
 
-- e. alle andere middelen die ten behoeve van uit hoofde van de Activiteitenrekening te verrichten activiteiten ter beschikking van het Fonds zijn gesteld of door het Fonds zijn ontvangen of verworven.
+- e) Any other resources placed at the disposal of, received or acquired by, the Fund for or from its Operations Account activities.
 
-2. Het totale bedrag aan financiële interventies dat het Fonds op enig moment verplicht is te verstrekken, mag de middelen van de Activiteitenrekening nooit te boven gaan.
+B. Financial limits for the Operations Account
 
-3. Het Fonds kan leningen verstrekken of daarin deelnemen en, behalve wat het gedeelte van het kapitaal betreft dat aan de Activiteitenrekening is toegewezen, elk ander type financiële interventie plegen ten behoeve van de financiering van maatregelen op het gebied van grondstoffen uit de middelen van de Activiteitenrekening, zulks met inachtneming van de bepalingen van deze Overeenkomst en in het bijzonder van de hiernavolgende voorwaarden:
+2. The aggregate amount at any time of the Financial Interventions which the Fund has committed itself to provide, shall at no time exceed the resources of the Operations Account.
 
-- a. Het dienen innovatieve maatregelen te zijn op het gebied van de ontwikkeling van grondstoffen, die erop zijn gericht de marktstructuur te verbeteren en de concurrentiepositie en vooruitzichten op de lange termijn met betrekking tot bepaalde grondstoffen te verbeteren, of alle overige maatregelen die kunnen zijn opgenomen in de door de Raad van Bestuur aangenomen regels en voorschriften of richtlijnen.
+C. Principles of Operations Account activities
 
-- b. De activiteiten van het Fonds in het kader van de Activiteitenrekening kunnen de vorm van elk type financiële interventie aannemen. Alle financiële interventies worden gepleegd op de voorwaarden die het College van Bewindvoerders passend acht.
+3. The Fund may make or participate in loans and, except for that portion of the Capital allocated to the Operations Account, any other type of Financial Intervention for the financing of measures in the field of commodities from the resources of the Operations Account, subject to the provisions of this Agreement and in particular to the following terms and conditions:
 
-### HOOFDSTUK VII. ORGANISATIE EN BEHEER
+- a) The measures shall be innovative commodity development measures, aimed at improving the structural conditions in markets and at enhancing the long-term competitiveness and prospects of particular commodities, or any other measures that may be included in rules and regulations or guidelines adopted by the Governing Council.
 
-##### Artikel 19. Structuur van het Fonds
+- b) The activities of the Fund in the Operations Account may take the form of any type of Financial Intervention. All Financial Interventions shall be provided on terms and conditions which the Executive Board decides are appropriate.
 
-Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders, een Raadgevend Comité, een Directeur en de staf en medewerkers die nodig zijn om de taken van het Fonds te kunnen vervullen.
+### CHAPTER VI. ORGANIZATION AND MANAGEMENT
 
-##### Artikel 20. Raad van Bestuur
+##### Article 19. Structure of the Fund
 
-1. Alle bevoegdheden van het Fonds berusten bij de Raad van Bestuur.
+The Fund shall have a Governing Council, an Executive Board, a Consultative Committee, a Managing Director and such staff and employees as may be necessary to carry out its functions.
 
-2. Elk Lid benoemt een bestuurder en een plaatsvervanger die ten genoegen van het Lid dat hen benoemt, in de Raad van Bestuur hun ambt vervullen. De plaatsvervanger kan deelnemen aan vergaderingen, maar heeft alleen stemrecht bij afwezigheid van de bestuurder wiens plaatsvervanger hij is.
+##### Article 20. Governing Council
 
-3. De Raad van Bestuur kan het College van Bewindvoerders machtigen alle bevoegdheden van de Raad van Bestuur uit te oefenen, met uitzondering van de bevoegdheid inzake:
+1. All the powers of the Fund shall be vested in the Governing Council.
 
-- a. het bepalen van het fundamentele beleid van het Fonds;
+2. Each Member shall appoint one Governor and one alternate to serve on the Governing Council at the pleasure of the appointing Member. The alternate may participate in meetings but may vote only in the absence of his principal.
 
-- b. het vaststellen van de voorwaarden voor toetreding tot deze Overeenkomst overeenkomstig [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XII&artikel=56&z=2016-01-10&g=2016-01-10);
+3. The Governing Council may delegate to the Executive Board authority to exercise any powers of the Governing Council, except the power:
 
-- c. het schorsen van een Lid;
+- a) To determine the fundamental policy of the Fund;
 
-- d. het verhogen of verlagen van het aantal aandelen in het kapitaal;
+- b) To agree on terms and conditions for accession to this Agreement in accordance with [article 56](https://wetten.overheid.nl/BWBV0003602);
 
-- e. het beslissen over het verzilveren van promesses uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=10&z=2016-01-10&g=2016-01-10);
+- c) To suspend a Member;
 
-- f. het aannemen van wijzigingen van deze Overeenkomst;
+- d) To increase or decrease the Shares of Capital;
 
-- g. het beëindigen van de activiteiten van het Fonds en het verdelen van de activa van het Fonds overeenkomstig het bepaalde in [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&z=2016-01-10&g=2016-01-10);
+- e) To decide on encashment of promissory notes under [article 10](https://wetten.overheid.nl/BWBV0003602);
 
-- h. het benoemen van de Directeur;
+- f) To adopt amendments to this Agreement;
 
-- i. het nemen van beslissingen naar aanleiding van een beroep van een Lid tegen een besluit van het College van Bewindvoerders betreffende de uitlegging of toepassing van deze Overeenkomst;
+- g) To terminate the operations of the Fund and to distribute the Fund's assets in accordance with [chapter VIII](https://wetten.overheid.nl/BWBV0003602);
 
-- j. het goedkeuren van de door accountants gecontroleerde jaarrekening van het Fonds;
+- h) To appoint the Managing Director;
 
-- k. het nemen van beslissingen ingevolge [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=13&z=2016-01-10&g=2016-01-10), inzake de netto-inkomsten, nadat in de Reserve tot zekerheidstelling is voorzien;
+- i) To decide appeals by Members on decisions made by the Executive Board concerning the interpretation or application of this Agreement;
 
-- l. het goedkeuren van voorgestelde overeenkomsten met andere internationale organisaties in overeenstemming met artikel 29, eerste en tweede lid, met uitzondering van overeenkomsten inzake afzonderlijke financiële interventies;
+- j) To approve the audited annual statement of accounts of the Fund;
 
-- m. het nemen van beslissingen inzake de aanvulling van de Activiteitenrekening overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=12&z=2016-01-10&g=2016-01-10).
+- k) To take decisions pursuant to [article 13, paragraph 3](https://wetten.overheid.nl/BWBV0003602), relating to net earnings after provision for the Collateral Reserve;
 
-4. De Raad van Bestuur houdt een jaarvergadering alsmede de bijzondere vergaderingen waartoe deze besluit of om bijeenroeping waarvan wordt verzocht door 15 bestuurders die ten minste een kwart van het aantal stemmen bezitten, dan wel op verzoek van het College van Bewindvoerders.
+- l) To approve proposed agreements with other international organizations in accordance with [article 29, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0003602), with the exception of agreements governing singular Financial Interventions;
 
-5. Het quorum voor een vergadering van de Raad van Bestuur wordt gevormd door een meerderheid van de bestuurders die ten minste twee derde van het totale aantal stemmen bezitten.
+- m) To decide on replenishments of the Operations Account in accordance with [article 12](https://wetten.overheid.nl/BWBV0003602).
 
-6. De Raad van Bestuur stelt met een versterkt gekwalificeerde meerderheid de met deze Overeenkomst verenigbare regels en voorschriften vast die nodig worden geacht voor de bedrijfsvoering van het Fonds.
+4. The Governing Council shall hold an annual meeting and such special meetings as it may decide, or as are called for by 15 Governors holding at least one fourth of the total voting power, or as requested by the Executive Board.
 
-7. Bestuurders en plaatsvervangers bekleden hun functie zonder vergoeding van het Fonds, tenzij de Raad van Bestuur met een gekwalificeerde meerderheid besluit hun een redelijke vergoeding per dag te betalen plus de reis- en verblijfkosten gemaakt in verband met het bijwonen van vergaderingen.
+5. A quorum for any meeting of the Governing Council shall be constituted by a majority of the Governors holding not less than two thirds of the total voting power.
 
-8. Tijdens elke jaarvergadering kiest de Raad van Bestuur een van de bestuurders tot Voorzitter.
+6. The Governing Council shall by a Highly Qualified Majority establish such rules and regulations consistent with this Agreement as it deems necessary for the conduct of the business of the Fund.
 
-De Voorzitter bekleedt zijn functie tot de verkiezing van zijn opvolger en kan voor één volgende ambtstermijn worden herkozen.
+7. Governors and alternates shall serve as such without compensation from the Fund, unless the Governing Council decides by a Qualified Majority to pay them reasonable *per diem* and travel expenses incurred in attending meetings.
 
-##### Artikel 21. Stemrecht in de Raad van Bestuur
+8. At each annual meeting, the Governing Council shall elect a Chairman from among the Governors.
 
-1. De stemmen in de Raad van Bestuur worden onder de Lidstaten verdeeld overeenkomstig [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=D&z=2016-01-10&g=2016-01-10).
+The Chairman shall hold office until the election of his successor. He may be re-elected for one successive term.
 
-2. Besluiten van de Raad van Bestuur worden zoveel mogelijk zonder stemming genomen.
+##### Article 21. Voting in the Governing Council
 
-3. Behoudens voor zover anders in deze Overeenkomst is bepaald, worden besluiten ten aanzien van alle aangelegenheden die in behandeling zijn bij de Raad van Bestuur met een gewone meerderheid genomen.
+1. Votes in the Governing Council shall be distributed among Member States in accordance with [schedule D](https://wetten.overheid.nl/BWBV0003602).
 
-##### Artikel 22. College van Bewindvoerders
+2. Decisions in the Governing Council shall, whenever possible, be taken without vote.
 
-1. Het College van Bewindvoerders is verantwoordelijk voor het uitvoeren van de activiteiten van het Fonds en brengt daarover verslag uit aan de Raad van Bestuur. Het College van Bewindvoerders oefent hiertoe de bevoegdheden uit die dit College elders in deze Overeenkomst zijn toegekend of eraan zijn overgedragen door de Raad van Bestuur. Bij de uitoefening van aan het College van Bewindvoerders overgedragen bevoegdheden, neemt het College besluiten met dezelfde meerderheid die vereist zou zijn wanneer deze bevoegdheden bij de Raad van Bestuur zouden berusten.
+3. Except as otherwise provided in this Agreement, all matters before the Governing Council shall be decided by a Simple Majority.
 
-2. Tenzij de Raad van Bestuur met een versterkt gekwalificeerde meerderheid anders besluit, bestaat het College van Bewindvoerders uit ten minste 20 en ten hoogste 25 bewindvoerders. Elke bewindvoerder heeft één plaatsvervanger.
+##### Article 22. Executive Board
 
-3. De bewindvoerders en één plaatsvervanger per bewindvoerder worden door de Raad van Bestuur gekozen op de wijze omschreven in [Bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&bijlage=E&z=2016-01-10&g=2016-01-10).
+1. The Executive Board shall be responsible for the conduct of the operations of the Fund and shall report to the Governing Council thereon. For this purpose the Executive Board shall exercise the powers accorded to it elsewhere in this Agreement or delegated to it by the Governing Council. In the exercise of any delegated powers, the Executive Board shall take decisions by the same levels of majority that would apply were such powers retained by the Governing Council.
 
-4. Elke bewindvoerder en zijn plaatsvervanger worden gekozen voor een termijn van twee jaar en kunnen worden herkozen.
+2. The Executive Board shall, unless the Governing Council shall decide otherwise with a Highly Qualified Majority, consist of not less than 20 and not more than 25 Executive Directors. There shall be one alternate for each Executive Director.
 
-Zij blijven in functie totdat hun opvolgers zijn gekozen. Een plaatsvervanger kan deelnemen aan vergaderingen, maar heeft alleen stemrecht bij afwezigheid van de bewindvoerder wiens plaatsvervanger hij is.
+3. The Executive Directors and one alternate to each Executive Director shall be elected by the Governing Council in the manner specified in [schedule E](https://wetten.overheid.nl/BWBV0003602).
 
-5. Het College van Bewindvoerders vervult zijn taken op het hoofdkantoor van het Fonds en vergadert zo vaak als de activiteiten van het Fonds dit vereisen.
+4. Each Executive Director and alternate shall be elected for a term of two years and may be re-elected.
 
-6. De bewindvoerders en hun plaatsvervangers bekleden hun functie zonder dat zij daarvoor van het Fonds een bezoldiging ontvangen. Het Fonds kan hun evenwel een redelijke vergoeding per dag betalen plus de reis- en verblijfkosten gemaakt in verband met het bijwonen van vergaderingen.
+They shall continue in office until their successors are elected. An alternate may participate in meetings but may vote only in the absence of his principal.
 
-7. Het quorum voor een vergadering van het College van Bewindvoerders wordt gevormd door een meerderheid van de bewindvoerders die ten minste twee derde van het totale aantal stemmen bezitten.
+5. The Executive Board shall function at the headquarters of the Fund and shall meet as often as the business of the Fund may require.
 
-8. Het College van Bewindvoerders nodigt de Secretaris-Generaal van de UNCTAD uit de vergaderingen van het College van Bewindvoerders als waarnemer bij te wonen.
+6. The Executive Directors and their alternates shall serve without remuneration from the Fund. The Fund may, however, pay them reasonable *per diem* and travel expenses incurred in attending meetings.
 
-9. Het College van Bewindvoerders kan de vertegenwoordigers van andere belanghebbende internationale organen uitnodigen zijn vergaderingen als waarnemer bij te wonen.
+7. A quorum for any meeting of the Executive Board shall be constituted by a majority of Executive Directors holding not less than two thirds of the total voting power.
 
-##### Artikel 23. Stemrecht in het College van Bewindvoerders
+8. The Executive Board shall invite the Secretary-General of UNCTAD to attend the meetings of the Executive Board as an observer.
 
-1. Elke bewindvoerder is gerechtigd het aantal stemmen uit te brengen dat aan de Leden die hij vertegenwoordigt, is toegewezen. Deze stemmen behoeven niet als een blok te worden uitgebracht.
+9. The Executive Board may invite the representatives of other interested international bodies to attend its meetings as observers.
 
-2. Besluiten van het College van Bewindvoerders worden zoveel mogelijk zonder stemming genomen.
+##### Article 23. Voting in the Executive Board
 
-3. Behoudens voor zover anders in deze Overeenkomst is bepaald, worden besluiten ten aanzien van alle aangelegenheden die in behandeling zijn bij het College van Bewindvoerders met een gewone meerderheid genomen.
+1. Each Executive Director shall be entitled to cast the number of votes attributable to the Members he represents. These votes need not be cast as a unit.
 
-##### Artikel 24. Directeur en personeel
+2. Decisions in the Executive Board shall, whenever possible, be taken without vote.
 
-1. De Raad van Bestuur benoemt met een gekwalificeerde meerderheid de Directeur. Indien de te benoemen persoon op het tijdstip van zijn benoeming bestuurder of bewindvoerder of plaatsvervanger is, legt hij deze functie neer alvorens zijn taken als Directeur aan te vangen.
+3. Except as otherwise provided in this Agreement, all matters before the Executive Board shall be decided by a Simple Majority.
 
-2. De Directeur is de hoogste functionaris van het Fonds en leidt volgens de aanwijzingen van de Raad van Bestuur en het College van Bewindvoerders de dagelijkse activiteiten van het Fonds.
+##### Article 24. Managing Director and Staff
 
-3. De ambtstermijn van de Directeur bedraagt vier jaar en hij kan worden herbenoemd voor één daaropvolgende termijn. Hij treedt echter af wanneer de Raad van Bestuur met een gekwalificeerde meerderheid daartoe besluit.
+1. The Governing Council shall by a Qualified Majority appoint the Managing Director. If the appointee is, at the time of his appointment, a Governor or an Executive Director, or an alternate, he shall resign from such position prior to taking up his duties as Managing Director.
 
-4. De Directeur is verantwoordelijk voor de organisatie van het personeel alsmede voor de benoeming en het ontslag van personeelsleden overeenkomstig de door het Fonds aan te nemen regels en voorschriften. Bij het benoemen van het personeel houdt de Directeur rekening met het primaire belang een zo hoog mogelijke mate van efficiency en technische bekwaamheid te verzekeren, en besteedt hij naar behoren aandacht aan de werving van het personeel op een zo breed mogelijke geografische basis.
+2. The Managing Director shall be the chief executive officer of the Fund and shall conduct, under the direction of the Governing Council and the Executive Board, the ordinary business of the Fund.
 
-5. De Directeur en het personeel staan bij het vervullen van hun taken uitsluitend in dienst van het Fonds en stellen hun diensten aan geen enkele andere autoriteit ter beschikking. Elk Lid eerbiedigt de internationale aard van deze dienstbetrekking en onthoudt zich van elke poging de Directeur of een personeelslid bij het vervullen van deze taken te beïnvloeden.
+3. The term of office of the Managing Director shall be four years and he may be reappointed for one successive term. However, he shall cease to hold office at any time the Governing Council so decides by a Qualified Majority.
 
-##### Artikel 25. Raadgevend Comité
+4. The Managing Director shall be responsible for the organization, appointment and dismissal of the staff pursuant to staff rules and regulations to be adopted by the Fund. In appointing the staff the Managing Director shall, subject to the paramount importance of securing the highest standards of efficiency and of technical competence, pay due regard to recruiting personnel on as wide a geographical basis as possible.
 
-Het Fonds handhaaft het ter beschikking stellen van een Raadgevend Comité aan het College van Bewindvoerders, dat is ingesteld en functioneert overeenkomstig de door de Raad van Bestuur aangenomen regels en voorschriften, om de activiteiten uit hoofde van de Activiteitenrekening te vergemakkelijken.
+5. The Managing Director and staff, in the discharge of their functions, shall owe their duty entirely to the Fund and to no other authority. Each Member shall respect the international character of this duty and shall refrain from all attempts to influence the Managing Director or any of the staff in the discharge of their functions.
 
-##### Artikel 26. Voorschriften inzake begroting en accountantscontrole
+##### Article 25. Consultative Committee
 
-1. De administratiekosten van het Fonds worden gedekt door de middelen van de Kapitaalrekening.
+The Fund shall maintain at the disposal of the Executive Board, a Consultative Committee, established and operating, in accordance with rules and regulations adopted by the Governing Council, to facilitate the activities of the Operations Account.
 
-2. De Directeur stelt een jaarlijkse administratieve begroting op, die door het College van Bewindvoerders wordt bestudeerd en voorzien van zijn aanbevelingen ter goedkeuring aan de Raad van Bestuur wordt toegezonden.
+##### Article 26. Budgetary and Audit Provisions
 
-3. De Directeur draagt er zorg voor dat de jaarrekening van het Fonds jaarlijks door een onafhankelijke en externe accountant wordt gecontroleerd. De door de accountants gecontroleerde jaarrekening wordt, na door het College van Bewindvoerders te zijn bestudeerd, voorzien van zijn aanbevelingen ter goedkeuring aan de Raad van Bestuur toegezonden.
+1. The administrative expenses of the Fund shall be covered from the resources of the Capital Account.
 
-##### Artikel 27. Plaats van de zetel
+2. The Managing Director shall prepare an annual administrative budget, which shall be considered by the Executive Board and be transmitted, together with its recommendations, to the Governing Council for approval.
 
-De zetel van het Fonds is gevestigd in Amsterdam, Nederland, tenzij de Raad van Bestuur met een gekwalificeerde meerderheid anderszins besluit. Bij besluit van de Raad van Bestuur kan het Fonds, indien nodig, andere kantoren op het grondgebied van enig Lid vestigen.
+3. The Managing Director shall arrange for an annual independent and external audit of the accounts of the Fund. The audited statement of accounts, after consideration by the Executive Board, shall be transmitted, together with its recommendations, to the Governing Council for approval.
 
-##### Artikel 28. Publicatie van verslagen
+##### Article 27. Location of Headquarters
 
-Het Fonds publiceert en zendt aan de Leden een jaarverslag met een door accountants gecontroleerde jaarrekening. Na aanvaarding door de Raad van Bestuur worden dit jaarverslag en deze jaarrekening eveneens ter kennisneming gezonden aan de Algemene Vergadering van de Verenigde Naties, de Raad voor Handel en Ontwikkeling van de UNCTAD en andere belanghebbende internationale organisaties.
+The headquarters of the Fund shall, except as the Governing Council with a Qualified Majority shall decide otherwise, be located in Amsterdam, The Netherlands. The Fund may, by a decision of the Governing Council, establish other offices, as necessary, in the territory of any Member.
 
-##### Artikel 29. Betrekkingen met de Verenigde Naties, ICB’s, andere internationale organisaties en andere organen
+##### Article 28. Publication of Reports
 
-1. Het Fonds kan onderhandelingen aangaan met de Verenigde Naties om een overeenkomst tot stand te brengen ten einde betrekkingen aan te knopen met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in [artikel 57 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Voor overeenkomsten tot stand gekomen ingevolge artikel [63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) is de goedkeuring vereist van de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.
+The Fund shall issue and transmit to Members an annual report containing an audited statement of accounts. After adoption by the Governing Council, such report and statement shall also be transmitted for information to the General Assembly of the United Nations, to the Trade and Development Board of UNCTAD and to other interested international organizations.
 
-2. Het Fonds kan nauw samenwerken met lichamen en organisaties binnen het systeem van de Verenigde Naties, en indien dit wenselijk wordt geacht, overeenkomsten tot stand brengen met deze organen.
+##### Article 29. Relations with the United Nations, ICBs, other International Organizations and other Entities
 
-3. Het Fonds streeft ernaar werkrelaties op te zetten met ICB’s en andere internationale organisaties en met publieke en private organen die zich bezighouden met activiteiten die verband houden met die van het Fonds en financiële ondersteuning te verwerven voor de doelstellingen van het Fonds uit alle beschikbare bronnen. In de onderlinge betrekkingen tussen het Fonds en deze organisaties en organen respecteert elke partij de autonomie van de ander.
+1. The Fund may enter into negotiations with the United Nations with a view to concluding an agreement to bring the Fund into relationship with the United Nations as one of the specialized agencies referred to in [Article 57 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Any agreement concluded in accordance with [Article 63 of the Charter](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) shall require the approval of the Governing Council, upon the recommendation of the Executive Board.
 
-### HOOFDSTUK VIII. TERUGTREKKING DOOR EN SCHORSING VAN LEDEN EN TERUGTREKKING DOOR GEASSOCIEERDE INTERNATIONALE GRONDSTOFFENORGANISATIES
+2. The Fund may co-operate closely with the bodies and organizations of the United Nations system, and enter into such agreements with such entities as may be deemed desirable.
 
-##### Artikel 30. Terugtrekking door Leden
+3. The Fund shall seek to establish working relationships with ICBs and other international organizations and with public and private entities engaged in activities related to those of the Fund, and to mobilize financial support for the Fund’s objectives from whichever sources available. In the interrelation between the Fund and such organizations and entities each party shall respect the autonomy of the other.
 
-Behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=34&z=2016-01-10&g=2016-01-10), en met inachtneming van het bepaalde in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VII&artikel=32&z=2016-01-10&g=2016-01-10) kan een Lid zich te allen tijde uit het Fonds terugtrekken door middel van een schriftelijke kennisgeving daarvan aan het Fonds. De terugtrekking wordt van kracht op de in de kennisgeving aangegeven datum, doch niet eerder dan twaalf maanden na ontvangst van de kennisgeving door het Fonds.
+### CHAPTER VII. WITHDRAWAL AND SUSPENSION OF MEMBERSHIP
 
-##### Artikel 31. Schorsing van Leden
+##### Article 30. Withdrawal of Members
 
-1. Behoudens het bepaalde in [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=34&z=2016-01-10&g=2016-01-10), kan de Raad van Bestuur met een gekwalificeerde meerderheid een Lid schorsen, indien dit Lid nalaat een van zijn financiële verplichtingen jegens het Fonds na te komen. Het aldus geschorste Lid houdt automatisch op Lid te zijn met ingang van één jaar na de datum van de schorsing, tenzij de Raad besluit de schorsing met één jaar te verlengen.
+A Member may at any time, except as provided for in [article 34, paragraph 2](https://wetten.overheid.nl/BWBV0003602), and subject to the provisions of article 32, withdraw from the Fund by transmitting a notice in writing to the Fund. Such withdrawal shall become effective on the date specified on the notice, which shall be not less than twelve months after receipt of the notice by the Fund.
 
-2. Wanneer de Raad van Bestuur zich ervan overtuigd heeft dat het geschorste Lid zijn financiële verplichtingen jegens het Fonds is nagekomen, herstelt de Raad het Lid in ere.
+##### Article 31. Suspension of Membership
 
-3. Tijdens zijn schorsing is het het Lid niet toegestaan enig recht ingevolge deze Overeenkomst uit te oefenen, behalve het recht van terugtrekking en het recht op arbitrage tijdens de beëindiging van de activiteiten van het Fonds. Het Lid blijft evenwel onderworpen aan de nakoming van alle hem ingevolge deze Overeenkomst opgelegde verplichtingen.
+1. If a Member fails to fulfil any of its financial obligations to the Fund, the Governing Council may, except as provided for in [article 34, paragraph 2](https://wetten.overheid.nl/BWBV0003602), by a Qualified Majority, suspend its membership. The Member so suspended shall automatically cease to be a Member one year from the date of its suspension, unless the Governing Council decides to extend the suspension for a further period of one year.
 
-##### Artikel 32. Vereffening van rekeningen
+2. When the Governing Council is satisfied that the suspended Member has fulfilled its financial obligations to the Fund, the Council shall restore the Member to good standing.
 
-1. Wanneer een Lid ophoudt Lid te zijn, blijft het daarna aansprakelijk voor het voldoen van de daarvóór door het Fonds opgevraagde bedragen en van de uitstaande betalingen op de datum waarop het Lid is opgehouden Lid te zijn met betrekking tot zijn verplichtingen jegens het Fonds.
+3. While under suspension, a Member shall not be entitled to exercise any rights under this Agreement, except the right of withdrawal and to arbitration during the termination of the Fund's operations, but shall remain subject to compliance with all its obligations under this Agreement.
 
-2. Wanneer een Lid ophoudt Lid te zijn, treft het Fonds als onderdeel van de vereffening van de rekeningen met dat Lid regelingen voor het terugkopen van zijn aandelen, in overeenstemming met [artikel 16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=V&artikel=16&z=2016-01-10&g=2016-01-10). De prijs waarvoor de aandelen worden teruggekocht is gelijk aan de waarde in U.S. dollars die is aangegeven in de boeken van het Fonds op de datum waarop het Lid ophoudt Lid te zijn, met dien verstande dat aldus aan het Lid verschuldigde bedragen door het Fonds kunnen worden aangewend ter voldoening van uitstaande verplichtingen van dat Lid jegens het Fonds ingevolge het eerste lid van dit artikel.
+##### Article 32. Settlement of Accounts
 
-##### Artikel 33. Tijdelijke opschorting van activiteiten
+1. When a Member ceases to be a Member, it shall remain liable thereafter to meet all calls made by the Fund before, and payments outstanding as of, the date on which it ceased to be a Member in respect of its obligations to the Fund.
 
-In urgente gevallen kan het College van Bewindvoerders activiteiten van het Fonds tijdelijk opschorten wanneer het zulks noodzakelijk acht, totdat de Raad van Bestuur in de gelegenheid is zich nader te beraden en maatregelen te nemen.
+2. When a Member ceases to be a Member, the Fund shall arrange for the repurchase of its Shares consistent with [article 16, paragraphs 2 and 3](https://wetten.overheid.nl/BWBV0003602), as a part of the settlement of accounts with that Member. The repurchase price of the Shares shall be the United States dollar value shown by the books of the Fund as at the date the Member ceases to be a Member; provided that any amount thus due to the Member may be applied by the Fund to any liability outstanding to the Fund from that Member pursuant to paragraph 1 of this article.
 
-### HOOFDSTUK IX. OPSCHORTING EN BEËINDIGING VAN WERKZAAMHEDEN EN VEREFFENING VAN VERPLICHTINGEN
+### CHAPTER VIII. SUSPENSION AND TERMINATION OF OPERATIONS AND SETTLEMENT OF OBLIGATIONS
 
-##### Artikel 34. Beëindiging van activiteiten
+##### Article 33. Temporary Suspension of Operations
 
-1. De Raad van Bestuur kan de activiteiten van het Fonds beëindigen bij een besluit door middel van stemming dat is genomen door twee derde van het totaal aantal bestuurders die ten minste driekwart van het totaal aantal stemmen bezitten. Na deze beëindiging staakt het Fonds onmiddellijk alle activiteiten, behalve die welke noodzakelijk zijn voor het ordelijk te gelde maken en in stand houden van zijn activa en het vereffenen van zijn uitstaande verplichtingen.
+In an emergency, the Executive Board may temporarily suspend such of the Fund's operations as it considers necessary pending an opportunity for further consideration and action by the Governing Council.
 
-2. Totdat de definitieve vereffening van deze verplichtingen en definitieve verdeling van deze activa heeft plaatsgevonden, blijft het Fonds bestaan en blijven alle rechten en verplichtingen van het Fonds en zijn Leden ingevolge deze Overeenkomst onverlet, met dien verstande dat een Lid zich niet kan terugtrekken of kan worden geschorst nadat het besluit tot beëindiging is genomen.
+##### Article 34. Termination of Operations
 
-##### Artikel 35. Vereffening van verplichtingen: Algemene bepalingen
+1. The Governing Council may terminate the Fund's operations by a decision taken by a vote of two thirds of the total number of Governors holding not less than three fourths of the total voting power. Upon such termination, the Fund shall forthwith cease all activities, except those necessary for the orderly realization and conservation of its assets and the settlement of its outstanding obligations.
 
-1. Het College van Bewindvoerders treft de noodzakelijke maatregelen om te verzekeren dat de activa van het Fonds ordelijk te gelde worden gemaakt. Voordat betalingen aan crediteuren die directe vorderingen hebben, plaatsvinden, zorgt het College met een gekwalificeerde meerderheid van stemmen voor de waarborgen en treft het de maatregelen die naar zijn mening noodzakelijk zijn om te verzekeren dat een verdeling onder de houders van directe vorderingen en de houders van voorwaardelijke vorderingen naar evenredigheid plaatsvindt.
+2. Until final settlement of its obligations and final distribution of its assets, the Fund shall remain in existence, and all rights and obligations of the Fund and its Members under this Agreement shall continue unimpaired, except that no Member may withdraw or be suspended after the decision to terminate has been taken.
 
-2. Er vindt ingevolge dit hoofdstuk geen verdeling van activa plaats, voordat:
+##### Article 35. Settlement of Obligations: General Provisions
 
-- a. aan alle verplichtingen van de betrokken Rekening is voldaan of daarvoor voorzieningen zijn getroffen; en
+1. The Executive Board shall make such arrangements as are necessary to ensure the orderly realization of the Fund's assets. Before making any payments to creditors holding direct claims, the Executive Board shall, by a Qualified Majority, make such reserves or arrangements as are necessary, in its sole judgement, to ensure a distribution to holders of contingent claims *pro rata* with creditors holding direct claims.
 
-- b. de Raad van Bestuur met een gekwalificeerde meerderheid heeft besloten tot een verdeling over te gaan.
+2. No distribution of assets shall be made in accordance with this chapter until:
 
-3. Na een besluit van de Raad van Bestuur ingevolge het tweede lid, onderdeel b, van dit artikel verdeelt het College van Bewindvoerders de resterende activa van de rekening in kwestie totdat al deze activa zijn verdeeld.
+- a) All liabilities of the Account in question have been discharged or provided for; and
 
-##### Artikel 36. Vereffening van verplichtingen: Kapitaalrekening
+- b) The Governing Council has decided to make a distribution by a Qualified Majority.
 
-1. Aan de verplichtingen jegens crediteuren van het Fonds wordt gelijkelijk uit de activa van de Kapitaalrekening voldaan.
+3. Following a decision of the Governing Council under paragraph 2 (b) of this article, the Executive Board shall make successive distributions of any remaining assets of the Account in question until all such assets have been distributed.
 
-2. Verdeling van de activa van de Kapitaalrekening die resteren na de verdeling zoals voorzien in het eerste lid van dit artikel, vindt plaats naar rato van hun inschrijvingen op aandelen in het kapitaal dat aan de Kapitaalrekening is toegewezen.
+##### Article 36. Settlement of Obligations: Capital Account
 
-##### Artikel 37. Vereffening van verplichtingen: Activiteitenrekening
+1. Liabilities to creditors of the Fund shall be discharged *pari passu* through the use of the assets of the Capital Account.
 
-1. Aan verplichtingen die door het Fonds in verband met activiteiten uit hoofde van de Activiteitenrekening zijn aangegaan wordt uit de middelen van de Activiteitenrekening voldaan.
+2. Distribution of any assets of the Capital Account remaining after the distributions provided for in paragraph 1 of this article shall be made to Members *pro rata* to their subscriptions of Shares of Capital allocated to the Capital Account.
 
-2. Verdeling van eventuele resterende activa van de Activiteitenrekening vindt eerst plaats onder de Leden, tot de waarde van hun inschrijving op aandelen in het kapitaal dat ingevolge [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=9&z=2016-01-10&g=2016-01-10), aan die Rekening werd toegewezen, en vervolgens onder degenen die aan die Rekening hebben bijgedragen naar evenredigheid van hun aandeel in het totale, ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=IV&artikel=12&z=2016-01-10&g=2016-01-10) bijgedragen, bedrag.
+##### Article 37. Settlement of Obligations: Operations Account
 
-##### Artikel 38. Vereffening van verplichtingen: overige activa van het Fonds
+1. Liabilities incurred by the Fund in respect of Operations Account activities shall be discharged through the use of the resources of the Operations Account.
 
-1. Overige activa worden te gelde gemaakt op een of meerdere door de Raad van Bestuur vast te stellen tijdstippen, met inachtneming van de door het College van Bewindvoerders gedane aanbevelingen en overeenkomstig de door dit College met een gekwalificeerde meerderheid vastgestelde procedures.
+2. Distribution of any remaining assets of the Operations Account shall be made first to Members up to the value of their subscriptions of Shares of Capital allocated to that Account pursuant to [article 9, paragraph 3](https://wetten.overheid.nl/BWBV0003602), and then to contributors to that Account *pro rata* to their share in the total amount contributed pursuant to [article 12](https://wetten.overheid.nl/BWBV0003602).
 
-2. Opbrengsten uit de verkoop van deze activa worden gebruikt om naar evenredigheid te voldoen aan de verplichtingen bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=36&z=2016-01-10&g=2016-01-10), en [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=VIII&artikel=37&z=2016-01-10&g=2016-01-10). Resterende activa worden verdeeld onder de Leden naar evenredigheid van hun inschrijving op aandelen in het kapitaal.
+##### Article 38. Settlement of Obligations: other Assets of the Fund
 
-##### Artikel 39. Doelstellingen
+1. Any other asset shall be realized at a time or times to be decided by the Governing Council, in the light of recommendations made by the Executive Board and in accordance with procedures determined by the Executive Board by a Qualified Majority.
 
-Ten einde het Fonds in staat te stellen de aan het Fonds toevertrouwde taken te vervullen, worden de in dit hoofdstuk vermelde rechtspositie, voorrechten en immuniteiten aan het Fonds toegekend op het grondgebied van elk Lid.
+2. Proceeds realized by the sale of such assets shall be used to discharge *pro rata* the liabilities referred to in [article 36, paragraph 1](https://wetten.overheid.nl/BWBV0003602), and [article 37, paragraph 1](https://wetten.overheid.nl/BWBV0003602). Any remaining assets shall be distributed to Members *pro rata* to their subscriptions of Shares of Capital.
 
-### HOOFDSTUK X. RECHTSPOSITIE, VOORRECHTEN EN IMMUNITEITEN
+### CHAPTER IX. STATUS, PRIVILEGES AND IMMUNITIES
 
-##### Artikel 40. Rechtspositie van het Fonds
+##### Article 39. Purposes
 
-Het Fonds bezit volledige rechtspersoonlijkheid en heeft in het bijzonder de bevoegdheid internationale verdragen met Staten en internationale organisaties tot stand te brengen, overeenkomsten aan te gaan, roerende en onroerende zaken te verwerven of te vervreemden en rechtsgedingen te voeren.
+To enable the Fund to fulfil the functions with which it is entrusted, the status, privileges and immunities set forth in this chapter shall be accorded to the Fund in the territory of each Member.
 
-##### Artikel 41. Immuniteit van rechtsgedingen
+##### Article 40. Legal Status of the Fund
 
-1. Het Fonds geniet immuniteit van iedere vorm van rechtsvervolging, behalve ter zake van vorderingen die tegen het Fonds kunnen worden ingesteld door:
+The Fund shall possess full juridical personality, and, in particular, the capacity to conclude international agreements with States and international organizations, to enter into contracts, to acquire and dispose of immovable and movable property, and to institute legal proceedings.
 
-- a. verstrekkers van leningen aan het Fonds, met betrekking tot deze leningen;
+##### Article 41. Immunity from Juridical Proceedings
 
-- b. kopers en houders van door het Fonds uitgegeven waardepapieren, met betrekking tot deze waardepapieren; en
+1. The Fund shall enjoy immunity from every form of legal process, except for actions which may be brought against the Fund:
 
-- c. belanghebbende curators en cessionarissen, met betrekking tot bovengenoemde transacties.
+- a) By lenders of funds borrowed by the Fund with respect to such funds;
 
-Deze vorderingen kunnen slechts bij bevoegde rechtbanken worden ingesteld in plaatsen die het Fonds schriftelijk met de andere partij is overeengekomen. Indien echter ten aanzien van de forumkeuze niets is bepaald of indien een akkoord met betrekking tot de bevoegdheid van deze rechtbank geen gevolgen heeft om redenen die geen fout betreffen van de partij die tegen het Fonds een geding aanspant, kan deze vordering bij een bevoegde rechtbank worden ingesteld in de plaats waar het Fonds zijn zetel heeft of waar het een vertegenwoordiger heeft aangewezen voor de betekening van exploten.
+- b) By buyers or holders of securities issued by the Fund with respect to such securities; and
 
-2. Tegen het Fonds mag door Leden geen geding aanhangig worden gemaakt, behoudens in de in het eerste lid van dit artikel genoemde gevallen. Ter regeling van geschillen tussen het Fonds en Leden kunnen deze laatste niettemin gebruik maken van daartoe in deze Overeenkomst en in door het Fonds aangenomen regels en voorschriften opgenomen bijzondere procedures.
+- c) By assignees and successors in interest thereof with respect to the aforementioned transactions.
 
-3. Niettegenstaande het bepaalde in het eerste lid van dit artikel worden de eigendommen en activa van het Fonds, ongeacht waar zij zich bevinden en wie hen onder zich heeft, gevrijwaard van onderzoek, iedere vorm van beslag, beslaglegging, alle vormen van inbeslagneming, dwangbevelen of andere wettelijke maatregelen waardoor de betaling van gelden wordt verhinderd en zijn deze eigendommen en activa tevens vrij van andere voorlopige maatregelen genomen voordat een eindvonnis tegen het Fonds door een overeenkomstig het eerste lid van dit artikel bevoegde rechtbank is uitgesproken. Het Fonds kan met zijn crediteuren overeenkomen de eigendommen en activa te beperken die voorwerp van executie kunnen zijn in verband met de tenuitvoerlegging van een eindvonnis.
+Such actions may be brought only before courts of competent jurisdiction in places in which the Fund has agreed in writing with the other party to be subject. However, if no provision is made as to the forum, or if an agreement as to the jurisdiction of such courts is not effective for reasons other than the fault of the party bringing legal action against the Fund, then such action may be brought before a competent court in the place in which the Fund has its headquarters or has appointed an agent for the purpose of accepting service or notice of process.
 
-##### Artikel 42. Immuniteit van activa ter zake van andere vorderingen
+2. No action shall be brought against the Fund by Members, except in cases as in paragraph 1 of this article. Nevertheless, Members shall have recourse to such special procedures to settle controversies between themselves and the Fund as may be prescribed in this Agreement and in any rules and regulations adopted by the Fund.
 
-De eigendommen en activa van het Fonds, ongeacht waar zij zich bevinden of wie hen onder zich heeft, worden gevrijwaard van onderzoek, vordering, inbeslagneming, onteigening of alle andere vormen van inmenging of beslag op last van uitvoerende of wetgevende macht.
+3. Notwithstanding the provisions of paragraph 1 of this article, property and assets of the Fund, wherever located and by whomsoever held, shall be immune from search, any form of taking, foreclosure, seizure, all forms of attachment, injunction, or other judicial process impeding disbursement of funds and any other interlocutory measures before the delivery of a final judgement against the Fund by a court having jurisdiction in accordance with paragraph 1 of this article. The Fund may agree with its creditors to limit the property or assets of the Fund which may be subject to execution in satisfaction of a final judgement.
 
-##### Artikel 43. Immuniteit van het archief
+##### Article 42. Immunity of Assets from other Actions
 
-Het archief van het Fonds, ongeacht waar dit zich bevindt, is onschendbaar.
+The property and assets of the Fund, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation and any other form of interference or taking whether by executive or legislative action.
 
-##### Artikel 44. Vrijwaring van de activa van beperkingen
+##### Article 43. Immunity of Archives
 
-Voor zover dat voor de uitvoering van de in deze Overeenkomst voorziene activiteiten nodig is en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en activa van het Fonds vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard ook.
+The archives of the Fund, wherever located, shall be inviolable.
 
-##### Artikel 45. Vertrouwelijkheid van mededelingen
+##### Article 44. Freedom of Assets from Restrictions
 
-Voor zover verenigbaar met van kracht zijnde internationale verdragen inzake telecommunicatie totstandgekomen onder de auspiciën van de Internationale Telecommunicatie Unie waarbij een Lid partij is, wordt door elk Lid aan de officiële mededelingen van het Fonds dezelfde behandeling toegekend als aan de officiële mededelingen van andere Leden.
+To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Fund shall be free from restrictions, regulations, controls, and moratoria of any nature.
 
-##### Artikel 46. Immuniteiten en voorrechten van bepaalde personen
+##### Article 45. Privilege for Communications
 
-Alle bestuurders, bewindvoerders, hun plaatsvervangers, de Directeur, leden van het Raadgevend Comité, deskundigen die voor het Fonds een opdracht vervullen alsmede de personeelsleden die geen deel uitmaken van het huishoudelijk personeel van het Fonds:
+As far as may be compatible with any international convention on telecommunications in force and concluded under the auspices of the International Telecommunication Union to which a Member is a party, the official communications of the Fund shall be accorded by each Member the same treatment that is accorded to the official communications of other Members.
 
-- a. genieten immuniteit van rechtsvordering ter zake van handelingen uit hoofde van hun ambt verricht, tenzij het Fonds afstand doet van deze immuniteit;
+##### Article 46. Immunities and Privileges of Specified Individuals
 
-- b. wordt, evenals aan hun gezinsleden die deel uitmaken van hun huishouding, voor zover zij niet de nationaliteit van het desbetreffende Lid bezitten, dezelfde immuniteit van immigratiebeperkingen, registratieplicht voor vreemdelingen en militaire dienstplicht en dezelfde faciliteiten ten aanzien van deviezenbeperkingen toegekend, die door dit Lid aan vertegenwoordigers, functionarissen en personeel van vergelijkbare rang in dienst van andere internationale financiële instellingen waarvan het lid is, wordt toegekend;
+All Governors, Executive Directors, their alternates, the Managing Director, members of the Consultative Committee, experts performing missions for the Fund, and the staff, other than persons in domestic service of the Fund:
 
-- c. genieten dezelfde behandeling op het gebied van reisfaciliteiten, die door elk Lid aan vertegenwoordigers, functionarissen en personeel van vergelijkbare rang in dienst van andere internationale financiële instellingen waarvan het lid is, wordt toegekend.
+- a) Shall be immune from legal process with respect to acts performed by them in their official capacity except when the Fund waives such immunity;
 
-##### Artikel 47. Vrijstelling van belasting
+- b) When they are not nationals of the Member concerned, shall be accorded, as well as their families forming part of their household, the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by such Member to the representatives, officials and employees of comparable rank of other international financial institutions of which it is a member;
 
-1. Binnen de grenzen van zijn officiële activiteiten zijn het Fonds, zijn activa, eigendommen, inkomsten en de activiteiten en transacties waartoe het uit hoofde van deze Overeenkomst is gemachtigd, vrijgesteld van alle directe belastingen en alle douanerechten op voor zijn officiële gebruik ingevoerde of uitgevoerde goederen, met dien verstande dat een Lid daardoor niet belet wordt zijn normale belastingen en douanerechten te heffen op grondstoffen die van oorsprong afkomstig zijn van het grondgebied van dat Lid en die door omstandigheden aan het Fonds zijn verbeurd. Het Fonds maakt geen aanspraak op vrijstelling van belastingen die slechts heffingen voor verleende diensten zijn.
+- c) Shall be granted the same treatment in respect of travelling facilities as is accorded by each Member to representatives, officials and employees of comparable rank of other international financial institutions of which it is a member.
 
-2. Wanneer door of namens het Fonds goederen worden gekocht of gebruik wordt gemaakt van diensten waarmee een aanzienlijk bedrag is gemoeid en die nodig zijn voor de uitoefening van de officiële activiteiten van het Fonds en wanneer in de prijs daarvan belastingen of douanerechten zijn begrepen, treft het betrokken Lid met inachtneming van zijn wetgeving voor zover mogelijk passende maatregelen ten einde vrijstelling van deze belastingen of douanerechten te verlenen of te voorzien in de terugbetaling daarvan. De met een vrijstelling als bedoeld in dit artikel ingevoerde of gekochte goederen worden niet binnen het grondgebied van het Lid dat de vrijstelling verleende, verkocht of op andere wijze vervreemd, behalve op met dat Lid overeengekomen voorwaarden.
+##### Article 47. Immunities from Taxation
 
-3. Er wordt door Leden geen belasting geheven op of ter zake van salarissen en vergoedingen of enige andere vorm van betaling door het Fonds aan bestuurders, bewindvoerders, hun plaatsvervangers, leden van het Raadgevend Comité, de Directeur en het personeel alsmede aan deskundigen die voor het Fonds een opdracht vervullen, die geen inwoner of onderdaan zijn of anderszins onder hun rechtsmacht vallen. Voor de toepassing van dit artikel 47, derde lid, wordt elke persoon die uit hoofde van zijn woonplaats of gewone verblijfplaats onderworpen is aan de belastingwetten van een Lid beschouwd als een onderdaan van het betrokken Lid.
+1. Within the scope of its official activities, the Fund, its assets, property, income and its operations and transactions authorized by this Agreement shall be exempt from all direct taxation and from all customs duties on goods imported or exported for its official use, provided that this shall not prevent any Member from imposing its normal taxes and customs duties on commodities which originate from the territory of such Member and which are forfeited to the Fund through any circumstance. The Fund shall not claim exemption from taxes which are no more than charges for services rendered.
 
-4. Er wordt geen belasting van welke aard ook geheven op door het Fonds uitgegeven of gegarandeerde schuld- of waardepapieren, met inbegrip van de dividenden en interesten daarvan, ongeacht door wie zij worden gehouden:
+2. When purchases of goods or services of substantial value necessary for the official activities of the Fund are made by or on behalf of the Fund, and when the price of such purchases includes taxes or duties, appropriate measures shall, to the extent possible and subject to the law of the Member concerned, be taken by such Member to grant exemption from such taxes or duties or provide for their reimbursement. Goods imported or purchased under an exemption provided for in this article shall not be sold or otherwise disposed of in the territory of the Member which granted the exemption, except under conditions agreed with that Member.
 
-- a. die ten nadele van een dergelijk schuld- of waardepapier is, uitsluitend omdat het door het Fonds is uitgegeven of gegarandeerd; of
+3. No tax shall be levied by Members on or in respect of salaries and emoluments paid or any other form of payment made by the Fund to Governors, Executive Directors, their alternates, members of the Consultative Committee, the Managing Director and staff, as well as experts performing missions for the Fund, who are not their citizens, nationals or subjects. For the purpose of this [article 47, paragraph 3](https://wetten.overheid.nl/BWBV0003602) any person who by virtue of domicile or habitual abode is subject to the taxation laws of a Member shall be regarded as a subject of the Member concerned.
 
-- b. indien de enige rechtsgrond voor een dergelijke belasting zou zijn de plaats waar of de valuta waarin de papieren zijn uitgegeven of waarin zij luiden, betaalbaar gesteld of betaald zijn, of de plaats waar een kantoor van het Fonds gevestigd is of waar het zijn activiteiten uitoefent.
+4. No taxation of any kind shall be levied on any obligation or security issued or guaranteed by the Fund, including any dividend or interest thereon, by whomsoever held:
 
-##### Artikel 48. Afstand van immuniteiten, vrijstellingen en voorrechten
+- a) Which discriminates against such obligation or security solely because it is issued or guaranteed by the Fund; or
 
-1. De immuniteiten, vrijstellingen en voorrechten bedoeld in dit hoofdstuk worden verleend in het belang van het Fonds. Het Fonds kan besluiten, in de mate en op voorwaarden door hem te bepalen, afstand te doen van de in dit hoofdstuk bedoelde immuniteiten, vrijstellingen en voorrechten, indien hierdoor de belangen van het Fonds niet worden geschaad.
+- b) If the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Fund.
 
-2. De Directeur heeft de bevoegdheid, zoals deze aan hem door de Raad van Bestuur kan zijn gedelegeerd, en de plicht de immuniteit van een personeelslid en van deskundigen die voor het Fonds een opdracht vervullen, op te heffen indien immuniteit de rechtsgang zou belemmeren en deze kan worden opgeheven zonder de belangen van het Fonds te schaden.
+##### Article 48. Waiver of Immunities, Exemptions and Privileges
 
-##### Artikel 49. Toepassing van dit hoofdstuk
+1. The immunities, exemptions and privileges provided in this chapter are granted in the interests of the Fund. The Fund may waive, to such extent and upon such conditions as it may determine, the immunities, exemptions and privileges provided in this chapter in cases where its action would not prejudice the interests of the Fund.
 
-Elk Lid onderneemt de nodige stappen met het doel op zijn grondgebied de beginselen en verplichtingen vervat in dit hoofdstuk, toe te passen.
+2. The Managing Director shall have the power, as may be delegated to him by the Governing Council, and the duty to waive the immunity of any of the staff, and experts performing missions for the Fund, in cases where the immunity would impede the course of justice and can be waived without prejudice to the interests of the Fund.
 
-##### Artikel 50. Wijzigingen
+##### Article 49. Application of this Chapter
 
-- a. Elk voorstel van een Lid tot wijziging van deze Overeenkomst wordt door de Directeur ter kennis gebracht van alle Leden en voorgelegd aan het College van Bewindvoerders dat zijn aanbevelingen ter zake voorlegt aan de Raad van Bestuur.
+Each Member shall take such action as is necessary for the purpose of making effective in its territory the principles and obligations set forth in this chapter.
 
-- b. Elk voorstel van het College van Bewindvoerders tot wijziging van deze Overeenkomst wordt door de Directeur ter kennis gebracht van alle Leden en voorgelegd aan de Raad van Bestuur.
+### CHAPTER X. AMENDMENTS
 
-2. Wijzigingen worden door de Raad van Bestuur met een versterkt gekwalificeerde meerderheid aangenomen, maar treden pas in werking wanneer alle Leden deze aanvaard hebben. Aanvaarding wordt geacht te zijn geschied tenzij een Lid binnen zes maanden na de aanneming van de wijziging de Directeur schriftelijk in kennis stelt van zijn bezwaar. Deze termijn kan op verzoek van een Lid door de Raad van Bestuur worden verlengd op het tijdstip waarop de wijziging wordt aangenomen.
+##### Article 50. Amendments
 
-3. De Directeur stelt alle Leden en de depositaris onverwijld in kennis van wijzigingen die zijn aangenomen en van de datum van inwerkingtreding van deze wijzigingen.
+1. - a) Any proposal to amend this Agreement emanating from a Member shall be notified to all Members by the Managing Director and referred to the Executive Board, which shall submit its recommendations thereon to the Governing Council.
 
-### HOOFDSTUK XI. UITLEGGING EN ARBITRAGE
+- b) Any proposal to amend this Agreement emanating from the Executive Board shall be notified to all Members by the Managing Director and referred to the Governing Council.
 
-##### Artikel 51. Uitlegging
+2. Amendments shall be adopted by the Governing Council by a Highly Qualified Majority, but shall not come into force until accepted by all Members. Acceptance shall be deemed to have been given unless any Member notifies its objection to the Managing Director in writing within six months after the adoption of the amendment. Such period of time may be extended by the Governing Council at the time of the adoption of the amendment, at the request of any Member.
 
-1. Elke kwestie omtrent de uitlegging of toepassing van de bepalingen van deze Overeenkomst tussen een Lid en het Fonds of tussen de Leden van het Fonds onderling, wordt aan het College van Bewindvoerders ter beslissing voorgelegd. Dit Lid of deze Leden heeft/hebben het recht deel te nemen aan de beraadslagingen van het College van Bewindvoerders gedurende de behandeling van de desbetreffende kwestie overeenkomstig de door de Raad van Bestuur aan te nemen regels en voorschriften.
+3. The Managing Director shall immediately notify all Members and the Depositary of any amendments that are adopted and of the date of the entry into force of any such amendments.
 
-2. In ieder geval waarin het College van Bewindvoerders ingevolge het eerste lid van dit artikel een beslissing heeft genomen, mag ieder Lid binnen drie maanden vanaf de datum van de kennisgeving van de beslissing verzoeken dat de kwestie wordt voorgelegd aan de Raad van Bestuur, die bij zijn eerstvolgende vergadering met een versterkt gekwalificeerde meerderheid een beslissing neemt. De beslissing van de Raad van Bestuur is definitief.
+### CHAPTER XI. INTERPRETATION AND ARBITRATION
 
-3. Wanneer de Raad van Bestuur er niet in slaagt tot een beslissing ingevolge het tweede lid van dit artikel te komen, wordt de kwestie voorgelegd voor arbitrage overeenkomstig de procedures die zijn vervat in [artikel 52, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XI&artikel=52&z=2016-01-10&g=2016-01-10), indien een Lid daarom verzoekt binnen drie maanden na de laatste dag waarop de kwestie door de Raad van Bestuur is behandeld.
+##### Article 51. Interpretation
 
-### HOOFDSTUK XII. INTERPRETATIE EN ARBITRAGE
+1. Any question of interpretation or application of the provisions of this Agreement arising between any Member and the Fund or between Members shall be submitted to the Executive Board for decision. Such Member or Members shall be entitled to participate in the deliberations of the Executive Board during the consideration of such question in accordance with rules and regulations to be adopted by the Governing Council.
 
-##### Artikel 52. Arbitrage
+2. In any case where the Executive Board has given a decision under paragraph 1 of this article, any Member may require, within three months from the date of notification of the decision, that the question be referred to the Governing Council, which shall take a decision at its next meeting by a Highly Qualified Majority. The decision of the Governing Council shall be final.
 
-1. Elk geschil tussen het Fonds en een Lid dat zich heeft teruggetrokken, of tussen het Fonds en een Lid tijdens de beëindiging van de activiteiten van het Fonds, wordt voorgelegd voor arbitrage.
+3. Where the Governing Council has been unable to reach a decision under paragraph 2 of this article, the question shall be submitted to arbitration in accordance with the procedures laid down in [article 52, paragraph 2](https://wetten.overheid.nl/BWBV0003602), if any Member so requests within three months after the final day of consideration of the question by the Governing Council.
 
-2. Het scheidsgerecht bestaat uit drie scheidsmannen. Elke partij bij het geschil benoemt één scheidsman. Beide aldus benoemde scheidsmannen benoemen de derde scheidsman, die als voorzitter optreedt. Indien binnen 45 dagen na ontvangst van het verzoek om arbitrage een van de partijen geen scheidsman heeft benoemd, of indien binnen 30 dagen na de benoeming van de twee scheidsmannen geen derde is benoemd, kan elk van beide partijen de President van het Internationaal Gerechtshof of een andere autoriteit voorzien in de regels en voorschriften zoals aangenomen door de Raad van Bestuur, verzoeken een scheidsman te benoemen. Indien de President van het Internationaal Gerechtshof ingevolge dit lid is verzocht een scheidsman te benoemen en de President een onderdaan is van een Staat die partij is bij het geschil of niet in staat is zijn taak te vervullen, gaat de bevoegdheid om een scheidsman te benoemen over op de Vice-President van het Hof, of, indien voor hem dezelfde beletsels gelden, op het oudste lid van het Hof, voor wie deze beletsels niet gelden en die het langst deel heeft uitgemaakt van het Hof. De arbitrageprocedure wordt door de scheidsmannen vastgesteld, met dien verstande dat de voorzitter volledig gemachtigd is inzake alle vragen betreffende de procedure een beslissing te nemen indien daaromtrent verschil van mening bestaat. Een meerderheid van stemmen van de scheidsmannen volstaat om tot een definitieve en voor de partijen bindende beslissing te komen.
+##### Article 52. Arbitration
 
-##### Artikel 53. Inwerkingtreding
+1. Any dispute between the Fund and any Member which has withdrawn, or between the Fund and any Member during the termination of the Fund's operations, shall be submitted to arbitration.
 
-Deze Overeenkomst is op 19 juni 1989 in werking getreden en is op ............ door de Raad van Bestuur gewijzigd.
+2. The arbitral tribunal shall consist of three arbitrators. Each party to the dispute shall appoint one arbitrator. The two arbitrators so appointed shall appoint the third arbitrator, who shall be the Chairman. If within 45 days of receipt of the request for arbitration either party has not appointed an arbitrator, or if within 30 days of the appointment of the two arbitrators the third arbitrator has not been appointed, either party may request the President of the International Court of Justice, or such other authority as may have been prescribed by rules and regulations adopted by the Governing Council, to appoint an arbitrator. If the President of the International Court of Justice has been requested under this paragraph to appoint an arbitrator and if the President is a national of a State party to the dispute or is unable to discharge his duties, the authority to appoint the arbitrator shall devolve on the Vice-President of the Court, or, if he is similarly precluded, on the oldest among the members of the Court not so precluded who have been longest on the bench. The procedure of arbitration shall be fixed by the arbitrators but the Chairman shall have full power to settle all questions of procedure in any case of disagreement with respect thereto. A majority vote of the arbitrators shall be sufficient to reach a decision, which shall be final and binding upon the parties.
 
-### HOOFDSTUK XIII. SLOTBEPALINGEN
+### CHAPTER XII. FINAL PROVISIONS
 
-##### Artikel 54. Periodieke toetsing van de Overeenkomst
+##### Article 53. Entry into Force
 
-De Raad van Bestuur voert iedere tien jaar een toetsing uit van de Overeenkomst, voor de eerste keer in 2024, en neemt aan de hand daarvan alle maatregelen die hij nodig acht.
+This Agreement entered into force on 19 June 1989 and was amended by the Governing Council on ..........
 
-##### Artikel 55. Depositaris
+##### Article 54. Periodic Review of the Agreement
 
-De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overeenkomst.
+The Governing Council shall every ten years, first time in 2024, review this Agreement and in light of any such review take any action the Governing Council may deem appropriate.
 
-##### Artikel 56. Toetreding
+##### Article 55. Depositary
 
-1. Elke Staat of in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=III&artikel=4&z=2016-01-10&g=2016-01-10) omschreven intergouvernementele organisatie kan tot deze Overeenkomst toetreden op de tussen de Raad van Bestuur en die Staat of intergouvernementele organisatie overeengekomen voorwaarden. Toetreding geschiedt door nederlegging van een akte van toetreding bij de depositaris.
+The Secretary-General of the United Nations is the Depositary of this Agreement.
 
-2. Deze Overeenkomst treedt voor een staat of intergouvernementele organisatie die een akte van toetreding nederlegt in werking op de datum van deze nederlegging.
+##### Article 56. Accession
 
-##### Artikel 57. Voorbehouden
+1. Any State or intergovernmental organization specified in [article 4](https://wetten.overheid.nl/BWBV0003602) may accede to this Agreement upon such terms and conditions as are agreed between the Governing Council and that State or intergovernmental organization. Accession shall be effected by the deposit of an instrument of accession with the Depositary.
 
-Er mogen geen voorbehouden worden gemaakt ten aanzien van de bepalingen van deze Overeenkomst, behalve ten aanzien van [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003602&hoofdstuk=XI&artikel=52&z=2016-01-10&g=2016-01-10).
+2. For any State or intergovernmental organization that deposits an instrument of accession, this Agreement shall enter into force on the date of such deposit.
 
-##### Artikel 58. Talen
+##### Article 57. Reservations
 
-Deze Overeenkomst is opgesteld in de Engelse, de Franse, de Russische, de Spaanse, de Chinese en de Arabische taal, waarbij alle teksten gelijkelijk authentiek zijn en dezelfde werking hebben.
+Reservations may not be made with respect to any of the provisions of this Agreement, except with respect to [article 52](https://wetten.overheid.nl/BWBV0003602).
 
-IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have affixed their signatures under this Agreement on the dates indicated.
+##### Article 58. Languages
 
-DONE at Geneva on the twenty-seventh day of June, one thousand nine hundred and eighty, in one original in the Arabic, Chinese, English, French, Russian and Spanish languages, all texts being equally authentic.
-
-### HOOFDSTUK V. ACTIVITEITEN
-
-### HOOFDSTUK VI. ORGANISATIE EN BEHEER
-
-### HOOFDSTUK VII. TERUGTREKKING DOOR EN SCHORSING VAN LEDEN
-
-### HOOFDSTUK VIII. OPSCHORTING EN BEËINDIGING VAN ACTIVITEITEN EN VEREFFENING VAN VERPLICHTINGEN
-
-### HOOFDSTUK IX. RECHTSPOSITIE, VOORRECHTEN EN IMMUNITEITEN
-
-### HOOFDSTUK X. WIJZIGINGEN
-
-### HOOFDSTUK XII. SLOTBEPALINGEN
+This Agreement is made in English, French, Russian, Spanish, Chinese and Arabic languages which are equally authentic and have the same force.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have affixed their signatures under this Agreement on the dates indicated.
 

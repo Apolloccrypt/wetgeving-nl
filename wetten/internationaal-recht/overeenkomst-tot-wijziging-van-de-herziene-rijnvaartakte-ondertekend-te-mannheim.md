@@ -1,64 +1,31 @@
 ---
 title: "Overeenkomst tot wijziging van de Herziene Rijnvaartakte, ondertekend te Mannheim de 17e oktober 1868"
 identifier: "BWBV0003437"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-04-14"
-last_updated: "1967-04-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003437"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003530823"
-version_id: "10003579862"
-internal_id: "C10006977001"
-label_id: "10003516234"
-dtd_version: "2.0"
-original_entry_into_force: "1967-04-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003437/1967-04-14/0"
-intitule_bron: "Trb.1964-83"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-06-18"
-intitule_in_force: "1967-06-01"
-intitule_status: "goed"
-original_publication: "Trb.1964-83"
-original_published_date: "1964-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-83"
-entry_into_force_date: "1967-04-14"
-jci_1_3: "jci1.3:c:BWBV0003437&z=1967-04-14&g=1967-04-14"
-jci_1_0: "1.0:c:BWBV0003437&g=1967-04-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-04-14"
+publicatiedatum: 1967-04-14
+laatste_update: 1967-04-14
+status: geldig
+toestand: 1967-04-14
+bron: "https://wetten.overheid.nl/BWBV0003437"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tot wijziging van de Herziene Rijnvaartakte, ondertekend te Mannheim de 17e oktober 1868
 
-De Bondsrepubliek Duitsland,
-
-Het Koninkrijk België,
-
-De Franse Republiek,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Het Koninkrijk der Nederlanden,
-
-De Zwitserse Bondsstaat,
-
-besloten hebbende de [Herziene Akte van Mannheim van 17 oktober 1868](https://wetten.overheid.nl/jci1.3:c:BWBV0003363), evenals de latere wijzigingen, gedeeltelijk te wijzigen, teneinde de organisatie en het functioneren van de Centrale Commissie in het belang van de internationale samenwerking aan te passen aan de omstandigheden waaronder zij heden ten dage werkt, met dien verstande dat deze beperkte herziening geen inbreuk maakt op de grondbeginselen van het Rijnregime,
-
-zijn overeengekomen in gemeenschappelijk overleg de volgende wijzigingen en aanvullingen aan te brengen in de [Herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363) van 17 oktober 1868, alsmede in de latere wijzigingen:
+*De Bondsrepubliek Duitsland, Het Koninkrijk België, De Franse Republiek, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Het Koninkrijk der Nederlanden, De Zwitserse Bondsstaat, besloten hebbende de Herziene Akte van Mannheim van 17 oktober 1868, evenals de latere wijzigingen, gedeeltelijk te wijzigen, teneinde de organisatie en het functioneren van de Centrale Commissie in het belang van de internationale samenwerking aan te passen aan de omstandigheden waaronder zij heden ten dage werkt, met dien verstande dat deze beperkte herziening geen inbreuk maakt op de grondbeginselen van het Rijnregime, zijn overeengekomen in gemeenschappelijk overleg de volgende wijzigingen en aanvullingen aan te brengen in de Herziene Rijnvaartakte van 17 oktober 1868, alsmede in de latere wijzigingen:*
 
 ##### Artikel I
 
-Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.
+*Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.*
 
 ##### Artikel II
 
-Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.
+*Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.*
 
 ##### Artikel III
 
-Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.
+*Wijzigt de Herziene Rijnvaartakte; Mannheim, 17 oktober 1868.*
 
 ##### Artikel IV
 

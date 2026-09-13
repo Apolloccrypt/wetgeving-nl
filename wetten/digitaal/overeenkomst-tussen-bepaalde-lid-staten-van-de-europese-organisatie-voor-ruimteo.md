@@ -1,202 +1,161 @@
 ---
 title: "Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een telecommunicatiesatellieten-programma"
 identifier: "BWBV0003421"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-11-14"
-last_updated: "1979-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003421"
+categorie: "Digitaal en privacy"
 soort: "verdrag"
-stam_id: "10003525323"
-version_id: "10003574912"
-internal_id: "C10006982391"
-label_id: "10003511334"
-dtd_version: "2.0"
-original_entry_into_force: "1979-11-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003421/1979-11-14/0"
-intitule_bron: "Trb.1975-76"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-07-14"
-intitule_in_force: "1980-01-10"
-intitule_status: "goed"
-original_publication: "Trb.1975-76"
-original_published_date: "1975-07-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-76"
-entry_into_force_date: "1979-11-14"
-jci_1_3: "jci1.3:c:BWBV0003421&z=1979-11-14&g=1979-11-14"
-jci_1_0: "1.0:c:BWBV0003421&g=1979-11-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-11-14"
+publicatiedatum: 1979-11-14
+laatste_update: 1979-11-14
+status: geldig
+toestand: 1979-11-14
+bron: "https://wetten.overheid.nl/BWBV0003421"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een telecommunicatiesatellieten-programma
 
-Preambule
+*Preamble The Government of the Federal Republic of Germany, the Kingdom of Belgium, the Kingdom of Denmark, the French Republic, the Italian Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, the Kingdom of Sweden and the Swiss Confederation (hereinafter referred to as ‘the Participants’), being Governments of States parties to the Convention for the establishment of a European Space Research Organisation opened for signature in Paris on 14 June 1962 (hereinafter referred to as ‘the Convention’), and the European Space Research Organisation (hereinafter referred to as ‘the Organisation’), Having regard to the objectives elaborated after consultation with the European Conference of Postal and Telecommunications Administrations (CEPT) and the European Broadcasting Union (EBU) in accordance with the Resolutions of the Conference of Posts and Telecommunication Ministers (Brussels, April 1970 and Vienna, April 1972), namely to make available to the Postal and Telecommunications Administrations (hereinafter referred to as ‘the users’) as from 1980 reliable space links capable of handling part of the intra-European public telecommunications traffic and the exchange of television programmes, Considering that the attainment of these objectives will call for major technological efforts that will assure the progress of European industry and enable it to participate more competitively in the development of other space communications systems, Desiring, to this end, to carry out a European programme comprising the design, development, construction and setting-up of the experimental and pre-operational space segment of a space communications system and making reliable operational satellites available to users, and furthermore to develop in Europe the technology in this field, Having noted the completion of the preparatory Phase of the said programme, and recalling the decision taken at the 44th Session of the Council of the Organisation, held on 20 December 1971, to undertake the succeeding experimental Phase (ESRO/C/ XLIII/Res. 3 (Final) Chapter 1.3), Having regard to the Declaration dated 12 April 1973 made by the representatives on the Council of the Organisation of the Governments referred to above, Having regard to the Resolution adopted by the Council of the Organisation at its 56th Session, concerning the acceptance of the request to execute this programme within the framework of the Organisation, Having regard to the Memorandum of Understanding between the Organisation and the Department of Communications of Canada concerning their cooperation in advanced space technology, signed on 18 May 1972, Have agreed as follows:*
 
-De Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Denemarken, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat (hierna te noemen „de Deelnemers”) , zijnde Regeringen van Staten die partij zijn bij het Verdrag tot oprichting van een Europese Organisatie voor Ruimteonderzoek, dat op 14 juni 1962 te Parijs voor ondertekening werd opengesteld (hierna te noemen „het Verdrag”),
+##### Article 1
 
-en
+The Participants shall undertake a programme, broken down into Phases, whose objectives shall be to design, develop, construct and set up the experimental and pre-operational space segment of a space communications system matching the objectives of the users, and to make reliable operational satellites available to the users on completion of the programme. The elements of this space segment are described in Annex A to the present Arrangement.
 
-de Europese Organisatie voor Ruimteonderzoek (hierna te noemen „de Organisatie”),
+##### Article 2
 
-Gelet op de doelen, gesteld na overleg met de Europese Conferentie van PTT-Administraties (CEPT) en de Europese Radio Unie (EBU), in overeenstemming met de Resoluties van de Conferentie van Ministers van Posterijen en Telecommunicatie (Brussel, april 1970 en Wenen, april 1972), te weten het aan de PTT-Administraties (hierna te noemen „de gebruikers”) met ingang van 1980 beschikbaar stellen van betrouwbare ruimteverbindingen, waarmede een deel van het inter-Europese publieke telecommunicatieverkeer en de uitwisseling van televisieprogramma's kunnen worden verzorgd,
+1. The programme referred to in Article 1 above shall be broken down into two Phases. It was preceded by a preparatory programme definition Phase (Phase 1), already completed. These two Phases – described in detail in Annex A to this Arrangement – are as follows:
 
-Overwegende dat het bereiken van deze doelen aanzienlijke technologische inspanningen vergt die de vooruitgang in de Europese industrie waarborgen en haar in staat zullen stellen op een meer concurrerende wijze deel te nemen aan de ontwikkeling van andere stelsels van ruimtecommunicatie,
+- (a) A technological and experimental Phase, during which the communication techniques and the spacecraft technologies required for the programme will be developed on the ground and tested aboard experimental and pre-operational satellites (Phase 2). This Phase may be reviewed, at any appropriate moment during its execution, with a view to the inclusion of a sub-Phase (2bis) comprising further work on advanced techniques and specialised studies.
 
-Geleid door de wens te dien einde uitvoering te geven aan een Europees programma, bestaande uit het ontwerpen, ontwikkelen, bouwen en installeren van het experimentele en pre-operationele ruimtesegment van een stelsel van ruimtecommunicatie en het aan gebruikers beschikbaar stellen van betrouwbare operationele satellieten en daarenboven de technologie op dit gebied in Europa tot ontwikkeling te brengen,
+- (b) A Phase devoted to the development of two operational flight units together, if necessary, with the launching, and evaluation in orbit, of a prototype model, and on its completion to making these operational flight units available to the potential users, one of them in orbit and the other on the ground, on terms to be agreed between the Participants and the users (Phase 3).
 
-Gelet op de voltooiing van de voorbereidende fase van genoemd programma, en herinnerend aan het tijdens de op 20 december 1971 gehouden 44ste Zitting van de Raad van de Organisatie genomen besluit over te gaan tot de daaropvolgende experimentele fase (ESRO/ C/XLIII/Res. 3 (Final), Hoofdstuk 1.3),
+2. The decisions to proceed to sub-Phase 2bis and to Phase 3 shall be taken in conformity with the provisions of Article 5 below.
 
-Gelet op de Verklaring van 12 april 1973, afgelegd door de vertegenwoordigers van de hierboven genoemde Regeringen in de Raad van de Organisatie,
+##### Article 3
 
-Gelet op de door de Raad van de Organisatie tijdens zijn 56ste Zitting aanvaarde Resolutie betreffende de inwilliging van het verzoek dit programma uit te voeren binnen het kader van de Organisatie,
+1. The Organisation shall, under Article VIII of the Convention, execute the programme referred to in Article 1 above, in conformity with the timetable and other provisions set out in Annex A to this Arrangement.
 
-Gelet op het op 18 mei 1972 ondertekende Memorandum van Overeenstemming tussen de Organisatie en het Ministerie van Verbindingen van Canada betreffende hun samenwerking op het gebied van de geavanceerde ruimtetechnologie,
+2. Except where otherwise provided in this Arrangement, the Organisation shall execute the programme in conformity with the rules and procedures in force in the Organisation.
 
-Zijn overeengekomen als volgt:
+##### Article 4
 
-##### Artikel 1
+1. A Programme Board, composed of the representatives of the Participants, shall be responsible for the programme and shall take all decisions relating to it, in conformity with the provisions of this Arrangement.
 
-De Deelnemers nemen de uitvoering op zich van een in fasen gesplitst programma, dat ten doel heeft het ontwerpen, ontwikkelen, bouwen en installeren van een experimenteel en pre-operationeel ruimtesegment van een stelsel van ruimtecommunicatie, dat voldoet aan de behoeften van de gebruikers en dat, na voltooiing van het programma, betrouwbare operationele satellieten ter beschikking stelt van de gebruikers. De elementen van dit ruimtesegment worden beschreven in Bijlage A bij deze Overeenkomst.
+2. For matters affecting this and another programme of the Organisation, the Programme Board shall be advisory to the Council, to which it will on such matters make all necessary recommendations.
 
-##### Artikel 2
+3. The Programme Board shall also be responsible for maintaining close links with the national and international telecommunication agencies, so as to be in a position to respond to any reorientation of the operational objectives of the envisaged space segment; it shall define the rules for using the space segment of the Phase 2 for experimental and pre-operational purposes.
 
-1. Het in artikel 1 bedoelde programma wordt gesplitst in twee Fasen. Het werd voorafgegaan door een reeds voltooide voorbereidende Fase van programmaomschrijving (Fase 1). Deze beide Fasen (tot in bijzonderheden omschreven in Bijlage A bij deze Overeenkomst) zijn als volgt:
+4. The Programme Board may establish such advisory bodies as it may deem necessary for the proper execution of the programme.
 
-- a). Een technologische en experimentele Fase, gedurende welke de voor het programma benodigde communicatietechnieken en de technologie voor de ruimtevoertuigen op de grond worden ontwikkeld en aan boord van experimentele en pre-operationele satellieten worden beproefd (Fase 2). Deze Fase kan op elk daartoe geschikt tijdstip tijdens haar uitvoering worden herzien met het oog op de invoeging van een sub-fase (2bis), die verdere werkzaamheden inzake geavanceerde technieken en gespecialiseerde studies omvat.
+5. The decisions of the Programme Board shall be taken in conformity with the provisions of this Arrangement. Unless expressly provided otherwise, the voting rules laid down in the Convention and in the Rules of Procedure for the Organisation's Council shall apply mutatis mutandis.
 
-- b). Een Fase gewijd aan de ontwikkeling van twee operationele vluchteenheden te zamen, indien nodig, met het lanceren en het in de baan om de aarde evalueren van een prototype, en na voltooiing van deze ontwikkeling, aan het beschikbaar stellen van deze operationele vliegeenheden aan de potentiële gebruikers, namelijk een van hen in de baan om de aarde en een op de grond, op tussen de Deelnemers en de gebruikers overeen te komen voorwaarden (Fase 3).
+##### Article 5
 
-2. De besluiten over te gaan tot sub-fase 2bis en tot Fase 3 worden genomen in overeenstemming met het bepaalde in artikel 5.
+Decisions on the start, and precise content, of sub-Phase 2bis and of Phase 3 of the programme shall be taken by the Programme Board by a two-thirds majority, provided this majority represents at least two-thirds of the contributions to the programme. If no decision to proceed to Phase 3 can be arrived at in this way, those States that wish, nevertheless, to continue with the programme, shall consult among themselves and determine arrangements for such continuation. They shall report accordingly to the Council, which shall take any measures that may be required.
 
-##### Artikel 3
+##### Article 6
 
-1. Krachtens artikel VIII van het Verdrag voert de Organisatie het in artikel 1 bedoelde programma uit overeenkomstig het tijdschema en de andere bepalingen, vervat in Bijlage A bij deze Overeenkomst.
+1. The expenditure resulting from the execution of the programme by the Organisation under this Arrangement shall be met by the Participants, in accordance with the detailed provisions set out in Annex B to this Arrangement, and within the limits of the firm financial envelope for each Phase as determined in conformity with the provisions of the present Article.
 
-2. Tenzij in deze Overeenkomst anders is bepaald, voert de Organisatie het programma uit overeenkomstig de binnen de Organisatie geldende regels en procedures.
+2. The Participants agree to contribute to the financing of Phase 2 of the programme on the basis of a firm financial envelope of 115.1 million accounting units (at mid-1972 price levels), to which will be added a share of the Organisation's common and support costs currently estimated at 28 million accounting units.
 
-##### Artikel 4
+3. As soon as possible during Phase 2 and once the conditions laid down in Article 5 above have been met, the Participants shall determine, by the majority defined in Article 5, a firm financial envelope for the execution of Phase 3.
 
-1. Een Programmaraad, bestaande uit vertegenwoordigers van de Deelnemers, is verantwoordelijk voor het programma en neemt alle desbetreffende beslissingen overeenkomstig de bepalingen van deze Overeenkomst.
+4. The annual budgets relating to the programme shall be subject to the approval by the Programme Board by a two-thirds majority, within the relevant firm financial envelope.
 
-2. In aangelegenheden die van invloed zijn op meer dan een programma van de Organisatie, treedt de Programmaraad op als adviesorgaan van de Raad, aan wie hij alle nodige aanbevelingen in zodanige aangelegenheden doet.
+##### Article 7
 
-3. De Programmaraad is ook verantwoordelijk voor het onderhouden van nauwe betrekkingen met de nationale en internationale telecommunicatie-organen, ten einde in staat te zijn te reageren op een eventuele heroriëntering van de operationele doelen van het voor ogen staande ruimtesegment; hij stelt de voorschriften vast voor het gebruik van het ruimtesegment van Fase 2 voor experimentele en pre-operationale doelen.
+1. The Participants agree, in order that the firm financial envelope of a Phase may be revised in the event of changes in price levels, to apply the procedure in force in the Organisation at that time.
 
-4. De Programmaraad kan de adviesorganen instellen die hij nodig acht voor de goede uitvoering van het programma.
+2. Where a firm envelope needs to be revised for reasons other than changes in price levels, the following provisions shall apply:
 
-5. De besluiten van de Programmaraad worden genomen overeenkomstig de bepalingen van deze Overeenkomst. Tenzij uitdrukkelijk anders is bepaald, worden de in het Verdrag en in het Huishoudelijk Reglement van de Raad van de Organisatie neergelegde voorschriften voor stemuitbrenging mutatis mutandis toegepast.
+- (a) If the cumulative overruns of estimated costs to completion do not exceed 20 % of the amount of the firm financial envelope of the Phase in progress, no Participant shall be entitled to withdraw from the programme and the Programme Board shall decide on the additional expenditure by a two-thirds majority.
 
-##### Artikel 5
+- (b) If the cumulative overruns of estimated costs to completion exceed 20 % of the amount of the firm envelope in question, the Participants who so wish may withdraw from the programme subject to the provisions of Article 17. Those Participants that wish to continue the programme shall consult among themselves and determine the arrangements for such continuation. They shall report accordingly to the Council, which will take any necessary decision.
 
-Besluiten inzake de aanvang en de juiste inhoud van sub-fase 2bis en Fase 3 van het programma worden genomen door de Programmaraad met een twee derde meerderheid van stemmen, mits deze meerderheid ten minste twee derde van de bijdragen aan het programma vertegenwoordigt. Indien op deze wijze geen besluit tot stand kan komen om over te gaan tot Fase 3, plegen de Staten die niettemin het programma willen voortzetten, onderling overleg en zij stellen voorwaarden vast voor een zodanige voortzetting. Zij brengen dienovereenkomstig verslag uit aan de Raad, die de eventueel vereiste maatregelen neemt.
+##### Article 8
 
-##### Artikel 6
+Intellectual property rights arising from the execution of the programme, as well as access to technical information so arising, shall be reserved to the Participants, but the Organisation shall have the right to make use of them free of charge for its activities as a whole.
 
-1. De uitgaven die voortvloeien uit de uitvoering van het programma door de Organisatie krachtens deze Overeenkomst, worden bekostigd door de Deelnemers overeenkomstig de in Bijlage B bij deze Overeenkomst neergelegde bepalingen en binnen de grenzen van het vaste financiële kader dat in overeenstemming met het bepaalde in dit artikel voor elke Fase is vastgesteld.
+##### Article 9
 
-2. De Deelnemers komen overeen bij te dragen aan de financiering van Fase 2 van het programma op basis van een vast financieel kader van 115,1 miljoen rekeneenheden (tegen de medio 1972 geldende prijzen), waaraan een aandeel wordt toegevoegd in de gemeenschappelijke uitgaven en de ondersteuningsuitgaven van de Organisatie, welk aandeel voorshands wordt geraamd op 28 miljoen rekeneenheden.
+The Participants authorise the Organisation to conclude the necessary contracts for the execution of the programme in conformity with the Organisation's rules and procedures. However, in placing contracts and sub-contracts for the execution of this programme, preference shall be given, wherever possible, to execution of the work in the territories of the Participants, taking into consideration the Council's decisions in the matter of industrial policy and distribution of work.
 
-3. Zo spoedig mogelijk tijdens Fase 2 en zodra is voldaan aan de in artikel 5 gestelde voorwaarden, besluiten de Deelnemers met een in artikel 5 omschreven meerderheid van stemmen een vast financieel kader vast te stellen voor de uitvoering van Fase 3
+##### Article 10
 
-4. De op het programma betrekking hebbende jaarlijkse begrotingen worden met een twee derde meerderheid van stemmen door de Programmaraad goedgekeurd binnen de grenzen van het desbetreffende vaste financiële kader.
+The Organisation, acting on behalf of the Participants, shall be the owner of the satellites developed under the programme, as well as of the facilities and equipment acquired up to the end of Phase 3 for its execution. Any transfer of facilities and equipment acquired shall be decided on by the Programme Board in consultation with the Council of the Organisation.
 
-##### Artikel 7
+##### Article 11
 
-1. De Deelnemers komen overeen dat, ten einde in geval van veranderingen in het prijspeil het vaste financiële kader voor een Fase te kunnen herzien, de op dat tijdstip binnen de Organisatie geldende procedure zal worden toegepast.
+1. The Participants shall indemnify the Organisation in respect of any liability it may incur should its international responsibility be involved as a result of the execution of the programme.
 
-2. Indien een vast financieel kader om andere redenen dan veranderingen in het prijspeil moet worden herzien, zijn de volgende bepalingen van toepassing:
+2. Any compensation for damage received by the Organisation with respect to the programme shall be credited to the annual programme budgets referred to in Article 6, paragraph 4.
 
-- a). indien de cumulatieve overschrijding van de voor de voltooiing geraamde kosten niet meer beloopt dan 20% van het bedrag van het vaste financiële kader van de in uitvoering zijnde Fase, is een Deelnemer niet gerechtigd zich uit het programma terug te trekken en besluit de Programmaraad met een twee derde meerderheid van stemmen over de bijkomende uitgaven.
+##### Article 12
 
-- b). Indien de cumulatieve overschrijding van de voor de voltooiing geraamde kosten meer beloopt dan 20% van het bedrag van het desbetreffende vaste financiële kader, kunnen de Deelnemers die zulks wensen zich terugtrekken uit het Programma, onder voorbehoud van het bepaalde in artikel 17. De Deelnemers die het programma wensen voort te zetten, plegen onderling overleg en stellen de voorwaarden voor een zodanige voortzetting vast. Zij brengen dienovereenkomstig verslag uit aan de Raad, die de vereiste besluiten neemt.
+1. Any dispute which arises between two or more of the Participants, or between any of them and the Organisation, concerning the interpretation or the application of this Arrangement, and which cannot be settled by mutual consent, shall be submitted at the request of any party to the dispute to a single arbitrator to be appointed by the President of the International Court of Justice. The arbitrator may not be a national of a State which is party to the dispute nor be a permanent resident of such a State.
 
-##### Artikel 8
+2. Those parties to the Arrangement which are not parties to the dispute shall have the right to join in the proceedings and the arbitrator's decision shall be binding on all the Participants and the Organisation, whether or not they have joined in the proceedings.
 
-Intellectuele eigendomsrechten voortvloeiend uit de uitvoering van het programma, evenals toegang tot aldus verkregen technische gegevens, zijn voorbehouden aan de Deelnemers, maar de Organisatie heeft het recht daar kosteloos gebruik van te maken voor al haar werkzaamheden.
+##### Article 13
 
-##### Artikel 9
+1. This Arrangement shall be open for signature by the Participants from 1 June 1973 to 21 September 1973.
 
-De Deelnemers machtigen de Organisatie tot het sluiten van de nodige contracten voor de uitvoering van het programma overeenkomstig de regels en procedures van de Organisatie. Bij het plaatsen van contracten en toeleveringscontracten voor de uitvoering van het programma wordt evenwel, waar mogelijk, voorkeur gegeven aan het laten verrichten van de werkzaamheden op het grondgebied van de Deelnemers, met inachtneming van de besluiten van de Raad ter zake van het industriële beleid en de werkverdeling.
+2. The States shall become parties to this Arrangement:
 
-##### Artikel 10
+- - either by signature not subject to ratification or approval,
 
-De Organisatie, optredend namens de Deelnemers, is eigenares van de in het kader van het programma ontwikkelde satellieten, alsmede van de installaties en uitrusting die voor de uitvoering tot en met Fase 3 zijn verworven. De Programmaraad neemt, in overleg met de Raad van de Organisatie, besluiten inzake de overdracht van verworven installaties en uitrusting.
+- - or by depositing an instrument of ratification or approval with the Government of the French Republic if the Arrangement was signed subject to ratification or approval.
 
-##### Artikel 11
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the aggregate contributions payable - on the basis of the scale set out in Annex B - by the States that have become parties to this Arrangement in accordance with paragraph 2 of this Article amount to two-thirds of the total contributions payable.
 
-1. De Deelnemers stellen de Organisatie schadeloos voor elke verplichting die deze aangaat, Indien haar internationale aansprakelijkheid in het geding komt ten gevolge van de uitvoering van het programma.
+4. For the purpose of paragraph 3 of this Article, the deposit, with the depositary Government, of a declaration of intent to apply the Arrangement provisionally and to seek ratification or approval as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
 
-2. Elke door de Organisatie ten aanzien van het programma ontvangen schadeloosstelling wordt gecrediteerd op de jaarlijkse programmabegrotingen bedoeld in het vierde lid van artikel 6.
+5. The Government of any Member State of the Organisation which has not signed the Arrangement by 21 September 1973 may become party to it after it has come into force, provided the other Governments party to the Arrangement agree. The Government in question must deposit an instrument of accession with the Government of the French Republic.
 
-##### Artikel 12
+6. Unless the Programme Board unanimously decides otherwise, a Government that becomes a party to this Arrangement after its entry into force shall pay a contribution equal to that which it would have paid if it had been a party to the Arrangement at the moment of its entry into force and this contribution shall be credited pro rata to the contributions of the Participants.
 
-1. Elk geschil dat zich voordoet tussen twee of meer Deelnemers of tussen een van hen en de Organisatie betreffende de uitlegging of de toepassing van deze Overeenkomst en dat niet in onderling overleg kan worden geregeld, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een scheidsman die moet worden benoemd door de President van het Internationaal Gerechtshof. De scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil en evenmin ingezetene van die Staat zijn.
+##### Article 14
 
-2. De partijen bij de Overeenkomst die geen partij zijn bij het geschil hebben het recht zich te voegen in de procedure en de beslissing van de scheidsman is bindend voor alle Deelnemers en de Organisatie, ongeacht of zij zich in de procedure hebben gevoegd.
+The Government of a State that is not a Member of the Organisation may present a request to the Council of the Organisation to accede to the programme; a Council decision to grant such a request shall require unanimity and must be taken in agreement with the Programme Board, which shall unanimously determine the terms of accession.
 
-##### Artikel 13
+##### Article 15
 
-1. Deze Overeenkomst staat van 1 juni 1973 tot 21 september 1973 open voor ondertekening door de Deelnemers.
+The Organisation shall notify the Participants, after consultation with the Programme Board, when the programme has been duly completed in accordance with the provisions of this Arrangement and this Arrangement shall expire upon receipt of such notification.
 
-2. Staten worden partij bij deze Overeenkomst door:
+##### Article 16
 
-- -. ondertekening zonder voorbehoud van bekrachtiging of goedkeuring,
+The Participants may decide to cease the execution of the programme by a two-thirds majority representing also at least two-thirds of the contributions to the programme.
 
-- -. nederlegging van een akte van bekrachtiging of goedkeuring bij de Regering van de Franse Republiek, indien de Overeenkomst werd ondertekend onder voorbehoud van bekrachtiging of goedkeuring.
+##### Article 17
 
-3. Deze Overeenkomst treedt in werking wanneer zij is ondertekend door de Organisatie en wanneer het totaal van de bijdragen op basis van de verdeelsleutel vervat in Bijlage B te betalen door de Staten die partij bij deze Overeenkomst zijn geworden overeenkomstig het tweede lid van dit artikel, twee derde beloopt van de totaal te betalen bijdragen.
+1. A Participant wishing to withdraw under the terms of Article 5 and Article 7, paragraph 2 (b), of this Arrangement shall notify its withdrawal to the Organisation. This withdrawal shall take effect at the date of the notification, subject to the following provisions:
 
-4. Voor de toepassing van het derde lid van dit artikel wordt de nederlegging bij de depot-Regering van een verklaring van intentie tot voorlopige toepassing van de Overeenkomst en tot het zo spoedig mogelijk verkrijgen van bekrachtiging of goedkeuring, beschouwd als de nederlegging van een akte van bekrachtiging of goedkeuring.
+- (a) The withdrawing Participant shall be bound to pay in the manner agreed its contributions adopted under the current or previous annual budget (s).
 
-5. De Regering van een Lid-Staat van de Organisatie die de Overeenkomst op 21 september 1973 nog niet heeft ondertekend kan na haar inwerkingtreding partij worden, mits de andere Regeringen die partij bij de Overeenkomst zijn daarmede instemmen. In zulk een geval moet de betrokken Regering een akte van toetreding nederleggen bij de Regering van de Franse Republiek.
+- (b) The withdrawing Participant shall remain bound to pay its share of the payment appropriations corresponding to approved contract authority used under the budget for the current or previous financial year(s) and relating to any programme Phase whose execution is in progress.
 
-6. Tenzij de Programmaraad met eenparigheid van stemmen anders besluit, betaalt een Regering die partij bij deze Overeenkomst wordt na haar inwerkingtreding een bijdrage gelijk aan die welke zij zou hebben betaald indien zij partij bij de Overeenkomst zou zijn geweest op het tijdstip van de inwerkingtreding daarvan en voor deze bijdrage worden de andere Deelnemers gecrediteerd naar verhouding van hun bijdragen.
+- (c) The withdrawing Participant shall remain a member of the Programme Board until its obligations under (a) and (b) above have been fulfilled. It shall only have a right to vote on matters which are directly related to these obligations.
 
-##### Artikel 14
+2. The withdrawing Participant shall retain the rights acquired up to the date on which its withdrawal takes effect. As regards actions and developments decided upon after its withdrawal, no further right or obligation shall arise in respect of that part of the programme to which it no longer contributes, unless and to the extent agreed otherwise between the remaining Participants and the withdrawing Participant. The provisions of Article XVII of the Convention of the Organisation shall apply mutatis mutandis.
 
-De Regering van een Staat die geen lid van de Organisatie is, kan bij de Raad van de Organisatie een verzoek indienen om toetreding tot het programma; voor een besluit van de Raad tot instemming met een zodanig verzoek is eenparigheid van stemmen vereist en het moet worden genomen in overleg met de Programmaraad die met eenparigheid van stemmen de toetredingsvoorwaarden bepaalt.
+3. Should a non-Member State which has acceded to the programme in accordance with the provisions of Article 14 of this Arrangement wish to withdraw from the programme, the provisions of this Article shall apply mutatis mutandis.
 
-##### Artikel 15
+##### Article 18
 
-De Organisatie stelt, na overleg met de Programmaraad, de Deelnemers ervan in kennis wanneer het programma naar behoren is voltooid overeenkomstig de bepalingen van deze Overeenkomst en deze Overeenkomst wordt beëindigd bij ontvangst van een zodanige kennisgeving.
+Annexes A and B to this Arrangement form an integral part of it.
 
-##### Artikel 16
+##### Article 19
 
-De Deelnemers kunnen tot beëindiging van de uitvoering van het programma besluiten met een twee derde meerderheid van stemmen, die ten minste twee derde van de bijdragen aan dit programma vertegenwoordigen.
+1. This Arrangement may be reviewed at the request of a Participant or of the Organisation. Any amendments shall come into force when all parties have notified their approval to the depositary Government.
 
-##### Artikel 17
+2. The Annexes to this Arrangement may be revised by the Programme Board in accordance with the provisions of the revision clauses of those Annexes.
 
-1. Een Deelnemer die zich krachtens artikel 5 en het tweede lid, letter b, van artikel 7 wenst terug te trekken, stelt de Organisatie van zijn terugtrekking in kennis. Deze terugtrekking wordt van kracht op de datum van de kennisgeving, zulks onder voorbehoud van de volgende bepalingen:
+##### Article 20
 
-- a). de zich terugtrekkende Deelnemer is verplicht op de overeengekomen wijze zijn bijdragen te betalen uit hoofde van de lopende of een voorgaande jaarlijkse begroting;
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with [Article 102 of the United Nations Charter](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- b). de zich terugtrekkende Deelnemer blijft verplicht zijn aandeel bij te dragen in de met de goedgekeurde betalingsverplichtingen overeenkomende betalingskredieten welke zijn gebruikt uit de begroting voor het lopende of een voorgaand begrotingsjaar en die betrekking hebben op een in uitvoering zijnde Fase van het programma;
+##### Article 21
 
-- c). de zich terugtrekkende Deelnemer blijft lid van de Programmaraad tot hij aan zijn verplichtingen krachtens de letters a) en b) hierboven heeft voldaan. Hij heeft slechts stemrecht in aangelegenheden die rechtstreeks met deze verplichtingen verband houden.
-
-2. De zich terugtrekkende Deelnemer behoudt de rechten welke zijn verworven tot op de datum waarop zijn terugtrekking van kracht wordt. Met betrekking tot handelingen en ontwikkelingen waartoe wordt besloten na zijn terugtrekking ontstaat geen verder recht of verdere verplichting uit dat deel van het programma waaraan hij niet langer bijdraagt, tenzij en voor zover anders overeengekomen tussen de overblijvende Deelnemers en de zich terugtrekkende Deelnemer. De bepalingen van artikel XVII van het Verdrag van de Organisatie zijn mutatis mutandis van toepassing.
-
-3. Indien een niet-Lid-Staat die overeenkomstig het bepaalde in artikel 14 van deze Overeenkomst tot het programma is toegetreden, zich uit het programma wenst terug te trekken, is het bepaalde in dit artikel mutatis mutandis van toepassing.
-
-##### Artikel 18
-
-De Bijlagen A en B bij deze Overeenkomst vormen een integrerend deel daarvan.
-
-##### Artikel 19
-
-1. Deze Overeenkomst kan op verzoek van een Deelnemer of van de Organisatie worden herzien. Wijzigingen worden van kracht wanneer alle Partijen de depot-Regering van hun goedkeuring mededeling hebben gedaan.
-
-2. De Bijlagen bij deze Overeenkomst kunnen door de Programmaraad worden herzien overeenkomstig het bepaalde vervat in de herzieningsclausules van die Bijlagen.
-
-##### Artikel 20
-
-Bij de inwerkingtreding van de Overeenkomst doet de Regering van de Franse Republiek deze registreren bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 21
-
-De Regering van de Franse Republiek treedt op als depositaris van deze Overeenkomst en stelt de Deelnemers en de Organisatie in kennis van de datum van inwerkingtreding van deze Overeenkomst en van wijzigingen daarop en van de nederlegging van alle akten van bekrachtiging, goedkeuring, toetreding en verklaringen van intentie tot voorlopige toepassing van de Overeenkomst.
+The Government of the French Republic shall be the depositary of this Arrangement and shall notify the Participants and the Organisation of the date of entry into force of this Arrangement and any amendments thereto, and of all instruments of ratification, approval, accession and declaration of intent to apply the Arrangement provisionally.
 
 IN WITNESS WHEREOF the undersigned representatives, having been duly authorised thereto, have signed this Arrangement,
 

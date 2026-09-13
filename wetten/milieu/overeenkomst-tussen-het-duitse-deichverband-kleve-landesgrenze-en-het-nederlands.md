@@ -1,54 +1,19 @@
 ---
-title: "Overeenkomst tussen het Duitse Deichverband \"Kleve-Landesgrenze\" en het Nederlandse Polderdistrict \"Maas en Waal\" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen"
+title: "Overeenkomst tussen het Duitse Deichverband 'Kleve-Landesgrenze' en het Nederlandse Polderdistrict 'Maas en Waal' over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen"
 identifier: "BWBV0003825"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-08-18"
-last_updated: "2010-08-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003825"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003735293"
-version_id: "10003797402"
-internal_id: "C10006983001"
-label_id: "10003720354"
-dtd_version: "2.0"
-original_entry_into_force: "1975-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003825/2010-08-18/0"
-intitule_bron: "Trb.1973-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-02-06"
-intitule_in_force: "1976-03-03"
-intitule_status: "goed"
-original_publication: "Trb.1973-12"
-original_published_date: "1973-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-12"
-entry_into_force_date: "1975-10-15"
-jci_1_3: "jci1.3:c:BWBV0003825&z=2010-08-18&g=2010-08-18"
-jci_1_0: "1.0:c:BWBV0003825&g=2010-08-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-10-15"
+publicatiedatum: 1975-10-15
+laatste_update: 2010-08-18
+status: geldig
+toestand: 2010-08-18
+bron: "https://wetten.overheid.nl/BWBV0003825"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen
 
-Het Deichverband „Kleve-Landesgrenze” (hierna te noemen „het Deichverband”), vertegenwoordigd door de Dijkgraaf Robert Jansen en het Polderdistrict „Maas en Waal” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de Dijkgraaf P. Th. Ermers gaan van de volgende overwegingen uit:
-
-Ter verzekering van een goede waterafvoer uit hun gemeenschappelijk stroomgebied zijn de volgende overeenkomsten gesloten:
-
-de overeenkomst, met eerste en tweede nadere overeenkomst, alle van 28 juni 1932, tussen het Deichverband en het Nederlandse waterschap „Nijmegen-Duitsche grens”;
-
-de derde nadere overeenkomst van 24 oktober 1960 tussen het Deichverband en het Polderdistrict „Circul van Ooy en Millingen” (als rechtsopvolger van het inmiddels opgeheven waterschap „Nijmegen-Duitsche grens”).
-
-De kosten werden in deze overeenkomsten over de Partijen verdeeld overeenkomstig de verhouding van de oppervlakten van hun gebieden.
-
-Sindsdien is het noodzakelijk gebleken het door het Deichverband te dragen aandeel in de kosten te herzien, en wel op basis van de verhouding waarin de grootte van de wederzijdse, respectievelijk onder de ene en onder de andere partij ressorterende, delen van het stroomgebied tot elkaar staan. De noodzaak daartoe ontstaat in het bijzonder uit de toeneming van de waterafvoer, met name uit het Nederlandse gebied bij Groesbeek en het Duitse gebied bij Kranenburg, alsmede uit de wijzigingen van de Duits-Nederlandse landsgrens.
-
-Het Duitse deel van het stroomgebied is 9 700 ha groot, het Nederlandse 6 765 ha, zodat voor de toekomst een aandeel van het Deichverband van 60% in de kosten redelijk lijkt.
-
-De Permanente Nederlands-Duitse Grenswaterencommissie heeft zich met deze wijziging verenigd.
-
-Daarom sluiten het Deichverband en het Polderdistrict (als rechtsopvolger van het Polderdistrict „Circul van de Ooy en Millingen”) met inachtneming van Hoofdstuk 4, artikel 59 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende Overeenkomst.
+*Het Deichverband „Kleve-Landesgrenze” (hierna te noemen „het Deichverband”), vertegenwoordigd door de Dijkgraaf Robert Jansen en het Polderdistrict „Maas en Waal” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de Dijkgraaf P. Th. Ermers gaan van de volgende overwegingen uit: 1. Ter verzekering van een goede waterafvoer uit hun gemeenschappelijk stroomgebied zijn de volgende overeenkomsten gesloten: a. de overeenkomst, met eerste en tweede nadere overeenkomst, alle van 28 juni 1932, tussen het Deichverband en het Nederlandse waterschap „Nijmegen-Duitsche grens”; b. de derde nadere overeenkomst van 24 oktober 1960 tussen het Deichverband en het Polderdistrict „Circul van Ooy en Millingen” (als rechtsopvolger van het inmiddels opgeheven waterschap „Nijmegen-Duitsche grens”). 2. De kosten werden in deze overeenkomsten over de Partijen verdeeld overeenkomstig de verhouding van de oppervlakten van hun gebieden. 3. Sindsdien is het noodzakelijk gebleken het door het Deichverband te dragen aandeel in de kosten te herzien, en wel op basis van de verhouding waarin de grootte van de wederzijdse, respectievelijk onder de ene en onder de andere partij ressorterende, delen van het stroomgebied tot elkaar staan. De noodzaak daartoe ontstaat in het bijzonder uit de toeneming van de waterafvoer, met name uit het Nederlandse gebied bij Groesbeek en het Duitse gebied bij Kranenburg, alsmede uit de wijzigingen van de Duits-Nederlandse landsgrens. 4. Het Duitse deel van het stroomgebied is 9 700 ha groot, het Nederlandse 6 765 ha, zodat voor de toekomst een aandeel van het Deichverband van 60% in de kosten redelijk lijkt. 5. De Permanente Nederlands-Duitse Grenswaterencommissie heeft zich met deze wijziging verenigd. Daarom sluiten het Deichverband en het Polderdistrict (als rechtsopvolger van het Polderdistrict „Circul van de Ooy en Millingen”) met inachtneming van Hoofdstuk 4, artikel 59 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende Overeenkomst.*
 
 ##### Artikel 1
 

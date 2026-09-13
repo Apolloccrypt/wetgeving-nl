@@ -1,55 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de erkenning van equivalenties op het gebied van het hoger onderwijs"
 identifier: "BWBV0002988"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-03-23"
-last_updated: "1983-03-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002988"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10003287083"
-version_id: "10003310952"
-internal_id: "C10006978951"
-label_id: "10003272834"
-dtd_version: "2.0"
-original_entry_into_force: "1983-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002988/1983-03-23/0"
-intitule_bron: "Trb.1983-101"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-03-23"
-intitule_published: "1983-06-23"
-intitule_in_force: "1983-06-23"
-intitule_status: "goed"
-original_publication: "Trb.1983-101"
-original_signed_date: "1983-03-23"
-original_published_date: "1983-06-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-101"
-entry_into_force_date: "1983-03-23"
-jci_1_3: "jci1.3:c:BWBV0002988&z=1983-03-23&g=1983-03-23"
-jci_1_0: "1.0:c:BWBV0002988&g=1983-03-23"
-citeertitel_status: "officieel"
-signed_date: "1983-03-23"
-entry_into_force: "1983-03-23"
+publicatiedatum: 1983-03-23
+laatste_update: 1983-03-23
+status: geldig
+toestand: 1983-03-23
+bron: "https://wetten.overheid.nl/BWBV0002988"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de erkenning van equivalenties op het gebied van het hoger onderwijs
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Bondsrepubliek Duitsland
-
-zijn
-
-in de geest van de vriendschappelijke betrekkingen tussen beide Staten,
-
-op basis van de Culturele Overeenkomst van 27 april 1961, in het bijzonder van de artikelen 1, 3, 8 en 15,
-
-geleid door de wens de toelating tot of de voortzetting van de studie voor studenten uit beide Staten in elk der Overeenkomstsluitende Staten te vereenvoudigen,
-
-het volgende overeengekomen inzake de erkenning van studietijden en studieresultaten ten behoeve van de voortzetting van de studie aan instellingen van hoger onderwijs alsmede inzake het voeren van academische graden:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland zijn in de geest van de vriendschappelijke betrekkingen tussen beide Staten, op basis van de Culturele Overeenkomst van 27 april 1961, in het bijzonder van de artikelen 1, 3, 8 en 15, geleid door de wens de toelating tot of de voortzetting van de studie voor studenten uit beide Staten in elk der Overeenkomstsluitende Staten te vereenvoudigen, het volgende overeengekomen inzake de erkenning van studietijden en studieresultaten ten behoeve van de voortzetting van de studie aan instellingen van hoger onderwijs alsmede inzake het voeren van academische graden:*
 
 ##### Artikel 1
 
@@ -101,10 +65,10 @@ Deze Overeenkomst treedt op de dag van ondertekening in werking.
 
 GEDAAN te Bonn de 23ste maart 1983, in twee exemplaren elk in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) K. W. REININK
 
-**Voor de Regering van de Bondsrepubliek Duitsland**
+*Voor de Regering van de Bondsrepubliek Duitsland*
 
 (w.g.) LAUTENSCHLAGER

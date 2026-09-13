@@ -9,7 +9,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0053091"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Besluit van de Minister van Infrastructuur en Waterstaat van 2 september 2026, nr. IENW/BSK-2026/153511, tot aanwijzing van de ambtenaren, belast met de opsporing van overtreding van de Scheepvaartverkeerswet en van de daarop gebaseerde reglementen (Besluit aanwijzing aanvullende handhavingsambtenaren Scheepvaartverkeerswet)

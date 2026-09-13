@@ -1,280 +1,241 @@
 ---
 title: "Overeenkomst tussen bepaalde Europese Regeringen en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van het Ariane draagraketprogramma"
 identifier: "BWBV0003413"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-02-06"
-last_updated: "1979-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003413"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003522083"
-version_id: "10003571572"
-internal_id: "C10006982351"
-label_id: "10003508174"
-dtd_version: "2.0"
-original_entry_into_force: "1979-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003413/1979-02-06/0"
-intitule_bron: "Trb.1974-192"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-10-10"
-intitule_in_force: "1979-02-12"
-intitule_status: "goed"
-original_publication: "Trb.1974-192"
-original_published_date: "1974-10-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-192"
-entry_into_force_date: "1979-02-06"
-jci_1_3: "jci1.3:c:BWBV0003413&z=1979-02-06&g=1979-02-06"
-jci_1_0: "1.0:c:BWBV0003413&g=1979-02-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-02-06"
+publicatiedatum: 1979-02-06
+laatste_update: 1979-02-06
+status: geldig
+toestand: 1979-02-06
+bron: "https://wetten.overheid.nl/BWBV0003413"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen bepaalde Europese Regeringen en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van het Ariane draagraketprogramma
 
-Preambule
+*Preamble The Governments of the Member States of the European Space Conference, signatories of this Arrangement (hereinafter referred to as „the Participants”), and the European Space Research Organisation established by the Convention opened for signature on 14 June 1962 (hereinafter referred to as „the Organisation” and „the Convention” respectively), Recalling the Resolution adopted by the European Space Conference (ESC) on 20 December 1972, under the terms of which the ESC gives general approval for the carrying out and management within a common European framework of the launcher development project proposed by the French Government following the abandonment of the Europa-III Project, and taking into consideration the decisions taken by the European Space Conference at its meeting on 31 July 1973, Considering that the European Space Agency referred to in the said Resolution (hereinafter referred to as „the Agency”) is intended to provide the common European framework for this programme, temporarily entrusted to the Organisation, Considering Europe's interest in having available at the beginning of the 1980s an economically competitive capability of its own for placing satellites, particularly application satellites, in orbit, Considering that it would be to the European States' advantage to keep in being the competence acquired in the field of launchers and to make use of the space technology existing in those States, Having regard to the report dated 15 April 1973 submitted by the French Government to the Ministers of the ESC, Having regard to the Declaration made on 1 August 1973 by the representatives on the Council of Organisation of the aforementioned Governments (ESRO/C/LIX/Dec. 1), Having regard to the Resolution adopted by the Council of the Organisation at its 59th Session, agreeing the request for the execution of this programme within the framework of the Organisation, pending establishment of the European Space Agency (ESRO/C/LIX/Res. 1), Have agreed as follows:*
 
-De Regeringen van de Lid Staten van de Europese Ruimteconferentie die deze Overeenkomst hebben ondertekend (hierna te noemen de „Deelnemers”) en de Europese Organisatie voor Ruimteonderzoek, opgericht krachtens het op 14 juni 1962 voor ondertekening opengestelde Verdrag (hierna onderscheidenlijk te noemen „de Organisatie” en „het Verdrag”),
+##### Article I
 
-Herinnerende aan de door de Europese Ruimteconferentie (ERC) op 20 december 1972 aangenomen Resolutie, krachtens welke de ERC in beginsel haar goedkeuring hecht aan het binnen een gemeenschappelijk Europees kader doen uitvoeren en beheren van het project voor de ontwikkeling van een draagraket, voorgesteld door de Franse Regering na het laten varen van het project Europa III, en in overweging nemend de besluiten, genomen door de Europese Ruimteconferentie tijdens haar vergadering van 31 juli 1973;
+The Participants commit themselves to undertake, under the provisions of this Arrangement, the first phase of a programme having as its objective the development, including qualification, of a satellite launcher called Ariane intended to place payloads of the order of 1500 kg in a transfer orbit and, with the assistance of a suitable apogee motor, to place satellites of the order of 750 kg in geostationary orbit. This programme comprises a second phase which will have as its objective the production of this launcher and which will be decided upon at a later date.
 
-Overwegende dat het Europese Ruimte-Agentschap, bedoeld in genoemde Resolutie (hierna te noemen „het Agentschap”) bestemd is te voorzien in het gemeenschappelijk Europese kader voor dit tijdelijk aan de zorgen van de Organisatie toevertrouwde programma,
+##### Article II
 
-Overwegende dat het een Europees belang is in het begin van de tachtiger jaren van deze eeuw te kunnen beschikken over een eigen economisch concurrerend vermogen voor het plaatsen van satellieten, in het bijzonder applicatiesatellieten, in een baan om de aarde,
+1. The development phase of the programme referred to in Article I above shall be executed within the framework of the Agency referred to in the ESC Resolution of 20 December 1972. Pending the establishment of the said Agency, this phase shall be undertaken within the framework of the Organisation, in conformity with the provisions of the Annexes of this Arrangement.
 
-Overwegende dat het voor de Europese Staten nuttig zou zijn, de op het gebied van draagraketten verworven bekwaamheden op peil te houden en gebruik te maken van de in die Staten ter beschikking staande ruimtetechnologie,
+2. Except where otherwise provided in this Arrangement or in the Agreement referred to in paragraph 3 below, this phase of the programme shall be executed in conformity with the rules and procedures in force within the Organisation.
 
-Gelet op het door de Franse Regering aan de Ministers van de Europese Ruimteconferentie overgelegde verslag van 15 april 1973,
+3. The Participants shall, through the medium of the Organisation, entrust the Centre National d'Etudes Spatiales (CNES), a French public body appointed by the French Government, with the execution of the first phase of the programme referred to in Article I and shall entrust control of its execution, on their behalf, to the Organisation. The Organisation and CNES shall conclude an Agreement defining the detailed arrangements for their cooperation with a view to achieving the objectives of this Arrangement.
 
-Gelet op de door de vertegenwoordigers van de bovengenoemde Regeringen in de Raad van de Organisatie afgelegde Verklaring van 1 augustus 1973 (ESRO/C/LIX/Dec. 1),
+##### Article III
 
-Gelet op de door de Raad van de Organisatie tijdens zijn 59ste vergadering aangenomen Resolutie, waarbij werd ingestemd met het verzoek om uitvoering van dit programma binnen het kader van de Organisatie, in afwachting van de oprichting van het Europese Ruimte-Agentschap (ESRO/C/LIX/Res. 1),
+1. The objectives of the programme referred to in Article I above, a description of the launcher and a description of the development phase of the programme, are contained in Annex A to this Arrangement. The decision to proceed to the production phase of the programme shall be taken in conformity with the provisions of Article V below.
 
-Zijn overeengekomen als volgt:
+2. The objectives of the definition stage of the development phase is to establish the detailed specifications of the launcher on the technical bases of Annex A to this Arrangement, to draw up a detailed development plan, to distribute work in industry and to adjust the financial contribution of each Participant to the programme in conformity with the procedure described in Article X of this Arrangement.
 
-##### Artikel I
+3. The elements of the detailed analysis referred to in paragraph 2 above will enable the development phase to be carried out. The latter will be completed with qualification of the launcher following the flight tests.
 
-De Deelnemers verbinden zich tot het krachtens de bepalingen van deze Overeenkomst uitvoeren van de eerste fase van een programma, dat ten doel heeft de ontwikkeling, met inbegrip van geschiktheidsproeven, van een drager voor satellieten, genaamd Ariane, bestemd voor het plaatsen van nuttige ladingen in de orde van grootte van 1500 kg in een overgangsbaan en, met behulp van een daartoe geschikte apogeummotor, voor het plaatsen van satellieten in de orde van grootte van 750 kg in een geostationaire baan. Dit programma omvat een tweede fase, die de produktie van deze draagraket ten doel heeft en waarover op een later tijdstip een beslissing zal worden genomen.
+##### Article IV
 
-##### Artikel II
+1. A Programme Board, composed of representatives of the Participants, shall be responsible for the programme and shall take all decisions relating to it in conformity with this Arrangement.
 
-1. De ontwikkelingsfase van het in artikel I bedoelde programma wordt uitgevoerd in het kader van het Agentschap bedoeld in de Resolutie van de ERC van 20 december 1972. In afwachting van de oprichting van dit Agentschap wordt deze fase uitgevoerd in het kader van de Organisatie, overeenkomstig de bepalingen van de Bijlagen bij deze Overeenkomst.
+2. For matters affecting both the present programme and some other programme of the Organisation, the Programme Board shall be advisory to the Council of the Organisation, to which it will on such matters make all necessary recommendations.
 
-2. Tenzij in deze Overeenkomst of in de in het derde lid van dit artikel bedoelde Overeenkomst anders is bepaald, wordt deze fase van het programma uitgevoerd overeenkomstig de in de Organisatie van kracht zijnde regels en procedures.
+3. The Programme Board shall take all decisions concerning the programme in conformity with this Arrangement, and shall in particular:
 
-3. De deelnemers dragen, door tussenkomst van de Organisatie, aan het Nationale Centrum voor Ruimteonderzoek (CNES), een door de Franse Regering ingesteld Frans overheidsorgaan, de uitvoering op van de eerste fase van het in artikel I bedoelde programma, en zij dragen het namens hen uit te voeren toezicht op aan de Organisatie. De Organisatie en het CNES sluiten een Overeenkomst tot het vaststellen van de gedetailleerde regelingen voor hun samenwerking, nodig voor het bereiken van de doeleinden van deze Overeenkomst.
+- (a) control the implementation of the programme and in particular of the development phase, defined in the development plan, on the basis of reports prepared by CNES and presented to the Programme Board by the Director General of the Organisation;
 
-##### Artikel III
+- (b) monitor the overall performance of the launcher and the quality assurance provisions specific to the programme, prepared by CNES, on the basis of reports prepared by CNES and presented to the Programme Board by the Director General of the Organisation;
 
-1. De in artikel I gestelde doelen van het programma, te weten een beschrijving van de draagraket en een beschrijving van de ontwikkelingsfase van het programma, zijn neergelegd in Bijlage A bij deze Overeenkomst. De beslissing inzake het overgaan tot de produktiefase van het programma zal worden genomen overeenkomstig het bepaalde in artikel V.
+- (c) be kept informed of the distribution of work among the various Participants and, during the execution of the development phase of the programme, act as the appeal body if a Participant wishes to object to a choice of contractor made by CNES;
 
-2. Het doel van de definitiefase van de ontwikkelingsfase is het vaststellen van het gedetailleerde bestek voor de draagraket op basis van de technische gegevens in Bijlage A bij deze Overeenkomst, het opstellen van een gedetailleerd ontwikkelingsplan, het geven van opdrachten aan industrieën en het aanpassen van de financiële bijdragen van iedere Deelnemer aan het programma, overeenkomstig de in artikel X van deze Overeenkomst omschreven procedure.
+- (d) approve the launcher flight qualification report submitted by CNES;
 
-3. De elementen van de in het tweede lid van dit artikel bedoelde uitvoerige analyse maken de uitvoering van de ontwikkelingsfase mogelijk. Die fase zal zijn voltooid met de na afloop van de proefvluchten vast te stellen geschiktheid van de draagraket.
+- (e) lay down the terms and conditions for participation in this of the programme by States that are not members of the Organisation, in conformity with the provisions of article XVII, paragraph 2 of this Arrangement;
 
-##### Artikel IV
+- (f) ensure that the Organisation establishes efficient coordination with the potential users of the launcher and defines the launcher and the payloads interface specifications.
 
-1. Een Programmaraad, bestaande uit vertegenwoordigers van de Deelnemers, is verantwoordelijk voor het programma en neemt alle desbetreffende beslissingen overeenkomstig de bepalingen van deze Overeenkomst.
+4. The Programme Board may establish such advisory bodies as it may deem necessary for its tasks.
 
-2. In aangelegenheden die van invloed zijn op dit en op enig ander programma van de Organisatie, treedt de Programmaraad op als adviesorgaan van de Raad van de Organisatie, aan wie hij alle nodige aanbevelingen in zodanige aangelegenheden doet.
+5. Except where otherwise provided in this Arrangement, the decisions of the Programme Board shall be taken by a simple majority of the Participants.
 
-3. De Programmaraad neemt alle beslissingen betreffende het programma in overeenstemming met deze Overeenkomst en hij heeft met name de volgende taken:
+##### Article V
 
-- a). het toezichthouden op de uitvoering van het programma en in het bijzonder op de in het ontwikkelingsplan omschreven ontwikkelingsfase, op basis van door het CNES opgestelde en door de Directeur-Generaal van de Organisatie aan de Programmaraad overgelegde verslagen,
+1. The Programme Board shall establish the elements necessary for the decision by the Participants to proceed to the production phase of the programme. Those Participants that have declared that they are interested in taking part in the production phase shall conclude a new Arrangement setting out the content of this phase, the financial arrangements for its execution and the work distribution. The latter shall as far as possible be identical with that defined in respect of the development phase.
 
-- b). het toezichthouden op de totale prestatie van de draagraket en op de voor het programma kenmerkende bepalingen voor de kwaliteitszorg zoals die zijn opgesteld door het CNES, op basis van door het CNES opgestelde en door de Directeur-Generaal van de Organisatie aan de Programmaraad voorgelegde verslagen,
+2. The Participants shall endeavour to keep in being, during the production phase, the industrial facilities set up during the development phase, and, whether or not they are Participants in the new Arrangement, shall do nothing to hamper the use of these facilities.
 
-- c). het zich op de hoogte houden van de verdeling van werkopdrachten onder de verschillende Deelnemers en het gedurende de uitvoering van de ontwikkelingsfase van het programma optreden als instantie van beroep, indien een Deelnemer bezwaar wenst te maken tegen een door het CNES gemaakte keuze van een aannemer,
+##### Article VI
 
-- d). het goedkeuren van het door het CNES voorgelegde rapport inzake de geschiktheid tot vliegen van de draagraket,
+1. The expenditure resulting from the execution of the development phase of the programme under this Arrangement shall be met by the Participants, in accordance with the provisions set out in Annex B to this Arrangement.
 
-- e). het vastleggen van de voorwaarden en bedingen voor het deelnemen aan deze fase van het programma door Staten die geen lid zijn van de Organisatie, overeenkomstig het bepaalde in het tweede lid van artikel XVII van deze Overeenkomst,
+2. The Participants agree to contribute, on the basis of a firm financial envelope of 380 391 165 accounting units, towards:
 
-- f). het waarborgen dat de Organisatie zorgt voor een doeltreffende coördinatie met de potentiële gebruikers van de draagraket en de kenmerken van de technische raakpunten tussen draagraket en nuttige ladingen vaststelt en beschrijft.
+- (a) the direct expenditure defined in paragraph 1 (a) of Annex B to this Arrangement, concerning the development phase of the programme, on the basis of an amount of 2060 million French francs, representing 370 891 165 accounting units on the basis of the conversion rate in force on 1 January 1973 (1 accounting unit representing 5.55419 French francs);
 
-4. De Programmaraad kan de adviesorganen instellen die hij nodig acht voor de uitvoering van zijn taak.
+- (b) the Organisation's internal expenditure referred to in paragraph 1 (b) of Annex B to this Arrangement, amounting to 2 500 000 accounting units; and
 
-5. Behalve waar in deze Overeenkomst anders is bepaald, worden de besluiten van de Programmaraad genomen met een eenvoudige meerderheid van stemmen van de Deelnemers.
+- (c) the expenditure resulting from the maintenance of facilities specifically created, or made available to the Organisation for the execution of the programme under the provisions of Article XII, paragraph 2 of this Arrangement, on the basis of an amount of 7 000 000 accounting units.
 
-##### Artikel V
+The cost of the CNES project team and technical support staff shall be borne by the French Government.
 
-1. De Programmaraad verschaft de gegevens die nodig zijn voor de door de Deelnemers te nemen beslissing over te gaan tot de produktiefase van het programma. Diegenen onder de Deelnemers die hebben verklaard dat zij wensen deel te nemen aan de produktiefase, sluiten een nieuwe Overeenkomst ter vastlegging van de inhoud van deze fase, van de financiële regelingen voor haar uitvoering en van de verdeling der werkzaamheden. Deze laatste dient zoveel mogelijk overeen te komen met die, welke is vastgesteld met betrekking tot de ontwikkelingsfase.
+3. The Participants shall contribute towards the expenditure referred to in paragraph 2 above in accordance with the scale of contributions set out in Annex B to this Arrangement and subject to the provisions of Article VII. Consequently, when the provisions of Article VII, paragraph 2, are to be applied for the expenditure specified in paragraph 2 (a) above, the overall commitment of the Participants will amount to 454.569.398 accounting units, notwithstanding the provisions of Article VII, paragraphs 1 and 2 (b) below.
 
-2. De Deelnemers trachten gedurende de produktiefase de tijdens de ontwikkelingsfase opgezette industriële installaties in stand te houden en zij doen niets dat het gebruik van deze installaties zou kunnen belemmeren, ongeacht of zij al dan niet Deelnemers zijn in de nieuwe Overeenkomst.
+4. The annual budgets relating to the development phase of the programme shall be subject to the approval of the Programme Board, by a two-thirds majority of the Participants representing also at least two-thirds of the weights of vote referred to in paragraph 2.3 of Annex B, within the firm financial envelope referred to in paragraph 2 above. The Participants undertake to provide the Organisation with the funds necessary for the execution of the programme in accordance with the procedures and schedule given in Annex B to this Arrangement; this schedule is to be brought up to date and presented to the Programme Board annually at the same time as the budget.
 
-##### Artikel VI
+##### Article VII
 
-1. De uitgaven voortvloeiende uit de uitvoering van de ontwikkelingsfase van het programma krachtens deze Overeenkomst worden gedragen door de Deelnemers overeenkomstig de bepalingen van Bijlage B bij deze Overeenkomst.
+1. In order that the financial envelope referred to in Article VI, paragraph 2, above may be revised in the event of changes in price levels, the Participants agree, except where otherwise provided in paragraph 2.4 of Annex B to this Arrangement, to:
 
-2. De Deelnemers komen overeen op basis van een financieel raam van 380.391.165 r.e. bij te dragen aan:
+- (a) apply to the contribution of each country participating in the direct expenditure referred to in Article VI, paragraph revision formulas using the relevant national indices adopted by the Organisation; and
 
-- a). de in paragraaf 1, letter a, van Bijlage B bij deze Overeenkomst omschreven directe uitgaven betreffende de ontwikkelingsfase van het programma, op basis van een bedrag van 2060 miljoen Franse frank, vertegenwoordigende een bedrag van 370.891.165 r.e. op basis van de op 1 januari 1973 geldende omrekeningskoers (1 r.e. is gelijk aan 5,55419 Franse frank);
+- (b) apply to the contribution of each country participating in the expenditure referred to in Article VI, paragraphs 2 (b) and (c) the normal rules in force in the Organisation.
 
-- b). de interne uitgaven van de Organisatie, bedoeld in paragraaf 1, letter b, van Bijlage B bij deze Overeenkomst, ten bedrage van 2.500.000 r.e.; en
+2. If, in the opinion of the Programme Board, the amount of direct expenditure referred to in Article VI, paragraph 2 (a) above has to be revised for reasons other than changes in price levels, the following provisions shall apply:
 
-- c). de uitgaven voortvloeiende uit het onderhoud van speciaal ingerichte of aan de Organisatie beschikbaar gestelde installaties voor de uitvoering van het programma krachtens het tweede lid van artikel XII, op basis van een bedrag van 7 miljoen r.e.
+- (a) If the additional expenditure does not exceed 20% of mount, revised, where applicable, under the provisions of the paragraph 1 above, the Participants shall be bound to contribute to the additional expenditure in proportion to their contributions as laid down in Annex B of the present Arrangement.
 
-De kosten van het project-team en van het assisterende technische personeel van het CNES komen ten laste van de Franse Regering.
+- (b) Additional expenditure exceeding 20% of the aforesaid amount shall be borne by the French Government provided it does not exceed 35%.
 
-3. De Deelnemers dragen aan de in het tweede lid van dit artikel bedoelde uitgaven bij overeenkomstig de verdeelsleutel, vervat in Bijlage B bij deze Overeenkomst en met inachtneming van het bepaalde in artikel VII. Derhalve bedraagt, indien het bepaalde in het tweede lid van artikel VII wordt toegepast op de in het tweede lid, letter a, van dit artikel bedoelde uitgaven, de totale bijdrage van de Deelnemers 454.569.398 r.e., zulks niettegenstaande het bepaalde in het eerste lid en het tweede lid, letter b, van artikel VIL
+- (c) No Participant may withdraw from the programme so long as the provisions of sub-paragraphs (a) and (b) of the present paragraph are operative.
 
-4. De jaarlijkse begrotingen voor de ontwikkelingsfase van het programma worden goedgekeurd door de Programmaraad met een twee derde meerderheid van stemmen van de Deelnemers, die tevens ten minste twee derde van de in paragraaf 2.3 van Bijlage B bedoelde stemmen vertegenwoordigen, tot het financiële plafond bedoeld in het tweede lid van dit artikel. De Deelnemers verbinden zich ertoe de Organisatie de nodige fondsen te verschaffen voor de uitvoering van het programma overeenkomstig de procedures en tijdschema's, gegeven in Bijlage B bij deze Overeenkomst; deze tijdschema's dienen jaarlijks op hetzelfde tijdstip als de begroting te worden bijgewerkt en voorgelegd aan de Programmaraad.
+- (d) If the additional expenditure exceeds 35% of the amount direct expenditure referred to in Article VI, paragraph 2 (a) above, revised where necessary in accordance with paragraph 1 above, either in fact or according to forecasts by the Programme Board, the French Government's obligations referred to above shall cease and the Participants shall consult among themselves as to the future of the programme.
 
-##### Artikel VII
+- (e) The French Government will review the undertaking referred to in sub-paragraph (b) above should the Organisation no longer be able to provide it with the funds necessary for execution of the programme owing to the default of one or more Participants.
 
-1. Ten einde, in geval van veranderingen in het prijspeil, het in het tweede lid van artikel VI bedoelde financiële raam te kunnen herzien, komen de Deelnemers - tenzij anders bepaald in paragraaf 2.4 van Bijlage B bij deze Overeenkomst - overeen:
+##### Article VIII
 
-- a). op de bijdrage van ieder land dat bijdraagt aan de in het tweede lid, letter a van artikel VI bedoelde uitgaven, herzieningsformules toe te passen met gebruikmaking van de ter zake dienende door de Organisatie aanvaarde nationale indexcijfers; en
+Intellectual property rights arising from the execution of the development phase of the programme, as well as access to technical information so arising, shall be reserved to the Participants, but the Organisation shall have the right to make use of them free of charge for its programmes as a whole.
 
-- b). op de bijdrage van ieder land dat bijdraagt aan de in het tweede lid, letter b en c van artikel VI bedoelde uitgaven, de normale in de Organisatie geldende regels toe te passen.
+##### Article IX
 
-2. Indien naar het oordeel van de Programmaraad het in het tweede lid, letter a van artikel VI bedoelde bedrag aan uitgaven om andere redenen dan veranderingen in het prijspeil dient te worden herzien, zijn de volgende bepalingen van toepassing:
+1. The Participants shall make available to CNES, through the Organisation, the contract authority and payment appropriations necessary for the execution of the development phase of the programme, in conformity with the budget approved by the Programme Board and with the provisions of paragraph 2.4 of the Annex B to this Arrangement.
 
-- a). Indien de bijkomende uitgaven 20 pct. van dit bedrag - zo nodig herzien krachtens het bepaalde in het eerste lid van dit artikel - niet te boven gaan, zijn de Deelnemers verplicht aan de bijkomende uitgaven bij te dragen in verhouding tot hun bijdragen zoals vastgelegd in Bijlage B bij deze Overeenkomst.
+2. The Participants contributions shall be called up by the Organisation on the basis of its current rules, in conformity with the provisions mentioned in Annex B to this Arrangement.
 
-- b). Bijkomende uitgaven die 20 pct. van het bovengenoemde bedrag te boven gaan, worden gedragen door de Franse Regering mits de overschrijding niet meer beloopt dan 35 pct.
+##### Article X
 
-- c). Een Deelnemer mag zich niet uit het programma terugtrekken zolang het bepaalde in de letters a en b van dit lid nog van kracht is.
+1. CNES shall place the contracts necessary for the execution of the development phase of the programme. When placing contracts and sub-contracts for the execution of this phase, it shall give first preference to having the work carried out in the territories of the Participants and second preference to having it carried out in the territories of the other States that are members of the organisation or, subsequently, of the Agency.
 
-- d). Indien de bijkomende uitgaven meer bedragen dan 35 pct. van het in het tweede lid, letter a, van artikel VI bedoelde bedrag aan directe uitgaven, indien nodig herzien overeenkomstig het eerste lid van dit artikel, hetzij wegens de feitelijke omstandigheden, hetzij in overeenstemming met de door de Programmaraad aanvaarde ramingen, houden de hierboven genoemde verplichtingen van de Franse Regering op te bestaan en plegen de Deelnemers onderling overleg over de toekomst van het programma.
+2. CNES shall submit to the Programme Board, before the end of the definition stage the distribution of work on the basis of the contributions shown in paragraph 2.1 of Annex B. The distribution shall bear on the work that is of definite technological interest according to the definition adopted by the Programme Board, this work representing eighty per cent of the amount of direct expenditure referred to in Article VI, paragraph 2 (a) above.
 
-- e). De Franse Regering onderwerpt de in letter b van dit lid bedoelde verplichting aan een nader onderzoek, indien de Organisatie niet langer in staat is haar te voorzien van de nodige middelen voor de uitvoering van het programma door het in gebreke blijven van een of meer Deelnemers.
+3. CNES shall award to the Participants contracts of a value proportional to the Participants' contributions to the cost of the work defined above. If this objective cannot be attained vis-à-vis one or several Participants, the contribution of the Participant concerned shall be reduced proportionally before the end of the definition stage. In case of a lack of funding of the development phase, as a consequence of such a reduction, the French Government shall be responsible for this funding.
 
-##### Artikel VIII
+Concerning the additional expenditure mentioned in Article VII, paragraph 2 (a), CNES shall, in placing the contracts, make its best endeavour to avoid any distortion in the fair return of the Participants and to achieve a distribution of work as fair as reasonably possible, taking into account the specific nature of the work, the difficulty to apply the same rules concerning work distribution, and the necessity to maintain a smooth implementation of the development phase.
 
-Intellectuele eigendomsrechten, voortvloeiende uit de uitvoering van de ontwikkelingsfase van het programma, evenals toegang tot technische gegevens die aldus worden verkregen, zijn voorbehouden aan de Deelnemers, maar de Organisatie heeft het recht daar kosteloos gebruik van te maken voor het geheel van haar programma's.
+4. Contracts relating to work of lower technological interest, such as infrastructure work or the supply of consumables, shall be awarded on a competitive basis. To this end CNES shall invite tenders from firms whose names have been communicated to it by the Participants.
 
-##### Artikel IX
+5. Contracts relating to work carried out in the territory of a State that is not a member of the Organisation shall not be taken into account in the assessment of the geographical distribution of contracts among the Participants.
 
-1. De Deelnemers stellen via de Organisatie aan het CNES de vastleggings- en betalingskredieten, welke nodig zijn voor de uitvoering van het programma overeenkomstig de door de Programmaraad goedgekeurde begroting en overeenkomstig de bepalingen van paragraaf 2.4 van Bijlage B van deze Overeenkomst, ter beschikking.
+6. The contractual arrangements shall be based on the rules and procedures applied by CNES. However, the Organisation shall define the content of the clauses guaranteeing observance of Articles VIII and XII of this Arrangement.
 
-2. De bijdragen van de Deelnemers worden door de Organisatie afgeroepen op basis van de gangbare regels, overeenkomstig de bepalingen van Bijlage B bij deze Overeenkomst.
+7. The Participants shall, in accordance with the Protocol on Privileges and Immunities of the Organisation, take all necessary steps to ensure exemption from, or if need be, reimbursement of, taxes and customs dues in respect of contracts placed under this Arrangement.
 
-##### Artikel X
+##### Article XI
 
-1. Het CNES sluit de contracten die nodig zijn voor de uitvoering van de ontwikkelingsfase van het programma. Bij het plaatsen van contracten en subcontracten voor de uitvoering van deze fase wordt voorrang gegeven aan uitvoering van de werkzaamheden op het grondgebied van de Deelnemers en vervolgens aan de uitvoering op het grondgebied van andere Staten die lid zijn van de Organisatie of, nadien, van het Agentschap.
+The French Government shall guarantee the payment of any sums:
 
-2. Het CNES legt, voor het einde der definitiefase, aan de Programmaraad de verdeling der werkzaamheden op basis van de in paragraaf 2.1 van Bijlage B vermelde bijdragen voor. De verdeling heeft betrekking op de werkzaamheden van vaststaand technologisch belang overeenkomstig de door de Programmaraad aangenomen definitie, welke werkzaamheden 80 pet. vertegenwoordigen van het in het tweede lid, letter a) van artikel VI, bedoelde bedrag aan rechtstreekse uitgaven.
+- (a) contributed to the programme, under the heading „Other Income”, by a Member State of the Organisation that is signatory of this Arrangement but with which it has concluded a bilateral agreement, compatible with the provisions of this Arrangement, for the execution of work under the development phase of the programme;
 
-3. Het CNES verstrekt aan de Deelnemers contracten waarvan de waarde in verhouding staat tot de bijdragen van de Deelnemers in de kosten van de hierboven omschreven werkzaamheden. Indien ten aanzien van een of verscheidene Deelnemers dit doel niet kan worden bereikt, wordt de bijdrage van de betrokken Deelnemer vóór het einde van de definitiefase naar verhouding verminderd. Indien door een dergelijke vermindering een tekort aan middelen voor de ontwikkelingsfase ontstaat, is de Franse Regering verantwoordelijk voor de aanvulling daarvan.
+- (b) shown under the heading „Other Countries” in the table of Annex B, paragraph 2, until such time as they are otherwise covered.
 
-Met betrekking tot de in het tweede lid, letter a) van artikel VII genoemde bijkomende uitgaven, dient het CNES bij het plaatsen van de contracten al het mogelijke te doen om het billijke werkaandeel van de Deelnemers niet aan te tasten en een zo rechtvaardige werkverdeling als redelijkerwijs mogelijk te bereiken, daarbij rekening houdende met de bijzondere aard van het werk, de moeilijkheid van het toepassen van dezelfde regels voor de werkverdeling en de noodzaak tot het handhaven van een ongestoord verloop van de uitvoering der ontwikkelingsfase.
+In no circumstances shall any bilateral agreement mentioned under paragraph (a) above create obligations vis-à-vis the other Participants in the programme.
 
-4. De contracten betreffende de werkzaamheden van minder technologisch belang, zoals infrastructuurwerkzaamheden of leveringen van verbruiksartikelen, worden geplaatst op basis van mededinging. Te dien einde verzoekt het CNES om inschrijvingen door firma's, waarvan de namen hem zijn verstrekt door de Deelnemers.
+Nevertheless, for the purposes of Article X, paragraph 1 of this Arrangement, any such Member State shall be considered as a Participant in the development phase of the programme.
 
-5. Bij de vaststelling van de geografische spreiding van de contracten onder de Deelnemers worden de contracten betreffende de werkzaamheden uitgevoerd op het grondgebied van een Staat die geen lid is van de Organisatie buiten beschouwing gelaten.
+##### Article XII
 
-6. De contractuele bepalingen zijn gebaseerd op de door het CNES toegepaste regels en procedures. De Organisatie bepaalt evenwel de inhoud van de clausules die de nakoming van de artikelen VIII en XII van deze Overeenkomst waarborgen.
+1. The Organisation, acting on behalf of the Participants, shall be the owner of the elements of the Ariane launcher, of the facilities and equipment acquired for its development, and of the launching facilities produced within the framework of the programme.
 
-7. Overeenkomstig het Protocol inzake de Voorrechten en Immuniteiten van de Organisatie nemen de Deelnemers alle nodige stappen tot het waarborgen van vrijstelling of, indien nodig, terugbetaling van belastingen en douaneheffingen met betrekking tot krachtens deze Overeenkomst geplaatste contracten.
+2. Participants that own facilities that could be used for the purposes of the Ariane programme undertake to make them available for the said programme, on financial conditions limited to marginal cost reimbursement.
 
-##### Artikel XI
+3. The elements, facilities and equipment referred to in paragraph 1 above shall be made available to the Participants acting in the framework of their own programmes or of a programme of the Organisation, insofar as this does not interfere with their use for the purposes of the Ariane programme. Payments requested from the Participants for such use shall not include amortisation of this property. The Programme Board shall lay down the terms and conditions relating thereto.
 
-De Franse Regering garandeert de betaling van bedragen die:
+4. The Organisation may make this property available to third parties not covered by paragraph 3 of this Article, insofar as this does not interfere with its use for the purposes of the Ariane programme and for the Participants' requirements, and under financial conditions to be laid down by the Programme Board.
 
-- a). worden bijgedragen aan het programma - onder het hoofd „Andere inkomsten” - door een Lid-Staat van de Organisatie die geen ondertekenaar is van deze Overeenkomst, maar waarmee zij een bilaterale overeenkomst heeft gesloten, die verenigbaar is met de bepalingen van deze Overeenkomst, voor de uitvoering van werkzaamheden voor de ontwikkelingsfase van het programma,
+5. Any transfer of elements, facilities and equipment acquired shall be decided on by the Programme Board, in consultation with the Council of the Organisation.
 
-- b). vermeld staan onder het hoofd „Andere Landen” in de tabel van Bijlage B, paragraaf 2, tot het tijdstip waarop daarin op andere wijze is voorzien.
+##### Article XIII
 
-Onder geen enkele omstandigheid mag een onder letter a) van dit artikel bedoelde bilaterale overeenkomst verplichtingen scheppen ten aanzien van de andere Deelnemers aan het Programma.
+1. Once the Ariane launcher has been declared operational, it shall be made available to the Organisation and the Participants for their own requirements, in accordance with a decision of the Participants, made either through the Programme Board or through new institutions as may be established in the framework of the Agency mentioned in Article II, and in accordance with the provisions of the new Arrangement referred to in Article V, paragraph 1. French Government facilities required for launchings shall likewise be made available to the Organisation and the Participants, in accordance with the conditions laid down in Article XII, paragraph 2 above.
 
-Niettemin heeft voor de toepassing van het eerste lid van artikel X van deze Overeenkomst een zodanige Lid-Staat dezelfde status als een Deelnemer aan de ontwikkelingsfase van het programma.
+2. The decision on the terms and conditions on which the flight units of the Ariane launcher may be transferred to third-party States or to international organisations for peaceful purposes, as well as the terms and conditions under which launchings may be carried out for such States and organisations, shall be taken by a two-thirds majority of the Participants subject to the provisions of the new Arrangement referred to in Article V, paragraph 1.
 
-##### Artikel XII
+3. The provisions of paragraphs 1 and 2 above shall also apply to the supply of elements, sub-assemblies and components developed for the development phase of the programme.
 
-1. De Organisatie, optredend namens de Deelnemers, is de eigenares van de onderdelen van de Ariane drager, van de voor zijn ontwikkeling benodigde installaties en uitrusting en van de binnen het kader van het programma geproduceerde lanceerinstallaties.
+##### Article XIV
 
-2. Deelnemers die eigenaar zijn van installaties die gebruikt kunnen worden ten behoeve van het Ariane programma verbinden zich ertoe deze beschikbaar te stellen voor genoemd programma, op financiële voorwaarden die beperkt zijn tot terugbetaling van de marginale kosten.
+1. The Participants shall indemnify the Organisation in respect of any obligation it may incur should its international liability be involved as a result of execution of the development phase of the programme.
 
-3. De elementen, installaties en uitrusting bedoeld in het eerste lid worden beschikbaar gesteld aan de Deelnemers optredend in het kader van hun eigen programma's of in dat van een programma van de Organisatie, voor zover hun gebruik ten dienste van het Ariane programma zulks toelaat. De voor een zodanig gebruik van de Deelnemers verlangde betalingen omvatten geen amortisatie van deze eigendommen. De Programmaraad stelt de daarop betrekking hebbende voorwaarden en bedingen vast.
+2. Any compensation for damage received by the Organisation with respect to the development phase of the programme shall be credited as an income to the annual programme budgets referred to in Article VI, paragraph 4 above.
 
-4. De Organisatie stelt deze eigendommen beschikbaar aan niet in het derde lid van dit artikel genoemde derden, voor zover hun gebruik ten dienste van het Ariane-programma en ten dienste van de eigen behoefte van de Deelnemers zulks toelaat, en op de door de Programmaraad vast te stellen financiële voorwaarden.
+##### Article XV
 
-5. Inzake overdracht van verworven elementen, installaties en uitrusting wordt beslist door de Programmaraad, in overleg met de Raad van de Organisatie.
+1. Any dispute which arises between two or more of the Participants, or between any of them and the Organisation, concerning the interpretation or application of this Arrangement, and which cannot be settled by mutual consent, shall be submitted, at the request of any party to the dispute, to a single abitrator to be appointed by the President of the International Court of Justice. The arbitrator may not be a national of a State which is a party to the dispute nor be a permanent resident of such a State.
 
-##### Artikel XIII
+2. Those parties to the Arrangement that are not parties to the dispute shall have the right to join in the proceedings, and the arbitrator's decision shall be binding on all the Participants and the Organisation, whether or not they have joined in the proceedings.
 
-1. Zodra de Ariane draagraket operationeel is verklaard, wordt hij beschikbaar gesteld aan de Organisatie en de Deelnemers voor hun eigen behoeften, in overeenstemming met een beslissing van de Deelnemers, genomen hetzij door de Programmaraad, hetzij door nieuwe instellingen, opgericht binnen het kader van het in artikel II genoemde Agentschap en in overeenstemming met de bepalingen van de in het eerste lid van artikel V bedoelde nieuwe Overeenkomst. De voor het lanceren benodigde installaties van de Franse Regering worden eveneens beschikbaar gesteld aan de Organisatie en de Deelnemers, overeenkomstig de in het tweede lid van artikel XII vervatte bepalingen.
+##### Article XVI
 
-2. De beslissing over de voorwaarden waarop de vluchteenheden van de Ariane draagraket voor vreedzame doeleinden kunnen worden overgedragen aan derde Staten of aan internationale organisaties, benevens de voorwaarden waarop voor zodanige staten en organisaties lanceringen kunnen worden uitgevoerd, worden genomen met een twee derde meerderheid van de stemmen der Deelnemers, zulks behoudens het bepaalde in de in het eerste lid van artikel V bedoelde nieuwe Overeenkomst.
+1. This Arrangement shall be open for signature by the Member States of the European Space Conference from 15 October 1973 to 30 November 1973.
 
-3. Het bepaalde in het eerste en tweede lid van dit artikel is ook van toepassing op de levering van elementen, secundaire assemblages en samenstellende delen, ontwikkeld voor de ontwikkelingsfase van het programma.
+2. The States shall become parties to the Arrangement:
 
-##### Artikel XIV
+- - either by signature not subject to ratification or approval,
 
-1. De Deelnemers stellen de Organisatie schadeloos voor elke verplichting die deze aangaat, indien haar internationale aansprakelijkheid in het geding komt ten gevolge van de uitvoering van de ontwikkelingsfase van het programma.
+- - or by depositing an instrument of ratification or approval with the Government of the French Republic if the Arrangement has been signed subject to ratification or approval.
 
-2. Elke door de Organisatie ten aanzien van de ontwikkelingsfase van het programma ontvangen schadeloosstelling wordt geboekt als inkomsten op de jaarlijkse begrotingen bedoeld in het vierde lid van artikel VI.
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the States whose participation amounts to 75% of the total weight of the votes referred to in paragraph 2.3 of the Annex B, have become parties to this Arrangement in accordance with paragraph 2 of this Article.
 
-##### Artikel XV
+4. For the purpose of paragraph 3 above, the deposit with the depositary Government of a declaration of intent to apply the Arrangement provisionally and to seek ratification or approval as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
 
-1. Elk geschil dat zich voordoet tussen twee of meer Deelnemers of tussen een van hen en de Organisatie betreffende de uitlegging of toepassing van deze Overeenkomst en dat niet in onderling overleg kan worden geregeld, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een scheidsman, die moet worden benoemd door de President van het Internationaal Gerechtshof. De scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil en evenmin permanent in die Staat zijn gevestigd.
+5. The Government of any Member State of the Organisation which has not signed the Arrangement by 30 November 1973 may become a party to it after that date, provided the other Governments, parties to the Arrangement, agree. In such event, the Government in question must deposit an instrument of accession with the Government of the French Republic; it may also apply the provisions of paragraph 4 of this Article in order to become a party to this Arrangement. The Programme Board shall determine unanimously the terms governing the participating of the acceding States.
 
-2. De Partijen bij de Overeenkomst die geen partij zijn bij het geschil hebben het recht deel te nemen aan de procedure en de beslissing van de scheidsman is bindend voor alle Deelnemers, ongeacht of zij al dan niet aan de procedure hebben deelgenomen.
+##### Article XVII
 
-##### Artikel XVI
+1. The Government of a State that is not a member of the Organisation may present a request to the Council of the Organisation to accede to the programme.
 
-1. Deze Overeenkomst staat van 15 oktober 1973 tot 30 november 1973 open voor ondertekening door de Lid-Staten van de Europese Ruimteconferentie.
+2. Admissibility of the request shall require a unanimous decision of the Programme Board. If admissible, the request shall then be submitted to the Council for its unanimous decision. The Programme Board shall unanimously determine the terms governing the participation of the acceding State.
 
-2. Staten worden partij bij de Overeenkomst door
+##### Article XVIII
 
-- -. hetzij ondertekening zonder voorbehoud van bekrachtiging of goedkeuring,
+The Participants may by a unanimous vote decide to terminate the programme. In such event, priority would be granted for the acquisition of the elements, facilities and equipment acquired for the execution of the development phase of this programme, to a Participant that undertook to pursue this programme or a related programme on its own account.
 
-- -. hetzij nederlegging van een akte van bekrachtiging of goedkeuring bij de Regering van de Franse Republiek, indien de Overeenkomst werd ondertekend onder voorbehoud van bekrachtiging of goedkeuring.
+##### Article XIX
 
-3. Deze Overeenkomst treedt in werking wanneer zij is ondertekend door de Organisatie en wanneer de Staten die te zamen 75 pct. van het totaal van het in paragraaf 2.3. van Bijlage B bedoelde stemgewicht uitbrengen, partij zijn geworden bij deze Overeenkomst overeenkomstig het tweede lid van dit artikel.
+The Organisation shall inform the depositary Government of the expiry of this Arrangement. The Government in question shall notify the Participants accordingly.
 
-4. Voor de toepassing van het derde lid van dit artikel wordt de nederlegging bij de depot-Regering van een verklaring van voorlopige toepassing van de Overeenkomst en tot het zo spoedig mogelijk verkrijgen van bekrachtiging of goedkeuring, beschouwd als de nederlegging van een akte van bekrachtiging of goedkeuring.
+##### Article XX
 
-5. De Regering van een Lid-Staat van de Organisatie die de Overeenkomst op 30 november 1973 nog niet heeft ondertekend, kan na die datum partij worden, mits de andere Regeringen die partij bij de Overeenkomst zijn daarmede instemmen. In zulk een geval moet de betrokken Regering een akte van toetreding nederleggen bij de Regering van de Franse Republiek; zij kan ook het bepaalde in het vierde lid van dit artikel toepassen, ten einde partij bij deze Overeenkomst te worden.
+1. A Participant who wishes to withdraw from the programme under the terms of Article VII, paragraph 2 (c), shall notify the Organisation accordingly. The withdrawal shall take effect on the date of the notification, subject to the following provisions:
 
-De Programmaraad beslist met eenparigheid van stemmen over de aan de toetredende Staat te stellen voorwaarden van deelneming.
+- (a) The withdrawing Participant shall be bound to pay in the manner agreed its contributions adopted under the current or previous annual budget(s).
 
-##### Artikel XVII
+- (b) The withdrawing Participant shall remain bound to pay its share of the payment appropriations corresponding to approved contract authority used under the budget for the current or previous financial year(s) and relating to the development phase.
 
-1. De Regering van een Staat die geen lid is van de Organisatie kan bij de Raad van de Organisatie een verzoek indienen om toetreding tot het programma.
+- (c) The withdrawing Participant shall remain a member of the Programme Board until its obligations under (a) and (b) above have been fulfilled. It shall have a right to vote only on matters which are directly related to these obligations.
 
-2. De Programmaraad spreekt zich met eenparigheid van stemmen uit over de ontvankelijkheid van het verzoek. Indien het verzoek ontvankelijk is verklaard, wordt het voorgelegd aan de Raad voor een met eenparigheid van stemmen te nemen beslissing. De Programmaraad bepaalt met eenparigheid van stemmen de voorwaarden voor deelneming van de toetredende Staat.
+2. The withdrawing Participant shall retain the rights acquired up to the date on which its withdrawal takes effect. As regards actions and developments decided upon after its withdrawal, no further right or obligation shall arise in respect of that part of the programme to which it no longer contributes, unless and to the extent agreed otherwise between the remaining Participants and the withdrawing Participant. The provisions of Article XVII of the Convention of the Organisation shall apply mutatis mutandis.
 
-##### Artikel XVIII
+2. Should a non Member State which has acceded to the programme in accordance with the provisions of Article XVII of this Arrangement wish to withdraw from the programme, the provisions of this Article shall apply mutatis mutandis.
 
-De Deelnemers kunnen met eenparigheid van stemmen besluiten het programma te beëindigen. In een zodanig geval wordt, voor het verwerven van de onderdelen, installaties en uitrusting die voor de uitvoering van de ontwikkelingsfase van dit programma zijn verworven, voorrang verleend aan een Deelnemer, die op zich heeft genomen dit programma of een daarmede verband houdend programma voor eigen rekening voort te zetten.
+##### Article XXI
 
-##### Artikel XIX
+Annexes A and B to this Arrangement form an integral part of it.
 
-De Organisatie stelt de depot-Regering in kennis van de beëindiging van deze Overeenkomst. Deze Regering geeft daarvan kennis aan de Deelnemers.
+##### Article XXII
 
-##### Artikel XX
+1. This Arrangement may be revised at the request of a Participant or of the Organisation. Any amendments shall come into force when all parties have notified their approval to the depositary Government.
 
-1. Een Deelnemer die zich krachtens het bepaalde in het tweede lid, letter c, van artikel VII uit het programma wenst terug te trekken, stelt de Organisatie hiervan in kennis. De terugtrekking wordt van kracht op de datum van de kennisgeving, zulks onder voorbehoud van de volgende bepalingen:
+2. The Annexes to this Arrangement may be revised by the Programme Board in accordance with the provisions of the revision clauses of those Annexes.
 
-- a). de zich terugtrekkende Deelnemer is gehouden op de overeengekomen wijze zijn bijdragen te betalen uit hoofde van de lopende of de voorgaande jaarlijkse begroting (en);
+##### Article XXIII
 
-- b). de zich terugtrekkende Deelnemer blijft gehouden zijn aandeel bij te dragen aan de betalingskredieten, overeenkomend met de goedgekeurde betalingsverplichtingen, aangegaan op grond van de begroting van het lopende of het (de) voorgaande financiële jaar (jaren) en die betrekking hebben op de ontwikkelingsfase;
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with [Article 102 of the United Nations Charter](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- c). de zich terugtrekkende Deelnemer blijft lid van de Programmaraad tot hij aan zijn verplichtingen krachtens de letters a) en b) hierboven heeft voldaan. Hij heeft slechts stemrecht in aangelegenheden die rechtstreeks verband houden met deze verplichtingen.
+##### Article XXIV
 
-2. De zich terugtrekkende Deelnemer behoudt de rechten welke hij verwerft voor de datum waarop zijn terugtrekking van kracht wordt. Uit handelingen en ontwikkelingen waartoe wordt besloten na zijn terugtrekking ontstaan geen verdere rechten of verplichtingen ten aanzien van dat deel van het programma waaraan hij niet langer bijdraagt, tenzij en voor zover anders is overeengekomen tussen de overblijvende Deelnemers en de zich terugtrekkende Deelnemer. De bepalingen van artikel XVII van het Verdrag tot oprichting van de Organisatie zijn mutatis mutandis van toepassing.
-
-3. Indien een niet-Lid-Staat die overeenkomstig het bepaalde in artikel XVII tot het programma is toegetreden, zich uit het programma wenst terug te trekken, is het bepaalde in dit artikel mutatis mutandis van toepassing.
-
-##### Artikel XXI
-
-De Bijlagen A en B bij deze Overeenkomst maken een integrerend deel daarvan uit.
-
-##### Artikel XXII
-
-1. Deze Overeenkomst kan worden gewijzigd op verzoek van een Deelnemer of van de Organisatie. Wijzigingen worden van kracht wanneer alle partijen de depot-Regering van hun goedkeuring in kennis hebben gesteld.
-
-2. De Bijlagen bij deze Overeenkomst kunnen worden gewijzigd door de Programmaraad overeenkomstig de bepalingen vervat in de herzieningsclausule van die Bijlagen.
-
-##### Artikel XXIII
-
-Zodra deze Overeenkomst in werking is getreden, laat de Regering van de Franse Republiek haar registreren bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel XXIV
-
-De Regering van de Franse Republiek treedt op als depositaris van deze Overeenkomst en stelt de Deelnemers en de Organisatie in kennis van de datum van inwerkingtreding van de Overeenkomst en van wijzigingen daarvan en van de nederlegging van alle akten van bekrachtiging, goedkeuring en toetreding en van verklaringen tot voorlopige toepassing van de Overeenkomst.
+The Government of the French Republic shall be the depositary of this Arrangement and shall notify the Participants and the Organisation of the date of entry into force of the Arrangement and any amendments thereto, and of all instruments of ratification, approval, accession and declaration of intent to apply the Arrangement provisionally.
 
 IN WITNESS WHEREOF the undersigned representatives, having been duly authorised thereto, have signed this Arrangement.
 

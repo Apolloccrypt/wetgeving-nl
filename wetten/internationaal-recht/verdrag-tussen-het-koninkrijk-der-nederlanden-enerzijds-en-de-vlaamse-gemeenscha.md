@@ -1,61 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, enerzijds en de Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium"
 identifier: "BWBV0003047"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-10-01"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003047"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003306363"
-version_id: "10003333882"
-internal_id: "C10008429281"
-label_id: "10003292184"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003047/2008-10-01/0"
-intitule_bron: "Trb.2005-316"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-28"
-intitule_published: "2005-12-23"
-intitule_in_force: "2008-09-22"
-intitule_status: "goed"
-original_publication: "Trb.2005-316"
-original_signed_date: "2008-08-28"
-original_published_date: "2005-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-316"
-entry_into_force_date: "2008-10-01"
-jci_1_3: "jci1.3:c:BWBV0003047&z=2008-10-01&g=2008-10-01"
-jci_1_0: "1.0:c:BWBV0003047&g=2008-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-08-28"
-entry_into_force: "2008-10-01"
+publicatiedatum: 2008-10-01
+laatste_update: 2008-10-01
+status: geldig
+toestand: 2008-10-01
+bron: "https://wetten.overheid.nl/BWBV0003047"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden, enerzijds en de Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds inzake de samenwerking op het gebied van het beleid en het beheer in het Schelde-estuarium
 
-Het Koninkrijk der Nederlanden, enerzijds,
-
-en
-
-De Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds,
-
-hierna te noemen „de Verdragsluitende Partijen’’,
-
-Verwijzend naar de lange en hechte samenwerking tussen enerzijds Nederland en anderzijds België en Vlaanderen, die haar aanvang heeft genomen bij de totstandkoming van het Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België van 19 april 1839,
-
-Overwegende dat krachtens het Protocol van besprekingen tussen Belgische, Luxemburgse en Nederlandse ministers in Luxemburg op 29, 30 en 31 januari 1948 de Technische Scheldecommissie werd opgericht, die werd belast met het uitvoeren van studies omtrent het beheer van de Schelde,
-
-Wensende de langdurige goede samenwerking in de Technische Scheldecommissie te versterken en te ontwikkelen door de oprichting van de Vlaams-Nederlandse Scheldecommissie,
-
-Overwegende dat de Vlaams-Nederlandse Scheldecommissie het gezamenlijk beleid en beheer van het Schelde-estuarium tot doel heeft,
-
-Overwegende dat de Verdragsluitende Partijen hun samenwerking wensen te richten op een dynamische ontwikkeling en optimalisatie van de veiligheid, de toegankelijkheid en de natuurlijkheid van het Schelde-estuarium, en met betrekking tot het beleid en het beheer van het Schelde-estuarium bijkomende verbintenissen wensen aan te gaan, die gestalte zullen krijgen in opeenvolgende plannen, programma’s en projecten,
-
-Overwegende dat de uitvoering van deze plannen, programma’s en projecten zal bijdragen tot het behoud van de fysieke systeemkenmerken van het Schelde-estuarium;
-
-komen het volgende overeen:
+*Het Koninkrijk der Nederlanden, enerzijds, en De Vlaamse Gemeenschap en het Vlaams Gewest, anderzijds, hierna te noemen „de Verdragsluitende Partijen’’, Verwijzend naar de lange en hechte samenwerking tussen enerzijds Nederland en anderzijds België en Vlaanderen, die haar aanvang heeft genomen bij de totstandkoming van het Tractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk België van 19 april 1839, Overwegende dat krachtens het Protocol van besprekingen tussen Belgische, Luxemburgse en Nederlandse ministers in Luxemburg op 29, 30 en 31 januari 1948 de Technische Scheldecommissie werd opgericht, die werd belast met het uitvoeren van studies omtrent het beheer van de Schelde, Wensende de langdurige goede samenwerking in de Technische Scheldecommissie te versterken en te ontwikkelen door de oprichting van de Vlaams-Nederlandse Scheldecommissie, Overwegende dat de Vlaams-Nederlandse Scheldecommissie het gezamenlijk beleid en beheer van het Schelde-estuarium tot doel heeft, Overwegende dat de Verdragsluitende Partijen hun samenwerking wensen te richten op een dynamische ontwikkeling en optimalisatie van de veiligheid, de toegankelijkheid en de natuurlijkheid van het Schelde-estuarium, en met betrekking tot het beleid en het beheer van het Schelde-estuarium bijkomende verbintenissen wensen aan te gaan, die gestalte zullen krijgen in opeenvolgende plannen, programma’s en projecten, Overwegende dat de uitvoering van deze plannen, programma’s en projecten zal bijdragen tot het behoud van de fysieke systeemkenmerken van het Schelde-estuarium; komen het volgende overeen:*
 
 ### Hoofdstuk I. INLEIDING
 
@@ -287,10 +245,10 @@ TEN BLIJKE WAARVAN de Gevolmachtigden van de Regeringen der Verdragsluitende Par
 
 ONDERTEKEND te Middelburg op 21 december 2005, in tweevoud in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 M. H. SCHULTZ
 
-**Voor de Vlaamse Gemeenschappen het Vlaams Gewest,**
+*Voor de Vlaamse Gemeenschappen het Vlaams Gewest,*
 
 K. PEETERS

@@ -1,51 +1,18 @@
 ---
 title: "Verdrag tussen de Lid-Staten van de Europese Gemeenschap inzake de tenuitvoerlegging van buitenlandse strafvonnissen"
 identifier: "BWBV0003140"
-country: "nl"
-rank: "verdrag"
-publication_date: "1997-12-09"
-last_updated: "1997-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003140"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003354873"
-version_id: "10003390732"
-internal_id: "C10008430031"
-label_id: "10003340624"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003140/1997-12-09/0"
-intitule_bron: "Trb.1992-39"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1992-03-19"
-intitule_status: "nogniet"
-original_publication: "Trb.1992-39"
-original_published_date: "1992-03-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-39"
-jci_1_3: "jci1.3:c:BWBV0003140&z=1997-12-09&g=1997-12-09"
-jci_1_0: "1.0:c:BWBV0003140&g=1997-12-09"
-citeertitel_status: "redactioneel"
-entry_into_force: "1992-03-19"
+laatste_update: 1997-12-09
+status: geldig
+toestand: 1997-12-09
+bron: "https://wetten.overheid.nl/BWBV0003140"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen de Lid-Staten van de Europese Gemeenschap inzake de tenuitvoerlegging van buitenlandse strafvonnissen
 
-De Lid-Staten,
-
-Gelet op de nauwe banden tussen hun volken;
-
-In overweging nemende het belang van een versterking van de justitiële samenwerking met het oog op het tot stand brengen van een Europese ruimte zonder binnengrenzen waarin het vrije verkeer van personen is gewaarborgd overeenkomstig de bepalingen van de [Europese Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0002951);
-
-Overtuigd dat de bestaande vormen van onderlinge internationale samenwerking in strafzaken dienen te worden aangevuld met bepalingen inzake de overdracht van de tenuitvoerlegging van strafvonnissen, in het bijzonder vonnissen waarbij vrijheidsbenemende en geldelijke sancties zijn opgelegd;
-
-Zich bewust van de noodzaak om bij de overdracht van de tenuitvoerlegging van strafvonnissen met de belangen van alle daarbij betrokken personen rekening te houden;
-
-Indachtig de [Verdragen van de Raad van Europa inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970, en [inzake de overbrenging van gevonniste personen](https://wetten.overheid.nl/jci1.3:c:BWBV0001039), gesloten te Straatsburg op 21 maart 1983,
-
-Zijn als volgt overeengekomen:
-
-Voor voorlopige toepassing zie ook Trb. 2009/38.
-
-In de verhouding tussen het Koninkrijk der Nederlanden (Nederland) en Duitsland.
+*De Lid-Staten, Gelet op de nauwe banden tussen hun volken; In overweging nemende het belang van een versterking van de justitiële samenwerking met het oog op het tot stand brengen van een Europese ruimte zonder binnengrenzen waarin het vrije verkeer van personen is gewaarborgd overeenkomstig de bepalingen van de Europese Akte; Overtuigd dat de bestaande vormen van onderlinge internationale samenwerking in strafzaken dienen te worden aangevuld met bepalingen inzake de overdracht van de tenuitvoerlegging van strafvonnissen, in het bijzonder vonnissen waarbij vrijheidsbenemende en geldelijke sancties zijn opgelegd; Zich bewust van de noodzaak om bij de overdracht van de tenuitvoerlegging van strafvonnissen met de belangen van alle daarbij betrokken personen rekening te houden; Indachtig de Verdragen van de Raad van Europa inzake de internationale geldigheid van strafvonnissen, gesloten te 's-Gravenhage op 28 mei 1970, en inzake de overbrenging van gevonniste personen, gesloten te Straatsburg op 21 maart 1983, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -165,7 +132,7 @@ De andere Lid-Staten kunnen de regel van wederkerigheid toepassen.
 
 Zodra de Staat van veroordeling de overdracht van de tenuitvoerlegging van een veroordeling tot een vrijheidsstraf heeft gevraagd of aanvaard, kan de Staat van tenuitvoerlegging de veroordeelde aanhouden of andere voorlopige maatregelen nemen, indien:
 
-- a. de wet van de Staat van tenuitvoerlegging voorlopige hechtenis of de toepassing van andere maatregelen toelaat uit hoofde van het strafbare feit terzake waarvan de veroordeling is uitgesproken, en
+- a de wet van de Staat van tenuitvoerlegging voorlopige hechtenis of de toepassing van andere maatregelen toelaat uit hoofde van het strafbare feit terzake waarvan de veroordeling is uitgesproken, en
 
 - b. er redenen bestaan te vrezen dat de veroordeelde zal ontvluchten.
 
@@ -217,7 +184,7 @@ De over te leggen stukken worden opgesteld in de officiële taal of één der of
 
 De Lid-Staten zien over en weer af van de terugvordering van kosten die voortvloeien uit de toepassing van dit Verdrag.
 
-##### Artikel 20. Verhouding tot het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970
+##### Artikel 20. Verhouding tot het Europees Verdrag inzake de internationale geldigheid van strafvonnissen, gesloten te 's-Gravenhage op 28 mei 1970
 
 In de verhoudingen tussen Lid-Staten die Partij zijn bij het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970, is het onderhavige Verdrag slechts van toepassing voor zover dit de bepalingen van dat Verdrag aanvult of de toepassing van de daarin vervatte beginselen vergemakkelijkt.
 

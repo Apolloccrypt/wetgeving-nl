@@ -1,38 +1,19 @@
 ---
 title: "Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
 identifier: "BWBV0003213"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-08-19"
-last_updated: "2007-06-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003213"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10003409423"
-version_id: "10003452462"
-internal_id: "C10008429651"
-label_id: "10003395434"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003213/2008-08-19/0"
-intitule_bron: "Trb.2008-193"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-10-03"
-intitule_in_force: "2008-10-03"
-intitule_status: "goed"
-original_publication: "Trb.2008-193"
-original_published_date: "2008-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-193"
-entry_into_force_date: "2008-08-19"
-jci_1_3: "jci1.3:c:BWBV0003213&z=2008-08-19&g=2008-08-19"
-jci_1_0: "1.0:c:BWBV0003213&g=2008-08-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-08-19"
+publicatiedatum: 2008-08-19
+laatste_update: 2008-08-19
+status: geldig
+toestand: 2008-08-19
+bron: "https://wetten.overheid.nl/BWBV0003213"
+opgehaald: 2026-09-13
 ---
+
 # Administratief Akkoord voor de uitvoering van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
 
-For the purpose of applying the [Convention on Social Security between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0001782) in accordance with the provisions of [Article 28(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=28), the competent authorities of the Parties have agreed the following.
+*For the purpose of applying the Convention on Social Security between the United Kingdom of Great Britain and Northern Ireland and the Kingdom of the Netherlands in accordance with the provisions of Article 28(1) of the Convention, the competent authorities of the Parties have agreed the following.*
 
 ### PART I. GENERAL PROVISIONS
 
@@ -46,19 +27,19 @@ For the purpose of applying the [Convention on Social Security between the Unite
 
 1. In accordance with [Article 28(3) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=28) the following bodies have been designated liaison offices between the competent authorities or competent institutions of both Parties for the purpose of applying the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782).
 
-- a). in the United Kingdom:
+- a) in the United Kingdom:
 
-- (i). in Great Britain and Northern Ireland For all contingencies including pension claims for Northern Ireland, except [Articles 7 to 13 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=7) and the provision of Great Britain insurance records for Sickness Benefit, Maternity Benefit and Unemployment Benefit, Department for Work and Pensions The Pension Service International Pension Centre Tyneview Park Newcastle upon Tyne England NE98 1BA; For [Articles 7 to 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=7) and to provide Great Britain insurance records for Sickness Benefit, Maternity Benefit and Unemployment Benefit, Her Majesty’s Revenue and Customs Charity, Assests, and Residence Benton Park View Newcastle upon Tyne England NE98 1ZZ
+   - (i) in Great Britain and Northern Ireland For all contingencies including pension claims for Northern Ireland, except [Articles 7 to 13 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=7) and the provision of Great Britain insurance records for Sickness Benefit, Maternity Benefit and Unemployment Benefit, Department for Work and Pensions The Pension Service International Pension Centre Tyneview Park Newcastle upon Tyne England NE98 1BA; For [Articles 7 to 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=7) and to provide Great Britain insurance records for Sickness Benefit, Maternity Benefit and Unemployment Benefit, Her Majesty’s Revenue and Customs Charity, Assests, and Residence Benton Park View Newcastle upon Tyne England NE98 1ZZ
 
-- (ii). In Northern Ireland: For all matter relating to benefits, other than pension claims Network Support Branch Overseas Benefit Unit Block 2, Castle Buildings Stormont, Belfast Northern Ireland BT4 3SP
+   - (ii) In Northern Ireland: For all matter relating to benefits, other than pension claims Network Support Branch Overseas Benefit Unit Block 2, Castle Buildings Stormont, Belfast Northern Ireland BT4 3SP
 
-- (iii). in the Isle of Man, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Department of Health and Social Security of the Isle of Man Markwell House Market Street Douglas Isle of Man; IM1 2RZ
+   - (iii) in the Isle of Man, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Department of Health and Social Security of the Isle of Man Markwell House Market Street Douglas Isle of Man; IM1 2RZ
 
-- (iv). In Jersey, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Employment and Social Security Department Philip Le Feuvre House La Motte Street St Helier Jersey Channel Islands; JE4 8PE
+   - (iv) In Jersey, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Employment and Social Security Department Philip Le Feuvre House La Motte Street St Helier Jersey Channel Islands; JE4 8PE
 
-- (v). in Guernsey, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Social Security Department Edward T Wheadon House Le Truchot St Peter Port Guernsey Channel Islands GY1 3WH
+   - (v) in Guernsey, For all provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782). Social Security Department Edward T Wheadon House Le Truchot St Peter Port Guernsey Channel Islands GY1 3WH
 
-- b). in the Netherlands: As regards [Article 3 b, under (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=3) legislation concerning sickness insurance providing for benefits in cash, including maternity, (iii) legislation concerning invalidity and (iv) legislation concerning unemployment insurance, Uitvoeringsinstituut werknemersverzekeringen (UWV) Hoofdkantoor- afdeling internationale zaken La Guardiaweg 94 1043 DL Amsterdam Nederland As regards [Article 3 b, under (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=3) legislation concerning old age and survivor’s insurance and (v)legislation concerning child benefits and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=8) Detached Workers, Sociale Verzekeringsbank (SVB) Van Heuven Goedhartlaan 1 Postbus 1100 1180 BH Amstelveen
+- b) in the Netherlands: As regards [Article 3 b, under (i)](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=3) legislation concerning sickness insurance providing for benefits in cash, including maternity, (iii) legislation concerning invalidity and (iv) legislation concerning unemployment insurance, Uitvoeringsinstituut werknemersverzekeringen (UWV) Hoofdkantoor- afdeling internationale zaken La Guardiaweg 94 1043 DL Amsterdam Nederland As regards [Article 3 b, under (iii)](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=3) legislation concerning old age and survivor’s insurance and (v)legislation concerning child benefits and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=8) Detached Workers, Sociale Verzekeringsbank (SVB) Van Heuven Goedhartlaan 1 Postbus 1100 1180 BH Amstelveen
 
 2. The competent authorities or competent institutions and the liaison offices may communicate directly with one another and with any person affected by the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782) or with his legal representative.
 
@@ -110,17 +91,17 @@ For the implementation of [Article 17 of the Convention](https://wetten.overheid
 
 1. Where a claim to benefit under the provisions of [Articles 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=19) and [24 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001782&artikel=24) is received by the competent authority, the competent institution or the liaison offices of one Party and it appears that there may be entitlement to benefit under the legislation of the other Party, details of the claim and all relevant information will be passed to other interested competent authorities or competent institutions or the liaison offices, as follows:
 
-- (i). Where the claim is made to one of the competent authorities in the United Kingdom that competent authority will;
+- (i) Where the claim is made to one of the competent authorities in the United Kingdom that competent authority will;
 
-- a). send two copies of the appropriate liaison form to the competent institution or liaison office in the Netherlands, or,
+   - a) send two copies of the appropriate liaison form to the competent institution or liaison office in the Netherlands, or,
 
-- b). liaise with any competent authority in the United Kingdom under whose legislation the claimant has been insured.The latter competent authority shall send two copies of the appropriate liaison form to the competent institution or the liaison office in the Netherlands. The competent institution or the liaison office in the Netherlands will return one copy of the liaison forms which it receives to the competent authority which issued the form.
+   - b) liaise with any competent authority in the United Kingdom under whose legislation the claimant has been insured.The latter competent authority shall send two copies of the appropriate liaison form to the competent institution or the liaison office in the Netherlands. The competent institution or the liaison office in the Netherlands will return one copy of the liaison forms which it receives to the competent authority which issued the form.
 
-- (ii). Where the claim is made to the competent institution or the liaison office in the Netherlands that competent institution or liaison office will;
+- (ii) Where the claim is made to the competent institution or the liaison office in the Netherlands that competent institution or liaison office will;
 
-- a). send two copies of the appropriate liaison form to each of the liaison offices or the competent authorities in the United Kingdom with which the claimant has been insured,
+   - a) send two copies of the appropriate liaison form to each of the liaison offices or the competent authorities in the United Kingdom with which the claimant has been insured,
 
-- b). where necessary, each of liaison offices or the competent authorities in the United Kingdom shall liaise to exchange insurance records.
+   - b) where necessary, each of liaison offices or the competent authorities in the United Kingdom shall liaise to exchange insurance records.
 
 Each of the competent authorities in the United Kingdom shall return one copy of the liaison forms to the liaison office or the competent institution in the Netherlands and provide the information requested.
 
@@ -178,40 +159,40 @@ This Administrative Agreement shall come into operation with retroactive effect 
 
 SIGNED,
 
-**On behalf of:**
+*On behalf of:*
 
-**Secretary of State for Social Affairs and Employment**
+*Secretary of State for Social Affairs and Employment*
 
 PIM WALDECK
 
-**Ambassador of the Kingdom of the Netherlands to the Court of St. James**
+*Ambassador of the Kingdom of the Netherlands to the Court of St. James*
 
 Date: 19-08-08
 
-**On behalf of:**
+*On behalf of:*
 
-**The Secretary of State for Work and Pensions**
+*The Secretary of State for Work and Pensions*
 
-**Department of Health and Social Services for Northern Ireland**
+*Department of Health and Social Services for Northern Ireland*
 
-**Department of Heath and Social Security of the Isle of Man**
+*Department of Heath and Social Security of the Isle of Man*
 
-**The Employment and Social Security Department of the States of Jersey**
+*The Employment and Social Security Department of the States of Jersey*
 
-**The Social Security Department of the States of Guernsey**
+*The Social Security Department of the States of Guernsey*
 
 GEOFF OGLE
 
-**Pension Centre Manager**
+*Pension Centre Manager*
 
-**International Pension Centre**
+*International Pension Centre*
 
 Date: 21-07-08
 
 STEVE RESZETNIAK
 
-**Senior Policy Advisor**
+*Senior Policy Advisor*
 
-**Customs and International Her Majesty’s Revenue and Customs**
+*Customs and International Her Majesty’s Revenue and Customs*
 
 Date: 23-07-08

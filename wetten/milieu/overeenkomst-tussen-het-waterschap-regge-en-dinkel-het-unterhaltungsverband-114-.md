@@ -1,46 +1,19 @@
 ---
-title: "Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 \"Vechte\" en het Wasser- und Bodenverband \"Rammelbecke\" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek"
+title: "Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 'Vechte' en het Wasser- und Bodenverband 'Rammelbecke' over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek"
 identifier: "BWBV0003895"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-01-07"
-last_updated: "1979-01-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003895"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003761453"
-version_id: "10003825922"
-internal_id: "C10006983121"
-label_id: "10003746344"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003895/1979-01-07/0"
-intitule_bron: "Trb.1978-56"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-05-16"
-intitule_in_force: "1979-04-02"
-intitule_status: "goed"
-original_publication: "Trb.1978-56"
-original_published_date: "1978-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-56"
-entry_into_force_date: "1979-01-07"
-jci_1_3: "jci1.3:c:BWBV0003895&z=1979-01-07&g=1979-01-07"
-jci_1_0: "1.0:c:BWBV0003895&g=1979-01-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-01-07"
+publicatiedatum: 1979-01-07
+laatste_update: 1979-01-07
+status: geldig
+toestand: 1979-01-07
+bron: "https://wetten.overheid.nl/BWBV0003895"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 "Vechte" en het Wasser- und Bodenverband "Rammelbecke" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek
 
-Het waterschap Regge en Dinkel in Almelo, in het onderstaande „waterschap” genoemd,
-
-en het Unterhaltungsverband 114 „Vechte” in Neuenhaus, in het onderstaande „Unterhaltungsverband” genoemd,
-
-en
-
-het Wasser- und Bodenverband „Rammelbecke” in Wengsel, in het onderstaande „Wasser- und Bodenverband” genoemd,
-
-sluiten op grond van de wenselijkheid de door de verbetering ontstane toestand van de Rammelbeek en de Oude Rammelbeek in de toekomst in stand te houden en de onbelemmerde afvoer van het water in overeenstemming met de afvoercapaciteit van het dwarsprofiel na de verbetering te verzekeren, gelet op hoofdstuk 4, Artikel 59 (2) van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
+*Het waterschap Regge en Dinkel in Almelo, in het onderstaande „waterschap” genoemd, en het Unterhaltungsverband 114 „Vechte” in Neuenhaus, in het onderstaande „Unterhaltungsverband” genoemd, en het Wasser- und Bodenverband „Rammelbecke” in Wengsel, in het onderstaande „Wasser- und Bodenverband” genoemd, sluiten op grond van de wenselijkheid de door de verbetering ontstane toestand van de Rammelbeek en de Oude Rammelbeek in de toekomst in stand te houden en de onbelemmerde afvoer van het water in overeenstemming met de afvoercapaciteit van het dwarsprofiel na de verbetering te verzekeren, gelet op hoofdstuk 4, Artikel 59 (2) van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -78,12 +51,12 @@ Het onderhoud van de brug in de zuidelijke kanaaldijk van het kanaal Almelo-Nord
 
 1. Voor het toezicht op de uitvoering van het onderhoud volgens de regels wordt een commissie van 4 leden gevormd, die als volgt is samengesteld:
 
-| a. | van Nederlandse zijde: |   |
+| a. | van Nederlandse zijde: |  |
 | --- | --- | --- |
-|   | waterschap Regge en Dinkel: | 2 vertegenwoordigers |
-| b. | van Duitse zijde: |   |
-|   | Unterhaltungsverband 114: | 1 vertegenwoordiger |
-|   | Wasser- und Bodenverband „Rammelbecke”: | 1 vertegenwoordiger |
+|  | waterschap Regge en Dinkel: | 2 vertegenwoordigers |
+| b. | van Duitse zijde: |  |
+|  | Unterhaltungsverband 114: | 1 vertegenwoordiger |
+|  | Wasser- und Bodenverband „Rammelbecke”: | 1 vertegenwoordiger |
 
 Het voorzitterschap berust jaarlijks afwisselend bij een vertegenwoordiger van de Nederlandse en de Duitse zijde, te beginnen met de eerstgenoemde. De toezichthoudende organen moeten worden uitgenodigd.
 
@@ -119,32 +92,32 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek
 
 GETEKEND te Almelo de 16e oktober 1975 op vijf originele stukken, elk in de Duitse en de Nederlandse taal, waarbij beide teksten gelijkelijk verbindend zijn.
 
-**Voor het waterschap Regge en Dinkel**
+*Voor het waterschap Regge en Dinkel*
 
-**Voorzitter,**
+*Voorzitter,*
 
 (w.g.) BIESHEUVEL
 
-**Secretaris,**
+*Secretaris,*
 
 (w.g.) EGBERTS
 
-**Voor het Unterhaltungsverband 114 „Vechte”**
+*Voor het Unterhaltungsverband 114 „Vechte”*
 
-**Verbandsvorsteher,**
+*Verbandsvorsteher,*
 
 (w.g.) SCHÖPPERT
 
-**Geschäfsführer,**
+*Geschäfsführer,*
 
 (w.g.) HEMKES
 
-**Voor het Wasser- und Bodenverband „Rammelbecke”**
+*Voor het Wasser- und Bodenverband „Rammelbecke”*
 
-**Verbandsvorsteher,**
+*Verbandsvorsteher,*
 
 (w.g.) J. BERGMANN
 
-**Vorstandsmitglied,**
+*Vorstandsmitglied,*
 
 (w.g.) H. KALDEWAY

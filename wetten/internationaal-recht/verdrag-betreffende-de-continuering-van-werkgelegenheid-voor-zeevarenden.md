@@ -1,165 +1,124 @@
 ---
 title: "Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden"
 identifier: "BWBV0003677"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-01-10"
-last_updated: "1980-01-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003677"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003644863"
-version_id: "10003705282"
-internal_id: "C10006981201"
-label_id: "10003630474"
-dtd_version: "2.0"
-original_entry_into_force: "1980-01-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003677/1980-01-10/0"
-intitule_bron: "Trb.1977-106"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-08-02"
-intitule_in_force: "1979-02-28"
-intitule_status: "goed"
-original_publication: "Trb.1977-106"
-original_published_date: "1977-08-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-106"
-entry_into_force_date: "1980-01-10"
-jci_1_3: "jci1.3:c:BWBV0003677&z=1980-01-10&g=1980-01-10"
-jci_1_0: "1.0:c:BWBV0003677&g=1980-01-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-01-10"
+publicatiedatum: 1980-01-10
+laatste_update: 1980-01-10
+status: geldig
+toestand: 1980-01-10
+bron: "https://wetten.overheid.nl/BWBV0003677"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Sixty-second Session on 13 October 1976, and Having noted the terms of Part IV (Regularity of Employment and Income) of the Employment of Seafarers (Technical Developments) Recommendation, 1970, and Having decided upon the adoption of certain proposals with regard to continuity of employment of seafarers, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, adopts this twenty-eighth day of October of the year one thousand nine hundred and seventy-six the following Convention, which may be cited as the Continuity of Employment (Seafarers) Convention, 1976:*
 
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaaal Arbeidsbureau en aldaar bijeengekomen in haar tweeënzestigste zitting op 13 oktober 1976,
+##### Article 1
 
-Gelet op de bepalingen van deel IV (Geregelde tewerkstelling en inkomsten) van de Aanbeveling betreffende de werkgelegenheidsproblemen voortvloeiend uit de technische ontwikkelingen aan boord van schepen, 1970;
+1. This Convention applies to persons who are regularly available for work as seafarers and who depend on their work as such for their main annual income.
 
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de continuering van werkgelegenheid voor zeevarenden, welk onderwerp als vierde punt op de agenda van de zitting voorkomt;
+2. For the purpose of this Convention the term “seafarers” means persons defined as such by national law or practice or by collective agreement who are normally employed as crew members on board a sea-going ship other than:
 
-Vastgesteld hebbende, dat deze voorstellen de vorm van een internationaal Verdrag dienen te krijgen;
+- (a) a ship of war;
 
-aanvaardt heden de achtentwintigste oktober negentienhonderd zesenzeventig het hierna volgende Verdrag, dat kan worden aangehaald als „Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden, 1976”:
+- (b) a ship engaged in fishing or in operations directly connected therewith or in whaling or in similar pursuits.
 
-##### Artikel 1
+3. National laws or regulations shall determine when ships are to be regarded as sea-going ships for the purpose of this Convention.
 
-1. Dit Verdrag is van toepassing op personen die regelmatig beschikbaar zijn voor arbeid als zeevarenden en die hun jaarlijks inkomen hoofdzakelijk uit deze arbeid verkrijgen.
+4. The organisations of employers and workers concerned shall be consulted on or otherwise participate in the establishment and revision of definitions in pursuance of paragraphs 2 and 3 of this Article.
 
-2. Voor de toepassing van dit Verdrag wordt onder de uitdrukking „zeevarenden” verstaan een ieder als zodanig aangemerkt door de nationale wetgeving, de nationale praktijk of door collectieve arbeidsovereenkomsten, die gewoonlijk als bemanningslid aan boord van een zeeschip is tewerkgesteld, behalve op
+##### Article 2
 
-- (a). een oorlogsschip;
+1. In each member State which has a maritime industry it shall be national policy to encourage all concerned to provide continuous or regular employment for qualified seafarers in so far as this is practicable and, in so doing, to provide shipowners with a stable and competent workforce.
 
-- (b). een schip dat wordt gebruikt voor de visvangst of daarmee direct verband houdende werkzaamheden of voor de walvisvangst of soortgelijke doeleinden.
+2. Every effort shall be made for seafarers to be assured minimum periods of employment, or either a minimum income or a monetary allowance, in a manner and to an extent depending on the economic and social situation of the country concerned.
 
-3. De nationale wetgeving bepaalt welke schepen voor de toepassing van dit Verdrag als zeeschepen dienen te worden beschouwd.
+##### Article 3
 
-4. De betrokken organisaties van werkgevers en werknemers worden geraadpleegd of nemen op andere wijze deel aan het opstellen en het herzien van de omschrijvingen krachtens het tweede en derde lid van dit artikel.
+Measures to achieve the objectives set out in Article 2 of this Convention might include:
 
-##### Artikel 2
+- (a) contracts or agreements providing for continuous or regular employment with a shipping undertaking or an association of shipowners; or
 
-1. In elke Lid-Staat die een maritieme bedrijfstak heeft, is het een zaak van nationaal beleid alle betrokkenen aan te moedigen om, voor zover mogelijk, een ononderbroken of regelmatige tewerkstelling voor vakbekwame zeevarenden te waarborgen en zodoende de reders van een bestendig en bekwaam arbeidspotentieel te voorzien.
+- (b) arrangements for the regularisation of employment by means of the establishment and maintenance of registers or lists, by categories, of qualified seafarers.
 
-2. Er zal krachtig naar worden gestreefd de zeevarenden te verzekeren van minimumtijdvakken van tewerkstelling, dan wel van een minimuminkomen of van een financiële uitkering, waarvan de aard en de omvang afhankelijk zullen zijn van de economische en sociale situatie van het betrokken land.
+##### Article 4
 
-##### Artikel 3
+1. Where the continuity of employment of seafarers is assured solely by the establishment and maintenance of registers or lists, these shall include all occupational categories of seafarers in a manner determined by national law or practice or by collective agreement.
 
-Maatregelen om de doelstellingen als vermeld in artikel 2 van dit Verdrag te verwezenlijken kunnen omvatten:
+2. Seafarers on such a register or list shall have priority of engagement for seafaring.
 
-- (a). contracten of overeenkomsten, die voorzien in ononderbroken en regelmatige tewerkstelling bij een scheepvaartonderneming of een vereniging van reders;
+3. Seafarers on such a register or list shall be required to be available for work in a manner to be determined by national law or practice or by collective agreement.
 
-- (b). voorzieningen ter regularisering van de werkgelegenheid door middel van het aanleggen en bijhouden van registers of lijsten ingedeeld naar categorieën van vakbekwame zeevarenden.
+##### Article 5
 
-##### Artikel 4
+1. To the extent that national laws or regulations permit, the strength of registers or lists of seafarers shall be periodically reviewed so as to achieve levels adapted to the needs of the maritime industry.
 
-1. Indien de continuering van werkgelegenheid voor zeevarenden alleen verzekerd is door het aanleggen en bijhouden van registers en lijsten, dienen deze alle beroepscategorieën van zeevarenden te omvatten zoals wordt bepaald door de nationale wetgeving of praktijk of door collectieve arbeidsovereenkomsten.
+2. When a reduction in the strength of such a register or list becomes necessary, all appropriate measures shall be taken to prevent or minimise detrimental effects on seafarers, account being taken of the economic and social situation of the country concerned.
 
-2. Zeevarenden die op zulk een register of lijst voorkomen genieten voorrang bij tewerkstelling in de zeevaart.
+##### Article 6
 
-3. Zeevarenden die op zulk een register of lijst voorkomen dienen zich voor arbeid beschikbaar te houden zoals wordt bepaald door de nationale wetgeving of praktijk of door collectieve arbeidsovereenkomsten.
+Each member State shall ensure that appropriate safety, health, welfare and vocational training provisions apply to seafarers.
 
-##### Artikel 5
+##### Article 7
 
-1. Voor zover de nationale wetgeving dit toelaat, dient het personeelsbestand van de registers of lijsten van zeevarenden regelmatig te worden herzien ten einde op een niveau te worden gebracht dat in overeenstemming is met de behoeften van de maritieme bedrijfstak.
+The provisions of this Convention shall, except in so far as they are otherwise made effective by means of collective agreements, arbitration awards, or in such other manner as may be consistent with national practice, be given effect by national laws or regulations.
 
-2. Wanneer een vermindering van het personeelsbestand van zulk een register of lijst noodzakelijk wordt, moeten alle noodzakelijke maatregelen worden getroffen om de nadelige gevolgen voor zeevarenden te voorkomen of te verzachten, waarbij rekening wordt gehouden met de economische en sociale situatie van het betrokken land.
+##### Article 8
 
-##### Artikel 6
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-Elke Lid-Staat draagt er zorg voor dat de ter zake dienende voorschriften betreffende de veiligheid, de hygiëne, het welzijn en de beroepsopleiding van de arbeiders worden toegepast op zeevarenden.
+##### Article 9
 
-##### Artikel 7
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-De bepalingen van dit Verdrag dienen, voor zover zij niet ten uitvoer worden gebracht door middel van collectieve arbeidsovereenkomsten, scheidsrechterlijke uitspraken of op andere wijze overeenkomstig de nationale praktijk, langs de weg van de nationale wetgeving te worden toegepast.
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-##### Artikel 8
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
+##### Article 10
 
-##### Artikel 9
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-1. Dit Verdrag is slechts bindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-2. Het treedt in werking twaalf maanden nadat de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+##### Article 11
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-##### Artikel 10
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum van zijn inwerkingtreding door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
+##### Article 12
 
-2. Ieder lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren onder de voorwaarden voorzien in dit artikel.
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-##### Artikel 11
+##### Article 13
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-2. Bij kennisgeving aan de Leden van de Organisatie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
+##### Article 14
 
-##### Artikel 12
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides:
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 10 above, if and when the new revising Convention shall have come into force;
 
-##### Artikel 13
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-##### Artikel 14
+##### Article 15
 
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag zal, tenzij het nieuwe Verdrag anders bepaalt:
-
-- (a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, **ipso jure** onmiddellijk opzegging van het onderhavige Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 10, onder voorbehoud evenwel, dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
-
-- (b). met ingang van de datum, waarop het nieuwe Verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
-
-2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 15
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
-
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
-
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau, en aldaar bijeengekomen in haar tweeënzestigste zitting op 13 oktober 1976;
-
-Gelet op de bepalingen van de Aanbeveling betreffende de werkgelegenheid voor zeevarenden (technische ontwikkelingen), 1970;
-
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de continuering van werkgelegenheid voor zeevarenden, welk onderwerp als vierde punt op de agenda van de Zitting voorkomt;
-
-Vastgesteld hebbende, dat deze voorstellen de vorm van een Aanbeveling dienen te krijgen, ter aanvulling van het Verdrag betreffende de continuering van werkgelegenheid voor zeevarenden, 1976;
-
-aanvaardt heden, de achtentwintigste oktober negentienhonderd zesenzeventig, de volgende Aanbeveling, die kan worden aangehaald als: „Aanbeveling betreffende de continuering van werkgelegenheid voor zeevarenden, 1976”:
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixty-second Session which was held at Geneva and declared closed the twenty-ninth day of October 1976.
 
 IN FAITH WHEREOF we have appended our signatures this eleventh day of November 1976.
 
-**The President of the Conference,**
+*The President of the Conference,*
 
 (sd.) MODOLV HAREIDE
 
-**The Director-General of the International Labour Office,**
+*The Director-General of the International Labour Office,*
 
 (sd.) FRANCIS BLANCHARD

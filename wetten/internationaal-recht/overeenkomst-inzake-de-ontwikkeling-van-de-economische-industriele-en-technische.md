@@ -1,135 +1,106 @@
 ---
 title: "Overeenkomst inzake de ontwikkeling van de economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek"
 identifier: "BWBV0003871"
-country: "nl"
-rank: "verdrag"
-publication_date: "1976-06-24"
-last_updated: "1976-06-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003871"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003755603"
-version_id: "10003818762"
-internal_id: "C10006983081"
-label_id: "10003740694"
-dtd_version: "2.0"
-original_entry_into_force: "1976-06-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003871/1976-06-24/0"
-intitule_bron: "Trb.1975-97"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-09-18"
-intitule_in_force: "1976-07-21"
-intitule_status: "goed"
-original_publication: "Trb.1975-97"
-original_published_date: "1975-09-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-97"
-entry_into_force_date: "1976-06-24"
-jci_1_3: "jci1.3:c:BWBV0003871&z=1976-06-24&g=1976-06-24"
-jci_1_0: "1.0:c:BWBV0003871&g=1976-06-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-06-24"
+publicatiedatum: 1976-06-24
+laatste_update: 1976-06-24
+status: geldig
+toestand: 1976-06-24
+bron: "https://wetten.overheid.nl/BWBV0003871"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake de ontwikkeling van de economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Hongaarse Volksrepubliek,
+*Le Gouvernement du Royaume des Pays-Bas et le Gouvernement de la République Populaire Hongroise, - se référant à l'Accord sur la coopération économique, industrielle et technique entre le Royaume des Pays-Bas et la République Populaire Hongroise du 14 février 1968, ainsi qu'à la participation des deux pays à l'Accord général sur les tarifs douaniers et le commerce (GATT), - désirant étendre et renforcer les relations économiques hungaro-néerlandaises par le développement de la coopération entre les deux pays, - convenant de l'intérêt d'adopter des dispositions à long terme afin d'offrir à la coopération économique bilatérale des perspectives stables, - reconnaissant l'importance de la coopération économique, industrielle, agricole et technique pour le développement et le renforcement de leurs relations économiques mutuelles, sont convenus de ce qui suit:*
 
-verwijzend naar de Overeenkomst inzake economische, industriële en technische samenwerking tussen het Koninkrijk der Nederlanden en de Hongaarse Volksrepubliek van 14 februari 1968, alsmede naar de deelname van beide landen aan de Algemene Overeenkomst betreffende Tarieven en Handel (GATT),
+##### Article 1
 
-verlangend de Hongaars-Nederlandse economische betrekkingen uit te breiden en te versterken door ontwikkeling van de samenwerking tussen beide landen,
+Le Gouvernement de la République Populaire Hongroise et le Gouvernement du Royaume des Pays-Bas encourageront et faciliteront dans un esprit libéral les efforts qui contribuent à la coopération économique, industrielle, agricole et technique entre les organisations économiques et entreprises intéressées des deux pays.
 
-erkennend het belang van het aannemen van langlopende regelingen die zijn gericht op een stabiele bilaterale economische samenwerking,
+Dans le cadre de leurs lois et règlements en vigueur, et compte tenu de leurs engagements internationaux, les Parties Contractantes s'assureront mutuellement le traitement le plus favorable dans le domaine de la coopération économique, industrielle, agricole et technique.
 
-erkennend het belang van de economische, industriële, landbouwkundige en technische samenwerking voor de ontwikkeling en de versteviging van hun wederzijdse economische betrekkingen,
+Les Parties Contractantes examineront les possibilités d'aplanir les obstacles qui peuvent entraver la réalisation des projets de coopération basés sur l'intérêt mutuel entre les organisations économiques et entreprises intéressées des deux pays.
 
-zijn overeengekomen als volgt:
+##### Article 2
 
-##### Artikel 1
+Les secteurs ou les projets dans lesquels des possibilités de coopération existent pourront être précisés par la Commission Mixte mentionnée à l'article 6.
 
-De Regering van de Hongaarse Volksrepubliek en de Regering van het Koninkrijk der Nederlanden bevorderen en vergemakkelijken in liberale zin de inspanningen die bijdragen tot de economische, industriële, landbouwkundige en technische samenwerking tussen de economische organisaties en de belanghebbende ondernemingen van beide landen.
+Les Parties Contractantes considèrent qu'il existe dans plusieurs domaines des possibilités pour une coopération mutuellement avantageuse entre les organisations économiques et les entreprises intéressées des deux pays.
 
-Op het gebied van de economische, industriële, landbouwkundige en technische samenwerking kennen de Overeenkomstsluitende Partijen elkaar de gunstigst mogelijke behandeling toe, zulks binnen de grenzen van de in hun landen van kracht zijnde wetten en voorschriften en rekening houdend met hun internationale verplichtingen.
+La Commission Mixte pourrait accorder un intérêt particulier aux domaines des industries mécaniques, de l'agriculture, de la machinerie agricole, de l'industrie légère, de l'industrie chimique et pharmaceutique, ainsi qu'à la prestation des services et des transports.
 
-De Overeenkomstsluitende Partijen onderzoeken de mogelijkheden om de belemmeringen uit de weg te ruimen die zich kunnen voordoen bij de verwezenlijking van de op het wederzijds belang gebaseerde projecten tot samenwerking tussen de economische organisaties en de belanghebbende ondernemingen van beide landen.
+##### Article 3
 
-##### Artikel 2
+Les Parties Contractantes favoriseront entre les organisations économiques et entreprises intéressées, établies dans leurs pays, entre autres:
 
-De sectoren of de projecten ten aanzien waarvan mogelijkheden tot samenwerking bestaan, kunnen nader worden aangeduid door de in artikel 6 bedoelde Gemengde Commissie.
+- a) la coopération en vue d'assurer une complémentarité mutuelle des biens produits et des prestations de services,
 
-De Overeenkomstsluitende Partijen menen dat er op verschillende gebieden mogelijkheden bestaan voor een wederzijds gunstige samenwerking tussen de economische organisaties en de belanghebbende ondernemingen van beide landen.
+- b) la coopération en vue de la commercialisation des produits et des prestations, soit sur leurs marchés internes soit sur les marchés tiers,
 
-De Gemengde Commissie zou een bijzonder belang kunnen hechten aan de gebieden van de mechanische industrie, de landbouw, de landbouwmachine-industrie, de lichte industrie, de chemische en farmaceutische industrie alsmede aan de dienstverlening en het vervoer.
+- c) l'élaboration de projets et la conduite de recherches concernant des installations, y compris les processus techniques,
 
-##### Artikel 3
+- d) l'organisation de consultations et de conférences entre experts,
 
-De Overeenkomstsluitende Partijen bevorderen tussen de economische organisaties en de belanghebbende ondernemingen die in hun landen zijn gevestigd, o.a.:
+- e) l'échange de documentations techniques, l'organisation de stages, la présentation de films techniques et l'organisation d'expositions, concernant la coopération économique, industrielle et technique.
 
-- a). de samenwerking die gericht is op het verzekeren van een wederzijdse aanvulling van produkten en dienstverlening,
+##### Article 4
 
-- b). de samenwerking bij het op de markt brengen van produkten en diensten, zowel op hun binnenlandse markten als op de markten van derde landen,
+Les contrats entre les organisations économiques et entreprises intéressées établies dans les territoires des Parties Contractantes, visant à assurer la réalisation de la coopération économique, industrielle, agricole et technique seront conclus conformément aux législations et règlements en vigueur dans les pays respectifs.
 
-- c). de uitwerking van projecten en het verrichten van research op het gebied van installaties, met inbegrip van technische werkwijzen,
+##### Article 5
 
-- d). de organisatie van beraadslagingen en conferenties van deskundigen,
+Les Parties Contractantes feront tous les efforts appropriés pour assurer que les objectifs du présent Accord soient pris en considération lors de la conclusion d'arrangements financiers et de crédit entre les institutions financières et bancaires afin que soient accordées, dans le cadre des réglementations en vigueur dans les deux pays, les conditions de crédit et de financement les plus favorables possibles.
 
-- e). de uitwisseling van technische documentatie, de organisatie van stages, het vertonen van technische films en het organiseren van tentoonstellingen betreffende de economische, industriële en technische samenwerking.
+##### Article 6
 
-##### Artikel 4
+Une Commission Mixte, composée des représentants des deux Gouvernements, des organisations économiques et entreprises intéressées, sera créée pour assurer la mise en oeuvre des dispositions du présent Accord. Elle se réunira une fois par an, alternativement à La Haye et à Budapest, ou à la demande d'une des Parties Contractantes.
 
-De contracten tussen de economische organisaties en belanghebbende ondernemingen op de grondgebieden van de Overeenkomstsluitende Partijen, die beogen de verwezenlijking van de economische, industriële, landbouwkundige en technische samenwerking te verzekeren, worden gesloten overeenkomstig de in beide landen van kracht zijnde wetten en voorschriften.
+Cette Commission est chargée, entre autres:
 
-##### Artikel 5
+- - d'organiser la mise en oeuvre du présent Accord et d'examiner toutes dispositions utiles à cet effet,
 
-De Overeenkomstsluitende Partijen streven er krachtig naar te verzekeren dat met de doelstellingen van deze Overeenkomst rekening wordt gehouden bij het aangaan van financiële regelingen en kredietregelingen tussen financiële instellingen en bankinstellingen opdat, binnen de grenzen van de in beide landen van kracht zijnde voorschriften, de gunstigst mogelijke krediet- en financieringsvoorwaarden worden toegekend.
+- - d'examiner les propositions visant le développement de la coopération économique, industrielle, agricole et technique,
 
-##### Artikel 6
+- - d'examiner l'exécution de cet Accord et de présenter aux Parties Contractantes toutes les propositions susceptibles de favoriser les objectifs de cet Accord et d'étudier les questions qui pourraient en surgir lors de l'application.
 
-Er wordt een Gemengde Commissie ingesteld, bestaande uit vertegenwoordigers van beide Regeringen, van de economische organisaties en de belanghebbende ondernemingen, om de tenuitvoerlegging van de bepalingen van deze Overeenkomst te verzekeren. Zij komt eenmaal per jaar bijeen, beurtelings te 's-Gravenhage en te Boedapest, of op verzoek van een der Overeenkomstsluitende Partijen.
+La Commission Mixte pourra constituer des groupes sectoriels auxquels seront confiés des problèmes spécifiques de la coopération, et qui rendront compte par écrit, à la Commission Mixte, de leurs activités.
 
-Deze Commissie is o.a. belast met:
+Entre deux sessions de la Commission Mixte, les problèmes relatifs aux relations mutuelles de coopération peuvent faire l'objet d'un examen sous forme de contacts directs ou par correspondance entre les autorités compétentes des Parties Contractantes, à désigner dans un échange de lettres lors de la signature du présent Accord.
 
-- -. het ten uitvoer leggen van deze Overeenkomst en het onderzoeken van alle hiertoe dienstige regelingen;
+##### Article 7
 
-- -. het onderzoeken van voorstellen gericht op de ontwikkeling van de economische, industriële, landbouwkundige en technische samenwerking,
+En ce qui concerne le Royaume des Pays-Bas, le présent Accord s'appliquera au Royaume tout entier, sauf notification contraire du Gouvernement du Royaume des Pays-Bas au Gouvernement de la République Populaire Hongroise dans un mois après l'entrée en vigueur du présent Accord.
 
-- -. het onderzoeken van de tenuitvoerlegging van deze Overeenkomst, het bij de Overeenkomstsluitende Partijen indienen van voorstellen waardoor de doelstellingen van deze Overeenkomst zouden kunnen worden bevorderd en het bestuderen van de vraagstukken die zich bij de toepassing ervan zouden kunnen voordoen.
+##### Article 8
 
-De Gemengde Commissie kan voor de verschillende sectoren groepen instellen die worden belast met de aanpak van de specifieke problemen van de samenwerking en die de Gemengde Commissie schriftelijk rekenschap afleggen van hun activiteiten.
+Le présent Accord n'affecte pas les accords et conventions bilatéraux et multilatéraux en vigueur, conclus auparavant par la République Populaire Hongroise et le Royaume des Pays-Bas.
 
-Tussen twee zittingen van de Gemengde Commissie in, kan door middel van mondeling of schriftelijk overleg tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, die bij de ondertekening van deze Overeenkomst door middel van een briefwisseling worden aangewezen, een onderzoek worden ingesteld naar de problemen betreffende hun wederzijdse betrekkingen op het gebied van de samenwerking.
+A cet égard, les Parties Contractantes procéderont le cas échéant à des consultations en vue de parvenir à un accord mutuel sans que toutefois celles-ci puissent remettre en cause les objectifs fondamentaux de cet Accord.
 
-##### Artikel 7
+##### Article 9
 
-Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst voor het gehele Koninkrijk, behoudens kennisgeving van het tegendeel door de Regering van het Koninkrijk der Nederlanden aan de Regering van de Hongaarse Volksrepubliek binnen een maand na de inwerkingtreding van deze Overeenkomst.
+Le présent Accord est conclu pour une période de 10 ans et entrera en vigueur à la date à laquelle les Parties Contractantes auront notifié l'une à l'autre que les formalités requises par leur législation respective ont été accomplies.
 
-##### Artikel 8
+A la date de son entrée en vigueur, le présent Accord remplacera l'Accord concernant la coopération économique, industrielle et technique, signé à Budapest le 14 février 1968, sans que toutefois ce remplacement puisse porter atteinte à ce qui a été convenu au sein de la Commission Mixte instituée par ce dernier Accord.
 
-Deze Overeenkomst is niet van invloed op van kracht zijnde eerder door de Hongaarse Volksrepubliek en het Koninkrijk der Nederlanden gesloten bilaterale en multilaterale overeenkomsten.
+Si l'une des Parties Contractantes n'entend pas proroger l'Accord, elle devra en aviser l'autre Partie Contractante par écrit au moins six mois avant l'expiration de cette période de 10 ans.
 
-Hieromtrent plegen de Overeenkomstsluitende Partijen in voorkomend geval overleg om tot overeenstemming te komen, evenwel zonder dat hierdoor de fundamentele doelstellingen van deze Overeenkomst mogen worden aangetast.
+A défaut de pareille notification, l'Accord est prorogé pour une période indéterminée à laquelle chaque Partie Contractante peut mettre fin moyennant préavis de six mois adressé par écrit à l'autre Partie Contractante.
 
-##### Artikel 9
+Le Gouvernement du Royaume des Pays-Bas est habilité, en observant le délai prévu aux paragraphes 3 et 4 de cet Article, à mettre fin à l'application du présent Accord pour une ou plusieurs parties du Royaume.
 
-Deze Overeenkomst wordt gesloten voor een tijdvak van tien jaar en treedt in werking op de dag waarop de Overeenkomstsluitende Partijen elkaar ervan in kennis hebben gesteld dat de door hun onderscheiden wetgevingen vereiste formaliteiten zijn vervuld.
-
-Deze Overeenkomst vervangt op de datum van haar inwerkingtreding de Overeenkomst inzake economische, industriële en technische samenwerking, ondertekend te Boedapest op 14 februari 1968, evenwel zonder dat hetgeen is overeengekomen binnen de bij laatstbedoelde Overeenkomst ingestelde Gemengde Commissie hierdoor kan worden aangetast.
-
-Indien een van de Overeenkomstsluitende Partijen deze Overeenkomst niet wenst te verlengen, dient zij de andere Overeenkomstsluitende Partij, uiterlijk zes maanden voor het verstrijken van het tijdvak van tien jaar, schriftelijk daarvan in kennis te stellen.
-
-Wanneer een zodanige kennisgeving niet is gedaan, wordt de Overeenkomst verlengd voor een onbepaalde termijn die elke Overeenkomstsluitende Partij kan beëindigen door de andere Overeenkomstsluitende Partij zes maanden tevoren schriftelijk daarvan in kennis te stellen.
-
-Met inachtneming van de in de derde en vierde alinea van dit artikel bedoelde termijn, kan de toepassing van deze Overeenkomst door de Regering van het Koninkrijk der Nederlanden worden beëindigd ten aanzien van één of meer delen van het Koninkrijk.
-
-Een eventuele beëindiging van deze Overeenkomst laat de lopende contracten tussen ondernemingen en economische organisaties van beide landen onverlet.
+L'expiration du présent Accord, si elle intervenait, ne porterait pas atteinte aux contrats en cours entre entreprises et organisations économiques des deux pays.
 
 EN FOI DE QUOI, les soussignés, dument autorisés à cet effet, ont signé le présent Accord.
 
 FAIT à Budapest, le 18 juillet 1975, en double exemplaire en langue française.
 
-**Pour le Gouvernement du Royaume des Pays-Bas**
+*Pour le Gouvernement du Royaume des Pays-Bas*
 
 (s.) R. F. M. LUBBERS
 
-**Pour le Gouvernement de la République Populaire Hongroise**
+*Pour le Gouvernement de la République Populaire Hongroise*
 
 (s.) JÓZSEF BIRÓ

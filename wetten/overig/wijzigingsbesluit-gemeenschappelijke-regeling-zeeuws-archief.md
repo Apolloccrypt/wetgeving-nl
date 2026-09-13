@@ -10,7 +10,7 @@ status: vervallen
 vervallen_op: 2026-09-10
 toestand: 2025-11-05
 bron: "https://wetten.overheid.nl/BWBR0051902"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 2 oktober 2025, nr. 54103422, houdende wijziging van de Gemeenschappelijke regeling Zeeuws Archief

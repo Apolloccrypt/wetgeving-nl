@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst tussen het Waterschap van de Berkel, de Teilnehmergemeinschaft der Flurbereinigung Vreden en het Wasser- und Bodenverband Grosse Mast-Gaxel over de verbetering en het onderhoud van de Beurzerbeek met enkele zijleidingen in het grensgebied"
 identifier: "BWBV0003890"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-09-22"
-last_updated: "1980-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003890"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003760263"
-version_id: "10003824752"
-internal_id: "C10006981571"
-label_id: "10003745174"
-dtd_version: "2.0"
-original_entry_into_force: "1980-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003890/1980-09-22/0"
-intitule_bron: "Trb.1979-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-07-10"
-intitule_in_force: "1981-07-10"
-intitule_status: "goed"
-original_publication: "Trb.1979-110"
-original_published_date: "1979-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-110"
-entry_into_force_date: "1980-09-22"
-jci_1_3: "jci1.3:c:BWBV0003890&z=1980-09-22&g=1980-09-22"
-jci_1_0: "1.0:c:BWBV0003890&g=1980-09-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-09-22"
+publicatiedatum: 1980-09-22
+laatste_update: 1980-09-22
+status: geldig
+toestand: 1980-09-22
+bron: "https://wetten.overheid.nl/BWBV0003890"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Waterschap van de Berkel, de Teilnehmergemeinschaft der Flurbereinigung Vreden en het Wasser- und Bodenverband Grosse Mast-Gaxel over de verbetering en het onderhoud van de Beurzerbeek met enkele zijleidingen in het grensgebied
 
-De Teilnehmergemeinschaft der Flurbereinigung Vreden, hierna ,,Teilnehmergemeinschaft” genoemd,
-
-vertegenwoordigd door den Vorsitzenden des Vorstandes herrn Julius Kneifel
-
-het Wasser- und Bodenverband Grosse Mast-Gaxel, hierna „Verband” genoemd,
-
-vertegenwoordigd door den Verbandsvorsteher herrn Georg Kersting
-
-en
-
-het Waterschap van de Berkel, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. Jan Baas
-
-sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
+*De Teilnehmergemeinschaft der Flurbereinigung Vreden, hierna ,,Teilnehmergemeinschaft” genoemd, vertegenwoordigd door den Vorsitzenden des Vorstandes herrn Julius Kneifel het Wasser- und Bodenverband Grosse Mast-Gaxel, hierna „Verband” genoemd, vertegenwoordigd door den Verbandsvorsteher herrn Georg Kersting en het Waterschap van de Berkel, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. Jan Baas sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -108,19 +77,19 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek
 
 GEDAAN te Borken/Lochem, de 19e oktober 1978 in zesvoud, elk in de Duitse en de Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het Waterschap**
+*Voor het Waterschap*
 
 (w.g.) JAN BAAS
 
 watergraaf
 
-**Voor de Teilnehmergemeinschaft**
+*Voor de Teilnehmergemeinschaft*
 
 (w.g.) JULIUS KNEIFEL
 
 Vorsitzenden
 
-**Voor het Verband**
+*Voor het Verband*
 
 (w.g.) GEORG KERSTING
 

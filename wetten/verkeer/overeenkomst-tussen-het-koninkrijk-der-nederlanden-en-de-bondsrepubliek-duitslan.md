@@ -1,60 +1,33 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequent-radio-installaties"
 identifier: "BWBV0003856"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-12-05"
-last_updated: "1984-12-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003856"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003751803"
-version_id: "10003814812"
-internal_id: "C10006980251"
-label_id: "10003736874"
-dtd_version: "2.0"
-original_entry_into_force: "1984-12-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003856/1984-12-05/0"
-intitule_bron: "Trb.1981-2"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1981-01-08"
-intitule_in_force: "1984-11-07"
-intitule_status: "goed"
-original_publication: "Trb.1981-2"
-original_published_date: "1981-01-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-2"
-entry_into_force_date: "1984-12-05"
-jci_1_3: "jci1.3:c:BWBV0003856&z=1984-12-05&g=1984-12-05"
-jci_1_0: "1.0:c:BWBV0003856&g=1984-12-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "1984-12-05"
+publicatiedatum: 1984-12-05
+laatste_update: 1984-12-05
+status: geldig
+toestand: 1984-12-05
+bron: "https://wetten.overheid.nl/BWBV0003856"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de gemeenschappelijke informatie en begeleiding van de scheepvaart in de Eemsmonding door middel van walradar- en hoogfrequent-radio-installaties
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland
-
-overwegende dat het wenselijk is de reeds tussen beide Overeenkomstsluitende Partijen bestaande samenwerking in de Eemsmonding uit te breiden en te verstevigen
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland overwegende dat het wenselijk is de reeds tussen beide Overeenkomstsluitende Partijen bestaande samenwerking in de Eemsmonding uit te breiden en te verstevigen zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
 In deze Overeenkomst wordt verstaan:
 
-- -. onder „informatie”, het verstrekken van inlichtingen die voor een veilige scheepvaart van belang zijn, met inbegrip van inlichtingen over weersomstandigheden en getijden, over storingen in de bebakening en over werkzaamheden aan en in het vaarwater;
+- - onder „informatie”, het verstrekken van inlichtingen die voor een veilige scheepvaart van belang zijn, met inbegrip van inlichtingen over weersomstandigheden en getijden, over storingen in de bebakening en over werkzaamheden aan en in het vaarwater;
 
-- -. onder „begeleiding” het verstrekken van inlichtingen over de op een bepaald ogenblik bestaande verkeerssituatie en de positie van de afzonderlijke schepen, alsmede het geven van adviezen ten behoeve van de navigatie; deze begeleiding vindt plaats bij verminderd zicht, bij andere ongunstige weersomstandigheden of op verzoek;
+- - onder „begeleiding” het verstrekken van inlichtingen over de op een bepaald ogenblik bestaande verkeerssituatie en de positie van de afzonderlijke schepen, alsmede het geven van adviezen ten behoeve van de navigatie; deze begeleiding vindt plaats bij verminderd zicht, bij andere ongunstige weersomstandigheden of op verzoek;
 
-- -. onder „Eemsmonding”, het gebied van de Eems buiten de havens, dat wordt bestreken door de walradarinstallaties waarop deze Overeenkomst betrekking heeft. Het bereik van de walradarinstallaties is in bijlage A beschreven en in bijlage B op een kaart aangeduid. De bijlagen vormen onderdeel van deze Overeenkomst. De grenzen van het bestreken gebied ten opzichte van de havens worden in de administratieve maatregel volgens artikel 5 vastgelegd;
+- - onder „Eemsmonding”, het gebied van de Eems buiten de havens, dat wordt bestreken door de walradarinstallaties waarop deze Overeenkomst betrekking heeft. Het bereik van de walradarinstallaties is in bijlage A beschreven en in bijlage B op een kaart aangeduid. De bijlagen vormen onderdeel van deze Overeenkomst. De grenzen van het bestreken gebied ten opzichte van de havens worden in de administratieve maatregel volgens artikel 5 vastgelegd;
 
-- -. onder „Eems-Dollardverdrag”, het op 8 april 1960 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding gesloten Verdrag met bijlagen en slotprotocol;
+- - onder „Eems-Dollardverdrag”, het op 8 april 1960 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding gesloten Verdrag met bijlagen en slotprotocol;
 
-- -. onder „bevoegde autoriteiten”, de autoriteiten waaraan ingevolge het nationale recht van elk der Overeenkomstsluitende Partijen de uitvoering en uitoefening van de taken en bevoegdheden bedoeld in deze Overeenkomst zijn opgedragen. De Overeenkomstsluitende Partijen zullen elkaar mededelen welke deze autoriteiten zijn.
+- - onder „bevoegde autoriteiten”, de autoriteiten waaraan ingevolge het nationale recht van elk der Overeenkomstsluitende Partijen de uitvoering en uitoefening van de taken en bevoegdheden bedoeld in deze Overeenkomst zijn opgedragen. De Overeenkomstsluitende Partijen zullen elkaar mededelen welke deze autoriteiten zijn.
 
 ##### Artikel 2
 
@@ -132,11 +105,11 @@ Indien aan de walradar- en de hoogfrequent-radio-installaties bouwkundige of tec
 
 De taak van de Permanente Commissie omvat:
 
-- a). het coördineren van alle maatregelen ten behoeve van de oprichting, het onderhoud, het in bedrijf houden alsmede van de bouwkundige of technische wijzigingen van de walradarhoogfrequent-radio-installaties;
+- a) het coördineren van alle maatregelen ten behoeve van de oprichting, het onderhoud, het in bedrijf houden alsmede van de bouwkundige of technische wijzigingen van de walradarhoogfrequent-radio-installaties;
 
-- b). het opstellen van het in artikel 3, vijfde lid, genoemde bedrijfsreglement, het in artikel 5, derde lid, genoemde dienstreglement, alsmede het in artikel 11, vierde lid, genoemde reglement van orde;
+- b) het opstellen van het in artikel 3, vijfde lid, genoemde bedrijfsreglement, het in artikel 5, derde lid, genoemde dienstreglement, alsmede het in artikel 11, vierde lid, genoemde reglement van orde;
 
-- c). het uitvoeren van andere met de installaties, de informatie en de begeleiding verband houdende werkzaamheden, die haar door de bevoegde autoriteiten worden opgedragen.
+- c) het uitvoeren van andere met de installaties, de informatie en de begeleiding verband houdende werkzaamheden, die haar door de bevoegde autoriteiten worden opgedragen.
 
 ##### Artikel 13
 
@@ -178,10 +151,10 @@ Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor 
 
 GEDAAN te Bonn op 9 december 1980, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) D. W. VAN LYNDEN
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 (w.g.) LAUTENSCHLAGER

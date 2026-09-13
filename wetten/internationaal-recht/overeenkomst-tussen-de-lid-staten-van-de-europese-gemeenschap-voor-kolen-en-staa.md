@@ -1,70 +1,19 @@
 ---
 title: "Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds"
 identifier: "BWBV0003724"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-01-01"
-last_updated: "1975-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003724"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003670453"
-version_id: "10003730942"
-internal_id: "C10006982781"
-label_id: "10003655854"
-dtd_version: "2.0"
-original_entry_into_force: "1975-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003724/1975-01-01/0"
-intitule_bron: "Trb.1973-144"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-10-03"
-intitule_in_force: "1975-01-15"
-intitule_status: "goed"
-original_publication: "Trb.1973-144"
-original_published_date: "1973-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-144"
-entry_into_force_date: "1975-01-01"
-jci_1_3: "jci1.3:c:BWBV0003724&z=1975-01-01&g=1975-01-01"
-jci_1_0: "1.0:c:BWBV0003724&g=1975-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-01-01"
+publicatiedatum: 1975-01-01
+laatste_update: 1975-01-01
+status: geldig
+toestand: 1975-01-01
+bron: "https://wetten.overheid.nl/BWBV0003724"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds
 
-Het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Lid-Staten van de Europese Gemeenschap voor Kolen en Staal,
-
-en de Europese Gemeenschap voor Kolen en Staal,
-
-enerzijds,
-
-en het Koninkrijk Noorwegen,
-
-anderzijds,
-
-Overwegende dat de Europese Economische Gemeenschap en het Koninkrijk Noorwegen een overeenkomst sluiten betreffende de sectoren die onder deze Gemeenschap ressorteren,
-
-Dezelfde doeleinden nastrevende en geleid door de wens voor de sector die onder de Europese Gemeenschap voor Kolen en Staal ressorteert soortgelijke oplossingen te vinden,
-
-Hebben besloten, ter verwezenlijking van deze doeleinden en overwegende dat geen der bepalingen van deze overeenkomst zodanig kan worden uitgelegd dat de Partijen bij de overeenkomst daardoor worden ontslagen van de krachtens andere internationale overeenkomsten op hen rustende verplichtingen, deze overeenkomst te sluiten:
+*Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Lid-Staten van de Europese Gemeenschap voor Kolen en Staal, en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds, Overwegende dat de Europese Economische Gemeenschap en het Koninkrijk Noorwegen een overeenkomst sluiten betreffende de sectoren die onder deze Gemeenschap ressorteren, Dezelfde doeleinden nastrevende en geleid door de wens voor de sector die onder de Europese Gemeenschap voor Kolen en Staal ressorteert soortgelijke oplossingen te vinden, Hebben besloten, ter verwezenlijking van deze doeleinden en overwegende dat geen der bepalingen van deze overeenkomst zodanig kan worden uitgelegd dat de Partijen bij de overeenkomst daardoor worden ontslagen van de krachtens andere internationale overeenkomsten op hen rustende verplichtingen, deze overeenkomst te sluiten:*
 
 ##### Artikel 1
 
@@ -76,9 +25,9 @@ Deze overeenkomst is van toepassing op de in de bijlage genoemde produkten die o
 
 2. De invoerrechten worden geleidelijk afgeschaft en wel in het volgende tempo:
 
-- -. op de datum van inwerkingtreding van de overeenkomst wordt elk recht verlaagd tot 80% van het basisrecht;
+- - op de datum van inwerkingtreding van de overeenkomst wordt elk recht verlaagd tot 80% van het basisrecht;
 
-- -. de andere vier verlagingen, telkens met 20%, vinden plaats op: 1 januari 1974 1 januari 1975 1 januari 1976 1 juli 1977.
+- - de andere vier verlagingen, telkens met 20%, vinden plaats op: 1 januari 1974 1 januari 1975 1 januari 1976 1 juli 1977.
 
 ##### Artikel 3
 
@@ -106,9 +55,9 @@ Elke heffing van gelijke werking als een invoerrecht, die op 31 december 1972 ho
 
 3. Heffingen van gelijke werking als invoerrechten worden geleidelijk afgeschaft, en wel in het volgende tempo:
 
-- -. elke heffing wordt uiterlijk 1 januari 1974 verlaagd tot 60% van die welke op 1 januari 1972 werd toegepast;
+- - elke heffing wordt uiterlijk 1 januari 1974 verlaagd tot 60% van die welke op 1 januari 1972 werd toegepast;
 
-- -. de andere drie verlagingen, telkens met 20%, vinden plaats op: 1 januari 1975 1 januari 1976 1 juli 1977.
+- - de andere drie verlagingen, telkens met 20%, vinden plaats op: 1 januari 1975 1 januari 1976 1 juli 1977.
 
 ##### Artikel 6
 
@@ -184,11 +133,11 @@ Indien een Partij bij de overeenkomst van mening is dat de andere Partij een ver
 
 1. Onverenigbaar met de goede werking van de overeenkomst zijn, voor zover daardoor het handelsverkeer tussen de Gemeenschap en Noorwegen kan worden beïnvloed:
 
-- i). alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen welke ertoe strekken of ten gevolge hebben dat de mededinging met betrekking tot de produktie en het goederenverkeer wordt verhinderd, beperkt of vervalst;
+- i) alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen welke ertoe strekken of ten gevolge hebben dat de mededinging met betrekking tot de produktie en het goederenverkeer wordt verhinderd, beperkt of vervalst;
 
-- ii). het misbruik maken door een of meer ondernemingen van een machtspositie op het geheel van de grondgebieden van de Partijen bij de overeenkomst of op een wezenlijk deel daarvan;
+- ii) het misbruik maken door een of meer ondernemingen van een machtspositie op het geheel van de grondgebieden van de Partijen bij de overeenkomst of op een wezenlijk deel daarvan;
 
-- iii). alle steunmaatregelen van de overheid die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde produkties vervalsen of dreigen te vervalsen.
+- iii) alle steunmaatregelen van de overheid die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde produkties vervalsen of dreigen te vervalsen.
 
 2. Indien een Partij bij de overeenkomst van mening is dat een bepaalde gedraging onverenigbaar is met dit artikel, kan zij passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
@@ -198,13 +147,13 @@ Indien een Partij bij de overeenkomst van mening is dat de andere Partij een ver
 
 2. Inzake prijzen waarborgt Noorwegen wat betreft de leveringen van onder de overeenkomst vallende produkten van hoofdstuk 73 van de Naamlijst van Brussel op het Noorse grondgebied en naar de Gemeenschappelijke Markt door de aan zijn jurisdictie onderworpen ondernemingen:
 
-- -. de naleving van het verbod van oneerlijke concurrentie;
+- - de naleving van het verbod van oneerlijke concurrentie;
 
-- -. de naleving van het non-discriminatiebeginsel,
+- - de naleving van het non-discriminatiebeginsel,
 
-- -. de bekendmaking van de prijzen vanaf het gekozen pariteitspunt en van de verkoopvoorwaarden,
+- - de bekendmaking van de prijzen vanaf het gekozen pariteitspunt en van de verkoopvoorwaarden,
 
-- -. de naleving van de aanpassingsregels,
+- - de naleving van de aanpassingsregels,
 
 en draagt hiertoe zorg voor een voldoende doorzichtigheid van de vervoerprijzen.
 
@@ -216,9 +165,9 @@ Met betrekking tot de leveringen naar de Ierse markt waarborgt Noorwegen bovendi
 
 De Gemeenschap heeft Noorwegen in kennis gesteld van de lijst van de ter uitvoering van artikel 60 genomen besluiten, van de besluiten ad hoc betreffende het aanpassingsverbod, alsmede van de overgangsbepalingen betreffende de Deense en de Ierse markt. Zij zal tevens kennis geven van alle eventuele wijzigingen van bovengenoemde besluiten, onmiddellijk nadat deze wijzigingen zijn aangenomen.
 
-- a). Voor wat punt c) van lid 2 betreft kan Noorwegen, voor de leveringen op het Noorse grondgebied, de onder zijn jurisdictie vallende ijzer- en staalbedrijven machtigen prijzen franco-bestemming toe te passen, zonder dat daarbij met het gekozen pariteitspunt rekening wordt gehouden. Noorwegen waarborgt in dat geval dat de verkoopprijzen per bestemming en de verkoopwaarden door die bedrijven worden bekendgemaakt.
+3. - a) Voor wat punt c) van lid 2 betreft kan Noorwegen, voor de leveringen op het Noorse grondgebied, de onder zijn jurisdictie vallende ijzer- en staalbedrijven machtigen prijzen franco-bestemming toe te passen, zonder dat daarbij met het gekozen pariteitspunt rekening wordt gehouden. Noorwegen waarborgt in dat geval dat de verkoopprijzen per bestemming en de verkoopwaarden door die bedrijven worden bekendgemaakt.
 
-- b). In verband met de naleving van het in punt b) van lid 2 genoemde non-discriminatiebeginsel moeten de prijzen franco-bestemming in overeenstemming zijn met de prijzen vanaf het pariteitspunt dat is gekozen voor de leveringen op het grondgebied van de Europese Gemeenschap voor Kolen en Staal.
+- b) In verband met de naleving van het in punt b) van lid 2 genoemde non-discriminatiebeginsel moeten de prijzen franco-bestemming in overeenstemming zijn met de prijzen vanaf het pariteitspunt dat is gekozen voor de leveringen op het grondgebied van de Europese Gemeenschap voor Kolen en Staal.
 
 4. Indien de aanbiedingen van Noorse ondernemingen aan de goede werking van de markt van de Gemeenschap schade berokkenen, of daarvoor gevaar bestaat, of indien de aanbiedingen van onder de Gemeenschap ressorterende ondernemingen aan de goede werking van de Noorse markt schade berokkenen, of daarvoor gevaar bestaat, en indien deze schade te wijten is aan verschillen in toepassing van de op grond van de leden 1, 2 en 3 vastgestelde regels, of aan schending van deze regels door de betrokken ondernemingen, kan de betrokken Partij bij de overeenkomst overeenkomstig de voorwaarden en procedures van artikel 24 de vereiste maatregelen treffen.
 
@@ -226,9 +175,9 @@ De Gemeenschap heeft Noorwegen in kennis gesteld van de lijst van de ter uitvoer
 
 Wanneer de toename van de invoer van een bepaald produkt ernstig nadeel berokkent of dreigt te berokkenen aan een op het grondgebied van een der Partijen bij de overeenkomst uitgeoefende produktieve bedrijvigheid, en indien deze toename te wijten is aan
 
-- -. de in de overeenkomst bedoelde gedeeltelijke of algehele verlaging van de douanerechten en heffingen van gelijke werking op dit produkt, in de invoerende Partij bij de overeenkomst,
+- - de in de overeenkomst bedoelde gedeeltelijke of algehele verlaging van de douanerechten en heffingen van gelijke werking op dit produkt, in de invoerende Partij bij de overeenkomst,
 
-- -. en het feit dat de rechten en heffingen van gelijke werking die door de uitvoerende Partij bij de overeenkomst worden geheven bij invoer van grondstoffen of halffabrikaten die voor de vervaardiging van het betrokken produkt worden gebruikt, aanzienlijk lager zijn dan de door de invoerende Partij geheven overeenkomstige rechten en belastingen,
+- - en het feit dat de rechten en heffingen van gelijke werking die door de uitvoerende Partij bij de overeenkomst worden geheven bij invoer van grondstoffen of halffabrikaten die voor de vervaardiging van het betrokken produkt worden gebruikt, aanzienlijk lager zijn dan de door de invoerende Partij geheven overeenkomstige rechten en belastingen,
 
 kan de betrokken Partij passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
@@ -252,19 +201,19 @@ De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van het Gemengd 
 
 3. Voor de tenuitvoerlegging van lid 2 zijn de onderstaande bepalingen van toepassing:
 
-- a). Wat betreft artikel 19 kan elke Partij bij de overeenkomst zich wenden tot het Gemengd Comité, indien zij van mening is dat een bepaalde gedraging onverenigbaar is met de goede werking van de overeenkomst in de zin van artikel 19, lid 1. De Partijen bij de overeenkomst brengen alle dienstige inlichtingen ter kennis van het Gemengd Comité en verlenen dit Comité de noodzakelijke bijstand met het oog op de bestudering van het dossier en eventueel de opheffing van de aangevochten gedraging. Indien de betrokken Partij bij de overeenkomst binnen de in het Gemengd Comité vastgestelde termijn geen einde heeft gemaakt aan de aangevochten gedragingen, of indien in dit Comité binnen drie maanden vanaf de dag waarop het op de hoogte is gesteld geen overeenstemming wordt bereikt, kan de betrokken Partij de vrijwaringsmaatregelen nemen die zij noodzakelijk acht om de door de bedoelde gedragingen ontstane ernstige moeilijkheden te verhelpen, en met name tot intrekking van tariefconcessies overgaan.
+- a) Wat betreft artikel 19 kan elke Partij bij de overeenkomst zich wenden tot het Gemengd Comité, indien zij van mening is dat een bepaalde gedraging onverenigbaar is met de goede werking van de overeenkomst in de zin van artikel 19, lid 1. De Partijen bij de overeenkomst brengen alle dienstige inlichtingen ter kennis van het Gemengd Comité en verlenen dit Comité de noodzakelijke bijstand met het oog op de bestudering van het dossier en eventueel de opheffing van de aangevochten gedraging. Indien de betrokken Partij bij de overeenkomst binnen de in het Gemengd Comité vastgestelde termijn geen einde heeft gemaakt aan de aangevochten gedragingen, of indien in dit Comité binnen drie maanden vanaf de dag waarop het op de hoogte is gesteld geen overeenstemming wordt bereikt, kan de betrokken Partij de vrijwaringsmaatregelen nemen die zij noodzakelijk acht om de door de bedoelde gedragingen ontstane ernstige moeilijkheden te verhelpen, en met name tot intrekking van tariefconcessies overgaan.
 
-- b). Met betrekking tot artikel 20 brengen de Partijen bij de overeenkomst alle dienstige inlichtingen ter kennis van het Gemengd Comité en verlenen dit Comité de noodzakelijke bijstand met het oog op de bestudering van het dossier, en eventueel een passende sanctie op de betrokken gedraging. Wanneer in het Gemengd Comité geen overeenstemming wordt bereikt of, al naar het geval, wanneer tegen de in gebreke gebleven onderneming geen bevredigende sanctie wordt getroffen, kan de betrokken Partij bij de overeenkomst de maatregelen treffen die zij nodig acht ter ondervanging van de door de verschillen in toepassing of door de schending van de regels veroorzaakte moeilijkheden en van de risico's van distorsie van de mededinging. Deze maatregelen kunnen met name bestaan uit intrekking van tariefconcessies en het verlenen aan de betrokken ondernemingen van ontheffing van de verplichting tot naleving van de prijsvoorschriften bij hun transacties op de markt van de andere Partij. De vrijwaringsmaatregelen worden onmiddellijk ter kennis gebracht van het Gemengd Comité, dat daarover periodiek overleg pleegt, met name met het oog op de opheffing ervan zodra de omstandigheden zulks toelaten. In dringende gevallen kan de betrokken Partij bij de overeenkomst de andere Partij rechtstreeks verzoeken om: Indien de betrokken Partij bij de overeenkomst de zaak niet tot haar voldoening geregeld acht, legt zij de in het Gemengd Comité vastgestelde procedure ten uitvoer.
+- b) Met betrekking tot artikel 20 brengen de Partijen bij de overeenkomst alle dienstige inlichtingen ter kennis van het Gemengd Comité en verlenen dit Comité de noodzakelijke bijstand met het oog op de bestudering van het dossier, en eventueel een passende sanctie op de betrokken gedraging. Wanneer in het Gemengd Comité geen overeenstemming wordt bereikt of, al naar het geval, wanneer tegen de in gebreke gebleven onderneming geen bevredigende sanctie wordt getroffen, kan de betrokken Partij bij de overeenkomst de maatregelen treffen die zij nodig acht ter ondervanging van de door de verschillen in toepassing of door de schending van de regels veroorzaakte moeilijkheden en van de risico's van distorsie van de mededinging. Deze maatregelen kunnen met name bestaan uit intrekking van tariefconcessies en het verlenen aan de betrokken ondernemingen van ontheffing van de verplichting tot naleving van de prijsvoorschriften bij hun transacties op de markt van de andere Partij. De vrijwaringsmaatregelen worden onmiddellijk ter kennis gebracht van het Gemengd Comité, dat daarover periodiek overleg pleegt, met name met het oog op de opheffing ervan zodra de omstandigheden zulks toelaten. In dringende gevallen kan de betrokken Partij bij de overeenkomst de andere Partij rechtstreeks verzoeken om: Indien de betrokken Partij bij de overeenkomst de zaak niet tot haar voldoening geregeld acht, legt zij de in het Gemengd Comité vastgestelde procedure ten uitvoer.
 
-- -. onmiddellijk een einde te maken aan de aangevochten gedraging,
+   - - onmiddellijk een einde te maken aan de aangevochten gedraging,
 
-- -. een procedure voor het treffen van sancties tegen de in gebreke gebleven onderneming in te leiden.
+   - - een procedure voor het treffen van sancties tegen de in gebreke gebleven onderneming in te leiden.
 
-- c). Wat betreft artikel 21 worden de moeilijkheden die worden veroorzaakt door de in dat artikel bedoelde situatie voor onderzoek ter kennis gebracht van het Gemengd Comité, dat elk dienstig besluit kan nemen om daaraan een einde te maken. Indien het Gemengd Comité of de uitvoerende Partij bij de overeenkomst binnen dertig dagen na de kennisgeving geen besluit heeft genomen waardoor een einde aan de moeilijkheden wordt gemaakt, is de invoerende Partij gerechtigd een compenserende heffing op het ingevoerde produkt toe te passen. Deze compenserende heffing wordt berekend naar gelang van de invloed van de voor de verwerkte grondstoffen of halffabrikaten geconstateerde tariefverschillen op de waarde van de betrokken goederen.
+- c) Wat betreft artikel 21 worden de moeilijkheden die worden veroorzaakt door de in dat artikel bedoelde situatie voor onderzoek ter kennis gebracht van het Gemengd Comité, dat elk dienstig besluit kan nemen om daaraan een einde te maken. Indien het Gemengd Comité of de uitvoerende Partij bij de overeenkomst binnen dertig dagen na de kennisgeving geen besluit heeft genomen waardoor een einde aan de moeilijkheden wordt gemaakt, is de invoerende Partij gerechtigd een compenserende heffing op het ingevoerde produkt toe te passen. Deze compenserende heffing wordt berekend naar gelang van de invloed van de voor de verwerkte grondstoffen of halffabrikaten geconstateerde tariefverschillen op de waarde van de betrokken goederen.
 
-- d). Wat betreft artikel 22 vindt een raadpleging in het Gemengd Comité plaats alvorens de betrokken Partij bij de overeenkomst de passende maatregelen neemt.
+- d) Wat betreft artikel 22 vindt een raadpleging in het Gemengd Comité plaats alvorens de betrokken Partij bij de overeenkomst de passende maatregelen neemt.
 
-- e). Indien uitzonderlijke omstandigheden die een onmiddellijk ingrijpen vereisen een voorafgaand onderzoek uitsluiten, kan de betrokken Partij bij de overeenkomst, in de situaties, bedoeld in de artikelen 21, 22 en 23, alsmede in gevallen van steunmaatregelen bij uitvoer die een rechtstreekse en onmiddellijke invloed op het handelsverkeer hebben, onverwijld de strikt noodzakelijke beschermende maatregelen nemen om de situatie te verhelpen.
+- e) Indien uitzonderlijke omstandigheden die een onmiddellijk ingrijpen vereisen een voorafgaand onderzoek uitsluiten, kan de betrokken Partij bij de overeenkomst, in de situaties, bedoeld in de artikelen 21, 22 en 23, alsmede in gevallen van steunmaatregelen bij uitvoer die een rechtstreekse en onmiddellijke invloed op het handelsverkeer hebben, onverwijld de strikt noodzakelijke beschermende maatregelen nemen om de situatie te verhelpen.
 
 ##### Artikel 25
 
@@ -323,56 +272,5 @@ Deze overeenkomst wordt door de Partijen bij de overeenkomst goedgekeurd volgens
 Zij treedt in werking op 1 juli 1973, mits de Partijen bij de overeenkomst elkaar vóór die datum kennis hebben gegeven van de voltooiing van de daartoe vereiste procedures.
 
 Na die datum treedt deze overeenkomst in werking op de eerste dag van de tweede maand, volgende op deze kennisgeving. De uiterste datum voor deze kennisgeving is 30 november 1974.
-
-##### Artikel 1
-
-1. De douanerechten bij invoer in de Gemeenschap in haar oorspronkelijke samenstelling en in Ierland van het volgende produkt:
-
-| No. van het gemeenschappelijk douanetarief | Omschrijving |
-| --- | --- |
-| 73.02 | Ferrolegeringen: |
-
-worden geleidelijk, in onderstaand tempo, teruggebracht tot de hieronder genoemde niveaus:
-
-| Tijdschema | Toe te passen percentages van de basisrechten |   |
-| --- | --- | --- |
-| op de datum van inwerkingtreding van de overeenkomst | 95 |   |
-| 1 januari 1974 | 90 |   |
-| 1 januari 1975 | 85 |   |
-| 1 januari 1976 | 75 |   |
-| 1 januari 1977 | 60 |   |
-| 1 januari 1978 | 40 |   |
-| 1 januari 1979 | 20 |   |
-| 1 januari 1980 | 0 |   |
-
-##### Artikel 2
-
-1. Voor het in artikel 1 genoemde produkt behouden de Gemeenschap en haar Lid-Staten zich de mogelijkheid voor, een jaarlijks indicatief maximum in te stellen waarboven de ten opzichte van derde landen geldende douanerechten opnieuw kunnen worden ingesteld.
-
-2. Indien een dergelijk maximum wordt ingesteld, zijn de volgende bepalingen van toepassing:
-
-- a). De omvang van dit maximum zal gelijk zijn aan het gemiddelde van de invoer in de Gemeenschap gedurende de laatste vier jaar waarover statistieken beschikbaar zijn, verhoogd met 5 %; de volgende jaren wordt dit maximum jaarlijks verhoogd met 5%.
-
-- b). Indien de invoer van het produkt waarvoor een maximum geldt twee achtereenvolgende jaren minder bedraagt dan 90% van de vastgestelde omvang, schorten de Gemeenschap en haar Lid-Staten de toepassing van het maximum op.
-
-- c). In geval van conjuncturele moeilijkheden behouden de Gehap en haar Lid-Staten zich de mogelijkheid voor om na overleg in het Gemengd Comité de voor het vorige jaar vastgestelde omvang een jaar aan te houden.
-
-- d). De Gemeenschap en haar Lid-Staten stellen het Gemengd Comité op 1 december van elk jaar in kennis van dé omvang van het maximum voor het daaropvolgende jaar.
-
-- e). In afwijking van artikel 2 van de overeenkomst en van artikel 1 van dit protocol kan, zodra het maximum is bereikt dat voor invoer van het onder genoemd protocol vallend produkt is gesteld, de heffing van de rechten van het gemeenschappelijk douanetarief bij invoer van het betrokken produkt tot het einde van het kalenderjaar opnieuw worden ingesteld. In dat geval: De uit artikel 1 van dit protocol voortvloeiende douanerechten worden telkens op 1 januari van het volgende jaar opnieuw ingesteld.
-
-- -. herstellen Denemarken en het Verenigd Koninkrijk vóór 1 juli 1977 de heffing van de onderstaande douanerechten:
-
-| Jaar | Toe te passen percentages van het gemeenschappelijk douanetarief |
-| --- | --- |
-| 1974 | 40 |
-| 1975 | 60 |
-| 1976 | 80 |
-
-- -. herstelt Ierland vóór 1 juli 1977 de heffing van de voor derde landen geldende rechten.
-
-- f). Na 1 juli 1977 gaan de Partijen bij de overeenkomst in het Gemengd Comité de mogelijkheid na om het percentage van de verhoging van het maximum te herzien, waarbij rekening wordt gehouden met de ontwikkeling van het verbruik én van de invoer in de Gemeenschap, alsmede met de bij de toepassing van dit artikel opgedane ervaring.
-
-- g). Het maximum wordt afgeschaft na afloop van de periode voor de tariefafbraak als bedoeld in artikel 1 van dit protocol.
 
 GEDAAN te Brussel, de veertiende mei negentienhonderd drieënzeventig.

@@ -1,62 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen"
 identifier: "BWBV0003530"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-06-03"
-last_updated: "1996-06-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003530"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10003577343"
-version_id: "10003634562"
-internal_id: "C10009635461"
-label_id: "10003562884"
-dtd_version: "2.0"
-original_entry_into_force: "1980-06-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003530/1996-06-03/0"
-intitule_bron: "Trb.1979-184"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-12-28"
-intitule_in_force: "1980-07-15"
-intitule_status: "goed"
-original_publication: "Trb.1979-184"
-original_published_date: "1979-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-184"
-entry_into_force_date: "1980-06-16"
-jci_1_3: "jci1.3:c:BWBV0003530&z=1996-06-03&g=1996-06-03"
-jci_1_0: "1.0:c:BWBV0003530&g=1996-06-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-06-16"
+publicatiedatum: 1980-06-16
+laatste_update: 1996-06-03
+status: geldig
+toestand: 1996-06-03
+bron: "https://wetten.overheid.nl/BWBV0003530"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
-
-De wens koesterende een Overeenkomst te sluiten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; De wens koesterende een Overeenkomst te sluiten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Reikwijdte
 
 Deze Overeenkomst is van toepassing:
 
-- (a). op nalatenschappen van en op schenkingen gedaan door personen wier woonplaats, bij hun overlijden dan wel ten tijde van de schenking in een van de Staten of in beide Staten was;
+- (a) op nalatenschappen van en op schenkingen gedaan door personen wier woonplaats, bij hun overlijden dan wel ten tijde van de schenking in een van de Staten of in beide Staten was;
 
-- (b). op vermogensbestanddelen die zijn begrepen in vermogensrechtelijke regelingen (“settlements”), gemaakt door personen wier woonplaats ten tijde van het maken van de vermogensrechtelijke regelingen (“settlements”) in een van beide Staten was.
+- (b) op vermogensbestanddelen die zijn begrepen in vermogensrechtelijke regelingen (“settlements”), gemaakt door personen wier woonplaats ten tijde van het maken van de vermogensrechtelijke regelingen (“settlements”) in een van beide Staten was.
 
 ##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 (1). De belastingen die het onderwerp van deze Overeenkomst uitmaken, zijn:
 
-- (a). in het Verenigd Koninkrijk, de „capital transfer tax” (de belasting op de overgang van vermogen) en de „inheritance tax” (de belasting van nalatenschappen) (hierna te noemen: „belasting van het Verenigd Koninkrijk”);
+- (a) in het Verenigd Koninkrijk, de „capital transfer tax” (de belasting op de overgang van vermogen) en de „inheritance tax” (de belasting van nalatenschappen) (hierna te noemen: „belasting van het Verenigd Koninkrijk”);
 
-- (b). in Nederland, het recht van successie, het recht van schenking en het recht van overgang (hierna te noemen: „Nederlandse belasting”).
+- (b) in Nederland, het recht van successie, het recht van schenking en het recht van overgang (hierna te noemen: „Nederlandse belasting”).
 
 (2). Deze Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van deze Overeenkomst naast of in plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
@@ -64,25 +37,25 @@ Deze Overeenkomst is van toepassing:
 
 (1). In deze Overeenkomst, tenzij het zinsverband anders vereist:
 
-- (a). betekent de uitdrukking „Verenigd Koninkrijk” Groot-Brittannië en Noord-Ierland;
+- (a) betekent de uitdrukking „Verenigd Koninkrijk” Groot-Brittannië en Noord-Ierland;
 
-- (b). betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen;
+- (b) betekent de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen;
 
-- (c). betekent de uitdrukking „Staat” het Verenigd Koninkrijk of Nederland, al naar het zinsverband vereist, en betekent de uitdrukking „Staten” het Verenigd Koninkrijk en Nederland;
+- (c) betekent de uitdrukking „Staat” het Verenigd Koninkrijk of Nederland, al naar het zinsverband vereist, en betekent de uitdrukking „Staten” het Verenigd Koninkrijk en Nederland;
 
-- (d). betekent de uitdrukking „onderdaan”:
+- (d) betekent de uitdrukking „onderdaan”:
 
-- (i). met betrekking tot het Verenigd Koninkrijk, iedere Britse staatsburger of iedere Britse onderdaan die niet het staatsburgerschap van enig ander tot het Gemenebest behorend land of gebied bezit, mits hij ten tijde van het overlijden of de schenking of op enig ander van belang zijnd tijdstip het recht bezat om in het Verenigd Koninkrijk te verblijven;
+   - (i) met betrekking tot het Verenigd Koninkrijk, iedere Britse staatsburger of iedere Britse onderdaan die niet het staatsburgerschap van enig ander tot het Gemenebest behorend land of gebied bezit, mits hij ten tijde van het overlijden of de schenking of op enig ander van belang zijnd tijdstip het recht bezat om in het Verenigd Koninkrijk te verblijven;
 
-- (ii). met betrekking tot Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit;
+   - (ii) met betrekking tot Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit;
 
-- (e). tekent de uitdrukking „belasting” belasting van het Verenigd Koninkrijk of Nederlandse belasting, al naar het zinsverband vereist;
+- (e) tekent de uitdrukking „belasting” belasting van het Verenigd Koninkrijk of Nederlandse belasting, al naar het zinsverband vereist;
 
-- (f). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- (f) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- (g). betekent de uitdrukking „bevoegde autoriteit”, wat het Verenigd Koninkrijk betreft, de Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger en, wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+- (g) betekent de uitdrukking „bevoegde autoriteit”, wat het Verenigd Koninkrijk betreft, de Commissioners of Inland Revenue of hun bevoegde vertegenwoordiger en, wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- (h). betekent de uitdrukking „schenking” voor het Verenigd Koninkrijk een overgang van vermogen, anders dan een vermogensovergang bij overlijden, en wordt de uitdrukking „schenker” dienovereenkomstig uitgelegd.
+- (h) betekent de uitdrukking „schenking” voor het Verenigd Koninkrijk een overgang van vermogen, anders dan een vermogensovergang bij overlijden, en wordt de uitdrukking „schenker” dienovereenkomstig uitgelegd.
 
 (2). Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij het zinsverband anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
 
@@ -90,29 +63,29 @@ Deze Overeenkomst is van toepassing:
 
 (1). Voor de toepassing van deze Overeenkomst had een persoon zijn woonplaats:
 
-- (a). in het Verenigd Koninkrijk, indien hij overeenkomstig de wetgeving daarvan zijn woonplaats had in het Verenigd Koninkrijk of wordt behandeld alsof hij aldaar zijn woonplaats had voor de toepassing van een belasting die het onderwerp van deze Overeenkomst uitmaakt;
+- (a) in het Verenigd Koninkrijk, indien hij overeenkomstig de wetgeving daarvan zijn woonplaats had in het Verenigd Koninkrijk of wordt behandeld alsof hij aldaar zijn woonplaats had voor de toepassing van een belasting die het onderwerp van deze Overeenkomst uitmaakt;
 
-- (b). in Nederland, indien hij een inwoner was van Nederland of wordt behandeld als een inwoner daarvan voor de toepassing van een belasting die het onderwerp van deze Overeenkomst uitmaakt;
+- (b) in Nederland, indien hij een inwoner was van Nederland of wordt behandeld als een inwoner daarvan voor de toepassing van een belasting die het onderwerp van deze Overeenkomst uitmaakt;
 
 met dien verstande dat een persoon niet wordt geacht zijn woonplaats in een van de Staten te hebben gehad, indien die Staat bij het overlijden of de schenking slechts belasting heft met betrekking tot vermogensbestanddelen die in die Staat zijn gelegen.
 
 (2). Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid van dit artikel zijn woonplaats in beide Staten had, wordt zijn positie, onder voorbehoud van de bepalingen van het derde lid van dit artikel, als volgt bepaald:
 
-- (a). hij wordt geacht zijn woonplaats te hebben gehad in de Staat waar hij een duurzaam tehuis tot zijn beschikking had; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking had, wordt de woonplaats geacht in de Staat te zijn waarmede zijn persoonlijke en economische betrekkingen het nauwst waren (middelpunt van de levensbelangen);
+- (a) hij wordt geacht zijn woonplaats te hebben gehad in de Staat waar hij een duurzaam tehuis tot zijn beschikking had; indien hij in beide Staten een duurzaam tehuis tot zijn beschikking had, wordt de woonplaats geacht in de Staat te zijn waarmede zijn persoonlijke en economische betrekkingen het nauwst waren (middelpunt van de levensbelangen);
 
-- (b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen had, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking had, wordt de woonplaats geacht in de Staat te zijn waar hij gewoonlijk verbleef;
+- (b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen had, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking had, wordt de woonplaats geacht in de Staat te zijn waar hij gewoonlijk verbleef;
 
-- (c). indien hij in beide Staten of in geen van beide gewoonlijk verbleef, wordt de woonplaats geacht in de Staat te zijn waarvan hij onderdaan was;
+- (c) indien hij in beide Staten of in geen van beide gewoonlijk verbleef, wordt de woonplaats geacht in de Staat te zijn waarvan hij onderdaan was;
 
-- (d). indien hij onderdaan was van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- (d) indien hij onderdaan was van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 (3). Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid van dit artikel op het tijdstip waarvoor zijn woonplaats dient te worden vastgesteld zijn woonplaats in beide Staten had en
 
-- (a). op dat tijdstip onderdaan was van een van de Staten doch niet van de andere Staat, en
+- (a) op dat tijdstip onderdaan was van een van de Staten doch niet van de andere Staat, en
 
-- (b). in die andere Staat woonde, doch in de tien jaren onmiddellijk voorafgaand aan dat tijdstip minder dan zeven jaren aldaar had gewoond, en
+- (b) in die andere Staat woonde, doch in de tien jaren onmiddellijk voorafgaand aan dat tijdstip minder dan zeven jaren aldaar had gewoond, en
 
-- (c). niet de bedoeling had om voor onbepaalde tijd in die andere Staat te blijven,
+- (c) niet de bedoeling had om voor onbepaalde tijd in die andere Staat te blijven,
 
 wordt hij, niettegenstaande de bepalingen van het tweede lid van dit artikel, geacht op dat tijdstip zijn woonplaats te hebben gehad in de Staat waarvan bij onderdaan was.
 
@@ -134,33 +107,33 @@ Voor de toepassing van dit lid wordt, indien die andere Staat het Verenigd Konin
 
 (3). De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- (a). een plaats waar leiding wordt gegeven,
+- (a) een plaats waar leiding wordt gegeven,
 
-- (b). een filiaal,
+- (b) een filiaal,
 
-- (c). een kantoor,
+- (c) een kantoor,
 
-- (d). een fabriek,
+- (d) een fabriek,
 
-- (e). een werkplaats en
+- (e) een werkplaats en
 
-- (f). een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- (f) een mijn, een olie- of gasbron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
 
 (4). De plaats van uitvoering van een bouwwerk of van constructie- of installatiewerkzaamheden vormt alleen een vaste inrichting indien de duur ervan twaalf maanden overschrijdt.
 
 (5). Niettegenstaande de voorgaande bepalingen van dit artikel wordt een vaste inrichting niet aanwezig geacht, indien:
 
-- (a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- (a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- (b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- (b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- (c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- (c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- (d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- (d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- (e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft;
+- (e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming enige andere werkzaamheid uit te oefenen die van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft;
 
-- (f). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinatie van de in de letters (a) tot en met (e) van dit lid genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
+- (f) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor een combinatie van de in de letters (a) tot en met (e) van dit lid genoemde werkzaamheden, mits het totaal van de werkzaamheden van de vaste bedrijfsinrichting dat uit deze combinatie voortvloeit van voorbereidende aard is of het karakter van hulpwerkzaamheid heeft.
 
 (6). Bezittingen, met uitzondering van de bezittingen omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03), die behoren tot een vast middelpunt dat gebezigd wordt voor het: verrichten van zelfstandige arbeid, mogen worden belast in de Staat waar het vaste middelpunt is gelegen.
 
@@ -188,9 +161,9 @@ Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aft
 
 (2). Het Verenigd Koninkrijk mag belasting heffen over vermogensbestanddelen die zijn begrepen in een vermogensrechtelijke regeling („settlement”), tenzij ten tijde van het maken van de vermogensrechtelijke regeling („settlement”) degene die de regeling heeft gemaakt („settlor”):
 
-- (a). zijn woonplaats in Nederland had; en
+- (a) zijn woonplaats in Nederland had; en
 
-- (b). niet een onderdaan van het Verenigd Koninkrijk was die zijn woonplaats in het Verenigd Koninkrijk had op enig tijdstip in de onmiddellijk daaraan voorafgaande tien jaren.
+- (b) niet een onderdaan van het Verenigd Koninkrijk was die zijn woonplaats in het Verenigd Koninkrijk had op enig tijdstip in de onmiddellijk daaraan voorafgaande tien jaren.
 
 (3). Indien vermogensbestanddelen ingevolge de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=8&z=1996-06-03&g=1996-06-03) slechts in Nederland belastbaar zijn en de overledene of de schenker hetzij onderdaan is van het Verenigd Koninkrijk en geen onderdaan van Nederland, hetzij voor de toepassing van de Nederlandse belasting wordt behandeld als een inwoner van Nederland op grond van de eenzijdige tien-jaren-regeling van dat land, mag het Verenigd Koninkrijk overeenkomstig zijn wetgeving ook belasting over die vermogensbestanddelen heffen, indien de bevoegde autoriteit van Nederland de bevoegde autoriteit van het Verenigd Koninkrijk mededeelt, dat de over die vermogensbestanddelen verschuldigde Nederlandse belasting niet is betaald (anders dan ten gevolge van een bepaalde vrijstelling, aftrekpost, verrekening of tegemoetkoming).
 
@@ -212,11 +185,11 @@ Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aft
 
 (4). Voor de toepassing van dit artikel
 
-- (a). is de in een van de Staten geheven belasting die aan een vermogensbestanddeel is toe te rekenen, de belasting na aftrek van het bedrag van enige door die Staat verleende verrekening, ter zake van in een ander gebied dan dat van een van de Staten geheven belasting die aan dat vermogensbestanddeel is toe te rekenen;
+- (a) is de in een van de Staten geheven belasting die aan een vermogensbestanddeel is toe te rekenen, de belasting na aftrek van het bedrag van enige door die Staat verleende verrekening, ter zake van in een ander gebied dan dat van een van de Staten geheven belasting die aan dat vermogensbestanddeel is toe te rekenen;
 
-- (b). wordt, indien bij het overlijden van een persoon belasting wordt geheven wegens een schenking gedaan binnen zeven jaren voorafgaande aan het overlijden, hetzij omdat de schenking geacht wordt uit zijn nalatenschap te zijn verkregen, hetzij om andere met die schenking verband houdende redenen, die belasting behandeld alsof zij werd geheven in verband met die schenking;
+- (b) wordt, indien bij het overlijden van een persoon belasting wordt geheven wegens een schenking gedaan binnen zeven jaren voorafgaande aan het overlijden, hetzij omdat de schenking geacht wordt uit zijn nalatenschap te zijn verkregen, hetzij om andere met die schenking verband houdende redenen, die belasting behandeld alsof zij werd geheven in verband met die schenking;
 
-- (c). geldt belasting als in een van de Staten te zijn geheven, indien zij op grond van de wetgeving van die Staat is verschuldigd en daadwerkelijk betaald.
+- (c) geldt belasting als in een van de Staten te zijn geheven, indien zij op grond van de wetgeving van die Staat is verschuldigd en daadwerkelijk betaald.
 
 ##### Artikel 14. Termijn
 
@@ -248,11 +221,11 @@ Verzoeken om verrekening of terugbetaling van belasting, gegrond op de bepalinge
 
 (2). In geen geval worden de bepalingen van het eerste lid van dit artikel aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- (a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
+- (a) administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
 
-- (b). inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- (b) inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- (c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- (c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 18. Diplomatieke en consulaire ambtenaren
 
@@ -274,9 +247,9 @@ De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voor
 
 (4). Indien bij een overlijden vóór 27 maart 1981 bepalingen van het Verdrag van 1948 grotere belastingverminderingen zouden hebben bewerkstelligd dan deze Overeenkomst met betrekking tot
 
-- (a). schenkingen inter vivos door de overledene gedaan vóór 27 maart 1974, of
+- (a) schenkingen inter vivos door de overledene gedaan vóór 27 maart 1974, of
 
-- (b). in een vermogensrechtelijke regeling (“settlement”) begrepen vermogensbestanddelen waarin de overledene een belang had dat met eigendom op één lijn kan worden gesteld (“beneficial interest in possession”) vóór 27 maart 1974, maar niet op enig tijdstip daarna, blijven die bepalingen in het Verenigd Koninkrijk met betrekking tot die schenking of die in een vermogensrechtelijke regeling (“settlement”) begrepen vermogensbestanddelen van toepassing.
+- (b) in een vermogensrechtelijke regeling (“settlement”) begrepen vermogensbestanddelen waarin de overledene een belang had dat met eigendom op één lijn kan worden gesteld (“beneficial interest in possession”) vóór 27 maart 1974, maar niet op enig tijdstip daarna, blijven die bepalingen in het Verenigd Koninkrijk met betrekking tot die schenking of die in een vermogensrechtelijke regeling (“settlement”) begrepen vermogensbestanddelen van toepassing.
 
 (5). Het Verdrag van 1948 treedt buiten werking op de laatste dag waarop het in overeenstemming met de voorgaande bepalingen van dit artikel van toepassing is.
 
@@ -290,10 +263,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gevolmachtigd, deze Ov
 
 GEDAAN in tweevoud te ’s-Gravenhage, 11 december 1979, in de Nederlandse en de Engelse taal, zijnde beide teksten gelijkelijk gezaghebbend.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) C. A. VAN DER KLAAUW
 
-**Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:**
+*Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:*
 
 (w.g.) JOCK TAYLOR

@@ -8,7 +8,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0046022"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Bestuursreglement Nederlandse Emissieautoriteit

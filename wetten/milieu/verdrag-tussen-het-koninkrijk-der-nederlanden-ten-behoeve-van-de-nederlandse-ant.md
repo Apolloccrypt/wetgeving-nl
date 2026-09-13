@@ -1,92 +1,56 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en het Koninkrijk België inzake luchtvervoer"
 identifier: "BWBV0003023"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-02-05"
-last_updated: "2008-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003023"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003294403"
-version_id: "10003319272"
-internal_id: "C10008430201"
-label_id: "10003280284"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003023/2008-02-05/0"
-intitule_bron: "Trb.2008-29"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-11"
-intitule_published: "2008-03-04"
-intitule_status: "nogniet"
-original_publication: "Trb.2008-29"
-original_signed_date: "2008-06-11"
-original_published_date: "2008-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-29"
-jci_1_3: "jci1.3:c:BWBV0003023&z=2008-02-05&g=2008-02-05"
-jci_1_0: "1.0:c:BWBV0003023&g=2008-02-05"
-citeertitel_status: "redactioneel"
-signed_date: "2008-06-11"
-entry_into_force: "2008-03-04"
+laatste_update: 2008-02-05
+status: geldig
+toestand: 2008-02-05
+bron: "https://wetten.overheid.nl/BWBV0003023"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen en het Koninkrijk België inzake luchtvervoer
 
-The Kingdom of the Netherlands,
-
-in respect of the Netherlands Antilles,
-
-and
-
-The Kingdom of Belgium,
-
-hereinafter referred to as the “Contracting Parties”;
-
-Being parties to the Convention on International Civil Aviation opened for signature at Chicago, on the 7th day of December, 1944;
-
-Desiring to conclude an agreement, supplementary to the said Convention, for the purpose of establishing air services between and beyond their respective territories;
-
-Desiring to ensure the highest degree of safety and security in international air transport;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of the Netherlands Antilles, and The Kingdom of Belgium, hereinafter referred to as the “Contracting Parties”; Being parties to the Convention on International Civil Aviation opened for signature at Chicago, on the 7th day of December, 1944; Desiring to conclude an agreement, supplementary to the said Convention, for the purpose of establishing air services between and beyond their respective territories; Desiring to ensure the highest degree of safety and security in international air transport; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement, unless the context otherwise requires:
 
-- a). the term “Convention” means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of that Convention and any amendment of the annexes or of the Convention under Articles 90 and 94 thereof so far as those Annexes and amendments have been adopted or ratified by both Contracting Parties;
+- a) the term “Convention” means the Convention on International Civil Aviation opened for signature at Chicago on the seventh day of December 1944 and includes any Annex adopted under Article 90 of that Convention and any amendment of the annexes or of the Convention under Articles 90 and 94 thereof so far as those Annexes and amendments have been adopted or ratified by both Contracting Parties;
 
-- b). the term “Agreement” means this Agreement, the Annex attached thereto, and any modifications to the Agreement or to the Annex;
+- b) the term “Agreement” means this Agreement, the Annex attached thereto, and any modifications to the Agreement or to the Annex;
 
-- c). the term “aeronautical authorities” means: in the case of the Kingdom of Belgium, the Ministry of Communications and Infrastructure, and in the case of the Kingdom of the Netherlands, the Minister of Transport and Communications of the Netherlands Antilles or, in both cases, any other authority or person empowered to perform the functions now exercised by the said authorities;
+- c) the term “aeronautical authorities” means: in the case of the Kingdom of Belgium, the Ministry of Communications and Infrastructure, and in the case of the Kingdom of the Netherlands, the Minister of Transport and Communications of the Netherlands Antilles or, in both cases, any other authority or person empowered to perform the functions now exercised by the said authorities;
 
-- d). the terms “Air Service”, “International Air Service”, “Airline” and “Stop for non-traffic purposes” have the meaning respectively assigned to them in Article 96 of the Convention;
+- d) the terms “Air Service”, “International Air Service”, “Airline” and “Stop for non-traffic purposes” have the meaning respectively assigned to them in Article 96 of the Convention;
 
-- e). the term “Territory” in the case of the Kingdom of Belgium means the land areas and the territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Kingdom of Belgium and in the case of the Kingdom of the Netherlands the land area of the Netherlands Antilles and the territorial waters adjacent thereto;
+- e) the term “Territory” in the case of the Kingdom of Belgium means the land areas and the territorial waters adjacent thereto under the sovereignty, suzerainty, protection or mandate of the Kingdom of Belgium and in the case of the Kingdom of the Netherlands the land area of the Netherlands Antilles and the territorial waters adjacent thereto;
 
-- f). “Designated airline” means an airline which has been designated and authorised in accordance with Articles 3 and 4 of this Agreement;
+- f) “Designated airline” means an airline which has been designated and authorised in accordance with Articles 3 and 4 of this Agreement;
 
-- g). the term “Agreed services” means scheduled air services on the routes specified in the Annex to this Agreement for the transport of passengers, cargo and mail, separately or in combination;
+- g) the term “Agreed services” means scheduled air services on the routes specified in the Annex to this Agreement for the transport of passengers, cargo and mail, separately or in combination;
 
-- h). the term “Tariffs” means the prices to be paid for the carriage of passengers, baggage and cargo and the conditions under which those prices apply, including prices and conditions for agency and other ancillary services, but excluding remuneration and conditions for the carriage of mail;
+- h) the term “Tariffs” means the prices to be paid for the carriage of passengers, baggage and cargo and the conditions under which those prices apply, including prices and conditions for agency and other ancillary services, but excluding remuneration and conditions for the carriage of mail;
 
-- i). the term “Change of gauge” means the operation of one of the agreed services by a designated airline in such a way that one section of the route is flown by aircraft different in capacity from those used on another section;
+- i) the term “Change of gauge” means the operation of one of the agreed services by a designated airline in such a way that one section of the route is flown by aircraft different in capacity from those used on another section;
 
-- j). the terms “aircraft equipment”, “ground equipment”, “aircraft stores”, “spare parts” have the meanings respectively assigned to them in Annex 9 of the Convention;
+- j) the terms “aircraft equipment”, “ground equipment”, “aircraft stores”, “spare parts” have the meanings respectively assigned to them in Annex 9 of the Convention;
 
-- k). the term “nationals of the Kingdom of Belgium” shall be understood as referring to nationals of European Community Member States;
+- k) the term “nationals of the Kingdom of Belgium” shall be understood as referring to nationals of European Community Member States;
 
-- l). the term “airlines of the Kingdom of Belgium” shall be understood as referring to airlines designated by the Kingdom of Belgium.
+- l) the term “airlines of the Kingdom of Belgium” shall be understood as referring to airlines designated by the Kingdom of Belgium.
 
 ##### Article 2. Grant of Rights
 
 1. Each Contracting Party grants to the other Contracting Party the following rights for the conduct of international air services by the respective designated airlines:
 
-- a). to fly without landing across its territory;
+- a) to fly without landing across its territory;
 
-- b). to make stops in its territory for non-traffic purposes;
+- b) to make stops in its territory for non-traffic purposes;
 
-- c). to make stops in its territory for the purpose of taking up and discharging, while operating the routes specified in the Annex, international traffic in passengers, cargo and mail separately or in combination.
+- c) to make stops in its territory for the purpose of taking up and discharging, while operating the routes specified in the Annex, international traffic in passengers, cargo and mail separately or in combination.
 
 2. Nothing in paragraph 1 of this Article shall be deemed to confer on a designated airline of one Contracting Party the privilege of taking up, in the territory of the other Contracting Party, passengers, cargo and mail carried for remuneration or hire and destined for another point in the territory of that other Contracting Party.
 
@@ -100,17 +64,17 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 1. Following receipt of a notice of designation by one Contracting Party, the aeronautical authorities of the other Contracting Party shall, consistent with its laws and regulations, grant the designated airlines the appropriate authorisations to operate the agreed services for which those airlines have been designated, provided that:
 
-- a). in the case of an airline designated by Belgium:
+- a) in the case of an airline designated by Belgium:
 
-- (i). it is established in the territory of Belgium under the Treaty establishing the European Community and has a valid Operating Licence in accordance with European Community law; and
+   - (i) it is established in the territory of Belgium under the Treaty establishing the European Community and has a valid Operating Licence in accordance with European Community law; and
 
-- (ii). effective regulatory control of the airline is exercised and maintained by the European Community Member State responsible for issuing its Air Operator’s Certificate and the relevant aeronautical authority is clearly identified in the designation.
+   - (ii) effective regulatory control of the airline is exercised and maintained by the European Community Member State responsible for issuing its Air Operator’s Certificate and the relevant aeronautical authority is clearly identified in the designation.
 
-- b). in the case of an airline designated by the Netherlands Antilles:
+- b) in the case of an airline designated by the Netherlands Antilles:
 
-- (i). it is established in the territory of the Netherlands Antilles and has a valid Operating Licence in accordance with the law applicable in the Netherlands Antilles; and
+   - (i) it is established in the territory of the Netherlands Antilles and has a valid Operating Licence in accordance with the law applicable in the Netherlands Antilles; and
 
-- (ii). the Netherlands Antilles is exercising and maintaining effective regulatory control of the airline.
+   - (ii) the Netherlands Antilles is exercising and maintaining effective regulatory control of the airline.
 
 2. Upon receipt of such authorisations the airlines may begin at any time to operate the agreed services, in whole or in part, provided that the airlines comply with the applicable provisions of this Agreement and that tariffs are established in accordance with the provisions of Article 14 of this Agreement.
 
@@ -118,23 +82,23 @@ For the purpose of this Agreement, unless the context otherwise requires:
 
 1. The aeronautical authorities of each Contracting Party shall have the right to withhold the authorisations referred to in Article 4 of this Agreement with respect to the airlines designated by the other Contracting Party, to revoke or suspend such authorisation or impose conditions, temporarily or permanently:
 
-- a). in the event of failure by such airlines to satisfy them that they are qualified to fulfil the conditions prescribed under the laws and regulations normally and reasonably applied to the operation of international air services by these authorities in conformity with the Convention;
+- a) in the event of failure by such airlines to satisfy them that they are qualified to fulfil the conditions prescribed under the laws and regulations normally and reasonably applied to the operation of international air services by these authorities in conformity with the Convention;
 
-- b). in the event of failure by such airlines to operate in accordance with the conditions prescribed under this Agreement;
+- b) in the event of failure by such airlines to operate in accordance with the conditions prescribed under this Agreement;
 
-- c). in the event of failure by such airlines to comply with the laws and regulations of that Contracting Party;
+- c) in the event of failure by such airlines to comply with the laws and regulations of that Contracting Party;
 
-- d). in the case of an airline designated by Belgium:
+- d) in the case of an airline designated by Belgium:
 
-- (i). if it is not established in the territory of Belgium under the Treaty establishing the European Community or does not have a valid Operating Licence in accordance with European Community law; or
+   - (i) if it is not established in the territory of Belgium under the Treaty establishing the European Community or does not have a valid Operating Licence in accordance with European Community law; or
 
-- (ii). effective regulatory control of the airline is not exercised or not maintained by the European Community Member State responsible for issuing its Air Operator’s Certificate or the relevant aeronautical authority is not clearly identified in the designation.
+   - (ii) effective regulatory control of the airline is not exercised or not maintained by the European Community Member State responsible for issuing its Air Operator’s Certificate or the relevant aeronautical authority is not clearly identified in the designation.
 
-- e). in the case of an airline designated by the Netherlands Antilles:
+- e) in the case of an airline designated by the Netherlands Antilles:
 
-- (i). if it is not established in the territory of the Netherlands Antilles or does not have a valid Operating Licence in accordance with the law applicable in the Netherlands Antilles; or
+   - (i) if it is not established in the territory of the Netherlands Antilles or does not have a valid Operating Licence in accordance with the law applicable in the Netherlands Antilles; or
 
-- (ii). the Netherlands Antilles is not exercising or not maintaining effective regulatory control of the airline.
+   - (ii) the Netherlands Antilles is not exercising or not maintaining effective regulatory control of the airline.
 
 2. Unless immediate action is essential to prevent infringement of the laws and regulations referred to above, the rights enumerated in paragraph 1 of this Article shall be exercised only after consultations with the aeronautical authorities of the other Contracting Party in conformity with Article 18 of this Agreement.
 
@@ -168,9 +132,9 @@ Failure to reach a satisfactory agreement in matters regarding flight safety wil
 
 3.4. If any such ramp inspection or series of ramp inspections gives rise to:
 
-- a). serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Convention, or
+- a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Convention, or
 
-- b). serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Convention, the Contracting Party carrying out the inspection shall, for the purposes of Article 33 of the Convention, be free to conclude that the requirements under which the certificate or licences in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.
+- b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Convention, the Contracting Party carrying out the inspection shall, for the purposes of Article 33 of the Convention, be free to conclude that the requirements under which the certificate or licences in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.
 
 3.5. In the event that access for the purpose of undertaking a ramp inspection of an aircraft operated by or on behalf of the airline or airlines of one Contracting Party in accordance with paragraph 3.3 above is denied by the representative of that airline or airlines, the other Contracting Party shall be free to infer that serious concerns of the type referred to in paragraph 3.4 above arise and draw the conclusions referred to in that paragraph.
 
@@ -212,11 +176,11 @@ Where such laws and regulations limit or preclude self-handling and where there 
 
 2. The exemptions granted by this Article shall apply to the items referred to in paragraph 1 of this Article, whether or not such items are used or consumed wholly within the territory of the Contracting Party granting the exemption, provided such items are:
 
-- a). introduced into the territory of one Contracting Party by or on behalf of the designated airlines of the other Contracting Party, but not alienated in the territory of the said Contracting Party;
+- a) introduced into the territory of one Contracting Party by or on behalf of the designated airlines of the other Contracting Party, but not alienated in the territory of the said Contracting Party;
 
-- b). retained on board aircraft of the designated airlines of one Contracting Party upon arriving in or leaving the territory of the other Contracting Party;
+- b) retained on board aircraft of the designated airlines of one Contracting Party upon arriving in or leaving the territory of the other Contracting Party;
 
-- c). taken on board aircraft of the designated airlines of one Contracting Party in the territory of the other Contracting Party and intended for use in operating the agreed services.
+- c) taken on board aircraft of the designated airlines of one Contracting Party in the territory of the other Contracting Party and intended for use in operating the agreed services.
 
 3. The regular airborne equipment, the ground equipment, as well as the materials and supplies normally retained on board the aircraft of the designated airlines of either Contracting Party, may be unloaded in the territory of the other Contracting Party only with the approval of the Customs authorities of that territory. In such case, they may be placed under the supervision of the said authorities up to such time as they are re-exported or otherwise disposed of in accordance with Customs legislation or regulations.
 
@@ -236,11 +200,11 @@ Where such laws and regulations limit or preclude self-handling and where there 
 
 4. Provision for the carriage of passengers, cargo and mail both taken up and discharged at points on the specified routes in the territories of States other than that designating an airline shall be made in accordance with the general principle that capacity shall be related to:
 
-- a). traffic requirements to and from the territory of the Contracting Party which has designated the airline;
+- a) traffic requirements to and from the territory of the Contracting Party which has designated the airline;
 
-- b). traffic requirements of the area through which the airline passes after taking account of other transport services established by airlines of the States comprising the area;
+- b) traffic requirements of the area through which the airline passes after taking account of other transport services established by airlines of the States comprising the area;
 
-- c). the requirements of long-haul airline operation.
+- c) the requirements of long-haul airline operation.
 
 5. The designated airlines shall, not later than thirty (30) days prior to the date of operation of any agreed service, notify their proposed flight programs to the aeronautical authorities of both Contracting Parties. Said flight programs shall include i.a. the type of service, the aircraft to be used, the frequencies and the flight schedules.
 
@@ -258,11 +222,11 @@ In special cases this time limit may be reduced, subject to the consent of the s
 
 1. Each Contracting Party shall allow tariffs for air transportation to be established by each designated airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory tariffs or practices;
+- a) prevention of unreasonably discriminatory tariffs or practices;
 
-- b). protection of consumers from tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) protection of consumers from tariffs that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). protection of airlines from tariffs that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of airlines from tariffs that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Contracting Party shall require notification to its aeronautical authorities of tariffs to be charged to or from its territory by airlines of the other Contracting Party. Notification by the airlines of both Contracting Parties shall be required no more than thirty (30) days before the proposed date of effectiveness. In individual cases, notification may be permitted on shorter notice than normally required. Neither Contracting Party shall require the notification or filing by airlines of the other Contracting Party of tariffs charged by charterers to the public, except as may be required on a non-discriminatory basis for information purposes.
 

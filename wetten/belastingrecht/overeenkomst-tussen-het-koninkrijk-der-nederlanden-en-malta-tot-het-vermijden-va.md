@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Malta tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0003762"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-03-28"
-last_updated: "1999-03-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003762"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003699993"
-version_id: "10003760932"
-internal_id: "C10009580731"
-label_id: "10003685434"
-dtd_version: "2.0"
-original_entry_into_force: "1977-11-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003762/1999-03-28/0"
-intitule_bron: "Trb.1995-224"
-intitule_effect: "wijziging"
-intitule_published: "1995-09-18"
-intitule_in_force: "1999-03-19"
-intitule_status: "goed"
-original_publication: "Trb.1977-82"
-original_published_date: "1977-06-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-82"
-entry_into_force_date: "1977-11-09"
-jci_1_3: "jci1.3:c:BWBV0003762&z=1999-03-28&g=1999-03-28"
-jci_1_0: "1.0:c:BWBV0003762&g=1999-03-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-11-09"
+publicatiedatum: 1977-11-09
+laatste_update: 1999-03-28
+status: geldig
+toestand: 1999-03-28
+bron: "https://wetten.overheid.nl/BWBV0003762"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Malta tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-Het Koninkrijk der Nederlanden en Malta,
-
-Geleid door de wens een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
-
-Zijn het volgende overeengekomen:
-
-Is van toepassing voor belastingjaren en -tijdvakken die beginnen op of na 1 januari 1994 (Trb. 1995/224).
+*Het Koninkrijk der Nederlanden en Malta, Geleid door de wens een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -56,19 +31,19 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 - a. voor Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- -. de inkomstenbelasting;
+   - - de inkomstenbelasting;
 
-- -. de loonbelasting;
+   - - de loonbelasting;
 
-- -. de vennootschapsbelasting;
+   - - de vennootschapsbelasting;
 
-- -. de dividendbelasting;
+   - - de dividendbelasting;
 
-- -. de vermogensbelasting;
+   - - de vermogensbelasting;
 
 - b. voor Malta:
 
-- de income tax (inkomstenbelasting) en surtax, daaronder begrepen voorheffingen die hetzij bij wijze van inhouding aan de bron, hetzij op andere wijze hebben plaats gevonden;
+   - de income tax (inkomstenbelasting) en surtax, daaronder begrepen voorheffingen die hetzij bij wijze van inhouding aan de bron, hetzij op andere wijze hebben plaats gevonden;
 
 (hierna te noemen: „Maltese belasting”).
 
@@ -96,17 +71,17 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 - g. betekent de uitdrukking „onderdaan”:
 
-- (i). met betrekking tot Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit en iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
+   - (i) met betrekking tot Nederland, iedere natuurlijke persoon die de Nederlandse nationaliteit bezit en iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
 
-- (ii). met betrekking tot Malta, iedere staatsburger van Malta zoals geregeld is in Hoofdstuk III van de Grondwet van Malta en in de „Maltese Citizenship Act, 1965”, en iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Malta van kracht is;
+   - (ii) met betrekking tot Malta, iedere staatsburger van Malta zoals geregeld is in Hoofdstuk III van de Grondwet van Malta en in de „Maltese Citizenship Act, 1965”, en iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Malta van kracht is;
 
 - h. betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen;
 
 - i. betekent de uitdrukking „bevoegde autoriteit”:
 
-- (i). wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - (i) wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- (ii). wat Malta betreft, de Minister verantwoordelijk voor de financiën of zijn bevoegde vertegenwoordiger.
+   - (ii) wat Malta betreft, de Minister verantwoordelijk voor de financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van deze Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
 
@@ -270,7 +245,7 @@ Dit lid laat onverlet de belastingheffing van het lichaam ter zake van de winst 
 
 5. Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de schuldeiser of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de schuldeiser zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.
 
-##### Artikel 13. Beperking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=11&z=1999-03-28&g=1999-03-28) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28)
+##### Artikel 13. Beperking van de artikelen 10, 11 en 12
 
 Internationale organisaties, hun organen en functionarissen, alsmede personen die deel uitmaken van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die in een van de Staten verblijven, hebben in de andere Staat geen recht op de verminderingen of vrijstellingen van belasting voorzien in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=11&z=1999-03-28&g=1999-03-28) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28), met betrekking tot uit die andere Staat afkomstige bestanddelen van het inkomen die in deze artikelen zijn behandeld, indien die bestanddelen van het inkomen in de eerstbedoelde Staat niet aan een belasting naar het inkomen zijn onderworpen.
 
@@ -330,15 +305,15 @@ Internationale organisaties, hun organen en functionarissen, alsmede personen di
 
 ##### Artikel 20. Overheidsfuncties
 
-- a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of dat plaatselijke publiekrechtelijke lichaam daarvan mogen in die Staat worden belast.
+1. - a. Beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of dat plaatselijke publiekrechtelijke lichaam daarvan mogen in die Staat worden belast.
 
 - b. Deze beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de genieter inwoner is van die andere Staat, die:
 
-- (i). onderdaan is van die Staat; of
+   - (i) onderdaan is van die Staat; of
 
-- (ii). niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - (ii) niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of dat plaatselijke publiekrechtelijke lichaam daarvan, mogen in die Staat worden belast.
+2. - a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of aan dat onderdeel of dat plaatselijke publiekrechtelijke lichaam daarvan, mogen in die Staat worden belast.
 
 - b. Deze pensioenen zijn echter slechts in de andere Staat belastbaar, indien de genieter onderdaan en inwoner is van die Staat.
 
@@ -394,9 +369,9 @@ Internationale organisaties, hun organen en functionarissen, alsmede personen di
 
 Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- (i). het bedrag dat gelijk is aan de in Malta geheven belasting;
+- (i) het bedrag dat gelijk is aan de in Malta geheven belasting;
 
-- (ii). het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+- (ii) het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 4. Niettegenstaande de bepalingen van het tweede lid verleent Nederland een vermindering op de overeenkomstig de voorgaande leden van dit artikel berekende belasting voor inkomen dat volgens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=7&z=1999-03-28&g=1999-03-28) in Malta mag worden belast, indien dat inkomen in Malta onder een bijzondere regeling valt zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=30&z=1999-03-28&g=1999-03-28).
 
@@ -420,7 +395,7 @@ Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
 2. De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplicht aan inwoners van de andere Staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde Staat aan zijn eigen inwoners verleent.
 
-3. Behalve indien de bepalingen van artikel 9, eerste lid, [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), of [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28), van toepassing zijn, zijn interest, royalty's en andere uitgaven, betaald door een onderneming van een van de Staten aan een inwoner van de andere Staat, bij de vaststelling van de belastbare winst van die onderneming onder dezelfde voorwaarden aftrekbaar als wanneer zij betaald waren aan een inwoner van de eerstbedoelde Staat. Zo ook zijn alle schulden van een onderneming van een van de Staten aan een inwoner van de andere Staat bij de vaststelling van het belastbare vermogen van die onderneming aftrekbaar als wanneer zij waren aangegaan met een inwoner van de eerstbedoelde Staat.
+3. Behalve indien de bepalingen van [artikel 9, eerste lid](https://wetten.overheid.nl/BWBV0003762), [artikel 11, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), of [artikel 12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28), van toepassing zijn, zijn interest, royalty's en andere uitgaven, betaald door een onderneming van een van de Staten aan een inwoner van de andere Staat, bij de vaststelling van de belastbare winst van die onderneming onder dezelfde voorwaarden aftrekbaar als wanneer zij betaald waren aan een inwoner van de eerstbedoelde Staat. Zo ook zijn alle schulden van een onderneming van een van de Staten aan een inwoner van de andere Staat bij de vaststelling van het belastbare vermogen van die onderneming aftrekbaar als wanneer zij waren aangegaan met een inwoner van de eerstbedoelde Staat.
 
 4. Ondernemingen van een van de Staten, waarvan het kapitaal geheel of ten dele, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan andere soortgelijke ondernemingen van die eerstbedoelde Staat zijn of kunnen worden onderworpen.
 
@@ -491,50 +466,6 @@ Deze Overeenkomst blijft van kracht totdat zij door de Regering van een van de S
 - a. ter zake van belastingen naar het inkomen op inkomsten verkregen op of na 1 januari, volgend op het jaar waarin de kennisgeving van beëindiging is gedaan;
 
 - b. ter zake van belastingen naar het vermogen, geheven met ingang van 1 januari volgend op het jaar waarin de kennisgeving van beëindiging is gedaan.
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Republiek Malta gesloten, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-##### I. Ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=II&artikel=4&z=1999-03-28&g=1999-03-28)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een duurzaam tehuis in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.
-
-##### II. Ad [Artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=II&artikel=5&z=1999-03-28&g=1999-03-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=7&z=1999-03-28&g=1999-03-28)
-
-Behoudens voor zover het herverzekering betreft, tasten de bepaingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=II&artikel=5&z=1999-03-28&g=1999-03-28) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=7&z=1999-03-28&g=1999-03-28) van de Overeenkomst niet aan de bepalingen van de wetgeving van elk van de Staten betreffende de belastingheffing van voordelen behaald met de uitoefening van een verzekeringsbedrijf.
-
-##### III. Ad [Artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=8&z=1999-03-28&g=1999-03-28), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=14&z=1999-03-28&g=1999-03-28) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=IV&artikel=24&z=1999-03-28&g=1999-03-28)
-
-1. Niettegenstaande de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=8&z=1999-03-28&g=1999-03-28), mogen voordelen uit de exploitatie van schepen in internationaal verkeer, verkregen door een lichaam dat inwoner van Malta is, in Nederland worden belast, tenzij het lichaam bewijst dat deze voordelen niet zijn vrijgesteld van Maltese belasting op grond van de bepalingen van de „Merchant Shipping Act, 1973”, of op grond van een gelijke of gelijksoortige bepaling. De voorgaande zin is echter niet van toepassing, indien het lichaam bewijst dat niet meer dan 25 percent van zijn kapitaal, onmiddellijk of middellijk, in het bezit is van personen die geen inwoner zijn van Malta.
-
-2. De bepalingen van het eerste lid vinden overeenkomstige toepassing op vermogenswinsten als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=14&z=1999-03-28&g=1999-03-28), en op vermogen als bedoeld in [artikel 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=IV&artikel=24&z=1999-03-28&g=1999-03-28).
-
-##### IV. Ad [Artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28)
-
-1. De bepalingen van [onderdeel a) van artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), zijn niet van toepassing indien de verhouding tussen de twee lichamen hoofdzakelijk is opgezet of in stand wordt gehouden met de bedoeling om zich van deze vermindering te verzekeren.
-
-2. Het is wel te verstaan dat de verwijzing in de [tweede zin van artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), naar de bepalingen van de Nederlandse wetgeving, welke er op gericht zijn dat het ontvangende lichaam niet in de Nederlandse vennootschapsbelasting wordt betrokken ter zake van door een lichaam van Malta uitgedeelde winst, slaat op de toepassing van de zogenaamde „deelnemingsvrijstelling” in de Nederlandse Wet op de Vennootschapsbelasting. Onder voorbehoud van de bepalingen van de genoemde Wet en van toekomstige wijzigingen daarvan, leidt deze „deelnemingsvrijstelling” ertoe, dat een lichaam dat inwoner is van Nederland, bij de vaststelling van zijn belastbare winst dividenden die het ontvangt van een lichaam dat inwoner is van Malta, buiten beschouwing kan laten, indien het ten minste vijf percent van het gestorte kapitaal van het laatstbedoelde lichaam bezit.
-
-##### V. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=11&z=1999-03-28&g=1999-03-28) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28)
-
-Verzoeken om terugbetaling van belasting die in strijd met de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=10&z=1999-03-28&g=1999-03-28), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=11&z=1999-03-28&g=1999-03-28) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=III&artikel=12&z=1999-03-28&g=1999-03-28) is geheven, moeten bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### VI. Ad [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=IV&artikel=24&z=1999-03-28&g=1999-03-28) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28)
-
-De bepalingen inzake het heffen van belastingen naar het vermogen in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=IV&artikel=24&z=1999-03-28&g=1999-03-28) en de bepalingen betreffende de vermijding van dubbele belasting met betrekking tot het vermogen in het [tweede lid van artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28) van de Overeenkomst zijn niet van toepassing zolang Malta geen belasting naar het vermogen heft.
-
-##### VII. Ad [Artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28)
-
-Het is wel te verstaan dat, wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28), is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting, onderscheidenlijk de vennootschapsbelasting.
-
-##### VIII. Ad [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28)
-
-Niettegenstaande [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VII&artikel=34&z=1999-03-28&g=1999-03-28) van de Overeenkomst houdt de bepaling van [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=V&artikel=25&z=1999-03-28&g=1999-03-28), op van kracht te zijn na de laatste dag van december 1997, tenzij de bevoegde autoriteiten in onderlinge overeenstemming anders beslissen.
-
-##### IX. Ad [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=28&z=1999-03-28&g=1999-03-28) en [30](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=30&z=1999-03-28&g=1999-03-28)
-
-1. Het is wel te verstaan dat bepalingen inzake de vertrouwelijkheid die zijn opgenomen in een bijzondere regeling zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=30&z=1999-03-28&g=1999-03-28), of dergelijke bepalingen van gelijke of in wezen gelijksoortige wettelijke voorschriften die worden uitgevaardigd naast of in de plaats van deze bijzondere regeling, geen beperkingen mogen opleggen aan de uitwisseling van inlichtingen zoals bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=28&z=1999-03-28&g=1999-03-28) van de Overeenkomst in gevallen waarin de bevoegde autoriteit van Malta en de desbetreffende autoriteit die verantwoordelijk is voor de toepassing van die bijzondere regeling, overeenkomen dat er voldoende bewijs bestaat om strafrechtelijke vervolging te rechtvaardigen.
-
-2. Het is voorts wel te verstaan dat bepalingen van wettelijke voorschriften inzake de vertrouwelijkheid die na 1 januari 1994 worden uitgevaardigd, gelijk aan of in de plaats van bepalingen inzake de vertrouwelijkheid, opgenomen in de bijzondere regeling zoals bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=30&z=1999-03-28&g=1999-03-28) van de Overeenkomst, geen beperkingen mogen opleggen aan de uitwisseling van inlichtingen zoals bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0003762&hoofdstuk=VI&artikel=28&z=1999-03-28&g=1999-03-28) van de Overeenkomst in geval van verdenking van het vermijden van belasting of het ontgaan van belasting.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

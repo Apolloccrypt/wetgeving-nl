@@ -1,87 +1,55 @@
 ---
 title: "Regionale Overeenkomst inzake de middengolfomroep in regio 2"
 identifier: "BWBV0002929"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-07-01"
-last_updated: "1983-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002929"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003256743"
-version_id: "10003277542"
-internal_id: "C10006979801"
-label_id: "10003242714"
-dtd_version: "2.0"
-original_entry_into_force: "1983-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002929/1983-07-01/0"
-intitule_bron: "Trb.1983-87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-08-09"
-intitule_published: "1983-05-16"
-intitule_in_force: "1983-05-16"
-intitule_status: "goed"
-original_publication: "Trb.1983-87"
-original_signed_date: "1983-08-09"
-original_published_date: "1983-05-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-87"
-entry_into_force_date: "1983-07-01"
-jci_1_3: "jci1.3:c:BWBV0002929&z=1983-07-01&g=1983-07-01"
-jci_1_0: "1.0:c:BWBV0002929&g=1983-07-01"
-citeertitel_status: "officieel"
-signed_date: "1983-08-09"
-entry_into_force: "1983-07-01"
+publicatiedatum: 1983-07-01
+laatste_update: 1983-07-01
+status: geldig
+toestand: 1983-07-01
+bron: "https://wetten.overheid.nl/BWBV0002929"
+opgehaald: 2026-09-13
 ---
+
 # Regionale Overeenkomst inzake de middengolfomroep in regio 2
 
-Fully respecting the sovereign right of each country to regulate within its territory the broadcasting service in the medium frequency band and to reach special arrangements with such countries as it may consider appropriate, without prejudice to other administrations;
-
-In order to facilitate relations among the Members of Region 2, mutual understanding, and cooperation on broadcasting in the medium frequency band;
-
-In order to improve the utilization of the frequency band allocated to the medium frequency broadcasting service and achieve a satisfactory broadcasting service in all the countries;
-
-Recognizing that all countries have equal rights, and that, in the application of this Agreement, the needs of each country, in particular those of developing countries, shall be fulfilled as far as possible;
-
-Recognizing that the protection of mutually accepted services in a major objective for all countries, attempting thereby to bring about better coordination and the use of more efficient facilities;
-
-the delegates of the Members of the International Telecommunication Union meeting in Rio de Janeiro at a regional administrative conference convened under the provisions of the International Telecommunication Convention (Malaga-Torremolinos, 1973), have adopted, subject to approval by the competent authorities of their respective countries, the following provisions relating to the broadcasting service in Region 2 for the medium frequency band between 535 and 1605 kHz:
+*Fully respecting the sovereign right of each country to regulate within its territory the broadcasting service in the medium frequency band and to reach special arrangements with such countries as it may consider appropriate, without prejudice to other administrations; In order to facilitate relations among the Members of Region 2, mutual understanding, and cooperation on broadcasting in the medium frequency band; In order to improve the utilization of the frequency band allocated to the medium frequency broadcasting service and achieve a satisfactory broadcasting service in all the countries; Recognizing that all countries have equal rights, and that, in the application of this Agreement, the needs of each country, in particular those of developing countries, shall be fulfilled as far as possible; Recognizing that the protection of mutually accepted services in a major objective for all countries, attempting thereby to bring about better coordination and the use of more efficient facilities; the delegates of the Members of the International Telecommunication Union meeting in Rio de Janeiro at a regional administrative conference convened under the provisions of the International Telecommunication Convention (Malaga-Torremolinos, 1973), have adopted, subject to approval by the competent authorities of their respective countries, the following provisions relating to the broadcasting service in Region 2 for the medium frequency band between 535 and 1605 kHz:*
 
 ##### Article 1. Definitions
 
 For the purposes of this Agreement, the following terms shall have the meanings defined below:
 
-**Union:**The International Telecommunication Union;
+*Union:*The International Telecommunication Union;
 
-**Secretary-General:**The Secretary-General of the Union;
+*Secretary-General:*The Secretary-General of the Union;
 
-**IFRB:**The International Frequency Registration Board;
+*IFRB:*The International Frequency Registration Board;
 
-**CCIR:**The International Radio Consultative Committee;
+*CCIR:*The International Radio Consultative Committee;
 
-**Convention:**The International Telecommunication Convention;
+*Convention:*The International Telecommunication Convention;
 
-**Radio Regulations:**The Radio Regulations supplementing the provisions of the Convention;
+*Radio Regulations:*The Radio Regulations supplementing the provisions of the Convention;
 
-**Region 2:**The geographical area defined in No. 394 of the Radio Regulations, Geneva, 1979;
+*Region 2:*The geographical area defined in No. 394 of the Radio Regulations, Geneva, 1979;
 
-**Master Register:**The Master International Frequency Register;
+*Master Register:*The Master International Frequency Register;
 
-**Agreement:**This Agreement and its Annexes;
+*Agreement:*This Agreement and its Annexes;
 
-**Plan:**The Plan and its appendices forming Annex 1 to the Agreement and the modifications introduced as a result of the application of the procedure of Article 4 of the Agreement;
+*Plan:*The Plan and its appendices forming Annex 1 to the Agreement and the modifications introduced as a result of the application of the procedure of Article 4 of the Agreement;
 
-**Contracting Member:**Any Member of the Union which has approved the Agreement or acceded to it;
+*Contracting Member:*Any Member of the Union which has approved the Agreement or acceded to it;
 
-**Administration:**Any governmental department or service responsible for discharging the obligations undertaken in the Convention and the Radio Regulations;
+*Administration:*Any governmental department or service responsible for discharging the obligations undertaken in the Convention and the Radio Regulations;
 
-**Station:**Medium frequency broadcasting station;
+*Station:*Medium frequency broadcasting station;
 
-**Assignment in conformity with the agreement:** A frequency assignment appearing in the Plan;
+*Assignment in conformity with the agreement:* A frequency assignment appearing in the Plan;
 
-**Objectionable interference:**The interference caused by a signal that exceeds the maximum permissible field strength within the protected contour, in accordance with the values derived from Annex 2 to the Agreement.
+*Objectionable interference:*The interference caused by a signal that exceeds the maximum permissible field strength within the protected contour, in accordance with the values derived from Annex 2 to the Agreement.
 
-**Harmful interference:**Interference which endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs or repeatedly interrupts a radiocommunication service operating in accordance with the Radio Regulations.
+*Harmful interference:*Interference which endangers the functioning of a radionavigation service or of other safety services or seriously degrades, obstructs or repeatedly interrupts a radiocommunication service operating in accordance with the Radio Regulations.
 
 ##### Article 2. Frequency Band
 
@@ -99,17 +67,17 @@ The provisions of the Agreement shall apply to the frequency band 535 to 1605 kH
 
 4.1. When a Contracting Member proposes to make a modification to the Plan, i.e.:
 
-- -. to change the characteristics of a frequency assignment to a station shown in the Plan, whether or not the station has been brought into use;
+- - to change the characteristics of a frequency assignment to a station shown in the Plan, whether or not the station has been brought into use;
 
-- -. to introduce a new assignment into the Plan, or
+- - to introduce a new assignment into the Plan, or
 
-- -. to bring into use a new station, or
+- - to bring into use a new station, or
 
-- -. to cancel a frequency assignment to a station,
+- - to cancel a frequency assignment to a station,
 
 the following procedure shall be applied before any notification is made under the provisions of Article 12 of the Radio Regulations (see Article 5 of this Agreement).
 
-4.2. **Proposals for changes in the characteristics of an assignment, for the introduction of a new assignment or for the bringing into use of a new station**
+4.2. *Proposals for changes in the characteristics of an assignment, for the introduction of a new assignment or for the bringing into use of a new station*
 
 - 4.2.1. Any administration proposing to change the characteristics of an assignment in the Plan, to introduce a new assignment or bring into use a new station shall seek the agreement of any administration that has an assignment in conformity with the Agreement in the same channel or in adjacent channels with a separation up to 30 kHz and that is considered to be adversely affected in accordance with the provisions of 4.2.10 of this Article.
 
@@ -127,9 +95,9 @@ the following procedure shall be applied before any notification is made under t
 
 - 4.2.8. The IFRB shall also determine: For this purpose, the IFRB shall take into account only those pending modifications which have been received by the Board no more than 180 days before the date of receipt of the modification under consideration. The IFRB shall forward the results of its calculations to the administrations concerned.
 
-- -. the effect of the proposed modification on pending modifications not yet included in the Plan; and
+   - - the effect of the proposed modification on pending modifications not yet included in the Plan; and
 
-- -. the effect of pending modifications on the proposed modification.
+   - - the effect of pending modifications on the proposed modification.
 
 - 4.2.9. The administration proposing a modification shall, in addition to the agreement referred to in 4.2.1, seek the agreement of the administrations whose modifications already received by the IFRB and still pending are considered to be adversely affected in accordance with 4.2.10, but have not been pending longer than 180 days from the date of receipt of the proposed modification by the IFRB in accordance with 4.2.8.
 
@@ -159,7 +127,7 @@ the following procedure shall be applied before any notification is made under t
 
 - 4.2.22. When the proposed modification to the Plan involves a developing country, administrations shall seek a solution conducive to the economic development of the broadcasting system of the developing country, giving due consideration to the principles enunciated to this effect in the Preamble to this Agreement.
 
-4.3. **Special procedure for modifying the Plan**
+4.3. *Special procedure for modifying the Plan*
 
 - 4.3.1. If, after having exhausted all technical possibilities to secure the agreement referred to in 4.2.1 by applying the procedure provided in 4.2.2 to 4.2.21 an administration fails to have its proposed modification entered in the Plan, it may request the IFRB to apply the provisions of the special procedure outlined below.
 
@@ -169,9 +137,9 @@ the following procedure shall be applied before any notification is made under t
 
 - 4.3.4. In order to guarantee the integrity of the technical criteria on which the Plan is based, the IFRB shall make recommendations to the administration proposing the modification for reducing or eliminating the objectionable interference. In any case, these recommendations should cover the following technical solutions:
 
-- -. modification of an assignment entered in the Plan in the name of the administration proposing the modification but not yet put into service;
+   - - modification of an assignment entered in the Plan in the name of the administration proposing the modification but not yet put into service;
 
-- -. the use of directional antennas, reduction of the power or change in the site of the transmitter.
+   - - the use of directional antennas, reduction of the power or change in the site of the transmitter.
 
 - 4.3.5. The administration proposing the modification to the Plan should do all in its power to eliminate any objectionable interference or reduce it to a minimum by adopting the technical solution suggested by the IFRB.
 
@@ -181,15 +149,15 @@ the following procedure shall be applied before any notification is made under t
 
 - 4.3.8. A note in the Plan shall indicate that in the examination of proposed modifications to the Plan which may subsequently be submitted, the relevant calculations shall be made with reference to the initial usable field strength value of the other assignments in the same channel, without the assignment in question being considered.
 
-4.4. **Settlement of disputes**
+4.4. *Settlement of disputes*
 
 If, after application of the procedure described in this Article, the administrations concerned are unable to reach agreement, they may resort to the procedure established in Article 50 of the Convention. The administrations also may apply, by common agreement, the Optional Additional Protocol to the Convention.
 
-4.5. **Cancellation of an assignment**
+4.5. *Cancellation of an assignment*
 
 When an administration decides to cancel an assignment in conformity with the Agreement, it shall immediately notify the IFRB, which shall publish the cancellation in a special section of its weekly circular.
 
-4.6. **Assignments recorded in the Plan but not brought into service**
+4.6. *Assignments recorded in the Plan but not brought into service*
 
 - 4.6.1. The IFRB shall consult the administration concerned with regard to the advisability of cancelling assignments recorded in the Plan or introduced into the Plan pursuant to the provisions of this Article, but not brought into service within four years of the date of inclusion of the assignment in the Plan. If the administration agrees, the IFRB shall publish the cancellation in a special section of the weekly circular.
 
@@ -199,7 +167,7 @@ When an administration decides to cancel an assignment in conformity with the Ag
 
 - 4.6.4. Should the administration concerned decide to bring the assignment into service at a later date, it shall inform the IFRB. Upon receipt of this information, the IFRB shall examine the assignment from the point of view of objectionable interference caused to stations entered in the Plan since the insertion of the symbol referred to in 4.6.3. In cases where the IFRB finds that not objectionable interference will be caused to such stations, it shall delete the symbol. The administration shall notify the assignment in accordance with Article 5 of the Agreement. In cases where the IFRB finds that objectionable interference may be caused, it shall so inform the administration concerned, which shall take appropriate measures to prevent the interference. The symbol shall remain in the Plan until these measures have been taken.
 
-4.7. **Master copy of the Plan**
+4.7. *Master copy of the Plan*
 
 - 4.7.1. The IFRB shall keep an up-to-date master copy of the Plan as modified in application of the procedure specified in this Article.
 
@@ -252,7 +220,3 @@ This Agreement shall enter into force on 1 July 1983 at 0800 hours UTC.
 12.1. The Agreement has been established with a view to meeting the requirements of the medium frequency broadcasting service for a period of about 10 years from the date of entry into force of the Agreement.
 
 12.2. The Agreement shall remain in force until it is revised by a competent administrative radio conference of Region 2.
-
-IN WITNESS WHEREOF, the delegates of the Members of the Union mentioned above have, on behalf of their respective competent authorities, signed these Final Acts in a single copy in the English, French and Spanish languages, in which, in case of dispute, the French text shall prevail. This copy shall remain deposited in the archives of the Union. The Secretary-General shall forward one certified true copy to each Member in Region 2.
-
-DONE at Rio de Janeiro, on 19 December 1981

@@ -1,64 +1,39 @@
 ---
 title: "Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)"
 identifier: "BWBV0003149"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-12-01"
-last_updated: "2008-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003149"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003357003"
-version_id: "10003393442"
-internal_id: "C10008430411"
-label_id: "10003342864"
-dtd_version: "2.0"
-original_entry_into_force: "2008-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003149/2008-12-01/0"
-intitule_bron: "Trb.2006-135"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2006-06-30"
-intitule_in_force: "2009-04-14"
-intitule_status: "goed"
-original_publication: "Trb.2006-135"
-original_published_date: "2006-06-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-135"
-entry_into_force_date: "2008-12-01"
-jci_1_3: "jci1.3:c:BWBV0003149&z=2008-12-01&g=2008-12-01"
-jci_1_0: "1.0:c:BWBV0003149&g=2008-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-12-01"
+publicatiedatum: 2008-12-01
+laatste_update: 2008-12-01
+status: geldig
+toestand: 2008-12-01
+bron: "https://wetten.overheid.nl/BWBV0003149"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen de Regeringen van de Benelux-staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst)
 
-De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden), die krachtens de bepalingen van de op 11 april 1960 gesloten Benelux-Overeenkomst gemeenschappelijk optreden, en de Macedoonse Regering,
-
-Hierna genoemd „de Overeenkomstsluitende Partijen”,
-
-Ernaar strevend de overname van personen die zich illegaal op het grondgebied van de Staat van een andere Overeenkomstsluitende Partij ophouden, dat wil zeggen die niet of niet meer voldoen aan de geldende voorwaarden voor binnenkomst of verblijf, en de doorgeleiding van te repatriëren personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken,
-
-Zijn het volgende overeengekomen:
+*De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden), die krachtens de bepalingen van de op 11 april 1960 gesloten Benelux-Overeenkomst gemeenschappelijk optreden, en de Macedoonse Regering, Hierna genoemd „de Overeenkomstsluitende Partijen”, Ernaar strevend de overname van personen die zich illegaal op het grondgebied van de Staat van een andere Overeenkomstsluitende Partij ophouden, dat wil zeggen die niet of niet meer voldoen aan de geldende voorwaarden voor binnenkomst of verblijf, en de doorgeleiding van te repatriëren personen in een geest van samenwerking en op basis van wederkerigheid te vergemakkelijken, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities en werkingssfeer
 
 1. In deze Overeenkomst dient te worden verstaan onder grondgebied:
 
-- (1). voor de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
+- (1) voor de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
 
-- (2). voor de Macedoonse Regering: het Macedoonse grondgebied.
+- (2) voor de Macedoonse Regering: het Macedoonse grondgebied.
 
 2. In deze Overeenkomst dient te worden verstaan:
 
-- (1). onder „derde Staat”: elke Staat die geen Staat van de Overeenkomstsluitende Partijen is;
+- (1) onder „derde Staat”: elke Staat die geen Staat van de Overeenkomstsluitende Partijen is;
 
-- (2). onder „onderdaan van een derde Staat”: eenieder die geen onderdaan van één der Staten van de Overeenkomstsluitende Partijen is;
+- (2) onder „onderdaan van een derde Staat”: eenieder die geen onderdaan van één der Staten van de Overeenkomstsluitende Partijen is;
 
-- (3). onder „buitengrenzen”:
+- (3) onder „buitengrenzen”:
 
-- a). de eerst overschreden grens die niet een gemeenschappelijke grens van de Overeenkomstsluitende Partijen is;
+   - a) de eerst overschreden grens die niet een gemeenschappelijke grens van de Overeenkomstsluitende Partijen is;
 
-- b). iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen lucht- of zeehaven, waar personenverkeer van of naar een derde Staat plaatsvindt.
+   - b) iedere binnen het Benelux-gebied of op het Macedoonse grondgebied gelegen lucht- of zeehaven, waar personenverkeer van of naar een derde Staat plaatsvindt.
 
 ##### Artikel 2. Overname van eigen onderdanen
 
@@ -90,61 +65,61 @@ Hetzelfde geldt voor personen die na binnenkomst op het grondgebied van de Staat
 
 ##### Artikel 5. Verblijfstitels
 
-Onder verblijfstitels als bedoeld in [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01), en artikel 4, wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek.
+Onder verblijfstitels als bedoeld in [artikel 3, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01), en [artikel 4](https://wetten.overheid.nl/BWBV0003149), wordt verstaan een door een Overeenkomstsluitende Partij afgegeven vergunning, ongeacht van welke aard, die recht geeft op verblijf op het grondgebied van de Staat van die Overeenkomstsluitende Partij. Onder deze omschrijving valt niet de tijdelijke toelating tot verblijf op het grondgebied van de Staat van een Overeenkomstsluitende Partij met het oog op de behandeling van een asielverzoek.
 
 ##### Artikel 6. Bewijsmiddelen met betrekking tot eigen onderdanen
 
 1. Het bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01) kan worden geleverd door middel van de navolgende documenten:
 
-- (1). voor de Macedoonse onderdanen:
+- (1) voor de Macedoonse onderdanen:
 
-- –. reisdocument: persoonlijk paspoort, diplomatiek paspoort, dienstpaspoort en laissez-passer (vrijgeleide);
+   - – reisdocument: persoonlijk paspoort, diplomatiek paspoort, dienstpaspoort en laissez-passer (vrijgeleide);
 
-- –. identiteitskaart;
+   - – identiteitskaart;
 
-- –. nationaliteitsbewijs vergezeld van een ander identificatiedocument dat van een foto is voorzien;
+   - – nationaliteitsbewijs vergezeld van een ander identificatiedocument dat van een foto is voorzien;
 
-- (2). voor de onderdanen van de Benelux-Staten:
+- (2) voor de onderdanen van de Benelux-Staten:
 
-- –. een geldig paspoort of paspoortvervangend reisdocument met foto (lais-sez-passer);
+   - – een geldig paspoort of paspoortvervangend reisdocument met foto (lais-sez-passer);
 
-- –. een geldig nationaal identiteitsbewijs;
+   - – een geldig nationaal identiteitsbewijs;
 
-- –. een geldig militair identiteitsbewijs of een ander identiteitsbewijs van het personeel van de strijdkrachten met een foto van de houder;
+   - – een geldig militair identiteitsbewijs of een ander identiteitsbewijs van het personeel van de strijdkrachten met een foto van de houder;
 
-- –. een geldig zeemansboekje;
+   - – een geldig zeemansboekje;
 
-- –. andere officiële documenten waaruit de nationaliteit van betrokkene blijkt, afgegeven door de aangezochte Overeenkomstsluitende Partij en voorzien van een foto;
+   - – andere officiële documenten waaruit de nationaliteit van betrokkene blijkt, afgegeven door de aangezochte Overeenkomstsluitende Partij en voorzien van een foto;
 
-- –. een document, zoals hiervoor beschreven, waarvan de geldigheidsduur is verstreken op de datum waarop het verzoek om overname wordt verzonden.
+   - – een document, zoals hiervoor beschreven, waarvan de geldigheidsduur is verstreken op de datum waarop het verzoek om overname wordt verzonden.
 
 Wanneer dergelijke documenten worden voorgelegd, erkennen de Overeenkomstsluitende Partijen de nationaliteit zonder verdere formaliteiten.
 
 2. Het begin van bewijs van de nationaliteit overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01) kan worden geleverd door middel van de navolgende documenten of elementen:
 
-- (1). voor de Macedoonse onderdanen:
+- (1) voor de Macedoonse onderdanen:
 
-- –. één van de in lid 1, paragraaf (1), van dit artikel, genoemde documenten waarvan de geldigheidsduur is verstreken;
+   - – één van de in lid 1, paragraaf (1), van dit artikel, genoemde documenten waarvan de geldigheidsduur is verstreken;
 
-- –. een kopie van de in lid 1, paragraaf (1), van dit artikel genoemde documenten;
+   - – een kopie van de in lid 1, paragraaf (1), van dit artikel genoemde documenten;
 
-- –. een verklaring van betrokkene of van een betrouwbare getuigenverklaring vastgelegd in een door de bestuurlijke of gerechtelijke autoriteiten van de verzoekende Overeenkomstsluitende Partij opgesteld verslag;
+   - – een verklaring van betrokkene of van een betrouwbare getuigenverklaring vastgelegd in een door de bestuurlijke of gerechtelijke autoriteiten van de verzoekende Overeenkomstsluitende Partij opgesteld verslag;
 
-- (2). voor de onderdanen van de Benelux-Staten:
+- (2) voor de onderdanen van de Benelux-Staten:
 
-- –. een kopie van één van de in lid 1, paragraaf (2), van dit artikel, genoemde documenten;
+   - – een kopie van één van de in lid 1, paragraaf (2), van dit artikel, genoemde documenten;
 
-- –. andere documenten die kunnen bijdragen tot het vaststellen van de nationaliteit van de betrokkene (rijbewijs, e.a.);
+   - – andere documenten die kunnen bijdragen tot het vaststellen van de nationaliteit van de betrokkene (rijbewijs, e.a.);
 
-- –. een document waaruit een consulaire inschrijving blijkt, een nationaliteitsbewijs of een bewijs van de burgerlijke stand;
+   - – een document waaruit een consulaire inschrijving blijkt, een nationaliteitsbewijs of een bewijs van de burgerlijke stand;
 
-- –. een bedrijfspas;
+   - – een bedrijfspas;
 
-- –. afschriften/kopieën van de onder streepje 2 tot en met 4, genoemde documenten;
+   - – afschriften/kopieën van de onder streepje 2 tot en met 4, genoemde documenten;
 
-- –. een betrouwbare getuigenverklaring;
+   - – een betrouwbare getuigenverklaring;
 
-- –. de verklaring van de betrokkene zelf.
+   - – de verklaring van de betrokkene zelf.
 
 Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Overeenkomstsluitende Partijen de nationaliteit als vaststaand aan, tenzij de aangezochte Overeenkomstsluitende Partij het tegendeel kan bewijzen.
 
@@ -154,41 +129,41 @@ Wanneer dergelijke documenten of elementen worden voorgelegd, nemen de Overeenko
 
 1. Het bewijs dat is voldaan aan de in [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) vermelde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
-- (1). geldige visa of verblijfstitels afgegeven door de aangezochte Overeenkomstsluitende Partij;
+- (1) geldige visa of verblijfstitels afgegeven door de aangezochte Overeenkomstsluitende Partij;
 
-- (2). visa of verblijfstitels afgegeven door de aangezochte Overeenkomstsluitende Partij, waarvan de geldigheidsduur niet langer dan één jaar is verstreken;
+- (2) visa of verblijfstitels afgegeven door de aangezochte Overeenkomstsluitende Partij, waarvan de geldigheidsduur niet langer dan één jaar is verstreken;
 
-- (3). inreis-/uitreisstempels of soortgelijke aantekeningen in het reisdocument van de betrokkene waaruit diens binnenkomst of het verblijf op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij blijkt of waarmee zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij vanuit het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij kan worden aangetoond (reisroute);
+- (3) inreis-/uitreisstempels of soortgelijke aantekeningen in het reisdocument van de betrokkene waaruit diens binnenkomst of het verblijf op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij blijkt of waarmee zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij vanuit het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij kan worden aangetoond (reisroute);
 
-- (4). door de aangezochte Overeenkomstsluitende Partij op naam afgegeven documenten (bijvoorbeeld: rijbewijs, legitimatiebewijs);
+- (4) door de aangezochte Overeenkomstsluitende Partij op naam afgegeven documenten (bijvoorbeeld: rijbewijs, legitimatiebewijs);
 
-- (5). documenten van de burgerlijke stand of een inschrijving op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij (reisdocument, identiteitskaart en overige);
+- (5) documenten van de burgerlijke stand of een inschrijving op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij (reisdocument, identiteitskaart en overige);
 
-- (6). kopieën van de onder de punten (1) tot en met (5) genoemde documenten.
+- (6) kopieën van de onder de punten (1) tot en met (5) genoemde documenten.
 
 Bovengenoemde bewijsmiddelen worden tussen de Overeenkomstsluitende Partijen zonder verdere formaliteiten erkend.
 
 2. Een begin van bewijs dat is voldaan aan de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) genoemde voorwaarden voor overname van onderdanen van een derde Staat kan worden geleverd door middel van de navolgende bewijsmiddelen:
 
-- (1). op naam gestelde reisbiljetten, bescheiden of facturen indien daaruit de binnenkomst of het verblijf van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij blijkt, of waarmee zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij vanuit het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij kan worden aangetoond (bijvoorbeeld: hotelrekeningen, afspraakkaarten voor bezoek aan arts/tandarts, toegangsbewijzen voor openbare/particuliere instellingen, passagierslijsten voor vlieg- of bootreizen);
+- (1) op naam gestelde reisbiljetten, bescheiden of facturen indien daaruit de binnenkomst of het verblijf van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij blijkt, of waarmee zijn binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij vanuit het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij kan worden aangetoond (bijvoorbeeld: hotelrekeningen, afspraakkaarten voor bezoek aan arts/tandarts, toegangsbewijzen voor openbare/particuliere instellingen, passagierslijsten voor vlieg- of bootreizen);
 
-- (2). inlichtingen waaruit blijkt dat de betrokkene gebruik heeft gemaakt van de diensten van een reisbegeleider of reisbureau;
+- (2) inlichtingen waaruit blijkt dat de betrokkene gebruik heeft gemaakt van de diensten van een reisbegeleider of reisbureau;
 
-- (3). officiële verklaringen van met name met de controle aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij belaste ambtenaren en andere functionarissen die kunnen getuigen dat betrokkene de grens van de Staat van de aangezochte Overeenkomstsluitende Partij heeft overschreden;
+- (3) officiële verklaringen van met name met de controle aan de grens van de Staat van de aangezochte Overeenkomstsluitende Partij belaste ambtenaren en andere functionarissen die kunnen getuigen dat betrokkene de grens van de Staat van de aangezochte Overeenkomstsluitende Partij heeft overschreden;
 
-- (4). officiële verklaringen van ambtenaren over de aanwezigheid van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij;
+- (4) officiële verklaringen van ambtenaren over de aanwezigheid van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij;
 
-- (5). sedert meer dan één jaar verlopen verblijfstitel, afgegeven door de aangezochte Overeenkomstsluitende Partij;
+- (5) sedert meer dan één jaar verlopen verblijfstitel, afgegeven door de aangezochte Overeenkomstsluitende Partij;
 
-- (6). op schrift gestelde verklaring waarin de plaats en omstandigheden worden beschreven waaronder de betrokkene na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij is onderschept;
+- (6) op schrift gestelde verklaring waarin de plaats en omstandigheden worden beschreven waaronder de betrokkene na binnenkomst op het grondgebied van de Staat van de verzoekende Overeenkomstsluitende Partij is onderschept;
 
-- (7). inlichtingen die door een internationale organisatie zijn verstrekt met betrekking tot de identiteit en het verblijf van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij of van diens reisroute van het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij naar dat van de Staat van de verzoekende Overeenkomstsluitende Partij;
+- (7) inlichtingen die door een internationale organisatie zijn verstrekt met betrekking tot de identiteit en het verblijf van de betrokkene op het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij of van diens reisroute van het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij naar dat van de Staat van de verzoekende Overeenkomstsluitende Partij;
 
-- (8). door een reisgenoot afgelegde getuigenverklaring;
+- (8) door een reisgenoot afgelegde getuigenverklaring;
 
-- (9). verklaringen van de betrokkene zelf;
+- (9) verklaringen van de betrokkene zelf;
 
-- (10). andere bescheiden (bijvoorbeeld niet op naam gestelde toegangskaartjes) of betrouwbare informatie aan de hand waarvan het verblijf op of de doorreis over het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij aannemelijk gemaakt kan worden.
+- (10) andere bescheiden (bijvoorbeeld niet op naam gestelde toegangskaartjes) of betrouwbare informatie aan de hand waarvan het verblijf op of de doorreis over het grondgebied van de Staat van de aangezochte Overeenkomstsluitende Partij aannemelijk gemaakt kan worden.
 
 Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partijen aan dat aan de voorwaarden is voldaan, tenzij de aangezochte Overeenkomstsluitende Partij het tegendeel kan bewijzen.
 
@@ -198,11 +173,11 @@ Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partije
 
 1. Een verzoek om overname vindt schriftelijk plaats en omvat:
 
-- (1). de personalia van de betrokkene (naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, aliassen, geboortedatum en -plaats, geslacht en laatste verblijfplaats);
+- (1) de personalia van de betrokkene (naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, aliassen, geboortedatum en -plaats, geslacht en laatste verblijfplaats);
 
-- (2). de beschrijving van het paspoort of het paspoortvervangend reisdocument (onder meer volgnummer, plaats en datum van afgifte, geldigheidsduur, afgevende autoriteit) en/of enig ander bewijs waaruit de nationaliteit van de betrokkene blijkt of door middel waarvan zijn nationaliteit kan worden aangetoond of vermoed;
+- (2) de beschrijving van het paspoort of het paspoortvervangend reisdocument (onder meer volgnummer, plaats en datum van afgifte, geldigheidsduur, afgevende autoriteit) en/of enig ander bewijs waaruit de nationaliteit van de betrokkene blijkt of door middel waarvan zijn nationaliteit kan worden aangetoond of vermoed;
 
-- (3). twee pasfoto's.
+- (3) twee pasfoto's.
 
 2. De verzoekende Overeenkomstsluitende Partij kan elke andere voor de overnameprocedure dienstige inlichting aan de aangezochte Overeenkomstsluitende Partij verstrekken.
 
@@ -242,15 +217,15 @@ Wanneer dit begin van bewijs is geleverd, nemen de Overeenkomstsluitende Partije
 
 De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoerlegging van deze Overeenkomst door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen. De verwerking en de behandeling van persoonsgegevens in een bepaald geval zijn onderworpen aan de wetgeving van de Macedoonse Regering en, wanneer de behandeling door een bevoegde autoriteit van een Benelux-Staat wordt uitgevoerd, aan de bepalingen van Richtlijn 95/46 /EG van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de uit hoofde van deze Richtlijn vastgestelde nationale wetgeving. Daarenboven, mogen deze inlichtingen enkel betrekking hebben op:
 
-- (1). de personalia van de over te dragen persoon en in voorkomend geval van hun naaste verwanten (naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, aliassen, geboortedatum en -plaats, geslacht, huidige en, in voorkomend geval, vorige nationaliteit);
+- (1) de personalia van de over te dragen persoon en in voorkomend geval van hun naaste verwanten (naam, voornaam, eventueel vroegere namen, bijnamen en pseudoniemen, aliassen, geboortedatum en -plaats, geslacht, huidige en, in voorkomend geval, vorige nationaliteit);
 
-- (2). paspoort, identiteitsbewijs, andere identiteitspapieren of reisdocumenten (volgnummer, plaats en datum van afgifte, geldigheidsduur, afgevende autoriteit, enz.);
+- (2) paspoort, identiteitsbewijs, andere identiteitspapieren of reisdocumenten (volgnummer, plaats en datum van afgifte, geldigheidsduur, afgevende autoriteit, enz.);
 
-- (3). andere voor identificatie van de over te dragen personen dienstige gegevens;
+- (3) andere voor identificatie van de over te dragen personen dienstige gegevens;
 
-- (4). verblijfplaatsen en reisroutes;
+- (4) verblijfplaatsen en reisroutes;
 
-- (5). verblijfsvergunningen of door één van de Overeenkomstsluitende Partijen afgegeven visa.
+- (5) verblijfsvergunningen of door één van de Overeenkomstsluitende Partijen afgegeven visa.
 
 ##### Artikel 14. Kosten
 
@@ -262,13 +237,13 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 
 1. De Overeenkomstsluitende Partijen verlenen elkaar onderling bijstand bij de toepassing en uitlegging van deze Overeenkomst. Daartoe stellen zij een comité van deskundigen in dat met name:
 
-- (1). de toepassing van deze Overeenkomst volgt;
+- (1) de toepassing van deze Overeenkomst volgt;
 
-- (2). voorstellen doet om vraagstukken in verband met de toepassing van deze Overeenkomst op te lossen;
+- (2) voorstellen doet om vraagstukken in verband met de toepassing van deze Overeenkomst op te lossen;
 
-- (3). wijzigingen van en aanvullingen op deze Overeenkomst voorstelt;
+- (3) wijzigingen van en aanvullingen op deze Overeenkomst voorstelt;
 
-- (4). passende maatregelen ter bestrijding van illegale immigratie uitwerkt en aanbeveelt.
+- (4) passende maatregelen ter bestrijding van illegale immigratie uitwerkt en aanbeveelt.
 
 2. De Overeenkomstsluitende Partijen behouden zich het recht voor om de voorgestelde maatregelen van het Comité al dan niet goed te keuren.
 
@@ -280,23 +255,23 @@ De persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitv
 
 De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die voortvloeien uit:
 
-- (1). het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967](onbekend);
+- (1) het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967;
 
-- (2). verdragen inzake uitlevering en doorgeleiding;
+- (2) verdragen inzake uitlevering en doorgeleiding;
 
-- (3). het [Verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
+- (3) het [Verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000);
 
-- (4). het Europees gemeenschapsrecht voor het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+- (4) het Europees gemeenschapsrecht voor het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
 
-- (5). het op 14 juni 1985 te Schengen gesloten [Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen](onbekend) en de op 19 juni 1990 gesloten [Overeenkomst ter uitvoering van genoemd Akkoord van Schengen](onbekend);
+- (5) het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen en de op 19 juni 1990 gesloten Overeenkomst ter uitvoering van genoemd Akkoord van Schengen;
 
-- (6). internationale asielovereenkomsten;
+- (6) internationale asielovereenkomsten;
 
-- (7). internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen.
+- (7) internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen.
 
 ##### Artikel 17. Uitvoeringsprotocol
 
-Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het Uitvoeringsprotocol vastgelegd.
+Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het [Uitvoeringsprotocol](https://wetten.overheid.nl/BWBV0003149) vastgelegd.
 
 ##### Artikel 18. Territoriale toepassing
 
@@ -322,144 +297,24 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 
 De Regering van het Koninkrijk België is depositaris van deze Overeenkomst.
 
-De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering met het oog op de toepassing van de Overeenkomst tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen
-
-Zijn het volgende overeengekomen:
-
-##### Artikel 1. Verzoek om overname
-
-1. De verzoeken om overname worden gedaan, wanneer de identiteit en de nationaliteit van de over te nemen persoon zijn aangetoond of aannemelijk gemaakt krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=6&z=2008-12-01&g=2008-12-01) en [7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=7&z=2008-12-01&g=2008-12-01). Deze verzoeken dienen te worden ingediend conform [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=8&z=2008-12-01&g=2008-12-01).
-
-2. De verzoekende Overeenkomstsluitende Partij richt een verzoek tot de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij.
-
-3. Het verzoek bevat:
-
-- –. naam en adres van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij, nummer van het dossier en de datum van het verzoek;
-
-- –. naam en adres van de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij;
-
-- –. de inleidende tekst die luidt: „Wij vragen dat de persoon ten aanzien van wie kan worden aangenomen dat voor hem/haar de overnameverplichting conform de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01) bestaat, op het grondgebied van het Koninkrijk België (het Groothertogdom Luxemburg/ het Koninkrijk der Nederlanden op het Macedoonse grondgebied) wordt overgenomen”;
-
-- –. de gegevens inzake de over te nemen persoon;
-
-- –. zo nodig, de gegevens betreffende de minderjarige kinderen;
-
-- –. de handtekening van de vertegenwoordiger en de officiële stempel van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij.
-
-4. De te verstrekken gegevens over de over te nemen persoon zijn de volgende:
-
-- 4.1. Persoonlijke gegevens:
-
-- –. naam en voornamen;
-
-- –. geboortedatum;
-
-- –. geboorteplaats en -land;
-
-- –. geslacht;
-
-- –. plaats van de laatste woonplaats op het grondgebied van de aangezochte Overeenkomstsluitende Partij;
-
-- –. zo nodig, vroegere naam, pseudoniem of bijnaam.
-
-- 4.2. Beschrijving van het paspoort of paspoortvervangend reisdocument (met name het nummer van de serie, plaats en datum van uitgifte, geldigheidsduur, afgevende autoriteit) en/of elk ander document dat het mogelijk maakt om de nationaliteit van de betrokkene vast te stellen of aannemelijk te maken.
-
-- 4.3. Twee (2) pasfoto's.
-
-5. Gegevens betreffende de minderjarige kinderen:
-
-- –. naam en voornamen;
-
-- –. verwantschap met de houder van het reisdocument;
-
-- –. geboortedag, -maand en -jaar;
-
-- –. geboorteplaats.
-
-Bijgevoegd worden:
-
-- –. geboorteakte voor een op het grondgebied van de verzoekende Overeenkomstsluitende Partij geboren kind;
-
-- –. zo mogelijk, de geboorteakte voor een op het grondgebied van een andere Staat geboren kind;
-
-- –. een foto voor elk kind van vijf (5) jaar of ouder.
-
-##### Artikel 2. Antwoord op het verzoek om overname
-
-1. Het antwoord op het verzoek wordt door de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij aan de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij conform de in [artikel 9 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2008-12-01&g=2008-12-01) gestelde termijnen overgemaakt.
-
-2. Het antwoord op het verzoek bevat:
-
-- –. naam en adres van de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, dossiernummer en de datum van het antwoord op het verzoek;
-
-- –. naam en adres van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij;
-
-- –. naam en voornamen, geboorteplaats en -datum van de betrokkene;
-
-- –. verklaring ter bevestiging dat er voor de betrokkene een overnameverplichting bestaat conform de bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=2&z=2008-12-01&g=2008-12-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=3&z=2008-12-01&g=2008-12-01) en [4 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=4&z=2008-12-01&g=2008-12-01)
-
-of
-
-- –. ingeval van een negatief antwoord een verklarende nota waarin wordt aangegeven waarom voor de betrokkene de identiteit niet kon worden vastgesteld en/of dat de overnameverplichting conform de bepalingen van de artikelen 2, 3 of 4 niet op hem/haar van toepassing is.
-
-##### Artikel 3. Reisdocument
-
-1. De bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij overhandigt de diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij het positieve antwoord op het verzoek met het oog op de afgifte van het reisdocument.
-
-2. De diplomatieke of consulaire vertegenwoordiging van de aangezochte Overeenkomstsluitende Partij geeft op grond van het positieve antwoord op het verzoek het reisdocument af voor de persoon van wie de overname is toegestaan.
-
-3. Het reisdocument heeft een geldigheidsduur van tenminste één (1) maand.
-
-4. Wanneer de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij niet in staat is een persoon vóór de datum waarop het reisdocument verloopt over te dragen dient zij de betrokken bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis te stellen. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden dient de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij een nieuw reisdocument te verstrekken met eenzelfde geldigheidsduur en dit binnen de vijf (5) werkdagen die volgen op een verzoek daartoe van de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij.
-
-##### Artikel 4. Overnameprocedure
-
-1. De bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij stelt de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, per telefax of via elektronische weg, minimaal drie werkdagen vóór de geplande overdracht in kennis van haar intentie daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.
-
-2. Indien de verzoekende Overeenkomstsluitende Partij in de onmogelijkheid verkeert de over te nemen persoon binnen de in [artikel 9, lid 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=9&z=2008-12-01&g=2008-12-01) genoemde termijn van één maand over te dragen, stelt zij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij, via de diplomatieke vertegenwoordiging, daarvan onverwijld in kennis. Zodra de effectieve overdracht van de betrokkene kan plaatsvinden, stelt de bevoegde autoriteit van de verzoekende Overeenkomstsluitende Partij de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij daarvan in kennis, overeenkomstig de in lid 1, bedoelde procedure en termijnen.
-
-3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Overeenkomstsluitende Partij daarvan afzonderlijk melding op het formulier dat als bijlage 1 aan dit Uitvoeringsprotocol is gehecht.
-
-##### Artikel 5. Ondersteuning van de doorgeleiding
-
-1. Indien de verzoekende Overeenkomstsluitende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Overeenkomstsluitende Partij noodzakelijk acht, richt zij een daartoe strekkend verzoek aan de bevoegde autoriteit van de aangezochte Overeenkomstsluitende Partij. Bij gelegenheid van het antwoord op het verzoek om doorgeleiding, bericht de aangezochte Overeenkomstsluitende Partij of zij kan voorzien in de aangevraagde ondersteuning. De Overeenkomstsluitende Partijen maken daartoe gebruik van het formulier dat als bijlage 2 aan dit Uitvoeringsprotocol is gehecht en treden zo nodig met elkaar in overleg.
-
-2. Indien de betrokkene wordt begeleid, geschieden de bewaking en het aan boord brengen onder het gezag van de aangezochte Overeenkomstsluitende Partij en, voor zover mogelijk, met de ondersteuning van deze Overeenkomstsluitende Partij.
-
-##### Artikel 6. Aanwijzing grensovergangen
-
-De Overeenkomstsluitende Partijen delen elkaar, uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, schriftelijk mede via welke grensovergangen personen worden overgedragen en toegelaten. Iedere wijziging delen zij elkaar onverwijld mede.
-
-##### Artikel 7. Aanwijzing bevoegde autoriteiten
-
-De Overeenkomstsluitende Partijen wisselen uiterlijk vijftien (15) dagen na de sluiting van dit Uitvoeringsprotocol, een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
-
-##### Artikel 8. Comité van deskundigen
-
-De Overeenkomstsluitende Partijen stellen elkaar binnen de dertig (30) dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 15 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003149&artikel=15&z=2008-12-01&g=2008-12-01) bepaalde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
-
-##### Artikel 9. Slotbepaling
-
-Het onderhavige Protocol zal van toepassing zijn vanaf de dag van de inwerkingtreding van de Overeenkomst, gesloten tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen.
-
 Ten blijke waarvan de vertegenwoordigers van de Ondertekenende Staten, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Voorburg, op 30 mei 2006, in de Franse, Nederlandse en Macedoonse taal, zijnde de teksten in elk van deze talen gelijkelijk authentiek.
 
 Het origineel zal worden nedergelegd bij de Regering van het Koninkrijk België, depositaris van deze Overeenkomst, die een voor eensluidend gewaarmerkt afschrift daarvan aan alle Ondertekende Staten toezendt.
 
-**Voor de Regering van het Koninkrijk België**
+*Voor de Regering van het Koninkrijk België*
 
 L. TEIRLINCK
 
-**Voor de Regering van het Groothertogdom Luxemburg**
+*Voor de Regering van het Groothertogdom Luxemburg*
 
 J. GRAFF
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 B.R. BOT
 
-**Voor de Macedoonse Regering**
+*Voor de Macedoonse Regering*
 
 I. MITREVA

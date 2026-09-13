@@ -1,83 +1,25 @@
 ---
 title: "Overeenkomst betreffende samenwerking en een douane-unie tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds"
 identifier: "BWBV0002917"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-02-01"
-last_updated: "2002-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002917"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003248543"
-version_id: "10003267762"
-internal_id: "C10006976971"
-label_id: "10003234784"
-dtd_version: "2.0"
-original_entry_into_force: "2002-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002917/2008-02-01/0"
-intitule_bron: "Trb.2008-40"
-intitule_effect: "wijziging"
-intitule_signed: "2008-01-31"
-intitule_published: "2008-03-13"
-intitule_in_force: "2008-03-13"
-intitule_status: "goed"
-original_publication: "Trb.1992-77"
-original_signed_date: "1993-01-07"
-original_published_date: "1992-06-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-77"
-entry_into_force_date: "2002-04-01"
-jci_1_3: "jci1.3:c:BWBV0002917&z=2008-02-01&g=2008-02-01"
-jci_1_0: "1.0:c:BWBV0002917&g=2008-02-01"
-citeertitel_status: "officieel"
-signed_date: "1993-01-07"
-entry_into_force: "2002-04-01"
+publicatiedatum: 2002-04-01
+laatste_update: 2008-02-01
+status: geldig
+toestand: 2008-02-01
+bron: "https://wetten.overheid.nl/BWBV0002917"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende samenwerking en een douane-unie tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds
 
-Zijne Majesteit de Koning der Belgen,
-
-Hare Majesteit de Koningin van Denemarken,
-
-De President van de Bondsrepubliek Duitsland,
-
-De President van de Helleense Republiek,
-
-Zijne Majesteit de Koning van Spanje,
-
-De President van de Franse Republiek,
-
-De President van Ierland,
-
-De President van de Italiaanse Republiek,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-De President van de Portugese Republiek,
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-wier Staten partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, en
-
-De Raad van de Europese Gemeenschappen, enerzijds, en
-
-De Republiek San Marino anderzijds,
-
-Vastbesloten de reeds nauwe betrekkingen tussen de Europese Economische Gemeenschap en de Republiek San Marino te versterken en uit te breiden,
-
-Overwegende dat het wenselijk is de banden tussen beide partijen met name op commercieel, economisch sociaal en cultureel gebied te versterken door een samenwerkingsverband in te stellen tussen de Republiek San Marino en de Europese Economische Gemeenschap voor alle kwesties van gemeenschappelijk belang,
-
-Overwegende dat het vanwege de situatie van San Marino en zijn huidige integratie in het douanegebied van de Gemeenschap, noodzakelijk is een douane-unie tot stand te brengen tussen de Republiek San Marino en de Europese Economische Gemeenschap,
-
-Komen het volgende overeen:
+*Zijne Majesteit de Koning der Belgen, Hare Majesteit de Koningin van Denemarken, De President van de Bondsrepubliek Duitsland, De President van de Helleense Republiek, Zijne Majesteit de Koning van Spanje, De President van de Franse Republiek, De President van Ierland, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, De President van de Portugese Republiek, Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, wier Staten partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, en De Raad van de Europese Gemeenschappen, enerzijds, en De Republiek San Marino anderzijds, Vastbesloten de reeds nauwe betrekkingen tussen de Europese Economische Gemeenschap en de Republiek San Marino te versterken en uit te breiden, Overwegende dat het wenselijk is de banden tussen beide partijen met name op commercieel, economisch sociaal en cultureel gebied te versterken door een samenwerkingsverband in te stellen tussen de Republiek San Marino en de Europese Economische Gemeenschap voor alle kwesties van gemeenschappelijk belang, Overwegende dat het vanwege de situatie van San Marino en zijn huidige integratie in het douanegebied van de Gemeenschap, noodzakelijk is een douane-unie tot stand te brengen tussen de Republiek San Marino en de Europese Economische Gemeenschap, Komen het volgende overeen:*
 
 ##### Artikel 1
 
 Krachtens deze Overeenkomst tussen de Europese Economische Gemeenschap en de Republiek San Marino wordt een douane-unie tussen beide partijen tot stand gebracht. De overeenkomst heeft tot doel een algemene samenwerking tussen deze partijen te bevorderen ten einde bij te dragen tot de economische en sociale ontwikkeling van de Republiek San Marino en de versteviging van hun betrekking aan te moedigen.
 
-## TITEL I. DOUANE-UNIE
+### TITEL I. DOUANE-UNIE
 
 ##### Artikel 2
 
@@ -109,7 +51,7 @@ De bepalingen van deze titel zijn eveneens van toepassing op in de Gemeenschap o
 
 2. Met het oog op de afschaffing per 1 januari 1996 van de heffingen van gelijke werking die op het ogenblik van toepassing zijn op de invoer uit de Gemeenschap, verbindt de Republiek San Marino zich ertoe om binnen een termijn van zes maanden na de inwerkingtreding van deze overeenkomst, een belasting in te stellen ter aanvulling van die welke op het ogenblik voor ingevoerde waren geldt en die van toepassing is op nationale produkten voor intern verbruik. Deze belasting zal volledig van toepassing zijn op bovengenoemde datum. De aanvullende belasting die bij wijze van compensatie wordt toegepast, wordt berekend over de toegevoegde waarde van nationale produkten met percentages die gelijk zijn aan die welke gelden voor soortgelijke ingevoerde waren.
 
-- a. Vanaf de inwerking van de overeenkomst laat de Gemeenschap, met uitzondering van het Koninkrijk Spanje en de Portugese Republiek, de invoering uit de Republiek San Marino met vrijdom van invoerrechten toe.
+3. - a. Vanaf de inwerking van de overeenkomst laat de Gemeenschap, met uitzondering van het Koninkrijk Spanje en de Portugese Republiek, de invoering uit de Republiek San Marino met vrijdom van invoerrechten toe.
 
 - b. Vanaf de inwerkingtreding van de overeenkomst passen het Koninkrijk Spanje en de Portugese Republiek ten opzichte van de Republiek San Marino dezelfde invoerrechten toe als die welke zij toepassen ten opzichte van de Gemeenschap in haar samenstelling op 31 december 1985.
 
@@ -119,15 +61,15 @@ De bepalingen van deze titel zijn eveneens van toepassing op in de Gemeenschap o
 
 1. De Republiek San Marino past vanaf de inwerkingtreding van de overeenkomst ten opzichte van de landen die niet tot de Gemeenschap behoren het volgende toe:
 
-- -. het douanetarief van de Gemeenschap;
+- - het douanetarief van de Gemeenschap;
 
-- -. de wettelijke en bestuursrechtelijke bepalingen die in de Gemeenschap op douanegebied van toepassing zijn en die nodig zijn voor de goede werking van de douane-unie;
+- - de wettelijke en bestuursrechtelijke bepalingen die in de Gemeenschap op douanegebied van toepassing zijn en die nodig zijn voor de goede werking van de douane-unie;
 
-- -. de bepalingen van de gemeenschappelijke handelspolitiek van de Gemeenschap;
+- - de bepalingen van de gemeenschappelijke handelspolitiek van de Gemeenschap;
 
-- -. de communautaire regeling inzake de handel in landbouwprodukten van [bijlage II van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=I) met uitzondering van de bij de uitvoer toegekende restituties en compenserende bedragen;
+- - de communautaire regeling inzake de handel in landbouwprodukten van [bijlage II van het Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&bijlage=I) met uitzondering van de bij de uitvoer toegekende restituties en compenserende bedragen;
 
-- -. de communautaire regeling op veterinair en fytosanitair gebied en met betrekking tot de kwaliteit, voor zover die nodig is voor de goede werking van de overeenkomst.
+- - de communautaire regeling op veterinair en fytosanitair gebied en met betrekking tot de kwaliteit, voor zover die nodig is voor de goede werking van de overeenkomst.
 
 Voor de in dit lid bedoelde bepalingen geldt de versie die telkens in de Gemeenschap van toepassing is.
 
@@ -137,7 +79,7 @@ Voor de in dit lid bedoelde bepalingen geldt de versie die telkens in de Gemeens
 
 ##### Artikel 8
 
-- a. Vooreen periode van vijf jaar vanaf de inwerkingtreding van de overeenkomst of langer indien krachtens het bepaalde onder b. geen overeenkomst kan worden bereikt, machtigt de Republiek San Marino de Europese Economische Gemeenschap in haar naam en voor haar rekening de inklaringsformaliteiten te vervullen en met name goederen uit derde landen bestemd voor de Republiek San Marino in het vrije verkeer te brengen. Deze formaliteiten zullen worden vervuld bij de communautaire douanekantoren, vermeld in de bijlage.
+1. - a. Vooreen periode van vijf jaar vanaf de inwerkingtreding van de overeenkomst of langer indien krachtens het bepaalde onder b. geen overeenkomst kan worden bereikt, machtigt de Republiek San Marino de Europese Economische Gemeenschap in haar naam en voor haar rekening de inklaringsformaliteiten te vervullen en met name goederen uit derde landen bestemd voor de Republiek San Marino in het vrije verkeer te brengen. Deze formaliteiten zullen worden vervuld bij de communautaire douanekantoren, vermeld in de bijlage.
 
 - b. Na afloop van deze periode en gezien het bepaalde in artikel 26, houdt de Republiek San Marino zich het recht voor de inklaringsformaliteiten te vervullen, na overeenstemming tussen de overeenkomstsluitende partijen.
 
@@ -185,7 +127,7 @@ De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van het Samenwer
 
 2. Het Samenwerkingscomité stelt de bepalingen ter toepassing van lid 1 vast.
 
-## TITEL II. SAMENWERKING
+### TITEL II. SAMENWERKING
 
 ##### Artikel 14
 
@@ -209,19 +151,19 @@ De overeenkomstsluitende partijen zijn overeengekomen gemeenschappelijke acties 
 
 Deze acties kunnen uit het volgende bestaan:
 
-- -. uitwisseling van informatie over onderwerpen van wederzijds belang op het gebied van cultuur en voorlichting;
+- - uitwisseling van informatie over onderwerpen van wederzijds belang op het gebied van cultuur en voorlichting;
 
-- -. organisatie van culturele manifestaties;
+- - organisatie van culturele manifestaties;
 
-- -. culturele uitwisselingen;
+- - culturele uitwisselingen;
 
-- -. academische uitwisselingen.
+- - academische uitwisselingen.
 
 ##### Artikel 19
 
 De overeenkomstsluitende partijen kunnen deze overeenkomst met onderlinge goedkeuring uitbreiden ten einde de samenwerkingsgebieden aan te vullen met overeenkomsten die betrekkingen hebben op specifieke sectoren of activiteiten.
 
-## TITEL III. BEPALINGEN OP SOCIAAL VLAK
+### TITEL III. BEPALINGEN OP SOCIAAL VLAK
 
 ##### Artikel 20
 
@@ -249,7 +191,7 @@ De Republiek San Marino past dezelfde regeling toe op de op haar grondgebied wer
 
 3. De door het Samenwerkingscomité vastgestelde bepalingen doen geen afbreuk aan de rechten en verplichtingen die voortvloeien uit de bilaterale overeenkomsten tussen de Republiek San Marino en de Lid-Staten van de Gemeenschap, voor zover deze voor de Sanmarinese onderdanen of de onderdanen van de Lid-Staten van de Gemeenschap een gunstiger regeling inhouden.
 
-## TITEL IV. ALGEMENE EN SLOTBEPALINGEN
+### TITEL IV. ALGEMENE EN SLOTBEPALINGEN
 
 ##### Artikel 23
 
@@ -285,9 +227,9 @@ Elke partij bij het geschil is gehouden de nodige maatregelen te treffen om ervo
 
 Op het gebied van het handelsverkeer dat onder deze overeenkomst valt:
 
-- -. mag de regeling die de Republiek San Marino ten aanzien van de Gemeenschap toepast, geen aanleiding geven tot discriminatie tussen de Lid-Staten, hun onderdanen of hun vennootschappen;
+- - mag de regeling die de Republiek San Marino ten aanzien van de Gemeenschap toepast, geen aanleiding geven tot discriminatie tussen de Lid-Staten, hun onderdanen of hun vennootschappen;
 
-- -. mag de regeling die de Gemeenschap ten aanzien van de Republiek San Marino toepast, geen aanleiding geven tot discriminatie tussen de onderdanen of vennootschappen van San Marino.
+- - mag de regeling die de Gemeenschap ten aanzien van de Republiek San Marino toepast, geen aanleiding geven tot discriminatie tussen de onderdanen of vennootschappen van San Marino.
 
 ##### Artikel 26
 

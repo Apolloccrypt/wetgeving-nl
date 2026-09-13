@@ -1,44 +1,18 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden ten aanzien van de Nederlandse Antillen en de Bondsrepubliek Duitsland inzake luchtvervoer tussen de Bondsrepubliek Duitsland en de Nederlandse Antillen"
 identifier: "BWBV0003052"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-08-14"
-last_updated: "2008-08-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003052"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003308393"
-version_id: "10003336452"
-internal_id: "C10008429411"
-label_id: "10003294224"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003052/2008-08-14/0"
-intitule_bron: "Trb.2008-168"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-14"
-intitule_published: "2008-08-28"
-intitule_status: "nogniet"
-original_publication: "Trb.2008-168"
-original_signed_date: "2008-08-14"
-original_published_date: "2008-08-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-168"
-jci_1_3: "jci1.3:c:BWBV0003052&z=2008-08-14&g=2008-08-14"
-jci_1_0: "1.0:c:BWBV0003052&g=2008-08-14"
-citeertitel_status: "redactioneel"
-signed_date: "2008-08-14"
-entry_into_force: "2008-08-28"
+laatste_update: 2008-08-14
+status: geldig
+toestand: 2008-08-14
+bron: "https://wetten.overheid.nl/BWBV0003052"
+opgehaald: 2026-09-13
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden ten aanzien van de Nederlandse Antillen en de Bondsrepubliek Duitsland inzake luchtvervoer tussen de Bondsrepubliek Duitsland en de Nederlandse Antillen
 
-Het Koninkrijk der Nederlanden, ten aanzien van de Nederlandse Antillen, en de Bondsrepubliek Duitsland,
-
-Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944;
-
-Geleid door de wens een verdrag te sluiten inzake de instelling en exploitatie van luchtdiensten tussen en via hun grondgebieden;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden, ten aanzien van de Nederlandse Antillen, en de Bondsrepubliek Duitsland, Partij zijnde bij het Verdrag inzake de internationale burgerluchtvaart, opengesteld voor ondertekening te Chicago op 7 december 1944; Geleid door de wens een verdrag te sluiten inzake de instelling en exploitatie van luchtdiensten tussen en via hun grondgebieden; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -56,15 +30,15 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - 6. wordt onder „tarief” verstaan de prijs in rekening te brengen voor het internationale vervoer (d.w.z. vervoer tussen punten op de grondgebieden van twee of meer Staten) van passagiers, bagage of vracht (post uitgezonderd), met inbegrip van: Het omvat voorts:
 
-- 1. elk overeengekomen tarief of bedrag in rekening te brengen voor internationaal vervoer dat als zodanig op de markt wordt aangeboden en verkocht, met inbegrip van overeengekomen tarieven die worden samengesteld met behulp van andere tarieven of toeslagen voor vervoer via internationale delen of nationale delen die behoren tot het internationale deel;
+   - 1. elk overeengekomen tarief of bedrag in rekening te brengen voor internationaal vervoer dat als zodanig op de markt wordt aangeboden en verkocht, met inbegrip van overeengekomen tarieven die worden samengesteld met behulp van andere tarieven of toeslagen voor vervoer via internationale delen of nationale delen die behoren tot het internationale deel;
 
-- 2. de commissie die dient te worden betaald over de verkoop van tickets voor het vervoer van passagiers en hun bagage, of over de overeenkomstige transacties voor het vervoer van vracht; en
+   - 2. de commissie die dient te worden betaald over de verkoop van tickets voor het vervoer van passagiers en hun bagage, of over de overeenkomstige transacties voor het vervoer van vracht; en
 
-- 3. de voorwaarden betreffende de toepasselijkheid van het tarief of de prijs voor vervoer, of de betaling van commissie.
+   - 3. de voorwaarden betreffende de toepasselijkheid van het tarief of de prijs voor vervoer, of de betaling van commissie.
 
-- 4. alle wezenlijke voorrechten die in verband met het vervoer worden verleend;
+   - 4. alle wezenlijke voorrechten die in verband met het vervoer worden verleend;
 
-- 5. elk tarief voor vervoer binnen een nationaal deel dat als aanvulling op internationaal vervoer wordt verkocht, dat niet beschikbaar is voor volledig nationaal vervoer en niet onder gelijke voorwaarden beschikbaar wordt gesteld aan alle internationale vervoerders en de gebruikers van hun diensten.
+   - 5. elk tarief voor vervoer binnen een nationaal deel dat als aanvulling op internationaal vervoer wordt verkocht, dat niet beschikbaar is voor volledig nationaal vervoer en niet onder gelijke voorwaarden beschikbaar wordt gesteld aan alle internationale vervoerders en de gebruikers van hun diensten.
 
 ##### Artikel 2. Verlening van verkeersrechten
 
@@ -94,19 +68,19 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - 1. in het geval van een luchtvaartmaatschappij aangewezen door de Bondsrepubliek Duitsland:
 
-- a). de luchtvaartmaatschappij gevestigd is op het grondgebied van de Bondsrepubliek Duitsland overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap en beschikt over een geldige exploitatievergunning in overeenstemming met het Europese Gemeenschapsrecht; en
+   - a) de luchtvaartmaatschappij gevestigd is op het grondgebied van de Bondsrepubliek Duitsland overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap en beschikt over een geldige exploitatievergunning in overeenstemming met het Europese Gemeenschapsrecht; en
 
-- b). de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het bewijs daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft en de desbetreffende luchtvaartautoriteit duidelijk wordt vermeld in de aanwijzing; en
+   - b) de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het bewijs daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft en de desbetreffende luchtvaartautoriteit duidelijk wordt vermeld in de aanwijzing; en
 
-- c). de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van lidstaten van de Europese Gemeenschap of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
+   - c) de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van en daadwerkelijk onder toezicht staat van lidstaten van de Europese Gemeenschap of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
 
 - 2. in het geval van een luchtvaartmaatschappij aangewezen door het Koninkrijk der Nederlanden: en
 
-- a). de luchtvaartmaatschappij gevestigd is op het grondgebied van de Nederlandse Antillen en in overeenstemming met de van toepassing zijnde wetgeving van de Nederlandse Antillen een vergunning heeft verkregen; en
+   - a) de luchtvaartmaatschappij gevestigd is op het grondgebied van de Nederlandse Antillen en in overeenstemming met de van toepassing zijnde wetgeving van de Nederlandse Antillen een vergunning heeft verkregen; en
 
-- b). de Nederlandse Antillen daadwerkelijk controleren of de luchtvaartmaatschappij de regelgeving naleeft; en
+   - b) de Nederlandse Antillen daadwerkelijk controleren of de luchtvaartmaatschappij de regelgeving naleeft; en
 
-- c). de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van de Nederlandse Antillen en/of van onderdanen van het Koninkrijk der Nederlanden die ingezetene zijn van de Nederlandse Antillen;
+   - c) de luchtvaartmaatschappij rechtstreeks of via een meerderheidsbelang eigendom is van de Nederlandse Antillen en/of van onderdanen van het Koninkrijk der Nederlanden die ingezetene zijn van de Nederlandse Antillen;
 
 - 3. de aangewezen luchtvaartmaatschappij op verzoek van de andere Verdragsluitende Partij aantoont dat zij in staat is te voldoen aan de krachtens de wetten en voorschriften voorgeschreven vereisten waaraan dient te worden voldaan voor de exploitatie van internationaal luchtvervoer die van toepassing zijn op het grondgebied van die Verdragsluitende Partij.
 
@@ -118,19 +92,19 @@ Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
 
 - 1. in het geval van een luchtvaartmaatschappij aangewezen door de Bondsrepubliek Duitsland:
 
-- a). de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Bondsrepubliek Duitsland overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap of niet beschikt over een geldige exploitatievergunning in overeenstemming met het Europese Gemeenschapsrecht; of
+   - a) de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Bondsrepubliek Duitsland overeenkomstig het Verdrag tot oprichting van de Europese Gemeenschap of niet beschikt over een geldige exploitatievergunning in overeenstemming met het Europese Gemeenschapsrecht; of
 
-- b). de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het bewijs niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft of de desbetreffende luchtvaartautoriteit niet duidelijk wordt vermeld in de aanwijzing; of
+   - b) de lidstaat van de Europese Gemeenschap die verantwoordelijk is voor de afgifte van het bewijs niet daadwerkelijk controleert of de luchtvaartmaatschappij de regelgeving naleeft of de desbetreffende luchtvaartautoriteit niet duidelijk wordt vermeld in de aanwijzing; of
 
-- c). de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van lidstaten van de Europese Gemeenschap of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
+   - c) de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van of niet daadwerkelijk onder toezicht staat van lidstaten van de Europese Gemeenschap of de Europese Vrijhandelsassociatie en/of van onderdanen van deze staten;
 
 - 2. in het geval van een luchtvaartmaatschappij aangewezen door het Koninkrijk der Nederlanden: of
 
-- a). de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Nederlandse Antillen of niet in overeenstemming met de van toepassing zijnde wetgeving van de Nederlandse Antillen een vergunning heeft verkregen; of
+   - a) de luchtvaartmaatschappij niet gevestigd is op het grondgebied van de Nederlandse Antillen of niet in overeenstemming met de van toepassing zijnde wetgeving van de Nederlandse Antillen een vergunning heeft verkregen; of
 
-- b). de Nederlandse Antillen niet daadwerkelijk controleren of de luchtvaartmaatschappij de regelgeving naleeft of
+   - b) de Nederlandse Antillen niet daadwerkelijk controleren of de luchtvaartmaatschappij de regelgeving naleeft of
 
-- c). de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van de Nederlandse Antillen en/of van onderdanen van het Koninkrijk der Nederlanden die ingezetene zijn van de Nederlandse Antillen;
+   - c) de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsbelang eigendom is van de Nederlandse Antillen en/of van onderdanen van het Koninkrijk der Nederlanden die ingezetene zijn van de Nederlandse Antillen;
 
 - 3. de aangewezen luchtvaartmaatschappij verzuimt de in artikel 5 van dit Verdrag bedoelde wetten en voorschriften na te leven.
 
@@ -324,10 +298,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Berlijn, op 14 augustus 2008, in tweevoud in de Nederlandse, de Duitse en de Engelse taal, zijnde alle drie teksten authentiek. In geval van verschillen in de uitlegging van de Nederlandse en de Duitse tekst, is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 M. H. P. Ph. ADRIAENS
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 H. TIEMANN

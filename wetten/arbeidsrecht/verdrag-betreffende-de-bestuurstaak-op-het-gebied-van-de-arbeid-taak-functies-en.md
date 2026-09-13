@@ -1,186 +1,131 @@
 ---
 title: "Verdrag betreffende de bestuurstaak op het gebied van de arbeid: taak, functies en organisatie"
 identifier: "BWBV0003764"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-08-08"
-last_updated: "1981-08-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003764"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10003701083"
-version_id: "10003762032"
-internal_id: "C10006981321"
-label_id: "10003686534"
-dtd_version: "2.0"
-original_entry_into_force: "1981-08-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003764/1981-08-08/0"
-intitule_bron: "Trb.1978-147"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-11-14"
-intitule_in_force: "1980-09-08"
-intitule_status: "goed"
-original_publication: "Trb.1978-147"
-original_published_date: "1978-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-147"
-entry_into_force_date: "1981-08-08"
-jci_1_3: "jci1.3:c:BWBV0003764&z=1981-08-08&g=1981-08-08"
-jci_1_0: "1.0:c:BWBV0003764&g=1981-08-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-08-08"
+publicatiedatum: 1981-08-08
+laatste_update: 1981-08-08
+status: geldig
+toestand: 1981-08-08
+bron: "https://wetten.overheid.nl/BWBV0003764"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag betreffende de bestuurstaak op het gebied van de arbeid: taak, functies en organisatie
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Sixty-fourth Session on 7 June 1978, and Recalling the terms of existing international labour Conventions and Recommendations, including in particular the Labour Inspection Convention, 1947, the Labour Inspection (Agriculture) Convention, 1969, and the Employment Service Convention, 1948, which call for the exercise of particular labour administration activities, and Considering it desirable to adopt instruments establishing guidelines regarding the over-all system of labour administration, and Recalling the terms of the Employment Policy Convention, 1964, and of the Human Resources Development Convention, 1975; recalling also the goal of the creation of full and adequately remunerated employment and affirming the need for programmes of labour administration to work towards this goal and to give effect to the objectives of the said Conventions, and Recognising the necessity of fully respecting the autonomy of employers' and workers' organisations, recalling in this connection the terms of existing international labour Conventions and Recommendations guaranteeing rights of association, organisation and collective bargaining - and particularly the Freedom of Association and Protection of the Right to Organise Convention, 1948, and the Right to Organise and Collective Bargaining Convention, 1949 - which forbid any interference by public authorities which would restrict these rights or impede the lawful exercise thereof, and considering that employers' and workers' organisations have essential roles in attaining the objectives of economic, social and cultural progress, and Having decided upon the adoption of certain proposals with regard to labour administration: role, functions and organisation, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, adopts this twenty-sixth day of June of the year one thousand nine hundred and seventy-eight the following Convention, which may be cited as the Labour Administration Convention, 1978:*
 
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau, en aldaar bijeengekomen in haar vierenzestigste zitting op 7 juni 1978;
+##### Article 1
 
-In herinnering brengende de bepalingen van bestaande internationale Arbeidsverdragen en Aanbevelingen, in het bijzonder daaronder begrepen het [Verdrag betreffende de arbeidsinspectie](https://wetten.overheid.nl/jci1.3:c:BWBV0005445), 1947, het Verdrag betreffende de arbeidsinspectie (landbouw), 1969, en het [Verdrag betreffende de dienst voor de werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBV0005533), 1948, die vragen om uitvoering van bepaalde activiteiten met betrekking tot de bestuurstaak op het gebied van de arbeid;
+For the purpose of this Convention -
 
-Overwegende dat het gewenst is regelingen aan te nemen waarin richtlijnen worden opgesteld met betrekking tot het bestuursapparaat op het gebied van de arbeid;
+- (a) the term “labour administration” means public administration activities in the field of national labour policy;
 
-In herinnering brengende de bepalingen van het [Verdrag betreffende de werkgelegenheidspolitiek](https://wetten.overheid.nl/jci1.3:c:BWBV0004631), 1964, en van het [Verdrag betreffende de ontwikkeling van menselijke hulpbronnen](https://wetten.overheid.nl/jci1.3:c:BWBV0003733), 1975; tevens in herinnering brengende de doelstelling volledige werkgelegenheid en een behoorlijke beloning van de arbeid te bewerkstelligen en de noodzaak bevestigende van programma's met betrekking tot de bestuurstaak op het gebied van de arbeid om naar deze doelstelling toe te werken en de doelstellingen van genoemde Verdragen ten uitvoer te brengen;
+- (b) the term “system of labour administration” covers all public administration bodies responsible for and/or engaged in labour administration - whether they are ministerial departments or public agencies, including parastatal and regional or local agencies or any other form of decentralised administration - and any institutional framework for the co-ordination of the activities of such bodies and for consultation with and participation by employers and workers and their organisations.
 
-De noodzaak erkennende om volledig de autonomie van werknemersorganisaties te respecteren, in dit verband in herinnering brengende de bepalingen van bestaande internationale Arbeidsverdragen en Aanbevelingen die het recht garanderen van vereniging, organisatie en collectief onderhandelen, en in het bijzonder het [Verdrag betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545), 1948, en het [Verdrag betreffende het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525), 1949, die iedere inmenging van de zijde van de overheid verbieden die deze rechten zou beperken of een belemmering vormen voor de wettige toepassing ervan, en overwegende dat werkgevers- en werknemersorganisaties een belangrijke taak hebben bij het bereiken van de doelstellingen van economische, sociale en culturele vooruitgang;
+##### Article 2
 
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de bestuurstaak op het gebied van de arbeid, taak, functies en organisatie, welk onderwerp als vierde punt op de agenda van de zitting voorkomt;
+A Member which ratifies this Convention may, in accordance with national laws or regulations, or national practice, delegate or entrust certain activities of labour administration to non-governmental organisations, particularly employers' and workers' organisations, or - where appropriate - to employers' and workers' representatives.
 
-Vastgesteld hebbende dat deze voorstellen de vorm van een internationaal verdrag dienen te krijgen,
+##### Article 3
 
-aanvaardt heden, de zesentwintigste juni van het jaar negentienhonderd achtenzeventig het volgende Verdrag, dat kan worden aangehaald als Verdrag betreffende de bestuurstaak op het gebied van de arbeid, 1978:
+A Member which ratifies this Convention may regard particular activities in the field of its national labour policy as being matters which, in accordance with national laws or regulations or national practice, are regulated by having recourse to direct negotiations between employers' and workers' organisations.
 
-##### Artikel 1
+##### Article 4
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+Each Member which ratifies this Convention shall, in a manner appropriate to national conditions, ensure the organisation and effective operation in its territory of a system of labour administration, the functions and responsibilities of which are properly co-ordinated.
 
-- (a). „Bestuurstaak op het gebied van de arbeid”: de activiteiten van de overheid met betrekking tot het nationaal beleid op het gebied van de arbeid.
+##### Article 5
 
-- (b). „Het bestuursapparaat op het gebied van de arbeid”: alle overheidslichamen die verantwoordelijk zijn voor en/of betrokken zijn bij de bestuurstaak op het gebied van de arbeid - hetzij ministeries hetzij openbare instellingen - met inbegrip van semi-overheidsorganen en regionale of plaatselijke lichamen of iedere andere vorm van gedecentraliseerd bestuur - en ieder institutioneel kader bestemd voor het coördineren van de activiteiten van dergelijke lichamen en voor het overleg met en de inspraak van werkgevers en werknemers en hun organisaties.
+1. Each Member which ratifies this Convention shall make arrangements appropriate to national conditions to secure, within the system of labour administration, consultation, co-operation and negotiation between the public authorities and the most representative organisations of employers and workers, or - where appropriate - employers' and workers' representatives.
 
-##### Artikel 2
+2. To the extent compatible with national laws and regulations, and national practice, such arrangements shall be made at the national, regional and local levels as well as at the level of the different sectors of economic activity.
 
-Een Lid dat dit Verdrag bekrachtigt kan, in overeenstemming met nationale wettelijke of bestuursrechtelijke voorschriften of gebruiken, bepaalde activiteiten van de bestuurstaak op het gebied van de arbeid delegeren of toevertrouwen aan niet gouvernementele organisaties, in het bijzonder aan werkgevers- en werknemersorganisaties, of - waar dit geval zich voordoet - aan de vertegenwoordigers van werkgevers en werknemers.
+##### Article 6
 
-##### Artikel 3
+1. The competent bodies within the system of labour administration shall, as appropriate, be responsible for or contribute to preparation, administration, co-ordination, checking and review of national labour policy, and be the instrument within the ambit of public administration for the preparation and implementation of laws and regulations giving effect thereto.
 
-Een lid dat dit Verdrag bekrachtigt kan bepaalde activiteiten met betrekking tot het nationaal beleid op het gebied van de arbeid beschouwen als zaken die, overeenkomstig nationale wettelijke of bestuursrechtelijke voorschriften of gebruiken, geregeld worden via directe onderhandelingen tussen werkgevers- en werknemersorganisaties.
+2. In particular, these bodies, taking into account relevant international labour standards, shall -
 
-##### Artikel 4
+- (a) participate in the preparation, administration, co-ordination, checking and review of national employment policy, in accordance with national laws and regulations, and national practice;
 
-Elk Lid dat dit Verdrag bekrachtigt dient op aan de nationale omstandigheden aangepaste wijze op zijn grondgebied de organisatie en het doeltreffend functioneren te waarborgen van het bestuursapparaat op het gebied van de arbeid, en van een goede coördinatie van de functies en verantwoordelijkheden daarvan.
+- (b) study and keep under review the situation of employed, unemployed and underemployed persons, taking into account national laws and regulations and national practice concerning conditions of work and working life and terms of employment, draw attention to defects and abuses in such conditions and terms and submit proposals on means to overcome them;
 
-##### Artikel 5
+- (c) make their services available to employers and workers, and their respective organisations, as may be appropriate under national laws or regulations, or national practice, with a view to the promotion - at national, regional and local levels as well as at the level of the different sectors of economic activity - of effective consultation and co-operation between public authorities and bodies and employers' and workers' organisations, as well as between such organisations;
 
-1. Elk Lid dat dit Verdrag bekrachtigt dient in overeenstemming met de nationale omstandigheden regelingen te treffen, teneinde binnen het bestuursapparaat op het gebied van de arbeid te komen tot raadpleging, samenwerking en onderhandelen tussen de overheid en de meest representatieve organisaties van werkgevers en werknemers, of - waar dat geval zich voordoet - vertegenwoordigers van werkgevers en werknemers.
+- (d) make technical advice available to employers and workers and their respective organisations on their request.
 
-2. Voor zover dit in overeenstemming is met nationale wettelijke en bestuursrechtelijke voorschriften en gebruiken dienen deze regelingen te worden gemaakt op nationaal, regionaal en plaatselijk niveau alsmede op bedrijfstakniveau.
+##### Article 7
 
-##### Artikel 6
+When national conditions so require, with a view to meeting the needs of the largest possible number of workers, and in so far as such activities are not already covered, each Member which ratifies this Convention shall promote the extension, by gradual stages if necessary, of the functions of the system of labour administration to include activities, to be carried out in co-operation with other competent bodies, relating to the conditions of work and working life of appropriate categories of workers who are not, in law, employed persons, such as -
 
-1. De binnen het bestuursapparaat op het gebied van de arbeid bevoegde instanties dienen, waar dit geval zich voordoet, verantwoordelijk te zijn voor, of bij te dragen tot de voorbereiding, het beheer, de coördinatie, het toezicht op en de evaluatie van het nationaal beleid op het gebied van de arbeid, en voor zover binnen de grenzen van het overheidsapparaat vallend, het orgaan te zijn voor de voorbereiding en de tenuitvoerlegging van hiertoe strekkende wetten en regelingen.
+- (a) tenants who do not engage outside help, sharecroppers and similar categories of agricultural workers;
 
-2. In het bijzonder dienen deze instanties met inachtneming van de daarop van toepassing zijnde internationale normen op het gebied van de arbeid:
+- (b) self-employed workers who do not engage outside help, occupied in the informal sector as understood in national practice;
 
-- (a). deel te nemen in de voorbereiding, het beheer, de coördinatie, het toezicht op en de evaluatie van het nationaal beleid op het gebied van de arbeid, in overeenstemming met nationale wettelijke en bestuursrechtelijke voorschriften en gebruiken;
+- (c) members of co-operatives and worker-managed undertakings;
 
-- (b). studie te maken van en te evalueren de situatie van hen, die werk hebben, van hen die geen werk hebben en van hen die onvoldoende werk hebben, met inachtneming van nationale wettelijke en bestuursrechtelijke voorschriften en gebruiken met betrekking tot arbeidsomstandigheden en arbeidsvoorwaarden, de aandacht te vestigen op gebreken en misstanden op dit terrein en voorstellen in te dienen met betrekking tot middelen om hier verbetering in te brengen;
+- (d) persons working under systems established by communal customs or traditions.
 
-- (c). hun diensten beschikbaar te stellen aan werkgevers en werknemers en hun onderscheiden organisaties, volgens de nationale wettelijke of bestuursrechtelijke voorschriften of gebruiken, teneinde op nationaal, regionaal, plaatselijk en bedrijfstakniveau doelmatig overleg en doelmatige samenwerking tussen de overheid en overheidslichamen en werkgevers- en werknemersorganisaties en tussen deze organisaties onderling te bevorderen;
+##### Article 8
 
-- (d). op hun verzoek technisch advies beschikbaar te stellen aan werkgevers en werknemers en hun respectieve organisaties.
+To the extent compatible with national laws and regulations and national practice, the competent bodies within the system of labour administration shall contribute to the preparation of national policy concerning international labour affairs, participate in the representation of the State with respect to such affairs and contribute to the preparation of measures to be taken at the national level with respect thereto.
 
-##### Artikel 7
+##### Article 9
 
-Wanneer de nationale omstandigheden ter voldoening aan de behoeften van het grootst mogelijke aantal werknemers dit vereisen, dient elk Lid, dat dit Verdrag bekrachtigt, voorzover deze activiteiten niet reeds worden verricht, zo nodig geleidelijk de uitbreiding te bevorderen van de taken van het bestuursapparaat op het gebied van de arbeid in die zin, dat daaronder worden begrepen activiteiten, in samenwerking met andere bevoegde instanties uit te voeren, die betrekking hebben op de arbeidsvoorwaarden en -omstandigheden van daartoe geëigende categorieën van werknemers, die geen arbeidsovereenkomst in de zin van de wet hebben, zoals:
+With a view to the proper co-ordination of the functions and responsibilities of the system of labour administration, in a manner determined by national laws or regulations, or national practice, a ministry of labour or another comparable body shall have the means to ascertain whether any parastatal agencies which may be responsible for particular labour administration activities, and any regional or local agencies to which particular labour administration activities may have been delegated, are operating in accordance with national laws and regulations and are adhering to the objectives assigned to them.
 
-- (a). pachters die alleen hulp van gezins- en/of familieleden hebben, deelpachters en soortgelijke categorieën van agrarische werknemers;
+##### Article 10
 
-- (b). zelfstandigen, die alleen hulp van gezins- en/of familieleden hebben en die werkzaam zijn in de niet-gestructureerde sector, zoals dit in de nationale praktijk wordt begrepen;
+1. The staff of the labour administration system shall be composed of persons who are suitably qualified for the activities to which they are assigned, who have access to training necessary for such activities and who are independent of improper external influences.
 
-- (c). leden van coöperaties en bedrijven met arbeiderszelfbestuur;
+2. Such staff shall have the status, the material means and the financial resources necessary for the effective performance of their duties.
 
-- (d). personen die werken binnen een stelsel van plaatselijke gewoonten of tradities.
+##### Article 11
 
-##### Artikel 8
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-In de mate waarin dit in overeenstemming is met nationale wettelijke en bestuursrechtelijke voorschriften en gebruiken, dienen de binnen het bestuursapparaat op het gebied van de arbeid bevoegde instanties mee te werken aan de voorbereiding van een nationaal beleid ten aanzien van internationale aangelegenheden op het gebied van de arbeid, deel uit te maken van de vertegenwoordiging van de Staat met betrekking tot deze aangelegenheden en mee te werken aan het voorbereiden van de in verband hiermede op nationaal niveau te treffen maatregelen.
+##### Article 12
 
-##### Artikel 9
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-Teneinde de juiste coördinatie te waarborgen van de functies en verantwoordelijkheden binnen het bestuursapparaat op het gebied van de arbeid, dient het Ministerie van Arbeid of een ander vergelijkbaar lichaam, op een door nationale wettelijke of bestuursrechtelijke voorschriften dan wel nationaal gebruik bepaalde wijze, de mogelijkheden te hebben om na te gaan of de semi-overheidsinstellingen die verantwoordelijk zijn gesteld voor bepaalde activiteiten betreffende de bestuurstaak op het gebied van de arbeid, en de regionale of plaatselijke instellingen waaraan bepaalde activiteiten betreffende de bestuurstaak op het gebied van de arbeid zijn gedelegeerd, werken in overeenstemming met nationale wettelijke en bestuursrechtelijke voorschriften en zich houden aan de taken die hun zijn opgedragen.
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-##### Artikel 10
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-1. Personeel belast met de bestuurstaak op het gebied van de arbeid dient te bestaan uit personen met voldoende geschiktheid om de activiteiten die hun zijn opgedragen uit te voeren, die toegang hebben tot een voor de verrichting van deze activiteiten noodzakelijke opleiding en die onafhankelijk zijn van ongewenste invloeden van buitenaf.
+##### Article 13
 
-2. Dit personeel dient de beschikking te hebben over de status, de materiële middelen en de financiële bronnen die nodig zijn voor de doelmatige uitvoering van zijn taken.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-##### Artikel 11
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
+##### Article 14
 
-##### Artikel 12
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-1. Dit Verdrag is slechts verbindend voor die Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-2. Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+##### Article 15
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-##### Artikel 13
+##### Article 16
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring.
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+##### Article 17
 
-2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden voorzien in dit artikel.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides -
 
-##### Artikel 14
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 13 above, if and when the new revising Convention shall have come into force;
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van deze Leden op de datum waarop dit Verdrag in werking treedt.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-##### Artikel 15
+##### Article 18
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
-
-##### Artikel 16
-
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht, brengt deze Raad aan de Algemene Conferentie verslag uit inzake de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 17
-
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
-
-- (a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, ipso jure onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 13, onder voorbehoud evenwel dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
-
-- (b). met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking is getreden, zal dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
-
-2. Dit Verdrag blijft echter naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 18
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
-
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
-
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau, en aldaar bijeengekomen in haar vierenzestigste zitting op 7 juni 1978;
-
-In herinnering brengende de bepalingen van bestaande internationale Arbeidsverdragen en Aanbevelingen, in het bijzonder daaronder begrepen het [Verdrag betreffende de arbeidsinspectie](https://wetten.overheid.nl/jci1.3:c:BWBV0005445), 1947, het Verdrag betreffende de arbeidsinspectie (landbouw), 1969, en het [Verdrag betreffende de dienst voor de werkgelegenheid](https://wetten.overheid.nl/jci1.3:c:BWBV0005533), 1948, die vragen om uitvoering van bepaalde activiteiten met betrekking tot de bestuurstaak op het gebied van de arbeid;
-
-Overwegende dat het gewenst is regelingen aan te nemen waarin richtlijnen worden opgesteld met betrekking tot het bestuursapparaat op het gebied van de arbeid,
-
-In herinnering brengende de bepalingen van het [Verdrag betreffende de werkgelegenheidspolitiek](https://wetten.overheid.nl/jci1.3:c:BWBV0004631), 1964, en van het [Verdrag betreffende de ontwikkeling van menselijke hulpbronnen](https://wetten.overheid.nl/jci1.3:c:BWBV0003733), 1975; tevens in herinnering brengende de doelstelling volledige werkgelegenheid en een behoorlijke beloning van de arbeid te bewerkstelligen en de noodzaak bevestigende van programma's met betrekking tot de bestuurstaak op het gebied van de arbeid om naar deze doelstelling toe te werken en de doelstellingen van genoemde Verdragen ten uitvoer te brengen;
-
-De noodzaak erkennende om volledig de autonomie van werkgevers- en werknemersorganisaties te respecteren, in dit verband in herinnering brengende de bepalingen van bestaande internationale Arbeidsverdragen en Aanbevelingen die het recht garanderen van vereniging, organisatie en collectief onderhandelen, en in het bijzonder het [Verdrag betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545), 1948, en het [Verdrag betreffende het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525), 1949, die iedere inmenging van de zijde van de overheid verbieden die deze rechten zou beperken of een belemmering vormen voor de wettige toepassing ervan, en overwegende dat werkgevers- en werknemersorganisaties een belangrijke taak hebben bij het bereiken van de doelstellingen van economische, sociale en culturele vooruitgang;
-
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de bestuurstaak op het gebied van de arbeid, taak, functies en organisatie, welk onderwerp als vierde punt op de agenda van de zitting voorkomt;
-
-Vastgesteld hebbende dat deze voorstellen de vorm van een Aanbeveling dienen te krijgen ter aanvulling van het Verdrag betreffende de bestuurstaak op het gebied van de arbeid,
-
-aanvaardt, de zesentwintigste juni van het jaar negentienhonderd achtenzeventig de volgende Aanbeveling, die kan worden aangehaald als Aanbeveling betreffende de bestuurstaak op het gebied van de arbeid, 1978:
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixty-fourth Session which was held at Geneva and declared closed the twenty-eighth day of June 1978.
 

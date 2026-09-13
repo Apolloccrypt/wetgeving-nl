@@ -1,90 +1,19 @@
 ---
 title: "Overeenkomst houdende oprichting van een Europees Universitair Instituut"
 identifier: "BWBV0003726"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-05-01"
-last_updated: "2007-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003726"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003671703"
-version_id: "10003732522"
-internal_id: "C10006982801"
-label_id: "10003657434"
-dtd_version: "2.0"
-original_entry_into_force: "1975-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003726/2007-05-01/0"
-intitule_bron: "Trb.1973-23"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-02-11"
-intitule_in_force: "1975-03-12"
-intitule_status: "goed"
-original_publication: "Trb.1973-23"
-original_published_date: "1973-02-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-23"
-entry_into_force_date: "1975-02-01"
-jci_1_3: "jci1.3:c:BWBV0003726&z=2007-05-01&g=2007-05-01"
-jci_1_0: "1.0:c:BWBV0003726&g=2007-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-02-01"
+publicatiedatum: 1975-02-01
+laatste_update: 2007-05-01
+status: geldig
+toestand: 2007-05-01
+bron: "https://wetten.overheid.nl/BWBV0003726"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst houdende oprichting van een Europees Universitair Instituut
 
-Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden,
-
-Vastbesloten de vooruitgang te bevorderen van de kennis op voor de ontwikkeling van Europa bijzonder belangrijke gebieden, met name Europese cultuur, geschiedenis, recht, economie en instellingen;
-
-Verlangende een samenwerking op deze gebieden te bevorderen en te bewerken dat er gezamenlijk onderzoek wordt verricht;
-
-Besloten hebbende de voornemens te verwezenlijken die op dit gebied werden geformuleerd in de verklaringen, aangenomen door de Staatshoofden of Regeringsleiders die op 18 juli 1961 te Bonn en op 1 en 2 december 1969 te Den Haag bijeen waren;
-
-Overwegende dat een nieuwe bijdrage dient te worden geleverd tot het intellectuele leven van Europa en dat in deze geest een Europees instituut op het hoogste universitaire niveau dient te worden opgericht;
-
-Hebben besloten een Europees Universitair Instituut op te richten en de voorwaarden voor de werking ervan vast te stellen, en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-De heer Léon Hurez,
-
-Minister van Nationale Opvoeding (F);
-
-De President van de Bondsrepubliek Duitsland:
-
-De heer Rolf Lahr,
-
-Ambassadeur van de Bondsrepubliek Duitsland te Rome;
-
-De President van de Franse Republiek:
-
-De heer Jacques Duhamel,
-
-Minister van Culturele Zaken;
-
-De President van de Italiaanse Republiek:
-
-De heer Aldo Moro,
-
-Minister van Buitenlandse Zaken;
-
-De heer Riccardo Misasi,
-
-Minister van Nationale Opvoeding;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-De heer Jean Dupong,
-
-Minister van Nationale Opvoeding;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-De heer Th. E. Westerterp,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:
+*Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Vastbesloten de vooruitgang te bevorderen van de kennis op voor de ontwikkeling van Europa bijzonder belangrijke gebieden, met name Europese cultuur, geschiedenis, recht, economie en instellingen; Verlangende een samenwerking op deze gebieden te bevorderen en te bewerken dat er gezamenlijk onderzoek wordt verricht; Besloten hebbende de voornemens te verwezenlijken die op dit gebied werden geformuleerd in de verklaringen, aangenomen door de Staatshoofden of Regeringsleiders die op 18 juli 1961 te Bonn en op 1 en 2 december 1969 te Den Haag bijeen waren; Overwegende dat een nieuwe bijdrage dient te worden geleverd tot het intellectuele leven van Europa en dat in deze geest een Europees instituut op het hoogste universitaire niveau dient te worden opgericht; Hebben besloten een Europees Universitair Instituut op te richten en de voorwaarden voor de werking ervan vast te stellen, en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: De heer Léon Hurez, Minister van Nationale Opvoeding (F); De President van de Bondsrepubliek Duitsland: De heer Rolf Lahr, Ambassadeur van de Bondsrepubliek Duitsland te Rome; De President van de Franse Republiek: De heer Jacques Duhamel, Minister van Culturele Zaken; De President van de Italiaanse Republiek: De heer Aldo Moro, Minister van Buitenlandse Zaken; De heer Riccardo Misasi, Minister van Nationale Opvoeding; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: De heer Jean Dupong, Minister van Nationale Opvoeding; Hare Majesteit de Koningin der Nederlanden: De heer Th. E. Westerterp, Staatssecretaris van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:*
 
 ### HOOFDSTUK I. Grondslagen voor de oprichting van het Instituut
 
@@ -124,11 +53,11 @@ Het Instituut sluit met de Regering van de Italiaanse Republiek een vestigingsov
 
 De organen van het Instituut zijn:
 
-- a). de Raad van Bestuur
+- a) de Raad van Bestuur
 
-- b). de President van het Instituut
+- b) de President van het Instituut
 
-- c). de Academische Raad.
+- c) de Academische Raad.
 
 ##### Artikel 6
 
@@ -146,41 +75,41 @@ De Raad van Bestuur neemt, onder de in de leden 5 en 6 vastgestelde voorwaarden,
 
 5. De Raad van Bestuur neemt met eenparigheid van stemmen de besluiten betreffende:
 
-- a). de vaststelling van de voorschriften betreffende de werking van het Instituut, alsmede de in artikel 26 vermelde financiële voorschriften;
+- a) de vaststelling van de voorschriften betreffende de werking van het Instituut, alsmede de in artikel 26 vermelde financiële voorschriften;
 
-- b). de vaststelling van de wijze waarop overeenkomstig artikel 27 de keuze der werktalen wordt bepaald;
+- b) de vaststelling van de wijze waarop overeenkomstig artikel 27 de keuze der werktalen wordt bepaald;
 
-- c). de vaststelling van het statuut van het personeel van het Instituut; dit statuut dient te bepalen op welke wijze geschillen tussen het Instituut en degenen, waarop het statuut van toepassing is, worden beslecht;
+- c) de vaststelling van het statuut van het personeel van het Instituut; dit statuut dient te bepalen op welke wijze geschillen tussen het Instituut en degenen, waarop het statuut van toepassing is, worden beslecht;
 
-- d). het instellen van permanente posten van aan het Instituut verbonden hoogleraren;
+- d) het instellen van permanente posten van aan het Instituut verbonden hoogleraren;
 
-- e). de uitnodiging, onder de door hem vast te stellen voorwaarden, van de in artikel 9, lid 3, omschreven persoonlijkheden aan de activiteiten van de Academische Raad deel te nemen;
+- e) de uitnodiging, onder de door hem vast te stellen voorwaarden, van de in artikel 9, lid 3, omschreven persoonlijkheden aan de activiteiten van de Academische Raad deel te nemen;
 
-- f). de sluiting van de vestigingsovereenkomst tussen het Instituut en de Regering van de Italiaanse Republiek, alsook de akkoorden en overeenkomsten bedoeld in artikel 3, lid 3;
+- f) de sluiting van de vestigingsovereenkomst tussen het Instituut en de Regering van de Italiaanse Republiek, alsook de akkoorden en overeenkomsten bedoeld in artikel 3, lid 3;
 
-- g). de eerste benoeming van de President en de Algemeen Secretaris van het Instituut;
+- g) de eerste benoeming van de President en de Algemeen Secretaris van het Instituut;
 
-- h). het toestaan van afwijkingen van artikel 8, lid 3;
+- h) het toestaan van afwijkingen van artikel 8, lid 3;
 
-- i). de wijziging van de in artikel 11 bedoelde verdeling in afdelingen of de oprichting van nieuwe afdelingen;
+- i) de wijziging van de in artikel 11 bedoelde verdeling in afdelingen of de oprichting van nieuwe afdelingen;
 
-- j). het uitbrengen van het in artikel 33 bedoelde gunstig advies;
+- j) het uitbrengen van het in artikel 33 bedoelde gunstig advies;
 
-- k). de in artikel 34 bedoelde maatregelen.
+- k) de in artikel 34 bedoelde maatregelen.
 
 6. De Raad van Bestuur neemt de niet in lid 5 genoemde besluiten met gekwalificeerde meerderheid van stemmen, met name de besluiten betreffende:
 
-- a). de benoeming van de President en van de Algemeen Secretaris van het Instituut;
+- a) de benoeming van de President en van de Algemeen Secretaris van het Instituut;
 
-- b). de goedkeuring van de begroting van het Instituut en de kwijting aan de Voorzitter voor de uitvoering van de begroting;
+- b) de goedkeuring van de begroting van het Instituut en de kwijting aan de Voorzitter voor de uitvoering van de begroting;
 
-- c). de goedkeuring, op voorstel van de Academische Raad, van de hoofdlijnen van het onderwijs;
+- c) de goedkeuring, op voorstel van de Academische Raad, van de hoofdlijnen van het onderwijs;
 
-- d). de instelling van een Raad voor Onderzoek, waarvan hij, na raadpleging van de Academische Raad, de structuur en de bevoegdheden vaststelt;
+- d) de instelling van een Raad voor Onderzoek, waarvan hij, na raadpleging van de Academische Raad, de structuur en de bevoegdheden vaststelt;
 
-- e). de oprichting en de afschaffing van interdisciplinaire centra binnen het Instituut, na raadpleging van de Academische Raad en de Raad voor Onderzoek;
+- e) de oprichting en de afschaffing van interdisciplinaire centra binnen het Instituut, na raadpleging van de Academische Raad en de Raad voor Onderzoek;
 
-- f). de vaststelling van zijn reglement van orde.
+- f) de vaststelling van zijn reglement van orde.
 
 7. De stemmen met betrekking tot besluiten waarvoor een gekwalificeerde meerderheid van stemmen is vereist, worden als volgt gewogen:
 
@@ -281,7 +210,7 @@ De Raad van Bestuur kan, onder de door hem vast te stellen voorwaarden, op grond
 
 ### HOOFDSTUK III. Academische structuur
 
-## A. Academische organisatie
+### A. Academische organisatie
 
 ##### Artikel 10
 
@@ -291,13 +220,13 @@ Het Instituut is georganiseerd in afdelingen die de basiseenheden voor onderzoek
 
 1. Van de oprichting af kent het Instituut vier afdelingen, onderscheidenlijk gewijd aan de volgende studierichtingen:
 
-- -. Economische wetenschappen
+- - Economische wetenschappen
 
-- -. Geschiedenis en cultuurwetenschappen
+- - Geschiedenis en cultuurwetenschappen
 
-- -. Politieke en sociale wetenschappen
+- - Politieke en sociale wetenschappen
 
-- -. Rechtswetenschappen.
+- - Rechtswetenschappen.
 
 De Raad van Bestuur kan, na raadpleging van de Academische Raad en met inachtneming van de opgedane ervaring, met eenparigheid van stemmen, deze indeling wijzigen of nieuwe afdelingen oprichten. De Academische Raad kan daartoe aanbevelingen doen.
 
@@ -335,7 +264,7 @@ De wijze van uitvoering van deze bepaling wordt vastgesteld in de vestigingsover
 
 4. De voorwaarden voor het verlenen van de titels en het getuigschrift als bedoeld in dit artikel, worden vastgesteld door de Academische Raad; voor deze voorwaarden is de goedkeuring vereist van de Raad van Bestuur.
 
-## B. Docentencorps en wetenschappelijke onderzoekers
+### B. Docentencorps en wetenschappelijke onderzoekers
 
 ##### Artikel 15
 
@@ -461,13 +390,13 @@ Op dezelfde voorwaarden stelt de Italiaanse Republiek een ingerichte mensa en ee
 
 1. Op voorstel van de President van het Instituut of van een der leden van de Raad van Bestuur stelt de Raad van Bestuur met eenparigheid van stemmen de financiële voorschriften vast, waarin met name worden gespecificeerd:
 
-- a). de nadere bepalingen betreffende de opstelling en de uitvoering van de jaarlijkse begroting alsmede betreffende de wijze waarop rekening en verantwoording wordt gedaan en de rekeningen worden nagezien;
+- a) de nadere bepalingen betreffende de opstelling en de uitvoering van de jaarlijkse begroting alsmede betreffende de wijze waarop rekening en verantwoording wordt gedaan en de rekeningen worden nagezien;
 
-- b). de nadere bepalingen betreffende de opstelling van de driejaarlijkse financiële ramingen;
+- b) de nadere bepalingen betreffende de opstelling van de driejaarlijkse financiële ramingen;
 
-- c). de nadere bepalingen en de procedure voor de storting en het gebruik van de bijdragen der Lid-Staten;
+- c) de nadere bepalingen en de procedure voor de storting en het gebruik van de bijdragen der Lid-Staten;
 
-- d). de regels en controlebepalingen betreffende de verantwoordelijkheid van de ordonnateurs en rekenplichtigen.
+- d) de regels en controlebepalingen betreffende de verantwoordelijkheid van de ordonnateurs en rekenplichtigen.
 
 2. Bij de in lid 1 bedoelde financiële voorschriften kan worden bepaald dat er een Comité voor begroting en financiën wordt ingesteld, dat is samengesteld uit Vertegenwoordigers van de Overeenkomstsluitende Staten en belast wordt met de voorbereiding van het overleg in de Raad van Bestuur over begrotings- en financiële aangelegenheden.
 
@@ -547,13 +476,13 @@ Deze Overeenkomst treedt in werking op de eerste dag van de maand volgende op de
 
 De Regering van de Italiaanse Republiek zal de Overeenkomstsluitende Staten in kennis stellen van:
 
-- a). elke ondertekening;
+- a) elke ondertekening;
 
-- b). de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede van elke in artikel 35, lid 2, bedoelde verklaring;
+- b) de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede van elke in artikel 35, lid 2, bedoelde verklaring;
 
-- c). de inwerkingtreding van deze Overeenkomst;
+- c) de inwerkingtreding van deze Overeenkomst;
 
-- d). elke wijziging die overeenkomstig artikel 33 in deze Overeenkomst wordt aangebracht.
+- d) elke wijziging die overeenkomstig artikel 33 in deze Overeenkomst wordt aangebracht.
 
 ##### Artikel 38
 
@@ -572,166 +501,6 @@ De in de Finse en Zweedse taal opgestelde teksten van de Overeenkomst, die als b
 De Griekse, Sloveense en Slowaakse tekst van deze Overeenkomst, zoals opgenomen in de Bijlage bij dit Besluit van de Raad van Bestuur houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut in verband met de toetreding van de Republiek Cyprus, de Republiek Slovenië en de Slowaakse Republiek, zijn gelijkelijk authentiek op dezelfde voet als de in de voorgaande leden vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
 
 De Estse tekst van deze Overeenkomst, zoals opgenomen in de Bijlage bij dit Besluit van de Raad van Bestuur houdende wijziging van de Overeenkomst houdende oprichting van een Europees Universitair Instituut in verband met de toetreding van de Republiek Estland, is gelijkelijk authentiek op dezelfde voet als de in de voorgaande leden vermelde teksten, en de Regering van de Italiaanse Republiek zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regering van elk van de andere Overeenkomstsluitende Staten.
-
-De Staten die partij zijn bij de Overeenkomst houdende oprichting van een Europees Universitair Instituut, welke op 19 april 1972 te Florence is ondertekend,
-
-Geleid door de wens de voor de goede werking van dit Instituut noodzakelijke voorrechten en immuniteiten vast te stellen,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-### HOOFDSTUK I. Op het Instituut toepasselijke regeling
-
-##### Artikel 1
-
-Wat zijn officiële activiteiten betreft, is het Europees Universitair Instituut, hierna te noemen het Instituut, vrijgesteld van executie, behoudens:
-
-- a). met betrekking tot een door derden ingediende civiele rechtsvordering ter zake van schade die voortvloeit uit een ongeval dat is veroorzaakt door een aan het Instituut toebehorend of namens het Instituut gebruikt motorvoertuig, en met betrekking tot een verkeersovertreding waarbij een zodanig voertuig is betrokken;
-
-- b). met betrekking tot de tenuitvoerlegging van een scheidsrechterlijke of rechterlijke beslissing, genomen ingevolge een bepaling van de Overeenkomst of van dit Protocol;
-
-- c). indien de Raad van Bestuur in een bijzonder geval, met eenparigheid van stemmen, afstand heeft gedaan van deze immuniteit.
-
-##### Artikel 2
-
-1. De gebouwen en terreinen van het Instituut zijn onschendbaar. Desondanks kunnen maatregelen ter uitvoering van artikel 19, of maatregelen waartoe de Raad van Bestuur met eenparigheid van stemmen toestemming heeft verleend, ten uitvoer worden gelegd.
-
-2. Het Instituut zal niet toestaan dat zijn gebouwen en terreinen als toevluchtsoord dienen voor enige persoon die wordt vervolgd wegens ontdekking op heterdaad of een misdaad, ten aanzien waarvan een rechterlijk bevel, een veroordeling of een uitwijzingsbesluit bestaat.
-
-3. Het archief van het Instituut is onschendbaar.
-
-##### Artikel 3
-
-De eigendommen en bezittingen van het Instituut kunnen niet worden getroffen door enige bestuursrechtelijke of voorlopige gerechtelijke dwangmaatregel zoals vordering, inbeslagneming, onteigening of conservatoir beslag, behoudens in de gevallen, bedoeld in artikel 1 sub a), b) en c).
-
-##### Artikel 4
-
-1. Goederen die door het Instituut worden ingevoerd of uitgevoerd en die strikt noodzakelijk zijn voor het verrichten van zijn officiële werkzaamheden, zijn vrijgesteld van elke omzetbelasting, alle douanerechten en andere heffingen, alsmede van alle in- en uitvoerverboden en -beperkingen, onverminderd de nationale bepalingen betreffende de bescherming van het artistiek en cultureel bezit van de Overeenkomstsluitende Staten.
-
-2. De verspreiding van geschriften en ander voorlichtingsmateriaal dat door of aan het Instituut wordt verzonden in het kader van zijn officiële werkzaamheden, wordt op geen enkele wijze beperkt.
-
-3. Het Instituut geniet, voor zijn officiële mededelingen en het overbrengen van al zijn documenten, op het grondgebied van iedere Overeenkomstsluitende Staat de behandeling welke door deze Staat aan internationale organisaties wordt toegestaan. De officiële correspondentie en andere officiële mededelingen van het Instituut zijn niet aan censuur onderworpen.
-
-##### Artikel 5
-
-1. Wat zijn officiële werkzaamheden betreft zijn het Instituut, zijn bezittingen, inkomsten en verdere eigendommen vrijgesteld van alle directe belastingen.
-
-2. Wanneer het Instituut voor de uitoefening van zijn officiële werkzaamheden strikt noodzakelijke, belangrijke aankopen doet van goederen, in de prijs waarvan indirecte belastingen dan wel belastingen op de verkoop zijn begrepen, treffen de Overeenkomstsluitende Staten, telkens wanneer hun dit mogelijk is, maatregelen tot ontheffing of teruggave van het bedrag van deze belastingen.
-
-3. Geen enkele vrijstelling wordt verleend van belastingen, heffingen en rechten die niet anders zijn dan eenvoudige vergoedingen voor diensten te algemenen nutte.
-
-##### Artikel 6
-
-Het Instituut kan alle soorten fondsen, valuta’s, kasgeld of waardepapieren ontvangen en onder zich houden; het kan daarover, onder voorbehoud van de nationale voorschriften inzake deviezencontrole, vrijelijk beschikken voor het uitoefenen van zijn officiële werkzaamheden, en rekeningen aanhouden in elke valuta, in zoverre dit nodig is voor het nakomen van zijn verplichtingen.
-
-### HOOFDSTUK II. Regeling die van toepassing is op de Vertegenwoordigers van de Overeenkomstsluitende Staten, de President, de Algemeen Secretaris, de leden van het docentencorps en andere personen die in dienst zijn van het Instituut
-
-##### Artikel 7
-
-De Vertegenwoordigers van de Overeenkomstsluitende Staten alsmede hun adviseurs, die deelnemen aan de vergaderingen van de Raad van Bestuur van het Instituut, genieten gedurende de uitoefening van hun functie en op hun reizen naar en van de plaatsen van werkzaamheid, de volgende voorrechten, immuniteiten en faciliteiten:
-
-- a). immuniteit van arrestatie of gevangenhouding, alsmede van inbeslagneming van hun persoonlijke bagage, behalve in geval van ontdekking op heterdaad;
-
-- b). vrijstelling van rechtsvervolging, ook na beëindiging van hun missie, met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie en binnen de grenzen van hun bevoegdheden verricht;
-
-- c). onschendbaarheid van officiële papieren en stukken;
-
-- d). de nodige gebruikelijke administratieve faciliteiten, met name inzake verplaatsingen en verblijf.
-
-Het bepaalde in dit artikel geldt tevens voor de vertegenwoordiger van de Europese Gemeenschappen, die aan de vergaderingen van de Raad van Bestuur deelneemt.
-
-##### Artikel 8
-
-De Overeenkomstsluitende Staten treffen, in nauwe samenwerking met het Instituut, alle in hun macht liggende maatregelen om aan de persoonlijkheden die aan de werkzaamheden van het Instituut deelnemen, met name die welke zijn bedoeld in artikel 9, lid 3, van de Overeenkomst, de vereiste administratieve faciliteiten te bieden, met name inzake verplaatsingen, verblijf en deviezenbepalingen.
-
-##### Artikel 9
-
-1. De President, de Algemeen Secretaris en, behoudens het bepaalde in artikel 13, de leden van het docentencorps en de personeelsleden van het Instituut genieten,
-
-- a). ook nadat zij de dienst van het Instituut hebben verlaten, vrijstelling van rechtsvervolging met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie en binnen de grenzen van hun bevoegdheden verricht; deze vrijstelling geldt evenwel niet in geval van door bovengenoemde personen begane verkeersovertredingen, noch in geval van schade, veroorzaakt door een motorvoertuig dat hun toebehoort of door hen bestuurd werd;
-
-- b). evenals hun inwonende gezinsleden, dezelfde faciliteiten ten aanzien van vrijstelling van alle maatregelen die de immigratie beperken en de inschrijving van vreemdelingen regelen, als die welke in het algemeen worden toegekend aan personeelsleden van internationale organisaties;
-
-- c). dezelfde voorrechten met betrekking tot monetaire of deviezenregelingen als die welke in het algemeen worden toegekend aan de personeelsleden van internationale organisaties;
-
-- d). het recht, wanneer zij zich voor de duur van ten minste een jaar voor de eerste maal in de betrokken Staat vestigen, hun meubelen, hun voor persoonlijk gebruik bestemde personenauto en hun persoonlijke bezittingen vrij van rechten in te voeren, en, bij het neerleggen van hun functie in de betrokken Staat, het recht hun meubelen, hun voor persoonlijk gebruik bestemde personenauto en hun persoonlijke bezittingen vrij van rechten uit te voeren, in beide gevallen behoudens de voorwaarden en beperkingen, neergelegd in de wetgeving van de Staat waar dit recht wordt uitgeoefend.
-
-2. De Overeenkomstsluitende Staten nemen in nauwe samenwerking met het Instituut alle dienstige maatregelen om het binnenkomen, het verblijf en het vertrek van personen op wie dit artikel van toepassing is, te vergemakkelijken.
-
-##### Artikel 10
-
-De Overeenkomstsluitende Staten nemen in nauwe samenwerking met het Instituut alle dienstige maatregelen om het binnenkomen, het verblijf en het vertrek van de wetenschappelijke onderzoekers te verzekeren en te vergemakkelijken.
-
-##### Artikel 11
-
-1. In het Statuut van het personeel en in reglementen wordt de regeling inzake de sociale voorzieningen die op de President, de Algemeen Secretaris, de leden van het docentencorps, de personeelsleden en de wetenschappelijke onderzoekers van toepassing zijn, vastgesteld.
-
-Indien dergelijke voorzieningen niet bestaan, hebben de in de eerste alinea bedoelde personen de keuze tussen toepassing van de wetgeving van de Staat waar het Instituut is gevestigd, en toepassing van de wetgeving van de Overeenkomstsluitende Staat, waaraan zij laatstelijk onderworpen zijn geweest, dan wel van de Overeenkomstsluitende Staat waarvan zij onderdaan zijn.
-
-Deze keuze, die slechts eenmaal mogelijk is, gaat in op de datum waarop de betrokkene zijn intrede in het Instituut doet.
-
-2. In het kader van het Statuut en de reglementen worden aangaande de leden van het docentencorps en de wetenschappelijke onderzoekers, die onderdanen zijn van de andere dan de Overeenkomstsluitende Staten, passende bepalingen vastgesteld.
-
-##### Artikel 12
-
-1. Met inachtneming van de voorwaarden en volgens de procedure zoals die door de Raad van Bestuur binnen een tijdvak van één jaar, te rekenen van de datum van inwerkingtreding van de Overeenkomst, zijn vastgesteld, zijn de President, de Algemeen Secretaris, de leden van het docentencorps en de personeelsleden van het Instituut onderworpen aan een belasting ten gunste van het Instituut op door het Instituut betaalde salarissen en emolumenten. Met ingang van de datum waarop die belasting van toepassing wordt, zijn deze salarissen en emolumenten vrij van nationale inkomstenbelasting; de Overeenkomstsluitende Staten behouden zich de mogelijkheid voor rekening te houden met deze salarissen en emolumenten bij de berekening van de belasting die geheven wordt op inkomsten uit andere bronnen.
-
-2. Lid 1 geldt niet voor de door het Instituut aan vroegere Presidenten, vroegere Algemeen Secretarissen, vroegere leden van zijn docentencorps en vroegere personeelsleden verstrekte renten en pensioenen.
-
-3. De President, de Algemeen Secretaris, de leden van het docentencorps en de personeelsleden van het Instituut, die zich uitsluitend uit hoofde van de uitoefening van hun functie in dienst van het Instituut vestigen op het grondgebied van een andere Overeenkomstsluitende Staat dan de staat van de fiscale woonplaats, welke zij bezitten op het ogenblik van hun indiensttreding bij het Instituut, worden voor de toepassing van de inkomsten-, vermogens- en successiebelastingen, alsmede van de tussen de Overeenkomstsluitende Staten gesloten overeenkomsten ter voorkoming van dubbele belasting, zowel in de staat waar zij zich gevestigd hebben, als in de staat van de fiscale woonplaats, geacht hun woonplaats te hebben behouden in de laatstgenoemde staat, indien deze een Overeenkomstsluitende Staat is. Deze bepaling geldt eveneens voor de echtgenoot zover deze geen eigen beroepsbezigheden uitoefent, alsmede voor de kinderen die ten laste zijn en onder toezicht staan van de in dit artikel bedoelde personen.
-
-##### Artikel 13
-
-De Raad van Bestuur bepaalt met eenparigheid van stemmen, op welke categorieën van personen de artikelen 9 tot en met 12 geheel of ten dele van toepassing zijn.
-
-### HOOFDSTUK III. Algemene bepalingen
-
-##### Artikel 14
-
-1. De krachtens dit Protocol toegekende voorrechten, immuniteiten en faciliteiten worden uitsluitend toegekend in het belang van de Overeenkomstsluitende Staten of van het Instituut en niet tot persoonlijk voordeel van de betrokkenen.
-
-2. De bevoegde instanties hebben niet alleen het recht, maar tevens de plicht om de immuniteit op te heffen indien deze aan de loop van het recht in de weg staat en indien door deze opheffing de doeleinden waarvoor de immuniteit is toegekend, niet in gevaar worden gebracht.
-
-3. De in lid 2 bedoelde bevoegde instanties zijn:
-
-- -. de Overeenkomstsluitende Staten, voor wat betreft hun vertegenwoordigers die zitting hebben in de Raad van Bestuur van het Instituut;
-
-- -. de Instellingen van de Europese Gemeenschappen, voor wat betreft de vertegenwoordiger van de Europese Gemeenschappen die deelneemt aan de zittingen van de Raad van Bestuur van het Instituut;
-
-- -. de Raad van Bestuur van het Instituut, voor wat betreft de President en de Algemeen Secretaris;
-
-- -. de President van het Instituut, voor wat betreft de leden van het docentencorps en de personeelsleden van het Instituut.
-
-##### Artikel 15
-
-Het bepaalde in dit Protocol is niet van invloed op het recht van elk der Overeenkomstsluitende Staten om voorzorgen te treffen, die nodig zijn in het belang van zijn veiligheid.
-
-##### Artikel 16
-
-Geen enkele Overeenkomstsluitende Staat is verplicht aan zijn eigen onderdanen en aan ingezetenen de in de artikelen 7, 9, sub c) en d), en 10 genoemde voorrechten en immuniteiten te verlenen.
-
-##### Artikel 17
-
-In de zin van dit Protocol worden onder de officiële werkzaamheden van het Instituut mede verstaan de administratieve werkzaamheden en de onderwijs- en onderzoekwerkzaamheden ter verwezenlijking van de doelstellingen, omschreven in de Overeenkomst houdende oprichting van een Europees Universitair Instituut.
-
-##### Artikel 18
-
-Onverminderd het bepaalde in artikel 9, lid 1 sub d), wordt geen vrijstelling verleend ten aanzien van goederen die uitsluitend voor de eigen behoeften van de personeelsleden van het Instituut zijn bestemd.
-
-Goederen die krachtens het bepaalde in dit Protocol zijn ingevoerd of verworven, mogen vervolgens slechts verkocht, vervreemd of verhuurd worden op de voorwaarden, vastgesteld door de Regeringen van de Staten die de vrijstellingen hebben toegestaan.
-
-##### Artikel 19
-
-1. Dit Protocol wordt in een geest van nauwe samenwerking toegepast door de President van het Instituut en de bevoegde autoriteiten van de Overeenkomstsluitende Staten, ten einde met eerbiediging van de onafhankelijkheid van het Instituut, een goede rechtsbedeling en toepassing van de sociale wetgeving, alsmede van politie- en veiligheidsvoorschriften en van voorschriften inzake de volksgezondheid te vergemakkelijken en ieder misbruik van de bij het Protocol toegekende voorrechten, immuniteiten en faciliteiten te voorkomen. De in dit lid genoemde samenwerkingsprocedure kan in de in artikel 20 bedoelde aanvullende overeenkomsten nader worden bepaald.
-
-2. De namen, hoedanigheden en adressen van de personen op wie de artikelen 9 tot en met 12 van toepassing zijn alsmede de op deze personen toepasselijke regeling, worden op gezette tijden aan de Regeringen van de Overeenkomstsluitende Staten medegedeeld.
-
-##### Artikel 20
-
-Tussen het Instituut en een of meer Overeenkomstsluitende Staten kunnen aanvullende overeenkomsten worden gesloten met het oog op de tenuitvoerlegging en de toepassing van dit Protocol. De besluiten van de Raad van Bestuur ter uitvoering van dit artikel worden met eenparigheid van stemmen genomen.
-
-##### Artikel 21
-
-Artikel 29 van de Overeenkomst is van toepassing op geschillen betreffende dit Protocol.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze Overeenkomst hebben gesteld.
 

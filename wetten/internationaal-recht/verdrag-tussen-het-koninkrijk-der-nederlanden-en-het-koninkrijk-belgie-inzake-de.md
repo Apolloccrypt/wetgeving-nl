@@ -2,47 +2,18 @@
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie inzake de Nederlandse Taalunie"
 identifier: "BWBV0002947"
 categorie: "Internationaal recht"
+soort: "verdrag"
 publicatiedatum: 1982-04-01
-laatste_update: 2026-05-23
+laatste_update: 1982-04-01
 status: geldig
+toestand: 1982-04-01
 bron: "https://wetten.overheid.nl/BWBV0002947"
+opgehaald: 2026-09-13
 ---
 
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Belgie inzake de Nederlandse Taalunie
 
-Hare Majesteit de Koningin der Nederlanden
-
-en
-
-Zijne Majesteit de Koning der Belgen,
-
-Zich bewust van het belang van de Nederlandse taal voor de samenleving in Hun landen;
-
-Zich ervan bewust dat de overheden van Hun landen samen medeverantwoordelijk zijn voor de Nederlandse taal als instrument van maatschappelijk verkeer en als uitdrukkingsmiddel van wetenschap en letteren, alsmede voor de vaardigheid in het gebruik ervan;
-
-Ervan overtuigd dat grotere bekendheid met de Nederlandse taal en letteren in het buitenland zal leiden tot meer waardering voor de Nederlandse cultuur;
-
-Ervan overtuigd dat de gemeenschappelijke zorg voor de Nederlandse taal de banden tussen de Nederlandstaligen in Hun landen zal versterken;
-
-Erkennend dat het [Verdrag betreffende de culturele en intellectuele betrekkingen tussen het Koninkrijk der Nederlanden en het Koninkrijk België](https://wetten.overheid.nl/jci1.3:c:BWBV0005481), dat op 16 mei 1946 tussen Hun landen is gesloten, de onderlinge betrekkingen in grote mate heeft bevorderden mede heeft geleid tot een hechtere samenwerking tussen de Nederlandstaligen in Hun landen;
-
-Verlangend, in het licht van het voorgaande, aan Hun samenwerking op het gebied van de Nederlandse taal een meer institutioneel karakter te geven;
-
-Hebben besloten tot de instelling van een unie op het gebied van de Nederlandse taal en hebben hiertoe als Hun gevolmachtigden aangewezen:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie de Heer D. F. van der Mei,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie de Heer Ch.-F. Nothomb,
-
-Minister van Buitenlandse Zaken,
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning der Belgen, Zich bewust van het belang van de Nederlandse taal voor de samenleving in Hun landen; Zich ervan bewust dat de overheden van Hun landen samen medeverantwoordelijk zijn voor de Nederlandse taal als instrument van maatschappelijk verkeer en als uitdrukkingsmiddel van wetenschap en letteren, alsmede voor de vaardigheid in het gebruik ervan; Ervan overtuigd dat grotere bekendheid met de Nederlandse taal en letteren in het buitenland zal leiden tot meer waardering voor de Nederlandse cultuur; Ervan overtuigd dat de gemeenschappelijke zorg voor de Nederlandse taal de banden tussen de Nederlandstaligen in Hun landen zal versterken; Erkennend dat het Verdrag betreffende de culturele en intellectuele betrekkingen tussen het Koninkrijk der Nederlanden en het Koninkrijk België, dat op 16 mei 1946 tussen Hun landen is gesloten, de onderlinge betrekkingen in grote mate heeft bevorderden mede heeft geleid tot een hechtere samenwerking tussen de Nederlandstaligen in Hun landen; Verlangend, in het licht van het voorgaande, aan Hun samenwerking op het gebied van de Nederlandse taal een meer institutioneel karakter te geven; Hebben besloten tot de instelling van een unie op het gebied van de Nederlandse taal en hebben hiertoe als Hun gevolmachtigden aangewezen: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie de Heer D. F. van der Mei, Staatssecretaris van Buitenlandse Zaken; Zijne Majesteit de Koning der Belgen: Zijne Excellentie de Heer Ch.-F. Nothomb, Minister van Buitenlandse Zaken, Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:*
 
 ### HOOFDSTUK I. DOEL EN INHOUD
 
@@ -60,51 +31,51 @@ Het Koninkrijk België en het Koninkrijk der Nederlanden stellen bij dit Verdrag
 
 Tot de doelstellingen van de Taalunie behoren:
 
-- a). de gemeenschappelijke ontwikkeling van de Nederlandse taal;
+- a) de gemeenschappelijke ontwikkeling van de Nederlandse taal;
 
-- b). de gemeenschappelijke bevordering van de kennis en het verantwoorde gebruik van de Nederlandse taal;
+- b) de gemeenschappelijke bevordering van de kennis en het verantwoorde gebruik van de Nederlandse taal;
 
-- c). de gemeenschappelijke bevordering van de Nederlandse letteren;
+- c) de gemeenschappelijke bevordering van de Nederlandse letteren;
 
-- d). de gemeenschappelijke bevordering van de studie en verspreiding van de Nederlandse taal en letteren in het buitenland.
+- d) de gemeenschappelijke bevordering van de studie en verspreiding van de Nederlandse taal en letteren in het buitenland.
 
 ##### Artikel 4
 
 De Hoge Verdragsluitende Partijen besluiten tot:
 
-- a). de oprichting en de instandhouding van gemeenschappelijke instellingen voor de verwezenlijking van doelstellingen en maatregelen die in dit Verdrag zijn overeengekomen;
+- a) de oprichting en de instandhouding van gemeenschappelijke instellingen voor de verwezenlijking van doelstellingen en maatregelen die in dit Verdrag zijn overeengekomen;
 
-- b). het gemeenschappelijk bepalen van de officiële spelling en spraakkunst van de Nederlandse taal;
+- b) het gemeenschappelijk bepalen van de officiële spelling en spraakkunst van de Nederlandse taal;
 
-- c). het gemeenschappelijk bepalen van een gelijke terminologie ten behoeve van wetgeving en officiële publikaties;
+- c) het gemeenschappelijk bepalen van een gelijke terminologie ten behoeve van wetgeving en officiële publikaties;
 
-- d). het voeren van een gemeenschappelijk beleid met betrekking tot particuliere initiatieven op het gebied van woordenboeken, woordenlijsten en grammatica's;
+- d) het voeren van een gemeenschappelijk beleid met betrekking tot particuliere initiatieven op het gebied van woordenboeken, woordenlijsten en grammatica's;
 
-- e). het gemeenschappelijk bepalen van de toetsstenen voor het behalen van het „Getuigschrift Nederlands als Vreemde Taal" en het gezamenlijk toekennen van het Getuigschrift;
+- e) het gemeenschappelijk bepalen van de toetsstenen voor het behalen van het „Getuigschrift Nederlands als Vreemde Taal" en het gezamenlijk toekennen van het Getuigschrift;
 
-- f). het voeren van een gemeenschappelijk beleid met betrekking tot de Nederlandse taal en letteren in internationaal verband, in het bijzonder in de Europese Gemeenschappen;
+- f) het voeren van een gemeenschappelijk beleid met betrekking tot de Nederlandse taal en letteren in internationaal verband, in het bijzonder in de Europese Gemeenschappen;
 
-- g). het plegen van overleg, wanneer in hun betrekkingen tot derde landen of tot internationale instellingen of bijeenkomsten de belangen van de Nederlandse taal of de doelstellingen van dit Verdrag in het geding zijn.
+- g) het plegen van overleg, wanneer in hun betrekkingen tot derde landen of tot internationale instellingen of bijeenkomsten de belangen van de Nederlandse taal of de doelstellingen van dit Verdrag in het geding zijn.
 
 ##### Artikel 5
 
 De Hoge Verdragsluitende Partijen zullen bovendien, waar zij dit nodig achten, gezamenlijk:
 
-- a). het wetenschappelijk onderzoek op het gebied van de Nederlandse taal en letteren alsmede de ontwikkeling van de Nederlandse letteren aanmoedigen, daarbij inbegrepen het uitgeven en het verspreiden van boeken;
+- a) het wetenschappelijk onderzoek op het gebied van de Nederlandse taal en letteren alsmede de ontwikkeling van de Nederlandse letteren aanmoedigen, daarbij inbegrepen het uitgeven en het verspreiden van boeken;
 
-- b). het onderwijs in de Nederlandse taal en letteren bevorderen en ernaar streven dat daarbij wordt uitgegaan van de eenheid van de taal en de gemeenschappelijkheid van de letteren;
+- b) het onderwijs in de Nederlandse taal en letteren bevorderen en ernaar streven dat daarbij wordt uitgegaan van de eenheid van de taal en de gemeenschappelijkheid van de letteren;
 
-- c). streven naar een verantwoord gebruik van de Nederlandse taal, in het bijzonder in het onderwijs en in het ambtelijk verkeer;
+- c) streven naar een verantwoord gebruik van de Nederlandse taal, in het bijzonder in het onderwijs en in het ambtelijk verkeer;
 
-- d). op het gebied van de massamedia initiatieven aanmoedigen die de verwezenlijking van de doelstellingen van de Taalunie beogen;
+- d) op het gebied van de massamedia initiatieven aanmoedigen die de verwezenlijking van de doelstellingen van de Taalunie beogen;
 
-- e). de instelling van databanken op het gebied van de terminologie en het opstellen van woordenlijsten bevorderen;
+- e) de instelling van databanken op het gebied van de terminologie en het opstellen van woordenlijsten bevorderen;
 
-- f). het onderwijs in de Nederlandse taal, letteren en cultuurgeschiedenis in het buitenland bevorderen of organiseren;
+- f) het onderwijs in de Nederlandse taal, letteren en cultuurgeschiedenis in het buitenland bevorderen of organiseren;
 
-- g). de verspreiding in het buitenland van de Nederlandse letteren, al of niet in vertaling, aanmoedigen;
+- g) de verspreiding in het buitenland van de Nederlandse letteren, al of niet in vertaling, aanmoedigen;
 
-- h). particuliere initiatieven die tot de verwezenlijking van de doelstellingen van de Taalunie kunnen bijdragen, aanmoedigen.
+- h) particuliere initiatieven die tot de verwezenlijking van de doelstellingen van de Taalunie kunnen bijdragen, aanmoedigen.
 
 ### HOOFDSTUK II. ORGANEN
 
@@ -112,13 +83,13 @@ De Hoge Verdragsluitende Partijen zullen bovendien, waar zij dit nodig achten, g
 
 De organen van de Taalunie zijn:
 
-- a). het Comité van Ministers;
+- a) het Comité van Ministers;
 
-- b). de Interparlementaire Commissie;
+- b) de Interparlementaire Commissie;
 
-- c). de Raad voor de Nederlandse Taal en Letteren;
+- c) de Raad voor de Nederlandse Taal en Letteren;
 
-- d). het Algemeen Secretariaat.
+- d) het Algemeen Secretariaat.
 
 ##### Artikel 7
 
@@ -160,9 +131,9 @@ De Interparlementaire Commissie bestaat uit ten minste veertien leden, van wie d
 
 De Raad voor de Nederlandse Taal en Letteren, hierna genoemd de Raad, heeft tot taak:
 
-- a). desgevraagd of uit eigen beweging aan het Comité van Ministers adviezen uit te brengen en maatregelen voor te stellen niet betrekking tot de doelstellingen en beleidsvoornemens in artikelen 2, 3, 4 en 5 genoemd;
+- a) desgevraagd of uit eigen beweging aan het Comité van Ministers adviezen uit te brengen en maatregelen voor te stellen niet betrekking tot de doelstellingen en beleidsvoornemens in artikelen 2, 3, 4 en 5 genoemd;
 
-- b). alle verdere werkzaamheden en taken te verrichten die voortvloeien uit zijn Statuten.
+- b) alle verdere werkzaamheden en taken te verrichten die voortvloeien uit zijn Statuten.
 
 ##### Artikel 13
 
@@ -240,13 +211,13 @@ TEN BLIJKE WAARVAN de gevolmachtigden dit Verdrag hebben ondertekend.
 
 GEDAAN te Brussel, op 9 september 1980, in tweevoud, in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) D. F. VAN DER MEI
 
 D. F. van der Mei
 
-**Voor het Koninkrijk België:**
+*Voor het Koninkrijk België:*
 
 (w.g.) CHARLES
 

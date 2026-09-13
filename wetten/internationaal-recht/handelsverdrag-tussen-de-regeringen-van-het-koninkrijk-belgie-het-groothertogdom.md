@@ -1,44 +1,19 @@
 ---
 title: "Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken"
 identifier: "BWBV0003776"
-country: "nl"
-rank: "verdrag"
-publication_date: "1973-06-01"
-last_updated: "1973-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003776"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003706313"
-version_id: "10003767092"
-internal_id: "C10006983851"
-label_id: "10003691454"
-dtd_version: "2.0"
-original_entry_into_force: "1973-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003776/1973-06-01/0"
-intitule_bron: "Trb.1971-160"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-09-02"
-intitule_in_force: "1973-06-19"
-intitule_status: "goed"
-original_publication: "Trb.1971-160"
-original_published_date: "1971-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-160"
-entry_into_force_date: "1973-06-01"
-jci_1_3: "jci1.3:c:BWBV0003776&z=1973-06-01&g=1973-06-01"
-jci_1_0: "1.0:c:BWBV0003776&g=1973-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1973-06-01"
+publicatiedatum: 1973-06-01
+laatste_update: 1973-06-01
+status: geldig
+toestand: 1973-06-01
+bron: "https://wetten.overheid.nl/BWBV0003776"
+opgehaald: 2026-09-13
 ---
+
 # Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, Leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken
 
-De Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, handelend te zamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958 enerzijds, en
-
-De Regering van de Unie van Socialistische Sowjet-Republieken anderzijds,
-
-Geleid door de wens hun traditionele economische banden te versterken,
-
-Zijn overeengekomen als volgt:
+*De Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, handelend te zamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958 enerzijds, en De Regering van de Unie van Socialistische Sowjet-Republieken anderzijds, Geleid door de wens hun traditionele economische banden te versterken, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -60,9 +35,9 @@ Evenzo zijn produkten van oorsprong uit het grondgebied van een der Verdragsluit
 
 De bepalingen van dit Verdrag betreffen niet:
 
-- a). de door een van de Verdragsluitende Staten toegekende of later toe te kennen voordelen om de grensbetrekkingen met de buurstaten te vergemakkelijken;
+- a) de door een van de Verdragsluitende Staten toegekende of later toe te kennen voordelen om de grensbetrekkingen met de buurstaten te vergemakkelijken;
 
-- b). de voordelen voortvloeiend uit een douane-unie en een vrijhandelszone, reeds tot stand gebracht, of later tot stand te brengen door een van de Verdragsluitende Partijen.
+- b) de voordelen voortvloeiend uit een douane-unie en een vrijhandelszone, reeds tot stand gebracht, of later tot stand te brengen door een van de Verdragsluitende Partijen.
 
 ##### Artikel 5
 
@@ -70,13 +45,13 @@ Geen der Verdragsluitende Partijen stelt in of handhaaft beperkingen of verboden
 
 De bepalingen van dit Verdrag betreffen niet beperkingen of verboden die betrekking hebben op:
 
-- a). de openbare orde en de veiligheid van de Staat;
+- a) de openbare orde en de veiligheid van de Staat;
 
-- b). de bescherming van de gezondheid en het leven van personen, dieren of planten;
+- b) de bescherming van de gezondheid en het leven van personen, dieren of planten;
 
-- c). de bescherming van het nationale artistieke, historische en archeologische erfdeel;
+- c) de bescherming van het nationale artistieke, historische en archeologische erfdeel;
 
-- d). de bescherming van de industriële eigendom en van fabrieks- en handelsmerken.
+- d) de bescherming van de industriële eigendom en van fabrieks- en handelsmerken.
 
 ##### Artikel 6
 

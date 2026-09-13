@@ -1,62 +1,19 @@
 ---
 title: "Overeenkomst inzake gecentraliseerde vrijmaking, betreffende de toewijzing van de nationale inningskosten die worden ingehouden wanneer de traditionele eigen middelen ter beschikking van de EU-begroting worden gesteld"
 identifier: "BWBV0003169"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-01-16"
-last_updated: "2019-01-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003169"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003365303"
-version_id: "10003404152"
-internal_id: "C10009506401"
-label_id: "10003350974"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003169/2019-01-16/0"
-intitule_bron: "Trb.2009-74"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-05-08"
-intitule_in_force: "2019-01-11"
-intitule_status: "goed"
-original_publication: "Trb.2009-74"
-original_published_date: "2009-05-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-74"
-entry_into_force_date: "2019-01-16"
-jci_1_3: "jci1.3:c:BWBV0003169&z=2019-01-16&g=2019-01-16"
-jci_1_0: "1.0:c:BWBV0003169&g=2019-01-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-01-16"
+publicatiedatum: 2019-01-16
+laatste_update: 2019-01-16
+status: geldig
+toestand: 2019-01-16
+bron: "https://wetten.overheid.nl/BWBV0003169"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake gecentraliseerde vrijmaking, betreffende de toewijzing van de nationale inningskosten die worden ingehouden wanneer de traditionele eigen middelen ter beschikking van de EU-begroting worden gesteld
 
-De overeenkomstsluitende partijen, lidstaten van de Europese Unie:
-
-Gelet op [Besluit 2007/436/EG, Euratom van de Raad van 7 juni 2007 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0003144) (hierna „het besluit” te noemen),
-
-Gelet op Verordening van de Raad (EG/Euratom) nr. 1150/2000 van 22 mei 2000 houdende toepassing van het bovengenoemde besluit betreffende het stelsel van eigen middelen (hierna „de verordening” te noemen),
-
-Overwegende dat de gecentraliseerde vrijmaking en andere vereenvoudigingen van douaneformaliteiten in de zin van [Verordening (EG) nr. 450/2008](32008R0450) van het Europees Parlement en de Raad van 23 april 2008 tot vaststelling van het communautair douanewetboek (hierna „het gemoderniseerde douanewetboek” te noemen) kan bijdragen aan het scheppen van gunstige voorwaarden voor het handelsverkeer,
-
-Overwegende dat, zolang het gemoderniseerde douanewetboek nog niet van toepassing is, deze voordelen worden geboden door de grensoverschrijdende vergunning in de zin van artikel 1, punt 13, van [Verordening (EG) nr. 2454/93](31993R2454) van de Commissie,
-
-Gezien de verklaring van de Raad van 25 juni 2007 over het delen van de kosten van de inning van rechten, over btw en over statistiek in het kader van het systeem van gecentraliseerde vrijmaking, en de verklaring van de Raad en de Commissie van 25 juni 2007 over de evaluatie van de werking van het systeem van gecentraliseerde vrijmaking,
-
-Met inachtneming van de artikelen 17 en 120 van het gemoderniseerde douanewetboek waarin, respectievelijk, de geldigheid van de door douaneautoriteiten genomen beslissingen in de gehele Gemeenschap wordt erkend, en de bewijskracht van de resultaten van verificaties op het gehele grondgebied van de Gemeenschap wordt vastgelegd,
-
-Overwegende hetgeen volgt:
-
-Aan het beheer van gecentraliseerde vrijmaking die gecombineerd kan worden met vereenvoudigingen van douaneformaliteiten in het geval dat goederen in een lidstaat voor het vrije verkeer worden aangegeven, maar in een andere lidstaat bij de douane worden aangebracht, zijn in beide lidstaten administratieve kosten verbonden. Dit rechtvaardigt een gedeeltelijke herverdeling van de inningskosten die worden ingehouden wanneer de traditionele eigen middelen overeenkomstig de verordening ter beschikking van de Gemeenschapsbegroting worden gesteld.
-
-Deze herverdeling, die door de overeenkomstsluitende partij waar de douaneaangifte is ingediend wordt verricht ten gunste van de overeenkomstsluitende partij waar de goederen zijn aangebracht, komt in totaal overeen met 50% van de ingehouden inningskosten.
-
-Voor een vlotte herverdeling van de inningskosten zijn specifieke procedures in de vorm van een overeenkomst tussen de overeenkomstsluitende partijen vereist.
-
-Deze overeenkomst moet door de overeenkomstsluitende partijen in overeenstemming met hun respectieve nationale wetten en procedures worden toegepast,
-
-Zijn het volgende overeengekomen:
+*De overeenkomstsluitende partijen, lidstaten van de Europese Unie: Gelet op Besluit 2007/436/EG, Euratom van de Raad van 7 juni 2007 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen (hierna „het besluit” te noemen), Gelet op Verordening van de Raad (EG/Euratom) nr. 1150/2000 van 22 mei 2000 houdende toepassing van het bovengenoemde besluit betreffende het stelsel van eigen middelen (hierna „de verordening” te noemen), Overwegende dat de gecentraliseerde vrijmaking en andere vereenvoudigingen van douaneformaliteiten in de zin van Verordening (EG) nr. 450/2008 van het Europees Parlement en de Raad van 23 april 2008 tot vaststelling van het communautair douanewetboek (hierna „het gemoderniseerde douanewetboek” te noemen) kan bijdragen aan het scheppen van gunstige voorwaarden voor het handelsverkeer, Overwegende dat, zolang het gemoderniseerde douanewetboek nog niet van toepassing is, deze voordelen worden geboden door de grensoverschrijdende vergunning in de zin van artikel 1, punt 13, van Verordening (EG) nr. 2454/93 van de Commissie, Gezien de verklaring van de Raad van 25 juni 2007 over het delen van de kosten van de inning van rechten, over btw en over statistiek in het kader van het systeem van gecentraliseerde vrijmaking, en de verklaring van de Raad en de Commissie van 25 juni 2007 over de evaluatie van de werking van het systeem van gecentraliseerde vrijmaking, Met inachtneming van de artikelen 17 en 120 van het gemoderniseerde douanewetboek waarin, respectievelijk, de geldigheid van de door douaneautoriteiten genomen beslissingen in de gehele Gemeenschap wordt erkend, en de bewijskracht van de resultaten van verificaties op het gehele grondgebied van de Gemeenschap wordt vastgelegd, Overwegende hetgeen volgt: 1. Aan het beheer van gecentraliseerde vrijmaking die gecombineerd kan worden met vereenvoudigingen van douaneformaliteiten in het geval dat goederen in een lidstaat voor het vrije verkeer worden aangegeven, maar in een andere lidstaat bij de douane worden aangebracht, zijn in beide lidstaten administratieve kosten verbonden. Dit rechtvaardigt een gedeeltelijke herverdeling van de inningskosten die worden ingehouden wanneer de traditionele eigen middelen overeenkomstig de verordening ter beschikking van de Gemeenschapsbegroting worden gesteld. 2. Deze herverdeling, die door de overeenkomstsluitende partij waar de douaneaangifte is ingediend wordt verricht ten gunste van de overeenkomstsluitende partij waar de goederen zijn aangebracht, komt in totaal overeen met 50% van de ingehouden inningskosten. 3. Voor een vlotte herverdeling van de inningskosten zijn specifieke procedures in de vorm van een overeenkomst tussen de overeenkomstsluitende partijen vereist. 4. Deze overeenkomst moet door de overeenkomstsluitende partijen in overeenstemming met hun respectieve nationale wetten en procedures worden toegepast, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED EN DEFINITIES
 
@@ -66,7 +23,7 @@ Zijn het volgende overeengekomen:
 
 2. De in lid 1 bedoelde procedures zijn tevens van toepassing wanneer de gecentraliseerde vrijmaking wordt gecombineerd met vereenvoudigingen in de zin van het gemoderniseerde douanewetboek.
 
-3. De in lid 1 bedoelde procedures zijn tevens van toepassing op de in artikel 1, punt 13, van [Verordening (EG) nr. 2454/93](31993R2454) van de Commissie omschreven grensoverschrijdende vergunning voor het in het vrije verkeer brengen.
+3. De in lid 1 bedoelde procedures zijn tevens van toepassing op de in artikel 1, punt 13, van Verordening (EG) nr. 2454/93 van de Commissie omschreven grensoverschrijdende vergunning voor het in het vrije verkeer brengen.
 
 ##### Artikel 2
 

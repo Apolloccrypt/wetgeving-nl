@@ -1,144 +1,117 @@
 ---
 title: "Protocol inzake het optreden in volle zee in gevallen van verontreiniging door andere stoffen dan olie, 1973"
 identifier: "BWBV0003247"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-11-23"
-last_updated: "2004-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003247"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003427423"
-version_id: "10003472872"
-internal_id: "C10006999131"
-label_id: "10003413494"
-dtd_version: "2.0"
-original_entry_into_force: "1983-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003247/2009-11-23/0"
-intitule_bron: "Trb.1977-162"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-11-14"
-intitule_in_force: "1983-03-31"
-intitule_status: "goed"
-original_publication: "Trb.1977-162"
-original_published_date: "1977-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-162"
-entry_into_force_date: "1983-03-30"
-jci_1_3: "jci1.3:c:BWBV0003247&z=2009-11-23&g=2009-11-23"
-jci_1_0: "1.0:c:BWBV0003247&g=2009-11-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "1983-03-30"
+publicatiedatum: 1983-03-30
+laatste_update: 2009-11-23
+status: geldig
+toestand: 2009-11-23
+bron: "https://wetten.overheid.nl/BWBV0003247"
+opgehaald: 2026-09-13
 ---
+
 # Protocol inzake het optreden in volle zee in gevallen van verontreiniging door andere stoffen dan olie, 1973
 
-De Partijen bij dit Protocol,
+*The Parties to the present Protocol, Being Parties to the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, done at Brussels on 29 November 1969, Taking into account the Resolution on International Co-operation Concerning Pollutants other than Oil adopted by the International Legal Conference on Marine Pollution Damage, 1969, Further taking into account that pursuant to the Resolution, the Inter-Governmental Maritime Consultative Organization has intensified its work, in collaboration with all interested international organizations, on all aspects of pollution by substances other than oil, Have agreed as follows:*
 
-Partij zijnde bij het [Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0003246), gedaan te Brussel op 29 november 1969,
+##### Article I
 
-Gelet op de Resolutie inzake de Internationale Samenwerking betreffende andere verontreinigende stoffen dan olie, aanvaard door de Internationale Juridische Conferentie inzake schade door verontreiniging van de zee, 1969,
+1. Parties to the present Protocol may take such measures on the high seas as may be necessary to prevent, mitigate or eliminate grave and imminent danger to their coastline or related interests from pollution or threat of pollution by substances other than oil following upon a maritime casualty or acts related to such a casualty, which may reasonably be expected to result in major harmful consequences.
 
-Voorts gelet op het feit dat ingevolge de Resolutie, de Intergouvernementele Maritieme Consultatieve Organisatie haar werkzaamheden heeft geïntensiveerd, in samenwerking met alle belanghebbende internationale organisaties, ter zake van alle aspecten van verontreiniging door andere stoffen dan olie,
+2. “Substances other than oil” as referred to in paragraph 1 shall be:
 
-Zijn overeengekomen als volgt:
+- (a) those substances enumerated in a list which shall be established by an appropriate body designated by the Organization and which shall be annexed to the present Protocol, and
 
-##### Artikel I
+- (b) those other substances which are liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea.
 
-1. De Partijen bij dit Protocol kunnen in volle zee de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of opheffing van ernstig en dreigend gevaar voor hun kust of daarmede samenhangende belangen door verontreiniging of dreigende verontreiniging door andere stoffen dan olie, na een ongeval op zee of na met zulk een ongeval verband houdende handelingen, waarvan redelijkerwijs kan worden aangenomen dat zij zeer ernstige schade tot gevolg zullen hebben.
+3. Whenever an intervening Party takes action with regard to a substance referred to in paragraph 2 (b) above that Party shall have the burden of establishing that the substance, under the circumstances present at the time of the intervention, could reasonably pose a grave and imminent danger analogous to that posed by any of the substances enumerated in the list referred to in paragraph 2 (a) above.
 
-2. „Andere stoffen dan olie” zoals bedoeld in het eerste lid zijn:
+##### Article II
 
-- (a). de stoffen opgesomd in een lijst die wordt opgesteld door een door de Organisatie aangewezen ter zake bevoegde instantie, en die als bijlage aan dit Protocol wordt gehecht, en
+1. The provisions of [paragraph 2 of Article I](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=I) and of [Articles II to VIII of the Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=II), and the [Annex](https://wetten.overheid.nl/BWBV0003246) thereto as they relate to oil, shall be applicable with regard to the substances referred to in Article I of the present Protocol.
 
-- (b). de andere stoffen die de gezondheid van de mens in gevaar kunnen brengen, schade kunnen berokkenen aan de in zee voorkomende fauna en flora, een aantasting kunnen vormen van de mogelijkheden tot recreatie of een ander rechtmatig gebruik van de zee kunnen verhinderen.
+2. For the purpose of the present Protocol the list of experts referred to in [Articles III (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=III) and [IV of the Convention shall](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=IV) be extended to include experts qualified to give advice in relation to substances other than oil. Nominations to the list may be made by Member States of the Organization and by Parties to the present Protocol.
 
-3. Telkens wanneer een optredende Partij maatregelen neemt met betrekking tot een stof zoals bedoeld in het tweede lid, letter (b), rust op deze Partij de bewijslast dat de stof, onder de omstandigheden ten tijde van het optreden, naar redelijkerwijs kon worden aangenomen een ernstig en dreigend gevaar kon opleveren, overeenkomende met het gevaar dat een der andere stoffen opgesomd in de lijst bedoeld in het tweede lid, letter (a), oplevert.
+##### Article III
 
-##### Artikel II
+1. The list referred to in paragraph 2 (a) of Article I shall be maintained by the appropriate body designated by the Organization.
 
-1. De bepalingen van [artikel I, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=I), en van de [artikelen II tot VIII van het Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken, 1969,](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=II) en de [Bijlage](onbekend) daarbij, voor zover zij betrekking hebben op olie, zijn van toepassing ten aanzien van de stoffen bedoeld in artikel I van dit Protocol.
+2. Any amendment to the list proposed by a Party to the present Protocol shall be submitted to the Organization and circulated by it to all Members of the Organization and all Parties to the present Protocol at least three months prior to its consideration by the appropriate body.
 
-2. Voor toepassing van de bepalingen van dit Protocol wordt de lijst van deskundigen, bedoeld in de [artikelen III, letter (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=III), en [IV van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=IV), uitgebreid, zodat zij deskundigen omvat die bevoegd zijn tot het geven van advies inzake andere stoffen dan olie. De Lid-Staten van de Organisatie en Partijen bij dit Protocol kunnen voordrachten doen voor die lijst.
+3. Parties to the present Protocol whether or not Members of the Organization shall be entitled to participate in the proceedings of the appropriate body.
 
-##### Artikel III
+4. Amendments shall be adopted by a two-thirds majority of only the Parties to the present Protocol present and voting.
 
-1. De in artikel I, tweede lid, letter a, bedoelde lijst wordt bijgehouden door de daartoe door de Organisatie aangewezen bevoegde instantie.
+5. If adopted in accordance with paragraph 4 above, the amendment shall be communicated by the Organization to all Parties to the present Protocol for acceptance.
 
-2. Elke wijziging op de lijst voorgesteld door een Partij bij dit Protocol, wordt aan de Organisatie voorgelegd en wordt door deze ten minste drie maanden vóór de bestudering daarvan door de ter zake bevoegde instantie aan alle leden van de Organisatie en alle Partijen bij dit Protocol toegezonden.
+6. The amendment shall be deemed to have been accepted at the end of a period of six months after it has been communicated, unless within that period an objection to the amendment has been communicated to the Organization by not less than one-third of the Parties to the present Protocol.
 
-3. De Partijen bij dit Protocol, al dan niet lid van de Organisatie, zijn gerechtigd deel te nemen aan de besprekingen van de bevoegde instantie.
+7. An amendment deemed to have been accepted in accordance with paragraph 6 above shall enter into force three months after its acceptance for all Parties to the present Protocol, with the exception of those which before that date have made a declaration of non-acceptance of the said amendment.
 
-4. Wijzigingen worden aangenomen met een twee derde meerderheid van slechts die Partijen bij dit Protocol die aanwezig zijn en hun stem uitbrengen.
+##### Article IV
 
-5. Indien aangenomen overeenkomstig het vierde lid, wordt de wijziging door de Organisatie ter aanvaarding medegedeeld aan alle Partijen bij dit Protocol.
+1. The present Protocol shall be open for signature by the States which have signed the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) referred to in Article II or acceded thereto, and by any State invited to be represented at the International Conference on Marine Pollution, 1973. The Protocol shall remain open for signature from 15 January 1974 until 31 December 1974 at the Headquarters of the Organization.
 
-6. De wijziging wordt geacht te zijn aanvaard aan het eind van een termijn van zes maanden nadat zij is medegedeeld, tenzij binnen die termijn bij de Organisatie bezwaar tegen de wijziging is aangetekend door ten minste een derde van de Partijen bij dit Protocol.
+2. Subject to paragraph 4 of this Article, the present Protocol shall be subject to ratification, acceptance or approval by the States which have signed it.
 
-7. Een wijziging die geacht wordt te zijn aanvaard overeenkomstig het zesde lid treedt in werking drie maanden na aanvaarding voor alle Partijen bij dit Protocol, met uitzondering van die Partijen die vóór die datum een verklaring van niet-aanvaarding van de betrokken wijziging hebben afgelegd.
+3. Subject to paragraph 4, this Protocol shall be open for accession by States which did not sign it.
 
-##### Artikel IV
+4. The present Protocol may be ratified, accepted, approved or acceded to only by States which have ratified, accepted, approved or acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) referred to in Article II.
 
-1. Dit Protocol staat open voor ondertekening door de Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) bedoeld in artikel II hebben ondertekend of daartoe zijn toegetreden, en door elke Staat die is uitgenodigd zich te doen vertegenwoordigen bij de Internationale Conferentie over verontreiniging van de zee, 1973. Het Protocol blijft van 15 januari 1974 tot 31 december 1974 op de zetel van de Organisatie opengesteld voor ondertekening.
+##### Article V
 
-2. Onder voorbehoud van het vierde lid van dit artikel dient dit Protocol te worden bekrachtigd, aanvaard of goedgekeurd door de Staten die het hebben ondertekend.
+1. Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization.
 
-3. Onder voorbehoud van het vierde lid staat dit Protocol open voor toetreding door Staten die het niet hebben ondertekend.
+2. Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the present Protocol with respect to all existing Parties or after the completion of all measures required for the entry into force of the amendment with respect to all existing Parties shall be deemed to apply to the Protocol as modified by the amendment.
 
-4. Alleen Staten, die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) bedoeld in artikel II hebben bekrachtigd, aanvaard of goedgekeurd, of daartoe zijn toegetreden, kunnen dit Protocol bekrachtigen, aanvaarden of goedkeuren of ertoe toetreden.
+##### Article VI
 
-##### Artikel V
+1. The present Protocol shall enter into force on the ninetieth day following the date on which fifteen States have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization, provided however that the present Protocol shall not enter into force before the Convention referred to in Article II has entered into force.
 
-1. De bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
+2. For each State which subsequently ratifies, accepts, approves or accedes to it, the present Protocol shall enter into force on the ninetieth day after the deposit by such State of the appropriate instrument.
 
-2. Alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de inwerkingtreding van een wijziging op dit Protocol ten aanzien van alle bestaande Partijen, of na de voltooiing van alle maatregelen, vereist voor de inwerkingtreding van de wijziging ten aanzien van alle bestaande Partijen, worden geacht van toepassing te zijn op het aldus gewijzigde Protocol.
+##### Article VII
 
-##### Artikel VI
+1. The present Protocol may be denounced by any Party at any time after the date on which the Protocol enters into force for that Party.
 
-1. Dit Protocol treedt in werking op de negentigste dag na de datum waarop vijftien Staten akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie, met dien verstande evenwel dat dit Protocol niet in werking treedt voordat het in artikel II bedoelde Verdrag in werking treedt.
+2. Denunciation shall be effected by the deposit of an instrument to that effect with the Secretary-General of the Organization.
 
-2. Ten aanzien van elke Staat die dit Protocol daarna bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, treedt het Protocol in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
+3. Denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization.
 
-##### Artikel VII
+4. Denunciation of the [Convention referred to in Article II](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) by a Party shall be deemed to be a denunciation of the present Protocol by that Party. Such denunciation shall take effect on the same day as the denunciation of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) takes effect in accordance with [paragraph 3 of Article XII of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=XII).
 
-1. Na de datum waarop het voor een Partij in werking is getreden, kan die Partij dit Protocol te allen tijde opzeggen.
+##### Article VIII
 
-2. Opzegging geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
+1. A conference for the purpose of revising or amending the present Protocol may be convened by the Organization.
 
-3. De opzegging wordt van kracht een jaar na de nederlegging van de akte van opzegging bij de Secretaris-Generaal van de Organisatie of na een langere termijn zoals in die akte is bepaald.
+2. The Organization shall convene a conference of Parties to the present Protocol for the purpose of revising or amending it at the request of not less than one-third of the Parties.
 
-4. Een opzegging door een Partij van het [Verdrag bedoeld in artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) wordt geacht een opzegging van dit Protocol door die Partij te zijn. Een dergelijke opzegging wordt van kracht op dezelfde dag als waarop de opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246) van kracht wordt overeenkomstig [artikel XII, derde lid, van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003246&artikel=XII).
+##### Article IX
 
-##### Artikel VIII
+1. The present Protocol shall be deposited with the Secretary-General of the Organization.
 
-1. De Organisatie kan een conferentie tot herziening of wijziging van dit Protocol bijeenroepen.
+2. The Secretary-General of the Organization shall:
 
-2. De Organisatie roept een conferentie van de Partijen bij dit Protocol bijeen tot herziening of wijziging van dit Protocol op verzoek van ten minste een derde van de Partijen.
+- (a) inform all States which have signed the present Protocol acceded thereto of:
 
-##### Artikel IX
+   - (i) each new signature or deposit of an instrument together with the date thereof;
 
-1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal van de Organisatie.
+   - (ii) the date of entry force of the present Protocol;
 
-2. De Secretaris-Generaal van de Organisatie:
+   - (iii) the deposit of any instrument of denunciation of the present Protocol together with the date on which the denunciation takes effect;
 
-- (a). stelt alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden in kennis van:
+   - (iv) any amendments to the present Protocol or its Annex and any objection or declaration of non-acceptance of the said amendment;
 
-- (i). elke nieuwe ondertekening of nederlegging van een akte en de datum daarvan;
+- (b) transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto.
 
-- (ii). de datum van inwerkingtreding van dit Protocol;
+##### Article X
 
-- (iii). de nederlegging van een akte van opzegging van dit Protocol met de datum van inwerkingtreding van de opzegging;
+As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- (iv). iedere wijziging van dit Protocol of zijn Bijlage en ieder bezwaar tegen of verklaring van niet-aanvaarding van de wijziging;
+##### Article XI
 
-- (b). doet voor eensluidend gewaarmerkte afschriften van dit Protocol toekomen aan alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetreden.
-
-##### Artikel X
-
-Zodra dit Protocol in werking treedt, wordt door de Secretaris-Generaal van de Organisatie een voor eensluidend gewaarmerkt afschrift toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel XI
-
-Dit Protocol is, in een enkel oorspronkelijk exemplaar, opgesteld in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde de vier teksten gelijkelijk authentiek.
+The present Protocol is established in a single original in the English, French, Russian and Spanish languages, all four texts being equally authentic.
 
 IN WITNESS WHEREOF the undersigned being duly authorized for that purpose have signed the present Protocol.
 

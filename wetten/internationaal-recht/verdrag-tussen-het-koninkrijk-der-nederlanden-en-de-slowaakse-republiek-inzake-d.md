@@ -1,72 +1,43 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de privileges en immuniteiten van verbindingsofficieren die door de Slowaakse Republiek bij Europol gedetacheerd worden"
 identifier: "BWBV0003480"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-12-24"
-last_updated: "2009-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003480"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003557523"
-version_id: "10003612932"
-internal_id: "C10008431651"
-label_id: "10003542964"
-dtd_version: "2.0"
-original_entry_into_force: "2009-12-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003480/2009-12-24/0"
-intitule_bron: "Trb.2009-151"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-10-26"
-intitule_in_force: "2010-01-12"
-intitule_status: "goed"
-original_publication: "Trb.2009-151"
-original_published_date: "2009-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-151"
-entry_into_force_date: "2009-12-24"
-jci_1_3: "jci1.3:c:BWBV0003480&z=2009-12-24&g=2009-12-24"
-jci_1_0: "1.0:c:BWBV0003480&g=2009-12-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-12-24"
+publicatiedatum: 2009-12-24
+laatste_update: 2009-12-24
+status: geldig
+toestand: 2009-12-24
+bron: "https://wetten.overheid.nl/BWBV0003480"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de privileges en immuniteiten van verbindingsofficieren die door de Slowaakse Republiek bij Europol gedetacheerd worden
 
-The Kingdom of the Netherlands
-
-and
-
-the Slovak Republic,
-
-hereinafter referred to as the Contracting Parties,
-
-with reference to [Article 41, paragraph 2 of the Convention based on Article K.3 of the Treaty on European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=41), on the establishment of a European Police Office (Europol Convention, 26 July 1995) stating that the privileges and immunities necessary for the proper performance of the tasks of the liaison officers at Europol be agreed upon,
-
-have agreed as follows:
+*The Kingdom of the Netherlands and the Slovak Republic, hereinafter referred to as the Contracting Parties, with reference to Article 41, paragraph 2 of the Convention based on Article K.3 of the Treaty on European Union, on the establishment of a European Police Office (Europol Convention, 26 July 1995) stating that the privileges and immunities necessary for the proper performance of the tasks of the liaison officers at Europol be agreed upon, have agreed as follows:*
 
 ##### Article 1. Definitions
 
 In this Agreement:
 
-- a). “Liaison officer” means any official stationed at Europol in accordance with [Article 5 of the Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=5);
+- a) “Liaison officer” means any official stationed at Europol in accordance with [Article 5 of the Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=5);
 
-- b). “Government” means the Government of the Kingdom of the Netherlands;
+- b) “Government” means the Government of the Kingdom of the Netherlands;
 
-- c). “Host State authorities” means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
+- c) “Host State authorities” means such State, municipal or other authorities of the Kingdom of the Netherlands as may be appropriate in the context of and in accordance with the laws and customs applicable in the Kingdom of the Netherlands;
 
-- d). “Member State” means the Slovak Republic;
+- d) “Member State” means the Slovak Republic;
 
-- e). “Archives of the liaison officer” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the liaison officer, and any other similar material which in the unanimous opinion of the Member State and the Government forms part of the archives of the liaison officer.
+- e) “Archives of the liaison officer” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the liaison officer, and any other similar material which in the unanimous opinion of the Member State and the Government forms part of the archives of the liaison officer.
 
 ##### Article 2. Privileges and immunities
 
-1. Subject to the provisions of this Agreement, the liaison officer and members of his family who form part of his household and do not possess Dutch nationality, shall enjoy in and vis-à-vis the Kingdom of the Netherlands the same privileges and immunities as are conferred on members of the diplomatic staff by the Vienna Convention on Diplomatic Relations of 18 April 1961**.**
+1. Subject to the provisions of this Agreement, the liaison officer and members of his family who form part of his household and do not possess Dutch nationality, shall enjoy in and vis-à-vis the Kingdom of the Netherlands the same privileges and immunities as are conferred on members of the diplomatic staff by the Vienna Convention on Diplomatic Relations of 18 April 1961*.*
 
 2. The immunity granted to persons mentioned in paragraph 1 of this Article shall not extend to either:
 
-- (i). civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person, and is without prejudice to [Article 32 of the Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=32); or
+- (i) civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person, and is without prejudice to [Article 32 of the Europol Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001323&artikel=32); or
 
-- (ii). criminal and civil jurisdiction over acts performed outside the course of their official duties.
+- (ii) criminal and civil jurisdiction over acts performed outside the course of their official duties.
 
 3. The obligations of Sending States and their personnel that apply under the Vienna Convention to members of the diplomatic staff, shall apply to the persons referred to in paragraph 1 of this Article.
 
@@ -128,10 +99,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed 
 
 DONE at The Hague, on 30 September 2009, in two originals, each in the English language.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 E. KRONENBURG
 
-**For the Slovak Republic,**
+*For the Slovak Republic,*
 
 OKSANA TOMOVÁ

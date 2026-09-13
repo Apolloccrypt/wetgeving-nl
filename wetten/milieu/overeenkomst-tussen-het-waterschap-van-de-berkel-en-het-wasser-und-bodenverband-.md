@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen het Waterschap van de Berkel en het Wasser- und Bodenverband Kalkbachgebiet over het onderhoud van de Ratumsebeek en van een zijleiding in het grensgebied"
 identifier: "BWBV0003822"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-09-22"
-last_updated: "1980-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003822"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003734423"
-version_id: "10003796442"
-internal_id: "C10006981461"
-label_id: "10003719404"
-dtd_version: "2.0"
-original_entry_into_force: "1980-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003822/1980-09-22/0"
-intitule_bron: "Trb.1979-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-07-10"
-intitule_in_force: "1981-07-10"
-intitule_status: "goed"
-original_publication: "Trb.1979-110"
-original_published_date: "1979-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-110"
-entry_into_force_date: "1980-09-22"
-jci_1_3: "jci1.3:c:BWBV0003822&z=1980-09-22&g=1980-09-22"
-jci_1_0: "1.0:c:BWBV0003822&g=1980-09-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-09-22"
+publicatiedatum: 1980-09-22
+laatste_update: 1980-09-22
+status: geldig
+toestand: 1980-09-22
+bron: "https://wetten.overheid.nl/BWBV0003822"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Waterschap van de Berkel en het Wasser- und Bodenverband Kalkbachgebiet over het onderhoud van de Ratumsebeek en van een zijleiding in het grensgebied
 
-Het Wasser- und Bodenverband Kalkbachgebiet, hierna „Verband” genoemd,
-
-vertegenwoordigd door den Verbandsvorsteher herrn Wilhelm Epping-Pasz
-
-en
-
-het Waterschap van de Berkel, hierna „Waterschap” genoemd,
-
-vertegenwoordigd door de watergraaf ir. Jan Baas
-
-sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
+*Het Wasser- und Bodenverband Kalkbachgebiet, hierna „Verband” genoemd, vertegenwoordigd door den Verbandsvorsteher herrn Wilhelm Epping-Pasz en het Waterschap van de Berkel, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. Jan Baas sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -78,13 +49,13 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek
 
 GEDAAN te Borken/Lochem, de 19e oktober 1978 in vijfvoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het Waterschap**
+*Voor het Waterschap*
 
 (w.g.) JAN BAAS
 
 watergraaf
 
-**Voor het Verband**
+*Voor het Verband*
 
 (w.g.) WILHELM EPPING-PASZ
 

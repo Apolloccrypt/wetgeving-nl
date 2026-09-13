@@ -1,164 +1,145 @@
 ---
 title: "Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid"
 identifier: "BWBV0003766"
-country: "nl"
-rank: "verdrag"
-publication_date: "1985-02-01"
-last_updated: "1985-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003766"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10003702233"
-version_id: "10003763192"
-internal_id: "C10006980181"
-label_id: "10003687644"
-dtd_version: "2.0"
-original_entry_into_force: "1985-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003766/1985-02-01/0"
-intitule_bron: "Trb.1981-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1981-04-29"
-intitule_in_force: "1985-01-25"
-intitule_status: "goed"
-original_publication: "Trb.1981-71"
-original_published_date: "1981-04-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-71"
-entry_into_force_date: "1985-02-01"
-jci_1_3: "jci1.3:c:BWBV0003766&z=1985-02-01&g=1985-02-01"
-jci_1_0: "1.0:c:BWBV0003766&g=1985-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1985-02-01"
+publicatiedatum: 1985-02-01
+laatste_update: 1985-02-01
+status: geldig
+toestand: 1985-02-01
+bron: "https://wetten.overheid.nl/BWBV0003766"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende de afgifte van een verklaring van huwelijksbevoegdheid
 
-De Staten die deze Overeenkomst hebben ondertekend, leden van de Internationale Commissie voor de Burgerlijke Stand, verlangend gemeenschappelijke bepalingen vast te stellen betreffende de afgifte van een verklaring van huwelijksbevoegdheid aan hun onderdanen met het oog op de huwelijkssluiting in het buitenland, indachtig de aanbeveling betreffende het huwelijksrecht, aangenomen door de Algemene Vergadering van de Internationale Commissie voor de Burgerlijke Stand op 8 september 1976 te Wenen, zijn het volgende overeengekomen:
+*Les Etats signataires de la présente Convention, membres de la Commission Internationale de l'Etat Civil, désireux d'établir des dispositions communes relatives à la délivrance d'un certificat de capacité matrimoniale à leurs ressortissants en vue de la célébration du mariage à l'étranger, ayant à l'esprit la Recommandation relative au droit du mariage adoptée par l'Assemblée Générale de la Commission Internationale de l'Etat Civil à Vienne le 8 septembre 1976, sont convenus des dispositions suivantes:*
 
-##### Artikel 1
+##### Article 1
 
-Iedere Overeenkomstsluitende Staat verbindt zich tot het afgeven van een verklaring van huwelijksbevoegdheid die overeenkomt met het aan deze Overeenkomst als bijlage toegevoegde model, wanneer een van zijn onderdanen zulks met het oog op zijn huwelijkssluiting in het buitenland verzoekt en hij volgens de wet van de Staat die de verklaring afgeeft, aan de voorwaarden voor het sluiten van dit huwelijk voldoet.
+Chaque Etat contractant s'engage à délivrer un certificat de capacité matrimoniale conforme au modèle annexé à la présente Convention, lorsqu'un de ses ressortissants le demande en vue de la célébration de son mariage à l'étranger et remplit au regard de la loi de l'Etat qui délivre le certificat les conditions pour contracter ce mariage.
 
-##### Artikel 2
+##### Article 2
 
-Voor de toepassing van deze Overeenkomst worden met onderdanen van een Overeenkomstsluitende Staat gelijkgesteld vluchtelingen en staatlozen wier persoonlijke staat door de wet van die Staat wordt beheerst.
+Pour l'application de la présente Convention sont assimilés aux ressortissants d'un Etat contractant les réfugiés et les apatrides dont le statut personnel est régi par la loi dudit Etat.
 
-##### Artikel 3
+##### Article 3
 
-Alle in de verklaring op te nemen gegevens worden geschreven in Latijnse drukletters; zij kunnen bovendien worden geschreven in de lettertekens van de taal van de autoriteit die de verklaring afgeeft.
+Toutes les inscriptions à porter sur le certificat sont écrites en caractères latins d'imprimerie; elles peuvent en outre être écrites dans les caractères de la langue de l'autorité qui délivre le certificat.
 
-##### Artikel 4
+##### Article 4
 
-1. De data worden geschreven in Arabische cijfers; zij geven achtereenvolgens aan onder de symbolen Jo, Mo en An, de dag, de maand en het jaar. De dag en de maand worden aangeduid door twee cijfers, het jaar door vier cijfers. De eerste negen dagen van de maand en de eerste negen maanden van het jaar worden aangeduid door de cijfers 01 tot en met 09.
+1. Les dates sont inscrites en chiffres arabes indiquant successivement, sous les symboles Jo, Mo et An, le jour, le mois et l'année. Le jour et le mois sont indiqués par deux chiffres, l'année par quatre chiffres. Les neuf premiers jours du mois et les neuf premiers mois de l'année sont indiqués par des chiffres allant de 01 à 09.
 
-2. De naam van iedere plaats vermeld in de verklaring wordt gevolgd door de naam van de Staat waarin deze plaats is gelegen, telkens wanneer deze Staat niet de Staat is waarvan de autoriteit de verklaring afgeeft.
+2. Le nom de tout lieu mentionné dans le certificat est suivi du nom de l'Etat où ce lieu est situé, chaque fois que cet Etat n'est pas celui dont l'autorité délivre le certificat.
 
-3. Uitsluitend de volgende symbolen worden gebruikt:
+3. Sont exclusivement utilisés les symboles suivants:
 
-- -. voor het aanduiden van het mannelijk geslacht de letter M, het vrouwelijk geslacht de letter F;
+- - pour indiquer le sexe masculin, la lettre M, le sexe féminin, la lettre F;
 
-- -. voor het aanduiden van de nationaliteit, de letters die worden gebruikt ter aanduiding van het land van registratie van motorvoertuigen;
+- - pour indiquer la nationalité, les lettres employées pour désigner le pays d'immatriculation des voitures automobiles;
 
-- -. voor het aanduiden van de status van vluchteling, de letters REF;
+- - pour indiquer la condition de réfugié, les lettres REF;
 
-- -. voor het aanduiden van de status van staatloze, de letters APA.
+- - pour indiquer la condition d'apatride, les lettres APA.
 
-4. Wanneer een eerder huwelijk is ontbonden, worden in vak 12 van de verklaring de naam en de voornamen van de laatste echtgenoot, alsmede de datum, de plaats en de grond van de ontbinding vermeld. Voor het aanduiden van de grond van de ontbinding worden uitsluitend de volgende symbolen gebruikt:
+4. Lorsqu'un précédent mariage a été dissous, sont mentionnés dans la case 12 du certificat le nom et les prénoms du dernier époux ainsi que la date, le lieu et la cause de la dissolution. Pour indiquer la cause de la dissolution sont exclusivement utilisés les symboles suivants:
 
-- -. in geval van overlijden, de letter D;
+- - en cas de décès, la lettre D;
 
-- -. in geval van echtscheiding, de letters DIV;
+- - en cas de divorce, les lettres DIV;
 
-- -. in geval van nietigverklaring, de letter A;
+- - en cas d'annulation, la lettre A;
 
-- -. in geval van afwezigheid, de letters ABS.
+- - en cas d'absence, les lettres ABS.
 
-##### Artikel 5
+##### Article 5
 
-Indien de bevoegde autoriteit niet in staat is een vakje of een gedeelte van een vakje in te vullen, dan wordt dit vakje of dit gedeelte van het vakje door strepen onbruikbaar gemaakt.
+Si l'autorité compétente n'est pas en mesure de remplir une case ou une partie de case, cette case ou partie de case est rendue inutilisable par des traits.
 
-##### Artikel 6
+##### Article 6
 
-1. Op de voorzijde van iedere verklaring worden de onveranderlijke vermeldingen, met uitzondering van de in artikel 4 voor de data voorgeschreven symbolen, gedrukt in ten minste twee talen, waaronder de officiële taal of één van de officiële talen van de Staat waar de verklaring wordt afgegeven en de Franse taal.
+1. Au recto de chaque certificat les mentions invariables, à l'exclusion des symboles prévus à l'article 4 en ce qui concerne les dates, sont imprimées en deux langues au moins, dont la langue ou l'une des langues officielles de l'Etat où le certificat est délivré et la langue française.
 
-2. De betekenis van de symbolen dient in ieder geval te worden aangegeven in de officiële taal of één van de officiële talen van elk van de Staten die, op het tijdstip van ondertekening van deze Overeenkomst, lid zijn van de Internationale Commissie voor de Burgerlijke Stand, alsmede in de Engelse taal.
+2. La signification des symboles doit être indiquée au moins dans la langue ou l'une des langues officielles de chacun des Etats qui, au moment de la signature de la présente Convention, sont membres de la Commission Internationale de l'Etat Civil, ainsi que dans la langue anglaise.
 
-3. Op de achterzijde van iedere verklaring moeten staan:
+3. Au verso de chaque certificat doivent figurer:
 
-- -. een verwijzing naar de Overeenkomst, in de talen aangegeven in het tweede lid van dit artikel;
+- - une référence à la Convention, dans les langues indiquées au deuxième paragraphe du présent article;
 
-- -. de vertaling van de onveranderlijke vermeldingen in de talen aangegeven in het tweede lid van dit artikel, indien deze talen niet zijn gebruikt op de voorzijde;
+- - la traduction des mentions invariables, dans les langues indiquées au deuxième paragraphe du présent article, si ces langues n'ont pas été utilisées au recto;
 
-- -. een samenvatting van de artikelen 3, 4, 5 en 9 van de Overeenkomst, in ten minste de officiële taal of in één van de officiële talen van de autoriteit die de verklaring afgeeft.
+- - un résumé des articles 3, 4, 5 et 9 de la Convention, au moins dans la langue ou l'une des langues officielles de l'autorité qui délivre le certificat.
 
-4. Iedere vertaling moet worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
+4. Toute traduction doit être approuvée par le Bureau de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 7
+##### Article 7
 
-De verklaringen worden gedagtekend en voorzien van de handtekening en het stempel van de autoriteit die deze heeft afgegeven. De geldigheidsduur van de verklaringen wordt beperkt tot een termijn van zes maanden te rekenen vanaf de datum van afgifte.
+Les certificats sont datés et revêtus de la signature et du sceau de l'autorité qui les a délivrés. Leur validité est limitée à une durée de six mois à compter de la date de délivrance.
 
-##### Artikel 8
+##### Article 8
 
-1. Bij de ondertekening, de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding wijzen de Overeenkomstsluitende Staten de autoriteiten aan die bevoegd zijn de verklaringen af te geven.
+1. Lors de la signature, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion, les Etats contractants indiqueront les autorités compétentes pour délivrer les certificats.
 
-2. Iedere latere wijziging wordt medegedeeld aan de Zwitserse Bondsraad.
+2. Toute modification ultérieure sera notifiée au Conseil Fédéral Suisse.
 
-##### Artikel 9
+##### Article 9
 
-Iedere wijziging van de verklaring door een Staat moet worden goedgekeurd door de Internationale Commissie voor de Burgerlijke Stand.
+Toute modification du certificat par un Etat doit être approuvée par la Commission Internationale de l'Etat Civil.
 
-##### Artikel 10
+##### Article 10
 
-De verklaringen worden vrijgesteld van legalisatie en iedere overeenkomstige formaliteit op het grondgebied van elk der door deze Overeenkomst gebonden Staten.
+Les certificats sont dispensés de légalisation ou de toute formalité équivalente sur le territoire de chacun des Etats liés par la présente Convention.
 
-##### Artikel 11
+##### Article 11
 
-Deze Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
+La présente Convention sera ratifiée, acceptée ou approuvée et les instruments de ratification, d'acceptation ou d'approbation seront déposés auprès du Conseil Fédéral Suisse.
 
-##### Artikel 12
+##### Article 12
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de derde maand volgend op de maand van nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+1. La présente Convention entrera en vigueur le premier jour du troisième mois qui suit celui du dépôt du troisième instrument de ratification, d'acceptation, d'approbation ou d'adhésion.
 
-2. Ten aanzien van de Staat die de Overeenkomst bekrachtigt, aanvaardt, goedkeurt of na haar inwerkingtreding tot de Overeenkomst toetreedt, wordt de Overeenkomst van kracht op de eerste dag van de derde maand volgend op de maand waarin deze Staat zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
+2. A l'égard de l'Etat qui ratifiera, acceptera, approuvera ou adhérera après son entrée en vigueur, la Convention prendra effet le premier jour du troisième mois qui suit celui du dépôt par cet Etat de l'instrument de ratification, d'acceptation, d'approbation ou d'adhésion.
 
-##### Artikel 13
+##### Article 13
 
-Iedere Staat kan tot deze Overeenkomst toetreden. De akte van toetreding wordt nedergelegd bij de Zwitserse Bondsraad.
+Tout Etat pourra adhérer à la présente Convention. L'instrument d'adhésion sera déposé auprès du Conseil Fédéral Suisse.
 
-##### Artikel 14
+##### Article 14
 
-Geen enkel voorbehoud op deze Overeenkomst is toegestaan.
+Aucune réserve à la présente Convention n'est admise.
 
-##### Artikel 15
+##### Article 15
 
-1. Iedere Staat kan bij de ondertekening, de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding of op ieder tijdstip daarna, verklaren dat deze Overeenkomst zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot één of meer van deze gebieden.
+1. Tout Etat, au moment de la signature, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion ou à tout autre moment par la suite, pourra déclarer que la présente Convention s'étendra à l'ensemble des territoires dont il assure les relations sur le plan international, ou à l'un ou plusieurs d'entre eux.
 
-2. Deze verklaring wordt ter kennis gebracht van de Zwitserse Bondsraad en de uitbreiding wordt van kracht op het tijdstip waarop de Overeenkomst voor bedoelde Staat in werking treedt of, indien de kennisgeving later plaatsvindt, op de eerste dag van de derde maand volgend op de maand van ontvangst van de kennisgeving.
+2. Cette déclaration sera notifiée au Conseil Fédéral Suisse et l'extension prendra effet au moment de l'entrée en vigueur de la Convention pour ledit Etat ou, ultérieurement, le premier jour du troisième mois qui suit celui de la réception de la notification.
 
-3. Iedere verklaring inzake uitbreiding kan worden ingetrokken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving en de Overeenkomst houdt op van toepassing te zijn in het bedoelde gebied op de eerste dag van de derde maand volgend op de maand van ontvangst van voornoemde kennisgeving.
+3. Toute déclaration d'extension pourra être retirée par notification adressée au Conseil Fédéral Suisse et la Convention cessera d'être applicable au territoire désigné le premier jour du troisième mois qui suit celui de la réception de ladite notification.
 
-##### Artikel 16
+##### Article 16
 
-1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
+1. La présente Convention demeurera en vigueur sans limitation de durée.
 
-2. Iedere Staat die Partij is bij deze Overeenkomst is evenwel bevoegd de Overeenkomst op te zeggen te allen tijde na het verstrijken van een termijn van één jaar te rekenen vanaf de datum waarop de Overeenkomst voor deze Staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zesde maand volgend op de maand van ontvangst van deze kennisgeving. De Overeenkomst blijft tussen de overige Staten van kracht.
+2. Tout Etat partie à la présente Convention aura toutefois la faculté de la dénoncer à tout moment après l'expiration d'un délai d'un an à partir de la date de l'entrée en vigueur de la Convention à son égard. La dénonciation sera notifiée au Conseil Fédéral Suisse et prendra effet le premier jour du sixième mois qui suit celui de la réception de cette notification. La Convention restera en vigueur entre les autres Etats.
 
-##### Artikel 17
+##### Article 17
 
-1. De Zwitserse Bondsraad stelt de Staten die lid zijn van de Internationale Commissie voor de Burgerlijke Stand alsmede iedere andere Staat die tot deze Overeenkomst is toegetreden in kennis van
+1. Le Conseil Fédéral Suisse notifiera aux Etats membres de la Commission Internationale de l'Etat Civil et à tout autre Etat ayant adhéré à la présente Convention:
 
-- a). de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- a) le dépôt de tout instrument de ratification, d'acceptation, d'approbation ou d'adhésion;
 
-- b). iedere datum van inwerkingtreding van de Overeenkomst;
+- b) toute date d'entrée en vigueur de la Convention;
 
-- c). iedere verklaring die erop is gericht de Overeenkomst tot andere gebieden uit te breiden of de intrekking van deze verklaring, met de datum waarop deze verklaring van kracht wordt;
+- c) toute déclaration concernant l'extension territoriale de la Convention ou son retrait, avec la date à laquelle elle prendra effet;
 
-- d). iedere opzegging van de Overeenkomst en de datum waarop deze van kracht wordt;
+- d) toute dénonciation de la Convention et la date à laquelle elle prendra effet;
 
-- e). iedere verklaring krachtens artikel 8.
+- e) toute déclaration faite en vertu de l'article 8.
 
-2. De Zwitserse Bondsraad doet de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van iedere kennisgeving gedaan overeenkomstig het eerste lid.
+2. Le Conseil Fédéral Suisse avisera le Secrétaire Général de la Commission Internationale de l'Etat Civil de toute notification faite en application du paragraphe 1.
 
-3. Zodra deze Overeenkomst in werking is getreden, wordt door de Zwitserse Bondsraad een voor eensluidend gewaarmerkt afschrift gezonden aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publicatie overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+3. Dès l'entrée en vigueur de la présente Convention, une copie certifiée conforme sera transmise par le Conseil Fédéral Suisse au Secrétaire Général des Nations Unies aux fins d'enregistrement et de publication, conformément à l'[article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

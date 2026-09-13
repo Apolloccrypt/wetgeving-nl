@@ -1,55 +1,19 @@
 ---
 title: "Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA)"
 identifier: "BWBV0003024"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-04-01"
-last_updated: "2003-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003024"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003294743"
-version_id: "10003319642"
-internal_id: "C10009528681"
-label_id: "10003280654"
-dtd_version: "2.0"
-original_entry_into_force: "2019-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003024/2019-04-01/0"
-intitule_bron: "Trb.2004-142"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-04-15"
-intitule_published: "2004-06-01"
-intitule_in_force: "2019-04-05"
-intitule_status: "goed"
-original_publication: "Trb.2004-142"
-original_signed_date: "2008-04-15"
-original_published_date: "2004-06-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-142"
-entry_into_force_date: "2019-04-01"
-jci_1_3: "jci1.3:c:BWBV0003024&z=2019-04-01&g=2019-04-01"
-jci_1_0: "1.0:c:BWBV0003024&g=2019-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-04-15"
-entry_into_force: "2019-04-01"
+publicatiedatum: 2019-04-01
+laatste_update: 2019-04-01
+status: geldig
+toestand: 2019-04-01
+bron: "https://wetten.overheid.nl/BWBV0003024"
+opgehaald: 2026-09-13
 ---
+
 # Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA)
 
-De vertegenwoordigers van de regeringen van de Lid-Staten van de Europese Unie, in het kader van de Raad bijeen,
-
-Gelet op het Verdrag betreffende de Europese Unie (VEU), en met name op titel V,
-
-Overwegende hetgeen volgt:
-
-De Europese Raad heeft besloten om met het oog op het Gemeenschappelijk Buitenlands en Veiligheidsbeleid (GBVB) aan de EU de middelen beschikbaar te stellen die nodig zijn om besluiten te nemen en uit te voeren met betrekking tot alle conflictpreventie-en crisisbeheersingstaken die in het VEU zijn neergelegd.
-
-Nationale besluiten om strijdkrachten van lidstaten van de Europese Unie (hierna „lidstaten" genoemd) van en naar het grondgebied van andere lidstaten te zenden in het kader van de voorbereiding en uitvoering van opdrachten in de zin van artikel 17, lid 2, van het VEU, waaronder oefeningen, zullen worden genomen overeenkomstig titel V van het VEU, met name artikel 23, lid 1, en zullen het voorwerp vormen van afzonderlijke regelingen tussen de lidstaten.
-
-Er moeten met de betrokken derde landen specifieke overeenkomsten worden gesloten in het geval van oefeningen of opdrachten buiten het grondgebied van de lidstaten.
-
-Dit akkoord laat de rechten en plichten van de partijen uit hoofde van internationale overeenkomsten en van andere internationale rechtsinstrumenten tot instelling van internationale tribunalen, waaronder het Statuut van Rome inzake het Internationaal Strafhof, onverlet,
-
-Zijn het volgende overeengekomen:
+*De vertegenwoordigers van de regeringen van de Lid-Staten van de Europese Unie, in het kader van de Raad bijeen, Gelet op het Verdrag betreffende de Europese Unie (VEU), en met name op titel V, Overwegende hetgeen volgt: 1. De Europese Raad heeft besloten om met het oog op het Gemeenschappelijk Buitenlands en Veiligheidsbeleid (GBVB) aan de EU de middelen beschikbaar te stellen die nodig zijn om besluiten te nemen en uit te voeren met betrekking tot alle conflictpreventie-en crisisbeheersingstaken die in het VEU zijn neergelegd. 2. Nationale besluiten om strijdkrachten van lidstaten van de Europese Unie (hierna „lidstaten" genoemd) van en naar het grondgebied van andere lidstaten te zenden in het kader van de voorbereiding en uitvoering van opdrachten in de zin van artikel 17, lid 2, van het VEU, waaronder oefeningen, zullen worden genomen overeenkomstig titel V van het VEU, met name artikel 23, lid 1, en zullen het voorwerp vormen van afzonderlijke regelingen tussen de lidstaten. 3. Er moeten met de betrokken derde landen specifieke overeenkomsten worden gesloten in het geval van oefeningen of opdrachten buiten het grondgebied van de lidstaten. 4. Dit akkoord laat de rechten en plichten van de partijen uit hoofde van internationale overeenkomsten en van andere internationale rechtsinstrumenten tot instelling van internationale tribunalen, waaronder het Statuut van Rome inzake het Internationaal Strafhof, onverlet, Zijn het volgende overeengekomen:*
 
 ## DEEL I. GEMEENSCHAPPELIJKE BEPALINGEN VOOR MILITAIREN EN BURGERPERSONEEL
 
@@ -59,11 +23,11 @@ In dit akkoord wordt verstaan onder:
 
 - 1. „militairen":
 
-- a. de militairen van de lidstaten die bij het secretariaat-generaal van de Raad gedetacheerd zijn als leden van de militaire staf van de Europese Unie (EUMS);
+   - a. de militairen van de lidstaten die bij het secretariaat-generaal van de Raad gedetacheerd zijn als leden van de militaire staf van de Europese Unie (EUMS);
 
-- b. het militaire personeel, niet zijnde personeel van de EU-instellingen, dat door de EUMS vanuit de lidstaten als tijdelijke versterking kan worden ingezet indien het Militair Comité van de Europese Unie (MCEU) daarom verzoekt, voor activiteiten in het kader van de voorbereiding en uitvoering van de opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen;
+   - b. het militaire personeel, niet zijnde personeel van de EU-instellingen, dat door de EUMS vanuit de lidstaten als tijdelijke versterking kan worden ingezet indien het Militair Comité van de Europese Unie (MCEU) daarom verzoekt, voor activiteiten in het kader van de voorbereiding en uitvoering van de opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen;
 
-- c. militairen van de lidstaten die gedetacheerd zijn bij de hoofdkwartieren en de strijdkrachten die ter beschikking van de EU kunnen worden gesteld, of het personeel daarvan, in het kader van de voorbereiding en de uitvoering van opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen;
+   - c. militairen van de lidstaten die gedetacheerd zijn bij de hoofdkwartieren en de strijdkrachten die ter beschikking van de EU kunnen worden gesteld, of het personeel daarvan, in het kader van de voorbereiding en de uitvoering van opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen;
 
 - 2. „burgerpersoneel": het burgerpersoneel dat door de lidstaten bij EU-instellingen gedetacheerd is in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen, of het burgerpersoneel, met uitzondering van plaatselijk aangeworven personeel, dat werkzaam is bij de hoofdkwartieren of de strijdkrachten of dat anderszins door de lidstaten aan de EU beschikbaar wordt gesteld voor dezelfde activiteiten;
 
@@ -197,9 +161,9 @@ Ter vermijding van dubbele belastingheffing en ter verfijning van de toepassing 
 
 - a. de bevoegde autoriteiten van de zendstaat hebben voorrang bij de uitoefening van rechtsmacht over militairen en leden van het burgerpersoneel voor zover het burgerpersoneel uit hoofde van het feit dat het wordt ingezet bij deze strijdkrachten onderworpen is aan het recht dat van toepassing is op alle strijdkrachten van de zendstaat of een onderdeel daarvan, met betrekking tot:
 
-- i. vergrijpen die uitsluitend gericht zijn tegen de eigendom of de veiligheid van die staat of vergrijpen die uitsluitend gericht zijn tegen de persoon of de eigendom van een militair of een lid van het burgerpersoneel of van een afhankelijke persoon;
+   - i. vergrijpen die uitsluitend gericht zijn tegen de eigendom of de veiligheid van die staat of vergrijpen die uitsluitend gericht zijn tegen de persoon of de eigendom van een militair of een lid van het burgerpersoneel of van een afhankelijke persoon;
 
-- ii. vergrijpen die voortvloeien uit enige daad of nalatigheid, begaan in de uitoefening van de dienst;
+   - ii. vergrijpen die voortvloeien uit enige daad of nalatigheid, begaan in de uitoefening van de dienst;
 
 - b. in geval van enig ander vergrijp hebben de autoriteiten van de ontvangststaat voorrang bij de uitoefening van rechtsmacht;
 
@@ -217,11 +181,11 @@ Ter vermijding van dubbele belastingheffing en ter verfijning van de toepassing 
 
 Van vorderingen ter zake van maritieme berging die een lidstaat tegen een andere lidstaat heeft, wordt afstand gedaan mits het geborgen vaartuig of de geborgen lading eigendom was van een lidstaat en in gebruik was bij diens strijdkrachten bij acties in het kader van voornoemde opdrachten.
 
-- a. Voor het geval schade wordt veroorzaakt of ontstaat overeenkomstig lid 1 met betrekking tot andere eigendom van een lidstaat die op zijn grondgebied gelegen is, worden de aansprakelijkheid voor en het bedrag van de schade vastgesteld door middel van overleg tussen deze staten, tenzij de betrokken lidstaten anders overeenkomen;
+2. - a. Voor het geval schade wordt veroorzaakt of ontstaat overeenkomstig lid 1 met betrekking tot andere eigendom van een lidstaat die op zijn grondgebied gelegen is, worden de aansprakelijkheid voor en het bedrag van de schade vastgesteld door middel van overleg tussen deze staten, tenzij de betrokken lidstaten anders overeenkomen;
 
 - b. Iedere lidstaat doet echter afstand van zijn vordering wanneer de schade minder bedraagt dan een bedrag dat bij een besluit van de Raad met eenparigheid van stemmen zal worden bepaald.
 
-2. Elke andere lidstaat waarvan de eigendom bij hetzelfde voorval beschadigd is, doet tot bovengenoemd bedrag eveneens afstand van zijn vordering.
+Elke andere lidstaat waarvan de eigendom bij hetzelfde voorval beschadigd is, doet tot bovengenoemd bedrag eveneens afstand van zijn vordering.
 
 3. „Eigendom van een lidstaat" in de leden 1 en 2 omvat vaartuigen „on bare boat charter" bij een lidstaat of vaartuigen die onder „bare boat"-voorwaarden door die lidstaat zijn gevorderd of door deze zijn prijsgemaakt (behoudens voorzover het risico voor verlies of aansprakelijkheid wordt gedragen door een andere eenheid dan die lidstaat).
 
@@ -239,15 +203,15 @@ Van vorderingen ter zake van maritieme berging die een lidstaat tegen een andere
 
 - e. de kosten, gemaakt ter voldoening van vorderingen ingevolge de voorgaande bepalingen a) tot en met d) en lid 2, worden als volgt onder de lidstaten verdeeld:
 
-- i. wanneer uitsluitend één zendstaat aansprakelijk is, wordt het bedrag van de schadevergoeding zodanig verdeeld dat 25% ten laste komt van de ontvangststaat en 75% ten laste van de zendstaat;
+   - i. wanneer uitsluitend één zendstaat aansprakelijk is, wordt het bedrag van de schadevergoeding zodanig verdeeld dat 25% ten laste komt van de ontvangststaat en 75% ten laste van de zendstaat;
 
-- ii. wanneer meer dan één staat aansprakelijk is voor de schade, wordt het bedrag gelijkelijk over de betrokken staten verdeeld; wanneer echter de ontvangststaat niet een der aansprakelijke staten is, is het aandeel van deze staat gelijk aan de helft van dat van elk der zendstaten;
+   - ii. wanneer meer dan één staat aansprakelijk is voor de schade, wordt het bedrag gelijkelijk over de betrokken staten verdeeld; wanneer echter de ontvangststaat niet een der aansprakelijke staten is, is het aandeel van deze staat gelijk aan de helft van dat van elk der zendstaten;
 
-- iii. wanneer de schade veroorzaakt is door de diensten van de lidstaten, maar onmogelijk nauwkeurig aan een of meer van deze diensten kan worden toegeschreven, wordt het bedrag van de schadeloosstelling gelijkelijk over de betrokken lidstaten verdeeld;
+   - iii. wanneer de schade veroorzaakt is door de diensten van de lidstaten, maar onmogelijk nauwkeurig aan een of meer van deze diensten kan worden toegeschreven, wordt het bedrag van de schadeloosstelling gelijkelijk over de betrokken lidstaten verdeeld;
 
-- indien evenwel de ontvangststaat niet één van de staten is wier diensten de schade hebben veroorzaakt, is het aandeel van deze staat de helft van dat van elk der betrokken zendstaten;
+   - indien evenwel de ontvangststaat niet één van de staten is wier diensten de schade hebben veroorzaakt, is het aandeel van deze staat de helft van dat van elk der betrokken zendstaten;
 
-- iv. elk halfjaar zendt de ontvangststaat aan de betrokken zendstaten een lijst van de bedragen, welke in de loop van de voorgaande halfjaarlijkse periode zijn betaald met betrekking tot alle gevallen waarvoor een percentsgewijze verdeling is aanvaard, vergezeld van een verzoek om terugbetaling. De terugbetaling geschiedt binnen de kortst mogelijke tijd in de valuta van de ontvangststaat;
+   - iv. elk halfjaar zendt de ontvangststaat aan de betrokken zendstaten een lijst van de bedragen, welke in de loop van de voorgaande halfjaarlijkse periode zijn betaald met betrekking tot alle gevallen waarvoor een percentsgewijze verdeling is aanvaard, vergezeld van een verzoek om terugbetaling. De terugbetaling geschiedt binnen de kortst mogelijke tijd in de valuta van de ontvangststaat;
 
 - f. wanneer de toepassing van het bepaalde onder b) en e) een lidstaat in ernstige moeilijkheden zou brengen, kan die lidstaat de andere betrokken lidstaten verzoeken door middel van overleg een regeling van andere aard tussen hen te treffen;
 
@@ -287,11 +251,11 @@ Van vorderingen ter zake van maritieme berging die een lidstaat tegen een andere
 
 4. De secretaris-generaal van de Raad van de Europese Unie treedt op als depositaris van dit akkoord. De depositaris maakt dit akkoord, alsmede de informatie over de inwerkingtreding van het akkoord na de voltooiing van de in lid 2 bedoelde grondwettelijke procedures, bekend in het Publicatieblad van de Europese Unie.
 
-- a. Dit akkoord is van toepassing in het moederland van de lidstaten van de Europese Unie.
+5. - a. Dit akkoord is van toepassing in het moederland van de lidstaten van de Europese Unie.
 
 - b. Elke lidstaat kan de secretaris-generaal van de Raad van de Europese Unie ervan in kennis stellen dat het akkoord ook van toepassing is op andere grondgebieden voor welker internationale betrekkingen de betrokken lidstaat verantwoordelijk is.
 
-- a. Het in deel I en deel III van het akkoord bepaalde is slechts van toepassing op hoofdkwartieren en strijdkrachten, alsmede op het personeel daarvan, die ter beschikking zijn gesteld van de EU ter voorbereiding en uitvoering van de in artikel 17, lid 2, VEU, bedoelde taken, waaronder oefeningen, voor zover de status van deze hoofdkwartieren en strijdkrachten, alsook van het personeel daarvan, niet geregeld is in een ander akkoord.
+6. - a. Het in deel I en deel III van het akkoord bepaalde is slechts van toepassing op hoofdkwartieren en strijdkrachten, alsmede op het personeel daarvan, die ter beschikking zijn gesteld van de EU ter voorbereiding en uitvoering van de in artikel 17, lid 2, VEU, bedoelde taken, waaronder oefeningen, voor zover de status van deze hoofdkwartieren en strijdkrachten, alsook van het personeel daarvan, niet geregeld is in een ander akkoord.
 
 - b. In de gevallen waarin de status van de hoofdkwartieren en strijdkrachten, alsook van het personeel daarvan, geregeld wordt in een ander akkoord, en deze optreden in het kader van hun terbeschikkingstelling van de EU, kunnen specifieke regelingen worden getroffen tussen de EU en de betrokken staten en organisaties waarin wordt bepaald welke regeling van toepassing zal zijn op de betrokken operatie of oefening.
 

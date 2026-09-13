@@ -1,50 +1,19 @@
 ---
 title: "Benelux-Overeenkomst houdende eenvormige wet betreffende de dwangsom"
 identifier: "BWBV0003371"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-10-01"
-last_updated: "1978-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003371"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003504363"
-version_id: "10003551002"
-internal_id: "C10006982301"
-label_id: "10003489844"
-dtd_version: "2.0"
-original_entry_into_force: "1978-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003371/1978-10-01/0"
-intitule_bron: "Trb.1974-6"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-01-16"
-intitule_in_force: "1978-09-08"
-intitule_status: "goed"
-original_publication: "Trb.1974-6"
-original_published_date: "1974-01-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-6"
-entry_into_force_date: "1978-10-01"
-jci_1_3: "jci1.3:c:BWBV0003371&z=1978-10-01&g=1978-10-01"
-jci_1_0: "1.0:c:BWBV0003371&g=1978-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-10-01"
+publicatiedatum: 1978-10-01
+laatste_update: 1978-10-01
+status: geldig
+toestand: 1978-10-01
+bron: "https://wetten.overheid.nl/BWBV0003371"
+opgehaald: 2026-09-13
 ---
+
 # Benelux-Overeenkomst houdende eenvormige wet betreffende de dwangsom
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Verlangende in de drie landen de mogelijkheid van een eenvormige wetgeving op het stuk van de dwangsom te openen;
-
-Overwegende, dat deze eenmaking kan bijdragen tot verhoging van de met het oog op de ontwikkeling van de Benelux Economische Unie geboden rechtszekerheid;
-
-Gelet op het door de Raadgevende Interparlementaire Beneluxraad op 16 juni 1972 uitgebrachte advies,
-
-Hebben besloten, te dien einde, een Overeenkomst te sluiten inzake het vaststellen in België, in Luxemburg en in Nederland van een eenvormige wet betreffende de dwangsom en zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Verlangende in de drie landen de mogelijkheid van een eenvormige wetgeving op het stuk van de dwangsom te openen; Overwegende, dat deze eenmaking kan bijdragen tot verhoging van de met het oog op de ontwikkeling van de Benelux Economische Unie geboden rechtszekerheid; Gelet op het door de Raadgevende Interparlementaire Beneluxraad op 16 juni 1972 uitgebrachte advies, Hebben besloten, te dien einde, een Overeenkomst te sluiten inzake het vaststellen in België, in Luxemburg en in Nederland van een eenvormige wet betreffende de dwangsom en zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -99,66 +68,6 @@ In dat geval is geen der beide andere ondertekenende Regeringen langer gebonden 
 ##### Artikel 9
 
 Indien een der ondertekenende Regeringen na de datum van inwerkingtreding van deze Overeenkomst partij wenst te worden bij een Overeenkomst, waarin bepalingen voorkomen welke afwijken van de onderhavige Overeenkomst of van de eenvormige wet, is artikel 8 van overeenkomstige toepassing.
-
-##### Artikel 1
-
-1. De rechter kan op vordering van een der partijen de wederpartij veroordelen tot betaling van een geldsom, dwangsom genaamd, voor het geval dat aan de hoofdveroordeling niet wordt voldaan, onverminderd het recht op schadevergoeding indien daartoe gronden zijn. Een dwangsom kan echter niet worden opgelegd in geval van een veroordeling tot betaling van een geldsom.
-
-2. De dwangsom kan ook voor het eerst in verzet of in hoger beroep worden gevorderd.
-
-3. De dwangsom kan niet worden verbeurd vóór de betekening van de uitspraak waarbij zij is vastgesteld.
-
-4. De rechter kan bepalen dat de veroordeelde pas na verloop van een zekere termijn de dwangsom zal kunnen verbeuren.
-
-##### Artikel 2
-
-De rechter kan de dwangsom hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In de laatste twee gevallen kan de rechter eveneens een bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.
-
-##### Artikel 3
-
-De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordeling heeft verkregen. Deze partij kan de dwangsom ten uitvoer leggen krachtens de titel waarbij zij is vastgesteld.
-
-##### Artikel 4
-
-1. De rechter die een dwangsom heeft opgelegd, kan op vordering van de veroordeelde de dwangsom opheffen, de looptijd ervan opschorten gedurende de door hem te bepalen termijn of de dwangsom verminderen ingeval van blijvende of tijdelijke, gehele of gedeeltelijke onmogelijkheid voor de veroordeelde om aan de hoofdveroordeling te voldoen.
-
-2. Voor zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de rechter haar niet opheffen of verminderen.
-
-##### Artikel 5
-
-1. De dwangsom kan gedurende het faillissement van de veroordeelde niet worden verbeurd.
-
-2. Dwangsommen die vóór de faillietverklaring verbeurd zijn, worden in het passief van het faillissement niet toegelaten.
-
-##### Artikel 6
-
-1. Na overlijden van de veroordeelde wordt een dwangsom die op een bepaald bedrag per tijdseenheid is vastgesteld, niet verder verbeurd, maar de vóór het overlijden verbeurde dwangsommen blijven verschuldigd. De dwangsom wordt
-
-(voor België) door erfgenamen en andere rechtverkrijgenden
-
-(voor Nederland) door erfgenamen
-
-van de veroordeelde pas opnieuw verbeurd nadat de rechter die haar heeft opgelegd, aldus heeft beslist. De rechter kan het bedrag en de voorwaarden ervan wijzigen.
-
-2. Andere dwangsommen kunnen, op vordering van
-
-(voor België) de erfgenamen en andere rechtverkrijgenden
-
-(voor Nederland) de erfgenamen
-
-door de rechter die ze heeft opgelegd, worden opgeheven of verminderd, hetzij blijvend hetzij tijdelijk, en, in voorkomend geval, met ingang van de dag waarop de veroordeelde overleden is.
-
-##### Artikel 7
-
-Een dwangsom verjaart door verloop van zes maanden na de dag waarop zij verbeurd is.
-
-- 2. De verjaring wordt (voor België) geschorst (voor Nederland) geschorst/verlengd door faillissement en ieder ander wettelijk beletsel voor tenuitvoerlegging van de dwangsom.
-
-- 3. De verjaring wordt ook (voor België) geschorst (voor Nederland) geschorst/verlengd zolang degene die de veroordeling verkreeg met het verbeuren van de dwangsom redelijkerwijs niet bekend kon zijn.
-
-##### Artikel 8
-
-Voor de bepaling van de rechterlijke bevoegdheid en de vatbaarheid voor hoger beroep wordt geen rekening gehouden met de dwangsom.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

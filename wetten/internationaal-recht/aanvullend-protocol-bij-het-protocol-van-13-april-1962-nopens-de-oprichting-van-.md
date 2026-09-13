@@ -1,84 +1,19 @@
 ---
 title: "Aanvullend Protocol bij het Protocol van 13 april 1962 nopens de oprichting van Europese scholen"
 identifier: "BWBV0003416"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-02-28"
-last_updated: "1980-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003416"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003523893"
-version_id: "10003572772"
-internal_id: "C10006982371"
-label_id: "10003509274"
-dtd_version: "2.0"
-original_entry_into_force: "1980-02-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003416/1980-02-28/0"
-intitule_bron: "Trb.1976-48"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-04-09"
-intitule_in_force: "1980-05-12"
-intitule_status: "goed"
-original_publication: "Trb.1976-48"
-original_published_date: "1976-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-48"
-entry_into_force_date: "1980-02-28"
-jci_1_3: "jci1.3:c:BWBV0003416&z=1980-02-28&g=1980-02-28"
-jci_1_0: "1.0:c:BWBV0003416&g=1980-02-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-02-28"
+publicatiedatum: 1980-02-28
+laatste_update: 1980-02-28
+status: geldig
+toestand: 1980-02-28
+bron: "https://wetten.overheid.nl/BWBV0003416"
+opgehaald: 2026-09-13
 ---
+
 # Aanvullend Protocol bij het Protocol van 13 april 1962 nopens de oprichting van Europese scholen
 
-De Regeringen van
-
-het Koninkrijk België
-
-het Koninkrijk Denemarken
-
-de Bondsrepubliek Duitsland
-
-de Franse Republiek
-
-Ierland
-
-de Italiaanse Republiek
-
-het Groothertogdom Luxemburg
-
-het Koninkrijk der Nederlanden
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-Naar behoren vertegenwoordigd door:
-
-de heer J. Deschamps, Ambassadeur van België te Luxemburg
-
-de heer K. V. Skjødt, Directeur, Dienst Octrooien
-
-de heer Peter Hermes, Staatssecretaris van Buitenlandse Zaken
-
-de heer Emile Cazimajou, Gevolmachtigd Minister, plaatsvervangend Permanent Vertegenwoordiger
-
-de heer John Bruton, Parlementair Staatssecretaris, Ministerie van Industrie en Handel
-
-de heer F. Cattanei, Staatssecretaris van Buitenlandse Zaken
-
-de heer Marcel Mart, Minister van Economische Zaken, Middenstand en Toerisme
-
-de heer Th. M. Hazekamp, Staatssecretaris van Economische Zaken
-
-Lord Goronwy-Roberts, Onderminister van Buitenlandse Zaken en Gemenebestzaken, Vice-Voorzitter van het Hogerhuis
-
-Gelet op het Statuut van de Europese school, ondertekend te Luxemburg op 12 april 1957, en de [Toegevoegde Overeenkomst bij het Statuut van de Europese school houdende vaststelling van een regeling voor het Europese baccalaureaat](https://wetten.overheid.nl/jci1.3:c:BWBV0004908), ondertekend te Luxemburg op 15 juli 1957,
-
-Gelet op het Protocol nopens de oprichting van Europese scholen, ondertekend te Luxemburg op 13 april 1962,
-
-Overwegende dat het wenselijk is voornoemd Protocol uit te breiden tot de Europese Octrooiorganisatie, opgericht bij het [Europees Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) van 5 oktober 1973,
-
-Zijn het volgende overeengekomen:
+*De Regeringen van het Koninkrijk België het Koninkrijk Denemarken de Bondsrepubliek Duitsland de Franse Republiek Ierland de Italiaanse Republiek het Groothertogdom Luxemburg het Koninkrijk der Nederlanden het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland Naar behoren vertegenwoordigd door: - de heer J. Deschamps, Ambassadeur van België te Luxemburg - de heer K. V. Skjødt, Directeur, Dienst Octrooien - de heer Peter Hermes, Staatssecretaris van Buitenlandse Zaken - de heer Emile Cazimajou, Gevolmachtigd Minister, plaatsvervangend Permanent Vertegenwoordiger - de heer John Bruton, Parlementair Staatssecretaris, Ministerie van Industrie en Handel - de heer F. Cattanei, Staatssecretaris van Buitenlandse Zaken - de heer Marcel Mart, Minister van Economische Zaken, Middenstand en Toerisme - de heer Th. M. Hazekamp, Staatssecretaris van Economische Zaken - Lord Goronwy-Roberts, Onderminister van Buitenlandse Zaken en Gemenebestzaken, Vice-Voorzitter van het Hogerhuis Gelet op het Statuut van de Europese school, ondertekend te Luxemburg op 12 april 1957, en de Toegevoegde Overeenkomst bij het Statuut van de Europese school houdende vaststelling van een regeling voor het Europese baccalaureaat, ondertekend te Luxemburg op 15 juli 1957, Gelet op het Protocol nopens de oprichting van Europese scholen, ondertekend te Luxemburg op 13 april 1962, Overwegende dat het wenselijk is voornoemd Protocol uit te breiden tot de Europese Octrooiorganisatie, opgericht bij het Europees Octrooiverdrag van 5 oktober 1973, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

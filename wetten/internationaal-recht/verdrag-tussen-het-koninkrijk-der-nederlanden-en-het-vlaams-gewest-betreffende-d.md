@@ -1,55 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de ontwikkelingsschets 2010 Schelde-estuarium"
 identifier: "BWBV0003046"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-10-01"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003046"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003306013"
-version_id: "10003333572"
-internal_id: "C10008429251"
-label_id: "10003291874"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003046/2008-10-01/0"
-intitule_bron: "Trb.2005-310"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-28"
-intitule_published: "2005-12-23"
-intitule_in_force: "2008-09-22"
-intitule_status: "goed"
-original_publication: "Trb.2005-310"
-original_signed_date: "2008-08-28"
-original_published_date: "2005-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-310"
-entry_into_force_date: "2008-10-01"
-jci_1_3: "jci1.3:c:BWBV0003046&z=2008-10-01&g=2008-10-01"
-jci_1_0: "1.0:c:BWBV0003046&g=2008-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-08-28"
-entry_into_force: "2008-10-01"
+publicatiedatum: 2008-10-01
+laatste_update: 2008-10-01
+status: geldig
+toestand: 2008-10-01
+bron: "https://wetten.overheid.nl/BWBV0003046"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de ontwikkelingsschets 2010 Schelde-estuarium
 
-Het Koninkrijk der Nederlanden,
-
-en
-
-Het Vlaams Gewest,
-
-hierna te noemen „de Verdragsluitende Partijen’’,
-
-Overtuigd van het belang van de optimalisering van de veiligheid, de toegankelijkheid en de natuurlijkheid in het Schelde-estuarium,
-
-Handelend vanuit het vaste voornemen om daartoe voortvarend en in samenhang invulling te geven aan de door de Regeringen van de Verdragsluitende Partijen op 17 december 2004 en 11 maart 2005 vastgestelde besluiten van de Ontwikkelingsschets 2010 Schelde-estuarium,
-
-Overwegende dat de uitvoering van de daarin voorziene projecten en werken zal bijdragen tot het behoud van de fysieke systeemkenmerken van het Schelde-estuarium;
-
-komen het volgende overeen:
+*Het Koninkrijk der Nederlanden, en Het Vlaams Gewest, hierna te noemen „de Verdragsluitende Partijen’’, Overtuigd van het belang van de optimalisering van de veiligheid, de toegankelijkheid en de natuurlijkheid in het Schelde-estuarium, Handelend vanuit het vaste voornemen om daartoe voortvarend en in samenhang invulling te geven aan de door de Regeringen van de Verdragsluitende Partijen op 17 december 2004 en 11 maart 2005 vastgestelde besluiten van de Ontwikkelingsschets 2010 Schelde-estuarium, Overwegende dat de uitvoering van de daarin voorziene projecten en werken zal bijdragen tot het behoud van de fysieke systeemkenmerken van het Schelde-estuarium; komen het volgende overeen:*
 
 ### Hoofdstuk I. ALGEMENE BEPALINGEN
 
@@ -241,10 +205,10 @@ TEN BLIJKE WAARVAN de Gevolmachtigden van de Regeringen der Verdragsluitende Par
 
 ONDERTEKEND te Middelburg, op 21 december 2005, in tweevoud in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 M. H. SCHULTZ
 
-**Voor het Vlaams Gewest,**
+*Voor het Vlaams Gewest,*
 
 K. PEETERS

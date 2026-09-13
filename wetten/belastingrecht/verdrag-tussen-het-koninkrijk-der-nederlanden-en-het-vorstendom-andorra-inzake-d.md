@@ -1,218 +1,191 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Andorra inzake de uitwisseling van informatie betreffende belastingzaken"
 identifier: "BWBV0004028"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-01-01"
-last_updated: "2011-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004028"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003830793"
-version_id: "10003900022"
-internal_id: "C10009632171"
-label_id: "10003815564"
-dtd_version: "2.0"
-original_entry_into_force: "2011-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004028/2011-01-01/0"
-intitule_bron: "Trb.2010-24"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-01-26"
-intitule_in_force: "2011-03-21"
-intitule_status: "goed"
-original_publication: "Trb.2010-24"
-original_published_date: "2010-01-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-24"
-entry_into_force_date: "2011-01-01"
-jci_1_3: "jci1.3:c:BWBV0004028&z=2011-01-01&g=2011-01-01"
-jci_1_0: "1.0:c:BWBV0004028&g=2011-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-01-01"
+publicatiedatum: 2011-01-01
+laatste_update: 2011-01-01
+status: geldig
+toestand: 2011-01-01
+bron: "https://wetten.overheid.nl/BWBV0004028"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Andorra inzake de uitwisseling van informatie betreffende belastingzaken
 
-De Regering van het Koninkrijk der Nederlanden,
+*The Government of the Kingdom of the Netherlands and the Government of the Principality of Andorra, Desiring to facilitate the exchange of information with respect to taxes; Have agreed as follows:*
 
-en
+##### Article 1. Object and scope of the Agreement
 
-de Regering van het Vorstendom Andorra,
+The competent authorities of the Contracting Parties shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting Parties concerning taxes covered by this Agreement. Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in [Article 8](https://wetten.overheid.nl/BWBV0004028). The rights and safeguards secured to persons by the laws or administrative practice of the requested Party remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.
 
-Geleid door de wens de uitwisseling van informatie met betrekking tot belastingen te vergemakkelijken;
+##### Article 2. Jurisdiction
 
-Zijn het volgende overeengekomen:
+A requested Party is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction.
 
-##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
+##### Article 3. Taxes Covered
 
-De bevoegde autoriteiten van de Verdragsluitende Partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zullen zijn voor de toepassing en handhaving van de nationale wetten van de Verdragsluitende Partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvatten informatie die naar verwachting van belang zullen zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. informatie worden uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en worden vertrouwelijk behandeld op de wijze voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=8&z=2011-01-01&g=2011-01-01). De uit hoofde van de wetgeving of bestuursrechtelijke praktijk van de aangezochte Partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
+1. The taxes which are the subject of this Agreement are taxes of every kind and description.
 
-##### Artikel 2. Rechtsmacht
+2. The competent authorities of the Contracting Parties shall notify each other of any substantial changes to the taxation and related information gathering measures covered by this Agreement.
 
-Een aangezochte Partij is niet verplicht informatie te verstrekken die noch in het bezit zijn van haar autoriteiten, noch in het bezit of onder de macht van personen die zich binnen haar territoriale rechtsgebied bevinden.
+##### Article 4. Definitions
 
-##### Artikel 3. Belastingen waarop het Verdrag van toepassing is
+1. For the purposes of this Agreement, unless otherwise defined:
 
-1. De belastingen waarop dit Verdrag van toepassing is betreffen belastingen van elke soort en benaming.
+- a) the term “Contracting Party” means Andorra or the Netherlands as the context requires;
 
-2. De bevoegde autoriteiten van de Verdragsluitende Partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is.
+- b) the term “Andorra” means the Principality of Andorra and when used in a geographical sense, means the land territory according to Andorran legislation and in accordance with international law within Andorra exercises jurisdiction or sovereign rights;
 
-##### Artikel 4. Begripsomschrijvingen
+- c) the term “the Netherlands” means the part of the Kingdom of the Netherlands that is situated in Europe, including its territorial seas, and any area beyond the territorial sea within which the Netherlands, in accordance with international law, exercises jurisdiction or sovereign rights with respect to the sea bed, its subsoil and its superjacent waters, and their natural resources;
 
-1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
+- d) the term “competent authority” means
 
-- a. wordt verstaan onder de uitdrukking „Verdragsluitende Partij” Andorra of Nederland, al naargelang de context vereist;
+   - (i) in the case of Andorra, the Minister in charge of Finance or the Minister’s authorised representative;
 
-- b. wordt verstaan onder de uitdrukking „Andorra” het Vorstendom Andorra; gebezigd in aardrijkskundige zin omvat deze uitdrukking het grondgebied volgens de Andorrese wetgeving waarbinnen Andorra, in overeenstemming met het internationale recht, rechtsbevoegdheid heeft of soevereine rechten uitoefent;
+   - (ii) in the case of the Netherlands, the Minister of Finance or the Minister’s authorised representative;
 
-- c. wordt verstaan onder „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, met inbegrip van zijn territoriale zee en elk gebied buiten de territoriale zee waarbinnen Nederland, in overeenstemming met het internationale recht, rechtsbevoegdheid heeft of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan en de bovengelegen wateren en hun natuurlijke rijkdommen;
+- e) the term “person” includes an individual, a company and any other body of persons;
 
-- d. wordt verstaan onder de uitdrukking „bevoegde autoriteit”:
+- f) the term “company” means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-- i. wat Andorra betreft, de minister belast met Financiën of de bevoegde vertegenwoordiger van de minister;
+- g) the term “publicly traded company” means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public. Shares can be purchased or sold “by the public” if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-- ii. wat Nederland betreft, de minister van Financiën of de bevoegde vertegenwoordiger van de minister;
+- h) the term “principal class of shares” means the class or classes of shares representing a majority of the voting power and value of the company;
 
-- e. wordt verstaan onder de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- i) the term “recognised stock exchange” means any stock exchange agreed upon by the competent authorities of the Contracting Parties;
 
-- f. wordt verstaan onder de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- j) the term “collective investment fund or scheme” means any pooled investment vehicle, irrespective of legal form. The term “public collective investment fund or scheme” means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public. Units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed “by the public” if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
-- g. wordt verstaan onder de uitdrukking „beursgenoteerd lichaam” een lichaam waarvan de voornaamste aandelencategorie aan een erkende effectenbeurs staat genoteerd mits de ter beurze genoteerde aandelen direct door het publiek gekocht of verkocht kunnen worden. Aandelen kunnen „door het publiek” worden gekocht of verkocht indien de aankoop of verkoop van aandelen niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;
+- k) the term “tax” means any tax to which this Agreement applies;
 
-- h. wordt verstaan onder de uitdrukking „voornaamste aandelencategorie” de aandelencategorie of -categorieën die een meerderheid van het totale aantal stemmen en de waarde van het lichaam vertegenwoordigen;
+- l) the term “applicant Party” means the Contracting Party requesting information;
 
-- i. wordt verstaan onder de uitdrukking „erkende effectenbeurs” een effectenbeurs die de bevoegde autoriteiten van de Verdragsluitende Partijen overeenkomen;
+- m) the term “requested Party” means the Contracting Party requested to provide information;
 
-- j. wordt verstaan onder de uitdrukking „collectief beleggingsfonds of collectieve beleggingsregeling” elk gezamenlijk beleggingsinstrument, ongeacht de rechtsvorm. De uitdrukking „openbaar collectief beleggingsfonds of openbare collectieve beleggingsregeling” omvat elk collectief beleggingsfonds of elke collectieve beleggingsregeling, mits de eenheden, aandelen of andere belangen in het fonds of de regeling direct door het publiek kunnen worden gekocht, verkocht of afgelost. Eenheden, aandelen of andere belangen in het fonds of de regeling kunnen direct „door het publiek” worden gekocht, verkocht of afgelost indien de aankoop, verkoop of aflossing niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;
+- n) the term “information gathering measures” means laws and administrative or judicial procedures that enable a Contracting Party to obtain and provide the requested information;
 
-- k. wordt verstaan onder de uitdrukking „belasting” elke belasting waarop dit Verdrag van toepassing is;
+- o) the term “information” means any fact, statement or record in any form whatever;
 
-- l. wordt verstaan onder de uitdrukking „verzoekende Partij” de Verdragsluitende Partij die om informatie verzoekt;
+- p) the term “criminal tax matters” means tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the applicant Party;
 
-- m. wordt verstaan onder de uitdrukking „aangezochte Partij” de Verdragsluitende Partij die verzocht wordt informatie te verstrekken;
+- q) the term “criminal laws” means all criminal laws designated as such under domestic law irrespective of whether contained in the tax laws, the criminal code or other statutes.
 
-- n. wordt verstaan onder de uitdrukking „maatregelen ten behoeve van het verzamelen van informatie” wetten en bestuursrechtelijke of gerechtelijke procedures die een Verdragsluitende Partij in staat stellen de gevraagde informatie te verkrijgen en te verstrekken;
+2. As regards the application of this Agreement at any time by a Contracting Party, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that Party, any meaning under the applicable tax laws of that Party prevailing over a meaning given to the term under other laws of that Party.
 
-- o. wordt verstaan onder de uitdrukking „informatie” alle feiten, verklaringen of stukken ongeacht in welke vorm;
+##### Article 5. Exchange of information upon request
 
-- p. wordt verstaan onder de uitdrukking „fiscale delicten” belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij;
+1. The competent authority of the requested Party shall provide upon request information for the purposes referred to in [Article 1](https://wetten.overheid.nl/BWBV0004028). Such information shall be exchanged without regard to whether the conduct being investigated would constitute a crime under the laws of the requested Party if such conduct occurred in the requested Party.
 
-- q. wordt verstaan onder de uitdrukking „strafwetten” alle strafrechtelijke bepalingen die krachtens de nationale wetgeving als zodanig worden aangeduid, ongeacht of zij zijn opgenomen in belastingwetten, het wetboek van strafrecht of andere wetten.
+2. If the information in the possession of the competent authority of the requested Party is not sufficient to enable it to comply with the request for information, that Party shall use all relevant information gathering measures to provide the applicant Party with the information requested, notwithstanding that the requested Party may not need such information for its own tax purposes.
 
-2. Wat betreft de toepassing van dit Verdrag door een Verdragsluitende Partij op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die Partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Partij prevaleert boven een betekenis die volgens andere wetgeving van die Partij aan die uitdrukking wordt gegeven.
+3. If specifically requested by the competent authority of an applicant Party, the competent authority of the requested Party shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.
 
-##### Artikel 5. Uitwisseling van informatie op verzoek
+4. Each Contracting Party shall ensure that its competent authorities for the purposes specified in [Article 1](https://wetten.overheid.nl/BWBV0004028) of this Agreement, have the authority to obtain and provide upon request:
 
-1. De bevoegde autoriteit van de aangezochte Partij verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=1&z=2011-01-01&g=2011-01-01) bedoelde doelstellingen. Dergelijke informatie worden uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte Partij zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte Partij als misdrijf zouden worden aangemerkt.
+- a) information held by banks, other financial institutions, and any person acting in an agency or fiduciary capacity including nominees and trustees;
 
-2. Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte Partij niet toereikend zijn om aan het verzoek om informatie te voldoen, treft die Partij alle toepasselijke maatregelen ten behoeve van het verzamelen van informatie teneinde de verzoekende Partij de verlangde informatie te verstrekken, ongeacht het feit dat de aangezochte Partij ten behoeve van haar eigen belastingheffing niet over dergelijke informatie hoeft te beschikken.
+- b) information regarding the ownership of companies, partnerships, trusts, foundations, “Anstalten” and other persons, including, within the constraints of [Article 2](https://wetten.overheid.nl/BWBV0004028), ownership information on all such persons in an ownership chain; in the case of trusts, information on settlors, trustees and beneficiaries; and in the case of foundations, information on founders, members of the foundation council and beneficiaries. Further, this Agreement does not create an obligation on the Contracting Parties to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes unless such information can be obtained without giving rise to disproportionate difficulties.
 
-3. Indien de bevoegde autoriteit van een verzoekende Partij daar specifiek om verzoekt, is de bevoegde autoriteit van de aangezochte Partij gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan in overeenstemming met haar nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.
+5. The competent authority of the applicant Party shall provide the following information to the competent authority of the requested Party when making a request for information under this Agreement to demonstrate the foreseeable relevance of the information to the request:
 
-4. Elke Verdragsluitende Partij waarborgt dat haar bevoegde autoriteiten ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=1&z=2011-01-01&g=2011-01-01) van dit Verdrag omschreven doelstellingen, over de bevoegdheid beschikken het navolgende te verkrijgen en te verstrekken:
+- a) the identity of the person under examination or investigation;
 
-- a. informatie die berusten bij banken, overige financiële instellingen, of personen die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreden, met inbegrip van gevolmachtigden en trustees;
+- b) a statement of the information sought including its nature and the form in which the applicant Party wishes to receive the information from the requested Party;
 
-- b. informatie met betrekking tot de eigendom van lichamen, vennootschappen, trusts, stichtingen, „Anstalten” en andere rechtspersonen, met inbegrip van, binnen de beperkingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=2&z=2011-01-01&g=2011-01-01), informatie inzake de eigendom met betrekking tot al deze rechtspersonen binnen een eigendomsketen; in het geval van trusts, informatie met betrekking tot instellers, trustees en begunstigden; en in het geval van stichtingen, informatie met betrekking tot stichters, leden van het bestuur en begunstigden. Dit Verdrag schept daarnaast geen verplichting voor de Verdragsluitende Partijen informatie inzake de eigendom te verkrijgen of te verstrekken met betrekking tot beursgenoteerde lichamen of openbare collectieve beleggingsfondsen of openbare collectieve beleggingsregelingen tenzij deze informatie kunnen worden verkregen zonder tot onevenredige moeilijkheden te leiden.
+- c) the tax purpose for which the information is sought;
 
-5. De bevoegde autoriteit van de verzoekende Partij verstrekt de volgende informatie aan de bevoegde autoriteit van de aangezochte Partij wanneer de eerstgenoemde Partij uit hoofde van dit Verdrag een verzoek om informatie doet, teneinde aan te tonen dat deze naar verwachting van belang zullen zijn voor het verzoek:
+- d) grounds for believing that the information requested is held in the requested Party or is in the possession or control of a person within the jurisdiction of the requested Party;
 
-- a. de identiteit van de persoon op wie de controle of het onderzoek betrekking heeft;
+- e) to the extent known, the name and address of any person believed to be in possession of the requested information;
 
-- b. een verklaring omtrent de verlangde informatie met inbegrip van de aard ervan en de vorm waarin de verzoekende Partij de informatie van de aangezochte Partij wenst te ontvangen;
+- f) a statement that the request is in conformity with the law and administrative practices of the applicant Party, that if the requested information was within the jurisdiction of the applicant Party then the competent authority of the applicant Party would be able to obtain the information under the laws of the applicant Party or in the normal course of administrative practice and that it is in conformity with this Agreement;
 
-- c. het fiscale doel waarvoor om de informatie wordt verzocht;
+- g) a statement that the applicant Party has pursued all means available in its own territory to obtain the information, except those that would give rise to disproportionate difficulties.
 
-- d. de redenen om te veronderstellen dat de gevraagde informatie in de aangezochte Partij of in het bezit of onder de macht zijn van een persoon die zich in het rechtsgebied van de aangezochte Partij bevindt;
+6. The competent authority of the requested Party shall forward the requested information as promptly as possible to the applicant Party. To ensure a prompt response, the competent authority of the requested Party shall confirm receipt of a request in writing to the competent authority of the applicant Party and shall notify the competent authority of the applicant Party of deficiencies in the request, if any, within 60 days of the receipt of the request.
 
-- e. de namen en adresgegevens, voor zover bekend, van personen waarvan verondersteld wordt dat zij in het bezit zijn van de gevraagde informatie;
+7. If the competent authority of the requested Party has been unable to obtain and provide the information within 90 days of receipt of the request, including if it encounters obstacles in furnishing the information or it refuses to furnish the information, it shall immediately inform the applicant Party, explaining the reason for its inability, the nature of the obstacles or the reasons for its refusal.
 
-- f. een verklaring dat het verzoek in overeenstemming is met de wetgeving en de bestuursrechtelijke praktijk van de verzoekende Partij, dat indien de gevraagde informatie zich in het rechtsgebied van de verzoekende Partij zouden bevinden, de bevoegde autoriteit van de verzoekende Partij deze informatie volgens de wetten van de verzoekende Partij of volgens de normale gang van zaken in de bestuursrechtelijke praktijk zou kunnen verkrijgen, en dat het verzoek om informatie in overeenstemming is met dit Verdrag;
+##### Article 6. Tax examinations abroad
 
-- g. een verklaring dat de verzoekende Partij op haar eigen grondgebied alles in het werk heeft gesteld om de informatie te verkrijgen, tenzij dit zou leiden tot onevenredige moeilijkheden.
+1. A Contracting Party may allow representatives of the competent authority of the other Contracting Party to enter the territory of the first-mentioned Party to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the second-mentioned Party shall notify the competent authority of the first-mentioned Party of the time and place of the meeting with the individuals concerned.
 
-6. De bevoegde autoriteit van de aangezochte Partij doet de gevraagde informatie zo spoedig mogelijk toekomen aan de verzoekende Partij. Teneinde een snel antwoord te waarborgen bevestigt de bevoegde autoriteit van de aangezochte Partij de ontvangst van een verzoek schriftelijk aan de bevoegde autoriteit van de verzoekende Partij en stelt zij de bevoegde autoriteit van de verzoekende Partij binnen 60 dagen na ontvangst van het verzoek in kennis van eventuele gebreken in het verzoek.
+2. At the request of the competent authority of one Contracting Party, the competent authority of the other Contracting Party may allow representatives of the competent authority of the first-mentioned Party to be present at the appropriate part of a tax examination in the second-mentioned Party.
 
-7. Indien de bevoegde autoriteit van de aangezochte Partij niet in staat is de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de informatie dan wel weigert de informatie te verstrekken, stelt zij de verzoekende Partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.
+3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting Party conducting the examination shall, as soon as possible, notify the competent authority of the other Party about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned Party for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the Party conducting the examination.
 
-##### Artikel 6. Belastingcontrole in het buitenland
+##### Article 7. Possibility of declining a request
 
-1. Een Verdragsluitende Partij kan vertegenwoordigers van de bevoegde autoriteit van de andere Verdragsluitende Partij toestaan het grondgebied van de eerstgenoemde Partij binnen te komen teneinde, met schriftelijke toestemming van de betrokkenen, personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de als tweede genoemde Partij stelt de bevoegde autoriteit van de eerstgenoemde Partij in kennis van het tijdstip en de locatie van de ontmoeting met de betrokken personen.
+1. The requested Party shall not be required to obtain or provide information that the applicant Party would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of the requested Party may decline to assist where the request is not made in conformity with this Agreement.
 
-2. Op verzoek van de bevoegde autoriteit van de ene Verdragsluitende Partij kan de bevoegde autoriteit van de andere Verdragsluitende Partij vertegenwoordigers van de bevoegde autoriteit van de eerstgenoemde Partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de als tweede genoemde Partij.
+2. The provisions of this Agreement shall not impose on a Contracting Party the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in [Article 5, paragraph 4](https://wetten.overheid.nl/BWBV0004028) shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.
 
-3. Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de Verdragsluitende Partij die de controle uitvoert, de bevoegde autoriteit van de andere Partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de eerstgenoemde Partij ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de Partij die de controle uitvoert.
+3. The provisions of this Agreement shall not impose on a Contracting Party the obligation to obtain or provide information, which would reveal confidential communications between a client and an attorney, solicitor or other admitted legal representative where such communications are:
 
-##### Artikel 7. Mogelijkheid een verzoek af te wijzen
+- a) produced for the purposes of seeking or providing legal advice; or
 
-1. Van de aangezochte Partij kan niet worden verlangd dat zij informatie verkrijgt of verstrekt die de verzoekende Partij krachtens haar eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van haar eigen belastingwetten. De bevoegde autoriteit van de aangezochte Partij kan verzoeken om bijstand die niet in overeenstemming met dit Verdrag gedaan zijn afwijzen.
+- b) produced for the purposes of use in existing or contemplated legal proceedings.
 
-2. De bepalingen van dit Verdrag mogen een Verdragsluitende Partij niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsproces zou worden onthuld. Niettegenstaande het voorgaande zullen de informatie zoals bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=5&z=2011-01-01&g=2011-01-01), niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoen.
+4. The requested Party may decline a request for information if the disclosure of the information would be contrary to public policy *(ordre public)*.
 
-3. De bepalingen van dit Verdrag mogen een Verdragsluitende Partij niet verplichten informatie te verkrijgen of te verstrekken waardoor vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger zou worden onthuld indien dergelijke communicatie:
+5. A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.
 
-- a. plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies; of
+6. The requested Party may decline a request for information if the information is requested by the applicant Party to administer or enforce a provision of the tax law of the applicant Party, or any requirement connected therewith, which discriminates against a national of the requested Party as compared with a national of the applicant Party in the same circumstances.
 
-- b. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures.
+##### Article 8. Confidentiality
 
-4. De aangezochte Partij kan een verzoek om informatie afwijzen indien openbaarmaking van de informatie in strijd zou zijn met de openbare orde.
+Any information received by a Contracting Party under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting Party concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement, or the oversight above. Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested Party.
 
-5. Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.
+##### Article 9. Costs
 
-6. De aangezochte Partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende Partij worden gevraagd om een bepaling van de belastingwetgeving van de verzoekende Partij ten uitvoer te leggen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte Partij ten opzichte van een onderdaan van de verzoekende Partij die zich in dezelfde omstandigheden bevindt.
+Incidence of costs incurred in providing assistance shall be agreed by the Contracting Parties.
 
-##### Artikel 8. Vertrouwelijkheid
+##### Article 10. Implementation legislation
 
-Alle uit hoofde van dit Verdrag door een Verdragsluitende Partij ontvangen informatie worden vertrouwelijk behandeld en worden uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende Verdragsluitende Partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mogen niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of gerechtelijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Partij.
+The Contracting Parties shall enact any legislation necessary to comply with, and give effect to, the terms of this Agreement.
 
-##### Artikel 9. Kosten
+##### Article 11. Language
 
-De Verdragsluitende Partijen bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.
+Requests for assistance and answers thereto shall be drawn up in English or Catalan.
 
-##### Artikel 10. Uitvoeringswetgeving
+##### Article 12. Mutual agreement procedure
 
-De Verdragsluitende Partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag.
+1. Where difficulties or doubts arise between the Contracting Parties regarding the implementation or interpretation of this Agreement, the competent authorities shall endeavour to resolve the matter by mutual agreement.
 
-##### Artikel 11. Taal
+2. In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting Parties may mutually agree on the procedures to be used under the [Articles 5](https://wetten.overheid.nl/BWBV0004028) and [6](https://wetten.overheid.nl/BWBV0004028).
 
-Verzoeken om bijstand en antwoorden daarop worden in het Engels of Catalaans gesteld.
+3. The competent authorities of the Contracting Parties may communicate with each other directly for purposes of reaching agreement under this Article.
 
-##### Artikel 12. Regeling voor onderling overleg
+4. The Contracting Parties may also agree on other forms of dispute resolution.
 
-1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de Verdragsluitende Partijen met betrekking tot de toepassing of de uitlegging van dit Verdrag gezamenlijk op te lossen.
+##### Article 13. Entry into force
 
-2. Naast de in het eerste lid bedoelde inspanningen kunnen de bevoegde autoriteiten van de Verdragsluitende Partijen in onderling overleg de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=5&z=2011-01-01&g=2011-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=6&z=2011-01-01&g=2011-01-01) te hanteren procedures vaststellen.
+This Agreement shall enter into force when each Party has notified the other of the completion of its necessary internal procedures for entry into force. Upon entry into force, it shall have effect:
 
-3. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming als bedoeld in dit artikel te bereiken.
+- a) for criminal tax matters on that date; and
 
-4. De Verdragsluitende Partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.
+- b) for all other matters covered in [Article 1](https://wetten.overheid.nl/BWBV0004028) on that date, but only in respect of taxable periods beginning on or after that date, or where there is no taxable period, all charges to tax arising on or after that date.
 
-##### Artikel 13. Inwerkingtreding
+##### Article 14. Termination
 
-Dit Verdrag treedt in werking nadat beide Partijen elkaar ervan in kennis hebben gesteld dat de vereiste interne procedures voor de inwerkingtreding ervan zijn afgerond. Vanaf de inwerkingtreding is dit Verdrag van toepassing op:
+1. Either Contracting Party may terminate this Agreement by serving a notice of termination either through diplomatic channels or by letter to the competent authority of the other Contracting Party.
 
-- a. fiscale delicten vanaf die datum; en
+2. Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of notice of termination by the other Contracting Party.
 
-- b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=1&z=2011-01-01&g=2011-01-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.
-
-##### Artikel 14. Beëindiging
-
-1. Elk van de Verdragsluitende Partijen kan dit Verdrag beëindigen door middel van een kennisgeving hetzij langs diplomatieke weg hetzij per nota aan de bevoegde autoriteit van de andere Verdragsluitende Partij.
-
-2. Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere Verdragsluitende Partij.
-
-3. Niettegenstaande de beëindiging van dit Verdrag, blijven de Verdragsluitende Partijen gebonden door de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004028&artikel=8&z=2011-01-01&g=2011-01-01) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.
+3. Following termination of this Agreement the Contracting Parties shall remain bound by the provisions of [Article 8](https://wetten.overheid.nl/BWBV0004028) with respect to any information obtained under the Agreement.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 
 DONE in duplicate at The Hague on 6 November 2009, in the Dutch, Catalan and English language, all texts being equally authentic. In case of divergence of interpretation, the English text shall prevail.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 JAN KEES DE JAGER
 
 State Secretary for Finance
 
-**For the Government of the Principality of Andorra**
+*For the Government of the Principality of Andorra*
 
 XAVIER ESPOT MIRÓ
 

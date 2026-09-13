@@ -1,322 +1,299 @@
 ---
 title: "Verdrag betreffende de arbeidsvoorwaarden van Rijnvarenden"
 identifier: "BWBV0003279"
-country: "nl"
-rank: "verdrag"
-publication_date: "1959-12-01"
-last_updated: "1959-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003279"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10003459123"
-version_id: "10003506592"
-internal_id: "C10006989111"
-label_id: "10003445514"
-dtd_version: "2.0"
-original_entry_into_force: "1959-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003279/1959-12-01/0"
-intitule_bron: "Trb.1954-121"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-09-24"
-intitule_in_force: "1959-12-30"
-intitule_status: "goed"
-original_publication: "Trb.1954-121"
-original_published_date: "1954-09-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-121"
-entry_into_force_date: "1959-12-01"
-jci_1_3: "jci1.3:c:BWBV0003279&z=1959-12-01&g=1959-12-01"
-jci_1_0: "1.0:c:BWBV0003279&g=1959-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1959-12-01"
+publicatiedatum: 1959-12-01
+laatste_update: 1959-12-01
+status: geldig
+toestand: 1959-12-01
+bron: "https://wetten.overheid.nl/BWBV0003279"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag betreffende de arbeidsvoorwaarden van Rijnvarenden
 
-De Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat,
+*La République fédérale d'Allemagne, le Royaume de Belgique, la République française, le Royaume des Pays-Bas et la Confédération suisse, Ayant décidé de conclure un Accord concernant les conditions de travail des bateliers rhénans et ayant, à cet effet, constitué leurs plénipotentiaires, dont les pleins pouvoirs ont été trouvés en bonne et due forme, Ont adopté les dispositions suivantes:*
 
-Besloten hebbende een Verdrag te sluiten betreffende de arbeidsvoorwaarden van Rijnvarenden en hiertoe hun gevolmachtigden benoemd hebbende, wier volmachten in goede en behoorlijke vorm zijn bevonden,
+### TITRE I. Champ d'application de l'Accord
 
-Hebben de volgende bepalingen aangenomen:
+##### Article 1
 
-## TITEL I. Werkingssfeer van het Verdrag
+1. Le présent Accord s'applique à bord de tous les bateaux affectés pour des fins commerciales au transport de marchandises et admis à naviguer sur le Rhin en vertu de l'[article 22 de la Convention revisée pour la navigation du Rhin](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=22) signée à Mannheim, le 17 octobre 1868, compte tenu des modifications ultérieurement apportées à cette convention.
 
-##### Artikel 1
+2. Le présent Accord ne s'applique pas à bord des bateaux suivants:
 
-1. Dit Verdrag is van toepassing aan boord van alle schepen, welke gebruikt worden om met handelsdoeleinden goederen te vervoeren en welke toegelaten zijn tot de vaart op de Rijn krachtens [artikel 22 van de herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=22), ondertekend te Mannheim op 17 October 1868, met inachtneming van de later in die acte aangebrachte wijzigingen.
+- a) bateaux employés exclusivement ou presque exclusivement dans les ports;
 
-2. Dit Verdrag is niet van toepassing aan boord van de volgende schepen:
+- b) bateaux dont le port en lourd est de moins de quinze tonnes, à l'exclusion des remorqueurs;
 
-- a). schepen, welke uitsluitend of bijna uitsluitend in de havens worden gebruikt;
+- c) bateaux à voiles;
 
-- b). schepen met een laadvermogen van minder dan 15 ton, met uitzondering van sleepboten;
+- d) bateaux à passagers ne transportant pas plus de cinq tonnes de marchandises;
 
-- c). zeilschepen;
+- e) bâtiments de mer;
 
-- d). passagiersschepen, welke niet meer dan 5 ton goederen vervoeren;
+- f) bateaux de pêche;
 
-- e). zeeschepen;
+- g) bateaux visés au paragraphe 1 ci-dessus pendant un voyage entièrement extérieur à la navigation du Rhin.
 
-- f). vissersschepen;
+##### Article 2
 
-- g). schepen, als bedoeld in lid 1 van dit artikel gedurende een reis, waarbij in het geheel niet op de Rijn wordt gevaren.
+1. Sauf dispositions contraires énoncées ci-après, l'Accord vise toute personne membre de l'équipage des bateaux à bord desquels s'applique ledit Accord, ainsi que le capitaine ou le conducteur s'ils sont employés comme salariés.
 
-##### Artikel 2
+2. Ces personnes sont désignées ci-après comme „bateliers rhénans”.
 
-1. Behoudens de hierna genoemde uitzonderingen, heeft dit Verdrag betrekking op elk lid van de bemanning van schepen aan boord waarvan dit Verdrag van toepassing is, alsmede op de kapitein of schipper, indien deze in loondienst werkzaam is.
+##### Article 3
 
-2. Deze personen worden hierna aangeduid als „Rijnvarenden”.
+1. Les titres IV, V, VIII et IX de cet Accord ne s'appliquent pas aux bateliers rhénans qui sont:
 
-##### Artikel 3
+- a) propriétaires mentionnés sur le certificat de visite du bateau à bord duquel ils travaillent;
 
-1. De titels IV, V, VIII en IX van dit Verdrag zijn niet van toepassing op Rijnvarenden, die zijn:
+- b) les parents du propriétaire du bateau à bord duquel ils travaillent, à savoir le conjoint et les enfants, petits-enfants, père, mère, grands-parents, ainsi que leurs conjoints et alliés au même degré, pour autant qu'ils ne travaillent pas comme salariés.
 
-- a). eigenaren, genoemd in het certificaat van onderzoek van het schip, aan boord waarvan zij werkzaam zijn;
+2. Pour l'application du présent article, l'expression „propriétaire” signifie tout batelier rhénan qui possède au moins le quart du bateau ou qui possède une part quelconque à titre d'héritier.
 
-- b). de bloedverwanten van de eigenaar van het schip, aan boord waarvan zij werkzaam zijn, t.w. de echtgenote en de kinderen, kleinkinderen, vader, moeder, grootouders, alsmede hun echtgenoten en aanverwanten in dezelfde graad, voor zover niet in loondienst werkzaam zijnde.
+##### Article 4
 
-2. Voor de toepassing van dit artikel wordt onder eigenaar verstaan elke Rijnvarende, die tenminste een vierde deel van het schip bezit of die enig deel als erfgenaam bezit.
+1. Les titres V, VII, VIII et IX du présent Accord ne sont pas applicables à bord de bateaux naviguant pendant la majeure partie du voyage sur d'autres voies navigables que le Rhin et n'utilisant le Rhin qu'au début ou à la fin de leur voyage.
 
-##### Artikel 4
+2. Dans la mesure où les conventions collectives concernant les équipages des bateaux visés au paragraphe 1 de cet article contiennent des exceptions non prévues à l'article 8 du présent Accord, lesdites exceptions seront applicables.
 
-1. De titels V, VII, VIII en IX van dit Verdrag zijn niet van toepassing aan boord van schepen, welke gedurende het grootste gedeelte van de reis andere waterwegen dan de Rijn bevaren en de Rijn slechts bij het begin of aan het einde van hun reis gebruiken.
+##### Article 5
 
-2. Voorzover de collectieve arbeidsovereenkomsten betreffende de bemanningen der in lid 1 van dit artikel bedoelde schepen uitzonderingen bevatten, die in artikel 8 van dit Verdrag niet zijn genoemd, zullen deze uitzonderingen van toepassing zijn.
+Rien, dans le présent Accord, ne pourra être considéré comme portant atteinte à toute disposition législative, toute coutume ou tout accord entre employeurs et travailleurs qui assure, à bord des bateaux ressortissant à un des pays contractants, des conditions plus favorables aux travailleurs que celles prévues dans cet Accord.
 
-##### Artikel 5
+### TITRE II. Composition des équipages
 
-Niets in dit Verdrag zal geacht worden inbreuk te maken op enige wettelijke bepaling, enig gebruik of enige overeenkomst tussen werkgevers en werknemers, welke aan boord van schepen, ingeschreven in het gebied van een van de Verdragsluitende Staten gunstiger arbeidsvoorwaarden aan de werknemers verzekert dan die in dit Verdrag bepaald.
+##### Article 6
 
-## TITEL II. Samenstelling van de bemanningen
+Les équipages des bateaux à bord desquels s'applique le présent Accord doivent être suffisants pour qu'il soit possible;
 
-##### Artikel 6
+- a) d'assurer la sécurité de la navigation;
 
-De bemanningen van schepen, aan boord waarvan dit Verdrag van toepassing is, moeten voldoende zijn om:
+- b) de donner effet aux dispositions du présent Accord.
 
-- a). de veiligheid van de vaart te verzekeren;
+### TITRE III. Repos de nuit en cours de navigation
 
-- b). uitvoering te geven aan het bepaalde in dit Verdrag.
+##### Article 7
 
-## TITEL III. Nachtrust tijdens de vaart
+1. En cours de navigation, les bateliers rhénans auront droit à une période de repos de nuit qui ne sera pas inférieure à:
 
-##### Artikel 7
+- a) douze heures pendant les mois de novembre, décembre, janvier et février;
 
-1. Tijdens de vaart hebben de Rijnvarenden recht op een nachtrust, welke niet korter is dan:
+- b) dix heures pendant les autres mois.
 
-- a). 12 uren gedurende de maanden November, December, Januari en Februari;
+2. Les périodes de repos de nuit prescrites au paragraphe précédent devront s'intercaler entre 6 heures du soir et 8 heures du matin.
 
-- b). 10 uren gedurende de andere maanden.
+3. Il peut être prévu, par une convention collective nationale ou par la législation nationale, que le repos de nuit fixé au paragraphe 1 ci-dessus soit remplacé par un repos quotidien de même durée, dont cependant sept heures consécutives au moins doivent s'intercaler entre 8 heures du soir et 6 heures du matin.
 
-2. De nachtrust, voorgeschreven in het voorgaande lid, moet gelegen zijn tussen 6 uur des namiddags en 8 uur des voormiddags.
+##### Article 8
 
-3. Bij landelijke collectieve arbeidsovereenkomst of bij nationale wetgeving kan worden voorzien, dat de nachtrust, vastgesteld in het eerste lid van dit artikel, wordt vervangen door een dagelijkse rusttijd van dezelfde duur, waarvan echter ten minste zeven achtereenvolgende uren moeten vallen tussen 8 uur des namiddags en 6 uur des voormiddags.
+En dérogation aux dispositions de l'article 7 du présent Accord, la période de repos de nuit pourra être réduite:
 
-##### Artikel 8
+- a) de deux heures au maximum en cas de transport de marchandises périssables;
 
-In afwijking van het bepaalde in artikel 7 van dit Verdrag kan de nachtrust verkort worden:
+- b) en vue de prévenir la détérioration de marchandises, mais seulement lorsque ces marchandises sont transportées à bord de bateaux remorqués isolément ou de bateaux automoteurs;
 
-- a). met ten hoogste 2 uren, wanneer aan bederf onderhevige goederen worden vervoerd;
+- c) du temps nécessaire au passage d'une écluse, ou de deux heures au maximum pour l'entrée ou l'arrivée dans les ports de Belgique et de Zélande exposés aux marées, ainsi que dans le port de Dordrecht en venant de Belgique ou de Zélande;
 
-- b). ter voorkoming van bederf van goederen, doch slechts wanneer deze goederen worden vervoerd aan boord van schepen, welke afzonderlijk gesleept worden of aan boord van schepen met mechanische beweegkracht;
+- d) en cas d'accident ou de secours, d'inondation, de tempête ou de danger soudain provenant de la glace;
 
-- c). met de tijd, nodig voor het schutten, of met ten hoogste 2 uren voor het binnenvaren of aankomen in Belgische en Zeeuwse tijhavens, alsmede in de haven van Dordrecht, komende van België of van Zeeland;
+- e) le jour d'arrivée au port de destination finale, à la condition que la durée du travail des hommes à bord ne se prolonge pas, ce jour-là, au-delà de 10 heures du soir;
 
-- d). ingeval van ongeval of hulpverlening, overstroming, storm of plotseling ijsgevaar;
+- f) dans le cas où, en cours de voyage, il apparaît que la correspondance avec un bateau de mer pourrait être manquée;
 
-- e). op de dag van aankomst in de haven van eindbestemming, op voorwaarde dat de arbeid van de mannen aan boord op die dag niet wordt voortgezet na 10 uur des namiddags;
+- g) en cours de voyage en amont de Coblence, en cas de baisse inopinée et rapide des eaux, et au maximum pour une nuit, en vue d'éviter l'allégement.
 
-- f). ingeval tijdens de reis blijkt, dat de aansluiting met een zeeschip zou kunnen worden gemist;
+### TITRE IV. Durée du travail au port et sur les lieux de chargement et de déchargement des bateaux
 
-- g). tijdens de reis boven Koblenz, ingeval van onvoorziene en snelle val van het water en voor ten hoogste één nacht, ten einde het lichten te vermijden.
+##### Article 9
 
-## TITEL IV. Arbeidsduur in de Haven en op de plaatsen waar de schepen geladen en gelost worden
+1. Lorsqu'un bateau se trouve au port ou en tout autre lieu de chargement ou de déchargement, la durée du travail des bateliers rhénans se trouvant à bord de ce bateau est celle qui résulte de la réglementation locale.
 
-##### Artikel 9
+2. Toutefois, la durée normale de travail ne devra pas dépasser quarante-huit heures par semaine et huit heures par jour, sous réserve des dérogations prévues par la réglementation locale.
 
-1. Wanneer een schip zich in de haven of op enige andere laad-of losplaats bevindt, is de arbeidsduur van de Rijnvarenden, die aan boord van dit schip zijn, dezelfde als die, welke door de plaatselijke regelingen is voorgeschreven.
+##### Article 10
 
-2. De normale arbeidsduur mag echter 48 uren per week en 8 uren per dag niet overschrijden, behoudens de in de plaatselijke regelingen voorziene afwijkingen.
+1. Lorsque, au cours d'une même journée, un bateau navigue et charge ou décharge sa cargaison, la durée totale du travail des bateliers rhénans ne dépassera pas douze heures, excepté lorsqu'il s'agit des heures prévues à l'article 13.
 
-##### Artikel 10
+2. Lorsque, au cours d'une même journée, un bateau navigue et charge ou décharge sa cargaison pendant plus de huit heures dans un ou plusieurs ports, les heures affectées au chargement ou au déchargement qui dépassent huit heures seront considérées comme heures supplémentaires, étant entendu que la durée totale du travail ce jour-là ne dépassera pas douze heures.
 
-1. Wanneer een schip in de loop van dezelfde dag vaart en zijn lading laadt of lost, mag de totale arbeidsduur van de Rijnvarenden 12 uren niet overschrijden, behalve wanneer het de in artikel 13 voorziene uren betreft.
+3. Les arrêts à un ou plusieurs ports intermédiaires représentant au total moins de quatre heures dans la même journée seront considérés comme temps de naVigation.
 
-2. Wanneer een schip in de loop van dezelfde dag vaart en zijn lading gedurende meer dan 8 uren in een of meer havens laadt of lost, worden de laad- en losuren boven de 8 uren als overwerk beschouwd, met dien verstande, dat de totale arbeidsduur op die dag 12 uren niet mag overschrijden.
+### TITRE V. Heures supplémentaires
 
-3. Het oponthoud in een of meer tussenhavens, dat in totaal minder dan 4 uren op dezelfde dag bedraagt, wordt als vaartijd beschouwd.
+##### Article 11
 
-## TITEL V. Overuren
+Lorsque le repos de nuit prévu à l'article 7, paragraphe 1, aura été réduit en application des dispositions contenues à l'article 8, les heures ainsi réduites du repos de nuit seront considérées comme heures supplémentaires, pour lesquelles les bateliers rhénans intéressés auront droit à une compensation conformément aux dispositions de l'article 14, paragraphe 1.
 
-##### Artikel 11
+##### Article 12
 
-Wanneer de nachtrust, bepaald in artikel 7, lid 1, verkort wordt door toepassing van het bepaalde in artikel 8, worden de uren, waarmede de nachtrust aldus verkort wordt, als overuren beschouwd, waarover de betrokken Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14, lid 1.
+Les heures effectuées au-delà des limites indiquées aux paragraphes 1 et 2 de l'article 9 seront considérées comme heures supplémentaires pour lesquelles les bateliers rhénans auront droit à une compensation conformément aux dispositions de l'article 14.
 
-##### Artikel 12
+##### Article 13
 
-De uren, waarop gewerkt is en die de in de leden 1 en 2 van artikel 9 aangegeven grenzen te boven gaan, worden geacht overuren te zijn, waarover de Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14.
+Lorsqu'un bateau se trouve au port ou en tout autre lieu de chargement ou de déchargement, les heures de travail effectuées entre 7 heures du soir et 6 heures du matin, ainsi que celles effectuées les dimanches et les jours fériés prévus à l'article 15 ou dans les conventions collectives affectant les bateliers rhénans intéressés, seront considérées comme des heures supplémentaires pour lesquelles les bateliers rhénans intéressés auront droit à une compensation conformément aux dispositions de l'article 14.
 
-##### Artikel 13
+##### Article 14
 
-Wanneer een schip zich in de haven of op enige andere laad- of losplaats bevindt, worden de uren, waarop gewerkt is, tussen 7 uur des namiddags en 6 uur des voormiddags, alsmede die op Zondagen en op de feestdagen, genoemd in artikel 115 of in de collectieve arbeidsovereenkomsten geldend voor de betrokken Rijnvarenden, als overuren beschouwd, waarover de betrokken Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14.
+1. Le taux ou les taux de compensation pour les heures supplémentaires seront ceux prescrits par la législation nationale ou déterminés par convention collective.
 
-##### Artikel 14
+2. Les conventions collectives pourront prévoir, au lieu d'un paiement en espèces, une compensation qui consistera en une exemption correspondante de service et de présence à bord.
 
-1. Het tarief of de tarieven voor de vergoeding voor de overuren zijn die, welke bij de nationale wettelijke regelingen zijn voorgeschreven of bij collectieve arbeidsovereenkomst zijn vastgesteld.
+### TITRE VI. Jours fériés
 
-2. De collectieve arbeidsovereenkomsten kunnen, in plaats van een betaling in geld, voorzien in een vergoeding, welke bestaat in een overeenkomstige vrijstelling van dienst en van aanwezigheid aan boord.
+##### Article 15
 
-## TITEL VI. Feestdagen
+1. Sauf dans les cas énoncés aux alinéas *b), d)* et *f)* de l'article 8, aucun batelier rhénan ne sera tenu de travailler pendant sept jours fériés au moins, dans le cours d'une année; ces jours seront fixés par chaque pays contractant parmi les huit jours suivants: le jour de l'an, le dimanche et le lundi de Pâques, le 1er mai, le dimanche et le lundi de la Pentecôte, le jour de Noël et le jour de la fête de saint Etienne (26 décembre).
 
-##### Artikel 15
+2. Les heures de travail effectuées au cours de ces journées seront considérées comme des heures supplémentaires pour lesquelles les bateliers rhénans intéressés auront droit à une compensation conformément aux dispositions de l'article 14.
 
-1. Behoudens in de gevallen genoemd in artikel 8 onder **b), d)** en **f),** is een Rijnvarende, in de loop van een jaar, niet gehouden te werken op minstens zeven feestdagen, welke door elke Verdragsluitende Staat moeten worden vastgesteld naar keuze uit de volgende acht dagen: Nieuwjaarsdag, eerste en tweede Paasdag, 1 Mei, eerste en tweede Pinksterdag en eerste en tweede Kerstdag.
+3. Les dispositions du paragraphe 1 du présent article ne s'appliquent pas, dans la période du 1er mai au 30 septembre inclus, aux bateaux à passagers transportant au maximum cent tonnes de marchandises lorsqu'ils effectuent un service régulier.
 
-2. De uren, waarop gewerkt is op die dagen, worden als overuren beschouwd, waarover de betrokken Rijnvarenden recht hebben op een vergoeding overeenkomstig het bepaalde in artikel 14.
+### TITRE VII. Repos hebdomadaire
 
-3. Het bepaalde in lid 1 van dit artikel is niet van toepassing, van 1 Mei tot en met 30 September, op passagiersschepen, welke ten hoogste 100 ton goederen vervoeren en welke een geregelde dienst onderhouden.
+##### Article 16
 
-## TITEL VII. Wekelijkse rustdag
+1. Tout batelier rhénan devra bénéficier, en moyenne, d'une journée de repos pour six jours de travail, accordée dans un laps de temps de trois mois au plus.
 
-##### Artikel 16
+2. On entend par journée de repos une période de repos d'au moins 24 heures consécutives accordée immédiatement après une période de repos de nuit.
 
-1. Een Rijnvarende moet gemiddeld voor elke 6 werkdagen een rustdag genieten, welke verleend moet worden binnen een termijn van ten hoogste 3 maanden.
+3. Les journées de repos hebdomadaire doivent comprendre autant que possible vingt-six dimanches par an.
 
-2. Onder rustdag wordt verstaan een rustperiode van ten minste 24 achtereenvolgende uren, verleend onmiddellijk na de nachtrust.
+##### Article 17
 
-3. Onder de wekelijkse rustdagen moeten voorzover mogelijk 26 Zondagen per jaar zijn.
+Si le contrat d'emploi est résilié, les jours de repos hebdomadaire seront accordés au cours de la période de préavis de résiliation de l'emploi.
 
-##### Artikel 17
+### TITRE VIII. Congé annuel payé
 
-Indien de arbeidsovereenkomst wordt opgezegd, worden de wekelijkse rustdagen verleend gedurende de opzeggingstermijn van de arbeidsovereenkomst.
+##### Article 18
 
-## TITEL VIII. Jaarlijkse vacantie met behoud van loon
+1. Les bateliers rhénans auront droit à un congé annuel payé d'au moins un jour ouvrable par mois de service continu dans la même entreprise et à concurrence de douze jours ouvrables par an. Ce congé n'est exigible qu'après six mois de service.
 
-##### Artikel 18
+2. Lorsque le congé dû est de six jours ou davantage, six jours de congé au minimum devront être accordés en une période continue.
 
-1. De Rijnvarenden hebben recht op een jaarlijkse vacantie met behoud van loon van ten minste één werkdag per maand ononderbroken dienst in dezelfde onderneming tot een beloop van 12 werkdagen per jaar. Deze vacantie is slechts opeisbaar na zes maanden dienst.
+##### Article 19
 
-2. Wanneer de vacantie, waarop de Rijnvarende recht heeft, zes dagen of meer bedraagt, moeten ten minste zes vacantiedagen achtereenvolgend worden verleend.
+Les bateliers rhénans qui, avant d'avoir accompli six mois de service, terminent leur emploi dans des conditions légales ou qui sont congédiés sans qu'il y ait eu faute lourde de leur part auront droit à un jour ouvrable de congé payé pour chaque mois de service accompli.
 
-##### Artikel 19
+##### Article 20
 
-De Rijnvarenden, die alvorens zes maanden dienst te hebben verricht hun betrekking op rechtmatige wijze beëindigen of wie ontslag wordt verleend zonder dat er sprake is van grove schuld hunnerzijds, hebben recht op één werkdag vacantie met behoud van loon voor elke maand dienst, welke zij hebben verricht.
+Ne peuvent être considérés comme jours de congé annuel payé:
 
-##### Artikel 20
+- a) les interruptions de service dues à la maladie ou à un accident;
 
-Als jaarlijkse vacantiedagen met behoud van loon worden niet beschouwd:
+- b) les périodes de service militaire obligatoire;
 
-- a). onderbrekingen van de dienst wegens ziekte of ongeval;
+- c) les jours de voyage d'aller et de retour au domicile si, à la demande de l'employeur, le congé annuel n'est pas pris en une période continue.
 
-- b). de tijd doorgebracht in verplichte militaire dienst;
+##### Article 21
 
-- c). de reisdagen naar en van de woonplaats, indien de jaarlijkse vacantie, op verzoek van de werkgever, niet achtereenvolgend wordt genomen.
+1. Tout batelier rhénan prenant son congé annuel payé aura droit à sa rémunération habituelle pendant toute la durée du congé.
 
-##### Artikel 21
+2. La rémunération habituelle payable conformément au paragraphe précédent sera calculée de la manière qui sera prescrite par la législation nationale, ou déterminée par convention collective.
 
-1. Een Rijnvarende, die zijn jaarlijkse vacantie met behoud van loon neemt, heeft recht op zijn gebruikelijke beloning tijdens de duur van zijn vacantie.
+### TITRE IX. Allocations spéciales
 
-2. De overeenkomstig het voorgaande lid te betalen gebruikelijke beloning wordt berekend op de bij nationale wettelijke regeling voorgeschreven of bij collectieve arbeidsovereenkomst bepaalde wijze.
+##### Article 22
 
-## TITEL IX. Bijzondere toelagen
+Les bateliers rhénans demeurés à bord pour des tâches de surveillance auront droit, indépendamment du congé compensatoire auquel ils peuvent prétendre de ce fait, à une allocation spéciale lorsque cette surveillance aura été accomplie un des jours fériés prévus à l'article 15 ou dans les conventions collectives affectant les bateliers rhénans intéressés.
 
-##### Artikel 22
+##### Article 23
 
-De voor bewakingsdoeleinden aan boord gebleven Rijnvarenden hebben behalve op het compenserende verlof, waarop zij uit dien hoofde aanspraak kunnen maken, recht op een bijzondere vergoeding indien deze wachtdienst verricht wordt op een der feestdagen, aangegeven in artikel 15 of in collectieve arbeidsovereenkomsten, van toepassing op deze Rijnvarenden.
+Durant les mois de juin à septembre inclusivement, le personnel des machines à vapeur recevra une indemnité appropriée de chaleur.
 
-##### Artikel 23
+### TITRE X. Interprétation de l'Accord
 
-Gedurende de maanden Juni tot en met September ontvangt het machinekamerpersoneel van stoomschepen een passende hittetoeslag.
+##### Article 24
 
-## TITEL X. Uitlegging van het Verdrag
+1. Tout différend venant à s'élever entre deux ou plusieurs pays contractants concernant l'interprétation ou l'application du présent Accord sera résolu par voie de négociation directe entre les gouvernements intéressés.
 
-##### Artikel 24
+2. Si le différend ne peut être ainsi résolu dans un délai de trois mois à dater du début de la négociation, il sera soumis à un organe arbitral permanent comprenant un membre désigné par chacun des pays contractants; cet organe arbitral sera institué dans un délai de trois mois à dater de l'entrée en vigueur du présent Accord et il établira sa propre procédure.
 
-1. Elk geschil, dat ontstaat tussen twee of meer der Verdragsluitende Staten, betreffende de uitlegging of de toepassing van dit Verdrag, zal door rechtstreekse onderhandelingen tussen de daarbij betrokken regeringen worden opgelost.
+3. Les décisions de l'organe arbitral seront prises conformément aux principes fondamentaux et à l'esprit du présent Accord. Elles seront obligatoires.
 
-2. Indien het geschil niet op deze wijze kan worden opgelost binnen een termijn van drie maanden, te rekenen van het begin der onderhandelingen af, zal het aan een permanent scheidsrechterlijk orgaan, waarin een door elk der Verdragsluitende Staten aangewezen lid zitting heeft, worden voorgelegd. Dit scheidsrechterlijk orgaan zal binnen een termijn van drie maanden, te rekenen vanaf de datum waarop dit Verdrag in werking treedt, worden ingesteld; het zal zijn eigen procedure vaststellen.
+### TITRE XI. Application de l'Accord
 
-3. De beslissingen van het scheidsrechterlijk orgaan zullen in overeenstemming met de grondbeginselen en de geest van dit Verdrag worden genomen. Zij zullen bindend zijn.
+##### Article 25
 
-## TITEL XI. Toepassing van het Verdrag
+1. Dans chaque pays contractant et à bord de tous les bateaux auxquels s'applique le présent Accord et appartenant à des compagnies de navigation ou à des particuliers dont le siège d'exploitation est situé sur le territoire du pays en question, il sera donné effet audit Accord par toutes mesures appropriées et notamment au moyen de conventions collectives. Si un particulier ne possède pas de siège d'exploitation sur le territoire du pays en question, son domicile en tiendra lieu aux fins d'application du présent article.
 
-##### Artikel 25
+2. Chaque pays contractant peut contrôler l'application de l'Accord, à l'intérieur de son territoire et sans distinction de pavillon ou de nationalité, à bord de tous les bateaux auxquels s'applique l'Accord.
 
-1. In elke Verdragsluitende Staat en aan boord van elk schip waarop dit Verdrag van toepassing is en dat toebehoort aan rederijen of aan particulieren, die hun hoofdkantoor op het grondgebied van de betrokken Staat hebben, zal aan dit Verdrag door alle passendemaatregelen en in het bijzonder door middel van collectieve arbeidsovereenkomsten, uitvoering worden gegeven. Indien een particulier geen hoofdkantoor bezit op het grondgebied van de betrokken Staat, wordt voor de toepassing van dit Verdrag zijn woonplaats als zodanig beschouwd.
+3. Si une infraction aux dispositions de l'Accord est constatée sur le territoire d'un pays contractant, par les autorités de ce territoire, à bord d'un bateau appartenant à une compagnie de navigation ou à un particulier ayant le siège de son entreprise dans un autre pays contractant, les autorités qui ont constaté l'infraction en informeront immédiatement les autorités compétentes de l'autre pays, auxquelles il appartiendra de prendre les mesures appropriées.
 
-2. Elke Verdragsluitende Staat mag de toepassing van dit Verdrag controleren binnen zijn grondgebied en zonder onderscheid van vlag of nationaliteit aan boord van alle schepen waarop dit Verdrag van toepassing is.
+4. Chaque pays contractant peut conclure des arrangements particuliers avec un autre pays contractant aux fins de se faire prêter les bons offices des autorités de ce dernier pays pour la constatation ou l'instruction d'infractions à bord d'un bateau se trouvant sur le territoire dudit pays et relevant de l'autre pays. Ces arrangements particuliers peuvent prévoir que les autorités en question agiront dans l'un des cas suivants ou dans plusieurs d'entre eux:
 
-3. Indien er op het grondgebied van een Verdragsluitende Staat door de autoriteiten van die Staat aan boord van een schip, dat aan een in een andere Verdragsluitende Staat gevestigde rederij of particulier toebehoort, een overtreding van het bepaalde in dit Verdrag wordt vastgesteld, zullen de autoriteiten, die de overtreding vaststelden, daarvan onmiddellijk kennis geven aan de bevoegde autoriteiten van de andere Staat, die passende maatregelen moeten nemen.
+- a) lorsqu'une requête est présentée par le pays dont relève le bateau;
 
-4. Elke Verdragsluitende Staat kan met een andere Verdragsluitende Staat bijzondere regelingen treffen, ten einde de bemiddeling van de autoriteiten van die Staat te verkrijgen voor de vaststelling of het onderzoek van overtredingen aan boord van een schip, dat zich op het grondgebied van die Staat bevindt en in de eerstbedoelde Staat thuisbehoort. Deze bijzondere regelingen kunnen bepalen, dat de betrokken autoriteiten zullen optreden in een of meer der volgende gevallen:
+- b) lorsqu'une requête est présentée par un batelier rhénan du bateau en question ou par un syndicat;
 
-- a). wanneer een verzoek wordt gedaan door de Staat, waar het schip thuisbehoort;
+- c) lorsqu'une requête est présentée par un employeur ou une organisation d'employeurs.
 
-- b). wanneer een verzoek wordt gedaan door een Rijnvarende aan boord van het betrokken schip of door een werknemersorganisatie;
+5. Le gouvernement d'un pays contractant non riverain sur le territoire duquel se trouve le siège de l'entreprise d'une compagnie de navigation ou d'un particulier qui dispose d'un siège subsidiaire sur le territoire d'un pays contractant riverain ou de la Belgique pourra conclure des arrangements avec le gouvernement de ce pays, afin que celui-ci se substitue partiellement ou totalement à lui dans le contrôle de l'application du présent Accord.
 
-- c). wanneer een verzoek wordt gedaan door een werkgever of door een organisatie van werkgevers.
+##### Article 26
 
-5. De regering van een Verdragsluitende Staat, die geen Rijnoeverstaat is en op wiens grondgebied een rederij of een particulier gevestigd is, die op het grondgebied van een Rijnoeverstaat of van België over een bijkantoor beschikt, kan regelingen treffen met de regering van die Staat, opdat deze gedeeltelijk of geheel in de plaats van de eerstgenoemde Staat zou kunnen treden voor de controle op de naleving van dit Verdrag.
+A moins qu'il n'en soit décidé autrement par convention collective ou par contrat de travail individuel, les différends qui pourraient survenir entre employeurs et bateliers rhénans, quelle que soit la nationalité du batelier, seront réglés de la manière suivante:
 
-##### Artikel 26
+- a)
 
-Tenzij bij collectieve arbeidsovereenkomst of bij individuele arbeidsovereenkomst anders is bepaald, gelden ten aanzien van geschillen, gerezen tussen werkgevers en Rijnvarenden, ongeacht de nationaliteit van de Rijnvarende, de navolgende regelingen:
+   - (i) Lorsque l'employeur est une compagnie de navigation ou un armateur ayant son siège d'exploitation dans un pays riverain du Rhin ou en Belgique, le différend sera soumis pour règlement à l'organe compétent du pays contractant sur le territoire duquel se trouve ce siège d'exploitation;
 
-- a).
+   - (ii) Lorsque l'employeur est une compagnie de navigation ou un armateur ayant son siège dans l'un des pays contractants autre qu'un pays riverain ou la Belgique, mais possédant une succursale sur le territoire d'un de ces pays, le différend pourra être valablement soumis pour règlement à l'organe compétent du pays contractant où se trouve cette succursale.
 
-- (i). Indien de werkgever een rederij of reder is, die haar, onderscheidenlijk zijn hoofdkantoor in een Rijnoeverstaat of in België heeft, zal het geschil worden onderworpen aan de beslissing van het bevoegde orgaan van de Verdragsluitende Staat, op wiens grondgebied zich dat hoofdkantoor bevindt.
+- b) Lorsque l'employeur est un propriétaire exploitant lui-même son bateau, n'ayant ni siège d'exploitation ni succursale sur le territoire d'un des pays contractants dont il est ressortissant, le différend sera soumis pour règlement à l'organe compétent du pays contractant sur le territoire duquel ce propriétaire a son domicile, et, s'il n'a pas de domicile sur le territoire d'un des pays contractants, sera soumis pour règlement à l'organe compétent du pays contractant dont il est ressortissant.
 
-- (ii). Indien de werkgever een rederij of reder is, die haar, onderscheidenlijk zijn hoofdkantoor heeft in een der Verdragsluitende Staten die niet is een Rijnoeverstaat of België, doch een bijkantoor heeft op het grondgebied van een dezer Staten, kan het geschil op geldige wijze worden onderworpen aan de beslissing van het bevoegde orgaan van de Verdragsluitende Staat, waar dat bijkantoor is gevestigd.
+### TITRE XII. Commission tripartite et rapports annuels
 
-- b). Wanneer de werkgever een eigenaar is, die zijn schip zelf exploiteert en die niet beschikt over een hoofdkantoor of bijkantoor op het grondgebied van de Staat wiens onderdaan hij is en die Partij is bij dit Verdrag, zal het geschil worden onderworpen aan de beslissing van het bevoegde orgaan van de Verdragsluitende Staat, op wiens grondgebied deze eigenaar zijn woonplaats heeft en indien hij geen woonplaats heeft op het grondgebied van een der Verdragsluitende Staten, zal het geschil worden onderworpen aan de beslissing van het bevoegde orgaan van de Verdragsluitende Staat wiens onderdaan hij is.
+##### Article 27
 
-## TITEL XII. Driedelige commissies en Jaarrapporten
+1. - (i) Il est institué une Commission tripartite comprenant pour chaque Etat contractant deux représentants du gouvernement, un représentant des employeurs intéressés, un représentant des bateliers rhénans. Le Bureau international du Travail participera aux travaux de la Commission tripartite.
 
-##### Artikel 27
+- (ii) Les représentants non gouvernementaux seront désignés par les gouvernements d'accord avec les organisations professionnelles les plus représentatives, soit des employeurs, soit des bateliers rhénans, auxquels s'applique le présent Accord.
 
-- (i). Een driedelige commissie wordt ingesteld, waarin voor elke Verdragsluitende Staat twee regeringsvertegenwoordigers, een vertegenwoordiger van de betrokken werkgevers en een vertegenwoordiger van de Rijnvarenden zitting hebben. Het Internationaal Arbeidsbureau neemt deel aan de werkzaamheden van de driedelige commissie.
+2. Chaque pays contractant établira un rapport annuel concernant l'application de l'Accord à l'intérieur de son territoire et le soumettra à l'examen de la Commission tripartite.
 
-- (ii). De niet-regeringsvertegenwoordigers worden benoemd door de regeringen in overeenstemming met de meest representatieve vakorganisaties, onderscheidenlijk van de werkgevers en van de Rijnvarenden, op wie dit Verdrag van toepassing is.
+3. La Commission tripartite établira chaque année un rapport contenant ses observations sur les rapports des gouvernements. Le rapport de la Commission tripartite sera communiqué à chacun des gouvernements contractants, au Bureau international du Travail et à la Commission centrale pour la navigation du Rhin.
 
-2. Elke Verdragsluitende Staat stelt een jaarrapport op betreffende de toepassing van het Verdrag binnen zijn grondgebied en legt dit ter onderzoek aan de driedelige commissie voor.
+4. Le secrétariat général de la Commission centrale pour la navigation du Rhin assumera le secrétariat de la Commission tripartite.
 
-3. De driedelige commissie stelt jaarlijks een rapport op bevattende haar opmerkingen omtrent de rapporten van de regeringen. Het rapport van de driedelige commissie zal worden gezonden aan elk der Verdragsluitende regeringen, aan het Internationaal Arbeidsbureau en aan de Centrale Commissie voor de Rijnvaart.
+5. La Commission tripartite établira son règlement.
 
-4. Het Secretariaat-Generaal van de Centrale Commissie voor de Rijnvaart belast zich met het secretariaat van de driedelige commissie.
+### TITRE XIII. Dispositions finales
 
-5. De driedelige commissie zal haar reglement vaststellen.
+##### Article 28
 
-## TITEL XIII. Slotbepalingen
+Le présent Accord est ouvert à la signature des Etats représentés à la Commission centrale pour la navigation du Rhin. Il sera soumis à ratification.
 
-##### Artikel 28
+##### Article 29
 
-De ondertekening van dit Verdrag staat open voor de Staten, welke vertegenwoordigd zijn in de Centrale Commissie voor de Rijnvaart. Het zal aan bekrachtiging worden onderworpen.
+Tout instrument de ratification du présent Accord sera déposé auprès du Directeur général du Bureau international du Travail, qui l'enregistrera et en notifiera la réception aux pays mentionnés à l'article 28.
 
-##### Artikel 29
+##### Article 30
 
-Elke bekrachtigingsoorkonde van dit Verdrag zal worden neergelegd bij de Directeur-Generaal van het Internationaal Arbeidsbureau, die deze zal inschrijven en de ontvangst zal mededelen aan de Staten, genoemd in artikel 28.
+Le présent Accord entrera en vigueur le premier jour du troisième mois suivant celui au cours duquel sera intervenu le dépôt du dernier instrument de ratification par toutes les parties contractantes riveraines du Rhin et par la Belgique. Pour chacun des autres Etats représentés à la Commission centrale pour la navigation du Rhin, il entrera en vigueur le premier jour du troisième mois suivant celui au cours duquel son instrument de ratification aura été déposé.
 
-##### Artikel 30
+##### Article 31
 
-Dit Verdrag zal in werking treden op de eerste dag van de derde maand, volgende op die, waarin de laatste bekrachtigingsoorkonde van alle Verdragsluitende Rijnoever staten en België zal zijn neergelegd. Voor elk der overige Staten, vertegenwoordigd in de Centrale Commissie voor de Rijnvaart, zal het in werking treden de eerste dag van de derde maand, volgende op die, waarin hij zijn bekrachtigingsoorkonde heeft neergelegd.
+1. Le présent Accord est conclu pour une durée de trois ans. Il sera renouvelé ensuite d'année en année par tacite reconduction sous réserve du droit, pour chaque pays contractant, de le dénoncer par notification adressée au Directeur général du Bureau international du Travail. La dénonciation prendra effet un an après la réception de sa notification.
 
-##### Artikel 31
+2. Si la dénonciation émane de l'une des parties contractantes riveraines du Rhin, ou de la Belgique, l'Accord cessera d'être applicable à toutes les autres parties à la date à laquelle la dénonciation prendra effet.
 
-1. Dit Verdrag wordt gesloten voor de duur van drie jaar. Het zal daarna van jaar tot jaar stilzwijgend verlengd worden, behoudens het recht van elke Verdragsluitende Staat het Verdrag op te zeggen dóór kennisgeving aan de Directeur-Generaal van het Internationaal Arbeidsbureau. De opzegging wordt van kracht een jaar na ontvangst van de kennisgeving.
+##### Article 32
 
-2. Indien de opzegging wordt gedaan door een der Verdragsluitende Rijnoeverstaten of België, zal het Verdrag ophouden van toepassing te zijn op alle andere partijen van de datum af, waarop de opzegging van kracht wordt.
+1. Le texte français du présent Accord en constitue le texte authentique. Il sera revêtu de la signature des parties contractantes et déposé aux archives du Bureau international du Travail.
 
-##### Artikel 32
+2. Dès l'entrée en vigueur du présent Accord, une copie certifiée conforme en sera communiquée, conformément à l'[article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), au Secrétaire général des Nations Unies par le Directeur général du Bureau international du Travail aux fins d'enregistrement.
 
-1. De Franse tekst van dit Verdrag is de authentieke tekst en zal van de ondertekening van de Verdragsluitende Partijen worden voorzien en worden neergelegd in de archieven van het Internationaal Arbeidsbureau.
+3. Le Directeur général du Bureau international du Travail communiquera également une copie certifiée conforme à chacun des pays riverains du Rhin, à la Belgique, aux autres pays représentés à la Commission centrale pour la navigation du Rhin et à ladite Commission.
 
-2. Zodra dit Verdrag van kracht is geworden, zal een gewaarmerkt afschrift daarvan, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), door de Directeur-Generaal van het Internationaal Arbeidsbureau ter registratie worden toegezonden aan de Secretaris-Generaal van de Verenigde Naties.
+4. Des traductions officielles en anglais, en allemand et en néerlandais seront établies par le Bureau international du Travail et communiquées aux pays intéressés.
 
-3. De Directeur-Generaal van het Internationaal Arbeidsbureau zal eveneens een gewaarmerkt afschrift zenden aan elk der Rijnoeverstaten en België, aan de andere landen vertegenwoordigd in de Centrale Commissie voor de Rijnvaart en aan deze Commissie.
+##### Article 33
 
-4. Officiële vertalingen in het Engels, het Duits en het Nederlands zullen worden opgesteld door het Internationaal Arbeidsbureau en worden toegezonden aan de betrokken landen.
-
-##### Artikel 33
-
-Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), zal de Directeur-Generaal van het Internationaal Arbeidsbureau aan de Secretaris-Generaal van de Verenigde Naties van elke bekrachtiging en elke opzegging, welke te zijner kennis zijn gebracht, ter registratie mededeling doen.
+Conformément à l'[article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), le Directeur général du Bureau international du Travail communiquera au Secrétaire général des Nations Unies, aux fins d'enregistrement, toute ratification et toute dénonciation dont il aura reçu notification.
 
 EN FOI DE QUOI les soussignés, ayant déposé leurs pleins pouvoirs respectifs, ont signé le présent Accord.
 

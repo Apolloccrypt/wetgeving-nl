@@ -1,48 +1,19 @@
 ---
 title: "Langlopende Overeenkomst inzake economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië"
 identifier: "BWBV0003867"
-country: "nl"
-rank: "verdrag"
-publication_date: "1976-04-01"
-last_updated: "1976-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003867"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003754093"
-version_id: "10003817142"
-internal_id: "C10006983071"
-label_id: "10003739104"
-dtd_version: "2.0"
-original_entry_into_force: "1976-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003867/1976-04-01/0"
-intitule_bron: "Trb.1975-59"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-06-11"
-intitule_in_force: "1976-04-13"
-intitule_status: "goed"
-original_publication: "Trb.1975-59"
-original_published_date: "1975-06-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-59"
-entry_into_force_date: "1976-04-01"
-jci_1_3: "jci1.3:c:BWBV0003867&z=1976-04-01&g=1976-04-01"
-jci_1_0: "1.0:c:BWBV0003867&g=1976-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-04-01"
+publicatiedatum: 1976-04-01
+laatste_update: 1976-04-01
+status: geldig
+toestand: 1976-04-01
+bron: "https://wetten.overheid.nl/BWBV0003867"
+opgehaald: 2026-09-13
 ---
+
 # Langlopende Overeenkomst inzake economische, industriële en technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië:
-
-geleid door de wens een nieuwe bijdrage te leveren, op een duurzame grondslag en tot hun wederzijds voordeel, aan de ontwikkeling en de diversificatie van hun wederzijdse economische betrekkingen,
-
-verlangend op doeltreffender wijze gebruik te maken van de mogelijkheden geboden door hun economisch potentieel en door de technische vooruitgang der beide landen, door de uitbreiding van de agrarische, industriële en economische samenwerking, die zij van groot belang achten voor de uitbreiding van hun economische samenwerking,
-
-gezien de Langlopende Handelsovereenkomst gesloten op 8 december 1970 te Brussel en de Overeenkomst inzake economische, industriële en technische samenwerking, ondertekend te 's-Gravenhage op 20 juli 1967,
-
-erkennende het nut van langlopende overeenkomsten die de grondslagen kunnen leggen voor een duurzame economische, industriële en technische samenwerking,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Roemenië: - geleid door de wens een nieuwe bijdrage te leveren, op een duurzame grondslag en tot hun wederzijds voordeel, aan de ontwikkeling en de diversificatie van hun wederzijdse economische betrekkingen, - verlangend op doeltreffender wijze gebruik te maken van de mogelijkheden geboden door hun economisch potentieel en door de technische vooruitgang der beide landen, door de uitbreiding van de agrarische, industriële en economische samenwerking, die zij van groot belang achten voor de uitbreiding van hun economische samenwerking, - gezien de Langlopende Handelsovereenkomst gesloten op 8 december 1970 te Brussel en de Overeenkomst inzake economische, industriële en technische samenwerking, ondertekend te 's-Gravenhage op 20 juli 1967, - erkennende het nut van langlopende overeenkomsten die de grondslagen kunnen leggen voor een duurzame economische, industriële en technische samenwerking, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -64,17 +35,17 @@ Bij het overeenkomen en het uitvoeren van het streven naar samenwerking worden i
 
 De samenwerking kan met name de volgende vormen aannemen:
 
-- -. bouw van nieuwe industriële bedrijfsinrichtingen alsmede uitbreiding en modernisering van bestaande bedrijfsinrichtingen;
+- - bouw van nieuwe industriële bedrijfsinrichtingen alsmede uitbreiding en modernisering van bestaande bedrijfsinrichtingen;
 
-- -. oprichting van gemengde produktie- en handelsmaatschappijen;
+- - oprichting van gemengde produktie- en handelsmaatschappijen;
 
-- -. het gemeenschappelijk vervaardigen en in de handel brengen van produkten;
+- - het gemeenschappelijk vervaardigen en in de handel brengen van produkten;
 
-- -. uitwisseling van technische kennis, technisch documentatiemateriaal en technische gegevens, overdracht van octrooirechten en verlening van licenties, toepassing en verbetering van bestaande technische werkwijzen of ontwikkeling van nieuwe technische werkwijzen, uitwisseling van de resultaten van gemeenschappelijk onderzoek alsmede opleiding van leidinggevend personeel, zulks met inbegrip van uitwisseling van deskundigen en stagiaires;
+- - uitwisseling van technische kennis, technisch documentatiemateriaal en technische gegevens, overdracht van octrooirechten en verlening van licenties, toepassing en verbetering van bestaande technische werkwijzen of ontwikkeling van nieuwe technische werkwijzen, uitwisseling van de resultaten van gemeenschappelijk onderzoek alsmede opleiding van leidinggevend personeel, zulks met inbegrip van uitwisseling van deskundigen en stagiaires;
 
-- -. uitwisseling van ervaring op het gebied van methoden van studie en benadering van de markt, gemeenschappelijke organisatie van beraadslagingen tussen en conferenties van deskundigen;
+- - uitwisseling van ervaring op het gebied van methoden van studie en benadering van de markt, gemeenschappelijke organisatie van beraadslagingen tussen en conferenties van deskundigen;
 
-- -. uitwisseling op het gebied van normalisering, metrologie, onderzoek en beproeving van materialen.
+- - uitwisseling op het gebied van normalisering, metrologie, onderzoek en beproeving van materialen.
 
 ##### Artikel 5
 
@@ -118,13 +89,13 @@ De Commissie komt te allen tijde op verzoek van een der Overeenkomstsluitende Pa
 
 De Commissie is bevoegd:
 
-- -. de ontwikkeling van de economische, industriële en technische samenwerking tussen de Overeenkomstsluitende Partijen te onderzoeken;
+- - de ontwikkeling van de economische, industriële en technische samenwerking tussen de Overeenkomstsluitende Partijen te onderzoeken;
 
-- -. van gedachten te wisselen over de verdere ontwikkeling van de economische, industriële en technische samenwerking en nieuwe mogelijkheden voor samenwerking in hun onderscheiden landen of op markten van derde landen te vinden;
+- - van gedachten te wisselen over de verdere ontwikkeling van de economische, industriële en technische samenwerking en nieuwe mogelijkheden voor samenwerking in hun onderscheiden landen of op markten van derde landen te vinden;
 
-- -. alle problemen te bespreken die zich zouden kunnen voordoen bij de uitvoering van deze Overeenkomst;
+- - alle problemen te bespreken die zich zouden kunnen voordoen bij de uitvoering van deze Overeenkomst;
 
-- -. aan de Overeenkomstsluitende Partijen alle voorstellen te doen ter bevordering van de doelstellingen van deze Overeenkomst. De Commissie kan groepen voor de verschillende sectoren instellen waaraan specifieke problemen van de economische, industriële en technische samenwerking worden toevertrouwd.
+- - aan de Overeenkomstsluitende Partijen alle voorstellen te doen ter bevordering van de doelstellingen van deze Overeenkomst. De Commissie kan groepen voor de verschillende sectoren instellen waaraan specifieke problemen van de economische, industriële en technische samenwerking worden toevertrouwd.
 
 ##### Artikel 13
 
@@ -156,12 +127,12 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN te Boekarest, de 14e mei 1975, in twee oorspronkelijke exemplaren in de Nederlandse, Roemeense en Franse taal, zijnde de drie teksten gelijkelijk gezaghebbend; in geval van verschil is de Franse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) A. VAN AGT
 
 (w.g.) L. J. BRINKHORST
 
-**Voor de Regering van de Socialistische Republiek Roemenië,**
+*Voor de Regering van de Socialistische Republiek Roemenië,*
 
 (w.g.) G. OPREA

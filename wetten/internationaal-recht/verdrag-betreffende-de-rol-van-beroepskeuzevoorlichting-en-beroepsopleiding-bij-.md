@@ -1,157 +1,112 @@
 ---
 title: "Verdrag betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen"
 identifier: "BWBV0003733"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-06-19"
-last_updated: "1980-06-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003733"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003678243"
-version_id: "10003738922"
-internal_id: "C10006982811"
-label_id: "10003663834"
-dtd_version: "2.0"
-original_entry_into_force: "1980-06-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003733/1980-06-19/0"
-intitule_bron: "Trb.1976-140"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-09-20"
-intitule_in_force: "1979-08-28"
-intitule_status: "goed"
-original_publication: "Trb.1976-140"
-original_published_date: "1976-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-140"
-entry_into_force_date: "1980-06-19"
-jci_1_3: "jci1.3:c:BWBV0003733&z=1980-06-19&g=1980-06-19"
-jci_1_0: "1.0:c:BWBV0003733&g=1980-06-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-06-19"
+publicatiedatum: 1980-06-19
+laatste_update: 1980-06-19
+status: geldig
+toestand: 1980-06-19
+bron: "https://wetten.overheid.nl/BWBV0003733"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Sixtieth Session on 4 June 1975, and Having decided upon the adoption of certain proposals with regard to human resources development: vocational guidance and vocational training, which is the sixth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, adopts this twenty-third day of June of the year one thousand nine hundred and seventy-five the following Convention, which may be cited as the Human Resources Development Convention, 1975:*
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen in haar zestigste zitting op 4 juni 1975;
+##### Article 1
 
-Besloten hebbende bepaalde voorstellen aan te nemen betreffende de ontwikkeling van menselijke hulpbronnen: beroepskeuzevoorlichting en beroepsopleiding, hetgeen het zesde punt is op de agenda der zitting;
+1. Each Member shall adopt and develop comprehensive and coordinated policies and programmes of vocational guidance and vocational training, closely linked with employment, in particular through public employment services.
 
-Besloten hebbende, dat deze voorstellen de vorm zullen aannemen van een internationaal verdrag,
+2. These policies and programmes shall take due account of -
 
-aanvaardt heden, de drieëntwintigste juni negentienhonderd vijfenzeventig, het volgende Verdrag, dat kan worden aangehaald als „Verdrag betreffende de ontwikkeling van menselijke hulpbronnen, 1975”:
+- (a) employment needs, opportunities and problems, both regional and national;
 
-##### Artikel 1
+- (b) the stage and level of economic, social and cultural development; and
 
-1. Ieder Lid dient uitgebreide en gecoördineerde beleidslijnen en programma's voor beroepskeuzevoorlichting en beroepsopleiding te aanvaarden en te ontwikkelen in nauwe samenhang met de werkgelegenheidssituatie, in het bijzonder met behulp van de openbare arbeidsbureaus.
+- (c) the mutual relationships between human resources development and other economic, social and cultural objectives.
 
-2. In dit beleid en deze programma's dient rekening te worden gehouden met:
+3. The policies and programmes shall be pursued by methods that are appropriate to national conditions.
 
-- (a). de behoeften, de mogelijkheden en de problemen op het gebied van de werkgelegenheid zowel op regionaal als op nationaal niveau;
+4. The policies and programmes shall be designed to improve the ability of the individual to understand and, individually or collectively, to influence the working and social environment.
 
-- (b). het stadium en het niveau van de economische, sociale en culturele ontwikkeling;
+5. The policies and programmes shall encourage and enable all persons, on an equal basis and without any discrimination whatsoever, to develop and use their capabilities for work in their own best interests and in accordance with their own aspirations, account being taken of the needs of society.
 
-- (c). het verband tussen de doelstellingen van de ontwikkeling van menselijke hulpbronnen en andere economische, sociale en culturele doelstellingen.
+##### Article 2
 
-3. Dit beleid en deze programma's dienen te worden uitgevoerd door middel van methoden die zijn afgestemd op de nationale omstandigheden.
+With the above ends in view, each Member shall establish and develop open, flexible and complementary systems of general, technical and vocational education, educational and vocational guidance and vocational training, whether these activities take place within the system of formal education or outside it.
 
-4. Dit beleid en deze programma's dienen te worden gericht op de verruiming van de mogelijkheden van de mens om zijn sociale omgeving te begrijpen en deze, zowel individueel als collectief, te beïnvloeden.
+##### Article 3
 
-5. Dit beleid en deze programma's dienen alle mensen op voet van gelijkheid en zonder enige discriminatie aan te moedigen en te helpen hun vakbekwaamheid te ontwikkelen en te gebruiken in hun eigen belang en overeenkomstig hun eigen verlangens, met inachtneming van de behoeften van de maatschappij.
+1. Each Member shall gradually extend its systems of vocational guidance, including continuing employment information, with a view to ensuring that comprehensive information and the broadest possible guidance are available to all children, young persons and adults, including appropriate programmes for all handicapped and disabled persons.
 
-##### Artikel 2
+2. Such information and guidance shall cover the choice of an occupation, vocational training and related educational opportunities, the employment situation and employment prospects, promotion prospects, conditions of work, safety and hygiene at work, and other aspects of working life in the various sectors of economic, social and cultural activity and at all levels of responsibility.
 
-Teneinde de hierboven aangeduide doelstellingen te bereiken, dient ieder Lid open, soepele en aanvullende vormen van algemeen onderwijs, technisch onderwijs en beroepsonderwijs, school- en beroepskeuzevoorlichting en beroepsopleiding te ontwikkelen en te verbeteren ongeacht of deze activiteiten plaatsvinden binnen of buiten het schoolsysteem.
+3. The information and guidance shall be supplemented by information on general aspects of collective agreements and of the rights and obligations of all concerned under labour law; this information shall be provided in accordance with national law and practice, taking into account the respective functions and tasks of the workers' and employers' organisations concerned.
 
-##### Artikel 3
+##### Article 4
 
-1. Ieder Lid dient zijn stelsels voor beroepskeuzevoorlichting en zijn stelsels van voortdurende voorlichting over de werkgelegenheid geleidelijk uit te breiden teneinde een allesomvattende informatie en zo ruim mogelijke voorlichting binnen het bereik te brengen van kinderen, jongeren en volwassenen, met inbegrip van passende programma's voor gehandicapten.
+Each Member shall gradually extend, adapt and harmonise its vocational training systems to meet the needs for vocational training throughout life of both young persons and adults in all sectors of the economy and branches of economic activity and at all levels of skill and responsibility.
 
-2. Deze informatie en voorlichting dient de volgende gebieden te bestrijken: beroepskeuze, beroepsopleiding en de daarmede verband houdende onderwijsmogelijkheden, de huidige en de toekomstige werkgelegenheidssituatie, promotiekansen, arbeidsomstandigheden, bedrijfsveiligheid en -hygiëne alsmede andere aspecten van de arbeid in de diverse sectoren van het economische, sociale en culturele leven op alle niveaus van verantwoordelijkheid.
+##### Article 5
 
-3. Deze informatie en voorlichting dient te worden aangevuld met informatie omtrent de algemene aspecten van collectieve arbeidsovereenkomsten en de rechten en plichten van alle betrokken partijen op grond van de arbeidswetgeving; deze informatie dient te worden verstrekt overeenkomstig nationale wetten en gebruiken, rekening houdend met de onderscheiden functies en taken van de desbetreffende werknemers- en werkgeversorganisaties.
+Policies and programmes of vocational guidance and vocational training shall be formulated and implemented in co-operation with employers' and workers' organisations and, as appropriate and in accordance with national law and practice, with other interested bodies.
 
-##### Artikel 4
+##### Article 6
 
-Ieder Lid dient zijn verschillende stelsels van beroepsopleiding geleidelijk uit te breiden, aan te passen en te harmoniseren, teneinde te kunnen voorzien in de behoeften van jongeren en volwassenen gedurende hun hele leven, in alle sectoren van de economie, in alle bedrijfstakken en op alle niveaus van vakbekwaamheid en verantwoordelijkheid.
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-##### Artikel 5
+##### Article 7
 
-Het beleid en de programma's voor beroepskeuzevoorlichting en beroepsopleiding dienen te worden opgesteld en uitgevoerd in samenwerking met werkgevers- en werknemersorganisaties en, voor zover van toepassing, overeenkomstig nationale wetten en gebruiken, met andere belanghebbende organen.
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-##### Artikel 6
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-##### Artikel 7
+##### Article 8
 
-1. Dit Verdrag is slechts verbindend voor die Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-2. Het treedt in werking twaalf maanden nadat de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+##### Article 9
 
-##### Artikel 8
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na het verloop van de termijn van tien jaren, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden voorzien in dit artikel.
+##### Article 10
 
-##### Artikel 9
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden der Organisatie zijn medegedeeld.
+##### Article 11
 
-2. Bij kennisgeving aan de Leden der Organisatie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden op de datum waarop dit Verdrag in werking treedt.
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-##### Artikel 10
+##### Article 12
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen, die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, unless the new Convention otherwise provides
 
-##### Artikel 11
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 8 above, if and when the new revising Convention shall have come into force;
 
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht, brengt deze Raad aan de Algemene Conferentie verslag uit inzake de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-##### Artikel 12
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag zal, tenzij het nieuwe Verdrag anders bepaalt:
+##### Article 13
 
-- (a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, **ipso jure** onmiddellijke opzegging van het onderhavige Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 8, onder voorbehoud evenwel dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
-
-- (b). met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking is getreden, zal het onderhavige Verdrag niet langer door de Leden kunnen worden bekrachtigd.
-
-2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 13
-
-De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
-
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
-
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen in haar Zestigste Zitting op 4 juni 1975;
-
-Overwegende het belang van de beroepskeuzevoorlichting en de beroepsopleiding bij de uitvoering van het beleid en de programma's betreffende de werkgelegenheid;
-
-Gelet op de bewoordingen van de bestaande internationale Verdragen en Aanbevelingen betreffende de arbeid die rechtstreeks verband houden met het werkgelegenheidsbeleid en in het bijzonder het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004947) en de [Aanbeveling betreffende discriminatie (beroep en beroepsuitoefening)](onbekend), 1958 en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004631) en de Aanbeveling betreffende de werkgelegenheidspolitiek 1964;
-
-Gelet op het feit dat de Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur in haar achttiende zitting (1974) een aanbeveling heeft aangenomen betreffende het technische onderwijs en het beroepsonderwijs;
-
-Gelet op het feit dat de Internationale Arbeidsorganisatie en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur tot nauwe samenwerking zijn overgegaan teneinde de doelstellingen op elkaar af te stemmen en overlapping en tegenstrijdigheid van eikaars instrumenten te voorkomen, en dat zij nauw zullen blijven samenwerken teneinde de daadwerkelijke tenuitvoerlegging van deze instrumenten te verzekeren;
-
-Besloten hebbende bepaalde voorstellen aan te nemen betreffende de ontwikkeling van menselijke hulpbronnen: beroepskeuzevoorlichting en beroepsopleiding, hetgeen het zesde punt is op de agenda der Zitting;
-
-Besloten hebbende dat deze voorstellen de vorm zullen aannemen van een Aanbeveling,
-
-Aanvaardt heden, de drieëntwintigste juni negentienhonderd vijfenzeventig, de volgende Aanbeveling, die kan worden aangehaald als „Aanbeveling betreffende de ontwikkeling van menselijke hulpbronnen, 1975”:
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixtieth Session which was held at Geneva and declared closed the twenty-fifth day of June 1975.
 
 IN FAITH WHEREOF we have appended our signatures this twenty-sixth day of June 1975.
 
-**The President of the Conference,**
+*The President of the Conference,*
 
 (sd.) BLAS F. OPLE
 
-**The Director-General of the International Labour Office,**
+*The Director-General of the International Labour Office,*
 
 (sd.) FRANCIS BLANCHARD

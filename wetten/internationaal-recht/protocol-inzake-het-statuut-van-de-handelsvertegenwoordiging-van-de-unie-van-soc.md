@@ -1,58 +1,31 @@
 ---
 title: "Protocol inzake het Statuut van de handelsvertegenwoordiging van de Unie van Socialistische Sowjet-Republieken in Nederland"
 identifier: "BWBV0003865"
-country: "nl"
-rank: "verdrag"
-publication_date: "1973-06-01"
-last_updated: "1973-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003865"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003753633"
-version_id: "10003816592"
-internal_id: "C10009977781"
-label_id: "10003738574"
-dtd_version: "2.0"
-original_entry_into_force: "1973-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003865/1973-06-01/0"
-intitule_bron: "Trb.1971-163"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-09-02"
-intitule_in_force: "1973-06-19"
-intitule_status: "goed"
-original_publication: "Trb.1971-163"
-original_published_date: "1971-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-163"
-entry_into_force_date: "1973-06-01"
-jci_1_3: "jci1.3:c:BWBV0003865&z=1973-06-01&g=1973-06-01"
-jci_1_0: "1.0:c:BWBV0003865&g=1973-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1973-06-01"
+publicatiedatum: 1973-06-01
+laatste_update: 1973-06-01
+status: geldig
+toestand: 1973-06-01
+bron: "https://wetten.overheid.nl/BWBV0003865"
+opgehaald: 2026-09-13
 ---
+
 # Protocol inzake het Statuut van de handelsvertegenwoordiging van de Unie van Socialistische Sowjet-Republieken in Nederland
 
-De Regering van het Koninkrijk der Nederlanden enerzijds, en
-
-De Regering van de Unie van Socialistische Sowjet-Republieken anderzijds,
-
-Verlangend uitvoering te geven aan artikel 8 van het heden ondertekende Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken,
-
-Zijn overeengekomen als volgt:
-
-Opgeschort per 21 februari 2023 (Trb. 2023/19).
+*De Regering van het Koninkrijk der Nederlanden enerzijds, en De Regering van de Unie van Socialistische Sowjet-Republieken anderzijds, Verlangend uitvoering te geven aan artikel 8 van het heden ondertekende Handelsverdrag tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, leden van de Benelux Economische Unie, en de Regering van de Unie van Socialistische Sowjet-Republieken, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 De handelsvertegenwoordiging van de Unie van Socialistische Sowjet-Republieken in Nederland heeft tot taak:
 
-- a). bij te dragen aan de ontwikkeling van de handelsbetrekkingen tussen de Unie van Socialistische Sowjet-Republieken en Nederland;
+- a) bij te dragen aan de ontwikkeling van de handelsbetrekkingen tussen de Unie van Socialistische Sowjet-Republieken en Nederland;
 
-- b). de belangen van de Unie van Socialistische Sowjet-Republieken op het gebied van de buitenlandse handel te behartigen;
+- b) de belangen van de Unie van Socialistische Sowjet-Republieken op het gebied van de buitenlandse handel te behartigen;
 
-- c). in naam van de Unie van Socialistische Sowjet-Republieken de noodzakelijke maatregelen te treffen met betrekking tot commerciële activiteiten tussen de Unie van Socialistische Sowjet-Republieken en Nederland;
+- c) in naam van de Unie van Socialistische Sowjet-Republieken de noodzakelijke maatregelen te treffen met betrekking tot commerciële activiteiten tussen de Unie van Socialistische Sowjet-Republieken en Nederland;
 
-- d). in naam van de Regering van de Unie van Socialistische Sowjet-Republieken handel te drijven in Nederland.
+- d) in naam van de Regering van de Unie van Socialistische Sowjet-Republieken handel te drijven in Nederland.
 
 ##### Artikel 2
 

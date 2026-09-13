@@ -1,47 +1,18 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking"
 identifier: "BWBV0003908"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-11-25"
-last_updated: "1975-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003908"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003766443"
-version_id: "10003831112"
-internal_id: "C10007345371"
-label_id: "10003751534"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003908/1975-11-25/0"
-intitule_bron: "Trb.1975-140"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-11-25"
-intitule_status: "nogniet"
-original_publication: "Trb.1975-140"
-original_published_date: "1975-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-140"
-jci_1_3: "jci1.3:c:BWBV0003908&z=1975-11-25&g=1975-11-25"
-jci_1_0: "1.0:c:BWBV0003908&g=1975-11-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-11-25"
+laatste_update: 1975-11-25
+status: geldig
+toestand: 1975-11-25
+bron: "https://wetten.overheid.nl/BWBV0003908"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Suriname,
-
-Zich baserende op de inhoud van het Protocol dat werd uitgegeven naar aanleiding van de van 18 tot en met 21 mei 1974 te 's-Gravenhage gehouden Regeringsconferentie tussen Nederland, Suriname en de Nederlandse Antillen,
-
-Verlangende de Republiek Suriname in staat te stellen zich op zo kort mogelijke termijn zelfstandig te ontwikkelen,
-
-Zijn overeengekomen als volgt:
-
-Opgeschort per 16 december 1982 (Trb. 1983/6). De opschorting is herroepen per 3 mei 1988 (Trb. 1988/68).
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, Zich baserende op de inhoud van het Protocol dat werd uitgegeven naar aanleiding van de van 18 tot en met 21 mei 1974 te 's-Gravenhage gehouden Regeringsconferentie tussen Nederland, Suriname en de Nederlandse Antillen, Verlangende de Republiek Suriname in staat te stellen zich op zo kort mogelijke termijn zelfstandig te ontwikkelen, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -63,11 +34,11 @@ Teneinde de Republiek Suriname in staat te stellen onbelast met schulden uit het
 
 Het Koninkrijk der Nederlanden stelt voor een periode van 10 tot 15 jaar in totaal Nfl 3500 mln beschikbaar voor de uitvoering van het meerjarenontwikkelingsprogramma. Dit bedrag is als volgt opgebouwd:
 
-- -. Nfl 2700 mln is bestemd voor medefinanciering van projecten en programma's welke onderdeel uitmaken van het Surinaamse meerjarenontwikkelingsprogramma; voor sociaal-educatieve ontwikkelingsprojecten en voor mede-financiering van ontwikkelingsprojecten van particuliere organisaties, universiteiten en de Financieringsmaatschappij voor Ontwikkelingslanden;
+- - Nfl 2700 mln is bestemd voor medefinanciering van projecten en programma's welke onderdeel uitmaken van het Surinaamse meerjarenontwikkelingsprogramma; voor sociaal-educatieve ontwikkelingsprojecten en voor mede-financiering van ontwikkelingsprojecten van particuliere organisaties, universiteiten en de Financieringsmaatschappij voor Ontwikkelingslanden;
 
-- -. indien na besteding van het bedrag van Nfl 2700 mln het programma nog niet volledig is gerealiseerd, is het Koninkrijk der Nederlanden bereid tot een maximum van Nfl 300 mln het resterende tekort te financieren op basis van strikte pariteit met Surinaamse besparingen;
+- - indien na besteding van het bedrag van Nfl 2700 mln het programma nog niet volledig is gerealiseerd, is het Koninkrijk der Nederlanden bereid tot een maximum van Nfl 300 mln het resterende tekort te financieren op basis van strikte pariteit met Surinaamse besparingen;
 
-- -. voor het verstrekken van garanties te verlenen op ontwikkelingsleningen van ontwikkelingsfondsen en -banken ten behoeve van projecten deel uitmakend van het meerjarenprogramma is, voor zover noodzakelijk, Nfl 500 mln beschikbaar. Materialisering van deze garanties zal ten laste komen van de in deze periode dan wel daarna te verlenen ontwikkelingshulp.
+- - voor het verstrekken van garanties te verlenen op ontwikkelingsleningen van ontwikkelingsfondsen en -banken ten behoeve van projecten deel uitmakend van het meerjarenprogramma is, voor zover noodzakelijk, Nfl 500 mln beschikbaar. Materialisering van deze garanties zal ten laste komen van de in deze periode dan wel daarna te verlenen ontwikkelingshulp.
 
 Behalve de hierboven genoemde bedragen blijft het restant van de in het verleden gecommitteerde doch niet uitgegeven Nederlandse hulp voor de Republiek Suriname ten bedrage van ongeveer Nfl 350 mln beschikbaar.
 
@@ -129,56 +100,14 @@ Deze Overeenkomst treedt in werking nadat beide partijen elkaar hebben medegedee
 
 Niettegenstaande het bepaalde in het voorgaande lid zal de Overeenkomst voorlopig worden; toegepast met ingang van de datum van haar ondertekening.
 
-##### Artikel 1
-
-a. De Regering van de Republiek Suriname stelt schadeloos en vrijwaart de Regering van het Koninkrijk der Nederlanden en de Nederlandse deskundigen, adviseurs, vertegenwoordigers en het overige Nederlandse personeel voor elke niet-contractuele wettelijke aansprakelijkheid, voortvloeiend uit enig handelen of nalaten van een of meer van de genoemde personen tijdens hun werkzaamheden voor of in verband met deze Overeenkomst die de dood of lichamelijk letsel van derden of schade aan eigendommen van derden hebben veroorzaakt - voorzover althans deze niet door verzekering wordt gedekt - en ziet van haar kant af van het instellen van enige vordering wegens niet-contractuele wettelijke aansprakelijkheid, tenzij deze aansprakelijkheid het gevolg is van opzet of grove schuld van een of meer der genoemde personen.
-
-b. In geval de Regering van de Republiek Suriname de Regering van het Koninkrijk der Nederlanden of een of meer van de genoemde personen vrijwaart van het instellen van een vordering wegens niet-contractuele wettelijke aansprakelijkheid overeenkomstig lid a van dit artikel, is de Regering van de Republiek Suriname gerechtigd alle rechten uit te oefenen die de Nederlandse Regering of deze personen geldend zou kunnen maken.
-
-c. Indien de Regering van de Republiek Suriname zulks verzoekt, verschaft de Regering van het Koninkrijk der Nederlanden de bevoegde autoriteiten van de Republiek Suriname de noodzakelijke administratieve of juridische bijstand voor een goede regeling van de problemen die eventueel kunnen ontstaan bij toepassing van lid a en lid b van dit artikel.
-
-##### Artikel 2
-
-De Regering van de Republiek Suriname:
-
-- a. stelt het Nederlandse personeel vrij van alle belastingen en andere fiscale heffingen met betrekking tot iedere betaling wegens salarissen, toelagen en emolumenten die zij van de Nederlandse Regering ontvangen;
-
-- b. stelt het Nederlandse personeel en hun gezinsleden vrij van betaling van invoer- en douanerechten op nieuwe of gebruikte huishoudelijke goederen en persoonlijke bezittingen, hieronder begrepen beroepsuitrusting, die in de Republiek Suriname worden ingevoerd binnen zes maanden na hun aankomst, mits zodanige goederen weer uit de Republiek Suriname worden uitgevoerd ten tijde van het vertrek of binnen een zodanige periode als door de Regering van de Republiek Suriname wordt toegestaan;
-
-- c. regelt de invoer, vrij van rechten, of de aankoop uit entrepot van één motorvoertuig door het Nederlandse personeel binnen zes maanden na de eerste aankomst in de Republiek Suriname, met dien verstande dat een zodanig voertuig indien doorverkocht aan een persoon die niet dezelfde voorrechten geniet, wordt aangeslagen voor een evenredig bedrag aan invoerrechten, gebaseerd op de geschatte waarde van het voertuig ten tijde van de doorverkoop;
-
-- d. verstrekt het Nederlandse personeel en zijn gezinsleden kosteloze inreisvisa, verblijfs- en werkvergunningen;
-
-- e. verleent het Nederlandse personeel, wat hun Nederlandse salarissen, toelagen en emolumenten betreft, de voorrechten ten aanzien van overmaking van gelden op de meest gunstige voorwaarden, te weten rekeningen voor niet-ingezetenen;
-
-- f. biedt het Nederlandse personeel en hun gezinnen in de Republiek Suriname in tijden van nationale of internationale crises alle faciliteiten voor repatriëring;
-
-- g. vrijwaart het Nederlandse personeel van gerechtelijke acties met betrekking tot alle handelingen van dat personeel, daaronder begrepen alle gesproken of geschreven woorden, verricht in zijn officiële hoedanigheid;
-
-- h. voorziet het Nederlandse personeel van identiteitspapieren teneinde dit personeel te verzekeren van de volle medewerking van de desbetreffende autoriteiten van de Republiek Suriname bij de uitoefening van zijn taak.
-
-##### Artikel 3
-
-De Regering van de Republiek Suriname heeft het recht de terugroeping te verzoeken van elke deskundige indien diens gedrag bij de uitoefening van zijn functie of zijn persoonlijk gedrag een zodanige maatregel wettigt. Alvorens dit recht uit te oefenen raadpleegt de Regering van de Republiek Suriname de Regering van het Koninkrijk der Nederlanden. Indien de Regering van de Republiek Suriname daarom verzoekt zal de Regering van het Koninkrijk der Nederlanden zorgdragen voor een vervanging van de teruggeroepen deskundige.
-
-##### Artikel 4
-
-De Regering van de Republiek Suriname stelt het door de Regering van het Koninkrijk der Nederlanden in verband met de uitvoering van een project te verschaffen materieel (met inbegrip van motorvoertuigen) en voorraden vrij van alle invoerrechten en andere officiële heffingen.
-
-##### Artikel 5
-
-Het gehele materieel en alle voorraden die door de Regering van het Koninkrijk der Nederlanden worden bijgedragen ten behoeve van de uitvoering van een project, blijven voor de duur van de Nederlandse bijstand aan het project het eigendom van genoemde Regering.
-
-Bij beëindiging van de Nederlandse bijstand aan een project worden het materieel en de voorraden in eigendom overgedragen aan de Regering van de Republiek Suriname, tenzij een en ander nog gebruikt dient te worden voor enig ander project van technische samenwerking waarbij beide Regeringen zijn betrokken.
-
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Paramaribo op 25 november 1975 in twee exemplaren, in de Nederlandse taal.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. M. DEN UYL
 
-**Voor de Regering van de Republiek Suriname**
+*Voor de Regering van de Republiek Suriname*
 
 (w.g.) H. A. E. ARRON

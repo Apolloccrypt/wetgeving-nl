@@ -1,174 +1,147 @@
 ---
 title: "Overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten"
 identifier: "BWBV0003945"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-03-13"
-last_updated: "1978-03-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003945"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003782243"
-version_id: "10003847262"
-internal_id: "C10006983211"
-label_id: "10003767244"
-dtd_version: "2.0"
-original_entry_into_force: "1978-03-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003945/1978-03-13/0"
-intitule_bron: "Trb.1972-106"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1972-09-14"
-intitule_in_force: "1978-02-22"
-intitule_status: "goed"
-original_publication: "Trb.1972-106"
-original_published_date: "1972-09-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1972-106"
-entry_into_force_date: "1978-03-13"
-jci_1_3: "jci1.3:c:BWBV0003945&z=1978-03-13&g=1978-03-13"
-jci_1_0: "1.0:c:BWBV0003945&g=1978-03-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-03-13"
+publicatiedatum: 1978-03-13
+laatste_update: 1978-03-13
+status: geldig
+toestand: 1978-03-13
+bron: "https://wetten.overheid.nl/BWBV0003945"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten
 
-De Lid-Staten van de Raad van Europa die deze Overeenkomst hebben ondertekend,
+*The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members; Wishing to provide for a registration scheme enabling a testator to register his will in order to reduce the risk of the will remaining unknown or being found belatedly, and to facilitate the discovery of the existence of this will after the death of the testator; Convinced that such a system would facilitate in particular the finding of wills made abroad, Have agreed as follows:*
 
-Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een hechtere eenheid tussen zijn leden,
+##### Article 1
 
-Verlangend een registratiestelsel in het leven te roepen dat een erflater de mogelijkheid biedt zijn testament te doen registreren ten einde, aan de ene kant, het risico te verkleinen dat het bestaan van het testament onbekend blijft of te laat bekend wordt en, aan de andere kant, na het overlijden van de erflater, de opsporing van het testament te vergemakkelijken,
+The Contracting States undertake to establish, in accordance with the provisions of this Convention, a scheme of registration of wills, with a view to facilitating, after the death of the testator, the discovery of the existence of the will.
 
-Overtuigd dat een zodanig stelsel met name de opsporing van in het buitenland gemaakte testamenten zou vergemakkelijken,
+##### Article 2
 
-Zijn als volgt overeengekomen:
+In order to implement the provisions of this Convention, each Contracting State shall establish or appoint one or more bodies responsible for the registration provided for by the Convention and for answering requests for information made in accordance with Article 8, paragraph 2.
 
-##### Artikel 1
+##### Article 3
 
-De Overeenkomstsluitende Staten verbinden zich tot het overeenkomstig de bepalingen van deze Overeenkomst vaststellen van een registratiestelsel voor testamenten, ten einde na het overlijden van de erflater de opsporing van diens testament te vergemakkelijken.
+1. With a view to facilitating international co-operation, each Contracting State shall appoint a national body which shall, without any intermediary:
 
-##### Artikel 2
+- (a) arrange for registration in other Contracting States as provided for in Article 6;
 
-Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende Staten een of meer organen in het leven geroepen of aangewezen, die belast worden met de bij deze Overeenkomst voorgeschreven registratie en met het beantwoorden van verzoeken om inlichtingen overeenkomstig het bepaalde in artikel 8, tweede lid.
+- (b) receive requests for information arriving from the national bodies of other Contracting States, and answer them under the conditions set out in Article 8.
 
-##### Artikel 3
+2. Each Contracting State shall communicate to the Secretary General of the Council of Europe the name and address of the national body appointed in accordance with the preceding paragraph.
 
-1. Ter vergemakkelijking van de internationale samenwerking wijst elk der Overeenkomstsluitende Staten een nationaal orgaan aan, dat rechtstreeks:
+##### Article 4
 
-- (a). regelingen treft voor de in artikel 6 bedoelde registratie in andere Overeenkomstsluitende Staten;
+1. The following shall be registered in a Contracting State:
 
-- (b). verzoeken om inlichtingen in ontvangst neemt, afkomstig van de nationale organen van andere Overeenkomstsluitende Staten en die beantwoordt onder de in artikel 8 bedoelde voorwaarden.
+- (a) Formal wills declared to a notary, a public authority or any person authorised by the law of that State to record them, as well as other wills deposited with an authority or a person authorised by law to accept such deposit, with a formal act of deposit having been established;
 
-2. Elk der Overeenkomstsluitende Staten geeft aan de Secretaris-Generaal van de Raad van Europa kennis van de naam en het adres van het ingevolge het voorgaande lid aangewezen nationale orgaan.
+- (b) Holographic wills which have been deposited with a notary, a public authority or any person authorised by the law of that State to accept them, without a formal act of deposit having been established, subject to that law permitting such deposit. The testator may oppose registration if the said law does not prohibit such opposition.
 
-##### Artikel 4
+2. Withdrawals, revocations and other modifications of the wills registered according to this Article shall also be registered if they are established in a form which would make registration compulsory according to the preceding paragraph.
 
-1. In een Overeenkomstsluitende Staat dienen te worden geregistreerd:
+3. Any Contracting State may exclude from the application of the present Article wills deposited with authorities of the armed forces.
 
-- (a). de testamenten die bij authentieke akte, ten overstaan van een notaris, een met openbaar gezag beklede autoriteit of elke andere daartoe door de wet van die Staat bevoegd verklaarde persoon zijn opgemaakt, alsmede de andere testamenten die bij officiële akte bij een van de autoriteiten of personen, bevoegd om ze in bewaring te nemen, in bewaring zijn gegeven;
+##### Article 5
 
-- (b). de olografische uiterste wilsbeschikkingen die, indien de wetgeving van genoemde Staat zulks toestaat aan een notaris, een met openbaar gezag beklede autoriteit of aan elke andere, daartoe door de wet van die Staat bevoegd verklaarde persoon zijn ter hand gesteld zonder dat een officiële akte van bewaargeving is opgemaakt. Indien de wetgeving van die Staat zulks niet verbiedt, kan de erflater zich tegen de registratie verzetten.
+1. Registration shall be made at the request of the notary, the public authority or the person referred to in Article 4, paragraph 1.
 
-2. Eveneens dient registratie te geschieden van de terugneming, de herroeping en alle andere wijzigingen van ingevolge dit artikel geregistreerde testamenten, indien zij gesteld zijn in een vorm welke volgens het vorige lid registratie met zich brengt.
+2. Any Contracting State may, however, in special cases determined and under the conditions specified by its national law, provide for the request for registration to be made by the testator.
 
-3. Elk der Overeenkomstsluitende Partijen heeft de bevoegdheid het bepaalde in dit artikel niet toe te passen op testamenten in bewaring gegeven bij militaire autoriteiten.
+##### Article 6
 
-##### Artikel 5
+1. Registration shall not be subject to conditions of nationality or residence of the testator.
 
-1. De registratie dient te geschieden op verzoek van de notaris, de met openbaar gezag beklede autoriteit of de persoon bedoeld in artikel 4, eerste lid.
+2. At the request of the testator, the notary, public authority or person, referred to in Article 4, may request registration not only in the State where the will is made or deposited, but also, through the intermediary of the national bodies, in other Contracting States.
 
-2. Elk der Overeenkomstsluitende Staten kan evenwel bepalen dat het verzoek tot registratie in bijzondere in zijn wetgeving omschreven gevallen en onder de daarin gestelde voorwaarden door de erflater kan worden gedaan.
+##### Article 7
 
-##### Artikel 6
+1. The request for registration shall contain the following information at least:
 
-1. Aan de registratie zijn geen voorwaarden verbonden met betrekking tot de nationaliteit of de woonplaats van de erflater.
+- (a) Family name and first name(s) of testator or author of deed (and maiden name, where applicable);
 
-2. Op verzoek van de erflater kan de notaris, de met openbaar gezag beklede autoriteit of elke andere persoon bedoeld in artikel 4 niet alleen om registratie verzoeken in de Staat waar het testament is gemaakt of in bewaring gegeven, maar ook door tussenkomst van de nationale organen, in de andere Overeenkomstsluitende Staten.
+- (b) Date and place (or, if this is not known, country) of birth;
 
-##### Artikel 7
+- (c) Address or domicile, as declared;
 
-1. Het verzoek tot registratie zal ten minste de volgende inlichtingen bevatten:
+- (d) Nature and date of deed of which registration is requested;
 
-- (a). geslachtsnaam en voorna(a)m(en) van de erflater of degene die een beschikking heeft gemaakt (en de meisjesnaam, indien van toepassing);
+- (e) Name and address of the notary, public authority or person who received the deed or with whom it is deposited.
 
-- (b). datum en plaats (of indien de plaats niet bekend is, het land) van geboorte;
+2. This information must be contained in the register, in the form stipulated by each Contracting State.
 
-- (c). adres of opgegeven woonplaats;
+3. The duration of registration may be determined by each Contracting State.
 
-- (d). aard en datum van de akte waarvan registratie wordt verzocht;
+##### Article 8
 
-- (e). naam en adres van de notaris, de met openbaar gezag beklede autoriteit of de persoon die de akte in ontvangst of in bewaring heeft genomen.
+1. Registration shall be secret during the lifetime of the testator.
 
-2. Deze gegevens dienen in het register te worden opgenomen in de door elke Overeenkomstsluitende Staat te bepalen vorm.
+2. On the death of the testator any person may obtain the information mentioned in Article 7 on presentation of an extract of the death certificate or of any other satisfactory proof of death.
 
-3. De duur van de registratie kan door elke Overeenkomstsluitende Staat bij de wet worden vastgesteld.
+3. If the will has been made jointly by two or more persons, the provisions of paragraph 2 of this Article shall apply, notwithstanding the provisions of paragraph 1, on the death of any of the testators.
 
-##### Artikel 8
+##### Article 9
 
-1. De registratie dient gedurende het leven van de erflater geheim te blijven.
+Services between Contracting States pursuant to this Convention shall be rendered free of charge.
 
-2. Na het overlijden van de erflater kan een ieder, onder overlegging van een uittreksel uit de akte van overlijden of van enig ander document waaruit het overlijden blijkt, de in artikel 7 bedoelde inlichtingen verkrijgen.
+##### Article 10
 
-3. Indien het testament door twee of meer personen is opgemaakt, is het bepaalde in het tweede lid van dit artikel van toepassing bij het overlijden van een der erflaters, niettegenstaande het bepaalde in het eerste lid.
+This Convention shall not affect provisions which, in each Contracting State, relate to the validity of wills and other deeds referred to in this Convention.
 
-##### Artikel 9
+##### Article 11
 
-De door de Overeenkomstsluitende Staten onderling verleende diensten voor de toepassing van de bepalingen van deze Overeenkomst worden om niet geleverd.
+Each Contracting State shall have the option to extend, under the conditions to be established by that State, the registration system provided for by this Convention to any other will not referred to in Article 4 or any other deed affecting the devolution of an estate. In this case, in particular the provisions of Article 6, paragraph 2, shall apply.
 
-##### Artikel 10
+##### Article 12
 
-Deze Overeenkomst laat onverlet de bepalingen die in elke Overeenkomstsluitende Staat betrekking hebben op de geldigheid van testamenten en andere in deze Overeenkomst bedoelde akten.
+1. This Convention shall be open to signature by the member States of the Council of Europe. It shall be subject to ratification or acceptance. Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 11
+2. This Convention shall enter into force three months after the date of deposit of the third instrument of ratification or acceptance.
 
-Elke Overeenkomstsluitende Staat heeft de bevoegdheid op door die Staat te bepalen voorwaarden het in deze Overeenkomst bedoelde registratiestelsel uit te breiden tot testamenten niet bedoeld in artikel 4 of tot enige andere beschikking die van invloed kan zijn op de vererving van een nalatenschap. In dat geval is met name het bepaalde in artikel 6, tweede lid, van toepassing.
+3. In respect of a signatory State ratifying or accepting subsequently, the Convention shall come into force three months after the date of the deposit of its instrument of ratification or acceptance.
 
-##### Artikel 12
+##### Article 13
 
-1. Deze Overeenkomst staat ter ondertekening open voor de Lid-Staten van de Raad van Europa. Zij dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any non-member State to accede thereto.
 
-2. De Overeenkomst treedt in werking drie maanden na het tijdstip van nederlegging van de derde akte van bekrachtiging of aanvaarding.
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect three months after the date of its deposit.
 
-3. Zij treedt voor iedere ondertekenende Staat die haar daarna bekrachtigt of aanvaardt, in werking drie maanden na de datum van nederlegging van diens akte van bekrachtiging of aanvaarding.
+##### Article 14
 
-##### Artikel 13
+1. Any Contracting State may, at the time of signature or when depositing its instrument of ratification, acceptance or accession, specify the territory or territories to which this Convention shall apply.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen Lid is van de Raad uitnodigen tot deze Overeenkomst toe te treden.
+2. Any Contracting State may, when depositing its instrument of ratification, acceptance or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Convention to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.
 
-2. De toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, en wordt van kracht drie maanden na de datum van nederlegging daarvan.
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 16 of this Convention.
 
-##### Artikel 14
+##### Article 15
 
-1. Iedere Overeenkomstsluitende Staat kan bij de ondertekening of op het ogenblik van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, aangeven op welk gebied of op welke gebieden deze Overeenkomst van toepassing is.
+No reservation shall be made to the provisions of this Convention.
 
-2. ledere Overeenkomstsluitende Staat kan, op het ogenblik van de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding of op een later tijdstip, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepasselijkheid van deze Overeenkomst uitbreiden tot het gebied of de gebieden genoemd in deze verklaring, voor de internationale betrekkingen waarvan hij verantwoordelijk is, of waarvoor hij bevoegd is overeenkomsten aan te gaan.
+##### Article 16
 
-3. Elke krachtens het bepaalde van het voorgaande lid afgelegde verklaring kan, ten aanzien van elk in deze verklaring genoemd gebied, worden ingetrokken overeenkomstig de procedure omschreven in artikel 16 van deze Overeenkomst.
+1. This Convention shall remain in force indefinitely.
 
-##### Artikel 15
+2. Any Contracting State may, in so far as it is concerned, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-Het maken van voorbehouden ten aanzien van de bepalingen van deze Overeenkomst is niet toegestaan.
+3. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-##### Artikel 16
+##### Article 17
 
-1. Deze Overeenkomst is voor onbepaalde tijd van kracht
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention of:
 
-2. Iedere Overeenkomstsluitende Staat kan deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
+- (a) any signature;
 
-3. Deze opzegging wordt van kracht zes maanden na het tijdstip van ontvangst van deze kennisgeving door de Secretaris-Generaal.
+- (b) any deposit of an instrument of ratification, acceptance or accession;
 
-##### Artikel 17
+- (c) any date of entry into force of this Convention in accordance with Article 12 thereof;
 
-De Secretaris-Generaal van de Raad van Europa doet aan de Lid-Staten van de Raad en aan iedere Staat die tot deze Overeenkomst is toegetreden, mededeling van:
+- (d) any communication received in pursuance of the provisions of paragraph 2 of Article 3 and of paragraphs 2 and 3 of Article 14;
 
-- (a). elke ondertekening;
-
-- (b). de nederlegging van elke akte van bekrachtiging, aanvaarding of toetreding;
-
-- (c). elke datum van inwerkingtreding van deze Overeenkomst overeenkomstig het bepaalde in artikel 12;
-
-- (d). elke kennisgeving ontvangen krachtens het bepaalde in artikel 3, tweede lid, en artikel 14, tweede en derde lid;
-
-- (e). elke krachtens het bepaalde in artikel 16 ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt.
+- (e) any notification received in pursuance of the provisions of Article 16 and the date on which denunciation takes effect.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

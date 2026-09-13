@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en het voorkomen, onderzoeken en bestrijden van inbreuken op de douanewetgeving"
 identifier: "BWBV0003116"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-01-01"
-last_updated: "2009-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003116"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003337353"
-version_id: "10003367622"
-internal_id: "C10008429951"
-label_id: "10003323244"
-dtd_version: "2.0"
-original_entry_into_force: "2009-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003116/2009-01-01/0"
-intitule_bron: "Trb.2007-88"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-05-10"
-intitule_in_force: "2009-01-14"
-intitule_status: "goed"
-original_publication: "Trb.2007-88"
-original_published_date: "2007-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-88"
-entry_into_force_date: "2009-01-01"
-jci_1_3: "jci1.3:c:BWBV0003116&z=2009-01-01&g=2009-01-01"
-jci_1_0: "1.0:c:BWBV0003116&g=2009-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-01-01"
+publicatiedatum: 2009-01-01
+laatste_update: 2009-01-01
+status: geldig
+toestand: 2009-01-01
+bron: "https://wetten.overheid.nl/BWBV0003116"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay inzake wederzijdse administratieve bijstand ten behoeve van de juiste toepassing van de douanewetgeving en het voorkomen, onderzoeken en bestrijden van inbreuken op de douanewetgeving
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek ten Oosten van de Uruguay,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Overwegend dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid en handel schaden;
-
-Overwegend dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde dier- en plantensoorten en giftig afval een gevaar voor de samenleving vormt;
-
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek ten Oosten van de Uruguay, hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Overwegend dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid en handel schaden; Overwegend dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde dier- en plantensoorten en giftig afval een gevaar voor de samenleving vormt; Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van duidelijke wettelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -64,9 +23,9 @@ Voor de toepassing van dit Verdrag:
 
 - 1. wordt onder ,,douaneadministratie’’ verstaan:
 
-- wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
+   - wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
 
-- wat de Republiek ten Oosten van de Uruguay betreft: de Dirección Nacional de Aduanas;
+   - wat de Republiek ten Oosten van de Uruguay betreft: de Dirección Nacional de Aduanas;
 
 - 2. wordt onder ,,douanewetgeving’’ verstaan: alle wettelijke en administratieve bepalingen die door de douaneadministraties worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verbods-, beperkingsen controlemaatregelen;
 
@@ -288,10 +247,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Montevideo op 22 februari 2007, in tweevoud, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 R.H. MEYS
 
-**Voor de Republiek ten Oosten van de Uruguay,**
+*Voor de Republiek ten Oosten van de Uruguay,*
 
 R. GARGANO

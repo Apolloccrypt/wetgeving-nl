@@ -1,88 +1,23 @@
 ---
 title: "Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken"
 identifier: "BWBV0003476"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-12-01"
-last_updated: "1998-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003476"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10003555763"
-version_id: "10003610292"
-internal_id: "C10006983651"
-label_id: "10003541284"
-dtd_version: "2.0"
-original_entry_into_force: "1975-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003476/1998-12-01/0"
-intitule_bron: "Trb.1971-140"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-08-12"
-intitule_in_force: "1975-08-19"
-intitule_status: "goed"
-original_publication: "Trb.1971-140"
-original_published_date: "1971-08-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-140"
-entry_into_force_date: "1975-09-01"
-jci_1_3: "jci1.3:c:BWBV0003476&z=1998-12-01&g=1998-12-01"
-jci_1_0: "1.0:c:BWBV0003476&g=1998-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-09-01"
+publicatiedatum: 1975-09-01
+laatste_update: 1998-12-01
+status: geldig
+toestand: 1998-12-01
+bron: "https://wetten.overheid.nl/BWBV0003476"
+opgehaald: 2026-09-13
 ---
+
 # Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken
 
-De Hoge Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-Verwijzende naar de [Verklaring gehecht aan het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken](onbekend), ondertekend te Brussel op 27 september 1968,
-
-Hebben besloten een Protocol te sluiten waarbij aan het Hof van Justitie van de Europese Gemeenschappen bepaalde bevoegdheden worden toegekend om genoemd [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) uit te leggen en hebben te dien einde als hun Gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-de heer Alfons Vranckx,
-
-Minister van Justitie;
-
-De President van de Bondsrepubliek Duitsland:
-
-de heer Gerhard Jahn,
-
-Bondsminister van Justitie;
-
-De President van de Franse Republiek:
-
-de heer René Pleven,
-
-Grootzegelbewaarder, Minister van Justitie;
-
-De President van de Italiaanse Republiek:
-
-de heer Erminio Pennacchini,
-
-Staatssecretaris van Justitie;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-de heer Eugène Schaus,
-
-Minister van Justitie,
-
-Vice-Minister-President;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-de heer C. H. F. Polak,
-
-Minister van Justitie;
-
-Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Overeenstemming hebben bereikt over de volgende bepalingen:
+*De Hoge Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, Verwijzende naar de Verklaring gehecht aan het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, ondertekend te Brussel op 27 september 1968, Hebben besloten een Protocol te sluiten waarbij aan het Hof van Justitie van de Europese Gemeenschappen bepaalde bevoegdheden worden toegekend om genoemd Verdrag uit te leggen en hebben te dien einde als hun Gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Alfons Vranckx, Minister van Justitie; De President van de Bondsrepubliek Duitsland: de heer Gerhard Jahn, Bondsminister van Justitie; De President van de Franse Republiek: de heer René Pleven, Grootzegelbewaarder, Minister van Justitie; De President van de Italiaanse Republiek: de heer Erminio Pennacchini, Staatssecretaris van Justitie; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Eugène Schaus, Minister van Justitie, Vice-Minister-President; Hare Majesteit de Koningin der Nederlanden: de heer C. H. F. Polak, Minister van Justitie; Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Overeenstemming hebben bereikt over de volgende bepalingen:*
 
 ##### Artikel 1
 
-Het Hof van Justitie van de Europese Gemeenschappen is bevoegd om uitspraak te doen over de uitlegging van het [Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het aan dat Verdrag gehechte [protocol](onbekend), beide ondertekend te Brussel op 27 september 1968, alsmede van het onderhavige protocol.
+Het Hof van Justitie van de Europese Gemeenschappen is bevoegd om uitspraak te doen over de uitlegging van het [Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het aan dat Verdrag gehechte [protocol](https://wetten.overheid.nl/BWBV0004663), beide ondertekend te Brussel op 27 september 1968, alsmede van het onderhavige protocol.
 
 Het Hof van Justitie van de Europese Gemeenschappen is ook bevoegd om uitspraak te doen over de uitlegging van het [Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het Verdrag van 27 september 1968 en tot dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005093).
 
@@ -98,35 +33,35 @@ De volgende rechterlijke instanties kunnen het Hof van Justitie verzoeken, bij w
 
 - 1.
 
-- -. in België: het Hof van Cassatie - la Cour de Cassation en de Raad van State - le Conseil d'Etat,
+   - - in België: het Hof van Cassatie - la Cour de Cassation en de Raad van State - le Conseil d'Etat,
 
-- -. in Denemarken: højesteret,
+   - - in Denemarken: højesteret,
 
-- -. in de Bondsrepubliek Duitsland: die obersten Gerichtshöfe des Bundes,
+   - - in de Bondsrepubliek Duitsland: die obersten Gerichtshöfe des Bundes,
 
-- -. in Griekenland: τα ανώτατα Δίκαστήρια,
+   - - in Griekenland: τα ανώτατα Δίκαστήρια,
 
-- -. in Spanje: el Tribunal Supremo,
+   - - in Spanje: el Tribunal Supremo,
 
-- -. in Frankrijk: la Cour de Cassation alsmede le Conseil d'Etat,
+   - - in Frankrijk: la Cour de Cassation alsmede le Conseil d'Etat,
 
-- -. in Ierland: the Supreme Court,
+   - - in Ierland: the Supreme Court,
 
-- -. in Italië: la Corte Suprema di Cassazione,
+   - - in Italië: la Corte Suprema di Cassazione,
 
-- -. in Luxemburg: la Cour supérieure de Justice siégeant comme cour de cassation,
+   - - in Luxemburg: la Cour supérieure de Justice siégeant comme cour de cassation,
 
-- -. in Oostenrijk: **het Oberste Gerichtshof, het Verwaltungsgerichtshof en het Verfassungsgerichtshof**,
+   - - in Oostenrijk: *het Oberste Gerichtshof, het Verwaltungsgerichtshof en het Verfassungsgerichtshof*,
 
-- -. in Nederland: de Hoge Raad,
+   - - in Nederland: de Hoge Raad,
 
-- -. in Finland: **korkein oikeus/högsta domstolen**en **korkein hallinto-oikeus/högsta förvaltningsdomstolen**,
+   - - in Finland: *korkein oikeus/högsta domstolen*en *korkein hallinto-oikeus/högsta förvaltningsdomstolen*,
 
-- -. in Zweden: **Högsta Domstolen**, **Regeringsrätten, Arbetsdomstolen**en **Marknadsdomstolen**,
+   - - in Zweden: *Högsta Domstolen*, *Regeringsrätten, Arbetsdomstolen*en *Marknadsdomstolen*,
 
-- -. in Portugal: o Supremo Tribunal de justiça en o Supremo Tribunal Administrativo,
+   - - in Portugal: o Supremo Tribunal de justiça en o Supremo Tribunal Administrativo,
 
-- -. in het Verenigd Koninkrijk: the House of Lords en de rechterlijke instanties die op grond van [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004663&artikel=37), of [artikel 41 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004663&artikel=41) zijn aangeroepen;
+   - - in het Verenigd Koninkrijk: the House of Lords en de rechterlijke instanties die op grond van [artikel 37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004663&artikel=37), of [artikel 41 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004663&artikel=41) zijn aangeroepen;
 
 - 2. de rechterlijke instanties van de verdragsluitende Staten, wanneer zij recht spreken in hoger beroep;
 
@@ -158,7 +93,7 @@ De volgende rechterlijke instanties kunnen het Hof van Justitie verzoeken, bij w
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
@@ -176,11 +111,11 @@ De verdragsluitende partijen erkennen dat elke Staat die lid wordt van de Europe
 
 De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de ondertekenende Staten in kennis van:
 
-- a). het nederleggen van iedere akte van bekrachtiging;
+- a) het nederleggen van iedere akte van bekrachtiging;
 
-- b). de datum van inwerkingtreding van dit Protocol;
+- b) de datum van inwerkingtreding van dit Protocol;
 
-- c). de ingevolge artikel 4, lid 3, ontvangen verklaringen.
+- c) de ingevolge artikel 4, lid 3, ontvangen verklaringen.
 
 ##### Artikel 11
 

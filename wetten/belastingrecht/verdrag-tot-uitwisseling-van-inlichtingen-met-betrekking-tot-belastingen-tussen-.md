@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tot uitwisseling van inlichtingen met betrekking tot belastingen tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en het Koninkrijk Spanje"
 identifier: "BWBV0003069"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-01-27"
-last_updated: "2010-01-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003069"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003315383"
-version_id: "10003345142"
-internal_id: "C10008429801"
-label_id: "10003301064"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003069/2010-01-27/0"
-intitule_bron: "Trb.2008-144"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-07-16"
-intitule_in_force: "2009-12-28"
-intitule_status: "goed"
-original_publication: "Trb.2008-144"
-original_published_date: "2008-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-144"
-entry_into_force_date: "2010-01-27"
-jci_1_3: "jci1.3:c:BWBV0003069&z=2010-01-27&g=2010-01-27"
-jci_1_0: "1.0:c:BWBV0003069&g=2010-01-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-01-27"
+publicatiedatum: 2010-01-27
+laatste_update: 2010-01-27
+status: geldig
+toestand: 2010-01-27
+bron: "https://wetten.overheid.nl/BWBV0003069"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tot uitwisseling van inlichtingen met betrekking tot belastingen tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en het Koninkrijk Spanje
 
-Het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen,
-
-en
-
-het Koninkrijk Spanje,
-
-geleid door de wens de uitwisseling van inlichtingen met betrekking tot belastingen te vergemakkelijken,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en het Koninkrijk Spanje, geleid door de wens de uitwisseling van inlichtingen met betrekking tot belastingen te vergemakkelijken, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
 
@@ -58,33 +31,33 @@ Een aangezochte Partij is niet verplicht inlichtingen te verstrekken die noch in
 
 - a. in Spanje:
 
-- –. de individuele inkomstenbelasting (Impuesto sobre la Renta de las Personas Fisicas);
+   - – de individuele inkomstenbelasting (Impuesto sobre la Renta de las Personas Fisicas);
 
-- –. de vennootschapsbelasting (Impuesto sobre Sociedades);
+   - – de vennootschapsbelasting (Impuesto sobre Sociedades);
 
-- –. de inkomstenbelasting voor niet-ingezetenen – (Impuesto sobre la Renta de No Residentes);
+   - – de inkomstenbelasting voor niet-ingezetenen – (Impuesto sobre la Renta de No Residentes);
 
-- –. de vermogensbelasting (Impuesto sobre el Patrimonio);
+   - – de vermogensbelasting (Impuesto sobre el Patrimonio);
 
-- –. successie- en schenkingsrechten (Impuesto sobre Sucesiones y Donaciones);
+   - – successie- en schenkingsrechten (Impuesto sobre Sucesiones y Donaciones);
 
-- –. belasting op de overdracht van vermogensbestanddelen en van de zegel- en registratierechten (Impuesto sobre Transmisiones Patrimoniales y Actos Juridicos Documentados); en
+   - – belasting op de overdracht van vermogensbestanddelen en van de zegel- en registratierechten (Impuesto sobre Transmisiones Patrimoniales y Actos Juridicos Documentados); en
 
-- –. de belasting toegevoegde waarde (Impuesto sobre el Valor Añadido);
+   - – de belasting toegevoegde waarde (Impuesto sobre el Valor Añadido);
 
 - b. op de Nederlandse Antillen:
 
-- –. de inkomstenbelasting;
+   - – de inkomstenbelasting;
 
-- –. de loonbelasting;
+   - – de loonbelasting;
 
-- –. de winstbelasting;
+   - – de winstbelasting;
 
-- –. de opcenten op de inkomsten- en winstbelasting;
+   - – de opcenten op de inkomsten- en winstbelasting;
 
-- –. de successierechten; en
+   - – de successierechten; en
 
-- –. de belasting op bedrijfsomzetten.
+   - – de belasting op bedrijfsomzetten.
 
 2. Indien de bevoegde autoriteiten van de Verdragsluitende Partijen zulks overeenkomen, is dit Verdrag ook van toepassing op alle in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Voorts kunnen de belastingen waarop dit Verdrag van toepassing is, in onderling overleg tussen de Verdragsluitende Partijen in de vorm van een briefwisseling worden uitgebreid of aangepast. De bevoegde autoriteiten van de Verdragsluitende Partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van inlichtingen waarop het Verdrag van toepassing is.
 
@@ -100,9 +73,9 @@ Een aangezochte Partij is niet verplicht inlichtingen te verstrekken die noch in
 
 - d. de uitdrukking „bevoegde autoriteit”:
 
-- i. wat betreft Spanje, de minister van Economische Zaken en Financiën of zijn bevoegde vertegenwoordiger;
+   - i. wat betreft Spanje, de minister van Economische Zaken en Financiën of zijn bevoegde vertegenwoordiger;
 
-- ii. wat de Nederlandse Antillen betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - ii. wat de Nederlandse Antillen betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - e. de uitdrukking „persoon”, een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
@@ -276,12 +249,12 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN in tweevoud te Madrid op 10 juni 2008, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
-**ten behoeve van de Nederlandse Antillen**
+*ten behoeve van de Nederlandse Antillen*
 
 ERSILIA DE LANNOOY
 
-**Voor het Koninkrijk Spanje**
+*Voor het Koninkrijk Spanje*
 
 MARÍA DOLORES BEATO BLANCO

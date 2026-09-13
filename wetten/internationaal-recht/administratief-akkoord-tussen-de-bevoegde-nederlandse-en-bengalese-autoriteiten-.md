@@ -1,46 +1,19 @@
 ---
 title: "Administratief Akkoord tussen de bevoegde Nederlandse en Bengalese autoriteiten inzake de uitvoering van het “Kusthia Target Group Project”"
 identifier: "BWBV0003294"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-01-30"
-last_updated: "1980-01-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003294"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003464163"
-version_id: "10003510842"
-internal_id: "C10006979881"
-label_id: "10003449814"
-dtd_version: "2.0"
-original_entry_into_force: "1980-01-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003294/1980-01-30/0"
-intitule_bron: "Trb.1980-77"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-05-28"
-intitule_in_force: "1980-05-28"
-intitule_status: "goed"
-original_publication: "Trb.1980-77"
-original_published_date: "1980-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-77"
-entry_into_force_date: "1980-01-30"
-jci_1_3: "jci1.3:c:BWBV0003294&z=1980-01-30&g=1980-01-30"
-jci_1_0: "1.0:c:BWBV0003294&g=1980-01-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-01-30"
+publicatiedatum: 1980-01-30
+laatste_update: 1980-01-30
+status: geldig
+toestand: 1980-01-30
+bron: "https://wetten.overheid.nl/BWBV0003294"
+opgehaald: 2026-09-13
 ---
+
 # Administratief Akkoord tussen de bevoegde Nederlandse en Bengalese autoriteiten inzake de uitvoering van het “Kusthia Target Group Project”
 
-The Netherlands Minister for Development Cooperation, being the Competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Netherlands party”, represented in this matter by the Charge d'Affaires a.i. of the Kingdom of the Netherlands at Dacca
-
-and
-
-the Government of the People's Republic of Bangladesh, represented by the Ministry of Finance, External Resources Division, being the Competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”,
-
-Having regard to the provisions of Article I of the Agreement on Technical Cooperation between the Kingdom of the Netherlands and the People's Republic of Bangladesh signed at Dacca on 19 May, 1977, hereinafter referred to as “the Agreement”,
-
-Have entered into the following Administrative Arrangement:
+*The Netherlands Minister for Development Cooperation, being the Competent Netherlands Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Netherlands party”, represented in this matter by the Charge d'Affaires a.i. of the Kingdom of the Netherlands at Dacca and the Government of the People's Republic of Bangladesh, represented by the Ministry of Finance, External Resources Division, being the Competent Bangladesh Authority for the purpose of this Administrative Arrangement, hereinafter referred to as “the Bangladesh Party”, Having regard to the provisions of Article I of the Agreement on Technical Cooperation between the Kingdom of the Netherlands and the People's Republic of Bangladesh signed at Dacca on 19 May, 1977, hereinafter referred to as “the Agreement”, Have entered into the following Administrative Arrangement:*
 
 ##### Article I. The Project
 
@@ -54,13 +27,13 @@ Have entered into the following Administrative Arrangement:
 
 1. As its contribution to the project the Netherlands Party undertakes:
 
-- –. to supply a team of qualified advisers for an assignment in Bangladesh and to bear all expenses incurred by the advisers and their families;
+- – to supply a team of qualified advisers for an assignment in Bangladesh and to bear all expenses incurred by the advisers and their families;
 
-- –. to provide equipment and bear the cost of its transportation (including insurance) to the most suitable port or airport in Bangladesh;
+- – to provide equipment and bear the cost of its transportation (including insurance) to the most suitable port or airport in Bangladesh;
 
-- –. to arrange and bear the cost of transport of the advisers within Bangladesh;
+- – to arrange and bear the cost of transport of the advisers within Bangladesh;
 
-- –. to provide, if necessary, technical support from the Netherlands.
+- – to provide, if necessary, technical support from the Netherlands.
 
 2. The value of the contribution by the Netherlands party shall not exceed 2.700.000,- guilders.
 
@@ -68,13 +41,13 @@ Have entered into the following Administrative Arrangement:
 
 As its contribution to the project the Bangladesh party undertakes:
 
-- –. to provide the advisers with a sufficient number of qualified counterparts and skilled and unskilled assistants and to bear the cost of their salaries, allowances, emoluments and other rights;
+- – to provide the advisers with a sufficient number of qualified counterparts and skilled and unskilled assistants and to bear the cost of their salaries, allowances, emoluments and other rights;
 
-- –. to provide fully equipped office accomodation;
+- – to provide fully equipped office accomodation;
 
-- –. to bear the cost of running and maintaining the offices together with the equipment supplied by the Netherlands;
+- – to bear the cost of running and maintaining the offices together with the equipment supplied by the Netherlands;
 
-- –. in general to take all measures which will facilitate cooperation between the parties.
+- – in general to take all measures which will facilitate cooperation between the parties.
 
 ##### Article IV. The Executive Authorities
 
@@ -138,10 +111,10 @@ Any dispute concerning the interpretation or implementation of this Administrati
 
 DONE at Dacca on the 30th of January 1980, in two originals in English.
 
-**For the Netherlands Minister for Development Cooperation:**
+*For the Netherlands Minister for Development Cooperation:*
 
 (sd.) T.F.THE
 
-**For and on behalf of the Government of the People's Republic of Bangladesh:**
+*For and on behalf of the Government of the People's Republic of Bangladesh:*
 
 (sd.) M. SAADAT HUSSAIN

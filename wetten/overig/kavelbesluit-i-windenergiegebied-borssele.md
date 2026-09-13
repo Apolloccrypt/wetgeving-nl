@@ -8,7 +8,7 @@ laatste_update: 2026-01-31
 status: geldig
 toestand: 2026-01-31
 bron: "https://wetten.overheid.nl/BWBR0037794"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Kavelbesluit I windenergiegebied Borssele

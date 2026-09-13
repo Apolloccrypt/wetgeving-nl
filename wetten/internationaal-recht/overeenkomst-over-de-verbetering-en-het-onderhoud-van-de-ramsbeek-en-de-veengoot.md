@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst over de verbetering en het onderhoud van de Ramsbeek en de Veengoot"
 identifier: "BWBV0003896"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-10-01"
-last_updated: "1975-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003896"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003761593"
-version_id: "10003826072"
-internal_id: "C10006983131"
-label_id: "10003746494"
-dtd_version: "2.0"
-original_entry_into_force: "1975-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003896/1975-10-01/0"
-intitule_bron: "Trb.1974-33"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-03-13"
-intitule_in_force: "1976-03-03"
-intitule_status: "goed"
-original_publication: "Trb.1974-33"
-original_published_date: "1974-03-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-33"
-entry_into_force_date: "1975-10-01"
-jci_1_3: "jci1.3:c:BWBV0003896&z=1975-10-01&g=1975-10-01"
-jci_1_0: "1.0:c:BWBV0003896&g=1975-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-10-01"
+publicatiedatum: 1975-10-01
+laatste_update: 1975-10-01
+status: geldig
+toestand: 1975-10-01
+bron: "https://wetten.overheid.nl/BWBV0003896"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst over de verbetering en het onderhoud van de Ramsbeek en de Veengoot
 
-De Kreis Ahaus, hierna Kreis genoemd,
-
-vertegenwoordigd door de Oberkreisdirektor Rudolph, en Kreisdirektor Rack
-
-en
-
-het Waterschap van de Berkel, hierna waterschap genoemd,
-
-vertegenwoordigd door de watergraaf Ir. J. Baas,
-
-sluiten overeenkomstig hoofdstuk 4, artikel 59, lid 2 van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:
+*De Kreis Ahaus, hierna Kreis genoemd, vertegenwoordigd door de Oberkreisdirektor Rudolph, en Kreisdirektor Rack en het Waterschap van de Berkel, hierna waterschap genoemd, vertegenwoordigd door de watergraaf Ir. J. Baas, sluiten overeenkomstig hoofdstuk 4, artikel 59, lid 2 van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -70,14 +41,14 @@ Veranderingen van de overeenkomst behoeven die goedkeuring van de regeringen van
 
 GEDAAN te Ahaus/Lochem, de 8ste juni 1973 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**De Watergraaf,**
+*De Watergraaf,*
 
 (w.g.) J. BAAS
 
-**De Oberkreisdirektor,**
+*De Oberkreisdirektor,*
 
 (w.g.) RUDOLPH
 
-**Kreisdirektor,**
+*Kreisdirektor,*
 
 (w.g.) RACK

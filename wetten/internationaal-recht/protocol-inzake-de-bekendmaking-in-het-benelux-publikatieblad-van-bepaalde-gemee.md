@@ -1,60 +1,27 @@
 ---
 title: "Protocol inzake de bekendmaking in het Benelux-Publikatieblad van bepaalde gemeenschappelijke rechtsregels voor de uitleg waarvan het Benelux-Gerechtshof bevoegd is"
 identifier: "BWBV0003524"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-06-01"
-last_updated: "1982-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003524"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003573423"
-version_id: "10003630092"
-internal_id: "C10006980011"
-label_id: "10003558794"
-dtd_version: "2.0"
-original_entry_into_force: "1982-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003524/1982-06-01/0"
-intitule_bron: "Trb.1980-43"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-03-26"
-intitule_in_force: "1982-06-08"
-intitule_status: "goed"
-original_publication: "Trb.1980-43"
-original_published_date: "1980-03-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-43"
-entry_into_force_date: "1982-06-01"
-jci_1_3: "jci1.3:c:BWBV0003524&z=1982-06-01&g=1982-06-01"
-jci_1_0: "1.0:c:BWBV0003524&g=1982-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1982-06-01"
+publicatiedatum: 1982-06-01
+laatste_update: 1982-06-01
+status: geldig
+toestand: 1982-06-01
+bron: "https://wetten.overheid.nl/BWBV0003524"
+opgehaald: 2026-09-13
 ---
+
 # Protocol inzake de bekendmaking in het Benelux-Publikatieblad van bepaalde gemeenschappelijke rechtsregels voor de uitleg waarvan het Benelux-Gerechtshof bevoegd is
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Gelet op het [Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117), ondertekend te Brussel op 31 maart 1965, alsmede op het op 11 mei 1974 te Brussel ondertekende [Tweede Protocol ter uitvoering van artikel 1, lid 2, van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003933),
-
-Verlangende de bekendmaking van de beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie, waarvan de bepalingen zijn aangewezen als gemeenschappelijke rechtsregels voor de toepassing van het Verdrag, voor de drie landen te vergemakkelijken en de kosten daarvan te verminderen,
-
-Overwegende dat daartoe dient te worden voorzien in een andere wijze van bekendmaking dan die, welke voor die beschikkingen en aanbevelingen vereist is op grond van [artikel 1 van het Tweede Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003933&artikel=1) en van [artikel 1, lid 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1),
-
-Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 26 oktober 1979,
-
-Hebben besloten tot dat doel een Protocol te sluiten en zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Gelet op het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, ondertekend te Brussel op 31 maart 1965, alsmede op het op 11 mei 1974 te Brussel ondertekende Tweede Protocol ter uitvoering van artikel 1, lid 2, van dat Verdrag, Verlangende de bekendmaking van de beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie, waarvan de bepalingen zijn aangewezen als gemeenschappelijke rechtsregels voor de toepassing van het Verdrag, voor de drie landen te vergemakkelijken en de kosten daarvan te verminderen, Overwegende dat daartoe dient te worden voorzien in een andere wijze van bekendmaking dan die, welke voor die beschikkingen en aanbevelingen vereist is op grond van artikel 1 van het Tweede Protocol en van artikel 1, lid 4, van het Verdrag, Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 26 oktober 1979, Hebben besloten tot dat doel een Protocol te sluiten en zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel 1
 
 1. De bekendmaking in het Benelux-Publikatieblad van de beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie, welke als gemeenschappelijke rechtsregels van de drie landen zijn aangewezen door:
 
-- a). het op 11 mei 1974 te Brussel ondertekende [Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0003933),
+- a) het op 11 mei 1974 te Brussel ondertekende [Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0003933),
 
-- b). de beschikkingen van het Comité van Ministers van de Benelux Economische Unie, genomen ter uitvoering van [artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), ondertekend te Brussel op 31 maart 1965, geldt als officiële bekendmaking in België, in Luxemburg en in Nederland.
+- b) de beschikkingen van het Comité van Ministers van de Benelux Economische Unie, genomen ter uitvoering van [artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1), ondertekend te Brussel op 31 maart 1965, geldt als officiële bekendmaking in België, in Luxemburg en in Nederland.
 
 2. De Secretaris-Generaal van de Benelux Economische Unie draagt onverwijld zorg voor de bekendmaking in het Benelux-Publikatieblad van de als gemeenschappelijke rechtsregels aangewezen beschikkingen en aanbevelingen, bedoeld in het eerste lid.
 

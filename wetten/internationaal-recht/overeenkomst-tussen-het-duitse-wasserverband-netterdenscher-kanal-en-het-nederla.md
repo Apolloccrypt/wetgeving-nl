@@ -1,60 +1,19 @@
 ---
-title: "Overeenkomst tussen het Duitse Wasserverband \"Netterden'scher Kanal\" en het Nederlandse Polderdistrict \"Oude Rijn\" inzake het gemaal Kandia"
+title: "Overeenkomst tussen het Duitse Wasserverband 'Netterden'scher Kanal' en het Nederlandse Polderdistrict 'Oude Rijn' inzake het gemaal Kandia"
 identifier: "BWBV0003826"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-10-15"
-last_updated: "1975-10-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003826"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003735523"
-version_id: "10003797632"
-internal_id: "C10006983861"
-label_id: "10003720584"
-dtd_version: "2.0"
-original_entry_into_force: "1975-10-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003826/1975-10-15/0"
-intitule_bron: "Trb.1973-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-02-06"
-intitule_in_force: "1976-03-03"
-intitule_status: "goed"
-original_publication: "Trb.1973-12"
-original_published_date: "1973-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-12"
-entry_into_force_date: "1975-10-15"
-jci_1_3: "jci1.3:c:BWBV0003826&z=1975-10-15&g=1975-10-15"
-jci_1_0: "1.0:c:BWBV0003826&g=1975-10-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-10-15"
+publicatiedatum: 1975-10-15
+laatste_update: 1975-10-15
+status: geldig
+toestand: 1975-10-15
+bron: "https://wetten.overheid.nl/BWBV0003826"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Duitse Wasserverband "Netterden'scher Kanal" en het Nederlandse Polderdistrict "Oude Rijn" inzake het gemaal Kandia
 
-Het Wasserverband „Netterden'scher Kanal” (hierna te noemen „het Wasserverband”), vertegenwoordigd door de voorzitter K. F. Lensing en het Polderdistrict „Oude Rijn” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de dijkgraaf J. C. Daams gaan van de volgende overwegingen uit:
-
-Deze overeenkomst heeft betrekking op het stroomgebied van de watergang, die „Hettergraaf”, „Grenskanaal”, „Wild” en „Oude Rijn” genoemd wordt en uitmondt in het Pannerdensch Kanaal; de overeenkomst betreft derhalve de gebieden van de Partijen voor zover die tot het stroomgebied van de Oude Rijn behoren.
-
-Om de thans bij hoge waterstanden van het Pannerdensch Kanaal optredende afwateringsmoeilijkheden en overstromingen tegen te gaan, achten de Partijen het noodzakelijk de afwatering - in het bijzonder bij hoge waterstanden - door de bouw van een gemaal aan de monding van de Oude Rijn te verbeteren.
-
-Dit gemaal wordt door het Polderdistrict gebouwd, bediend, beheerd en onderhouden, alsmede zonodig uitgebreid en verbeterd; de andere Partij draagt in de daardoor ontstane kosten bij naar rato van haar aandeel in het gezamenlijke stroomgebied.
-
-De grootte van het stroomgebied bedraagt:
-
-a.
-
-op Duits gebied.............
-
-3.786 ha.
-
-b.
-
-op Nederlands gebied...........
-
-5.575 ha.
-
-Dienovereenkomstig sluiten het Wasserverband en het Polderdistrict, met inachtneming van hoofdstuk 4, artikel 59, van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.
+*Het Wasserverband „Netterden'scher Kanal” (hierna te noemen „het Wasserverband”), vertegenwoordigd door de voorzitter K. F. Lensing en het Polderdistrict „Oude Rijn” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de dijkgraaf J. C. Daams gaan van de volgende overwegingen uit: 1. Deze overeenkomst heeft betrekking op het stroomgebied van de watergang, die „Hettergraaf”, „Grenskanaal”, „Wild” en „Oude Rijn” genoemd wordt en uitmondt in het Pannerdensch Kanaal; de overeenkomst betreft derhalve de gebieden van de Partijen voor zover die tot het stroomgebied van de Oude Rijn behoren. 2. Om de thans bij hoge waterstanden van het Pannerdensch Kanaal optredende afwateringsmoeilijkheden en overstromingen tegen te gaan, achten de Partijen het noodzakelijk de afwatering - in het bijzonder bij hoge waterstanden - door de bouw van een gemaal aan de monding van de Oude Rijn te verbeteren. 3. Dit gemaal wordt door het Polderdistrict gebouwd, bediend, beheerd en onderhouden, alsmede zonodig uitgebreid en verbeterd; de andere Partij draagt in de daardoor ontstane kosten bij naar rato van haar aandeel in het gezamenlijke stroomgebied. 4. De grootte van het stroomgebied bedraagt: a. op Duits gebied............. 3.786 ha. b. op Nederlands gebied........... 5.575 ha. Dienovereenkomstig sluiten het Wasserverband en het Polderdistrict, met inachtneming van hoofdstuk 4, artikel 59, van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.*
 
 ##### Artikel 1
 
@@ -168,10 +127,10 @@ Deze overeenkomst behoeft de goedkeuring van de Regering van het Koninkrijk der 
 
 GEDAAN te Herwen de 3de december 1971 in viervoud, elk in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk gezaghebbend.
 
-**De dijkgraaf van het polderdistrict Oude Rijn**
+*De dijkgraaf van het polderdistrict Oude Rijn*
 
 (w.g.) J. C. DAAMS
 
-**De voorzitter van het Wasserverband „Netterden'scher Kanal”**
+*De voorzitter van het Wasserverband „Netterden'scher Kanal”*
 
 (w.g.) K. F. LENSING

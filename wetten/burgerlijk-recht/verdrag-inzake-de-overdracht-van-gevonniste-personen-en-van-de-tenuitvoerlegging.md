@@ -1,46 +1,19 @@
 ---
 title: "Verdrag inzake de overdracht van gevonniste personen en van de tenuitvoerlegging van veroordelingen opgelegd bij vonnissen tussen het Koninkrijk der Nederlanden en de Federale Republiek Brazilië"
 identifier: "BWBV0003113"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-08-01"
-last_updated: "2011-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003113"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003335993"
-version_id: "10003366072"
-internal_id: "C10007292531"
-label_id: "10003321694"
-dtd_version: "2.0"
-original_entry_into_force: "2011-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003113/2011-08-01/0"
-intitule_bron: "Trb.2009-25"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-02-27"
-intitule_in_force: "2011-08-18"
-intitule_status: "goed"
-original_publication: "Trb.2009-25"
-original_published_date: "2009-02-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-25"
-entry_into_force_date: "2011-08-01"
-jci_1_3: "jci1.3:c:BWBV0003113&z=2011-08-01&g=2011-08-01"
-jci_1_0: "1.0:c:BWBV0003113&g=2011-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-08-01"
+publicatiedatum: 2011-08-01
+laatste_update: 2011-08-01
+status: geldig
+toestand: 2011-08-01
+bron: "https://wetten.overheid.nl/BWBV0003113"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake de overdracht van gevonniste personen en van de tenuitvoerlegging van veroordelingen opgelegd bij vonnissen tussen het Koninkrijk der Nederlanden en de Federale Republiek Brazilië
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Federale Republiek Brazilië (hierna te noemen de Partijen);
-
-Geleid door de wens de internationale samenwerking op het gebied van het strafrecht te ontwikkelen en de mogelijkheid te scheppen dat onderdanen van een van de Partijen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit hun veroordelingen binnen hun eigen samenleving ondergaan;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Federale Republiek Brazilië (hierna te noemen de Partijen); Geleid door de wens de internationale samenwerking op het gebied van het strafrecht te ontwikkelen en de mogelijkheid te scheppen dat onderdanen van een van de Partijen die gedetineerd zijn als gevolg van het plegen van een strafbaar feit hun veroordelingen binnen hun eigen samenleving ondergaan; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Begripsomschrijvingen
 
@@ -54,17 +27,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d. „de Staat van tenuitvoerlegging”: de Staat waarnaar de gevonniste persoon: Voor wat het Koninkrijk der Nederlanden betreft wordt onder de Staat van tenuitvoerlegging verstaan, Nederland, de Nederlandse Antillen, of Aruba, al naargelang het deel van het Koninkrijk waar de gevonniste persoon zijn hoofdverblijf heeft, tenzij dit Verdrag anders bepaalt;
 
-- i. kan worden of reeds is overgebracht teneinde zijn veroordeling te ondergaan, of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
+   - i. kan worden of reeds is overgebracht teneinde zijn veroordeling te ondergaan, of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
 
-- ii. is gevlucht of op andere wijze is teruggekeerd wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
+   - ii. is gevlucht of op andere wijze is teruggekeerd wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
 
 - e. „onderdaan”: met betrekking tot de Federale Republiek Brazilië een onderdaan zoals bepaald door de grondwet van Brazilië en met betrekking tot het Koninkrijk der Nederlanden iedere persoon die krachtens de wetgeving van het Koninkrijk der Nederlanden de Nederlandse nationaliteit bezit;
 
 - f. „gevonniste persoon”: een onderdaan die is veroordeeld bij onherroepelijk vonnis door een rechter of een tribunaal van een van de Partijen en:
 
-- i. zijn veroordeling ondergaat in de Staat van veroordeling; of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
+   - i. zijn veroordeling ondergaat in de Staat van veroordeling; of, voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0003113&artikel=14&z=2011-08-01&g=2011-08-01),
 
-- ii. is gevlucht of op andere wijze is teruggekeerd naar de Staat van tenuitvoerlegging wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
+   - ii. is gevlucht of op andere wijze is teruggekeerd naar de Staat van tenuitvoerlegging wegens een tegen hem of haar lopende strafvervolging in de Staat van veroordeling of, nadat een veroordeling heeft plaatsgevonden, teneinde zich te onttrekken aan tenuitvoerlegging of verdere tenuitvoerlegging van de veroordeling in die Staat.
 
 - g. „ministerie van Justitie”: in de Federale Republiek Brazilië, het ministerie van Justitie en in het Koninkrijk der Nederlanden, het ministerie van Justitie van Nederland, het ministerie van Justitie van de Nederlandse Antillen of het ministerie van Justitie van Aruba, al naargelang het deel van het Koninkrijk waar de gevonniste persoon zijn hoofdverblijf heeft of waar het vonnis wordt gewezen.
 
@@ -220,10 +193,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Den Haag, op 23 januari 2009, in de Nederlandse, de Portugese en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. Ingeval de teksten verschillend kunnen worden uitgelegd, is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 ERNST HIRSCH BALLIN
 
-**Voor de Federale Republiek Brazilië,**
+*Voor de Federale Republiek Brazilië,*
 
 J. A. DENOT MEDEIROS

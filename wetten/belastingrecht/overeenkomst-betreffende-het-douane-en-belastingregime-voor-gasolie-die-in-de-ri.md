@@ -1,92 +1,65 @@
 ---
 title: "Overeenkomst betreffende het douane- en belastingregime voor gasolie, die in de Rijnvaart als boordvoorraad wordt verbruikt"
 identifier: "BWBV0003276"
-country: "nl"
-rank: "verdrag"
-publication_date: "1954-01-28"
-last_updated: "1954-01-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003276"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003456803"
-version_id: "10003503452"
-internal_id: "C10006990681"
-label_id: "10003442374"
-dtd_version: "2.0"
-original_entry_into_force: "1954-01-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003276/1954-01-28/0"
-intitule_bron: "Trb.1952-104"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-09-03"
-intitule_in_force: "1954-01-26"
-intitule_status: "goed"
-original_publication: "Trb.1952-104"
-original_published_date: "1952-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-104"
-entry_into_force_date: "1954-01-28"
-jci_1_3: "jci1.3:c:BWBV0003276&z=1954-01-28&g=1954-01-28"
-jci_1_0: "1.0:c:BWBV0003276&g=1954-01-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1954-01-28"
+publicatiedatum: 1954-01-28
+laatste_update: 1954-01-28
+status: geldig
+toestand: 1954-01-28
+bron: "https://wetten.overheid.nl/BWBV0003276"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende het douane- en belastingregime voor gasolie, die in de Rijnvaart als boordvoorraad wordt verbruikt
 
-Straatsburg, 16 Mei 1952.
+*Strasbourg, le 16 mai 1952 RÉSOLUTION Pour remédier aux divergences de vues relatives au régime douanier et fiscal du gasoil consommé comme avitaillement de bord tel qu'il résulte de la Convention revisée pour la navigation du Rhin du 17 octobre 1868, et afin de rendre ce régime uniforme, En vue de faciliter l'exploitation de la navigation rhénane, de favoriser son développement technique et économique et de contribuer ainsi à la coopération internationale, La Commission Centrale pour la Navigation du Rhin a pris la résolution suivante:*
 
-**RESOLUTIE**
+### Accord relatif au régime douanier et fiscal du gasoil consommé comme avitaillement de bord dans la navigation rhénane
 
-Ter overbrugging van de meningsverschillen met betrekking tot het douane- en belastingregime ten aanzien van gasolie, die als boordvoorraad wordt verbruikt, zoals dat volgt uit de [herziene Akte van Mannheim van 17 October 1868](https://wetten.overheid.nl/jci1.3:c:BWBV0003363), en met het doel dat regime gelijkvormig te maken,
+##### Article 1
 
-Teneinde de uitoefening van de Rijnvaart te vergemakkelijken, haar technische en economische ontwikkeling te bevorderen en op deze wijze bij te dragen tot internationale samenwerking,
+Les Etats riverains du Rhin et la Belgique ne percevront ni droit de douane ni autres taxes sur le gasoil consommé régulièrement comme avitaillement des bateaux naviguant sur le Rhin et ses affluents ou sur les voies d'eau visées à l'[article 2 de l'Acte de Mannheim](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=2).
 
-Heeft de Centrale Commissie het volgende besluit genomen:
+Cette exemption s'applique:
 
-### Overeenkomst betreffende het douane- en belastingregime voor gasolie, die in de Rijnvaart als boordvoorraad wordt verbruikt
+- a) au gasoil importé par le Rhin à bord de ces bateaux comme avitaillement de bord;
 
-##### Artikel 1
+- b) au gasoil soute dans des dépôts agréés, approvisionnés par des importations étrangères sous 'douane;
 
-De Rijnoeverstaten en België zullen geen douanerechten noch andere belastingen heffen op gasolie, welke op normale wijze wordt verbruikt aan boord van vaartuigen, die de Rijn en zijn nevenrivieren of de wateren, welke bedoeld zijn in [artikel 2 van de Akte van Mannheim](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=2), bevaren.
+- c) au gasoil en provenance de raffineries indigènes soute dans des dépôts agréés, étant entendu que, dans ce cas, les Etats contractants ne s'engagent pas à exempter le gasoil des taxes qui frappent en principe toutes les marchandises et les services à l'intérieur du pays.
 
-Deze vrijstelling is van toepassing:
+La Belgique sera liée par l'accord en ce qui concerne l'Escaut jusqu'à Anvers et le Canal de Terneuzen jusqu'à Gand.
 
-- a). op gasolie, welke als boordvoorraad aan boord van deze schepen lang de Rijn wordt ingevoerd;
+Les modalités de contrôle de la consommation du gasoil à bord des bâtiments et les conditions d'acquisition de ce gasoil auprès des dépôts agréés sont soumises aux dispositions applicables dans chaque Etat, sans discrimination de pavillon.
 
-- b). op gasolie, betrokken uit goedgekeurde opslagplaatsen, welke door invoer uit het buitenland onder douaneverband zijn bevoorraad;
+##### Article 2
 
-- c). op gasolie, afkomstig van binnenlandse raffinaderijen en betrokken uit goedgekeurde opslagplaatsen, met dien verstande, dat in dat geval de overeenkomstsluitende Staten zich niet verbinden de gasolie vrij te stellen van de belastingen, waaraan in beginsel alle goederen en diensten in het binnenland onderworpen zijn.
+Les Etats riverains du Rhin et la Belgique ne prendront aucune mesure et n'en laisseront prendre aucune, dans le cadre de leur législation, qui aurait pour but ou qui pourrait avoir comme conséquence que le gasoil destiné à la navigation rhénane soit vendu à des prix supérieurs ou inférieurs à ceux qui s'établissent entre partenaires indépendants suivant les lois du marché. La formation des prix de ce gasoil ne doit pas être influencée par des mesures discriminatoires ou préférentielles.
 
-België zal door deze overeenkomst gebonden zijn voor wat betreft de Schelde tot Antwerpen en het Kanaal Terneuzen tot Gent.
+##### Article 3
 
-De wijze waarop de contrôle op het verbruik van gasolie aan boord van de vaartuigen wordt uitgeoefend en de voorwaarden voor het betrekken van die gasolie uit goedgekeurde opslagplaatsen, zijn onderworpen aan de in elke Staat geldende voorschriften, zonder onderscheid van vlag.
+Les Etats riverains du Rhin et la Belgique se prêteront mutuellement assistance pour assurer le ravitaillement de la navigation rhénane internationale en gasoil, selon les stipulations du présent accord.
 
-##### Artikel 2
+##### Article 4
 
-De Rijnoeverstaten en België zullen in het kader van hun wetgeving geen enkele maatregel treffen noch toelaten dat een maatregel genomen wordt, die tot doel heeft of tot gevolg zou kunnen hebben, dat de voor de Rijnvaart bestemde gasolie wordt verkocht tegen hogere of lagere prijzen, dan die welke zich tussen onafhankelijke partijen volgens de wetten van de markt vormen. De prijsvorming van deze gasolie mag niet worden beïnvloed door discriminerende of voorkeursmaatregelen.
+Les questions qui se poseraient au sujet de l'interprétation ou de l'application du présent accord seront soumises à la Commission Centrale pour la Navigation du Rhin.
 
-##### Artikel 3
+##### Article 5
 
-De Rijnoeverstaten en België zullen elkander wederzijds bijstand verlenen om de voorziening van de internationale Rijnvaart van gasolie volgens de bepalingen van deze overeenkomst te verzekeren.
+Le présent accord sera ratifié par les Etats riverains du Rhin et la Belgique aussitôt que possible.
 
-##### Artikel 4
+Il entrera en vigueur 30 jours après la date de la clôture du procèsverbal de dépôt des ratifications au Secrétariat de la Commission Centrale pour la Navigation du Rhin.
 
-De vragen, welke zich met betrekking tot de uitlegging of de toepassing van deze overeenkomst mochten voordoen, zullen aan de Centrale Commissie voor de Rijnvaart worden voorgelegd.
+##### Article 6
 
-##### Artikel 5
+Le présent accord pourra être dénoncé par chacun des Etats contractants moyennant préavis d'un an à partir du 1er juillet 1956.
 
-Deze overeenkomst zal zo spoedig mogelijk door de Rijnoeverstaten en België worden bekrachtigd.
+Toutefois, si la Commission Centrale pour la Navigation du Rhin, sur la plainte d'un Gouvernement, venait à constater, à la majorité des voix, une infraction grave aux stipulations des articles un ou deux du présent accord, celui-ci pourrait être exceptionnellement dénoncé sous préavis d'un mois endéans les trente jours de la décision de la Commission Centrale, à moins qu'il n'ait été mis fin à l'infraction dans ce délai de trente jours.
 
-Zij zal in werking treden 30 dagen na de dag, waarop het procesverbaal van nederlegging van de akten van bekrachtiging bij het Secretariaat van de Centrale Commissie voor de Rijnvaart is gesloten.
+L'accord pourrait également être dénoncé sous préavis d'un mois au cas où la Commission Centrale n'aurait pas statué sur la plainte dans le délai d'un mois à compter de son dépôt, à moins qu'il n'ait été mis fin à l'infraction dans ce délai.
 
-##### Artikel 6
-
-Deze overeenkomst zal met ingang van 1 Juli 1956 door elk der overeenkomstsluitende Staten kunnen worden opgezegd met inachtneming van een opzeggingstermijn van één jaar.
-
-Indien evenwel de Centrale Commissie voor de Rijnvaart, op een klacht van een Regering, met een meerderheid van stemmen een ernstige inbreuk op de bepalingen van de artikelen 1 of 2 van deze overeenkomst zou vaststellen, kan deze overeenkomst, bij wijze van uitzondering binnen dertig dagen na de beslissing van de Centrale Commissie worden opgezegd, met inachtneming van een opzeggingstermijn van één maand, tenzij binnen die termijn van dertig dagen een einde aan de inbreuk is gemaakt.
-
-Deze overeenkomst zal eveneens met een opzeggingstermijn van een maand kunnen worden opgezegd, indien de Centrale Commissie binnen een maand nadat een klacht bij haar is neergelegd daarop nog geen beslissing heeft genomen, tenzij binnen die termijn een einde aan de inbreuk is gemaakt.
-
-De eventuele opzeggingen van deze overeenkomst moeten ter kennis van het Secretariaat van de Centrale Commissie voor de Rijnvaart worden gebracht.
+Les dénonciations éventuelles du présent accord devront être notifiées au Secrétariat de la Commission Centrale pour la Navigation du Rhin.
 
 Le Secrétaire Général:
 

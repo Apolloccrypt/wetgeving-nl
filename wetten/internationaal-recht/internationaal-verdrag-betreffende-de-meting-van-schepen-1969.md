@@ -1,412 +1,251 @@
 ---
 title: "Internationaal Verdrag betreffende de meting van schepen, 1969"
 identifier: "BWBV0003245"
-country: "nl"
-rank: "verdrag"
-publication_date: "2017-02-28"
-last_updated: "2017-02-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003245"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003426023"
-version_id: "10003471552"
-internal_id: "C10006983581"
-label_id: "10003412174"
-dtd_version: "2.0"
-original_entry_into_force: "1982-07-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003245/2017-02-28/0"
-intitule_bron: "Trb.1970-122"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-07-31"
-intitule_in_force: "1981-07-10"
-intitule_status: "goed"
-original_publication: "Trb.1970-122"
-original_published_date: "1970-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-122"
-entry_into_force_date: "1982-07-18"
-jci_1_3: "jci1.3:c:BWBV0003245&z=2017-02-28&g=2017-02-28"
-jci_1_0: "1.0:c:BWBV0003245&g=2017-02-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1982-07-18"
+publicatiedatum: 1982-07-18
+laatste_update: 2017-02-28
+status: geldig
+toestand: 2017-02-28
+bron: "https://wetten.overheid.nl/BWBV0003245"
+opgehaald: 2026-09-13
 ---
+
 # Internationaal Verdrag betreffende de meting van schepen, 1969
 
-De Verdragsluitende Regeringen,
+*The Contracting Governments, Desiring to establish uniform principles and rules with respect to the determination of tonnage of ships engaged on international voyages; Considering that this end may best be achieved by the conclusion of a Convention; Have agreed as follows:*
 
-Verlangende eenvormige beginselen en regels vast te stellen met betrekking tot het bepalen van de tonnage van schepen, die internationale reizen maken;
+##### Article 1. General Obligation under the Convention
 
-Overwegende dat dit doel het best kan worden bereikt door het sluiten van een Verdrag,
+The Contracting Governments undertake to give effect to the provisions of the present Convention and the Annexes hereto which shall constitute an integral part of the present Convention. Every reference to the present Convention constitutes at the same time a reference to the Annexes.
 
-Zijn overeengekomen als volgt:
+##### Article 2. Definitions
 
-##### Artikel 1. Algemene verplichting krachtens het Verdrag
+For the purpose of the present Convention, unless expressly provided otherwise:
 
-De Verdragsluitende Regeringen verbinden zich uitvoering te geven aan de bepalingen van dit Verdrag en van de daarbij behorende Bijlagen die geacht worden een integrerend deel te vormen van dit Verdrag. Elke verwijzing naar dit Verdrag sluit een gelijktijdige verwijzing naar de Bijlagen in zich.
+- 1. “Regulations” means the Regulations annexed to the present Convention;
 
-##### Artikel 2. Begripsomschrijvingen
+- 2. “Administration” means the Government of the State whose flag the ship is flying;
 
-Voor de toepassing van dit Verdrag wordt, tenzij uitdrukkelijk anders is bepaald, verstaan onder:
+- 3. “international voyage” means a sea voyage from a country to which the present Convention applies to a port outside such country, or conversely. For this purpose, every territory for the international relations of which a Contracting Government is responsible or for which the United Nations are the administering authority is regarded as a separate country;
 
-- (1). „Voorschriften”: de Voorschriften opgenomen in de bijlagen behorende bij dit Verdrag;
+- 4. “gross tonnage” means the measure of the overall size of a ship determined in accordance with the provisions of the present Convention;
 
-- (2). „Administratie”: de Regering van de Staat wiens vlag het schip voert;
+- 5. “net tonnage” means the measure of the useful capacity of a ship determined in accordance with the provisions of the present Convention;
 
-- (3). „internationale reis”: een zeereis van een land waarop dit Verdrag van toepassing is, naar een buiten dat land gelegen haven of omgekeerd. Te dien einde wordt elk gebied voor welks internationale betrekkingen een Verdragsluitende Regering verantwoordelijk is of waarover de Verenigde Naties als gezagsorgaan het beheer uitoefenen, als een afzonderlijk land beschouwd;
+- 6. “new ship” means a ship the keel of which is laid, or which is at a similar stage of construction, on or after the date of coming into force of the present Convention;
 
-- (4). „bruto-tonnage”: de maat van de totale inhoud van een schip vastgesteld overeenkomstig de bepalingen van dit Verdrag;
+- 7. “existing ship” means a ship which is not a new ship;
 
-- (5). „netto-tonnage”: de maat van de nuttige capaciteit van een schip vastgesteld overeenkomstig de bepalingen van dit Verdrag;
+- 8. “length” means 96 per cent of the total length on a waterline at 85 per cent of the least moulded depth measured from the top of the keel, or the length from the fore side of the stem to the axis of the rudder stock on that waterline, if that be greater. In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline;
 
-- (6). „nieuw schip”: een schip waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium van aanbouw bevindt op of na de datum van inwerkingtreding van dit Verdrag;
+- 9. “Organization” means the Inter-Governmental Maritime Consultative Organization.
 
-- (7). „bestaand schip”: een schip dat niet is een nieuw schip;
+##### Article 3. Application
 
-- (8). „lengte”: 96 procent van de lengte van de lastlijn op 85 procent van de kleinste holte naar de mal gemeten vanaf de bovenzijde van de kielplaat, dan wel de lengte van de voorzijde van de voorsteven tot aan de hartlijn van de roerkoning op deze lastlijn gemeten, indien deze laatste lengte groter is. Bij schepen die met stuurlast zijn ontworpen moet de lastlijn waarop deze lengte wordt gemeten, evenwijdig aan de constructiewaterlijn worden genomen.
+1. The present Convention shall apply to the following ships engaged on international voyages:
 
-- (9). „Organisatie”: de Intergouvernementele Maritieme Consultatieve Organisatie.
+- a. ships registered in countries the Governments of which are Contracting Governments;
 
-##### Artikel 3. Toepasselijkheid
+- b. ships registered in territories to which the present Convention is extended under [Article 20](https://wetten.overheid.nl/BWBV0003245); and
 
-(1). Dit Verdrag is van toepassing op de volgende schepen, die internationale reizen maken:
+- c. unregistered ships flying the flag of a State, the Government of which is a Contracting Government.
 
-- (a). schepen die zijn geregistreerd in landen waarvan de Regering een Verdragsluitende Regering is;
+2. The present Convention shall apply to:
 
-- (b). schepen die zijn geregistreerd in gebieden waarop dit Verdrag krachtens [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=20&z=2017-02-28&g=2017-02-28) eveneens van toepassing is;
+- a. new ships;
 
-- (c). niet-geregistreerde schepen die de vlag voeren van een Staat waarvan de Regering een Verdragsluitende Regering is.
+- b. existing ships which undergo alterations or modifications which the Administration deems to be a substantial variation in their existing gross tonnage;
 
-(2). Dit Verdrag is van toepassing op:
+- c. existing ships if the owner so requests; and
 
-- (a). nieuwe schepen;
+- d. all existing ships, twelve years after the date on which the Convention comes into force, except that such ships, apart from those mentioned in *b* and *c* of this paragraph, shall retain their then existing tonnages for the purpose of the application to them of relevant requirements under other existing International Conventions.
 
-- (b). bestaande schepen die veranderingen of wijzigingen ondergaan welke door de Administratie worden geacht een aanzienlijke afwijking te vormen van hun bestaande brutotonnage;
+3. Existing ships to which the present Convention has been applied in accordance with sub-paragraph 2 *c* of this Article shall not subsequently have their tonnages determined in accordance with the requirements which the Administration applied to ships on international voyages prior to the coming into force of the present Convention.
 
-- (c). bestaande schepen, indien de eigenaar zulks verlangt; en
+##### Article 4. Exceptions
 
-- (d). alle bestaande schepen, twaalf jaar na de datum van inwerkingtreding van dit Verdrag, met dien verstande dat deze schepen, met uitzondering van de in de alinea's (b) en (c) van dit lid bedoelde, hun alsdan bestaande tonnages behouden voor de toepassing van de daarmee verband houdende bepalingen van andere bestaande internationale verdragen.
+1. The present Convention shall not apply to:
 
-(3). Van bestaande schepen waarop dit Verdrag overeenkomstig het bepaalde onder (c) van het tweede lid van dit artikel is toegepast, kunnen de tonnages vervolgens niet worden vastgesteld overeenkomstig de bepalingen die door de Administratie op schepen die internationale reizen maken, werden toegepast voor de datum van inwerkingtreding van dit Verdrag.
+- a. ships of war; and
 
-##### Artikel 4. Uitzonderingen
+- b. ships of less than 24 metres (79 feet) in length.
 
-(1). Dit Verdrag is niet van toepassing op:
+2. Nothing herein shall apply to ships solely navigating:
 
-- (a). oorlogsschepen; en
+- a. the Great Lakes of North America and the River St. Lawrence as far east as a rhumb line drawn from Cap des Rosiers to West Point, Anticosti Island, and, on the north side of Anticosti Island, the meridian of longitude 63° W;
 
-- (b). schepen met een lengte van minder dan 24 meter (79 voet).
+- b. the Caspian Sea; or
 
-(2). Geen der bepalingen van dit Verdrag is van toepassing op schepen die uitsluitend varen op:
+- c. the Plate, Parana and Uruguay Rivers as far east as a rhumb line drawn between Punta Rasa (Cabo San Antonio), Argentina, and Punta del Este, Uruguay.
 
-- (a). de Grote Meren van Noord-Amerika en de rivier de St. Laurens niet verder oostelijk dan de loxodroom getrokken van Cap des Rosiers naar West Point op het eiland Anticosti en aan de noordzijde van het eiland Anticosti tot de meridiaan van 63° Westerlengte;
+##### Article 5. Force Majeure
 
-- (b). de Kaspische Zee; of
+1. A ship which is not subject to the provisions of the present Convention at the time of its departure on any voyage shall not become subject to such provisions on account of any deviation from its intended voyage due to stress of weather or any other cause of *force majeure.*
 
-- (c). de Rio de la Plata en de rivieren Parana en Uruguay niet verder oostelijk dan tot de loxodroom getrokken van Punta Rasa (Cabo San Antonio) in Argentinië naar Punta del Este in Uruguay.
+2. In applying the provisions of the present Convention, the Contracting Governments shall give due consideration to any deviation or delay caused to any ship owing to stress of weather or any other cause of *force majeure.*
 
-##### Artikel 5. Overmacht
+##### Article 6. Determination of Tonnages
 
-(1). Een schip dat op het ogenblik van het vertrek voor een reis niet is onderworpen aan de bepalingen van dit Verdrag, mag niet wegens afwijking van de voorgenomen reis ten gevolge van slecht weer of enige andere vorm van overmacht aan deze bepalingen worden onderworpen.
+The determination of gross and net tonnages shall be carried out by the Administration which may, however, entrust such determination either to persons or organizations recognized by it. In every case the Administration concerned shall accept full responsibility for the determination of gross and net tonnages.
 
-(2). Bij toepassing van de bepalingen van dit Verdrag houden de Verdragsluitende Regeringen behoorlijk rekening met elke afwijking van de route of elke vertraging door een schip ondervonden ten gevolge van slecht weer of enige andere vorm van overmacht.
+##### Article 7. Issue of Certificate
 
-##### Artikel 6. Vaststelling van de tonnages
+1. An International Tonnage Certificate (1969) shall be issued to every ship, the gross and net tonnages of which have been determined in accordance with the present Convention.
 
-De vaststelling van de bruto- en netto-tonnage wordt verricht door de Administratie die evenwel deze vaststelling kan opdragen hetzij aan personen hetzij aan organisaties die door haar zijn erkend. In ieder geval aanvaardt de Administratie de volle verantwoordelijkheid voor de vaststelling van de bruto- en netto-tonnage.
+2. Such certificate shall be issued by the Administration or by any person or organization duly authorized by it. In every case, the Administration shall assume full responsibility for the certificate.
 
-##### Artikel 7. Afgifte van meetbrieven
+##### Article 8. Issue of Certificate by another Government
 
-(1). Ten behoeve van ieder schip waarvan de bruto- en netto-tonnage zijn vastgesteld overeenkomstig de bepalingen van dit Verdrag, wordt een Internationale Meetbrief (1969) afgegeven.
+1. A Contracting Government may, at the request of another Contracting Government, determine the gross and net tonnages of a ship and issue or authorize the issue of an International Tonnage Certificate (1969) to the ship in accordance with the present Convention.
 
-(2). Deze meetbrief wordt afgegeven door de Administratie of een door haar behoorlijk gemachtigde persoon of organisatie. In ieder geval aanvaardt de Administratie de volle verantwoordelijkheid voor de meetbrief.
+2. A copy of the certificate and a copy of the calculations of the tonnages shall be transmitted as early as possible to the requesting Government.
 
-##### Artikel 8. Afgifte van meetbrieven door een andere Regering
+3. A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Government of the State whose flag the ship is or will be flying and it shall have the same validity and receive the same recognition as a certificate issued under [Article 7](https://wetten.overheid.nl/BWBV0003245).
 
-(1). Een Verdragsluitende Regering kan op verzoek van een andere Verdragsluitende Regering de bruto- en netto-tonnage van een schip vaststellen en ten behoeve van dit schip overeenkomstig dit Verdrag een Internationale Meetbrief (1969) afgeven of machtiging tot deze afgifte verlenen.
+4. No International Tonnage Certificate (1969) shall be issued to a ship which is flying the flag of a State the Government of which is not a Contracting Government.
 
-(2). Een afschrift van de meetbrief alsmede een afschrift van de berekeningen van de tonnages dienen zo spoedig mogelijk aan de verzoekende Regering te worden toegezonden.
+##### Article 9. Form of Certificate
 
-(3). Een op deze wijze afgegeven meetbrief dient een verklaring te bevatten inhoudende dat hij is afgegeven op verzoek van de Regering van de Staat wiens vlag het schip voert of zal gaan voeren; deze meetbrief bezit dezelfde geldigheid en geniet dezelfde erkenning als een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=7&z=2017-02-28&g=2017-02-28) afgegeven meetbrief.
+1. The certificate shall be drawn up in the official language or languages of the issuing country. If the language used is neither English nor French, the text shall include a translation into one of these languages.
 
-(4). Ten behoeve van een schip dat de vlag voert van een Staat waarvan de Regering geen Verdragsluitende Regering is, mag geen Internationale Meetbrief (1969) worden afgegeven.
+2. The form of the certificate shall correspond to that of the model given in [Annex II](https://wetten.overheid.nl/BWBV0003245).
 
-##### Artikel 9. Vorm van de meetbrief
+##### Article 10. Cancellation of Certificate
 
-(1). De meetbrief wordt opgemaakt in de officiële taal of talen van het land waardoor hij wordt afgegeven. Indien de gebruikte taal noch Engels noch Frans is dient een vertaling in een van deze beide talen te worden bijgevoegd.
+1. Subject to any exceptions provided in the Regulations, an International Tonnage Certificate (1969) shall cease to be valid and shall be cancelled by the Administration if alterations have taken place in the arrangement, construction, capacity, use of spaces, total number of passengers the ship is permitted to carry as indicated in the ship's passenger certificate, assigned load line or permitted draught of the ship, such as would necessitate an increase in gross tonnage or net tonnage.
 
-(2). De meetbrief moet wat betreft de vorm in overeenstemming zijn met het in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=II&z=2017-02-28&g=2017-02-28) opgenomen model.
+2. A certificate issued to a ship by an Administration shall cease to be valid upon transfer of such a ship to the flag of another State, except as provided in paragraphe 3 of this Article.
 
-##### Artikel 10. Intrekking van de meetbrief
+3. Upon transfer of a ship to the flag of another State the Government of which is a Contracting Government, the International Tonnage Certificate (1969) shall remain in force for a period not exceeding three months, or until the Administration issues another International Tonnage Certificate (1969) to replace it, whichever is the earlier. The Contracting Government of the State whose flag the ship was flying hitherto shall transmit to the Administration as soon as possible after the transfer takes place a copy of the certificate carried by the ship at the time of transfer and a copy of the relevant tonnage calculations.
 
-(1). Onverminderd de in de Voorschriften voorziene uitzonderingen verliest een Internationale Meetbrief (1969) zijn geldigheid en wordt hij door de Administratie ingetrokken indien zodanige wijzigingen hebben plaatsgevonden in de inrichting, de bouw, de capaciteit, het benutten van ruimten, het totale aantal passagiers dat het schip volgens zijn veiligheidscertificaat voor passagiersschepen mag vervoeren, het vastgestelde vrijboord of de toegestane diepgang, dat daaruit noodzakelijk een vermeerdering van de bruto- of netto-tonnage zou voortvloeien.
+##### Article 11. Acceptance of Certificate
 
-(2). Een door een Administratie ten behoeve van een schip afgegeven meetbrief verliest zijn geldigheid bij overdracht van zulk een schip onder de vlag van een andere Staat, behoudens als voorzien in het derde lid van dit artikel.
+The certificate issued under the authority of a Contracting Government in accordance with the present Convention shall be accepted by the other Contracting Governments and regarded for all purposes covered by the present Convention as having the same validity as certificates issued by them.
 
-(3). Bij overdracht van een schip onder de vlag van een andere Staat waarvan de Regering een Verdragsluitende Regering is, blijft de Internationale Meetbrief (1969) van kracht voor een periode van ten hoogste drie maanden ofwel tot het tijdstip waarop de Administratie een andere Internationale Meetbrief (1969) ter vervanging uitgeeft, al naar gelang welk tijdstip eerder valt. De Verdragsluitende Regering van de Staat wiens vlag het schip tot dan toe had gevoerd, dient zo spoedig mogelijk nadat de overdracht heeft plaatsgevonden aan de Administratie een afschrift van de op het tijdstip van overdracht op het schip gevoerde meetbrief en een afschrift van de hierop betrekking hebbende berekening van de tonnage te doen toekomen.
+##### Article 12. Inspection
 
-##### Artikel 11. Erkenning van meetbrieven
+1. A ship flying the flag of a State the Government of which is a Contracting Government shall be subject, when in the ports of other Contracting Governments, to inspection by officers duly authorized by such Governments. Such inspection shall be limited to the purpose of verifying:
 
-De onder gezag van een Verdragsluitende Regering overeenkomstig de bepalingen van dit Verdrag afgegeven meetbrief wordt door de andere Verdragsluitende Regeringen erkend en voor alle doelstellingen waarop dit Verdrag betrekking heeft, beschouwd dezelfde geldigheid te bezitten als de door hen afgegeven meetbrieven.
+- a. that the ship is provided with a valid International Tonnage Certificate (1969); and
 
-##### Artikel 12. Inspectie
+- b. that the main characteristics of the ship correspond to the data given in the certificate.
 
-(1). Een schip dat de vlag voert van een Staat waarvan de Regering een Verdragsluitende Regering is, is, wanneer het zich in de havens van andere Verdragsluitende Regeringen bevindt, onderworpen aan inspectie van daartoe door deze Regeringen behoorlijk gemachtigde ambtenaren. Deze inspectie heeft enkel en alleen tot doel vast te stellen:
+2. In no case shall the exercise of such inspection cause any delay to the ship.
 
-- (a). dat het schip is voorzien van een geldige Internationale Meetbrief (1969); en
+3. Should the inspection reveal that the main characteristics of the ship differ from those entered on the International Tonnage Certificate (1969) so as to lead to an increase in the gross tonnage or the net tonnage, the Government of the State whose flag the ship is flying shall be informed without delay.
 
-- (b). dat de voornaamste kenmerken van het schip in overeenstemming zijn met de gegevens vermeld op de meetbrief.
+##### Article 13. Privileges
 
-(2). De uitoefening van deze inspectie mag in geen geval vertraging voor het schip meebrengen.
+The privileges of the present Convention may not be claimed in favour of any ship unless it holds a valid certificate under the Convention.
 
-(3). Indien uit de inspectie blijkt, dat de voornaamste kenmerken van het schip afwijken van die vermeld op de Internationale Meetbrief (1969), in dier voege dat dit tot een vermeerdering van de bruto- of de netto-tonnage leidt, wordt de Regering van de Staat wiens vlag het schip voert hiervan onmiddellijk in kennis gesteld.
+##### Article 14. Prior Treaties, Conventions and Arrangements
 
-##### Artikel 13. Voorrechten
+1. All other treaties, conventions and arrangements relating to tonnage matters at present in force between Governments Parties to the present Convention shall continue to have full and complete effect during the terms thereof as regards:
 
-De voorrechten van dit Verdrag kunnen slechts worden ingeroepen ten behoeve van een schip indien het in het bezit is van een geldige meetbrief afgegeven krachtens dit Verdrag.
+- a. ships to which the present Convention does not apply; and
 
-##### Artikel 14. Vorige verdragen, overeenkomsten en afspraken
+- b. ships to which the present Convention applies, in respect of matters for which it has not expressly provided.
 
-(1). Alle andere op tonnage betrekking hebbende verdragen, overeenkomsten en afspraken, die op dit ogenblik van kracht zijn tussen Regeringen die Partij zijn bij dit Verdrag, blijven gedurende de tijd waarvoor zij zijn gesloten geheel en volledig van kracht ten aanzien van:
+2. To the extent, however, that such treaties, conventions or arrangements conflict with the provisions of the present Convention, the provisions of the present Convention shall prevail.
 
-- (a). schepen waarop dit Verdrag niet van toepassing is;
+##### Article 15. Communication of Information
 
-- (b). schepen waarop dit Verdrag van toepassing is ten aanzien van aangelegenheden waarin het niet uitdrukkelijk voorziet.
+The Contracting Governments undertake to communicate to and deposit with the Organization:
 
-(2). Voor zover deze verdragen, overeenkomsten of afspraken echter in strijd zijn met de bepalingen van dit Verdrag, hebben de bepalingen van dit Verdrag voorrang.
+- a. a sufficient number of specimens of their certificates issued under the provisions of the present Convention for circulation to the Contracting Governments;
 
-##### Artikel 15. Verstrekking van inlichtingen
+- b. the text of the laws, orders, decrees, regulations and other instruments which shall have been promulgated on the various matters within the scope of the present Convention; and
 
-De Verdragsluitende Partijen verbinden zich aan de Organisatie mede te delen en bij haar neder te leggen:
+- c. a list of non-governmental agencies which are authorized to act in their behalf in matters relating to tonnages for circulation to the Contracting Governments.
 
-- (a). een voldoende aantal exemplaren van krachtens de bepalingen van dit Verdrag afgegeven meetbrieven voor kennisgeving aan de Verdragsluitende Regeringen;
+##### Article 16. Signature, Acceptance and Accession
 
-- (b). de tekst van de wetten, besluiten, beschikkingen, voorschriften en andere akten die terzake van de verschillende binnen de werkingssfeer van dit Verdrag vallende aangelegenheden bekend zijn gemaakt; en
+1. The present Convention shall remain open for signature for six months from 23 June 1969, and shall thereafter remain open for accession. Governments of States Members of the United Nations, or of any of the Specialized Agencies, or of the International Atomic Energy Agency, or parties to the Statute of the International Court of Justice may become Parties to the Convention by:
 
-- (c). een lijst van niet-gouvernementele organisaties die gemachtigd zijn namens hen op te treden in aangelegenheden betreffende de tonnage voor kennisgeving aan de Verdragsluitende Regeringen.
+- a. signature without reservation as to acceptance;
 
-##### Artikel 16. Ondertekening, aanvaarding en toetreding
+- b. signature subject to acceptance followed by acceptance; or
 
-(1). Dit Verdrag staat te rekenen van 23 juni 1969 gedurende zes maanden open voor ondertekening en blijft daarna openstaan voor toetreding. Regeringen van Staten die lid zijn van de Verenigde Naties, van een der Gespecialiseerde Organisaties of van de Internationale Organisatie voor Atoomenergie, of die partij zijn bij het Statuut van het Internationale Gerechtshof, kunnen partij worden bij dit Verdrag door:
+- c. accession.
 
-- (a). ondertekening zonder voorbehoud van aanvaarding;
+2. Acceptance or accession shall be effected by the deposit of an instrument of acceptance or accession with the Organization. The Organization shall inform all Governments which have signed the present Convention or acceded to it of each new acceptance or accession and of the date of its deposit. The Organization shall also inform all Governments which have already signed the Convention of any signature effected during the six months from 23 June 1969.
 
-- (b). ondertekening onder voorbehoud van aanvaarding, gevolgd door aanvaarding; of
+##### Article 17. Coming into Force
 
-- (c). toetreding.
+1. The present Convention shall come into force twenty-four months after the date on which not less than twenty-five Governments of States the combined merchant fleets of which constitute not less than sixty-five per cent of the gross tonnage of the world's merchant shipping have signed without reservation as to acceptance or deposited instruments of acceptance or accession in accordance with [Article 16](https://wetten.overheid.nl/BWBV0003245). The Organization shall inform all Governments which have signed or acceded to the present Convention of the date on which it comes into force.
 
-(2). Aanvaarding of toetreding geschiedt door middel van nederlegging van een akte van aanvaarding of toetreding bij de Organisatie. De Organisatie geeft alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, kennis van iedere nieuwe aanvaarding of toetreding alsmede van de datum van nederlegging daarvan. De Organisatie stelt eveneens alle Regeringen die het Verdrag reeds hebben ondertekend, in kennis van alle ondertekeningen verricht gedurende de periode van zes maanden te rekenen van 23 juni 1969.
+2. For Governments which have deposited an instrument of acceptance of or accession to the present Convention during the twenty-four months mentioned in paragraph 1 of this Article, the acceptance or accession shall take effect on the coming into force of the present Convention or three months after the date of deposit of the instrument of acceptance or accession, whichever is the later date.
 
-##### Artikel 17. Inwerkingtreding
+3. For Governments which have deposited an instrument of acceptance of or accession to the present Convention after the date on which it comes into force, the Convention shall come into force three months after the date of the deposit of such instrument.
 
-(1). Dit Verdrag treedt in werking vierentwintig maanden na de datum waarop ten minste vijfentwintig Regeringen van Staten waarvan de gezamenlijke koopvaardijvloten ten minste vijfenzestig procent van de bruto-inhoud van de wereldhandelsvloot uitmaken, het hebben ondertekend zonder voorbehoud van aanvaarding of overeenkomstig [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=16&z=2017-02-28&g=2017-02-28) akten van aanvaarding of toetreding hebben nedergelegd. De Organisatie stelt alle Regeringen die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, in kennis van de datum van inwerkingtreding.
+4. After the date on which all the measures required to bring an amendment to the present Convention into force have been completed, or all necessary acceptances are deemed to have been given under [sub-paragraph *b* of paragraph 2 of Article 18](https://wetten.overheid.nl/BWBV0003245) in case of amendment by unanimous acceptance, any instrument of acceptance or accession deposited shall be deemed to apply to the Convention as amended.
 
-(2). Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd gedurende het in het eerste lid van dit artikel bedoelde tijdvak van vierentwintig maanden, wordt de aanvaarding of toetreding van kracht bij de inwerkingtreding van dit Verdrag dan wel drie maanden na de datum van de nederlegging van de akte van aanvaarding of toetreding, al naar gelang welk tijdstip het laatst valt.
+##### Article 18. Amendments
 
-(3). Voor Regeringen die een akte van aanvaarding van of toetreding tot dit Verdrag hebben nedergelegd na de datum van inwerkingtreding, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van een zodanige akte.
+1. The present Convention may be amended upon the proposal of a Contracting Government by any of the procedures specified in this Article.
 
-(4). Na de datum waarop alle maatregelen die nodig zijn om een wijziging van dit Verdrag in werking te doen treden voltooid zijn of na de datum waarop alle noodzakelijke aanvaardingen geacht worden te hebben plaatsgevonden krachtens het [tweede lid, letter b, van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&artikel=18&z=2017-02-28&g=2017-02-28) in geval van wijziging door middel van eenstemmige aanvaarding, wordt elke akte van aanvaarding of toetreding die wordt nedergelegd, geacht te gelden voor het gewijzigde Verdrag.
+2. Amendment by unanimous acceptance:
 
-##### Artikel 18. Wijzigingen
+- a. Upon the request of a Contracting Government, any amendment proposed by it to the present Convention shall be communicated by the Organization to all Contracting Governments for consideration with a view to unanimous acceptance.
 
-(1). Dit Verdrag kan op voorstel van een Verdragsluitende Regering gewijzigd worden door middel van de in dit artikel aangegeven procedures.
+- b. Any such amendment shall enter into force twelve months after the date of its acceptance by all Contracting Governments unless an earlier date is agreed upon. A Contracting Government which does not communicate its acceptance or rejection of the amendment to the Organization within twenty-four months of its first communication by the latter shall be deemed to have accepted the amendment.
 
-(2). Wijziging bij eenstemmige aanvaarding:
+3. Amendment after consideration in the Organization:
 
-- (a). Op verzoek van een Verdragsluitende Regering wordt iedere door haar voorgestelde wijziging van dit Verdrag door de Organisatie aan alle Verdragsluitende Regeringen ter bestudering medegedeeld met het oog op eenstemmige aanvaarding.
+- a. Upon the request of a Contracting Government, any amendment proposed by it to the present Convention will be considered in the Organization. If adopted by a majority of two-thirds of those present and voting in the Maritime Safety Committee of the Organization, such amendment shall be communicated to all Members of the Organization and all Contracting Governments at least six months prior to its consideration by the Assembly of the Organization.
 
-- (b). Een dergelijke wijziging treedt in werking twaalf maanden na de datum waarop zij door alle Verdragsluitende Regeringen is aanvaard, tenzij over een eerdere datum overeenstemming is bereikt. Een Verdragsluitende Regering die haar aanvaarding of verwerping van de wijziging niet binnen vierentwintig maanden nadat deze wijziging haar voor het eerst door de Organisatie is medegedeeld ter kennis van laatstgenoemde brengt, wordt geacht de wijziging te hebben aanvaard.
+- b. If adopted by a two-thirds majority of those present and voting in the Assembly, the amendment shall be communicated by the Organization to all Contracting Governments for their acceptance.
 
-(3). Wijziging na bestudering in de Organisatie:
+- c. Such amendment shall come into force twelve months after the date on which it is accepted by two-thirds of the Contracting Governments. The amendment shall come into force with respect to all Contracting Governments except those which, before it comes into force, make a declaration that they do not accept the amendment.
 
-- (a). Op verzoek van een Verdragsluitende Regering wordt iedere door haar voorgestelde wijziging van dit Verdrag door de Organisatie bestudeerd. Indien zij wordt goedgekeurd door een meerderheid van twee derde der aanwezige hun stem uitbrengende leden van de Maritieme Veiligheidscommissie van de Organisatie, wordt een zodanige wijziging aan alle leden van de Organisatie en aan alle Verdragsluitende Regeringen medegedeeld ten minste zes maanden voordat zij wordt bestudeerd door de Algemene Vergadering van de Organisatie.
+- d. The Assembly, by a two-thirds majority of those present and voting, including two-thirds of the Governments represented on the Maritime Safety Committee and present and voting in the Assembly, may propose a determination at the time of its adoption that an amendment is of such an important nature that any Contracting Government which makes a declaration under sub-paragraph *c* of this paragraph and which does not accept the amendment within a period of twelve months after it comes into force, shall cease to be a party to the present Convention upon the expiry of that period. This determination shall be subject to the prior acceptance of two-thirds of the Contracting Governments.
 
-- (b). Indien zij wordt goedgekeurd door een meerderheid van twee derde der aanwezige hun stem uitbrengende leden van de Algemene Vergadering, wordt een zodanige wijziging door de Organisatie aan alle Verdragsluitende Regeringen medegedeeld ter fine van aanvaarding.
+- e. Nothing in this paragraph shall prevent the Contracting Government which first proposed action under this paragraph on an amendment to the present Convention from taking at any time such alternative action as it deems desirable in accordance with paragraphs 2 or 4 of this Article.
 
-- (c). Een zodanige wijziging treedt in werking twaalf maanden na de datum waarop zij door twee derde van de Verdragsluitende Regeringen is aanvaard. De wijziging treedt in werking ten aanzien van alle Verdragsluitende Regeringen, behalve die Regeringen welke voordat zij in werking treedt een verklaring afleggen dat zij de wijziging niet aanvaarden.
+4. Amendment by a conference:
 
-- (d). De Algemene Vergadering kan met twee derde meerderheid van de aanwezige hun stem uitbrengende leden, waaronder begrepen twee derde van de in de Maritieme Veiligheidscommissie vertegenwoordigde Regeringen die in de Algemene Vergadering aanwezig zijn en daar hun stem uitbrengen, ten tijde van de goedkeuring van een wijziging voorstellen dat wordt besloten dat deze van zodanig belang is dat iedere Verdragsluitende Regering die een verklaring aflegt krachtens (c) en de wijziging niet aanvaardt binnen een tijdvak van twaalf maanden nadat zij in werking is getreden, ophoudt partij te zijn bij dit Verdrag na het verstrijken van dat tijdvak. Dit besluit is onderworpen aan de voorafgaande aanvaarding door twee derde der Verdragsluitende Regeringen die bij dit Verdrag partij zijn.
+- a. Upon the request of a Contracting Government, concurred in by at least one-third of the Contracting Governments, a conference of Governments will be convened by the Organization to consider amendments to the present Convention.
 
-- (e). Geen der bepalingen van dit lid verhindert dat de Verdragsluitende Regering die het eerst krachtens dit lid het initiatief nam ter zake van een wijziging van dit Verdrag, te eniger tijd andere maatregelen die zij gewenst acht, neemt overeenkomstig het tweede of vierde lid van dit artikel.
+- b. Every amendment adopted by such a conference by a two-thirds majority of those present and voting of the Contracting Governments shall be communicated by the Organization to all Contracting Governments for their acceptance.
 
-(4). Wijziging door een conferentie:
+- c. Such amendment shall come into force twelve months after the date on which it is accepted by two-thirds of the Contracting Governments. The amendment shall come into force with respect to all Contracting Governments except those which, before it comes into force, make a declaration that they do not accept the amendment.
 
-- (a). Op verzoek van een Verdragsluitende Regering waarmede door ten minste een derde van de Verdragsluitende Regeringen wordt ingestemd, wordt door de Organisatie een conferentie van Regeringen bijeengeroepen ten einde wijzigingen van dit Verdrag te bestuderen.
+- d. By a two-thirds majority of those present and voting, a conference convened under sub-paragraph *a* of this paragraph may determine at the time of its adoption that an amendment is of such aii important nature that any Contracting Government which makes a declaration under sub-paragraph *c* of this paragraph, and which does not accept the amendment within a period of twelve months after it comes into force, shall cease to be a Party to the present Convention upon the expiry of that period.
 
-- (b). Iedere wijziging door een zodanige conferentie goedgekeurd door een meerderheid van twee derde der aanwezige hun stem uitbrengende leden wordt door de Organisatie aan alle Verdragsluitende Regeringen medegedeeld ter fine van aanvaarding.
+5. The Organization shall inform all Contracting Governments of any amendments which may come into force under this Article, together with the date on which each such amendment will come into force.
 
-- (c). Een zodanige wijziging treedt in werking twaalf maanden na de datum waarop zij door twee derde van de Verdragsluitende Regeringen is aanvaard. De wijziging treedt in werking ten aanzien van alle Verdragsluitende Regeringen, behalve die Regeringen welke voordat zij in werking treedt een verklaring afleggen dat zij de wijziging niet aanvaarden.
+6. Any acceptance or declaration under this Article shall be made by the deposit of an instrument with the Organization which shall notify all Contracting Governments of the receipt of the acceptance or declaration.
 
-- (d). Een krachtens (a) bijeengeroepen conferentie kan met twee derde meerderheid van de aanwezige hun stem uitbrengende leden ten tijde van de goedkeuring van een wijziging besluiten dat deze van zodanig belang is dat iedere Verdragsluitende Regering die een verklaring aflegt krachtens (c) en de wijziging niet aanvaardt binnen een tijdvak van twaalf maanden nadat zij in werking is getreden, ophoudt partij te zijn bij dit Verdrag na het verstrijken van dat tijdvak.
+##### Article 19. Denunciation
 
-(5). De Organisatie stelt alle Verdragsluitende Regeringen in kennis van alle wijzigingen die krachtens dit artikel in werking treden, alsmede van de datum waarop elk van deze wijzigingen in werking treedt.
+1. The present Convention may be denounced by any Contracting Government at any time after the expiry of five years from the date on which the Convention comes into force for that Government.
 
-(6). Elke aanvaarding of verklaring krachtens dit artikel geschiedt door middel van schriftelijke mededeling aan de Organisatie die alle Verdragsluitende Regeringen in kennis stelt van de ontvangst van de aanvaarding of de verklaring.
+2. Denunciation shall be effected by the deposit of an instrument with the Organization which shall inform all the other Contracting Governments of any such denunciation received and of the date of its receipt.
 
-##### Artikel 19. Opzegging
+3. A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its receipt by the Organization.
 
-(1). Dit Verdrag kan te allen tijde door elke Verdragsluitende Regering worden opgezegd na afloop van een tijdvak van vijf jaar te rekenen van de datum waarop dit Verdrag voor die Regering in werking treedt.
+##### Article 20. Territories
 
-(2). Opzegging geschiedt door nederlegging van een akte van opzegging bij de Organisatie die alle andere Verdragsluitende Regeringen van de ontvangst van een zodanige opzegging en van de datum van ontvangst daarvan op de hoogte stelt.
+1. - a. The United Nations, in cases where they are the administering authority for a territory, or any Contracting Government responsible for the international relations of a territory, shall as soon as possible consult with such territory or take such measures as may be appropriate in an endeavour to extend the present Convention to that territory and may at any time by notification in writing to the Organization declare that the present Convention shall extend to such territory.
 
-(3). De opzegging wordt van kracht een jaar na ontvangst door de Organisatie van de akte van opzegging of na een langere daarin vastgestelde periode.
+- b. The present Convention shall, from the date of receipt of the notification or from such other date as may be specified in the notification, extend to the territory named therein.
 
-##### Artikel 20. Afhankelijke gebieden
+2. - a. The United Nations, or any Contracting Government which has made a declaration under sub-paragraph *a* of paragraph 1 of this Article at any time after the expiry of a period of five years from the date on which the Convention has been so extended to any territory, may by notification in writing to the Organization declare that the present Convention shall cease to extend to any such territory named in the notification.
 
-- (a). De Verenigde Naties, in die gevallen waarin deze Organisatie het gezagsorgaan is dat het beheer over een gebied uitoefent, of Verdragsluitende Regeringen die verantwoordelijk zijn voor de internationale betrekkingen van een gebied, dienen zo spoedig mogelijk overleg te plegen met een zodanig gebied ten einde te bewerkstelligen dat dit Verdrag op dat gebied van toepassing wordt, en kunnen de Organisatie te allen tijde schriftelijk mededelen dat dit Verdrag ook op dat gebied van toepassing zal zijn.
+- b. The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Organization.
 
-- (b). Te rekenen van de datum van ontvangst van deze kennisgeving of van een andere in deze kennisgeving vastgestelde datum is dit Verdrag van toepassing op het daarin genoemde gebied.
+3. The Organization shall inform all the Contracting Governments of the extension of the present Convention to any territories under paragraph 1 of this Article, and of the termination of any such extension under the provisions of paragraph 2 stating in each case the date from which the present Convention has been or will cease to be so extended.
 
-- (a). De Verenigde Naties of Verdragsluitende Regeringen die een verklaring krachtens het eerste lid, letter a, van dit artikel hebben afgelegd, kunnen te allen tijde na het verstrijken van een tijdvak van vijf jaar te rekenen van de datum waarop dit Verdrag aldus op een gebied van toepassing wordt, door middel van een schriftelijke kennisgeving aan de Organisatie verklaren dat dit Verdrag ophoudt van toepassing te zijn op het in de kennisgeving genoemde gebied,
+##### Article 21. Deposit and Registration
 
-- (b). Dit Verdrag houdt op van toepassing te zijn op het in de kennisgeving genoemde gebied een jaar na de datum van ontvangst van de kennisgeving door de Organisatie of na een langere in de kennisgeving vastgestelde periode.
+1. The present Convention shall be deposited with the Organization and the Secretary-General of the Organization shall transmit certified true copies thereof to all Signatory Grovernments and to all Governments which accede to the present Convention.
 
-(3). De Organisatie stelt alle Verdragsluitende Regeringen op de hoogte van het van toepassing worden van dit Verdrag op enigerlei gebied krachtens het eerste lid van dit artikel, alsmede van de beëindiging van een zodanige toepasselijkheid krachtens de bepalingen van het tweede lid, waarbij in ieder afzonderlijk geval melding dient te worden gemaakt van de datum waarop dit Verdrag aldus van toepassing is geworden of van de datum waarop de toepasselijkheid is beëindigd.
+2. As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-##### Artikel 21. Nederlegging en registratie
+##### Article 22. Languages
 
-(1). Dit Verdrag wordt nedergelegd bij de Organisatie en de Secretaris-Generaal van de Organisatie doet hiervan voor eensluidend gewaarmerkte afschriften toekomen aan alle ondertekenende Regeringen en aan alle Regeringen dit tot dit Verdrag toetreden.
-
-(2). Zodra dit Verdrag in werking treedt wordt de tekst daarvan door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 22. Talen
-
-Dit Verdrag is een enkel exemplaar opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Officiële vertalingen in de Russische en de Spaanse taal worden opgesteld en te zamen met het ondertekende origineel nedergelegd.
-
-##### Voorschrift 1. Algemeen
-
-- (1). De tonnage van een schip wordt onderscheiden naar bruto-tonnage en netto-tonnage.
-
-- (2). De bruto- en de netto-tonnage worden berekend volgens de in deze voorschriften neergelegde bepalingen.
-
-- (3). De bruto- en de netto-tonnage van nieuwe typen schepen waarvan de bouwkenmerken zodanig zijn, dat zij de toepassing van de bepalingen van deze voorschriften onredelijk of onuitvoerbaar maken, worden vastgesteld door de Administratie. Indien een zodanige vaststelling heeft plaatsgevonden, dient de Administratie aan de Organisatie mededeling te doen van de bijzonderheden der voor dit doel gebruikte methode voor kennisgeving aan de Verdragsluitende Regeringen.
-
-##### Voorschrift 2. Definities van de in de Bijlagen gebruikte begrippen
-
-- (1). **Bovendek** Het bovendek is het bovenste aan weer en wind blootgestelde volledige dek, voorzien van permanente middelen tot waterdichte afsluiting van alle openingen in de aan weer en wind blootgestelde gedeelten van het dek, en waarbeneden alle openingen in de zijden van het schip zijn voorzien van permanente middelen tot waterdichte afsluiting. Op een schip met een verspringend bovendek wordt het laagste gedeelte van het blootgestelde dek en de voortzetting van dat gedeelte evenwijdig aan het verhoogde gedeelte als bovendek beschouwd.
-
-- (2). **Holte naar de mal**
-
-- (a). De holte naar de mal is de verticale afstand gemeten van de bovenkant van de kiel tot de onderkant van het bovendek in de zijde. Bij houten en composiet schepen wordt de afstand gemeten vanaf de binnenkant van de sponning in de kiel. Indien de vorm in het onderste gedeelte van de grootspant hol verloopt of indien dikke zandstroken zijn aangebracht, wordt de afstand gemeten van het punt, waar de lijn die van het vlakke deel van het scheepsvlak naar hart schip wordt doorgetrokken de zijkant van de kiel snijdt.
-
-- (b). Bij schepen waar de overgang van de huidbeplating naar de dekbeplating als een rondgezette plaat is uitgevoerd moet de holte naar de mal worden gemeten tot het snijpunt van de doorgestrookte lijn van de bovenkant der balken met de doorgestrookte lijn van de buitenkant der spanten.
-
-- (c). Indien het bovendek verspringt en het verhoogde gedeelte zich uitstrekt voorbij het punt waar de holte naar de mal moet worden bepaald, wordt de holte naar de mal gemeten tot de lijn die vanaf het lage gedeelte van het dek evenwijdig aan het verhoogde gedeelte wordt doorgetrokken.
-
-- (3). **Breedte** De breedte is de grootste breedte van het schip midscheeps gemeten op de buitenkant der spanten bij een schip met een metalen huid en op de buitenkant van de huid bij een schip met een huid van ander materiaal.
-
-- (4). **Ingesloten ruimten** Ingesloten ruimten zijn alle ruimten, die begrensd worden door de huid van het schip, door vaste of verplaatsbare wanden of schotten, door dekken of bedekkingen, anders dan vaste of wegneembare dekzeilen. Onderbrekingen van het dek, openingen in de scheepshuid, in een dek of een bedekking van een ruimte of in de wanden of schotten van een ruimte, vormen, evenmin als het ontbreken van een wand of een schot een reden om een ruimte niet te rekenen tot de ingesloten ruimten.
-
-- (5). **Niet in de inhoud begrepen ruimten** Onverminderd de bepalingen van paragraaf 4 van dit Voorschrift worden de in de subparagrafen (a) tot en met (e) van deze paragraaf omschreven ruimten „niet in de inhoud begrepen ruimten” genoemd en worden zij niet gerekend te behoren tot het volume van de ingesloten ruimten; evenwel dienen zodanige ruimten, die voldoen aan ten minste een van de volgende drie voorwaarden, te worden behandeld als een ingesloten ruimte:
-
-- -. de ruimte is voorzien van planken of andere middelen voor het vastzetten van lading of voorraden;
-
-- -. de openingen zijn voorzien van enige middelen tot sluiting;
-
-- -. de constructie voorziet in enige mogelijkheid tot het sluiten van die openingen.
-
-- (a) (i). Een ruimte gelegen binnen een bovenbouw, grenzend aan een zich van dek tot dek uitstrekkende eindopening - waarbij een gordijnplaat, met een hoogte van niet meer dan 25 millimeter (1 inch) boven die van de aangrenzende dekbalken niet in aanmerking wordt genomen - en welke opening een breedte heeft van 90 procent of meer van de dekbreedte ter plaatse van de opening. Deze bepaling dient zodanig te worden toegepast, dat van de ingesloten ruimten alleen die ruimte niet in de inhoud wordt begrepen, welke gelegen is tussen de werkelijke eindopening en een lijn evenwijdig aan de lijn of het vlak van de opening op een afstand van die opening gelijk aan de helft van de dekbreedte ter plaatse van de opening. (Figuur 1 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
-
-- (a) (ii). Indien de breedte van de ruimte door een bepaalde constructie, met uitzondering van het naar elkaar toelopen van de huidbeplating, minder wordt dan 90 procent van de dekbreedte, wordt alleen de ruimte, gelegen tussen de lijn van de opening en een evenwijdige lijn door het punt waar de dwarsscheepse breedte van de ruimte gelijk aan of minder wordt dan 90 procent van de dekbreedte, niet in de inhoud van de ingesloten ruimten begrepen. (Figuren 2, 3 en 4 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
-
-- (a) (iii). Wanneer een tussenruimte, welke op verschansingen of open relingwerk na geheel open is, twee willekeurige ruimten - waarvan een of beide volgens de subparagrafen (a)(i) en/of (a)(ii) aangemerkt kunnen worden als „niet in de inhoud begrepen ruimten” - van elkaar scheidt zal de betrokken ruimte of zullen de betrokken ruimten niet als zodanig aangemerkt worden, indien de afstand tussen de twee ruimten minder is dan de kleinste halve dekbreedte ter plaatse van de scheiding. (Figuren 5 en 6 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
-
-- (b). Een overdekte ruimte, blootgesteld aan weer en wind, met, aan de blootgestelde zijden, geen andere verbinding met de scheepsromp dan de voor ondersteuning benodigde stutten. In een dergelijke ruimte kunnen open relingwerk of een verschansing en gordijnplaat aangebracht worden, of stutten aan de scheepszijden, mits de afstand tussen de bovenkant van het relingwerk of de verschansing en de gordijnplaat niet minder bedraagt dan 0,75 meter (2½ voet) of een derde van de hoogte van de ruimte, welke van beide de grootste is. (Figuur 7 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28).).
-
-- (c). Een ruimte in een zich van boord tot boord uitstrekkende bovenbouw gelegen tussen tegenover elkaar gelegen zijopeningen met een hoogte niet minder dan 0,75 meter (2½ voet) of een derde van de bovenbouwhoogte, welke van beide de grootste is. Indien in een dergelijke bovenbouw de opening slechts aan één zijde is aangebracht, zal de ruimte, welke als niet in de inhoud begrepen ruimte wordt aangemerkt, binnenwaarts gemeten, vanaf de opening, beperkt worden tot een maximum van de helft van de dekbreedte ter plaatse van de opening. (Figuur 8 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
-
-- (d). Een ruimte in een bovenbouw, onmiddellijk gelegen onder een niet afgedekte opening in het daarboven gelegen dek, mits een dergelijke opening aan weer en wind is blootgesteld en de ruimte welke niet als de ingesloten ruimte wordt aangemerkt begrensd wordt door de oppervlakte van de opening. (Figuur 9 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
-
-- (e). Een nis in een buitenwand van een aan weer en wind blootgestelde bovenbouw, waarvan de opening, zonder mogelijkheid tot afsluiting, zich van dek tot dek uitstrekt, mits de binnenwaarts gelegen breedte nergens groter is dan de breedte bij de ingang en de binnenwaartse lengte in de bovenbouw niet groter is dan tweemaal de breedte van de ingang. (Figuur 10 van [Aanhangsel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=1&z=2017-02-28&g=2017-02-28)).
-
-- (6). **Passagiers** Passagiers zijn alle personen met uitzondering van:
-
-- a. de kapitein en de schepelingen of andere personen die, in welke hoedanigheid ook, aan boord ten behoeve van het schip in dienst of tewerkgesteld zijn;
-
-- b. kinderen beneden de leeftijd van een jaar.
-
-- (7). **Ladingruimten** Ladingruimten, begrepen in de berekening van de nettotonnage, zijn ingesloten ruimten, geschikt voor het vervoer van uit het schip te lossen lading, mits zodanige ruimten begrepen zijn in de berekening van de bruto-tonnage. Deze ladingruimten dienen kenbaar te worden gemaakt door hen te merken met de letters CC (cargo compartment), die zodanig moeten worden aangebracht, dat ze duidelijk zichtbaar en niet minder dan 100 millimeter (4 inches) hoog zijn.
-
-- (8). **Dicht tegen weer en wind** Dicht tegen weer en wind betekent dat onder alle omstandigheden die zich op zee kunnen voordoen geen water in het schip kan binnendringen.
-
-- (9). **Audit** betekent een systematisch, onafhankelijk en gedocumenteerd proces voor het verkrijgen van audit-informatie en de objectieve beoordeling daarvan teneinde te bepalen in hoeverre aan de auditcriteria is voldaan.
-
-- (10). **Auditprogramma** betekent het auditprogramma voor IMO-lidstaten dat door de Organisatie is opgezet, rekening houdend met de door de Organisatie ontwikkelde richtlijnen.
-
-- (11). **Implementatiecode** betekent de Code voor de implementatie van IMO-instrumenten (III Code) aangenomen door de Organisatie bij resolutie A.1070(28).
-
-- (12). **Auditnorm** betekent de Implementatiecode.
-
-##### Voorschrift 3. Bruto-tonnage
-
-De bruto-tonnage (GT) van een schip wordt bepaald door middel van de volgende formule:
-
-##### Voorschrift 4. Netto-tonnage
-
-- (1). De netto-tonnage (NT) van een schip wordt vastgesteld door middel van de volgende formule:
-
-- (2). De diepgang naar de mal (d) bedoeld in paragraaf 1 van dit Voorschrift is een van de volgende diepgangen:
-
-- (a). voor schepen waarop het [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) van toepassing is: de diepgang, overeenkomende met de lijn voor zomeruitwatering (anders dan de lijn voor houtvaartuitwatering) zoals die overeenkomstig het genoemde Internationale Verdrag is toegekend;
-
-- (b). voor passagiersschepen de diepgang overeenkomende met de hoogstgelegen indelingslastlijn, toegekend overeenkomstig het van kracht zijnde [Internationale Verdrag voor de beveiliging van mensenlevens op zee](onbekend) of een andere van toepassing zijnde internationale overeenkomst;
-
-- (c). voor schepen waarop het [Internationaal Verdrag betreffende de uitwatering van schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003267) niet van toepassing is, maar waaraan ter voldoening aan de nationale wettelijke vereisten een uitwateringslijn is toegekend: de diepgang overeenkomende met de aldus toegekende lijn voor zomeruitwatering;
-
-- (d). voor schepen waaraan geen uitwateringslijn is toegekend, maar waarvan de diepgang ter voldoening aan de nationale wettelijke vereisten is beperkt: de maximaal toegestane diepgang;
-
-- (e). voor andere schepen: 75 procent van de holte naar de mal midscheeps gemeten als omschreven in [Voorschrift 2, paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=2&z=2017-02-28&g=2017-02-28).
-
-##### Voorschrift 5. Wijziging van de netto-tonnage
-
-- (1). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=2017-02-28&g=2017-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) omschreven V, Vc, d, N1 of N2, worden gewijzigd en indien een zodanige wijziging een vermeerdering van de overeenkomstig de bepalingen van Voorschrift 4 vastgestelde netto-tonnage ten gevolge heeft, dient de met de nieuwe kenmerken overeenkomende netto-tonnage van het schip zonder verwijl te worden vastgesteld en toegepast.
-
-- (2). Voor een schip waaraan gelijktijdig uitwateringslijnen zoals bedoeld in de [subparagrafen (2) (a) en (2) (b) van Voorschrift 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) zijn toegekend wordt slechts een netto-tonnage vastgesteld overeenkomstig de bepalingen van Voorschrift 4 en die tonnage zal overeen dienen te komen met de toegekende uitwateringslijn, voor het vervoer waaraan door het schip wordt deelgenomen.
-
-- (3). Indien de kenmerken van een schip, met name de in de [Voorschriften 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=3&z=2017-02-28&g=2017-02-28) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I&artikel=4&z=2017-02-28&g=2017-02-28) omschreven V, Vc, d, N1 of N2, worden gewijzigd of als de desbetreffende toegekende uitwateringslijn, bedoeld in paragraaf 2 van dit Voorschrift, is gewijzigd door een verandering van het door het schip verrichte vervoer, en indien een zodanige wijziging leidt tot een vermindering van de netto-tonnage van het schip, zoals die is vastgesteld overeenkomstig de bepalingen van Voorschrift 4, mag niet worden overgegaan tot uitgifte van een nieuwe Internationale Meetbrief (1969) waarop de aldus vastgestelde netto-tonnage is vermeld, alvorens twaalf maanden zijn verstreken na de datum waarop de lopende Meetbrief was uitgegeven. Dit vereiste zal evenwel niet worden gesteld:
-
-- (a). als het schip onder de vlag van een andere Staat is overgegaan, of
-
-- (b). als het schip veranderingen of wijzigingen ondergaat, die door de Administratie geacht worden van een ingrijpend karakter te zijn, zoals bijvoorbeeld het wegnemen van een bovenbouw, waardoor een wijziging van de toegekende uitwateringslijn wordt vereist, of
-
-- (c). voor passagiersschepen, die worden gebruikt voor het vervoer van grote aantallen dekpassagiers tijdens speciale vaarten, zoals bijvoorbeeld het vervoeren van pelgrims.
-
-##### Voorschrift 6. Berekening van volumes
-
-- (1). Alle volumes begrepen in de berekening van bruto- en netto-tonnages dienen te worden gemeten, ongeacht aangebrachte isolatie of soortgelijk materiaal, tot de binnenzijde van de huid of tot de begrenzingswanden bij metalen schepen en tot de buitenzijde van de huid of tot de binnenzijde van de begrenzingswanden bij schepen gebouwd van ander materiaal.
-
-- (2). Het volume van uitbouwsels dient in het totale volume te worden begrepen.
-
-- (3). Het volume der voor de zee openstaande ruimten mag van het totaal volume worden afgetrokken.
-
-##### Voorschrift 7. Meting en berekening
-
-- (1). Alle metingen, gebruikt bij de berekening van volumes, dienen te worden verricht tot op 1 centimeter of een twintigste voet nauwkeurig.
-
-- (2). De volumes dienen te worden berekend volgens algemeen aanvaarde methoden voor de betrokken ruimte en met een voor de Administratie aanvaardbare nauwkeurigheid.
-
-- (3). De berekening dient voldoende gedetailleerd te zijn om gemakkelijke verificatie mogelijk te maken.
-
-IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
-
-DONE at London this twenty-third day of June 1969.
-
-##### Voorschrift 8. Toepassing
-
-De Verdragsluitende Regeringen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in dit Verdrag.
-
-##### Voorschrift 9. Verificatie van de naleving
-
-1. Elke Verdragsluitende Regering wordt onderworpen aan periodieke audits door de Organisatie in overeenstemming met de auditnorm teneinde de naleving en implementatie van dit Verdrag te verifiëren.
-
-2. De Secretaris-Generaal van de Organisatie is verantwoordelijk voor de uitvoering van het auditprogramma, op basis van de door de Organisatie opgestelde richtlijnen.
-
-3. Elke Verdragsluitende Regering is verantwoordelijk voor het faciliteren van de uitvoering van de audit en de implementatie van een actieprogramma teneinde een vervolg te geven aan de bevindingen, op basis van de door de Organisatie opgestelde richtlijnen.
-
-4. De audit van alle Verdragsluitende Regeringen:
-
-- .1. is gebaseerd op een door de Secretaris-Generaal van de Organisatie ontwikkeld algemeen schema, rekening houdend met de door de Organisatie opgestelde richtlijnen; en
-
-- .2. vindt periodiek plaats, rekening houdend met de door de Organisatie opgestelde richtlijnen.
+The present Convention is established in a single copy in the English and French languages, both texts being equally authentic. Official translations in the Russian and Spanish languages shall be prepared and deposited with the signed original.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 

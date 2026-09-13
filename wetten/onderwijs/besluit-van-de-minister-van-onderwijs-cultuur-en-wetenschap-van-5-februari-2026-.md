@@ -9,7 +9,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0053094"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februari 2026, kenmerk 61784800, houdende wijziging van de Gemeenschappelijke regeling Zeeuws Archief

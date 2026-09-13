@@ -1,220 +1,181 @@
 ---
 title: "Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van het Ruimtelaboratorium-programma"
 identifier: "BWBV0003419"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-02-06"
-last_updated: "1979-02-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003419"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003524523"
-version_id: "10003574142"
-internal_id: "C10006982381"
-label_id: "10003510544"
-dtd_version: "2.0"
-original_entry_into_force: "1979-02-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003419/1979-02-06/0"
-intitule_bron: "Trb.1974-104"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-07-11"
-intitule_in_force: "1979-02-12"
-intitule_status: "goed"
-original_publication: "Trb.1974-104"
-original_published_date: "1974-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-104"
-entry_into_force_date: "1979-02-06"
-jci_1_3: "jci1.3:c:BWBV0003419&z=1979-02-06&g=1979-02-06"
-jci_1_0: "1.0:c:BWBV0003419&g=1979-02-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-02-06"
+publicatiedatum: 1979-02-06
+laatste_update: 1979-02-06
+status: geldig
+toestand: 1979-02-06
+bron: "https://wetten.overheid.nl/BWBV0003419"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van het Ruimtelaboratorium-programma
 
-Preambule
+*Preamble The Governments signatories of this Arrangement, (hereinafter referred to as “the Participants”) being Governments of States parties to the Convention for the establishment of a European Space Research Organisation opened for signature on 14 June 1962 (hereinafter referred to as “the Convention”), and the European Space Research Organisation (hereinafter referred to as “the Organisation”), Having regard to the United States Authorities’ offer to Europe to take part in the post-Apollo programme by developing one or more research and application modules and by making use of the shuttle and orbital system, Recalling Resolution No. 3 of 24 July 1970 of the European Space Conference on cooperation in the post-Apollo programme, and the agreement reached by the European Space Conference at its meeting in Brussels on 20 December 1972, concerning the execution of the Spacelab programme, which has been notified to the United States Authorities, and under which this programme shall be executed in the first instance by the Organisation and be pursued later on by the future European Space Agency, Considering the advantage to international cooperation from an active contribution from Europe towards the execution of the most important space programme currently developed and the advantage to Europe from developing its space technology through participation in this programme, Recalling the authority already granted by the Council of the Organisation at its 50th Session (ESRO/C/MIN/50), on the basis of which the Director General has initiated the project definition phase of the Spacelab programme, Considering the draft Memorandum of Understanding (ESRO/ C(73)2, rev. 1 - Annex III) between the Organisation and the National Aeronautics and Space Administration (NASA) of the United States Government (hereinafter referred to as the “Memorandum of Unterstanding”), Having regard to the Resolution adopted by the Council of the Organisation at its 53rd Session, concerning the approval to execute the Spacelab programme within the framework of the Organisation (ESRO/C/LIII/Res. 1 (Final)), Have agreed as follows:*
 
-De Regeringen die deze Overeenkomst ondertekenen (hierna te noemen „de Deelnemers”), zijnde Regeringen van Staten die partij zijn bij het Verdrag tot oprichting van een Europese Organisatie voor Ruimteonderzoek, dat op 14 juni 1962 voor ondertekening werd opengesteld (hierna te noemen „het Verdrag”),
+##### Article 1
 
-en
+1. The Participants shall, under the provisions of the present Arrangement and in particular of Article 5 thereof, undertake in close cooperation with the United States Authorities a programme having as its objective the definition, design, development and construction of the Spacelab as a technically integrated part of the United States' shuttle and orbital system and Europe's contribution to the post-Apollo programme with which it is to be used.
 
-de Europese Organisatie voor Ruimteonderzoek (hierna te noemen „de Organisatie”),
+2. The objectives and elements of the Spacelab programme are described in Annex A to the present Arrangement.
 
-Gelet op het aanbod van de autoriteiten van de Verenigde Staten aan Europa deel te nemen aan het post-Apollo-programma door de ontwikkeling van een of meer onderzoeks- en applicatiemodules en door gebruikmaking van het ruimteveerboot-transportsysteem,
+##### Article 2
 
-Herinnerend aan resolutie no. 3 van 24 juli 1970 van de Europese Ruimteconferentie inzake samenwerking in het post-Apollo-programma, en de overeenstemming, door de Europese Ruimteconferentie bereikt tijdens haar vergadering in Brussel op 20 december 1972 betreffende de uitvoering van het Ruimtelaboratorium-programma, die ter kennis werd gebracht van de autoriteiten van de Verenigde Staten en op grond waarvan dit programma in eerste aanleg wordt uitgevoerd door de Organisatie en later voortgezet door het toekomstige Europese Ruimteagentschap,
+The programme referred to in Article 1 above shall be broken down into two phases, a definition phase which has already been started and a design, development and construction phase.
 
-Overwegende het voordeel voor de internationale samenwerking voortvloeiende uit een actieve bijdrage van Europa aan de uitvoering van het belangrijkste ruimteprogramma dat thans wordt ontwikkeld en het voordeel voor Europa van de ontwikkeling van zijn ruimtetechnologie door deelneming in dit programma,
+- 1. The purpose of the definition phase (sub-phases B1-B3) of the Spacelab programme is to establish the configuration of the Spacelab in the light of the requirements of the users and to define the corresponding sub-systems. The results available at the end of sub-phase B2 will serve as a basis for the preparation of a technical proposal and a development plan, together with a detailed cost analysis and an estimate of the cost of the design, development and construction phase.
 
-Herinnerend aan de machtiging die reeds door de Raad van de Organisatie werd verleend tijdens zijn 50ste zitting (ESRO/C/MIN/ 50), op grond waarvan de Directeur-Generaal een aanvang heeft gemaakt met de fase der project-omschrijving van het Ruimtelaboratorium-programma,
+- 2. The elements for the detailed analysis referred to in paragraph 1 of the present Article shall be available to the Participants by 1 August 1973 and will also be notified to the other Member States of the Organisation.
 
-Overwegend het ontwerp van Memorandum van Overeenstemming (ESRO/C(73)2, herz. 1 - Bijlage III) tussen de Organisatie en de National Aeronautics and Space Administration (NASA) van de Regering der Verenigde Staten (hierna te noemen het „Memorandum van Overeenstemming”),
+- 3. The decision to proceed to the design, development and construction phase shall be taken in conformity with the provisions of Article 5 below.
 
-Gelet op de door de Raad van de Organisatie tijdens zijn 53ste zitting aangenomen Resolutie betreffende de goedkeuring van de uitvoering van het Ruimtelaboratorium-programma binnen het kader van de Organisatie (ESRO/C/LIII/Res. 1 (Final)),
+##### Article 3
 
-Zijn overeengekomen als volgt:
+1. The Organisation shall, under Article VIII of the Convention, execute the Spacelab programme in conformity with the timetable and other provisions set out in Annex A to this Arrangement.
 
-##### Artikel 1
+2. Except where otherwise provided in this Arrangement, the Organisation shall execute the programme in conformity with the Rules and Procedures in force in the Organisation.
 
-1. Krachtens de bepalingen van deze Overeenkomst en inzonderheid van artikel 5 voeren de Deelnemers, in nauwe samenwerking met de autoriteiten van de Verenigde Staten, een programma uit dat ten doel heeft de definitie, het ontwerp, de ontwikkeling en de constructie van het Ruimtelaboratorium als technisch geïntegreerd onderdeel van het ruimteveerboot-transportsysteem van de Verenigde Staten en als Europese bijdrage aan het post-Apollo-programma waarbij het zal worden gebruikt.
+3. For the purpose of the cooperation with NASA referred to in Article 1 above, and in order to ensure close integration of the Spacelab with the other elements of the shuttle and orbital system, particularly with the development of the space shuttle, the Organisation shall set up, on the basis of the Memorandum of Understanding, a structure for cooperation and coordination with NASA. The European scientific and technical users shall be associated with the work of the Organisation and NASA.
 
-2. De doeleinden en onderdelen van het Ruimtelaboratorium-programma zijn beschreven in Bijlage A bij deze Overeenkomst.
+##### Article 4
 
-##### Artikel 2
+1. A Programme Board, composed of representatives of the Participants, shall be responsible for the programme and shall take all decisions relating to it in conformity with the provisions of this Arrangement.
 
-Het in artikel 1 bedoelde programma wordt gesplitst in twee fasen, een definitiefase - die reeds is aangevangen - en een fase van ontwerp, ontwikkeling en constructie.
+2. For matters affecting more than one programme of the Organisation, the Programme Board shall be advisory to the Council of the Organisation, to which it will on such matters make all necessary recommendations.
 
-- 1. Het doel van de definitiefase (sub-fasen B1-B3) van het Ruimtelaboratorium-programma is het vaststellen van de indeling van het Ruimtelaboratorium in het licht van de door de gebruikers gestelde eisen en het omschrijven van de daarmede overeenkomende sub-systemen. De aan het einde van sub-fase B2 beschikbare resultaten zullen de grondslag vormen voor de opstelling van een technisch voorstel en een ontwikkelingsplan, vergezeld van een uitvoerige analyse van de kosten en een kostenraming van de ontwerp-, ontwikkelings- en constructiefase.
+3. The Programme Board shall in particular:
 
-- 2. De gegevens voor de in het eerste lid van dit artikel bedoelde uitvoerige analyse zullen op 1 augustus 1973 ter beschikking van de Deelnemers komen en zullen ook ter kennis worden gebracht van de andere Lid-Staten van de Organisatie.
+- (a) provide the Director General of the Organisation with all necessary instructions concerning the execution of the programme, in particular regarding the interfaces of the programme with the other elements of the shuttle and orbital system of the United-States,
 
-- 3. Het besluit over te gaan tot de ontwerp-, ontwikkelings- en constructiefase wordt genomen overeenkomstig het bepaalde in artikel 5.
+- (b) ensure that close links are established by the Organisation with the future European users of the Spacelab system,
 
-##### Artikel 3
+- (c) ensure implementation of the Memorandum of Understanding and any other relevant legal documents as far as the rights and obligations of the Participants are concerned,
 
-1. Krachtens artikel VIII van het Verdrag voert de Organisatie het Ruimtelaboratorium-programma uit overeenkomstig het tijdschema en de andere bepalingen vervat in Bijlage A bij deze Overeenkomst.
+- (d) study, if possible at least three years before the end of the development of Spacelab, the rules for implementing the principles referred to in Article 10 of this Arrangement.
 
-2. Tenzij in deze Overeenkomst anders bepaald voert de Organisatie het programma uit overeenkomstig de binnen de Organisatie geldende regels en procedures.
+4. The Programme Board may establish such advisory bodies as it may deem necessary for the proper execution of the programme.
 
-3. Ten behoeve van de samenwerking met de NASA zoals bedoeld in artikel 1 en ten einde een nauwe integratie van het Ruimtelaboratorium te verzekeren met de andere onderdelen van het ruimteveerboot-transportsysteem, in het bijzonder met de ontwikkeling van de ruimteveerboot, roept de Organisatie, op basis van het Memorandum van Overeenstemming, structuren voor samenwerking en coördinatie met de NASA in het leven. De Europese wetenschappelijke en technische gebruikers worden bij het werk van de Organisatie en de NASA betrokken.
+5. Except where otherwise provided in this Arrangement, the decisions of the Programme Board shall be taken in accordance with the Rules of Procedure for the Organisation's Council which shall apply mutatis mutandis.
 
-##### Artikel 4
+##### Article 5
 
-1. Een Programmaraad, bestaande uit vertegenwoordigers van de Deelnemers, is verantwoordelijk voor het programma en neemt alle desbetreffende beslissingen overeenkomstig de bepalingen van deze Overeenkomst.
+1. The financial envelope of the programme on the date of opening the present Arrangement for signature is estimated at 308 millions of accounting units at mid-1973 prices, on the basis of the elements described in Annex B to the present Arrangement. This amount will be reviewed at the end of sub-phase B2 of the definition phase.
 
-2. In aangelegenheden die van invloed zijn op meer dan één programma van de Organisatie treedt de Programmaraad op als adviesorgaan van de Raad van de Organisatie, aan wie hij alle nodige aanbevelingen in zodanige aangelegenheden doet.
+The Participants agree that, should this review confirm the overall financial assumptions, they will continue the programme and initiate sub-phase B3 of the definition phase, as well as the design, development and construction phase. Should it appear that the estimates will be significantly exceeded, the Participants who so wish may withdraw from the programme; however, those Participants that wish to continue with the programme shall consult among themselves and determine arrangements for such continuation.
 
-3. De Programmaraad heeft met name de volgende taken:
+2. The Participants fix a financial envelope of 10 millions of accounting units for the definition phase studies due to be completed by the end of 1973. The Participants agree to contribute to the financing of these studies in accordance with the scale set out in Annex B of the present Arrangement, but only up to the amounts required for the execution of sub-phases B1 and B2 due to be completed by the end of July 1973. When the review referred to in paragraph 1 of the present Article is carried out, the Participants will decide whether to unblock the amount of the envelope that relates to sub-phase B3.
 
-- a). het verstrekken aan de Directeur-Generaal van de Organisatie van alle vereiste instructies betreffende de uitvoering van het programma, in het bijzonder aangaande de raakpunten van het programma met de andere onderdelen van het ruimteveerboot-transportsysteem van de Verenigde Staten,
+3. When fixing the overall financial envelope of this programme in accordance with the provisions of paragraph 1 of the present Article, the Participants shall determine, by unanimous agreement, their individual percentage contributions.
 
-- b). er zorg voor dragen dat door de Organisatie nauwe banden worden aangeknoopt met de toekomstige Europese gebruikers van het Ruimtelaboratoriumsysteem,
+4. The relevant annual budgets shall be subject to the approval of the Programme Board by a two-thirds majority within the relevant financial envelope.
 
-- c). het verzekeren van de uitvoering van het Memorandum van Overeenstemming en van andere desbetreffende rechtsdocumenten voor zover het de rechten en de plichten van de Deelnemers betreft,
+##### Article 6
 
-- d). het bestuderen, indien mogelijk ten minste drie jaar voor de voltooiing van de ontwikkeling van het Ruimtelaboratorium, van de regels voor de toepassing van de beginselen bedoeld in artikel 10 van deze Overeenkomst.
+1. The Participants agree, in order that the overall financial envelope of the programme referred to in Article 5, paragraph 3 of the present Arrangement may be revised in the event of changes in price levels, to apply the procedure in force in the Organisation at that time.
 
-4. De Programmaraad kan de adviesorganen instellen die hij nodig acht voor de goede uitvoering van het programma.
+2. If the overall financial envelope needs to be revised for reasons other than changes in price levels, the following provisions shall apply:
 
-5. Behalve waar in deze Overeenkomst anders is bepaald worden de besluiten van de Programmaraad genomen overeenkomstig het reglement van orde van de Raad van de Organisatie dat mutatis mutandis wordt toegepast.
+- (a) if the cumulative overruns of estimated costs to completion do not exceed 20% of the amount of the overall financial envelope of the programme, no Participant shall be entitled to withdraw from the programme and the Programme Board shall decide on the additional expenditure by a two-thirds majority;
 
-##### Artikel 5
+- (b) if the cumulative overruns of estimated costs to completion exceed 20% of the amount of the overall financial envelope, the Participants who so wish may withdraw from the programme subject to the provisions of Article 17. Those Participants that wish to continue the programme shall consult among themselves and determine the arrangements for such continuation. They shall report accordingly to the Council of the Organisation which will take any necessary decision.
 
-1. Het financiële plafond voor het programma op de datum waarop deze Overeenkomst voor ondertekening wordt opengesteld, wordt geraamd op 308 miljoen rekeneenheden tegen de medio 1973 geldende prijzen, op basis van de gegevens beschreven in Bijlage B bij deze Overeenkomst. Aan het einde van sub-fase B2 van de definitiefase zal dit bedrag nader worden bezien.
+##### Article 7
 
-De Deelnemers komen overeen dat, indien dit nader onderzoek de algemene financiële veronderstellingen bevestigt, zij het programma zullen voortzetten en een aanvang maken met sub-fase B3 van de definitiefase, alsmede met de ontwerp-, ontwikkelings- en constructiefase. Indien mocht blijken dat de ramingen aanmerkelijk zullen worden overschreden, kunnen de Deelnemers die zulks wensen zich uit het programma terugtrekken; de Deelnemers die het programma wensen voort te zetten plegen evenwel onderling overleg ter vaststelling van de regelingen voor een zodanige voortzetting.
+Intellectual property rights arising from the execution of the programme, as well as access to and use of technical information so arising, shall be reserved to the Participants insofar as this is consistent with the relevant terms of the Memorandum of Understanding, but the Organisation shall have the right to make use of them free of charge for its activities as a whole.
 
-2. De Deelnemers stellen een financieel plafond van 10 miljoen rekeneenheden vast voor de studies van de omschrijvingsfase die aan het einde van 1973 moeten zijn voltooid. De Deelnemers komen overeen aan de financiering van deze studies bij te dragen overeenkomstig de verdeelsleutel vervat in Bijlage B bij deze Overeenkomst, doch slechts tot de bedragen vereist voor de uitvoering van de subfasen B1 en B2 die einde juli 1973 voltooid moeten zijn. Wanneer het nader onderzoek bedoeld in het eerste lid van dit artikel is verricht, zullen de Deelnemers besluiten het bedrag te deblokkeren dat bij de bepaling van het financieel plafond is vastgesteld voor subfase B3.
+##### Article 8
 
-3. Bij de vaststelling van het totale financiële plafond voor dit programma overeenkomstig het bepaalde in het eerste lid van dit artikel bepalen de Deelnemers met eenparigheid van stemmen hun individuele procentuele bijdragen.
+1. The Participants authorise the Organisation to conclude the necessary contracts for the execution of the programme in conformity with the Organisation's rules and procedures. However, in placing contracts and sub-contracts for the execution of the programme, first preference shall be given, wherever possible, to having the work executed in the territories of the Participants and second preference to having it done in the territories of other Member States of the Organisation, taking into consideration the decisions of the Council of the Organisation in the matter of contractual policy and distribution of work.
 
-4. De desbetreffende jaarlijkse begrotingen worden met een tweederde meerderheid van stemmen door de Programmaraad goedgekeurd binnen de desbetreffende grenzen van het financiële plafond.
+2. For this purpose the geographical distribution of contracts among the Participants concerning the Spacelab programme shall correspond to the percentage contributions of the Participants. Since the percentage of work to be performed in non-Member States either by direct contracts from the Organisation or by sub-contracts issued by the industrial prime contractor, will probably in this programme be unusually high, the Organisation shall keep the amount of such contracts and sub-contracts under review and ensure that they are excluded from the preparation of statistics on the geographical distribution of contracts amongst Participants.
 
-##### Artikel 6
+##### Article 9
 
-1. De Deelnemers komen overeen dat, ten einde het totale financiële plafond voor het programma bedoeld in het derde lid van artikel 5 van deze Overeenkomst, te kunnen herzien in geval van veranderingen in het prijspeil, de op dat tijdstip binnen de Organisatie geldende procedures zullen worden toegepast.
+1. The Organisation, acting on behalf of the Participants, shall be the owner of the Spacelab elements developed under the programme, as well as of the facilities and equipment acquired for its execution.
 
-2. Indien het totale financiële plafond om andere redenen dan veranderingen in het prijspeil moet worden herzien zijn de volgende bepalingen van toepassing:
+2. The terms and conditions for making available to NASA the elements developed under this Arrangement, as defined in Annex A, shall be fixed by the Memorandum of Understanding between the Organisation and NASA and, as appropriate, by the intergovernmental Agreement between the Participants and the Government of the United States, referred to in Article 10 below.
 
-- a). indien de cumulatieve overschrijdingen van de geraamde kosten voor de voltooiing niet meer belopen dan 20% van het bedrag van de totale raming voor het programma is een Deelnemer niet gerechtigd zich uit het programma terug te trekken en besluit de Programmaraad met een twee derde meerderheid van stemmen over de bijkomende uitgaven;
+Any transfer of facilities and equipment acquired shall be decided on by the Programme Board, in consultation with the Council of the Organisation.
 
-- b). indien de cumulatieve overschrijdingen van de geraamde kosten voor de voltooiing meer belopen dan 20% van de totale raming, kunnen de Deelnemers die zulks wensen zich terugtrekken uit het programma, onder voorbehoud van het bepaalde in artikel 17. De Deelnemers die het programma wensen voort te zetten, plegen onderling overleg en stellen de regelingen voor een zodanige voortzetting vast. Zij brengen dienovereenkomstig verslag uit aan de Raad van de Organisatie die de vereiste besluiten neemt.
+##### Article 10
 
-##### Artikel 7
+The Participants intend to define, in consultation with the Council of the Organisation, in an Agreement with the Government of the United States, the principles relating to the use of the Spacelab and the other parts of the shuttle and orbital system, in particular the space shuttle, access to United States technology, and all other questions appropriate to such an Agreement.
 
-Intellectuele eigendomsrechten voortvloeiend uit de uitvoering van het programma, evenals toegang tot en gebruik van technische gegevens die aldus worden verkregen, zijn voorbehouden aan de Deelnemers voor zover dit verenigbaar is met de desbetreffende voorwaarden van het Memorandum van Overeenstemming, maar de Organisatie heeft het recht daar kosteloos gebruik van te maken voor al haar eigen werkzaamheden.
+##### Article 11
 
-##### Artikel 8
+1. The Participants shall indemnify the Organisation in respect of any obligation it may incur should its international liability be involved as a result of the execution of the programme.
 
-1. De Deelnemers machtigen de Organisatie de nodige contracten te sluiten voor de uitvoering van het programma overeenkomstig de regels en procedures van de Organisatie. Bij het plaatsen van contracten en sub-contracten voor de uitvoering van het programma wordt evenwel waar mogelijk in eerste instantie de voorkeur gegeven aan het laten verrichten van de werkzaamheden op het grondgebied van de Deelnemers en daarna aan de uitvoering ervan op het grondgebied van andere Lid-Staten van de Organisatie, met inachtneming van de besluiten van de Raad van de Organisatie ter zake van het beleid omtrent het plaatsen van contracten en de werkverdeling.
+2. Any compensation for damage received by the Organisation with respect to the programme shall be credited to the annual programme budgets referred to in Article 5, paragraph 4.
 
-2. Hiertoe dient de geografische verdeling van contracten tussen de Deelnemers betreffende het Ruimtelaboratorium-programma overeen te komen met de procentuele bijdragen van de Deelnemers. Aangezien het percentage van de werkzaamheden dat op grond van rechtstreekse contracten geplaatst door de Organisatie of van subcontracten geplaatst door de industriële hoofdcontractant in niet-Lid-Staten moet worden verricht in dit programma waarschijnlijk ongewoon hoog zal zijn, houdt de Organisatie het bedrag van zodanige contracten en sub-contracten bij en draagt zij er zorg voor dat deze niet in aanmerking worden genomen bij de opstelling van statistieken omtrent de geografische verdeling van contracten tussen de Deelnemers.
+##### Article 12
 
-##### Artikel 9
+The Participants have noted the provisions of the proposed Memorandum of Understanding with NASA and their rights and obligations arising therefrom, and they agree to the Council of the Organisation authorising the Director General to sign the text as approved by the Programme Board and the Council. Should this Memorandum not enter into force, or should it be modified substantially, the Participants will consult among themselves with a view to determine the appropriate measures to be taken.
 
-1. De Organisatie, optredend namens de Deelnemers, is eigenares van de in het kader van dit programma ontwikkelde Ruimtelaboratorium-bestanddelen, alsmede van de installatie en uitrusting die voor de uitvoering van het programma zijn verworven.
+##### Article 13
 
-2. De voorwaarden en bedingen voor het aan de NASA ter beschikking stellen van de krachtens deze Overeenkomst ontwikkelde bestanddelen, zoals omschreven in Bijlage A, worden vastgesteld in het Memorandum van Overeenstemming tussen de Organisatie en de NASA en, waar dienstig, bij de intergouvernementele overeenkomst tussen de Deelnemers en de Regering van de Verenigde Staten bedoeld in artikel 10.
+1. Any dispute which arises between two or more of the Participants, or between any of them and the Organisation, concerning the interpretation or application of this Arrangement, and which cannot be settled by mutual consent, shall be submitted at the request of any party to the dispute to a single arbitrator to be appointed by the President of the International Court of Justice. The arbitrator may not be a national of a State which is party to the dispute, nor be permanently resident in that State.
 
-Over elke overdracht van verworven installaties en uitrusting wordt beslist door de Programmaraad, in overleg met de Raad van de Organisatie.
+2. Those parties to the Arrangement which are not parties to the dispute shall have the right to join in the proceedings and the arbitrator's decision shall be binding on all the Participants and the Organisation, whether or not they have joined in the proceedings.
 
-##### Artikel 10
+##### Article 14
 
-De Deelnemers zijn voornemens, in overleg met de Raad van de Organisatie, in een Overeenkomst met de Regering van de Verenigde Staten de beginselen te omschrijven betreffende het gebruik van het Ruimtelaboratorium en van de andere delen van het ruimteveerboot-transportsysteem, inzonderheid van de ruimteveerboot, de toegang tot technologie van de Verenigde Staten en alle andere vraagstukken die in een zodanige Overeenkomst moeten worden geregeld.
+1. This Arrangement shall be open for signature by the Member States of the Organisation from 1 March 1973 to 10 August 1973. If, on this date, the Arrangement has entered into force in accordance with the provisions of paragraph 3 of this Article, it shall remain open for signature until 23 September 1973.
 
-##### Artikel 11
+2. The States shall become parties to this Arrangement:
 
-1. De Deelnemers stellen de Organisatie schadeloos voor elke verplichting die deze aangaat, indien haar internationale aansprakelijkheid in het geding komt ten gevolge van de uitvoering van het programma.
+- – either by signature not subject to ratification or approval,
 
-2. Elke door de Organisatie ten aanzien van het programma ontvangen schadeloosstelling wordt gecrediteerd op de jaarlijkse programmabegrotingen bedoeld in het vierde lid van artikel .5.
+- – or by depositing an instrument of ratification or approval with the Government of the French Republic if the Arrangement has been signed subject to ratification or approval.
 
-##### Artikel 12
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the aggregate contributions payable, on the basis of the scale set out in Annex B, by the States that have become parties to this Arrangement, in accordance with paragraph 2 of this Article, amount to two-thirds of the total contributions payable, for the sub-phase B2.
 
-De Deelnemers hebben kennis genomen van de bepalingen van het voorgestelde Memorandum van Overeenstemming met de NASA en van daaruit voortvloeiende rechten en verplichtingen en stemmen ermede in dat de Raad van de Organisatie de Directeur-Generaal machtigt de tekst, zoals goedgekeurd door de Programmaraad en de Raad, te ondertekenen. Indien dit Memorandum niet van kracht zou worden of ingrijpend zou worden gewijzigd, plegen de Deelnemers onderling overleg omtrent de te nemen passende maatregelen.
+4. For the purpose of paragraph 3 of this Article, the deposit, with the depositary Government, of a declaration of intent to apply the Arrangement provisionally and to seek ratification or approval as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
 
-##### Artikel 13
+5. The Government of any Member State of the Organisation which has not signed the Arrangement by 10 August 1973 may become party to it after that date, provided the other Governments parties to the Arrangement agree. In such case, the Government in question must deposit an instrument of accession with the Government of the French Republic; it may also apply the provisions of paragraph 4 of this Article in order to become a party to this Arrangement.
 
-1. Elk geschil dat zich voordoet tussen twee of meer Deelnemers of tussen een van hen en de Organisatie betreffende de uitlegging of toepassing van deze Overeenkomst en dat niet in onderling overleg kan worden geregeld, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een scheidsman die moet worden benoemd door de President van het Internationaal Gerechtshof. De scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil en evenmin permanent in die Staat zijn gevestigd.
+6. Unless the Programme Board unanimously decides otherwise, a Government that becomes a party to this Arrangement under the terms of paragraph 5 of the present Article, shall pay a contribution equal to that which it would have paid if it had been a party to the Arrangement at the moment of its entry into force, which shall also cover a contribution to the expenses for the definition phase, and this contribution shall be credited to the other Participants pro rata to their contributions to the programme budget.
 
-2. De partijen bij de Overeenkomst die geen partij zijn bij het geschil hebben het recht deel te nemen aan de procedure en de beslissing van de scheidsman is bindend voor alle Deelnemers en de Organisatie, ongeacht of zij aan de procedure hebben deelgenomen.
+##### Article 15
 
-##### Artikel 14
+The Government of a State that is not a Member of the Organisation may present a request to the Council of the Organisation to accede to the programme; a Council decision to grant such a request shall require unanimity and must be taken in agreement with the Programme Board, which shall unanimously determine the detailed terms of accession.
 
-1. Deze Overeenkomst staat van 1 maart 1973 tot en met 10 augustus 1973 open voor ondertekening door Lid-Staten van de Organisatie. Indien op deze datum de Overeenkomst van kracht is geworden in overeenstemming met het derde lid van dit artikel, zal zij voor ondertekening open blijven tot 23 september 1973.
+##### Article 16
 
-2. Staten worden partij bij deze Overeenkomst door:
+The Organisation shall notify the Participants, after consultation with the Programme Board, when the programme has been duly completed in accordance with the provisions of this Arrangement and this Arrangement shall expire upon receipt of such notification.
 
-- -. ondertekening zonder voorbehoud van bekrachtiging of goedkeuring,
+##### Article 17
 
-- -. nederlegging van een akte van bekrachtiging of goedkeuring bij de Regering van de Franse Republiek, indien de Overeenkomst werd ondertekend onder voorbehoud van bekrachtiging of goedkeuring.
+1. A Participant wishing to withdraw under the terms of Article 6, paragraph 2, shall notify its withdrawal to the Organisation. This withdrawal shall take effect at the date of the notification, subject to the following provisions:
 
-3. Deze Overeenkomst wordt van kracht wanneer zij is ondertekend door de Organisatie en wanneer het totaal van de bijdragen, op basis van de verdeelsleutel vervat in Bijlage B te betalen door de Staten die partij bij deze Overeenkomst zijn geworden overeenkomstig het tweede lid van dit artikel, twee derde beloopt van de totale te betalen bijdragen voor sub-fase B2.
+- (a) the withdrawing Participant shall be bound to pay in the manner agreed its contributions adopted under the current or previous annual budget(s);
 
-4. Voor de toepassing van het derde lid van dit artikel wordt de nederlegging bij de depot-Regering van een verklaring van intentie tot voorlopige toepassing van de Overeenkomst en tot het zo spoedig mogelijk verkrijgen van bekrachtiging of goedkeuring, beschouwd als de nederlegging van een akte van bekrachtiging of goedkeuring.
+- (b) the withdrawing Participant shall remain bound to pay its share of the payment appropriations corresponding to approved contract authority used under the budget for the current or previous financial year(s) and relating to the design, development and construction phase;
 
-5. De Regering van een Lid-Staat van de Organisatie die de Overeenkomst op 10 augustus 1973 nog niet heeft ondertekend kan daarna partij worden, mits de andere Regeringen die partij bij de Overeenkomst zijn daarmede instemmen. In zulk een geval moet de betrokken Regering een akte van toetreding nederleggen bij de Regering van de Franse Republiek; zij kan ook het bepaalde in het vierde lid van dit artikel toepassen ten einde partij bij deze Overeenkomst te worden.
+- (c) the withdrawing Participant shall remain a member of the Programme Board until its obligations under (a) and (b) above have been fulfilled. It shall only have a right to vote on matters which are directly related to these obligations.
 
-6. Tenzij de Programmaraad met eenparigheid van stemmen anders besluit, betaalt een Regering die krachtens het vijfde lid van dit artikel partij bij deze Overeenkomst wordt een bijdrage gelijk aan die welke zij zou hebben betaald indien zij partij bij de Overeenkomst zou zijn geweest op het tijdstip van de inwerkingtreding daarvan, welke bijdrage ook een aandeel omvat in de kosten van de definitiefase, en voor deze bijdrage worden de andere Deelnemers gecrediteerd naar verhouding van hun bijdragen aan de programmabegroting.
+2. The withdrawing Participant shall retain the rights acquired up to the date on which its withdrawal takes effect. As regards actions and developments decided upon after its withdrawal, no further right or obligation shall arise in respect of that part of the programme to which it no longer contributes, unless and to the extent agreed otherwise between the remaining Participants and the withdrawing Participant. The provisions of Article XVII of the Convention of the Organisation shall apply mutatis mutandis.
 
-##### Artikel 15
+3. Should a non-Member State which has acceded to the programme in accordance with the provisions of Article 15 wish to withdraw from the programme, the provisions of this Article shall apply mutatis mutandis.
 
-De Regering van een Staat die geen lid van de Organisatie is, kan bij de Raad van de Organisatie een verzoek indienen om toetreding tot het programma; voor een besluit van de Raad tot instemming met een zodanig verzoek is eenparigheid van stemmen vereist en het moet worden genomen in overleg met de Programmaraad die met eenparigheid van stemmen en tot in bijzonderheden de toetredingsvoorwaarden bepaalt.
+##### Article 18
 
-##### Artikel 16
+Annexes A and B to this Arrangement form an integral part of it.
 
-De Organisatie stelt, na overleg met de Programmaraad, de Deelnemers ervan in kennis wanneer het programma is voltooid overeenkomstig de bepalingen van deze Overeenkomst en deze Overeenkomst wordt beëindigd bij ontvangst van een zodanige kennisgeving.
+##### Article 19
 
-##### Artikel 17
+1. Without prejudice to the relevant provisions of the Memorandum of Understanding, this Arrangement may be amended at the request of a Participant or of the Organisation. Any amendment shall come into force when all parties have notified their approval to the depositary Government.
 
-1. Een Deelnemer die zich krachtens het tweede lid van artikel 6 wenst terug te trekken stelt de Organisatie van zijn terugtrekking in kennis. Deze terugtrekking wordt van kracht op de datum van de kennisgeving, zulks onder voorbehoud van de volgende bepalingen:
+2. Without prejudice to the relevant provisions of the Memorandum of Understanding, the Annexes to the Arrangement may be revised by the Programme Board in accordance with the special provisions contained in the revision clauses of those Annexes.
 
-- a). de zich terugtrekkende Deelnemer is gehouden op de overeengekomen wijze zijn bijdragen te betalen uit hoofde van de lopende of de voorgaande jaarlijkse begroting (en);
+##### Article 20
 
-- b). de zich terugtrekkende Deelnemer blijft gehouden zijn aandeel bij te dragen in de betalingskredieten overeenkomend met de goedgekeurde betalingsverplichtingen aangegaan op grond van de begroting voor het lopende of het (de) voorgaande financiële jaar (jaren) en die betrekking hebben op de fase van ontwerp, ontwikkeling en constructie;
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with [Article 102 of the United Nations Charter](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- c). de zich terugtrekkende Deelnemer blijft lid van de Programmaraad tot hij aan zijn verplichtingen krachtens de letters (a) en (b) hierboven heeft voldaan. Hij heeft slechts stemrecht in aangelegenheden die rechtstreeks met deze verplichtingen verband houden.
+##### Article 21
 
-2. De zich terugtrekkende Deelnemer behoudt de verworven rechten tot de datum waarop zijn terugtrekking van kracht wordt. Uit handelingen en ontwikkelingen waartoe wordt besloten na zijn terugtrekking ontstaat geen verder recht of verdere verplichting ten aanzien van dat deel van het programma waaraan hij niet langer bijdraagt, tenzij en voor zover anders overeengekomen tussen de overblijvende Deelnemers en de zich terugtrekkende Deelnemer. De bepalingen van artikel VII van het Verdrag tot oprichting van de Organisatie zijn mutatis mutandis van toepassing.
-
-3. Indien een niet-Lid-Staat die overeenkomstig het bepaalde in artikel 15 tot het programma is toegetreden, zich uit het programma wenst terug te trekken, is het bepaalde in dit artikel mutatis mutandis van toepassing.
-
-##### Artikel 18
-
-De Bijlagen A en B bij deze Overeenkomst maken een integrerend deel daarvan uit.
-
-##### Artikel 19
-
-1. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kan deze Overeenkomst op verzoek van een Deelnemer of van de Organisatie worden gewijzigd. Wijzigingen worden van kracht wanneer alle partijen de depot-Regering van hun goedkeuring in kennis hebben gesteld.
-
-2. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kunnen de Bijlagen bij de Overeenkomst door de Programmaraad worden herzien overeenkomstig de bijzondere bepalingen vervat in de herzieningsclausule van die Bijlagen.
-
-##### Artikel 20
-
-Bij de inwerkingtreding van de Overeenkomst doet de Regering van de Franse Republiek deze inschrijven bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 21
-
-De Regering van de Franse Republiek treedt op als depositaris van deze Overeenkomst en stelt de Deelnemers en de Organisatie in kennis van de datum van inwerkingtreding van deze Overeenkomst en van wijzigingen daarop en van de nederlegging van alle akten van bekrachtiging, goedkeuring, toetreding en verklaringen van intentie tot voorlopige toepassing van de Overeenkomst.
+The Government of the French Republic shall be the depositary of this Arrangement and shall notify the Participants and the Organisation of the date of entry into force of this Arrangement and any amendments thereto, and of the deposit of all instruments of ratification, approval, accession and declaration of intent to apply the Arrangement provisionally.
 
 IN WITNESS WHEREOF, the undersigned representatives, having been duly authorised thereto, have signed this Arrangement,
 

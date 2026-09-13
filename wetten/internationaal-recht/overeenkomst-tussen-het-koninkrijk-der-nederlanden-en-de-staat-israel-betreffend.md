@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël betreffende het internationale wegvervoer"
 identifier: "BWBV0003705"
-country: "nl"
-rank: "verdrag"
-publication_date: "1977-05-19"
-last_updated: "1977-05-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003705"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003659293"
-version_id: "10003719402"
-internal_id: "C10006982721"
-label_id: "10003644364"
-dtd_version: "2.0"
-original_entry_into_force: "1977-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003705/1977-05-19/0"
-intitule_bron: "Trb.1975-146"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-12-16"
-intitule_in_force: "1977-05-17"
-intitule_status: "goed"
-original_publication: "Trb.1975-146"
-original_published_date: "1975-12-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-146"
-entry_into_force_date: "1977-05-19"
-jci_1_3: "jci1.3:c:BWBV0003705&z=1977-05-19&g=1977-05-19"
-jci_1_0: "1.0:c:BWBV0003705&g=1977-05-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-05-19"
+publicatiedatum: 1977-05-19
+laatste_update: 1977-05-19
+status: geldig
+toestand: 1977-05-19
+bron: "https://wetten.overheid.nl/BWBV0003705"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël betreffende het internationale wegvervoer
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël,
-
-Geleid door de wens, in het belang van hun economische betrekkingen, het goederenvervoer over de weg tussen hun onderscheiden landen en in doorvoer over hun grondgebied te bevorderen;
-
-Besloten hebbende een Overeenkomst te sluiten ten einde bestaande faciliteiten te bevestigen en verdere faciliteiten te scheppen:
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël, Geleid door de wens, in het belang van hun economische betrekkingen, het goederenvervoer over de weg tussen hun onderscheiden landen en in doorvoer over hun grondgebied te bevorderen; Besloten hebbende een Overeenkomst te sluiten ten einde bestaande faciliteiten te bevestigen en verdere faciliteiten te scheppen: Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -46,9 +21,9 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder „voertuig”:
 
 - 1. Ieder mechanisch voortbewogen voertuig dat is gebouwd of ingericht voor:
 
-- a. het vervoer van goederen
+   - a. het vervoer van goederen
 
-- b. het trekken van een ander voertuig dat is gebouwd of ingericht voor het vervoer van goederen.
+   - b. het trekken van een ander voertuig dat is gebouwd of ingericht voor het vervoer van goederen.
 
 - 2. Iedere aanhangwagen of oplegger die is gebouwd voor het vervoer van goederen.
 
@@ -108,10 +83,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, hiertoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN te Jeruzalem, op 3 november 1975, in twee exemplaren in de Nederlandse, de Hebreeuwse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) Chr. ARRIËNS
 
-**Voor de Regering van de Staat Israël**
+*Voor de Regering van de Staat Israël*
 
 (w.g.) YIGAL ALLON

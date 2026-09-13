@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de invordering van sociale verzekeringspremies"
 identifier: "BWBV0003860"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-09-05"
-last_updated: "1980-09-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003860"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10003752393"
-version_id: "10003815282"
-internal_id: "C10006981511"
-label_id: "10003737324"
-dtd_version: "2.0"
-original_entry_into_force: "1980-09-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003860/1980-09-05/0"
-intitule_bron: "Trb.1979-14"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-02-05"
-intitule_in_force: "1980-09-02"
-intitule_status: "goed"
-original_publication: "Trb.1979-14"
-original_published_date: "1979-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-14"
-entry_into_force_date: "1980-09-05"
-jci_1_3: "jci1.3:c:BWBV0003860&z=1980-09-05&g=1980-09-05"
-jci_1_0: "1.0:c:BWBV0003860&g=1980-09-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-09-05"
+publicatiedatum: 1980-09-05
+laatste_update: 1980-09-05
+status: geldig
+toestand: 1980-09-05
+bron: "https://wetten.overheid.nl/BWBV0003860"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg inzake de invordering van sociale verzekeringspremies
 
-Het Koninkrijk der Nederlanden
-
-en
-
-Het Groothertogdom Luxemburg
-
-Geleid door de wens de bevoegde organen van ieder van de Overeenkomstsluitende Partijen in staat te stellen op het grondgebied van de andere Overeenkomstsluitende Partij de premies voor de sociale zekerheid in te vorderen,
-
-Ernaar strevend een regeling te treffen ter toepassing van artikel 92 van Verordening (E.E.G.) no. 1408/71 van de Raad van 14 juni 1971, betreffende de toepassing van de sociale zekerheidsregelingen op loontrekkenden en hun gezinsleden die zich binnen de Gemeenschap verplaatsen,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en Het Groothertogdom Luxemburg Geleid door de wens de bevoegde organen van ieder van de Overeenkomstsluitende Partijen in staat te stellen op het grondgebied van de andere Overeenkomstsluitende Partij de premies voor de sociale zekerheid in te vorderen, Ernaar strevend een regeling te treffen ter toepassing van artikel 92 van Verordening (E.E.G.) no. 1408/71 van de Raad van 14 juni 1971, betreffende de toepassing van de sociale zekerheidsregelingen op loontrekkenden en hun gezinsleden die zich binnen de Gemeenschap verplaatsen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -52,43 +23,43 @@ Deze Overeenkomst regelt de invordering van alle premies die ingevolge de in art
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
-- a). „bevoegde autoriteit”:
+- a) „bevoegde autoriteit”:
 
-- de in artikel 1, letter 1, van Verordening (E.E.G.) no. 1408/71 bedoelde autoriteit;
+   - de in artikel 1, letter 1, van Verordening (E.E.G.) no. 1408/71 bedoelde autoriteit;
 
-- b). „bevoegd orgaan”:
+- b) „bevoegd orgaan”:
 
-- voor Nederland:
+   - voor Nederland:
 
-- de Nederlandse organen of autoriteiten aan wie de premies zijn verschuldigd;
+      - de Nederlandse organen of autoriteiten aan wie de premies zijn verschuldigd;
 
-- voor het Groothertogdom Luxemburg:
+   - voor het Groothertogdom Luxemburg:
 
-- het „Centre d'informatique, d'affiliation et de perception des cotisations de la sécurité sociale” te Luxemburg;
+      - het „Centre d'informatique, d'affiliation et de perception des cotisations de la sécurité sociale” te Luxemburg;
 
-- c). „aangezocht orgaan”:
+- c) „aangezocht orgaan”:
 
-- voor Nederland voor alle premies die zijn verschuldigd aan een Luxemburgs orgaan:
+   - voor Nederland voor alle premies die zijn verschuldigd aan een Luxemburgs orgaan:
 
-- de „Nieuwe Algemene Bedrijfsvereniging” te Amsterdam;
+      - de „Nieuwe Algemene Bedrijfsvereniging” te Amsterdam;
 
-- voor het Groothertogdom Luxemburg voor alle premies die zijn verschuldigd aan de Nederlandse organen of een Nederlandse autoriteit:
+   - voor het Groothertogdom Luxemburg voor alle premies die zijn verschuldigd aan de Nederlandse organen of een Nederlandse autoriteit:
 
-- het „Centre d'informatique, d'affiliation et de perception des cotisations de la sécurité sociale” te Luxemburg;
+      - het „Centre d'informatique, d'affiliation et de perception des cotisations de la sécurité sociale” te Luxemburg;
 
-- d). „verbindingsorgaan”:
+- d) „verbindingsorgaan”:
 
-- voor Nederland:
+   - voor Nederland:
 
-- de „Stichting Bureau voor Belgische Zaken, de sociale verzekering betreffende” te Breda;
+      - de „Stichting Bureau voor Belgische Zaken, de sociale verzekering betreffende” te Breda;
 
-- voor het Groothertogdom Luxemburg:
+   - voor het Groothertogdom Luxemburg:
 
-- de „Inspection générale de la sécurité sociale” te Luxemburg;
+      - de „Inspection générale de la sécurité sociale” te Luxemburg;
 
-- e). „premies”:
+- e) „premies”:
 
-- de premies, evenals de bedragen wegens verhogingen, boeten, renten en kosten, voor zover deze laatstbedoelde bedragen zijn begrepen in het verzoek om administratieve bijstand bij de invordering van de premies.
+   - de premies, evenals de bedragen wegens verhogingen, boeten, renten en kosten, voor zover deze laatstbedoelde bedragen zijn begrepen in het verzoek om administratieve bijstand bij de invordering van de premies.
 
 ##### Artikel 3
 
@@ -96,9 +67,9 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing indien de schuld niet groter is dan
 
-- -. vijfhonderd gulden in Nederland en
+- - vijfhonderd gulden in Nederland en
 
-- -. zevenduizend vijfhonderd frank in het Groothertogdom Luxemburg.
+- - zevenduizend vijfhonderd frank in het Groothertogdom Luxemburg.
 
 De bevoegde autoriteiten van de beide Overeenkomstsluitende Partijen kunnen zo nodig andere minimumbedragen vaststellen.
 
@@ -152,11 +123,11 @@ Deze Overeenkomst wordt gesloten voor de tijd van een jaar, te rekenen vanaf het
 
 GEDAAN te Luxemburg, de 20e december 1978, in tweevoud in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) COHEN STUART
 
-**Voor het Groothertogdom Luxemburg:**
+*Voor het Groothertogdom Luxemburg:*
 
 (w.g.) GASTON THORN
 

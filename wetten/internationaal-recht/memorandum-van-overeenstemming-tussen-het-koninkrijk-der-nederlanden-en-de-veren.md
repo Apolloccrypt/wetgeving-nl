@@ -1,60 +1,19 @@
 ---
 title: "Memorandum van overeenstemming tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika over samenwerking inzake defensiematerieel"
 identifier: "BWBV0003739"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-03-13"
-last_updated: "1990-11-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003739"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003681573"
-version_id: "10003741672"
-internal_id: "C10006981271"
-label_id: "10003666584"
-dtd_version: "2.0"
-original_entry_into_force: "1978-08-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003739/2006-03-13/0"
-intitule_bron: "Trb.1978-121"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-10-02"
-intitule_in_force: "1978-10-02"
-intitule_status: "goed"
-original_publication: "Trb.1978-121"
-original_published_date: "1978-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-121"
-entry_into_force_date: "1978-08-24"
-jci_1_3: "jci1.3:c:BWBV0003739&z=2006-03-13&g=2006-03-13"
-jci_1_0: "1.0:c:BWBV0003739&g=2006-03-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-08-24"
+publicatiedatum: 1978-08-24
+laatste_update: 2006-03-13
+status: geldig
+toestand: 2006-03-13
+bron: "https://wetten.overheid.nl/BWBV0003739"
+opgehaald: 2026-09-13
 ---
+
 # Memorandum van overeenstemming tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika over samenwerking inzake defensiematerieel
 
-**Preamble**
-
-The Government of the Kingdom of the Netherlands and the Government of the United States of America, duly represented by their Ministers of Defense:
-
-Intending to increase their respective defense capabilities through more efficient cooperation in the fields of research and development, production and procurement in order to:
-
-Make the most cost-effective and rational use of the resources available for defense,
-
-Ensure the widest possible use of standard or interoperable equipment,
-
-Develop and maintain an advanced industrial and technological capability for the North Atlantic Alliance, and particularly with respect to the parties to this Memorandum of Understanding (MOU), and
-
-Seeking to improve the present situation and to strengthen their military capability and economic position through the further acquisition of standard or interoperable equipment, and
-
-Recalling that they had agreed, as members of the Alliance, to maximum cooperation in procurement as set forth in Annex A to NATO Document C-M(73)51 (revised), dated 20 August 1973,
-
-Have entered into this Memorandum of Understanding in order to achieve the above aims.
-
-This Memorandum of Understanding sets out the guiding principles governing mutual cooperation in research and development, production and procurement of conventional defense equipment.
-
-The two Governments conclude this MOU to strengthen the North Atlantic Alliance. In so doing, the Governments are fully aware that the Independent European Program Group (IEPG) wants to enhance equipment collaboration by more comprehensive and systematic arrangements. They therefore agree that in the event of a possible conflict between agreements entered into between the IEPG and the Government of the United States, and this MOU, the parties hereto will consult with a view to amending this MOU.
-
-The two Governments further agree that this MOU should be viewed in the larger context of the cooperation between Europe and North America within the Alliance and that this cooperation will be carried out pursuant to the Mutual Defense Assistance Agreement between the Government of the United States of America and the Government of the Kingdom of the Netherlands, signed 27 January 1950.
+*Preamble The Government of the Kingdom of the Netherlands and the Government of the United States of America, duly represented by their Ministers of Defense: Intending to increase their respective defense capabilities through more efficient cooperation in the fields of research and development, production and procurement in order to: - Make the most cost-effective and rational use of the resources available for defense, - Ensure the widest possible use of standard or interoperable equipment, - Develop and maintain an advanced industrial and technological capability for the North Atlantic Alliance, and particularly with respect to the parties to this Memorandum of Understanding (MOU), and Seeking to improve the present situation and to strengthen their military capability and economic position through the further acquisition of standard or interoperable equipment, and Recalling that they had agreed, as members of the Alliance, to maximum cooperation in procurement as set forth in Annex A to NATO Document C-M(73)51 (revised), dated 20 August 1973, Have entered into this Memorandum of Understanding in order to achieve the above aims. This Memorandum of Understanding sets out the guiding principles governing mutual cooperation in research and development, production and procurement of conventional defense equipment. The two Governments conclude this MOU to strengthen the North Atlantic Alliance. In so doing, the Governments are fully aware that the Independent European Program Group (IEPG) wants to enhance equipment collaboration by more comprehensive and systematic arrangements. They therefore agree that in the event of a possible conflict between agreements entered into between the IEPG and the Government of the United States, and this MOU, the parties hereto will consult with a view to amending this MOU. The two Governments further agree that this MOU should be viewed in the larger context of the cooperation between Europe and North America within the Alliance and that this cooperation will be carried out pursuant to the Mutual Defense Assistance Agreement between the Government of the United States of America and the Government of the Kingdom of the Netherlands, signed 27 January 1950.*
 
 ##### Article I. Principles Governing Reciprocal Defense Cooperation
 

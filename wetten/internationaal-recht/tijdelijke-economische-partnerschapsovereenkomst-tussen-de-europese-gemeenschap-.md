@@ -1,45 +1,18 @@
 ---
 title: "Tijdelijke economische partnerschapsovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Centraal-Afrika, anderzijds"
 identifier: "BWBV0003195"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-01-22"
-last_updated: "2009-01-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003195"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003394723"
-version_id: "10003437062"
-internal_id: "C10007708301"
-label_id: "10003382084"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003195/2009-01-22/0"
-intitule_bron: "Trb.2009-73"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-06-12"
-intitule_status: "nogniet"
-original_publication: "Trb.2009-73"
-original_published_date: "2009-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-73"
-jci_1_3: "jci1.3:c:BWBV0003195&z=2009-01-22&g=2009-01-22"
-jci_1_0: "1.0:c:BWBV0003195&g=2009-01-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-06-12"
+laatste_update: 2009-01-22
+status: geldig
+toestand: 2009-01-22
+bron: "https://wetten.overheid.nl/BWBV0003195"
+opgehaald: 2026-09-13
 ---
+
 # Tijdelijke economische partnerschapsovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Centraal-Afrika, anderzijds
 
-Preambule
-
-Gelet op de [ACS-EG-partnerschapsovereenkomst](onbekend), die op 23 juni 2000 te Cotonou werd ondertekend en op 25 juni 2005 te Luxemburg werd herzien, hierna de „[Overeenkomst van Cotonou](onbekend)” genoemd,
-
-Ervan overtuigd dat de economische partnerschapsovereenkomst (EPO) een nieuw, gunstiger klimaat voor hun relaties op het gebied van economisch bestuur, handel en investeringen tot stand zal brengen en nieuwe mogelijkheden voor groei en ontwikkeling zal bieden,
-
-Overwegende dat de liberalisering van de handel in goederen en diensten en van het vestigingsrecht tussen de partijen gebaseerd moet zijn op de regionale integratie van de Centraal-Afrikaanse staten, dat deze tot doel moet hebben hun geleidelijke, harmonieuze integratie in de wereldeconomie te bevorderen, daarbij lettend op hun politieke keuzes en ontwikkelingsprioriteiten, en dat daarbij moet worden voldaan aan de voorwaarden van de overeenkomsten van de Wereldhandelsorganisatie,
-
-Overwegende dat de partijen buitenlandse directe investeringen niet zullen aanmoedigen door afzwakking van hun binnenlandse wet- en regelgeving inzake milieu, arbeid, gezondheid op het werk of veiligheid of door versoepeling van hun binnenlandse arbeidswet- en regelgeving of van voorschriften om culturele diversiteit te beschermen en te bevorderen. De partijen bevestigen daarom opnieuw dat zij zich ertoe verbinden deze binnenlandse wet- en regelgeving na te leven of de naleving ervan aan te bieden, teneinde de vestiging, verwerving, uitbreiding of handhaving van een investering of investeerder op hun gebied aan te moedigen,
-
-Zijn als volgt overeengekomen1)[Red: Bijlage III bij de Overeenkomst ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is te vinden op http://eur-lex.europa.eu/nl/index.htm.]:
+*„Centraal-Afrika”, voor de toepassing van deze overeenkomst bestaand uit: De Republiek Kameroen, enerzijds, en Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, en De Europese Gemeenschap, anderzijds, Preambule Gelet op de ACS-EG-partnerschapsovereenkomst, die op 23 juni 2000 te Cotonou werd ondertekend en op 25 juni 2005 te Luxemburg werd herzien, hierna de „Overeenkomst van Cotonou” genoemd, Ervan overtuigd dat de economische partnerschapsovereenkomst (EPO) een nieuw, gunstiger klimaat voor hun relaties op het gebied van economisch bestuur, handel en investeringen tot stand zal brengen en nieuwe mogelijkheden voor groei en ontwikkeling zal bieden, Overwegende dat de liberalisering van de handel in goederen en diensten en van het vestigingsrecht tussen de partijen gebaseerd moet zijn op de regionale integratie van de Centraal-Afrikaanse staten, dat deze tot doel moet hebben hun geleidelijke, harmonieuze integratie in de wereldeconomie te bevorderen, daarbij lettend op hun politieke keuzes en ontwikkelingsprioriteiten, en dat daarbij moet worden voldaan aan de voorwaarden van de overeenkomsten van de Wereldhandelsorganisatie, Overwegende dat de partijen buitenlandse directe investeringen niet zullen aanmoedigen door afzwakking van hun binnenlandse wet- en regelgeving inzake milieu, arbeid, gezondheid op het werk of veiligheid of door versoepeling van hun binnenlandse arbeidswet- en regelgeving of van voorschriften om culturele diversiteit te beschermen en te bevorderen. De partijen bevestigen daarom opnieuw dat zij zich ertoe verbinden deze binnenlandse wet- en regelgeving na te leven of de naleving ervan aan te bieden, teneinde de vestiging, verwerving, uitbreiding of handhaving van een investering of investeerder op hun gebied aan te moedigen, Zijn als volgt overeengekomen1)[Red: Bijlage III bij de Overeenkomst ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is te vinden op http://eur-lex.europa.eu/nl/index.htm.]:*
 
 ## TITEL I. DOELSTELLINGEN
 
@@ -47,13 +20,13 @@ Zijn als volgt overeengekomen1)[Red: Bijlage III bij de Overeenkomst ligt ter in
 
 Bij deze overeenkomst wordt een initieel kader voor een economische partnerschapsovereenkomst, hierna „EPO” genoemd, vastgesteld.
 
-Onder „initieel kader” wordt door de partijen verstaan een tijdelijke overeenkomst over, enerzijds, daadwerkelijke verbintenissen die in overeenstemming met de bepalingen van deze overeenkomst kunnen worden uitgevoerd, en, anderzijds, onderhandelingen over aanvullende elementen, teneinde een volledige EPO in overeenstemming met de [Overeenkomst van Cotonou](onbekend) te sluiten.
+Onder „initieel kader” wordt door de partijen verstaan een tijdelijke overeenkomst over, enerzijds, daadwerkelijke verbintenissen die in overeenstemming met de bepalingen van deze overeenkomst kunnen worden uitgevoerd, en, anderzijds, onderhandelingen over aanvullende elementen, teneinde een volledige EPO in overeenstemming met de Overeenkomst van Cotonou te sluiten.
 
 ##### Artikel 2. Algemene doelstellingen en werkingssfeer
 
 De doelstellingen van deze overeenkomst zijn:
 
-- a. bijdragen aan het terugdringen en uiteindelijk het uitroeien van armoede door de instelling van een handelspartnerschap dat in overeenstemming is met het doel van een duurzame ontwikkeling, de millenniumdoelstellingen voor ontwikkeling en de [Overeenkomst van Cotonou](onbekend);
+- a. bijdragen aan het terugdringen en uiteindelijk het uitroeien van armoede door de instelling van een handelspartnerschap dat in overeenstemming is met het doel van een duurzame ontwikkeling, de millenniumdoelstellingen voor ontwikkeling en de Overeenkomst van Cotonou;
 
 - b. bevordering van een beter concurrerende en meer gediversifieerde regionale economie in Centraal-Afrika en van constantere groei;
 
@@ -71,7 +44,7 @@ De doelstellingen van deze overeenkomst zijn:
 
 ##### Artikel 3. Specifieke doelstellingen
 
-Overeenkomstig de [artikelen 34](onbekend)en [35 van de Overeenkomst van Cotonou](onbekend) heeft deze overeenkomst de volgende doelstellingen:
+Overeenkomstig de artikelen 34en 35 van de Overeenkomst van Cotonou heeft deze overeenkomst de volgende doelstellingen:
 
 - a. leggen van de grondslagen voor onderhandelingen over een EPO die bijdraagt tot terugdringing van de armoede, die de regionale integratie, economische samenwerking en een goed bestuur in Centraal-Afrika bevordert en die de productie-, uitvoer- en leveringscapaciteit van Centraal-Afrika, alsmede zijn vermogen om buitenlandse investeringen aan te trekken en zijn capaciteit inzake handelsbeleid en handelsgerelateerde vraagstukken verbetert;
 
@@ -97,43 +70,43 @@ De partijen bevestigen hun voornemen de verschillende hun ter beschikking staand
 
 - a. ontwikkeling van de regionale basisinfrastructuur:
 
-- –. vervoer;
+   - – vervoer;
 
-- –. energie;
+   - – energie;
 
-- –. telecommunicatie;
+   - – telecommunicatie;
 
 - b. landbouw en voedselzekerheid:
 
-- –. landbouwproductie;
+   - – landbouwproductie;
 
-- –. agro-industrie;
+   - – agro-industrie;
 
-- –. visserij;
+   - – visserij;
 
-- –. veeteelt;
+   - – veeteelt;
 
-- –. aquicultuur en visbestanden;
+   - – aquicultuur en visbestanden;
 
 - c. industrie, diversificatie en concurrentievermogen van de economie:
 
-- –. modernisering van ondernemingen;
+   - – modernisering van ondernemingen;
 
-- –. industrie;
+   - – industrie;
 
-- –. normen en certificering (sanitaire en fytosanitaire maatregelen, kwaliteit, zoötechnische normen enz.);
+   - – normen en certificering (sanitaire en fytosanitaire maatregelen, kwaliteit, zoötechnische normen enz.);
 
 - d. verdieping van de regionale integratie:
 
-- –. ontwikkeling van de regionale gemeenschappelijke markt;
+   - – ontwikkeling van de regionale gemeenschappelijke markt;
 
-- –. belastingen en douane;
+   - – belastingen en douane;
 
 - e. verbetering van het ondernemingsklimaat:
 
-- –. harmonisatie van het nationale handelsbeleid.
+   - – harmonisatie van het nationale handelsbeleid.
 
-2. Bij de tenuitvoerlegging van dit partnerschap baseren de partijen zich op het gezamenlijk oriënterend document dat aan bijlage I bij deze overeenkomst is gehecht.
+2. Bij de tenuitvoerlegging van dit partnerschap baseren de partijen zich op het gezamenlijk oriënterend document dat aan [bijlage I](https://wetten.overheid.nl/BWBV0003195) bij deze overeenkomst is gehecht.
 
 3. In het kader van de tenuitvoerlegging van deze overeenkomst bevestigen de partijen hun voornemen de modernisering van de onder deze overeenkomst vallende productiesectoren in Centraal-Afrika met behulp van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=II&artikel=7&z=2009-01-22&g=2009-01-22) bedoelde samenwerkingsinstrumenten te bevorderen.
 
@@ -143,9 +116,9 @@ De partijen zijn van oordeel dat de voor het bedrijfsleven geldende randvoorwaar
 
 ##### Artikel 7. Samenwerking inzake ontwikkelingsfinanciering
 
-1. De bepalingen van de [Overeenkomst van Cotonou](onbekend) betreffende regionale economische samenwerking en integratie worden zodanig ten uitvoer gelegd dat de verwachte voordelen van deze overeenkomst zo groot mogelijk zijn.
+1. De bepalingen van de Overeenkomst van Cotonou betreffende regionale economische samenwerking en integratie worden zodanig ten uitvoer gelegd dat de verwachte voordelen van deze overeenkomst zo groot mogelijk zijn.
 
-2. De financiering door de Europese Gemeenschap1)Exclusief de lidstaten. van de ontwikkelingssamenwerking tussen Centraal-Afrika en de Europese Gemeenschap ter ondersteuning van de uitvoering van deze overeenkomst vindt plaats in het kader van de voorschriften en passende procedures die zijn neergelegd in de [Overeenkomst van Cotonou](onbekend), met name de programmeringsprocedures van het Europees Ontwikkelingsfonds, en in het kader van de desbetreffende instrumenten die uit de algemene begroting van de Europese Unie worden gefinancierd. Steun bij de uitvoering van deze overeenkomst is een van de prioriteiten in dit verband.
+2. De financiering door de Europese Gemeenschap1)Exclusief de lidstaten. van de ontwikkelingssamenwerking tussen Centraal-Afrika en de Europese Gemeenschap ter ondersteuning van de uitvoering van deze overeenkomst vindt plaats in het kader van de voorschriften en passende procedures die zijn neergelegd in de Overeenkomst van Cotonou, met name de programmeringsprocedures van het Europees Ontwikkelingsfonds, en in het kader van de desbetreffende instrumenten die uit de algemene begroting van de Europese Unie worden gefinancierd. Steun bij de uitvoering van deze overeenkomst is een van de prioriteiten in dit verband.
 
 3. De lidstaten van de Europese Gemeenschap verbinden zich er gezamenlijk toe ontwikkelingsacties ten behoeve van regionale economische samenwerking en de uitvoering van deze overeenkomst, zowel op nationaal als op regionaal niveau, door middel van hun respectieve ontwikkelingsbeleid en -instrumenten, waaronder hulp voor handel, in overeenstemming met de beginselen van doeltreffendheid en complementariteit van de hulp te steunen.
 
@@ -163,7 +136,7 @@ De partijen komen overeen dat de uitvoering van handelsgerelateerde voorschrifte
 
 2. Het regionale EPO-fonds wordt gefinancierd uit door de partijen verstrekte middelen, en met name uit bijdragen van het EOF, bijdragen van de lidstaten van de Europese Unie en eventuele bijdragen van andere donoren.
 
-3. In afwijking van de leden 1 en 2 verbindt de Europese Gemeenschap zich ertoe haar steun te verlenen via de financieringsmechanismen van de regio zelf of via die welke door de staten die deze tussentijdse overeenkomst sluiten, met inachtneming van de voorschriften en procedures van de [Overeenkomst van Cotonou](onbekend) en in overeenstemming met het beginsel van doeltreffendheid van de hulp daartoe zijn aangewezen.
+3. In afwijking van de leden 1 en 2 verbindt de Europese Gemeenschap zich ertoe haar steun te verlenen via de financieringsmechanismen van de regio zelf of via die welke door de staten die deze tussentijdse overeenkomst sluiten, met inachtneming van de voorschriften en procedures van de Overeenkomst van Cotonou en in overeenstemming met het beginsel van doeltreffendheid van de hulp daartoe zijn aangewezen.
 
 4. De partijen werken samen om bijdragen van andere donoren aan het regionale EPO-fonds te bevorderen.
 
@@ -255,7 +228,7 @@ Producten die onder deze overeenkomst vallen, worden ingedeeld volgens de respec
 
 ##### Artikel 20. Douanerechten op producten van oorsprong uit de overeenkomstsluitende Centraal-Afrikaanse staten
 
-1. Producten van oorsprong uit Centraal-Afrika worden vrij van rechten in de EG ingevoerd; dit geldt niet voor de in bijlage II opgenomen producten onder de daar genoemde voorwaarden.
+1. Producten van oorsprong uit Centraal-Afrika worden vrij van rechten in de EG ingevoerd; dit geldt niet voor de in [bijlage II](https://wetten.overheid.nl/BWBV0003195) opgenomen producten onder de daar genoemde voorwaarden.
 
 2. In de handel tussen de partijen worden geen nieuwe douanerechten ingevoerd en worden al bestaande rechten niet verhoogd.
 
@@ -271,20 +244,20 @@ Producten die onder deze overeenkomst vallen, worden ingedeeld volgens de respec
 
 | Categorie | 1.1.2008 | 1.1.2009 | 1.1.2010 | 1.1.2011 | 1.1.2012 | 1.1.2013 | 1.1.2014 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 0% | 0% | 25% | 50% | 75% | 100% |   |
+| 1 | 0% | 0% | 25% | 50% | 75% | 100% |  |
 | 2 | 0% | 0% | 0% | 15% | 30% | 45% | 60% |
 | 3 | 0% | 0% | 0% | 0% | 0% | 0% | 10% |
 
 | Categorie | 1.1.2015 | 1.1.2016 | 1.1.2017 | 1.1.2018 | 1.1.2019 | 1.1.2020 | 1.1.2021 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 |   |   |   |   |   |   |   |
-| 2 | 75% | 90% | 100% |   |   |   |   |
+| 1 |  |  |  |  |  |  |  |
+| 2 | 75% | 90% | 100% |  |  |  |  |
 | 3 | 20% | 30% | 40% | 50% | 60% | 70% | 80% |
 
 | Categorie | 1.1.2022 | 1.1.2023 |
 | --- | --- | --- |
-| 1 |   |   |
-| 2 |   |   |
+| 1 |  |  |
+| 2 |  |  |
 | 3 | 90% | 100% |
 
 5. De invoer van producten van oorsprong uit de Europese Gemeenschap die in bijlage III onder categorie 5 zijn opgenomen, bestaat uit producten waarvoor het douanerecht volgens de leden 1 en 3 is vastgesteld; de douanerechten voor deze categorie worden noch verlaagd, noch afgeschaft.
@@ -357,9 +330,9 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 
 Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=II&artikel=7&z=2009-01-22&g=2009-01-22) komen de partijen overeen onder meer op de volgende terreinen samen te werken:
 
-- –. steun bij de uitvoering van uit deze overeenkomst voortvloeiende verbintenissen op het gebied van het handelsbeleid;
+- – steun bij de uitvoering van uit deze overeenkomst voortvloeiende verbintenissen op het gebied van het handelsbeleid;
 
-- –. training voor en/of steun bij de interpretatie en toepassing van de desbetreffende voorschriften.
+- – training voor en/of steun bij de interpretatie en toepassing van de desbetreffende voorschriften.
 
 ### HOOFDSTUK 2. HANDELSBESCHERMINGSINSTRUMENTEN
 
@@ -381,9 +354,9 @@ Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titel
 
 ##### Artikel 30. Multilaterale vrijwaringsmaatregelen
 
-1. Behoudens het bepaalde in dit artikel vormt geen enkele bepaling in deze overeenkomst voor de overeenkomstsluitende Centraal-Afrikaanse staten en de EG een beletsel om maatregelen te nemen overeenkomstig artikel XIX van de Algemene Overeenkomst inzake tarieven en handel (GATT) 1994, de [Overeenkomst inzake vrijwaringsmaatregelen](onbekend) en [artikel 5 van de WTO-Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5). Voor de toepassing van dit artikel wordt de oorsprong vastgesteld in overeenstemming met de niet-preferentiële oorsprongsregels van de partijen.
+1. Behoudens het bepaalde in dit artikel vormt geen enkele bepaling in deze overeenkomst voor de overeenkomstsluitende Centraal-Afrikaanse staten en de EG een beletsel om maatregelen te nemen overeenkomstig artikel XIX van de Algemene Overeenkomst inzake tarieven en handel (GATT) 1994, de [Overeenkomst inzake vrijwaringsmaatregelen](https://wetten.overheid.nl/BWBV0001160) en [artikel 5 van de WTO-Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5). Voor de toepassing van dit artikel wordt de oorsprong vastgesteld in overeenstemming met de niet-preferentiële oorsprongsregels van de partijen.
 
-2. Behoudens het bepaalde in lid 1 en gezien de algemene ontwikkelingsdoelstellingen van deze overeenkomst en de kleine omvang van de economieën van de overeenkomstsluitende Centraal-Afrikaanse staten, sluit de EG de invoer uit de overeenkomstsluitende Centraal-Afrikaanse staten uit van maatregelen die zij neemt uit hoofde van artikel XIX van de GATT 1994, de [Overeenkomst inzake vrijwaringsmaatregelen](onbekend) en [artikel 5 van de WTO-Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5).
+2. Behoudens het bepaalde in lid 1 en gezien de algemene ontwikkelingsdoelstellingen van deze overeenkomst en de kleine omvang van de economieën van de overeenkomstsluitende Centraal-Afrikaanse staten, sluit de EG de invoer uit de overeenkomstsluitende Centraal-Afrikaanse staten uit van maatregelen die zij neemt uit hoofde van artikel XIX van de GATT 1994, de [Overeenkomst inzake vrijwaringsmaatregelen](https://wetten.overheid.nl/BWBV0001160) en [artikel 5 van de WTO-Overeenkomst inzake de landbouw](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5).
 
 3. Lid 2 geldt voor een periode van vijf jaar, te beginnen op de datum van inwerkingtreding van deze overeenkomst. Uiterlijk 120 dagen voor het eind van deze periode onderzoekt het EPO-comité opnieuw de uitvoering van deze bepalingen in het licht van de ontwikkelingsbehoeften van de overeenkomstsluitende Centraal-Afrikaanse staten, teneinde vast te stellen of de toepassing ervan moet verlengd.
 
@@ -411,11 +384,11 @@ Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titel
 
 4. Onverminderd de leden 1 tot en met 3 kan de EG, wanneer een product van oorsprong uit een of meer overeenkomstsluitende Centraal-Afrikaanse staten in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor een of meer ultraperifere gebieden van de EU een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, volgens de in de leden 6 tot en met 9 neergelegde procedures toezichts- of vrijwaringsmaatregelen nemen die beperkt zijn tot het gebied of de gebieden in kwestie.
 
-- a. Onverminderd de leden 1 tot en met 3 kan een overeenkomstsluitende Centraal-Afrikaanse staat, wanneer een product van oorsprong uit de EG in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor die staat een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, volgens de in de leden 6 tot en met 9 neergelegde procedures toezichts- of vrijwaringsmaatregelen nemen die tot zijn gebied beperkt zijn.
+5. - a. Onverminderd de leden 1 tot en met 3 kan een overeenkomstsluitende Centraal-Afrikaanse staat, wanneer een product van oorsprong uit de EG in dermate toegenomen hoeveelheden en onder zodanige omstandigheden wordt ingevoerd dat hierdoor voor die staat een van de in lid 2, onder a), b) of c), genoemde situaties ontstaat of dreigt te ontstaan, volgens de in de leden 6 tot en met 9 neergelegde procedures toezichts- of vrijwaringsmaatregelen nemen die tot zijn gebied beperkt zijn.
 
 - b. Een overeenkomstsluitende Centraal-Afrikaanse staat kan vrijwaringsmaatregelen nemen wanneer een product van oorsprong uit de EG als gevolg van de verlaging van de douanerechten in dermate toegenomen hoeveelheden en onder zodanige omstandigheden op zijn gebied wordt ingevoerd dat hierdoor voor een opkomende industrie die soortgelijke of rechtstreeks concurrerende producten vervaardigt, verstoringen ontstaan of dreigen te ontstaan. Deze bepaling geldt voor een periode van vijftien jaar vanaf de datum van inwerkingtreding van deze overeenkomst. De maatregelen moeten in overeenstemming met de leden 6 tot en met 9 worden genomen.
 
-- a. De in dit artikel bedoelde vrijwaringsmaatregelen worden slechts zolang gehandhaafd als nodig is om de ernstige schade of verstoringen als bedoeld in de leden 2, 4 en 5 te voorkomen of te verhelpen.
+6. - a. De in dit artikel bedoelde vrijwaringsmaatregelen worden slechts zolang gehandhaafd als nodig is om de ernstige schade of verstoringen als bedoeld in de leden 2, 4 en 5 te voorkomen of te verhelpen.
 
 - b. De in dit artikel bedoelde vrijwaringsmaatregelen gelden voor niet meer dan twee jaar. Wanneer de omstandigheden die de instelling van vrijwaringsmaatregelen rechtvaardigden, blijven bestaan, kunnen deze maatregelen worden verlengd voor nog eens maximaal twee jaar. Wanneer door de overeenkomstsluitende Centraal-Afrikaanse staten of door een overeenkomstsluitende Centraal-Afrikaanse staat een vrijwaringsmaatregel wordt getroffen, of wanneer de EG vrijwaringsmaatregelen treft die tot het gebied van een of meer van haar ultraperifere gebieden beperkt zijn, gelden deze maatregelen evenwel voor maximaal vier jaar, waarna zij met nog eens maximaal vier jaar kunnen worden verlengd wanneer de omstandigheden die de instelling van vrijwaringsmaatregelen rechtvaardigden, blijven bestaan.
 
@@ -463,7 +436,7 @@ Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titel
 
 - e. stimulering van overleg en samenwerking tussen alle bij de internationale handel betrokken instanties.
 
-2. In afwijking van lid 1 verlenen de douanediensten elkaar administratieve bijstand overeenkomstig de bepalingen van het protocol betreffende wederzijdse administratieve bijstand in douanezaken. Vanaf 2008 besluit het EPO-comité bij consensus over wijzigingen die volgens hem in dat protocol moeten worden aangebracht.
+2. In afwijking van lid 1 verlenen de douanediensten elkaar administratieve bijstand overeenkomstig de bepalingen van het [protocol betreffende wederzijdse administratieve bijstand in douanezaken](https://wetten.overheid.nl/BWBV0003195). Vanaf 2008 besluit het EPO-comité bij consensus over wijzigingen die volgens hem in [dat protocol](https://wetten.overheid.nl/BWBV0003195) moeten worden aangebracht.
 
 ##### Artikel 34. Vormen van samenwerking
 
@@ -543,7 +516,7 @@ De partijen komen overeen:
 
 ##### Artikel 38. Douanewaarde
 
-1. Artikel VII van de GATT 1994 en de [WTO-overeenkomst inzake de toepassing van artikel VII van de GATT 1994](onbekend) zijn van toepassing op de voorschriften inzake de vaststelling van de douanewaarde in de handel tussen de partijen.
+1. Artikel VII van de GATT 1994 en de [WTO-overeenkomst inzake de toepassing van artikel VII van de GATT 1994](https://wetten.overheid.nl/BWBV0001160) zijn van toepassing op de voorschriften inzake de vaststelling van de douanewaarde in de handel tussen de partijen.
 
 2. De partijen werken samen aan een gemeenschappelijke aanpak van kwesties met betrekking tot de douanewaarde, met inbegrip van problemen in verband met de verrekenprijzen.
 
@@ -551,19 +524,19 @@ De partijen komen overeen:
 
 De partijen bevorderen de regionale integratie door vooruitgang te boeken bij de douanehervorming met het doel de handel te bevorderen; zij doen dat met name door te werken aan de normalisering van:
 
-- –. de eisen,
+- – de eisen,
 
-- –. de documentatie,
+- – de documentatie,
 
-- –. de in te dienen gegevens,
+- – de in te dienen gegevens,
 
-- –. de procedures,
+- – de procedures,
 
-- –. de regelingen voor toegelaten handelaren,
+- – de regelingen voor toegelaten handelaren,
 
-- –. de grensprocedures en openingstijden,
+- – de grensprocedures en openingstijden,
 
-- –. de eisen inzake doorvoer, douanevervoer en zekerheidsstelling.
+- – de eisen inzake doorvoer, douanevervoer en zekerheidsstelling.
 
 Dat vereist een nauwe samenwerking tussen alle betrokken instanties, waarbij zoveel mogelijk gebruik moet worden gemaakt van internationale normen.
 
@@ -575,7 +548,7 @@ Dit hoofdstuk heeft tot doel het verkeer van producten tussen de partijen te ver
 
 ##### Artikel 41. Multilaterale verplichtingen en algemene context
 
-1. De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), en met name de [WTO-Overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](onbekend), hierna „de [SPS-Overeenkomst](onbekend)” genoemd, en de [WTO-Overeenkomst inzake technische handelsbelemmeringen](onbekend), hierna de „[TBT-Overeenkomst](onbekend)” genoemd. Partijen die geen lid van de WTO zijn, bevestigen eveneens dat zij ernaar streven de in de [SPS](onbekend)- en [TBT-Overeenkomsten](onbekend) opgenomen verplichtingen inzake alle aangelegenheden die op de onderlinge betrekkingen tussen de partijen van invloed zijn, in acht te nemen.
+1. De partijen bevestigen hun rechten en verplichtingen uit hoofde van de [WTO-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160), en met name de [WTO-Overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), hierna „de [SPS-Overeenkomst](https://wetten.overheid.nl/BWBV0001160)” genoemd, en de [WTO-Overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160), hierna de „[TBT-Overeenkomst](https://wetten.overheid.nl/BWBV0001160)” genoemd. Partijen die geen lid van de WTO zijn, bevestigen eveneens dat zij ernaar streven de in de [SPS](https://wetten.overheid.nl/BWBV0001160)- en [TBT-Overeenkomsten](https://wetten.overheid.nl/BWBV0001160) opgenomen verplichtingen inzake alle aangelegenheden die op de onderlinge betrekkingen tussen de partijen van invloed zijn, in acht te nemen.
 
 2. De partijen bevestigen hun streven naar verbetering van de volksgezondheid op het gebied van de overeenkomstsluitende Centraal-Afrikaanse staten, met name door in het kader van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=III&hoofdstuk=4&artikel=47&z=2009-01-22&g=2009-01-22) hun capaciteit voor het opsporen van gevaarlijke producten te verbeteren.
 
@@ -583,9 +556,9 @@ Dit hoofdstuk heeft tot doel het verkeer van producten tussen de partijen te ver
 
 ##### Artikel 42. Werkingssfeer en definities
 
-1. Dit hoofdstuk is van toepassing op de maatregelen die onder de [SPS](onbekend)- en [TBT-Overeenkomsten](onbekend) van de WTO vallen.
+1. Dit hoofdstuk is van toepassing op de maatregelen die onder de [SPS](https://wetten.overheid.nl/BWBV0001160)- en [TBT-Overeenkomsten](https://wetten.overheid.nl/BWBV0001160) van de WTO vallen.
 
-2. Voor de toepassing van dit hoofdstuk en behoudens andersluidende bepalingen gelden de definities in de [SPS](onbekend)- en [TBT-Overeenkomsten](onbekend), in de Codex Alimentarius en in het Internationaal Verdrag voor de bescherming van planten alsmede de definities van de Wereldorganisatie voor diergezondheid; dat geldt ook voor alle verwijzingen naar „producten” in dit hoofdstuk.
+2. Voor de toepassing van dit hoofdstuk en behoudens andersluidende bepalingen gelden de definities in de [SPS](https://wetten.overheid.nl/BWBV0001160)- en [TBT-Overeenkomsten](https://wetten.overheid.nl/BWBV0001160), in de Codex Alimentarius en in het Internationaal Verdrag voor de bescherming van planten alsmede de definities van de Wereldorganisatie voor diergezondheid; dat geldt ook voor alle verwijzingen naar „producten” in dit hoofdstuk.
 
 ##### Artikel 43. Bevoegde autoriteiten
 
@@ -601,7 +574,7 @@ Bij de vaststelling van de voorwaarden voor invoer kunnen de partijen per geval 
 
 1. De partijen stellen elkaar in kennis van alle wijzigingen in hun wettelijke en bestuursrechtelijke bepalingen betreffende de invoer van producten (met name die van dierlijke en/of plantaardige oorsprong).
 
-2. De partijen bevestigen opnieuw dat zij uit hoofde van de [SPS](onbekend)- en [TBT-Overeenkomsten](onbekend) van de WTO verplicht zijn elkaar door middel van de door deze overeenkomsten ingestelde mechanismen in kennis te stellen van alle wijzigingen van relevante normen en technische voorschriften.
+2. De partijen bevestigen opnieuw dat zij uit hoofde van de [SPS](https://wetten.overheid.nl/BWBV0001160)- en [TBT-Overeenkomsten](https://wetten.overheid.nl/BWBV0001160) van de WTO verplicht zijn elkaar door middel van de door deze overeenkomsten ingestelde mechanismen in kennis te stellen van alle wijzigingen van relevante normen en technische voorschriften.
 
 3. De partijen wisselen eveneens, indien en wanneer nodig, rechtstreeks informatie uit over andere onderwerpen die zij beiden van mogelijk belang voor hun handelsbetrekkingen achten.
 
@@ -617,9 +590,9 @@ Bij de vaststelling van de voorwaarden voor invoer kunnen de partijen per geval 
 
 Overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=II&artikel=7&z=2009-01-22&g=2009-01-22) komen de partijen overeen onder meer op de volgende terreinen samen te werken:
 
-- a. samenwerking ten aanzien van de producten in aanhangsel IA, teneinde de regionale integratie binnen de overeenkomstsluitende Centraal-Afrikaanse staten en de controlecapaciteit overeenkomstig de doelstellingen van deze overeenkomst te versterken en de handel tussen de overeenkomstsluitende Centraal-Afrikaanse staten te bevorderen;
+- a. samenwerking ten aanzien van de producten in [aanhangsel IA](https://wetten.overheid.nl/BWBV0003195), teneinde de regionale integratie binnen de overeenkomstsluitende Centraal-Afrikaanse staten en de controlecapaciteit overeenkomstig de doelstellingen van deze overeenkomst te versterken en de handel tussen de overeenkomstsluitende Centraal-Afrikaanse staten te bevorderen;
 
-- b. samenwerking ten aanzien van de producten in aanhangsel IB, teneinde hun producten concurrerender te maken en de kwaliteit ervan te verbeteren.
+- b. samenwerking ten aanzien van de producten in [aanhangsel IB](https://wetten.overheid.nl/BWBV0003195), teneinde hun producten concurrerender te maken en de kwaliteit ervan te verbeteren.
 
 ### HOOFDSTUK 5. BOSBEHEER EN HANDEL IN HOUT EN IN PRODUCTEN VAN DE BOSBOUW
 
@@ -671,7 +644,7 @@ Onverminderd het bepaalde in dit hoofdstuk, vindt de handel in hout en producten
 
 ##### Artikel 55. Samenwerking
 
-De partijen erkennen dat versterking van hun handelscapaciteit de ontwikkeling van economische activiteiten, met name in de dienstensector, kan ondersteunen en hun regelgeving kan versterken en bevestigen hun respectieve verplichtingen in het kader van de [Overeenkomst van Cotonou](onbekend), en met name die welke voortvloeien uit de [artikelen 34 tot en met 39](onbekend), [41 tot en met 43](onbekend), [45](onbekend) en [74 tot en met 78](onbekend).
+De partijen erkennen dat versterking van hun handelscapaciteit de ontwikkeling van economische activiteiten, met name in de dienstensector, kan ondersteunen en hun regelgeving kan versterken en bevestigen hun respectieve verplichtingen in het kader van de Overeenkomst van Cotonou, en met name die welke voortvloeien uit de artikelen 34 tot en met 39, 41 tot en met 43, 45 en 74 tot en met 78.
 
 ## TITEL V. HANDELSGERELATEERDE VOORSCHRIFTEN
 
@@ -799,27 +772,27 @@ De partijen komen overeen dat de vast te stellen wet- en regelgeving en de ter b
 
 - a. Inhoudelijke beginselen
 
-- i. het beginsel van beperking van het doel – gegevens mogen slechts voor een specifiek doel worden verwerkt en vervolgens worden gebruikt of verder worden doorgegeven voor zover dit niet onverenigbaar is met het doel van de oorspronkelijke doorgifte. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
+   - i. het beginsel van beperking van het doel – gegevens mogen slechts voor een specifiek doel worden verwerkt en vervolgens worden gebruikt of verder worden doorgegeven voor zover dit niet onverenigbaar is met het doel van de oorspronkelijke doorgifte. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
 
-- ii. het beginsel inzake gegevenskwaliteit en evenredigheid – gegevens moeten nauwkeurig zijn en zo nodig worden bijgewerkt. De gegevens moeten geschikt en relevant zijn en mogen niet buitensporig zijn in verhouding tot de doelen waarvoor zij worden doorgegeven of verder worden verwerkt;
+   - ii. het beginsel inzake gegevenskwaliteit en evenredigheid – gegevens moeten nauwkeurig zijn en zo nodig worden bijgewerkt. De gegevens moeten geschikt en relevant zijn en mogen niet buitensporig zijn in verhouding tot de doelen waarvoor zij worden doorgegeven of verder worden verwerkt;
 
-- iii. het transparantiebeginsel – personen moeten informatie krijgen over het doel van de verwerking en over de identiteit van de voor de verwerking verantwoordelijke in het derde land, alsmede alle andere informatie die nodig is om eerlijkheid te garanderen. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
+   - iii. het transparantiebeginsel – personen moeten informatie krijgen over het doel van de verwerking en over de identiteit van de voor de verwerking verantwoordelijke in het derde land, alsmede alle andere informatie die nodig is om eerlijkheid te garanderen. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
 
-- iv. het beveiligingsbeginsel – de voor de verwerking verantwoordelijke moet technische en organisatorische beveiligingsmaatregelen treffen die in overeenstemming zijn met de risico’s van de verwerking. Iedereen die onder het gezag van de voor de verwerking verantwoordelijke staat, met inbegrip van een verwerker, mag de gegevens alleen volgens de instructies van de voor de verwerking verantwoordelijke verwerken;
+   - iv. het beveiligingsbeginsel – de voor de verwerking verantwoordelijke moet technische en organisatorische beveiligingsmaatregelen treffen die in overeenstemming zijn met de risico’s van de verwerking. Iedereen die onder het gezag van de voor de verwerking verantwoordelijke staat, met inbegrip van een verwerker, mag de gegevens alleen volgens de instructies van de voor de verwerking verantwoordelijke verwerken;
 
-- v. het recht van toegang, rectificatie en verzet – de betrokkenen moeten recht hebben op een kopie van alle op hen betrekking hebbende gegevens die worden verwerkt, alsook recht op rectificatie wanneer deze gegevens onjuist blijken. In bepaalde omstandigheden moeten zij zich ook tegen verwerking van hun gegevens kunnen verzetten. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
+   - v. het recht van toegang, rectificatie en verzet – de betrokkenen moeten recht hebben op een kopie van alle op hen betrekking hebbende gegevens die worden verwerkt, alsook recht op rectificatie wanneer deze gegevens onjuist blijken. In bepaalde omstandigheden moeten zij zich ook tegen verwerking van hun gegevens kunnen verzetten. De enige uitzonderingen op deze regel zijn die waarin de wetgeving voorziet en die in een democratische samenleving noodzakelijk zijn voor zwaarwegende openbare belangen;
 
-- vi. beperking van verdere doorgifte – in beginsel mag verdere doorgifte van persoonsgegevens door de ontvanger van de oorspronkelijke doorgifte slechts worden toegestaan wanneer voor de tweede ontvanger (d.w.z. de ontvanger van de verdere doorgifte) ook regels gelden die een passend beschermingsniveau garanderen;
+   - vi. beperking van verdere doorgifte – in beginsel mag verdere doorgifte van persoonsgegevens door de ontvanger van de oorspronkelijke doorgifte slechts worden toegestaan wanneer voor de tweede ontvanger (d.w.z. de ontvanger van de verdere doorgifte) ook regels gelden die een passend beschermingsniveau garanderen;
 
-- vii. gevoelige gegevens – gegeven met informatie over ras of etnische afkomst, politieke opvattingen, godsdienstige of levensbeschouwelijke overtuiging, lidmaatschap van een vakvereniging, of die betreffende de gezondheid of het seksuele leven, en gegevens inzake overtredingen, strafrechtelijke veroordelingen of beveiligingsmaatregelen, mogen uitsluitend worden verwerkt wanneer het nationale recht in extra beschermingsmaatregelen voorziet.
+   - vii. gevoelige gegevens – gegeven met informatie over ras of etnische afkomst, politieke opvattingen, godsdienstige of levensbeschouwelijke overtuiging, lidmaatschap van een vakvereniging, of die betreffende de gezondheid of het seksuele leven, en gegevens inzake overtredingen, strafrechtelijke veroordelingen of beveiligingsmaatregelen, mogen uitsluitend worden verwerkt wanneer het nationale recht in extra beschermingsmaatregelen voorziet.
 
 - b. Handhavingsmechanismen Er moet worden voorzien in passende mechanismen, waardoor kan worden gewaarborgd dat de volgende doelstellingen worden verwezenlijkt:
 
-- i. een goede naleving van de voorschriften: zo moeten de voor de verwerking verantwoordelijken zich zeer goed bewust zijn van hun plichten en moeten de betrokkenen op de hoogte zijn van hun rechten en de middelen die hun ter beschikking staan om deze te doen gelden; er moeten doeltreffende, afschrikkende sancties bestaan, en systemen voor rechtstreekse controle door de autoriteiten, auditors of onafhankelijke functionarissen voor de gegevensbescherming;
+   - i. een goede naleving van de voorschriften: zo moeten de voor de verwerking verantwoordelijken zich zeer goed bewust zijn van hun plichten en moeten de betrokkenen op de hoogte zijn van hun rechten en de middelen die hun ter beschikking staan om deze te doen gelden; er moeten doeltreffende, afschrikkende sancties bestaan, en systemen voor rechtstreekse controle door de autoriteiten, auditors of onafhankelijke functionarissen voor de gegevensbescherming;
 
-- ii. bijstand aan de betrokkenen bij de uitoefening van hun rechten; ieder moet zijn rechten snel, doeltreffend en zonder prohibitieve kosten kunnen afdwingen, onder meer door middel van passende institutionele mechanismen die een onafhankelijk onderzoek van klachten mogelijk maken;
+   - ii. bijstand aan de betrokkenen bij de uitoefening van hun rechten; ieder moet zijn rechten snel, doeltreffend en zonder prohibitieve kosten kunnen afdwingen, onder meer door middel van passende institutionele mechanismen die een onafhankelijk onderzoek van klachten mogelijk maken;
 
-- iii. een passende schadeloosstelling voor de benadeelde partij bij niet-naleving van voorschriften; hiertoe behoort de mogelijkheid tot het opleggen van sancties en de betaling van schadevergoedingen.
+   - iii. een passende schadeloosstelling voor de benadeelde partij bij niet-naleving van voorschriften; hiertoe behoort de mogelijkheid tot het opleggen van sancties en de betaling van schadevergoedingen.
 
 ##### Artikel 64. Inachtneming van internationale verbintenissen
 
@@ -843,7 +816,7 @@ Het doel van deze titel is geschillen tussen de partijen te vermijden en te besl
 
 1. Deze titel heeft betrekking op alle geschillen over de interpretatie en toepassing van deze overeenkomst, tenzij uitdrukkelijk anders bepaald.
 
-2. In afwijking van lid 1 is de procedure van [artikel 98 van de Overeenkomst van Cotonou](onbekend) van toepassing bij geschillen over de financiering van ontwikkelingssamenwerking, als bedoeld in de [Overeenkomst van Cotonou](onbekend).
+2. In afwijking van lid 1 is de procedure van artikel 98 van de Overeenkomst van Cotonou van toepassing bij geschillen over de financiering van ontwikkelingssamenwerking, als bedoeld in de Overeenkomst van Cotonou.
 
 ### HOOFDSTUK 2. OVERLEG EN BEMIDDELING
 
@@ -873,7 +846,7 @@ Het doel van deze titel is geschillen tussen de partijen te vermijden en te besl
 
 ### HOOFDSTUK 3. PROCEDURES VOOR DE BESLECHTING VAN GESCHILLEN
 
-### AFDELING I. ARBITRAGEPROCEDURE
+#### AFDELING I. ARBITRAGEPROCEDURE
 
 ##### Artikel 70. Inleiding van de arbitrageprocedure
 
@@ -905,7 +878,7 @@ Het arbitragepanel legt in het algemeen uiterlijk 120 dagen na de datum van inst
 
 3. Elk van de partijen kan het arbitragepanel verzoeken een aanbeveling te doen over de wijze waarop de partij waartegen de klacht gericht is, aan de overeenkomst kan voldoen.
 
-### AFDELING II. NALEVING
+#### AFDELING II. NALEVING
 
 ##### Artikel 74. Naleving van de uitspraak van het arbitragepanel
 
@@ -951,7 +924,7 @@ Elke partij of, in voorkomend geval, de overeenkomstsluitende Centraal-Afrikaans
 
 3. Wanneer het oorspronkelijke arbitragepanel, of een of meer van de leden ervan, niet opnieuw kan (kunnen) bijeenkomen, is de procedure van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=VI&hoofdstuk=3&afdeling=I&artikel=71&z=2009-01-22&g=2009-01-22) van toepassing. De termijn voor de kennisgeving van de uitspraak bedraagt 60 dagen na de datum van indiening van het in lid 2 bedoelde verzoek.
 
-### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
+#### AFDELING III. GEMEENSCHAPPELIJKE BEPALINGEN
 
 ##### Artikel 79. Onderling overeengekomen oplossing
 
@@ -1005,7 +978,7 @@ Arbitragepanels verbinden zich ertoe de bepalingen van deze overeenkomst uit te 
 
 2. Alle in deze titel vermelde termijnen kunnen in onderling overleg tussen de partijen worden verlengd.
 
-##### Artikel 88. Wijziging van [titel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&titeldeel=IV&z=2009-01-22&g=2009-01-22)
+##### Artikel 88. Wijziging van titel VI
 
 Het EPO-comité kan besluiten deze titel en de bijlagen erbij te wijzigen.
 
@@ -1021,15 +994,15 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 - c. die noodzakelijk zijn voor de handhaving van wetten of voorschriften en die niet strijdig zijn met de bepalingen van deze overeenkomst, met inbegrip van maatregelen die betrekking hebben op:
 
-- i. het voorkomen van misleidende of frauduleuze praktijken of op middelen om in verband met contracten de gevolgen van niet-betaling te compenseren;
+   - i. het voorkomen van misleidende of frauduleuze praktijken of op middelen om in verband met contracten de gevolgen van niet-betaling te compenseren;
 
-- ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en op de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
+   - ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en op de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
 
-- iii. de veiligheid;
+   - iii. de veiligheid;
 
-- iv. de toepassing van douanevoorschriften en -procedures; of
+   - iv. de toepassing van douanevoorschriften en -procedures; of
 
-- v. de bescherming van intellectuele-eigendomsrechten;
+   - v. de bescherming van intellectuele-eigendomsrechten;
 
 - d. die verband houden met de invoer of de uitvoer van goud of zilver;
 
@@ -1049,15 +1022,15 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 - b. de partijen belet maatregelen te nemen die zij ter bescherming van hun wezenlijke veiligheidsbelangen noodzakelijk achten en die
 
-- i. betrekking hebben op splijt- of fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
+   - i. betrekking hebben op splijt- of fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
 
-- ii. betrekking hebben op economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting als doel hebben;
+   - ii. betrekking hebben op economische activiteiten die direct of indirect de bevoorrading van een militaire inrichting als doel hebben;
 
-- iii. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig;
+   - iii. verband houden met de productie van of de handel in wapens, munitie en oorlogstuig;
 
-- iv. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie; of
+   - iv. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie; of
 
-- v. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
+   - v. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
 
 - c. de partijen belet maatregelen te nemen tot uitvoering van de verplichtingen die zij op zich hebben genomen met het oog op de handhaving van de internationale vrede en veiligheid.
 
@@ -1183,9 +1156,9 @@ De partijen zijn vastbesloten illegale activiteiten, fraude, corruptie, het witw
 
 ##### Artikel 106. Verhouding ten aanzien van andere overeenkomsten
 
-1. Met uitzondering van de artikelen inzake ontwikkelingssamenwerking in [deel 3, titel II, van de Overeenkomst van Cotonou](onbekend), hebben in geval van strijdigheid tussen de bepalingen van deze overeenkomst en die van [deel 3, titel II, van de Overeenkomst van Cotonou](onbekend), de bepalingen van deze overeenkomst voorrang.
+1. Met uitzondering van de artikelen inzake ontwikkelingssamenwerking in deel 3, titel II, van de Overeenkomst van Cotonou, hebben in geval van strijdigheid tussen de bepalingen van deze overeenkomst en die van deel 3, titel II, van de Overeenkomst van Cotonou, de bepalingen van deze overeenkomst voorrang.
 
-2. Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de goedkeuring door de Europese Gemeenschap of door een overeenkomstsluitende Centraal-Afrikaanse staat van maatregelen, met inbegrip van maatregelen op handelsgebied, die passend worden geacht en waarin wordt voorzien in de [artikelen 11 ter](onbekend), [96](onbekend) en [97 van de Overeenkomst van Cotonou](onbekend).
+2. Geen enkele bepaling in deze overeenkomst wordt uitgelegd als beletsel voor de goedkeuring door de Europese Gemeenschap of door een overeenkomstsluitende Centraal-Afrikaanse staat van maatregelen, met inbegrip van maatregelen op handelsgebied, die passend worden geacht en waarin wordt voorzien in de artikelen 11 ter, 96 en 97 van de Overeenkomst van Cotonou.
 
 3. De partijen komen overeen dat geen enkele bepaling in deze overeenkomst hen verplicht te handelen op een wijze die in strijd is met hun WTO-verplichtingen.
 
@@ -1198,166 +1171,6 @@ Deze overeenkomst is opgesteld in tweevoud, in de volgende talen: Bulgaars, Tsje
 ##### Artikel 108. Bijlagen en protocollen
 
 De bijlagen en protocollen vormen een integrerend deel van deze overeenkomst.
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit protocol wordt verstaan onder:
-
-- a. „douanewetgeving”: de wettelijke en bestuursrechtelijke bepalingen die van toepassing zijn op de invoer, de uitvoer en de doorvoer van goederen en de plaatsing daarvan onder andere douaneregelingen, met inbegrip van verbods-, beperkings- en controlemaatregelen;
-
-- b. „verzoekende autoriteit”: een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand indient;
-
-- c. „aangezochte autoriteit” : een bevoegde administratieve autoriteit die hiertoe door een overeenkomstsluitende partij is aangewezen en die op grond van dit protocol een verzoek om bijstand ontvangt;
-
-- d. „persoonsgegevens”: alle informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;
-
-- e. „met de douanewetgeving strijdige handeling”: elke overtreding of poging tot overtreding van de douanewetgeving.
-
-##### Artikel 2. Werkingssfeer
-
-1. De overeenkomstsluitende partijen verlenen elkaar bijstand om op de onder hun bevoegdheid vallende gebieden en op de wijze en voorwaarden die bij dit protocol zijn vastgesteld, een correcte toepassing van de douanewetgeving te waarborgen, in het bijzonder door met die wetgeving strijdige handelingen te voorkomen, op te sporen en te vervolgen.
-
-2. De in dit protocol bedoelde bijstand in douanezaken geldt voor alle administratieve autoriteiten van de overeenkomstsluitende partijen die voor de toepassing van dit protocol bevoegd zijn. Deze bijstand laat de regels inzake wederzijdse bijstand in strafzaken onverlet. Hij geldt evenmin voor informatie die is verkregen krachtens bevoegdheden die op verzoek van een rechterlijke instantie worden uitgeoefend, tenzij deze ermee instemt dat die informatie wordt verstrekt.
-
-3. Bijstand bij de invordering van rechten, heffingen en boetes valt niet onder dit protocol.
-
-##### Artikel 3. Bijstand op verzoek
-
-1. Op aanvraag van de verzoekende autoriteit verstrekt de aangezochte autoriteit eerstgenoemde alle ter zake dienende informatie die deze nodig heeft om erop toe te zien dat de douanewetgeving correct wordt toegepast, met inbegrip van informatie betreffende voorgenomen of vastgestelde activiteiten die met deze wetgeving strijdige handelingen zijn of kunnen zijn.
-
-2. Op aanvraag van de verzoekende autoriteit deelt de aangezochte autoriteit haar mede:
-
-- a. of producten die uit het gebied van een van de overeenkomstsluitende partijen zijn uitgevoerd, op regelmatige wijze in het gebied van een andere partij zijn ingevoerd, in voorkomend geval onder vermelding van de douaneregeling waaronder de producten zijn geplaatst;
-
-- b. of producten die in het gebied van een van de overeenkomstsluitende partijen zijn ingevoerd, op regelmatige wijze uit het gebied van de andere partij zijn uitgevoerd, in voorkomend geval onder vermelding van de douaneregeling waaronder de producten zijn geplaatst.
-
-3. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in het kader van haar wettelijke en bestuursrechtelijke bepalingen, de nodige maatregelen om te zorgen voor toezicht op:
-
-- a. natuurlijke personen of rechtspersonen van wie redelijkerwijze kan worden vermoed dat zij met de douanewetgeving strijdige handelingen verrichten of hebben verricht;
-
-- b. plaatsen waar op zodanige wijze voorraden producten zijn of kunnen worden aangelegd dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- c. producten die op zodanige wijze worden of kunnen worden vervoerd dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen;
-
-- d. vervoermiddelen die op zodanige wijze worden of kunnen worden gebruikt dat redelijkerwijs kan worden vermoed dat zij bedoeld zijn om te worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 4. Ongevraagde bijstand
-
-De overeenkomstsluitende partijen verlenen elkaar, in overeenstemming met hun wettelijke en bestuursrechtelijke bepalingen, op eigen initiatief bijstand indien zij dit noodzakelijk achten voor de correcte toepassing van de douanewetgeving, in het bijzonder door de doorgifte van informatie die zij hebben verkregen over:
-
-- a. activiteiten die met de douanewetgeving strijdige handelingen zijn of lijken te zijn en die van belang kunnen zijn voor een andere overeenkomstsluitende partij;
-
-- b. nieuwe middelen of methoden die worden gebruikt om met de douanewetgeving strijdige handelingen te verrichten;
-
-- c. producten waarvan bekend is dat zij het voorwerp vormen van met de douanewetgeving strijdige handelingen;
-
-- d. natuurlijke personen of rechtspersonen van wie redelijkerwijs kan worden vermoed dat zij betrokken zijn of waren bij met de douanewetgeving strijdige handelingen;
-
-- e. vervoermiddelen waarvan redelijkerwijs kan worden vermoed dat zij zijn, worden of kunnen worden gebruikt bij met de douanewetgeving strijdige handelingen.
-
-##### Artikel 5. Verstrekking van documenten en kennisgeving van besluiten
-
-1. Op aanvraag van de verzoekende autoriteit neemt de aangezochte autoriteit, in overeenstemming met haar wettelijke en bestuursrechtelijke bepalingen, alle maatregelen die nodig zijn voor:
-
-- –. de verstrekking van documenten of
-
-- –. de kennisgeving van besluiten van de verzoekende autoriteit in verband met de toepassing van dit protocol aan adressaten die op het gebied van de aangezochte autoriteit verblijven of gevestigd zijn.
-
-2. Verzoeken om de verstrekking van documenten of de kennisgeving van besluiten worden schriftelijk aan de aangezochte autoriteit gericht in een officiële taal van die autoriteit of in een voor die autoriteit aanvaardbare taal.
-
-##### Artikel 6. Vorm en inhoud van verzoeken om bijstand
-
-1. Verzoeken in het kader van dit protocol worden schriftelijk gedaan. Zij gaan vergezeld van de documenten die voor de behandeling ervan noodzakelijk worden geacht. In spoedeisende gevallen kunnen ook mondelinge verzoeken worden geaccepteerd, mits zij onmiddellijk schriftelijk worden bevestigd.
-
-2. De overeenkomstig lid 1 ingediende verzoeken bevatten de volgende gegevens:
-
-- a. de verzoekende autoriteit;
-
-- b. de maatregel waarom wordt gevraagd;
-
-- c. het doel en de reden van het verzoek;
-
-- d. de toepasselijke wettelijke en bestuursrechtelijke bepalingen en andere juridische aspecten;
-
-- e. zo nauwkeurig en volledig mogelijke informatie over de natuurlijke personen of rechtspersonen op wie het onderzoek betrekking heeft;
-
-- f. een samenvatting van de feiten en van het reeds uitgevoerde onderzoek.
-
-3. De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor die autoriteit aanvaardbare taal. Deze eis geldt niet voor de in lid 1 bedoelde documenten bij het verzoek.
-
-4. Indien een verzoek niet aan de hierboven vermelde vormeisen voldoet, kan worden verzocht het te corrigeren of aan te vullen; in de tussentijd kunnen conservatoire maatregelen worden genomen.
-
-##### Artikel 7. Uitvoering van verzoeken
-
-1. Binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen behandelt de aangezochte autoriteit een verzoek om bijstand alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde overeenkomstsluitende partij handelt, en verstrekt zij de al beschikbare informatie en verricht zij het nodige onderzoek of laat zij dit verrichten. Deze bepaling is eveneens van toepassing op autoriteiten waaraan de op grond van dit protocol aangezochte autoriteit het verzoek doorstuurt wanneer zij dit niet zelf kan afhandelen.
-
-2. Aan verzoeken om bijstand wordt voldaan overeenkomstig de wettelijke of bestuursrechtelijke bepalingen van de overeenkomstsluitende partij tot wie het verzoek is gericht.
-
-3. Daartoe gemachtigde ambtenaren van een overeenkomstsluitende partij kunnen met instemming van de betrokken andere overeenkomstsluitende partij en op de door deze gestelde voorwaarden, ten kantore van de aangezochte autoriteit of van een andere betrokken autoriteit als bedoeld in lid 1, informatie verzamelen over activiteiten die met de douanewetgeving strijdige handelingen zijn of kunnen zijn, die de verzoekende autoriteit voor de toepassing van dit protocol benodigt.
-
-4. Daartoe gemachtigde ambtenaren van een overeenkomstsluitende partij kunnen, met instemming van de andere betrokken overeenkomstsluitende partij en op de door deze gestelde voorwaarden, aanwezig zijn bij onderzoek dat op het gebied van laatstgenoemde wordt verricht.
-
-##### Artikel 8. Vorm waarin de informatie moet worden verstrekt
-
-1. De aangezochte autoriteit deelt de uitslag van het onderzoek schriftelijk aan de verzoekende autoriteit mede en voegt daarbij de relevante documenten, gewaarmerkte afschriften of andere stukken.
-
-2. Deze informatie mag in de vorm van computerbestanden worden verstrekt.
-
-3. Originelen van documenten worden uitsluitend op verzoek verstrekt wanneer gewaarmerkte afschriften niet toereikend zijn. Deze originelen worden ten spoedigste geretourneerd.
-
-##### Artikel 9. Gevallen waarin geen bijstand behoeft te worden verleend
-
-1. Bijstand kan worden geweigerd of van bepaalde voorwaarden of eisen afhankelijk worden gesteld wanneer een partij van oordeel is dat bijstand op grond van deze overeenkomst:
-
-- a. de soevereiniteit van een overeenkomstsluitende Centraal-Afrikaanse staat of van een lidstaat van de Europese Gemeenschap waaraan op grond van dit protocol om bijstand is gevraagd, zou kunnen aantasten; of
-
-- b. de openbare orde, de veiligheid of andere wezenlijke belangen in gevaar zou kunnen brengen, in het bijzonder in de in [artikel 10, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003195&artikel=10&z=2009-01-22&g=2009-01-22), bedoelde gevallen; of
-
-- c. tot schending van een industrieel geheim, een handelsgeheim of een beroepsgeheim zou leiden.
-
-2. De aangezochte autoriteit kan de bijstand uitstellen indien deze een lopend onderzoek of een lopende strafvervolging of procedure zou verstoren. In dat geval pleegt de aangezochte autoriteit overleg met de verzoekende autoriteit om na te gaan of bijstand kan worden verleend op door de aangezochte autoriteit te stellen voorwaarden.
-
-3. Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit is vrij te bepalen hoe zij op een dergelijk verzoek reageert.
-
-4. In de in de leden 1 en 2 bedoelde gevallen moeten het besluit van de aangezochte autoriteit en de redenen ervan onverwijld aan de verzoekende autoriteit worden medegedeeld.
-
-##### Artikel 10. Doorgifte van informatie en geheimhoudingsplicht
-
-1. Alle informatie die, in welke vorm dan ook, op grond van dit protocol wordt verstrekt, heeft een vertrouwelijk karakter of is alleen bestemd voor beperkte verspreiding, afhankelijk van de toepasselijke voorschriften van elke overeenkomstsluitende partij. De verstrekte gegevens vallen onder de geheimhoudingsplicht en genieten de bescherming die door de desbetreffende wetgeving van de ontvangende overeenkomstsluitende partij, dan wel door de desbetreffende bepalingen die op de instellingen van de Europese Gemeenschap van toepassing zijn, aan dergelijke gegevens wordt geboden.
-
-2. Persoonsgegevens mogen uitsluitend worden doorgegeven indien de overeenkomstsluitende partij die de gegevens ontvangt, zich ertoe verbindt deze te beschermen op een wijze die ten minste gelijkwaardig is aan de bescherming van dergelijke gegevens door de overeenkomstsluitende partij die de gegevens verstrekt. Te dien einde stellen de overeenkomstsluitende partijen elkaar in kennis van hun ter zake geldende voorschriften, in voorkomend geval met inbegrip van de rechtsvoorschriften van de lidstaten van de Gemeenschap.
-
-3. Het gebruik van op grond van dit protocol verkregen informatie in gerechtelijke of administratieve procedures betreffende met de douanewetgeving strijdige handelingen wordt beschouwd als gebruik voor de doeleinden van dit protocol. De overeenkomstsluitende partijen kunnen derhalve bij de bewijsvoering, in verslagen en getuigenissen en bij procedures die bij rechtbanken aanhangig worden gemaakt, gebruik maken van de informatie die op grond van dit protocol is verkregen en van de documenten waarin op grond van dit protocol inzage is gegeven. De bevoegde autoriteit die de informatie heeft verstrekt of die inzage heeft gegeven in de documenten, wordt van dergelijk gebruik in kennis gesteld.
-
-4. De verkregen informatie wordt uitsluitend voor de toepassing van dit protocol gebruikt. Indien een overeenkomstsluitende partij de informatie voor andere doeleinden wenst te gebruiken, moet zij de autoriteit die de informatie heeft verstrekt vooraf om schriftelijke toestemming vragen. Voor dit gebruik gelden dan de eventueel door deze autoriteit vastgestelde beperkingen.
-
-##### Artikel 11. Deskundigen en getuigen
-
-Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd om, binnen de grenzen van de hem verleende machtiging, als deskundige of getuige op te treden in gerechtelijke of administratieve procedures betreffende onder dit protocol vallende aangelegenheden en daarbij de voor de procedure noodzakelijke voorwerpen, documenten of gewaarmerkte afschriften voor te leggen. In de dagvaarding dient uitdrukkelijk te worden vermeld voor welke rechterlijke instantie of administratieve autoriteit de ambtenaar moet verschijnen en over welke aangelegenheid en in welke functie of hoedanigheid hij zal worden ondervraagd.
-
-##### Artikel 12. Kosten van de bijstand
-
-De overeenkomstsluitende partijen brengen elkaar geen kosten in rekening voor uitgaven die op grond van dit protocol worden gedaan, met uitzondering van eventuele uitgaven voor deskundigen en getuigen en voor tolken en vertalers die niet in overheidsdienst zijn.
-
-##### Artikel 13. Tenuitvoerlegging
-
-1. Dit protocol wordt ten uitvoer gelegd door de douaneautoriteiten van de overeenkomstsluitende Centraal-Afrikaanse staten, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de lidstaten, anderzijds. Zij stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, rekening houdend met de geldende voorschriften, met name op het gebied van de gegevensbescherming. Zij kunnen de bevoegde autoriteiten aanbevelingen doen over wijzigingen die naar hun oordeel in dit protocol moeten worden aangebracht.
-
-2. De overeenkomstsluitende partijen plegen onderling overleg en lichten elkaar in over alle uitvoeringsbepalingen die op grond van dit protocol worden vastgesteld.
-
-##### Artikel 14. Andere overeenkomsten
-
-1. Met inachtneming van de respectieve bevoegdheden van de Europese Gemeenschap en haar lidstaten:
-
-- –. laat dit protocol de verplichtingen van de overeenkomstsluitende partijen krachtens andere internationale overeenkomsten of verdragen onverlet;
-
-- –. wordt dit protocol geacht een aanvulling te vormen op overeenkomsten inzake wederzijdse bijstand die tussen afzonderlijke lidstaten van de Europese Gemeenschap en overeenkomstsluitende Centraal-Afrikaanse staten zijn of kunnen worden gesloten;
-
-- –. laat dit protocol onverlet de communautaire bepalingen van de Europese Gemeenschap betreffende de doorgifte, tussen de bevoegde diensten van de Commissie van de Europese Gemeenschappen en de douaneautoriteiten van de lidstaten, van gegevens die op grond van dit protocol zijn verkregen en die van belang kunnen zijn voor de Europese Gemeenschap.
-
-2. Onverminderd het bepaalde in lid 1 prevaleert dit protocol boven bilaterale overeenkomsten inzake wederzijdse bijstand die tussen afzonderlijke lidstaten van de Europese Gemeenschap en overeenkomstsluitende Centraal-Afrikaanse staten zijn of kunnen worden gesloten, indien de bepalingen van die overeenkomsten strijdig zijn met die van dit protocol.
-
-3. Ten aanzien van vraagstukken in verband met de toepassing van dit protocol plegen de overeenkomstsluitende partijen onderling overleg om deze in het kader van het EPO-comité op te lossen.
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze overeenkomst hebben gesteld.
 

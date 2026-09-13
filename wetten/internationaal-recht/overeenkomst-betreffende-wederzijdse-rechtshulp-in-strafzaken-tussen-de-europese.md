@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika"
 identifier: "BWBV0004049"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-02-01"
-last_updated: "2003-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004049"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003867353"
-version_id: "10003941182"
-internal_id: "C10008431371"
-label_id: "10003852184"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004049/2010-02-01/0"
-intitule_bron: "Trb.2004-298"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-12-20"
-intitule_in_force: "2010-01-12"
-intitule_status: "goed"
-original_publication: "Trb.2004-298"
-original_published_date: "2004-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-298"
-entry_into_force_date: "2010-02-01"
-jci_1_3: "jci1.3:c:BWBV0004049&z=2010-02-01&g=2010-02-01"
-jci_1_0: "1.0:c:BWBV0004049&g=2010-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-02-01"
+publicatiedatum: 2010-02-01
+laatste_update: 2010-02-01
+status: geldig
+toestand: 2010-02-01
+bron: "https://wetten.overheid.nl/BWBV0004049"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika
 
-De Europese Unie en de Verenigde Staten van Amerika,
-
-verlangend de samenwerking tussen de lidstaten van de Europese Unie en de Verenigde Staten van Amerika verder te vergemakkelijken;
-
-verlangend de criminaliteit doeltreffender te bestrijden teneinde hun democratische samenlevingen en gemeenschappelijke waarden te beschermen;
-
-met inachtneming van de rechten van het individu en de rechtsstaat;
-
-indachtig de waarborgen die hun respectieve rechtsstelsels bieden inzake het recht van een verdachte op een eerlijk proces, waaronder het recht te worden gevonnist door een onpartijdig gerecht, dat is ingesteld bij de wet;
-
-vanuit de wens een verdrag betreffende wederzijdse rechtshulp in strafzaken te sluiten,
-
-hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Europese Unie en de Verenigde Staten van Amerika, verlangend de samenwerking tussen de lidstaten van de Europese Unie en de Verenigde Staten van Amerika verder te vergemakkelijken; verlangend de criminaliteit doeltreffender te bestrijden teneinde hun democratische samenlevingen en gemeenschappelijke waarden te beschermen; met inachtneming van de rechten van het individu en de rechtsstaat; indachtig de waarborgen die hun respectieve rechtsstelsels bieden inzake het recht van een verdachte op een eerlijk proces, waaronder het recht te worden gevonnist door een onpartijdig gerecht, dat is ingesteld bij de wet; vanuit de wens een verdrag betreffende wederzijdse rechtshulp in strafzaken te sluiten, hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Onderwerp en doel
 
@@ -74,13 +43,13 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 - g. artikel 10 wordt toegepast indien in bilaterale verdragen bepalingen ontbreken over omstandigheden waaronder de verzoekende staat de geheimhouding van zijn verzoek kan verlangen.
 
-- a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat iedere lidstaat in een schriftelijk instrument tussen die lidstaat en de Verenigde Staten van Amerika bevestigt dat hij zijn bilateraal rechtshulpverdrag dat geldt in de relatie met de Verenigde Staten van Amerika op de in onderhavig artikel uiteengezette wijze zal toepassen.
+2. - a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat iedere lidstaat in een schriftelijk instrument tussen die lidstaat en de Verenigde Staten van Amerika bevestigt dat hij zijn bilateraal rechtshulpverdrag dat geldt in de relatie met de Verenigde Staten van Amerika op de in onderhavig artikel uiteengezette wijze zal toepassen.
 
 - b. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat nieuwe lidstaten die na de inwerkingtreding van deze overeenkomst tot de Europese Unie toetreden en die bilaterale rechtshulpverdragen hebben gesloten met de Verenigde Staten van Amerika, de onder a) bedoelde maatregelen nemen.
 
 - c. De overeenkomstsluitende partijen beijveren zich om het onder b) omschreven proces te voltooien vóór, dan wel zo spoedig mogelijk na, de geplande toetreding van een nieuwe lidstaat. De Europese Unie stelt de Verenigde Staten van Amerika in kennis van de datum van toetreding van nieuwe lidstaten.
 
-- a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, en de Verenigde Staten van Amerika waarborgen tevens dat de bepalingen van deze overeenkomst worden toegepast als er tussen een lidstaat en de Verenigde Staten van Amerika geen bilateraal rechtshulpverdrag van kracht is.
+3. - a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, en de Verenigde Staten van Amerika waarborgen tevens dat de bepalingen van deze overeenkomst worden toegepast als er tussen een lidstaat en de Verenigde Staten van Amerika geen bilateraal rechtshulpverdrag van kracht is.
 
 - b. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat een dergelijke lidstaat middels een schriftelijk instrument tussen de lidstaat en de Verenigde Staten van Amerika erkent dat de bepalingen van deze overeenkomst van toepassing zijn.
 
@@ -92,15 +61,15 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 ##### Artikel 4. Identificatie van bankgegevens
 
-- a. Op verzoek van de verzoekende staat onderzoekt de aangezochte staat terstond, in overeenstemming met dit artikel, of de op zijn grondgebied gevestigde banken weten of een met name genoemde natuurlijke of rechtspersoon die verdacht wordt van of in staat van beschuldiging is gesteld wegens een strafbaar feit, houder is van een of meer bankrekeningen. De aangezochte staat deelt het resultaat van zijn onderzoek terstond aan de verzoekende staat mee.
+1. - a. Op verzoek van de verzoekende staat onderzoekt de aangezochte staat terstond, in overeenstemming met dit artikel, of de op zijn grondgebied gevestigde banken weten of een met name genoemde natuurlijke of rechtspersoon die verdacht wordt van of in staat van beschuldiging is gesteld wegens een strafbaar feit, houder is van een of meer bankrekeningen. De aangezochte staat deelt het resultaat van zijn onderzoek terstond aan de verzoekende staat mee.
 
 - b. De onder a) omschreven handelingen kunnen ook worden uitgevoerd teneinde
 
-- i. gegevens over veroordeelde of anderszins bij een strafbaar feit betrokken natuurlijke of rechtspersonen te achterhalen,
+   - i. gegevens over veroordeelde of anderszins bij een strafbaar feit betrokken natuurlijke of rechtspersonen te achterhalen,
 
-- ii. gegevens die in het bezit zijn van andere financiële instellingen dan banken te achterhalen, of
+   - ii. gegevens die in het bezit zijn van andere financiële instellingen dan banken te achterhalen, of
 
-- iii. niet aan rekeningen gebonden financiële transacties op te sporen.
+   - iii. niet aan rekeningen gebonden financiële transacties op te sporen.
 
 2. Een verzoek om de in lid 1 omschreven gegevens omvat:
 
@@ -108,9 +77,9 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 - b. voldoende gegevens op grond waarvan de bevoegde autoriteit van de aangezochte staat:
 
-- i. redelijkerwijs kan vermoeden dat de betrokken natuurlijke of rechtspersoon bij een strafbaar feit is betrokken en dat banken en niet-bancaire instellingen op het grondgebied van de aangezochte staat over de verlangde gegevens zouden kunnen beschikken, en
+   - i. redelijkerwijs kan vermoeden dat de betrokken natuurlijke of rechtspersoon bij een strafbaar feit is betrokken en dat banken en niet-bancaire instellingen op het grondgebied van de aangezochte staat over de verlangde gegevens zouden kunnen beschikken, en
 
-- ii. kan vaststellen dat de verlangde gegevens betrekking hebben op het strafrechtelijk onderzoek of de strafvervolging.
+   - ii. kan vaststellen dat de verlangde gegevens betrekking hebben op het strafrechtelijk onderzoek of de strafvervolging.
 
 - c. voorzover mogelijk, gegevens over de mogelijk betrokken bank of andere niet-bancaire financiële instelling, en andere gegevens die dienstig kunnen zijn om de reikwijdte van het onderzoek te kunnen beperken.
 
@@ -120,13 +89,13 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 - b. de nationale autoriteiten van de Verenigde Staten van Amerika die bevoegd zijn voor het onderzoek naar en de vervolging van strafbare feiten, zoals aangewezen overeenkomstig artikel 15, lid 2. Na de inwerkingtreding van deze overeenkomst kunnen de overeenkomstsluitende partijen door middel van een diplomatieke notawisseling overeenkomen de kanalen waarlangs verzoeken uit hoofde van dit artikel worden verstuurd, te wijzigen.
 
-- a. Behoudens het bepaalde onder b), kan een staat krachtens artikel 15 zijn plicht om uit hoofde van dit artikel rechtshulp te verlenen, beperken tot:
+4. - a. Behoudens het bepaalde onder b), kan een staat krachtens artikel 15 zijn plicht om uit hoofde van dit artikel rechtshulp te verlenen, beperken tot:
 
-- i. feiten die zowel in de aangezochte als in de verzoekende staat strafbaar zijn gesteld;
+   - i. feiten die zowel in de aangezochte als in de verzoekende staat strafbaar zijn gesteld;
 
-- ii. feiten die in de verzoekende staat strafbaar zijn gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van ten minste vier jaar, en in de aangezochte staat met een maximum van ten minste twee jaar, of
+   - ii. feiten die in de verzoekende staat strafbaar zijn gesteld met een vrijheidsstraf of een tot vrijheidsbeneming strekkende maatregel met een maximum van ten minste vier jaar, en in de aangezochte staat met een maximum van ten minste twee jaar, of
 
-- iii. aangewezen ernstige feiten die zowel in de aangezochte als in de verzoekende staat strafbaar zijn gesteld.
+   - iii. aangewezen ernstige feiten die zowel in de aangezochte als in de verzoekende staat strafbaar zijn gesteld.
 
 - b. Een staat die zijn verplichtingen overeenkomstig het bepaalde onder a, ii of iii, beperkt, moet ten minste de identificatie mogelijk maken van rekeningen in verband met terroristische activiteiten en het witwassen van de opbrengsten uit een groot aantal ernstige criminele activiteiten die zowel in de verzoekende als in de aangezochte staat strafbaar zijn gesteld.
 
@@ -168,7 +137,7 @@ Verzoeken om rechtshulp, en mededelingen dienaangaande, kunnen worden gedaan met
 
 1. Rechtshulp wordt ook verleend aan een nationale administratieve autoriteit die, krachtens een specifieke administratieve of regelgevende bevoegdheid om dergelijke onderzoeken te doen, gedragingen onderzoekt met het oog op strafvervolging of verwijzing van dergelijke gedragingen naar autoriteiten die bevoegd zijn deze te onderzoeken of strafrechtelijk te vervolgen. Rechtshulp kan onder vergelijkbare omstandigheden ook worden verleend aan andere administratieve autoriteiten. Rechtshulp wordt niet verleend in aangelegenheden waarin de administratieve autoriteit op voorhand verklaart dat geen vervolging of, voorzover van toepassing, verwijzing zal plaatsvinden.
 
-- a. Verzoeken om rechtshulp uit hoofde van dit artikel worden verzonden tussen de centrale autoriteiten die zijn aangewezen krachtens het tussen de betrokken staten toepasselijke bilaterale rechtshulpverdrag, of tussen andere autoriteiten die door de centrale autoriteiten zijn overeengekomen;
+2. - a. Verzoeken om rechtshulp uit hoofde van dit artikel worden verzonden tussen de centrale autoriteiten die zijn aangewezen krachtens het tussen de betrokken staten toepasselijke bilaterale rechtshulpverdrag, of tussen andere autoriteiten die door de centrale autoriteiten zijn overeengekomen;
 
 - b. Bij gebreke van een verdrag worden verzoeken verzonden tussen het „Department of Justice” van de Verenigde Staten van Amerika en het ministerie van Justitie of, krachtens artikel 15, lid 1, een vergelijkbaar ministerie van de betrokken lidstaat dat verantwoordelijk is voor de verzending van rechtshulpverzoeken, of tussen andere autoriteiten als overeengekomen tussen het „Department of Justice” en het betrokken ministerie.
 
@@ -184,15 +153,15 @@ Verzoeken om rechtshulp, en mededelingen dienaangaande, kunnen worden gedaan met
 
 - c. voor zijn niet-strafrechtelijke gerechtelijke en administratieve procedures die rechtstreeks verband houden met onderzoeken of procedures
 
-- i. als bedoeld onder a, of
+   - i. als bedoeld onder a, of
 
-- ii. waarvoor rechtshulp is verstrekt krachtens artikel 8;
+   - ii. waarvoor rechtshulp is verstrekt krachtens artikel 8;
 
 - d. voor enig ander doel, indien de gegevens of het bewijsmateriaal openbaar zijn gemaakt in het kader van een procedure waarvoor ze zijn verstrekt, of in enige andere situatie als beschreven onder a, b en c, en
 
 - e. voor enig ander doel, uitsluitend na voorafgaande toestemming van de aangezochte staat.
 
-- a. Dit artikel laat onverlet de mogelijkheid van de aangezochte staat om in een concrete zaak nadere voorwaarden te stellen wanneer het concrete rechtshulpverzoek bij gebreke van die voorwaarden niet kan worden nagekomen. Wanneer uit hoofde van dit punt nadere voorwaarden zijn gesteld, kan de aangezochte staat van de verzoekende staat verlangen dat deze inlichtingen verstrekt over het gebruik dat wordt gemaakt van het bewijsmateriaal of de informatie.
+2. - a. Dit artikel laat onverlet de mogelijkheid van de aangezochte staat om in een concrete zaak nadere voorwaarden te stellen wanneer het concrete rechtshulpverzoek bij gebreke van die voorwaarden niet kan worden nagekomen. Wanneer uit hoofde van dit punt nadere voorwaarden zijn gesteld, kan de aangezochte staat van de verzoekende staat verlangen dat deze inlichtingen verstrekt over het gebruik dat wordt gemaakt van het bewijsmateriaal of de informatie.
 
 - b. Algemene beperkingen met betrekking tot de rechtsregels van de verzoekende staat voor het verwerken van persoonsgegevens mogen door de aangezochte staat echter niet als een voorwaarde uit hoofde van lid 2, onder a), worden verbonden aan het verschaffen van bewijsmateriaal of gegevens.
 
@@ -240,9 +209,9 @@ Deze overeenkomst belet niet dat, nadat zij van kracht is geworden, bilaterale o
 
 - b. in betrekking tot de Europese Unie:
 
-- op de lidstaten;
+   - op de lidstaten;
 
-- op gebiedsdelen ten aanzien waarvan een lidstaat verantwoordelijk is voor de externe betrekkingen, of landen die geen lidstaat zijn en waarvoor een lidstaat andere verplichtingen heeft met betrekking tot de externe betrekkingen, indien zulks door de overeenkomstsluitende partijen onderling is overeengekomen in een diplomatieke-notawisseling, welke naar behoren is bevestigd door de betrokken lidstaat.
+   - op gebiedsdelen ten aanzien waarvan een lidstaat verantwoordelijk is voor de externe betrekkingen, of landen die geen lidstaat zijn en waarvoor een lidstaat andere verplichtingen heeft met betrekking tot de externe betrekkingen, indien zulks door de overeenkomstsluitende partijen onderling is overeengekomen in een diplomatieke-notawisseling, welke naar behoren is bevestigd door de betrokken lidstaat.
 
 2. De tot enig gebiedsdeel of land uitgebreide toepassing van deze overeenkomst krachtens lid 1, onder b, kan door elke overeenkomstsluitende partij worden beëindigd door middel van een schriftelijke, naar behoren tussen de betrokken lidstaat en de Verenigde Staten van Amerika bevestigde, kennisgeving langs diplomatieke weg die zes maanden op voorhand aan de andere partij wordt gedaan.
 

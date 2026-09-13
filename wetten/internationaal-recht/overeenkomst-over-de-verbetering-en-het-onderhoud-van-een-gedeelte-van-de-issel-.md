@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst over de verbetering en het onderhoud van een gedeelte van de Issel (Oude IJssel) in het grensgebied"
 identifier: "BWBV0003823"
-country: "nl"
-rank: "verdrag"
-publication_date: "1976-05-01"
-last_updated: "1976-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003823"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003734753"
-version_id: "10003796852"
-internal_id: "C10006982991"
-label_id: "10003719814"
-dtd_version: "2.0"
-original_entry_into_force: "1976-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003823/1976-05-01/0"
-intitule_bron: "Trb.1973-160"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-11-12"
-intitule_in_force: "1976-06-11"
-intitule_status: "goed"
-original_publication: "Trb.1973-160"
-original_published_date: "1973-11-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-160"
-entry_into_force_date: "1976-05-01"
-jci_1_3: "jci1.3:c:BWBV0003823&z=1976-05-01&g=1976-05-01"
-jci_1_0: "1.0:c:BWBV0003823&g=1976-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-05-01"
+publicatiedatum: 1976-05-01
+laatste_update: 1976-05-01
+status: geldig
+toestand: 1976-05-01
+bron: "https://wetten.overheid.nl/BWBV0003823"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst over de verbetering en het onderhoud van een gedeelte van de Issel (Oude IJssel) in het grensgebied
 
-Het „Isselverband” in Wezel, vertegenwoordigd door de voorzitter Ltd. Kreisbaudirektor Thesing en het waterschap van de „Oude IJssel” in Terborg, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. W. Kooij, sluiten met inachtneming van hoofdstuk 4, artikel 59 van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:
+*Het „Isselverband” in Wezel, vertegenwoordigd door de voorzitter Ltd. Kreisbaudirektor Thesing en het waterschap van de „Oude IJssel” in Terborg, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. W. Kooij, sluiten met inachtneming van hoofdstuk 4, artikel 59 van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -120,10 +101,10 @@ Veranderingen van deze overeenkomst behoeven de goedkeuring van de regeringen va
 
 GEDAAN te Terborg, de 6 april 1973 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Watergraaf van het waterschap van de „Oude IJssel”**
+*Watergraaf van het waterschap van de „Oude IJssel”*
 
 (w.g.) W. KOOIJ
 
-**Vorsteher des Isselverbandes**
+*Vorsteher des Isselverbandes*
 
 (w.g.) THESING

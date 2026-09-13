@@ -1,108 +1,91 @@
 ---
 title: "Overeenkomst tot vrijstelling van legalisatie voor bepaalde akten en documenten"
 identifier: "BWBV0003768"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-05-01"
-last_updated: "1981-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003768"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003703253"
-version_id: "10003764122"
-internal_id: "C10006981331"
-label_id: "10003688484"
-dtd_version: "2.0"
-original_entry_into_force: "1981-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003768/1981-05-01/0"
-intitule_bron: "Trb.1978-19"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-02-02"
-intitule_in_force: "1981-05-14"
-intitule_status: "goed"
-original_publication: "Trb.1978-19"
-original_published_date: "1978-02-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-19"
-entry_into_force_date: "1981-05-01"
-jci_1_3: "jci1.3:c:BWBV0003768&z=1981-05-01&g=1981-05-01"
-jci_1_0: "1.0:c:BWBV0003768&g=1981-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-05-01"
+publicatiedatum: 1981-05-01
+laatste_update: 1981-05-01
+status: geldig
+toestand: 1981-05-01
+bron: "https://wetten.overheid.nl/BWBV0003768"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tot vrijstelling van legalisatie voor bepaalde akten en documenten
 
-De Staten die deze Overeenkomst hebben ondertekend en die lid zijn van de Internationale Commissie voor de Burgerlijke Stand, verlangend tussen de Staten die partij zijn bij deze Overeenkomst, voor bepaalde akten of documenten vrijstelling te verlenen van legalisatie of soortgelijke formaliteiten, zijn overeengekomen als volgt:
+*Les Etats signataires de la présente Convention, membres de la Commission Internationale de l'Etat Civil, désireux de dispenser entre les Etats parties à cette Convention certains actes ou documents de la légalisation ou de toute formalité équivalente, sont convenus des dispositions suivantes:*
 
-##### Artikel 1
+##### Article 1er
 
-In deze Overeenkomst wordt onder legalisatie uitsluitend verstaan de formaliteit waarbij een bevestigende verklaring wordt afgegeven omtrent de echtheid van de handtekening op een akte of document, de hoedanigheid waarin de ondertekenaar van de akte of het document heeft gehandeld en, in voorkomend geval, de identiteit van het zegel of het stempel op de akte of het document.
+La légalisation, au sens de la présente Convention, ne recouvre que la formalité destinée à attester la véracité de la signature apposée sur un acte ou document, la qualité en laquelle le signataire de l'acte ou du document a agi et, le cas échéant, l'identité du sceau ou timbre dont cet acte ou document est revêtu.
 
-##### Artikel 2
+##### Article 2
 
-Elke Overeenkomstsluitende Staat aanvaardt zonder legalisatie of soortgelijke formaliteit:
+Chaque Etat contractant accepte sans légalisation ou formalité équivalente, à condition qu'ils soient datés et revêtus de la signature et, le cas échéant, du sceau ou timbre de l'autorité d'un autre Etat contractant qui les a délivrés:
 
-- 1. de akten en documenten betreffende de burgerlijke stand, de handelingsbevoegdheid of de familierechtelijke status van natuurlijke personen, hun nationaliteit, hun woon- of verblijfplaats, ongeacht voor welk gebruik zij zijn bestemd,
+- 1. Les actes et documents se rapportant à l'état civil, à la capacité ou à la situation familiale des personnes physiques, à leur nationalité, à leur domicile ou à leur résidence, quel que soit l'usage auquel ils sont destinés,
 
-- 2. alle andere akten en documenten, wanneer deze worden overgelegd ten behoeve van de voltrekking van het huwelijk of het opmaken van een akte van de burgerlijke stand, op voorwaarde dat deze zijn voorzien van datum en handtekening en, in voorkomend geval, van het zegel of stempel van de autoriteit van een andere Overeenkomstsluitende Staat die deze heeft afgegeven.
+- 2. tous autres actes et documents lorsqu'ils sont produits en vue de la célébration du mariage ou de l'établissement d'un acte de l'état civil.
 
-##### Artikel 3
+##### Article 3
 
-Wanneer een akte of een document zoals bedoeld in artikel 2 niet is toegezonden langs diplomatieke weg of langs een andere officiële weg, kan de autoriteit waaraan deze akte of dit document wordt aangeboden, in geval van ernstige twijfel ten aanzien van de echtheid van de handtekening, of de identiteit van het zegel of het stempel, dan wel de hoedanigheid van de ondertekenaar, het desbetreffende stuk doen onderzoeken door de autoriteit die dit heeft afgegeven.
+Lorsqu'un acte ou document visé à l'article 2 n'a pas été transmis par la voie diplomatique ou une autre voie officielle, l'autorité à laquelle il est présenté peut, en cas de doute grave, portant soit sur la véracité de la signature, soit sur l'identité du sceau ou du timbre, soit sur la qualité du signataire, le faire vérifier par l'autorité qui l'a délivré.
 
-##### Artikel 4
+##### Article 4
 
-Om een onderzoek kan worden verzocht met behulp van een meertalig formulier, waarvan het model als bijlage bij deze Overeenkomst is gevoegd. Dit formulier wordt in tweevoud rechtstreeks toegezonden aan de autoriteit die de te onderzoeken akte of het te onderzoeken document heeft afgegeven en gaat daarvan vergezeld.
+La demande de vérification peut être faite au moyen d'une formule plurilingue dont le modèle est annexé à la présente Convention. Cette formule est envoyée, en double exemplaire directement à l'autorité qui a délivré l'acte ou le document à vérifier, et est accompagnée de celui-ci.
 
-##### Artikel 5
+##### Article 5
 
-Elk onderzoek wordt kosteloos verricht en het antwoord wordt met de akte of het document zo snel mogelijk teruggezonden, hetzij rechtstreeks, hetzij langs diplomatieke weg.
+Chaque vérification est opérée gratuitement et la réponse est renvoyée avec l'acte ou le document le plus rapidement possible soit directement soit par la voie diplomatique.
 
-##### Artikel 6
+##### Article 6
 
-Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
+La présente Convention sera ratifiée, acceptée ou approuvée et les instruments de ratification, d'acceptation ou d'approbation seront déposés auprès du Conseil Fédéral Suisse.
 
-##### Artikel 7
+##### Article 7
 
-Deze Overeenkomst treedt in werking op de eerste dag van de derde maand na de maand waarin de tweede akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd.
+La présente Convention entrera en vigueur le premier jour du troisième mois qui suit celui du dépôt du deuxième instrument de ratification, d'acceptation ou d'approbation.
 
-Ten aanzien van de ondertekenende Staat die de Overeenkomst heeft bekrachtigd, aanvaard of goedgekeurd na de inwerkingtreding hiervan, wordt zij van kracht op de eerste dag van de derde maand na de maand waarin die Staat de akte van bekrachtiging, aanvaarding of goedkeuring heeft nedergelegd.
+A l'égard de l'Etat signataire qui l'aura ratifiée, acceptée ou approuvée après son entrée en vigueur, la Convention prendra effet le premier jour du troisième mois qui suit celui du dépôt par cet Etat de l'instrument de ratification, d'acceptation ou d'approbation.
 
-##### Artikel 8
+##### Article 8
 
-Elke Staat die lid is van de Internationale Commissie voor de Burgerlijke Stand en die deze Overeenkomst niet heeft ondertekend, alsmede elke Staat die lid is van de Raad van Europa, kan tot deze Overeenkomst toetreden na de inwerkingtreding hiervan. De akte van toetreding wordt nedergelegd bij de Zwitserse Bondsraad. De Overeenkomst wordt voor de toetredende Staat van kracht op de eerste dag van de derde maand na de maand waarin de akte van toetreding is nedergelegd.
+Tout Etat membre de la Commission Internationale de l'Etat Civil n'ayant pas signé la présente Convention et tout Etat membre du Conseil de l'Europe pourra adhérer à la présente Convention après son entrée en vigueur. L'instrument d'adhésion sera déposé auprès du Conseil Fédéral Suisse. La Convention prendra effet, pour l'Etat adhérant, le premier jour du troisième mois qui suit celui du dépôt de l'instrument d'adhésion.
 
-##### Artikel 9
+##### Article 9
 
-Geen enkel voorbehoud ten aanzien van deze Overeenkomst is toegestaan.
+Aucune réserve à la présente Convention n'est admise.
 
-##### Artikel 10
+##### Article 10
 
-Elke Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig ander tijdstip daarna, verklaren dat deze Overeenkomst zich uitstrekt tot het geheel van de gebieden voor welker internationale betrekkingen hij zorg draagt, dan wel op een of meer van die gebieden.
+Tout Etat, au moment de la signature, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion ou à tout autre moment par la suite, pourra déclarer que la présente Convention s'étendra à l'ensemble des territoires dont il assure les relations sur le plan international, ou à l'un ou plusieurs d'entre eux.
 
-Deze verklaring wordt ter kennis gebracht van de Zwitserse Bondsraad en de uitbreiding wordt van kracht op het tijdstip waarop deze Overeenkomst voor de desbetreffende Staat in werking treedt, of, daarna, op de eerste dag van de derde maand na de maand waarin de kennisgeving is ontvangen.
+Cette déclaration sera notifiée au Conseil Fédéral Suisse et l'extension prendra effet au moment de l'entrée en vigueur de la Convention pour ledit Etat ou, ultérieurement, le premier jour du troisième mois qui suit celui de la réception de la notification.
 
-Elke verklaring van uitbreiding kan worden ingetrokken door middel van een kennisgeving aan de Zwitserse Bondsraad en de Overeenkomst is niet langer van toepassing op het bedoelde gebied met ingang van de eerste dag van de derde maand na de maand waarin genoemde kennisgeving is ontvangen.
+Toute déclaration d'extension pourra être retirée par notification adressée au Conseil Fédéral Suisse et la Convention cessera d'être applicable au territoire désigné le premier jour du troisième mois qui suit celui de la réception de ladite notification.
 
-##### Artikel 11
+##### Article 11
 
-Deze Overeenkomst is voor onbeperkte tijd van kracht.
+La présente Convention demeurera en vigueur sans limitation de durée.
 
-Elke Staat die partij is bij deze Overeenkomst heeft echter te allen tijde het recht haar op te zeggen, zulks na verloop van een jaar te rekenen van de datum waarop de Overeenkomst te zijnen aanzien in werking is getreden. De opzegging dient ter kennis te worden gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zesde maand na de maand waarin deze kennisgeving is ontvangen. De Overeenkomst blijft tussen de andere Staten van kracht.
+Tout Etat partie à la présente Convention aura toutefois la faculté de la dénoncer à tout moment après l'expiration d'un délai d'un an à partir de la date de l'entrée en vigueur de la Convention à son égard. La dénonciation sera notifiée au Conseil Fédéral Suisse et prendra effet le premier jour du sixième mois qui suit celui de la réception de cette notification. La Convention restera en vigueur entre les autres Etats.
 
-##### Artikel 12
+##### Article 12
 
-De Zwitserse Bondsraad stelt de Staten die lid zijn van de Internationale Commissie voor de Burgerlijke Stand en elke andere Staat die tot deze Overeenkomst is toegetreden in kennis van:
+Le Conseil Fédéral Suisse notifiera aux Etats membres de la Commission Internationale de l'Etat Civil et à tout autre Etat ayant adhéré à la présente Convention:
 
-- a). de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding:
+- a) le dépôt de tout instrument de ratification, d'acceptation, d'approbation ou d'adhésion;
 
-- b). elke datum van inwerkingtreding van de Overeenkomst;
+- b) toute date d'entrée en vigueur de la Convention;
 
-- c). elke toepasselijkverklaring van de Overeenkomst of intrekking daarvan, met de datum waarop deze van kracht wordt.
+- c) toute déclaration concernant l'extension territoriale de la Convention ou son retrait, avec la date à laquelle elle prendra effet;
 
-De Zwitserse Bondsraad doet de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van elke krachtens het eerste lid gedane kennisgeving.
+- d) toute dénonciation de la Convention et la date à laquelle elle prendra effet.
 
-Na de inwerkingtreding van deze Overeenkomst wordt door de Zwitserse Bondsraad een voor eensluidend gewaarmerkt afschrift toegezonden aan de Secretaris-Generaal der Verenigde Naties ten behoeve van registratie en publikatie, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+Le Conseil Fédéral Suisse avisera le Secrétaire Général de la Commission Internationale de l'Etat Civil de toute notification faite en application du paragraphe I.
+
+Dès l'entrée en vigueur de la présente Convention, une copie certifiée conforme sera transmise par le Conseil Fédéral Suisse au Secrétaire Général des Nations Unies aux fins d'enregistrement et de publication, conformément à l'[article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

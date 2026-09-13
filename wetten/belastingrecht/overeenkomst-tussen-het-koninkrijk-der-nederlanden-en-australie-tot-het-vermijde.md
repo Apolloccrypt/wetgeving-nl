@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0003760"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-05-01"
-last_updated: "1987-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003760"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003698963"
-version_id: "10003759782"
-internal_id: "C10009542651"
-label_id: "10003684284"
-dtd_version: "2.0"
-original_entry_into_force: "1976-09-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003760/1987-05-01/0"
-intitule_bron: "Trb.1976-41"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-03-29"
-intitule_in_force: "1976-09-30"
-intitule_status: "goed"
-original_publication: "Trb.1976-41"
-original_published_date: "1976-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-41"
-entry_into_force_date: "1976-09-27"
-jci_1_3: "jci1.3:c:BWBV0003760&z=1987-05-01&g=1987-05-01"
-jci_1_0: "1.0:c:BWBV0003760&g=1987-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-09-27"
+publicatiedatum: 1976-09-27
+laatste_update: 1987-05-01
+status: geldig
+toestand: 1987-05-01
+bron: "https://wetten.overheid.nl/BWBV0003760"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van Australië,
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van Australië, De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -48,19 +25,19 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 (1). De bestaande belastingen waarop deze Overeenkomst van toepassing is, zijn -
 
-- (a). in Australië:
+- (a) in Australië:
 
-- de Australische inkomstenbelasting (income tax), daaronder begrepen de aanvullende belasting op het niet uitgedeelde deel van de voor uitdeling beschikbare winst van een „private company”;
+   - de Australische inkomstenbelasting (income tax), daaronder begrepen de aanvullende belasting op het niet uitgedeelde deel van de voor uitdeling beschikbare winst van een „private company”;
 
-- (b). in Nederland:
+- (b) in Nederland:
 
-- de inkomstenbelasting;
+   - de inkomstenbelasting;
 
-- de loonbelasting;
+   - de loonbelasting;
 
-- de vennootschapsbelasting;
+   - de vennootschapsbelasting;
 
-- de dividendbelasting.
+   - de dividendbelasting.
 
 (2). Deze Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die door een van de Staten na de datum van ondertekening van deze Overeenkomst naast of in de plaats van de bestaande belastingen worden geheven. Aan het eind van elk kalenderjaar deelt de bevoegde autoriteit van iedere Staat de bevoegde autoriteit van de andere Staat alle wezenlijke wijzigingen mede, die in de wetgeving betreffende de belastingen van zijn Staat waarop deze Overeenkomst van toepassing is, zijn aangebracht.
 
@@ -70,39 +47,39 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 (1). In deze Overeenkomst, tenzij het zinsverband anders vereist -
 
-- (a). betekent de uitdrukking „Australië” het Gemenebest van Australië en omvat deze uitdrukking, wanneer zij in aardrijkskundige zin wordt gebezigd -
+- (a) betekent de uitdrukking „Australië” het Gemenebest van Australië en omvat deze uitdrukking, wanneer zij in aardrijkskundige zin wordt gebezigd -
 
-- (i). het gebied van Norfolk Island;
+   - (i) het gebied van Norfolk Island;
 
-- (ii). het gebied van Christmas Island;
+   - (ii) het gebied van Christmas Island;
 
-- (iii). het gebied van de Cocos (Keeling) Islands;
+   - (iii) het gebied van de Cocos (Keeling) Islands;
 
-- (iv). het gebied van de Ashmore en Cartier Islands;
+   - (iv) het gebied van de Ashmore en Cartier Islands;
 
-- (v). het Coral Sea Islands gebied; en
+   - (v) het Coral Sea Islands gebied; en
 
-- (vi). elk gebied grenzend aan de territoriale grenzen van Australië en de bovengenoemde gebieden ten aanzien waarvan, en gedurende de tijd dat dit het geval is, in overeenstemming met het internationale recht, een wettelijk voorschrift van Australië of van een Staat of deel van Australië of van een bovengenoemd gebied van kracht is, welke de exploitatie van natuurlijke rijkdommen van de zeebodem en de ondergrond van het continentale plat regelt;
+   - (vi) elk gebied grenzend aan de territoriale grenzen van Australië en de bovengenoemde gebieden ten aanzien waarvan, en gedurende de tijd dat dit het geval is, in overeenstemming met het internationale recht, een wettelijk voorschrift van Australië of van een Staat of deel van Australië of van een bovengenoemd gebied van kracht is, welke de exploitatie van natuurlijke rijkdommen van de zeebodem en de ondergrond van het continentale plat regelt;
 
-- (b). betekent de uitdrukking „Nederland” dat deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- (b) betekent de uitdrukking „Nederland” dat deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- (c). betekenen de uitdrukkingen „Staat”, „een van de Staten” en „andere Staat” Australië of Nederland, al naar het zinsverband vereist;
+- (c) betekenen de uitdrukkingen „Staat”, „een van de Staten” en „andere Staat” Australië of Nederland, al naar het zinsverband vereist;
 
-- (d). betekent de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- (d) betekent de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- (e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing met een rechtspersoon wordt gelijkgesteld;
+- (e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing met een rechtspersoon wordt gelijkgesteld;
 
-- (f). betekent de uitdrukking „belasting” Australische belasting of Nederlandse belasting, al naar het zinsverband vereist;
+- (f) betekent de uitdrukking „belasting” Australische belasting of Nederlandse belasting, al naar het zinsverband vereist;
 
-- (g). betekent de uitdrukking „Australische belasting” belasting geheven door Australië, waarop deze Overeenkomst krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=I&artikel=2&z=1987-05-01&g=1987-05-01) van toepassing is;
+- (g) betekent de uitdrukking „Australische belasting” belasting geheven door Australië, waarop deze Overeenkomst krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=I&artikel=2&z=1987-05-01&g=1987-05-01) van toepassing is;
 
-- (h). betekent de uitdrukking „Nederlandse belasting” belasting geheven door Nederland, waarop deze Overeenkomst krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=I&artikel=2&z=1987-05-01&g=1987-05-01) van toepassing is;
+- (h) betekent de uitdrukking „Nederlandse belasting” belasting geheven door Nederland, waarop deze Overeenkomst krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=I&artikel=2&z=1987-05-01&g=1987-05-01) van toepassing is;
 
-- (i). betekent de uitdrukking „bevoegde autoriteit”, wat Australië betreft, de „Commissioner of Taxation” of zijn bevoegde vertegenwoordiger, en wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+- (i) betekent de uitdrukking „bevoegde autoriteit”, wat Australië betreft, de „Commissioner of Taxation” of zijn bevoegde vertegenwoordiger, en wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- (j). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” een onderneming gedreven door een inwoner van Australië of een onderneming gedreven door een inwoner van Nederland, al naar het zinsverband vereist;
+- (j) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” een onderneming gedreven door een inwoner van Australië of een onderneming gedreven door een inwoner van Nederland, al naar het zinsverband vereist;
 
-- (k). omvatten woorden in het enkelvoud het meervoud en woorden in het meervoud het enkelvoud.
+- (k) omvatten woorden in het enkelvoud het meervoud en woorden in het meervoud het enkelvoud.
 
 (2). In deze Overeenkomst omvatten de uitdrukkingen „Australische belasting” en „Nederlandse belasting” niet boete of interest, die wordt geheven op grond van de wetgeving van een van beide Staten met betrekking tot de belastingen waarop deze Overeenkomst krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=I&artikel=2&z=1987-05-01&g=1987-05-01) van toepassing is.
 
@@ -112,17 +89,17 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 (1). Voor de toepassing van deze Overeenkomst is een persoon inwoner van een van de Staten -
 
-- (a). indien het Australië betreft, onder voorbehoud van het tweede lid, indien de persoon een inwoner van Australië is voor de toepassing van de Australische belasting; en
+- (a) indien het Australië betreft, onder voorbehoud van het tweede lid, indien de persoon een inwoner van Australië is voor de toepassing van de Australische belasting; en
 
-- (b). indien het Nederland betreft, indien de persoon een inwoner van Nederland is voor de toepassing van de Nederlandse belasting, maar niet indien hij in Nederland slechts aan belasting onderworpen is ter zake van inkomsten uit bronnen in Nederland.
+- (b) indien het Nederland betreft, indien de persoon een inwoner van Nederland is voor de toepassing van de Nederlandse belasting, maar niet indien hij in Nederland slechts aan belasting onderworpen is ter zake van inkomsten uit bronnen in Nederland.
 
 (2). Met betrekking tot inkomsten uit bronnen in Nederland wordt een persoon die onderworpen is aan Australische belasting voor inkomsten die afkomstig zijn uit bronnen in Australië, niet behandeld als een inwoner van Australië, tenzij de inkomsten uit bronnen in Nederland onderworpen zijn aan Australische belasting of, indien deze inkomsten zijn vrijgesteld van Australische belasting, zij zijn vrijgesteld uitsluitend omdat zij onderworpen zijn aan Nederlandse belasting.
 
 (3). Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- (a). hij wordt geacht uitsluitend inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft;
+- (a) hij wordt geacht uitsluitend inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft;
 
-- (b). indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht uitsluitend inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn.
+- (b) indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht uitsluitend inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn.
 
 (4). Indien een andere dan een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, wordt hij geacht uitsluitend inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
@@ -132,45 +109,45 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 (2). De uitdrukking „vaste inrichting” omvat in het bijzonder -
 
-- (a). een plaats waar leiding wordt gegeven;
+- (a) een plaats waar leiding wordt gegeven;
 
-- (b). een filiaal;
+- (b) een filiaal;
 
-- (c). een kantoor;
+- (c) een kantoor;
 
-- (d). een fabriek;
+- (d) een fabriek;
 
-- (e). een werkplaats;
+- (e) een werkplaats;
 
-- (f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- (f) een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
 
-- (g). een bezitting, gebezigd voor landbouw, veeteelt of bosbouw;
+- (g) een bezitting, gebezigd voor landbouw, veeteelt of bosbouw;
 
-- (h). de plaats van uitvoering van een bouwwerk of van constructie-, installatie- of montagewerkzaamheden waarvan de duur twaalf maanden overschrijdt.
+- (h) de plaats van uitvoering van een bouwwerk of van constructie-, installatie- of montagewerkzaamheden waarvan de duur twaalf maanden overschrijdt.
 
 (3). Een onderneming wordt niet geacht een vaste inrichting te bezitten, enkel omdat -
 
-- (a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- (a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- (b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- (b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- (c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- (c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- (d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- (d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- (e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben, zoals reclame of wetenschappelijk onderzoek.
+- (e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben, zoals reclame of wetenschappelijk onderzoek.
 
 (4). Een onderneming wordt geacht een vaste inrichting in een van de Staten te bezitten en haar bedrijf met behulp van deze vaste inrichting uit te oefenen, indien -
 
-- (a). zij in die Staat gedurende langer dan twaalf maanden werkzaamheden van toezichthoudende aard verricht in verband met een bouwwerk dat, of constructie-, installatie of montagewerkzaamheden die in die Staat worden uitgevoerd; of
+- (a) zij in die Staat gedurende langer dan twaalf maanden werkzaamheden van toezichthoudende aard verricht in verband met een bouwwerk dat, of constructie-, installatie of montagewerkzaamheden die in die Staat worden uitgevoerd; of
 
-- (b). groot materiaal in die Staat wordt gebruikt gedurende langer dan twaalf maanden door, voor of onder contract met de onderneming bij de opsporing of de exploitatie van natuurlijke rijkdommen of bij werkzaamheden die verband houden met zodanige opsporing of exploitatie.
+- (b) groot materiaal in die Staat wordt gebruikt gedurende langer dan twaalf maanden door, voor of onder contract met de onderneming bij de opsporing of de exploitatie van natuurlijke rijkdommen of bij werkzaamheden die verband houden met zodanige opsporing of exploitatie.
 
 (5). Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zesde lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting van die onderneming beschouwd, indien -
 
-- (a). hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
+- (a) hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
 
-- (b). hij, op deze wijze werkzaam, in die Staat voor de onderneming goederen of koopwaar vervaardigt of bewerkt welke aan de onderneming toebehoren, met dien verstande dat deze bepaling alleen van toepassing is met betrekking tot de op deze wijze vervaardigde of bewerkte goederen of koopwaar.
+- (b) hij, op deze wijze werkzaam, in die Staat voor de onderneming goederen of koopwaar vervaardigt of bewerkt welke aan de onderneming toebehoren, met dien verstande dat deze bepaling alleen van toepassing is met betrekking tot de op deze wijze vervaardigde of bewerkte goederen of koopwaar.
 
 (6). Een onderneming van een van de Staten wordt niet geacht een vaste inrichting in de andere Staat te bezitten op grond van de enkele omstandigheid dat zij aldaar zaken doet door middel van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, indien deze persoon in de normale uitoefening van zijn bedrijf als zulk een makelaar of vertegenwoordiger handelt.
 
@@ -218,9 +195,9 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 (1). Indien:
 
-- (a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat; of
+- (a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat; of
 
-- (b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- (b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden gelden, die afwijken van die welke verwacht zouden mogen worden te gelden tussen onafhankelijke ondernemingen die geheel onafhankelijk met elkaar zaken doen, mogen alle voordelen waarvan verwacht had mogen worden dat zij zonder deze voorwaarden door een van de ondernemingen zouden zijn behaald, maar ten gevolge van die voorwaarden niet zijn behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -234,9 +211,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 (3). In dit artikel betekent de uitdrukking „dividenden” -
 
-- (a). wat Australië betreft, inkomsten uit aandelen en andere inkomsten, die door de belastingwetgeving van Australië met inkomsten uit aandelen worden gelijkgesteld; en
+- (a) wat Australië betreft, inkomsten uit aandelen en andere inkomsten, die door de belastingwetgeving van Australië met inkomsten uit aandelen worden gelijkgesteld; en
 
-- (b). wat Nederland betreft, inkomsten die aan dividendbelasting zijn onderworpen.
+- (b) wat Nederland betreft, inkomsten die aan dividendbelasting zijn onderworpen.
 
 (4). De bepalingen van het eerste en tweede lid zijn niet van toepassing, indien de persoon die uiteindelijk tot de dividenden gerechtigd is en die inwoner is van een van de Staten, in de andere Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een bedrijf uitoefent met behulp van een in die andere Staat gevestigde vaste inrichting en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting behoort. In dat geval zijn de bepalingen van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=7&z=1987-05-01&g=1987-05-01) van toepassing.
 
@@ -254,9 +231,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 (5). Interest wordt geacht uit een Staat afkomstig te zijn, indien zij wordt betaald door die Staat zelf of door een staatkundig onderdeel van die Staat of door een plaatselijk publiekrechtelijk lichaam van die Staat of door een inwoner van die Staat. Indien evenwel -
 
-- (a). de persoon die de interest betaalt inwoner is van een van de Staten en in de andere Staat of buiten beide Staten een vaste inrichting bezit, waarvoor de schuldvordering ter zake waarvan de interest wordt betaald, was aangegaan, en de interest ten laste komt van de vaste inrichting, wordt de interest geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd;
+- (a) de persoon die de interest betaalt inwoner is van een van de Staten en in de andere Staat of buiten beide Staten een vaste inrichting bezit, waarvoor de schuldvordering ter zake waarvan de interest wordt betaald, was aangegaan, en de interest ten laste komt van de vaste inrichting, wordt de interest geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd;
 
-- (b). de persoon die de interest betaalt niet inwoner is van een van beide Staten, maar in een van de Staten een vaste inrichting bezit, waarvoor de schuldvordering ter zake waarvan de interest wordt betaald, was aangegaan, en de interest ten laste komt van de vaste inrichting, wordt de interest geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd.
+- (b) de persoon die de interest betaalt niet inwoner is van een van beide Staten, maar in een van de Staten een vaste inrichting bezit, waarvoor de schuldvordering ter zake waarvan de interest wordt betaald, was aangegaan, en de interest ten laste komt van de vaste inrichting, wordt de interest geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd.
 
 (6). Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de persoon die uiteindelijk tot de interest gerechtigd is of tussen hen beiden en een derde, het bedrag van de betaalde interest, gelet op de schuldvordering ter zake waarvan zij wordt betaald, hoger is dan het bedrag dat, naar verwacht had mogen worden, zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van de betaalde interest belastbaar overeenkomstig de wetgeving van elk van de Staten, doch onder voorbehoud van de overige bepalingen van deze Overeenkomst.
 
@@ -272,9 +249,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 (5). Royalty’s worden geacht uit een Staat afkomstig te zijn, indien zij worden betaald door die Staat zelf of door een staatkundig onderdeel van die Staat of door een plaatselijk publiekrechtelijk lichaam van die Staat of door een inwoner van die Staat. Indien evenwel -
 
-- (a). de persoon die de royalty’s betaalt inwoner is van een van de Staten en in de andere Staat of buiten beide Staten een vaste inrichting bezit, waarvoor de verplichting tot betaling van de royalty’s was aangegaan, en de royalty’s ten laste komen van de vaste inrichting, worden de royalty’s geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd;
+- (a) de persoon die de royalty’s betaalt inwoner is van een van de Staten en in de andere Staat of buiten beide Staten een vaste inrichting bezit, waarvoor de verplichting tot betaling van de royalty’s was aangegaan, en de royalty’s ten laste komen van de vaste inrichting, worden de royalty’s geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd;
 
-- (b). de persoon die de royalty’s betaalt niet inwoner is van een van beide Staten, maar in een van de Staten een vaste inrichting bezit, waarvoor de verplichting tot betaling van de royalty’s was aangegaan, en de royalty’s ten laste komen van de vaste inrichting, worden de royalty’s geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd.
+- (b) de persoon die de royalty’s betaalt niet inwoner is van een van beide Staten, maar in een van de Staten een vaste inrichting bezit, waarvoor de verplichting tot betaling van de royalty’s was aangegaan, en de royalty’s ten laste komen van de vaste inrichting, worden de royalty’s geacht daarvandaan afkomstig te zijn waar de vaste inrichting is gevestigd.
 
 (6). Indien, tengevolge van een bijzondere verhouding tussen de schuldenaar en de persoon die uiteindelijk tot de royalty’s gerechtigd is of tussen hen beiden en een derde, het bedrag van de betaalde royalty’s, gelet op de prestatie waarvoor zij worden betaald, hoger is dan het bedrag dat, naar verwacht had mogen worden, zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van de betaalde royalty’s belastbaar overeenkomstig de wetgeving van elk van de Staten, doch onder voorbehoud van de overige bepalingen van deze Overeenkomst.
 
@@ -284,21 +261,21 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 (2). Voor de toepassing van dit artikel -
 
-- (a). omvat de uitdrukking „onroerende goederen” -
+- (a) omvat de uitdrukking „onroerende goederen” -
 
-- (i). erfpacht of elk ander rechtstreeks belang in of op grond;
+   - (i) erfpacht of elk ander rechtstreeks belang in of op grond;
 
-- (ii). rechten tot exploitatie of tot opsporing van natuurlijke rijkdommen; en
+   - (ii) rechten tot exploitatie of tot opsporing van natuurlijke rijkdommen; en
 
-- (iii). aandelen of vergelijkbare belangen in een lichaam, waarvan de bezittingen geheel of in hoofdzaak bestaan uit rechtstreekse belangen in of op grond in een van de Staten of uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen in een van de Staten;
+   - (iii) aandelen of vergelijkbare belangen in een lichaam, waarvan de bezittingen geheel of in hoofdzaak bestaan uit rechtstreekse belangen in of op grond in een van de Staten of uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen in een van de Staten;
 
-- (b). worden onroerende goederen geacht gelegen te zijn -
+- (b) worden onroerende goederen geacht gelegen te zijn -
 
-- (i). indien zij bestaan uit rechtstreekse belangen in of op grond - in de Staat waar de grond is gelegen;
+   - (i) indien zij bestaan uit rechtstreekse belangen in of op grond - in de Staat waar de grond is gelegen;
 
-- (ii). indien zij bestaan uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen - in de Staat waar de natuurlijke rijkdommen zijn gelegen of de opsporing zal plaatsvinden; en
+   - (ii) indien zij bestaan uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen - in de Staat waar de natuurlijke rijkdommen zijn gelegen of de opsporing zal plaatsvinden; en
 
-- (iii). indien zij bestaan uit aandelen of vergelijkbare belangen in een lichaam, waarvan de bezittingen geheel of in hoofdzaak bestaan uit rechtstreekse belangen in of op grond in een van de Staten of uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen in een van de Staten - in de Staat waar de bezittingen of de voornaamste bezittingen van het lichaam zijn gelegen.
+   - (iii) indien zij bestaan uit aandelen of vergelijkbare belangen in een lichaam, waarvan de bezittingen geheel of in hoofdzaak bestaan uit rechtstreekse belangen in of op grond in een van de Staten of uit concessies tot exploitatie of tot opsporing van natuurlijke rijkdommen in een van de Staten - in de Staat waar de bezittingen of de voornaamste bezittingen van het lichaam zijn gelegen.
 
 (3). Voordelen verkregen door een natuurlijke persoon, die inwoner is van Australië, uit de vervreemding van aandelen of winstbewijzen in een lichaam waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat voor de toepassing van de Nederlandse belasting inwoner is van Nederland, mogen in Nederland worden belast.
 
@@ -312,11 +289,11 @@ Voordelen verkregen door een natuurlijke persoon, die inwoner is van een van de 
 
 (2). Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien -
 
-- (a). de genieter in die andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het „year of income” of in het belastingjaar van die andere Staat een totaal van 183 dagen niet te boven gaan; en
+- (a) de genieter in die andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het „year of income” of in het belastingjaar van die andere Staat een totaal van 183 dagen niet te boven gaan; en
 
-- (b). de beloning wordt betaald door of namens een werkgever die geen inwoner van die andere Staat is; en
+- (b) de beloning wordt betaald door of namens een werkgever die geen inwoner van die andere Staat is; en
 
-- (c). de beloning niet aftrekbaar is bij het bepalen van de belastbare winst van een vaste inrichting die, of van een vast middelpunt dat de werkgever in die andere Staat heeft.
+- (c) de beloning niet aftrekbaar is bij het bepalen van de belastbare winst van een vaste inrichting die, of van een vast middelpunt dat de werkgever in die andere Staat heeft.
 
 (3). Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer slechts in die Staat belastbaar.
 
@@ -346,9 +323,9 @@ Voordelen verkregen door een natuurlijke persoon, die inwoner is van een van de 
 
 (1). Beloningen (daaronder begrepen pensioenen) betaald aan een natuurlijke persoon ter zake van diensten in de uitoefening van overheidsfuncties bewezen aan een van de Staten of aan een staatkundig onderdeel van een van de Staten of aan een plaatselijk publiekrechtelijk lichaam van een van de Staten, mogen in die Staat worden belast. Een zodanige beloning, behalve een pensioen, is echter slechts in de andere Staat belastbaar, indien de diensten in die andere Staat worden bewezen en de ontvanger een inwoner is van die andere Staat, die -
 
-- (a). staatsburger of onderdaan is van die Staat; of
+- (a) staatsburger of onderdaan is van die Staat; of
 
-- (b). niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+- (b) niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
 (2). Dit artikel is niet van toepassing op beloningen (daaronder begrepen pensioenen) ter zake van diensten, bewezen in het kader van een bedrijf of onderneming uitgeoefend door een van de Staten of een staatkundig onderdeel van een van de Staten of een plaatselijk publiekrechtelijk lichaam van een van de Staten. In dat geval zijn de bepalingen van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=15&z=1987-05-01&g=1987-05-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=16&z=1987-05-01&g=1987-05-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=18&z=1987-05-01&g=1987-05-01) van toepassing.
 
@@ -378,9 +355,9 @@ Indien een persoon, die ingevolge de bepaling van het eerste lid van [artikel 4]
 
 Nederland verleent voorts een vermindering op de aldus berekende Nederlandse belasting voor die bestanddelen van het inkomen die volgens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=10&z=1987-05-01&g=1987-05-01), [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=11&z=1987-05-01&g=1987-05-01), [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=12&z=1987-05-01&g=1987-05-01), en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003760&hoofdstuk=III&artikel=17&z=1987-05-01&g=1987-05-01) in Australië mogen worden belast en die in de in het tweede lid van dit artikel bedoelde grondslag zijn begrepen. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- (a). het bedrag dat gelijk is aan de in Australië geheven belasting;
+- (a) het bedrag dat gelijk is aan de in Australië geheven belasting;
 
-- (b). het bedrag van de Nederlandse belasting dat tot het overeenkomstig het tweede lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het tweede lid van dit artikel bedoelde grondslag vormt.
+- (b) het bedrag van de Nederlandse belasting dat tot het overeenkomstig het tweede lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het tweede lid van dit artikel bedoelde grondslag vormt.
 
 ### HOOFDSTUK V. Bijzondere bepalingen
 
@@ -400,11 +377,11 @@ Nederland verleent voorts een vermindering op de aldus berekende Nederlandse bel
 
 (2). In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen -
 
-- (a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
+- (a) administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
 
-- (b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- (b) bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- (c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- (c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 26. Diplomatieke en consulaire ambtenaren
 
@@ -426,21 +403,21 @@ De bevoegde autoriteit van Nederland kan uitvoeringsvoorschriften vaststellen di
 
 Deze Overeenkomst treedt in werking op de dag waarop de Regering van Australië en de Regering van het Koninkrijk der Nederlanden langs diplomatieke weg nota’s uitwisselen waarin zij elkaar mededelen, dat het laatste is gedaan van al hetgeen nodig is om aan deze Overeenkomst verbindende kracht te verlenen in Australië en in Nederland, en deze Overeenkomst vindt daarna toepassing -
 
-- (a). in beide Staten, met betrekking tot de bronheffingen op dividenden en interest, op dividenden en interest die op of na 1 juli 1975 zijn verkregen;
+- (a) in beide Staten, met betrekking tot de bronheffingen op dividenden en interest, op dividenden en interest die op of na 1 juli 1975 zijn verkregen;
 
-- (b). in Australië, met betrekking tot belasting naar het inkomen van elk „year of income” dat op of na 1 juli 1975 aanvangt;
+- (b) in Australië, met betrekking tot belasting naar het inkomen van elk „year of income” dat op of na 1 juli 1975 aanvangt;
 
-- (c). in Nederland, met betrekking tot andere belastingen dan de dividendbelasting, voor belastingjaren en -tijdvakken, die op of na 1 januari 1975 aanvangen.
+- (c) in Nederland, met betrekking tot andere belastingen dan de dividendbelasting, voor belastingjaren en -tijdvakken, die op of na 1 januari 1975 aanvangen.
 
 ##### Artikel 30. Beëindiging
 
 Deze Overeenkomst blijft voor onbepaalde tijd van kracht, maar de Regering van Australië of de Regering van het Koninkrijk der Nederlanden kan op of voor 30 juni van ieder kalenderjaar na het jaar 1979 aan de andere Regering langs diplomatieke weg een schriftelijke kennisgeving van beëindiging zenden in welk geval de Overeenkomst ophoudt van toepassing te zijn -
 
-- (a). in beide Staten, met betrekking tot de bronheffingen op dividenden, interest en royalty’s, op dividenden, interest en royalty’s die op of na 1 juli van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan, zijn verkregen;
+- (a) in beide Staten, met betrekking tot de bronheffingen op dividenden, interest en royalty’s, op dividenden, interest en royalty’s die op of na 1 juli van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan, zijn verkregen;
 
-- (b). in Australië, met betrekking tot belasting naar het inkomen van elk „year of income” dat op of na 1 juli van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan, aanvangt;
+- (b) in Australië, met betrekking tot belasting naar het inkomen van elk „year of income” dat op of na 1 juli van het kalenderjaar volgend op dat waarin de kennisgeving van beëindiging is gedaan, aanvangt;
 
-- (c). in Nederland, met betrekking tot andere belastingen dan de hiervoor onder (a) genoemde bronheffingen, voor belastingjaren en -tijdvakken, die na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan, aanvangen.
+- (c) in Nederland, met betrekking tot andere belastingen dan de hiervoor onder (a) genoemde bronheffingen, voor belastingjaren en -tijdvakken, die na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan, aanvangen.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

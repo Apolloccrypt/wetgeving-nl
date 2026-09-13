@@ -1,50 +1,19 @@
 ---
 title: "Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof"
 identifier: "BWBV0003933"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-08-01"
-last_updated: "1982-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003933"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003777713"
-version_id: "10003842352"
-internal_id: "C10006983181"
-label_id: "10003762554"
-dtd_version: "2.0"
-original_entry_into_force: "1982-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003933/1982-08-01/0"
-intitule_bron: "Trb.1977-93"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-07-06"
-intitule_in_force: "1982-08-12"
-intitule_status: "goed"
-original_publication: "Trb.1977-93"
-original_published_date: "1977-07-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-93"
-entry_into_force_date: "1982-08-01"
-jci_1_3: "jci1.3:c:BWBV0003933&z=1982-08-01&g=1982-08-01"
-jci_1_0: "1.0:c:BWBV0003933&g=1982-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1982-08-01"
+publicatiedatum: 1982-08-01
+laatste_update: 1982-08-01
+status: geldig
+toestand: 1982-08-01
+bron: "https://wetten.overheid.nl/BWBV0003933"
+opgehaald: 2026-09-13
 ---
+
 # Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Gelet op het [Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117), ondertekend te Brussel op 31 maart 1965, alsmede op het [Protocol ter uitvoering van artikel 1, lid 2, van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004610), ondertekend te 's-Gravenhage op 29 april 1969,
-
-Verlangende de Benelux-modelwetten, alsmede de tot heden tot stand gekomen beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie aan te wijzen, welker bepalingen als gemeenschappelijke rechtsregels in de zin van [artikel 1, lid 2, van genoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1) dienen te worden beschouwd,
-
-Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 27 maart 1971,
-
-Hebben tot dat doel besloten een Protocol te sluiten en zijn de volgende bepalingen overeengekomen1)[Red: Van de bijlagen III tot en met VII bij het onderhavige Protocol is de tekst opgenomen in een los bij dit Tractatenblad verschijnende bijlage.]:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Gelet op het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, ondertekend te Brussel op 31 maart 1965, alsmede op het Protocol ter uitvoering van artikel 1, lid 2, van dat Verdrag, ondertekend te 's-Gravenhage op 29 april 1969, Verlangende de Benelux-modelwetten, alsmede de tot heden tot stand gekomen beschikkingen en aanbevelingen van het Comité van Ministers en van de Ministeriële Werkgroepen van de Benelux Economische Unie aan te wijzen, welker bepalingen als gemeenschappelijke rechtsregels in de zin van artikel 1, lid 2, van genoemd Verdrag dienen te worden beschouwd, Gelet op het advies van de Raadgevende Interparlementaire Beneluxraad van 27 maart 1971, Hebben tot dat doel besloten een Protocol te sluiten en zijn de volgende bepalingen overeengekomen1)[Red: Van de bijlagen III tot en met VII bij het onderhavige Protocol is de tekst opgenomen in een los bij dit Tractatenblad verschijnende bijlage.]:*
 
 ##### Artikel 1
 

@@ -1,64 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0003229"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-07-01"
-last_updated: "2009-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003229"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003415413"
-version_id: "10003460612"
-internal_id: "C10008429711"
-label_id: "10003401544"
-dtd_version: "2.0"
-original_entry_into_force: "2009-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003229/2009-07-01/0"
-intitule_bron: "Trb.2008-103"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-05-23"
-intitule_in_force: "2009-07-17"
-intitule_status: "goed"
-original_publication: "Trb.2008-103"
-original_published_date: "2008-05-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-103"
-entry_into_force_date: "2009-07-01"
-jci_1_3: "jci1.3:c:BWBV0003229&z=2009-07-01&g=2009-07-01"
-jci_1_0: "1.0:c:BWBV0003229&g=2009-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-07-01"
+publicatiedatum: 2009-07-01
+laatste_update: 2009-07-01
+status: geldig
+toestand: 2009-07-01
+bron: "https://wetten.overheid.nl/BWBV0003229"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Mauritius inzake wederzijdse administratieve bijstand in douanezaken
 
-Preambule
-
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Mauritius,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
-
-Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de openbare veiligheid en handel van de Verdragsluitende Partijen;
-
-Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar vormt voor de samenleving;
-
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen wettelijke bepalingen;
-
-Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002;
-
-Gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen bevatten met betrekking tot bepaalde goederen;
-
-Tevens gelet op de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) van de Verenigde Naties van 1948;
-
-Zijn het volgende overeengekomen:
+*Preambule Het Koninkrijk der Nederlanden en de Republiek Mauritius, hierna te noemen de Verdragsluitende Partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen; Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de openbare veiligheid en handel van de Verdragsluitende Partijen; Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar vormt voor de samenleving; Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen wettelijke bepalingen; Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002; Gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen bevatten met betrekking tot bepaalde goederen; Tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK 1. BEGRIPSOMSCHRIJVINGEN
 
@@ -68,9 +23,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. „douaneadministratie”:
 
-- i. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
+   - i. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
 
-- ii. wat de Republiek Mauritius betreft: de afdeling Douane, Mauritius Revenue Authority;
+   - ii. wat de Republiek Mauritius betreft: de afdeling Douane, Mauritius Revenue Authority;
 
 - b. „douanevordering”: elk bedrag aan douanerechten alsmede verhogingen, bestuurlijke boeten, achterstallige betalingen, renten en kosten die betrekking hebben op de genoemde rechten die niet kunnen worden geïnd in een van de Verdragsluitende Partijen;
 
@@ -252,7 +207,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 3. Uit hoofde van dit Verdrag ontvangen informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde vertrouwelijkheid en bescherming als die welke voor soortgelijke informatie gelden krachtens de wettelijke en administratieve bepalingen van de Verdragsluitende Partij waar zij wordt ontvangen.
 
-4. Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende Verdragsluitende Partij en is onderworpen aan de bepalingen in de Bijlage bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.
+4. Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende Verdragsluitende Partij en is onderworpen aan de bepalingen in de [Bijlage](https://wetten.overheid.nl/BWBV0003229) bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.
 
 ### HOOFDSTUK VIII. ONTHEFFING
 
@@ -318,10 +273,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Port Louis op 13 maart 2008 in de Nederlandse en de Engelse taal, zijnde beide teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 K. CHR. VAN KESTEREN
 
-**Voor de Republiek Mauritius,**
+*Voor de Republiek Mauritius,*
 
 A. MANSOOR

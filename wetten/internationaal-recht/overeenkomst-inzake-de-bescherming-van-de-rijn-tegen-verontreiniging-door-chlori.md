@@ -1,56 +1,19 @@
 ---
 title: "Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden"
 identifier: "BWBV0003698"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-11-01"
-last_updated: "1994-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003698"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003656023"
-version_id: "10003716312"
-internal_id: "C10006981231"
-label_id: "10003641274"
-dtd_version: "2.0"
-original_entry_into_force: "1985-07-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003698/1994-11-01/0"
-intitule_bron: "Trb.1977-33"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-02-18"
-intitule_in_force: "1985-08-27"
-intitule_status: "goed"
-original_publication: "Trb.1977-33"
-original_published_date: "1977-02-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-33"
-entry_into_force_date: "1985-07-05"
-jci_1_3: "jci1.3:c:BWBV0003698&z=1994-11-01&g=1994-11-01"
-jci_1_0: "1.0:c:BWBV0003698&g=1994-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1985-07-05"
+publicatiedatum: 1985-07-05
+laatste_update: 1994-11-01
+status: geldig
+toestand: 1994-11-01
+bron: "https://wetten.overheid.nl/BWBV0003698"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden
 
-De Regering van de Bondsrepubliek Duitsland;
-
-de Regering van de Franse Republiek;
-
-de Regering van het Groothertogdom Luxemburg;
-
-de Regering van het Koninkrijk der Nederlanden en
-
-de Regering van de Zwitserse Bondsstaat;
-
-verwijzend naar de Overeenkomst van 29 april 1963 nopens de Internationale Commissie ter bescherming van de Rijn tegen verontreiniging,
-
-in aanmerking nemende de huidige belasting van de Rijn met chloride-ionen,
-
-zich bewust van de schade die daaruit zou kunnen voortvloeien,
-
-verwijzend naar de bevindingen tijdens, en de resultaten van de op 25 en 26 oktober 1972 te ’s-Gravenhage gehouden ministersconferentie over de verontreiniging van de Rijn, bij gelegenheid waarvan de wens is geuit de kwaliteit van het Rijnwater trapsgewijs zodanig te verbeteren dat aan de Nederlands-Duitse grens het gehalte van 200 mg/l chloride-ionen niet wordt overschreden,
-
-zijn overeengekomen als volgt:
+*De Regering van de Bondsrepubliek Duitsland; de Regering van de Franse Republiek; de Regering van het Groothertogdom Luxemburg; de Regering van het Koninkrijk der Nederlanden en de Regering van de Zwitserse Bondsstaat; verwijzend naar de Overeenkomst van 29 april 1963 nopens de Internationale Commissie ter bescherming van de Rijn tegen verontreiniging, in aanmerking nemende de huidige belasting van de Rijn met chloride-ionen, zich bewust van de schade die daaruit zou kunnen voortvloeien, verwijzend naar de bevindingen tijdens, en de resultaten van de op 25 en 26 oktober 1972 te ’s-Gravenhage gehouden ministersconferentie over de verontreiniging van de Rijn, bij gelegenheid waarvan de wens is geuit de kwaliteit van het Rijnwater trapsgewijs zodanig te verbeteren dat aan de Nederlands-Duitse grens het gehalte van 200 mg/l chloride-ionen niet wordt overschreden, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -72,7 +35,7 @@ De Franse Regering houdt de Internationale Commissie ter Bescherming van de Rijn
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 4
 
@@ -90,7 +53,7 @@ Indien de injectie of de inhouding van chloride-ionen schade veroorzaakt waarvan
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 

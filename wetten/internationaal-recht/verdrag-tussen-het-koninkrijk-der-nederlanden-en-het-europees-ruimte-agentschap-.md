@@ -1,89 +1,51 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied"
 identifier: "BWBV0003016"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-02-21"
-last_updated: "2008-02-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003016"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003292723"
-version_id: "10003317682"
-internal_id: "C10008430171"
-label_id: "10003278694"
-dtd_version: "2.0"
-original_entry_into_force: "2008-02-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003016/2008-02-21/0"
-intitule_bron: "Trb.2008-33"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-02-21"
-intitule_published: "2008-03-04"
-intitule_in_force: "2008-03-04"
-intitule_status: "goed"
-original_publication: "Trb.2008-33"
-original_signed_date: "2008-02-21"
-original_published_date: "2008-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-33"
-entry_into_force_date: "2008-02-21"
-jci_1_3: "jci1.3:c:BWBV0003016&z=2008-02-21&g=2008-02-21"
-jci_1_0: "1.0:c:BWBV0003016&g=2008-02-21"
-citeertitel_status: "redactioneel"
-signed_date: "2008-02-21"
-entry_into_force: "2008-02-21"
+publicatiedatum: 2008-02-21
+laatste_update: 2008-02-21
+status: geldig
+toestand: 2008-02-21
+bron: "https://wetten.overheid.nl/BWBV0003016"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Europees Ruimte Agentschap inzake het Europees Centrum voor onderzoek en technologie-ontwikkeling op ruimtevaartgebied
 
-The Kingdom of the Netherlands,
-
-and
-
-the European Space Agency
-
-Having regard to the [Convention for the establishment of a European Space Agency](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) of 30 May 1975, and in particular to its[Article VI](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=VI) and its[Annex I](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I)on Privileges and Immunities;
-
-Having regard to the [Agreement between the European Space Agency and the Kingdom of the Netherlands concerning the European Space Research Technology Centre](https://wetten.overheid.nl/jci1.3:c:BWBV0001369)of 10 February 1999;
-
-Having regard to the [Agreement between the Kingdom of the Netherlands and the European Space Agency regarding the registration of apprentices, who have been accepted by the European Space Agency into its apprenticeship programme in the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0001675) of 23 July 2004;
-
-Considering the need to adapt the [Agreement between the European Space Agency and the Kingdom of the Netherlands concerning the European Space Research Technology Centre](https://wetten.overheid.nl/jci1.3:c:BWBV0001369) of 10 February 1999 to the present circumstances;
-
-Having regard in particular to [Article XV.3 of the Convention for the establishment of a European Space Agency](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XV) of 30 May 1975 and to [Article XXVIII of Annex I thereto](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XXVIII);
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, and the European Space Agency Having regard to the Convention for the establishment of a European Space Agency of 30 May 1975, and in particular to itsArticle VI and itsAnnex Ion Privileges and Immunities; Having regard to the Agreement between the European Space Agency and the Kingdom of the Netherlands concerning the European Space Research Technology Centreof 10 February 1999; Having regard to the Agreement between the Kingdom of the Netherlands and the European Space Agency regarding the registration of apprentices, who have been accepted by the European Space Agency into its apprenticeship programme in the Netherlands of 23 July 2004; Considering the need to adapt the Agreement between the European Space Agency and the Kingdom of the Netherlands concerning the European Space Research Technology Centre of 10 February 1999 to the present circumstances; Having regard in particular to Article XV.3 of the Convention for the establishment of a European Space Agency of 30 May 1975 and to Article XXVIII of Annex I thereto; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purposes of this Agreement:
 
-- a). “[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813)” means the Convention for the establishment of a European Space Agency of 30 May 1975;
+- a) “[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813)” means the Convention for the establishment of a European Space Agency of 30 May 1975;
 
-- b). “Director General” means the Director General referred to in [Article XII, paragraph 1 b) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII);
+- b) “Director General” means the Director General referred to in [Article XII, paragraph 1 b) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII);
 
-- c). “the Agency” means the European Space Agency;
+- c) “the Agency” means the European Space Agency;
 
-- d). “ESTEC” means the European Space Research Technology Centre of the Agency located in the Netherlands;
+- d) “ESTEC” means the European Space Research Technology Centre of the Agency located in the Netherlands;
 
-- e). “Staff member” means a member of the staff of the Agency exercising his functions in the Netherlands who has been appointed further to [Article XII of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII);
+- e) “Staff member” means a member of the staff of the Agency exercising his functions in the Netherlands who has been appointed further to [Article XII of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII);
 
-- f). “Experts” means persons, referred to in [Article XII, paragraph 3 d) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII) and [Article XVII of Annex I of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XVII) performing missions or tasks authorised by the Agency;
+- f) “Experts” means persons, referred to in [Article XII, paragraph 3 d) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XII) and [Article XVII of Annex I of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XVII) performing missions or tasks authorised by the Agency;
 
-- g). “Government” means the Government of the Netherlands;
+- g) “Government” means the Government of the Netherlands;
 
-- h). “Member State” means a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) pursuant to [Article XX](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XX) and [XXII thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XXII);
+- h) “Member State” means a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813) pursuant to [Article XX](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XX) and [XXII thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XXII);
 
-- i). “Site” means the surface of land put at the disposal of the Agency, in accordance with the notarial deed of 9 November 1966, as amended by notarial deeds of 24 April 1994 and 16 November 2006;
+- i) “Site” means the surface of land put at the disposal of the Agency, in accordance with the notarial deed of 9 November 1966, as amended by notarial deeds of 24 April 1994 and 16 November 2006;
 
-- j). “Premises” means the site, the buildings, parts of buildings and land or facilities ancillary thereto, including installations and facilities made available to, or maintained, occupied or used by the Agency in the Netherlands for the performance of its official activities. The Agency shall communicate plans of these premises to the Government;
+- j) “Premises” means the site, the buildings, parts of buildings and land or facilities ancillary thereto, including installations and facilities made available to, or maintained, occupied or used by the Agency in the Netherlands for the performance of its official activities. The Agency shall communicate plans of these premises to the Government;
 
-- k). “Representative of Member States” means the designated representative of a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813);
+- k) “Representative of Member States” means the designated representative of a State party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813);
 
-- l). “[Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)” means the Vienna Convention on Diplomatic Relations of 18 April 1961;
+- l) “[Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345)” means the Vienna Convention on Diplomatic Relations of 18 April 1961;
 
-- m). “Members of the family forming part of a staff member’s household” has the meaning specified in Article 11 of this Agreement.
+- m) “Members of the family forming part of a staff member’s household” has the meaning specified in Article 11 of this Agreement.
 
-##### Article 2. Application of [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I)
+##### Article 2. Application of Annex I to the Convention
 
 For the pursuit of its official activities within the territory of the Netherlands, the Agency shall enjoy the privileges and immunities defined in [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I) and in any relevant complementary agreement in force between the Government and the Agency in accordance with the provisions for its implementation, set out in this Agreement. This Agreement shall not detract from Annex I to the Convention.
 
@@ -133,31 +95,31 @@ Without prejudice to the provisions of the [Convention](https://wetten.overheid.
 
 ##### Article 10. Exemption from taxes and duties
 
-1. For the purposes of [Article V.1 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=V), “direct taxes” shall embrace all direct State taxes (**Rijksbelastingen**) and all direct taxes, dues and levies imposed by a province, municipality or district water board (**waterschap**) without prejudice to the provisions of[Article VII.3 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=VII).
+1. For the purposes of [Article V.1 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=V), “direct taxes” shall embrace all direct State taxes (*Rijksbelastingen*) and all direct taxes, dues and levies imposed by a province, municipality or district water board (*waterschap*) without prejudice to the provisions of[Article VII.3 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=VII).
 
-2. The Agency shall be exempted on application from tax on motor vehicles and motorcycles (**belasting van personenauto’s en motorrijwielen**, **BPM**) andmotor-vehicle tax (**motorrijtuigenbelasting, MRB**) in respect of its motor vehicles used for official purposes.
+2. The Agency shall be exempted on application from tax on motor vehicles and motorcycles (*belasting van personenauto’s en motorrijwielen*, *BPM*) andmotor-vehicle tax (*motorrijtuigenbelasting, MRB*) in respect of its motor vehicles used for official purposes.
 
 3. The following taxes and duties shall in particular be considered to fall under [article V.2 of Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=V):
 
-- a). value added tax (**omzetbelasting**) in respect of goods supplied or services rendered;
+- a) value added tax (*omzetbelasting*) in respect of goods supplied or services rendered;
 
-- b). excise duties (**accijnzen**) on goods;
+- b) excise duties (*accijnzen*) on goods;
 
-- c). real property transfer tax (**overdrachtsbelasting**);
+- c) real property transfer tax (*overdrachtsbelasting*);
 
-- d). insurance tax (**assurantiebelasting**);
+- d) insurance tax (*assurantiebelasting*);
 
-- e). import taxes and duties (**invoerrechten**);
+- e) import taxes and duties (*invoerrechten*);
 
-- f). energy tax (**energiebelasting**);
+- f) energy tax (*energiebelasting*);
 
-- g). ground water tax (**grondwaterbelasting**);
+- g) ground water tax (*grondwaterbelasting*);
 
-- h). any other tax and duties of a substantially similar character as taxes provided for in this paragraph, imposed by the Netherlands.
+- h) any other tax and duties of a substantially similar character as taxes provided for in this paragraph, imposed by the Netherlands.
 
 4. If value added tax is paid in respect of goods supplied or services rendered to the Agency it shall be refunded to the Agency on application. The tax on hydrocarbons such as fuel oil and motor fuels which the Agency requires for official purposes shall be refunded to the Agency on application.
 
-The Agency shall be exempted in advance from excise duties on goods supplied and required for official purposes, purchased from an “**accijnsgoederenplaats**”, if a permit therefor is acquired from the national tax authority.
+The Agency shall be exempted in advance from excise duties on goods supplied and required for official purposes, purchased from an “*accijnsgoederenplaats*”, if a permit therefor is acquired from the national tax authority.
 
 The Agency shall submit applications for reimbursement within three months after the end of the quarter in which payment was made for goods supplied or services rendered and shall send the relevant documents together with the applications.
 
@@ -167,27 +129,27 @@ Reimbursement of the above-mentioned taxes and duties shall be made in conformit
 
 This Article shall not apply to taxes and duties that are no more than charges for public utility services.
 
-5. Goods acquired or imported under the terms set out in paragraph 3 of this Article shall not be sold, let, given away or otherwise disposed of, except in accordance with the conditions agreed upon with the Government.
+5.. Goods acquired or imported under the terms set out in paragraph 3 of this Article shall not be sold, let, given away or otherwise disposed of, except in accordance with the conditions agreed upon with the Government.
 
 ##### Article 11. Members of the Family
 
 1. For the purposes of the Agreement between the Netherlands and the Agency, the following persons shall be recognised as members of the family forming part of a staff member’s household:
 
-- a). the spouse or registered partner of a staff member;
+- a) the spouse or registered partner of a staff member;
 
-- b). children of a staff member, of his spouse or of his registered partner who are under the age of 18;
+- b) children of a staff member, of his spouse or of his registered partner who are under the age of 18;
 
-- c). children of a staff member, of his spouse or of his registered partner who are between 18 and 27 years of age, provided that they:
+- c) children of a staff member, of his spouse or of his registered partner who are between 18 and 27 years of age, provided that they:
 
-- (i). are unmarried,
+   - (i) are unmarried,
 
-- (ii). are financially dependent on the staff member, his spouse or his registered partner, and
+   - (ii) are financially dependent on the staff member, his spouse or his registered partner, and
 
-- (iii). are either attending school or studying, or following vocational training, an apprenticeship programme or education, whether or not including a work placement, or intending to do so, in the Netherlands;
+   - (iii) are either attending school or studying, or following vocational training, an apprenticeship programme or education, whether or not including a work placement, or intending to do so, in the Netherlands;
 
-- d). children under the age of 18 and children who fulfil the requirements listed in sub paragraph c) of this Article for whom an application for adoption has been lodged and the adoption procedure has been started by a staff member, his spouse or his registered partner;
+- d) children under the age of 18 and children who fulfil the requirements listed in sub paragraph c) of this Article for whom an application for adoption has been lodged and the adoption procedure has been started by a staff member, his spouse or his registered partner;
 
-- e). irrespective of age, dependent disabled children, or children who are prevented by serious illness or invalidity from earning a livelihood throughout the period of that illness or invalidity, of a staff member, of his spouse or of his registered partner, provided that the Agency supplies the Government with a certificate to that effect.
+- e) irrespective of age, dependent disabled children, or children who are prevented by serious illness or invalidity from earning a livelihood throughout the period of that illness or invalidity, of a staff member, of his spouse or of his registered partner, provided that the Agency supplies the Government with a certificate to that effect.
 
 2. Children of a staff member, of his spouse or of his registered partner who are between 18 and 24 years of age shall also be recognised as members of the family forming part of the household if they do not fulfil the condition set out in paragraph 1, subparagraph c), item iii) of this Article, as long as they fulfil the other conditions set out in that subparagraph.
 
@@ -195,11 +157,11 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 1. Staff members:
 
-- a). shall not require a work permit;
+- a) shall not require a work permit;
 
-- b). shall not require a residence permit, and shall not be subject to the provisions governing immigration procedures and aliens’ registration, provided that they hold the personal identity card referred to in Article 13; the same shall apply to members of their family forming part of their household;
+- b) shall not require a residence permit, and shall not be subject to the provisions governing immigration procedures and aliens’ registration, provided that they hold the personal identity card referred to in Article 13; the same shall apply to members of their family forming part of their household;
 
-- c). shall not be subject to the application of the regulations regarding the registration of religious denomination in the Netherlands’ population registers; the same shall apply to members of their family forming part of their household.
+- c) shall not be subject to the application of the regulations regarding the registration of religious denomination in the Netherlands’ population registers; the same shall apply to members of their family forming part of their household.
 
 2. Members of the family forming part of the household of a staff member shall not require a work permit for the duration of the staff member’s employment with the Agency.
 
@@ -211,11 +173,11 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 2. The Government shall issue identity cards to the following persons:
 
-- a). staff members and experts;
+- a) staff members and experts;
 
-- b). members of the family forming part of a staff member’s and expert’s household who are not nationals of the Netherlands;
+- b) members of the family forming part of a staff member’s and expert’s household who are not nationals of the Netherlands;
 
-- c). private and domestic servants of a staff member, who are neither nationals of the Netherlands, nor in the possession of a valid permanent residence permit.
+- c) private and domestic servants of a staff member, who are neither nationals of the Netherlands, nor in the possession of a valid permanent residence permit.
 
 3. The identity cards issued by the Government shall state the holder’s name, sex, date and place of birth, and nationality, and shall bear a photograph of the holder. This card shall serve to identify the holder in relation to the competent authorities.
 
@@ -223,7 +185,7 @@ This Article shall not apply to taxes and duties that are no more than charges f
 
 5. Electronically accessible data on the identity cards shall be limited to the data listed in paragraph 3 of this Article. However, the Government may add further electronically accessible data provided this does not affect any of the rights under [Annex I to the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&bijlage=I) and this Agreement. The Government shall inform the Agency of the intended changes at the earliest possible date prior to their implementation.
 
-6. All visible and electronically accessible data on the identity card shall be subject to the data protection legislation (**Wet Bescherming Persoonsgegevens)**of the Kingdom of the Netherlands.
+6. All visible and electronically accessible data on the identity card shall be subject to the data protection legislation (*Wet Bescherming Persoonsgegevens)*of the Kingdom of the Netherlands.
 
 7. The Agency shall promptly return the identity cards of the persons mentioned in paragraph 2 of this Article after termination of employment of the staff member concerned, with due regard to the reasonable period stipulated in Article 12, paragraph 3 of this Agreement. The same shall apply to the identity cards of the persons mentioned in paragraph 2, subparagraph c of this Article after termination of their employment with a staff member.
 
@@ -275,13 +237,13 @@ The privileges and immunities granted under the provisions of this Agreement are
 
 1. The Government shall facilitate the entry, stay and departure of the persons listed below:
 
-- a). representatives of Member States, as defined in [Article XIV of Annex 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XIV);
+- a) representatives of Member States, as defined in [Article XIV of Annex 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=XIV);
 
-- b). staff members and members of their family forming part of their household;
+- b) staff members and members of their family forming part of their household;
 
-- c). experts and members of their family forming part of their household;
+- c) experts and members of their family forming part of their household;
 
-- d). domestic and private servants of staff members.
+- d) domestic and private servants of staff members.
 
 2. The Government shall, on the request of the Agency, facilitate the entry, stay and departure of persons attending official activities and programmes specified in [Article V of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003813&artikel=V).
 

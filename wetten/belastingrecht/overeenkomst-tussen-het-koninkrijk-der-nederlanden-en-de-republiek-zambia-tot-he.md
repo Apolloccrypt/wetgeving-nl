@@ -1,195 +1,142 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zambia tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0003952"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-01-01"
-last_updated: "2019-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003952"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003785323"
-version_id: "10005894252"
-internal_id: "C10009402191"
-label_id: "10003770844"
-dtd_version: "2.0"
-original_entry_into_force: "2019-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003952/2019-01-01/0"
-intitule_bron: "Trb.2018-64"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2018-05-25"
-intitule_in_force: "2018-05-25"
-intitule_status: "vervallen"
-original_publication: "Trb.2018-64"
-original_published_date: "2018-05-25"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2018-64"
-entry_into_force_date: "2019-01-01"
-jci_1_3: "jci1.3:c:BWBV0003952&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBV0003952&g=2019-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-01-01"
+publicatiedatum: 2019-01-01
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBV0003952"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zambia tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-De Regering van het Koninkrijk der Nederlanden en
+### CHAPTER I. Scope of the Convention
 
-De Regering van de Republiek Zambia,
+##### Article 1. Personal scope
 
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,
+*Vervallen*
 
-Zijn het volgende overeengekomen:
+##### Article 2. Taxes covered
 
-### HOOFDSTUK I. Reikwijdte van de Overeenkomst
+*Vervallen*
 
-##### Artikel 1. Personen op wie de Overeenkomst van toepassing is
+### CHAPTER II. Definitions
 
-Vervallen
+##### Article 3. General definitions
 
-##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+*Vervallen*
 
-Vervallen
+##### Article 4. Fiscal domicile
 
-### HOOFDSTUK II. Begripsbepalingen
+*Vervallen*
 
-##### Artikel 3. Algemene begripsbepalingen
+##### Article 5. Permanent establishment
 
-Vervallen
+*Vervallen*
 
-##### Artikel 4. Fiscale woonplaats
+### CHAPTER III. Taxation of income
 
-Vervallen
+##### Article 6. Income from immovable property
 
-##### Artikel 5. Vaste inrichting
+*Vervallen*
 
-Vervallen
+##### Article 7. Business profits
 
-### HOOFDSTUK III. Belastingheffing naar het inkomen
+*Vervallen*
 
-##### Artikel 6. Inkomsten uit onroerende goederen
+##### Article 8. Shipping and air transport
 
-Vervallen
+*Vervallen*
 
-##### Artikel 7. Winst uit onderneming
+##### Article 9. Associated enterprises
 
-Vervallen
+*Vervallen*
 
-##### Artikel 8. Zeevaart en luchtvaart
+##### Article 10. Dividends
 
-Vervallen
+*Vervallen*
 
-##### Artikel 9. Gelieerde ondernemingen
+##### Article 11. Interest
 
-Vervallen
+*Vervallen*
 
-##### Artikel 10. Dividenden
+##### Article 12. Royalties
 
-Vervallen
+*Vervallen*
 
-##### Artikel 11. Interest
+##### Article 13. Capital gains
 
-Vervallen
+*Vervallen*
 
-##### Artikel 12. Royalty's
+##### Article 14. Independent personal services
 
-Vervallen
+*Vervallen*
 
-##### Artikel 13. Vermogenswinsten
+##### Article 15. Dependent personal services
 
-Vervallen
+*Vervallen*
 
-##### Artikel 14. Zelfstandige arbeid
+##### Article 16. Directors' fees
 
-Vervallen
+*Vervallen*
 
-##### Artikel 15. Niet zelfstandige arbeid
+##### Article 17. Artistes and athletes
 
-Vervallen
+*Vervallen*
 
-##### Artikel 16. Bestuurders- en commissarissenbeloningen
+##### Article 18. Pensions
 
-Vervallen
+*Vervallen*
 
-##### Artikel 17. Artiesten en sportbeoefenaars
+##### Article 19. Governmental functions
 
-Vervallen
+*Vervallen*
 
-##### Artikel 18. Pensioenen
+##### Article 20. Students
 
-Vervallen
+*Vervallen*
 
-##### Artikel 19. Overheidsfuncties
+##### Article 21. Income not expressly mentioned
 
-Vervallen
+*Vervallen*
 
-##### Artikel 20. Studenten
+### CHAPTER IV
 
-Vervallen
+##### Article 22. Elimination of double taxation
 
-##### Artikel 21. Overige inkomsten
+*Vervallen*
 
-Vervallen
+### CHAPTER V. Special provisions
 
-### HOOFDSTUK IV
+##### Article 23. Non-discrimination
 
-##### Artikel 22. Vermijding van dubbele belasting
+*Vervallen*
 
-Vervallen
+##### Article 24. Mutual agreement procedure
 
-### HOOFDSTUK V. Bijzondere bepalingen
+*Vervallen*
 
-##### Artikel 23. Non-discriminatie
+##### Article 25. Exchange of information
 
-Vervallen
+*Vervallen*
 
-##### Artikel 24. Regeling voor onderling overleg
+##### Article 26. Diplomatic and consular officials
 
-Vervallen
+*Vervallen*
 
-##### Artikel 25. Uitwisseling van inlichtingen
+##### Article 27. Territorial extension
 
-Vervallen
+*Vervallen*
 
-##### Artikel 26. Diplomatieke en consulaire ambtenaren
+### CHAPTER VI. Final provisions
 
-Vervallen
+##### Article 28. Entry into force
 
-##### Artikel 27. Uitbreiding tot andere gebieden
+*Vervallen*
 
-Vervallen
+##### Article 29. Termination
 
-### HOOFDSTUK VI. Slotbepalingen
-
-##### Artikel 28. Inwerkingtreding
-
-Vervallen
-
-##### Artikel 29. Beëindiging
-
-Vervallen
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, heden tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia gesloten, zijn de ondergetekenden overeengekomen, dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-IN WITNESS WHEREOF the undersigned, duly authorized thereto have signed this Convention.
-
-DONE at Lusaka, this day of 19 Dec. 1977 in duplicate in the English language.
-
-**For the Government of the Kingdom of the Netherlands,**
-
-(sd.) G. VAN VLOTEN
-
-**For the Government of the Republic of Zambia,**
-
-(sd.) J. M. MWANAKATWE
-
-### HOOFDSTUK I. Reikwijdte van de Overeenkomst
-
-### HOOFDSTUK II. Begripsbepalingen
-
-### HOOFDSTUK III. Belastingheffing naar het inkomen
-
-### HOOFDSTUK IV
-
-### HOOFDSTUK V. Bijzondere bepalingen
-
-### HOOFDSTUK VI. Slotbepalingen
+*Vervallen*

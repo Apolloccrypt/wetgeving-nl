@@ -1,46 +1,19 @@
 ---
 title: "Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije"
 identifier: "BWBV0003431"
-country: "nl"
-rank: "verdrag"
-publication_date: "1977-07-01"
-last_updated: "1977-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003431"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003529823"
-version_id: "10003579052"
-internal_id: "C10006981001"
-label_id: "10003515474"
-dtd_version: "2.0"
-original_entry_into_force: "1977-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003431/1977-07-01/0"
-intitule_bron: "Trb.1976-100"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-07-08"
-intitule_in_force: "1977-06-15"
-intitule_status: "goed"
-original_publication: "Trb.1976-100"
-original_published_date: "1976-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-100"
-entry_into_force_date: "1977-07-01"
-jci_1_3: "jci1.3:c:BWBV0003431&z=1977-07-01&g=1977-07-01"
-jci_1_0: "1.0:c:BWBV0003431&g=1977-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-07-01"
+publicatiedatum: 1977-07-01
+laatste_update: 1977-07-01
+status: geldig
+toestand: 1977-07-01
+bron: "https://wetten.overheid.nl/BWBV0003431"
+opgehaald: 2026-09-13
 ---
+
 # Fytosanitaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije
 
-De Regering van het Koninkrijk der Nederlanden en
-
-de Regering van de Volksrepubliek Bulgarije,
-
-In het besef dat het wenselijk is het binnenbrengen van voor planten en plantaardige produkten schadelijke organismen op hun grondgebied te voorkomen;
-
-Verlangende de onderlinge samenwerking op het gebied van de planteziektenbestrijding zoveel mogelijk te vergemakkelijken;
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Bulgarije, In het besef dat het wenselijk is het binnenbrengen van voor planten en plantaardige produkten schadelijke organismen op hun grondgebied te voorkomen; Verlangende de onderlinge samenwerking op het gebied van de planteziektenbestrijding zoveel mogelijk te vergemakkelijken; Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

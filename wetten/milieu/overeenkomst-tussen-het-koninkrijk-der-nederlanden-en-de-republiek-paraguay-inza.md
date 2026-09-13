@@ -1,46 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake geregeld luchtvervoer"
 identifier: "BWBV0003847"
-country: "nl"
-rank: "verdrag"
-publication_date: "1974-12-13"
-last_updated: "1974-12-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003847"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003747453"
-version_id: "10003810242"
-internal_id: "C10006983051"
-label_id: "10003732464"
-dtd_version: "2.0"
-original_entry_into_force: "1974-12-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003847/1974-12-13/0"
-intitule_bron: "Trb.1974-74"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-05-15"
-intitule_in_force: "1975-01-15"
-intitule_status: "goed"
-original_publication: "Trb.1974-74"
-original_published_date: "1974-05-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-74"
-entry_into_force_date: "1974-12-13"
-jci_1_3: "jci1.3:c:BWBV0003847&z=1974-12-13&g=1974-12-13"
-jci_1_0: "1.0:c:BWBV0003847&g=1974-12-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-12-13"
+publicatiedatum: 1974-12-13
+laatste_update: 1974-12-13
+status: geldig
+toestand: 1974-12-13
+bron: "https://wetten.overheid.nl/BWBV0003847"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Paraguay inzake geregeld luchtvervoer
 
-Het Koninkrijk der Nederlanden en de Republiek Paraguay die Partijen zijn bij het Verdrag inzake de internationale burgerluchtvaart dat op 7 december 1944 te Chicago tot stand kwam, hebben besloten het luchtvervoer tussen hun onderscheiden grondgebieden aan bepaalde regels te onderwerpen en zij hebben daartoe hun Gevolmachtigden aangewezen, te weten:
-
-Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr Max van der Stoel, Minister van Buitenlandse Zaken,
-
-en Zijne Excellentie de President van de Republiek Paraguay: Zijne Excellentie Ir. Tomás Salomoni, Buitengewoon en Gevolmachtigd Ambassadeur van Paraguay bij het Koninkrijk der Nederlanden
-
-die, na hun onderscheiden Volmachten te hebben uitgewisseld, die in goede en behoorlijke vorm hebben bevonden,
-
-de volgende bepalingen zijn overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Paraguay die Partijen zijn bij het Verdrag inzake de internationale burgerluchtvaart dat op 7 december 1944 te Chicago tot stand kwam, hebben besloten het luchtvervoer tussen hun onderscheiden grondgebieden aan bepaalde regels te onderwerpen en zij hebben daartoe hun Gevolmachtigden aangewezen, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr Max van der Stoel, Minister van Buitenlandse Zaken, en Zijne Excellentie de President van de Republiek Paraguay: Zijne Excellentie Ir. Tomás Salomoni, Buitengewoon en Gevolmachtigd Ambassadeur van Paraguay bij het Koninkrijk der Nederlanden die, na hun onderscheiden Volmachten te hebben uitgewisseld, die in goede en behoorlijke vorm hebben bevonden, de volgende bepalingen zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -206,8 +179,8 @@ TEN BLIJKE WAARVAN de hierboven genoemde Gevolmachtigden deze overeenkomst onder
 
 GEDAAN te 's-Gravenhage op de 7de dag van de maand februari van het jaar 1974 in tweevoud, in de Nederlandse en de Spaanse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
-**Por el Reino de los Países Bajos**
+*Por el Reino de los Países Bajos*
 
 (w.g.) M. VAN DER STOEL.

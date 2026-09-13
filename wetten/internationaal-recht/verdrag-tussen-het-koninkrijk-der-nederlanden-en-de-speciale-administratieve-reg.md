@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Macau van de Volksrepubliek China inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0003059"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-05-01"
-last_updated: "2009-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003059"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003312283"
-version_id: "10003341122"
-internal_id: "C10008429541"
-label_id: "10003297954"
-dtd_version: "2.0"
-original_entry_into_force: "2009-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003059/2009-05-01/0"
-intitule_bron: "Trb.2008-129"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2008-06-26"
-intitule_in_force: "2009-06-23"
-intitule_status: "goed"
-original_publication: "Trb.2008-129"
-original_published_date: "2008-06-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-129"
-entry_into_force_date: "2009-05-01"
-jci_1_3: "jci1.3:c:BWBV0003059&z=2009-05-01&g=2009-05-01"
-jci_1_0: "1.0:c:BWBV0003059&g=2009-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-05-01"
+publicatiedatum: 2009-05-01
+laatste_update: 2009-05-01
+status: geldig
+toestand: 2009-05-01
+bron: "https://wetten.overheid.nl/BWBV0003059"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Macau van de Volksrepubliek China inzake de bevordering en de wederzijdse bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Speciale Administratieve Regio Macau van de Volksrepubliek China,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het gebied van de andere Verdragsluitende Partij,
-
-In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Speciale Administratieve Regio Macau van de Volksrepubliek China, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het gebied van de andere Verdragsluitende Partij, In het besef dat overeenstemming over de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -52,35 +21,35 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen” verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
 
-- v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
+   - v. rechten verleend krachtens het publiekrecht of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen.
 
 - b. omvat de term „investeerder”: Terwille van de duidelijkheid over de vraag of een rechtspersoon, die niet is opgericht krachtens het recht van een Verdragsluitende Partij, al dan niet onder toezicht staat van natuurlijke personen of rechtspersonen van die Verdragsluitende Partij zoals bedoeld in het eerste lid, onderdeel b, onder i of ii, wordt onder toezicht verstaan feitelijk toezicht, te bepalen na een onderzoek betreffende de feitelijke omstandigheden. Bij elk zodanig onderzoek dienen alle relevante factoren in overweging te worden genomen, met inbegrip van: In geval van twijfel omtrent de vraag of er sprake is van al dan niet rechtstreeks toezicht, dient de investeerder die stelt dat hij dit toezicht heeft, zulks aan te tonen. Wat betreft natuurlijke personen, worden personen met de nationaliteit van het Koninkrijk der Nederlanden die op het tijdstip van de investering aanspraak kunnen maken op de identiteitskaart voor inwoners van de Speciale Administratieve Regio Macau, die investeren in de Speciale Administratieve Regio Macau, voor de toepassing van dit Verdrag niet aangemerkt als investeerders van het Koninkrijk der Nederlanden.
 
-- i. met betrekking tot het Koninkrijk der Nederlanden, natuurlijke personen met de nationaliteit van het Koninkrijk der Nederlanden en rechtspersonen opgericht krachtens het toepasselijke recht in het Koninkrijk;
+   - i. met betrekking tot het Koninkrijk der Nederlanden, natuurlijke personen met de nationaliteit van het Koninkrijk der Nederlanden en rechtspersonen opgericht krachtens het toepasselijke recht in het Koninkrijk;
 
-- ii. met betrekking tot de Speciale Administratieve Regio Macau, natuurlijke personen die aanspraak kunnen maken op de identiteitskaart voor inwoners en rechtspersonen die zijn opgericht krachtens het recht van de Speciale Administratieve Regio Macau.
+   - ii. met betrekking tot de Speciale Administratieve Regio Macau, natuurlijke personen die aanspraak kunnen maken op de identiteitskaart voor inwoners en rechtspersonen die zijn opgericht krachtens het recht van de Speciale Administratieve Regio Macau.
 
-- iii. met betrekking tot beide Verdragsluitende Partijen, rechtspersonen die niet zijn opgericht krachtens het recht van de andere Verdragsluitende Partij maar onder toezicht staan van natuurlijke personen of van rechtspersonen zoals hierboven omschreven onder i. of ii.
+   - iii. met betrekking tot beide Verdragsluitende Partijen, rechtspersonen die niet zijn opgericht krachtens het recht van de andere Verdragsluitende Partij maar onder toezicht staan van natuurlijke personen of van rechtspersonen zoals hierboven omschreven onder i. of ii.
 
-- 1. het financiële belang, waaronder belang in het vermogen, in de investeerder onder toezicht;
+   - 1. het financiële belang, waaronder belang in het vermogen, in de investeerder onder toezicht;
 
-- 2. de mogelijkheid wezenlijke invloed uit te oefenen op het beheer en de exploitatie van de investeerder onder toezicht; en
+   - 2. de mogelijkheid wezenlijke invloed uit te oefenen op het beheer en de exploitatie van de investeerder onder toezicht; en
 
-- 3. de mogelijkheid invloed uit te oefenen die van doorslaggevend belang is voor de selectie van leden van de raad van bestuur of enig ander bestuurslichaam.
+   - 3. de mogelijkheid invloed uit te oefenen die van doorslaggevend belang is voor de selectie van leden van de raad van bestuur of enig ander bestuurslichaam.
 
 - c. wordt onder de term „gebied” verstaan:
 
-- i. wat betreft het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk der Nederlanden met inbegrip van alle aan de territoriale zee grenzende gebieden die, krachtens het in het Koninkrijk der Nederlanden geldende recht en in overeenstemming met het internationale recht, behoren tot de exclusieve economische zone of het continentaal plat van het Koninkrijk, en waarin het rechtsmacht of soevereine rechten uitoefent;
+   - i. wat betreft het Koninkrijk der Nederlanden: het grondgebied van het Koninkrijk der Nederlanden met inbegrip van alle aan de territoriale zee grenzende gebieden die, krachtens het in het Koninkrijk der Nederlanden geldende recht en in overeenstemming met het internationale recht, behoren tot de exclusieve economische zone of het continentaal plat van het Koninkrijk, en waarin het rechtsmacht of soevereine rechten uitoefent;
 
-- ii. wat betreft de Speciale Administratieve Regio Macau van de Volksrepubliek China: het schiereiland Macau en de eilanden Taipa en Coloane.
+   - ii. wat betreft de Speciale Administratieve Regio Macau van de Volksrepubliek China: het schiereiland Macau en de eilanden Taipa en Coloane.
 
 ##### Artikel 2
 
@@ -118,9 +87,9 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - b. gelden nodig
 
-- i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
+   - i. voor het verwerven van grondstoffen of hulpmaterialen, halffabrikaten of eindproducten, of
 
-- ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
+   - ii. om kapitaalgoederen te vervangen teneinde de continuïteit van een investering te waarborgen;
 
 - c. bijkomende gelden nodig voor de ontwikkeling van een investering;
 
@@ -144,11 +113,11 @@ De Verdragsluitende Partijen waarborgen dat betalingen die verband houden met ee
 
 - c. de maatregelen gaan vergezeld van een billijke schadeloosstelling. Een dergelijke schadeloosstelling:
 
-- i. dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient ten minste gelijk te zijn aan de waarde van de onteigende investering op de datum onmiddellijk voorafgaand aan die waarop de onteigening of een procedure van overeenkomstige aard plaatsvond of openbaar werd;
+   - i. dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient ten minste gelijk te zijn aan de waarde van de onteigende investering op de datum onmiddellijk voorafgaand aan die waarop de onteigening of een procedure van overeenkomstige aard plaatsvond of openbaar werd;
 
-- ii. dient rente te omvatten tegen een gewone commerciële rentevoet tot de datum van betaling; en
+   - ii. dient rente te omvatten tegen een gewone commerciële rentevoet tot de datum van betaling; en
 
-- iii. dient, wil zij doeltreffend zijn voor de gerechtigden, zonder vertraging te worden betaald en te kunnen worden overgemaakt naar een door de betrokken gerechtigden aangewezen land of regio en in een door de gerechtigden aanvaarde vrij inwisselbare valuta.
+   - iii. dient, wil zij doeltreffend zijn voor de gerechtigden, zonder vertraging te worden betaald en te kunnen worden overgemaakt naar een door de betrokken gerechtigden aangewezen land of regio en in een door de gerechtigden aanvaarde vrij inwisselbare valuta.
 
 2. Onverminderd het recht te verzoeken om internationale arbitrage, is de investeerder gerechtigd de rechtmatigheid van de onteigening te laten toetsen door de bevoegde autoriteiten van de Verdragsluitende Partijen die de onteigening bewerkstelligd hebben.
 
@@ -224,10 +193,10 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in twee originele exemplaren te Macau op 22 mei 2008 in de Nederlandse, de Chinese, de Portugese en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 J.A SOER
 
-**Voor de Speciale Administratieve Regio Macau van de Volksrepubliek China:**
+*Voor de Speciale Administratieve Regio Macau van de Volksrepubliek China:*
 
 FLORINDA CHAN

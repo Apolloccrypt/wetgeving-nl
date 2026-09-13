@@ -1,164 +1,113 @@
 ---
 title: "Internationaal Verdrag inzake opsporing en redding op zee, 1979"
 identifier: "BWBV0003096"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-07-01"
-last_updated: "2006-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003096"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003331663"
-version_id: "10003361692"
-internal_id: "C10006980871"
-label_id: "10003317414"
-dtd_version: "2.0"
-original_entry_into_force: "1985-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003096/2006-07-01/0"
-intitule_bron: "Trb.1980-181"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-11-24"
-intitule_in_force: "1984-09-24"
-intitule_status: "goed"
-original_publication: "Trb.1980-181"
-original_published_date: "1980-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-181"
-entry_into_force_date: "1985-06-22"
-jci_1_3: "jci1.3:c:BWBV0003096&z=2006-07-01&g=2006-07-01"
-jci_1_0: "1.0:c:BWBV0003096&g=2006-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1985-06-22"
+publicatiedatum: 1985-06-22
+laatste_update: 2006-07-01
+status: geldig
+toestand: 2006-07-01
+bron: "https://wetten.overheid.nl/BWBV0003096"
+opgehaald: 2026-09-13
 ---
+
 # Internationaal Verdrag inzake opsporing en redding op zee, 1979
 
-De Verdragsluitende Partijen,
+*The Parties to the Convention, Noting the great importance attached in several conventions to the rendering of assistance to persons in distress at sea and to the establishment by every coastal State of adequate and effective arrangements for coast watching and for search and rescue services, Having considered Recommendation 40 adopted by the International Conference on Safety of Life at Sea, 1960, which recognizes the desirability of co-ordinating activities regarding safety on and over the sea among a number of inter-governmental organizations, Desiring to develop and promote these activities by establishing an international maritime search and rescue plan responsive to the needs of maritime traffic for the rescue of persons in distress at sea, Wishing to promote co-operation among search and rescue organizations around the world and among those participating in search and rescue operations at sea, Have agreed as follows:*
 
-Gelet op het grote belang dat in diverse verdragen wordt gehecht aan het verlenen van hulp aan personen die op zee in nood verkeren, en aan het treffen door elke kuststaat van passende en doeltreffende maatregelen voor het houden van kustwacht en voor diensten voor opsporing en redding,
+##### Article I. General obligations under the Convention
 
-Voorts gelet op Aanbeveling 40, aanvaard door de Internationale Conferentie inzake de beveiliging van mensenlevens op zee, 1960, waarin de wenselijkheid wordt erkend de werkzaamheden met betrekking tot de veiligheid op en boven zee tussen een aantal intergouvernementele organisaties te coördineren,
+The Parties undertake to adopt all legislative or other appropriate measures necessary to give full effect to the Convention and its [Annex](https://wetten.overheid.nl/BWBV0003096), which is an integral part of the Convention. Unless expressly provided otherwise, a reference to the Convention constitutes at the same time a reference to its [Annex](https://wetten.overheid.nl/BWBV0003096).
 
-Verlangend deze werkzaamheden te verbeteren en te bevorderen door een internationaal plan voor opsporing en redding op zee op te stellen, dat beantwoordt aan de behoeften van het scheepvaartverkeer, met betrekking tot de redding van in nood verkerende personen op zee,
+##### Article II. Other treaties and interprétation
 
-Geleid door de wens de samenwerking te bevorderen tussen de organisaties op het gebied van opsporing en redding over de gehele wereld en tussen degenen die deelnemen aan opsporings- en reddingsacties op zee,
+(1). Nothing in the Convention shall prejudice the codification and development of the law of the sea by the United Nations Conference on the Law of the Sea convened pursuant to Resolution 2750 (XXV) of the General Assembly of the United Nations nor the present or future claims and legal views of any State concerning the law of the sea and the nature and extent of coastal and flag State jurisdiction.
 
-Zijn als volgt overeengekomen:
+(2). No provision of the Convention shall be construed as prejudicing obligations or rights of vessels provided for in other international instruments.
 
-##### Artikel 1. Algemene verplichtingen krachtens het Verdrag
+##### Article III. Amendments
 
-De Partijen verbinden zich ertoe, alle wettelijke of andere passende maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag en de bijbehorende Bijlage, die een integrerend deel van het Verdrag vormt. Tenzij uitdrukkelijk anders vermeld, houdt een verwijzing naar het Verdrag tevens een verwijzing naar de Bijlage daarbij in.
+(1). The Convention may be amended by either of the procedures specified in paragraphs (2) and (3) hereinafter.
 
-##### Artikel II. Andere verdragen en interpretatie
+(2). Amendment after consideration within the Inter-Governmental Maritime Consultative Organization (hereinafter referred to as the “Organization”):
 
-1. Niets in dit Verdrag doet afbreuk aan de codificering en ontwikkeling van het zeerecht door de Conferentie van de Verenigde Naties inzake het zeerecht, bijeengeroepen ingevolge Resolutie 2750 (XXV) van de Algemene Vergadering van de Verenigde Naties, noch aan de huidige of toekomstige aanspraken en rechtsopvattingen van een staat met betrekking tot het zeerecht en de aard en de omvang van de jurisdictie van kuststaten en vlagstaten.
+- (a) Any amendment proposed by a Party and transmitted to the Secretary-General of the Organization (hereinafter referred to as “the Secretary-General”), or any amendment deemed necessary by the Secretary-General as a result of an amendment to a corresponding provision of [Annex 12 to the Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&bijlage=12), shall be circulated to all Members of the Organization and ail Parties at least six months prior to its consideration by the Maritime Safety Committee of the Organization.
 
-2. Geen enkele bepaling in dit Verdrag mag zodanig worden opgevat, alsof deze afbreuk doet aan verplichtingen of rechten van schepen, vervat in andere internationale akten.
+- (b) Parties, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Maritime Safety Committee for the consideration and adoption of amendments.
 
-##### Artikel III. Wijzigingen
+- (c) Amendments shall be adopted by a two-thirds majority of the Parties present and voting in the Maritime Safety Committee on condition that at least one third of the Parties shall be present at the time of adoption of the amendment.
 
-1. Dit Verdrag kan worden gewijzigd volgens één van de twee hierna in het tweede en het derde lid aangegeven procedures.
+- (d) Amendments adopted in accordance with sub-paragraph (c) shall be communicated by the Secretary-General to all Parties for acceptance.
 
-2. Wijziging na behandeling binnen de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen: de „Organisatie”):
+- (e) An amendment to an Article or to [paragraphs 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 or 3.1.3 of the Annex](https://wetten.overheid.nl/BWBV0003096) shall be deemed to have been accepted on the date on which the Secretary-General has received an instrument of acceptance from two-thirds of the Parties.
 
-- (a). Een wijziging, voorgesteld door een Partij en ingediend bij de Secretaris-Generaal van de Organisatie (hierna te noemen: de „Secretaris-Generaal”), of een door de Secretaris-Generaal noodzakelijk geoordeelde wijziging als gevolg van een wijziging in een overeenkomstige bepaling van [Bijlage 12 van het Verdrag inzake de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&bijlage=12), wordt aan alle Leden van de Organisatie en aan alle Partijen ten minste zes maanden vóór de behandeling ervan door de Maritieme Veiligheidscommissie van de Organisatie toegezonden.
+- (f) An amendment to the [Annex](https://wetten.overheid.nl/BWBV0003096) other than to paragraphs 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 or 3.1.3 shall be deemed to have been accepted at the end of one year from the date on which it is communicated to the Parties for acceptance. However, if within such period of one year more than one third of the Parties notify the Secretary-General that they object to the amendment, it shall be deemed not to have been accepted.
 
-- (b). Ongeacht of zij al dan niet lid zijn van de Organisatie, zijn Partijen gerechtigd deel te nemen aan de werkzaamheden van de Maritieme Veiligheidscommissie met betrekking tot de behandeling en aanneming van wijzigingen.
+- (g) An amendment to an Article or to [paragraphs 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 or 3.1.3 of the Annex](https://wetten.overheid.nl/BWBV0003096) shall enter into force:
 
-- (c). De wijzigingen worden aangenomen met een tweederde meerderheid van de Partijen die aanwezig zijn en hun stem uitbrengen in de Maritieme Veiligheidscommissie, mits ten minste eenderde van de Partijen aanwezig is op het tijdstip van aanneming van de wijziging.
+   - (i) with respect to those Parties which have accepted it, six months after the date on which it is deemed to have been accepted;
 
-- (d). Wijzigingen die overeenkomstig het bepaalde onder (c) zijn aangenomen, worden door de Secretaris-Generaal ter kennis gebracht van alle Partijen ten einde aanvaarding te verkrijgen.
+   - (ii) with respect to those Parties which accept it after the condition mentioned in sub-paragraph (e) has been met and before the amendment enters into force, on the date of entry into force of the amendment;
 
-- (e). Een verwijzing van een artikel of van het bepaalde in 2.1.4, 2.1.5, 2,1.7, 2.1.10, 3.1.2 of 3.1.3 van de Bijlage wordt geacht te zijn aanvaard op de datum waarop de Secretaris-Generaal een akte van aanvaarding heeft ontvangen van tweederde van de Partijen.
+   - (iii) with respect to those Parties which accept it after the date on which the amendment enters into force, 30 days after the deposit of an instrument of acceptance.
 
-- (f). Een verwijzing van de Bijlage anders dan van het bepaalde in 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 of 3.1.3 wordt geacht te zijn aanvaard aan het eind van één jaar, te rekenen vanaf de datum waarop deze ter kennis van de Partijen werd gebracht ten einde aanvaarding te verkrijgen. Indien echter binnen dit tijdvak van één jaar meer dan eenderde van de Partijen de Secretaris-Generaal ervan in kennis stelt dat zij bezwaar hebben tegen de wijziging, wordt deze wijziging geacht niet te zijn aanvaard.
+- (h) An amendment to the [Annex](https://wetten.overheid.nl/BWBV0003096) other than to paragraphs 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 or 3.1.3 shall enter into force with respect to all Parties, except those which have objected to the amendment under sub-paragraph (f) and which have not withdrawn such objections, six months after the date on which it is deemed to have been accepted. However, before the date set for entry into force, any Party may give notice to the Secretary-General that it exempts itself from giving effect to that amendment for a period not longer than one year from the date of its entry into force, or for such longer period as may be determined by a two-thirds majority of the Parties present and voting in the Maritime Safety Committee at the time of the adoption of the amendment.
 
-- (g). Een wijziging van een artikel of van het bepaalde in 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 of 3.1.3 van de Bijlage wordt van kracht:
+(3). Amendment by a conference:
 
-- (i). ten aanzien van die Partijen die de wijziging hebben aanvaard, zes maanden na de datum waarop deze wordt geacht te zijn aanvaard;
+- (a) Upon the request of a Party concurred in by at least one third of the Parties, the Organization shall convene a conference of Parties to consider amendments to the Convention. Proposed amendments shall be circulated by the Secretary-General to all Parties at least six months prior to their consideration by the conference.
 
-- (ii). ten aanzien van die Partijen die de wijziging aanvaarden nadat aan de onder (e) genoemde voorwaarde is voldaan en vóór de wijziging van kracht wordt, op de datum waarop de wijziging van kracht wordt;
+- (b) Amendments shall be adopted by such a conference by a two-thirds majority of the Parties present and voting, on condition that at least one third of the Parties shall be present at the time of adoption of the amendment. Amendments so adopted shall be communicated by the Secretary-General to all Parties for acceptance.
 
-- (iii). ten aanzien van die Partijen die de wijziging aanvaarden na de datum waarop de wijziging van kracht wordt, dertig dagen na de nederlegging van de akte van aanvaarding,
+- (c) Unless the conference decides otherwise, the amendment shall be deemed to have been accepted and shall enter into force in accordance with the procedures specified in sub-paragraphs (2) (e), (2) (f), (2) (g) and (2) (h) respectively, provided that reference in "sub-paragraph (2) (h) to the Maritime Safety Committee expanded in accordance with sub-paragraph (2) (b) shall be taken to mean reference to the conference.
 
-- (h). Een wijziging van de Bijlage anders dan van het bepaalde in 2.1.4, 2.1.5, 2.1.7, 2.1.10, 3.1.2 of 3.1.3 wordt van kracht ten aanzien van alle Partijen, met uitzondering van die welke bezwaar hebben gemaakt tegen de wijziging ingevolge het bepaalde onder (f) en die hun bezwaren niet hebben ingetrokken, zes maanden na de datum waarop de wijziging wordt geacht te zijn aanvaard. Vóór de datum, vastgesteld voor de inwerkingtreding, kan een Partij de Secretaris-Generaal er echter van in kennis stellen, dat zij zich onthoudt van het geven van uitvoering aan deze wijziging voor een tijdvak van niet langer dan een jaar, te rekenen vanaf de datum van inwerkingtreding ervan, of voor een langer tijdvak, vast te stellen met een tweederde meerderheid van de Partijen die aanwezig zijn en hun stem uitbrengen in de Maritieme Veiligheidscommissie op het tijdstip van aanneming van de wijziging.
+(4). Any declaration of acceptance of, or objection to, an amendment or any notice given under sub-paragraph (2) (h) shall be submitted in writing to the Secretary-General who shall inform all Parties of any such submission and the date of its receipt.
 
-3. Wijziging door een conferentie:
+(5). The Secretary-General shall inform States of any amendments which enter into force, together with the date on which each such amendment enters into force.
 
-- (a). Op verzoek van een Partij, waarmede door ten minste één derde van de Partijen wordt ingestemd, wordt door de Organisatie een conferentie van Partijen bijeengeroepen ten einde wijzigingen van het Verdrag te bestuderen. De voorgestelde wijzigingen worden door de Secretaris-Generaal aan alle Partijen toegezonden ten minste zes maanden vóór de bestudering ervan door de conferentie.
+##### Article IV. Signature, ratification, acceptance, approval and accession
 
-- (b). Wijzigingen worden door deze conferentie aangenomen met een tweederde meerderheid van de Partijen die aanwezig zijn en hun stem uitbrengen, mits ten minste eenderde van de Partijen aanwezig is op het tijdstip van aanneming van de wijziging. Aldus aangenomen wijzigingen worden door de Secretaris-Generaal ter kennis gebracht van alle Partijen ten einde aanvaarding te verkrijgen.
+(1). The Convention shall remain open for signature at the Headquarters of the Organization from 1 November 1979 until 31 October 1980 and shall thereafter remain open for accession. States may become Parties to the Convention by:
 
-- (c). Tenzij de conferentie anders beslist, wordt de wijziging geacht te zijn aanvaard en wordt zij van kracht overeenkomstig de aangegeven procedures in het tweede lid, onder (e), (f), (g) en (h), met dien verstande dat de verwijzingen in het tweede lid, onder (h), naar de overeenkomstig het tweede lid, onder (b), uitgebreide Maritieme Veiligheidscommissie worden verstaan als verwijzingen naar de conferentie.
+- (a) signature without reservation as to ratification, acceptance or approval; or
 
-4. Een verklaring van aanvaarding van, of bezwaar tegen, een wijziging of een kennisgeving, gedaan krachtens het bepaalde in het tweede lid, onder (h), wordt schriftelijk ter kennis gebracht van de Secretaris-Generaal, die alle Partijen in kennis stelt van een zodanige kennisgeving en van de datum van ontvangst ervan.
+- (b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-5. De Secretaris-Generaal stelt alle Staten in kennis van alle wijzigingen die van kracht worden, alsmede van de data waarop deze wijzigingen van kracht worden.
+- (c) accession.
 
-##### Artikel IV. Ondertekening bekrachtiging, aanvaarding, goedkeuring en toetreding
+(2). Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
-1. Dit Verdrag staat open voor ondertekening op het hoofdkantoor van de Organisatie van 1 november 1979 tot 31 oktober 1980 en staat daarna open voor toetreding.
+(3). The Secretary-General shall inform States of any signature or of the deposit of any instrument of ratification, acceptance, approval or accession and the date of its deposit.
 
-Staten kunnen partij bij dit Verdrag worden door:
+##### Article V. Entry into force
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+(1). The Convention shall enter into force 12 months after the date on which 15 States have become Parties to it in accordance with [Article IV](https://wetten.overheid.nl/BWBV0003096).
 
-- (b). ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring, of
+(2). Entry into force for States which ratify, accept, approve or accede to the Convention in accordance with [Article IV](https://wetten.overheid.nl/BWBV0003096) after the condition prescribed in paragraph (1) has been met and before the Convention enters into force, shall be on the date of entry into force of the Convention.
 
-- (c). toetreding.
+(3). Entry into force for States which ratify, accept, approve or accède to the Convention after the date on which the Convention enters into force shall be 30 days after the date of deposit of an instrument in accordance with [Article IV](https://wetten.overheid.nl/BWBV0003096).
 
-2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een hiertoe strekkende akte bij de Secretaris-Generaal.
+(4). Any instrument of ratification, acceptance, approval or accession deposited after the date of entry into force of an amendment to the Convention in accordance with [Article III](https://wetten.overheid.nl/BWBV0003096) shall apply to the Convention, as amended, and the Convention, as amended, shall enter into force for a State depositing such an instrument 30 days after the date of its deposit.
 
-3. De Secretaris-Generaal stelt alle Staten in kennis van iedere ondertekening of van de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede van de datum van nederlegging ervan.
+(5). The Secretary-General shall inform States of the date of entry into force of the Convention.
 
-##### Artikel V. Inwerkingtreding
+##### Article VI. Denunciation
 
-1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop vijftien Staten partij daarbij zijn geworden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01).
+(1). The Convention may be denounced by any Party at any time after the expiry of five years from the date on which the Convention enters into force for that Party.
 
-2. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01), nadat aan de in het eerste lid gestelde voorwaarde is voldaan en voordat dit Verdrag in werking treedt, geldt als datum van inwerkingtreding de dag waarop dit Verdrag in werking treedt.
+(2). Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General who shall notify States of any instrument of denunciation received and of the date of its receipt as well as the date on which such denunciation takes effect.
 
-3. Voor Staten die dit Verdrag bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden na de datum waarop dit Verdrag in werking treedt, treedt dit Verdrag in werking dertig dagen na de datum van nederlegging van een akte overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01).
+(3). A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its receipt by the Secretary-General.
 
-4. ledere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd na de datum waarop een wijziging van het Verdrag overeenkomstig het bepaalde in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=III&z=2006-07-01&g=2006-07-01) van kracht is geworden, heeft betrekking op dit Verdrag, zoals gewijzigd, en dit Verdrag, zoals gewijzigd, treedt in werking voor een Staat die een zodanige akte nederlegt, dertig dagen na de nederlegging ervan.
+##### Article VII. Deposit and registration
 
-5. De Secretaris-Generaal stelt alle Staten in kennis van de datum van inwerkingtreding van dit Verdrag.
+(1). The Convention shall be deposited with the Secretary-General who shall transmit certified true copies thereof to States.
 
-##### Artikel VI. Opzegging
+(2). As soon as the Convention enters into force, the Secretary-General shall transmit the text thereof to the Secretary-General of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-1. Dit Verdrag kan te allen tijde door een Partij worden opgezegd na verloop van vijf jaar na de datum waarop dit Verdrag voor die Partij in werking is getreden.
+##### Article VIII. Languages
 
-2. Opzegging geschiedt door nederlegging van een akte van opzegging bij de Secretaris-Generaal, die de Staten in kennis stelt van iedere ontvangen akte van opzegging en van de datum van ontvangst ervan, alsmede van de datum waarop deze opzegging van kracht wordt.
-
-3. Een opzegging wordt van kracht één jaar, of zulk een langere periode als is aangegeven in de akte van opzegging, na ontvangst ervan door de Secretaris-Generaal.
-
-##### Artikel VII. Nederlegging en registratie
-
-1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal, die voor eensluidend gewaarmerkte afschriften ervan toezendt aan de Staten.
-
-2. Zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst ervan toe aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel VIII. Talen
-
-Dit Verdrag is opgesteld in een exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij iedere tekst gelijkelijk authentiek is. Er zullen officiële vertalingen in de Arabische, de Duitse en de Italiaanse taal worden vervaardigd en nedergelegd bij het ondertekende origineel.
-
-HOOFDSTUK 1
-
-TERMEN EN OMSCHRIJVINGEN
-
-HOOFDSTUK 2
-
-ORGANISATIE EN COÖRDINATIE
-
-HOOFDSTUK 3
-
-SAMENWERKING TUSSEN STATEN
-
-HOOFDSTUK 4
-
-WERKPROCEDURES
-
-HOOFDSTUK 5
-
-MELDINGSSYSTEMEN VOOR SCHEPEN
+The Convention is established in a single copy in the Chinese English, French, Russian and Spanish languages, each text being equally authentic. Official translations in the Arabic, German and Italian languages shall be prepared and deposited with the signed original.
 
 DONE at Hamburg this twenty-seventh day of April one thousand nine hundred and seventy-nine.
 

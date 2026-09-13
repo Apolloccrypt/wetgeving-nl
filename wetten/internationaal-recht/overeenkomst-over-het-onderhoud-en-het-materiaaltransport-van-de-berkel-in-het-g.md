@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst over het onderhoud en het materiaaltransport van de Berkel in het grensgebied"
 identifier: "BWBV0003891"
-country: "nl"
-rank: "verdrag"
-publication_date: "1980-11-01"
-last_updated: "1980-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003891"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003760423"
-version_id: "10003824952"
-internal_id: "C10006981581"
-label_id: "10003745374"
-dtd_version: "2.0"
-original_entry_into_force: "1980-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003891/1980-11-01/0"
-intitule_bron: "Trb.1979-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-07-10"
-intitule_in_force: "1981-07-10"
-intitule_status: "goed"
-original_publication: "Trb.1979-110"
-original_published_date: "1979-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-110"
-entry_into_force_date: "1980-11-01"
-jci_1_3: "jci1.3:c:BWBV0003891&z=1980-11-01&g=1980-11-01"
-jci_1_0: "1.0:c:BWBV0003891&g=1980-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-11-01"
+publicatiedatum: 1980-11-01
+laatste_update: 1980-11-01
+status: geldig
+toestand: 1980-11-01
+bron: "https://wetten.overheid.nl/BWBV0003891"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst over het onderhoud en het materiaaltransport van de Berkel in het grensgebied
 
-De Kreis Borken, hierna „Kreis” genoemd,
-
-vertegenwoordigd door den Oberkreisdirektor herrn Pingel und Ltd. Baudirektor herrn Thesing
-
-en
-
-het Waterschap van de Berkel, hierna „waterschap” genoemd,
-
-vertegenwoordigd door de watergraaf ir. Jan Baas
-
-sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
+*De Kreis Borken, hierna „Kreis” genoemd, vertegenwoordigd door den Oberkreisdirektor herrn Pingel und Ltd. Baudirektor herrn Thesing en het Waterschap van de Berkel, hierna „waterschap” genoemd, vertegenwoordigd door de watergraaf ir. Jan Baas sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:*
 
 ##### Artikel 1
 
@@ -126,13 +97,13 @@ Het ruimen heeft betrekking op de hoeveelheden materiaal die zijn afgezet sedert
 
 GEDAAN te Borken/Lochem de 19e oktober 1978 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het Waterschap,**
+*Voor het Waterschap,*
 
 (w.g.) JAN BAAS
 
 watergraaf
 
-**Voor de Kreis,**
+*Voor de Kreis,*
 
 (w.g.) PINGEL
 

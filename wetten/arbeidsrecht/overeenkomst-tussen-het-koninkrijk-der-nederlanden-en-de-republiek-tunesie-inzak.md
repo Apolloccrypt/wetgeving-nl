@@ -1,58 +1,29 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de aanwerving in Tunesië en de tewerkstelling in Nederland van Tunesische werknemers"
 identifier: "BWBV0003874"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-03-08"
-last_updated: "1971-03-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003874"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10003757023"
-version_id: "10003820262"
-internal_id: "C10006983891"
-label_id: "10003742194"
-dtd_version: "2.0"
-original_entry_into_force: "1971-03-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003874/1971-03-08/0"
-intitule_bron: "Trb.1971-82"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-05-10"
-intitule_in_force: "1971-05-10"
-intitule_status: "goed"
-original_publication: "Trb.1971-82"
-original_published_date: "1971-05-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-82"
-entry_into_force_date: "1971-03-08"
-jci_1_3: "jci1.3:c:BWBV0003874&z=1971-03-08&g=1971-03-08"
-jci_1_0: "1.0:c:BWBV0003874&g=1971-03-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-03-08"
+publicatiedatum: 1971-03-08
+laatste_update: 1971-03-08
+status: geldig
+toestand: 1971-03-08
+bron: "https://wetten.overheid.nl/BWBV0003874"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de aanwerving in Tunesië en de tewerkstelling in Nederland van Tunesische werknemers
 
-Le Gouvernement du Royaume des Pays-Bas et
+*Le Gouvernement du Royaume des Pays-Bas et Le Gouvernement de la République Tunisienne, Considérant les relations amicales qui existent entre les deux pays, ainsi que leurs intérêts réciproques en matière de main-d'oeuvre, Reconnaissant qu'il est dans l'intérêt des deux pays de promouvoir le placement de travailleurs tunisiens aux Pays-Bas, Désireux de fixer les conditions de recrutement, de placement et de travail des ressortissants tunisiens aux Pays-Bas, Sont convenus de ce qui suit:*
 
-Le Gouvernement de la République Tunisienne,
-
-Considérant les relations amicales qui existent entre les deux pays, ainsi que leurs intérêts réciproques en matière de main-d'oeuvre,
-
-Reconnaissant qu'il est dans l'intérêt des deux pays de promouvoir le placement de travailleurs tunisiens aux Pays-Bas,
-
-Désireux de fixer les conditions de recrutement, de placement et de travail des ressortissants tunisiens aux Pays-Bas,
-
-Sont convenus de ce qui suit:
-
-## Dispositions générales
+### Dispositions générales
 
 ##### Article 1
 
 Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tunisiens et leur placement aux Pays-Bas:
 
-- -. Du côté Tunisien, l'Office de la Formation Professionnelle et de l'Emploi dénommé ci-après „l'Office”;
+- - Du côté Tunisien, l'Office de la Formation Professionnelle et de l'Emploi dénommé ci-après „l'Office”;
 
-- -. Du côté Néerlandais, la Direction Générale de l'Emploi du Ministère des Affaires Sociales et de la Santé Publique, dénommée ci-après „La Direction Générale”.
+- - Du côté Néerlandais, la Direction Générale de l'Emploi du Ministère des Affaires Sociales et de la Santé Publique, dénommée ci-après „La Direction Générale”.
 
 ##### Article 2
 
@@ -62,7 +33,7 @@ Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tu
 
 3. Ces renseignements doivent comprendre en particulier toutes les informations relatives aux salaires moyens et à la durée moyenne du travail dans les différents secteurs de l'industrie néerlandaise, au montant des retenues sur les salaires pour le paiement d'impôts, de primes pour les assurances sociales, etc..... ainsi que toutes les informations relatives aux prix et au coût de la vie en général. Des renseignements supplémentaires seront fournis en cas de changements importants ou à la demande de l'Office. La Direction Générale transmettra en outre les modifications ayant trait aux conditions d'admission et aux dispositions concernant le regroupement familial.
 
-## Le recrutement et le placement
+### Le recrutement et le placement
 
 ##### Article 3
 
@@ -76,9 +47,9 @@ Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tu
 
 Les limites d'âge pour l'emploi des travailleurs tunisiens aux Pays-Bas ont été établies de la façon suivante:
 
-- -. de 18 à 35 ans pour les travailleurs non qualifiés;
+- - de 18 à 35 ans pour les travailleurs non qualifiés;
 
-- -. de 18 à 45 ans pour les travailleurs qualifiés et spécialisés.
+- - de 18 à 45 ans pour les travailleurs qualifiés et spécialisés.
 
 Ces limites d'âge peuvent être modifiées pour les travailleurs qui ont été demandés nominativement ou, dans des cas spéciaux, par accord entre l'Office et la Direction Générale.
 
@@ -116,11 +87,11 @@ La Direction Générale ou sa délégation à Tunis fait parvenir dans les meill
 
 1. Le travailleur doit être en possession:
 
-- a). d'un livret de famille, ou à défaut, d'un extrait de naissance, d'un certificat de mariage et d'un certificat de vie collectif;
+- a) d'un livret de famille, ou à défaut, d'un extrait de naissance, d'un certificat de mariage et d'un certificat de vie collectif;
 
-- b). d'un extrait du casier judiciaire vierge, visé à l'article 5, ou à défaut, d'un certificat de bonne vie et moeurs;
+- b) d'un extrait du casier judiciaire vierge, visé à l'article 5, ou à défaut, d'un certificat de bonne vie et moeurs;
 
-- c). d'un document d'où il résulte qu'il a subi avec succès, l'examen visé à l'article 5.
+- c) d'un document d'où il résulte qu'il a subi avec succès, l'examen visé à l'article 5.
 
 2. Après la réception du contrat de travail, mentionné à l'article 8, les autorités tunisiennes veilleront à ce que le travailleur soit muni de tous les documents nécessaires, notamment d'un passeport valable pour un an au moins.
 
@@ -164,15 +135,15 @@ La Direction Générale enverra directement à l'Office, avec copie à l'Ambassa
 
 Au cas où une délégation ne serait pas envoyée en Tunisie:
 
-- a). la Direction Générale transmettra les offres d'emploi directement à l'Office;
+- a) la Direction Générale transmettra les offres d'emploi directement à l'Office;
 
-- b). les dispositions des articles 4, 5, 8, 9, 12, 13 et 14 s'appliqueront par analogie;
+- b) les dispositions des articles 4, 5, 8, 9, 12, 13 et 14 s'appliqueront par analogie;
 
-- c). l'Office veillera à ce que les demandes de recrutement soient traitées dans les meilleurs délais;
+- c) l'Office veillera à ce que les demandes de recrutement soient traitées dans les meilleurs délais;
 
-- d). le transport depuis le lieu de départ pour les Pays-Bas sera organisé par l'Office, les frais de voyage et d'examens médicaux seront remboursés par la Direction Générale à l'Office après réception des notes et factures y afférentes.
+- d) le transport depuis le lieu de départ pour les Pays-Bas sera organisé par l'Office, les frais de voyage et d'examens médicaux seront remboursés par la Direction Générale à l'Office après réception des notes et factures y afférentes.
 
-## Conditions générales de travail
+### Conditions générales de travail
 
 ##### Article 16
 
@@ -210,7 +181,7 @@ Les travailleurs tunisiens peuvent transférer en Tunisie le montant total de le
 
 4. En cas de renouvellement du contrat de travail visé à l'article 8, l'employeur supporte les frais de voyage aller et retour, si le travailleur désire passer son congé en Tunisie. Lors des renouvellements ultérieurs du contrat, cette facilité n'est plus obligatoire. Si le renouvellement a lieu, sans que le congé soit passé en Tunisie, les frais de rapatriement seront, après l'expiration du contrat de travail à la charge de l'employeur, pourvu que le rapatriement ait lieu dans un délai de deux semaines après l'expiration du contrat de travail.
 
-## Formation professionnelle
+### Formation professionnelle
 
 ##### Article 20
 
@@ -228,7 +199,7 @@ A la demande d'entreprises néerlandaises des cours de formation professionnelle
 
 Les conditions de remboursement par les entreprises intéressées des frais correspondants à ces cours de formation et la durée de validité du contrat de travail des travailleurs en question seront établies ultérieurement entre l'Office et la Direction Générale par échange de lettres.
 
-## Dispositions finales
+### Dispositions finales
 
 ##### Article 23
 
@@ -244,13 +215,13 @@ Le Gouvernement tunisien admettra sur son territoire, en tout temps et sans form
 
 2. La Commission mixte est chargée:
 
-- a). de surveiller l'exécution de la présente Convention. Elle s'efforce d'aplanir et de résoudre les difficultés découlant de l'application de la présente Convention et au sujet desquelles l'Office et la Direction Générale ne sont pas parvenus à un accord. Elle peut en outre s'occuper des questions d'un caractère général, relatives au recrutement et placement des travailleurs tunisiens aux Pays-Bas. Elle soumet aux deux Parties des propositions relatives aux questions qu'elle a traitées.,
+- a) de surveiller l'exécution de la présente Convention. Elle s'efforce d'aplanir et de résoudre les difficultés découlant de l'application de la présente Convention et au sujet desquelles l'Office et la Direction Générale ne sont pas parvenus à un accord. Elle peut en outre s'occuper des questions d'un caractère général, relatives au recrutement et placement des travailleurs tunisiens aux Pays-Bas. Elle soumet aux deux Parties des propositions relatives aux questions qu'elle a traitées.,
 
-- b). de proposer le cas échéant des modifications à la présente Convention.,
+- b) de proposer le cas échéant des modifications à la présente Convention.,
 
-- c). de faire des propositions sur l'adaptation des conditions prévues par la présente Convention et de celles figurant dans les accords multilatéraux pouvant être conclus ultérieurement par les deux Gouvernements. La Commission peut faire toutes autres suggestions utiles afin d'améliorer la coopération entre la Tunisie et les Pays-Bas dans le domaine couvert par la présente Convention.,
+- c) de faire des propositions sur l'adaptation des conditions prévues par la présente Convention et de celles figurant dans les accords multilatéraux pouvant être conclus ultérieurement par les deux Gouvernements. La Commission peut faire toutes autres suggestions utiles afin d'améliorer la coopération entre la Tunisie et les Pays-Bas dans le domaine couvert par la présente Convention.,
 
-- d). d'examiner les possibilités de développer la collaboration entre la Direction Générale et l'Office dans le domaine de la formation professionnelle des adultes.
+- d) d'examiner les possibilités de développer la collaboration entre la Direction Générale et l'Office dans le domaine de la formation professionnelle des adultes.
 
 3. La Commission mixte fixe son organisation intéreure et sa méthode de travail. Ses réunions se tiennent, alternativement, en Tunisie et aux Pays-Bas à la requête de l'une ou de l'autre Partie.
 

@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0003872"
-country: "nl"
-rank: "verdrag"
-publication_date: "1976-06-09"
-last_updated: "1976-06-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003872"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003755943"
-version_id: "10003819282"
-internal_id: "C10008431221"
-label_id: "10003741214"
-dtd_version: "2.0"
-original_entry_into_force: "1976-06-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003872/1976-06-09/0"
-intitule_bron: "Trb.1975-113"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-10-07"
-intitule_in_force: "1976-06-30"
-intitule_status: "goed"
-original_publication: "Trb.1975-113"
-original_published_date: "1975-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-113"
-entry_into_force_date: "1976-06-09"
-jci_1_3: "jci1.3:c:BWBV0003872&z=1976-06-09&g=1976-06-09"
-jci_1_0: "1.0:c:BWBV0003872&g=1976-06-09"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-06-09"
+publicatiedatum: 1976-06-09
+laatste_update: 1976-06-09
+status: geldig
+toestand: 1976-06-09
+bron: "https://wetten.overheid.nl/BWBV0003872"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Thailand tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Thailand,
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Thailand, De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -52,23 +29,23 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. De bestaande belastingen waarop deze Overeenkomst van toepassing is, zijn met name:
 
-- a). voor Nederland: (hierna te noemen: „Nederlandse belasting”);
+- a) voor Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- (1). de inkomstenbelasting,
+   - (1) de inkomstenbelasting,
 
-- (2). de loonbelasting,
+   - (2) de loonbelasting,
 
-- (3). de vennootschapsbelasting,
+   - (3) de vennootschapsbelasting,
 
-- (4). de dividendbelasting,
+   - (4) de dividendbelasting,
 
-- (5). de vermogensbelasting,
+   - (5) de vermogensbelasting,
 
-- b). voor Thailand: (hierna te noemen: „Thaise belasting”).
+- b) voor Thailand: (hierna te noemen: „Thaise belasting”).
 
-- (1). de income tax (inkomstenbelasting),
+   - (1) de income tax (inkomstenbelasting),
 
-- (2). de local development tax (belasting ten behoeve van de plaatselijke ontwikkeling),
+   - (2) de local development tax (belasting ten behoeve van de plaatselijke ontwikkeling),
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle belangrijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
@@ -78,23 +55,23 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. In deze Overeenkomst, tenzij het zinsverband anders vereist -
 
-- a). betekent de uitdrukking „Staat”, al naar het zinsverband vereist, Nederland of Thailand; betekent de uitdrukking „Staten” Nederland en Thailand;
+- a) betekent de uitdrukking „Staat”, al naar het zinsverband vereist, Nederland of Thailand; betekent de uitdrukking „Staten” Nederland en Thailand;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- c). omvat de uitdrukking „Thailand” het Koninkrijk Thailand en elk gebied grenzend aan de territoriale wateren van het Koninkrijk Thailand, dat bij de Thaise wetgeving en in overeenstemming met het internationale recht is of nog zal worden aangewezen als een gebied waarbinnen de rechten van het Koninkrijk Thailand met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
+- c) omvat de uitdrukking „Thailand” het Koninkrijk Thailand en elk gebied grenzend aan de territoriale wateren van het Koninkrijk Thailand, dat bij de Thaise wetgeving en in overeenstemming met het internationale recht is of nog zal worden aangewezen als een gebied waarbinnen de rechten van het Koninkrijk Thailand met betrekking tot de zeebodem en de ondergrond daarvan en hun natuurlijke rijkdommen kunnen worden uitgeoefend;
 
-- d). omvat de uitdrukking „persoon” een natuurlijk persoon, een lichaam en elke andere vereniging van personen;
+- d) omvat de uitdrukking „persoon” een natuurlijk persoon, een lichaam en elke andere vereniging van personen;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid of elke groep van personen die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid of elke groep van personen die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „bevoegde autoriteit” -
+- g) betekent de uitdrukking „bevoegde autoriteit” -
 
-- 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Thailand de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2. in Thailand de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van de Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
 
@@ -106,13 +83,13 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
 
-- d). indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- d) indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 4. Indien een andere dan een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
@@ -122,43 +99,43 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- f) een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
 
 3. Niettegenstaande de bepalingen van het eerste en tweede lid omvat de uitdrukking „vaste inrichting” slechts dan de plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden, indien de duur daarvan overschrijdt:
 
-- a). zes maanden in het geval van het plaatsen of het monteren van fabrieken en machines, daaronder begrepen de constructiewerkzaamheden die bij een dergelijke plaatsing behoren en daarvoor noodzakelijk zijn;
+- a) zes maanden in het geval van het plaatsen of het monteren van fabrieken en machines, daaronder begrepen de constructiewerkzaamheden die bij een dergelijke plaatsing behoren en daarvoor noodzakelijk zijn;
 
-- b). drie maanden in alle andere gevallen.
+- b) drie maanden in alle andere gevallen.
 
 4. Een vaste inrichting wordt niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar,
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar,
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
 
 5. Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zesde lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting beschouwd, indien -
 
-- a). hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
+- a) hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
 
-- b). hij in de eerstbedoelde Staat gewoonlijk een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming; of
+- b) hij in de eerstbedoelde Staat gewoonlijk een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming; of
 
-- c). hij zich in de eerstbedoelde Staat gewoonlijk bezighoudt met het opnemen van bestellingen die uitsluitend of nagenoeg uitsluitend bestemd zijn voor de onderneming zelf of voor de onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst.
+- c) hij zich in de eerstbedoelde Staat gewoonlijk bezighoudt met het opnemen van bestellingen die uitsluitend of nagenoeg uitsluitend bestemd zijn voor de onderneming zelf of voor de onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst.
 
 6. Een onderneming van een van de Staten wordt niet geacht een vaste inrichting in de andere Staat te bezitten op grond van de enkele omstandigheid dat zij aldaar zaken doet door middel van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, indien deze personen in de normale uitoefening van hun bedrijf handelen. Dit is niet van toepassing, indien de makelaar of vertegenwoordiger in de andere Staat een werkzaamheid als omschreven in het vijfde lid verricht, die uitsluitend of nagenoeg uitsluitend geschiedt voor de onderneming zelf of voor de onderneming en andere ondernemingen die zij beheerst of door welke zij wordt beheerst.
 
@@ -204,9 +181,9 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 Indien -
 
-- a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat
 
 en in het ene of in het andere geval tussen de beide ondernemingen in haar handelsbetrekkingen of financiële betrekkingen voorwaarden worden aanvaard of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar ten gevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -222,13 +199,13 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 - B. mag de Thaise belasting op dividenden betaald door een lichaam dat inwoner is van Thailand aan een lichaam waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van Nederland en onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt, 10 percent niet overschrijden, zulks met dien verstande dat:
 
-- a). indien het hoogste Thaise belastingtarief op winst van lichamen gedurende het boekjaar waarin de dividenden worden uitgedeeld niet meer dan 30 percent bedraagt, de Thaise belasting op die dividenden niet mag overschrijden:
+   - a) indien het hoogste Thaise belastingtarief op winst van lichamen gedurende het boekjaar waarin de dividenden worden uitgedeeld niet meer dan 30 percent bedraagt, de Thaise belasting op die dividenden niet mag overschrijden:
 
-- (i). 15 percent van het bruto-bedrag van de dividenden, indien dat lichaam dat de dividenden betaalt een industriële onderneming drijft;
+      - (i) 15 percent van het bruto-bedrag van de dividenden, indien dat lichaam dat de dividenden betaalt een industriële onderneming drijft;
 
-- (ii). 20 percent van het bruto-bedrag van de dividenden in alle andere gevallen;
+      - (ii) 20 percent van het bruto-bedrag van de dividenden in alle andere gevallen;
 
-- b). indien het hoogste Thaise belastingtarief op winst van lichamen gedurende het boekjaar waarin de dividenden worden uitgedeeld meer dan 30 percent, doch niet meer dan 40 percent bedraagt, de Thaise belasting op die dividenden 15 percent van het brutobedrag van die dividenden niet mag overschrijden indien het lichaam dat de dividenden betaalt geen industriële onderneming drijft.
+   - b) indien het hoogste Thaise belastingtarief op winst van lichamen gedurende het boekjaar waarin de dividenden worden uitgedeeld meer dan 30 percent, doch niet meer dan 40 percent bedraagt, de Thaise belasting op die dividenden 15 percent van het brutobedrag van die dividenden niet mag overschrijden indien het lichaam dat de dividenden betaalt geen industriële onderneming drijft.
 
 4. De bevoegde autoriteiten van de Staten regelen de wijze van toepassing van het tweede en derde lid.
 
@@ -236,21 +213,21 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 6. De uitdrukking „industriële onderneming”, zoals gebezigd in dit artikel, betekent
 
-- a). iedere onderneming die zich bezig houdt met
+- a) iedere onderneming die zich bezig houdt met
 
-- 1. produktie, montage en bewerking of verwerking,
+   - 1. produktie, montage en bewerking of verwerking,
 
-- 2. constructiewerkzaamheden, burgerlijke bouwwerkzaamheden en scheepsbouw,
+   - 2. constructiewerkzaamheden, burgerlijke bouwwerkzaamheden en scheepsbouw,
 
-- 3. mijnbouw en exploratie en exploitatie van natuurlijke rijkdommen,
+   - 3. mijnbouw en exploratie en exploitatie van natuurlijke rijkdommen,
 
-- 4. produktie van elektrische energie, waterkracht, gas of met watervoorziening, of
+   - 4. produktie van elektrische energie, waterkracht, gas of met watervoorziening, of
 
-- 5. landbouw, bosbouw, visserij en het drijven van een plantage, en
+   - 5. landbouw, bosbouw, visserij en het drijven van een plantage, en
 
-- b). iedere andere onderneming die recht heeft op de voorrechten die worden verleend ingevolge de Thaise wetgeving op het bevorderen van industriële investeringen, en
+- b) iedere andere onderneming die recht heeft op de voorrechten die worden verleend ingevolge de Thaise wetgeving op het bevorderen van industriële investeringen, en
 
-- c). iedere andere onderneming die voor de toepassing van dit artikel door de bevoegde autoriteit van Thailand als „industriële onderneming” wordt aangemerkt.
+- c) iedere andere onderneming die voor de toepassing van dit artikel door de bevoegde autoriteit van Thailand als „industriële onderneming” wordt aangemerkt.
 
 7. De bepalingen van het eerste, tweede en derde lid zijn niet van toepassing, indien de genieter van de dividenden, die inwoner is van een van de Staten, in de andere Staat waarvan het lichaam dat de dividenden betaalt inwoner is, een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, tot het bedrijfsvermogen van die vaste inrichting behoort. In een zodanig geval zijn de bepalingen van artikel 7 van toepassing, mits de dividenden volgens de wetgeving van die andere Staat worden belast als deel van de winst van die vaste inrichting.
 
@@ -262,9 +239,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Deze interest mag echter in de Staat waaruit zij afkomstig is overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 10 percent van het bruto-bedrag van de interest, indien de interest wordt genoten door een bank of enige andere financiële instelling (daaronder begrepen een verzekeringsmaatschappij) die inwoner van de andere Staat is;
+- a) 10 percent van het bruto-bedrag van de interest, indien de interest wordt genoten door een bank of enige andere financiële instelling (daaronder begrepen een verzekeringsmaatschappij) die inwoner van de andere Staat is;
 
-- b). 25 percent van het bruto-bedrag van de interest in alle andere gevallen.
+- b) 25 percent van het bruto-bedrag van de interest in alle andere gevallen.
 
 3. De bevoegde autoriteiten van de Staten regelen de wijze van toepassing van het tweede lid.
 
@@ -282,9 +259,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Deze royalty's mogen echter in de Staat waaruit zij afkomstig zijn worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 5 percent van het bruto-bedrag van zodanige vergoedingen indien zij worden betaald voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap;
+- a) 5 percent van het bruto-bedrag van zodanige vergoedingen indien zij worden betaald voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap;
 
-- b). 15 percent van het bruto-bedrag van zodanige vergoedingen, indien zij worden betaald voor het gebruik van, of voor het recht van gebruik van, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap, dan wel voor het gebruik van, of het recht van gebruik van, bioscoopfilms of beeld- of geluidsbanden voor televisie of radio.
+- b) 15 percent van het bruto-bedrag van zodanige vergoedingen, indien zij worden betaald voor het gebruik van, of voor het recht van gebruik van, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap, dan wel voor het gebruik van, of het recht van gebruik van, bioscoopfilms of beeld- of geluidsbanden voor televisie of radio.
 
 3. De bevoegde autoriteiten van de Staten regelen de wijze van toepassing van het tweede lid.
 
@@ -316,11 +293,11 @@ Internationale organisaties, hun organen en functionarissen, alsmede personen di
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van in de andere Staat verrichte arbeid slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een persoon die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een persoon die geen inwoner van de andere Staat is, en
 
-- c). de beloning niet ten laste komt van een vaste inrichting die de persoon die de beloning betaalt in de andere Staat heeft.
+- c) de beloning niet ten laste komt van een vaste inrichting die de persoon die de beloning betaalt in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel mag de beloning ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer, worden belast in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -358,19 +335,19 @@ Niettegenstaande de bepalingen van de artikelen 5, 7 en 15 mogen inkomsten, verk
 
 1. Een natuurlijke persoon, die inwoner is van een van de Staten onmiddellijk voor zijn bezoek aan de andere Staat en die tijdelijk in die andere Staat enkel verblijf houdt
 
-- a). als student aan een universiteit, hogeschool of school in die andere Staat,
+- a) als student aan een universiteit, hogeschool of school in die andere Staat,
 
-- b). om een opleiding voor een bedrijf of beroep te verkrijgen, of
+- b) om een opleiding voor een bedrijf of beroep te verkrijgen, of
 
-- c). als de genieter van een in de eerste plaats voor studie of onderzoek bedoelde toelage, vergoeding of prijs van een organisatie op het gebied van godsdienst, liefdadigheid, wetenschap of onderwijs,
+- c) als de genieter van een in de eerste plaats voor studie of onderzoek bedoelde toelage, vergoeding of prijs van een organisatie op het gebied van godsdienst, liefdadigheid, wetenschap of onderwijs,
 
 wordt in die andere Staat niet belast ter zake van alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding.
 
 2. Een natuurlijke persoon, die inwoner is van een van de Staten onmiddellijk voor zijn bezoek aan de andere Staat en die in die andere Staat enkel verblijf houdt als student aan een universiteit, hogeschool of school in die andere Staat of om een opleiding voor een bedrijf of beroep te verkrijgen, wordt in die andere Staat gedurende een tijdvak van niet langer dan drie opeenvolgende belastingjaren niet belast ter zake van beloningen uit een in die andere Staat uitgeoefende dienstbetrekking, mits
 
-- a). de beloningen inkomsten vormen die noodzakelijk zijn voor zijn onderhoud en studie, en
+- a) de beloningen inkomsten vormen die noodzakelijk zijn voor zijn onderhoud en studie, en
 
-- b). de bedoelde beloningen, per belastingjaar, naar gelang van het geval, niet meer bedragen dan 3600 gulden of 21000 Baht.
+- b) de bedoelde beloningen, per belastingjaar, naar gelang van het geval, niet meer bedragen dan 3600 gulden of 21000 Baht.
 
 ### HOOFDSTUK IV. Belastingheffing naar het vermogen
 
@@ -396,9 +373,9 @@ wordt in die andere Staat niet belast ter zake van alle overmakingen uit het bui
 
 Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in Thailand geheven belasting;
+- a) het bedrag dat gelijk is aan de in Thailand geheven belasting;
 
-- b). het bedrag van dat deel van de Nederlandse belasting dat aan de genoemde bestanddelen van het inkomen kan worden toegerekend.
+- b) het bedrag van dat deel van de Nederlandse belasting dat aan de genoemde bestanddelen van het inkomen kan worden toegerekend.
 
 4. Thailand is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, alle bestanddelen van het inkomen of het vermogen te begrijpen behalve indien in deze Overeenkomst uitdrukkelijk het tegendeel is bepaald.
 
@@ -406,9 +383,9 @@ Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
 6. Thailand verleent een vermindering van de volgens het vierde lid van dit artikel berekende belasting ter zake van de bestanddelen van het inkomen die volgens de artikelen 8, tweede lid, 10, tweede en derde lid, 11, tweede lid, 12, tweede lid, en 18, tweede lid, in Nederland mogen worden belast en ter zake van alle niet in deze Overeenkomst vermelde bestanddelen van het inkomen, die volgens de Thaise belastingwetgeving uit Nederland afkomstig zijn. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in Nederland geheven belasting;
+- a) het bedrag dat gelijk is aan de in Nederland geheven belasting;
 
-- b). het bedrag van dat deel van de Thaise belasting dat aan de genoemde bestanddelen van het inkomen kan worden toegerekend.
+- b) het bedrag van dat deel van de Thaise belasting dat aan de genoemde bestanddelen van het inkomen kan worden toegerekend.
 
 7. Indien een inwoner van een van de Staten voordelen verkrijgt die volgens artikel 14, vijfde lid, in de andere Staat mogen worden belast, verleent die andere Staat een vermindering op zijn belasting over deze voordelen tot een bedrag dat gelijk is aan de belasting die in de eerstbedoelde Staat over de voordelen is geheven.
 
@@ -420,9 +397,9 @@ Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
 2. De uitdrukking „onderdanen” betekent:
 
-- a). alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+- a) alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
 
-- b). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
+- b) alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
 
 3. De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen.
 
@@ -448,11 +425,11 @@ Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplic
 
 2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- a). maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
+- a) maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
 
-- b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- b) bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 27. Inperking van belastingvermindering
 
@@ -474,31 +451,31 @@ De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voor
 
 Deze Overeenkomst dient door Nederland en Thailand volgens hun wettelijke procedure te worden goedgekeurd en treedt in werking op de dag waarop nota's worden uitgewisseld waaruit die goedkeuring blijkt. De bepalingen ervan vinden daarna toepassing:
 
-- a). in Nederland: voor belastingjaren en boekjaren, die aanvangen op of na 1 januari van het jaar waarin de notawisseling plaats vindt;
+- a) in Nederland: voor belastingjaren en boekjaren, die aanvangen op of na 1 januari van het jaar waarin de notawisseling plaats vindt;
 
-- b). in Thailand:
+- b) in Thailand:
 
-- 1. met betrekking tot belastingen naar het inkomen, voor belastingjaren en boekjaren, die aanvangen op of na 1 januari van het jaar waarin de notawisseling plaats vindt;
+   - 1. met betrekking tot belastingen naar het inkomen, voor belastingjaren en boekjaren, die aanvangen op of na 1 januari van het jaar waarin de notawisseling plaats vindt;
 
-- 2. met betrekking tot belastingen naar het vermogen, op belastingen waarvan de betaling verschuldigd is op of na 1 januari van het jaar waarin de notawisseling plaats vindt.
+   - 2. met betrekking tot belastingen naar het vermogen, op belastingen waarvan de betaling verschuldigd is op of na 1 januari van het jaar waarin de notawisseling plaats vindt.
 
 ##### Artikel 31. Beëindiging
 
 Deze Overeenkomst blijft voor onbepaalde tijd van kracht. Elk van de Staten kan de Overeenkomst langs diplomatieke weg opzeggen door ten minste zes maanden voor het einde van enig kalenderjaar na een tijdvak van vijfjaren sedert de datum van inwerkingtreding van de Overeenkomst een kennisgeving van beëindiging te zenden. In dat geval houdt de Overeenkomst op van toepassing te zijn:
 
-- a). in Nederland: voor belastingjaren en boekjaren die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan;
+- a) in Nederland: voor belastingjaren en boekjaren die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan;
 
-- b). in Thailand:
+- b) in Thailand:
 
-- 1. ter zake van belastingen naar het inkomen, voor belastingjaren en boekjaren die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan;
+   - 1. ter zake van belastingen naar het inkomen, voor belastingjaren en boekjaren die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan;
 
-- 2. ter zake van belastingen naar het vermogen, op belastingen waarvan de betaling verschuldigd is na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan.
+   - 2. ter zake van belastingen naar het vermogen, op belastingen waarvan de betaling verschuldigd is na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN te Bangkok, op 11 september 1975, in twee originelen, elk in de Nederlandse, in de Thaise en in de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval de Nederlandse en de Thaise tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) A. B. HOYTINK
 
@@ -506,7 +483,7 @@ GEDAAN te Bangkok, op 11 september 1975, in twee originelen, elk in de Nederland
 
 Chargé d'Affaires a.i.
 
-**Voor de Regering van het Koninkrijk Thailand**
+*Voor de Regering van het Koninkrijk Thailand*
 
 (w.g.) CHOONHAVAN
 

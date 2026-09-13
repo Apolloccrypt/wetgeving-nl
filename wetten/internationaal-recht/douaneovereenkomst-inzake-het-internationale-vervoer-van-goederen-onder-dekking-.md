@@ -1,1212 +1,541 @@
 ---
 title: "Douaneovereenkomst inzake het internationale vervoer van goederen onder dekking van carnets TIR (TIR-Overeenkomst)"
 identifier: "BWBV0003523"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-06-01"
-last_updated: "2025-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003523"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003572323"
-version_id: "10003629952"
-internal_id: "C10006982521"
-label_id: "10003558674"
-dtd_version: "2.0"
-original_entry_into_force: "1983-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003523/2025-06-01/0"
-intitule_bron: "Trb.1976-184"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-12-28"
-intitule_in_force: "1983-01-10"
-intitule_status: "goed"
-original_publication: "Trb.1976-184"
-original_published_date: "1976-12-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-184"
-entry_into_force_date: "1983-06-20"
-jci_1_3: "jci1.3:c:BWBV0003523&z=2025-06-01&g=2025-06-01"
-jci_1_0: "1.0:c:BWBV0003523&g=2025-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1983-06-20"
+publicatiedatum: 1983-06-20
+laatste_update: 2025-06-01
+status: geldig
+toestand: 2025-06-01
+bron: "https://wetten.overheid.nl/BWBV0003523"
+opgehaald: 2026-09-13
 ---
+
 # Douaneovereenkomst inzake het internationale vervoer van goederen onder dekking van carnets TIR (TIR-Overeenkomst)
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Desiring to facilitate the international carriage of goods by road vehicle, Considering that the improvement of the conditions of transport constitutes one of the factors essential to the development of co-operation among them, Declaring themselves in favour of a simplification and a harmonization of administrative formalities in the field of international transport, particular at frontiers, Have agreed as follows:*
 
-Vervuld van de wens het internationale vervoer van goederen met wegvoertuigen te vergemakkelijken,
+### Chapter I. GENERAL
 
-Overwegende dat de verbetering van de vervoersvoorwaarden een van de essentiële factoren vormt voor de ontwikkeling van de onderlinge samenwerking,
+### (A). DEFINITIONS
 
-Zich uitsprekend voor vereenvoudiging en harmonisatie van de administratieve formaliteiten op het gebied van het internationale vervoer, in het bijzonder aan de grenzen,
+##### Article 1
 
-Zijn overeengekomen als volgt:
+For the purposes of this Convention:
 
-### Hoofdstuk I. ALGEMENE BEPALINGEN
+- (a) The term “TIR transport” shall mean the transport of goods from a Customs office of departure to a Customs office of destination under the procedure, called the TIR procedure, laid down in this Convention;
 
-## a). BEGRIPSOMSCHRIJVINGEN
+- (b) the term “TIR operation” shall mean the part of a TIR transport that is carried out in a Contracting Party from a Customs office of departure or entry (en route) to a Customs office of destination or exit (en route);
 
-##### Artikel 1
+- (c) the term “start of a TIR operation” shall mean that the road vehicle, the combination of vehicles or the container have been presented for purposes of control to the Customs office of departure or of entry (en route) together with the load and the TIR Carnet relating thereto and that the TIR Carnet has been accepted by the Customs office;
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+- (d) the term “termination of a TIR operation” shall mean that the road vehicle, the combination of vehicles or the container have been presented for purposes of control to the Customs office of destination or of exit (en route) together with the load and the TIR Carnet relating thereto;
 
-- a). „TIR-vervoer” het vervoer van goederen van een douanekantoor van vertrek naar een douanekantoor van bestemming, overeenkomstig de zogeheten TIR-regeling, die is vastgesteld bij deze Overeenkomst;
+- (e) the term “discharge of a TIR operation” shall mean the recognition by Customs authorities that the TIR operation has been terminated correctly in a Contracting Party. This is established by the Customs authorities on the basis of a comparison of the data or information available at the Customs office of destination or exit (en route) and that available at the Customs office of departure or entry (en route);
 
-- b). „TIR-operatie” het gedeelte van een TIR-vervoer dat in een Overeenkomstsluitende Partij wordt verricht van een douanekantoor van vertrek of binnenkomst (doorgang) naar een douanekantoor van bestemming of uitgang (doorgang);
+- (f) the term “import or export duties and taxes” shall mean Customs duties and all other duties, taxes, fees and other charges which are collected on, or in connexion with, the import or export of goods, but not including fees and charges limited in amount to the approximate cost of services rendered;
 
-- c). „begin van een TIR-operatie” het feit dat het wegvoertuig, de vervoerscombinatie of de container zijn aangeboden voor controle bij het douanekantoor van vertrek of van binnenkomst (doorgang), tezamen met de lading en het daarop betrekking hebbende carnet TIR en dat het carnet TIR door het douanekantoor is aanvaard;
+- (g) the term “road vehicle” shall mean not only any powerdriven road vehicle but also any trailer or semi-trailer designed to be coupled thereto;
 
-- d). „beëindiging van een TIR-operatie” het feit dat het wegvoertuig, de vervoerscombinatie of de container zijn aangeboden voor controle bij het douanekantoor van bestemming of van uitgang (doorgang), tezamen met de lading en het daarop betrekking hebbende carnet TIR;
+- (h) the term “combination of vehicles” shall mean coupled vehicles which travel on the road as a unit;
 
-- e). „zuivering van een TIR-operatie” de erkenning door de douaneautoriteiten dat de TIR-operatie in een Overeenkomstsluitende Partij op correcte wijze is beëindigd. Dit wordt door de douaneautoriteiten vastgesteld aan de hand van een vergelijking van de bij het douanekantoor van bestemming of uitgang (doorgang) beschikbare gegevens of informatie met de beschikbare informatie bij het douanekantoor van vertrek of binnenkomst (doorgang);
+- (j) the term “container” shall mean an article of transport equipment (lift-van, movable tank or other similar structure): “Demountable bodies” are to be treated as containers;
 
-- f). „rechten en heffingen ter zake van de invoer of de uitvoer” de douanerechten en alle andere verschillende rechten, heffingen, vergoedingen en andere lasten die worden geheven bij of in verband met de invoer of de uitvoer van goederen, met uitzondering van de vergoedingen en lasten waarvan het bedrag beperkt blijft tot ongeveer de kosten van de verleende diensten;
+   - (i) fully or partially enclosed to constitute a compartment intended for containing goods;
 
-- g). „wegvervoer” niet alleen elk motorvoertuig voor vervoer over de weg, maar ook elke aanhangwagen of oplegger, ingericht om daaraan te worden bevestigd;
+   - (ii) of a permanent character and accordingly strong enough to be suitable for repeated use;
 
-- h). „vervoerscombinatie” aan elkaar gekoppelde voertuigen die als eenheid deelnemen aan het wegverkeer;
+   - (iii) specially designed to facilitate the transport of goods by one or more modes of transport without intermediate reloading;
 
-- j). „container” een bergingsmiddel voor vervoer (liftvan, losse tank of soortgelijk bergingsmiddel) dat: „Losse carrosserieën” worden gelijkgesteld met containers;
+   - (iv) designed for ready handling, particularly when being transferred from one mode of transport to another;
 
-- i). een geheel of gedeeltelijk omsloten ruimte vormt en is bestemd voor het bevatten van goederen;
+   - (v) designed to be easy to fill and to empty; and
 
-- ii). een duurzaam karakter heeft en derhalve voldoende stevig is voor herhaald gebruik;
+   - (vi) having an internal volume of one cubic metre or more;
 
-- iii). speciaal is ontworpen om het vervoer van goederen met één of meer vervoermiddelen te vergemakkelijken zonder tussentijdse in- en uitlading van die goederen zelf;
+- (k) the term “Customs office of departure” shall mean any Customs office of a Contracting Party where the TIR transport of a load or part load of goods begins;
 
-- iv). zodanig is ontworpen dat het gemakkelijk kan worden gehanteerd, in het bijzonder bij het overladen van het ene vervoermiddel op het andere;
+- (l) the term “Customs office of destination” shall mean any Customs office of a Contracting Party where the TIR transport of a load or part load of goods ends;
 
-- v). zodanig is ontworpen dat het gemakkelijk kan worden gevuld en geledigd; en
+- (m) the term “Customs office en route” shall mean any Customs office of a Contracting Party through which a road vehicle, combination of vehicles or container enters or leaves this Contracting Party in the course of a TIR transport;
 
-- vi). een inhoud heeft van ten minste één kubieke meter;
+- (n) the term “person” shall mean both natural and legal persons;
 
-- k). „douanekantoor van vertrek” ieder douanekantoor van een Overeenkomstsluitende Partij waar, voor de gehele lading dan wel voor een deel van de lading, het TIR-vervoer aanvangt;
+- (o) the term “holder” of a TIR Carnet shall mean the person to whom a TIR Carnet has been issued in accordance with the relevant provisions of the Convention and on whose behalf a Customs declaration has been made in the form of a TIR Carnet indicating a wish to place goods under the TIR procedure at the Customs office of departure. He shall be responsible for presentation of the road vehicle, the combination of vehicles or the container together with the load and the TIR Carnet relating thereto at the Customs office of departure, the Customs office en route and the Customs office of destination and for due observance of the other relevant provisions of the Convention;
 
-- l). „douanekantoor van bestemming” ieder douanekantoor van een Overeenkomstsluitende Partij waar, voor de gehele lading dan wel voor een deel van de lading, het TIR-vervoer eindigt;
+- (p) the term “heavy or bulky goods” shall mean any heavy or bulky object which because of its weight, size or nature is not normally carried in a closed road vehicle or closed container;
 
-- m). „douanekantoor van doorgang” ieder douanekantoor van een Overeenkomstsluitende Partij waarlangs een wegvoertuig, een vervoerscombinatie of een container deze Overeenkomstsluitende Partij binnenkomt of verlaat onder TIR-vervoer;
+- (q) the term “guaranteeing association” shall mean an association authorized by the Customs authorities or other competent authorities of a Contracting Party to act as guarantor for persons using the TIR procedure;
 
-- n). „personen” zowel natuurlijke personen als rechtspersonen;
+- (r) the term “international organization” shall mean an organization authorized by the Administrative Committee to take on responsibility for the effective organization and functioning of an international guarantee system;
 
-- o). „houder” van een carnet TIR, de persoon aan wie een carnet TIR in overeenstemming met de desbetreffende bepalingen van de Overeenkomst is afgegeven en voor wiens rekening een douaneaangifte is gedaan in de vorm van een carnet TIR met vermelding van de wens de goederen bij het douanekantoor van vertrek onder de TIR-regeling te plaatsen. Hij is verantwoordelijk voor het aanbieden van het wegvoertuig, de vervoerscombinatie of de container met de bijbehorende lading en het daarop betrekking hebbende carnet TIR bij het douanekantoor van vertrek, het douanekantoor van doorgang en het douanekantoor van bestemming, en voor de behoorlijke naleving van de overige desbetreffende bepalingen van de Overeenkomst;
+- (s) the term “eTIR procedure” shall mean the TIR procedure, implemented by means of electronic exchange of data, providing the functional equivalent to the TIR Carnet. Whereas the provisions of the TIR Convention apply, the specifics of the eTIR procedure are defined in [Annex 11](https://wetten.overheid.nl/BWBV0003523).
 
-- p). „zware of omvangrijke goederen” ieder zwaar of omvangrijk voorwerp dat, in verband met zijn gewicht, zijn afmetingen of zijn aard, in het algemeen niet in een gesloten wegvoertuig of in een gesloten container wordt vervoerd;
+### (B). SCOPE
 
-- q). „organisatie die zich garant heeft gesteld” een organisatie die toestemming heeft gekregen van de douaneautoriteiten of andere bevoegde autoriteiten van een Overeenkomstsluitende Partij om zich garant te kunnen stellen voor personen die gebruik maken van de TIR-regeling;
+##### Article 2
 
-- r). „internationale organisatie” een organisatie die van de Commissie van Beheer toestemming heeft gekregen de verantwoordelijkheid op zich te nemen voor de organisatie en werking van een internationaal garantiestelsel;
+This Convention shall apply to the transport of goods without intermediate reloading, in road vehicles, combinations of vehicles or in containers, across one or more frontiers between a Customs office of departure of one Contracting Party and a Customs office of destination of another or of the same Contracting Party, provided that some portion of the journey between the beginning and the end of the TIR transport is made by road.
 
-- s). „eTIR-regeling”: de TIR-regeling die ten uitvoer wordt gelegd met behulp van elektronische gegevensuitwisseling als functioneel equivalent van het TIR-carnet. De bepalingen van de TIR-Overeenkomst zijn van toepassing, maar de specifieke kenmerken van de eTIR-regeling zijn in [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) omschreven.
+##### Article 3
 
-## b). TOEPASSINGSGEBIED
+For the provisions of this Convention to become applicable:
 
-##### Artikel 2
+- a) the transport operation must be performed
 
-Deze Overeenkomst is van toepassing op het vervoer van goederen dat, tussen een douanekantoor van vertrek van een Overeenkomstsluitende Partij en een douanekantoor van bestemming van een andere of van dezelfde Overeenkomstsluitende Partij, over een of meer grenzen, zonder tussentijdse in- en uitlading van die goederen zelf, plaatsvindt in wegvoertuigen, vervoerscombinaties of in containers, mits een gedeelte van het traject tussen het begin en het einde van het TIR-vervoer over de weg wordt afgelegd.
+   - (i) by means of road vehicles, combinations of vehicles or containers previously approved under the conditions set forth in [Chapter III a)](https://wetten.overheid.nl/BWBV0003523), or
 
-##### Artikel 3
+   - (ii) by means of other road vehicles, other combinations of vehicles or other containers under the conditions set forth in [Chapter III c)](https://wetten.overheid.nl/BWBV0003523), or
 
-De bepalingen van deze Overeenkomst zijn slechts van toepassing indien:
+   - (iii) by road vehicles or special vehicles such as buses, cranes, sweepers, concretelaying machines, etc. exported and therefore themselves considered as goods travelling by their own means from a Customs office of departure to a Customs office of destination under the conditions set forth in [Chapter III c)](https://wetten.overheid.nl/BWBV0003523). In case such vehicles are carrying other goods, the conditions as referred to under (i) or (ii) above shall apply accordingly;
 
-- a. het vervoer plaatsvindt
+- b) the transport operations must be guaranteed by associations authorized in accordance with the provisions of [Article 6](https://wetten.overheid.nl/BWBV0003523). They must be performed under cover of a TIR Carnet, which shall conform to the model reproduced in Annex 1 to this Convention or be carried out by the eTIR procedure.
 
-- i. met wegvoertuigen, vervoerscombinaties of containers die vooraf zijn goedgekeurd onder de voorwaarden vermeld in [Hoofdstuk III onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2025-06-01&g=2025-06-01); of
+### (C). PRINCIPLES
 
-- ii. met andere wegvoertuigen, andere vervoerscombinaties of andere containers, indien dit vervoer geschiedt onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2025-06-01&g=2025-06-01); of
+##### Article 4
 
-- iii. met wegvoertuigen of bijzondere voertuigen zoals bussen, hijskranen, veegmachines, betonstortmachines, enz. die worden uitgevoerd en derhalve worden aangemerkt als goederen die zich op eigen kracht verplaatsen van een douanekantoor van vertrek naar een douanekantoor van bestemming, onder de voorwaarden vermeld in [Hoofdstuk III onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&z=2025-06-01&g=2025-06-01). Indien deze voertuigen andere goederen vervoeren, zijn de onder i of ii hierboven bedoelde voorwaarden van overeenkomstige toepassing;
+Goods carried under the TIR procedure shall not be subjected to the payment or deposit of import or export duties and taxes at Customs offices *en route.*
 
-- b. het vervoer plaatsvindt onder de dekking van aansprakelijke organisaties die zijn gemachtigd overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01), en onder dekking van een TIR-carnet dat overeenstemt met het model in Bijlage 1 bij deze Overeenkomst, dan wel volgens de eTIR-regeling.
+##### Article 5
 
-## c). BEGINSELEN
+1. Goods carried under the TIR procedure in sealed road vehicles, combinations of vehicles or containers shall not as a general rule be subjected to examination at Customs offices *en route.*
 
-##### Artikel 4
+2. However, to prevent abuses, Customs authorities may in exceptional cases, and particularly when irregularity is suspected, carry out an examination of the goods at such offices.
 
-Goederen vervoerd onder de TIR-regeling worden op de douanekantoren van doorgang niet onderworpen aan betaling of consignatie van rechten en heffingen ter zake van de invoer of de uitvoer.
+### Chapter II. ISSUE OF TIR CARNETS
 
-##### Artikel 5
+##### Article 6
 
-1. Goederen die onder de TIR-regeling worden vervoerd in verzegelde wegvoertuigen, vervoerscombinaties of containers, worden op de douanekantoren van doorgang in de regel niet gevisiteerd.
+1. The customs authorities or other competent authorities of a Contracting Party may Contracting Party may authorize associations to issue TIR Carnets, either directly or through corresponding associations, and to act as guarantors, as long as the minimum conditions and requirements, as laid down in [Annex 9, Part I](https://wetten.overheid.nl/BWBV0003523), are complied with. The authorization shall be revoked if the minimum conditions and requirements contained in Annex 9, Part I are no longer fulfilled
 
-2. Ten einde misbruiken te voorkomen, kunnen de douaneautoriteiten echter, bij wijze van uitzondering, en in het bijzonder indien onregelmatigheden worden vermoed, de goederen op deze kantoren toch visiteren.
+2. An association shall not be authorized in any country unless its guarantee also covers the liabilities in that country in connexion with operations under cover of TIR carnets issued by foreign associations affiliated to the same international organization as that to which it is itself affiliated.
 
-### Hoofdstuk II. AFGIFTE VAN CARNETS TIR
+2 bis. An international organization shall be authorized by the Administrative Committee to take on responsibility for the effective organization and functioning of an international guarantee system. The authorization shall be granted as long as the organization fulfils the conditions and requirements laid down in [Annex 9, Part III](https://wetten.overheid.nl/BWBV0003523). The Administrative Committee may revoke the authorization if these conditions and requirements are no longer fulfilled.
 
-##### Artikel 6
+3. An association shall issue TIR Carnets only to persons, whose access to the TIR procedure has not been refused by the competent authorities of Contracting Parties in which the person is resident or established.
 
-1. De douaneautoriteiten of andere bevoegde autoriteiten van een Overeenkomstsluitende Partij kunnen aan organisaties de bevoegdheid verlenen om, hetzij rechtstreeks, hetzij door tussenkomst van soortgelijke organisaties, carnets TIR af te geven, alsmede om zich garant te stellen, zolang wordt voldaan aan de in [Bijlage 9, deel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=I&z=2025-06-01&g=2025-06-01), neergelegde minimumvoorwaarden en -eisen. De bevoegdverklaring wordt ingetrokken, indien niet meer wordt voldaan aan de in Bijlage 9, deel I, genoemde minimumvoorwaarden en -eisen.
+4. Authorization for access to the TIR procedure shall be granted only to persons who fulfil the minimum conditions and requirements laid down in [Annex 9, Part II](https://wetten.overheid.nl/BWBV0003523) to this Convention. Without prejudice to [article 38](https://wetten.overheid.nl/BWBV0003523), the authorization shall be revoked if the fulfilment of these criteria is no longer ensured.
 
-2. Een organisatie kan in een land slechts bevoegd worden verklaard indien haar garantie mede betrekking heeft op de in dat land bestaande aansprakelijkheid bij vervoer onder dekking van carnets TIR, afgegeven door buitenlandse organisaties die zijn aangesloten bij de internationale organisatie waarvan zijzelf lid is.
+5. Authorization for access to the TIR procedure shall be granted according to the procedure laid down in [Annex 9, Part II](https://wetten.overheid.nl/BWBV0003523) to this Convention.
 
-2 bis. Een internationale organisatie wordt door de Commissie van Beheer bevoegd verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel. De bevoegdheid wordt verleend voor zolang de organisatie voldoet aan de voorwaarden en vereisten vervat in [Bijlage 9, deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=III&z=2025-06-01&g=2025-06-01). De Commissie van Beheer kan de bevoegdverklaring intrekken indien niet langer wordt voldaan aan deze vereisten en voorwaarden.
+##### Article 7
 
-3. Een organisatie geeft carnets TIR uitsluitend af aan personen wier toelating tot de TIR-regeling niet is geweigerd door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen op het grondgebied waarvan de desbetreffende personen zijn gevestigd of wonen.
+TIR carnet forms sent to the guaranteeing associations by the corresponding foreign associations or by international organizations shall not be liable to import and export duties and taxes and shall be free of import and export prohibitions and restrictions.
 
-4. De bevoegdheid tot toelating tot de TIR-regeling wordt uitsluitend verleend aan personen die voldoen aan de in [Bijlage 9, deel II, bij deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2025-06-01&g=2025-06-01), neergelegde minimumvoorwaarden en -eisen. Onverminderd het bepaalde in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2025-06-01&g=2025-06-01) wordt de bevoegdverklaring ingetrokken, indien niet langer wordt gewaarborgd dat aan deze criteria wordt voldaan.
+##### Article 8
 
-5. De bevoegdheid tot toelating tot de TIR-regeling wordt verleend overeenkomstig de in [Bijlage 9, deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2025-06-01&g=2025-06-01), bij deze Overeenkomst, neergelegde procedure.
+1. The guaranteeing association shall undertake to pay up to the maximum of the guaranteed amount of the import and export duties and taxes together with any default interest due under the Customs laws and regulations of the Contracting Party in which an irregularity leading up to a claim against the guaranteeing association has been established in connection with a TIR operation. It shall be liable, jointly and severally with the persons from whom the sums mentioned above are due, for payment of such sums.
 
-##### Artikel 7
+2. In cases where the laws and regulations of a Contracting Party do not provide for payment of import or export duties and taxes as provided for in paragraph 1 above, the guaranteeing association shall undertake to pay, under the same conditions, a sum equal to the amount of the import or export duties and taxes and any default interest.
 
-De carnets TIR die aan de organisaties die zich garant hebben gesteld worden toegezonden door soortgelijke buitenlandse organisaties of door internationale organisaties, zijn niet onderworpen aan rechten en heffingen ter zake van de invoer of de uitvoer en zonder verboden of beperkingen bij in- of uitvoer.
+3. Each Contracting Party shall determine the maximum sum per TIR carnet, which may be claimed from the guaranteeing association on the basis of the provisions of paragraphs 1 and 2 above.
 
-##### Artikel 8
+4. The liability of the guaranteeing association to the authorities of the country where the Customs office of departure is situated shall commence at the time when the TIR carnet is accepted by the Customs office. In the succeeding countries through which goods are transported under the TIR procedure, this liability shall commence at the time when the goods enter these countries or, where the TIR transport has been suspended under [article 26, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0003523), at the time when the TIR carnet is accepted by the Customs office where the TIR transport is resumed.
 
-1. De aansprakelijke organisatie verbindt zich tot betaling tot het maximum van het gegarandeerde bedrag aan rechten en heffingen bij in- en uitvoer, eventueel vermeerderd met de vertragingsrente, dat verschuldigd is krachtens de douanewetten en -reglementen van de Overeenkomstsluitende Partij waarin een onregelmatigheid in verband met een TIR-operatie is vastgesteld die tot een vordering bij de aansprakelijke organisatie leidt. Zij is hoofdelijk aansprakelijk voor de betaling van bovenbedoelde bedragen met de personen die deze bedragen verschuldigd zijn.
+5. The liability of the guaranteeing association shall cover not only the goods which are enumerated in the TIR carnet but also any goods which, though not enumerated therein, may be contained in the sealed section of the road vehicle or in the sealed container. It shall not extend to any other goods.
 
-2. Wanneer de wetten en reglementen van een Overeenkomstsluitende Partij niet voorzien in de betaling van rechten en heffingen ter zake van de invoer of de uitvoer in de gevallen bedoeld in het eerste lid van dit artikel, verbindt de organisatie die zich garant heeft gesteld zich om onder dezelfde voorwaarden een bedrag te voldoen dat gelijk is aan het bedrag van de rechten en heffingen ter zake van de invoer of de uitvoer, eventueel vermeerderd met de verschuldigde interest bij achterstallige betaling.
+6. For the purpose of determining the duties and taxes mentioned in paragraphs 1 and 2 of this article, the particulars of the goods as entered in the TIR carnet shall, in the absence of evidence to the contrary, be assumed to be correct.
 
-3. Iedere Overeenkomstsluitende Partij stelt per carnet TIR het maximum vast van de bedragen die krachtens het bepaalde in het eerste en tweede lid van dit artikel kunnen worden geëist van de organisatie die zich garant heeft gesteld.
+##### Article 9
 
-4. De organisatie die zich garant heeft gesteld, wordt tegenover de autoriteiten van het land waar het douanekantoor van vertrek is gelegen, aansprakelijk vanaf het tijdstip waarop het carnet TIR door het douanekantoor is ingeschreven. In de landen waar het TIR-vervoer van goederen vervolgens doorkomt, ontstaat deze aansprakelijkheid wanneer de goederen deze landen binnenkomen of, indien het TIR-vervoer wordt onderbroken krachtens het bepaalde in [artikel 26, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=26&z=2025-06-01&g=2025-06-01), wanneer het carnet TIR wordt ingeschreven door het douanekantoor waar het TIR-vervoer wordt hervat.
+1. The guaranteeing association shall fix the period of validity of the TIR carnet by specifying a final date of validity after which the carnet may not be presented for acceptance at the Customs office of departure.
 
-5. De aansprakelijkheid van de organisatie die zich garant heeft gesteld, heeft niet alleen betrekking op de goederen die in het carnet TIR zijn vermeld, doch strekt zich tevens uit tot de goederen die, hoewel zij niet in dat carnet zijn vermeld, zich in het verzegelde gedeelte van het wegvoertuig of in de verzegelde container bevinden; de aansprakelijkheid heeft geen betrekking op andere goederen.
+2. Provided that it has been accepted by the Customs office of departure on or before the final date of validity, as provided for in paragraph 1 of this article, the carnet shall remain valid until the termination of the TIR operation at the Customs office of destination.
 
-6. Voor het vaststellen van de rechten en heffingen bedoeld in het eerste en tweede lid van dit artikel, gelden de in het carnet TIR vermelde gegevens betreffende de goederen, zolang het tegendeel niet is bewezen.
+##### Article 10
 
-##### Artikel 9
+1. Discharge of a TIR operation has to take place without delay.
 
-1. De organisatie die zich garant heeft gesteld, stelt voor het carnet TIR een geldigheidsduur vast door een uiterste geldigheidsdatum te vermelden waarna het carnet niet meer kan worden aangeboden bij het douanekantoor van vertrek.
+2. When the Customs authorities of a Contracting Party have discharged a TIR operation they can no longer claim from the guaranteeing association payment of the sums mentioned in [Article 8, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0003523), unless the certificate of termination of the TIR operation was obtained in an improper or fraudulent manner or no termination has taken place.
 
-2. Mits het carnet is ingeschreven door het douanekantoor van vertrek op of voor de uiterste geldigheidsdatum zoals bedoeld in het eerste lid van dit artikel, blijft het geldig tot het einde van het TIR-vervoer op het douanekantoor van bestemming.
+##### Article 11
 
-##### Artikel 10
+1. Where a TIR operation has not been discharged, the competent authorities shall:
 
-1. De zuivering van een TIR-operatie dient onverwijld plaats te vinden.
+- (a) notify the TIR Carnet holder at his address indicated in the TIR Carnet of the non-discharge;
 
-2. Wanneer de douaneautoriteiten van een Overeenkomstsluitende Partij een TIR-operatie hebben gezuiverd, kunnen zij van de aansprakelijke organisatie niet meer de betaling vorderen van de bedragen bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01), tenzij het certificaat van beëindiging van de TIR-operatie ten onrechte of op frauduleuze wijze werd verkregen of geen beëindiging heeft plaatsgevonden.
+- (b) notify the guaranteeing association of the non-discharge.
 
-##### Artikel 11
+The competent authorities shall notify the guaranteeing association with a maximum period of one year from the date of acceptance of the TIR Carnet by those authorities or two years when the certificate of termination of the TIR operation was falsified or obtained in an improper or fraudulent manner.
 
-1. Bij niet-zuivering van een TIR-operatie, stellen de bevoegde autoriteiten
+2. Where the payment of the sums mentioned in [Article 8, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0003523) becomes due, the competent authorities shall, so far as possible, require payment from the person or persons liable for such payment before making a claim against the guaranteeing association.
 
-- a). de houder van het TIR-carnet van de niet-zuivering in kennis op het adres dat in het TIR-carnet is vermeld;
+3. The claim for payment of the sums referred to in [Article 8, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0003523) shall be made against the guaranteeing association at the earliest one month after the date on which the association was notified that the operation had not been discharged or that the certificate of termination of the TIR operation had been falsified or obtained in an improper or fraudulent manner and not more than two years after that date. However, in cases of TIR operations which, during the above-mentioned period of two years, become the subject of administrative or legal proceedings concerning the payment obligation of the person or persons referred to in paragraph 2 of this Article, any claim for payment shall be made within one year of the date on which the decision of the competent authorities or courts becomes enforceable.
 
-- b). de aansprakelijke organisatie van de niet-zuivering in kennis.
+4. The guaranteeing association shall pay the amounts claimed within a period of three months from the date when a claim for payment is made against it.
 
-De bevoegde autoriteiten stellen de aansprakelijke organisatie in kennis binnen één jaar na de aanvaarding van het TIR-carnet door die autoriteiten of binnen twee jaar wanneer het certificaat van beëindiging van de TIR-operatie vals was of ten onrechte of op frauduleuze wijze verkregen.
+5. The sums paid shall be reimbursed to the guaranteeing association if, within a two year period following the date on which the claim for payment was made against it, it has been established to the satisfaction of the competent authorities that no irregularity was committed in connection with the TIR operation in question. The two year time limit may be extended in accordance with national legislation.
 
-2. Wanneer de in de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01), bedoelde bedragen opeisbaar worden, moeten de bevoegde autoriteiten voor zover mogelijk de betaling hiervan eisen van de persoon of personen die deze bedragen rechtstreeks verschuldigd is of zijn, alvorens een vordering tot betaling in te dienen bij de aansprakelijke organisatie.
+### Chapter III. TRANSPORT OF GOODS UNDER TIR CARNET
 
-3. De vordering tot betaling van de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01), bedoelde bedragen wordt aan de aansprakelijke organisatie gericht op zijn vroegst een maand na de datum waarop deze organisatie ervan in kennis is gesteld dat de operatie niet is gezuiverd of dat het certificaat van beëindiging van de TIR-operatie vals was of ten onrechte of op frauduleuze wijze werd verkregen, en uiterlijk twee jaar na deze datum. Echter, voor TIR-operaties die tijdens bovengenoemde termijn van twee jaar het onderwerp zijn geworden van bestuurlijke of gerechtelijke procedures betreffende de verschuldigdheid tot betaling van de in het tweede lid van dit artikel bedoelde persoon of personen, worden vorderingen tot betaling ingediend binnen een jaar nadat de beschikking van de bevoegde autoriteiten of rechtbanken afdwingbaar is geworden.
+### (A). APPROVAL OF VEHICLES AND CONTAINERS
 
-4. De aansprakelijke organisatie betaalt de gevorderde bedragen binnen drie maanden nadat de vordering tot betaling bij haar werd ingediend.
+##### Article 12
 
-5. De betaalde bedragen worden aan de aansprakelijke organisatie terugbetaald indien, binnen twee jaar nadat de vordering tot betaling bij haar werd ingediend, ten genoegen van de bevoegde autoriteiten is aangetoond dat geen onregelmatigheid werd gepleegd in verband met de betrokken TIR-operatie. De termijn van twee jaar kan overeenkomstig de nationale wetgeving worden verlengd.
+In order to fall within the provisions of [sections (a)](https://wetten.overheid.nl/BWBV0003523) and [(b) of this Chapter](https://wetten.overheid.nl/BWBV0003523), every road vehicle must as regards its construction and equipment fulfil the conditions set out in [annex 2](https://wetten.overheid.nl/BWBV0003523) to this Convention and must have been approved according to the procedure laid down in [annex 3](https://wetten.overheid.nl/BWBV0003523) to this Convention. The certificate of approval shall conform to the specimen reproduced in [annex 4](https://wetten.overheid.nl/BWBV0003523).
 
-### Hoofdstuk III. VERVOER VAN GOEDEREN ONDER DEKKING VAN HET CARNET TIR
+##### Article 13
 
-## a). GOEDKEURING VAN VOERTUIGEN EN CONTAINERS
+1. To fall within the provisions of [sections (a)](https://wetten.overheid.nl/BWBV0003523) and [(b) of this Chapter](https://wetten.overheid.nl/BWBV0003523), containers must be constructed in conformity with the conditions laid down in [Part I of annex 7](https://wetten.overheid.nl/BWBV0003523) and must have been approved according to the procedure laid down in [Part II](https://wetten.overheid.nl/BWBV0003523) of that annex.
 
-##### Artikel 12
+2. Containers approved for the transport of goods under Customs seal in accordance with the [Customs Convention on Containers](https://wetten.overheid.nl/jci1.3:c:BWBV0005184), 1956, the agreements arising therefrom concluded under the auspices of the United Nations, the Customs Convention on Containers, 1972 or any international instruments that may supersede or modify the latter Convention, shall be considered as complying with the provisions of paragraph 1 above and must be accepted for transport under the TIR procedure without further approval.
 
-Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2025-06-01&g=2025-06-01) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2025-06-01&g=2025-06-01) vindt slechts toepassing op wegvoertuigen die, wat betreft bouw en inrichting, voldoen aan de voorwaarden omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2025-06-01&g=2025-06-01) bij deze Overeenkomst en zijn goedgekeurd overeenkomstig de procedure omschreven in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2025-06-01&g=2025-06-01) bij deze Overeenkomst. Het certificaat van goedkeuring dient overeen te stemmen met het in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2025-06-01&g=2025-06-01) opgenomen model.
+##### Article 14
 
-##### Artikel 13
+1. Each Contracting Party reserves the right to refuse to recognize the validity of the approval of road vehicles or containers which do not meet the conditions set forth in [articles 12](https://wetten.overheid.nl/BWBV0003523) and [13](https://wetten.overheid.nl/BWBV0003523) above. Nevertheless, Contracting Parties shall avoid delaying traffic when the defects found are of minor importance and do not involve any risk of smuggling.
 
-1. Het bepaalde [sub a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&z=2025-06-01&g=2025-06-01) en [b) van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&z=2025-06-01&g=2025-06-01) vindt slechts toepassing op containers die zijn gebouwd overeenkomstig de voorwaarden omschreven in het eerste deel van bijlage 7 en zijn goedgekeurd overeenkomstig de procedure omschreven in het tweede deel van bedoelde bijlage.
+2. Before it is used again for the transport of goods under Customs seal, any road vehicle or container which no longer meets the conditions which justified its approval, shall be either restored to its original state, or presented for reapproval.
 
-2. Containers die voor het goederenvervoer onder douaneverzegeling zijn goedgekeurd in toepassing van de [Douane-overeenkomst betreffende containers](https://wetten.overheid.nl/jci1.3:c:BWBV0005184), 1956, van de hieruit voortgevloeide regelingen die zijn getroffen onder auspiciën van de Verenigde Naties, van de Douane-overeenkomst betreffende containers, 1972, of van alle internationale regelingen waardoor laatstbedoelde Overeenkomst zou worden vervangen of gewijzigd, worden geacht te voldoen aan het bepaalde in het eerste lid van dit artikel en moeten, zonder nieuwe goedkeuring, worden aanvaard voor vervoer onder de TIR-regeling.
+### (B). PROCEDURE FOR TRANSPORT UNDER COVER OF A TIR CARNET
 
-##### Artikel 14
+##### Article 15
 
-1. Iedere Overeenkomstsluitende Partij behoudt zich het recht voor om erkenning te weigeren van de geldigheid van de goedkeuring van wegvoertuigen of containers die niet voldoen aan de voorwaarden bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=12&z=2025-06-01&g=2025-06-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=a&artikel=13&z=2025-06-01&g=2025-06-01) hierboven. De Overeenkomstsluitende Partijen vermijden evenwel het vervoer op te houden wanneer de vastgestelde gebreken zo onbelangrijk zijn dat daardoor geen fraude kan ontstaan.
+1. No special Customs document shall be required in respect of the temporary importation of a road vehicle, combination of vehicles or container carrying goods under cover of the TIR procedure. No guarantee shall be required for the road vehicle or combination of vehicles or container.
 
-2. Alvorens opnieuw te worden gebruikt voor goederenvervoer onder douaneverzegeling, moeten de wegvoertuigen of de containers die niet meer voldoen aan de voorwaarden op grond waarvan zij destijds zijn goedgekeurd, hetzij in de oorspronkelijke staat worden teruggebracht hetzij opnieuw worden goedgekeurd.
+2. The provisions of paragraph 1 of this article shall not prevent a Contracting Party from requiring the fulfilment at the Customs office of destination of the formalities laid down by its national regulations to ensure that, once the TIR operation has been completed, the road vehicle, the combination of vehicles or the container will be re-exported.
 
-## b). PROCEDURE BETREFFENDE HET VERVOER ONDER DEKKING VAN EEN CARNET TIR
+##### Article 16
 
-##### Artikel 15
+When a road vehicle or combination of vehicles is carrying out a TIR transport, one rectangular plate bearing the inscription “TIR” and conforming to the specifications given in [annex 5](https://wetten.overheid.nl/BWBV0003523) to this Convention, shall be affixed to the front and another to the rear of the road vehicle or combination of vehicles. These plates shall be so placed as to be clearly visible. They shall be removable or be fitted or designed in such a way that these plates can be reversed, covered, folded or indicate in any other manner that a TIR transport is not carried out.
 
-1. Geen enkel bijzonder douanedocument is vereist bij de tijdelijke invoer van het wegvoertuig, de vervoerscombinatie of de container gebruikt voor het goederenvervoer onder de TIR-regeling. Geen enkele garantie is vereist voor het wegvoertuig, de vervoerscombinatie of de container.
+##### Article 17
 
-2. Het bepaalde in het eerste lid van dit artikel kan een Overeenkomstsluitende Partij niet beletten te eisen dat op het douanekantoor van bestemming de in haar nationale bepalingen voorgeschreven formaliteiten worden vervuld, ten einde te waarborgen dat het wegvoertuig, de vervoerscombinatie of de container weer worden uitgevoerd wanneer het TIR-vervoer is beëindigd.
+1. A single TIR carnet shall be made out in respect of each road vehicle or container. However, a single TIR carnet may be made out in respect of a combination of vehicles or for several containers loaded on to a single road vehicle or on to a combination of vehicles. In that case the TIR manifest of the goods covered by the TIR carnet shall list separately the contents of each vehicle in the combination of vehicles or of each container.
 
-##### Artikel 16
+2. The TIR Carnet shall be valid for one journey only. It shall contain at least the number of detachable vouchers which are necessary for the TIR transport in question.
 
-Wanneer een TIR-vervoer plaatsvindt met een wegvoertuig of met een vervoerscombinatie, moet dit voertuig of deze vervoerscombinatie aan de voorzijde en aan de achterzijde zijn voorzien van een zelfde rechthoekige plaat met het opschrift „TIR”, waarvan de kenmerken in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2025-06-01&g=2025-06-01) bij deze Overeenkomst zijn omschreven. Deze platen moeten zodanig zijn aangebracht dat zij goed zichtbaar zijn. Zij moeten afneembaar zijn of op zodanige wijze zijn gemonteerd of ontworpen dat zij kunnen worden omgedraaid, afgedekt, opgeklapt, dan wel op enige andere wijze aangeven dat er geen TIR-vervoer plaatsvindt.
+##### Article 18
 
-##### Artikel 17
+A TIR transport may involve several Customs offices of departure and destination but the total number of Customs offices of departure and destination shall not exceed eight. The TIR Carnet may only be presented to Customs offices of destination if all Customs offices of departure have accepted the TIR Carnet.
 
-1. Voor elk wegvoertuig en voor elke container dient een afzonderlijk carnet TIR te worden opgemaakt. Er kan evenwel worden volstaan met één enkel carnet TIR voor een vervoerscombinatie of voor verschillende containers die op één wegvoertuig of op één vervoerscombinatie worden geladen. In dat geval wordt de inhoud van ieder voertuig dat deel uitmaakt van een vervoerscombinatie, respectievelijk de inhoud van iedere container, afzonderlijk vermeld op het goederenmanifest van het carnet TIR.
+Customs authorities may limit the maximum number of customs offices of departure (or destination) on their territory to less than seven but not less than three.
 
-2. Het carnet TIR is geldig voor slechts één reis. Het dient ten minste zoveel uitscheurbare stroken te bevatten als voor het desbetreffende TIR-vervoer nodig zijn.
+##### Article 19
 
-##### Artikel 18
+The goods and the road vehicle, the combination of vehicles or the container shall be produced with the TIR carnet at the Customs office of departure. The Customs authorities of the country of departure shall take such measures as are necessary for satisfying themselves as to the accuracy of the goods manifest and either for affixing the Customs seals or for checking Customs seals affixed under the responsibility of the said Customs authorities by duly authorized persons.
 
-Voor een TIR-vervoer mogen er verscheidene douanekantoren van vertrek en van bestemming zijn, mits het totale aantal douanekantoren van vertrek en van bestemming niet meer dan acht bedraagt. Het carnet TIR kan slechts worden aangeboden bij douanekantoren van bestemming indien alle douanekantoren van vertrek het carnet TIR hebben ingeschreven.
+##### Article 20
 
-Douaneautoriteiten kunnen het maximumaantal douanekantoren van vertrek (of bestemming) op hun grondgebied beperken tot minder dan zeven, maar niet minder dan drie.
+For journeys in the territory of a Contracting Party or several Contracting Parties forming a customs or economic union, the competent customs authorities.
 
-##### Artikel 19
+##### Article 21
 
-De goederen en het wegvoertuig, de vervoerscombinatie of de container moeten met het carnet TIR worden aangeboden op het douanekantoor van vertrek. De douaneautoriteiten van het land van vertrek nemen de nodige maatregelen om zich te overtuigen van de juistheid van het goederenmanifest, om de douaneverzegeling aan te brengen of om de douaneverzegeling te controleren die onder de verantwoordelijkheid van bedoelde douaneautoriteiten is aangebracht door hiertoe naar behoren gemachtigde personen.
+At each Customs office *en route* and at Customs offices of destination, the road vehicle, the combination of vehicles or the container shall be produced for purposes of control to the Customs authorities together with the load and the TIR carnet relating thereto.
 
-##### Artikel 20
+##### Article 22
 
-De bevoegde douaneautoriteiten kunnen voor het af te leggen traject over het grondgebied van een Overeenkomstsluitende Partij of verschillende Overeenkomstsluitende Partijen die een douane-unie of economische unie vormen.
+1. As a general rule and except when they examine the goods in accordance with [article 5, paragraph 2](https://wetten.overheid.nl/BWBV0003523), the Customs authorities of the Customs offices *en route* of each of the Contracting Parties shall accept the Customs seals of other Contracting Parties, provided that they are intact. The said Customs authorities may, however, if control requirements make it necessary, add their own seals.
 
-##### Artikel 21
+2. The Customs seals thus accepted by a Contracting Party shall have in the territory of that Contracting Party the benefit of the same legal protection as is accorded to the national seals.
 
-Op ieder douanekantoor van doorgang alsmede op de douanekantoren van bestemming worden het wegvoertuig, de vervoerscombinatie of de container met de lading en het daarop betrekking hebbende carnet TIR ter controle aan de douaneautoriteiten aangeboden.
+##### Article 23
 
-##### Artikel 22
+The Customs authorities shall not
 
-1. In de regel, en behalve wanneer de goederen worden gevisiteerd in toepassing van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=c&artikel=5&z=2025-06-01&g=2025-06-01), aanvaarden de douaneautoriteiten van de douanekantoren van doorgang van iedere Overeenkomstsluitende Partij de douaneverzegeling van de andere Overeenkomstsluitende Partijen, mits deze verzegeling intact is. Bedoelde douaneautoriteiten kunnen evenwel hun eigen verzegeling eraan toevoegen, indien dit voor de controle noodzakelijk is.
+- - require road vehicles, combinations of vehicles or containers to be escorted at the carriers' expense on the territory of their country
 
-2. De douaneverzegeling die aldus is aanvaard door een Overeenkomstsluitende Partij, geniet op het grondgebied van die Partij dezelfde juridische bescherming als de nationale verzegeling.
+- - require examination *en route* of road vehicles, combinations of vehicles or containers and their loads
 
-##### Artikel 23
+except in special cases.
 
-De douaneautoriteiten mogen slechts in uitzonderingsgevallen
+##### Article 24
 
-- -. op het grondgebied van hun land de wegvoertuigen, de vervoerscombinaties of de containers op kosten van de vervoerders doen begeleiden,
+If the Customs authorities conduct an examination of the load of a road vehicle, combination of vehicles or container in the course of the journey or at a Customs office *en route,* they shall record on the TIR carnet vouchers used in their country, on the corresponding counterfoils, and on the vouchers remaining in the TIR carnet, particulars of the new seals affixed and of the controls carried out.
 
-- -. de lading van de wegvoertuigen, de vervoerscombinaties of de containers onderweg controleren en visiteren.
+##### Article 25
 
-##### Artikel 24
+If the Customs seals are broken *en route* otherwise than in the circumstances of [articles 24](https://wetten.overheid.nl/BWBV0003523) and [35](https://wetten.overheid.nl/BWBV0003523), or if any goods are destroyed or damaged without breaking of such seals, the procedure laid down in [annex 1](https://wetten.overheid.nl/BWBV0003523) to this Convention for the use of the TIR carnet shall, without prejudice to the possible application of the provisions of national law, be followed, and the certified report in the TIR carnet shall be completed.
 
-Indien de douaneautoriteiten onderweg of op een douanekantoor van doorgang de lading van een wegvoertuig, een vervoerscombinatie of een container visiteren, vermelden zij de opnieuw aangebrachte verzegeling, alsmede de aard van de verrichte controle, op de in hun land gebezigde stroken van het carnet TIR, op de stam van deze stroken en op de stroken die in het carnet achterblijven.
+##### Article 26
 
-##### Artikel 25
+1. When transport under cover of a TIR carnet takes place in part in the territory of a State which is not a Contracting Party to this Convention, the TIR transport shall be suspended during that part of the journey. In that case, the Customs authorities of the Contracting Party on whose territory the journey continues shall accept the TIR carnet for the resumption of the TIR transport, provided that the Customs seals and/or identifying marks have remained intact. Where the Customs seals have not remained intact, the Customs authorities may accept the TIR Carnet for resumption of the TIR transport under the provisions of [Article 25](https://wetten.overheid.nl/BWBV0003523).
 
-Indien een douaneverzegeling onderweg is verbroken in andere gevallen dan die bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=24&z=2025-06-01&g=2025-06-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=c&artikel=35&z=2025-06-01&g=2025-06-01), of indien goederen zijn teloorgegaan of zijn beschadigd zonder dat de verzegeling werd verbroken, wordt de in bijlage 1 bij deze Overeenkomst voor het gebruik van het carnet TIR vastgestelde procedure gevolgd, zulks onverminderd de eventuele toepassing van de bepalingen van de nationale wetgevingen en wordt een proces-verbaal van bevinding opgemaakt, dat zich in het carnet TIR bevindt.
+2. The same shall apply where for a part of the journey the TIR carnet is not used by the holder of the carnet in the territory of a Contracting Party because of the existence of simpler Customs transit procedures or when the use of a Customs transit régime is not necessary.
 
-##### Artikel 26
+3. In such cases the Customs offices where the TIR transport is suspended or resumed shall be deemed to be Customs offices of exit *en route* and Customs offices of entry *en route* respectively.
 
-1. Wanneer het vervoer onder dekking van een carnet TIR voor een gedeelte van het traject plaatsvindt over het grondgebied van een Staat die geen Partij is bij deze Overeenkomst, wordt het TIR-vervoer voor dat gedeelte opgeschort. In dat geval aanvaarden de douaneautoriteiten van de Overeenkomstsluitende Partij over het grondgebied waarvan het vervoer vervolgens geschiedt, het carnet TIR voor de hervatting van het TIR-vervoer mits de douaneverzegeling en/of de herkenningstekens intact zijn gebleven. Wanneer de douaneverzegelingen niet intact zijn gebleven, kunnen de douaneautoriteiten het carnet TIR voor hervatting van het TIR-vervoer aanvaarden ingevolge de bepalingen van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=25&z=2025-06-01&g=2025-06-01).
+##### Article 27
 
-2. Dit geldt eveneens voor het gedeelte van het traject waarover het carnet TIR niet door de houder van het carnet wordt gebruikt op het grondgebied van een Overeenkomstsluitende Partij, wegens het bestaan van eenvoudiger procedures voor douanevervoer of wanneer een regeling voor douanevervoer niet noodzakelijk is.
+Subject to the provisions of this Convention and in particular of [article 18](https://wetten.overheid.nl/BWBV0003523), another Customs office of destination may be substituted for a Customs office of destination originally indicated.
 
-3. In deze gevallen worden de douanekantoren waar het TIR-vervoer wordt onderbroken of hervat, respectievelijk beschouwd als kantoren van doorgang bij het uitgaan of het binnenkomen.
+##### Article 28
 
-##### Artikel 27
+1. Termination of a TIR operation shall be certified by the Customs authorities without delay. Termination of a TIR operation may be certified without or with reservation: where termination is certified with reservation this shall be on account of facts connected with the TIR operation itself. These facts shall be clearly indicated in the TIR Carnet.
 
-Behoudens de bepalingen van deze Overeenkomst, in het bijzonder het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=18&z=2025-06-01&g=2025-06-01), kan een douanekantoor van bestemming dat oorspronkelijk als zodanig is aangewezen, door een ander douanekantoor van bestemming worden vervangen.
+2. In cases where the goods are placed under another Customs procedure or another system of Customs control, all irregularities that may be committed under that other Customs procedure or system of Customs control shall not be attributed to the TIR Carnet holder as such or any person acting on his behalf.
 
-##### Artikel 28
+### (C). PROVISIONS CONCERNING TRANSPORT OF HEAVY OR BULKY GOODS
 
-1. De beëindiging van een TIR-operatie wordt onmiddellijk door de douaneautoriteiten gecertificeerd. De beëindiging van een TIR-operatie kan zonder of met voorbehoud worden gecertificeerd: wanneer een beëindiging wordt gecertificeerd met voorbehoud, dient dit gebaseerd te zijn op feiten die met de TIR-operatie zelf verband houden. Deze feiten moeten duidelijk in het carnet TIR worden vermeld.
+##### Article 29
 
-2. In gevallen waarin de goederen onder een andere douaneregeling of een ander systeem van douanetoezicht worden geplaatst, wordt geen van de eventueel onder die andere douaneregeling of dat andere systeem van douanetoezicht begane onregelmatigheden toegerekend aan de houder van het carnet TIR als zodanig of aan een andere persoon die namens hem optreedt.
+1. The provisions of this section apply only to the transport of heavy or bulky goods as defined in [Article 1, subparagraph p)](https://wetten.overheid.nl/BWBV0003523), of this Convention.
 
-## c). BEPALINGEN BETREFFENDE HET VERVOER VAN ZWARE OF OMVANGRIJKE GOEDEREN
+2. Where the provisions of this section apply, heavy or bulky goods may, if the authorities at the Customs office of departure so decide, be carried by means of non-sealed vehicles or containers.
 
-##### Artikel 29
+3. The provisions of this section shall apply only if, in the opinion of the authorities at the Customs office of departure, the heavy or bulky goods carried and any accessories carried with them can be easily identified by reference to the description given, or can be provided with Customs seals and/or identifying marks so as to prevent any substitution, or removal of the goods, without it being obvious.
 
-1. De bepalingen van dit deel zijn slechts van toepassing op het vervoer van zware of omvangrijke goederen, zoals omschreven in [artikel 1, onderdeel p)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=a&artikel=1&z=2025-06-01&g=2025-06-01), van deze Overeenkomst.
+##### Article 30
 
-2. Wanneer de bepalingen van dit deel van toepassing zijn, kan het vervoer van zware of omvangrijke goederen, indien de autoriteiten van het douanekantoor van vertrek zulks beslissen, geschieden met niet-verzegelde voertuigen of containers.
+All the provisions of this Convention, save those to which the special provisions of this section make an exception, shall apply to the transport of heavy or bulky goods under the TIR procedure.
 
-3. De bepalingen van dit deel zijn slechts van toepassing indien het, naar het oordeel van de autoriteiten van het douanekantoor van vertrek, mogelijk is de zware of omvangrijke goederen, alsmede, in voorkomend geval, het gelijktijdig vervoerde toebehoren, aan de hand van de daarvan gegeven omschrijving op eenvoudige wijze te identificeren, of ze te voorzien van douaneverzegeling en/of herkenningstekens, ten einde te verhinderen dat deze goederen worden verwisseld of dat er iets aan wordt onttrokken zonder dat daarvan duidelijke sporen achterblijven.
+##### Article 31
 
-##### Artikel 30
+The liability of the guaranteeing association shall cover not only the goods enumerated in the TIR carnet, but also any goods which, though not enumerated in the carnet, are on the load platform or among the goods enumerated in the TIR carnet.
 
-Alle bepalingen van deze Overeenkomst waarvan niet wordt afgeweken door bijzondere bepalingen van dit deel, zijn van toepassing op het vervoer van zware of omvangrijke goederen onder de TIR-regeling.
+##### Article 32
 
-##### Artikel 31
+The cover and all vouchers of the TIR carnet shall bear the endorsement “heavy or bulky goods” in bold letters in English or in French.
 
-De aansprakelijkheid van de organisatie die zich garant heeft gesteld, heeft niet alleen betrekking op de goederen die in het carnet TIR zijn vermeld, doch tevens op de goederen die, hoewel zij niet in dat carnet zijn vermeld, aanwezig zijn op de laadvloer of zich tussen de in het carnet TIR vermelde goederen bevinden.
+##### Article 33
 
-##### Artikel 32
+The authorities at the Customs office of departure may require such packing lists, photographs, drawings, etc., as are necessary for the identification of the goods carried to be appended to the TIR carnet. In this case they shall endorse these documents, one copy of the said documents shall be attached to the inside of the cover page of the TIR carnet, and all the manifests of the TIR carnet shall include a reference to such documents.
 
-Op het omslag en op alle stroken van het te gebruiken carnet TIR moet de aanduiding „zware of omvangrijke goederen” voorkomen in vette letters in de Engelse of de Franse taal.
+##### Article 34
 
-##### Artikel 33
+The authorities at the Customs offices *en route* of each of the Contracting Parties shall accept the Customs seals and/or identifying marks affixed by the competent authorities of other Contracting Parties. They may, however, affix additional seals and/or identifying marks; they shall record particulars of the new seals and/or identifying marks on the vouchers of the TIR carnet used in their country, on the corresponding counterfoils and on the vouchers remaining in the TIR carnet.
 
-De autoriteiten van het douanekantoor van vertrek kunnen eisen dat bij het carnet TIR de paklijsten, foto’s, tekeningen, enz. worden gevoegd die noodzakelijk blijken te zijn voor de identificatie van de vervoerde goederen. In dat geval moeten deze stukken door de douaneautoriteiten worden gewaarmerkt, terwijl een exemplaar van deze stukken aan de binnenkant van het omslag van het carnet TIR wordt gehecht; in alle manifesten van het carnet dient naar deze stukken te worden verwezen.
+##### Article 35
 
-##### Artikel 34
+If Customs authorities conducting an examination of the load at a Customs office *en route* or in the course of the journey are obliged to break seals and/or remove identifying marks, they shall record the new seals and/or identifying marks on the vouchers of the TIR carnet used in their country, on the corresponding counterfoils and on the vouchers remaining in the TIR carnet.
 
-De autoriteiten van de douanekantoren van doorgang van elke Overeenkomstsluitende Partij aanvaarden de douaneverzegeling en/of de herkenningstekens die zijn aangebracht door de bevoegde autoriteiten van de andere Overeenkomstsluitende Partijen. Zij kunnen evenwel een andere verzegeling en/of herkenningstekens hieraan toevoegen en vermelden dan deze nieuw aangebrachte verzegeling en/of herkenningstekens op de in hun land te gebruiken stroken van het carnet TIR, op de stam van deze stroken alsmede op de stroken die in het carnet TIR achterblijven.
+### Chapter IV. IRREGULARITIES
 
-##### Artikel 35
+##### Article 36
 
-Indien de douaneautoriteiten bij visitatie van de lading onderweg of op een douanekantoor van doorgang genoodzaakt zijn de verzegeling te verbreken en/of de herkenningstekens te verwijderen, vermelden zij de nieuw aangebrachte verzegeling en/of herkenningstekens op de in hun land te gebruiken stroken van het carnet TIR, op de stam van deze stroken alsmede op de stroken die in het carnet TIR achterblijven.
+Any breach of the provisions of this Convention shall render the offender liable, in the country where the offence was committed, to the penalties prescribed by the law of that country.
 
-### Hoofdstuk IV. ONREGELMATIGHEDEN
+##### Article 37
 
-##### Artikel 36
+When it is not possible to establish in which territory an irregularity was committed, it shall be deemed to have been committed in the territory of the Contracting Party where it is detected.
 
-Iedere inbreuk op de bepalingen van deze Overeenkomst stelt de overtreder in het land waar het strafbare feit is begaan, bloot aan de straffen voorzien in de wetgeving van dat land.
+##### Article 38
 
-##### Artikel 37
+1. Each of the Contracting Parties shall have the right to exclude temporarily or permanently from the operation of this Convention any person guilty of a serious or repeated offence against the customs laws or regulations applicable to the international transport of goods. The conditions in which the offence against the customs laws or regulations is considered to be serious shall be decided by the Contracting Party.
 
-Wanneer het niet mogelijk is vast te stellen op welk grondgebied een onregelmatigheid is begaan, dan wordt deze geacht te zijn begaan op het grondgebied van de Overeenkomstsluitende Partij waar zij is vastgesteld.
+2. This exclusion shall be notified without delay to the competent authorities of the Contracting Party on whose territory the person concerned is established or resident, to the association(s) in the country or Customs territory where the offence has been committed and to the TIR Executive Board.
 
-##### Artikel 38
+##### Article 39
 
-1. Iedere Overeenkomstsluitende Partij heeft het recht iedere persoon die zich schuldig heeft gemaakt aan ernstige of herhaalde inbreuken op de douanewetten en -reglementen die gelden ten aanzien van het internationale vervoer van goederen, tijdelijk of voorgoed uit te sluiten van de toepassing van de bepalingen van deze Overeenkomst. De omstandigheden waaronder de inbreuk op de douanewetten en -reglementen als ernstig wordt beschouwd, worden door de Overeenkomstsluitende Partij bepaald.
+When TIR operations are accepted as being otherwise in order:
 
-2. Van deze uitsluiting wordt onverwijld mededeling gedaan aan de bevoegde autoriteiten van de Overeenkomstsluitende Partij op het grondgebied waarvan de desbetreffende persoon is gevestigd of woont, aan de organisatie(s) in het land of douanegebied waar de inbreuk is gepleegd en aan het TIR Uitvoerend Comité.
+- 1. The Contracting Parties shall disregard minor discrepancies in the observance of time-limits or routes prescribed.
 
-##### Artikel 39
+- 2. Likewise, discrepancies between the particulars on the goods manifest of the TIR carnet and the actual contents of a road vehicle, combination of vehicles or container shall not be considered as infringements of the Convention by the holder of the TIR carnet when evidence is produced to the satisfaction of the competent authorities that these discrepancies were not due to mistakes committed knowingly or through negligence at the time when the goods were loaded or dispatched or when the manifest was made out.
 
-Wanneer het TIR-vervoer anderszins als regelmatig wordt beschouwd,
+##### Article 40
 
-- 1. vermelden de Overeenkomstsluitende Partijen geen geringe afwijkingen van de vastgestelde termijn of de voorgeschreven route.
+The Customs administrations of the countries of departure and of destination shall not consider the holder of the TIR carnet responsible for the discrepancies which may be discovered in those countries, when the discrepancies in fact relate to the Customs procedures which preceded or followed a TIR transport and in which the holder was not involved.
 
-- 2. worden ook de verschillen tussen de gegevens op het goederenmanifest van het carnet TIR en de inhoud van het wegvoertuig, van een vervoerscombinatie of van de container niet beschouwd als inbreuken, in de zin van deze Overeenkomst, door de houder van het carnet TIR, wanneer ten genoegen van de bevoegde autoriteiten wordt aangetoond dat deze verschillen niet zijn te wijten aan bewust of uit nalatigheid gemaakte fouten bij het laden of het verzenden van de goederen of bij het opmaken van het manifest.
+##### Article 41
 
-##### Artikel 40
+When it is established to the satisfaction of the Customs authorities that goods specified on the manifest of a TIR carnet have been destroyed or have been irrecoverably lost by accident or *force majeure* or that they are short by reason of their nature, payment of the duties and taxes normally due shall be waived.
 
-De douaneautoriteiten van het land van vertrek en van bestemming stellen de houder van het carnet TIR niet verantwoordelijk voor de verschillen die mochten worden vastgesteld in die landen, wanneer die verschillen in feite betrekking hebben op de douaneregelingen van vóór of na het TIR-vervoer en waarbij de houder van dat carnet niet was betrokken.
+##### Article 42
 
-##### Artikel 41
+On receipt from a Contracting Party of a request giving the relevant reasons, the competent authorities of the Contracting Parties concerned in a TIR transport shall furnish that Contracting Party with all the available information needed for implementation of the provisions of [articles 39](https://wetten.overheid.nl/BWBV0003523), [40](https://wetten.overheid.nl/BWBV0003523) and [41](https://wetten.overheid.nl/BWBV0003523) above.
 
-Wanneer ten genoegen van de douaneautoriteiten is aangetoond dat de op het manifest van een carnet TIR vermelde goederen door een ongeval of door overmacht zijn vernietigd of teloor gegaan of dat er tekorten zijn ontstaan in verband met hun aard, wordt ontheffing verleend van betaling van de feitelijk verschuldigde rechten en heffingen.
+##### Article 42 bis
 
-##### Artikel 42
+The competent authorities, in close cooperation with the associations, shall take all necessary measures to ensure the proper use of TIR Carnets. To this effect they may take appropriate national and international control measures. National control measures taken in this context by the competent authorities shall be communicated immediately to the TIR Executive Board which will examine their conformity with the provisions of the Convention. International control measures shall be adopted by the Administrative Committee.
 
-Op een met redenen omkleed verzoek van een Overeenkomstsluitende Partij verstrekken de bevoegde autoriteiten van de bij een TIR-vervoer betrokken Overeenkomstsluitende Partijen bedoelde Partij alle beschikbare gegevens die nodig mochten zijn voor de toepassing van het bepaalde in de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=39&z=2025-06-01&g=2025-06-01), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=40&z=2025-06-01&g=2025-06-01) en [41](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=41&z=2025-06-01&g=2025-06-01) hierboven.
+##### Article 42ter
 
-##### Artikel 42 bis
+The competent authorities of the Contracting Parties shall, as appropriate, provide authorized associations with information that they require to fulfil the undertaking given in accordance with [Annex 9, Part I, Article I f) (iii)](https://wetten.overheid.nl/BWBV0003523).
 
-De bevoegde autoriteiten nemen in nauwe samenwerking met de organisaties alle noodzakelijke maatregelen ter verzekering van het correcte gebruik van de carnets TIR. Hiertoe kunnen zij passende nationale en internationale controlemaatregelen nemen. De in dit verband door de bevoegde autoriteiten genomen nationale controlemaatregelen worden onverwijld ter kennis gebracht van het TIR Uitvoerend Comité, die zal toetsen of zij in overeenstemming zijn met de bepalingen van de Overeenkomst. De internationale controlemaatregelen worden aangenomen door de Commissie van beheer.
+[Annex 10](https://wetten.overheid.nl/BWBV0003523) sets out the information to be provided in particular cases.
 
-### Hoofdstuk V. TOELICHTING
+### Chapter V. EXPLANATORY NOTES
 
-##### Artikel 43
+##### Article 43
 
-In de toelichtingen in [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2025-06-01&g=2025-06-01), in [deel III van Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2025-06-01&g=2025-06-01) en in [deel II van Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&deel=2&z=2025-06-01&g=2025-06-01) wordt uitlegging gegeven van enkele bepalingen van deze Overeenkomst en van de daarbij behorende bijlagen; zij bevatten tevens enkele aanbevelingen.
+The Explanatory Notes set out in [Annex 6](https://wetten.overheid.nl/BWBV0003523), [Annex 7, Part III](https://wetten.overheid.nl/BWBV0003523), and [Annex 11, Part II](https://wetten.overheid.nl/BWBV0003523) interpret certain provisions of this Convention and its [Annexes](https://wetten.overheid.nl/BWBR0016231). They also describe certain recommended practices.
 
-### Hoofdstuk VI. DIVERSE BEPALINGEN
+### Chapter VI. MISCELLANEOUS PROVISIONS
 
-##### Artikel 44
+##### Article 44
 
-Iedere Overeenkomstsluitende Partij verleent aan de betrokken organisaties die zich garant hebben gesteld, faciliteiten wat betreft:
+Each Contracting Party shall provide the guaranteeing associations concerned with facilities for:
 
-- a). de overmaking van de deviezen die nodig zijn voor de betaling van de bedragen die door de autoriteiten van de Overeenkomstsluitende Partijen worden gevorderd krachtens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01) van deze Overeenkomst, en
+- (a) the transfer of the currency necessary for the sums claimed by the authorities of Contracting Parties by virtue of the provisions of [article 8](https://wetten.overheid.nl/BWBV0003523) of this Convention; and
 
-- b). de overmaking van de deviezen die nodig zijn voor de betaling van de carnets TIR die aan de organisaties die zich garant hebben gesteld worden gezonden door soortgelijke buitenlandse organisaties of door de internationale organisaties.
+- (b) the transfer of currency for payment for TIR carnet forms sent to the guaranteeing associations by the corresponding foreign associations or by the international organizations.
 
-##### Artikel 45
+##### Article 45
 
-Iedere Overeenkomstsluitende Partij zorgt voor publikatie van de lijst van de douanekantoren van vertrek, van doorgang en van bestemming die zij heeft aangewezen voor het TIR-vervoer. De Overeenkomstsluitende Partijen waarvan de grondgebieden aan elkaar grenzen, plegen overleg om gezamenlijk tegenover elkaar gelegen grenskantoren aan te wijzen en hiervan de openingstijden vast te stellen.
+Each Contracting Party shall cause to be published the list of the Customs offices of departure, Customs offices *en route* and Customs offices of destination approved by it for accomplishing TIR operations. The Contracting Parties of adjacent territories shall consult each other to agree upon corresponding frontier offices and upon their opening hours.
 
-##### Artikel 46
+##### Article 46
 
-1. Wat betreft de in deze Overeenkomst vermelde douanewerkzaamheden, behoeft voor de handelingen van het douanepersoneel geen vergoeding te worden betaald, tenzij deze handelingen plaatsvinden buiten de dagen, de uren en de plaatsen die normaal voor deze werkzaamheden zijn vastgesteld.
+1. No charge shall be made for Customs attendance in connexion with the Customs operations mentioned in this Convention, save where it is provided on days or at times or places other than those normally appointed for such operations.
 
-2. Voor zover mogelijk vergemakkelijken de Overeenkomstsluitende Partijen op de douanekantoren de douanewerkzaamheden met betrekking tot bederfelijke goederen.
+2. Contracting Parties shall arrange to the fullest extent possible for Customs operations concerning perishable goods at Customs to be facilitated.
 
-##### Artikel 47
+##### Article 47
 
-1. De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing van beperkingen en controles die voortvloeien uit nationale bepalingen en die zijn gebaseerd op overwegingen van openbare zedelijkheid, openbare veiligheid, hygiëne of volksgezondheid, op veterinaire of fytopathologische overwegingen, en evenmin voor de heffing van bedragen die zijn verschuldigd uit hoofde van deze bepalingen.
+1. The provisions of this Convention shall preclude neither the application of restrictions and controls imposed under national regulations on grounds of public morality, public security, hygiene or public health, or for veterinary or phytopathological reasons, nor the levy of dues chargeable by virtue of such regulations.
 
-2. De bepalingen van deze Overeenkomst vormen geen beletsel voor de toepassing van andere nationale of internationale bepalingen die het vervoer regelen.
+2. The provisions of this Convention shall not preclude the application of other provisions either national or international governing transport.
 
-##### Artikel 48
+##### Article 48
 
-Geen enkele bepaling van deze Overeenkomst ontneemt de Overeenkomstsluitende Partijen die een douane-unie of een economische unie vormen, het recht bijzondere voorschriften vast te stellen met betrekking tot het vervoer uit, naar of over hun grondgebieden, mits deze voorschriften geen afbreuk doen aan de faciliteiten die in deze Overeenkomst zijn voorzien.
+Nothing in this Convention shall prevent Contracting Parties which form a Customs or economic union from enacting special provisions in respect of transport operations commencing or terminating in, or passing through, their territories, provided that such provisions do not attenuate the facilities provided for by this Convention.
 
-##### Artikel 49
+##### Article 49
 
-Deze Overeenkomst vormt geen beletsel voor de toepassing van ruimere faciliteiten die de Overeenkomstsluitende Partijen verlenen of zouden willen verlenen, hetzij in verband met unilaterale bepalingen, hetzij krachtens bilaterale of multilaterale overeenkomsten, mits de aldus verleende faciliteiten geen belemmering vormen voor de toepassing van de bepalingen van deze Overeenkomst en in het bijzonder niet voor het TIR-vervoer zelf.
+This Convention shall not prevent the application of greater facilities which Contracting Parties grant or may wish to grant either by unilateral provisions or by virtue of bilateral or multilateral agreements provided that such facilities do not impede the application of the provisions of this Convention, and in particular, TIR operations.
 
-##### Artikel 50
+##### Article 50
 
-De Overeenkomstsluitende Partijen verstrekken elkaar, op verzoek, de gegevens die nodig zijn voor de toepassing van de bepalingen van deze Overeenkomst, en met name de gegevens betreffende de goedkeuring van wegvoertuigen of containers alsmede betreffende de technische gegevens over de bouw van deze voertuigen en containers.
+The Contracting Parties shall communicate to one another, on request, information necessary for implementing the provisions of this Convention, and particularly information relating to the approval of road vehicles or containers and to the technical characteristics of their design.
 
-##### Artikel 51
+##### Article 51
 
-De bijlagen bij deze Overeenkomst vormen een integrerend deel van deze Overeenkomst.
+The [annexes](https://wetten.overheid.nl/BWBR0003319) to this Convention form an integral part of the Convention.
 
-### Hoofdstuk VII. SLOTBEPALINGEN
+### Chapter VII. FINAL CLAUSES
 
-##### Artikel 52. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Article 52. Signature, ratification, acceptance, approval and accession
 
-1. Alle Staten die Lid zijn van de Verenigde Naties of van een van de gespecialiseerde organisaties daarvan of van de Internationale Organisatie voor Atoomenergie of die Partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), alsmede iedere andere Staat die daartoe wordt uitgenodigd door de Algemene Vergadering van de Verenigde Naties, kunnen Partij bij deze Overeenkomst worden:
+1. All States Members of the United Nations or members of any of the specialized agencies or of the International Atomic Energy Agency or parties to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), and any other State invited by the General Assembly of the United Nations, may become Contracting Parties to this Convention:
 
-- a). door ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring,
+- (a) by signing it without reservation of ratification, acceptance or approval,
 
-- b). door nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring na de Overeenkomst te hebben ondertekend onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+- (b) by depositing an instrument of ratification, acceptance or approval after signing it subject to ratification, acceptance or approval, or
 
-- c). door nederlegging van een akte van toetreding.
+- (c) by depositing an instrument of accession.
 
-2. Deze Overeenkomst staat van 1 januari 1976 tot en met 31 december 1976 op het kantoor van de Verenigde Naties te Genève open voor ondertekening door de Staten bedoeld in het eerste lid van dit artikel. Na deze datum staat zij open voor toetreding door deze Staten.
+2. This Convention shall be open from 1 January 1976 until 31 December 1976 inclusive for signature at the Office of the United Nations at Geneva by the States referred to in paragraph 1 of this article. Thereafter it shall be open for their accession.
 
-3. Douane-unies of economische unies kunnen eveneens, overeenkomstig het bepaalde in het eerste en tweede lid van dit artikel, Partij worden bij deze Overeenkomst tegelijk met al hun Lid-Staten of te allen tijde nadat al hun Lid-Staten Partij zijn geworden bij deze Overeenkomst. Deze unies hebben evenwel geen stemrecht.
+3. Customs or economic unions may, together with all their member States or at any time after all their member States have become Contracting Parties to this Convention, also become Contracting Parties to this Convention in accordance with the provisions of paragraphs 1 and 2 of this article. However, these unions shall not have the right to vote.
 
-4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+4. The instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the United Nations.
 
-##### Artikel 53. Inwerkingtreding
+##### Article 53. Entry into force
 
-1. Deze Overeenkomst treedt in werking zes maanden na de datum waarop vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
+1. The Convention shall enter into force six months after the date on which five States referred to in [article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523), have signed it without reservation of ratification, acceptance or approval or have deposited their instruments of ratification, acceptance, approval or accession.
 
-2. Nadat vijf van de Staten bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), deze Overeenkomst hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, treedt deze Overeenkomst voor alle nieuwe Overeenkomstsluitende Partijen in werking zes maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+2. After five States referred to in [article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523), have signed it without reservation of ratification, acceptance or approval, or have deposited their instruments of ratification, acceptance, approval or accession, this Convention shall enter into force for further Contracting Parties six months after the date of the deposit of their instruments of ratification, acceptance, approval or accession.
 
-3. Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die is nedergelegd na de inwerkingtreding van een wijziging van deze Overeenkomst, wordt beschouwd te gelden voor de gewijzigde tekst van deze Overeenkomst.
+3. Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to this Convention shall be deemed to apply to this Convention as amended.
 
-4. Iedere akte van deze aard die is nedergelegd na aanvaarding van een wijziging maar vóór de inwerkingtreding daarvan, wordt geacht te gelden voor de gewijzigde tekst van deze Overeenkomst op de datum waarop de wijziging in werking treedt.
+4. Any such instrument deposited after an amendment has been accepted but before it has entered into force shall be deemed to apply to this Convention as amended on the date when the amendment enters into force.
 
-##### Artikel 54. Opzegging
+##### Article 54. Denunciation
 
-1. Iedere Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
+1. Any Contracting Party may denounce this Convention by so notifying the Secretary-General of the United Nations.
 
-2. De opzegging wordt van kracht vijftien maanden na de datum waarop de Secretaris-Generaal de kennisgeving van opzegging heeft ontvangen.
+2. Denunciation shall take effect fifteen months after the date of receipt by the Secretary-General of the notification of denunciation.
 
-3. De geldigheid van de carnets TIR die zijn ingeschreven door het douanekantoor van vertrek vóór de datum waarop de opzegging van kracht wordt, wordt niet beïnvloed door deze opzegging, en de garantie van de organisaties die zich garant hebben gesteld blijft bestaan overeenkomstig de in deze Overeenkomst vastgelegde voorwaarden.
+3. The validity of TIR carnets accepted by the Customs office of departure before the date when the denunciation takes effect shall not be affected thereby and the guarantee of the guaranteeing association shall hold good in accordance with the provisions of this Convention.
 
-##### Artikel 55. Beëindiging
+##### Article 55. Termination
 
-Indien na de inwerkingtreding van deze Overeenkomst het aantal Staten dat Overeenkomstsluitende Partij is, gedurende een tijdvak van twaalf achtereenvolgende maanden minder dan vijf bedraagt, zal deze Overeenkomst ophouden van kracht te zijn na het verstrijken van het bedoelde tijdvak van twaalf maanden.
+If, after the entry into force of this Convention, the number of States which are Contracting Parties is for any period of twelve consecutive months reduced to less than five, the Convention shall cease to have effect from the end of the twelve-month period.
 
-##### Artikel 56. Beëindiging van de TIR-Overeenkomst, 1959
+##### Article 56. Termination of the operation of the TIR Convention, 1959
 
-1. In de betrekkingen tussen de Partijen bij deze Overeenkomst, wordt de TIR-Overeenkomst, 1959, beëindigd en vervangen door de onderhavige Overeenkomst zodra deze in werking treedt.
+1. Upon its entry into force, this Convention shall terminate and replace, in relations between the Contracting Parties to this Convention, the TIR Convention, 1959.
 
-2. De certificaten van goedkeuring die voor wegvoertuigen en containers zijn afgegeven overeenkomstig de in de TIR-Overeenkomst, 1959 vastgelegde voorwaarden, worden, voor de periode waarin zij geldig zijn of gedurende de verlenging daarvan, voor het vervoer van goederen onder douaneverzegeling aanvaard door de Partijen bij deze Overeenkomst, mits deze voertuigen en containers blijven voldoen aan de voorwaarden op grond waarvan zij destijds zijn goedgekeurd.
+2. Certificates of approval issued in respect of road vehicles and containers under the conditions of the TIR Convention, 1959, shall be accepted during the period of their validity or any extension thereof for the transport of goods under Customs seal by Contracting Parties to this Convention, provided that such vehicles and containers continue to fulfil the conditions under which they were originally approved.
 
-##### Artikel 57. Regeling van geschillen
+##### Article 57. Settlement of disputes
 
-1. Ieder geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt voor zover mogelijk geregeld door middel van onderhandelingen tussen de betrokken Partijen of op een andere wijze.
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of this Convention shall, so far as possible, be settled by negotiation between them or other means of settlement.
 
-2. Ieder geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld op de wijze bedoeld in het eerste lid van dit artikel, wordt op verzoek van een van de partijen voorgelegd aan een scheidsgerecht dat als volgt wordt samengesteld: elk der bij het geschil betrokken partijen wijst een scheidsman aan en deze scheidsmannen wijzen nog een scheidsman aan die voorzitter zal zijn. Indien een van de partijen, drie maanden na hiertoe een verzoek te hebben ontvangen, geen scheidsman heeft aangewezen, of indien de scheidsmannen geen voorzitter hebben kunnen kiezen, kan een van deze partijen de Secretaris-Generaal van de Verenigde Naties verzoeken de scheidsman of de voorzitter van het scheidsgerecht aan te wijzen.
+2. Any dispute between two or more Contracting Parties concerning the interpretation or application of this Convention which cannot be settled by the means indicated in paragraph 1 of this article shall, at the request of one of them, be referred to an arbitration tribunal composed as follows:
 
-3. De beslissing van het scheidsgerecht, dat is samengesteld overeenkomstig het bepaalde in het tweede lid, is bindend voor alle bij het geschil betrokken partijen.
+each party to the dispute shall appoint an arbitrator and these arbitrators shall appoint another arbitrator, who shall be chairman. If, three months after receipt of a request, one of the parties has failed to appoint an arbitrator or if the arbitrators have failed to elect the chairman, any of the parties may request the Secretary-General of the United Nations to appoint an arbitrator or the chairman of the arbitration tribunal.
 
-4. Het scheidsgerecht stelt zijn eigen procedureregels vast.
+3. The decision of the arbitration tribunal established under the provisions of paragraph 2 shall be binding on the parties to the dispute.
 
-5. De beslissingen van het scheidsgerecht worden genomen met meerderheid van stemmen.
+4. The arbitration tribunal shall determine its own rules of procedure.
 
-6. ledere onenigheid die tussen de bij het geschil betrokken partijen zou kunnen ontstaan ten aanzien van de uitlegging en de uitvoering van de uitspraak van het scheidsgerecht, kan door een van de partijen ter beslissing worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan.
+5. Decisions of the arbitration tribunal shall be taken by majority vote.
 
-##### Artikel 58. Voorbehoud
+6. Any controversy which may arise between the parties to the dispute as regards the interpretation and execution of the award may be submitted by any of the parties for judgment to the arbitration tribunal which made the award.
 
-1. Iedere Staat kan bij ondertekening of bekrachtiging van dan wel bij toetreding tot deze Overeenkomst verklaren zich niet gebonden te achten door het bepaalde in [artikel 57, tweede t/m zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2025-06-01&g=2025-06-01), van deze Overeenkomst. De andere Overeenkomstsluitende Partijen zijn door het bepaalde in deze leden niet gebonden jegens iedere Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+##### Article 58. Reservations
 
-2. Iedere Overeenkomstsluitende Partij die een voorbehoud heeft gemaakt overeenkomstig het bepaalde in het eerste lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
+1. Any State may, at the time of signing, ratifying or acceding to this Convention, declare that it does not consider itself bound by [article 57, paragraphs 2 to 6](https://wetten.overheid.nl/BWBV0003523), of this Convention. Other Contracting Parties shall not be bound by these paragraphs in respect of any Contracting Party which has entered such a reservation.
 
-3. Met uitzondering van het voorbehoud bedoeld in het eerste lid van dit artikel, is geen enkel voorbehoud ten aanzien van deze Overeenkomst toegestaan.
+2. Any Contracting Party having entered a reservation as provided for in paragraph 1 of this article may at any time withdraw such reservation by notifying the Secretary-General of the United Nations.
 
-##### Artikel 58 bis. Commissie van beheer
+3. Apart from the reservations provided for in paragraph 1 of this article, no reservation to this Convention shall be permitted.
 
-Er wordt een Commissie van beheer ingesteld die is samengesteld uit alle Overeenkomstsluitende Partijen. De samenstelling, de taken en het reglement van orde van de Commissie van beheer worden uiteengezet in bijlage 8.
+##### Article 58 bis. Administrative Committee
 
-##### Artikel 58 ter. TIR Uitvoerend Comité
+An Administrative Committee composed of all the Contracting Parties shall be established. Its composition, functions and rules of procedure are set out in Annex 8.
 
-De Commissie van beheer stelt een TIR Uitvoerend Comité in als ondergeschikt orgaan dat namens haar de taken zal uitvoeren die haar door de Overeenkomst en door de Commissie van beheer worden opgedragen. De samenstelling, de taken en het reglement van orde van het TIR Uitvoerend Comité worden uiteengezet in [bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2025-06-01&g=2025-06-01).
+##### Article 58 ter. TIR Executive Board
 
-##### Artikel 59. Procedure van wijziging van deze Overeenkomst
+The Administrative Committee shall establish a TIR Executive Board as a subsidiary body which will, on its behalf, fulfil the tasks entrusted to it by the Convention and by the Committee. Its composition functions and rules of procedure are set out in [Annex 8](https://wetten.overheid.nl/BWBV0003523).
 
-1. Deze Overeenkomst, met inbegrip van de bijlagen, kan worden gewijzigd op voorstel van een Overeenkomstsluitende Partij overeenkomstig de procedure waarin dit artikel voorziet.
+##### Article 58 quater. Technical Implementation Body
 
-2. Behoudens het bepaalde in [artikel 60 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60_bis&z=2025-06-01&g=2025-06-01) wordt iedere op deze Overeenkomst voorgestelde wijziging onderzocht door het Administratief Comité dat is samengesteld uit alle Overeenkomstsluitende Partijen overeenkomstig het in [Bijlage 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2025-06-01&g=2025-06-01) opgenomen reglement van orde. Iedere wijziging van die aard, die is onderzocht of voorbereid tijdens de bijeenkomst van het Administratief Comité en door dit comité is aangenomen met een meerderheid van twee derde van de aanwezige leden die hun stem uitbrengen, wordt door de Secretaris-generaal van de Verenigde Naties aan de Overeenkomstsluitende Partijen voor aanvaarding meegedeeld.
+A Technical Implementation Body shall be established. Its composition, functions and rules of procedure are set out in [Annex 11](https://wetten.overheid.nl/BWBV0003523).
 
-3. Behoudens het bepaalde in de [artikelen 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2025-06-01&g=2025-06-01) en [60 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60_bis&z=2025-06-01&g=2025-06-01) treedt iedere voorgestelde wijziging die overeenkomstig het voorgaande lid is meegedeeld, voor alle Overeenkomstsluitende Partijen in werking drie maanden na de periode van twaalf maanden volgende op de datum waarop de mededeling is gedaan, tenzij een Staat die Overeenkomstsluitende Partij is, in die periode bij de Secretaris-generaal van de Verenigde Naties bezwaar tegen de voorgestelde wijziging heeft gemaakt.
+##### Article 59. Procedure for amending this Convention
 
-4. Indien overeenkomstig lid 3 van dit artikel bezwaar is gemaakt tegen de voorgestelde wijziging, wordt de wijziging geacht niet te zijn aanvaard en wordt deze niet van kracht.
+1. This Convention, including its Annexes, may be amended upon the proposal of a Contracting Party by the procedure specified in this Article.
 
-##### Artikel 60. Bijzondere procedure voor het wijzigen van de Bijlagen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2025-06-01&g=2025-06-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2025-06-01&g=2025-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2025-06-01&g=2025-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2025-06-01&g=2025-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2025-06-01&g=2025-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2025-06-01&g=2025-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2025-06-01&g=2025-06-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2025-06-01&g=2025-06-01) en 10
+2. Except as provided for under [Articles 60 bis](https://wetten.overheid.nl/BWBV0003523), any proposed amendment to this Convention shall be considered by the Administrative Committee composed of all the Contracting Parties in accordance with the rules of procedure set out in [Annex 8](https://wetten.overheid.nl/BWBV0003523). Any such amendment considered or prepared during the meeting of the Administrative Committee and adopted by it by a two-thirds majority of the members present and voting shall be communicated by the Secretary-General of the United Nations to the Contracting Parties for their acceptance.
 
-1. Iedere op de Bijlagen 1, [2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=2&z=2025-06-01&g=2025-06-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=3&z=2025-06-01&g=2025-06-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=4&z=2025-06-01&g=2025-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=5&z=2025-06-01&g=2025-06-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=6&z=2025-06-01&g=2025-06-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=7&z=2025-06-01&g=2025-06-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&z=2025-06-01&g=2025-06-01), 9 en 10 voorgestelde wijziging die is onderzocht overeenkomstig [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2025-06-01&g=2025-06-01), eerste en tweede lid, treedt in werking op een datum die door de Commissie van Beheer zal worden vastgesteld op het tijdstip waarop de wijziging wordt aangenomen, tenzij op een tegelijkertijd door de Commissie van Beheer vast te stellen eerdere datum een vijfde van de Staten die Overeenkomstsluitende Partij zijn of vijf Staten die Overeenkomstsluitende Partij zijn, al naar gelang welk aantal lager is, de Secretaris-Generaal van de Verenigde Naties ervan in kennis hebben gesteld dat zij bezwaar maken tegen de wijziging. De in dit lid bedoelde data worden door de Commissie van Beheer vastgesteld met een meerderheid van twee derde van haar aanwezige leden die hun stem uitbrengen.
+3. Except as provided for under [Articles 60](https://wetten.overheid.nl/BWBV0003523) and [60 bis](https://wetten.overheid.nl/BWBV0003523), any proposed amendment communicated in accordance with the preceding paragraph shall come into force with respect to all Contracting Parties three months after the expiry of a period of twelve months following the date of communication of the proposed amendment during which period no objection to the proposed amendment has been communicated to the Secretary-General of the United Nations by a State which is a Contracting Party.
 
-2. Een wijziging die is aangenomen overeenkomstig de procedure bedoeld in het eerste lid hierboven, treedt, zodra zij van kracht wordt, voor alle Overeenkomstsluitende Partijen in de plaats van de vroegere bepaling of bepalingen waarop zij betrekking heeft.
+4. If an objection to the proposed amendment has been communicated in accordance with paragraph 3 of this Article, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-##### Artikel 61. Verzoeken, mededelingen en bezwaren
+##### Article 60. Special procedure for amending Annexes 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10
 
-De Secretaris-generaal van de Verenigde Naties geeft alle Overeenkomstsluitende Partijen en alle Staten bedoeld in [artikel 52, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), van deze Overeenkomst kennis van ieder verzoek, mededeling of bezwaar overeenkomstig de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2025-06-01&g=2025-06-01), [60](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60&z=2025-06-01&g=2025-06-01) en [60 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60_bis&z=2025-06-01&g=2025-06-01) alsook van het tijdstip waarop een wijziging in werking treedt.
+1. Any proposed amendment to [Annexes 1](https://wetten.overheid.nl/BWBV0003523), [2](https://wetten.overheid.nl/BWBV0003523), [3](https://wetten.overheid.nl/BWBV0003523), [4](https://wetten.overheid.nl/BWBV0003523), [5](https://wetten.overheid.nl/BWBV0003523), [6](https://wetten.overheid.nl/BWBV0003523), [7](https://wetten.overheid.nl/BWBV0003523), [8](https://wetten.overheid.nl/BWBV0003523), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2025-06-01&g=2025-06-01) and [10](https://wetten.overheid.nl/BWBV0003523) considered in accordance with [paragraphs land 2 of Article 59](https://wetten.overheid.nl/BWBV0003523) shall come into force on a date to be determined by the Administrative Committee at the time of its adoption, unless by a prior date determined by the Administrative Committee at the same time, one-fifth or five of the States which are Contracting Parties, whichever number is less, notify the Secretary-General of the United Nations of their objection to the amendment. Determination by the Administrative Committee of dates referred to in this paragraph shall be by a two-thirds majority of those present and voting.
 
-##### Artikel 62. Herzieningsconferentie
+2. On entry into force, any amendment adopted in accordance with the procedures set out in paragraph 1 above shall for all Contracting Parties replace and supersede any previous provisions to which the amendment refers.
 
-1. Iedere Staat die Overeenkomstsluitende Partij is, kan door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verzoeken om bijeenroeping van een conferentie met het doel deze Overeenkomst te herzien.
+##### Article 60 bis. Special procedure for the entry into force of Annex 11 and amendments thereto
 
-2. Een herzieningsconferentie, waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), bedoelde Staten worden uitgenodigd, wordt bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties indien, binnen zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties de kennisgeving heeft verzonden, ten minste een vierde van de Staten die Overeenkomstsluitende Partij zijn hem mededelen dat zij met het verzoek instemmen.
+1. [Annex 11](https://wetten.overheid.nl/BWBV0003523), considered in accordance with [paragraphs 1 and 2 of Article 59](https://wetten.overheid.nl/BWBV0003523) shall come into force with respect to all Contracting Parties three months after the expiry of a period of twelve months following the date of communication by the Secretary- General of the United Nations to the Contracting Parties, except for those Contracting Parties that have notified the Secretary-General in writing, within the aforementioned period of three months of their non-acceptance of Annex 11. Annex 11 shall enter into force for Contracting Parties which withdraw their notification of non-acceptance six months after the date on which withdrawal of such notification has been received by the depositary.
 
-3. Een herzieningsconferentie waarvoor alle Overeenkomstsluitende Partijen en alle in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), bedoelde Staten worden uitgenodigd, wordt eveneens bijeengeroepen door de Secretaris-Generaal van de Verenigde Naties nadat de Commissie van beheer hiertoe een verzoek heeft ingediend. Het besluit een dergelijk verzoek in te dienen, wordt door de Commissie van beheer genomen met een meerderheid van haar aanwezige leden die hun stem uitbrengen.
+2. Any proposed amendment to [Annex 11](https://wetten.overheid.nl/BWBV0003523) shall be considered by the Administrative Committee. Such amendments shall be adopted by a majority of the Contracting Parties bound by Annex 11 present and voting.
 
-4. Indien een conferentie wordt bijeengeroepen in toepassing van het bepaalde in het eerste of het derde lid van dit artikel, doet de Secretaris-Generaal van de Verenigde Naties hiervan alle Overeenkomstsluitende Partijen mededeling en nodigt hen uit om binnen een termijn van drie maanden de voorstellen in te dienen die zij aan de conferentie zouden willen voorleggen. De Secretaris-Generaal van de Verenigde Naties doet alle Overeenkomstsluitende Partijen een voorlopige agenda van de conferentie alsmede de tekst van bedoelde voorstellen toekomen ten minste drie maanden voordat de conferentie wordt geopend.
+3. Amendments to [Annex 11](https://wetten.overheid.nl/BWBV0003523) considered and adopted in accordance with paragraph 2 of this Article shall be communicated by the Secretary-General of the United Nations to all Contracting Parties for information or, for those Contracting Parties bound by Annex 11, acceptance.
 
-##### Artikel 63. Kennisgevingen
+4. The date of entry into force of such amendments shall be determined at the time of their adoption, by a majority of the Contracting Parties bound by [Annex 11](https://wetten.overheid.nl/BWBV0003523) present and voting.
 
-Behalve van de kennisgevingen en mededelingen bedoeld in de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=61&z=2025-06-01&g=2025-06-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=62&z=2025-06-01&g=2025-06-01), doet de Secretaris-Generaal van de Verenigde Naties alle in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01) bedoelde Staten kennisgeving van:
+5. Amendments shall enter into force in accordance with paragraph 4 of this Article unless by a prior date determined at the time of adoption, one-fifth or five of the States which are Contracting Parties bound by [Annex 11](https://wetten.overheid.nl/BWBV0003523), whichever number is less, notify the Secretary-General of their objection to the amendments.
 
-- a). de ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen krachtens [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01);
+6. On entry into force, any amendment adopted in accordance with the procedures set out in paragraphs 2 to 5 of this Article shall for all Contracting Parties bound by [Annex 11](https://wetten.overheid.nl/BWBV0003523) replace and supersede any previous provisions to which the amendment refers.
 
-- b). de data van inwerkingtreding van deze Overeenkomst krachtens [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=53&z=2025-06-01&g=2025-06-01);
+##### Article 61. Requests, communications and objections
 
-- c). de opzeggingen krachtens [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=54&z=2025-06-01&g=2025-06-01);
+The Secretary-General of the United Nations shall inform all Contracting Parties and all States referred to in [Article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523) of this Convention of any request, communication, or objection under [Articles 59](https://wetten.overheid.nl/BWBV0003523), [60](https://wetten.overheid.nl/BWBV0003523) and [60 bis](https://wetten.overheid.nl/BWBV0003523) above and of the date on which any amendment enters into force.
 
-- d). de beëindiging van deze Overeenkomst krachtens [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=55&z=2025-06-01&g=2025-06-01);
+##### Article 62. Review Conference
 
-- e). elk voorbehoud dat is gemaakt krachtens [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58&z=2025-06-01&g=2025-06-01).
+1. Any State which is a Contracting Party may, by notification to the Secretary-General of the United Nations, request that a conference be convened for the purpose of reviewing this Convention.
 
-##### Artikel 64. Authentieke tekst
+2. A review conference to which all Contracting Parties and all States referred to in [article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523), shall be invited, shall be convened by the Secretary-General of the United Nations if, within a period of six months following the date of notification by the Secretary-General, not less than one-fourth of the States which are Contracting Parties notify him of their concurrence with the request.
 
-Na 31 december 1976 wordt het originele exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die hiervan voor eensluidend gewaarmerkte afschriften doet toekomen aan iedere Overeenkomstsluitende Partij alsmede aan iedere Staat bedoeld in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), die geen Overeenkomstsluitende Partij is.
+3. A review conference to which all Contracting Parties and all States referred to in [article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523), shall be invited shall also be convened by the Secretary-General of the United Nations upon notification of a request by the Administrative Committee. The Administrative Committee shall make a request if agreed to by a majority of those present and voting in the Committee.
 
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN DE COMMISSIE VAN BEHEER
+4. If a conference is convened in pursuance of paragraphs 1 or 3 of this article, the Secretary-General of the United Nations shall so advise all the Contracting Parties and invite them to submit, within a period of three months, the proposals which they wish the conference to consider. The Secretary-General of the United Nations shall circulate to all Contracting Parties the provisional agenda for the conference, together with the texts of such proposals, at least three months before the date on which the conference is to meet.
 
-##### Artikel 1
+##### Article 63. Notifications
 
-i. De Overeenkomstsluitende Partijen zijn lid van de Commissie van Beheer.
+In addition to the notifications and communications provided for in [articles 61](https://wetten.overheid.nl/BWBV0003523) and [62](https://wetten.overheid.nl/BWBV0003523), the Secretary-General of the United Nations shall notify all the States referred to in [article 52](https://wetten.overheid.nl/BWBV0003523) of the following:
 
-ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2006-04-01&g=2006-04-01), van deze Overeenkomst bedoelde Staten die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties haar zittingen als waarnemers kunnen bijwonen voor aangelegenheden die hun aangaan.
+- (a) signatures, ratifications, acceptances, approvals and accessions under [article 52](https://wetten.overheid.nl/BWBV0003523);
 
-##### Artikel 1 bis
+- (b) the dates of entry into force of this Convention in accordance with [article 53](https://wetten.overheid.nl/BWBV0003523);
 
-1. De Commissie onderzoekt ieder voorstel tot wijziging van de Overeenkomst overeenkomstig [artikel 59, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2025-06-01&g=2025-06-01).
+- (c) denunciations under [article 54](https://wetten.overheid.nl/BWBV0003523);
 
-2. De Commissie ziet toe op de naleving van de Overeenkomst en onderzoekt alle maatregelen die ingevolge de Overeenkomst worden genomen door de Overeenkomstsluitende Partijen, door de organisaties en door de internationale organisaties, en onderzoekt of deze maatregelen in overeenstemming zijn met de Overeenkomst.
+- (d) the termination of this Convention under [article 55](https://wetten.overheid.nl/BWBV0003523);
 
-3. De Commissie houdt, door tussenkomst van het TIR Uitvoerend Comité, toezicht op de toepassing van de Overeenkomst op nationaal en internationaal niveau en levert hierbij ondersteuning.
+- (e) reservations under [article 58](https://wetten.overheid.nl/BWBV0003523).
 
-4. De Commissie ontvangt en onderzoekt de door de accountant gecontroleerde jaarrekeningen en het (de) accountantsverslag(en) die door de internationale organisatie ingevolge de verplichtingen uit hoofde van [Bijlage 9, Deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=III&z=2025-06-01&g=2025-06-01), zijn ingediend. De Commissie kan tijdens en binnen de reikwijdte van het onderzoek de internationale organisatie of de onafhankelijke externe accountant om aanvullende informatie, verduidelijking of documenten vragen.
+##### Article 64. Authentic text
 
-5. Onverminderd het in het vierde lid genoemde onderzoek, heeft de Commissie het recht, op basis van een risicobeoordeling, aanvullende onderzoeken te verlangen. De Commissie geeft het TIR Uitvoerend Comité opdracht de risicobeoordeling uit te voeren of vraagt de bevoegde diensten van de Verenigde Naties dit te doen.
-
-De reikwijdte van de aanvullende onderzoeken wordt bepaald door de Commissie, rekening houdend met de risicobeoordeling door het TIR Uitvoerend Comité of de bevoegde diensten van de Verenigde Naties.
-
-De resultaten van alle in dit artikel bedoelde onderzoeken worden door het TIR Uitvoerend Comité bewaard en ter overweging aan alle Overeenkomstsluitende Partijen verstrekt.
-
-6. De procedure voor het uitvoeren van de aanvullende onderzoeken moet door de Commissie worden goedgekeurd.
-
-##### Artikel 2
-
-De Secretaris-Generaal van de Verenigde Naties verleent de Commissie secretariaatsdiensten.
-
-##### Artikel 3
-
-De Commissie kiest ieder jaar in haar eerste zitting haar voorzitter en haar vice-voorzitter.
-
-##### Artikel 4
-
-De Commissie wordt ieder jaar, en telkens wanneer hiertoe een verzoek wordt ingediend door de bevoegde administraties van ten minste vijf Staten die Overeenkomstsluitende Partij zijn, door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen onder auspiciën van de Europese Commissie voor Europa.
-
-##### Artikel 5
-
-Voorstellen worden in stemming gebracht. Iedere Staat die Overeenkomstsluitende Partij is en die op de zitting is vertegenwoordigd, beschikt over één stem. Voorstellen die geen wijzigingen op deze Overeenkomst betreffen, worden door de Commissie aangenomen met een meerderheid van stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen. Wijzigingen op deze Overeenkomst, alsmede de besluiten bedoeld in de artikelen 59 en 60 van deze Overeenkomst, worden aangenomen met een meerderheid van twee derde van de stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 6
-
-Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de Staten die Overeenkomstsluitende Partij zijn.
-
-##### Artikel 7
-
-De Commissie neemt haar verslag aan voordat haar zitting wordt gesloten.
-
-##### Artikel 8
-
-Indien in deze bijlage ter zake dienende bepalingen ontbreken, is het reglement van orde van de Economische Commissie voor Europa van toepassing tenzij de Commissie van Beheer anders bepaalt.
-
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN HET TIR UITVOEREND COMITÉ
-
-##### Artikel 9
-
-1. Het ingevolge [artikel 58 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58_ter&z=2006-04-01&g=2006-04-01) door de Commissie van Beheer in het leven geroepen TIR Uitvoerend Comité bestaat uit negen leden van verschillende Overeenkomstsluitende Partijen. De Secretaris van de TIR-Overeenkomst woont de zittingen van de Controlecommissie bij.
-
-2. De leden van het TIR Uitvoerend Comité worden gekozen met een meerderheid van stemmen van de aanwezige leden van de Commissie van Beheer die hun stem uitbrengen. De ambtstermijn van elk van de leden van het TIR Uitvoerend Comité is twee jaar. De leden van het TIR Uitvoerend Comité zijn herkiesbaar. Het mandaat van het TIR Uitvoerend Comité wordt opgesteld door de Commissie van Beheer.
-
-##### Artikel 10
-
-Het TIR Uitvoerend Comité:
-
-- a. houdt toezicht op de toepassing van de Overeenkomst, met inbegrip van het functioneren van het garantstellingssysteem, en verricht de taken die haar door de Commissie van Beheer worden toevertrouwd;
-
-- b. houdt toezicht op het centraal drukken en de centrale afgifte van carnets TIR aan organisaties; deze taak kan worden uitgevoerd door een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2006-04-01&g=2006-04-01) bedoelde erkende internationale organisatie.
-
-- c. coördineert en bevordert de uitwisseling van vertrouwelijke gegevens en andere informatie tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
-
-- d. coördineert en bevordert de uitwisseling van gegevens tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, de organisaties en de internationale organisaties;
-
-- e. vergemakkelijkt de beslechting van geschillen tussen de Overeenkomstsluitende Partijen, de organisaties, de verzekeringsmaatschappijen en de internationale organisaties, onverminderd het in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2006-04-01&g=2006-04-01) ten aanzien van de regeling van geschillen bepaalde;
-
-- f. ondersteunt de opleiding van het personeel van de douaneautoriteiten en de andere betrokken partijen bij de TIR-regeling;
-
-- g. houdt een centraal register bij voor de verspreiding, aan de Overeenkomstsluitende Partijen, van de gegevens die door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2006-04-01&g=2006-04-01) bedoelde internationale organisaties worden verschaft betreffende alle door de organisaties voorgeschreven regels en procedures voor de afgifte van carnets TIR, voor zover deze betrekking hebben op de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2006-04-01&g=2006-04-01) bedoelde minimumvoorwaarden en -eisen;
-
-- h. houdt toezicht op de prijs van de carnets TIR.
-
-##### Artikel 11
-
-1. De Secretaris van de TIR-Overeenkomst roept op verzoek van de Commissie van Beheer of van ten minste drie leden van het TIR Uitvoerend Comité een zitting van het TIR Uitvoerend Comité bijeen.
-
-2. Het TIR Uitvoerend Comité stelt alles in het werk om beslissingen bij consensus te nemen. Indien geen consensus kan worden bereikt, wordt over de beslissingen gestemd en worden deze aangenomen met een meerderheid van de aanwezige leden die hun stem uitbrengen. Voor het nemen van beslissingen is het quorum vijf leden. De Secretaris van de TIR-Overeenkomst heeft geen stem.
-
-3. Het TIR Uitvoerend Comité kiest een voorzitter en kan aanvullingen op het reglement van orde aannemen.
-
-4. Ten minste eenmaal per jaar of op verzoek van de Commissie van Beheer brengt het TIR Uitvoerend Comité over zijn activiteiten verslag uit aan de Commissie van Beheer, aan wie hij eveneens een gecontroleerde jaarrekening voorlegt. Het TIR Uitvoerend Comité wordt in de Commissie van Beheer vertegenwoordigd door zijn voorzitter.
-
-5. Het TIR Uitvoerend Comité bestudeert alle informatie en alle vragen die haar worden toegezonden door de Commissie van Beheer, de Overeenkomstsluitende Partijen, de Secretaris van de TIR-Overeenkomst, de nationale organisaties en de in artikel 6 van de Overeenkomst bedoelde internationale organisaties. Deze internationale organisaties hebben het recht om de zittingen van het TIR Uitvoerend Comité bij te wonen als waarnemer, tenzij de Voorzitter anders bepaalt. Indien nodig kan elke andere organisatie, op uitnodiging van de Voorzitter, als waarnemer de zittingen van het TIR Uitvoerend Comité bijwonen.
-
-##### Artikel 12
-
-De Secretaris van de TIR-Overeenkomst is lid van het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties. Hij geeft uitvoering aan de besluiten van het TIR Uitvoerend Comité in het kader van het mandaat van het TIR Uitvoerend Comité. De Secretaris van de TIR-Overeenkomst wordt bijgestaan door een TIR-Secretariaat waarvan de omvang door de Commissie van Beheer wordt vastgesteld.
-
-##### Artikel 13
-
-1. In afwachting van de verkrijging van andere financieringsbronnen worden de activiteiten van het TIR Uitvoerend Comité en van het TIR-Secretariaat gefinancierd uit een heffing op elk carnet TIR dat door de in artikel 6 bedoelde internationale organisatie wordt afgegeven.
-
-2. Het bedrag van de heffing en de procedure voor de inning daarvan worden door de Commissie van Beheer vastgelegd na overleg met de in artikel 6 bedoelde internationale organisatie. Elk voorstel tot wijziging van deze heffing behoeft de goedkeuring van de Commissie van Beheer.
-
-## Deel I. BEVOEGDVERKLARING VAN DE ORGANISATIES TOT HET AFGEVEN VAN CARNETS TIR
-
-##### Minimumvoorwaarden en -eisen
-
-1. De personen die toegang wensen te verkrijgen tot de TIR-regeling, dienen te voldoen aan de volgende minimumvoorwaarden en -eisen:
-
-- a. Aantoonbare ervaring met of, ten minste, geschiktheid voor het regelmatig verrichten van internationaal vervoer (houder van een vergunning voor internationaal vervoer, enzovoort).
-
-- b. Gezonde financiële situatie.
-
-- c. Aantoonbare kennis op het gebied van de toepassing van de TIR-Overeenkomst.
-
-- d. Geen ernstige of herhaalde overtredingen van de douane- of belastingwetten.
-
-- e. Een schriftelijke verbintenis ten opzichte van de organisatie, dat de persoon:
-
-- i. alle ingevolge de Overeenkomst verlangde douaneformaliteiten vervult bij de douanekantoren van vertrek, doorgang en bestemming;
-
-- ii. de ingevolge artikel 8, eerste en tweede lid, van de Overeenkomst, verschuldigde bedragen betaalt, indien de bevoegde autoriteiten dit eisen, overeenkomstig artikel 8, zevende lid, van de Overeenkomst;
-
-- iii. voor zover de nationale wetgeving dit toelaat, de organisaties toestaat de gegevens met betrekking tot de hierboven genoemde minimumvoorwaarden en -eisen te verifiëren.
-
-2. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen en de organisaties zelf kunnen aanvullende en meer beperkende voorwaarden en eisen invoeren voor de toegang tot de TIR-regeling, tenzij de bevoegde autoriteiten anders bepalen.
-
-## Deel II. BEVOEGDVERKLARING VAN NATUURLIJKE PERSONEN EN RECHTSPERSONEN TOT HET GEBRUIK VAN CARNETS TIR
-
-##### Minimumvoorwaarden en -eisen
-
-1. De personen die toegang wensen te verkrijgen tot de TIR-regeling, dienen te voldoen aan de volgende minimumvoorwaarden en -eisen:
-
-- a. Aantoonbare ervaring met of, ten minste, geschiktheid voor het regelmatig verrichten van internationaal vervoer (houder van een vergunning voor internationaal vervoer, enzovoort).
-
-- b. Gezonde financiële situatie.
-
-- c. Aantoonbare kennis op het gebied van de toepassing van de TIR-Overeenkomst.
-
-- d. Geen ernstige of herhaalde overtredingen van de douane- of belastingwetten.
-
-- e. Een schriftelijke verbintenis ten opzichte van de organisatie, dat de persoon:
-
-- i. alle ingevolge de Overeenkomst verlangde douaneformaliteiten vervult bij de douanekantoren van vertrek, doorgang en bestemming;
-
-- ii. de ingevolge artikel 8, eerste en tweede lid, van de Overeenkomst, verschuldigde bedragen betaalt, indien de bevoegde autoriteiten dit eisen, overeenkomstig artikel 8, zevende lid, van de Overeenkomst;
-
-- iii. voor zover de nationale wetgeving dit toelaat, de organisaties toestaat de gegevens met betrekking tot de hierboven genoemde minimumvoorwaarden en -eisen te verifiëren.
-
-2. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen en de organisaties zelf kunnen aanvullende en meer beperkende voorwaarden en eisen invoeren voor de toegang tot de TIR-regeling, tenzij de bevoegde autoriteiten anders bepalen.
-
-##### Procedure
-
-3. De Overeenkomstsluitende Partijen besluiten, in overeenstemming met de nationale wetgeving, welke procedures moeten worden gevolgd om toegang te verkrijgen tot de TIR-regeling op basis van de in het eerste en tweede lid bedoelde minimumvoorwaarden en -eisen.
-
-4. Overeenkomstig het standaardmodel van het bevoegdverklaringsformulier (SBF) doen de bevoegde autoriteiten onverwijld, te rekenen vanaf de datum van bevoegdverklaring of van de intrekking van de bevoegdverklaring om carnets TIR te gebruiken, de van iedere persoon verlangde gegevens aan het TIR Uitvoerend Comité toekomen.
-
-5. De organisaties sturen elke wijziging in de gegevens over gemachtigde personen onverwijld door aan de bevoegde autoriteiten en het TIR-Uitvoerend Orgaan, zodra ze daarvan kennis hebben gekregen.
-
-6. De bevoegdverklaring om toe te treden tot de TIR-regeling houdt op zichzelf geen recht in op de verkrijging van carnets TIR bij de organisaties.
-
-7. De bevoegdverklaring van een persoon om carnets TIR te gebruiken in overeenstemming met de hierboven bedoelde minimumvoorwaarden en -eisen laat de verantwoordelijkheden en verplichtingen die krachtens de Overeenkomst op deze persoon rusten, onverlet.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Convention.
-
-DONE at Geneva, this fourteenth day of November one thousand nine hundred and seventy-five, in a single copy in the English, French and Russian languages, the three texts being equally authentic.
-
-##### Artikel 42 ter
-
-De bevoegde autoriteiten van de Overeenkomstsluitende Partijen dienen op passende wijze de bevoegd verklaarde organisaties de informatie te verstrekken die zij nodig hebben om aan de verplichtingen bedoeld in Bijlage 9, deel I, artikel 1, onderdeel f, onder iii, te voldoen.
-
-In Bijlage 10 wordt de informatie uiteengezet die in bijzondere gevallen dient te worden verstrekt.
-
-### Hoofdstuk V. TOELICHTING
-
-### Hoofdstuk VI. DIVERSE BEPALINGEN
-
-### Hoofdstuk VII. SLOTBEPALINGEN
-
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN DE COMMISSIE VAN BEHEER
-
-##### Artikel 1
-
-i. De Overeenkomstsluitende Partijen zijn lid van de Commissie van Beheer.
-
-ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2019-02-03&g=2019-02-03), van deze Overeenkomst bedoelde Staten die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties haar zittingen als waarnemers kunnen bijwonen voor aangelegenheden die hun aangaan.
-
-##### Artikel 2
-
-De Secretaris-Generaal van de Verenigde Naties verleent de Commissie secretariaatsdiensten.
-
-##### Artikel 3
-
-De Commissie kiest ieder jaar in haar eerste zitting haar voorzitter en haar vice-voorzitter.
-
-##### Artikel 4
-
-De Commissie wordt ieder jaar, en telkens wanneer hiertoe een verzoek wordt ingediend door de bevoegde administraties van ten minste vijf Staten die Overeenkomstsluitende Partij zijn, door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen onder auspiciën van de Europese Commissie voor Europa.
-
-##### Artikel 5
-
-Voorstellen worden in stemming gebracht. Iedere Staat die Overeenkomstsluitende Partij is en die op de zitting is vertegenwoordigd, beschikt over één stem. Voorstellen die geen wijzigingen op deze Overeenkomst betreffen, worden door de Commissie aangenomen met een meerderheid van stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen. Wijzigingen op deze Overeenkomst, alsmede de besluiten bedoeld in de artikelen 59 en 60 van deze Overeenkomst, worden aangenomen met een meerderheid van twee derde van de stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 6
-
-Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de Staten die Overeenkomstsluitende Partij zijn.
-
-##### Artikel 7
-
-De Commissie neemt haar verslag aan voordat haar zitting wordt gesloten.
-
-##### Artikel 8
-
-Indien in deze bijlage ter zake dienende bepalingen ontbreken, is het reglement van orde van de Economische Commissie voor Europa van toepassing tenzij de Commissie van Beheer anders bepaalt.
-
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN HET TIR UITVOEREND COMITÉ
-
-##### Artikel 9
-
-1. Het ingevolge [artikel 58 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58_ter&z=2019-02-03&g=2019-02-03) door de Commissie van Beheer in het leven geroepen TIR Uitvoerend Comité bestaat uit negen leden van verschillende Overeenkomstsluitende Partijen. De Secretaris van de TIR-Overeenkomst woont de zittingen van de Controlecommissie bij.
-
-2. De leden van het TIR Uitvoerend Comité worden gekozen met een meerderheid van stemmen van de aanwezige leden van de Commissie van Beheer die hun stem uitbrengen. De ambtstermijn van elk van de leden van het TIR Uitvoerend Comité is twee jaar. De leden van het TIR Uitvoerend Comité zijn herkiesbaar. Het mandaat van het TIR Uitvoerend Comité wordt opgesteld door de Commissie van Beheer.
-
-##### Artikel 10
-
-Het TIR Uitvoerend Comité:
-
-- a. houdt toezicht op de toepassing van de Overeenkomst, met inbegrip van het functioneren van het garantstellingssysteem, en verricht de taken die haar door de Commissie van Beheer worden toevertrouwd;
-
-- b. houdt toezicht op het centraal drukken en de centrale afgifte van carnets TIR aan organisaties; deze taak kan worden uitgevoerd door een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2019-02-03&g=2019-02-03) bedoelde erkende internationale organisatie.
-
-- c. coördineert en bevordert de uitwisseling van vertrouwelijke gegevens en andere informatie tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
-
-- d. coördineert en bevordert de uitwisseling van gegevens tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, de organisaties en de internationale organisaties;
-
-- e. vergemakkelijkt de beslechting van geschillen tussen de Overeenkomstsluitende Partijen, de organisaties, de verzekeringsmaatschappijen en de internationale organisaties, onverminderd het in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2019-02-03&g=2019-02-03) ten aanzien van de regeling van geschillen bepaalde;
-
-- f. ondersteunt de opleiding van het personeel van de douaneautoriteiten en de andere betrokken partijen bij de TIR-regeling;
-
-- g. houdt een centraal register bij voor de verspreiding, aan de Overeenkomstsluitende Partijen, van de gegevens die door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2019-02-03&g=2019-02-03) bedoelde internationale organisaties worden verschaft betreffende alle door de organisaties voorgeschreven regels en procedures voor de afgifte van carnets TIR, voor zover deze betrekking hebben op de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2019-02-03&g=2019-02-03) bedoelde minimumvoorwaarden en -eisen;
-
-- h. houdt toezicht op de prijs van de carnets TIR.
-
-##### Artikel 11
-
-1. De Secretaris van de TIR-Overeenkomst roept op verzoek van de Commissie van Beheer of van ten minste drie leden van het TIR Uitvoerend Comité een zitting van het TIR Uitvoerend Comité bijeen.
-
-2. Het TIR Uitvoerend Comité stelt alles in het werk om beslissingen bij consensus te nemen. Indien geen consensus kan worden bereikt, wordt over de beslissingen gestemd en worden deze aangenomen met een meerderheid van de aanwezige leden die hun stem uitbrengen. Voor het nemen van beslissingen is het quorum vijf leden. De Secretaris van de TIR-Overeenkomst heeft geen stem.
-
-3. Het TIR Uitvoerend Comité kiest een voorzitter en kan aanvullingen op het reglement van orde aannemen.
-
-4. Ten minste eenmaal per jaar of op verzoek van de Commissie van Beheer brengt het TIR Uitvoerend Comité over zijn activiteiten verslag uit aan de Commissie van Beheer, aan wie hij eveneens een gecontroleerde jaarrekening voorlegt. Het TIR Uitvoerend Comité wordt in de Commissie van Beheer vertegenwoordigd door zijn voorzitter.
-
-5. Het TIR Uitvoerend Comité bestudeert alle informatie en alle vragen die haar worden toegezonden door de Commissie van Beheer, de Overeenkomstsluitende Partijen, de Secretaris van de TIR-Overeenkomst, de nationale organisaties en de in artikel 6 van de Overeenkomst bedoelde internationale organisaties. Deze internationale organisaties hebben het recht om de zittingen van het TIR Uitvoerend Comité bij te wonen als waarnemer, tenzij de Voorzitter anders bepaalt. Indien nodig kan elke andere organisatie, op uitnodiging van de Voorzitter, als waarnemer de zittingen van het TIR Uitvoerend Comité bijwonen.
-
-##### Artikel 12
-
-De Secretaris van de TIR-Overeenkomst is lid van het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties. Hij geeft uitvoering aan de besluiten van het TIR Uitvoerend Comité in het kader van het mandaat van het TIR Uitvoerend Comité. De Secretaris van de TIR-Overeenkomst wordt bijgestaan door een TIR-Secretariaat waarvan de omvang door de Commissie van Beheer wordt vastgesteld.
-
-##### Artikel 13
-
-1. In afwachting van de verkrijging van andere financieringsbronnen worden de activiteiten van het TIR Uitvoerend Comité en van het TIR-Secretariaat gefinancierd uit een bedrag per carnet TIR dat door de in artikel 6 bedoelde internationale organisatie wordt afgegeven. Dit bedrag wordt door de Commissie van Beheer goedgekeurd.
-
-2. De procedure ter uitvoering van de financiering van de activiteiten van het TIR Uitvoerend Comité en van het TIR-Secretariaat wordt door de Commissie van Beheer goedgekeurd.
-
-## Deel I. BEVOEGDVERKLARING VAN DE ORGANISATIES TOT HET AFGEVEN VAN CARNETS TIR EN ZICH GARANT TE STELLEN
-
-## Deel I. BEVOEGDVERKLARING VAN DE ORGANISATIES TOT HET AFGEVEN VAN CARNETS TIR EN ZICH GARANT TE STELLEN
-
-##### Minimumvoorwaarden en -eisen
-
-1. De personen die toegang wensen te verkrijgen tot de TIR-regeling, dienen te voldoen aan de volgende minimumvoorwaarden en -eisen:
-
-- a. Aantoonbare ervaring met of, ten minste, geschiktheid voor het regelmatig verrichten van internationaal vervoer (houder van een vergunning voor internationaal vervoer, enzovoort).
-
-- b. Gezonde financiële situatie.
-
-- c. Aantoonbare kennis op het gebied van de toepassing van de TIR-Overeenkomst.
-
-- d. Geen ernstige of herhaalde overtredingen van de douane- of belastingwetten.
-
-- e. Een schriftelijke verbintenis ten opzichte van de organisatie, dat de persoon:
-
-- i. alle ingevolge de Overeenkomst verlangde douaneformaliteiten vervult bij de douanekantoren van vertrek, doorgang en bestemming;
-
-- ii. de ingevolge artikel 8, eerste en tweede lid, van de Overeenkomst, verschuldigde bedragen betaalt, indien de bevoegde autoriteiten dit eisen, overeenkomstig artikel 8, zevende lid, van de Overeenkomst;
-
-- iii. voor zover de nationale wetgeving dit toelaat, de organisaties toestaat de gegevens met betrekking tot de hierboven genoemde minimumvoorwaarden en -eisen te verifiëren.
-
-2. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen en de organisaties zelf kunnen aanvullende en meer beperkende voorwaarden en eisen invoeren voor de toegang tot de TIR-regeling, tenzij de bevoegde autoriteiten anders bepalen.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Convention.
-
-DONE at Geneva, this fourteenth day of November one thousand nine hundred and seventy-five, in a single copy in the English, French and Russian languages, the three texts being equally authentic.
-
-##### Voorwaarden en eisen
-
-1. Teneinde door de Overeenkomstsluitende Partijen bevoegd te worden verklaard tot de afgifte van carnets TIR en zich garant te stellen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01) van de Overeenkomst, moet een organisatie voldoen aan de hieronder genoemde voorwaarden en eisen:
-
-- a. Aantonen dat zij gedurende ten minste een jaar als organisatie gevestigd is in de Overeenkomstsluitende Partij waar de vergunning wordt afgegeven.
-
-- b. Aantonen dat haar financiële situatie solide is en dat de organisatie over de organisatorische middelen beschikt die haar in staat stellen aan de verplichtingen te voldoen die ingevolge deze Overeenkomst op haar rusten.
-
-- c. Geen ernstige of herhaalde overtredingen van de douane- of belastingwetten hebben begaan.
-
-- d. Opstelling van een schriftelijke overeenkomst of een ander juridisch instrument tussen de organisatie en de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd met inbegrip van de aanvaarding door de organisatie van haar taken vervat in het derde lid.
-
-2. Een voor eensluidend gewaarmerkt afschrift van de schriftelijke overeenkomst of een ander juridisch instrument bedoeld in het eerste lid, letter d, eventueel vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch, dient te worden nedergelegd bij het TIR Uitvoerend Comité. Elke wijziging wordt onmiddellijk onder de aandacht gebracht van het TIR Uitvoerend Comité.
-
-3. De taken van de organisatie zijn als volgt:
-
-- i. nakomen van de in [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2017-01-01&g=2017-01-01) vastgelegde verplichtingen;
-
-- ii. aanvaarden van het door de Overeenkomstsluitende Partijen bepaalde maximumbedrag per carnet TIR dat men in overeenstemming met [artikel 8, derde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2017-01-01&g=2017-01-01) van de organisatie kan vorderen;
-
-- iii. zorgdragen voor de voortdurende verificatie, in het bijzonder voordat verzocht wordt om autorisatie voor toelating van personen tot de TIR-procedure, van de naleving van de minimumvoorwaarden en -eisen vervat in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2017-01-01&g=2017-01-01) van deze Bijlage;
-
-- iv. zich garant stellen voor alle mogelijke aansprakelijkheden in het land waarin zij gevestigd is, ter zake van activiteiten die plaatsvinden onder dekking van carnets TIR die zij zelf heeft afgegeven en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten;
-
-- v. zich naar tevredenheid van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd verzekeren tegen aansprakelijkheid bij een verzekeringsmaatschappij, een groep van verzekeraars of een financiële instelling. De verzekeringsovereenkomst of de overeenkomst(en) ten behoeve van de financiële zekerheid dient (dienen) alle aansprakelijkheden te dekken ter zake van activiteiten onder dekking van carnets TIR afgegeven door haarzelf en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten; De opzegtermijn voor de overeenkomst ter zake van de verzekering of financiële zekerheid mag niet korter zijn dan die voor de beëindiging van de schriftelijke overeenkomst of een ander juridisch instrument zoals bedoeld in het eerste lid, letter d. Een voor eensluidend gewaarmerkt afschrift van de overeenkomst(en) ter zake van de verzekering of financiële zekerheid alsmede van alle latere wijzigingen daarvan wordt ingediend bij het TIR Uitvoerend Comité, indien nodig vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch;
-
-- vi. het TIR Uitvoerend Comité ieder jaar vóór 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;
-
-- vii. de bevoegde autoriteiten in staat stellen alle stukken en rekeningen te controleren die verband houden met de administratie van de TIR-procedure;
-
-- viii. een procedure aanvaarden voor het doeltreffend en zoveel mogelijk buitengerechtelijk beslechten van geschillen die voortvloeien uit ondeugdelijk of frauduleus gebruik van carnets TIR;
-
-- ix. strikt naleven van de beslissingen van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij gevestigd is ter zake van de intrekking of opschorting van de vergunning overeenkomstig [artikel 6 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2017-01-01&g=2017-01-01) en [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2017-01-01&g=2017-01-01) van deze Bijlage of de uitsluiting van personen overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2017-01-01&g=2017-01-01) van de Overeenkomst;
-
-- x. ermee instemmen alle door de Commissie van Beheer en het TIR Uitvoerend Comité genomen beslissingen nauwgezet uit te voeren voor zover de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar de organisatie gevestigd is deze hebben aanvaard.
-
-4. Indien een organisatie die zich garant stelt verzocht wordt in overeenstemming met de procedure vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=11&z=2017-01-01&g=2017-01-01), de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2017-01-01&g=2017-01-01), bedoelde bedragen te betalen, stelt zij in overeenstemming met de schriftelijke overeenkomst bedoeld in de toelichtende noot 0.6.2bis-1 bij artikel 6, tweede lid, bis, de internationale organisatie in kennis van ontvangst van de vordering.
-
-5. De Overeenkomstsluitende Partij waar de organisatie gevestigd is trekt de bevoegdheid tot het afgeven van carnets TIR en zich garant te stellen in wanneer niet aan deze voorwaarden en eisen wordt voldaan. Indien een Overeenkomstsluitende Partij besluit tot intrekking van de bevoegdheid, wordt dit besluit niet eerder van kracht dan drie (3) maanden na de datum van intrekking.
-
-6. De bevoegdverklaring van een organisatie onder de hierboven genoemde voorwaarden doet geen afbreuk aan de verantwoordelijkheden en verplichtingen die deze organisatie heeft op grond van de Overeenkomst.
-
-7. De hieronder genoemde voorwaarden en eisen doen geen afbreuk aan de door de Overeenkomstsluitende Partijen mogelijk voor te schrijven aanvullende voorwaarden en eisen.
-
-## Deel III. Bevoegdverklaring van een internationale organisatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2019-02-03&g=2019-02-03) teneinde de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven.
-
-##### Voorwaarden en vereisten
-
-1. De voorwaarden en vereisten waaraan een internationale organisatie moet voldoen teneinde in overeenstemming met [artikel 6, tweede lid bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01), van de Overeenkomst door de Commissie van Beheer bevoegd te worden verklaard de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven zijn als volgt:
-
-- a. De gedegen professionele bekwaamheid en financiële situatie ten behoeve van de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en de organisatorische capaciteiten om aan de verplichtingen uit hoofde van de Overeenkomst te kunnen voldoen worden aangetoond door het jaarlijks overleggen van geconsolideerde jaarrekeningen die naar behoren zijn gecontroleerd door internationaal erkende onafhankelijke accountants;
-
-- b. Afwezigheid van ernstige of herhaalde inbreuken op de douane- of belastingwetgeving.
-
-2. Overeenkomstig de bevoegdverklaring moet de internationale organisatie:
-
-- a. de Overeenkomstsluitende Partijen bij de TIR-Overeenkomst via de nationale organisaties die bij de internationale organisatie zijn aangesloten gewaarmerkte afschriften van de algemene garantieovereenkomst en een bewijs van dekking door de garantie verstrekken;
-
-- b. de bevoegde organen van de TIR-Overeenkomst informatie verstrekken over de vastgestelde regels en procedures voor de afgifte van carnets TIR door nationale organisaties;
-
-- c. de bevoegde organen van de TIR-Overeenkomst jaarlijks gegevens verstrekken over vorderingen die zijn ingediend, in behandeling zijn, zijn betaald of zonder betaling zijn geschikt;
-
-- d. de bevoegde organen van de TIR-Overeenkomst alle en volledige informatie verstrekken over de werking van het TIR-systeem en in het bijzonder, maar niet beperkt tot, tijdige en gefundeerde informatie over ontwikkelingen ten aanzien van het aantal niet-beëindigde TIR-operaties en vorderingen die zijn ingediend, in behandeling zijn, zijn betaald of zonder betaling zijn geschikt die aanleiding kunnen zijn voor zorgen omtrent de deugdelijke werking van het TIR-systeem of kunnen leiden tot belemmeringen voor de voortzetting van de werking van het internationale garantiestelsel ervan;
-
-- e. de bevoegde organen van de TIR-Overeenkomst statistische gegevens verstrekken over het aantal carnets TIR dat aan elke Overeenkomstsluitende Partij is verstrekt, onderverdeeld naar type;
-
-- f. het TIR Uitvoerend Comité gegevens verstrekken over de distributieprijs van de internationale organisatie per type carnet TIR;
-
-- g. alle nodige maatregelen nemen om het risico van vervalsing van carnets TIR te beperken;
-
-- h. de nodige corrigerende maatregelen treffen indien fouten of gebreken zijn geconstateerd bij het carnet TIR en deze melden aan het TIR Uitvoerend Comité;
-
-- j. volledige medewerking verlenen indien het TIR Uitvoerend Comité wordt opgeroepen de oplossing van geschillen te bevorderen;
-
-- k. waarborgen dat elk probleem met frauduleuze activiteiten of andere problemen met betrekking tot de uitvoering van de TIR-Overeenkomst onmiddellijk onder de aandacht van het TIR Uitvoerend Comité worden gebracht;
-
-- l. het systeem beheren voor het controleren van carnets TIR, zoals voorzien in Bijlage 10 van de Overeenkomst, tezamen met nationale garantieverlenende organisaties die bij de internationale organisatie zijn aangesloten en de douaneautoriteiten en de Overeenkomstsluitende Partijen en de bevoegde organen van de Overeenkomst in kennis stellen van problemen die met het systeem zijn geconstateerd;
-
-- m. de bevoegde organen van de TIR-Overeenkomst statistische en andere gegevens verstrekken over het functioneren van de Overeenkomstsluitende Partijen met betrekking tot het controlesysteem voorzien in Bijlage 10;
-
-- n. uiterlijk twee maanden voor de voorlopige datum van inwerkingtreding van of de verlenging van de bevoegdverklaring verleend in overeenstemming met [artikel 6, tweede lid, bis, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) een schriftelijke overeenkomst sluiten met het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties, gemachtigd door en handelend in opdracht van en namens de Commissie van beheer, met daarin de aanvaarding door de internationale organisatie van haar taken vervat in dit lid;
-
-- o. afzonderlijke stukken en rekeningen bijhouden met informatie en documentatie die betrekking hebben op de organisatie en de werking van een internationaal garantiestelsel en het afdrukken en de afgifte van carnets TIR;
-
-- p. volledige en tijdige medewerking verlenen, met inbegrip van, maar niet beperkt tot, toegang tot bovengenoemde stukken en rekeningen geven aan de bevoegde diensten van de Verenigde Naties of enige andere naar behoren gemachtigde bevoegde entiteit en, te allen tijde, door hen namens de Overeenkomstsluitende Partijen verrichte aanvullende inspecties en controles faciliteren, ingevolge [Bijlage 8, artikel 1 bis, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=8&artikel=1_bis&z=2025-06-01&g=2025-06-01);
-
-- q. een onafhankelijke externe accountant aanstellen om de jaarlijkse controle van de in onderdeel o genoemde stukken en rekeningen uit te voeren. De externe controle wordt uitgevoerd in overeenstemming met de internationale standaarden voor accountantscontrole (ISA) en resulteert in een rapport en een managementletter die bij de Commissie van Beheer moeten worden ingediend.
-
-3. Indien de internationale organisatie door een garantieverlenende organisatie in kennis wordt gesteld van een vordering tot betaling, stelt zij de garantieverlenende organisatie binnen een tijdvak van drie (3) maanden in kennis van haar standpunt omtrent de vordering.
-
-4. Voor alle informatie die direct of indirect door de internationale organisatie uit hoofde van de Overeenkomst wordt verkregen en van vertrouwelijke aard is of op basis van vertrouwelijkheid wordt verstrekt, geldt de verplichting tot beroepsgeheim en deze informatie mag zonder de uitdrukkelijke toestemming van de persoon of autoriteit die haar heeft verstrekt niet worden gebruikt of verwerkt voor commerciële doeleinden of andere dan de doeleinden waarvoor zij aan een derde werd verstrekt of onthuld. Deze informatie mag echter zonder toestemming worden verstrekt aan de bevoegde autoriteiten van de Overeenkomstsluitende Partijen bij deze Overeenkomst, indien daartoe ingevolge bepalingen van het nationale of internationale recht een machtiging of verplichting bestaat of uit hoofde van een gerechtelijke procedure. Informatie wordt volledig in overeenstemming met de van kracht zijnde wet- en regelgeving inzake de bescherming van persoonsgegevens onthuld of verstrekt.
-
-5. De Commissie van Beheer is gemachtigd een in overeenstemming met [artikel 6, tweede lid, bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01), verleende bevoegdverklaring in te trekken indien niet wordt voldaan aan de bovengenoemde voorwaarden en vereisten. Indien de Commissie van Beheer besluit tot intrekking van de bevoegdverklaring, wordt dit besluit niet eerder van kracht dan zes (6) maanden na de datum van intrekking.
-
-6. De bevoegdverklaring van een internationale organisatie volgens de in het voorgaande vervatte voorwaarden laat de verantwoordelijkheden en aansprakelijkheid van die organisatie uit hoofde van de Overeenkomst onverlet.
-
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Convention.
-
-DONE at Geneva, this fourteenth day of November one thousand nine hundred and seventy-five, in a single copy in the English, French and Russian languages, the three texts being equally authentic.
-
-##### Minimumvoorwaarden en eisen
-
-1. Teneinde door de Overeenkomstsluitende Partijen bevoegd te worden verklaard tot de afgifte van carnets TIR en zich garant te stellen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) van de Overeenkomst, moet een organisatie voldoen aan de hieronder genoemde minimumvoorwaarden en eisen:
-
-- a. Aantonen dat zij gedurende ten minste een jaar als organisatie gevestigd is in de Overeenkomstsluitende Partij waar de vergunning wordt afgegeven.
-
-- b. Aantonen dat haar financiële situatie solide is en dat de organisatie over de organisatorische middelen beschikt die haar in staat stellen aan de verplichtingen te voldoen die ingevolge deze Overeenkomst op haar rusten.
-
-- c. Geen ernstige of herhaalde overtredingen van de douane- of belastingwetten hebben begaan.
-
-- d. Opstelling van een schriftelijke overeenkomst of een ander juridisch instrument tussen de organisatie en de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd met inbegrip van de aanvaarding door de organisatie van haar taken vervat in het derde lid.
-
-2. Een voor eensluidend gewaarmerkt afschrift van de schriftelijke overeenkomst of een ander juridisch instrument bedoeld in het eerste lid, letter d, eventueel vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch, dient te worden nedergelegd bij het TIR Uitvoerend Comité. Elke wijziging wordt onmiddellijk onder de aandacht gebracht van het TIR Uitvoerend Comité.
-
-3. De taken van de organisatie zijn als volgt:
-
-- i. nakomen van de in [artikel 8 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01) vastgelegde verplichtingen;
-
-- ii. aanvaarden van het door de Overeenkomstsluitende Partijen bepaalde maximumbedrag per carnet TIR dat men in overeenstemming met [artikel 8, derde lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01) van de organisatie kan vorderen;
-
-- iii. zorgdragen voor de voortdurende verificatie, in het bijzonder voordat verzocht wordt om autorisatie voor toelating van personen tot de TIR-procedure, van de naleving van de minimumvoorwaarden en -eisen vervat in [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2025-06-01&g=2025-06-01) van deze Bijlage;
-
-- iv. zich garant stellen voor alle mogelijke aansprakelijkheden in het land waarin zij gevestigd is, ter zake van activiteiten die plaatsvinden onder dekking van carnets TIR die zij zelf heeft afgegeven en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten;
-
-- v. zich naar tevredenheid van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij is gevestigd verzekeren tegen aansprakelijkheid bij een verzekeringsmaatschappij, een groep van verzekeraars of een financiële instelling. De verzekeringsovereenkomst of de overeenkomst(en) ten behoeve van de financiële zekerheid dient (dienen) alle aansprakelijkheden te dekken ter zake van activiteiten onder dekking van carnets TIR afgegeven door haarzelf en door buitenlandse organisaties die zijn aangesloten bij dezelfde internationale organisatie waarbij zij zelf is aangesloten; De opzegtermijn voor de overeenkomst ter zake van de verzekering of financiële zekerheid mag niet korter zijn dan die voor de beëindiging van de schriftelijke overeenkomst of een ander juridisch instrument zoals bedoeld in het eerste lid, letter d. Een voor eensluidend gewaarmerkt afschrift van de overeenkomst(en) ter zake van de verzekering of financiële zekerheid alsmede van alle latere wijzigingen daarvan wordt ingediend bij het TIR Uitvoerend Comité, indien nodig vergezeld van een gewaarmerkte vertaling in het Engels, Frans of Russisch;
-
-- vi. het TIR Uitvoerend Comité ieder jaar vóór 1 maart in kennis stellen van de prijs van elk type carnet TIR dat zij afgeeft;
-
-- vii. de bevoegde autoriteiten in staat stellen alle stukken en rekeningen te controleren die verband houden met de administratie van de TIR-procedure;
-
-- viii. een procedure aanvaarden voor het doeltreffend en zoveel mogelijk buitengerechtelijk beslechten van geschillen die voortvloeien uit ondeugdelijk of frauduleus gebruik van carnets TIR;
-
-- ix. strikt naleven van de beslissingen van de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar zij gevestigd is ter zake van de intrekking of opschorting van de vergunning overeenkomstig [artikel 6 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) en [deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&deel=II&z=2025-06-01&g=2025-06-01) van deze Bijlage of de uitsluiting van personen overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=IV&artikel=38&z=2025-06-01&g=2025-06-01) van de Overeenkomst;
-
-- x. ermee instemmen alle door de Commissie van Beheer en het TIR Uitvoerend Comité genomen beslissingen nauwgezet uit te voeren voor zover de bevoegde autoriteiten van de Overeenkomstsluitende Partij waar de organisatie gevestigd is deze hebben aanvaard;
-
-- xi. voor Overeenkomstsluitende Partijen die door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) zijn gebonden, op verzoek van de bevoegde autoriteiten, te bevestigen, in het geval van een noodprocedure als bedoeld in [artikel 10, lid 2, van Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&deel=1&artikel=10&z=2025-06-01&g=2025-06-01), dat de garantie geldig is en dat een TIR-vervoer in het kader van de eTIR-regeling plaatsvindt, alsook andere voor het TIR-vervoer relevante informatie te verstrekken.
-
-4. Indien een organisatie die zich garant stelt verzocht wordt in overeenstemming met de procedure vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=11&z=2025-06-01&g=2025-06-01), de in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=8&z=2025-06-01&g=2025-06-01), bedoelde bedragen te betalen, stelt zij in overeenstemming met de schriftelijke overeenkomst bedoeld in de toelichtende noot 0.6.2bis-1 bij artikel 6, tweede lid, bis, de internationale organisatie in kennis van ontvangst van de vordering.
-
-5. De Overeenkomstsluitende Partij waar de organisatie gevestigd is trekt de bevoegdheid tot het afgeven van carnets TIR en zich garant te stellen in wanneer niet aan deze voorwaarden en eisen wordt voldaan. Indien een Overeenkomstsluitende Partij besluit tot intrekking van de bevoegdheid, wordt dit besluit niet eerder van kracht dan drie (3) maanden na de datum van intrekking.
-
-6. De bevoegdverklaring van een organisatie onder de hierboven genoemde voorwaarden doet geen afbreuk aan de verantwoordelijkheden en verplichtingen die deze organisatie heeft op grond van de Overeenkomst.
-
-7. De hieronder genoemde voorwaarden en eisen doen geen afbreuk aan de door elke Overeenkomstsluitende Partij mogelijk voor te schrijven aanvullende voorwaarden en eisen.
-
-##### Artikel 58 quater. Technische Uitvoeringsinstantie
-
-Er wordt een Technische Uitvoeringsinstantie opgericht. De samenstelling, functies en het reglement van orde van de Technische Uitvoeringsinstantie zijn opgenomen in [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01).
-
-##### Artikel 60 bis. Bijzondere procedure voor de inwerkingtreding van Bijlage 11 en wijzigingen daarop
-
-1. [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) treedt, na te zijn onderzocht overeenkomstig [artikel 59, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=59&z=2025-06-01&g=2025-06-01), voor alle Overeenkomstsluitende Partijen in werking drie maanden na een periode van twaalf maanden volgende op de datum waarop de mededeling door de Secretaris-generaal van de Verenigde Naties aan de Overeenkomstsluitende Partijen is gedaan, behalve voor de Overeenkomstsluitende Partijen die de Secretaris-generaal er binnen de bovengenoemde periode van drie maanden schriftelijk van in kennis hebben gesteld dat zij Bijlage 11 niet aanvaarden. Voor Overeenkomstsluitende Partijen die hun kennisgeving van niet- aanvaarding intrekken, treedt Bijlage 11 in werking zes maanden na de datum waarop de intrekking van die kennisgeving door de depositaris is ontvangen.
-
-2. Ieder voorstel tot wijziging van [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) wordt door het Administratief Comité onderzocht. Iedere wijziging van die aard wordt aangenomen met een meerderheid van door Bijlage 11 gebonden Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen.
-
-3. Wijzigingen van [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) die overeenkomstig lid 2 van dit artikel zijn onderzocht en aangenomen, worden door de Secretaris-generaal van de Verenigde Naties aan alle Overeenkomstsluitende Partijen ter kennisneming dan wel, in het geval van de door Bijlage 11 gebonden Overeenkomstsluitende Partijen, ter aanvaarding meegedeeld.
-
-4. De datum van inwerkingtreding van dergelijke wijzigingen wordt bepaald bij het aannemen van de wijziging door een meerderheid van de door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen.
-
-5. Wijzigingen treden in werking overeenkomstig lid 4 van dit artikel, tenzij een vijfde van de Staten die een door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partij zijn dan wel vijf dergelijke Staten, naargelang welk aantal het laagst is, de Secretaris-generaal op een eerdere datum die bij het aannemen van de wijziging werd vastgesteld, ervan in kennis hebben gesteld dat zij bezwaar maken tegen de wijziging.
-
-6. Zodra een wijziging die overeenkomstig de in de leden 2 tot en met 5 van dit artikel beschreven procedure is aangenomen, in werking is getreden, komt zij voor alle door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen in de plaats van en heeft zij voorrang op alle vroegere bepalingen waarop ze betrekking heeft.
-
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN DE COMMISSIE VAN BEHEER
-
-##### Artikel 1
-
-i. De Overeenkomstsluitende Partijen zijn lid van de Commissie van Beheer.
-
-ii. De Commissie kan besluiten dat de bevoegde administraties van de in [artikel 52, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=52&z=2025-06-01&g=2025-06-01), van deze Overeenkomst bedoelde Staten die geen Overeenkomstsluitende Partij zijn, of vertegenwoordigers van internationale organisaties haar zittingen als waarnemers kunnen bijwonen voor aangelegenheden die hun aangaan.
-
-##### Artikel 2
-
-De Secretaris-Generaal van de Verenigde Naties verleent de Commissie secretariaatsdiensten.
-
-##### Artikel 3
-
-De Commissie kiest ieder jaar in haar eerste zitting haar voorzitter en haar vice-voorzitter.
-
-##### Artikel 4
-
-De Commissie wordt ieder jaar, en telkens wanneer hiertoe een verzoek wordt ingediend door de bevoegde administraties van ten minste vijf Staten die Overeenkomstsluitende Partij zijn, door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen onder auspiciën van de Europese Commissie voor Europa.
-
-##### Artikel 5
-
-Voorstellen worden in stemming gebracht. Iedere Staat die Overeenkomstsluitende Partij is en die op de zitting is vertegenwoordigd, beschikt over één stem. Voorstellen die geen wijzigingen op deze Overeenkomst betreffen, worden door de Commissie aangenomen met een meerderheid van stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen. Wijzigingen op deze Overeenkomst, alsmede de besluiten bedoeld in de artikelen 59 en 60 van deze Overeenkomst, worden aangenomen met een meerderheid van twee derde van de stemmen uitgebracht door de aanwezige leden die hun stem uitbrengen.
-
-##### Artikel 6
-
-Voor het nemen van besluiten is een quorum vereist van ten minste de helft van de Staten die Overeenkomstsluitende Partij zijn.
-
-##### Artikel 7
-
-De Commissie neemt haar verslag aan voordat haar zitting wordt gesloten.
-
-##### Artikel 8
-
-Indien in deze bijlage ter zake dienende bepalingen ontbreken, is het reglement van orde van de Economische Commissie voor Europa van toepassing tenzij de Commissie van Beheer anders bepaalt.
-
-#### SAMENSTELLING, TAKEN EN REGLEMENT VAN ORDE VAN HET TIR UITVOEREND COMITÉ
-
-##### Artikel 9
-
-1. Het ingevolge [artikel 58 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=58_ter&z=2025-06-01&g=2025-06-01) door de Commissie van Beheer in het leven geroepen TIR Uitvoerend Comité bestaat uit negen leden van verschillende Overeenkomstsluitende Partijen. De Secretaris van de TIR-Overeenkomst woont de zittingen van de Controlecommissie bij.
-
-2. De leden van het TIR Uitvoerend Comité worden gekozen met een meerderheid van stemmen van de aanwezige leden van de Commissie van Beheer die hun stem uitbrengen. De ambtstermijn van elk van de leden van het TIR Uitvoerend Comité is twee jaar. De leden van het TIR Uitvoerend Comité zijn herkiesbaar. Het mandaat van het TIR Uitvoerend Comité wordt opgesteld door de Commissie van Beheer.
-
-##### Artikel 10
-
-Het TIR Uitvoerend Comité:
-
-- a. houdt toezicht op de toepassing van de Overeenkomst, met inbegrip van het functioneren van het garantstellingssysteem, en verricht de taken die haar door de Commissie van Beheer worden toevertrouwd;
-
-- b. houdt toezicht op het centraal drukken en de centrale afgifte van carnets TIR aan organisaties; deze taak kan worden uitgevoerd door een in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) bedoelde erkende internationale organisatie.
-
-- c. coördineert en bevordert de uitwisseling van vertrouwelijke gegevens en andere informatie tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
-
-- d. coördineert en bevordert de uitwisseling van gegevens tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, de organisaties en de internationale organisaties;
-
-- e. vergemakkelijkt de beslechting van geschillen tussen de Overeenkomstsluitende Partijen, de organisaties, de verzekeringsmaatschappijen en de internationale organisaties, onverminderd het in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=57&z=2025-06-01&g=2025-06-01) ten aanzien van de regeling van geschillen bepaalde;
-
-- f. ondersteunt de opleiding van het personeel van de douaneautoriteiten en de andere betrokken partijen bij de TIR-regeling;
-
-- g. houdt een centraal register bij voor de verspreiding, aan de Overeenkomstsluitende Partijen, van de gegevens die door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) bedoelde internationale organisaties worden verschaft betreffende alle door de organisaties voorgeschreven regels en procedures voor de afgifte van carnets TIR, voor zover deze betrekking hebben op de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=9&z=2025-06-01&g=2025-06-01) bedoelde minimumvoorwaarden en -eisen;
-
-- h. houdt toezicht op de prijs van de carnets TIR.
-
-##### Artikel 11
-
-1. De Secretaris van de TIR-Overeenkomst roept op verzoek van de Commissie van Beheer of van ten minste drie leden van het TIR Uitvoerend Comité een zitting van het TIR Uitvoerend Comité bijeen.
-
-2. Het TIR Uitvoerend Comité stelt alles in het werk om beslissingen bij consensus te nemen. Indien geen consensus kan worden bereikt, wordt over de beslissingen gestemd en worden deze aangenomen met een meerderheid van de aanwezige leden die hun stem uitbrengen. Voor het nemen van beslissingen is het quorum vijf leden. De Secretaris van de TIR-Overeenkomst heeft geen stem.
-
-3. Het TIR Uitvoerend Comité kiest een voorzitter en kan aanvullingen op het reglement van orde aannemen.
-
-4. Ten minste eenmaal per jaar of op verzoek van de Commissie van Beheer brengt het TIR Uitvoerend Comité over zijn activiteiten verslag uit aan de Commissie van Beheer, aan wie hij eveneens een gecontroleerde jaarrekening voorlegt. Het TIR Uitvoerend Comité wordt in de Commissie van Beheer vertegenwoordigd door zijn voorzitter.
-
-5. Het TIR Uitvoerend Comité bestudeert alle informatie en alle vragen die haar worden toegezonden door de Commissie van Beheer, de Overeenkomstsluitende Partijen, de Secretaris van de TIR-Overeenkomst, de nationale organisaties en de in artikel 6 van de Overeenkomst bedoelde internationale organisaties. Deze internationale organisaties hebben het recht om de zittingen van het TIR Uitvoerend Comité bij te wonen als waarnemer, tenzij de Voorzitter anders bepaalt. Indien nodig kan elke andere organisatie, op uitnodiging van de Voorzitter, als waarnemer de zittingen van het TIR Uitvoerend Comité bijwonen.
-
-##### Artikel 12
-
-De Secretaris van de TIR-Overeenkomst is lid van het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties. Hij geeft uitvoering aan de besluiten van het TIR Uitvoerend Comité in het kader van het mandaat van het TIR Uitvoerend Comité. De Secretaris van de TIR-Overeenkomst wordt bijgestaan door een TIR-Secretariaat waarvan de omvang door de Commissie van Beheer wordt vastgesteld.
-
-##### Artikel 13
-
-1. In afwachting van de verkrijging van andere financieringsbronnen worden de activiteiten van het TIR Uitvoerend Comité en van het TIR-Secretariaat gefinancierd uit een bedrag per carnet TIR dat door de in artikel 6 bedoelde internationale organisatie wordt afgegeven. Dit bedrag wordt door de Commissie van Beheer goedgekeurd.
-
-2. De procedure ter uitvoering van de financiering van de activiteiten van het TIR Uitvoerend Comité en van het TIR-Secretariaat wordt door de Commissie van Beheer goedgekeurd.
-
-## Deel II. BEVOEGDVERKLARING VAN NATUURLIJKE PERSONEN EN RECHTSPERSONEN TOT HET GEBRUIK VAN CARNETS TIR
-
-## Deel III. Bevoegdverklaring van een internationale organisatie zoals bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=II&artikel=6&z=2025-06-01&g=2025-06-01) teneinde de verantwoordelijkheid op zich te nemen voor de daadwerkelijke organisatie en de werking van een internationaal garantiestelsel en carnets TIR te drukken en af te geven.
-
-## Deel 1
-
-##### Artikel 1. Toepassingsgebied
-
-1. De bepalingen in deze bijlage regelen de tenuitvoerlegging van de eTIR- regeling zoals omschreven in [artikel 1, onder s)](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=I&titeldeel=a&artikel=1&z=2025-06-01&g=2025-06-01), van de Overeenkomst en zijn van toepassing in de betrekkingen tussen Overeenkomstsluitende Partijen die door deze bijlage zijn gebonden als bepaald in [artikel 60 bis, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60_bis&z=2025-06-01&g=2025-06-01).
-
-2. De eTIR-regeling mag niet worden gebruikt voor vervoer dat ten dele plaatsvindt op het grondgebied van een Overeenkomstsluitende Partij die niet door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) is gebonden en die lid is van een douane- of economische unie met één enkel douanegebied.
-
-##### Artikel 2. Begripsomschrijvingen
-
-In deze bijlage wordt verstaan onder:
-
-- a. „internationaal eTIR-systeem”: het informatie- en communicatietechnologiesysteem dat is opgezet ten behoeve van de uitwisseling van elektronische informatie tussen de partijen die bij de eTIR-regeling betrokken zijn;
-
-- b. „eTIR-specificaties”: de conceptuele, functionele en technische specificaties van de eTIR-regeling, vastgesteld en gewijzigd in overeenstemming met de bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&deel=1&artikel=5&z=2025-06-01&g=2025-06-01) van deze bijlage;
-
-- c. „voorafgaande TIR-gegevens”: de gegevens betreffende het voornemen van de houder om goederen onder de eTIR-regeling te plaatsen, ingediend bij de bevoegde autoriteiten van het land van vertrek, in overeenstemming met de eTIR-specificaties;
-
-- d. „voorafgaande wijzigingsgegevens”: de gegevens betreffende het voornemen van de houder om de aangiftegegevens te wijzigen, ingediend bij de bevoegde autoriteiten van het land waar een wijziging van de aangiftegegevens wordt gevraagd, in overeenstemming met de eTIR-specificaties;
-
-- e. „aangiftegegevens”: de voorafgaande TIR-gegevens en de voorafgaande wijzigingsgegevens die door de bevoegde autoriteiten zijn aanvaard;
-
-- f. „aangifte”: de handeling waarbij de houder of zijn vertegenwoordiger, in overeenstemming met de eTIR-specificaties, het voornemen kenbaar maakt om goederen onder de eTIR-regeling te plaatsen. Vanaf het tijdstip waarop de aangifte door de bevoegde autoriteiten, op basis van de voorafgaande TIR-gegevens of de voorafgaande wijzigingsgegevens, is aanvaard en de aangiftegegevens naar het internationale eTIR-systeem zijn doorgezonden, vormt de aangifte het wettelijk equivalent van een aanvaard TIR-carnet;
-
-- g. „begeleidingsdocument”: het afgedrukte document dat na de aanvaarding van de aangifte elektronisch door het douanesysteem wordt gegenereerd, in overeenstemming met de richtsnoeren in de technische eTIR- specificaties. Het begeleidingsdocument kan worden gebruikt voor de registratie van voorvallen onderweg, vervangt het proces-verbaal van bevinding overeenkomstig [artikel 25 van deze Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=III&titeldeel=b&artikel=25&z=2025-06-01&g=2025-06-01) en dient ook voor de noodprocedure.
-
-- h. „authenticatie”: een elektronisch proces dat de bevestiging van de elektronische identificatie van een natuurlijke persoon of rechtspersoon, of van de oorsprong en integriteit van gegevens in elektronische vorm, mogelijk maakt.
-
-##### Artikel 3. Tenuitvoerlegging van de eTIR-regeling
-
-1. De door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen verbinden hun douanesystemen met het internationale eTIR-systeem in overeenstemming met de eTIR-specificaties.
-
-2. Iedere Overeenkomstsluitende Partij bepaalt zelf tegen welke datum zij haar douanesystemen met het internationale eTIR-systeem verbindt. De datum waarop de verbinding tot stand wordt gebracht, wordt ten minste zes maanden vóór de daadwerkelijke verbindingsdatum aan alle andere door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen meegedeeld.
-
-##### Artikel 4. Samenstelling, functies en reglement van orde van de Technische Uitvoeringsinstantie
-
-1. De Overeenkomstsluitende Partijen die door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) zijn gebonden, zijn lid van de Technische Uitvoeringsinstantie. Deze instantie wordt bijeengeroepen op geregelde tijdstippen of op verzoek van het Administratief Comité, naargelang dat nodig is om de eTIR-specificaties bij te houden. Het Administratief Comité wordt regelmatig geïnformeerd over de activiteiten en onderzoeken van de Technische Uitvoeringsinstantie.
-
-2. De Overeenkomstsluitende Partijen die [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) niet hebben aanvaard zoals bepaald in [artikel 60 bis, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&hoofdstuk=VII&artikel=60_bis&z=2025-06-01&g=2025-06-01), en vertegenwoordigers van internationale organisaties mogen als waarnemer bijeenkomsten van de Technische Uitvoeringsinstantie bijwonen.
-
-3. De Technische Uitvoeringsinstantie ziet toe op de technische en functionele aspecten van de tenuitvoerlegging van de eTIR-regeling en coördineert en bevordert de uitwisseling van informatie over aangelegenheden die onder haar bevoegdheid vallen.
-
-4. De Technische Uitvoeringsinstantie stelt op haar eerste zitting haar reglement van orde vast en legt dit aan het Administratief Comité voor met het oog op de goedkeuring ervan door de Overeenkomstsluitende Partijen die door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) zijn gebonden.
-
-##### Artikel 5. Procedures voor de vaststelling en de wijziging van de eTIR-specificaties
-
-De Technische Uitvoeringsinstantie:
-
-- a. stelt de technische specificaties van de eTIR-regeling alsook wijzigingen daarvan vast om te garanderen dat deze in overeenstemming zijn met de functionele specificaties van de eTIR-regeling. Bij de vaststelling legt zij ook een passende overgangsperiode voor de uitvoering ervan vast;
-
-- b. bereidt de functionele specificaties van de eTIR-regeling alsook wijzigingen daarvan voor om te garanderen dat deze in overeenstemming zijn met de conceptuele specificaties van de eTIR-regeling. Zij worden overgemaakt aan het Administratief Comité met het oog op de vaststelling ervan door een meerderheid van door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, en worden ten uitvoer gelegd en zo nodig uitgewerkt tot technische specificaties op een bij de vaststelling te bepalen tijdstip;
-
-- c. onderzoekt wijzigingen van de conceptuele specificaties van de eTIR-regeling indien het Administratief Comité haar daarom heeft verzocht. De conceptuele specificaties van de eTIR-regeling en wijzigingen daarvan worden vastgesteld door een meerderheid van door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, en worden ten uitvoer gelegd en zo nodig uitgewerkt tot functionele specificaties op een bij de vaststelling te bepalen tijdstip.
-
-##### Artikel 6. Indiening van voorafgaande TIR-gegevens en voorafgaande wijzigingsgegevens
-
-1. Voorafgaande TIR-gegevens en voorafgaande wijzigingsgegevens worden ingediend door de houder of zijn vertegenwoordiger bij de bevoegde autoriteiten van het land van vertrek en van het land waar een wijziging van de aangiftegegevens wordt gevraagd. Zodra de aangifte of de wijziging is aanvaard in overeenstemming met het nationale recht, zenden de bevoegde autoriteiten de aangiftegegevens of de wijziging daarvan door naar het internationale eTIR-systeem.
-
-2. Voorafgaande TIR-gegevens en voorafgaande wijzigingsgegevens als bedoeld in lid 1 mogen rechtstreeks bij de bevoegde autoriteiten worden ingediend dan wel via het internationale eTIR-systeem.
-
-3. De door Bijlage 11 gebonden Overeenkomstsluitende Partijen aanvaarden dat voorafgaande TIR-gegevens en voorafgaande wijzigingsgegevens worden ingediend via het internationale eTIR-systeem.
-
-4. De bevoegde autoriteiten publiceren een lijst van alle elektronische middelen waarmee voorafgaande TIR-gegevens en voorafgaande wijzigingsgegevens mogen worden ingediend.
-
-##### Artikel 7. Authenticatie van de houder
-
-1. Bij de aanvaarding van de aangifte in het land van vertrek of van een wijziging van de aangiftegegevens in een land dat op de route ligt, authenticeren de bevoegde autoriteiten de voorafgaande TIR-gegevens of de voorafgaande wijzigingsgegevens en de houder in overeenstemming met het nationale recht.
-
-2. De door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen aanvaarden de door het internationale eTIR-systeem verrichte authenticatie van de houder.
-
-3. De bevoegde autoriteiten publiceren een lijst van andere authenticatiemechanismen dan het in lid 2 van dit artikel genoemde mechanisme die voor authenticatie mogen worden gebruikt.
-
-4. De door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen aanvaarden de aangiftegegevens die worden ontvangen van de bevoegde autoriteiten van het land van vertrek en van het land waar een wijziging van de aangiftegegevens is gevraagd via het internationale eTIR-systeem, als het wettelijk equivalent van een aanvaard TIR-carnet.
-
-##### Artikel 8. Wederzijdse erkenning van de authenticatie van de houder
-
-De authenticatie van de houder door de bevoegde autoriteiten van de door [Bijlage 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=11&z=2025-06-01&g=2025-06-01) gebonden Overeenkomstsluitende Partijen die de aangifte of wijzigingen van de aangiftegegevens aanvaarden, wordt erkend door de bevoegde autoriteiten van alle daaropvolgende door Bijlage 11 gebonden Overeenkomstsluitende Partijen gedurende het volledige TIR-vervoer.
-
-##### Artikel 9. Aanvullende gegevensvereisten
-
-1. Behalve de in de functionele en technische specificaties vermelde gegevens mogen de bevoegde autoriteiten aanvullende gegevens verlangen die in de nationale wetgeving zijn voorgeschreven.
-
-2. De bevoegde autoriteiten dienen de gegevensvereisten zoveel mogelijk te beperken tot de vereisten die in de functionele en technische specificaties zijn vermeld, en ernaar te streven de indiening van aanvullende gegevens te vergemakkelijken om het TIR-vervoer in overeenstemming met deze bijlage niet te belemmeren.
-
-##### Artikel 10. Noodprocedure
-
-1. Wanneer de eTIR-regeling om technische redenen niet van start kan gaan bij het douanekantoor van vertrek, mag de houder van het TIR-carnet terugvallen op de TIR-regeling.
-
-2. Wanneer een eTIR-regeling van start is gegaan maar niet kan worden voortgezet om technische redenen, aanvaarden de bevoegde autoriteiten het begeleidingsdocument en verwerken zij dit in overeenstemming met de in de eTIR-specificaties beschreven procedure, onder voorbehoud van de beschikbaarheid van aanvullende informatie uit alternatieve elektronische systemen zoals beschreven in de functionele en technische specificaties.
-
-3. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen hebben ook het recht om van nationale aansprakelijke organisaties te verlangen dat zij bevestigen dat de garantie geldig is en dat een TIR-vervoer in het kader van de eTIR-regeling plaatsvindt, alsook dat zij andere voor het TIR-vervoer relevante informatie verstrekken.
-
-4. De in lid 3 beschreven procedure wordt vastgesteld in de overeenkomst tussen de bevoegde autoriteiten en de nationale aansprakelijke organisatie, zoals bepaald in Bijlage 9, deel I, punt 1, onder d).
-
-##### Artikel 11. Hosting van het internationale eTIR-systeem
-
-1. Het internationale eTIR-systeem wordt gehost en beheerd onder auspiciën van de Economische Commissie voor Europa van de Verenigde Naties (ECE).
-
-2. De ECE helpt landen om hun douanesystemen met het internationale eTIR- systeem te verbinden, onder meer door middel van conformiteitstests om na te gaan of deze systemen naar behoren functioneren voordat de operationele verbinding tot stand wordt gebracht.
-
-3. Aan de ECE worden de nodige middelen ter beschikking gesteld om te voldoen aan de in de leden 1 en 2 van dit artikel vastgestelde verplichtingen. Tenzij het internationale eTIR-systeem wordt gefinancierd met middelen uit de gewone begroting van de Verenigde Naties, zijn de vereiste middelen onderworpen aan de financiële regels en voorschriften voor extrabudgettaire fondsen en projecten van de Verenigde Naties. Het financieringsmechanisme voor de werking van het internationale eTIR-systeem wordt vastgesteld en goedgekeurd door het Administratief Comité.
-
-##### Artikel 12. Beheer van het internationale eTIR-systeem
-
-1. De ECE treft de nodige regelingen om de gegevens in het internationale eTIR-systeem gedurende minimaal tien jaar te bewaren en te archiveren.
-
-2. Alle gegevens die in het internationale eTIR-systeem zijn opgeslagen, mogen door de ECE voor rekening van de bevoegde autoriteiten van de Overeenkomst worden gebruikt om geaggregeerde statistieken te verzamelen.
-
-3. De bevoegde autoriteiten van Overeenkomstsluitende Partijen op wier grondgebied een TIR-vervoer in het kader van de eTIR-regeling plaatsvindt dat voorwerp wordt van een administratieve of gerechtelijke procedure in verband met de betalingsverplichting van de rechtstreeks aansprakelijke persoon of personen of van de nationale aansprakelijke organisatie, kunnen een verzoek richten tot de ECE en informatie die in het internationale eTIR- systeem is opgeslagen en betrekking heeft op de betwiste vordering, voor controledoeleinden ontvangen. Deze informatie kan in nationale administratieve of gerechtelijke procedures als bewijs worden aangevoerd.
-
-4. In andere dan de in dit artikel genoemde gevallen is de verspreiding of openbaarmaking van in het internationale eTIR-systeem opgeslagen informatie aan niet-gemachtigde personen of entiteiten verboden.
-
-##### Artikel 13. Bekendmaking van de douanekantoren die eTIR kunnen afhandelen
-
-De bevoegde autoriteiten dragen er zorg voor dat de lijst van douanekantoren van vertrek, van doorgang en van bestemming die voor de afhandeling van TIR-operaties in het kader van de eTIR-regeling zijn aangewezen, te allen tijde nauwkeurig is en wordt bijgewerkt in de elektronische databank voor aangewezen douanekantoren, die is opgezet en wordt onderhouden door het TIR-Uitvoerend Orgaan.
-
-##### Artikel 14. Wettelijke vereisten voor de indiening van gegevens in het kader van [Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=10&z=2025-06-01&g=2025-06-01) bij de TIR-Overeenkomst
-
-Door de tenuitvoerlegging van de eTIR-regeling wordt geacht aan de wettelijke vereisten voor de indiening van gegevens zoals uiteengezet in [punten 1, 3 en 4 van Bijlage 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003523&bijlage=10&z=2025-06-01&g=2025-06-01) bij deze Overeenkomst te zijn voldaan.
-
-## Deel 2
+After 31 December 1976, the original of this Convention shall be deposited with the Secretary-General of the United Nations, who shall transmit certified true copies to each of the Contracting Parties and to the States referred to in [article 52, paragraph 1](https://wetten.overheid.nl/BWBV0003523), which are not Contracting Parties.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Convention.
 

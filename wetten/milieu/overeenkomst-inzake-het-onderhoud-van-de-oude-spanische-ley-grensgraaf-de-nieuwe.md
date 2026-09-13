@@ -1,60 +1,27 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Oude Spanische Ley (Grensgraaf), de Nieuwe Spanische Ley, de Hülmer Leitgraben, de Wolfsgraben, de Horsterbeek en de Eckeltsebeek, alsmede het beheren van de kunstwerken in en aan deze waterlossingen"
 identifier: "BWBV0003893"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-03-04"
-last_updated: "1981-03-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003893"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003760843"
-version_id: "10003825402"
-internal_id: "C10006981591"
-label_id: "10003745824"
-dtd_version: "2.0"
-original_entry_into_force: "1981-03-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003893/1981-03-04/0"
-intitule_bron: "Trb.1980-94"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-06-06"
-intitule_in_force: "1981-09-10"
-intitule_status: "goed"
-original_publication: "Trb.1980-94"
-original_published_date: "1980-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-94"
-entry_into_force_date: "1981-03-04"
-jci_1_3: "jci1.3:c:BWBV0003893&z=1981-03-04&g=1981-03-04"
-jci_1_0: "1.0:c:BWBV0003893&g=1981-03-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-03-04"
+publicatiedatum: 1981-03-04
+laatste_update: 1981-03-04
+status: geldig
+toestand: 1981-03-04
+bron: "https://wetten.overheid.nl/BWBV0003893"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake het onderhoud van de Oude Spanische Ley (Grensgraaf), de Nieuwe Spanische Ley, de Hülmer Leitgraben, de Wolfsgraben, de Horsterbeek en de Eckeltsebeek, alsmede het beheren van de kunstwerken in en aan deze waterlossingen
 
-Het Wasser- und Bodenverband Spanische Ley, vertegenwoordigd door de voorzitter Karl Gödde,
-
-het Wasser- und Bodenverband Hülmer Heide, vertegenwoordigd door de voorzitter Alois Kempkes,
-
-het Wasser- und Bodenverband Wolfsgraben, vertegenwoordigd door de voorzitter Alois Kempkes,
-
-het Wasser- und Bodenverband Schwarz-, Laar- und Baaler Bruch, vertegenwoordigd door de voorzitter Mathias Hornbergs,
-
-en
-
-het waterschap Het Maasterras, hierna „Waterschap” genoemd, vertegenwoordigd door de voorzitter B. H. Caris
-
-gelet op hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag
-
-sluiten de volgende overeenkomst:
+*Het Wasser- und Bodenverband Spanische Ley, vertegenwoordigd door de voorzitter Karl Gödde, het Wasser- und Bodenverband Hülmer Heide, vertegenwoordigd door de voorzitter Alois Kempkes, het Wasser- und Bodenverband Wolfsgraben, vertegenwoordigd door de voorzitter Alois Kempkes, het Wasser- und Bodenverband Schwarz-, Laar- und Baaler Bruch, vertegenwoordigd door de voorzitter Mathias Hornbergs, en het waterschap Het Maasterras, hierna „Waterschap” genoemd, vertegenwoordigd door de voorzitter B. H. Caris gelet op hoofdstuk 4, artikel 59, lid 2, van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten Grensverdrag sluiten de volgende overeenkomst:*
 
 ##### Artikel 1
 
 Het Waterschap verplicht zich, de gedeelten van de waterlossingen
 
-- a). de Horsterbeek vanaf de grens tot aan de uitmonding in de Eckeltsebeek en
+- a) de Horsterbeek vanaf de grens tot aan de uitmonding in de Eckeltsebeek en
 
-- b). de Eckeltsebeek vanaf grenssteen 523 tot aan de uitmonding in de Maas
+- b) de Eckeltsebeek vanaf grenssteen 523 tot aan de uitmonding in de Maas
 
 te onderhouden en de kunstwerken in en aan deze gedeelten van de waterlossingen, die naar aanleiding van of in verband met de verbetering en het onderhoud van deze beken werden aangelegd of nog zullen worden aangelegd en hun eigendom zijn, te onderhouden en te beheren.
 
@@ -62,19 +29,19 @@ te onderhouden en de kunstwerken in en aan deze gedeelten van de waterlossingen,
 
 1. De Wasser- und Bodenverbände
 
-- a). Spanische Ley
+- a) Spanische Ley
 
-- b). Wolfsgraben
+- b) Wolfsgraben
 
-- c). Hülmer Heide
+- c) Hülmer Heide
 
 verbinden zich onderscheidenlijk voor
 
-- a). het gedeelte van de waterlossing de Nieuwe Spanische Ley tot aan grenssteen 523,
+- a) het gedeelte van de waterlossing de Nieuwe Spanische Ley tot aan grenssteen 523,
 
-- b). het gedeelte van de waterlossing de Wolfsgraben tot aan de uitmonding in de Nieuwe Spanische Ley,
+- b) het gedeelte van de waterlossing de Wolfsgraben tot aan de uitmonding in de Nieuwe Spanische Ley,
 
-- c). het gedeelte van de waterlossing de Hülmer Leitgraben tot aan de grens,
+- c) het gedeelte van de waterlossing de Hülmer Leitgraben tot aan de grens,
 
 te onderhouden en steeds de kunstwerken in en aan deze gedeelten van waterlossingen, die naar aanleiding van of in verband met de verbetering en het onderhoud van deze beken werden aangelegd of nog zullen worden aangelegd en hun eigendom zijn, te onderhouden en te beheren.
 
@@ -102,11 +69,11 @@ Iedere partij is verplicht, de andere partij tijdig in kennis te stellen van haa
 
 De partijen verbinden zich, onverminderd het geldende nationale recht, te bewerkstelligen, dat in hun reglementen bepalingen worden opgenomen, ingevolge waarvan de oevereigenaren langs de grensscheidende gedeelten van de Oude Spanische Ley alsook de Nieuwe Spanische Ley tussen de grenssteen 524 en grenssteen 523 verplicht worden
 
-- a). bij nieuwe beplantingen van bomen en struiken een afstand in acht te nemen van tenminste 2 m gerekend vanuit de bovenkant van het talud;
+- a) bij nieuwe beplantingen van bomen en struiken een afstand in acht te nemen van tenminste 2 m gerekend vanuit de bovenkant van het talud;
 
-- b). onderhoudswerkzaamheden - ook met machines - te dulden;
+- b) onderhoudswerkzaamheden - ook met machines - te dulden;
 
-- c). op hun oeverpercelen, voor zover zij als weide worden benut, afrasteringen aan te brengen en te onderhouden en wel op een afstand van tenminste 1 m gerekend vanuit de bovenkant van het talud, zodat het vee de oevers niet kan betreden.
+- c) op hun oeverpercelen, voor zover zij als weide worden benut, afrasteringen aan te brengen en te onderhouden en wel op een afstand van tenminste 1 m gerekend vanuit de bovenkant van het talud, zodat het vee de oevers niet kan betreden.
 
 ##### Artikel 8
 
@@ -116,9 +83,9 @@ De partijen verbinden zich, binnen het raam van hun mogelijkheden, te verhindere
 
 1. Voor het toezicht op een behoorlijk onderhoud wordt een commissie van 4 leden gevormd (schouwcommissie) welke bestaat uit
 
-- a). aan Duitse zijde Wasser- und Bodenverband Spanische Ley: 1 vertegenwoordiger Wasser- und Bodenverband Hülmer Heide: 1 vertegenwoordiger
+- a) aan Duitse zijde Wasser- und Bodenverband Spanische Ley: 1 vertegenwoordiger Wasser- und Bodenverband Hülmer Heide: 1 vertegenwoordiger
 
-- b). aan Nederlandse zijde Waterschap Het Maasterras: 2 vertegenwoordigers
+- b) aan Nederlandse zijde Waterschap Het Maasterras: 2 vertegenwoordigers
 
 Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordiger van de Duitse en de Nederlandse partij, te beginnen met de eerstgenoemde.
 
@@ -158,24 +125,24 @@ Het voorzitterschap wordt jaarlijks afwisselend bekleed door een vertegenwoordig
 
 2. De overeenkomst vervangt vanaf de dag van inwerkingtreding:
 
-- a). de overeenkomst van 28 april 1933 gesloten tussen het Hülmer-Heidegenossenschaft in Weeze enerzijds en de gemeente Bergen anderzijds inzake de verbetering en het onderhoud van de Horsterbeek en de Eckeltsebeek op Nederlands gebied;
+- a) de overeenkomst van 28 april 1933 gesloten tussen het Hülmer-Heidegenossenschaft in Weeze enerzijds en de gemeente Bergen anderzijds inzake de verbetering en het onderhoud van de Horsterbeek en de Eckeltsebeek op Nederlands gebied;
 
-- b). de aanvulling van 29 juni/3 juli 1935 op de overeenkomst van 28 april 1933.
+- b) de aanvulling van 29 juni/3 juli 1935 op de overeenkomst van 28 april 1933.
 
 OPGEMAAKT te Venlo, de 16e november 1979 in zeven exemplaren, elk in de Nederlandse en Duitse taal, waarbij beide teksten gelijkelijk bindend zijn.
 
 (w.g.) K. GÖDDE
 
-**Voorzitter van het Wasser- und Bodenverband Spanische Ley**
+*Voorzitter van het Wasser- und Bodenverband Spanische Ley*
 
 (w.g.) A. KEMPKES
 
-**Voorzitter van het Wasser- und Bodenverband Hülmer Heide alsmede Voorzitter van het Wasser- und Bodenverband Wolfsgraben**
+*Voorzitter van het Wasser- und Bodenverband Hülmer Heide alsmede Voorzitter van het Wasser- und Bodenverband Wolfsgraben*
 
 (w.g.) M. HORNBERGS
 
-**Voorzitter van het Wasser- und Bodenverband Schwarz-, Laar- und Baaler Bruch**
+*Voorzitter van het Wasser- und Bodenverband Schwarz-, Laar- und Baaler Bruch*
 
 (w.g.) B. H. CARIS
 
-**Voorzitter van het waterschap Het Maasterras**
+*Voorzitter van het waterschap Het Maasterras*

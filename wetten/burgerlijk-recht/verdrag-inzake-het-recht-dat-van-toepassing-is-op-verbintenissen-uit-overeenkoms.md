@@ -1,48 +1,21 @@
 ---
 title: "Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst"
 identifier: "BWBV0003771"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-10-01"
-last_updated: "1998-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003771"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10003704943"
-version_id: "10003765972"
-internal_id: "C10006980191"
-label_id: "10003690324"
-dtd_version: "2.0"
-original_entry_into_force: "1991-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003771/1998-10-01/0"
-intitule_bron: "Trb.1980-156"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-10-01"
-intitule_in_force: "1991-07-27"
-intitule_status: "goed"
-original_publication: "Trb.1980-156"
-original_published_date: "1980-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-156"
-entry_into_force_date: "1991-09-01"
-jci_1_3: "jci1.3:c:BWBV0003771&z=1998-10-01&g=1998-10-01"
-jci_1_0: "1.0:c:BWBV0003771&g=1998-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1991-09-01"
+publicatiedatum: 1991-09-01
+laatste_update: 1998-10-01
+status: geldig
+toestand: 1998-10-01
+bron: "https://wetten.overheid.nl/BWBV0003771"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst
 
-Preambule
+*Preambule De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, Geleid door de wens om op het gebied van het internationaal privaatrecht verder te gaan met de in de Gemeenschap reeds begonnen eenmaking van het recht, met name ter zake van de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen, Verlangende eenvormige regels op te stellen voor het recht dat van toepassing is op verbintenissen uit overeenkomst, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
-De Hoge Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
-
-Geleid door de wens om op het gebied van het internationaal privaatrecht verder te gaan met de in de Gemeenschap reeds begonnen eenmaking van het recht, met name ter zake van de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen,
-
-Verlangende eenvormige regels op te stellen voor het recht dat van toepassing is op verbintenissen uit overeenkomst,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-## TITEL I. TOEPASSINGSGEBIED
+### TITEL I. TOEPASSINGSGEBIED
 
 ##### Artikel 1. Toepassingsgebied
 
@@ -50,27 +23,27 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 2. Zij zijn niet van toepassing op
 
-- a). De staat en bevoegdheid van natuurlijke personen, behoudens artikel 11;
+- a) De staat en bevoegdheid van natuurlijke personen, behoudens artikel 11;
 
-- b). verbintenissen uit overeenkomst betreffende:
+- b) verbintenissen uit overeenkomst betreffende:
 
-- -. testamenten en erfenissen;
+   - - testamenten en erfenissen;
 
-- -. huwelijksgoederenrecht;
+   - - huwelijksgoederenrecht;
 
-- -. rechten en verplichtingen wit familierechtelijke betrekkingen tussen ouders en kinderen, uit bloedverwantschap, huwelijk en aanverwantschap, met inbegrip van onderhoudsverplichtingen jegens onwettige kinderen;
+   - - rechten en verplichtingen wit familierechtelijke betrekkingen tussen ouders en kinderen, uit bloedverwantschap, huwelijk en aanverwantschap, met inbegrip van onderhoudsverplichtingen jegens onwettige kinderen;
 
-- c). verbintenissen uit wissels, cheques, orderbriefjes, alsmede andere verhandelbare waardepapieren, voor zover de verbintenissen uit deze andere papieren het gevolg zijn van hun verhandelbaarheid;
+- c) verbintenissen uit wissels, cheques, orderbriefjes, alsmede andere verhandelbare waardepapieren, voor zover de verbintenissen uit deze andere papieren het gevolg zijn van hun verhandelbaarheid;
 
-- d). overeenkomsten tot arbitrage en tot aanwijzing van een bevoegde rechter;
+- d) overeenkomsten tot arbitrage en tot aanwijzing van een bevoegde rechter;
 
-- e). kwesties behorende tot het recht inzake vennootschappen, verenigingen en rechtspersonen, zoals de oprichting, de rechts- en handelingsbevoegdheid, het inwendig bestel en de ontbinding van vennootschappen, verenigingen en rechtspersonen, alsmede de persoonlijke aansprakelijkheid van de vennoten en de organen voor de schulden van de vennootschap, de vereniging of de rechtspersoon;
+- e) kwesties behorende tot het recht inzake vennootschappen, verenigingen en rechtspersonen, zoals de oprichting, de rechts- en handelingsbevoegdheid, het inwendig bestel en de ontbinding van vennootschappen, verenigingen en rechtspersonen, alsmede de persoonlijke aansprakelijkheid van de vennoten en de organen voor de schulden van de vennootschap, de vereniging of de rechtspersoon;
 
-- f). de vraag of een vertegenwoordiger zijn principaal, dan wel of een orgaan van een vennootschap, vereniging of rechtspersoon deze vennootschap, vereniging of rechtspersoon jegens een derde kan binden;
+- f) de vraag of een vertegenwoordiger zijn principaal, dan wel of een orgaan van een vennootschap, vereniging of rechtspersoon deze vennootschap, vereniging of rechtspersoon jegens een derde kan binden;
 
-- g). de oprichting van „trusts”, alsmede de daardoor ontstane rechtsbetrekkingen tussen oprichters, „trustees” en begunstigden;
+- g) de oprichting van „trusts”, alsmede de daardoor ontstane rechtsbetrekkingen tussen oprichters, „trustees” en begunstigden;
 
-- h). het bewijs en de rechtspleging, behoudens artikel 14.
+- h) het bewijs en de rechtspleging, behoudens artikel 14.
 
 3. De bepalingen van dit Verdrag zijn niet van toepassing op verzekeringsovereenkomsten waarin risico's worden gedekt die op het grondgebied van de Lid-Staten van de Europese Economische Gemeenschap zijn gelegen. Bij de beoordeling van de vraag of een risico op deze grondgebieden is gelegen past de rechter zijn eigen recht toe.
 
@@ -80,7 +53,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het het recht is van een verdragsluitende Staat.
 
-## TITEL II. EENVORMIGE REGELS
+### TITEL II. EENVORMIGE REGELS
 
 ##### Artikel 3. Rechtskeuze door partijen
 
@@ -110,19 +83,19 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 2. Ongeacht artikel 3 kan de rechtskeuze van partijen er niet toe leiden dat de consument de bescherming verliest welke hij geniet op grond van de dwingende bepalingen van het recht van het land waar hij zijn gewone verblijfplaats heeft, indien:
 
-- -. de sluiting van de overeenkomst in dat land is voorafgegaan door een bijzonder voorstel of publiciteit en indien de consument in dat land de voor de sluiting van die overeenkomst noodzakelijke handelingen heeft verricht,
+- - de sluiting van de overeenkomst in dat land is voorafgegaan door een bijzonder voorstel of publiciteit en indien de consument in dat land de voor de sluiting van die overeenkomst noodzakelijke handelingen heeft verricht,
 
-- -. de wederpartij van de consument of zijn vertegenwoordiger de bestelling van de consument in dat land heeft ontvangen, of
+- - de wederpartij van de consument of zijn vertegenwoordiger de bestelling van de consument in dat land heeft ontvangen, of
 
-- -. het een koopovereenkomst betreft en de consument vanuit dat land naar een ander land is gereisd en daar de bestelling heeft gedaan, mits de reis door de verkoper is georganiseerd met het doel de consument tot koop te bewegen.
+- - het een koopovereenkomst betreft en de consument vanuit dat land naar een ander land is gereisd en daar de bestelling heeft gedaan, mits de reis door de verkoper is georganiseerd met het doel de consument tot koop te bewegen.
 
 3. Ongeacht artikel 4 worden deze overeenkomsten, bij gebreke van een rechtskeuze overeenkomstig artikel 3, beheerst door het recht van het land waar de consument zijn gewone verblijfplaats heeft, indien zij zijn gesloten in de in het tweede lid beschreven omstandigheden.
 
 4. Dit artikel is niet van toepassing op:
 
-- a). de vervoerovereenkomst;
+- a) de vervoerovereenkomst;
 
-- b). de overeenkomst tot verstrekking van diensten, wanneer de diensten aan de consument uitsluitend moeten worden verstrekt in een ander land dan dat waar hij zijn gewone verblijfplaats heeft.
+- b) de overeenkomst tot verstrekking van diensten, wanneer de diensten aan de consument uitsluitend moeten worden verstrekt in een ander land dan dat waar hij zijn gewone verblijfplaats heeft.
 
 5. Ongeacht het vierde lid is dit artikel van toepassing op de overeenkomst waarbij voor één enkele prijs zowel vervoer als verblijf wordt aangeboden.
 
@@ -132,9 +105,9 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 2. Ongeacht artikel 4 wordt de arbeidsovereenkomst, bij gebreke van een rechtskeuze overeenkomstig artikel 3, beheerst door:
 
-- a). het recht van het land waar de werknemer ter uitvoering van de overeenkomst gewoonlijk zijn arbeid verricht, zelfs wanneer hij tijdelijk in een ander land te werk is gesteld, of
+- a) het recht van het land waar de werknemer ter uitvoering van de overeenkomst gewoonlijk zijn arbeid verricht, zelfs wanneer hij tijdelijk in een ander land te werk is gesteld, of
 
-- b). het recht van het land waar zich de vestiging bevindt die de werknemer in dienst heeft genomen, wanneer deze niet in een zelfde land gewoonlijk zijn arbeid verricht,
+- b) het recht van het land waar zich de vestiging bevindt die de werknemer in dienst heeft genomen, wanneer deze niet in een zelfde land gewoonlijk zijn arbeid verricht,
 
 tenzij uit het geheel der omstandigheden blijkt dat de arbeidsovereenkomst nauwer is verbonden met een ander land, in welk geval het recht van dat andere land toepasselijk is.
 
@@ -168,15 +141,15 @@ tenzij uit het geheel der omstandigheden blijkt dat de arbeidsovereenkomst nauwe
 
 1. Het recht dat ingevolge de artikelen 3 tot en met 6 en 12 van dit Verdrag op de overeenkomst toepasselijk is, beheerst met name:
 
-- a). de uitlegging ervan;
+- a) de uitlegging ervan;
 
-- b). de nakoming ervan;
+- b) de nakoming ervan;
 
-- c). de gevolgen van gehele of gedeeltelijke tekortkoming, daaronder begrepen de vaststelling van de schade voor zover hiervoor rechtsregels gelden, een en ander binnen de grenzen welke het procesrecht van de rechter aan diens bevoegdheden stelt;
+- c) de gevolgen van gehele of gedeeltelijke tekortkoming, daaronder begrepen de vaststelling van de schade voor zover hiervoor rechtsregels gelden, een en ander binnen de grenzen welke het procesrecht van de rechter aan diens bevoegdheden stelt;
 
-- d). de verschillende wijzen waarop verbintenissen tenietgaan, alsmede de verjaring en het verval van rechten als gevolg van het verstrijken van een termijn;
+- d) de verschillende wijzen waarop verbintenissen tenietgaan, alsmede de verjaring en het verval van rechten als gevolg van het verstrijken van een termijn;
 
-- e). de gevolgen van de nietigheid van de overeenkomst.
+- e) de gevolgen van de nietigheid van de overeenkomst.
 
 2. Ten aanzien van de wijze van nakoming en de door de schuldeiser in geval van tekortkoming te nemen maatregelen, wordt rekening gehouden met het recht van het land waar de overeenkomst wordt nagekomen.
 
@@ -236,15 +209,15 @@ Dit verdrag laat onverlet de toepassing van internationale verdragen waarbij een
 
 1. Iedere verdragsluitende Staat kan zich op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring, het recht voorbehouden niet toe te passen:
 
-- a). artikel 7, eerste lid;
+- a) artikel 7, eerste lid;
 
-- b). artikel 10, eerste lid, onder e).
+- b) artikel 10, eerste lid, onder e).
 
 2. Iedere verdragsluitende Staat kan tevens, bij de verklaring met betrekking tot een uitbreiding van de toepasselijkheid van het Verdrag overeenkomstig artikel 27, tweede lid, een of meer van deze voorbehouden maken waarvan de werking is beperkt tot de of sommige van de gebieden bedoeld in de uitbreiding.
 
 3. Iedere verdragsluitende Staat kan een door hem gemaakt voorbehoud op elk moment intrekken; het voorbehoud verliest zijn gevolg op de eerste dag van de derde kalendermaand na de kennisgeving van de intrekking.
 
-## TITEL III. SLOTBEPALINGEN
+### TITEL III. SLOTBEPALINGEN
 
 ##### Artikel 23
 
@@ -274,11 +247,11 @@ Iedere verdragsluitende Staat kan verzoeken om herziening van dit Verdrag. In da
 
 2. In afwijking van het eerste lid:
 
-- a). is dit Verdrag niet van toepassing op de Faeröer, tenzij het Koninkrijk Denemarken anders verklaart;
+- a) is dit Verdrag niet van toepassing op de Faeröer, tenzij het Koninkrijk Denemarken anders verklaart;
 
-- b). is dit Verdrag niet van toepassing op de Europese gebieden buiten het Verenigd Koninkrijk, waarvan het Verenigd Koninkrijk de buitenlandse betrekkingen verzorgt, tenzij het Verenigd Koninkrijk anders verklaart ten aanzien van een zodanig gebied;
+- b) is dit Verdrag niet van toepassing op de Europese gebieden buiten het Verenigd Koninkrijk, waarvan het Verenigd Koninkrijk de buitenlandse betrekkingen verzorgt, tenzij het Verenigd Koninkrijk anders verklaart ten aanzien van een zodanig gebied;
 
-- c). is dit Verdrag van toepassing op de Nederlandse Antillen, indien het Koninkrijk der Nederlanden een verklaring in deze zin aflegt.
+- c) is dit Verdrag van toepassing op de Nederlandse Antillen, indien het Koninkrijk der Nederlanden een verklaring in deze zin aflegt.
 
 3. Deze verklaringen kunnen op elk tijdstip worden afgelegd door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van de Europese Gemeenschappen.
 
@@ -310,15 +283,15 @@ Iedere verdragsluitende Staat kan verzoeken om herziening van dit Verdrag. In da
 
 De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Staten die Partij zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) in kennis van:
 
-- a). de ondertekeningen:
+- a) de ondertekeningen:
 
-- b). het nederleggen van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
+- b) het nederleggen van iedere akte van bekrachtiging, aanvaarding of goedkeuring;
 
-- c). het tijdstip van inwerkingtreding van dit Verdrag;
+- c) het tijdstip van inwerkingtreding van dit Verdrag;
 
-- d). de kennisgevingen, gedaan ingevolge de artikelen 23, 24, 25, 26, 27 en 30;
+- d) de kennisgevingen, gedaan ingevolge de artikelen 23, 24, 25, 26, 27 en 30;
 
-- e). de voorbehouden en de intrekking van de voorbehouden bedoeld in artikel 22.
+- e) de voorbehouden en de intrekking van de voorbehouden bedoeld in artikel 22.
 
 ##### Artikel 32
 

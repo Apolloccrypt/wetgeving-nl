@@ -1,1028 +1,977 @@
 ---
 title: "Verdrag inzake het wegverkeer"
 identifier: "BWBV0003507"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-02-09"
-last_updated: "2025-02-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003507"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003564063"
-version_id: "10003622332"
-internal_id: "C10006985471"
-label_id: "10003551134"
-dtd_version: "2.0"
-original_entry_into_force: "2008-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003507/2025-02-09/0"
-intitule_bron: "Trb.1974-35"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-03-15"
-intitule_in_force: "2008-04-18"
-intitule_status: "goed"
-original_publication: "Trb.1974-35"
-original_published_date: "1974-03-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-35"
-entry_into_force_date: "2008-11-08"
-jci_1_3: "jci1.3:c:BWBV0003507&z=2025-02-09&g=2025-02-09"
-jci_1_0: "1.0:c:BWBV0003507&g=2025-02-09"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-11-08"
+publicatiedatum: 2008-11-08
+laatste_update: 2025-02-09
+status: geldig
+toestand: 2025-02-09
+bron: "https://wetten.overheid.nl/BWBV0003507"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake het wegverkeer
 
-De Verdragsluitende Partijen,
+*The Contracting Parties, Desiring to facilitate international road traffic and to increase road safety through the adoption of uniform traffic rules, Have agreed upon the following provisions:*
 
-Geleid door de wens het internationale wegverkeer te vergemakkelijken en de verkeersveiligheid te verhogen door het aannemen van eenvormige verkeersregels,
+### Chapter I. GENERAL PROVISIONS
 
-Zijn de navolgende bepalingen overeengekomen:
+##### Article 1. Definitions
 
-### Hoofdstuk I. ALGEMENE BEPALINGEN
+For the purpose of this Convention the following expressions shall have the meanings hereby assigned to them:
 
-##### Artikel 1. Begripsomschrijvingen
+- (a) The “domestic legislation” of a Contracting Party means the entire body of national or local laws and regulations in force in the territory of that Contracting Party;
 
-Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daaraan in dit artikel toegekende betekenis:
+- (b) A vehicle is said to be “in international traffic” in the territory of a State if: provided, however, that a Contracting Party may refuse to regard as being “in international traffic” a vehicle which has remained in its territory for more than one year without a substantial interruption, the duration of which may be fixed by that Contracting Party. A combination of vehicles is said to be “in international traffic” if at least one of the vehicles in the combination conforms to the above definition;
 
-- (a). „Nationale wetgeving” van een Verdragsluitende Partij: het geheel van de nationale of plaatselijke wetten en voorschriften die op het grondgebied van die Verdragsluitende Partij van kracht zijn;
+   - (i) It is owned by a natural or legal person normally resident outside that State;
 
-- (b). Een voertuig wordt geacht zich „in het internationale verkeer” te bevinden op het grondgebied van een bepaalde Staat, indien: met dien verstande evenwel, dat aan een Verdragsluitende Partij het recht is voorbehouden een voertuig niet als „in het internationale verkeer” te beschouwen, indien het langer dan één jaar op het grondgebied van die Staat is verbleven zonder een belangrijke onderbreking, waarvan de duur door die Verdragsluitende Partij kan worden bepaald. Een samenstel van voertuigen wordt geacht zich „in het internationale verkeer” te bevinden, wanneer ten minste één van de voertuigen van dit samenstel aan bovenstaande definities beantwoordt;
+   - (ii) It is not registered in that State; and
 
-- (i). het eigendom is van een natuurlijke persoon of rechtspersoon, die gewoonlijk zijn woonplaats respectievelijk plaats van vestiging buiten die Staat heeft;
+   - (iii) It is temporarily imported into that State;
 
-- (ii). het niet in die Staat is ingeschreven; en
+- (c) “Built-up area” means an area with entries and exits specially sign-posted as such, or otherwise defined in domestic legislation;
 
-- (iii). het tijdelijk in die Staat is ingevoerd;
+- (d) “Road” means the entire surface of any way or street open to public traffic;
 
-- (c). „Bebouwde kom”: een gebied dat op de plaatsen, waar men dit binnen- of uitrijdt, door speciale verkeerstekens als zodanig wordt aangeduid, dan wel een gebied dat in de nationale wetgeving op andere wijze is omschreven;
+- (e) “Carriageway” means the part of a road normally used by vehicular traffic; a road may comprise several carriageways clearly separated from one another by, for example, a dividing strip or a difference of level;
 
-- (d). „Weg”: het gehele oppervlak van elke weg of straat die voor het openbaar verkeer openstaat;
+- (f) On carriageways where one or more side lanes or tracks are reserved for use by certain vehicles, “edge of the carriageway” means, for other road-users, the edge of the remainder of the carriageway;
 
-- (e). „Rijbaan”: dat deel van een weg dat gewoonlijk voor het verkeer met voertuigen wordt gebruikt; een weg kan een aantal rijbanen bevatten duidelijk zichtbaar van elkaar gescheiden zijn, bijvoorbeeld door een scheidende strook of een verschil in niveau;
+- (g) “Lane” means any one of the longitudinal strips into which the carriageway is divisible, whether or not defined by longitudinal road markings, which is wide enough for one moving line of motor vehicles other than motor cycles;
 
-- (f). „Kant van de rijbaan”: op rijbanen waar één of meer aan de buitenzijde van de rijbaan gelegen rijstroken of paden bestemd zijn voor gebruik door bepaalde voertuigen; voor andere weggebruikers de kant van het overige deel van de rijbaan;
+- (g bis) “Cycle lane” means a part of a carriageway designated for cycles. A cycle lane is distinguished from the rest of the carriageway by longitudinal road markings;
 
-- (g). „Rijstrook”: elk van de delen, waarin de rijbaan in de lengterichting kan worden verdeeld, al of niet aangegeven door strepen op het dek in de lengterichting, welke rijstrook voldoende breed moet zijn voor één rij rijdende motorvoertuigen, andere dan motorfietsen;
+- (g ter) “Cycle track” means an independent road or part of a road designated for cycles, signposted as such. A cycle track is separated from other roads or other parts of the same road by structural means;
 
-- (gbis). „Fietsstrook”: een deel van de rijbaan dat voor fietsen bestemd is. Een fietsstrook wordt van de rest van de rijbaan onderscheiden door op het wegdek in de lengterichting aangebrachte tekens;
+- (h) “Intersection” means any level crossroad, junction or fork, including the open areas formed by such crossroads, junctions or forks;
 
-- (gter). „Fietspad”: een aparte weg of deel van een weg bestemd voor fietsen en die of dat als zodanig wordt aangegeven. Een fietspad wordt van andere wegen of andere gedeelten van dezelfde weg gescheiden door fysieke maatregelen;
+- (i) “Level-crossing” means any level intersection between a road and railway or tramway track with its own track formation;
 
-- (h). „Kruising”: elke gelijkvloerse kruising, samenvoeging of splitsing van wegen met inbegrip van de open stukken, die door dergelijke kruisingen, samenvoegingen of splitsingen van wegen zijn ontstaan;
+- (j) “Motorway” means a road specially designed and built for motor traffic, which does not serve properties bordering on it, and which
 
-- (i). „Overweg”: elke gelijkvloerse kruising tussen een weg en een spoor- of tramweg met vrije baan;
+   - (i) Is provided, except at special points or temporarily, with separate carriageways for the two directions of traffic, separated from each other either by a dividing strip not intended for traffic or, exceptionally, by other means;
 
-- (j). „Autosnelweg”: een weg die speciaal is ontworpen en aangelegd voor verkeer met motorvoertuigen en waarop aanliggende percelen geen uitweg hebben en die:
+   - (ii) Does not cross at level with any road, railway or tramway track, or footpath; and
 
-- (i). behalve op bepaalde plaatsen of tijdelijk is voorzien van gescheiden rijbanen voor beide verkeersrichtingen, welke rijbanen van elkaar gescheiden zijn hetzij door een scheidende strook die niet voor verkeer is bestemd, hetzij bij uitzondering op andere wijze;
+   - (iii) Is specially sign-posted as a motorway;
 
-- (ii). geen andere weg, spoor- of tramweg of voetpad op hetzelfde niveau kruist; en
+- (k) A vehicle is said to be: Nevertheless, it shall be open to Contracting Parties to regard as “standing” any vehicle which is stationary within the meaning of sub-paragraph (ii) above for a period not exceeding that fixed by domestic legislation, and to regard as “parked” any vehicle which is stationary within the meaning of sub-paragraph (i) above for a period exceeding that fixed by domestic legislation;
 
-- (iii). door speciale verkeerstekens als autosnelweg is aangeduid;
+   - (i) “Standing” if it is stationary for the time needed to pick up or set down persons or to load or unload goods; and
 
-- (k). Een voertuig wordt geacht: Het staat de Verdragsluitende Partijen echter vrij voertuigen die niet in beweging zijn zoals bedoeld in bovenstaande sub-paragraaf (ii) als „stilstaand” te beschouwen gedurende een tijdsbestek dat de door de nationale wetgeving vastgestelde duur niet te boven gaat, en niet in beweging zijnde voertuigen als „geparkeerd” te beschouwen, wanneer deze voertuigen niet in beweging zijn, zoals bedoeld in bovenstaande sub-paragraaf (i), en dit het geval is gedurende een tijdsbestek dat de door de nationale wetgeving vastgestelde duur wel te boven gaat;
+   - (ii) “Parked” if it is stationary for any reason other than the need to avoid interference with another road-user or collision with an obstruction or to comply with traffic regulations, and if the period during which the vehicle is stationary is not limited to the time needed to pick up or set down persons or goods;
 
-- (i). „Stilstaand” te zijn, wanneer het niet in beweging is gedurende de tijd, die nodig is om personen te laten in- of uitstappen of om goederen in of uit te laden; en
+- (l) “Cycle” means any vehicle which has at least two wheels and is propelled solely by the muscular energy of the persons on that vehicle, in particular by means of pedals or hand-cranks;
 
-- (ii). „Geparkeerd” te zijn, wanneer het niet in beweging is om elke andere reden dan de noodzaak een conflictsituatie met een andere weggebruiker of een botsing met een obstakel te vermijden, of om aan verkeersvoorschriften te voldoen, en wanneer de tijd gedurende welke het voertuig niet in beweging is niet is beperkt tot de tijd, nodig om personen te laten in- of uitstappen of goederen in of uit te laden.
+- (m) “Moped” means any two-wheeled or threewheeled vehicle which is fitted with an internal combustion engine having a cylinder capacity not exceeding 50 cc (3.05 cu. in.) and a maximum design speed not exceeding 50 km (30 miles) per hour. Contracting Parties are free, however, not to regard as mopeds, under their domestic legislation, vehicles which do not have the characteristics of a cycle with respect to their use, in particular the characteristic that they can be propelled by pedals, or whose maximum design speed, whose mass, or certain of whose engine characteristics exceed certain limits. Nothing in this definition shall be construed as preventing Contracting Parties from treating mopeds exactly as cycles in applying the provisions of their domestic legislation regarding road traffic;
 
-- (l). „Fiets”: elk voertuig met ten minste twee wielen dat uitsluitend wordt voortbewogen door de spierkracht van de berijders, in het bijzonder door middel van pedalen of van met de hand bewogen hefbomen;
+- (n) “Motor cycle” means any two-wheeled vehicle, with or without a side-car, which is equipped with a propelling engine. Contracting Parties may also treat as motor cycles in their domestic legislation threewheeled vehicles whose unladen mass does not exceed 400 kg (900 lb). The term “motor cycle” does not include mopeds, although Contracting Parties may, provided they make a declaration to this effect in conformity with Article 54, paragraph 2, of this Convention, treat mopeds as motor cycles for the purposes of the Convention;
 
-- (m). „Bromfiets”: elk voertuig met twee of drie wielen dat is uitgerust met een verbrandingsmotor met een maximale cilinderinhoud van 50 cm3en met een door de constructie bepaalde maximum snelheid van ten hoogste 50 km (mijl) per uur. Het staat de Verdragsluitende Partijen echter vrij krachtens hun nationale wetgeving niet als bromfietsen te beschouwen voertuigen die wat het gebruik betreft niet de eigenschappen van een fiets vertonen, in het bijzonder de eigenschap dat zij met behulp van pedalen kunnen worden voortbewogen, of waarvan de door de constructie bepaalde maximum snelheid, het massa of bepaalde eigenschappen van de motor bepaalde grenzen overschrijden. Niets in deze omschrijving mag zo worden uitgelegd dat dit de Verdragsluitende Partijen zou beletten bromfietsen op dezelfde wijze te behandelen als fietsen wat betreft de toepassing van de bepalingen van hun nationale verkeerswetgeving;
+- (o) “Power-driven vehicle” means any self-propelled road vehicle, other than a moped in the territories of Contracting Parties which do not treat mopeds as motor cycles, and other than a rail-borne vehicle;
 
-- (n). „Motorfiets”: elk voertuig op twee wielen met of zonder zijspan, dat is voorzien van een voortstuwende motor. De Verdragsluitende Partijen kunnen in hun nationale wetgeving ook driewielige voertuigen als motorfietsen aanmerken, mits het ledig massa daarvan maximaal 400 kg bedraagt. De Uitdrukking „motorfiets” heeft geen betrekking op bromfietsen, hoewel de Verdragsluitende Partijen, mits zij hiertoe een verklaring afleggen overeenkomstig artikel 54, tweede lid, dit Verdrag, voor de toepassing van dit Verdrag bromfietsen als motorfietsen kunnen beschouwen;
+- (p) “Motor vehicle” means any power-driven vehicle which is normally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods. This term embraces trolley-buses, that is to say, vehicles connected to an electric conductor and not rail-borne. It does not cover vehicles, such as agricultural tractors, which are only incidentally used for carrying persons or goods by road or for drawing, on the road, vehicles used for the carriage of persons or goods;
 
-- (o). Onder „gemotoriseerd voertuig” wordt verstaan elk zichzelf over de weg voortstuwend wegvoertuig anders dan een bromfiets in de gebieden van de Verdragsluitende Partijen die bromfietsen niet als motorfietsen beschouwen, en anders dan een voertuig dat op rails wordt voortbewogen;
+- (q) “Trailer” means any vehicle designed to be drawn by a powerdriven vehicle and includes semi-trailers;
 
-- (p). Onder „motorvoertuig” wordt verstaan elk gemotoriseerd voertuig, dat gewoonlijk wordt gebruikt voor het vervoer van personen of goederen langs de weg, of om voertuigen die worden gebruikt voor het vervoer van personen of goederen langs de weg voort te trekken. Deze uitdrukking omvat mede trolleybussen, dat wil zeggen voertuigen die in verbinding staan met een elektrische geleiding en niet op rails rijden. Zij heeft geen betrekking op voertuigen zoals landbouwtrekkers, die slechts bij uitzondering worden gebruikt om personen of goederen langs de weg te vervoeren of om voertuigen die personen of goederen langs de weg vervoeren te trekken;
+- (r) “semi-trailer” means any trailer designed to be coupled to a motor vehicle in such a way that part of it rests on the motor vehicle and that a substantial part of its mass and of the mass of its load is borne by the motor vehicle;
 
-- (q). „Aanhangwagen”: elk voertuig dat is bestemd om door een gemotoriseerd voertuig te worden getrokken; de uitdrukking omvat tevens opleggers;
+- (s) “Light trailer” means any trailer of a permissible maximum mass not exceeding 750 kg (1,650 lb);
 
-- (r). „Oplegger”: elke aanhangwagen die is bestemd om dusdanig aan een motorvoertuig te worden gekoppeld, dat een deel ervan op het voertuig rust en dat een aanzienlijk deel van het massa van de oplegger en van zijn lading door het motorvoertuig wordt gedragen;
+- (t) “Combination of vehicles” means coupled vehicles which travel on the road as a unit;
 
-- (s). „Lichte aanhangwagen”: elke aanhangwagen, waarvan het maximum toegestane massa 750 kg niet te boven gaat;
+- (u) “Articulated vehicle” means a combination of vehicles comprising a motor vehicle and semi-trailer coupled to the motor vehicle;
 
-- (t). „Samenstel van voertuigen”: aan elkaar gekoppelde voertuigen die zich op de weg als een geheel voortbewegen;
+- (v) “Driver” means any person who drives a motor vehicle or other vehicle (including a cycle), or who guides cattle, singly or in herds, or flocks, or draught, pack or saddle animals on a road;
 
-- (u). „Geleed voertuig”: een samenstel van voertuigen, bestaande uit een motorvoertuig en een oplegger die aan het motorvoertuig is gekoppeld;
+- (w) “Permissible maximum mass” means the maximum mass of the laden vehicle declared permissible by the competent authority of the State in which the vehicle is registered;
 
-- (v). „Bestuurder”: degene die een motorvoertuig of enig ander voertuig bestuurt (met inbegrip van een fiets) of die vee, hetzij enkele dieren hetzij in kudden, of trek-, last- of rijdieren op de weg onder zijn hoede heeft;
+- (x) “Unladen mass” means the mass of the vehicle without crew, passengers or load, but with a full supply of fuel and with the tools which the vehicle normally carries;
 
-- (w). „Maximum toegestaan massa”: het maximum massa van het Voertuig in beladen toestand toegelaten door het bevoegde gezag van de Staat waar het voertuig is ingeschreven;
+- (y) “Laden mass” means the actual mass of the vehicle as loaded, with the crew and passengers on board;
 
-- (x). „Ledig massa”: het massa van het voertuig zonder bemanning, passagiers of lading, maar met inbegrip van zijn volledige voorraad brandstof en van het gereedschap dat het voertuig gewoonlijk meevoert;
+- (z) “Direction of traffic” and “appropriate to the direction of traffic” mean the right-hand side if, under domestic legislation, the driver of a vehicle must allow an oncoming vehicle to pass on his left; otherwise these expressions mean the left-hand side;
 
-- (y). „Totaal massa”: het werkelijke massa van het voertuig met inbegrip van lading, bemanning en passagiers;
+- (aa) The requirement that a driver shall “give way” to other vehicles means that he must not continue or resume his advance or manoeuvre if by so doing he might compel the drivers of other vehicles to change the direction or speed of their vehicle abruptly;
 
-- (z). „Rijrichting” en „overeenkomstig de rijrichting”: de rechterzijde indien ingevolge de nationale wetgeving de bestuurder een tegemoetkomend voertuig aan zijn linkerzijde moet laten voorbijgaan; in het omgekeerde geval betekenen deze uitdrukkingen: de linkerzijde;
+- (ab) “Automated driving system” refers to a vehicle system that uses both hardware and software to exercise dynamic control of a vehicle on a sustained basis;
 
-- (aa). Onder de eis, dat de bestuurder andere voertuigen „voorrang” moet „verlenen” wordt verstaan, dat hij niet mag doorrijden of een manoeuvre mag voortzetten, indien zulks de kans met zich zou brengen dat bestuurders van andere voertuigen gedwongen worden de richting of de snelheid van hun voertuig plotseling te wijzigen;
+- (ac) “Dynamic control” refers to carrying out all the real-time operational and tactical functions required to move the vehicle. This includes controlling the vehicle’s lateral and longitudinal motion, monitoring the road, responding to events in the road traffic, and planning and signalling for manoeuvres.
 
-- (ab). „Geautomatiseerd rijsysteem”: een voertuigsysteem dat gebruikmaakt van zowel hardware als software voor het voortdurend dynamisch besturen van een voertuig;
+##### Article 2. Annexes to the Convention
 
-- (ac). „Dynamisch besturen”: het in real time uitvoeren van alle operationele en tactische functies die nodig zijn om het voertuig te verplaatsen. Dit omvat het besturen van de laterale en longitudinale bewegingen van het voertuig, het monitoren van de weg, het reageren op gebeurtenissen in het wegverkeer en het plannen en signaleren van manoeuvres.
+The Annexes to this Convention, namely,
 
-##### Artikel 2. Bijlagen bij het Verdrag
+Annex 1: Exceptions to the obligation to admit motor vehicles and trailers in international traffic;
 
-De Bijlagen bij dit Verdrag, te weten,
+Annex 2: Registration number of motor vehicles and trailers in international traffic;
 
-Bijlage 1: Uitzonderingen op de verplichting motorvoertuigen en aanhangwagens in het internationale verkeer toe te laten;
+Annex 3: Distinguishing sign of motor vehicles and trailers in international traffic;
 
-Bijlage 2: Het kenteken van motorvoertuigen en aanhangwagens in het internationale verkeer;
+Annex 4: Identification marks of motor vehicles and trailers in international traffic;
 
-Bijlage 3: Het onderscheidingsteken van motorvoertuigen en aanhangwagens in het internationale verkeer;
+Annex 5: Technical conditions concerning motor vehicles and trailers;
 
-Bijlage 4: Identificatiemerken van motorvoertuigen en aanhangwagens in het internationale verkeer;
+Annex 6: Domestic driving permit; and
 
-Bijlage 5: Technische eisen betreffende motorvoertuigen en aanhangwagens;
+Annex 7: International driving permit;
 
-Bijlage 6: Het nationale rijbewijs; en
+are integral parts of this Convention.
 
-Bijlage 7: Het internationale rijbewijs;
+##### Article 3. Obligations of the Contracting Parties
 
-zijn integrerende onderdelen van dit Verdrag.
+1. - (a) Contracting Parties shall take appropriate measures to ensure that the rules of the road in force in their territories conform in substance to the provisions of Chapter II of this Convention. Provided that the said rules are in no way incompatible with the said provisions:
 
-##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
+   - (i) The said rules need not reproduce any of the said provisions which are applicable to situations that do not arise in the territories of the Contracting Parties in question;
 
-- (a). De Verdragsluitende Partijen nemen passende maatregelen opdat de op hun grondgebied geldende verkeersregels in hoofdzaak overeenkomen met de bepalingen van Hoofdstuk II van dit Verdrag. Op voorwaarde dat deze regels op geen enkele wijze in strijd zijn met genoemde bepalingen:
+   - (ii) The said rules may include provisions not contained in the said Chapter II.
 
-- (i). behoeven deze regels geen van de genoemde bepalingen over te nemen die van toepassing zijn op omstandigheden die zich op het grondgebied van de desbetreffende Verdragsluitende Partijen niet voordoen;
+- (b) The provisions of this paragraph do not require Contracting Parties to provide penalties for any violation of those provisions of Chapter II which are reproduced in their rules of the road.
 
-- (ii). mogen deze regels bepalingen bevatten die niet in genoemd Hoofdstuk II voorkomen.
+2. - (a) Contracting Parties shall also take appropriate measures to ensure that the rules in force in their territories concerning the technical requirements to be satisfied by motor vehicles and trailers conform to the provisions of Annex 5 to this Convention; provided that they are in no way contrary to the safety principles governing the provisions of Annex 5, the said rules may contain provisions not contained in Annex 5. Contracting Parties shall also take appropriate measures to ensure that motor vehicles and trailers registered in their territories conform to the provisions of Annex 5 to this Convention when entering international traffic.
 
-- (b). De bepalingen van dit lid eisen niet van de Verdragsluitende Partijen dat zij overtredingen van de bepalingen van Hoofdstuk II die zijn opgenomen in hun eigen verkeersregels strafbaar stellen.
+- (b) The provisions of this paragraph do not impose any obligations on the Contracting Parties with respect to the rules in force in their territories concerning the technical requirements to be satisfied by powerdriven vehicles which are not motor vehicles within the meaning of this Convention.
 
-- (a). De Verdragsluitende Partijen nemen tevens passende maatregelen opdat de op hun grondgebied geldende regels betreffende de technische eisen waaraan motorvoertuigen en aanhangwagens dienen te voldoen, overeenkomen met de bepalingen in Bijlage 5 bij dit Verdrag; op voorwaarde dat zij op geen enkele wijze in strijd zijn met de veiligheidsbeginselen die aan de bepalingen in Bijlage 5 ten grondslag liggen, mogen deze regels bepalingen bevatten die niet in Bijlage 5 voorkomen. De Verdragsluitende Partijen nemen tevens passende maatregelen opdat motorvoertuigen en aanhangwagens, die op hun grondgebied zijn ingeschreven, voldoen aan de bepalingen in Bijlage 5 bij dit Verdrag wanneer zij aan het internationale verkeer deelnemen.
+3. Subject to the exceptions provided for in Annex 1 to this Convention, Contracting Parties shall be bound to admit to their territories in international traffic motor vehicles and trailers which fulfil the conditions laid down in Chapter III of this Convention and whose drivers fulfil the conditions laid down in Chapter IV; they shall also be bound to recognize registration certificates issued in accordance with the provisions of Chapter III as *prima facie* evidence that the vehicles to which they refer fulfil the conditions laid down in the said Chapter III.
 
-- (b). De bepalingen van dit lid leggen aan de Verdragsluitende Partijen generlei verplichtingen op ten aanzien van de op hun grondgebied geldende regels betreffende de technische eisen waaraan die gemotoriseerde voertuigen moeten voldoen, die niet worden beschouwd als motorvoertuigen in de zin van dit Verdrag.
+4. Measures which the Contracting Parties have taken or may take, either unilaterally or under bilateral or multilateral agreements, to admit to their territories in international traffic motor vehicles and trailers that do not satisfy all the conditions stated in Chapter III of this Convention and to recognize, in cases other than those specified in Chapter IV, the validity in their territories of driving permits issued in the territory of another Contracting Party shall be deemed to be in conformity with the object of this Convention.
 
-3. Behoudens de in Bijlage 1 bij dit Verdrag genoemde uitzonderingen, zijn de Verdragsluitende Partijen verplicht in hun eigen gebied in het internationale verkeer die motorvoertuigen en aanhangwagens toe te laten, die voldoen aan de in Hoofdstuk III van het Verdrag vastgelegde eisen en waarvan de bestuurders voldoen aan de in Hoofdstuk IV vastgelegde eisen; zij zijn tevens verplicht de kentekenbewijzen, die zijn uitgegeven overeenkomstig de bepalingen van Hoofdstuk III, te erkennen als **prima facie** bewijs dat de voertuigen waarop deze betrekking hebben voldoen aan de eisen die in genoemd Hoofdstuk III zijn vastgelegd.
+5. Contracting Parties shall be bound to admit to their territories in international traffic cycles and mopeds which fulfil the technical conditions laid down in Chapter V of this Convention and whose drivers have their normal residence in the territory of another Contracting Party. No Contracting Party shall require the drivers of cycles or mopeds in international traffic to hold a driving permit; however, Contracting Parties which have declared in conformity with Article 54 paragraph 2, of this Convention that they treat mopeds as motor cycles may require the drivers of mopeds in international traffic to hold a driving permit.
 
-4. Maatregelen, die de Verdragsluitende Partijen hebben genomen of wellicht zullen nemen, hetzij unilateraal dan wel ingevolge bilaterale of multilaterale overeenkomsten, om op hun grondgebied in het internationale verkeer motorvoertuigen en aanhangwagens toe te laten die niet voldoen aan alle in Hoofdstuk III van dit Verdrag vastgelegde eisen, en om, in andere gevallen dan die welke in Hoofdstuk IV zijn aangegeven, op hun grondgebied de geldigheid te erkennen van rijbewijzen die zijn uitgegeven op het grondgebied van een andere Verdragsluitende Partij, zullen worden geacht overeen te stemmen met het doel van dit Verdrag.
+5bis. Contracting Parties will take the necessary measures to ensure that road safety education be provided on a systematic and continuous basis, particularly in schools at all levels.
 
-5. De Verdragsluitende Partijen zijn verplicht op hun grondgebied in het internationale verkeer fietsen en bromfietsen toe te laten, die voldoen aan de in Hoofdstuk V van dit Verdrag vastgelegde technische eisen en waarvan de bestuurders gewoonlijk woonachtig zijn op het grondgebied van een andere Verdragsluitende Partij. Geen enkele Verdragsluitende Partij mag van bestuurders van fietsen of bromfietsen in het internationale verkeer eisen dat zij een rijbewijs bezitten; de Verdragsluitende Partijen daarentegen, die overeenkomstig artikel 54, tweede lid, van dit Verdrag hebben verklaard, dat zij bromfietsen als motorfietsen behandelen kunnen van bestuurders van bromfietsen in het internationale verkeer wel eisen dat zij een rijbewijs bezitten.
+5ter. Whenever driving instruction for learner drivers is provided by professional driving establishments, domestic legislation shall lay down minimum requirements concerning the curriculum and the qualifications of the personnel responsible for providing such instruction.
 
-5bis. De Verdragsluitende Partijen nemen de nodige maatregelen om ervoor zorg te dragen dat er op scholen op alle niveaus systematisch en voortdurend onderricht wordt gegeven op het gebied van de verkeersveiligheid.
+6. Contracting Parties undertake to communicate to any Contracting Party which may so request, the information necessary to ascertain the identity of the person in whose name a power-driven vehicle, or a trailer coupled to such a vehicle, is registered in their territories if the request submitted shows that the vehicle has been involved in an accident or the driver of this vehicle has seriously infringed road traffic rules and is thereby liable to important penalties or disqualification from driving in the territory of the Contracting Party submitting the request.
 
-5ter. Ingeval rijonderricht voor leerling-bestuurders wordt verzorgd door een professionele rijschool, moeten in de nationale wetgeving de minimumeisen worden vastgelegd betreffende het lesprogramma en de kwalificaties van het personeel dat genoemd onderricht geeft.
+7. Measures which the Contracting Parties have taken or may take either unilaterally or under bilateral or multilateral agreements to facilitate international road traffic by simplifying Customs, police, health and other similar formalities or to ensure that Customs offices and posts at a given frontier point have the same competence and are kept open during the same hours shall be deemed to be in conformity with the object of this Convention.
 
-6. De Verdragsluitende Partijen verplichten zich ertoe aan elke andere Verdragsluitende Partij die daartoe een verzoek doet, inlichtingen te verstrekken die nodig zijn om de identiteit vast te stellen van degene op wiens naam een gemotoriseerd voertuig, of een aanhangwagen die aan een dergelijk voertuig is gekoppeld, op hun grondgebied is ingeschreven, indien uit het ingediende verzoek blijkt dat dit voertuig betrokken is geweest bij een ongeval of dat de bestuurder van dit voertuig een ernstige verkeersovertreding heeft begaan waarop een zware straf of ontzegging van de rijbevoegdheid is gesteld op het grondgebied van de Verdragsluitende Partij waarvan het verzoek is uitgegaan.
+8. Nothing in paragraphs 3, 5 and 7 of this Article shall affect the right of a Contracting Party to make the admission to its territory in international traffic of motor vehicles, trailers mopeds and cycles, and of their drivers and occupants, subject to its regulations concerning the commercial carriage of passengers and goods to its regulations concerning insurance of drivers against third-party risks, to its Customs regulations and, in general, to its regulations on matters other than road traffic.
 
-7. Maatregelen, die de Verdragsluitende Partijen hebben genomen of wellicht zullen nemen, hetzij unilateraal, hetzij ingevolge bilaterale of multilaterale overeenkomsten, om het internationale wegverkeer te vergemakkelijken door het vereenvoudigen van douane-, politie- en gezondheidsformaliteiten en van andere, soortgelijke formaliteiten, dan wel om te bevorderen dat douanekantoren en -posten bij bepaalde grensovergangen dezelfde bevoegdheden hebben en gedurende dezelfde tijden zijn geopend, worden geacht overeen te komen met het doel van dit Verdrag.
+##### Article 4. Signs and signals
 
-8. Niets in het derde, vijfde of zevende lid van dit artikel is van invloed op het recht van een Verdragsluitende Partij, op haar grondgebied de toelating in het internationale verkeer van motorvoertuigen, aanhangwagens, bromfietsen en fietsen, en/of hun bestuurders of meerijdenden, afhankelijk te stellen van haar voorschriften betreffende het tegen betaling vervoeren van passagiers en goederen, van haar voorschriften betreffende de verzekering van bestuurders tegen wettelijke aansprakelijkheid van haar douanevoorschriften en, in het algemeen, van haar voorschriften met betrekking tot andere aangelegenheden dan het wegverkeer.
+Contracting Parties to this Convention which are not Contracting Parties to the [Convention on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) opened for signature at Vienna on the same day as this Convention undertake that:
 
-##### Artikel 4. Verkeerstekens
+- (a) All road signs, traffic light signals and road markings installed in their territory shall form a coherent system and shall be designed and placed in such a way as to be easily recognizable;
 
-De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op dezelfde dag als dit Verdrag te Wenen voor ondertekening is opengesteld, verplichten zich er zorg voor te dragen dat;
+- (b) The number of types of sign shall be limited and signs shall be placed only at points where they are deemed useful;
 
-- (a). alle verkeerstekens op borden, en alle verkeerslichten en verkeerstekens op het wegdek aangebracht op hun grondgebied, een samenhangend stelsel vormen en zodanig ontworpen en geplaatst zijn dat zij gemakkelijk te herkennen zijn;
+- (c) Danger warning signs shall be installed at a sufficient distance from obstructions to give drivers adequate warning;
 
-- (b). het aantal soorten verkeerstekens beperkt blijft en dat verkeerstekens uitsluitend geplaatst worden waar zij geacht worden van nut te zijn;
+- (d) It shall be prohibited:
 
-- (c). gevaarstekens op voldoende afstand van de obstakels worden geplaatst om de bestuurders doeltreffend te waarschuwen;
+   - (i) To affix to a sign, to its support or to any other traffic control device anything not related to the purpose of such sign or device; if, however, Contracting Parties or sub-divisions thereof authorize a non-profit making association to install informative signs, they may permit the emblem of that association to appear on the sign or on its support provided this does not make it less easy to understand the sign;
 
-- (d). het verboden is:
+   - (ii) To install any board, notice, marking or device which might be confused with signs or other traffic control devices, might render them less visible or effective, or might dazzle road-users or distract their attention in a way prejudicial to traffic safety;
 
-- (i). aan een verkeersteken, aan zijn paal of standaard, of aan enig ander apparaat ten dienste van de regeling van het verkeer, iets te bevestigen dat geen betrekking heeft op het doel van zo’n teken of apparaat; indien echter de Verdragsluitende Partijen, of onderdelen daarvan, aan een organisatie zonder winstoogmerk de bevoegdheid verlenen informatieve verkeerstekens te plaatsen, dan kunnen zij zo’n organisatie tevens vergunnen haar embleem op dat teken of de paal of standaard aan te brengen, mits zulks het begrijpen van dat teken niet bemoeilijkt;
+   - (iii) To install on pavements and verges devices or equipment which might unnecessarily obstruct the movement of pedestrians, particularly elderly or disabled persons.
 
-- (ii). borden, aankondigingen, tekens of apparaten aan te brengen die zouden kunnen worden verward met verkeerstekens of andere apparaten tot regeling van het verkeer, of die deze minder zichtbaar of doeltreffend zouden kunnen maken, of die weggebruikers zouden kunnen verblinden of hun aandacht zouden kunnen afleiden op een wijze die de verkeersveiligheid in gevaar brengt;
+### Chapter II. RULES OF THE ROAD
 
-- (iii). op trottoirs en in bermen installaties of apparaten aan te brengen waardoor voetgangers, met name ouderen en gehandicapten, onnodig worden gehinderd.
+##### Article 5. Status of signs and signals
 
-### Hoofdstuk II. VERKEERSREGELS
+1. Road-users shall comply with the instructions conveyed by road signs, traffic light signals and road markings even if the said instructions appear to contradict other traffic regulations.
 
-##### Artikel 5. De rechtsgeldigheid van verkeerstekens
+2. Instructions conveyed by traffic light signals shall take precedence over those conveyed by road signs regulating priority.
 
-1. Weggebruikers zijn verplicht zich te houden aan de voorschriften, zoals deze worden aangeduid door verkeerstekens op borden, en door verkeerslichten en verkeerstekens op het wegdek, zelfs indien deze voorschriften in strijd schijnen te zijn met andere verkeersregels.
+##### Article 6. Instructions given by authorized officials
 
-2. Voorschriften die worden aangeduid door verkeerslichten hebben voorrang boven voorschriften die worden aangeduid door verkeerstekens die de voorrang regelen.
+1. When they are directing traffic, authorized officials shall be easily identifiable at a distance, at night as well as by day.
 
-##### Artikel 6. Aanwijzingen die worden gegeven door bevoegde ambtenaren
+2. Road-users shall promptly obey all instructions given by authorized officials directing traffic.
 
-1. Bevoegde ambtenaren dienen, wanneer zij het verkeer regelen, op een afstand gemakkelijk herkenbaar te zijn, ’s nachts zo goed als overdag.
+3. It is recommended that domestic legislation should provide that directions given by authorized officials directing traffic shall include the following:
 
-2. Weggebruikers zijn verplicht alle aanwijzingen, gegeven door bevoegde ambtenaren die het verkeer regelen, ogenblikkelijk op te volgen.
+- (a) Arm raised upright: this gesture shall mean “attention, stop” for all road-users except drivers who are no longer able to stop with sufficient safety; further, if made at an intersection, this gesture shall not require drivers already on the intersection to stop;
 
-3. Het verdient aanbeveling dat de nationale wetgeving bepaalt dat tot de aanwijzingen, die door bevoegde ambtenaren worden gegeven wanneer zij het verkeer regelen, behoren:
+- (b) Arm or arms outstretched horizontally; this gesture shall constitute a stop signal for all road-users approaching from any direction which would cut across that indicated by the outstretched arm or arms; after making this gesture, the authorized official directing traffic may lower his arm or arms; this gesture shall likewise constitute a stop signal for drivers in front of or behind the official;
 
-- (a). de arm verticaal omhoog: dit gebaar houdt in „let op, stop” voor alle weggebruikers behalve die bestuurders die niet meer in staat zijn op voldoende veilige wijze te stoppen; wordt dit gebaar gemaakt bij een kruising, dan hoeven bestuurders die zich reeds op die kruising bevinden evenmin te stoppen;
+- (c) Swinging red light: this gesture shall constitute a stop signal for road-users towards whom the light is directed.
 
-- (b). een of beide armen horizontaal gestrekt: dit gebaar is het stopteken voor alle weggebruikers, van welke richting zij ook komen, als deze richting zou worden doorkruist door de richting die is aangegeven door de gestrekte arm of armen; na dit gebaar gemaakt te hebben, mag de bevoegde ambtenaar die het verkeer regelt zijn arm of armen laten zakken; dit gebaar is evenzeer een stopteken voor de bestuurders die zich vóór of achter deze ambtenaar bevinden;
+4. The instructions given by authorized officials directing traffic shall take precedence over those conveyed by road signs, traffic light signals and road markings, and over traffic regulations.
 
-- (c). een rood licht dat heen en weer wordt bewogen; dit gebaar is een stopteken voor weggebruikers naar wier zijde het licht is gericht,
+##### Article 7. General rules
 
-4. Aanwijzingen, gegeven door bevoegde ambtenaren die het verkeer regelen, hebben voorrang boven die welke worden aangeduid door verkeerstekens op borden en door verkeerslichten en verkeerstekens op het wegdek, alsmede boven verkeersregels.
+1. Road-users shall avoid any behaviour likely to endanger or obstruct traffic, to endanger persons, or to cause damage to public or private property.
 
-##### Artikel 7. Regels van algemene aard
+2. It is recommended that domestic legislation should provide that road-users shall not obstruct traffic or risk making it dangerous by throwing, depositing or leaving any object or substance on the road or by creating any other obstruction on the road. If road-users have been unable to avoid creating an obstruction or danger in that way, they shall take the necessary steps to remove it as soon as possible and, if they cannot remove it immediately, to warn other road-users of its presence.
 
-1. Weggebruikers dienen zich te onthouden van alle gedragingen die er toe zouden kunnen leiden het verkeer in gevaar te brengen of het te belemmeren, die gevaarlijk zouden kunnen zijn voor personen, of die schade zouden kunnen veroorzaken aan openbaar of particulier bezit.
+3. Drivers shall show extra care in relation to the most vulnerable road-users, such as pedestrians and cyclists and in particular children, elderly persons and the disabled.
 
-2. Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat het weggebruikers verboden is het verkeer te belemmeren of het in gevaar te brengen door voorwerpen of stoffen op de weg te gooien, te deponeren of achter te laten, of door het scheppen van enige andere belemmering op de weg. Indien het weggebruikers niet mogelijk is geweest te vermijden dat door hen een dergelijke belemmering of een dergelijk gevaar wordt veroorzaakt, dan dienen zij de nodige maatregelen te nemen zulks zo snel mogelijk op te heffen, en, indien zij deze belemmering of dit gevaar niet ogenblikkelijk kunnen opheffen, andere weggebruikers te waarschuwen voor de aanwezigheid ervan.
+4. Drivers shall take care that their vehicles do not inconvenience road-users or the occupants of properties bordering on the road, for example, by causing noise or raising dust or smoke where they can avoid doing so.
 
-3. Bestuurders dienen speciale aandacht te schenken aan de meest kwetsbare weggebruikers, zoals voetgangers en fietsers, met name aan kinderen, ouderen en gehandicapten.
+5. The wearing of safety belts is compulsory for drivers and passengers of motor vehicles, occupying seats equipped with such belts, save where exceptions are granted by domestic legislation.
 
-4. Bestuurders dienen ervoor zorg te dragen dat hun voertuigen andere weggebruikers en bewoners of gebruikers van percelen langs de weg niet hinderen door bijvoorbeeld het veroorzaken van geluidsoverlast en stof- of rookwolken, indien dit kan worden vermeden.
+##### Article 8. Drivers
 
-5. Het dragen van veiligheidsgordels is verplicht voor bestuurders en passagiers van motorvoertuigen die op zitplaatsen zitten die met gordels zijn uitgerust, behoudens uitzonderingen ingevolge de nationale wetgeving.
+1. Every moving vehicle or combination of vehicles shall have a driver.
 
-##### Artikel 8. Bestuurders
+2. It is recommended that domestic legislation should provide that pack, draught or saddle animals, and, except in such special areas as may be marked at the entry, cattle, singly or in herds, or flocks, shall have a driver.
 
-1. Elk rijdend voertuig of elk rijdend samenstel van voertuigen dient een bestuurder te hebben.
+3. Every driver shall possess the necessary physical and mental ability and be in a fit physical and mental condition to drive.
 
-2. Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat last-, trek- en rijdieren een bestuurder hebben, evenals vee, hetzij enkele dieren of in kudden, behalve wat betreft vee in speciale gebieden die als zodanig zijn aangeduid door borden op de plek waar men die gebieden binnenkomt.
+4. Every driver of a power-driven vehicle shall possess the knowledge and skill necessary for driving the vehicle; however, this requirement shall not be a bar to driving practice by learner-drivers in conformity with domestic legislation.
 
-3. Elke bestuurder dient te beschikken over de noodzakelijke lichamelijke en geestelijke vermogens en zowel lichamelijk als geestelijk in staat te zijn om te sturen.
+5. Every driver shall at all times be able to control his vehicle or to guide his animals.
 
-4. Elke bestuurder van een gemotoriseerd voertuig dient de nodige kennis en bedrevenheid te bezitten om het voertuig te kunnen besturen; deze eis mag leerling-bestuurders echter niet beletten zich te bekwamen in het besturen van een voertuig, overeenkomstig de nationale wetgeving.
+5bis. Vehicle systems which influence the way vehicles are driven shall be deemed to be in conformity with paragraph 5 of this Article and with [paragraph 1 of Article 13](https://wetten.overheid.nl/BWBV0003507), when they are in conformity with the conditions of construction, fitting and utilization according to international legal instruments concerning wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles2)The UN Regulations annexed to the “Agreement concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles and the conditions for reciprocal recognition of approvals granted on the basis of these prescriptions” done at Geneva on 20 March 1958.The UN Global Technical Regulations developed in the framework of the “Agreement concerning the establishing of global technical regulations for wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles” done at Geneva on 25 June 1998.
 
-5. Elke bestuurder dient te allen tijde in staat te zijn om zijn voertuig in zijn macht te hebben of zijn dieren te geleiden.
+Vehicle systems which influence the way vehicles are driven and are not in conformity with the aforementioned conditions of construction, fitting and utilization, shall be deemed to be in conformity with paragraph 5 of this Article and with [paragraph 1 of Article 13](https://wetten.overheid.nl/BWBV0003507), when such systems can be overridden or switched off by the driver.
 
-5bis. Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2025-02-09&g=2025-02-09), wanneer zij in overeenstemming zijn met de eisen voor constructie, montage en gebruik zoals vervat in internationale juridische instrumenten inzake wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen4)De Reglementen van de VN gehecht aan de „Overeenkomst betreffende het aannemen van eenvormige technische eisen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen en de voorwaarden voor wederzijdse erkenning van goedkeuringen verleend op basis van deze eisen”, gedaan te Genève op 20 maart 1958.De Mondiale Technische Reglementen van de VN opgesteld in het kader van de „Overeenkomst betreffende de vaststelling van mondiale technische reglementen voor wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen”, gedaan te Genève op 25 juni 1998.;
+6. A driver of a vehicle shall at all times minimize any activity other than driving. Domestic legislation should lay down rules on the use of phones by drivers of vehicles. In any case, legislation shall prohibit the use by a driver of a motor vehicle or moped of a hand-held phone while the vehicle is in motion.
 
-Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestuurd en die niet in overeenstemming zijn met voornoemde eisen voor constructie, montage en gebruik, worden geacht in overeenstemming te zijn met het vijfde lid van dit artikel en met [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=13&z=2025-02-09&g=2025-02-09), wanneer deze systemen door de bestuurder kunnen worden overgenomen of uitgeschakeld.
+##### Article 9. Flocks and herds
 
-6. Een bestuurder van een voertuig dient te allen tijde alle andere activiteiten dan rijden tot een minimum te beperken. De nationale wetgeving moet regels opstellen voor het gebruik van telefoons door bestuurders van voertuigen. In elk geval moet de wet het gebruik verbieden van een in de hand gehouden telefoon door een bestuurder van een motorvoertuig of bromfiets wanneer het voertuig in beweging is.
+It is recommended that domestic legislation should provide that, save where exceptions are granted to facilitate their mass movement, flocks and herds should be divided into sections of moderate length spaced sufficiently far apart for the convenience of traffic.
 
-##### Artikel 9. Kudden
+##### Article 10. Position on the carriageway
 
-Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in kleinere groepen van redelijke lengte worden verdeeld, en dat deze groepen ten gerieve van het verkeer op redelijke afstand van elkaar worden gehouden, behalve in die gevallen waarin uitzonderingen worden toegestaan om het verplaatsen van zeer grote aantallen te vergemakkelijken.
+1. The direction of traffic shall be the same on all roads in a State except, where appropriate, on roads used solely or principally by through traffic between two other States.
 
-##### Artikel 10. Plaats op de rijbaan
+2. Animals moving along the carriageway shall be kept as close as possible to the edge of the carriageway appropriate to the direction of traffic.
 
-1. De rijrichting dient op alle wegen in een Staat gelijk te zijn, behalve, waar zulks dienstig is, op wegen die uitsluitend of hoofdzakelijk worden gebruikt voor doorgaand verkeer tussen twee andere Staten.
+3. Without prejudice to the provisions to the contrary of Article 7, paragraph 1, Article 11, paragraph 6, and to other provisions of this Convention to the contrary, every driver of a vehicle shall, to the extent permitted by circumstances, keep his vehicle near the edge of the carriageway appropriate to the direction of traffic. However, Contracting Parties or sub-divisions thereof may lay down more precise rules concerning the position of goods vehicles on the carriageway.
 
-2. Dieren die zich langs de rijbaan voortbewegen dienen zoveel mogelijk aan de kant van de rijbaan te worden voortgedreven overeenkomstig de rijrichting.
+4. Where a road comprises two or three carriageways, no driver shall take the carriageway situated on the side opposite to that appropriate to the direction of traffic.
 
-3. Onverminderd de andersluidende bepalingen van artikel 7, eerste lid, artikel 11, zesde lid, en andere andersluidende bepalingen van dit Verdrag, dient elke bestuurder van een voertuig, voor zover de omstandigheden hem dit mogelijk maken, zijn voertuig dicht bij de kant van de rijbaan te houden, overeenkomstig de rijrichting. De Verdragsluitende Partijen of onderdelen daarvan mogen echter nauwkeuriger omschreven voorschriften vaststellen betreffende de plaats van vrachtvoertuigen op de rijbaan.
+5. - (a) On two-way carriageways having four or more lanes, no driver shall take the lanes situated entirely on the half of the carriageway opposite to the side appropriate to the direction of traffic.
 
-4. Wanneer een weg twee of drie rijbanen bevat, mag een bestuurder nooit de rijbaan gebruiken die gelegen is aan de zijde tegenover die overeenkomstig de rijrichting.
+- (b) On two-way carriageways having three lanes, no driver shall take the lane situated at the edge of the carriageway opposite to that appropriate to the direction of traffic.
 
-- (a). Op rijbanen voor verkeer in beide richtingen met vier of meer rijstroken mag een bestuurder nooit de rijstroken gebruiken, die geheel zijn gelegen op de helft van de rijbaan tegenover de zijde overeenkomstig de rijrichting.
+6. Without prejudice to the provisions of Article 11 and when an additional lane is indicated by a sign, drivers of vehicles moving slowly shall use that lane.
 
-- (b). Op rijbanen voor verkeer in beide richtingen met drie rijstroken mag een bestuurder nooit de rijstrook gebruiken gelegen aan de kant van de rijbaan tegenover de kant overeenkomstig de rijrichting.
+##### Article 11. Overtaking and movement of traffic in lines
 
-6. Indien door middel van een verkeersteken een extra rijstrook wordt aangegeven, dienen bestuurders van voertuigen die zich langzaam verplaatsen, onverminderd de bepalingen van artikel 11, deze rijstrook te gebruiken.
+1. - (a) Drivers overtaking shall do so on the side opposite to that appropriate to the direction of traffic.
 
-##### Artikel 11. Inhalen en rijden in files
+- (b) However drivers shall overtake on the side appropriate to the direction of traffic if the driver to be overtaken has signalled his intention to turn to the side of the carriageway opposite to that appropriate to the direction of traffic and has moved his vehicle or animals over towards that side in order to turn to that side for the purpose of taking another road, to enter a property bordering on the road, or to stop on that side;
 
-- (a). Inhalen dient te geschieden aan de zijde, tegenover die overeenkomstig de rijrichting.
+- (c) Domestic legislation may authorize cyclists and moped riders to pass stationary vehicles or vehicles moving at a low speed other than cycles or mopeds on the side which corresponds to the direction of traffic provided that sufficient space is available.
 
-- (b). Inhalen dient echter te geschieden aan de zijde overeenkomstig de rijrichting, wanneer de in te halen bestuurder heeft kenbaar gemaakt dat hij van plan is naar de zijde van de rijbaan te gaan, die gelegen is tegenover de zijde overeenkomstig de rijrichting, en hij zijn voertuig of dier reeds naar die andere zijde heeft gevoerd ten einde daar een andere weg in te slaan, een aan de weg gelegen perceel binnen te gaan, of aan die andere zijde te stoppen;
+2. Before overtaking, every driver shall, without prejudice to the provisions of Article 7, paragraph 1, or to those of Article 14, of this Convention, make sure:
 
-- (c). De nationale wetgeving mag fietsers en bromfietsers toestaan stilstaande of langzaam rijdende voertuigen anders dan fietsen of bromfietsen in te halen aan de zijde die overeenkomt met de rijrichting mits voldoende ruimte beschikbaar is.
+- (a) That no driver who is following him has begun to overtake him;
 
-2. Alvorens tot inhalen over te gaan dient elke bestuurder, onverminderd de bepalingen van artikel 7, eerste lid, of van artikel 14, van dit Verdrag, zich ervan te overtuigen:
+- (b) That the driver ahead of him in the same lane has not given warning of his intention to overtake another;
 
-- (a). dat geen bestuurder, die achter hem rijdt, reeds is begonnen hem in te halen;
+- (c) That he can do it without endangering or interfering with the oncoming traffic making sure in particular that the lane which he will enter is free over a sufficient distance and that the relative speed of the two vehicles allows overtaking within a sufficiently short time; and
 
-- (b). dat de bestuurder die op dezelfde rijstrook voor hem rijdt geen teken heeft gegeven dat hij van plan is een ander in te halen;
+- (d) That, except when using a lane closed to oncoming traffic, he will be able, without inconvenience to the road-user or road-users overtaken, to resume the position prescribed in Article 10, paragraph 3, of this Convention.
 
-- (c). dat hij kan inhalen zonder het tegemoetkomend verkeer in gevaar te brengen of te hinderen, met name dat de rijstrook waarop hij zich gaat begeven over voldoende afstand vrij is en dat het verschil in snelheid van de beide voertuigen zodanig is dat binnen een voldoende korte tijd kan worden ingehaald;
+3. In pursuance of the provisions of paragraph 2 of this Article, overtaking on two-way carriageways is in particular prohibited when approaching the crest of a hill and, if visibility is inadequate, on bends, unless there are at these points lanes defined by longitudinal road markings and overtaking is carried out without leaving the lanes marked as closed to oncoming traffic.
 
-- (d). dat hij, behalve wanneer hij gebruik maakt van een rijstrook die voor het verkeer uit tegenovergestelde richting is verboden, in staat zal zijn, zonder de in te halen weggebruiker of weggebruikers, te hinderen, weer de plaats in te nemen als voorgeschreven in artikel 10, derde lid, van dit Verdrag.
+4. When overtaking, a driver shall give the road-user or road-users overtaken a sufficiently wide berth.
 
-3. Ingevolge de bepalingen van het tweede lid van dit artikel is het met name verboden op rijbanen voor verkeer in beide richtingen in te halen wanneer men de top van een heuvel nadert en, wanneer het zicht onvoldoende is, in bochten, tenzij op deze plaatsen rijstroken zijn aangegeven door strepen in de lengterichting op het wegdek, en mits het inhalen plaats vindt zonder de rijstroken te verlaten waarop verkeer uit tegenovergestelde richting is verboden.
+5. - (a) On carriageways with at least two lanes reserved for traffic moving in the direction in which he is proceeding, a driver who should be obliged, immediately or shortly after moving back to the position prescribed by Article 10, paragraph 3, of this Convention, to overtake again may, in order to perform that manœuvre, and provided he makes sure he can do so without undue inconvenience to the drivers of faster vehicles approaching from behind, remain in the lane he has occupied for the first overtaking manoeuvre.
 
-4. Tijdens het inhalen dient de bestuurder de in te halen weggebruiker of weggebruikers voldoende ruimte te laten.
+- (b) However, Contracting Parties or subdivisions thereof shall be free not to apply the provisions of this paragraph to the drivers of cycles, mopeds, motor cycles and vehicles which are not motor vehicles within the meaning of this Convention, or to the drivers of motor vehicles whose permissible maximum mass exceeds 3,500 kg (7,700 lb) or whose maximum speed, by design, cannot exceed 40 km (25 miles) per hour.
 
-- (a). Op rijbanen met ten minste twee rijstroken die uitsluitend zijn bedoeld voor het verkeer in de richting die de bestuurder volgt, mag een bestuurder, indien hij gedwongen zou zijn opnieuw in te halen onmiddellijk of kort nadat hij zou zijn teruggekeerd naar de plaats als voorgeschreven door artikel 10, derde lid, van dit Verdrag, ten einde opnieuw in te halen, en mits hij zich er van heeft overtuigd dat hij zulks kan doen zonder bestuurders van achter hem aankomende snellere voertuigen op noemenswaardige wijze te hinderen, op de rijstrook blijven waarop hij is gaan rijden voor de eerste inhaalmanoeuvre,
+6. Where the provisions of sub-paragraph 5 *(a)* of this Article are applicable and the density of traffic is such that vehicles not only occupy the entire width of the carriageway reserved for traffic taking the direction in which they are moving but also are moving only at a speed which is governed by that of the vehicle preceding them in the line:
 
-- (b). De Verdragsluitende Partijen of onderdelen daarvan zijn echter vrij de bepalingen van dit lid niet toe te passen op bestuurders van fietsen, bromfietsen, motorfietsen en voertuigen die geen motorvoertuigen zijn in de zin van dit Verdrag, of op bestuurders van motorvoertuigen waarvan het maximum toegestane massa meer is dan 3 500 kg, of waarvan de door de constructie bepaalde maximum snelheid 40 km (mijl) niet te boven gaat.
+- (a) Without prejudice to the provisions of paragraph 9 of this Article, the movement of the vehicles in one line at a higher speed than that of those in another shall not be deemed to constitute overtaking within the meaning of this Article;
 
-6. In die gevallen waarin de bepalingen van het vijfde lid, onder **(a)**, van dit artikel van toepassing zijn, en waarin de verkeersdichtheid zodanig is dat voertuigen niet alleen de gehele breedte van de rijbaan beslaan die uitsluitend is bestemd voor het verkeer in de richting waarin zij zich voortbewegen, maar zich bovendien voortbewegen met een snelheid die wordt bepaald door het vóór hen rijdende voertuig in de file:
+- (b) A driver not in the lane nearest to the edge of the carriageway appropriate to the direction of traffic may change lanes only in order to prepare to turn right or left or to park; however, this requirement shall not apply to changes of lane effected by drivers in accordance with domestic legislation resulting from the application of the provisions of paragraph 5 *(b)* of this Article.
 
-- (a). wordt, onverminderd de bepalingen van het negende lid van dit artikel, het zich voortbewegen van de voertuigen in één file met een grotere snelheid dan die van de voertuigen in een andere, niet beschouwd als inhalen in de zin van dit artikel;
+7. When moving in lines as described in paragraphs 5 and 6 of this Article, drivers are forbidden, if the lanes are indicated on the carriageway by longitudinal markings, to straddle these markings.
 
-- (b). mag een bestuurder die zich niet op de rijstrook bevindt die het dichtst is gelegen aan de zijde van de rijbaan overeenkomstig de rijrichting, alleen naar een andere rijstrook overgaan als voorbereiding om rechts of links af te slaan dan wel te parkeren; deze bepaling is echter niet van toepassing op het wisselen van rijstrook overeenkomstig de voorschriften van de nationale wetgeving die voortvloeien uit de toepassing van de bepalingen van het vijfde lid, onder **(b)**, van dit artikel.
+8. Without prejudice to the provisions of paragraph 2 of this Article and to other restrictions which Contracting Parties or subdivisions thereof may lay down concerning overtaking at intersections and at level-crossings, no driver of a vehicle shall overtake a vehicle other than a two-wheeled cycle, a two-wheeled moped or a two-wheeled motor cycle without side-car:
 
-7. Wanneer het verkeer zich voortbeweegt in files zoals beschreven in het vijfde en het zesde lid van dit artikel is het bestuurders verboden, daar, waar de rijstroken op de rijbaan zijn aangegeven door strepen in de lengterichting, over deze strepen te rijden.
+- (a) Immediately before or on an intersection other than a roundabout, except:
 
-8. Onverminderd de bepalingen van het tweede lid van dit artikel en onverminderd andere beperkingen die de Verdragsluitende Partijen of onderdelen daarvan kunnen vaststellen met betrekking tot het inhalen op kruisingen en overwegen, is het de bestuurder van een voertuig verboden enig ander voertuig in te halen dan een tweewielige fiets, een tweewielige bromfiets of een tweewielige motorfiets zonder zijspanwagen:
+   - (i) In the case provided for in paragraph 1 *(b)* of this Article;
 
-- (a). onmiddellijk voor of op een kruising die geen verkeersplein is, behalve:
+   - (ii) Where the road on which overtaking takes place has priority at the intersection;
 
-- (i). in het geval bedoeld in het eerste lid, onder **(b)**, van dit artikel;
+   - (iii) Where traffic is directed at the intersection by an authorized official or by traffic light signals;
 
-- (ii). wanneer het verkeer op de weg waarop het inhalen plaatsvindt bij de kruising voorrang heeft;
+- (b) immediately before or on a level-crossing not equipped with gates or half-gates, provided however that Contracting Parties or subdivisions thereof shall be free to permit such overtaking at a level-crossing where road traffic is regulated by traffic light signals incorporating a positive signal authorizing vehicles to proceed.
 
-- (iii). wanneer het verkeer op de kruising wordt geregeld door een bevoegde ambtenaar of door verkeerslichten;
+9. A vehicle shall not overtake another vehicle which is approaching a pedestrian crossing marked on the carriageway or sign-posted as such, or which is stopped immediately before the crossing, otherwise than at a speed low enough to enable it to stop immediately if a pedestrian is on the crossing. Nothing in this paragraph shall be construed as preventing Contracting Parties or subdivisions thereof from prohibiting overtaking within a prescribed distance from a pedestrian crossing, or from imposing stricter requirements on a driver of a vehicle proposing to overtake another vehicle stopped immediately before such a crossing.
 
-- (b). onmiddellijk voor of op een overweg die niet is voorzien van bomen of halve bomen; het staat de Verdragsluitende Partijen of onderdelen daarvan echter vrij het inhalen bij zo’n overweg toe te laten daar, waar het wegverkeer wordt geregeld door verkeerslichten met een positief teken dat voertuigen veroorlooft door te rijden.
+10. A driver who perceives that a driver following him wishes to overtake him shall, except in the case provided for in Article 16, paragraph 1 *(b)* , of this Convention, keep close to the edge of the carriageway appropriate to the direction of traffic and refrain from accelerating. If, owing to the narrowness, profile or condition of the carriageway, taken in conjunction with the density of oncoming traffic, a vehicle which is slow or bulky or is required to observe a speed limit cannot be easily and safely overtaken, the driver of such vehicle shall slow down and if necessary pull in to the side as soon as possible in order to allow vehicles following him to overtake.
 
-9. Een voertuig mag niet een ander voertuig inhalen wanneer dit laatste een voetgangersoversteekplaats nadert die als zodanig op het wegdek van de rijbaan is aangeduid of door een verkeersteken op een bord is aangegeven, of wanneer laatstgenoemd voertuig vlak voor de oversteekplaats is gestopt, behalve met een zó geringe snelheid dat het onmiddellijk tot stilstand kan worden gebracht ingeval een voetganger zich op de oversteekplaats bevindt. Niets in dit lid mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten het inhalen binnen een voorgeschreven afstand van een voetgangersoversteekplaats te verbieden, of strengere voorschriften op te leggen aan een bestuurder van een voertuig die een ander voertuig wenst in te halen dat vlak voor zo’n oversteekplaats is gestopt.
+11. - (a) Contracting Parties or subdivisions thereof may, on one-way carriageways and on two-way carriageways where at least two lanes in built-up areas and three lanes outside built-up areas are reserved for traffic in the same direction and are indicated by longitudinal markings:
 
-10. Een bestuurder die merkt dat een achter hem rijdende bestuurder hem wenst in te halen dient zich zoveel mogelijk naar de kant van de rijbaan in zijn rijrichting te begeven en zijn snelheid niet te vermeerderen, behalve in het geval waarin is voorzien in artikel 16, eerste lid, onder **b**, van dit Verdrag. Indien, tengevolge van de smalheid, het profiel of de toestand van de rijbaan en mede gezien de dichtheid van het verkeer uit tegenovergestelde richting, een langzaam of omvangrijk voertuig of een voertuig dat een bepaalde maximum snelheid in acht moet nemen, niet op gemakkelijke en veilige wijze kan worden ingehaald, dan dient de bestuurder van zo’n voertuig zijn snelheid te verminderen en, indien nodig, zo snel en zo veel mogelijk uit te wijken naar de kant, ten einde achter hem rijdende voertuigen in staat te stellen hem in te halen.
+   - (i) Allow vehicles in one lane to overtake on the side appropriate to the direction of traffic vehicles in another lane; and
 
-- (a). De Verdragsluitende Partijen of onderdelen daarvan kunnen, op rijbanen voor verkeer in één richting, en op rijbanen voor verkeer in beide richtingen, met ten minste twee rijstroken binnen de bebouwde kom, en ten minste drie rijstroken buiten de bebouwde kom, welke rijstroken uitsluitend zijn bestemd voor verkeer in dezelfde richting en door strepen in de lengterichting als zodanig zijn aangeduid: mits er voldoende voorzieningen zijn getroffen die het onmogelijk maken van de ene rijstrook op de andere over te gaan.
+   - (ii) Make inapplicable the provisions of Article 10, paragraph 3, of this Convention, provided that there are adequate restrictions on the possibility of changing lanes;
 
-- (i). voertuigen op één rijstrook toestaan voertuigen op een andere rijstrook in te halen aan de kant overeenkomstig de rijrichting; en
+- (b) In the case referred to in sub-paragraph *(a)* of this paragraph, without prejudice to the provisions of paragraph 9 of this Article, the manner of driving provided for shall not be deemed to constitute overtaking within the meaning of this Convention.
 
-- (ii). de bepalingen van artikel 10, derde lid, van dit Verdrag niet toepasselijk verklaren;
+##### Article 12. Passing of oncoming traffic
 
-- (b). In het geval waarnaar wordt verwezen in dit lid, onder **(a)**, onder voorbehoud van de bepalingen van het negende lid van dit artikel, dient de wijze waarop wordt gereden niet te worden opgevat als inhalen in de zin van dit Verdrag.
+1. When passing oncoming traffic, a driver shall leave sufficient lateral space and, if necessary, move close to the edge of the carriageway appropriate to the direction of traffic. If in so doing he finds his progress impeded by an obstruction or by the presence of other road-users, he shall slow down and if necessary stop to allow the oncoming road-user or road-users to pass.
 
-##### Artikel 12. Tegemoetkomend verkeer
+2. On mountain roads and steep roads with characteristics similar to those of mountain roads, where the passing of oncoming traffic is impossible or difficult, it is the driver of the vehicle travelling downhill who should pull in to the side of the road in order to allow any vehicle proceeding uphill to pass, except where the arrangement of lay-bys to enable vehicles to pull in to the side of the road is such that, having regard to the speed and position of the vehicles, the vehicle proceeding uphill has a lay-by ahead of it and the need for one of the vehicles to reverse could be avoided if the vehicle proceeding uphill pulled in to that lay-by. Where one of the two vehicles which are about to pass is obliged to reverse in order to make passing possible, this manoeuvre shall be performed by the driver of the vehicle proceeding downhill unless it can manifestly be more easily performed by the driver of the vehicle proceeding uphill. However, Contracting Parties or subdivisions thereof may prescribe for certain vehicles or certain roads or sections of roads special rules differing from those laid down in this paragraph.
 
-1. Bij het voorbijgaan van tegemoetkomend verkeer dient een bestuurder voldoende ruimte, in de breedterichting van de weg, vrij te laten en, zo nodig, dient hij zo dicht mogelijk langs de kant van de rijbaan overeenkomstig de rijrichting te rijden. Indien hij merkt dat hij door zo te handelen in zijn voortgang wordt gehinderd door een obstakel of door de aanwezigheid van andere weggebruikers, dient hij zijn snelheid te verminderen en indien nodig, te stoppen, ten einde een hem tegemoetkomende weggebruiker of hem tegemoetkomende weggebruikers gelegenheid te geven hem voorbij te gaan.
+##### Article 13. Speed and distance between vehicles
 
-2. Op bergwegen en steile wegen met dezelfde eigenschappen als bergwegen, waar het onmogelijk of moeilijk is tegemoetkomend verkeer voorbij te gaan, dient de bestuurder van het voertuig dat bergafwaarts rijdt zo veel mogelijk uit te wijken naar de kant van de weg, ten einde het bergopwaarts rijdende voertuig in staat te stellen hem voorbij te gaan, behalve daar waar de aanleg van uitwijkhavens voor voertuigen om uit te wijken naar de kant van de weg zodanig is, dat in aanmerking genomen de snelheid en de plaats van beide voertuigen, het bergopwaarts rijdende voertuig een dergelijke uitwijkhaven bijna heeft bereikt, zodat de noodzaak voor één van beide voertuigen een stuk achteruit te rijden kan worden vermeden, indien het bergopwaarts rijdende voertuig van de uitwijkhaven gebruik maakt. Indien een van beide voertuigen die elkaar voorbij willen gaan genoodzaakt is achteruit te rijden om het voorbijgaan mogelijk te maken, dan dient de bestuurder van het bergafwaarts rijdende voertuig achteruit te rijden, tenzij deze manoeuvre duidelijk gemakkelijker kan worden uitgevoerd door de bestuurder van het bergopwaarts rijdende voertuig. De Verdragsluitende Partijen of onderdelen daarvan kunnen echter voor bepaalde voertuigen of bepaalde wegen of gedeelten van wegen speciale voorschriften uitvaardigen die verschillen van die welke in dit lid zijn vastgelegd.
+1. Every driver of a vehicle shall in all circumstances have his vehicle under control so as to be able to exercise due and proper care and to be at all times in a position to perform all manoeuvres required of him. He shall, when adjusting the speed of his vehicle, pay constant regard to the circumstances, in particular the lie of the land, the state of the road, the condition and load of his vehicle, the weather conditions and the density of traffic, so as to be able to stop his vehicle within his range of forward vision and short of any foreseeable obstruction. He shall slow down and if necessary stop whenever circumstances so require, and particularly when visibility is not good.
 
-##### Artikel 13. Snelheid en afstand tussen voertuigen
+2. Domestic legislation shall establish maximum speed limits for all roads. Domestic legislation shall also determine special speed limits applicable to certain categories of vehicles presenting a special danger, in particular by reason of their mass or their load. They may establish similar provisions for certain categories of drivers, in particular for new drivers.
 
-1. Elke bestuurder van een voertuig dient onder alle omstandigheden zijn voertuig dusdanig in zijn macht te hebben, dat hij in staat is de nodige voorzichtigheid te betrachten en hij te allen tijde in staat is alle vereiste handelingen te verrichten. Bij het regelen van de snelheid van zijn voertuig dient hij voortdurend te letten op de omstandigheden, in het bijzonder op de plaatselijke gesteldheid, de toestand van de weg, de staat waarin zijn voertuig en de lading zich bevinden, de weersomstandigheden en de verkeersdichtheid, ten einde zijn voertuig binnen zijn gezichtsveld in voorwaartse richting tot stilstand te kunnen brengen, voor enig voorzienbaar obstakel. Hij dient zijn vaart te verminderen en, indien nodig, te stoppen zo vaak de omstandigheden dit eisen, in het bijzonder wanneer het zicht slecht is.
+3. The provisions set out in the first sentence of paragraph 2 may not apply to drivers of priority vehicles referred to in article 34, paragraph 2, or vehicles treated as such in domestic legislation.
 
-2. Maximum snelheden voor alle wegen worden in de nationale wetgeving vastgelegd. In de nationale wetgeving worden tevens de maximum snelheden vastgelegd voor bepaalde categorieën voertuigen die een bijzonder gevaar vormen, in het bijzonder vanwege hun massa of hun lading. Gelijksoortige bepalingen kunnen worden opgesteld voor bepaalde categorieën bestuurders, met name voor beginnende bestuurders.
+4. No driver shall impede the normal progress of other vehicles by travelling abnormally slowly without proper cause.
 
-3. Het bepaalde in de eerste zin van het tweede lid behoeft niet te gelden voor bestuurders van voorrangsvoertuigen genoemd in artikel 34, tweede lid, of voor voertuigen die in de nationale wetgeving als zodanig worden aangemerkt.
+5. The driver of a vehicle moving behind another vehicle shall keep at a sufficient distance from that other vehicle to avoid collision if the vehicle in front should suddenly slow down or stop.
 
-4. Het is elke bestuurder verboden de normale voortgang van andere voertuigen te belemmeren door zonder geldige reden abnormaal langzaam te rijden.
+6. Outside built-up areas, in order to facilitate overtaking, drivers of vehicles or combinations of vehicles of more than 3,500 kg (7,700 lb) permissible maximum mass, or of more than 10 m (33 feet) over-all length, shall, except when they are overtaking or preparing to overtake, keep at such distance from power-driven vehicles ahead of them that other vehicles overtaking them can without danger move into the space in front of the overtaken vehicle. However, this provision shall not apply in very dense traffic or in circumstances where overtaking is prohibited. In addition:
 
-5. De bestuurder van een voertuig dat achter een ander voertuig rijdt dient voldoende afstand tot het voor hem rijdende voertuig te bewaren, ten einde een botsing te vermijden ingeval het voor hem rijdende voertuig plotseling vaart zou verminderen of zou stoppen.
+- (a) The competent authorities may exempt certain convoys of vehicles from this provision, or may similarly make it inapplicable on roads where two lanes are allotted to traffic in the direction concerned;
 
-6. Ten einde het inhalen te vergemakkelijken dienen bestuurders van voertuigen of van samenstellen van voertuigen met een maximum toegestaan massa van meer dan 3 500 kg, of waarvan de totale lengte meer is dan 10 m, buiten de bebouwde kom, behalve wanneer zij zelf aan het inhalen zijn of aanstalten maken om in te halen, een zodanige afstand te bewaren tot vóór hen rijdende gemotoriseerde voertuigen, dat andere voertuigen die hun voertuig inhalen, zich zonder gevaar in de vrije ruimte vóór het ingehaalde voertuig kunnen voegen. Deze bepaling is echter niet van toepassing bij zeer grote verkeersdichtheid, noch in omstandigheden waarin inhalen is verboden. Bovendien:
+- (b) Contracting Parties and subdivisions thereof may prescribe different figures from those given in this paragraph with respect to the vehicle characteristics concerned.
 
-- (a). kunnen de bevoegde instanties bepaalde colonnes voertuigen ontheffing van deze bepaling verlenen, ofwel kunnen zij deze niet van toepassing verklaren op wegen met twee rijstroken in de rijrichting waar het hier om gaat;
+##### Article 14. General requirements governing manoeuvres
 
-- (b). kunnen de Verdragsluitende Partijen en onderdelen daarvan andere gewichten en afmetingen voorschrijven dan die welke in dit lid zijn genoemd met betrekking tot de daarin beschreven eigenschappen van voertuigen.
+1. Any driver wishing to perform a manoeuvre such as pulling out of or into a line of parked vehicles, moving over to the right or to the left on the carriageway, or turning left or right into another road or into a property bordering on the road, shall first make sure that he can do so without risk of endangering other road-users travelling behind or ahead of him or about to pass him, having regard to their position, direction and speed.
 
-##### Artikel 14. Algemene eisen betreffende het manoeuvreren met voertuigen
+2. Any driver wishing to make a U-turn or to reverse shall first make sure that he can do so without endangering or impeding other road-users.
 
-1. Elke bestuurder die een handeling met zijn voertuig wenst uit te voeren zoals het verlaten van een rij geparkeerde voertuigen of het zich er in begeven, het zich naar rechts of naar links op de rijbaan begeven, of het links of rechts een andere weg inslaan, of een aan de weg gelegen perceel binnenrijden, dient zich er eerst van te overtuigen dat hij zulks kan doen zonder het risico, gevaar op te leveren voor andere weggebruikers die vóór of achter hem rijden, of die op het punt staan hem te passeren, waarbij hij rekening dient te houden met hun plaats, richting en snelheid.
+3. Before turning or before a manoeuvre which involves moving laterally, the driver shall give clear and sufficient warning of his intention by means of the direction-indicator or direction-indicators on his vehicle, or, failing this, by giving if possible an appropriate signal with his arm. The warning given by the direction-indicator or direction-indicators shall continue to be given throughout the manoeuvre and shall cease as soon as the manoeuvre is completed.
 
-2. Elke bestuurder die wenst te keren, of die achteruit wenst te rijden dient er zich eerst van te overtuigen dat hij zulks kan doen zonder voor andere weggebruikers een gevaar of belemmering op te leveren.
+##### Article 15. Special regulations relating to regular public-transport service vehicles
 
-3. Alvorens te keren of af te slaan of met een handeling te beginnen die een zijwaartse verplaatsing inhoudt, dient de bestuurder zijn bedoelingen tijdig op duidelijk wijze kenbaar te maken met behulp van de richtingaanwijzer of -aanwijzers van zijn voertuig, of bij gebreke hiervan door, indien mogelijk, het juiste teken te geven met zijn hand. De waarschuwing door middel van de richtingaanwijzer of -aanwijzers dient gedurende de gehele manoeuvre te worden gegeven en te worden beëindigd zodra de manoeuvre is voltooid.
+It is recommended that domestic legislation should provide that in built-up areas, in order to facilitate the movement of regular public-transport service vehicles, the drivers of other vehicles shall, subject to the provisions of Article 17, paragraph 1, of this Convention, slow down and if necessary stop in order to allow the public-transport vehicles to perform the manoeuvre required for moving off from stops marked as such. The provisions thus laid down by Contracting Parties or subdivisions thereof shall in no way affect the duty incumbent on drivers of public-transport vehicles to take, after having given warning by means of their direction-indicators of their intention to move off, the precautions necessary to avoid any risk of accident.
 
-##### Artikel 15. Bijzondere voorschriften met betrekking tot voertuigen van openbare lijndiensten
+##### Article 16. Change of direction
 
-Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat binnen de bebouwde kom, ten einde het verkeer met voertuigen van openbare lijndiensten te vergemakkelijken, de bestuurders van andere voertuigen, behoudens de bepalingen van artikel 17, eerste lid, van dit Verdrag, hun vaart behoren te verminderen en, zo nodig, te stoppen, ten einde de voertuigen van het openbaar vervoer gelegenheid te geven de handelingen te verrichten die nodig zijn om van de als zodanig aangegeven halteplaatsen weg te rijden. De aldus door de Verdragsluitende Partijen of onderdelen daarvan uitgevaardigde bepalingen mogen op geen enkele wijze van invloed zijn op de verplichting van bestuurders van voertuigen voor openbaar vervoer om, nadat zij door middel van hun richtingaanwijzers hebben kenbaar gemaakt dat zij van plan zijn weg te rijden, de noodzakelijke voorzorgsmaatregelen te treffen om de kans op ongelukken te vermijden.
+1. Before turning right or left for the purpose of entering another road or entering a property bordering on the road, a driver shall, without prejudice to the provisions of Article 7, paragraph 1, and of Article 14, of this Convention,
 
-##### Artikel 16. Verandering van richting
+- (a) If he wishes to turn off on the side appropriate to the direction of traffic, keep as close as possible to the edge of the carriageway appropriate to that direction and make as tight a turn as possible;
 
-1. Alvorens rechts of links af te slaan om een andere weg in te slaan of een aan de weg gelegen perceel in te rijden, dient een bestuurder, onverminderd de bepalingen van artikel 7, eerste lid, en van artikel 14 van dit Verdrag,
+- (b) If he wishes to turn off on the other side, and subject to such other provisions as Contracting Parties or subdivisions thereof may enact for cycles and mopeds enabling them to change direction, for instance by crossing the intersection in two separate stages, move as closely as possible to the centreline of the carriageway if it is a two-way carriageway or to the edge opposite to the side appropriate to the direction of traffic if it is a one-way carriageway and, if he wishes to enter another two-way road, make his turn so as to enter the carriageway of such other road on the side appropriate to the direction of traffic.
 
-- (a). indien hij wenst af te slaan aan de zijde overeenkomstig de eigen rijrichting, zo dicht mogelijk langs de kant te rijden van de rijbaan voor die rijrichting, en de bocht zo scherp mogelijk te nemen;
+2. While changing direction, the driver shall, without prejudice to the provisions of Article 21 of this Convention regarding pedestrians, allow road users to pass on the carriageway, or on other parts of the same road he is preparing to leave.
 
-- (b). indien hij aan de andere zijde wenst af te slaan, en onder voorbehoud van andere bepalingen die de Verdragsluitende Partijen of onderdelen daarvan eventueel hebben vastgesteld voor fietsen en bromfietsen om hen in staat te stellen van richting te veranderen, bijvoorbeeld door het kruispunt in twee afzonderlijke fasen over te steken, zich zo dicht mogelijk naar de as van de rijbaan te begeven indien het een rijbaan voor verkeer in beide richtingen betreft, dan wel naar de kant tegenover die welke overeenkomt met de rijrichting wanneer het een rijbaan voor verkeer in één richting betreft, en, indien hij een andere weg voor verkeer in beide richtingen wenst in te slaan, zijn bocht zodanig te nemen dat hij de rijbaan van die andere weg oprijdt aan de zijde die overeenkomt met de rijrichting.
+##### Article 17. Slowing down
 
-2. Terwijl de bestuurder van richting verandert dient hij, onverminderd de bepalingen van artikel 21 van dit Verdrag met betrekking tot voetgangers, alle weggebruikers op de rijbaan, of op andere delen van dezelfde weg die hij op het punt staat te verlaten, te laten passeren.
+1. No driver of a vehicle shall brake abruptly unless it is necessary to do so for safety reasons.
 
-##### Artikel 17. Vaart minderen
+2. Every driver intending to slow down to an appreciable extent shall, except where his slowing down is in response to an imminent danger, first make sure that he can do so without danger or undue inconvenience to other drivers. He shall also, unless he has made sure that there is no vehicle following him or that any following vehicle is a long way behind, give clear and timely warning of his intention by making an appropriate signal with his arm. However, this provision shall not apply if warning of slowing down is given by the vehicle’s stop lights, referred to in Annex 5, paragraph 31, of this Convention.
 
-1. Het is de bestuurder van een voertuig verboden plotseling te remmen tenzij het uit veiligheidsoverwegingen noodzakelijk is zulks te doen.
+##### Article 18. Intersections and obligation to give way
 
-2. Elke bestuurder die van plan is in aanzienlijke mate vaart te verminderen, dient er zich eerst van te overtuigen dat hij zulks kan doen zonder gevaar of buitensporig ongemak voor andere bestuurders, behalve in die gevallen waar hij vaart moet verminderen uit hoofde van onmiddellijk dreigend gevaar. Bovendien dient hij zijn bedoeling duidelijk en tijdig kenbaar te maken door het daartoe geschikte gebaar met zijn hand te maken, tenzij hij er zich eerst van heeft overtuigd dat geen ander voertuig achter hem rijdt, of dat een achter hem rijdend voertuig ver verwijderd is. Deze bepaling is echter niet van toepassing wanneer het minderen van vaart wordt aangegeven door middel van de stoplichten van het betrokken voertuig, zoals bedoeld in Bijlage 5, paragraaf 31, van dit Verdrag.
+1. Every driver approaching an intersection shall exercise such extra care as may be appropriate to local conditions. Drivers of vehicles shall, in particular, drive at such a speed as to be able to stop to allow vehicles having the right of way to pass.
 
-##### Artikel 18. Kruisingen en de verplichting voorrang te verlenen
+2. Every driver emerging from a path or an earth-track (dirt road) on to a road other than a path or an earth-track shall give way to vehicles travelling on that road. For the purposes of this Article the terms “path” and “earth-track” (dirt road) may be defined in domestic legislation.
 
-1. Elke bestuurder die een kruising nadert dient zoveel extra voorzichtigheid in acht te nemen als de situatie ter plaatse vereist. Bestuurders van voertuigen dienen met name niet harder te rijden dan met een snelheid die het hun mogelijk maakt te stoppen, ten einde voertuigen die voorrang hebben te laten passeren.
+3. Every driver emerging on to a road from a property bordering thereon shall give way to vehicles travelling on that road.
 
-2. Elke bestuurder die van een pad of een niet-verharde weg een weg oprijdt die geen pad of niet-verharde weg is, dient voorrang te verlenen aan de voertuigen op die weg. Voor de toepassing van dit artikel kunnen de termen „pad” en „onverharde weg” in de nationale wetgeving worden omschreven.
+4. Subject to the provisions of paragraph 7 of this Article:
 
-3. Elke bestuurder die van een aan een weg gelegen perceel de weg oprijdt dient voorrang te verlenen aan de voertuigen die op die weg rijden.
+- (a) In States where traffic keeps to the right the driver of a vehicle shall give way, at intersections other than those specified in paragraph 2 of this Article and in Article 25, paragraphs 2 and 4 of this Convention, to vehicles approaching from his right;
 
-4. Onder voorbehoud van de bepalingen van het zevende lid van dit artikel:
+- (b) Contracting Parties or sub-divisions thereof in whose territories traffic keeps to the left shall be free to regulate the right of way at intersections as they see fit.
 
-- (a). dient de bestuurder van een voertuig, in Staten waar het verkeer rechts houdt, bij andere kruisingen dan die bedoeld in het tweede lid van artikel en in artikel 25, tweede en vierde lid, van dit Verdrag, voorrang te verlenen aan van rechts komende voertuigen;
+5. Even if traffic light signals authorize him to do so, a driver shall not enter an intersection if the density of traffic is such that he will probably be obliged to stop on the intersection, thereby obstructing or preventing the passage of cross traffic.
 
-- (b). zijn de Verdragsluitende Partijen of onderdelen daarvan in wier gebieden het verkeer links houdt, vrij de voorrang bij kruisingen naar eigen goedvinden te regelen.
+6. A driver who has entered an intersection where traffic is regulated by traffic light signals may clear the intersection without waiting for the way to be opened in the direction in which he wishes to proceed, provided that this does not impede the progress of other road-users moving in the open direction.
 
-5. Zelfs wanneer verkeerslichten de bestuurder toestaan zulks te doen, mag hij zich toch niet op een kruising begeven wanneer de verkeersdichtheid zodanig is dat hij waarschijnlijk zou worden genoodzaakt op de kruising te stoppen en dientengevolge het dwarsverkeer zou belemmeren of verhinderen.
+7. Drivers of vehicles not moving on rails shall give way to rail-borne vehicles.
 
-6. Een bestuurder die zich op een kruising heeft begeven waarop het verkeer door middel van verkeerslichten wordt geregeld, mag deze kruising verlaten zonder te wachten tot de kruising wordt vrijgegeven voor verkeer in de richting waarin hij verder wenst te gaan, mits dit de voortgang van het verkeer in de vrijgegeven richting niet belemmert.
+##### Article 19. Level-crossings
 
-7. Bestuurders van voertuigen die niet op rails rijden dienen voorrang te verlenen aan voertuigen die wel op rails rijden.
+Road-users shall exercise extra care in approaching and traversing level-crossings. In particular:
 
-##### Artikel 19. Overwegen
+- (a) Every driver of a vehicle shall drive at a moderate speed;
 
-Weggebruikers dienen extra voorzichtig te zijn bij het naderen en oversteken van overwegen. Met name:
+- (b) Without prejudice to the obligation to obey an instruction to stop given by a light signal or a sound signal, no road-user shall enter a level-crossing at which the gates or half-gates are across the road or in process of being placed across the road, or at which the halfgates are in process of being raised;
 
-- (a). Elke bestuurder van een voertuig dient met matige snelheid te rijden;
+- (c) If a level-crossing is not equipped with gates, half-gates or light signals, no road-user shall enter it without making sure that no rail-borne vehicle is approaching;
 
-- (b). Onverminderd de verplichting om gevolg te geven aan een aanwijzing van een verkeerslicht of een geluidssignaal om te stoppen, mag een weggebruiker zich niet op een overweg begeven wanneer de bomen of de halve bomen de weg afsluiten, dan wel in beweging zijn om in deze stand te worden gebracht, of wanneer de halve bomen nog niet geheel zijn geopend;
+- (d) No driver shall enter a level-crossing without first ascertaining that he may not be obliged to stop on it.
 
-- (c). Indien een overweg niet is voorzien van bomen, halve bomen of verkeerslichten, mag een weggebruiker zich niet op die overweg begeven zonder er zich eerst van te overtuigen dat geen op rails rijdend voertuig in aantocht is;
+- (e) No road-user shall linger while traversing a level crossing; if a vehicle is compelled to stop, its driver shall endeavour to move it off the track, and, if he is unable to do so, immediately do everything he can to ensure that the drivers of rail-borne vehicles are warned of the danger in time.
 
-- (d). Een bestuurder mag een overweg niet opgaan zonder zich er van tevoren van te vergewissen dat hij daarop niet hoeft te stoppen;
+##### Article 20. Rules applicable to pedestrians
 
-- (e). Een weggebruiker mag niet talmen bij het oversteken van een overweg; indien een voertuig is gedwongen daar te stoppen, moet de bestuurder trachten het van de rails te verwijderen en, indien hij hiertoe niet bij machte is, moet hij onmiddellijk al het mogelijke doen opdat de bestuurders van op rails rijdende voertuigen tijdig voor dit gevaar gewaarschuwd worden.
+1. Contracting Parties or sub-divisions thereof shall be free not to enforce the provisions of this Article except in cases where pedestrian traffic on the carriageway would be dangerous or would obstruct vehicular traffic.
 
-##### Artikel 20. Voorschriften voor voetgangers
+2. If, at the side of the carriageway, there are pavements (side-walks) or suitable verges for pedestrians, pedestrians shall use them. Nevertheless, if they take the necessary precautions:
 
-1. Het staat de Verdragsluitende Partijen of onderdelen daarvan vrij de bepalingen van dit artikel al of niet te doen naleven behalve in die gevallen waarin voetgangersverkeer op de rijbaan gevaarlijk zou kunnen zijn of het rijdende verkeer zou hinderen.
+- (a) Pedestrians pushing or carrying bulky objects may use the carriageway if they would seriously inconvenience other pedestrians by walking on the pavement (side-walk) or verge;
 
-2. Overal waar terzijde van de rijbaan trottoirs of voor voetgangers geschikte bermen aanwezig zijn, moeten voetgangers hiervan gebruik maken. Desniettegenstaande, en mits zij de nodige voorzorgsmaatregelen in acht nemen:
+- (b) Groups of pedestrians led by a person in charge or forming a procession may walk on the carriageway.
 
-- (a). mogen voetgangers die omvangrijke voorwerpen voortduwen of dragen gebruik maken van de rijbaan indien zij voor andere voetgangers een ernstige belemmering zouden vormen door op het trottoir, het voetpad of de berm te lopen;
+3. If it is not possible to use pavements (side-walks) or verges, or if none is provided, pedestrians may walk on the carriageway; where there is a cycle track and the density of traffic so permits, they may walk on the cycle track, but shall not obstruct cycle and moped traffic in doing so.
 
-- (b). mogen groepen voetgangers onder geleide, of die een optocht vormen, op de rijbaan lopen.
+4. Pedestrians walking on the carriageway in accordance with paragraphs 2 and 3 of this Article shall keep as close as possible to the edge of the carriageway.
 
-3. Indien het onmogelijk is de trottoirs, voetpaden of bermen te gebruiken, of bij het ontbreken hiervan, mogen voetgangers op de rijbaan lopen; indien er een fietspad is en indien de verkeersdichtheid zulks veroorlooft, mogen zij op het fietspad lopen, waarbij zij er zorg voor dienen te dragen het verkeer van fietsers en bromfietsers niet te hinderen.
+5. It is recommended that domestic legislation should provide as follows: pedestrians walking on the carriageway shall keep to the side opposite to that appropriate to the direction of traffic except where to do so places them in danger. However, persons pushing a cycle, a moped or a motor cycle, and groups of pedestrians led by a person in charge or forming a procession shall in all cases keep to the side of the carriageway appropriate to the direction of traffic. Unless they form a procession, pedestrians walking on the carriageway shall by night or when visibility is poor and, by day, if the density of vehicular traffic so requires, walk in single file wherever possible.
 
-4. Voetgangers die overeenkomstig het tweede en derde lid van dit artikel op de rijbaan lopen dienen zoveel mogelijk aan de kant van de rijbaan te blijven.
+6. - (a) Pedestrians wishing to cross a carriageway shall not step on to it without exercising care; they shall use a pedestrian crossing whenever there is one nearby.
 
-5. Het verdient aanbeveling dat de nationale wetgeving als volgt bepaalt: voetgangers die op de rijbaan lopen dienen zulks te doen aan de zijde van de weg die ligt tegenover de zijde overeenkomstig de rijrichting, behalve wanneer dit hen, indien zij zo zouden doen, in gevaar zou brengen, Personen daarentegen die een fiets, een bromfiets of een motorfiets aan de hand meevoeren en groepen voetgangers onder geleide of die een optocht vormen, dienen onder alle omstandigheden aan de zijde van de rijbaan overeenkomstig de rijrichting te lopen. Tenzij zij een optocht vormen dienen voetgangers die op de rijbaan lopen, ’s nachts en bij slecht zicht, en overdag wanneer de verkeersdichtheid zulks vereist, zoveel mogelijk in één rij achter elkaar te lopen.
+- (b) In order to cross the carriageway at a pedestrian crossing signposted as such or indicated by markings on the carriageway:
 
-- (a). Voetgangers die een rijbaan wensen over te steken dienen zich niet op de rijbaan te begeven zonder de nodige voorzichtigheid te betrachten; zij moeten van een voetgangersoversteekplaats gebruik maken wanneer er een dichtbij aanwezig is.
+   - (i) If the crossing is equipped with light signals for pedestrians, the latter shall obey the instructions given by such lights;
 
-- (b). Ten einde een rijbaan over te steken op een voetgangersoversteekplaats die als zodanig door een verkeersteken op een bord, of door een verkeersteken op het wegdek van de rijbaan is aangeduid:
+   - (ii) If the crossing is not equipped with such lights, but vehicular traffic is regulated by traffic light signals or by an authorized official, pedestrians shall not step onto the carriageway while the traffic light signal or the signal given by the authorized official indicates that vehicles may proceed along it;
 
-- (i). dienen voetgangers, indien de oversteekplaats is voorzien van verkeerslichten voor voetgangers, de door deze lichten gegeven aanwijzingen op te volgen;
+   - (iii) At other pedestrian crossings, pedestrians shall not step on to the carriageway without taking the distance and speed of approaching vehicles into account.
 
-- (ii). mogen voetgangers, indien de oversteekplaats niet van dergelijke lichten is voorzien doch het rijdende verkeer wordt geregeld door verkeerslichten dan wel door een bevoegde ambtenaar, zich niet op de rijbaan begeven zolang het verkeerslicht of de aanwijzingen van de bevoegde ambtenaar aangeven dat het verkeer daarop mag doorrijden;
+- (c) In order to cross the carriageway elsewhere than at a pedestrian crossing sign-posted as such or indicated by markings on the carriageway pedestrians shall not step on to the carriageway without first making sure that they can do so without impeding vehicular traffic.
 
-- (iii). mag de voetganger bij alle andere voetgangersoversteekplaatsen zich niet op de rijbaan begeven zonder rekening te houden met de afstand en snelheid van naderende voertuigen.
+- (d) Once they have started to cross a carriageway, pedestrians shall not take an unnecessarily long route, and shall not linger or stop on the carriageway unnecessarily.
 
-- (c). Ten einde de rijbaan over te steken op andere plaatsen dan voetgangersoversteekplaatsen, die als zodanig door een verkeersteken op een bord of door verkeerstekens op het wegdek van de rijbaan zijn aangegeven, dienen voetgangers zich niet op de rijbaan te begeven zonder er zich eerst van te overtuigen dat zij zulks kunnen doen zonder het verkeer met voertuigen te hinderen.
+7. However, Contracting Parties or sub-divisions thereof may impose stricter requirements on pedestrians crossing the carriageway.
 
-- (d). Zodra voetgangers zijn begonnen een rijbaan over te steken, mogen zij niet een onnodig lange route nemen, noch zonder noodzaak op de rijbaan blijven staan of nodeloos langzaam oversteken.
+##### Article 21. Behaviour of drivers towards pedestrians
 
-7. De Verdragsluitende Partijen of onderdelen daarvan mogen voetgangers die de rijbaan oversteken echter strengere voorschriften opleggen.
+1. Every driver shall avoid behaviour likely to endanger pedestrians.
 
-##### Artikel 21. Het gedrag van bestuurders tegenover voetgangers
+2. Without prejudice to the provisions of Article 7, paragraph 1, Article 11, paragraph 9, and Article 13, paragraph 1, of this Convention, where there is on the carriageway a pedestrian crossing sign-posted as such or indicated by markings on the carriageway:
 
-1. Elke bestuurder dient zich te onthouden van gedragingen waardoor voetgangers in gevaar kunnen worden gebracht.
+- (a) If vehicular traffic is regulated at that crossing by traffic light signals or by an authorized official, drivers forbidden to proceed shall stop short of the crossing or the transverse markings preceding it and, when they are permitted to proceed, shall not prevent or obstruct the passage of pedestrians who have stepped on to it; drivers turning into another road at the entrance to which there is a pedestrian crossing shall do so slowly and give way, if necessary stopping for this purpose, to pedestrians already using, or about to use, the crossing;
 
-2. Onverminderd de bepalingen van artikel 7, eerste lid, artikel 11, negende lid, en artikel 13, eerste lid, van dit Verdrag, wanneer een voetgangersoversteekplaats op een rijbaan is aangeduid door een verkeersteken op een bord of door een verkeersteken op het wegdek van de rijbaan;
+- (b) If vehicular traffic is not regulated at that crossing by traffic light signals or by an authorized official, drivers shall approach the crossing only at a speed low enough not to endanger pedestrians using, or about to use, it; if necessary, they shall stop to allow such pedestrians to cross.
 
-- (a). dienen, indien het verkeer met voertuigen bij zo’n oversteekplaats wordt geregeld door verkeerslichten of door een bevoegde ambtenaar, bestuurders die niet mogen doorrijden vlak voor de oversteekplaats of de daarvóór aangebrachte dwarsmarkeringen te stoppen en mogen zij, zodra zij mogen doorrijden, het oversteken van voetgangers die zich reeds op de oversteekplaats begeven hebben, niet beletten of belemmeren; bestuurders die een andere weg inslaan aan het begin waarvan zich een voetgangers-oversteekplaats bevindt, dienen zulks langzaam te doen en voorrang te verlenen, waarbij zij indien dat nodig is daartoe moeten stoppen, aan voetgangers die reeds gebruik maken van of op het punt staan gebruik te maken van de oversteekplaats;
+3. No provision of this Article shall be construed as preventing Contracting Parties or sub-divisions thereof from:
 
-- (b). dienen, indien het verkeer met voertuigen bij die oversteekplaats niet wordt geregeld door verkeerslichten of door een bevoegde ambtenaar, bestuurders een dergelijke voetgangersoversteekplaats met een zo geringe snelheid te naderen dat zij geen gevaar vormen voor voetgangers die daar bezig zijn over te steken of op het punt staan over te steken; zo nodig dienen bestuurders te stoppen om deze voetgangers in staat te stellen over te steken.
+- Requiring drivers of vehicles to stop in all cases when pedestrians are using, or about to use, a pedestrian crossing sign-posted as such or indicated by markings on the carriageway in the conditions laid down in Article 20 of this Convention, or
 
-3. Geen enkele bepaling in dit artikel mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten:
+- Prohibiting them from preventing or obstructing the passage of pedestrians who are crossing the carriageway at or very near an intersection even if there is at that point no pedestrian crossing sign-posted as such or indicated by markings on the carriageway.
 
-van bestuurders van voertuigen te eisen dat zij altijd stoppen wanneer voetgangers gebruik maken van een voetgangersoversteekplaats of op het punt staan daarvan gebruik te maken, wanneer die voetgangersoversteekplaats als zodanig is aangegeven door een verkeersteken op een bord of door verkeerstekens op het wegdek van de rijbaan onder de voorwaarden bedoeld in artikel 20 van dit Verdrag; of
+4. Drivers intending to overtake, on the side appropriate to the direction of traffic, a public transport vehicle at a stop marked as such shall slow down and if necessary stop to allow passengers to board or alight from that vehicle.
 
-bestuurders te verbieden het oversteken van voetgangers te beletten of te verhinderen wanneer laatstgenoemden een rijbaan oversteken bij of dichtbij een kruising, zelfs wanneer op die plaats geen voetgangersoversteekplaats is die als zodanig is aangegeven door een verkeersteken op een bord of door verkeerstekens op het wegdek.
+##### Article 22. Islands on the carriageway
 
-4. Bestuurders die van plan zijn een voertuig voor openbaar vervoer bij een als zodanig aangegeven halte in te halen aan de zijde overeenkomstig de rijrichting, dienen hun vaart te verminderen en zo nodig te stoppen, ten einde passagiers in staat te stellen in of uit dat voertuig te stappen.
+Without prejudice to the provisions of Article 10 of this Convention, a driver may pass to the left or to the right of islands, posts and other devices set up on the carriageway on which he is travelling, except in the following cases:
 
-##### Artikel 22. Vluchtheuvels op de rijbaan
+- (a) Where the side on which the island, post or device shall be passed is indicated by a sign;
 
-Onverminderd de bepalingen van artikel 10 van dit Verdrag mag een bestuurder vluchtheuvels, verkeerszuilen en andere installaties die op de rijbaan zijn aangebracht, links of rechts passeren, behalve in de volgende gevallen:
+- (b) Where the island, post or device is on the centreline of a two-way carriageway; in this case the driver shall keep to the side of the island, post or device corresponding to the direction of traffic.
 
-- (a). wanneer de zijde aan welke de vluchtheuvel, de zuil of de installatie gepasseerd moet worden door een verkeersteken is aangegeven;
+##### Article 23. Standing and parking
 
-- (b). wanneer de vluchtheuvel, de zuil of de installatie is aangebracht op de as van een rijbaan voor verkeer in beide richtingen; in dit geval dient de bestuurder de vluchtheuvel, de zuil of de installatie te passeren aan de zijde overeenkomstig de rijrichting.
+1. Outside built-up areas, standing or parked vehicles and halted animals shall so far as possible be stationed elsewhere than on the carriageway. Both in and outside built-up areas they shall not be stationed on cycle tracks, cycle lanes, bus lanes, tracks for horseback riders, footpaths, pavements or on verges specially provided for pedestrian traffic, save where applicable domestic legislation so permits.
 
-##### Artikel 23. Stilstaan en parkeren
+2. - (a) Animals halted and vehicles standing or parked on the carriageway shall be kept as close as possible to the edge of the carriageway. A driver shall not stand or park his vehicle on a carriageway save on the side appropriate, for him, to the direction of traffic; nevertheless, standing or parking on the other side shall be permitted where standing or parking on the side appropriate to the direction of traffic is prevented by the presence of rail tracks. Moreover, Contracting Parties or subdivisions thereof may:
 
-1. Buiten de bebouwde kom dienen stilstaande of geparkeerde voertuigen en stilstaande dieren, voor zover mogelijk, niet op de rijbaan te worden neergezet. Zowel binnen als buiten de bebouwde kom mogen zij evenmin worden neergezet op fietspaden, fietsstroken, busstroken, ruiterpaden, voetpaden, trottoirs of bermen die speciaal voor voetgangers zijn aangelegd, behoudens waar de nationale wetgeving zulks toestaat.
+   - (i) Refrain from prohibiting standing and parking on one side or the other in certain conditions, for instance where standing on the side appropriate to the direction of traffic is prohibited by road signs;
 
-- (a). Op de rijbaan stilstaande dieren en op de rijbaan stilstaande of geparkeerde voertuigen dienen zoveel mogelijk aan de kant van de rijbaan te staan. Een bestuurder mag zijn voertuig niet op een rijbaan laten stilstaan of parkeren, behalve aan de zijde overeenkomstig zijn rijrichting; niettemin is het toegestaan aan de andere kant stil te staan of te parkeren, daar, waar het stilstaan of parkeren aan de zijde overeenkomstig de eigen rijrichting onmogelijk is door de aanwezigheid van rails. Bovendien mogen de Verdragsluitende Partijen of onderdelen daarvan:
+   - (ii) On one-way carriageways, authorize standing and parking on the other side as well as or instead of on the side appropriate to the direction of traffic;
 
-- (i). zich er van onthouden om onder bepaalde omstandigheden het stilstaan en het parkeren aan de ene dan wel aan de andere zijde te verbieden, bijvoorbeeld wanneer het stilstaan aan de zijde overeenkomstig de eigen rijrichting door middel van verkeersborden is verboden;
+   - (iii) Authorize standing and parking in the middle of the carriageway at places specially marked.
 
-- (ii). op rijbanen voor verkeer in één richting het stilstaan of parkeren aan de zijde niet overeenkomstig de rijrichting toestaan, zowel gelijktijdig met als in plaats van stilstaan en parkeren aan de zijde overeenkomstig de rijrichting;
+- (b) Save where domestic legislation provides otherwise, vehicles other than two-wheeled cycles, two-wheeled mopeds and two-wheeled motor cycles without side-car shall not stand or be parked two abreast on the carriageway. Standing or parked vehicles shall, unless the layout of the area permits otherwise, be placed parallel to the edge of the carriageway.
 
-- (iii). het stilstaan en parkeren in het midden van de rijbaan toestaan op speciaal daartoe aangeduide plaatsen.
+3. - (a) The standing or parking of a vehicle on the carriageway shall be prohibited:
 
-- (b). Behalve wanneer door de nationale wetgeving anderszins is bepaald, mogen geen twee voertuigen naast elkaar op de rijbaan stilstaan of geparkeerd zijn met uitzondering van tweewielige fietsen, tweewielige bromfietsen en tweewielige motorfietsen zonder zijspanwagen. Tenzij de indeling van het terrein een andere schikking mogelijk maakt, dienen stilstaande of geparkeerde voertuigen te worden neergezet parallel aan de kant van de rijbaan.
+   - (i) On pedestrian crossings, on crossings for cyclists, and on level-crossings;
 
-- (a). Het stilstaan of parkeren van een voertuig op de rijbaan is verboden:
+   - (ii) On tramway or railway tracks on a road or so close to such tracks that the movement of trams or trains might be impeded, and also, subject to the possibility for Contracting Parties or subdivisions thereof to provide otherwise, on pavements and cycle tracks;
 
-- (i). op voetgangersoversteekplaatsen, op oversteekplaatsen voor fietsers en op overwegen;
+- (b) The standing or parking of a vehicle at any point where it would constitute a danger shall be prohibited, more particularly:
 
-- (ii). op tram- en spoorrails op een weg, of zo dicht bij dergelijke rails dat het rijden van trams of treinen er door zou kunnen worden belemmerd, en tevens, onder voorbehoud van de mogelijkheid voor de Verdragsluitende Partijen of onderdelen daarvan om andere regelingen vast te stellen, op trottoirs en fietspaden.
+   - (i) Save in such spaces as may be specially marked, under flyovers and in tunnels;
 
-- (b). Het stilstaan of parkeren van een voertuig is verboden op iedere plaats waar dit gevaar zou kunnen opleveren, en wel in het bijzonder:
+   - (ii) On the carriageway, close to the crests of hills, and on bends where visibility is not sufficient for the vehicle to be overtaken in complete safety, having regard to the speed of vehicles on the section of the road in question;
 
-- (i). onder viaducten en in tunnels, behalve op plaatsen die daartoe aal zijn aangeduid;
+   - (iii) On a carriageway beside a longitudinal road marking where sub-paragraph *(b)* (ii) of this paragraph does not apply but the width of the carriageway between the marking and the vehicle is less than 3 m (10 feet) and the marking is such that vehicles approaching it on the same side are forbidden to cross it;
 
-- (ii). op de rijbaan, vlak bij de top van een heuvel, en in bochten waar het zicht niet voldoende is om het stilstaande voertuig op volstrekt veilige wijze te kunnen inhalen, rekening houdende met de snelheid der voertuigen op dat deel van de desbetreffende weg;
+   - (iv) At any place where the vehicle would conceal road signs or traffic light signals from the view of road-users;
 
-- (iii). op de rijbaan naast een streep op het wegdek in de lengterichting van de weg, in die gevallen waarin letter **(b)** (ii) van dit lid niet van toepassing is, maar waar de breedte van de rijbaan tussen de streep en het voertuig minder dan 3 m is, en waar de streep van die aard is dat naderende voertuigen aan dezelfde zijde de streep niet mogen kruisen;
+   - (v) On an additional lane indicated by a sign for slowly moving vehicles.
 
-- (iv). op elke plaats waar het voertuig verkeerstekens of verkeerslichten aan het zicht van andere weggebruikers zou onttrekken;
+- (c) The parking of a vehicle on the carriageway shall be prohibited:
 
-- (v). op een door een verkeersteken aangegeven extra rijstrook voor voertuigen die zich langzaam verplaatsen.
+   - (i) On approaches to level-crossings, to intersections and to bus, trolley-bus or rail-vehicle stops; within the distances prescribed by domestic legislation;
 
-- (c). Het parkeren van een voertuig op de rijbaan is verboden:
+   - (ii) In front of vehicle entries to properties;
 
-- (i). op korte afstand van overwegen, kruisingen en bus- of trolleybushalten, of halten van railvoertuigen en wel binnen de door de nationale wetgeving voorgeschreven afstanden;
+   - (iii) At any point where the parked vehicle would prevent access to another vehicle properly parked or prevent such other vehicle from moving out;
 
-- (ii). vóór in- en uitritten van percelen;
+   - (iv) On the central carriageway of three-carriageway roads and, outside built-up areas, on the carriageways of roads marked as priority roads by appropriate signs.
 
-- (iii). op elke plaats waar het geparkeerde voertuig het onmogelijk zou maken om bij een ander, op de juiste wijze geparkeerd voertuig te komen, of waar het zo’n ander voertuig zou verhinderen weg te rijden;
+4. A driver shall not leave his vehicle or his animals without having taken all suitable precautions to avoid any accident and, in the case of a motor vehicle, to prevent its unauthorized use.
 
-- (iv). op de middenbaan van een weg met drie rijbanen en, buiten de bebouwde kom, op de rijbanen van wegen die door de juiste verkeerstekens als voorrangswegen zijn aangegeven.
+5. It is recommended that domestic legislation should provide as follows: every power-driven vehicle other than a two-wheeled moped or a two-wheeled motor cycle without sidecar, and every trailer coupled or uncoupled shall when stationary on the carriageway outside a built-up area be signalled to approaching drivers at a sufficient distance by means of at least one appropriate device placed at the most suitable point to give them adequate advance warning:
 
-4. Een bestuurder mag zijn voertuig of zijn dieren niet verlaten zonder alle nodige voorzorgsmaatregelen te hebben getroffen om een ongeval te voorkomen en, in geval van een motorvoertuig, om het gebruik er van door onbevoegden te voorkomen.
+- (a) If the vehicle is stationary at night on the carriageway in circumstances such that approaching drivers cannot be aware of the obstacle which the vehicle constitutes;
 
-5. Het verdient aanbeveling dat de nationale wetgeving als volgt bepaalt: met uitzondering van een tweewielige bromfiets of een tweewielige motorfiets zonder zijspanwagen, dient elk gemotoriseerd voertuig en elke al of niet vastgekoppelde aanhangwagen, wanneer dit of deze op een rijbaan buiten een bebouwde kom niet in beweging is, op voldoende afstand te worden aangeduid door ten minste één hiertoe geschikt apparaat, op het meest geschikte punt neergezet, ten einde bestuurders van naderende voertuigen tijdig te waarschuwen:
+- (b) If the driver, in other cases, has been compelled to halt his vehicle at a place where standing is prohibited.
 
-- (a). indien het voertuig ’s nachts op de rijbaan niet in beweging is onder zodanige omstandigheden dat naderende bestuurders de aanwezigheid van het door dit voertuig gevormde obstakel niet kunnen ontwaren;
+6. Nothing in this Article shall be construed as preventing Contracting Parties or subdivisions thereof from introducing other provisions on parking and standing or from making individual provisions for the standing and parking of cycles and mopeds.
 
-- (b). indien de bestuurder, in andere gevallen, genoodzaakt is zijn voertuig te doen stoppen op plaatsen waar het verboden is stil te staan.
+##### Article 24. Opening of doors
 
-6. Niets in dit artikel mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten andere verbodsbepalingen ten aanzien van parkeren en stilstaan in te voeren of zou beletten specifieke bepalingen te maken voor het stilstaan en parkeren van fietsen en bromfietsen.
+It shall be prohibited to open the door of a vehicle, to leave it open, or to alight from the vehicle without having made sure that to do so cannot endanger other road-users.
 
-##### Artikel 24. Het openen van deuren
+##### Article 25. Motorways and similar roads
 
-Het is verboden de deur van een voertuig te openen, of deze open te laten staan, of uit een voertuig te stappen zonder zich er van verzekerd te hebben dat men zulks kan doen zonder gevaar voor andere weggebruikers.
+1. On motorways and, if so provided in domestic legislation, on special approach roads to and exit roads from motorways:
 
-##### Artikel 25. Autosnelwegen en soortgelijke wegen
+- (a) The use of the road shall be prohibited to pedestrians, animals, cycles, mopeds unless they are treated as motor cycles, and all vehicles other than motor vehicles and their trailers, and to motor vehicles or motor-vehicle trailers which are incapable, by virtue of their design, of attaining on a flat road a speed specified by domestic legislation;
 
-1. Op autosnelwegen en, indien zulks in de nationale wetgeving is bepaald, op de speciale op- en afritten van autosnelwegen:
+- (b) Drivers shall be forbidden:
 
-- (a). is het gebruik van de weg verboden voor voetgangers, dieren, fietsen, bromfietsen tenzij deze als motorfietsen worden beschouwd, en alle andere voertuigen met uitzondering van motorvoertuigen en hun aanhangwagens, alsook voor motorvoertuigen of hun aanhangwagens die, door hun constructie, niet in staat zijn de door de nationale wetgeving vastgestelde snelheid op een vlakke weg te bereiken;
+   - (i) To have their vehicles standing or parked elsewhere than at marked parking sites; if a vehicle is compelled to stop, its driver shall endeavour to move it off the carriageway and also off the flush verge and, if he is unable to do so, immediately signal the presence of the vehicle at a distance so as to warn approaching drivers in time;
 
-- (b). is het bestuurders verboden:
+   - (ii) To make U-turns, to travel in reverse, and to drive on to the central dividing strip, including the cross-overs linking the two carriageways.
 
-- (i). hun voertuigen te laten stilstaan of te parkeren op andere plaatsen dan op de aangeduide parkeerterreinen; indien een voertuig genoodzaakt is te stoppen, dient de bestuurder te trachten het voertuig van rijbaan te verwijderen en het ook van de vluchtstrook te verwijderen en, indien hem dit onmogelijk is, de aanwezigheid van het voertuig onmiddellijk op behoorlijke afstand kenbaar te maken, ten einde naderende bestuurders tijdig te waarschuwen;
+2. Drivers emerging on to a motorway shall give way to vehicles travelling on it. If there is an acceleration lane, they shall use it.
 
-- (ii). hun voertuig te keren, achteruit te rijden en op de centrale scheidende strook te rijden die tussen twee rijbanen ligt, hetgeen tevens geldt voor de verbindingen tussen die rijbanen.
+3. A driver leaving a motorway shall move into the traffic lane appropriate to the motorway exit in good time and enter the deceleration lane, if there is one, as soon as he can.
 
-2. Bestuurders die een autosnelweg oprijden dienen voorrang te verlenen aan voertuigen die reeds op de autosnelweg rijden. Indien er een invoegstrook is, dienen zij hiervan gebruik te maken.
+4. For the purpose of the application of paragraphs 1, 2 and 3 of this Article, other roads reserved for motor vehicle traffic, duly sign-posted as such and not affording access to or from properties alongside, shall be treated as motorways.
 
-3. Een bestuurder die de autosnelweg verlaat dient zich tijdig op de rijstrook te begeven die hem naar de afrit voert en zo snel mogelijk op de uitrijstrook te gaan rijden, indien er een uitrijstrook is.
+##### Article 25 bis. Special regulations for tunnels indicated by special road signs
 
-4. Voor de toepassing van het eerste, tweede en derde lid van dit artikel worden andere wegen die uitsluitend zijn bestemd voor verkeer met motorvoertuigen, die op de juiste wijze door verkeerstekens als zodanig zijn aangeduid, en die geen in- of uitritten hebben naar en van aan zo'n weg liggende percelen, als autosnelwegen behandeld.
+In tunnels indicated by the special road signs, the following rules shall apply:
 
-##### Artikel 25bis. Bijzondere regels betreffende tunnels aangegeven door middel van speciale verkeerstekens
+- 1. All drivers are forbidden:
 
-In tunnels die zijn aangegeven door speciale verkeerstekens, gelden de volgende regels:
+   - (a) to reverse;
 
-- 1. Het is voor alle bestuurders verboden:
+   - (b) to make a U-turn.
 
-- a. achteruit te rijden;
+- 2. Even if the tunnel is lit, all drivers shall ensure that the driving or passing beam headlamps are switched on.
 
-- b. te keren.
+- 3. Drivers are permitted to stop or park a vehicle only in case of emergency or danger. In doing so, they must, where possible, use the places specially indicated.
 
-- 2. Zelfs wanneer de tunnel is verlicht, dienen alle bestuurders ervoor te zorgen dat het groot licht of dimlicht ontstoken is.
+- 4. In case of a prolonged stoppage the driver must switch off the engine.
 
-- 3. Bestuurders mogen een voertuig uitsluitend stoppen of parkeren in geval van nood of gevaar. Hierbij moeten zij, waar mogelijk, gebruik maken van de speciaal aangeduide plaatsen.
+##### Article 26. Special rules applicable to processions and handicapped persons
 
-- 4. Wanneer een voertuig langere tijd stilstaat, moet de bestuurder de motor afzetten.
+1. It shall be prohibited for road-users to cut across troop columns, files of school-children accompanied by a person in charge, and other processions.
 
-##### Artikel 26. Speciale regels van toepassing op optochten en invaliden
+2. Handicapped persons travelling in invalid chairs propelled by themselves or moving at a walking pace may use pavements (side-walks) and suitable verges.
 
-1. Het is weggebruikers verboden legercolonnes, files van schoolkinderen onder geleide of andere optochten, te doorsnijden.
+##### Article 27. Special rules applicable to cyclists, moped drivers and motor cyclists
 
-2. Invaliden rijdende in invalidenwagens, die zij zelf voortbewegen, of die stapvoets rijden, mogen trottoirs, voetpaden aan de kant van de weg en geschikte bermen gebruiken.
+1. Notwithstanding the provisions of Article 10, paragraph 3, of this Convention, Contracting Parties or subdivisions thereof shall be free not to prohibit cyclists from travelling two or more abreast.
 
-##### Artikel 27. Speciale regels van toepassing op fietsers, bromfietsers en berijders van motorfietsen
+2. It shall be prohibited for cyclists to ride without holding the handlebars with at least one hand, to allow themselves to be towed by another vehicle, or to carry, tow or push objects which hamper their cycling or endanger other road-users. The same provisions shall apply to moped drivers and motor cyclists; in addition, however, moped drivers and motor cyclists shall hold the handlebars with both hands except when signalling the manoeuvre described in Article 14, paragraph 3, of this Convention.
 
-1. Niettegenstaande de bepalingen van artikel 10, derde lid, van dit Verdrag, staat het de Verdragsluitende Partijen of onderdelen daarvan vrij fietsers niet te verbieden met twee of meer naast elkaar te rijden.
+3. It shall be prohibited for cyclists and moped drivers to carry passengers on their vehicle; however, Contracting Parties or subdivisions thereof may authorize exceptions to this provision and, in particular, authorize the transport of passengers on such additional saddle or saddles as may be fitted on the vehicle. Motor cyclists shall not be permitted to carry passengers except in the side-car, if there is one, and on the additional saddle (pillion), if any, fitted behind the driver.
 
-2. Het is fietsers verboden te rijden zonder het stuur met ten minste één hand vast te houden, zich te laten voorttrekken door een ander voertuig, dan wel voorwerpen te dragen, te trekken of voort te duwen die het fietsen belemmeren of gevaar opleveren voor andere weggebruikers. Dezelfde bepalingen gelden ook voor bromfietsers en voor berijders van motorfietsen; bovendien dienen bromfietsers en berijders van motorfietsen het stuur met beide handen vast te houden behalve wanneer zij het teken geven voor de manoeuvre zoals beschreven in artikel 14, derde lid, van dit Verdrag.
+4. Where cycle lanes or cycle tracks exist, Contracting Parties or subdivisions thereof may forbid cyclists to use the rest of the carriageway. In the same circumstances, they may authorize moped drivers to use the cycle lane or cycle track and, if they consider it advisable, prohibit them from using the rest of the carriageway. Domestic legislation shall specify under what conditions other road users may use the cycle lane or cycle track or cross them, maintaining cyclists’ safety at all times.
 
-3. Het is fietsers en bromfietsers verboden passagiers op hun voertuig mee te voeren; de Verdragsluitende Partijen of onderdelen daarvan kunnen echter uitzonderingen op deze bepaling toestaan, en, met name, het vervoer van passagiers toestaan op een extra zadel of extra zadels die aan het voertuig zijn bevestigd. Berijders van motorfietsen mogen geen passagiers meevoeren, behalve in een zijspanwagen als deze er is, en op een extra zadel (duozitting), indien dit er is, dat achter de berijder aan de motorfiets is bevestigd.
+##### Article 28. Audible and luminous warnings
 
-4. Daar waar fietspaden of fietsstroken bestaan, kunnen de Verdragsluitende Partijen of onderdelen daarvan fietsers verbieden de rest van de rijbaan te gebruiken. In dezelfde omstandigheden kunnen zij bromfietsen toestaan het fietspad of de fietsstrook te gebruiken en, indien zij zulks raadzaam achten, hun verbieden de rest van de rijbaan te gebruiken. De nationale wetgeving bepaalt onder welke voorwaarden andere weggebruikers de fietsstrook of het fietspad mogen gebruiken of mogen oversteken, waarbij te allen tijde de veiligheid van de fietsers moet worden gewaarborgd.
+1. Audible warning devices may be used only:
 
-##### Artikel 28. Waarschuwingen door middel van geluids- of lichtsignalen
+- (a) To give due warning with a view to avoiding an accident;
 
-1. Apparaten die waarschuwen door middel van geluid mogen alleen worden gebruikt:
+- (b) Outside built-up areas when it is desirable to warn a driver that he is about to be overtaken.
 
-- (a). om doeltreffend te waarschuwen ten einde een ongeluk te voorkomen;
+The sounds emitted by audible warning devices shall not be prolonged more than necessary.
 
-- (b). buiten de bebouwde kom, wanneer het wenselijk is een bestuurder te waarschuwen dat hij op het punt staat te worden ingehaald.
+2. Motor-vehicle drivers may give the luminous warnings specified in Article 32, paragraph 3, of this Convention, instead of audible warnings, between nightfall and dawn. They may also do so in daylight hours for the purpose indicated in paragraph 1*(b)* of this Article, if to do so is more appropriate in the prevailing circumstances.
 
-De voortbrenging van geluid door deze apparaten mag niet langer duren dan noodzakelijk is.
+3. Contracting Parties or subdivisions thereof may authorize the use of luminous warnings in built-up areas also for the purpose referred to in paragraph 1*(b)* of this Article.
 
-2. Bestuurders van motorvoertuigen kunnen tussen de avondschemering en de dageraad, in plaats van waarschuwingen door middel van geluidssignalen, waarschuwingen geven door middel van de lichtsignalen die zijn aangegeven in artikel 32, derde lid, van dit Verdrag. Zij kunnen dit ook bij daglicht doen voor het doel aangegeven in het eerste lid, sub **(b)**, van dit artikel, indien zulks onder de heersende omstandigheden doeltreffender is.
+##### Article 29. Rail-borne vehicles
 
-3. De Verdragsluitende Partijen of onderdelen daarvan kunnen het gebruik van waarschuwingen door middel van lichtsignalen in de bebouwde kom ook toestaan voor het doel aangegeven in het eerste lid, sub **(b)**, van dit artikel.
+1. Where a railway uses a carriageway, every road-user shall, on the approach of a tram or other rail-borne vehicle, clear the track as soon as possible to allow the rail-borne vehicle to pass.
 
-##### Artikel 29. Voertuigen die zich op rails voortbewegen
+2. Contracting Parties or subdivisions thereof may adopt special rules, differing from those laid down in this Chapter, for the movement of rail-borne vehicles on the road and for passing or overtaking such vehicles. However, Contracting Parties or sub-divisions thereof may not adopt provisions which conflict with those of Article 18, paragraph 7, of this Convention.
 
-1. Daar waar een spoor- of tramweg gebruik maakt van een rijbaan dient elke weggebruiker bij het naderen van een tram of van een ander voertuig dat zich op rails voortbeweegt, de spoor- of trambaan zo snel mogelijk te verlaten ten einde het voertuig dat zich op rails voortbeweegt te laten passeren.
+##### Article 30. Loading of vehicles
 
-2. De Verdragsluitende Partijen of onderdelen daarvan kunnen, voor het verkeer van op rails rijdende voertuigen op de weg en voor het passeren en inhalen van dergelijke voertuigen, speciale regels aannemen die verschillen van die welke in dit hoofdstuk zijn vastgelegd. De Verdragsluitende Partijen of onderdelen daarvan kunnen echter geen bepalingen vaststellen die in strijd zijn met die van artikel 18, zevende lid, van dit Verdrag.
+1. If a permissible maximum mass is laid down for a vehicle, the laden mass of the vehicle shall never exceed the permissible maximum mass.
 
-##### Artikel 30. Het laden van voertuigen
+2. Every load on a vehicle shall be so arranged and, if necessary, stowed as to prevent it from:
 
-1. Indien een maximum toegestaan massa voor een voertuig is vastgesteld, mag het totale massa van het voertuig het maximum toegestane massa nooit overschrijden.
+- (a) Endangering persons or causing damage to public or private property, more particularly by trailing on or falling on to the road;
 
-2. Elke lading in of op een voertuig dient zodanig te worden geschikt en, indien nodig, te worden gestuwd dat wordt voorkomen dat de lading:
+- (b) Obstructing the driver’s view or impairing the stability or driving of the vehicle;
 
-- (a). mensen in gevaar brengt of schade veroorzaakt aan openbaar of particulier bezit, met name doordat zij over de weg wordt voortgesleurd of op de weg valt;
+- (c) Causing noise, raising dust, or creating any other nuisance which can be avoided;
 
-- (b). het zicht van de bestuurder belemmert of het evenwicht of het besturen van het voertuig nadelig beïnvloedt;
+- (d) Masking lights, including stop lights and direction-indicators, reflex reflectors, registration numbers and the distinguishing sign of the State of registration with which, under this Convention or under domestic legislation, the vehicle is required to be equipped, or masking signals given by arm in accordance with Article 14, paragraph 3, or Article 17, paragraph 2, of this Convention.
 
-- (c). lawaai veroorzaakt, stof doet opwaaien of andere overlast veroorzaakt die kan worden vermeden;
+3. All accessories, such as cables, chains and sheets, used to secure or protect the load shall be drawn tight around the load and be firmly fastened. All accessories used to protect the load shall satisfy the requirements laid down for the load in paragraph 2 of this Article.
 
-- (d). lichten aan het oog onttrekt, met inbegrip van stoplichten en richtingsaanwijzers, reflectoren, kentekens en het onderscheidingsteken van de Staat waar het voertuig is ingeschreven en waarvan het voertuig voorzien dient te zijn overeenkomstig dit Verdrag of overeenkomstig de nationale wetgeving, of tekens aan het oog onttrekt die overeenkomstig artikel 14, derde lid, of artikel 17, tweede lid, van dit Verdrag met de arm worden gegeven.
+4. Loads projecting beyond the front, rear or sides of the vehicle shall be clearly marked in all cases where their projection might not be noticed by the drivers of other vehicles; at night, a white light and a white reflecting device shall be used for such marking at the front and a red light and a red reflecting device at the rear. More particularly, on power-driven vehicles:
 
-3. Alle hulpmiddelen, zoals kabels, kettingen en dekzeilen, die worden gebruikt om de lading stevig vast te stuwen of te beschermen, dienen strak om de lading heen getrokken te worden en stevig te worden vastgemaakt. Alle hulpmiddelen die worden gebruikt om de lading te beschermen behoren te voldoen aan de eisen die ten aanzien van de lading zijn vastgelegd in het tweede lid van dit artikel.
+- (a) Loads projecting more than one metre (3 feet 4 inches) beyond the front or rear of the vehicle shall always be marked;
 
-4. Wanneer de lading uitsteekt buiten de voor-, achter- of zijkant(en) van het voertuig, dient zulks duidelijk te worden aangegeven in alle gevallen waar het uitsteken niet zou kunnen worden opgemerkt door bestuurders van andere voertuigen; ’s nachts dient de voorkant te worden aangeduid door een wit licht en een witte reflector, de achterzijde door een rood licht en een rode reflector. Met name bij gemotoriseerde voertuigen:
+- (b) Loads projecting laterally beyond the outer edge of the vehicle in such a way that their lateral outer edge is more than 0.40 m (16 inches) from the outer edge of the vehicle’s front position (side) light shall be marked at the front at night, and loads projecting in such a way that their lateral outer edge is more than 0.40 m (16 inches) from the outer edge of the vehicle’s red rear position (side) light shall be similarly marked at the rear at night.
 
-- (a). dienen ladingen, die meer dan één meter buiten de voor- of achterzijde van het voertuig uitsteken, altijd te worden aangegeven;
+5. Nothing in paragraph 4 of this Article shall be construed as preventing Contracting Parties or subdivisions thereof from prohibiting, restricting, or subjecting to special authorization, load projections as referred to in the aforesaid paragraph 4.
 
-- (b). dienen ladingen die zijwaarts zo ver uitsteken buiten de uiterste rand van het voertuig, dat het verst zijwaarts uitstekende punt meer dan 0,40 m ligt van de buitenste rand van het breedtelicht aan de voorzijde van het voertuig, ’s nachts aan de voorzijde gemarkeerd te zijn en evenzo dienen ladingen die zover uitsteken, dat de uiterste rand aan de zijkant ervan meer dan 0,40 m ligt van de buitenste rand van het rode breedtelicht aan de achterzijde van het voertuig 's nachts gemarkeerd te zijn aan de achterzijde.
+##### Article 30 bis. Carriage of passengers
 
-5. Niets in het vierde lid van dit artikel mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten, uitstekende ladingen, als bedoeld in genoemd vierde lid, te verbieden, te beperken of te onderwerpen aan speciale vergunningen.
+Passengers shall not be carried in such numbers or in such a way as to interfere with driving or obstruct the drivers’s view.
 
-##### Artikel 30bis. Het vervoer van passagiers
+##### Article 31. Behaviour in case of accident
 
-Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze dat daardoor het besturen wordt bemoeilijkt of het zicht van de bestuurder wordt belemmerd.
+1. Without prejudice to the provisions of domestic legislation concerning the obligation to assist the injured, every driver or other road-user involved in a traffic accident shall:
 
-##### Artikel 31. Gedrag in geval van een ongeval
+- (a) Stop as soon as he can do so without causing an additional danger to traffic;
 
-1. Onverminderd de bepalingen van de nationale wetgeving met betrekking tot de verplichting gewonden te helpen, dient elke bestuurder of elke andere weggebruiker die bij een ongeluk betrokken raakt:
+- (b) Endeavour to ensure traffic safety at the site of the accident and, if a person has been killed or seriously injured in the accident, to prevent, in so far as such action does not affect traffic safety, any change in conditions at the site, including the disappearance of traces which might be useful for determining responsibilities;
 
-- (a). zo snel mogelijk te stoppen zonder zodoende extra gevaar te veroorzaken voor het verkeer;
+- (c) If so requested by other persons involved in the accident, identify himself to them;
 
-- (b). te trachten de verkeersveiligheid op de plaats van het ongeluk te verzekeren, en indien iemand bij het ongeval is gedood of zwaar is gewond, alle veranderingen in de situatie ter plaatse, waaronder het verdwijnen van sporen die nuttig zouden kunnen zijn bij het vaststellen van de verantwoordelijkheid, te vermijden, in zoverre zulks de verkeersveiligheid niet beïnvloedt;
+- (d) If a person has been injured or killed in the accident, notify the police and remain on the scene of the accident or return to it and wait there until the arrival of the police, unless he has been authorized by the police to leave or has to assist the injured or to receive attention himself.
 
-- (c). zichzelf tegenover andere personen die bij het ongeval zijn betrokken te identificeren, indien hem zulks door dezen wordt gevraagd;
+2. Contracting Parties or sub-divisions thereof may, under their domestic legislation, refrain from imposing the provision of paragraph 1 *(d)* of this Article in cases where no serious injury has been caused and none of the persons involved requests that the police should be notified.
 
-- (d). ingeval iemand bij het ongeval is gewond of gedood, de politie te waarschuwen en op de plaats van het ongeluk te blijven of er naar terug te keren en daar op de komst van de politie te wachten, tenzij de politie hem heeft toegestaan te vertrekken, of indien hij de gewonde(n) moet helpen of zelf hulp nodig heeft.
+##### Article 32. Rules of the use of lamps
 
-2. De Verdragsluitende Partijen of onderdelen daarvan kunnen overeenkomstig hun nationale wetgeving, zich er van onthouden de bepaling van het eerste lid, onder **(d)**, van dit artikel toe te passen in gevallen waarin geen ernstig letsel is veroorzaakt en waarin geen van de betrokken personen verzoekt dat de politie wordt gewaarschuwd.
+1. Between nightfall and dawn and in any other circumstances when visibility is inadequate on account, for example, of fog, snowfall or heavy rain, the following lamps shall be lit on a moving vehicle:
 
-##### Artikel 32. Regels voor het voeren van verlichting
+- a) On power-driven vehicles and mopeds, the driving beam headlamp(s) or passing beam headlamp(s) and the rear position lamp(s), according to the equipment prescribed by the present Convention for the vehicle of each category;
 
-1. Tussen avondschemering en dageraad en in alle andere omstandigheden gedurende welke het zicht onvoldoende is vanwege bijvoorbeeld mist, sneeuwval of zware regen, dienen de volgende lichten op een rijdend voertuig te zijn ontstoken:
+- b) On trailers, front position lamps, if such lamps are required according to [Annex 5, paragraph 22.2](https://wetten.overheid.nl/BWBV0003507), of this Convention, and not less than two rear position lamps.
 
-- a. Op gemotoriseerde voertuigen en bromfietsen, groot licht of dimlicht en achterlichten, naar gelang de uitrusting die door dit Verdrag voor het voertuig van elke categorie wordt voorgeschreven;
+2. Driving beam headlamps shall be switched off and replaced by passing beam headlamps:
 
-- b. Op aanhangwagens, breedtelichten aan de voorzijde indien deze zijn vereist ingevolge [Bijlage 5, paragraaf 22.2](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&hoofdstuk=II&z=2025-02-09&g=2025-02-09), van dit Verdrag, en ten minste twee achterlichten (breedtelichten achter).
+- a) In built-up areas where the road is adequately lighted and outside built-up areas where the road is continuously lighted and the lighting is sufficient to enable the driver to see clearly for an adequate distance and to enable other road users to see the vehicle far enough away;
 
-2. Groot licht moet worden uitgeschakeld en dimlicht worden ingeschakeld:
+- b) When a driver is about to pass another vehicle, so as to prevent dazzle far enough away to enable the driver of the other vehicle to proceed easily and without danger;
 
-- a. Binnen de bebouwde kom waar de weg op voldoende wijze is verlicht en buiten de bebouwde kom waar de weg ononderbroken is verlicht en waar de verlichting voldoende is om de bestuurder in staat te stellen over een behoorlijke afstand duidelijk te zien en andere weggebruikers in staat te stellen het voertuig op een behoorlijke afstand op te merken;
+- c) In any other circumstances in which it is necessary to avoid dazzling other road-users or the users of a waterway or railway running alongside the road.
 
-- b. Wanneer een bestuurder op het punt staat een ander voertuig voorbij te rijden, zodat op voldoende afstand verblinding van de bestuurder van het andere voertuig wordt voorkomen om deze in staat te stellen ongehinderd en zonder gevaar door te rijden;
+3. When, however, a vehicle is following closely behind another vehicle, driving beam headlamps may be used to give a luminous warning as referred to in [Article 28 paragraph 2](https://wetten.overheid.nl/BWBV0003507) of the intention to overtake.
 
-- c. In alle andere omstandigheden waarin het nodig is verblinding van andere weggebruikers of gebruikers van een waterweg of spoor- of tramweg die langs de weg loopt, te vermijden.
+4. Fog lamps may be lit only in fog or any similar condition of reduced visibility and, as regards front fog lamps, as a substitute for passing beam headlamps. However, domestic legislation may authorize the simultaneous use of front fog lamps and passing beam headlamps, the simultaneous use of front fog lamps and cornering lamps, and the use of front fog lamps on narrow, winding roads.
 
-3. Wanneer een voertuig vlak achter een ander voertuig rijdt, mag echter groot licht worden gebruikt als lichtsignaal om aan te geven dat de bestuurder van plan is in te halen, zoals bepaald in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=28&z=2025-02-09&g=2025-02-09).
+5. On vehicles equipped with front position lamps, such lamps shall be switched on together with the driving beam headlamps, the passing beam headlamps or the front fog lamps. The function of the front position lamps may be substituted by the passing beam headlamps and/or the driving beam headlamps, provided that in case of failure of such lamps the front position lamps are automatically switched on again.
 
-4. Mistlichten mogen alleen worden ontstoken bij mist of soortgelijke toestand van verminderd zicht en, wat betreft mistvoorlichten, ter vervanging van dimlichten. De nationale wetgeving kan echter het gelijktijdige gebruik van mistvoorlichten en dimlichten, het gelijktijdige gebruik van mistvoorlichten en hoeklichten alsmede het gebruik van mistvoorlichten op smalle wegen met veel bochten toestaan.
+6. Domestic legislation may make it compulsory for drivers of motor vehicles to use during the day either passing beam headlamps or daytime running lamps.
 
-5. Wanneer voertuigen zijn uitgerust met breedtelichten (stadslichten) aan de voorzijde, dan moeten deze gelijktijdig worden ingeschakeld met grote lichten, dimlichten of mistvoorlichten. De functie van de breedtelichten (stadslichten) aan de voorzijde kan worden vervangen door dimlichten en/of grote lichten, op voorwaarde dat wanneer deze lichten defect zijn de breedtelichten aan de voorzijde automatisch weer worden ingeschakeld.
+7. During the day, a motorcycle moving on the road shall have lit at least one passing beam headlamp to the front and a red lamp to the rear. Domestic legislation may permit the use of daytime running lamps instead of passing beam headlamps.
 
-6. De nationale wetgeving kan bestuurders van motorvoertuigen verplichten overdag dimlicht of dagrijverlichting te voeren.
+8. Between nightfall and dawn and in any other circumstances when visibility is inadequate, the presence of power-driven vehicles and of trailers coupled to power-driven vehicles, standing or parked on a road shall be indicated by front and rear position lamps. In fog or any similar condition of reduced visibility, passing beam headlamps or front fog lamps may be used. Rear fog lamps may in these conditions be used as a supplement to the rear position lamps.
 
-7. Overdag dient een motorfiets op de weg ten minste een dimlicht aan de voorzijde en een rood achterlicht te voeren. De nationale wetgeving kan het gebruik van dagrijverlichting in plaats van dimlicht toestaan.
+9. Notwithstanding the provisions of paragraph 8 of this Article, within a built-up area the front and rear position lamps may be replaced by parking lamps, provided that:
 
-8. Tussen avondschemering en dageraad en in alle andere omstandigheden gedurende welke het zicht onvoldoende is, moet de aanwezigheid van op de weg stilstaande of geparkeerde gemotoriseerde voertuigen en van aanhangwagens die daaraan gekoppeld zijn worden aangegeven door middel van breedtelichten voor en achter. Bij dichte mist of soortgelijke toestand van verminderd zicht mogen dimlichten of mistvoorlichten worden gebruikt. Onder genoemde omstandigheden mogen mistachterlichten worden gebruikt als aanvulling op de achterlichten (breedtelichten achter).
+- a) The vehicle does not exceed 6 m in length and 2 m in width;
 
-9. In afwijking van de bepalingen van het achtste lid van dit artikel mogen binnen de bebouwde kom de breedtelichten voor en achter worden vervangen door parkeerlichten, mits:
+- b) No trailer is coupled to the vehicle;
 
-- a. het voertuig niet langer is dan 6 m en niet breder dan 2 m;
+- c) The parking lamps are placed on that side of the vehicle which is furthest from the carriageway edge alongside which the vehicle is standing or parked.
 
-- b. aan het voertuig geen aanhangwagen is gekoppeld;
+10. Notwithstanding the provisions of paragraphs 8 and 9 of this Article, a vehicle may be standing or parked without any lamps lit:
 
-- c. de parkeerlichten zijn geplaatst aan die zijde van het voertuig die het verst is verwijderd van de zijkant van de rijbaan waarlangs het voertuig stilstaat of is geparkeerd.
+- a) On a road lit in such a way that the vehicle is clearly visible at an adequate distance;
 
-10. In afwijking van de bepalingen van het achtste en negende lid van dit artikel mag een voertuig zonder enige verlichting stilstaan of geparkeerd zijn:
+- b) Away from the carriageway and hard shoulder;
 
-- a. op een weg die zodanig verlicht is dat het voertuig op voldoende afstand goed zichtbaar is;
+- c) In the case of mopeds and two-wheeled motorcycles without a side-car which are not equipped with batteries, at the extreme edge of a carriageway in a built-up area.
 
-- b. buiten de rijbaan en buiten een verharde berm;
+11. Domestic legislation may grant exemptions from the provisions of paragraphs 8 and 9 of this Article for vehicles standing or parked in built-up areas where there is very little traffic.
 
-- c. in het geval van bromfietsen en tweewielige motorfietsen zonder zijspanwagen die niet zijn uitgerust met een batterij, op de uiterste rand van de rijbaan binnen de bebouwde kom.
+12. Reversing lamps may be used only when the vehicle is reversing or about to reverse; optional additional reversing lamps may remain illuminated during short and slow forward manoeuvres.
 
-11. De nationale wetgeving mag uitzonderingen op de bepalingen van het achtste en negende lid van dit artikel toestaan voor stilstaande of geparkeerde voertuigen in straten binnen de bebouwde kom waar zeer weinig verkeer is.
+12bis. Manoeuvring lamps may be used only when the vehicle is moving at a speed not exceeding 10 km (6 miles) per hour.
 
-12. Achteruitrijlichten mogen alleen worden gebruikt wanneer het voertuig achteruit rijdt of op het punt staat achteruit te gaan rijden; optionele extra achteruitrijlichten mogen blijven branden tijdens korte en langzame voorwaartse manoeuvres.
+13. Hazard warning signals may be used only to warn other road-users of a particular danger:
 
-12bis. Manoeuvreerlichten mogen alleen worden gebruikt wanneer het voertuig niet sneller rijdt dan 10 km per uur.
+- a) When a vehicle which has broken down or has been involved in an accident cannot be moved immediately, so that it constitutes an obstacle to other road-users;
 
-13. Waarschuwingslichten mogen alleen worden gebruikt om andere weggebruikers te waarschuwen voor een bijzonder gevaar:
+- b) When indicating to other road-users the risk of an imminent danger.
 
-- a. wanneer een voertuig dat met pech staat of bij een ongeval is betrokken niet direct verwijderd kan worden, zodat het een obstakel vormt voor de overige weggebruikers;
+14. Special warning lamps:
 
-- b. wanneer andere weggebruikers worden gewaarschuwd voor een dreigend gevaar.
+- a) Displaying a blue and/or red light may be used only on priority vehicles when carrying out an urgent mission or when in other cases it is necessary to give warning to other road users of the presence of the vehicle;
 
-14. Speciale waarschuwingslichten:
+- b) Displaying an amber light may be used only when the vehicles are assigned to the specific tasks for which they were equipped with the special warning lamp or when the presence of such vehicles on the road constitutes a danger or inconvenience to other road- users;
 
-- a. die een blauw en/of rood licht uitstralen mogen slechts worden gevoerd door voorrangsvoertuigen die een urgente opdracht uitvoeren of wanneer het anderszins nodig is de overige weggebruikers te waarschuwen voor de aanwezigheid van het voertuig;
+- c) Displaying a light of any other colour may be authorized by domestic legislation.
 
-- b. die een amberkleurig licht uitstralen mogen slechts worden gevoerd door voertuigen die de specifieke taken verrichten ten behoeve waarvan zij met speciale waarschuwingslichten zijn uitgerust of wanneer de aanwezigheid van dergelijke voertuigen op de weg gevaar of hinder oplevert voor de overige weggebruikers.
+15. In no circumstances shall a vehicle display a red light to the front or white light to the rear, subject to the exemptions mentioned in [Annex 5, paragraph 61](https://wetten.overheid.nl/BWBV0003507). A vehicle shall not be modified or lamps added to it in a way which could conflict with this requirement.
 
-- c. die licht van een andere kleur uitstralen kunnen worden toegestaan door de nationale wetgeving.
+##### Article 33. Rules of lighting of other vehicles than mentioned in Article 32 and of certain road-users
 
-15. Onder geen enkele omstandigheid mag een voertuig rood licht aan de voorzijde of wit licht aan de achterzijde tonen, behoudens de in [bijlage 5, paragraaf 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&hoofdstuk=IV&z=2025-02-09&g=2025-02-09), genoemde uitzonderingen. Het is niet toegestaan een voertuig zodanig aan te passen of hieraan zodanig lichten toe te voegen dat dit strijdigheid met deze bepaling zou opleveren.
+1. Every vehicle or combination of vehicles to which the provisions of Article 32 of this Convention do not apply shall, when on a road between nightfall and dawn, show at least one white or selective yellow light to the front and at least one red light to the rear. Where there is only one lamp at the front or only one lamp at the rear, the lamp shall be placed on the centre-line of the vehicle or on the side opposite to that corresponding to the direction of traffic.
 
-##### Artikel 33. Verlichtingsregels voor andere dan de in Artikel 32 genoemde voertuigen en voor bepaalde weggebruikers
+- (a) Handcarts, i.e., carts drawn or pushed by hand, shall show at least one white or selective yellow light to the front and at least one red light to the rear. These two lights may be emitted by a single lamp placed on the side opposite to that corresponding to the direction of traffic. Lights shall not be required on handcarts not exceeding 1 m in width.
 
-1. Elk voertuig of samenstel van voertuigen waarop de bepalingen van artikel 32 van dit Verdrag niet van toepassing zijn, en dat zich op een weg bevindt tussen de avondschemering en de dageraad, dient ten minste één wit of selectief geel licht aan de voorzijde te voeren en ten minste één rood licht aan de achterzijde. Indien aan de voor- of achterzijde slechts één licht brandt, dient dit licht te zijn geplaatst op de lengte-as van het voertuig ofwel aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting.
+- (b) Animal-drawn vehicles shall show two white or selective yellow lights to the front, and two red lights to the rear. Domestic legislation may, however, make it permissible for such vehicles to show only one white or selective yellow light to the front and only one red light to the rear. The lamps shall in both cases be placed on the side opposite to that corresponding to the direction of traffic. If the lamps described above cannot be attached to the vehicle, they may be carried by an escort walking immediately alongside the vehicle, on the opposite side to that corresponding to the direction of traffic. Furthermore, animal-drawn vehicles shall be fitted with two red reflex-reflectors to the rear, as close as possible to the outer edges of the vehicle. Lights shall not be required on animal-drawn vehicles not exceeding 1 metre in width. However, a single reflex-reflector shall in this case be placed at the rear on the side opposite to that corresponding to the direction of traffic, or centrally.
 
-- a. Handkarren, d.w.z. karren die met de hand worden geduwd of getrokken, dienen ten minste één wit of selectief geel licht aan de voorzijde te voeren en ten minste één rood licht aan de achterzijde. Deze twee lichten mogen door dezelfde lamp worden uitgestraald die is geplaatst aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting. Op handkarren die niet breder zijn dan 1 m, zijn lichten niet verplicht.
+2. - (a) When moving along the carriageway by night:
 
-- b. Door dieren getrokken voertuigen dienen twee witte of selectief gele lichten aan de voorzijde te voeren en twee rode lichten aan de achterzijde. De nationale wetgeving kan echter toestaan dat dergelijke voertuigen slechts één wit of selectief geel licht aan de voorzijde en één rood licht aan de achterzijde voeren. In beide gevallen dienen de lichten te zijn geplaatst aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting. Indien de bovengenoemde lichten niet aan het voertuig kunnen worden bevestigd, mogen zij door een begeleider worden gedragen, mits deze direct naast het voertuig loopt, aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting. Voorts dienen door dieren getrokken voertuigen te zijn uitgerust met twee rode reflectoren aan de achterzijde, zo dicht mogelijk bij de buitenste randen van het voertuig. Op door dieren getrokken voertuigen die niet breder zijn dan 1 m, zijn lichten niet verplicht. Wel dient aan de achterzijde van deze voertuigen een enkele reflector te zijn geplaatst aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting, of in het midden.
+   - (i) Groups of pedestrians led by a person in charge or forming a procession, must display, on the side opposite to that appropriate to the direction of traffic, at least one white or selective yellow light to the front and a red light to the rear, or an amber light in both directions;
 
-- a. Verplaatsingen langs de rijbaan bij nacht:
+   - (ii) Drivers of draught, pack or saddle animals, or of cattle, must display, on the side opposite to that appropriate to the direction of traffic, at least one white or selective yellow light to the front and a red light to the rear, or an amber light in both directions. These lights may be displayed by a single device.
 
-- i. Groepen voetgangers onder geleide of die een stoet vormen, moeten aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting ten minste één wit of selectief geel licht tonen aan de voorzijde en een rood licht aan de achterzijde, of een amberkleurig licht in beide richtingen;
+- (b) The lights referred to in subparagraph (a) of this paragraph are, however, not required within an appropriately lit built-up area.
 
-- ii. Begeleiders van trek- last- of rijdieren, of vee, moeten aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting ten minste één wit licht of selectief geel licht tonen aan de voorzijde en een rood licht aan de achterzijde, of een amberkleurig licht in beide richtingen. Deze lichten mogen worden uitgestraald door hetzelfde apparaat.
+##### Article 34. Exemptions
 
-- b. De lichten bedoeld in letter a van dit lid zijn evenwel niet vereist binnen een bebouwde kom die op voldoende wijze is verlicht.
+1. When warned of the approach of a priority vehicle by its special luminous and audible warning devices, every road-user shall leave room clear for it to pass on the carriageway and shall, if necessary, stop.
 
-##### Artikel 34. Uitzonderingen
+2. Domestic legislation may provide that drivers of priority vehicles shall not be bound, when warning of their movement is given by the vehicle’s special warning devices, and provided that they do not endanger other road-users, to comply with all or any of the provisions of this Chapter II other than those of Article 6, paragraph 2.
 
-1. Wanneer een weggebruiker door de bijzondere licht- en geluidssignalen van een voorrangsvoertuig voor de nadering van dit voertuig wordt gewaarschuwd dient hij voldoende ruimte op de rijbaan vrij te laten opdat dit voertuig kan doorrijden, en hij dient, indien nodig, te stoppen.
+3. Domestic legislation may determine to what extent persons working on the construction, repair or maintenance of the road, including the drivers of equipment used for such work, shall not be bound, provided they take the necessary precautions, to observe the provisions of this Chapter II during their work.
 
-2. De nationale wetgeving kan bepalen dat bestuurders van voorrangsvoertuigen, wanneer zij kennis geven van hun nadering door middel van de bijzondere licht- en geluidssignalen van hun voertuig, en mits zij andere weggebruikers niet in gevaar brengen, niet verplicht zijn zich aan een of alle bepalingen te houden die in dit Hoofdstuk II zijn vervat, met uitzondering van die van artikel 6, tweede lid.
+4. For the purpose of overtaking or passing the equipment referred to in paragraph 3 of this Article while it is engaged in work on the road, the drivers of other vehicles may, to the extent necessary and on condition that they take all due precautions, disregard the requirements of Articles 11 and 12 of this Convention.
 
-3. De nationale wetgeving kan vaststellen in welke mate personen die werkzaam zijn bij de aanleg, het herstel of het onderhoud van wegen met inbegrip van de bestuurders van machines die voor dit werk worden gebruikt, niet verplicht zijn zich, mits zij de nodige voorzichtigheid betrachten, gedurende hun werkzaamheden, aan de bepalingen van dit Hoofdstuk II te houden.
+##### Article 34bis. Automated driving
 
-4. Ten einde de machines genoemd in het derde lid van dit artikel, in te halen of voorbij te gaan terwijl deze voor werkzaamheden op de weg worden gebruikt, behoeven bestuurders van andere voertuigen, in de mate waarin zulks nodig is en mits zij de nodige voorzichtigheid betrachten, de eisen van de artikelen 11 en 12 van dit Verdrag niet in acht te nemen.
+The requirement that every moving vehicle or combination of vehicles shall have a driver is deemed to be satisfied while the vehicle is using an automated driving system which complies with:
 
-### Hoofdstuk III. VOORWAARDEN VOOR DE TOELATING VAN MOTORVOERTUIGEN EN AANHANGWAGENS TOT HET INTERNATIONALE VERKEER
+- a) domestic technical regulations, and any applicable international legal instrument, concerning wheeled vehicles, equipment and parts which can be fitted and/or be used on wheeled vehicles, and
 
-##### Artikel 35. Inschrijving
+- b) domestic legislation governing operation.
 
-- (a). Ten einde de voorrechten van dit Verdrag te kunnen genieten, dient elk motorvoertuig in het internationale verkeer en elke aanhangwagen, met uitzondering van een lichte aanhangwagen, die aan een motorvoertuig is gekoppeld, door een Verdragsluitende Partij of een onderdeel daarvan te worden ingeschreven, en dient de bestuurder van zo’n motorvoertuig een geldig bewijs van een dergelijke inschrijving bij zich te dragen, dat ofwel is uitgegeven door een bevoegde autoriteit van zo’n Verdragsluitende Partij of onderdeel daarvan, dan wel door een vereniging namens en gemachtigd door deze Verdragsluitende Partij of onderdeel daarvan. Dit bewijs, aangeduid als kentekenbewijs, dient ten minste de volgende gegevens te bevatten: De gegevens die op het kentekenbewijs zijn ingevuld dienen ofwel met gewone (Latijnse) drukletters of in lopend schrift (Engels cursief) te zijn geschreven, dan wel op een van deze wijzen te worden herhaald.
+The effect of this Article is limited to the territory of the Contracting Party where the relevant domestic technical regulations and legislation governing operation apply.
 
-- een serienummer, aangeduid als het kenteken, samengesteld op de wijze die is beschreven in Bijlage 2 bij dit Verdrag;
+### Chapter III. CONDITIONS FOR THE ADMISSION OF MOTOR VEHICLES AND TRAILERS TO INTERNATIONAL TRAFFIC
 
-- de datum van de eerste inschrijving van het voertuig;
+##### Article 35. Registration
 
-- de naam, de voornamen, het adres en de woonplaats van de houder van het bewijs;
+1. - (a) In order to be entitled to the benefits of this Convention, every motor vehicle in international traffic, and every trailer, other than a light trailer, coupled to a motor vehicle shall be registered by a Contracting Party or a sub-division thereof, and the driver of the motor vehicle shall carry a valid certificate of such registration issued either by a competent authority of such Contracting Party or sub-division thereof or on behalf and by authorization of such Contracting Party or subdivision thereof by an association duly empowered thereto by that Contracting Party or sub-division thereof. This certificate, to be known as the registration certificate, shall bear the following particulars at least: A serial number, to be known as the registration number, composed in the manner indicated in Annex 2 to this Convention; The date of first registration of the vehicle; The full name and home address of the holder of the certificate; The name or the trade mark of the maker of the vehicle; The serial number of the chassis (the maker’s production or serial number); In the case of a vehicle intended for the carriage of goods, the permissible maximum mass; In the case of a vehicle intended for the carriage of goods, the unladen mass; The period of validity, if not unlimited. The particulars entered in the certificate shall either be in Latin characters or so-called English cursive script only, or be repeated in that form.
 
-- de naam of het handelsmerk van de fabrikant van het voertuig;
+- (b) Contracting Parties or sub-divisions thereof may, however, decide that the year of manufacture, instead of the date of first registration, shall be entered on certificates issued in their territories.
 
-- het serienummer van het chassis (het fabrieks- of serienummer van de fabrikant);
+- (c) In the case of motor vehicles of categories A and B as defined in annexes 6 and 7 to this Convention and, if possible, for other motor vehicles:
 
-- indien het voertuig is bestemd voor goederenvervoer, het maximum toegestane massa;
+   - (i) The certificate shall be headed with the distinguishing sign of the State of registration as defined in annex 3 to this Convention;
 
-- indien het voertuig is bestemd voor goederenvervoer, het ledig gewicht (de ledige massa);
+   - (ii) The letters A, B, C, D, E, F, G and H respectively shall be placed before or after the eight items of information which are required under subparagraph (a) of this paragraph, to be shown on all registration certificates;
 
-- de geldigheidsduur indien deze niet onbeperkt is.
+   - (iii) The words *Certificat d’immatriculation* in French may be placed either before or after the title of the certificate in the national language (or languages) of the country of registration.
 
-- (b). De Verdragsluitende Partijen of onderdelen daarvan kunnen echter besluiten dat op kentekenbewijzen die in hun grondgebied worden uitgegeven, in plaats van de datum van de eerste inschrijving, het jaar waarin het voertuig is vervaardigd dient te worden ingevuld.
+- (d) For trailers, including semi-trailers, imported temporarily into a country by a mode of transport other than road transport, a photocopy of the registration certificate, certified as a true copy by the authority which issued the certificate, shall be considered sufficient.
 
-- (c). Voor motorvoertuigen van de categorieën A en B zoals gedefinieerd in bijlage 6 en 7 van dit Verdrag en, indien mogelijk, voor de overige motorvoertuigen:
+2. Notwithstanding the provisions of paragraph 1 of this Article, an articulated vehicle which is not disassembled while in international traffic shall be entitled to the benefits of the provisions of this Convention even if it has only a single registration and a single certificate for the drawing vehicle and semi-trailer composing it.
 
-- i. dient bovenaan het bewijs van inschrijving het onderscheidingsteken van de Staat waarin het voertuig is ingeschreven, zoals bepaald in bijlage 3 bij dit Verdrag, te worden vermeld;
+3. Nothing in this Convention shall be construed as limiting the right of Contracting Parties or sub-divisions thereof to require, in the case of a vehicle in international traffic which is not registered in the name of a person travelling in it, proof of the driver’s right to be in possession of the vehicle.
 
-- ii. moeten de acht vermeldingen die elk kentekenbewijs ingevolge letter (a) van dit lid dient te bevatten, worden voorafgegaan of gevolgd door respectievelijk de letters A, B, C, D, E, F, G, en H;
+4. It is recommended that Contracting Parties should set up, if they have not already done so, a service responsible for keeping, at the national or regional level, a record of motor vehicles brought into use and a centralized record, for each vehicle, of the particulars entered in each certificate of registration.
 
-- iii. de titel van het kentekenbewijs in de landstaal of -talen van het land van inschrijving mag worden voorafgegaan of gevolgd door de Franse woorden **Certificat d'immatriculation.**
+##### Article 36. Registration number
 
-- (d). Voor aanhangwagens en opleggers die tijdelijk in een land worden geïmporteerd via een wijze van transport anders dan over de weg, wordt een door de autoriteit die het bewijs heeft afgegeven gewaarmerkte kopie van het inschrijvingsbewijs als voldoende beschouwd.
+1. Every motor vehicle in international traffic shall display its registration number at the front and at the rear; motor cycles, however, shall only be required to display this number at the rear.
 
-2. In afwijking van de bepalingen van het eerste lid van dit artikel kan een geleed voertuig, waarvan de samenstellende delen niet zijn ontkoppeld terwijl het zich in het internationale verkeer bevindt, toch de voorrechten van de bepalingen van dit Verdrag genieten, zelfs wanneer het slechts éénmaal is ingeschreven en één enkel kentekenbewijs heeft voor het trekkende voertuig en de oplegger waaruit het is samengesteld.
+2. Every registered trailer in international traffic shall display its registration number at the rear. Where a motor vehicle draws one or more trailers, the sole trailer or the last trailer, if not registered, shall display the registration number of the drawing vehicle.
 
-3. Niets in dit Verdrag mag zo worden uitgelegd dat dit het recht beperkt van de Verdragsluitende Partijen of onderdelen daarvan een bewijs te eisen van het recht van de bestuurder in het bezit te zijn van een voertuig, wanneer dit voertuig in het internationale verkeer niet is ingeschreven op naam van iemand die zich in het voertuig bevindt.
+3. The composition of the registration number referred to in this Article, and the manner of displaying it, shall conform to the provisions of Annex 2 to this Convention.
 
-4. Aanbevolen wordt dat de Verdragsluitende Partijen, indien zij zulks nog niet hebben gedaan, een speciale dienst oprichten die verantwoordelijk is voor de inschrijving, landelijk dan wel regionaal, van alle motorvoertuigen die in gebruik werden genomen, alsmede een centraal inschrijvingsregister, waarin voor elk voertuig de gegevens die op het kentekenbewijs zijn ingevuld, zijn opgetekend.
+##### Article 37. Distinguishing sign of the State of registration
 
-##### Artikel 36. Het kenteken
+1. - (a) Every motor vehicle in international traffic shall display at the rear, in addition to its registration number, the distinguishing sign of the State in which it is registered;
 
-1. Op elk motorvoertuig in het internationale verkeer dient aan de voor- en achterzijde het kenteken te zijn aangebracht; op motorfietsen echter behoeft het kenteken alleen aan de achterzijde te zijn aangebracht.
+- (b) This sign may either be placed separately from the registration plate or may be incorporated into the registration plate;
 
-2. Op elke ingeschreven aanhangwagen in het internationale verkeer dient het kenteken aan de achterzijde te zijn aangebracht. Wanneer een motorvoertuig een of meer aanhangwagens voorttrekt, dient op de enige, of de achterste aanhangwagen, indien deze niet is ingeschreven, het kenteken van het trekkende voertuig te zijn aangebracht.
+- (c) When the distinguishing sign is incorporated into the registration plate, it must also appear on the front registration plate of the vehicle if such is obligatory.
 
-3. De samenstelling van het kenteken als bedoeld in dit artikel, en de wijze waarop het dient te zijn aangebracht dienen te voldoen aan de bepalingen van Bijlage 2 bij dit Verdrag.
+2. Every trailer coupled to a motor vehicle and required under Article 36 of this Convention to display a registration number at the rear shall also display at the rear, either separately from its registration plate or incorporated into it, the distinguishing sign of the State where the registration number was assigned. The provisions of this paragraph shall be applicable even if the trailer is registered in a State other than the State of registration of the motor vehicle to which it is coupled; if the trailer is not registered, it shall display at the rear the distinguishing sign of the State of registration of the drawing vehicle except when it is travelling in that State.
 
-##### Artikel 37. Het onderscheidingsteken van de Staat waarin het voertuig is ingeschreven
+3. The composition of the distinguishing sign, and the manner of displaying it or its incorporation into the registration plate, shall conform to the conditions laid down in Annexes 2 and 3 to this Convention.
 
-- a. Op elk motorvoertuig in het internationale verkeer dient aan de achterzijde, behalve zijn kenteken, het onderscheidingsteken te zijn aangebracht van de Staat waarin het is ingeschreven.
+##### Article 38. Identification marks
 
-- b. Dit teken kan hetzij gescheiden van de kentekenplaat worden geplaatst of in de kentekenplaat worden opgenomen.
+Every motor vehicle and every trailer in international traffic shall bear the identification marks specified in Annex 4 to this Convention.
 
-- c. Wanneer het onderscheidingsteken in de kentekenplaat wordt opgenomen, moet het ook worden vermeld op de kentekenplaat aan de voorzijde van het voertuig, indien een kentekenplaat aan de voorzijde verplicht is.
+##### Article 39. Technical requirements and inspection of vehicles
 
-2. Op elke aanhangwagen die aan een motorvoertuig is gekoppeld en waarop, ingevolge artikel 36 van dit Verdrag, aan de achterzijde een kenteken dient te zijn aangebracht dient aan de achterzijde tevens, hetzij gescheiden van de kentekenplaat of hierin opgenomen, het onderscheidingsteken te zijn aangebracht van de Staat waarin het kenteken werd afgegeven. De bepalingen van dit lid zijn zelfs van toepassing wanneer de aanhangwagen is ingeschreven in een andere Staat dan die waarin het motorvoertuig waaraan de aanhangwagen is gekoppeld, is ingeschreven; indien de aanhangwagen niet is ingeschreven, dient deze aan de achterzijde het onderscheidingsteken te dragen van de Staat waarin het trekkende voertuig is ingeschreven, behalve wanneer het in die Staat rijdt.
+1. Every motor vehicle, every trailer and every combination of vehicles in international traffic shall satisfy the provisions of [Annex 5](https://wetten.overheid.nl/BWBV0003507) to this Convention. It shall also be in good working order. When these vehicles are fitted with systems, parts and equipment that are in conformity with the conditions of construction, fitting and utilization according to technical provisions of international legal instruments referred to in [Article 8, paragraph 5bis](https://wetten.overheid.nl/BWBV0003507) of this Convention, they shall be deemed to be in conformity with Annex 5.
 
-3. De samenstelling van het onderscheidingsteken en de wijze waarop het dient te worden bevestigd of in de kentekenplaat dient te worden opgenomen, dienen te voldoen aan de eisen vervat in Bijlagen 2 en 3 van dit Verdrag.
+2. Domestic legislation shall require periodic technical inspections of:
 
-##### Artikel 38. Identificatiemerken
+- (a) Motor vehicles used for the carriage of persons and having more than eight seats in addition to the driver’s seat;
 
-Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zijn voorzien van de identificatiemerken bedoeld in Bijlage 4 bij dit Verdrag.
+- (b) Motor vehicles used for the carriage of goods whose permissible maximum mass exceeds 3,500 kg and trailers designed to be coupled to such vehicles.
 
-##### Artikel 39. Technische eisen en inspectie van voertuigen
+3. Domestic legislation shall, as far as possible, extend the provision of paragraph 2 to the other categories of vehicles.
 
-1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2025-02-09&g=2025-02-09) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2025-02-09&g=2025-02-09), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
+##### Article 40. Transitional provision
 
-2. De nationale wetgeving dient periodieke technische inspecties voor te schrijven van:
+1. For a period of ten years from the entry into force of this Convention in accordance with Article 47, paragraph 1, trailers in international traffic, whatever their permissible maximum mass, shall be entitled to the benefits of the provisions of this Convention even if they are not registered.
 
-- a. motorvoertuigen die worden gebruikt voor het vervoer personen en die meer dan acht zitplaatsen hebben, de plaats van de bestuurder daaronder niet begrepen;
+2. The registration certificate shall conform with the provisions of the amendment to Article 35, paragraph 1 within five years from the date of its entry into force. Certificates issued during that period shall be mutually recognized until the expiry date inscribed therein.
 
-- b. motorvoertuigen die worden gebruikt voor goederenvervoer en waarvan het maximum toegestaan gewicht (de toegestane maximum massa) meer bedraagt dan 3500 kg en aanhangwagens die zijn ontworpen om aan dergelijke voertuigen te worden gekoppeld.
+### Chapter IV. DRIVERS OF MOTOR VEHICLES
 
-3. De nationale wetgeving breidt de bepalingen van het tweede lid zoveel mogelijk uit tot de overige categorieën voertuigen.
+##### Article 41. Driving permits
 
-##### Artikel 40. Overgangsbepalingen
+1. - (a) Every driver of a motor vehicle must hold a driving permit;
 
-1. Gerekend van het tijdstip waarop dit Verdrag overeenkomstig artikel 47, eerste lid, van kracht wordt kunnen aanhangwagens in het internationale verkeer, ongeacht hun maximum toegestaan massa, gedurende een periode van tien jaar de voorrechten van de bepalingen van dit Verdrag genieten, zelfs wanneer zij niet zijn ingeschreven.
+- (b) Contracting Parties undertake to ensure that driving permits are issued only after verification by the competent authorities that the driver possesses the required knowledge and skills; the persons authorized to check if drivers have the necessary knowledge and skills must have appropriate qualifications; the contents and procedure of both theoretical and practical exams are regulated by national legislation;
 
-2. Het inschrijvingsbewijs moet in overeenstemming zijn met de bepalingen van artikel 35, eerste lid, zoals gewijzigd, binnen vijf jaar na de datum van vankrachtwording van de wijziging. De gedurende die periode afgegeven bewijzen worden wederzijds erkend tot de daarop vermelde datum waarop zij hun geldigheid verliezen.
+- (c) Domestic legislation must lay down requirements for obtaining a driving permit. In particular, it shall specify the minimum ages for holding a permit, the medical conditions to be fulfilled and the conditions for passing the theoretical and practical exams;
 
-### Hoofdstuk IV. BESTUURDERS VAN MOTORVOERTUIGEN
+- (d) Nothing in this Convention shall be construed as preventing Contracting Parties or subdivisions thereof from requiring driving permits for other power-driven vehicles and mopeds.
 
-##### Artikel 41. Rijbewijzen
+2. - a) Contracting Parties shall recognize: as valid for driving in their territories a vehicle coming within the categories covered by the permits, provided that the permits are still valid and that they were issued by another Contracting Party or subdivision thereof or by an association duly empowered thereto by such other Contracting Party or one of its subdivisions;
 
-- a. Elke bestuurder van een motorvoertuig dient in het bezit te zijn van een rijbewijs;
+   - (i) Any domestic permit conforming to the provisions of Annex 6 to this Convention;
 
-- b. De Verdragsluitende Partijen verbinden zich ertoe de nodige maatregelen te nemen om ervoor te zorgen dat rijbewijzen alleen worden afgegeven nadat de bevoegde autoriteiten hebben geverifieerd dat de bestuurder de vereiste kennis en vaardigheden bezit; de personen die bevoegd zijn om te controleren of bestuurders de nodige kennis en vaardigheden bezitten, moeten naar behoren gekwalificeerd zijn; de inhoud en procedure van zowel het theoretisch als het praktisch examen worden gereguleerd door de nationale wetgeving;
+   - (ii) Any international permit conforming to the provisions of Annex 7 to this Convention, on condition that it is presented with the corresponding domestic driving permit,
 
-- c. De nationale wetgeving moet eisen vastleggen voor het verkrijgen van een rijbewijs. In de nationale wetgeving moeten in het bijzonder worden vermeld de minimumleeftijd voor het houden van een rijbewijs, de medische eisen waaraan moet worden voldaan en de voorwaarden voor het afleggen van het theoretisch en praktisch examen;
+- b) Driving permits issued by a Contracting Party shall be recognized in the territory of another Contracting Party until this territory becomes the place of normal residence of their holder;
 
-- d. Geen enkele bepaling in dit Verdrag mag zo worden uitgelegd dat deze de Verdragsluitende Partijen of onderdelen daarvan zou beletten rijbewijzen te verlangen voor andere gemotoriseerde voertuigen en bromfietsen.
+- c) The provisions of this paragraph shall not apply to learner-driver permits.
 
-- a. De Verdragsluitende Partijen erkennen: als geldig voor het besturen op hun grondgebied van een voertuig dat valt binnen de categorieën waarvoor dit rijbewijs is afgegeven, mits het rijbewijs nog geldig is en mits het is afgegeven door een andere Verdragsluitende Partij of onderdeel daarvan of door een daartoe door die andere Verdragsluitende Partij of een van haar onderdelen gemachtigde vereniging;
+3. Domestic legislation may limit the period of validity of a domestic driving permit. The period of validity of an international permit shall be either no more than three years after the date of issue or until the date of expiry of the domestic driving permit, whichever is earlier.
 
-- i. elk nationaal rijbewijs dat voldoet aan de bepalingen vastgelegd in Bijlage 6 bij dit Verdrag;
+4. Notwithstanding the provisions of paragraphs 1 and 2:
 
-- ii. elk internationaal rijbewijs dat voldoet aan de bepalingen vastgelegd in Bijlage 7 bij dit Verdrag, mits het wordt getoond met het overeenkomende nationale rijbewijs,
+- a) Where the validity of the driving permit is made subject by special endorsement to the condition that the holder shall wear certain devices or that the vehicle shall be equipped in a certain way to take account of the driver’s disability, the permit shall not be recognized as valid unless those conditions are observed;
 
-- b. Rijbewijzen die zijn afgegeven door een Verdragsluitende Partij worden erkend op het grondgebied van een andere Verdragsluitende Partij totdat dit grondgebied de normale woonplaats van de houder ervan wordt;
+- b) Contracting Parties may refuse to recognize the validity in their territories of driving permits held by persons under 18 years of age;
 
-- c. De bepalingen van dit lid hebben geen betrekking op rijbewijzen voor leerling-bestuurders.
+- c) Contracting Parties may refuse to recognize the validity in their territories, for the driving of motor vehicles or combinations of vehicles in categories C, D, CE and DE referred to in Annexes 6 and 7 to this Convention, of driving permits held by persons under 21 years of age.
 
-3. De nationale wetgeving kan de geldigheidsduur van een nationaal rijbewijs beperken. De geldigheidsduur van een internationaal rijbewijs bedraagt uiterlijk drie jaar te rekenen vanaf de datum van afgifte ervan of vervalt op de datum waarop het nationale rijbewijs zijn geldigheid verliest, naar gelang welke datum eerder valt.
+5. An international permit shall be issued only to the holder of a domestic permit for the issue of which the minimum conditions laid down in this Convention have been fulfilled. An international driving permit shall only be issued by the Contracting Party in whose territory the holder has his normal residence and which issued the domestic driving permit or which recognized the driving permit issued by another Contracting Party; it shall not be valid for use in that territory.
 
-4. Onverminderd de bepalingen van het eerste en tweede lid:
+6. The provisions of this Article shall not require Contracting Parties:
 
-- a. dient het rijbewijs, in gevallen waarin de geldigheid van het rijbewijs door een speciale aantekening afhankelijk is gesteld van de voorwaarde dat de houder van het rijbewijs bepaalde apparaten moet dragen, of dat het voertuig op een bepaalde wijze moet zijn aangepast aan de invaliditeit van de bestuurder, alleen als geldig te worden erkend als aan deze voorwaarden is voldaan;
+- a) To recognize the validity of domestic permits issued in the territory of another Contracting Party to persons who had their normal residence in their territories at the time of such issue or whose normal residence has been transferred to their territories since such issue;
 
-- b. kunnen de Verdragsluitende Partijen weigeren op hun grondgebied de geldigheid te erkennen van rijbewijzen die in het bezit zijn van personen onder de 18 jaar;
+- b) To recognize the validity of domestic permits issued to drivers whose normal residence at the time of such issue was not in the territory in which the permit was issued or who since such issue have transferred their residence to another territory.
 
-- c. kunnen de Verdragsluitende Partijen weigeren op hun grondgebied de geldigheid te erkennen van rijbewijzen voor het besturen van motorvoertuigen of samenstellen van voertuigen van de categorieën C, D, CE en DE, als bedoeld in Bijlagen 6 en 7 bij dit Verdrag, die in het bezit zijn van personen onder de 21 jaar.
+##### Article 42. Suspension of the validity of driving permits
 
-5. Een internationaal rijbewijs mag alleen worden afgegeven aan de houder van een nationaal rijbewijs, dat is afgegeven met inachtneming van de in dit Verdrag gestelde minimumvoorwaarden. Een internationaal rijbewijs mag alleen worden afgegeven door de Verdragsluitende Partij op wier grondgebied de houder zijn normale woonplaats heeft en die het nationale rijbewijs heeft afgegeven of die het door een andere Verdragsluitende Partij afgegeven rijbewijs heeft erkend; het rijbewijs is niet geldig voor gebruik op dat grondgebied.
+1. Contracting Parties or sub-divisions thereof may withdraw from a driver the right to use his domestic or international driving permit in their territories if he commits in their territories a breach of their regulations rendering him liable under their legislations to the forfeiture of his permit. In such a case the competent authority of the Contracting Party or sub-division thereof withdrawing the right to use the permit may:
 
-6. De bepalingen van dit artikel verplichten de Verdragsluitende Partijen niet:
+- (a) Withdraw and retain the permit until the period of the withdrawal of use expires or until the holder leaves its territory, whichever is the earlier;
 
-- a. de geldigheid van nationale of internationale rijbewijzen te erkennen wanneer deze op het grondgebied van een andere Verdragsluitende Partij zijn afgegeven aan personen die, ten tijde van deze afgifte, hun normale woonplaats op hun grondgebied hadden, of die er sinds deze afgifte heen zijn verhuisd;
+- (b) Notify the withdrawal of the right to use the permit to the authority by or on behalf of which the permit was issued;
 
-- b. de geldigheid te erkennen van rijbewijzen die zijn afgegeven aan bestuurders die, ten tijde van deze afgifte, hun normale woonplaats niet op het grondgebied hadden waar het rijbewijs werd afgegeven of die sinds deze afgifte naar een ander grondgebied zijn verhuisd.
+- (c) In the case of an international permit, enter in the space provided for the purpose an endorsement to the effect that the permit is no longer valid in its territories;
 
-##### Artikel 42. De schorsing van de geldigheid van rijbewijzen
+- (d) Where it has not applied the procedure for which provision is made in sub-paragraph*(a)* of this paragraph, supplement the communication referred to in sub-paragraph *(b)* by requesting the authority which issued the permit, or on behalf of which the permit was issued, to notify the person concerned of the decision taken with regard to him.
 
-1. De Verdragsluitende Partijen of onderdelen daarvan kunnen een bestuurder het recht ontzeggen van zijn nationale of internationale rijbewijs op hun grondgebied gebruik te maken, indien hij op hun grondgebied inbreuk heeft gemaakt op hun voorschriften, waardoor ingevolge hun wetgeving zijn rijbewijs kan worden ingetrokken. In een zodanig geval kan de bevoegde autoriteit van de Verdragsluitende Partij of een onderdeel daarvan die het recht tot gebruik maken van het rijbewijs ontzegt:
+2. Contracting Parties shall endeavour to notify the persons concerned of the decisions communicated to them in accordance with the procedure laid down in paragraph 1*(d)* of this Article.
 
-- (a). de houder het rijbewijs ontnemen en dit onder zich houden tot afloop van de termijn van ontzegging van het recht tot het gebruik maken van het rijbewijs of totdat de houder van het rijbewijs het grondgebied van deze Partij verlaat, naar gelang van welke van beide gevallen zich het eerst voordoet;
+3. Nothing in this Convention shall be construed as prohibiting Contracting Parties or sub-divisions thereof from preventing a driver holding a domestic or international driving permit from driving if it is evident or proved that his condition is such that he is unable to drive safely or if the right to drive has been withdrawn from him in the State in which he has his normal residence.
 
-- (b). kennis geven van de ontzegging van het recht tot gebruik maken van het rijbewijs aan de autoriteit die het rijbewijs heeft afgegeven of namens wie het is afgegeven;
+##### Article 43. Transitional provisions
 
-- (c). wanneer het een internationaal rijbewijs betreft, op de daartoe bestemde plaats een aantekening maken dat het rijbewijs op hun grondgebied niet langer geldig is;
+1. Contracting Parties shall issue domestic driving permits in accordance with the new provisions of Annex 6 at the latest 5 years after their entry into force. Domestic driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 6 to this Convention prior to the expiry of this period shall be recognized as long as they are valid.
 
-- (d). wanneer zij de procedure bepaald onder **(a)** van dit lid niet toepast, aan de kennisgeving bedoeld onder **(b)**, een verzoek toevoegen, gericht tot de autoriteit die het rijbewijs heeft afgegeven of namens wie het is afgegeven, om de betrokken persoon op de hoogte te stellen van het besluit dat te zijnen aanzien is genomen.
+2. Contracting Parties shall issue international driving permits in accordance with the new provisions of Annex 7 at the latest 5 years after their entry into force. International driving permits issued in accordance with the earlier provisions of Article 41, Article 43 and Annex 7 to this Convention prior to the expiry of this period shall be valid according to the conditions defined in Article 41, paragraph 3.
 
-2. De Verdragsluitende Partijen dienen alles in het werk te stellen om de betrokken personen op de hoogte te stellen van de besluiten die hun zijn medegedeeld overeenkomstig de procedure neergelegd in het eerste lid, onder **(d)**, van dit artikel.
+### Chapter V. CONDITIONS FOR THE ADMISSION OF CYCLES AND MOPEDS TO INTERNATIONAL TRAFFIC
 
-3. Niets in dit Verdrag mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten een bestuurder, die een nationaal of internationaal rijbewijs bezit, ervan te weerhouden een voertuig te besturen, wanneer het duidelijk waarneembaar of aangetoond is dat hij in zodanige toestand verkeert dat hij niet in staat is op veilige wijze te rijden, of indien het recht om te besturen hem is ontzegd in de Staat waar hij zijn normale woonplaats heeft.
+##### Article 44
 
-##### Artikel 43. Overgangsbepalingen
+1. Cycles without an engine in international traffic shall:
 
-1. De Verdragsluitende Partijen geven nationale rijbewijzen af in overeenstemming met de nieuwe bepalingen van Bijlage 6 uiterlijk 5 jaar na de inwerkingtreding ervan. Nationale rijbewijzen die vóór het verstrijken van dit tijdvak zijn afgegeven in overeenstemming met eerdere bepalingen van artikel 41, artikel 43 en Bijlage 6 bij dit Verdrag, worden erkend zolang deze geldig zijn.
+- (a) Have an efficient brake;
 
-2. De Verdragsluitende Partijen geven internationale rijbewijzen af in overeenstemming met de nieuwe bepalingen van Bijlage 7 uiterlijk 5 jaar na de inwerkingtreding ervan. Internationale rijbewijzen die vóór het verstrijken van dit tijdvak zijn afgegeven in overeenstemming met eerdere bepalingen van artikel 41, artikel 43 en Bijlage 7 bij dit Verdrag, blijven geldig overeenkomstig de in artikel 41, derde lid, vervatte voorwaarden.
+- (b) Be equipped with a bell capable of being heard at a sufficient distance, and carry no other audible warning device;
 
-### Hoofdstuk V. VOORWAARDEN VOOR DE TOELATING VAN FIETSEN EN BROMFIETSEN TOT HET INTERNATIONALE VERKEER
+- (c) Be equipped with a red reflecting device at the rear and with devices such that the cycle can show a white or selective-yellow light to the front and a red light to the rear.
 
-##### Artikel 44
+2. In the territory of Contracting Parties which have not, in accordance with Article 54, paragraph 2, of this Convention, made a statement to the effect that they treat mopeds as motor cycles, mopeds in international traffic shall:
 
-1. In het internationale verkeer dienen fietsen zonder motor:
+- (a) Have two independent brakes;
 
-- (a). een goed werkende rem te hebben;
+- (b) Be equipped with a bell or some other audible warning device capable of being heard at a sufficient distance;
 
-- (b). uitgerust te zijn met een bel die op voldoende afstand hoorbaar is en geen ander apparaat voor het geven van geluidssignalen te hebben;
+- (c) Be equipped with an effective exhaust silencer;
 
-- (c). uitgerust te zijn met een rode reflector aan de achterzijde en voorts met zodanige apparaten dat de fiets aan de voorzijde een wit of selectief geel licht kan tonen en een rood licht aan de achterzijde.
+- (d) Be so equipped that they can show a white or selective-yellow light to the front and a red light and a red reflex reflector to the rear;
 
-2. Op het grondgebied van de Verdragsluitende Partijen die niet, overeenkomstig artikel 54, tweede lid, van dit Verdrag, een verklaring hebben afgelegd dat zij bromfietsen als motorfietsen behandelen, dienen bromfietsen in het internationale verkeer:
+- (e) Display the identification mark specified in Annex 4 to this Convention.
 
-- (a). twee onafhankelijke remmen te hebben;
+3. In the territories of Contracting Parties which have, in accordance with Article 54, paragraph 2, of this Convention, declared that they treat mopeds as motor cycles, the conditions to be fulfilled by mopeds in order to be admitted to international traffic shall be those laid down for motor cycles in Annex 5 to this Convention.
 
-- (b). uitgerust te zijn met een bel of met een ander apparaat voor het geven van geluidssignalen dat op voldoende afstand hoorbaar is;
+### Chapter VI. FINAL PROVISIONS
 
-- (c). uitgerust te zijn met een goed werkende geluiddemper op de uitlaat;
+##### Article 45
 
-- (d). zodanig te zijn uitgerust dat zij aan de voorzijde een wit of selectief geel licht kunnen tonen en een rood licht alsmede een rode reflector aan de achterzijde;
+1. This Convention shall be open at United Nations Headquarters, New York, until 31 December 1969 for signature by all States Members of the United Nations or of any of the specialized agencies or of the international Atomic Energy Agency or Parties to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention.
 
-- (e). het identificatiemerk te tonen als voorgeschreven in Bijlage 4 bij dit Verdrag.
+2. This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-3. Op het grondgebied van de Verdragsluitende Partijen die, overeenkomstig artikel 54, tweede lid, van dit Verdrag, hebben verklaard dat zij bromfietsen als motorfietsen behandelen, worden bromfietsen tot het internationale verkeer toegelaten wanneer zij voldoen aan de voorwaarden voor motorfietsen, zoals vastgelegd in Bijlage 5 bij dit Verdrag.
+3. This Convention shall remain open for accession by any of the States referred to in paragraph 1 of this Article. The instruments of accession shall be deposited with the Secretary-General.
 
-### Hoofdstuk VI. SLOTBEPALINGEN
+4. On signing this Convention or on depositing its instrument of ratification or accession, each State shall notify the Secretary-General of the distinguishing sign it has selected for display in international traffic on vehicles registered by it, in accordance with Annex 3 to this Convention. By a further notification addressed to the Secretary-General, any State may change a distinguishing sign it has previously selected.
 
-##### Artikel 45
+##### Article 46
 
-1. Dit Verdrag is tot 31 december 1969 in het hoofdkwartier der Verenigde Naties te New York opengesteld voor ondertekening door alle Lid-Staten van de Verenigde Naties, van een van de gespecialiseerde organisaties, of van de Internationale Organisatie voor Atoomenergie of door de Staten die Partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), alsmede door elke andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd Partij te worden bij dit Verdrag.
+1. Any State may, at the time of signing or ratifying this Convention, or of acceding thereto, or at any time thereafter, declare by notification addressed to the Secretary-General that the Convention shall become applicable to all or any of the territories for the international relations of which it is responsible. The Convention shall become applicable to the territory or territories named in the notification thirty days after the receipt of the notification by the Secretary-General or on the date of entry into force of the Convention for the State making the notification, whichever is the later.
 
-2. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+2. Any State which has made a declaration under paragraph 1 of this Article may at any time thereafter declare by notification addressed to the Secretary-General that the Convention shall cease to be applicable to the territory named in the notification and the Convention shall cease to be applicable to such territory one year from the date of receipt by the Secretary-General of the notification.
 
-3. Dit Verdrag blijft opengesteld voor toetreding door alle Staten bedoeld in het eerste lid van dit artikel. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal.
+3. A State making a notification under paragraph 1 of this Article shall notify the Secretary-General of the distinguishing sign or signs it has selected for display in international traffic on vehicles registered in the territory or territories concerned, in accordance with Annex 3 to this Convention. By a further notification addressed to the Secretary-General, any State may change a distinguishing sign it has previously selected.
 
-4. Elke Staat stelt bij de ondertekening van dit Verdrag of bij de nederlegging van de akte van bekrachtiging of van toetreding, de Secretaris-Generaal in kennis van het onderscheidingsteken dat hij heeft uitgekozen om in het internationale verkeer te worden getoond door de voertuigen die door de betrokken Staat zijn ingeschreven, overeenkomstig Bijlage 3 bij dit Verdrag. Door middel van een kennisgeving aan de Secretaris-Generaal gericht kan elke Staat het op een vroeger tijdstip uitgekozen onderscheidingsteken veranderen.
+##### Article 47
 
-##### Artikel 46
+1. This Convention shall enter into force twelve months after the date of deposit of the fifteenth instrument of ratification or accession.
 
-1. Elke Staat kan bij de ondertekening of de bekrachtiging van dit Verdrag, of bij toetreding tot het Verdrag, alsook te allen tijde daarna, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat het Verdrag van toepassing wordt voor een of meer der gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is. Het Verdrag wordt van toepassing voor het gebied of de gebieden genoemd in de kennisgeving dertig dagen na ontvangst van de kennisgeving door de Secretaris-Generaal dan wel op de datum waarop het Verdrag in werking treedt in de Staat die de kennisgeving heeft afgelegd, welke van beide data later valt.
+2. For each State ratifying or acceding to this Convention after the deposit of the fifteenth instrument of ratification or accession, the Convention shall enter into force twelve months after the date of deposit by such State of its instrument of ratification or accession.
 
-2. Elke Staat die een verklaring heeft afgelegd als bedoeld in het eerste lid van dit artikel, kan op elk later tijdstip, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat het Verdrag niet langer van toepassing zal zijn voor het in de kennisgeving genoemde gebied en het Verdrag zal dan niet langer van toepassing zijn voor dat gebied met ingang van een jaar te rekenen van de datum waarop de Secretaris-Generaal de kennisgeving heeft ontvangen.
+##### Article 48
 
-3. Elke Staat die een verklaring aflegt als bedoeld in het eerste lid van dit artikel, dient de Secretaris-Generaal in kennis te stellen van het onderscheidingsteken of de onderscheidingstekens die door deze Staat zijn uitgekozen om in het internationale verkeer te worden aangebracht op voertuigen die in het betrokken gebied of in de betrokken gebieden zijn ingeschreven, overeenkomstig Bijlage 3 bij dit Verdrag. Door middel van een aan de Secretaris-Generaal gerichte kennisgeving kan elke Staat het op een vroeger tijdstip uitgekozen onderscheidingsteken veranderen.
+Upon its entry into force, this Convention shall terminate and replace, in relations between the Contracting Parties, the International Convention relative to Motor Traffic and the International Convention relative to Road Traffic, both signed at Paris on 24 April 1926, the Convention on the Regulation of Inter-American Automotive Traffic, opened for signature at Washington on 15 December 1943, and the [Convention on Road Traffic](https://wetten.overheid.nl/jci1.3:c:BWBV0005415), opened for signature at Geneva on 19 September 1949.
 
-##### Artikel 47
+##### Article 49
 
-1. Dit Verdrag treedt in werking twaalf maanden na de datum van nederlegging van de vijftiende akte van bekrachtiging of toetreding.
+1. After this Convention has been in force for one year, any Contracting Party may propose one or more amendments to the Convention. The text of any proposed amendment, accompanied by an explanatory memorandum, shall be transmitted to the Secretary-General, who shall communicate it to all Contracting Parties. The Contracting Parties shall have the opportunity of informing him within a period of twelve months following the date of its circulation whether they: *(a)* accept the amendment; or *(b)* reject the amendment; or *(c)* wish that a conference be convened to consider the amendment. The Secretary-General shall also transmit the text of the proposed amendment to all other States referred to in Article 45, paragraph 1 of this Convention.
 
-2. Voor elke Staat die dit Verdrag bekrachtigt of er toe toetreedt nadat de vijftiende akte van bekrachtiging of van toetreding is nedergelegd, treedt het Verdrag in werking twaalf maanden na de datum waarop deze Staat zijn akte van bekrachtiging of van toetreding heeft nedergelegd.
+2. - (a) Any proposed amendment communicated in accordance with the preceding paragraph shall be deemed to be accepted if within the period of twelve months referred to in the preceding paragraph less than one-third of the Contracting Parties inform the Secretary-General that they either reject the amendment or wish that a conference be convened to consider it. The Secretary-General shall notify all Contracting Parties of each acceptance or rejection of any proposed amendment and of requests that a conference be convened. If the total number of such rejections and requests received during the specified period of twelve months is less than one-third of the total number of Contracting Parties, the Secretary-General shall notify all Contracting Parties that the amendment will enter into force six months after the expiry of the period of twelve months referred to in the preceding paragraph for all Contracting Parties except those which, during the period specified, have rejected the amendment or requested the convening of a conference to consider it.
 
-##### Artikel 48
+- (b) Any Contracting Party which, during the said period of twelve months, has rejected a proposed amendment or requested the convening of a conference to consider it may at any time after the end of such period notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Parties which have notified their acceptance, six months after receipt by the Secretary-General of their notification.
 
-Bij zijn inwerkingtreding beëindigt en vervangt dit Verdrag tussen de Verdragsluitende Partijen het Internationale Verdrag betreffende het verkeer met Motorrijtuigen en het Internationale Verdrag betreffende wegverkeer, beide getekend te Parijs op 24 april 1926, het Verdrag ter regeling van het Inter-Amerikaanse gemotoriseerd verkeer, opengesteld voor ondertekening te Washington op 15 december 1943, en het [Verdrag nopens het Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415), opengesteld voor ondertekening te Genève op 19 september 1949.
+3. If a proposed amendment has not been accepted in accordance with paragraph 2 of this Article and if within the period of twelve months specified in paragraph 1 of this Article less than half of the total number of the Contracting Parties inform the Secretary-General that they reject the proposed amendment and if at least one-third of the total number of Contracting Parties, but not less than ten, inform him that they accept it or wish a conference to be convened to consider it, the Secretary-General shall convene a conference for the purpose of considering the proposed amendment or any other proposal which may be submitted to him in accordance with paragraph 4 of this Article.
 
-##### Artikel 49
+4. If a conference is convened in accordance with paragraph 3 of this Article, the Secretary-General shall invite to it all States referred to in Article 45, paragraph 1 of this Convention. He shall request all States invited to the conference to submit to him, at least six months before its opening date, any proposals which they may wish the conference to consider in addition to the proposed amendment and shall communicate such proposals, at least three months before the opening date of the conference, to all States invited to the conference.
 
-1. Wanneer dit Verdrag een jaar van kracht is geweest kan elke Verdragsluitende Partij een of meer wijzigingen in dit Verdrag voorstellen. De tekst van de wijzigingsvoorstellen, vergezeld van een memorie van toelichting, wordt toegezonden aan de Secretaris-Generaal, die deze ter kennis van alle Verdragsluitende Partijen brengt. De Verdragsluitende Partijen hebben de gelegenheid hem, binnen een tijdvak van twaalf maanden te rekenen van de datum van die kennisgeving, mede te delen of zij: **(a)** de wijziging aanvaarden; of **(b)** de wijziging verwerpen; of **(c)** wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal doet de tekst van de voorgestelde wijziging tevens toekomen aan alle andere Staten, als bedoeld in Artikel 45, eerste lid, van dit Verdrag.
+5. - (a) Any amendment to this Convention shall be deemed to be accepted if it has been adopted by a two-thirds majority of the States represented at the conference, provided that such majority comprises at least two-thirds of Contracting Parties represented at the conference. The Secretary-General shall notify all Contracting Parties of the adoption of the amendment and the amendment shall enter into force twelve months after the date of his notification for all Contracting Parties except those which during that period have notified the Secretary-General that they reject the amendment.
 
-- (a). Elke voorgestelde wijziging waarvan overeenkomstig het voorgaande lid kennis is gegeven, wordt geacht te zijn aanvaard, indien, binnen het tijdvak van twaalf maanden als bedoeld in het voorgaande lid, minder dan een derde van de Verdragsluitende Partijen de Secretaris-Generaal heeft medegedeeld, dat zij de wijziging verwerpen dan wel dat zij wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal stelt alle Verdragsluitende Partijen in kennis van elke aanvaarding of verwerping van elke voorgestelde wijziging en van verzoeken om een conferentie bijeen te roepen. Indien het totale aantal van dergelijke verwerpingen en verzoeken die gedurende het voorgeschreven tijdvak van twaalf maanden zijn ontvangen minder dan een derde bedraagt van het totale aantal Verdragsluitende Partijen, stelt de Secretaris-Generaal alle Verdragsluitende Partijen er van in kennis dat de wijziging van kracht zal worden zes maanden na afloop van het tijdvak van twaalf maanden als bedoeld in het voorgaande lid, en wel voor alle Verdragsluitende Partijen met uitzondering van die, welke, gedurende het voorgeschreven tijdvak, de wijziging hebben verworpen of hebben verzocht een conferentie bijeen te roepen om haar te bestuderen.
+- (b) A Contracting Party which has rejected an amendment during the said period of twelve months may at any time notify the Secretary-General that it accepts the amendment, and the Secretary-General shall communicate such notification to all the other Contracting Parties. The amendment shall enter into force, with respect to the Contracting Party which has notified its acceptance, six months after receipt by the Secretary General of the notification or at the end of the said period of twelve months, whichever is later.
 
-- (b). Elke Verdragsluitende Partij die, gedurende genoemd tijdvak van twaalf maanden, een voorgestelde wijziging heeft verworpen of heeft verzocht een conferentie bijeen te roepen om haar te bestuderen, kan te allen tijde na afloop van bedoeld tijdvak de Secretaris-Generaal er van in kennis stellen dat zij de wijziging aanvaardt, en de Secretaris-Generaal deelt deze kennisgeving mede aan alle andere Verdragsluitende Partijen. De wijziging wordt dan ten aanzien van de Verdragsluitende Partijen die kennis hebben gegeven van het aanvaarden daarvan van kracht zes maanden na ontvangst van hun kennisgeving door de Secretaris-Generaal.
+6. If the proposed amendment is not deemed to be accepted pursuant to paragraph 2 of this Article and if the conditions prescribed by paragraph 3 of this Article for convening a conference are not fulfilled, the proposed amendment shall be deemed to be rejected.
 
-3. Indien een voorgestelde wijziging niet is aanvaard overeenkomstig het tweede lid van dit artikel, en indien binnen het tijdvak van twaalf maanden als bedoeld in het eerste lid van dit artikel minder dan de helft van het totale aantal Verdragsluitende Partijen de Secretaris-Generaal heeft medegedeeld dat zij de voorgestelde wijziging verwerpt, en indien ten minste een derde van het totale aantal Verdragsluitende Partijen, maar niet minder dan tien, hem mededeelt het te aanvaarden dan wel wenst dat een conferentie wordt bijeengeroepen om haar te bestuderen, roept de Secretaris-Generaal een conferentie bijeen ten einde de voorgestelde wijziging of ieder ander voorstel te bestuderen dat hem kan worden voorgelegd overeenkomstig het vierde lid van dit artikel.
+##### Article 50
 
-4. Indien een conferentie is bijeengeroepen overeenkomstig het derde lid van dit artikel, nodigt de Secretaris-Generaal alle Staten, als bedoeld in artikel 45, eerste lid, van dit Verdrag daartoe uit. Hij verzoekt alle tot de conferentie uitgenodigde Staten hem, uiterlijk zes maanden vóór de openingsdatum van de conferentie, alle voorstellen voor te leggen die zij behalve de voorgestelde wijziging ook door de conferentie wensen te laten bestuderen en hij deelt dergelijke voorstellen uiterlijk drie maanden vóór de openingsdatum van de conferentie mede aan alle tot de conferentie uitgenodigde Staten.
+Any Contracting Party may denounce this Convention by written notification addressed to the Secretary-General. The denunciation shall take effect one year after the date of receipt by the Secretary-General of such notification.
 
-- (a). Elke wijziging op dit Verdrag wordt geacht te zijn aanvaard indien zij is aanvaard door een twee-derde meerderheid van de ter conferentie vertegenwoordigde Staten, mits deze meerderheid ten minste twee derde bedraagt van de ter conferentie vertegenwoordigde Verdragsluitende Partijen. De Secretaris-Generaal stelt alle Verdragsluitende Partijen in kennis van het aanvaarden van de wijziging en de wijziging wordt van kracht twaalf maanden na de datum van deze kennisgeving, en wel voor alle Verdragsluitende Partijen met uitzondering van die, welke gedurende dit tijdvak de Secretaris-Generaal er van in kennis hebben gesteld dat zij de wijziging verwerpen.
+##### Article 51
 
-- (b). Een Verdragsluitende Partij, die een wijziging gedurende genoemd tijdvak van twaalf maanden heeft verworpen, kan de Secretaris-Generaal te allen tijde er van in kennis stellen dat zij de wijziging aanvaardt, en de Secretaris-Generaal deelt deze kennisgeving mede aan alle andere Verdragsluitende Partijen. De wijziging wordt ten aanzien van de Verdragsluitende Partij die kennis heeft gegeven van het aanvaarden daarvan, van kracht zes maanden na ontvangst van deze kennisgeving door de Secretaris-Generaal, of aan het eind van genoemd tijdvak van twaalf maanden, welke van beide data later valt.
+This Convention shall cease to be in force if the number of Contracting Parties is less than five for any period of twelve consecutive months.
 
-6. Indien de voorgestelde wijziging niet wordt geacht te zijn aanvaard overeenkomstig het tweede lid van dit artikel, en indien aan de in het derde lid van dit artikel voorgeschreven voorwaarden met betrekking tot het bijeenroepen van een conferentie niet is voldaan, wordt de voorgestelde wijziging geacht te zijn verworpen.
+##### Article 52
 
-##### Artikel 50
+Any dispute between two or more Contracting Parties which relates to the interpretation or application of this Convention and which the Parties are unable to settle by negotiation or other means of settlement may be referred, at the request of any of the Contracting Parties concerned, to the International Court of Justice for decision.
 
-Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
+##### Article 53
 
-##### Artikel 51
+Nothing in this Convention shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and limited to the exigencies of the situation, as it considers necessary to its external or internal security.
 
-Dit Verdrag houdt op van kracht te zijn indien het aantal Verdragsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder is dan vijf.
+##### Article 54
 
-##### Artikel 52
+1. Any State may, at the time of signing this Convention or of depositing its instrument of ratification or accession, declare that it does not consider itself bound by Article 52 of this Convention. Other Contracting Parties shall not be bound by Article 52 with respect to any Contracting Party which has made such a declaration.
 
-Elk geschil tussen twee of meer Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag, welk geschil de Partijen niet door onderhandelingen of door andere middelen tot regeling van een geschil kunnen oplossen, kan, op verzoek van een van de betrokken Verdragsluitende Partijen, bij het Internationale Gerechtshof ter beslissing aanhangig worden gemaakt.
+2. At the time of depositing its instrument of ratification or accession, any State may, by notification addressed to the Secretary-General, declare that for the purposes of the application of this Convention it treats mopeds as motor cycles (Article 1 *(n)*).
 
-##### Artikel 53
+By notification addressed to the Secretary-General, any State may subsequently at any time withdraw its declaration.
 
-Niets in dit Verdrag mag zo worden uitgelegd dat een Verdragsluitende Partij daardoor zou worden belet de maatregelen te nemen die deze Partij noodzakelijk acht voor haar binnenlandse of buitenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), en beperkt blijven tot de vereisten der gegeven omstandigheden.
+3. The declarations provided for in paragraph 2 of this Article shall become effective six months after the date of receipt by the Secretary-General of notification of them or on the date on which the Convention enters into force for the State making the declaration, whichever is the later.
 
-##### Artikel 54
+4. Any modification of a previously selected distinguishing sign notified in conformity with Article 45, paragraph 4, or Article 46, paragraph 3 of this Convention, shall take effect three months after the date on which the Secretary-General receives notification thereof.
 
-1. Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren dat hij zich niet gebonden acht door artikel 52 van dit Verdrag. Andere Verdragsluitende Partijen zijn niet gebonden door artikel 52 met betrekking tot een Verdragsluitende Partij die een dergelijke verklaring heeft afgelegd.
+5. Reservations to this Convention and its annexes, other than the reservation provided for in paragraph 1 of this Article, shall be permitted on condition that they are formulated in writing and, if formulated before the deposit of the instrument of ratification or accession, are confirmed in that instrument. The Secretary-General shall communicate such reservations to all States referred to in Article 45, paragraph 1, of this Convention.
 
-2. Bij de nederlegging van zijn akte van bekrachtiging of van toetreding kan elke Staat, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat hij voor de toepassing van dit Verdrag bromfietsen als motorfietsen behandelt (artikel 1 **(n)**).
+6. Any Contracting Party which has formulated a reservation or made a declaration under paragraphs 1 or 4 of this Article may withdraw it at any time by notification addressed to the Secretary-General.
 
-Door middel van een aan de Secretaris-Generaal gerichte kennisgeving kan elke Staat deze verklaring naderhand te allen tijde intrekken.
+7. A reservation made in accordance with paragraph 5 of this Article
 
-3. De verklaringen bedoeld in het tweede lid van dit artikel treden in werking zes maanden na de datum waarop de Secretaris-Generaal deze kennisgeving heeft ontvangen, of op de datum waarop het Verdrag voor deze Staat van kracht wordt, welke van beide data later valt.
+- (a) Modifies for the Contracting Party which made the reservation the provisions of the Convention to which the reservation relates, to the extent of the reservation;
 
-4. Elke verandering van een vroeger gekozen onderscheidingsteken, waarvan kennis is gegeven overeenkomstig artikel 45, vierde lid, of artikel 46, derde lid, van dit Verdrag, treedt in werking drie maanden na de datum waarop de Secretaris-Generaal de kennisgeving hiervan heeft ontvangen.
+- (b) Modifies those provisions to the same extent for the other Contracting Parties in their relations with the Contracting Party which entered the reservation.
 
-5. Elk voorbehoud ten aanzien van dit Verdrag en de bijlagen daarbij, met uitzondering van het voorbehoud bedoeld in het eerste lid van dit artikel, is toegestaan op voorwaarde dat elk voorbehoud schriftelijk wordt gemaakt, en dat het, indien het is gemaakt vóór de nederlegging van de akte van bekrachtiging of van toetreding, in deze akte wordt bevestigd. De Secretaris-Generaal deelt deze voorbehouden mede aan alle Staten bedoeld in artikel 45, eerste lid, van dit Verdrag.
+##### Article 55
 
-6. Elke Verdragsluitende Partij die een voorbehoud heeft gemaakt of een verklaring heeft afgelegd zoals bedoeld in het eerste of het vierde lid van dit artikel, kan dit te allen tijde intrekken door middel van een tot de Secretaris-Generaal gerichte kennisgeving.
+In addition to the declarations, notifications and communications provided for in Articles 49 and 54 of this Convention, the Secretary-General shall notify all the States referred to in Article 45, paragraph 1, of the following:
 
-7. Elk voorbehoud, gemaakt overeenkomstig het vijfde lid van dit artikel,
+- (a) Signatures, ratifications and accessions under Article 45;
 
-- (a). wijzigt voor de Verdragsluitende Partij die het voorbehoud heeft gemaakt de bepalingen van dit Verdrag waarop het voorbehoud betrekking heeft, zulks overeenkomstig de draagwijdte van het voorbehoud;
+- (b) Notifications and declarations under Article 45, paragraph 4, and Article 46;
 
-- (b). wijzigt deze bepalingen in dezelfde mate voor de andere Verdragsluitende Partijen ten aanzien van hun betrekkingen met de Verdragsluitende Partij die het voorbehoud heeft gemaakt.
+- (c) The dates of entry into force of this Convention in accordance with Article 47;
 
-##### Artikel 55
+- (d) The date of entry into force of amendments to this Convention in accordance with Article 49, paragraphs 2 and 5;
 
-Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 49 en 54 van dit Verdrag, stelt de Secretaris-Generaal alle Staten, bedoeld in artikel 45, eerste lid, in kennis van:
+- (e) Denunciations under Article 50,
 
-- (a). ondertekeningen, bekrachtigingen en toetredingen ingevolge artikel 45;
+- f) The determination of this Convention under Article 51.
 
-- (b). kennisgevingen en verklaringen ingevolge artikel 45, vierde lid, en artikel 46;
+##### Article 56
 
-- (c). de data waarop dit Verdrag van kracht wordt overeenkomstig artikel 47;
-
-- (d). de datum waarop de wijzigingen van dit Verdrag van kracht en overeenkomstig artikel 49, tweede en vijfde lid;
-
-- (e). opzeggingen ingevolge artikel 50;
-
-- (f). de beëindiging van dit Verdrag ingevolge artikel 51.
-
-##### Artikel 56
-
-De oorspronkelijke tekst van dit Verdrag, gedaan in één enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle vijf teksten gelijkelijk authentiek, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten bedoeld in artikel 45, eerste lid van dit Verdrag.
-
-IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
-
-DONE at Vienna this eighth day of November, one thousand nine hundred and sixty-eight.
-
-##### Artikel 34bis. Geautomatiseerd rijden
-
-Aan de eis dat elk rijdend voertuig of elk rijdend samenstel van voertuigen een bestuurder dient te hebben, wordt geacht te zijn voldaan wanneer het voertuig gebruikmaakt van een geautomatiseerd rĳsysteem dat voldoet aan:
-
-- a. de nationaal van toepassing zijnde technische reglementen en elk toepasselijk internationaal rechtsinstrument betreffende wielvoertuigen, uitrustingsstukken en onderdelen die kunnen worden aangebracht en/of gebruikt op wielvoertuigen, en
-
-- b. de nationaal van toepassing zijnde regelgeving inzake werking en gebruik.
-
-De toepassing van dit artikel is beperkt tot het grondgebied van de Verdragsluitende Partij waar de relevante nationaal van toepassing zijnde technische reglementen en regelgeving inzake werking en gebruik van toepassing zijn.
-
-### Hoofdstuk III. VOORWAARDEN VOOR DE TOELATING VAN MOTORVOERTUIGEN EN AANHANGWAGENS TOT HET INTERNATIONALE VERKEER
-
-### Hoofdstuk IV. BESTUURDERS VAN MOTORVOERTUIGEN
-
-### Hoofdstuk V. VOORWAARDEN VOOR DE TOELATING VAN FIETSEN EN BROMFIETSEN TOT HET INTERNATIONALE VERKEER
-
-### Hoofdstuk VI. SLOTBEPALINGEN
+The original of this Convention, of which the Chinese, English, French, Russian and Spanish texts done in a single copy are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified true copies thereof to all the States referred to in Article 45, paragraph 1, of this Convention.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
 

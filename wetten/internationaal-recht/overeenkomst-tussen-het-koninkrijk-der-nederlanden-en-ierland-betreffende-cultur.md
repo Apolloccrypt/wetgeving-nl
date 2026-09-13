@@ -1,99 +1,74 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Ierland betreffende culturele samenwerking"
 identifier: "BWBV0003375"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-05-01"
-last_updated: "1981-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003375"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003505453"
-version_id: "10003552232"
-internal_id: "C10006979931"
-label_id: "10003490914"
-dtd_version: "2.0"
-original_entry_into_force: "1981-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003375/1981-05-01/0"
-intitule_bron: "Trb.1980-143"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-09-02"
-intitule_in_force: "1981-04-29"
-intitule_status: "goed"
-original_publication: "Trb.1980-143"
-original_published_date: "1980-09-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-143"
-entry_into_force_date: "1981-05-01"
-jci_1_3: "jci1.3:c:BWBV0003375&z=1981-05-01&g=1981-05-01"
-jci_1_0: "1.0:c:BWBV0003375&g=1981-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-05-01"
+publicatiedatum: 1981-05-01
+laatste_update: 1981-05-01
+status: geldig
+toestand: 1981-05-01
+bron: "https://wetten.overheid.nl/BWBV0003375"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Ierland betreffende culturele samenwerking
 
-De Regering van het Koninkrijk der Nederlanden
+*The Government of the Kingdom of the Netherlands and the Government of Ireland, desiring to strengthen the friendly relations between their two countries, and to this end to develop co-operation in education, science, research, culture and socio-cultural development generally, have agreed as follows:*
 
-en
+##### Article 1
 
-de Regering van Ierland,
+The Contracting Parties shall promote co-operation between organisations and institutions in the fields of education (including the arts) and science. In particular, they shall support, as far as possible and on the basis of reciprocity:
 
-verlangend de vriendschappelijke betrekkingen tussen hun beide landen te versterken en hiertoe de samenwerking op het gebied van onderwijs, wetenschap, onderzoek, cultuur en sociaal-culturele ontwikkeling in het algemeen te ontwikkelen, zijn overeengekomen als volgt:
+- (a) co-operation between universities and other institutions of learning and of higher education and visits by academic staff and students;
 
-##### Artikel 1
+- (b) co-operation between scientific institutions and visits by scientists and other experts;
 
-De Overeenkomstsluitende Partijen bevorderen de samenwerking tussen de organisaties en instellingen op het gebied van onderwijs (met inbegrip van kunst) en wetenschap. In het bijzonder ondersteunen zij, voor zover mogelijk en op basis van wederkerigheid:
+- (c) the granting of scholarships and fellowships for students and young research workers;
 
-- (a). de samenwerking tussen universiteiten, instellingen voor hoger onderwijs en andere onderwijsinstellingen alsmede bezoeken van docenten en studenten;
+- (d) the study and teaching of the languages, literature and culture of the other country at universities and other institutions of learning and of higher education;
 
-- (b). de samenwerking tussen wetenschappelijke instellingen en bezoeken van wetenschapsbeoefenaren en andere deskundigen;
+- (e) the exchange of information and documentation concerning developments in education, science and research in their countries.
 
-- (c). het toekennen van studiebeurzen en fellowships aan studenten en jonge onderzoekers;
+##### Article 2
 
-- (d). het bestuderen en het doceren van de talen, de literatuur en de cultuur van het andere land aan universiteiten, instellingen voor hoger onderwijs en andere onderwijsinstellingen en
+The Contracting Parties shall promote co-operation between organisations and institutions in the fields of culture and the arts and between persons engaged in these fields. In particular, they shall support, as far as possible and on the basis of reciprocity:
 
-- (e). de uitwisseling van informatie en documentatie betreffende de ontwikkeling op het gebied van onderwijs, wetenschap en onderzoek in hun landen.
+- (a) contacts and co-operation between libraries, archives and museums, including public art galleries;
 
-##### Artikel 2
+- (b) visits by persons engaged in the fields of culture and the arts, including writers, translators, composers, architects, creative and performing artists, art and literature critics, journalists and other such experts;
 
-De Overeenkomstsluitende Partijen bevorderen de samenwerking tussen de organisaties en instellingen op het gebied van cultuur en kunst alsmede tussen de personen die op deze gebieden werkzaam zijn. In het bijzonder ondersteunen zij, voor zover mogelijk en op basis van wederkerigheid:
+- (c) co-operation in the fields of socio-cultural activities, the mass media, adult education, youth activities, sport, open air recreation and nature and urban conservation;
 
-- (a). de contacten en de samenwerking tussen bibliotheken, archieven en musea, met inbegrip van kunstmusea;
+- (d) artistic presentations designed to make the culture of each country better known to the other, including the exchange of exhibitions, of performances of music, theatre and dance, of books, periodicals and other publications of a cultural, scientific and technological nature, as well as of films and other audio-visual materials;
 
-- (b). de bezoeken van personen die werkzaam zijn op het gebied van cultuur en kunst, met inbegrip van schrijvers, vertalers, componisten, architecten, scheppende en uitvoerende kunstenaars, beoefenaars van kunstkritiek en literaire kritiek, journalisten en soortgelijke deskundigen;
+- (e) the exchange of other information, specialised publications and documentation in the fields of culture and the arts, as well as the translation and publication of literary, scientific and artistic works and the dissemination of published music;
 
-- (c). de samenwerking op het gebied van sociaal-culturele activiteiten, de massamedia, volwasseneneducatie, jeugdwerk, sport, recreatie in de open lucht en natuurbescherming en bescherming van stadsschoon;
+- (f) performances by ensembles and soloists on a commercial basis, as well as the development of commercial relations in the fields of film, publishing and the production of records.
 
-- (d). kunstmanifestaties bedoeld om aan de cultuur van het ene land meer bekendheid in het andere land te geven, met inbegrip van de uitwisseling van tentoonstellingen, muziek-, toneel- en balletuitvoeringen, van boeken, tijdschriften en andere publikaties van culturele, wetenschappelijke en technologische aard alsmede van films en ander audiovisueel materiaal;
+##### Article 3
 
-- (e). de uitwisseling van andere informatie, gespecialiseerde publikaties en documentatie op het gebied van cultuur en kunst, alsmede de vertaling en de publikatie van werken van letterkunde en kunst en van wetenschappelijke verken, en de verspreiding van gepubliceerde muziekwerken;
+Representatives of the Contracting Parties shall meet according to need, and in principle every two years, to consider the implementation of the provisions of this Agreement.
 
-- (f). de uitvoeringen door ensembles en solisten op commerciële basis alsmede de ontwikkeling van commerciële betrekkingen op het gebied van film, uitgeverij en het vervaardigen van grammofoonplaten.
+##### Article 4
 
-##### Artikel 3
+This Agreement shall enter into force on the first day of the second month after the date on which the Contracting Parties have notified each other in writing that the pertinent constitutional requirements in their respective countries have been complied with.
 
-Vertegenwoordigers van de Overeenkomstsluitende Partijen komen, indien nodig, en in beginsel om de twee jaar, bijeen om de uitvoering van de bepalingen van deze Overeenkomst te bezien.
+##### Article 5
 
-##### Artikel 4
+As regards the Kingdom of the Netherlands, the Agreement applies to the European part of the Kingdom only.
 
-Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de van toepassing zijnde constitutionele vereisten in hun onderscheiden landen is voldaan.
+##### Article 6
 
-##### Artikel 5
-
-Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor het Rijk in Europa.
-
-##### Artikel 6
-
-Na een eerste geldigheidsduur van vijf jaar, kan elk van de Overeenkomstsluitende Partijen deze Overeenkomst beëindigen door, met een opzeggingstermijn van zes maanden, de andere Overeenkomstsluitende Partij hiervan schriftelijk in kennis te stellen.
+Following an initial period of validity of five years, either Contracting Party may terminate this Agreement, giving six months' written notice to the other Contracting Party.
 
 IN WITNESS WHEREOF the undersigned plenipotentiaries being duly authorized thereto by their respective Governments, have signed this Agreement.
 
 DONE at The Hague, 21 July, 1980, in duplicate in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) C. A. VAN DER KLAAUW
 
-**For the Government of Ireland**
+*For the Government of Ireland*
 
 (sd.) SEAN MORRISSEY

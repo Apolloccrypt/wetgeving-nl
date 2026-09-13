@@ -1,87 +1,53 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de Nederlandse Antillen, anderzijds"
 identifier: "BWBV0002974"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-05-01"
-last_updated: "2006-10-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002974"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003283823"
-version_id: "10003306142"
-internal_id: "C10006997461"
-label_id: "10003269704"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002974/2008-05-01/0"
-intitule_bron: "Trb.2006-258"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2007-06-21"
-intitule_published: "2006-12-04"
-intitule_in_force: "2008-05-07"
-intitule_status: "goed"
-original_publication: "Trb.2006-258"
-original_signed_date: "2007-06-21"
-original_published_date: "2006-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2006-258"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBV0002974&z=2008-05-01&g=2008-05-01"
-jci_1_0: "1.0:c:BWBV0002974&g=2008-05-01"
-citeertitel_status: "redactioneel"
-signed_date: "2007-06-21"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2008-05-01
+status: geldig
+toestand: 2008-05-01
+bron: "https://wetten.overheid.nl/BWBV0002974"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake luchtdiensten tussen en via het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de Nederlandse Antillen, anderzijds
 
-The Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles
-
-and
-
-the Government of the United Kingdom of Great Britain and Northern Ireland,
-
-hereinafter referred to as the ‘‘Contracting Parties’’;
-
-Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944;
-
-Desiring to conclude an Agreement supplementary to the said Convention for the purpose of establishing air services between and beyond the United Kingdom of Great Britain and Northern Ireland on the one hand, and the Netherlands Antilles on the other;
-
-Have agreed as follows:
+*The Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles and the Government of the United Kingdom of Great Britain and Northern Ireland, hereinafter referred to as the ‘‘Contracting Parties’’; Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; Desiring to conclude an Agreement supplementary to the said Convention for the purpose of establishing air services between and beyond the United Kingdom of Great Britain and Northern Ireland on the one hand, and the Netherlands Antilles on the other; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 For the purpose of this Agreement, unless the context otherwise requires:
 
-- a). the term ‘‘the Chicago Convention’’ means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944 and includes:
+- a) the term ‘‘the Chicago Convention’’ means the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944 and includes:
 
-- (i). any amendment thereof which has been ratified by both Contracting Parties; and
+   - (i) any amendment thereof which has been ratified by both Contracting Parties; and
 
-- (ii). any Annex or any amendment thereto adopted under Article 90 of that Convention, insofar as such amendment or annex is at any given time effective for both Contracting Parties;
+   - (ii) any Annex or any amendment thereto adopted under Article 90 of that Convention, insofar as such amendment or annex is at any given time effective for both Contracting Parties;
 
-- b). the term ‘‘aeronautical authority’’ means in the case of the United Kingdom of Great Britain and Northern Ireland, the Secretary of State for Transport, and for the purpose of Article 7 of this Agreement, the Civil Aviation Authority and in the case of the Kingdom of the Netherlands, the Minister of Transport and Transport of the Netherlands Antilles, or, in both cases, any person or body who may be authorised to perform any functions at present exercisable by the above-mentioned authority or similar functions;
+- b) the term ‘‘aeronautical authority’’ means in the case of the United Kingdom of Great Britain and Northern Ireland, the Secretary of State for Transport, and for the purpose of Article 7 of this Agreement, the Civil Aviation Authority and in the case of the Kingdom of the Netherlands, the Minister of Transport and Transport of the Netherlands Antilles, or, in both cases, any person or body who may be authorised to perform any functions at present exercisable by the above-mentioned authority or similar functions;
 
-- c). the term ‘‘designated airline’’ means an airline which has been designated and authorised in accordance with Article 4 of this Agreement;
+- c) the term ‘‘designated airline’’ means an airline which has been designated and authorised in accordance with Article 4 of this Agreement;
 
-- d). the term ‘‘territory’’ means in relation to the United Kingdom of Great Britain and Northern Ireland, the land areas and territorial waters adjacent thereto under the sovereignty of the United Kingdom of Great Britain and Northern Ireland with the exception of the land areas and territorial waters adjacent thereto of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands and in relation to the Netherlands Antilles the land areas and the territorial waters adjacent thereto of the Netherlands Antilles;
+- d) the term ‘‘territory’’ means in relation to the United Kingdom of Great Britain and Northern Ireland, the land areas and territorial waters adjacent thereto under the sovereignty of the United Kingdom of Great Britain and Northern Ireland with the exception of the land areas and territorial waters adjacent thereto of Anguilla, Bermuda, the British Virgin Islands, the Cayman Islands, Montserrat and the Turks and Caicos Islands and in relation to the Netherlands Antilles the land areas and the territorial waters adjacent thereto of the Netherlands Antilles;
 
-- e). the terms ‘‘air service’’, ‘‘international air service’’, ‘‘airline’’ and ‘‘stop for non-traffic purposes’’ have the meanings respectively assigned to them in Article 96 of the Chicago Convention;
+- e) the terms ‘‘air service’’, ‘‘international air service’’, ‘‘airline’’ and ‘‘stop for non-traffic purposes’’ have the meanings respectively assigned to them in Article 96 of the Chicago Convention;
 
-- f). the term ‘‘this Agreement’’ includes the Annex hereto and any amendments to it or to this Agreement;
+- f) the term ‘‘this Agreement’’ includes the Annex hereto and any amendments to it or to this Agreement;
 
-- g). the term ‘‘user charges’’ means a charge made to airlines by the competent authority or permitted by that authority to be made for the provision of airport property or facilities or of air navigation facilities (including facilities for overflights), or related services and facilities, for aircraft, their crews, passengers and cargo;
+- g) the term ‘‘user charges’’ means a charge made to airlines by the competent authority or permitted by that authority to be made for the provision of airport property or facilities or of air navigation facilities (including facilities for overflights), or related services and facilities, for aircraft, their crews, passengers and cargo;
 
-- h). the term ‘‘Air Operator’s Certificate’’ means a document issued to an airline which affirms that the airline in question has the professional ability and organisation to secure the safe operation of aircraft for the aviation activities specified in the certificate;
+- h) the term ‘‘Air Operator’s Certificate’’ means a document issued to an airline which affirms that the airline in question has the professional ability and organisation to secure the safe operation of aircraft for the aviation activities specified in the certificate;
 
-- i). the term ‘‘EC Member State’’ means a State that is now or in the future a contracting party to the Treaty establishing the European Community;
+- i) the term ‘‘EC Member State’’ means a State that is now or in the future a contracting party to the Treaty establishing the European Community;
 
-- j). references to airlines of the United Kingdom of Great Britain and Northern Ireland shall be understood as referring to airlines designated by the United Kingdom of Great Britain and Northern Ireland;
+- j) references to airlines of the United Kingdom of Great Britain and Northern Ireland shall be understood as referring to airlines designated by the United Kingdom of Great Britain and Northern Ireland;
 
-- k). references to airlines of the Kingdom of the Netherlands shall be understood as referring to airlines designated by the Netherlands Antilles;
+- k) references to airlines of the Kingdom of the Netherlands shall be understood as referring to airlines designated by the Netherlands Antilles;
 
-- l). References to nationals of the United Kingdom of Great Britain and Northern Ireland shall be understood as referring to nationals of European Community Member States;
+- l) References to nationals of the United Kingdom of Great Britain and Northern Ireland shall be understood as referring to nationals of European Community Member States;
 
-- m). references to nationals of the Kingdom of the Netherlands shall be understood as referring to nationals who are permanent residents of the Netherlands Antilles.
+- m) references to nationals of the Kingdom of the Netherlands shall be understood as referring to nationals who are permanent residents of the Netherlands Antilles.
 
 ##### Article 2. Applicability of the Chicago Convention
 
@@ -91,9 +57,9 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 1. Each Contracting Party grants to the other Contracting Party the following rights in respect of its international air services:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes.
+- b) the right to make stops in its territory for non-traffic purposes.
 
 2. Each Contracting Party grants to the other Contracting Party the rights hereinafter specified in this Agreement for the purpose of operating international air services on the routes specified in the appropriate Section of the Schedule annexed to this Agreement. Such services and routes are hereinafter called ‘‘the agreed services’’ and ‘‘the specified routes’’ respectively. While operating an agreed service on a specified route the airline or airlines designated by each Contracting Party shall enjoy in addition to the rights specified in paragraph 1 of this Article the right to make stops in the territory of the other Contracting Party at the points specified for that route in the Schedule to this Agreement for the purpose of taking on board and discharging passengers and cargo, including mail.
 
@@ -107,23 +73,23 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 2. On receipt of such a designation, and of applications from the designated airline, in the form and manner prescribed for operating authorisations and technical permissions, the other Contracting Party shall grant the appropriate authorisations and permissions with minimum procedural delay, provided:
 
-- a). in the case of an airline designated by the United Kingdom of Great Britain and Northern Ireland:
+- a) in the case of an airline designated by the United Kingdom of Great Britain and Northern Ireland:
 
-- (i). it is established in the territory of the United Kingdom under the Treaty establishing the European Community and has a valid operating licence in accordance with European Community law; and
+   - (i) it is established in the territory of the United Kingdom under the Treaty establishing the European Community and has a valid operating licence in accordance with European Community law; and
 
-- (ii). effective regulatory control of the airline is exercised and maintained by the EC Member State responsible for issuing its Air Operator’s Certificate and the relevant aeronautical authority is clearly identified in the designation; and
+   - (ii) effective regulatory control of the airline is exercised and maintained by the EC Member State responsible for issuing its Air Operator’s Certificate and the relevant aeronautical authority is clearly identified in the designation; and
 
-- (iii). the airline is owned, directly or through majority ownership, and it is effectively controlled by EC Member States or the European Free Trade Association and/or by nationals of such states.
+   - (iii) the airline is owned, directly or through majority ownership, and it is effectively controlled by EC Member States or the European Free Trade Association and/or by nationals of such states.
 
-- b). in the case of an airline designated by the Kingdom of the Netherlands:
+- b) in the case of an airline designated by the Kingdom of the Netherlands:
 
-- (i). it is established in the territory of the Netherlands Antilles and is licensed in accordance with the applicable law of the Netherlands Antilles;
+   - (i) it is established in the territory of the Netherlands Antilles and is licensed in accordance with the applicable law of the Netherlands Antilles;
 
-- (ii). the Netherlands Antilles aeronautical authority has and maintains effective regulatory control of the airline; and
+   - (ii) the Netherlands Antilles aeronautical authority has and maintains effective regulatory control of the airline; and
 
-- (iii). the airline is owned, directly or through majority ownership, and is effectively controlled by the Netherlands Antilles and/or by nationals of the Kingdom of the Netherlands who are permanent residents of the Netherlands Antilles.
+   - (iii) the airline is owned, directly or through majority ownership, and is effectively controlled by the Netherlands Antilles and/or by nationals of the Kingdom of the Netherlands who are permanent residents of the Netherlands Antilles.
 
-- c). the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air services by the Contracting Party considering the application or applications.
+- c) the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air services by the Contracting Party considering the application or applications.
 
 3. When an airline has been so designated and authorised it may begin to operate the agreed services, provided that the airline complies with the applicable provisions of this Agreement.
 
@@ -131,29 +97,29 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 1. Either Contracting Party may revoke, suspend or limit the operating authorisation or technical permissions of an airline designated by the other Contracting Party:
 
-- a). where, in the case of an airline designated by the United Kingdom of Great Britain and Northern Ireland:
+- a) where, in the case of an airline designated by the United Kingdom of Great Britain and Northern Ireland:
 
-- (i). it is not established in the territory of the United Kingdom under the Treaty establishing the European Community or does not have a valid operating licence in accordance with European Community law; or
+   - (i) it is not established in the territory of the United Kingdom under the Treaty establishing the European Community or does not have a valid operating licence in accordance with European Community law; or
 
-- (ii). effective regulatory control of the airline is not exercised or not maintained by the EC Member State responsible for issuing its Air Operator’s Certificate or the relevant aeronautical authority is not clearly identified in the designation; or
+   - (ii) effective regulatory control of the airline is not exercised or not maintained by the EC Member State responsible for issuing its Air Operator’s Certificate or the relevant aeronautical authority is not clearly identified in the designation; or
 
-- (iii). the airline is not owned, directly or through majority ownership, or is not effectively controlled by EC Member States or the European Free Trade Association and/or by nationals of such states.
+   - (iii) the airline is not owned, directly or through majority ownership, or is not effectively controlled by EC Member States or the European Free Trade Association and/or by nationals of such states.
 
-- b). where, in the case of an airline designated by the Kingdom of the Netherlands:
+- b) where, in the case of an airline designated by the Kingdom of the Netherlands:
 
-- (i). it is not established in the territory of the Netherlands Antilles or is not licensed in accordance with the applicable law of the Netherlands Antilles;
+   - (i) it is not established in the territory of the Netherlands Antilles or is not licensed in accordance with the applicable law of the Netherlands Antilles;
 
-- (ii). the Netherlands Antilles aeronautical authority does not have or maintain effective regulatory control of the airline; or
+   - (ii) the Netherlands Antilles aeronautical authority does not have or maintain effective regulatory control of the airline; or
 
-- (iii). the airline is not owned, directly or through majority ownership, or is not effectively controlled by the Netherlands Antilles and/or by nationals of the Kingdom of the Netherlands who are permanent residents of the Netherlands Antilles.
+   - (iii) the airline is not owned, directly or through majority ownership, or is not effectively controlled by the Netherlands Antilles and/or by nationals of the Kingdom of the Netherlands who are permanent residents of the Netherlands Antilles.
 
-- c). in the case of failure by that airline to comply with the laws or regulations normally and reasonably applied by the Contracting Party granting those rights; or
+- c) in the case of failure by that airline to comply with the laws or regulations normally and reasonably applied by the Contracting Party granting those rights; or
 
-- d). if the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement; or
+- d) if the airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement; or
 
-- e). in the case of failure by the other Contracting Party to take appropriate action to improve safety in accordance with paragraph 2 of Article 10 of this Agreement; or
+- e) in the case of failure by the other Contracting Party to take appropriate action to improve safety in accordance with paragraph 2 of Article 10 of this Agreement; or
 
-- f). in accordance with paragraph 6 of Article 10 of this Agreement.
+- f) in accordance with paragraph 6 of Article 10 of this Agreement.
 
 2. Unless immediate revocation, suspension or imposition of the conditions mentioned in paragraph 1 of this Article is essential to prevent further infringements of laws or regulations, such right shall be exercised only after consultation with the other Contracting Party.
 
@@ -179,9 +145,9 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 4. Intervention by the Contracting Parties shall be limited to:
 
-- a). the protection of consumers from tariffs that are excessive due to the abuse of market power;
+- a) the protection of consumers from tariffs that are excessive due to the abuse of market power;
 
-- b). the prevention of tariffs whose application constitutes anti-competitive behaviour which has or is likely to have or is explicitly intended to have the effect of preventing, restricting or distorting competition or excluding a competitor from the route.
+- b) the prevention of tariffs whose application constitutes anti-competitive behaviour which has or is likely to have or is explicitly intended to have the effect of preventing, restricting or distorting competition or excluding a competitor from the route.
 
 5. Each Contracting Party may unilaterally disallow any tariff filed or charged by one of its own designated airlines. However, such intervention shall be made only if it appears to the aeronautical authority of that Contracting Party that a tariff charged or proposed to be charged meets either of the criteria set out in paragraph 4 above.
 
@@ -197,39 +163,39 @@ The provisions of this Agreement shall be subject to the provisions of the Chica
 
 1. The Contracting Parties shall relieve from all customs duties, national excise taxes and similar national fees:
 
-- a). aircraft operated in international air services by the designated airline or airlines of either Contracting Party; and
+- a) aircraft operated in international air services by the designated airline or airlines of either Contracting Party; and
 
-- b). the following items introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party:
+- b) the following items introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party:
 
-- (i). repair, maintenance and servicing equipment and component parts;
+   - (i) repair, maintenance and servicing equipment and component parts;
 
-- (ii). passenger handling equipment and component parts;
+   - (ii) passenger handling equipment and component parts;
 
-- (iii). cargo-loading equipment and component parts;
+   - (iii) cargo-loading equipment and component parts;
 
-- (iv). security equipment including component parts for incorporation into security equipment;
+   - (iv) security equipment including component parts for incorporation into security equipment;
 
-- (v). instructional material and training aids;
+   - (v) instructional material and training aids;
 
-- (vi). airline and operators’ documents; and
+   - (vi) airline and operators’ documents; and
 
-- c). the following items introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party or supplied to a designated airline of one Contracting Party in the territory of the other Contracting Party:
+- c) the following items introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party or supplied to a designated airline of one Contracting Party in the territory of the other Contracting Party:
 
-- (i). aircraft stores (including but not limited to such items as food, beverages and tobacco) whether introduced into or taken on board in the territory of the other Contracting Party;
+   - (i) aircraft stores (including but not limited to such items as food, beverages and tobacco) whether introduced into or taken on board in the territory of the other Contracting Party;
 
-- (ii). fuel (subject to paragraph 5 of this Article), lubricants and consumable technical supplies;
+   - (ii) fuel (subject to paragraph 5 of this Article), lubricants and consumable technical supplies;
 
-- (iii). spare parts including engines; and
+   - (iii) spare parts including engines; and
 
-- d). computer equipment and component parts introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party to assist in one or more of the following matters:
+- d) computer equipment and component parts introduced by a designated airline of one Contracting Party into the territory of the other Contracting Party to assist in one or more of the following matters:
 
-- (i). the repair, maintenance or servicing of aircraft;
+   - (i) the repair, maintenance or servicing of aircraft;
 
-- (ii). the handling of passengers at the airport or on board aircraft;
+   - (ii) the handling of passengers at the airport or on board aircraft;
 
-- (iii). the loading of cargo onto or the unloading of cargo from aircraft;
+   - (iii) the loading of cargo onto or the unloading of cargo from aircraft;
 
-- (iv). the carrying out of security checks on passengers or cargo;
+   - (iv) the carrying out of security checks on passengers or cargo;
 
 provided in the case of sub-paragraphs b)–d) they are for use on board an aircraft or within the limits of an international airport in connection with the establishment or maintenance of an international air service by the designated airline concerned.
 
@@ -265,9 +231,9 @@ provided in the case of sub-paragraphs b)–d) they are for use on board an airc
 
 4. If any such ramp inspection or series of ramp inspections gives rise to:
 
-- a). serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Chicago Convention; or
+- a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Chicago Convention; or
 
-- b). serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Chicago Convention;
+- b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Chicago Convention;
 
 the Contracting Party carrying out the inspection shall, for the purposes of Article 33 of the Chicago Convention, be free to conclude that the requirements under which the certificate or licences in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid or that the requirements under which that aircraft is operated are not equal to or above the minimum standards established pursuant to the Chicago Convention.
 
@@ -285,11 +251,11 @@ Where the United Kingdom of Great Britain and Northern Ireland has designated an
 
 Any designated airline may, subject to applicable laws and regulations governing competition, enter into codesharing arrangements with any other airline or airlines, provided that:
 
-- (i). each flight forming part of a service to which the arrangements apply is operated by an airline entitled to operate that flight;
+- (i) each flight forming part of a service to which the arrangements apply is operated by an airline entitled to operate that flight;
 
-- (ii). no service is held out by an airline of one side for the carriage of local passengers between a point in the territory of the other side and a point in a third party, or between two points in the territory of the other side, unless that airline is entitled to operate and carry local traffic between those two points in its own right;
+- (ii) no service is held out by an airline of one side for the carriage of local passengers between a point in the territory of the other side and a point in a third party, or between two points in the territory of the other side, unless that airline is entitled to operate and carry local traffic between those two points in its own right;
 
-- (iii). in respect of each ticket sold, the purchaser is informed at the point of sale which airline will operate each sector of the service.
+- (iii) in respect of each ticket sold, the purchaser is informed at the point of sale which airline will operate each sector of the service.
 
 For the avoidance of doubt, nothing in this Article confers frequency or traffic rights additional to those which have been agreed upon in this Agreement, unless the Contracting Parties agree otherwise.
 
@@ -309,17 +275,17 @@ Each designated airline may on demand convert and remit local revenues in excess
 
 An airline which:
 
-- a). is incorporated and has its principal place of business in the territory of one Contracting Party or an EC Member State; and
+- a) is incorporated and has its principal place of business in the territory of one Contracting Party or an EC Member State; and
 
-- b). holds a current Air Operator’s Certificate issued by the aeronautical authority of that Contracting Party or an EC Member State; may:
+- b) holds a current Air Operator’s Certificate issued by the aeronautical authority of that Contracting Party or an EC Member State; may:
 
-- (i). in accordance with the laws and regulations relating to entry, residence and employment of the other Contracting Party bring in and maintain in the territory of the other Contracting Party those of their own managerial, technical, operational and other specialist staff which the airline reasonably considers necessary for the provision of air services;
+   - (i) in accordance with the laws and regulations relating to entry, residence and employment of the other Contracting Party bring in and maintain in the territory of the other Contracting Party those of their own managerial, technical, operational and other specialist staff which the airline reasonably considers necessary for the provision of air services;
 
-- (ii). use the services and personnel of any other organisation, company or irline operating in the territory of the other Contracting Party;
+   - (ii) use the services and personnel of any other organisation, company or irline operating in the territory of the other Contracting Party;
 
-- (iii). establish offices in the territory of the other Contracting Party;
+   - (iii) establish offices in the territory of the other Contracting Party;
 
-- (iv). engage in the sale and marketing of air transportation in the territory of the other Contracting Party, either directly or through agents or other intermediaries appointed by the airline. The airline may sell, and any person shall be free to purchase, such transportation in local currency or in any freely convertible other currency.
+   - (iv) engage in the sale and marketing of air transportation in the territory of the other Contracting Party, either directly or through agents or other intermediaries appointed by the airline. The airline may sell, and any person shall be free to purchase, such transportation in local currency or in any freely convertible other currency.
 
 ##### Article 17. User Charges
 
@@ -341,9 +307,9 @@ Either Contracting Party may at any time request consultations on the implementa
 
 2. If the Contracting Parties fail to reach a settlement of the dispute by negotiation, it may be referred by them to such person or body as they may agree on or, at the request of either Contracting Party, shall be submitted for decision to a tribunal of three arbitrators which shall be constituted in the following manner:
 
-- a). within 30 days after receipt of a request for arbitration, each Contracting Party shall appoint one arbitrator. A national of a third State, who shall act as President of the tribunal, shall be appointed as the third arbitrator by agreement between the two arbitrators, within 60 days of the appointment of the second;
+- a) within 30 days after receipt of a request for arbitration, each Contracting Party shall appoint one arbitrator. A national of a third State, who shall act as President of the tribunal, shall be appointed as the third arbitrator by agreement between the two arbitrators, within 60 days of the appointment of the second;
 
-- b). if within the time limits specified above any appointment has not been made, either Contracting Party may request the President of the International Court of Justice to make the necessary appointment within 30 days. If the President has the nationality of one of the Contracting Parties, the Vice-President shall be requested to make the appointment. If the Vice-President has the nationality of one of the Contracting Parties, the Member of the International Court of Justice next in seniority who does not have the nationality of one of the Contracting Parties shall be requested to make the appointment.
+- b) if within the time limits specified above any appointment has not been made, either Contracting Party may request the President of the International Court of Justice to make the necessary appointment within 30 days. If the President has the nationality of one of the Contracting Parties, the Vice-President shall be requested to make the appointment. If the Vice-President has the nationality of one of the Contracting Parties, the Member of the International Court of Justice next in seniority who does not have the nationality of one of the Contracting Parties shall be requested to make the appointment.
 
 3. Except as hereinafter provided in this Article or as otherwise agreed by the Contracting Parties, the tribunal shall determine the limits of its jurisdiction and establish its own procedure. At the direction of the tribunal, or at the request of either of the Contracting Parties, a conference to determine the precise issues to be arbitrated and the specific procedures to be followed shall be held not later than 30 days after the tribunal is fully constituted.
 
@@ -379,10 +345,10 @@ IN WITNESS WHEREOF, the undersigned, being duly authorised by their respective G
 
 DONE in duplicate, at London, this 25th day of October 2006, in the English language.
 
-**For the Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles**
+*For the Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles*
 
 KENNETH A. GIJSBERTHA
 
-**For the Government of the United Kingdom of Great Britain and orthern Ireland**
+*For the Government of the United Kingdom of Great Britain and orthern Ireland*
 
 GILLIAN MERRON

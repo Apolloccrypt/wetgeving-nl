@@ -1,41 +1,50 @@
 ---
 title: "Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de douanebehandeling aan de grensovergang Elten-Spijk en Elten-Babberich"
 identifier: "BWBV0003737"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-08-27"
-last_updated: "1971-08-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003737"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003680903"
-version_id: "10003740992"
-internal_id: "C10006983821"
-label_id: "10003665904"
-dtd_version: "2.0"
-original_entry_into_force: "1971-08-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003737/1971-08-27/0"
-intitule_bron: "Trb.1971-185"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-10-07"
-intitule_in_force: "1971-10-07"
-intitule_status: "goed"
-original_publication: "Trb.1971-185"
-original_published_date: "1971-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-185"
-entry_into_force_date: "1971-08-27"
-jci_1_3: "jci1.3:c:BWBV0003737&z=1971-08-27&g=1971-08-27"
-jci_1_0: "1.0:c:BWBV0003737&g=1971-08-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-08-27"
+publicatiedatum: 1971-08-27
+laatste_update: 1971-08-27
+status: geldig
+toestand: 1971-08-27
+bron: "https://wetten.overheid.nl/BWBV0003737"
+opgehaald: 2026-09-13
 ---
+
 # Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland inzake de samenvoeging van de douanebehandeling aan de grensovergang Elten-Spijk en Elten-Babberich
 
-AUSWÄRTIGES AMT
+*AUSWÄRTIGES AMT V 3-81. SA 47 Verbalnote Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 4. Mai 1971 - III B/2 - Z 1108 (Nie) - 28/71 - und das Schreiben des Niederländischen Staatssekretärs der Finanzen vom 9. Juni 1971 — B 71/ 9119 - zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:*
 
-V 3-81. SA 47
+### I
 
-Verbalnote
+An den Grenzübergängen Elten-Spijk und Elten-Babberich werden die deutsche und die niederländische Grenzabfertigung auf deutschem Gebiet zusammengelegt.
 
-Das Auswärtige Amt beehrt sich, der Königlich Niederländischen Botschaft unter Bezugnahme auf Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenlegung der Grenzabfertigung und über die Einrichtung von Gemeinschafts- oder Betriebswechselbahnhöfen an der deutsch-niederländischen Grenze mitzuteilen, dass die Regierung der Bundesrepublik Deutschland das Schreiben des Bundesministers der Finanzen vom 4. Mai 1971 - III B/2 - Z 1108 (Nie) - 28/71 - und das Schreiben des Niederländischen Staatssekretärs der Finanzen vom 9. Juni 1971 — B 71/ 9119 - zur Kenntnis genommen hat, durch welche gemäss Artikel 1 Absatz 4 Buchstabe a) des Abkommens folgende Vereinbarung getroffen wird:
+### II
+
+Die Zonen im Sinne des Artikels 3 des Abkommens umfassen die zur Durchführung der Grenzabfertigung erforderlichen Diensträume und Anlagen einschliesslich der Rampen und Parkplätze sowie
+
+- 1. einen Abschnitt der Strasse von Spijk nach Elten von der gemeinsamen Grenze bei Grenzstein 660 bis zur Einmündung in die Strasse von Emmerich nach Elten,
+
+- 2. einen Abschnitt der Strasse von Babberich nach Elten von der gemeinsamen Grenze bis zu einer Entfernung von 130 Metern, gemessen in Richtung Elten, vom Schnittpunkt der gemeinsamen Grenze mit der Achse der Strasse.
+
+### III
+
+Diese Vereinbarung wird gemäss Artikel 1 Absatz 5 des Abkommens bestätigt und in Kraft gesetzt. Der Zeitpunkt des Inkrafttretens wird in den diplomatischen Noten festgelegt.
+
+### IV
+
+Diese Vereinbarung kann jederzeit auf diplomatischem Wege gekündigt werden. Sie tritt sechs Monate nach ihrer Kündigung ausser Kraft.
+
+### V
+
+Mit dem Inkrafttreten dieser Vereinbarung treten die Nummern 11 und 13 der Abschnitte I und II der Vereinbarung vom 18.725. Juni 1963 über die Zusammenlegung der Grenzabfertigung im Strassenverkehr nach Inkrafttreten des Ausgleichsvertrages vom 8. April 1960 ausser Kraft.
+
+Die Regierung der Bundesrepublik Deutschland geht davon aus, dass die vorstehende Vereinbarung gemäss Artikel 1 Absatz 5 des Abkommens vom 30. Mai 1958 durch diese Verbalnote und die Antwortnote der Königlich Niederländischen Botschaft bestätigt wird und dass die Vereinbarung am 27. August 1971 in Kraft tritt. Zur Vermeidung von Missverständnissen wird klargestellt, dass die Abschnitte I und II der Vereinbarung des Bundesministers der Finanzen der Bundesrepublik Deutschland und des Ministers der Finanzen des Königreichs der Niederlande in gleicher Angelegenheit vom 18./25. Juni 1963 in dem zwischen der Königlich Niederländischen Botschaft in Bonn und dem Auswärtigen Amt zwecks Bestätigung und Inkraftsetzung der Vereinbarung geführten Notenwechsel vom 19, Juli 1963 mit „A” und „B” bezeichnet sind.
+
+Das Auswärtige Amt benutzt diesen Anlass, die Königlich Niederländische Botschaft erneut seiner ausgezeichneten Hochachtung zu versichern.
+
+Bonn, den 27. August 1971.
+
+*An die*
+
+*Königlich Niederländische Botschaft*

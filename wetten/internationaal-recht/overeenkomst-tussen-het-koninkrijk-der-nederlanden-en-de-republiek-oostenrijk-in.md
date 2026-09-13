@@ -1,51 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de binnenvaart"
 identifier: "BWBV0003058"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-04-01"
-last_updated: "2007-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003058"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003312003"
-version_id: "10003340192"
-internal_id: "C10008362271"
-label_id: "10003297734"
-dtd_version: "2.0"
-original_entry_into_force: "1993-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003058/2007-04-01/0"
-intitule_bron: "Trb.1991-161"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1992-01-13"
-intitule_published: "1991-11-14"
-intitule_in_force: "1992-12-09"
-intitule_status: "goed"
-original_publication: "Trb.1991-161"
-original_signed_date: "1992-01-13"
-original_published_date: "1991-11-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-161"
-entry_into_force_date: "1993-01-01"
-jci_1_3: "jci1.3:c:BWBV0003058&z=2007-04-01&g=2007-04-01"
-jci_1_0: "1.0:c:BWBV0003058&g=2007-04-01"
-citeertitel_status: "redactioneel"
-signed_date: "1992-01-13"
-entry_into_force: "1993-01-01"
+publicatiedatum: 1993-01-01
+laatste_update: 2007-04-01
+status: geldig
+toestand: 2007-04-01
+bron: "https://wetten.overheid.nl/BWBV0003058"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de binnenvaart
 
-Het Koninkrijk der Nederlanden en de Republiek Oostenrijk,
-
-Geleid door de wens het vervoer van personen en goederen door middel van binnenschepen te regelen,
-
-ernaar strevend de wederzijdse binnenvaart verder te ontwikkelen,
-
-en
-
-ernaar strevend daarbij ook rekening te houden met de wederzijdse belangen na de opening van het Main-Donaukanaal,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Oostenrijk, Geleid door de wens het vervoer van personen en goederen door middel van binnenschepen te regelen, ernaar strevend de wederzijdse binnenvaart verder te ontwikkelen, en ernaar strevend daarbij ook rekening te houden met de wederzijdse belangen na de opening van het Main-Donaukanaal, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -149,50 +117,12 @@ De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden be
 
 4. Met ingang van de dag van de inwerkingtreding van deze Overeenkomst treden de bepalingen van het Handels- en Scheepvaartverdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk van 28 maart 1929 buiten werking, voor zover deze betrekking hebben op de binnenvaart.
 
-##### Artikel 14
-
-1. De in de artikelen 6,7 en 13, derde lid, tweede volzin, voorziene overeenkomsten komen tot stand doordat de bevoegde autoriteiten elkaar hun instemming met de door de Gemengde Commissie voorgelegde voorstellen schriftelijk mededelen.
-
-2. Indien in de Gemengde Commissie geen overeenstemming kan worden bereikt, komen op verzoek van een Overeenkomstsluitende Partij de vertegenwoordigers van de Overeenkomstsluitende Staten binnen vier weken voor overleg bijeen. Tenzij in onderling overleg een andere regeling wordt overeengekomen, vindt dit overleg plaats in de Overeenkomstsluitende Staat die de voorzitter van de Gemengde Commissie levert.
-
-##### Artikel 15
-
-1. Geschillen over de interpretatie en toepassing van deze Overeenkomst worden door rechtstreekse onderhandelingen tussen de bevoegde autoriteiten geregeld. Indien geen overeenstemming kan worden bereikt, worden de geschillen langs diplomatieke weg bijgelegd. Indien een geschil ook langs deze weg niet kan worden bijgelegd, dient het op verzoek van een van beide Overeenkomstsluitende Staten ter definitieve beslechting te worden voorgelegd aan een uit drie scheidsrechters bestaand scheidsgerecht.
-
-2. Elke Overeenkomstsluitende Staat benoemt een scheidsrechter. De derde scheidsrechter, die ook de voorzitter van het scheidsgerecht is, wordt benoemd door de twee door de Overeenkomstsluitende Staten benoemde scheidsrechters.
-
-3. Indien een van de Overeenkomstsluitende Staten nalaat binnen drie maanden na ontvangst van de mededeling over de benoeming van een scheidsrechter door de andere Overeenkomstsluitende Staat een scheidsrechter te benoemen, wordt de scheidsrechter die door de eerste Overeenkomstsluitende Staat had moeten worden benoemd op verzoek van de andere Overeenkomstsluitende Staat door de President van het Internationale Gerechtshof benoemd. Indien de twee scheidsrechters binnen drie maanden na hun benoeming nalaten de derde scheidsrechter te benoemen, benoemt de President van het Internationale Gerechtshof op verzoek van een van de Overeenkomstsluitende Staten de derde scheidsrechter.
-
-##### Artikel 16
-
-De bepalingen van deze Overeenkomst gelden wat het Koninkrijk der Nederlanden betreft slechts voor het grondgebied van het Rijk in Europa.
-
-##### Artikel 17
-
-1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
-
-2. Deze Overeenkomst treedt in werking op de eerste dag van de derde maand na de datum waarop beide Overeenkomstsluitende Staten elkaar via een diplomatieke briefwisseling ervan in kennis hebben gesteld dat aan de vereisten voor de inwerkingtreding ervan krachtens hun respectieve constitutionele procedures is voldaan.
-
-3. Deze Overeenkomst kan door elke Overeenkomstsluitende Staat met inachtneming van een termijn van twaalf maanden schriftelijk langs diplomatieke weg worden opgezegd. In dat geval treedt de Overeenkomst buiten werking wanneer de opzegtermijn is verlopen.
-
-4. Met ingang van de dag van de inwerkingtreding van deze Overeenkomst treden de bepalingen van het Handels- en Scheepvaartverdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk van 28 maart 1929 buiten werking, voor zover deze betrekking hebben op de binnenvaart.
-
 GEDAAN te 's-Gravenhage op 26 September 1991, in twee exemplaren in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) P. DANKERT
 
-**Voor de Republiek Oostenrijk**
-
-(w.g.) Dr. HEINRICH PFUSTERSCHMID-HARDTENSTEIN
-
-GEDAAN te 's-Gravenhage op 26 September 1991, in twee exemplaren in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
-
-**Voor het Koninkrijk der Nederlanden**
-
-(w.g.) P. DANKERT
-
-**Voor de Republiek Oostenrijk**
+*Voor de Republiek Oostenrijk*
 
 (w.g.) Dr. HEINRICH PFUSTERSCHMID-HARDTENSTEIN

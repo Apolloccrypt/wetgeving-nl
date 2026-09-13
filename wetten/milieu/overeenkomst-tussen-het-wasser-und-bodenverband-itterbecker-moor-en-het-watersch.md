@@ -1,56 +1,27 @@
 ---
-title: "Overeenkomst tussen het Wasser- und Bodenverband \"Itterbecker Moor\" en het waterschap De Bovenvecht over het onderhoud van de Dooze"
+title: "Overeenkomst tussen het Wasser- und Bodenverband 'Itterbecker Moor' en het waterschap De Bovenvecht over het onderhoud van de Dooze"
 identifier: "BWBV0003888"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-10-10"
-last_updated: "1979-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003888"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003759953"
-version_id: "10003824432"
-internal_id: "C10006981551"
-label_id: "10003744864"
-dtd_version: "2.0"
-original_entry_into_force: "1979-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003888/1979-10-10/0"
-intitule_bron: "Trb.1977-2"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-01-06"
-intitule_in_force: "1977-01-06"
-intitule_status: "goed"
-original_publication: "Trb.1977-2"
-original_published_date: "1977-01-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-2"
-entry_into_force_date: "1979-10-10"
-jci_1_3: "jci1.3:c:BWBV0003888&z=1979-10-10&g=1979-10-10"
-jci_1_0: "1.0:c:BWBV0003888&g=1979-10-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-10-10"
+publicatiedatum: 1979-10-10
+laatste_update: 1979-10-10
+status: geldig
+toestand: 1979-10-10
+bron: "https://wetten.overheid.nl/BWBV0003888"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Wasser- und Bodenverband "Itterbecker Moor" en het waterschap De Bovenvecht over het onderhoud van de Dooze
 
-Het Wasser- und Bodenverband „Itterbecker Moor” te Itterbeek, in het onderstaande „Verband” genoemd,
-
-vertegenwoordigd door zijn voorzitter
-
-en
-
-het waterschap De Bovenvecht te Hardenberg, in het onderstaande „waterschap” genoemd,
-
-vertegenwoordigd door zijn voorzitter
-
-sluiten op grond van de wenselijkheid, de door de verbetering ontstane toestand van de Dooze in de toekomst in stand te houden en de onbelemmerde afvoer van het water in overeenstemming met de afvoercapaciteit van het dwarsprofiel na de verbetering te verzekeren, gelet op hoofdstuk 4, artikel 59 (2) van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:
+*Het Wasser- und Bodenverband „Itterbecker Moor” te Itterbeek, in het onderstaande „Verband” genoemd, vertegenwoordigd door zijn voorzitter en het waterschap De Bovenvecht te Hardenberg, in het onderstaande „waterschap” genoemd, vertegenwoordigd door zijn voorzitter sluiten op grond van de wenselijkheid, de door de verbetering ontstane toestand van de Dooze in de toekomst in stand te houden en de onbelemmerde afvoer van het water in overeenstemming met de afvoercapaciteit van het dwarsprofiel na de verbetering te verzekeren, gelet op hoofdstuk 4, artikel 59 (2) van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:*
 
 ##### Artikel 1
 
 1. Deze overeenkomst betreft
 
-- a). het verbeterde gedeelte van de Dooze op Nederlands gebied van 0 tot 2917,
+- a) het verbeterde gedeelte van de Dooze op Nederlands gebied van 0 tot 2917,
 
-- b). de zandvang bij grenssteen 100 op Duits gebied.
+- b) de zandvang bij grenssteen 100 op Duits gebied.
 
 2. De te onderhouden waterleiding benevens de daarin gelegen kunstwerken en de voor het onderhoud maatgevende toestand van de waterleiding, alsmede van de zandvang zijn in een uit vier (4) bladen bestaand grondplan vastgelegd, dat inclusief de eventuele toekomstige wijzigingen, onderdeel van deze overeenkomst is. De door beide zijden ondertekende bladen nrs. 1 tot en met 4 bestaan uit een overzichtskaart (schaal 1 : 50.000), een situatie van het verbeterde gedeelte van de Dooze (schaal 1 : 5.000), een lengteprofiel met dwarsprofielen van het verbeterde gedeelte van de Dooze en een situatie, lengte- en dwarsprofiel van de zandvang.
 
@@ -106,22 +77,22 @@ Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek
 
 GETEKEND te Hardenberg, de 9 juni 1976 op vijf originele stukken, elk in de Duitse en Nederlandse taal, waarbij beide teksten gelijkelijk verbindend zijn.
 
-**Voor het waterschap De Bovenvecht**
+*Voor het waterschap De Bovenvecht*
 
-**Voorzitter,**
+*Voorzitter,*
 
 (w.g.) D. JONKHANS
 
-**Secretaris,**
+*Secretaris,*
 
 (w.g.) L. VAN PETERSEN
 
-**Voor het Wasser- en Bodenverhand „Itterbecker Moor”**
+*Voor het Wasser- en Bodenverhand „Itterbecker Moor”*
 
-**Verbandsvorsteher,**
+*Verbandsvorsteher,*
 
 (w.g.) D. J. ELBERT
 
-**Vorstandsmitglied,**
+*Vorstandsmitglied,*
 
 (w.g.) F. WARRINK

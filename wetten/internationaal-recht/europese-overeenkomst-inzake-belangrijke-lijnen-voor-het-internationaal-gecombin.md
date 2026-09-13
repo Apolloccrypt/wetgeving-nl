@@ -2,173 +2,164 @@
 title: "Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC)"
 identifier: "BWBV0003285"
 categorie: "Internationaal recht"
-publicatiedatum: 2024-12-05
-laatste_update: 2024-12-05
+soort: "verdrag"
+publicatiedatum: 1993-10-20
+laatste_update: 2025-12-11
 status: geldig
+toestand: 2025-12-11
 bron: "https://wetten.overheid.nl/BWBV0003285"
+opgehaald: 2026-09-13
 ---
 
 # Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC)
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Desiring to facilitate the international transport of goods, Aware of the expected increase in the international transport of goods as a consequence of growing international trade, Conscious of the adverse environmental consequences such developments might have, Emphasizing the important role of combined transport to alleviate the burden on the European road network, particularly in trans-alpine traffic, and to mitigate environmental damages, Convinced that, in order to make international combined transport in Europe more efficient and attractive to customers, it is essential to establish a legal framework which lays down a co-ordinated plan for the development of combined transport services and the infrastructure necessary for their operation based on internationally agreed performance parameters and standards, Have agreed as follows:*
 
-Geleid door de wens het internationaal goederenvervoer te vergemakkelijken,
+### CHAPTER I. GENERAL
 
-Beseffend dat een toename van het internationaal goederenvervoer te verwachten is als gevolg van de groeiende internationale handel,
+##### Article 1. Definitions
 
-Zich bewust van de nadelige gevolgen die deze ontwikkelingen voor het milieu zouden kunnen hebben,
+For the purposes of this Agreement:
 
-De nadruk leggend op de belangrijke rol van het gecombineerd vervoer bij het verlichten van de last die op het Europese wegennet drukt, met name in het transalpine verkeer, en bij het verminderen van schade aan het milieu,
+- a) The term “combined transport” shall mean the transport of goods in one and the same transport unit using more than one mode of transport;
 
-Ervan overtuigd dat het, wil men het internationaal gecombineerd vervoer in Europa doelmatiger en aantrekkelijker voor de klant maken, van wezenlijk belang is een wettelijk kader te scheppen dat voorziet in een gecoördineerd plan voor de ontwikkeling van diensten op het gebied van gecombineerd vervoer en de voor de exploitatie daarvan benodigde infrastructuur op basis van internationaal overeengekomen functioneringsparameters en -normen,
+- b) The term “network of important international combined transport lines” shall refer to all railway lines considered to be important for international combined transport if:
 
-Zijn het volgende overeengekomen:
+   - (i) they are currently used for regular international combined transport (e.g. swap body, container, semi-trailer);
 
-### HOOFDSTUK I. ALGEMENE BEPALINGEN
+   - (ii) they serve as important feeder lines for international combined transport;
 
-#### Artikel 1. Begripsomschrijvingen
+   - (iii) they are expected to become important combined transport lines in the near future (as defined in (i) and (ii));
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+- c) The term “related installations” shall refer to combined transport terminals, border crossing points, stations for the exchange of wagon groups, gauge interchange stations and ferry links/ports which are important for international combined transport.
 
-- a. „gecombineerd vervoer”: het vervoer van goederen in een en dezelfde laadeenheid, waarbij gebruik wordt gemaakt van meer dan één wijze van vervoer;
+##### Article 2. Designation of the network
 
-- b. „net van belangrijke lijnen voor het internationaal gecombineerd vervoer”: alle spoorwegen die van belang worden geacht voor het internationaal gecombineerd vervoer, indien:
+The Contracting Parties adopt the provisions of this Agreement as a co-ordinated international plan for the development and operation of a network of important international combined transport lines and related installations, hereinafter referred to as “international combined transport network” which they intend to undertake within the framework of national programmes. The international combined transport network consists of the railway lines contained in [annex I](https://wetten.overheid.nl/BWBV0003285) to this Agreement, and of combined transport terminals, border crossing points, gauge interchange stations and ferry links/ports important for international combined transport which are contained in [annex II](https://wetten.overheid.nl/BWBV0003285) to this Agreement.
 
-- i. zij momenteel worden gebruikt voor geregeld internationaal gecombineerd vervoer (bijv. per wissellaadbak, container, oplegger);
+##### Article 3. Technical characteristics of the network
 
-- ii. zij dienen als belangrijke aanvoerlijnen voor het internationaal gecombineerd vervoer;
+The railway lines of the international combined transport network shall conform to the characteristics set out in [annex III](https://wetten.overheid.nl/BWBV0003285) to this Agreement or will be brought into conformity with the provisions of [this annex](https://wetten.overheid.nl/BWBV0003285) in future improvement work to be carried out in conformity with national programmes.
 
-- iii. wordt verwacht dat zij in de nabije toekomst belangrijke lijnen voor het gecombineerd vervoer zullen worden (zoals omschreven onder i. en ii.);
+##### Article 4. Operational targets
 
-- c. „bijbehorende voorzieningen”: terminals voor gecombineerd vervoer, grensovergangen, rangeerstations voor het uitwisselen van groepen wagens, stations voor het wijzigen van de spoorwijdte en veerbootverbindingen/-havens die van belang zijn voor het internationaal gecombineerd vervoer.
+In order to facilitate international combined transport services on the international combined transport network, Contracting Parties shall undertake appropriate measures in order to achieve the performance parameters and minimum standards for combined transport trains and related installations referred to in [annex IV](https://wetten.overheid.nl/BWBV0003285) to this Agreement.
 
-#### Artikel 2. Aanduiding van het net
+##### Article 5. Annexes
 
-De Overeenkomstsluitende Partijen nemen de bepalingen van deze Overeenkomst aan als een gecoördineerd internationaal plan voor de ontwikkeling en exploitatie van een net van belangrijke lijnen voor het internationaal gecombineerd vervoer en bijbehorende voorzieningen, hierna te noemen „het internationaal gecombineerd-vervoersnet”, welk plan zij voornemens zijn uit te voeren binnen het kader van nationale programma's. Het internationaal gecombineerd-vervoersnet bestaat uit de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst opgenomen spoorwegen en de in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst opgenomen terminals voor gecombineerd vervoer, grensovergangen, stations voor het wijzigen van de spoorwijdte en veerbootverbindingen/-havens die belangrijk zijn voor het internationaal gecombineerd vervoer.
+The annexes to this Agreement form an integral part of the Agreement. Further annexes covering other aspects of combined transport may be added to the Agreement in accordance with the amendment procedure described in [article 12](https://wetten.overheid.nl/BWBV0003285).
 
-#### Artikel 3. Technische kenmerken van het net
+### CHAPTER II. FINAL PROVISIONS
 
-De spoorwegen van het, internationaal gecombineerd-vervoersnet dienen de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst beschreven kenmerken te hebben of tijdens toekomstige verbeteringswerkzaamheden die worden verricht overeenkomstig nationale programma's met de bepalingen van [die bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2024-12-05&g=2024-12-05) in overeenstemming te worden gebracht.
+##### Article 6. Designation of the depositary
 
-#### Artikel 4. Operationele doeleinden
+The Secretary-General of the United Nations shall be the depositary of this Agreement.
 
-Ten einde de dienstverlening in het internationaal gecombineerd vervoer op het internationale gecombineerd-vervoersnet te vergemakkelijken, nemen de Overeenkomstsluitende Partijen passende maatregelen opdat de in [Bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst gegeven functioneringsparameters en minimumnormen voor treinen voor gecombineerd vervoer en bijbehorende voorzieningen worden verwezenlijkt.
+##### Article 7. Signature
 
-#### Artikel 5. Bijlagen
+1. This Agreement shall be open at the office of the United Nations in Geneva for signature by States which are members of the United Nations Economic Commission for Europe or have been admitted to the Commission in a consultative capacity in conformity with paragraphs 8 and 11 of the terms of reference of the Commission, from 1 April 1991 to 31 March 1992.
 
-De bijlagen bij deze Overeenkomst vormen een integrerend onderdeel van de Overeenkomst. Er kunnen bijlagen over andere aspecten van het gecombineerd vervoer aan de Overeenkomst worden toegevoegd in overeenstemming met de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2024-12-05&g=2024-12-05) beschreven wijzigingsprocedure.
+2. Such signatures shall be subject to ratification, acceptance or approval.
 
-### HOOFDSTUK II. SLOTBEPALINGEN
+##### Article 8. Ratification, acceptance or approval
 
-#### Artikel 6. Aanwijzing van de depositaris
+1. This Agreement shall be subject to ratification, acceptance or approval in accordance with [paragraph 2 of article 7](https://wetten.overheid.nl/BWBV0003285).
 
-De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overeenkomst.
+2. Ratification, acceptance or approval shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-#### Artikel 7. Ondertekening
+##### Article 9. Accession
 
-1. Deze Overeenkomst staat van 1 april 1991 tot 31 maart 1992 op het bureau van de Verenigde Naties te Genève open voor ondertekening door Staten die lid zijn van de Economische Commissie voor Europa van de Verenigde Naties dan wel in een adviserende hoedanigheid tot de Commissie zijn toegelaten overeenkomstig de paragrafen 8 en 11 van het mandaat van de Commissie.
+1. This Agreement shall be open for accession by any State referred to in [paragraph 1 of article 7](https://wetten.overheid.nl/BWBV0003285) from 1 April 1991.
 
-2. De ondertekeningen dienen te worden bekrachtigd, aanvaard of goedgekeurd.
+2. Accession shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-#### Artikel 8. Bekrachtiging, aanvaarding of goedkeuring
+##### Article 10. Entry into Force
 
-1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2024-12-05&g=2024-12-05).
+1. This Agreement shall enter into force 90 days after the date on which the Governments of eight States have deposited an instrument of ratification, acceptance, approval or accession, provided that one or more lines of the international combined transport network link, in a continuous manner, the territories of at least four of the States which have deposited such an instrument.
 
-2. Bekrachtiging, aanvaarding of goedkeuring geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+2. If the above condition is not fulfilled, the Agreement shall enter into force 90 days after the date of the deposit of the instrument of ratification, acceptance, approval or accession, whereby the said condition will be satisfied.
 
-#### Artikel 9. Toetreding
+3. For each State which deposits an instrument of ratification, acceptance, approval or accession after the commencement of the period of 90 days specified in paragraphs 1 and 2 of this article, the Agreement shall enter into force 90 days after the date of deposit of the said instrument.
 
-1. Deze Overeenkomst staat vanaf 1 april 1991 open voor toetreding door elke Staat zoals bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=7&z=2024-12-05&g=2024-12-05).
+##### Article 11. Limits to the application of the agreement
 
-2. Toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+1. Nothing in this Agreement shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and limited to the exigencies of the situation, as it considers necessary for its external or internal security.
 
-#### Artikel 10. Inwerkingtreding
+2. Such measures, which must be temporary, shall be notified immediately to the depositary and their nature specified.
 
-1. Deze Overeenkomst treedt in werking 90 dagen na de datum waarop de Regeringen van acht Staten een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, mits een of meer lijnen van het internationale gecombineerd-vervoersnet als doorlopende lijn de grondgebieden verbinden van ten minste vier van de Staten die een zodanige akte hebben nedergelegd.
+##### Article 12. Settlement of disputes
 
-2. Indien aan bovenstaande voorwaarde niet wordt voldaan, treedt de Overeenkomst in werking 90 dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding waardoor aan genoemde voorwaarde zal zijn voldaan.
+1. Any dispute between two or more Contracting Parties which relates to the interpretation or application of this Agreement and which the Parties in dispute are unable to settle by negotiation or other means shall be referred to arbitration if any of the Contracting Parties in dispute so requests and shall, to that end, be submitted to one or more arbitrators selected by mutual agreement between the Parties in dispute. If the Parties in dispute fail to agree on the choice of an arbitrator or arbitrators within three months after the request for arbitration, any of those Parties may request the Secretary-General of the United Nations to appoint a single arbitrator to whom the dispute shall be submitted for decision.
 
-3. Ten aanzien van elke Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na het begin van het in het eerste en tweede lid van dit artikel genoemde tijdvak van 90 dagen, treedt de Overeenkomst in werking 90 dagen na de datum van nederlegging van die akte.
+2. The award of the arbitrator or arbitrators appointed in accordance with paragraph 1 of this article shall be binding upon the Contracting Parties in dispute.
 
-#### Artikel 11. Beperking van de toepassing van deze Overeenkomst
+##### Article 13. Reservations
 
-1. Niets in deze Overeenkomst mag zodanig worden uitgelegd dat een Overeenkomstsluitende Partij daardoor wordt belet maatregelen te nemen die deze Partij noodzakelijk acht voor haar buitenlandse of binnenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten der gegeven omstandigheden.
+Any State may, at the time of signing this Agreement or of depositing its instrument of ratification, acceptance, approval or accession, notify the depositary that it does not consider itself bound by [article 12](https://wetten.overheid.nl/BWBV0003285) of this Agreement.
 
-2. De depositaris wordt onmiddellijk in kennis gesteld van zodanige maatregelen, die een tijdelijk karakter dienen te hebben, en van de aard ervan.
+##### Article 14. Amendment of the Agreement
 
-#### Artikel 12. Beslechting van geschillen
+1. This Agreement may be amended in accordance with the procedure specified in this article, except as provided for under [articles 15](https://wetten.overheid.nl/BWBV0003285) and [16](https://wetten.overheid.nl/BWBV0003285).
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen dat betrekking heeft op de uitlegging of toepassing van deze Overeenkomst en dat door de partijen bij het geschil niet door onderhandelingen of andere middelen kan worden opgelost, wordt onderworpen aan arbitrage, indien een der bij het geschil betrokken partijen zulks verzoekt, en wordt hiertoe voorgelegd aan een of meer scheidsmannen die in onderlinge overeenstemming tussen de partijen bij het geschil wordt of worden gekozen. Indien de partijen bij het geschil niet binnen drie maanden na het verzoek om arbitrage tot overeenstemming kunnen komen over de keuze van een scheidsman of scheidsmannen, kan elk van die partijen de Secretaris-Generaal van de Verenigde Naties verzoeken één scheidsman te benoemen aan wie het geschil ter beslissing zal worden voorgelegd.
+2. At the request of a Contracting Party, any amendment proposed by it to this Agreement shall be considered by the Working Party on Intermodal Transport and Logistics of the United Nations Economic Commission for Europe.
 
-2. De uitspraak van de overeenkomstig het eerste lid van dit artikel benoemde scheidsman of scheidsmannen is bindend voor de bij een geschil betrokken Overeenkomstsluitende Partijen.
+3. If the amendment is adopted by a two-thirds majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General of the United Nations to all Contracting Parties for acceptance.
 
-#### Artikel 13. Voorbehouden
+4. Any proposed amendment communicated in accordance with paragraph 3 of this article shall come into force with respect to all Contracting Parties three months after the expiry of a period of twelve months following the date of its communication, provided that during such period of twelve months no objection to the proposed amendment shall have been notified to the Secretary-General of the United Nations by a State which is a Contracting Party.
 
-Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan de depositaris mededelen dat hij zich niet gebonden acht door [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=12&z=2024-12-05&g=2024-12-05) van deze Overeenkomst.
+5. If an objection to the proposed amendment has been notified in accordance with paragraph 4 of this article, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-#### Artikel 14. Wijziging van de Overeenkomst
+##### Article 15. Amendment of Annexes I and II
 
-1. Deze Overeenkomst kan worden gewijzigd overeenkomstig de in dit artikel beschreven procedure, behoudens het bepaalde in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=15&z=2024-12-05&g=2024-12-05) en [16](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&hoofdstuk=II&artikel=16&z=2024-12-05&g=2024-12-05).
+1. [Annexes I](https://wetten.overheid.nl/BWBV0003285) and [II](https://wetten.overheid.nl/BWBV0003285) to this Agreement may be amended in accordance with the procedure laid down in this article.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van deze Overeenkomst bestudeerd in de Werkgroep voor Intermodaal Transport en Logistiek van de Economische Commissie voor Europa van de Verenigde Naties.
+2. At the request of a Contracting Party, any amendment proposed by it to this Agreement shall be considered by the Working Party on Intermodal Transport and Logistics of the United Nations Economic Commission for Europe.
 
-3. Indien de wijziging wordt aangenomen met een tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+3. If the amendment is adopted by the majority of the Contracting Parties present and voting, the proposed amendment shall be communicated by the Secretary-General of the United Nations to the Contracting Parties directly concerned for acceptance. For the purpose of this article, a Contracting Party shall be considered directly concerned if in the case of inclusion of a new line, an important terminal, a border crossing point, a gauge interchange station or a ferry link/port or in case of their respective modification, its territory is crossed by that line or is directly linked to the important terminal, or if the considered important terminal, border crossing point, gauge interchange station or terminal point of the ferry link/port are situated on the said territory.
 
-4. Elke voorgestelde wijziging waarvan overeenkomstig het derde lid van dit artikel mededeling is gedaan, wordt ten aanzien van alle Overeenkomstsluitende Partijen van kracht na het verstrijken van een tijdvak van twaalf maanden vanaf de datum van de mededeling, mits binnen dat tijdvak van twaalf maanden geen bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal van de Verenigde Naties is gebracht door een Staat die Overeenkomstsluitende Partij is.
+4. Any proposed amendment communicated in accordance with paragraphs 2 and 3 of this article shall be deemed accepted if, within a period of six months following the date of its communication by the depositary, none of the Contracting Parties directly concerned has notified the Secretary-General of the United Nations of its objection to the proposed amendment.
 
-5. Indien overeenkomstig het vierde lid van dit artikel, een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard, en heeft zij geen enkel gevolg.
+5. Any amendment thus accepted shall be communicated by the Secretary-General of the United Nations to all Contracting Parties and shall enter into force three months after the date of its communication by the depositary.
 
-#### Artikel 15. Wijziging van de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2024-12-05&g=2024-12-05) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2024-12-05&g=2024-12-05)
+6. If an objection to the proposed amendment has been notified in accordance with paragraph 4 of this article, the amendment shall be deemed not to have been accepted and shall have no effect whatsoever.
 
-1. De [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=I&z=2024-12-05&g=2024-12-05) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=II&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+7. The depositary shall be kept promptly informed by the Secretariat of the Economic Commission for Europe of the Contracting Parties which are directly concerned by a proposed amendment.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van deze Overeenkomst bestudeerd in de Werkgroep voor Intermodaal Transport en Logistiek van de Economische Commissie voor Europa van de Verenigde Naties.
+##### Article 16. Amendment of Annexes III and IV
 
-3. Indien de wijziging wordt aangenomen door de meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan de rechtstreeks betrokken Overeenkomstsluitende Partijen ter fine van aanvaarding. Voor de toepassing van dit artikel wordt een Overeenkomstsluitende Partij geacht rechtstreeks betrokken te zijn indien haar grondgebied, in geval van opneming van een nieuwe lijn, een belangrijke terminal, een grensovergang, een station voor het wijzigen van de spoorwijdte of een veerbootverbinding/-haven dan wel de wijziging van deze voorzieningen, door die lijn wordt doorsneden of rechtstreeks verbonden is met de belangrijke terminal, of indien de beoogde belangrijke terminal, grensovergang, het beoogde station voor het wijzigen van de spoorwijdte of de terminal van de veerbootverbinding/-haven op bedoeld grondgebied zijn gelegen.
+1. [Annexes III](https://wetten.overheid.nl/BWBV0003285) and [IV](https://wetten.overheid.nl/BWBV0003285) to this Agreement may be amended in accordance with the procedure specified in this article.
 
-4. Elke voorgestelde wijziging die overeenkomstig het tweede en derde lid van dit artikel is medegedeeld, wordt geacht te zijn aanvaard indien, binnen een tijdvak van zes maanden vanaf de datum van de kennisgeving door de depositaris, geen der rechtstreeks betrokken Overeenkomstsluitende Partijen de Secretaris-Generaal van de Verenigde Naties in kennis heeft gesteld van haar bezwaar tegen de voorgestelde wijziging.
+2. At the request of a Contracting Party, any amendment proposed by it to this Agreement shall be considered by the Working Party on Intermodal Transport and Logistics of the United Nations Economic Commission for Europe.
 
-5. Elke aldus aanvaarde wijziging wordt door de Secretaris-Generaal van de Verenigde Naties medegedeeld aan alle Overeenkomstsluitende Partijen, en wordt drie maanden na de datum van mededeling door de depositaris van kracht.
+3. If the amendment is adopted by a two-thirds majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General of the United Nations to all Contracting Parties for acceptance.
 
-6. Indien overeenkomstig het vierde lid van dit artikel een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal is gebracht, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen enkel gevolg.
+4. Any proposed amendment communicated in accordance with paragraph 3 of this article shall be deemed accepted unless, within a period of six months following the date of its communication, one fifth or more of the Contracting Parties have notified the Secretary-General of the United Nations of their objection to the proposed amendment.
 
-7. De depositaris wordt er door het Secretariaat van de Economische Commissie voor Europa steeds onverwijld van in kennis gesteld welke Overeenkomstsluitende Partijen rechtstreeks betrokken zijn bij een voorgestelde wijziging.
+5. Any amendment accepted in accordance with paragraph 4 of this article shall be communicated by the Secretary-General to all Contracting Parties and shall enter into force three months after the date of its communication with respect to all Contracting Parties except those which, prior to the date of its entry into force, have notified the Secretary-General that they did not accept the proposed amendment.
 
-#### Artikel 16. Wijziging van de [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2024-12-05&g=2024-12-05) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2024-12-05&g=2024-12-05)
+6. If one fifth or more of the Contracting Parties have notified an objection to the proposed amendment in accordance with paragraph 4 above, the amendment shall be deemed not to hâve been accepted and shall have no effect whatsoever.
 
-1. De [Bijlagen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=III&z=2024-12-05&g=2024-12-05) en [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003285&bijlage=IV&z=2024-12-05&g=2024-12-05) bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel beschreven procedure.
+##### Article 17. Safeguard clause
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van deze Overeenkomst bestudeerd in de Werkgroep voor Intermodaal Transport en Logistiek van de Economische Commissie voor Europa van de Verenigde Naties.
+The provisions of this Agreement cannot prevail over those that some States may be compelled to apply among themselves in accordance with other multilateral treaties, such as the [1957 Treaty of Rome establishing the European Economic Community](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
-3. Indien de wijziging wordt aangenomen met een tweederde meerderheid van de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen, wordt door de Secretaris-Generaal van de Verenigde Naties mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+##### Article 18. Denunciation
 
-4. Elke voorgestelde wijziging waarvan overeenkomstig het derde lid van dit artikel mededeling is gedaan, wordt geacht te zijn aanvaard tenzij binnen een tijdvak van zes maanden volgende op de datum van die mededeling, een vijfde of meer van de Overeenkomstsluitende Partijen de Secretaris-Generaal van de Verenigde Naties heeft medegedeeld bezwaar te hebben tegen de voorgestelde wijziging.
+1. Any Contracting Party may denounce this Agreement by written notification addressed to the Secretary-General of the United Nations.
 
-5. Elke wijziging die overeenkomstig het vierde lid van dit artikel is aanvaard, wordt door de Secretaris-Generaal medegedeeld aan alle Overeenkomstsluitende Partijen en wordt drie maanden na de datum van die mededeling van kracht ten aanzien van alle Overeenkomstsluitende Partijen met uitzondering van de Partijen die voor de datum van inwerkingtreding van de wijziging de Secretaris-Generaal hebben medegedeeld dat zij de voorgestelde wijziging niet aanvaarden.
+2. The denunciation shall take effect one year after the date of receipt by the Secretary-General of said notification.
 
-6. Indien een vijfde of meer van de Overeenkomstsluitende Partijen overeenkomstig het vierde lid van dit artikel een bezwaar tegen de voorgestelde wijziging ter kennis van de Secretaris-Generaal heeft gebracht, wordt de wijziging geacht niet te zijn aanvaard, en heeft zij geen enkel gevolg.
+##### Article 19. Termination
 
-#### Artikel 17. Vrijwaringsclausule
+Should, after the entry into force of this Agreement, the number of Contracting Parties be for any period of twelve consecutive months reduced to less than eight, the Agreement shall cease to have effect twelve months after the date on which the eighth State ceased to be a Contracting Party.
 
-De bepalingen van deze Overeenkomst kunnen niet prevaleren boven de bepalingen die sommige Staten gehouden kunnen zijn toe te passen in hun onderlinge betrekkingen in overeenstemming met andere multilaterale verdragen, zoals het [Verdrag van Rome van 1957 tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
+##### Article 20. Notifications and communications by the depositary
 
-#### Artikel 18. Opzegging
+In addition to such notifications and communications as this Agreement may specify, the functions of the Secretary-General of the United Nations as depositary shall be as set out in [Part VII of the Vienna Convention on the Law of Treaties](https://wetten.overheid.nl/jci1.3:c:BWBV0002302&deel=VII), concluded at Vienna on 23 May 1969.
 
-1. Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving.
+##### Article 21. Authentic texts
 
-2. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
-
-#### Artikel 19. Beëindiging
-
-Mocht, na de inwerkingtreding van deze Overeenkomst, het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden zijn verminderd tot minder dan acht, dan houdt de Overeenkomst op van kracht te zijn twaalf maanden na de datum waarop de achtste Staat is opgehouden een Overeenkomstsluitende Partij te zijn.
-
-#### Artikel 20. Kennisgevingen en mededelingen gedaan door de depositaris
-
-Naast het doen van de kennisgevingen en mededelingen zoals in deze Overeenkomst worden genoemd, heeft de Secretaris-Generaal van de Verenigde Naties als depositaris de taken die zijn omschreven in [Deel VII van het Verdrag van Wenen inzake het Verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0002302&deel=VII), gesloten te Wenen op 23 mei 1969.
-
-#### Artikel 21. Authentieke teksten
-
-Het origineel van deze Overeenkomst, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+The original of this Agreement, of which the English, French and Russian texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have signed this Agreement.
 

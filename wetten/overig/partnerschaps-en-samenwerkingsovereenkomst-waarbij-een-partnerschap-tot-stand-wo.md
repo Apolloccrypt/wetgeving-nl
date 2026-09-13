@@ -8,7 +8,7 @@ laatste_update: 1999-07-01
 status: geldig
 toestand: 1999-07-01
 bron: "https://wetten.overheid.nl/BWBV0001350"
-opgehaald: 2026-09-12
+opgehaald: 2026-09-13
 ---
 
 # Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Oezbekistan, anderzijds

@@ -1,183 +1,145 @@
 ---
 title: "Protocol betreffende samenwerking ter bestrijding van olielozingen in het Caraïbisch gebied"
 identifier: "BWBV0002956"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-10-11"
-last_updated: "1986-10-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002956"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003277853"
-version_id: "10003300112"
-internal_id: "C10006978911"
-label_id: "10003263904"
-dtd_version: "2.0"
-original_entry_into_force: "1986-10-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002956/1986-10-11/0"
-intitule_bron: "Trb.1983-152"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1984-04-16"
-intitule_published: "1983-10-20"
-intitule_in_force: "1986-12-23"
-intitule_status: "goed"
-original_publication: "Trb.1983-152"
-original_signed_date: "1984-04-16"
-original_published_date: "1983-10-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-152"
-entry_into_force_date: "1986-10-11"
-jci_1_3: "jci1.3:c:BWBV0002956&z=1986-10-11&g=1986-10-11"
-jci_1_0: "1.0:c:BWBV0002956&g=1986-10-11"
-citeertitel_status: "officieel"
-signed_date: "1984-04-16"
-entry_into_force: "1986-10-11"
+publicatiedatum: 1986-10-11
+laatste_update: 1986-10-11
+status: geldig
+toestand: 1986-10-11
+bron: "https://wetten.overheid.nl/BWBV0002956"
+opgehaald: 2026-09-13
 ---
+
 # Protocol betreffende samenwerking ter bestrijding van olielozingen in het Caraïbisch gebied
 
-De Verdragsluitende Partijen bij dit Protocol,
+*The Contracting Parties to this Protocol, Being Contracting Parties to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region, done at Cartagena de Indias on 24 March 1983, Conscious that oil exploration, production and refining activities, as well as related marine transport, pose a threat of significant oil spills in the wider Caribbean region, Aware that the islands of the region are particularly vulnerable, owing to the fragility of their ecosystems and the economic reliance of certain of them on the continuous utilization of their coastal areas, to damage resulting from significant oil pollution, Recognizing that, in the event of an oil spill or the threat thereof, prompt and effective action should be taken, initially at the national level, to organize and co-ordinate prevention, mitigation and clean-up activities, Recognizing further the importance of sound preparation, co-operation and mutual assistance in responding effectively to oil spills or the threat thereof, Determined to avert, through the adoption of measures to prevent and combat pollution resulting from oil spills, damage to the marine environment, including coastal areas, of the wider Caribbean region, Have agreed as follows:*
 
-Partij zijnde bij het [Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), gedaan te Cartagena de Indias op 24 maart 1983,
+##### Article 1. Definitions
 
-Zich ervan bewust dat de werkzaamheden ter exploratie, produktie en raffinage van olie, alsmede het daarmede samenhangende vervoer over zee, een dreiging van aanzienlijke olielozingen in het Caraïbisch gebied inhouden,
+For the purposes of this Protocol:
 
-In het besef dat de eilanden van het gebied, gezien de broosheid van hun ecosystemen en de economische afhankelijkheid van enkele van hen van het voortdurend gebruik van hun kustgebieden, bijzonder kwetsbaar zijn voor uit aanzienlijke verontreiniging door olie voortvloeiende schade,
+- 1. "Wider Caribbean region" means the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) area as defined in [article 2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2) and adjacent coastal areas.
 
-Erkennend dat, in het geval van olielozing of de dreiging daarvan, onverwijld en doeltreffend dient te worden opgetreden, aanvankelijk op nationaal niveau, ten einde activiteiten, gericht op de voorkoming, de vermindering en de opruiming van de verontreiniging, te organiseren en te coördineren,
+- 2. "[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733)" means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region.
 
-Voorts het belang erkennend van een goede voorbereiding en samenwerking en van wederzijdse bijstand ten einde doeltreffend te kunnen optreden bij olielozingen of de dreiging daarvan,
+- 3. "Related interests" means the interests of a Contracting Party directly affected or threatened and concerning, among others:
 
-Vastbesloten door het nemen van maatregelen ter voorkoming en bestrijding van uit olielozingen voortvloeiende verontreiniging, schade aan het mariene milieu, met inbegrip van de kustgebieden, van het Caraïbisch gebied af te wenden,
+   - (a) maritime, coastal, port or estuarine activities;
 
-Zijn als volgt overeengekomen:
+   - (b) the historical and tourist appeal of the area in question, including water sports and recreation;
 
-Inwerkingtreding voorheen door Trb. 1986, 195 gesteld op 30 maart 1986.
+   - (c) the health of the coastal population; and
 
-##### Artikel 1. Begripsomschrijvingen
+   - (d) fishing activities and the conservation of natural resources.
 
-Voor de toepassing van dit Protocol:
+- 4. "Oil spill incident" means a discharge, or a significant threat of a discharge, of oil, however caused, of a magnitude that requires emergency action or other immediate response for the purpose of minimizing its effects or eliminating the threat.
 
-- 1. betekent «Caraïbisch gebied» het Verdragsgebied zoals omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2), en de aangrenzende kustgebieden.
+- 5. "Organization" means the institution referred to in [paragraph 3 of article 2 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2).
 
-- 2. betekent «[Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733)» het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu van het Caraïbisch gebied.
+- 6. "Regional Co-ordinating Unit" means the unit referred to in the Action Plan for the Caribbean Environment Programme.
 
-- 3. betekent «daarmede samenhangende belangen» de belangen van een rechtstreeks getroffen of bedreigde Verdragsluitende Partij, die onder meer betrekking hebben op:
+##### Article 2. Application
 
-- (a). werkzaamheden op zee, aan de kust, in de havens of aan de riviermondingen;
+This Protocol applies to oil spill incidents which have resulted in, or which pose a significant threat of, pollution to the marine and coastal environment of the wider Caribbean region or which adversely affect the related interests of one or more of the Contracting Parties.
 
-- (b). de aantrekkingskracht van het desbetreffende gebied vanuit een oogpunt van de historie en het toerisme, met inbegrip van watersportbeoefening en recreatie;
+##### Article 3. General Provisions
 
-- (c). de gezondheid van de kustbevolking; en
+1. The Contracting Parties shall, within their capabilities, co-operate in taking all necessary measures, both preventive and remedial, for the protection of the marine and coastal environment of the wider Caribbean region, particularly the coastal areas of the islands of the region, from oil spill incidents.
 
-- (d). de visserij en het behoud van natuurlijke rijkdommen.
+2. The Contracting Parties shall, within their capabilities, establish and maintain, or ensure the establishment and maintenance of, the means of responding to oil spill incidents and shall endeavour to reduce the risk thereof. Such means shall include the enactment, as necessary, of relevant legislation, the preparation of contingency plans, the identification and development of the capability to respond to an oil spill incident and the designation of an authority responsible for the implementation of this Protocol.
 
-- 4. betekent «olielozing» uitstroming, of een aanzienlijke dreiging van uitstroming van olie, ongeacht de oorzaak, van een omvang die het treffen van noodmaatregelen of ander onmiddellijk optreden vereist ten einde de gevolgen ervan tot een minimum te beperken of de dreiging weg te nemen.
+##### Article 4. Exchange of Information
 
-- 5. betekent «Organisatie» de instelling bedoeld in [artikel 2, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2).
+Each Contracting Party shall periodically exchange with the other Contracting Parties up-to-date information relating to its implementation of this Protocol, including the identity of the authorities responsible for such implementation, and information on their laws, regulations, institutions and operational procedures relating to the prevention of oil spill incidents and to the means of reducing and combating the harmful effects of oil spills.
 
-- 6. betekent «Regionaal Coördinatiecentrum» het centrum, bedoeld in het Actieplan voor het Caraïbisch Milieuprogramma.
+##### Article 5. Communication of information concerning, and Reporting of, Oil Spill Incidents
 
-##### Artikel 2. Toepassing
+1. Each Contracting Party shall establish appropriate procedures to ensure that information regarding oil spill incidents is reported as rapidly as possible, and shall, inter alia:
 
-Dit Protocol is van toepassing op olielozingen die hebben geleid tot of die een aanzienlijke dreiging inhouden van, verontreiniging van het mariene milieu en de kusten van het Caraïbisch gebied of die de daarmede samenhangende belangen van een of meer Verdragsluitende Partijen nadelig beïnvloeden.
+- (a) require its appropriate officials, masters of ships flying its flag and persons in charge of offshore facilities operating under its jurisdiction to report to it any oil spill incident involving their ships or facilities;
 
-##### Artikel 3. Algemene bepalingen
+- (b) request masters of all ships and pilots of all aircraft operating in the vicinity of its coasts to report to it any oil spill incident of which they are aware.
 
-1. De Verdragsluitende Partijen werken naar vermogen samen bij het nemen van alle nodige, preventieve en corrigerende, maatregelen voor de bescherming van het mariene milieu en de kusten van het Caraïbisch gebied, vooral de kustgebieden van de eilanden van het gebied, tegen olielozingen.
+2. In the event of receiving a report regarding an oil spill incident, a Contracting Party shall immediately notify all other Contracting Parties whose interests are likely to be affected by such incident, as well as the flag State of any ship involved in it. The Contracting Party shall also inform the competent international organizations. Furthermore, as soon as feasible, it shall inform such Contracting Parties and competent international organizations of measures it has taken to minimize or reduce pollution or the threat thereof.
 
-2. Naar vermogen scheppen de Verdragsluitende Partijen de middelen en houden deze in stand, of verzekeren zulks, ten einde te kunnen optreden bij olielozingen en trachten zij het risico daarvan te beperken. Zodanige middelen omvatten de uitvaardiging, voor zover nodig, van ter zake dienende wetten, de opstelling van rampenplannen, de vaststelling en ontwikkeling van het vermogen tot optreden bij een olielozing, en de aanwijzing van een voor de tenuitvoerlegging van dit Protocol verantwoordelijke autoriteit.
+##### Article 6. Mutual Assistance
 
-##### Artikel 4. Uitwisseling van informatie
+1. Each Contracting Party shall render assistance, within its capabilities, to other Contracting Parties which request assistance in responding to an oil spill incident within the framework of joint response action agreed between or among the requesting and assisting Contracting Parties.
 
-Elke Verdragsluitende Partij wisselt periodiek met de andere Verdragsluitende Partijen recente informatie uit aangaande haar toepassing van dit Protocol, met inbegrip van de aanduiding van de autoriteiten die voor deze toepassing verantwoordelijk zijn, alsmede informatie inzake haar wetten, voorschriften, instellingen en operationele procedures betreffende het voorkomen van olielozingen en de middelen voor het beperken en bestrijden van de schadelijke gevolgen van olielozingen.
+2. Each Contracting Party shall, subject to its laws and regulations, facilitate the movement into, through and out of its territory of technical personnel, equipment and material necessary for responding to an oil spill incident.
 
-##### Artikel 5. Verstrekking van informatie betreffende en melding van olielozingen
+##### Article 7. Operational Measures
 
-1. Elke Verdragsluitende Partij stelt passende procedures vast ten einde te verzekeren dat informatie aangaande olielozingen zo snel mogelijk wordt gemeld en dient, onder andere:
+Each Contracting Party shall, within its capabilities, take steps including those outlined below in responding to an oil spill incident:
 
-- (a). van haar daartoe bevoegde functionarissen, kapiteins van schepen die haar vlag voeren en beheerders van onder haar rechtsmacht staande voorzieningen voor de kust, te verlangen dat dezen haar iedere olielozing melden, waarbij hun schepen of voorzieningen betrokken zijn;
+- (a) make a preliminary assessment of the incident, including the type and extent of existing or likely pollution effects;
 
-- (b). de kapiteins van alle schepen en de piloten van alle luchtvaartuigen die hun werkzaamheden verrichten in de nabijheid van haar kusten te verzoeken, haar iedere olielozing te melden waarvan zij kennis dragen.
+- (b) promptly communicate information concerning the incident pursuant to article 5;
 
-2. Ingeval een Verdragsluitende Partij een melding aangaande een olielozing ontvangt, brengt zij deze onmiddellijk ter kennis van alle andere Verdragsluitende Partijen wier belangen naar alle waarschijnlijkheid door zulk een voorval worden getroffen, alsook van de vlaggestaat van een daarbij betrokken schip. De Verdragsluitende Partij stelt ook de bevoegde internationale organisaties op de hoogte. Bovendien stelt zij, zodra zulks mogelijk is, deze Verdragsluitende Partijen en bevoegde internationale organisaties in kennis van de door haar genomen maatregelen om de verontreiniging of de dreiging daarvan te verminderen of tot een minimum te beperken.
+- (c) promptly determine its ability to take effective measures to respond to the incident and the assistance that might be required;
 
-##### Artikel 6. Wederzijdse bijstand
+- (d) consult as appropriate with other Contracting Parties concerned in the process of determining the necessary response to the incident;
 
-1. Elke Verdragsluitende Partij verleent naar vermogen bijstand aan andere Verdragsluitende Partijen die om bijstand verzoeken, bij het optreden bij een olielozing, zulks in het kader van het tussen de verzoekende en bijstand verlenende Verdragsluitende Partijen overeengekomen gezamenlijk optreden.
+- (e) take the measures necessary to prevent, reduce or eliminate the effects of the incident, including monitoring of the situation.
 
-2. Elke Verdragsluitende Partij vergemakkelijkt, onder voorbehoud van haar wetten en voorschriften het verkeer naar, via en uit haar grondgebied van technisch personeel, uitrusting en materialen nodig voor het optreden bij een olielozing.
+##### Article 8. Subregional Arrangements
 
-##### Artikel 7. Praktische maatregelen
+1. With a view to facilitating the implementation of the provisions of this Protocol, and in particular articles 6 and 7, the Contracting Parties should conclude appropriate bilateral or multilateral subregional arrangements.
 
-Elke Verdragsluitende Partij neemt met name en naar vermogen de onderstaande maatregelen ten einde op te treden bij een olielozing:
+2. Contracting Parties to this Protocol which enter into such subregional arrangements shall notify the other Contracting Parties, as well as the Organization, of the conclusion and the content of such arrangements.
 
-- (a). het verrichten van een voorlopige evaluatie van de lozing, met inbegrip van de aard en de omvang van bestaande of vermoedelijke verontreinigende gevolgen;
+##### Article 9. Institutional Arrangements
 
-- (b). het onverwijld mededelen van informatie betreffende de lozing ingevolge artikel 5;
+The Contracting Parties designate the Organization to carry out, through the Regional Co-ordinating Unit when established and in close co-operation with the International Maritime Organization, the following functions:
 
-- (c). het onverwijld vaststellen van haar vermogen tot het nemen van doeltreffende maatregelen voor het optreden bij de lozing en van de bijstand die nodig zou kunnen zijn;
+- (a) assisting Contracting Parties, upon request, in the following areas:
 
-- (d). het waar passend plegen van overleg met andere betrokken Verdragsluitende Partijen bij het vaststellen van het noodzakelijke optreden bij de lozing;
+   - (i) the preparation, periodic review and updating of the contingency plans referred to in paragraph 2 of article 3, with a view, inter alia, to promoting the compatibility of the plans of the Contracting Parties, and
 
-- (e). het nemen van de nodige maatregelen, ter voorkoming, vermindering of wegneming van de gevolgen van de lozing, met inbegrip van het bewaken van de situatie.
+   - (ii) publicizing training courses and programmes;
 
-##### Artikel 8. Subregionale regelingen
+- (b) assisting the Contracting Parties upon request, on a regional basis, in the following areas:
 
-1. Ten einde de toepassing van de bepalingen van dit Protocol, en inzonderheid van de artikelen 6 en 7 te vergemakkelijken, dienen de Verdragsluitende Partijen passende bilaterale of multilaterale subregionale regelingen aan te gaan.
+   - (i) the co-ordination of regional emergency response activities, and
 
-2. Verdragsluitende Partijen bij dit Protocol die zulke subregionale regelingen aangaan, stellen de andere Verdragsluitende Partijen, alsook de Organisatie, in kennis van het aangaan en de inhoud van zulke regelingen.
+   - (ii) the provision of a forum for discussion of such activities and related topics;
 
-##### Artikel 9. Institutionele regelingen
+- (c) establishing and maintaining liaison with:
 
-De Verdragsluitende Partijen wijzen de Organisatie aan voor het verrichten, via het Regionale Coördinatiecentrum, zodra dit is ingesteld, en in nauwe samenwerking met de Internationale Maritieme Organisatie, van de volgende taken:
+   - (i) competent regional and international organizations, and
 
-- (a). het bijstaan van de Verdragsluitende Partijen, op hun verzoek, op de volgende terreinen:
+   - (ii) appropriate private entities conducting activities in the wider Caribbean region, including major oil producers, refiners, oil spill clean-up contractors and co-operatives, and oil transporters;
 
-- (i). de opstelling, periodieke herziening en bijwerking van de in kel 3, tweede lid, bedoelde rampenplannen, ten einde, onder meer de onderlinge afstemming van de plannen van de Verdragsluitende Parjen te bevorderen, en
+- (d) maintaining a current inventory of emergency response equipment, materials and expertise available in the wider Caribbean region;
 
-- (ii). het geven van bekendheid aan opleidingscursussen en -programma's;
+- (e) disseminating information on the prevention and combating of oil spills;
 
-- (b). het bijstaan van de Verdragsluitende Partijen, op hun verzoek, op regionale basis, op de volgende terreinen:
+- (f) identifying or maintaining means for emergency response communications;
 
-- (i). de coördinatie van regionale activiteiten tot optreden in noodgevallen, en
+- (g) encouraging research by the Contracting Parties, competent international organizations and appropriate private entities on oil spill-related matters, including the environmental impacts of oil spills and of oil spill control materials and techniques;
 
-- (ii). het bieden van een forum voor bespreking van zulke activiteiten en aanverwante onderwerpen;
+- (h) assisting the Contracting Parties in the exchange of information pursuant to article 4; and
 
-- (c). het leggen en onderhouden van contacten met:
+- (i) preparing reports and carrying out other duties assigned to it by the Contracting Parties.
 
-- (i). bevoegde regionale en internationale organisaties, en
+##### Article 10. Meetings of the Contracting Parties
 
-- (ii). in aanmerking komende particuliere lichamen die activiteiten in het Caraïbisch gebied verrichten, waaronder grote olieproducenten, beheerders van raffinaderijen, bedrijven en coöperaties die een gebied reinigen van uitgestroomde olie, en vervoerders van olie;
+1. Ordinary meetings of the Contracting Parties to this Protocol shall be held in conjunction with ordinary meetings of the Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) held pursuant to [article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16). The Contracting Parties to this Protocol may also hold extraordinary meetings as provided for in article 16 of the Convention.
 
-- (d). het bijhouden van een actuele inventaris van de uitrusting, materialen en deskundigen die voor het optreden in noodgevallen in het Caraïbisch gebied beschikbaar zijn;
+2. It shall be the function of the meetings of the Contracting Parties:
 
-- (e). het verspreiden van informatie inzake het voorkomen en bestrijden van olielozingen;
+- (a) to review the operation of this Protocol and to consider special technical arrangements and other measures to improve its effectiveness;
 
-- (f). het aanwijzen of in stand houden van communicatiemiddelen voor optreden in noodgevallen;
+- (b) to consider means whereby regional co-operation could be extended to incidents involving hazardous substances other than oil; and
 
-- (g). het bevorderen van onderzoek door de Verdragsluitende Partijen, de internationale organisaties en in aanmerking komende particuliere lichamen, van met olielozingen samenhangende onderwerpen, met inbegrip van de milieu-effecten van olielozingen en van materialen en technieken voor de bestrijding van uitgestroomde olie;
+- (c) to consider measures to improve co-operation under this Protocol including, in accordance with [paragraph 2 (d) of article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16), possible amendments to this Protocol.
 
-- (h). het bijstaan van de Verdragsluitende Partijen bij de uitwisseling van informatie ingevolge artikel 4; en
+##### Article 11. Relationship between this Protocol and the Convention
 
-- (i). het opstellen van verslagen en het verrichten van andere taken, haar opgedragen door de Verdragsluitende Partijen.
+1. The provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) relating to its protocols shall apply to this Protocol.
 
-##### Artikel 10. Vergaderingen van de Verdragsluitende Partijen
-
-1. De gewone vergaderingen van de Verdragsluitende Partijen bij dit Protocol worden gehouden te zamen met de gewone vergaderingen van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), die worden gehouden ingevolge [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16). De Verdragsluitende Partijen bij dit Protocol kunnen ook buitengewone vergaderingen houden, zoals bepaald in artikel 16 van het Verdrag.
-
-2. Het is de taak van de vergaderingen van de Verdragsluitende Partijen:
-
-- (a). de werking van dit Protocol te toetsen en bijzondere technische regelingen en andere maatregelen ter verbetering van de doeltreffendheid van dit Protocol te onderzoeken;
-
-- (b). middelen te onderzoeken waardoor de regionale samenwerking zou kunnen worden uitgebreid tot voorvallen waarbij andere gevaarlijke stoffen dan olie zijn betrokken; en
-
-- (c). maatregelen te onderzoeken ter verbetering van de samenwerking krachtens dit Protocol, met inbegrip, overeenkomstig [artikel 16, tweede lid, onder (d), van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16), van mogelijke wijzigingen op dit Protocol.
-
-##### Artikel 11. Betrekkingen tussen dit Protocol en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733)
-
-1. De bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) betreffende de protocollen daarbij zijn van toepassing op dit Protocol.
-
-2. De procedureregels en de financiële voorschriften die ingevolge [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20) zijn aangenomen, zijn van toepassing op dit Protocol, tenzij de Verdragsluitende Partijen bij dit Protocol anders overeenkomen.
+2. The rules of procedure and the financial rules adopted pursuant to [article 20 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20) shall apply to this Protocol, unless the Contracting Parties to this Protocol agree otherwise.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments, have signed this Protocol.
 

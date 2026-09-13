@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Guatemala inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0003835"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-06-06"
-last_updated: "1979-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003835"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003740623"
-version_id: "10003803202"
-internal_id: "C10006981471"
-label_id: "10003725644"
-dtd_version: "2.0"
-original_entry_into_force: "1979-06-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003835/1979-06-06/0"
-intitule_bron: "Trb.1978-23"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-02-16"
-intitule_in_force: "1979-07-09"
-intitule_status: "goed"
-original_publication: "Trb.1978-23"
-original_published_date: "1978-02-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-23"
-entry_into_force_date: "1979-06-06"
-jci_1_3: "jci1.3:c:BWBV0003835&z=1979-06-06&g=1979-06-06"
-jci_1_0: "1.0:c:BWBV0003835&g=1979-06-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-06-06"
+publicatiedatum: 1979-06-06
+laatste_update: 1979-06-06
+status: geldig
+toestand: 1979-06-06
+bron: "https://wetten.overheid.nl/BWBV0003835"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Guatemala inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Guatemala, hierna te noemen „De Overeenkomstsluitende Partijen”, partijen bij het Verdrag inzake de Internationale Burgerluchtvaart dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld, geleid door de wens een Overeenkomst te sluiten als aanvulling op genoemd Verdrag met het doel om geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, in een geest van volledige samenwerking en billijke wederkerigheid, zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Guatemala, hierna te noemen „De Overeenkomstsluitende Partijen”, partijen bij het Verdrag inzake de Internationale Burgerluchtvaart dat op 7 december 1944 te Chicago voor ondertekening werd opengesteld, geleid door de wens een Overeenkomst te sluiten als aanvulling op genoemd Verdrag met het doel om geregelde luchtdiensten in te stellen tussen en via hun onderscheiden grondgebieden, in een geest van volledige samenwerking en billijke wederkerigheid, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 

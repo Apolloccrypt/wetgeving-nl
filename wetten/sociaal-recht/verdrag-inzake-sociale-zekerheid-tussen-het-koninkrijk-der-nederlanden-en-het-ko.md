@@ -1,71 +1,43 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden"
 identifier: "BWBV0002928"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-03-01"
-last_updated: "1983-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002928"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10003255243"
-version_id: "10003276102"
-internal_id: "C10006979791"
-label_id: "10003241574"
-dtd_version: "2.0"
-original_entry_into_force: "1983-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002928/1983-03-01/0"
-intitule_bron: "Trb.1982-135"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1982-07-02"
-intitule_published: "1982-08-25"
-intitule_in_force: "1982-12-30"
-intitule_status: "goed"
-original_publication: "Trb.1982-135"
-original_signed_date: "1982-07-02"
-original_published_date: "1982-08-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1982-135"
-entry_into_force_date: "1983-03-01"
-jci_1_3: "jci1.3:c:BWBV0002928&z=1983-03-01&g=1983-03-01"
-jci_1_0: "1.0:c:BWBV0002928&g=1983-03-01"
-citeertitel_status: "officieel"
-signed_date: "1982-07-02"
-entry_into_force: "1983-03-01"
+publicatiedatum: 1983-03-01
+laatste_update: 1983-03-01
+status: geldig
+toestand: 1983-03-01
+bron: "https://wetten.overheid.nl/BWBV0002928"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden
 
-De Regering van het Koninkrijk der Nederlanden en
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Zweden, Geleid door de wens de betrekkingen tussen de beide Staten op het gebied van de sociale zekerheid te regelen, Zijn overeengekomen het volgende Verdrag te sluiten:*
 
-de Regering van het Koninkrijk Zweden,
-
-Geleid door de wens de betrekkingen tussen de beide Staten op het gebied van de sociale zekerheid te regelen,
-
-Zijn overeengekomen het volgende Verdrag te sluiten:
-
-## TITEL I. Algemene bepalingen
+### TITEL I. Algemene bepalingen
 
 ##### Artikel 1
 
 1. Voor de toepassing van dit Verdrag:
 
-- 1). wordt onder „Nederland” verstaan het Koninkrijk der Nederlanden en onder „Zweden” het Koninkrijk Zweden;
+- 1) wordt onder „Nederland” verstaan het Koninkrijk der Nederlanden en onder „Zweden” het Koninkrijk Zweden;
 
-- 2). wordt onder „grondgebied” verstaan wat Nederland betreft: het grondgebied van het Koninkrijk in Europa, wat Zweden betreft: het grondgebied van Zweden;
+- 2) wordt onder „grondgebied” verstaan wat Nederland betreft: het grondgebied van het Koninkrijk in Europa, wat Zweden betreft: het grondgebied van Zweden;
 
-- 3). wordt onder „wetgeving” verstaan de wetten, regelingen en administratieve bepalingen die betrekking hebben op de in artikel 2 bedoelde stelsels en takken van sociale zekerheid;
+- 3) wordt onder „wetgeving” verstaan de wetten, regelingen en administratieve bepalingen die betrekking hebben op de in artikel 2 bedoelde stelsels en takken van sociale zekerheid;
 
-- 4). wordt onder „bevoegde autoriteit” verstaan wat Nederland betreft: de Minister van Sociale Zaken en Werkgelegenheid, of aangaande verstrekkingen ingevolge de wetgeving inzake de ziekteverzekering: de Minister van Volksgezondheid en Milieuhygiëne; wat Zweden betreft: de Regering dan wel de door de Regering aangewezen autoriteit;
+- 4) wordt onder „bevoegde autoriteit” verstaan wat Nederland betreft: de Minister van Sociale Zaken en Werkgelegenheid, of aangaande verstrekkingen ingevolge de wetgeving inzake de ziekteverzekering: de Minister van Volksgezondheid en Milieuhygiëne; wat Zweden betreft: de Regering dan wel de door de Regering aangewezen autoriteit;
 
-- 5). wordt onder „verzekeringsorgaan” verstaan het lichaam dat of de autoriteit die belast is met de uitvoering van de in artikel 2 genoemde wetgevingen (of een deel daarvan);
+- 5) wordt onder „verzekeringsorgaan” verstaan het lichaam dat of de autoriteit die belast is met de uitvoering van de in artikel 2 genoemde wetgevingen (of een deel daarvan);
 
-- 6). wordt onder „bevoegd verzekeringsorgaan” verstaan het krachtens de toe te passen wetgeving bevoegde verzekeringsorgaan;
+- 6) wordt onder „bevoegd verzekeringsorgaan” verstaan het krachtens de toe te passen wetgeving bevoegde verzekeringsorgaan;
 
-- 7). wordt onder „bevoegde Staat” verstaan de Staat op het grondgebied waarvan het bevoegde verzekeringsorgaan is gevestigd;
+- 7) wordt onder „bevoegde Staat” verstaan de Staat op het grondgebied waarvan het bevoegde verzekeringsorgaan is gevestigd;
 
-- 8). wordt onder „tijdvakken van verzekering” verstaan tijdvakken van premie- of bijdragebetaling, van dienstbetrekking, van beroepswerkzaamheden of van wonen, welke als tijdvakken van verzekering worden omschreven of aangemerkt ingevolge de wetgeving krachtens welke zij zijn vervuld, alsmede alle met deze tijdvakken gelijkgestelde tijdvakken, voor zover zij als zodanig door deze wetgeving zijn erkend;
+- 8) wordt onder „tijdvakken van verzekering” verstaan tijdvakken van premie- of bijdragebetaling, van dienstbetrekking, van beroepswerkzaamheden of van wonen, welke als tijdvakken van verzekering worden omschreven of aangemerkt ingevolge de wetgeving krachtens welke zij zijn vervuld, alsmede alle met deze tijdvakken gelijkgestelde tijdvakken, voor zover zij als zodanig door deze wetgeving zijn erkend;
 
-- 9). wordt onder „uitkering” of „pensioen” verstaan een uitkering of een pensioen krachtens de toe te passen wetgeving, met inbegrip van alle bedragen ten laste van de openbare middelen, alsmede alle verhogingen en aanvullende uitkeringen.
+- 9) wordt onder „uitkering” of „pensioen” verstaan een uitkering of een pensioen krachtens de toe te passen wetgeving, met inbegrip van alle bedragen ten laste van de openbare middelen, alsmede alle verhogingen en aanvullende uitkeringen.
 
 2. In dit Verdrag hebben andere termen de betekenis welke daaraan wordt gegeven in de wetgeving welke wordt toegepast.
 
@@ -75,31 +47,31 @@ Zijn overeengekomen het volgende Verdrag te sluiten:
 
 - A. in Nederland op de wetgeving betreffende:
 
-- a). de ziekteverzekering (uitkeringen en verstrekkingen bij ziekte en moederschap);
+   - a) de ziekteverzekering (uitkeringen en verstrekkingen bij ziekte en moederschap);
 
-- b). de invaliditeitsverzekering (arbeidsongeschiktheid, arbeidsongevallen en beroepsziekten);
+   - b) de invaliditeitsverzekering (arbeidsongeschiktheid, arbeidsongevallen en beroepsziekten);
 
-- c). de ouderdomsverzekering;
+   - c) de ouderdomsverzekering;
 
-- d). de weduwen- en wezenverzekering;
+   - d) de weduwen- en wezenverzekering;
 
-- e). de werkloosheidsuitkeringen;
+   - e) de werkloosheidsuitkeringen;
 
-- f). de kinderbijslagen;
+   - f) de kinderbijslagen;
 
 - B. in Zweden op de wetgeving betreffende:
 
-- a). de ziekteverzekering en ouderschapsverzekering;
+   - a) de ziekteverzekering en ouderschapsverzekering;
 
-- b). het basispensioen;
+   - b) het basispensioen;
 
-- c). het aanvullend pensioen;
+   - c) het aanvullend pensioen;
 
-- d). de werkloosheidsverzekering en werkloosheidsondersteuning;
+   - d) de werkloosheidsverzekering en werkloosheidsondersteuning;
 
-- e). de kinderbijslagen;
+   - e) de kinderbijslagen;
 
-- f). de arbeidsongevallen- en beroepsziektenverzekering.
+   - f) de arbeidsongevallen- en beroepsziektenverzekering.
 
 2. Onverminderd het bepaalde in het vierde lid, is dit Verdrag eveneens van toepassing op de wetgeving waarbij de in het eerste lid van dit artikel genoemde wetgevingen worden samengevoegd, gewijzigd of aangevuld.
 
@@ -117,11 +89,11 @@ Tenzij in dit Verdrag anders wordt bepaald, is dit Verdrag van toepassing op ond
 
 Tenzij in dit Verdrag anders wordt bepaald, worden voor de toepassing van de wetgeving van een Verdragsluitende Partij de volgende personen met onderdanen van deze Verdragsluitende Partij gelijkgesteld:
 
-- a). onderdanen van de andere Verdragsluitende Partij;
+- a) onderdanen van de andere Verdragsluitende Partij;
 
-- b). vluchtelingen en staatlozen als bedoeld in het Verdrag betreffende de status van vluchtelingen van 28 juli 1951 en het Protocol van 31 januari 1967 bij genoemd Verdrag, alsmede in het Verdrag betreffende de status van staatlozen van 28 september 1954;
+- b) vluchtelingen en staatlozen als bedoeld in het Verdrag betreffende de status van vluchtelingen van 28 juli 1951 en het Protocol van 31 januari 1967 bij genoemd Verdrag, alsmede in het Verdrag betreffende de status van staatlozen van 28 september 1954;
 
-- c). andere personen met betrekking tot rechten welke zij van een onderdaan van een Verdragsluitende Partij of van een in dit artikel bedoelde vluchteling of staatloze afleiden.
+- c) andere personen met betrekking tot rechten welke zij van een onderdaan van een Verdragsluitende Partij of van een in dit artikel bedoelde vluchteling of staatloze afleiden.
 
 ##### Artikel 5
 
@@ -131,7 +103,7 @@ Tenzij in dit Verdrag anders wordt bepaald, kunnen pensioenen en andere uitkerin
 
 De bepalingen van een wetgeving van een Verdragsluitende Partij inzake vermindering, schorsing of intrekking van uitkeringen van een tak van sociale zekerheid ingeval van samenloop met uitkeringen van een andere tak of met andere inkomsten, of wegens het verrichten van beroepswerkzaamheden, zijn eveneens op een rechthebbende van toepassing met betrekking tot uitkeringen welke krachtens de wetgeving van de andere Verdragsluitende Partij zijn verkregen of met betrekking tot inkomsten welke zijn verworven of werkzaamheden welke zijn verricht op het grondgebied van de andere Verdragsluitende Partij.
 
-## TITEL II. Bepalingen inzake de toe te passen wetgeving
+### TITEL II. Bepalingen inzake de toe te passen wetgeving
 
 ##### Artikel 7
 
@@ -157,7 +129,7 @@ Dit Verdrag laat onverlet de bepalingen van het Verdrag van Wenen inzake diploma
 
 2. Artikel 8, vierde lid is in de in dit artikel bedoelde gevallen, van overeenkomstige toepassing.
 
-## TITEL III. Bijzondere bepalingen inzake de verschillende soorten prestaties.
+### TITEL III. Bijzondere bepalingen inzake de verschillende soorten prestaties.
 
 ### Hoofdstuk 1. Ziekte, moederschap en geboorte
 
@@ -209,11 +181,11 @@ Wanneer op een onderdaan van een der Verdragsluitende Partijen of op een in arti
 
 3. Als tijdvakken van verzekering, vervuld krachtens de Nederlandse wetgeving worden aangemerkt:
 
-- a). tijdvakken van verzekering, vervuld krachtens de Wet op de arbeidsongeschiktheidsverzekering van 18 februari 1966 (WAO);
+- a) tijdvakken van verzekering, vervuld krachtens de Wet op de arbeidsongeschiktheidsverzekering van 18 februari 1966 (WAO);
 
-- b). tijdvakken van verzekering, vervuld krachtens de Algemene Arbeidsongeschiktheidswet van 11 december 1975 (AAW);
+- b) tijdvakken van verzekering, vervuld krachtens de Algemene Arbeidsongeschiktheidswet van 11 december 1975 (AAW);
 
-- c). tijdvakken van arbeid en daarmee gelijkgestelde tijdvakken, welke voor 1 juli 1967 in Nederland zijn vervuld.
+- c) tijdvakken van arbeid en daarmee gelijkgestelde tijdvakken, welke voor 1 juli 1967 in Nederland zijn vervuld.
 
 4. Wanneer in het geval bedoeld in het tweede lid, eerste volzin, een verzekeringstijdvak, vervuld krachtens de W.A.O. samenvalt met een verzekeringstijdvak, vervuld krachtens de A.A.W., wordt slechts het krachtens de W.A.O. vervulde tijdvak in aanmerking genomen.
 
@@ -281,7 +253,7 @@ De duur van de uitkeringen waarop ingevolge artikel 25 krachtens de Zweedse wetg
 
 2. Indien krachtens de wetgevingen van beide Verdragsluitende Partijen met betrekking tot hetzelfde kind en dezelfde periode recht op kinderbijslag bestaat, wordt kinderbijslag verleend overeenkomstig de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan het kind woont.
 
-## TITEL IV. Diverse bepalingen
+### TITEL IV. Diverse bepalingen
 
 ##### Artikel 28
 
@@ -331,7 +303,7 @@ Elke vrijstelling van zegelrechten, griffie- of registratierechten, welke op het
 
 2. Indien het geschil niet is beslecht binnen zes maanden nadat het eerste verzoek is gedaan om de in het voorgaande lid van dit artikel voorgeschreven onderhandelingen te beginnen, wordt het voorgelegd aan een scheidsrechterlijke commissie, waarvan de samenstelling en de procedure door de Verdragsluitende Partijen worden vastgesteld. De scheidsrechterlijke commissie beslecht het geschil volgens de grondbeginselen en in de geest van dit Verdrag. De beslissing van de scheidsrechterlijke commissie is niet vatbaar voor beroep en is voor de Verdragsluitende Partijen bindend.
 
-## TITEL V. Overgangs- en slotbepalingen
+### TITEL V. Overgangs- en slotbepalingen
 
 ##### Artikel 36
 
@@ -359,198 +331,18 @@ Elke vrijstelling van zegelrechten, griffie- of registratierechten, welke op het
 
 Beide Verdragsluitende Partijen stellen elkaar er schriftelijk van in kennis dat de constitutionele procedures in hun onderscheiden landen vereist voor de inwerkingtreding van dit Verdrag, zijn vervuld. Het Verdrag treedt in werking op de eerste dag van de derde maand volgende op de datum van de laatste van deze kennisgevingen.
 
-Overeenkomstig artikel 28 van het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden, ondertekend te Stockholm op 2 juli 1982, zijn de bevoegde autoriteiten van de twee Staten, te weten:
-
-voor Nederland, de Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid en Milieuhygiëne,
-
-voor Zweden, de Zweedse Regering,
-
-voor de toepassing van het Verdrag de volgende bepalingen overeengekomen:
-
-## TITEL I. Algemene bepalingen
-
-##### Artikel 1
-
-Voor de toepassing van dit Akkoord:
-
-- a). wordt onder „Verdrag” verstaan het Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden, ondertekend te Stockholm op 2 juli 1982;
-
-- b). hebben de in artikel 1 van het Verdrag omschreven termen de hun in dat artikel toegekende betekenis.
-
-##### Artikel 2
-
-1. De verbindingsorganen overeenkomstig artikel 28 van het Verdrag zijn:
-
-- A. in Nederland
-
-- a). voor verstrekkingen bij ziekte en moederschap, arbeidsongevallen en beroepsziekten: de Ziekenfondsraad, Amstelveen;
-
-- b). voor ouderdomspensioenen en pensioenen aan nagelaten betrekkingen en voor kinderbijslagen: de Sociale Verzekeringsbank, Amsterdam;
-
-- c). in alle overige gevallen: het Gemeenschappelijk Administratiekantoor, Amsterdam;
-
-- B. in Zweden
-
-- (a). voor de werkloosheidsverzekering en de werkloosheidsondersteuning: de Arbeidsmarktraad, Solna;
-
-- (b). in alle overige gevallen: de Nationale Sociale Verzekeringsraad, Stockholm.
-
-2. De taken van de verbindingsorganen zijn uiteengezet in dit Akkoord. Voor de toepassing van het Verdrag kunnen de verbindingsorganen zich zowel rechtstreeks met elkaar als met de betrokken personen of hun vertegenwoordigers in verbinding stellen. Zij zijn elkaar bij de toepassing van het Verdrag behulpzaam.
-
-##### Artikel 3
-
-1. Het in het tweede lid aangewezen orgaan van de Staat waarvan de wetgeving van toepassing dient te blijven, verstrekt:
-
-- (a). op verzoek van de werknemer of zijn werkgever in de gevallen als bedoeld in artikel 8, eerste lid van het Verdrag,
-
-- (b). in de gevallen waarin artikel 10 van het Verdrag is toegepast,
-
-een bewijs waarin wordt verklaard dat de werknemer aan deze wetgeving onderworpen blijft.
-
-2. De organen, bedoeld in het eerste lid zijn:
-
-- -. in Nederland, de Sociale Verzekeringsraad, Zoetermeer;
-
-- -. in Zweden, de Nationale Sociale Verzekeringsraad, Stockholm, of het regionale algemene verzekeringskantoor.
-
-## TITEL II. Toepassing van de bijzondere bepalingen inzake de verschillende soorten prestaties
-
-### Hoofdstuk 1. Ziekte, moederschap en geboorte
-
-##### Artikel 4
-
-Voor de toepassing van dit hoofdstuk wordt verstaan onder de term „het verzekeringsorgaan van de tijdelijke verblijfplaats”:
-
-in Nederland, het Algemeen Nederlands Onderling Ziekenfonds U.A., Utrecht;
-
-in Zweden, het regionale algemene verzekeringskantoor
-
-en onder de term „verzekeringsorgaan van de woonplaats”:
-
-in Nederland, een door de betrokkene gekozen ziekenfonds in zijn woonplaats,
-
-in Zweden, het regionale algemene verzekeringskantoor.
-
-##### Artikel 5
-
-1. Voor de toepassing van artikel 11 van het Verdrag door het verzekeringsorgaan van een der Staten moet aan dit orgaan een verklaring worden overgelegd waarin de tijdvakken van verzekering zijn vermeld welke ingevolge de wetgeving van de andere Staat zijn vervuld.
-
-2. Deze verklaring wordt op verzoek van de betrokkene afgegeven:
-
-in Nederland, door de bedrijfsvereniging waarbij de laatste werkgever van de verzekerde was aangesloten. Indien de betrokkene evenwel slechts verzekerd was voor verstrekkingen, wordt de verklaring afgegeven door het ziekenfonds waarbij hij laatstelijk was aangesloten;
-
-in Zweden, door de Nationale Sociale Verzekeringsraad of het regionale algemene verzekeringskantoor.
-
-3. Indien de betrokkene de gevraagde verklaring niet kan overleggen, verzoekt het in het eerste lid bedoelde orgaan het in het tweede lid bedoelde orgaan om deze verklaring.
-
-##### Artikel 6
-
-1. Om gedurende een tijdelijk verblijf op het grondgebied van de andere dan de bevoegde Staat in aanmerking te komen voor verstrekkingen moet de betrokkene een verklaring betreffende zijn recht overleggen aan een persoon die, of een orgaan dat bevoegd is de benodigde geneeskundige hulp te verlenen en binnen het sociale zekerheidsstelsel werkzaam is. Deze verklaring wordt afgegeven door het bevoegde verzekeringsorgaan. Zij blijft na de datum van afgifte zolang geldig als erin is aangegeven. De bevoegde autoriteiten kunnen overeenkomen dat door het bevoegde verzekeringsorgaan afgegeven verzekeringskaarten als zodanige verklaringen gelden.
-
-2. Indien de betrokkene de gevraagde verklaring niet kan overleggen, verzoekt het verzekeringsorgaan van de tijdelijke verblijfplaats het bevoegde verzekeringsorgaan om deze verklaring.
-
-##### Artikel 7
-
-1. Om in aanmerking te komen voor verstrekkingen als bedoeld in artikel 13, eerste of tweede lid van het Verdrag, moeten de betrokkenen zich laten inschrijven bij het verzekeringsorgaan van hun woonplaats, zo nodig onder overlegging van een verklaring waaruit hun recht blijkt. Deze verklaring wordt afgegeven door het bevoegde verzekeringsorgaan. Indien een dergelijke verklaring niet wordt overgelegd, verzoekt het verzekeringsorgaan van de woonplaats het bevoegde verzekeringsorgaan om deze verklaring.
-
-2. De in het vorige lid bedoelde verklaring blijft geldig zolang het verzekeringsorgaan van de woonplaats geen kennisgeving van intrekking ervan heeft ontvangen.
-
-3. Het verzekeringsorgaan van de woonplaats stelt het bevoegde verzekeringsorgaan in kennis van iedere inschrijving die het overeenkomstig het eerste lid heeft verricht.
-
-4. De betrokkenen moeten het verzekeringsorgaan van de woonplaats in kennis stellen van iedere verandering in hun omstandigheden waardoor het rechtop verstrekkingen kan worden gewijzigd, in het bijzonder van iedere verandering van woonplaats, beëindiging of verandering van dienstbetrekking of beroepswerkzaamheid van de verzekerde.
-
-5. Het verzekeringsorgaan van de woonplaats stelt, zodra het hiervan op de hoogte is, het bevoegde verzekeringsorgaan in kennis van iedere verandering welke de aansluiting van de betrokkenen bij het verzekeringsorgaan of hun recht op verstrekkingen kan beïnvloeden.
-
-##### Artikel 8
-
-In de gevallen bedoeld in de artikelen 12 en 13 van het Verdrag wordt tussen de verzekeringsorganen afgezien van vergoeding van de kosten van verstrekkingen welke ingevolge deze artikelen zijn verleend. Indien er echter reden is te veronderstellen dat er een aanzienlijk verschil is ontstaan tussen de wederzijdse kosten, zullen er, op verzoek van de bevoegde autoriteit van een van de Staten, opnieuw onderhandelingen plaatsvinden over de toekomstige regeling van deze zaak.
-
-##### Artikel 9
-
-1. Om in aanmerking te komen voor uitkeringen kan een verzekerde die zich op het grondgebied van de andere dan de bevoegde Staat bevindt, zijn aanvraag richten tot het verzekeringsorgaan van de Staat waar hij zich bevindt:
-
-in Nederland, tot het bevoegde districtskantoor van het Gemeenschappelijk Administratiekantoor dat voor de Nieuwe Algemene Bedrijfsvereniging optreedt;
-
-in Zweden, tot het regionale algemene verzekeringskantoor.
-
-Dit orgaan stelt het bevoegde verzekeringsorgaan onmiddellijk van een dergelijke aanvraag in kennis.
-
-2. Het bevoegde verzekeringsorgaan kan de arbeidsongeschiktheid medisch laten vaststellen door tussenkomst van het verzekeringsorgaan van de plaats waar de verzekerde zich bevindt. Het verslag van de controlerende geneeskundige, waarin met name de vermoedelijke duur van de arbeidsongeschiktheid wordt vermeld, wordt binnen drie dagen na de datum waarop de controle plaatsvond aan het bevoegde orgaan gezonden.
-
-3. Op verzoek van het bevoegde verzekeringsorgaan oefent het verzekeringsorgaan van de plaats waar de betrokkene zich bevindt, later zonodig de administratieve of medische controle uit, alsof het een eigen verzekerde betrof.
-
-4. Het bevoegde verzekeringsorgaan betaalt de uitkeringen rechtstreeks aan de rechthebbende, op de daartoe aangewezen wijze uit, met name per internationale postwissel.
-
-### Hoofdstuk 2. Invaliditeit, ouderdom en nagelaten betrekkingen
-
-##### Artikel 10
-
-1. De bevoegde verzekeringsorganen stellen elkaar onmiddellijk in kennis van iedere aanvraag om pensioen waarop Titel III, Hoofdstuk 2 en artikel 32 van het Verdrag van toepassing zijn.
-
-Deze kennisgeving wordt gedaan op een speciaal formulier, dat tevens alle gegevens bevat welke voor de behandeling van de aanvraag door het bevoegde verzekeringsorgaan van de andere Staat nodig zijn. Dit formulier geldt bovendien als bewijsstuk.
-
-2. De bevoegde verzekeringsorganen stellen elkaar voorts in kennis van omstandigheden welke voor de vaststelling van een pensioen van belang zijn, onder toevoeging van alle desbetreffende medische documenten.
-
-3. De bevoegde verzekeringsorganen stellen elkaar in kennis van beslissingen welke gedurende de behandeling van een pensioenaanvraag worden genomen.
-
-De door bedoelde organen genomen definitieve beslissingen worden gelijktijdig aan de aanvrager gezonden door het verzekeringsorgaan van de Staat op het grondgebied waarvan hij woont.
-
-##### Artikel 11
-
-Tenzij artikel 34, eerste lid van het Verdrag wordt toegepast, worden de pensioenen rechtstreeks aan de rechthebbende uitbetaald.
-
-Ingeval genoemd lid wordt toegepast moeten de achterstallige termijnen worden betaald aan het verzekeringsorgaan dat een hoger bedrag dan het verschuldigde pensioen heeft uitbetaald.
-
-##### Artikel 12
-
-Artikel 11 is wat Zweden betreft eveneens van toepassing op lijfrenten welke ingeval van een arbeidsongeval verschuldigd zijn.
-
-### Hoofdstuk 3. Werkloosheid
-
-##### Artikel 13
-
-Indien met toepassing van Titel III, Hoofdstuk 3 van het Verdrag, in geval van werkloosheid in de ene Staat een uitkering wordt aangevraagd, wordt het verzekeringsorgaan van de andere Staat, zonodig via het verbindingsorgaan van die Staat, om inlichtingen verzocht.
-
-### Hoofdstuk 4. Kinderbijslag
-
-##### Artikel 14
-
-Het bevoegde verzekeringsorgaan van de Staat op het grondgebied waarvan het kind woont, verstrekt het bevoegde verzekeringsorgaan van de andere Staat alle informatie welke voor de toepassing van artikel 27, tweede lid van het Verdrag nodig is.
-
-## TITEL III. Slotbepalingen
-
-##### Artikel 15
-
-1. De modellen van de verklaringen en andere documenten welke voor de toepassing van dit Akkoord nodig zijn, worden door de verbindingsorganen vastgesteld.
-
-2. Mits zij daartoe door de bevoegde autoriteiten gemachtigd zijn, kunnen de verbindingsorganen aanvullende maatregelen van administratieve aard treffen voor de toepassing van dit Akkoord.
-
-##### Artikel 16
-
-1. De verbindingsorganen en de verzekeringsorganen corresponderen in het Engels of het Frans.
-
-2. De verbindingsorganen zijn elkaar zo nodig behulpzaam bij het vertalen in het Engels of het Frans van aanvragen en andere documenten welke in hun onderscheiden officiële talen zijn gesteld.
-
-##### Artikel 17
-
-De kosten voortvloeiende uit medische onderzoeken, noodzakelijk voor de toekenning of herziening van prestaties, worden door het verzekeringsorgaan voor rekening waarvan zij zijn verricht, vergoed aan het verzekeringsorgaan dat ermee belast was, op basis van de door dit laatste orgaan toegepaste tarieven.
-
-##### Artikel 18
-
-Dit akkoord treedt gelijktijdig met het Verdrag in werking en kan volgens dezelfde regels worden opgezegd als het Verdrag.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun onderscheiden Regeringen, dit Verdrag hebben ondertekend.
 
 GEDAAN in tweevoud te Stockholm op 2 juli 1982 in de Nederlandse, de Zweedse en de Engelse taal, zijnde elke tekst gelijkelijk gezaghebbend.
 
-**Voor het Koninkrijk**
+*Voor het Koninkrijk*
 
-**der Nederlanden,**
+*der Nederlanden,*
 
 (w.g.) P. W. VAN HEUSDE
 
-**Voor het Koninkrijk**
+*Voor het Koninkrijk*
 
-**Zweden,**
+*Zweden,*
 
 (w.g.) KARIN SÖDER

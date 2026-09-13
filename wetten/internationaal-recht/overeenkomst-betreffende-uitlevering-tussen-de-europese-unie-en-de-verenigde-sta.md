@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst betreffende uitlevering tussen de Europese Unie en de Verenigde Staten van Amerika"
 identifier: "BWBV0004048"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-02-01"
-last_updated: "2003-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004048"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003866953"
-version_id: "10003940792"
-internal_id: "C10008431361"
-label_id: "10003851824"
-dtd_version: "2.0"
-original_entry_into_force: "2010-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004048/2010-02-01/0"
-intitule_bron: "Trb.2004-297"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-12-20"
-intitule_in_force: "2010-01-12"
-intitule_status: "goed"
-original_publication: "Trb.2004-297"
-original_published_date: "2004-12-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-297"
-entry_into_force_date: "2010-02-01"
-jci_1_3: "jci1.3:c:BWBV0004048&z=2010-02-01&g=2010-02-01"
-jci_1_0: "1.0:c:BWBV0004048&g=2010-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-02-01"
+publicatiedatum: 2010-02-01
+laatste_update: 2010-02-01
+status: geldig
+toestand: 2010-02-01
+bron: "https://wetten.overheid.nl/BWBV0004048"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende uitlevering tussen de Europese Unie en de Verenigde Staten van Amerika
 
-De Europese Unie en de Verenigde Staten van Amerika,
-
-verlangend de samenwerking tussen de Verenigde Staten van Amerika en de lidstaten van de Europese Unie verder te vergemakkelijken;
-
-verlangend de criminaliteit doeltreffender te bestrijden teneinde hun respectieve democratische samenlevingen en gemeenschappelijke waarden te beschermen;
-
-met inachtneming van de rechten van het individu en de rechtsstaat;
-
-indachtig de waarborgen die hun respectieve rechtsstelsels bieden inzake het recht van een uitgeleverde persoon op een eerlijk proces, waaronder het recht te worden gevonnist door een onpartijdig gerecht dat is ingesteld bij wet;
-
-verlangende een verdrag te sluiten betreffende de uitlevering van plegers van strafbare feiten,
-
-hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Europese Unie en de Verenigde Staten van Amerika, verlangend de samenwerking tussen de Verenigde Staten van Amerika en de lidstaten van de Europese Unie verder te vergemakkelijken; verlangend de criminaliteit doeltreffender te bestrijden teneinde hun respectieve democratische samenlevingen en gemeenschappelijke waarden te beschermen; met inachtneming van de rechten van het individu en de rechtsstaat; indachtig de waarborgen die hun respectieve rechtsstelsels bieden inzake het recht van een uitgeleverde persoon op een eerlijk proces, waaronder het recht te worden gevonnist door een onpartijdig gerecht dat is ingesteld bij wet; verlangende een verdrag te sluiten betreffende de uitlevering van plegers van strafbare feiten, hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Onderwerp en doel
 
@@ -84,7 +53,7 @@ De overeenkomstsluitende partijen verbinden zich ertoe in overeenstemming met de
 
 - k. artikel 14 wordt toegepast indien in bilaterale verdragen bepalingen ontbreken over de behandeling van gevoelige informatie in een verzoek.
 
-- a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat iedere lidstaat in een schriftelijk instrument tussen die lidstaat en de Verenigde Staten van Amerika bevestigt dat hij zijn bilateraal uitleveringsverdrag dat geldt in de relatie met de Verenigde Staten van Amerika op de in onderhavig Artikel uiteengezette wijze zal toepassen.
+2. - a. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat iedere lidstaat in een schriftelijk instrument tussen die lidstaat en de Verenigde Staten van Amerika bevestigt dat hij zijn bilateraal uitleveringsverdrag dat geldt in de relatie met de Verenigde Staten van Amerika op de in onderhavig Artikel uiteengezette wijze zal toepassen.
 
 - b. De Europese Unie, krachtens het Verdrag betreffende de Europese Unie, waarborgt dat nieuwe lidstaten die na de inwerkingtreding van deze overeenkomst tot de Europese Unie toetreden en die bilaterale betrekkingen onderhouden met de Verenigde Staten van Amerika, de onder a) bedoelde maatregelen nemen.
 
@@ -210,9 +179,9 @@ De Europese Unie stelt de Verenigde Staten van Amerika in kennis van iedere aanw
 
 - b. in betrekking tot de Europese Unie:
 
-- op de lidstaten;
+   - op de lidstaten;
 
-- op gebiedsdelen ten aanzien waarvan een lidstaat verantwoordelijk is voor de externe betrekkingen, of landen die geen lidstaat zijn en waarvoor een lidstaat andere verplichtingen heeft met betrekking tot de externe betrekkingen, indien zulks door de Overeenkomstsluitende Partijen onderling is overeengekomen in een diplomatieke-notawisseling, welke naar behoren is bevestigd door de betrokken lidstaat.
+   - op gebiedsdelen ten aanzien waarvan een lidstaat verantwoordelijk is voor de externe betrekkingen, of landen die geen lidstaat zijn en waarvoor een lidstaat andere verplichtingen heeft met betrekking tot de externe betrekkingen, indien zulks door de Overeenkomstsluitende Partijen onderling is overeengekomen in een diplomatieke-notawisseling, welke naar behoren is bevestigd door de betrokken lidstaat.
 
 2. De uitbreiding tot enig gebiedsdeel of land van de toepassing van deze overeenkomst overeenkomstig lid 1, onder b), kan door elke overeenkomstsluitende Partij met inachtneming van een termijn van zes maanden worden beëindigd door middel van een schriftelijke kennisgeving langs diplomatieke weg die naar behoren tussen de betrokken lidstaat en de Verenigde Staten van Amerika is bevestigd.
 

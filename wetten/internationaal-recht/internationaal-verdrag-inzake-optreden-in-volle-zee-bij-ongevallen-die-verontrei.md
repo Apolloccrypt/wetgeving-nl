@@ -1,318 +1,171 @@
 ---
 title: "Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken"
 identifier: "BWBV0003246"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-12-18"
-last_updated: "1975-12-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003246"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003426523"
-version_id: "10003472452"
-internal_id: "C10006999181"
-label_id: "10003413074"
-dtd_version: "2.0"
-original_entry_into_force: "1975-12-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003246/1975-12-18/0"
-intitule_bron: "Trb.1970-197"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-11-24"
-intitule_in_force: "1975-11-07"
-intitule_status: "goed"
-original_publication: "Trb.1970-197"
-original_published_date: "1970-11-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-197"
-entry_into_force_date: "1975-12-18"
-jci_1_3: "jci1.3:c:BWBV0003246&z=1975-12-18&g=1975-12-18"
-jci_1_0: "1.0:c:BWBV0003246&g=1975-12-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-12-18"
+publicatiedatum: 1975-12-18
+laatste_update: 1975-12-18
+status: geldig
+toestand: 1975-12-18
+bron: "https://wetten.overheid.nl/BWBV0003246"
+opgehaald: 2026-09-13
 ---
+
 # Internationaal Verdrag inzake optreden in volle zee bij ongevallen die verontreiniging door olie kunnen veroorzaken
 
-De Staten, Partijen bij dit Verdrag,
+*The States Parties to the present Convention, Conscious of the need to protect the interests of their peoples against the grave consequences of a maritime casualty resulting in danger of oil pollution of sea and coastlines, Convinced that under these circumstances measures of an exceptional character to protect such interests might be necessary on the high seas and that these measures do not affect the principle of freedom of the high seas, Have agreed as follows:*
 
-Zich bewust van de noodzaak de belangen van hun volken te beschermen tegen de ernstige gevolgen van een ongeval op zee dat het gevaar schept van verontreiniging door olie van zee en kusten,
+##### Article I
 
-Overtuigd dat in deze omstandigheden maatregelen van buitengewone aard ter bescherming van die belangen nodig zouden kunnen zijn in volle zee en dat deze maatregelen geen inbreuk maken op het beginsel van de vrije zee,
+1. Parties to the present Convention may take such measures on the high seas as may be necessary to prevent, mitigate or eliminate grave and imminent danger to their coastline or related interests from pollution or threat of pollution of the sea by oil, following upon a maritime casualty or acts related to such a casualty, which may reasonably be expected to result in major harmful consequences.
 
-zijn overeengekomen als volgt:
+2. However, no measures shall be taken under the present Convention against any warship or other ship owned or operated by a State and used, for the time being, only on government non-commercial service.
 
-##### Artikel I
+##### Article II
 
-1. De Partijen bij dit Verdrag kunnen in volle zee de maatregelen nemen die noodzakelijk zijn ter voorkoming, vermindering of opheffing van ernstig en dreigend gevaar voor hun kust of daarmede samenhangende belangen door verontreiniging of dreigende verontreiniging van de zee door olie, na een ongeval op zee of na met zulk een ongeval verband houdende handelingen waarvan redelijkerwijs kan worden aangenomen dat zij zeer ernstige schade tot gevolg zullen hebben.
+For the purposes of the present Convention:
 
-2. Er worden evenwel ingevolge dit Verdrag geen maatregelen genomen tegen oorlogsschepen of andere schepen die eigendom zijn van of geëxploiteerd worden door een Staat en die te dien tijde slechts worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden.
+- 1. “maritime casualty” means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it resulting in material damage or imminent threat of material damage to a ship or cargo;
 
-##### Artikel II
+- 2. “ship” means:
 
-Voor de toepassing van dit Verdrag:
+   - (a) any sea-going vessel of any type whatsoever, and
 
-- 1. wordt onder „ongeval op zee” verstaan een aanvaring, stranding of een ander ongeval bij de navigatie of een ander voorval aan boord van een schip of daarbuiten dat materiële schade of dreigend gevaar van materiële schade aan een schip of zijn lading tot gevolg heeft;
+   - (b) any floating craft, with the exception of an installation or device engaged in the exploration and exploitation of the resources of the sea-bed and the ocean floor and the subsoil thereof;
 
-- 2. wordt onder „schip” verstaan:
+- 3. “oil” means crude oil, fuel oil, diesel oil and lubricating oil;
 
-- (a). elk zeeschip, van welk type ook, en
+- 4. “related interests” means the interests of a coastal State directly affected or threatened by the maritime casualty, such as:
 
-- (b). elk drijvend voorwerp met uitzondering van een installatie of een andere inrichting voor de exploratie en de exploitatie van de rijkdommen van de zeebedding en de oceaanbodem en de ondergrond daarvan;
+   - (a) maritime coastal, port or estuarine activities, including fisheries activities, constituting an essential means of livelihood of the persons concerned;
 
-- 3. wordt onder „olie” verstaan: ruwe olie, stookolie, dieselolie en smeerolie;
+   - (b) tourist attractions of the area concerned;
 
-- 4. wordt onder „daarmede samenhangende belangen” verstaan de belangen van een kuststaat die door het ongeval op zee rechtstreeks getroffen of bedreigd worden, zoals:
+   - (c) the health of the coastal population and the well-being of the area concerned, including conservation of living marine resources and of wildlife;
 
-- (a). maritieme bedrijvigheid op of voor de kust, in een haven of zeearm, met inbegrip van de visserij, die een hoofdmiddel van bestaan vormt voor de betrokken personen;
+- 5. “Organization” means the Inter-Governmental Maritime Consultative Organization.
 
-- (b). toeristische attracties in het betrokken gebied;
+##### Article III
 
-- (c). de gezondheid van de kustbevolking en het welzijn van het betrokken gebied, met inbegrip van het behoud van de levende rijkdommen van de zee en van de in het wild levende dieren;
+When a coastal State is exercising the right to take measures in accordance with Article I, the following provisions shall apply:
 
-- 5. wordt onder „Organisatie” verstaan de Intergouvernementele Maritieme Consultatieve Organisatie.
+- (a) before taking any measures, a coastal State shall proceed to consultations with other States affected by the maritime casualty, particularly with the flag State or States;
 
-##### Artikel III
+- (b) the coastal State shall notify without delay the proposed measures to any persons physical or corporate known to the coastal State, or made known to it during the consultations, to have interests which can reasonably be expected to be affected by those measures. The coastal State shall take into account any views they may submit;
 
-Wanneer een kuststaat het recht tot het nemen van maatregelen overeenkomstig artikel I uitoefent, zijn de volgende bepalingen van toepassing:
+- (c) before any measure is taken, the coastal State may proceed to a consultation with independent experts, whose names shall be chosen from a list maintained by the Organization;
 
-- (a). alvorens maatregelen te nemen pleegt de kuststaat overleg met de andere door het ongeval op zee getroffen Staten, in het bijzonder met de vlaggestaat of -staten;
+- (d) in cases of extreme urgency requiring measures to be taken immediately, the coastal State may take measures rendered necessary by the urgency of the situation, without prior notification or consultation or without continuing consultations already begun;
 
-- (b). geeft de kuststaat onverwijld kennis van de maatregelen die hij zich voorstelt te nemen aan alle natuurlijke personen of rechtspersonen waarvan het de kuststaat bekend is, of met betrekking waartoe de kuststaat tijdens het overleg is medegedeeld dat zij belangen hebben waarvan redelijkerwijs kan worden verwacht dat zij door deze maatregelen worden getroffen. De kuststaat houdt rekening met de door hen naar voren gebrachte zienswijze;
+- (e) a coastal State shall, before taking such measures and during their course, use its best endeavours to avoid any risk to human life, and to afford persons in distress any assistance of which they may stand in need, and in appropriate cases to facilitate the repatriation of ships' crews, and to raise no obstacle thereto;
 
-- (c). alvorens maatregelen te nemen kan de kuststaat overleg plegen met onafhankelijke deskundigen die worden gekozen uit een door de Organisatie bijgehouden lijst;
+- (f) measures which have been taken in application of Article I shall be notified without delay to the States and to the known physical or corporate persons concerned, as well as to the Secretary-General of the Organization.
 
-- (d). in uiterst dringende gevallen die onmiddellijk ingrijpen noodzakelijk maken kan de kuststaat de maatregelen nemen die door de urgentie van de situatie zijn geboden, zonder voorafgaande kennisgeving of overleg of zonder een reeds aangevangen overleg voort te zetten;
+##### Article IV
 
-- (e). alvorens zodanige maatregelen te nemen en bij hun uitvoering zal een kuststaat naar beste vermogen alle gevaar voor mensenlevens vermijden en personen in nood alle hulp bieden die zij mochten behoeven en in daarvoor in aanmerking komende gevallen de repatriëring van de bemanning van schepen vergemakkelijken en deze niet belemmeren;
+1. Under the supervision of the Organization, there shall be set up and maintained the list of experts contemplated by Article III of the present Convention, and the Organization shall make necessary and appropriate regulations in connexion therewith, including the determination of the required qualifications.
 
-- (f). maatregelen, genomen ingevolge artikel I, worden onverwijld ter kennis gebracht van de Staten en van de betrokken natuurlijke personen of rechtspersonen welke bekend zijn, alsmede van de Secretaris-Generaal van de Organisatie.
+2. Nominations to the list may be made by Member States of the Organization and by Parties to this Convention. The experts shall be paid on the basis of services rendered by the States utilizing those services.
 
-##### Artikel IV
+##### Article V
 
-1. Onder toezicht van de Organisatie wordt een lijst opgesteld en bijgehouden van deskundigen als bedoeld in artikel III van dit Verdrag. De Organisatie vaardigt de nodige voorschriften uit, met inbegrip van de vaststelling van de vereiste bekwaamheden.
+1. Measures taken by the coastal State in accordance with Article I shall be proportionate to the damage actual or threatened to it.
 
-2. Lid-Staten van de Organisatie en Partijen bij dit Verdrag kunnen voordrachten doen voor die lijst. De deskundigen worden op basis van verleende diensten betaald door de Staten die van deze diensten gebruik maken.
+2. Such measures shall not go beyond what is reasonably necessary to achieve the end mentioned in Article I and shall cease as soon as that end has been achieved; they shall not unnecessarily interfere with the rights and interests of the flag State, third States and of any persons, physical or corporate, concerned.
 
-##### Artikel V
+3. In considering whether the measures are proportionate to the damage, account shall be taken of:
 
-1. Maatregelen die door de kuststaat worden genomen ingevolge artikel I moeten evenredig zijn aan de hem toegebrachte of bedreigende schade.
+- (a) the extent and probability of imminent damage if those measures are not taken; and
 
-2. Deze maatregelen mogen niet verder gaan dan wat redelijkerwijze nodig is om het in artikel I genoemde doel te bereiken en moeten worden beëindigd zodra dit doel is bereikt; zij mogen niet onnodig de rechten en belangen van de vlaggestaat, van derde Staten en van natuurlijke personen of rechtspersonen die erbij zijn betrokken, aantasten.
+- (b) the likelihood of those measures being effective; and
 
-3. Bij de overweging of de maatregelen evenredig zijn aan de schade wordt rekening gehouden met:
+- (c) the extent of the damage which may be caused by such measures.
 
-- (a). de omvang en de waarschijnlijkheid van de dreigende schade, indien deze maatregelen niet worden genomen; en
+##### Article VI
 
-- (b). de vermoedelijke doeltreffendheid van deze maatregelen; en
+Any Party which has taken measures in contravention of the provisions of the present Convention causing damage to others, shall be obliged to pay compensation to the extent of the damage caused by measures which exceed those reasonably necessary to achieve the end mentioned in Article I.
 
-- (c). de omvang van de schade die door deze maatregelen kan worden veroorzaakt.
+##### Article VII
 
-##### Artikel VI
+Except as specifically provided, nothing in the present Convention shall prejudice any otherwise applicable right, duty, privilege or immunity or deprive any of the Parties or any interested physical or corporate person of any remedy otherwise applicable.
 
-Iedere Partij die in strijd met de bepalingen van dit Verdrag maatregelen heeft genomen die anderen schade berokkenen, is verplicht een vergoeding te betalen ter grootte van de schade veroorzaakt door maatregelen die verder gaan dan wat redelijkerwijze noodzakelijk is om het in artikel I genoemde doel te bereiken.
+##### Article VIII
 
-##### Artikel VII
+1. Any controversy between the Parties as to whether measures taken under Article I were in contravention of the provisions of the present Convention, to whether compensation is obliged to be paid under Article VI, and to the amount of such compensation shall, if settlement by negotiation between the Parties involved or between the Party which took the measures and the physical or corporate claimants has not been possible, and if the Parties do not otherwise agree, be submitted upon request of any of the Parties concerned to conciliation or, if conciliation does not succeed, to arbitration, as set out in the Annex to the present Convention.
 
-Behalve voor zover uitdrukkelijk is bepaald, maakt niets in dit Verdrag inbreuk op elders geregelde rechten, verplichtingen, voorrechten of immuniteiten of ontneemt het een der Partijen of een betrokken natuurlijke persoon of rechtspersoon een rechtsmiddel waarvan hij anders gebruik zou kunnen maken.
+2. The Party which took the measures shall not be entitled to refuse a request for conciliation or arbitration under provisions of the preceding paragraph solely on the grounds that any remedies under municipal law in its own court have not been exhausted.
 
-##### Artikel VIII
+##### Article IX
 
-1. Alle geschillen tussen de Partijen omtrent de vraag of maatregelen, genomen ingevolge artikel I, in strijd zijn met de bepalingen van dit Verdrag, dan wel omtrent de verplichting tot het betalen van vergoeding ingevolge artikel VI en over het bedrag van een zodanige vergoeding worden, indien het niet mogelijk is geweest door onderhandelingen een regeling te treffen tussen de betrokken Partijen of tussen de Partij die de maatregelen heeft genomen en de natuurlijke personen of rechtspersonen die schadevergoeding verlangen en indien de Partijen niet anders overeenkomen, op verzoek van een der betrokken Partijen, onderworpen aan een procedure tot verzoening, of, indien geen verzoening tot stand komt, aan arbitrage zoals nader omschreven in de Bijlage bij dit Verdrag.
+1. The present Convention shall remain open for signature until 31 December 1970 and shall thereafter remain open for accession.
 
-2. De Partij die de maatregelen heeft genomen, is niet gerechtigd een verzoek om verzoening of arbitrage ingevolge de bepalingen van het voorgaande lid af te wijzen op de enkele grond dat niet alle rechtsmiddelen die hij volgens zijn wet voor zijn eigen gerechten zou kunnen inroepen, zijn uitgeput.
+2. States Members of the United Nations or any of the Specialized Agencies or of the International Atomic Energy Agency or Parties to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) may become Parties to this Convention by:
 
-##### Artikel IX
+- (a) signature without reservation as to ratification, acceptance or approval;
 
-1. Dit Verdrag staat open voor ondertekening tot 31 december 1970 en staat daarna open voor toetreding.
+- (b) signature subject to ratification, acceptance or approval followed by ratification, acceptance or approval; or
 
-2. Lid-Staten van de Verenigde Naties of van een der Gespecialiseerde Organisaties of van de Internationale Organisatie voor Atoomenergie, dan wel Staten die partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) kunnen partij worden bij dit Verdrag door:
+- (c) accession.
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring;
+##### Article X
 
-- (b). ondertekening met voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+1. Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization.
 
-- (c). toetreding.
+2. Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the present Convention with respect to all existing Parties or after the completion of all measures required for the entry into force of the amendment with respect to those Parties shall be deemed to apply to the Convention as modified by the amendment.
 
-##### Artikel X
+##### Article XI
 
-1. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
+1. The present Convention shall enter into force on the ninetieth day following the date on which Governments of fifteen States have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization.
 
-2. Alle akten van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de inwerkingtreding van een wijziging op dit Verdrag ten aanzien van alle bestaande Partijen of na de voltooiing van alle maatregelen, vereist voor de inwerkingtreding van de wijziging ten aanzien van die Partijen, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag.
+2. For each State which subsequently ratifies, accepts, approves or accedes to it the present Convention shall come into force on the ninetieth day after deposit by such State of the appropriate instrument.
 
-##### Artikel XI
+##### Article XII
 
-1. Dit Verdrag treedt in werking op de negentigste dag na de datum waarop de Regeringen van vijftien Staten het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring dan wel akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
+1. The present Convention may be denounced by any Party at any time after the date on which the Convention comes into force for that State.
 
-2. Ten aanzien van elke Staat die dit Verdrag daarna bekrachtigt, aanvaardt, goedkeurt, of ertoe toetreedt, treedt het in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
+2. Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization.
 
-##### Artikel XII
+3. A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization.
 
-1. Een Partij mag dit Verdrag na de datum waarop het Verdrag voor die Staat in werking is getreden te allen tijde opzeggen.
+##### Article XIII
 
-2. Opzegging geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Organisatie.
+1. The United Nations where it is the administering authority for a territory, or any State Party to the present Convention responsible for the international relations of a territory, shall as soon as possible consult with the appropriate authorities of such territories or take such other measures as may be appropriate, in order to extend the present Convention to that territory and may at any time by notification in writing to the Secretary-General of the Organization declare that the present Convention shall extend to such territory.
 
-3. Een opzegging wordt van kracht een jaar na de nederlegging van de akte van opzegging bij de Secretaris-Generaal van de Organisatie of na een langere termijn, wanneer zulks in die akte is bepaald.
+2. The present Convention shall, from the date of receipt of the notification or from such other date as may be specified in the notification, extend to the territory named therein.
 
-##### Artikel XIII
+3. The United Nations, or any Party which has made a declaration under paragraph 1 of this Article may at any time after the date on which the Convention has been so extended to any territory declare by notification in writing to the Secretary-General of the Organization that the present Convention shall cease to extend to any such territory named in the notification.
 
-1. De Verenigde Naties ingeval zij het gezagsorgaan zijn dat het beheer over een gebied uitoefent, of een Staat die Partij is bij dit Verdrag en die verantwoordelijk is voor de internationale betrekkingen van een gebied plegen zo spoedig mogelijk overleg met de daarvoor in aanmerking komende autoriteiten van zodanige gebieden of nemen andere passende maatregelen, ten einde dit Verdrag van toepassing te doen zijn op dat gebied en kunnen de Secretaris-Generaal van de Organisatie te allen tijde schriftelijk mededelen dat dit Verdrag ook op dat gebied van toepassing zal zijn.
+4. The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Secretary-General of the Organization.
 
-2. Te rekenen van de datum van ontvangst van deze kennisgeving of van een andere in deze kennisgeving vastgestelde datum, is dit Verdrag van toepassing op het daarin genoemde gebied.
+##### Article XIV
 
-3. De Verenigde Naties of een Partij die een verklaring krachtens het eerste lid van dit artikel hebben afgelegd kunnen te allen tijde na de datum waarop dit Verdrag aldus op een gebied van toepassing wordt, door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Organisatie verklaren dat dit Verdrag ophoudt van toepassing te zijn op het in de kennisgeving genoemde gebied.
+1. A Conference for the purpose of revising or amending the present Convention may be convened by the Organization.
 
-4. Dit Verdrag houdt op van toepassing te zijn op het in de kennisgeving genoemde gebied een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal van de Organisatie of na een langere termijn, wanneer zulks in die kennisgeving is bepaald.
+2. The Organization shall convene a Conference of the States Parties to the present Convention for revising or amending the present Convention at the request of not less than one-third of the Parties.
 
-##### Artikel XIV
+##### Article XV
 
-1. De Organisatie kan een conferentie tot herziening of wijziging van dit Verdrag bijeenroepen.
+1. The present Convention shall be deposited with the Secretary-General of the Organization.
 
-2. De Organisatie roept een conferentie bijeen van de Staten die Partij zijn bij dit Verdrag tot herziening of wijziging van dit Verdrag op het verzoek van niet minder dan een derde van de Partijen.
+2. The Secretary-General of the Organization shall:
 
-##### Artikel XV
+- (a) inform all States which have signed or acceded to the Convention of:
 
-1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie.
+   - (i) each new signature or deposit of instrument together with the date thereof;
 
-2. De Secretaris-Generaal van de Organisatie:
+   - (ii) the deposit of any instrument of denunciation of this Convention together with the date of the deposit;
 
-- (a). doet alle Staten die het Verdrag hebben ondertekend of daartoe zijn toegetreden mededeling van:
+   - (iii) the extension of the present Convention to any territory under paragraph 1 of Article XIII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended;
 
-- (i). elke nieuwe ondertekening of nederlegging van een akte en de datum daarvan;
+- (b) transmit certified true copies of the present Convention to all Signatory States and to all States which accede to the present Convention.
 
-- (ii). de nederlegging van een akte van opzegging van dit Verdrag en de datum van nederlegging;
+##### Article XVI
 
-- (iii). de toepasselijkverklaring van dit Verdrag op een gebied krachtens het eerste lid van artikel XIII en de beëindiging van een zodanige toepassing krachtens het bepaalde in het vierde lid van dat artikel, waarbij in beide gevallen de datum wordt aangegeven waarop dit Verdrag van toepassing is verklaard of de toepassing wordt beëindigd;
+As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- (b). doet voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen aan alle ondertekenende Staten en aan alle Staten die tot dit Verdrag toetreden.
+##### Article XVII
 
-##### Artikel XVI
-
-Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel XVII
-
-Dit Verdrag is, in een enkel exemplaar, opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Officiële vertalingen in de Russische en de Spaanse taal worden vervaardigd en nedergelegd bij het ondertekende origineel.
-
-### HOOFDSTUK I. Verzoening
-
-##### Artikel 1
-
-Tenzij de betrokken Partijen anders besluiten, wordt de verzoeningsprocedure gevoerd met inachtneming van de bepalingen vervat in dit Hoofdstuk.
-
-##### Artikel 2
-
-1. Op het door een Partij, overeenkomstig artikel VIII van het Verdrag, aan de andere Partij gerichte verzoek, wordt een Verzoeningscommissie ingesteld.
-
-2. Het verzoek om verzoening ingediend door een Partij bevat een voordracht van de zaak en gaat vergezeld van schriftelijke bewijsstukken ter ondersteuning.
-
-3. Indien tussen twee Partijen een procedure is aangevangen, kan elke andere Partij wier onderdanen of eigendommen door dezelfde maatregelen zijn getroffen of die, als kuststaat, dergelijke maatregelen heeft genomen, zich voegen in de verzoeningsprocedure, door schriftelijke kennisgeving aan de Partijen die de procedure oorspronkelijk zijn aangevangen, tenzij een van die Partijen zich daartegen verzet.
-
-##### Artikel 3
-
-1. De Verzoeningscommissie bestaat uit drie leden: een lid benoemd door de kuststaat die de maatregelen nam, een lid benoemd door de Staat wiens onderdanen of eigendommen door die maatregelen werden getroffen en een derde die de Commissie voorzit en die in onderlinge overeenstemming tussen de twee oorspronkelijke leden wordt benoemd.
-
-2. De leden van de Verzoeningscommissie worden gekozen uit een vooraf opgestelde lijst overeenkomstig de procedure vervat in artikel 4 hieronder.
-
-3. Indien binnen een termijn van 60 dagen na de datum van ontvangst van het verzoek om verzoening de Partij tot wie dat verzoek is gericht de andere Partij bij het geschil niet in kennis heeft gesteld van de benoeming van het lid voor wiens keuze zij verantwoordelijk is of indien, binnen een tijdvak van 30 dagen na de datum van benoeming van het tweede lid van de Commissie dat door de Partijen moet worden aangewezen, de beide eerste leden niet in staat zijn geweest in onderlinge overeenstemming de Voorzitter van de Commissie aan te wijzen, gaat de Secretaris-Generaal van de Organisatie op verzoek van een der Partijen binnen een termijn van 30 dagen over tot de vereiste benoeming. De aldus benoemde leden van de Commissie worden gekozen uit de in het voorgaande lid bedoelde lijst.
-
-4. In geen geval mag de Voorzitter van de Commissie een onderdaan zijn of een onderdaan geweest zijn van een van de Partijen die de procedure zijn aangevangen, ongeacht de wijze van benoeming.
-
-##### Artikel 4
-
-1. De hiervoor in artikel 3 bedoelde lijst bestaat uit door de Partijen aangewezen personen van de vereiste hoedanigheid en wordt bijgehouden door de Organisatie. Elke Partij kan voor opneming in de lijst vier personen aanwijzen, die niet noodzakelijkerwijze haar onderdanen behoeven te zijn. Deze aanwijzingen geschieden voor een termijn van zes jaar en kunnen telkens worden vernieuwd.
-
-2. In geval van overlijden of ontslag van een persoon wiens naam op de lijst voorkomt, kan de Partij die deze persoon aanwees voor het resterende deel van de ambtstermijn een vervanger aanwijzen.
-
-##### Artikel 5
-
-1. Tenzij de Partijen anders overeenkomen, stelt de Verzoeningscommissie haar eigen procedureregels vast, welke er in elk geval in moeten voorzien dat beide Partijen worden gehoord. Wat het getuigenverhoor betreft, zal de Commissie, tenzij zij met eenparigheid van stemmen anders beslist, de bepalingen in acht nemen van [Hoofdstuk III van het Verdrag van 's-Gravenhage voor de vreedzame beslechting van internationale geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0005617&hoofdstuk=III) van 18 oktober 1907.
-
-2. De Partijen worden voor de Verzoeningscommissie vertegenwoordigd door agenten wier taak het is als tussenpersoon tussen de Partijen en de Commissie op te treden. Elk van de Partijen kan ook de bijstand vragen van raadslieden en deskundigen, die door haar te dien einde worden benoemd en kan verzoeken alle personen wier getuigenis haar nuttig voorkomt, te doen horen.
-
-3. De Commissie heeft het recht uiteenzettingen te vragen aan agenten, raadslieden en deskundigen van de Partijen, evenals aan alle personen waarvan zij het nuttig acht dat zij, met toestemming van hun Regeringen, worden opgeroepen.
-
-##### Artikel 6
-
-Tenzij de Partijen anders overeenkomen, worden de beslissingen van de Commissie genomen met meerderheid van stemmen en de Commissie doet geen uitspraak met betrekking tot het geschil zelf, tenzij al haar leden aanwezig zijn.
-
-##### Artikel 7
-
-De Partijen vergemakkelijken het werk van de Verzoeningscommissie en in het bijzonder, overeenkomstig hun wetgeving en met gebruikmaking van alle hun ten dienste staande middelen:
-
-- (a). verschaffen zij de Commissie de nodige stukken en inlichtingen;
-
-- (b). stellen zij de Commissie in staat hun grondgebied te betreden, getuigen of deskundigen te horen en de situatie ter plaatse in ogenschouw te nemen.
-
-##### Artikel 8
-
-De Verzoeningscommissie heeft tot taak de geschilpunten op te helderen, te dien einde alle nodige inlichtingen door middel van getuigenverhoor of andere middelen te verzamelen, en te trachten de Partijen te verzoenen. Na onderzoek van de zaak doet de Commissie de Partijen een aanbeveling die haar passend voorkomt en bepaalt zij een tijdvak van niet langer dan 90 dagen binnen hetwelk de Partijen moeten verklaren of zij de aanbeveling al of niet aanvaarden.
-
-##### Artikel 9
-
-De aanbeveling dient met redenen te zijn omkleed. Indien de aanbeveling niet geheel of gedeeltelijk het eenstemmig oordeel van de Commissie weergeeft, is elk lid gerechtigd afzonderlijk zijn oordeel te doen kennen.
-
-##### Artikel 10
-
-Een verzoening wordt geacht te zijn mislukt indien, 90 dagen nadat de aanbeveling aan de Partijen is medegedeeld, een der Partijen de andere Partij niet heeft medegedeeld dat zij de aanbeveling heeft aanvaard. De verzoening wordt eveneens geacht te zijn mislukt, indien de Commissie niet binnen de in het derde lid van artikel 3 bedoelde termijn is ingesteld of, tenzij de Partijen anders zijn overeengekomen, indien de Commissie haar aanbeveling niet heeft gedaan binnen een jaar te rekenen van de datum van benoeming van de Voorzitter.
-
-##### Artikel 11
-
-1. Elk lid van de Commissie ontvangt een bezoldiging voor zijn werk; deze bezoldiging wordt vastgesteld bij overeenstemming tussen de Partijen, die elk een gelijk deel daartoe bijdragen.
-
-2. De algemene kosten die voortvloeien uit de werkzaamheden van de Commissie, zullen op dezelfde wijze worden verdeeld.
-
-##### Artikel 12
-
-De Partijen bij het geschil kunnen te allen tijde gedurende de verzoeningsprocedure in onderlinge overeenstemming besluiten gebruik te maken van een andere procedure voor de regeling van geschillen.
-
-### HOOFDSTUK II. Arbitrage
-
-##### Artikel 13
-
-1. Tenzij de Partijen anders besluiten, zal de scheidsrechterlijke procedure worden gevoerd met inachtneming van de bepalingen van dit Hoofdstuk.
-
-2. Wanneer de verzoening is mislukt, kan een verzoek tot arbitrage slechts worden ingediend binnen een termijn van 180 dagen na de mislukking van de verzoening.
-
-##### Artikel 14
-
-Het Scheidsgerecht bestaat uit drie leden: een scheidsman benoemd door de kuststaat die de maatregelen heeft genomen, een scheidsman benoemd door de Staat wiens onderdanen of eigendommen door die maatregelen werden getroffen en een derde scheidsman die wordt benoemd bij overeenstemming tussen de eerstgenoemde scheidslieden en die optreedt als Voorzitter van het Scheidsgerecht.
-
-##### Artikel 15
-
-1. Indien na het verstrijken van een termijn van 60 dagen na de benoeming van de tweede scheidsman de Voorzitter van het Scheidsgerecht niet is benoemd, gaat de Secretaris-Generaal van de Organisatie op verzoek van een der Partijen binnen een termijn van nogmaals 60 dagen over tot de benoeming; hij doet daarbij een keuze uit de lijst van personen van de vereiste hoedanigheid die van tevoren is opgesteld overeenkomstig het bepaalde in artikel 4. Deze lijst is een andere dan de lijst van deskundigen voorgeschreven in artikel IV van het Verdrag en dan de lijst van leden van de Verzoeningscommissie voorgeschreven in artikel 4 van deze Bijlage; dezelfde persoon kan evenwel voorkomen zowel op de lijst van leden van de Verzoeningscommissie als op de lijst van scheidslieden. Een persoon die in een geschil is opgetreden als lid van de Verzoeningscommissie kan evenwel niet worden gekozen om op te treden als scheidsman in dezelfde zaak.
-
-2. Indien binnen een termijn van 60 dagen na de ontvangst van het verzoek een van de Partijen het lid van het Scheidsgerecht voor wiens aanwijzing zij verantwoordelijk is niet heeft benoemd, kan de andere Partij de Secretaris-Generaal van de Organisatie hiervan rechtstreeks in kennis stellen. Deze wijst de Voorzitter van het Scheidsgerecht aan binnen een termijn van 60 dagen; hij kiest deze uit de lijst bedoeld in het eerste lid van dit artikel.
-
-3. De Voorzitter van het Scheidsgerecht verzoekt na te zijn aangewezen de Partij die geen scheidsman heeft gesteld, dit te doen volgens dezelfde regels en op dezelfde voorwaarden. Indien de Partij de vereiste aanwijzing niet verricht, verzoekt de Voorzitter van het Scheidsgerecht de Secretaris-Generaal van de Organisatie de aanwijzing te verrichten op de wijze en volgens de regels bedoeld in het voorgaande lid.
-
-4. De Voorzitter van het Scheidsgerecht die met inachtneming van het bepaalde in dit artikel is aangewezen, mag geen onderdaan zijn of geen onderdaan zijn geweest van een van de betrokken Partijen, tenzij de andere Partij of Partijen verklaren daartegen geen bezwaar te hebben.
-
-5. In geval van overlijden of in gebreke blijven van een scheidsman voor wiens aanwijzing een van de Partijen verantwoordelijk is, wijst die Partij een vervanger aan binnen een termijn van 60 dagen te rekenen van de datum van overlijden of in gebreke blijven. Indien deze Partij de aanwijzing niet verricht wordt de arbitrage voortgezet door de overblijvende scheidslieden. In geval van overlijden of in gebreke blijven van de Voorzitter van het Scheidsgerecht wordt een vervanger aangewezen overeenkomstig de bepalingen van artikel 14, of, bij gebreke van overeenstemming tussen de leden van het Scheidsgerecht, binnen een termijn van 60 dagen te rekenen van het overlijden of in gebreke blijven, overeenkomstig het bepaalde in dit artikel.
-
-##### Artikel 16
-
-Indien tussen twee Partijen een procedure is aangevangen, kan elke andere Partij wier onderdanen of eigendommen door dezelfde maatregelen zijn getroffen of die, als kuststaat, dergelijke maatregelen heeft genomen, zich voegen in de arbitrageprocedure door schriftelijke kennisgeving aan de Partijen die de procedure zijn aangevangen, tenzij een van die Partijen zich daartegen verzet.
-
-##### Artikel 17
-
-Een ingevolge de bepalingen van deze Bijlage ingesteld Scheidsgerecht stelt zelf zijn procedureregels vast.
-
-##### Artikel 18
-
-1. Het Scheidsgerecht beslist, zowel wat betreft de procedure als de plaats waar het vergadert, als wat betreft elk daaraan voorgelegd geschil met meerderheid van stemmen; de omstandigheid dat een van de leden van het Scheidsgerecht voor wiens benoeming de Partijen verantwoordelijk waren afwezig is of zich van stemming onthoudt, verhindert niet dat het Scheidsgerecht een beslissing neemt. Bij staking van stemmen geeft de stem van de Voorzitter de doorslag.
-
-2. De Partijen vergemakkelijken het werk van de Verzoeningscommissie en in het bijzonder, overeenkomstig hun wetgeving en met gebruikmaking van alle hun ten dienste staande middelen:
-
-- (a). verschaffen zij de Commissie de nodige stukken en inlichtingen;
-
-- (b). stellen zij de Commissie in staat hun grondgebied te betreden, getuigen of deskundigen te horen en de situatie ter plaatse in ogenschouw te nemen.
-
-3. Afwezigheid of in gebreke blijven van een Partij belemmert de voortgang van de procedure niet.
-
-##### Artikel 19
-
-1. De uitspraak van het Scheidsgerecht is met redenen omkleed. Zij is definitief en er staat geen beroep tegen open. De Partijen voldoen onverwijld aan de uitspraak.
-
-2. Alle geschillen die zich tussen de Partijen kunnen voordoen ten aanzien van de uitlegging en uitvoering van de uitspraak, kunnen door een Partij ter beslechting worden voorgelegd aan het Scheidsgerecht dat de uitspraak heeft gedaan of, indien dit niet beschikbaar is, aan een ander voor dit doel ingesteld Scheidsgerecht, dat is ingesteld op dezelfde wijze als het eerste Scheidsgerecht.
+The present Convention is established in a single copy in the English and French languages, both texts being equally authentic. Official translations in the Russian and Spanish languages shall be prepared and deposited with the signed original.
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 

@@ -1,107 +1,82 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Cyprus betreffende het internationale wegvervoer"
 identifier: "BWBV0003708"
-country: "nl"
-rank: "verdrag"
-publication_date: "1981-07-01"
-last_updated: "1981-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003708"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003660333"
-version_id: "10003720582"
-internal_id: "C10006980131"
-label_id: "10003645544"
-dtd_version: "2.0"
-original_entry_into_force: "1981-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003708/1981-07-01/0"
-intitule_bron: "Trb.1980-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-05-13"
-intitule_in_force: "1981-06-24"
-intitule_status: "goed"
-original_publication: "Trb.1980-71"
-original_published_date: "1980-05-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-71"
-entry_into_force_date: "1981-07-01"
-jci_1_3: "jci1.3:c:BWBV0003708&z=1981-07-01&g=1981-07-01"
-jci_1_0: "1.0:c:BWBV0003708&g=1981-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1981-07-01"
+publicatiedatum: 1981-07-01
+laatste_update: 1981-07-01
+status: geldig
+toestand: 1981-07-01
+bron: "https://wetten.overheid.nl/BWBV0003708"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Cyprus betreffende het internationale wegvervoer
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Cyprus, hierna te noemen „de Overeenkomstsluitende Partijen”,
+*The Government of the Kingdom of the Netherlands and the Government of the Republic of Cyprus hereinafter called “the Contracting Parties”; Desirous of promoting in the interest of their economic relations the development of transport of goods by road between their two countries and in transit across their territories; Having decided to conclude an Agreement with the object of consolidating existing facilities and creating additional facilities; Have agreed as follows:*
 
-Geleid door de wens, in het belang van hun economische betrekkingen, het goederenvervoer over de weg tussen hun beide landen en het transitovervoer over hun grondgebied te bevorderen;
+##### Article 1
 
-Besloten hebbende een Overeenkomst te sluiten ten einde bestaande faciliteiten te bevestigen en verdere faciliteiten te scheppen;
+Each of the Contracting Parties shall allow any carrier established in the territory of the other Contracting Party and authorized to effect international transport of goods by road according to the laws and regulations of the other Contracting Party, to carry out without any special licence transport of goods:
 
-Zijn overeengekomen als volgt:
+- a. between any point in its territory and any point outside that territory,
 
-##### Artikel 1
+- b. in transit through its own territory.
 
-Elk der Overeenkomstsluitende Partijen staat vervoerders die op het grondgebied van de andere Overeenkomstsluitende Partij zijn gevestigd en die zijn gemachtigd internationaal goederenvervoer over de weg uit te voeren overeenkomstig de wetten en voorschriften van de andere Overeenkomstsluitende Partij, toe zonder bijzondere vergunningen goederen te vervoeren:
+##### Article 2
 
-- a. tussen enige plaats op haar grondgebied en enige plaats buiten dat grondgebied.
+Nothing in this Agreement shall be held to permit carriers established in the territory of one of the Contracting Parties to carry goods which are loaded at any point in the territory of the other Contracting Party to any other point in the same territory.
 
-- b. in doorvoer over haar eigen grondgebied.
+##### Article 3
 
-##### Artikel 2
+Except as otherwise provided in this Agreement, carriers established in the territory of one of the Contracting Parties have to comply with the laws and regulations of the other Contracting Party.
 
-Niets in deze Overeenkomst wordt geacht vervoerders die op het grondgebied van een der Overeenkomstsluitende Partijen zijn gevestigd, toe te staan goederen te vervoeren die zijn geladen op enige plaats op het grondgebied van de andere Overeenkomstsluitende Partij naar enige andere plaats op hetzelfde grondgebied.
+##### Article 4
 
-##### Artikel 3
+In the event of any infringement of the provisions of this Agreement by a carrier, established in the territory of one of the Contracting Parties, the Contracting Party in whose territory the infringement occured may notify the other Contracting Party, which will take such steps as are provided by its laws and regulations.
 
-Tenzij in deze Overeenkomst anders is bepaald, dienen vervoerders die op het grondgebied van een der Overeenkomstsluitende Partijen zijn gevestigd, de wetten en voorschriften van de andere Overeenkomstsluitende Partij na te leven.
+##### Article 5
 
-##### Artikel 4
+Vehicles of carriers established in the territory of one of the Contracting Parties when engaged in international transport under the provisions of this Agreement shall be exempted from taxes and charges levied on the circulation or possession of vehicles as well as from special taxes or charges on transport operations in the territory of the other Contracting Party.
 
-In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoerder die op het grondgebied van een der Overeenkomstsluitende Partijen is gevestigd, kan de Overeenkomstsluitende Partij op wier grondgebied de overtreding plaatsvond, hiervan kennisgeven aan de andere Overeenkomstsluitende Partij, die de maatregelen neemt waarin haar wetten en voorschriften voorzien.
+##### Article 6
 
-##### Artikel 5
+1. The fuel contained in the ordinary tanks of the vehicles mentioned in Article 5 as well as the lubricants and spare parts destined for those vehicles shall, when entering the territory of the other Contracting Party, be exempted from all duties, taxes and charges without any import restriction.
 
-Indien voertuigen van vervoerders, gevestigd op het grondgebied van een der Overeenkomstsluitende Partijen, worden gebruikt voor internationaal vervoer krachtens de bepalingen van deze Overeenkomst, zijn zij vrijgesteld van belastingen en heffingen op het rijden met of het bezit van die voertuigen, alsmede van bijzondere belastingen of heffingen op vervoerswerkzaamheden op het grondgebied van de andere Overeenkomstsluitende Partij.
+2. Unused spare parts shall be re-exported and replaced parts re-exported, destroyed or abandoned in conformity with the laws and regulations of the Contracting Party in whose territory the vehicle is operating.
 
-##### Artikel 6
+##### Article 7
 
-1. De brandstof die zich in de normale reservoirs van de in artikel 5 genoemde voertuigen bevindt, alsmede de voor deze voertuigen bestemde smeeroliën en onderdelen, zijn bij het binnenkomen op het grondgebied van de andere Overeenkomstsluitende Partij zonder enige invoerbeperking vrijgesteld van alle rechten, belastingen en heffingen.
+If the weights or dimensions of a vehicle or combination of vehicles registered in the territory of one of the Contracting Parties when engaged in international transport under the provisions of this Agreement exceed the permissible maximum in the territory of the other Contracting Party a special permit of the competent authority of that Contracting Party is required.
 
-2. Niet gebruikte onderdelen worden opnieuw uitgevoerd en vervangen onderdelen worden opnieuw uitgevoerd, vernietigd of prijsgegeven overeenkomstig de wetten en voorschriften van de Overeenkomstsluitende Partij op wier grondgebied het voertuig zich bevindt.
+##### Article 8
 
-##### Artikel 7
+The provisions of this Agreement are equally applicable to the transport of goods on own account.
 
-Indien het gewicht of de afmetingen van een voertuig of combinatie van voertuigen, geregistreerd op het grondgebied van een der Overeenkomstsluitende Partijen en gebruikt voor internationaal vervoer krachtens de bepalingen van deze Overeenkomst, het toelaatbare maximum op het grondgebied van de andere Overeenkomstsluitende Partij overschrijdt, is een bijzondere vergunning vereist van de bevoegde autoriteit van die Overeenkomstsluitende Partij.
+##### Article 9
 
-##### Artikel 8
+1. The competent authorities of the two Contracting Parties shall regulate all questions regarding the implementation and the application of this Agreement.
 
-De bepalingen van deze Overeenkomst zijn eveneens van toepassing op het eigen vervoer van goederen.
+2. For this purpose the Contracting Parties shall establish a Joint Committee.
 
-##### Artikel 9
+3. The Joint Committee shall meet at the request of either Contracting Party.
 
-1. De bevoegde autoriteiten van de beide Overeenkomstsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en de toepassing van deze Overeenkomst.
+##### Article 10
 
-2. Hiertoe stellen de Overeenkomstsluitende Partijen een Gemengde Commissie in.
+1. This Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other that their constitutional requirements have been fulfilled.
 
-3. De Gemengde Commissie komt bijeen op verzoek van een der Overeenkomstsluitende Partijen.
+2. With respect to the Kingdom of the Netherlands, this Agreement shall apply only to the territory of the Kingdom in Europe.
 
-##### Artikel 10
-
-1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand, volgend op de datum waarop de Overeenkomstsluitende Partijen elkaar hebben medegedeeld dat aan hun constitutionele vereisten is voldaan.
-
-2. Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het grondgebied van het Koninkrijk in Europa.
-
-3. Deze Overeenkomst blijft van kracht voor de duur van één jaar na de datum van haar inwerkingtreding en wordt elk jaar stilzwijgend verlengd, tenzij de Overeenkomst zes maanden voor het verstrijken van de geldigheidsduur wordt opgezegd door een der Overeenkomstsluitende Partijen.
+3. This Agreement shall remain in force for one year after the date of its entry into force and shall be tacitly extended from year to year unless denounced by either of the Contracting Parties six months before its validity expires.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Agreement.
 
 DONE in duplicate at The Hague this 27th day of March 1980 in the English language.
 
-**For the Government of the Kingdom of the Netherlands**
+*For the Government of the Kingdom of the Netherlands*
 
 (sd.) C. A. VAN DER KLAAUW
 
-**For the Government of the Republic of Cyprus**
+*For the Government of the Republic of Cyprus*
 
 (sd.) N. AGATHOCLEOUS

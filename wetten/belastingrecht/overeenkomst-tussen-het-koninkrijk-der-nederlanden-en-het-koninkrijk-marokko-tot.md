@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0003326"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-06-10"
-last_updated: "1987-06-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003326"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003476203"
-version_id: "10003523372"
-internal_id: "C10009606691"
-label_id: "10003462194"
-dtd_version: "2.0"
-original_entry_into_force: "1987-06-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003326/1987-06-10/0"
-intitule_bron: "Trb.1977-152"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-10-31"
-intitule_in_force: "1987-07-24"
-intitule_status: "goed"
-original_publication: "Trb.1977-152"
-original_published_date: "1977-10-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-152"
-entry_into_force_date: "1987-06-10"
-jci_1_3: "jci1.3:c:BWBV0003326&z=1987-06-10&g=1987-06-10"
-jci_1_0: "1.0:c:BWBV0003326&g=1987-06-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1987-06-10"
+publicatiedatum: 1987-06-10
+laatste_update: 1987-06-10
+status: geldig
+toestand: 1987-06-10
+bron: "https://wetten.overheid.nl/BWBV0003326"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-De Regering van het Koninkrijk der Nederlanden en
-
-De Regering van het Koninkrijk Marokko,
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van het Koninkrijk Marokko, De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -56,31 +31,31 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 - a. voor Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- -. de inkomstenbelasting;
+   - - de inkomstenbelasting;
 
-- -. de loonbelasting;
+   - - de loonbelasting;
 
-- -. de vennootschapsbelasting;
+   - - de vennootschapsbelasting;
 
-- -. de dividendbelasting;
+   - - de dividendbelasting;
 
-- -. de vermogensbelasting;
+   - - de vermogensbelasting;
 
 - b. voor Marokko: (hierna te noemen: „Marokkaanse belasting”).
 
-- -. l'impôt agricole (de landbouwbelasting);
+   - - l'impôt agricole (de landbouwbelasting);
 
-- -. la taxe urbaine et les taxes y rattachées (de stedelijke belasting en de daarmede verband houdende belastingen);
+   - - la taxe urbaine et les taxes y rattachées (de stedelijke belasting en de daarmede verband houdende belastingen);
 
-- -. l'impôt sur les bénéfices professionnels et la réserve d'investissement (de belasting op voordelen uit vrij beroep en de investeringsreserve);
+   - - l'impôt sur les bénéfices professionnels et la réserve d'investissement (de belasting op voordelen uit vrij beroep en de investeringsreserve);
 
-- -. le prélèvement sur les traitements publics et privés, les indemnités et émoluments, les salaires, les pensions et les rentes viagères (de heffing op overheids- en niet-overheidssalarissen, schadeloosstellingen en vergoedingen, lonen, pensioenen en lijfrenten) ;
+   - - le prélèvement sur les traitements publics et privés, les indemnités et émoluments, les salaires, les pensions et les rentes viagères (de heffing op overheids- en niet-overheidssalarissen, schadeloosstellingen en vergoedingen, lonen, pensioenen en lijfrenten) ;
 
-- -. la contribution complémentaire sur le revenu global des personnes physiques (de aanvullende heffing op het totale inkomen van natuurlijke personen);
+   - - la contribution complémentaire sur le revenu global des personnes physiques (de aanvullende heffing op het totale inkomen van natuurlijke personen);
 
-- -. la taxe sur les produits des actions ou parts sociales et revenus assimilés (de belasting op de opbrengst van aandelen of van vennootschappelijke rechten en daarmede gelijkgestelde inkomsten) ;
+   - - la taxe sur les produits des actions ou parts sociales et revenus assimilés (de belasting op de opbrengst van aandelen of van vennootschappelijke rechten en daarmede gelijkgestelde inkomsten) ;
 
-- -. la taxe sur les produits de placements à revenu fixe (de belasting op de opbrengst van beleggingen met een vaste rentevoet);
+   - - la taxe sur les produits de placements à revenu fixe (de belasting op de opbrengst van beleggingen met een vaste rentevoet);
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen, die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
@@ -104,15 +79,15 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 - g. betekent de uitdrukking „onderdanen”:
 
-- 1. alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+   - 1. alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
 
-- 2. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
+   - 2. alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is;
 
 - h. betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Marokko: de Minister van Financiën of zijn gemachtigde.
+   - 2. in Marokko: de Minister van Financiën of zijn gemachtigde.
 
 2. Voor de toepassing van de Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van de Overeenkomst uitmaken.
 
@@ -266,7 +241,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 7. Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de schuldeiser of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de schuldeiser zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van de betaalde bedragen belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.
 
-##### Artikel 13. Beperking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10)
+##### Artikel 13. Beperking van de artikelen 10, 11 en 12
 
 Internationale organisaties, hun organen en functionarissen, alsmede personen die deel uitmaken van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die zich op het grondgebied van een van de Staten bevinden, hebben in de andere Staat geen recht op de verminderingen of vrijstellingen van belasting voorzien in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10), met betrekking tot uit die andere Staat afkomstige dividenden, interest en royalty's, indien die inkomsten in de eerstbedoelde Staat niet aan een belasting naar het inkomen zijn onderworpen.
 
@@ -362,25 +337,25 @@ Bestanddelen van het inkomen van een inwoner van een van de Staten, waarop de vo
 
 ##### Artikel 24
 
-- 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of van het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Marokko mogen worden belast.
+A. - 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of van het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Marokko mogen worden belast.
 
 - 2. Onder voorbehoud van de toepassing van de bepalingen betreffende de verliescompensatie in de eigen voorschriften tot het vermijden van dubbele belasting, verleent Nederland een vermindering op het overeenkomstig het eerste lid berekende belastingbedrag tot een bedrag dat gelijk is aan dat gedeelte van dat belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de bestanddelen van het inkomen of van het vermogen die in de in het eerste lid bedoelde grondslag zijn begrepen en die volgens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=6&z=1987-06-10&g=1987-06-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=7&z=1987-06-10&g=1987-06-10), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=14&z=1987-06-10&g=1987-06-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=15&z=1987-06-10&g=1987-06-10), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=16&z=1987-06-10&g=1987-06-10), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=17&z=1987-06-10&g=1987-06-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=18&z=1987-06-10&g=1987-06-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=20&z=1987-06-10&g=1987-06-10) en [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=IV&artikel=23&z=1987-06-10&g=1987-06-10), van deze Overeenkomst in Marokko mogen worden belast, staat tot het bedrag van het inkomen of het vermogen dat de in het eerste lid bedoelde grondslag vormt.
 
 - 3. Voor de bestanddelen van het inkomen die volgens de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10), en [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=16&z=1987-06-10&g=1987-06-10), in Marokko mogen worden belast en die in de in het eerste lid bedoelde grondslag zijn begrepen, verleent Nederland op de aldus berekende belasting een vermindering ter grootte van het laagste van de volgende bedragen:
 
-- a. het bedrag dat gelijk is aan de in Marokko geheven belasting;
+   - a. het bedrag dat gelijk is aan de in Marokko geheven belasting;
 
-- b. het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid berekende bedrag van de Nederlandse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid bedoelde grondslag vormt.
+   - b. het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid berekende bedrag van de Nederlandse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid bedoelde grondslag vormt.
 
-- 1. Marokko is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Nederland mogen worden belast.
+B. - 1. Marokko is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Nederland mogen worden belast.
 
 - 2. Onder voorbehoud van de toepassing van de bepalingen betreffende de verliescompensatie in de eigen voorschriften tot het vermijden van dubbele belasting/verleent Marokko een vermindering op het overeenkomstig het eerste lid berekende belastingbedrag tot een bedrag dat gelijk is aan dat gedeelte van dat belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de bestanddelen van het inkomen of van het vermogen die in de in het eerste lid bedoelde grondslag zijn begrepen en die volgens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=6&z=1987-06-10&g=1987-06-10), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=7&z=1987-06-10&g=1987-06-10), [10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=14&z=1987-06-10&g=1987-06-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=15&z=1987-06-10&g=1987-06-10), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=16&z=1987-06-10&g=1987-06-10), [17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=17&z=1987-06-10&g=1987-06-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=18&z=1987-06-10&g=1987-06-10), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=20&z=1987-06-10&g=1987-06-10) en [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=IV&artikel=23&z=1987-06-10&g=1987-06-10), van deze Overeenkomst in Nederland mogen worden belast, staat tot het bedrag van het inkomen of het vermogen dat de in het eerste lid bedoelde grondslag vormt.
 
 - 3. Voor de bestanddelen van het inkomen die volgens de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10), en [16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=16&z=1987-06-10&g=1987-06-10), in Nederland mogen worden belast en die in de in het eerste lid bedoelde grondslag zijn begrepen, verleent Marokko op de aldus berekende belasting een vermindering ter grootte van het laagste van de volgende bedragen:
 
-- a. het bedrag dat gelijk is aan de in Nederland geheven belasting;
+   - a. het bedrag dat gelijk is aan de in Nederland geheven belasting;
 
-- b. het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid berekende bedrag van de Marokkaanse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid bedoelde grondslag vormt.
+   - b. het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid berekende bedrag van de Marokkaanse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid bedoelde grondslag vormt.
 
 C. Indien voordelen die volgens [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=14&z=1987-06-10&g=1987-06-10), in een van de Staten mogen worden belast, toekomen aan een inwoner van de andere Staat, verleent de eerstbedoelde Staat een vermindering op zijn belasting over deze voordelen tot een bedrag dat gelijk is aan de belasting die in de andere Staat over die voordelen is geheven.
 
@@ -449,28 +424,6 @@ Deze Overeenkomst blijft voor onbepaalde tijd van kracht, maar elk van de Staten
 - 1. wat de bij de bron verschuldigde belastingen betreft: op inkomsten die uiterlijk op 31 december van het jaar van opzegging zijn toegekend of betaalbaar gesteld;
 
 - 2. wat de andere belastingen betreft: voor belastingjaren en -tijdvakken die uiterlijk op 31 december van het jaar van opzegging eindigen.
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Marokko gesloten, zijn de ondergetekenden overeengekomen, dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-##### I. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=II&artikel=4&z=1987-06-10&g=1987-06-10)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.
-
-##### II. Ad [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=7&z=1987-06-10&g=1987-06-10)
-
-Interest, royalty's en andere kosten die door een onderneming van een van de Staten aan een onderneming van de andere Staat verschuldigd zijn, worden in aftrek toegelaten bij de berekening van de winst van de eerstbedoelde onderneming. Indien echter ten gevolge van een bijzondere verhouding tussen beide ondernemingen of tussen beide ondernemingen en een derde het bedrag van de verschuldigde interest, royalty's en andere kosten hoger is dan het bedrag dat zij zonder zulk een verhouding zouden zijn overeengekomen is de voorgaande zin niet van toepassing op het daarboven uitgaande bedrag.
-
-##### III. Ad [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10)
-
-Verzoeken om teruggaaf van belasting die in strijd met de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=10&z=1987-06-10&g=1987-06-10), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=11&z=1987-06-10&g=1987-06-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=III&artikel=12&z=1987-06-10&g=1987-06-10) is geheven, moeten bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### IV. Ad [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=V&artikel=24&z=1987-06-10&g=1987-06-10)
-
-Het is wel te verstaan dat, wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=V&artikel=24&z=1987-06-10&g=1987-06-10), is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting, onderscheidenlijk de vennootschapsbelasting.
-
-##### V. Ad [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0003326&hoofdstuk=VI&artikel=27&z=1987-06-10&g=1987-06-10)
-
-De verplichting tot het uitwisselen van inlichtingen strekt zich niet uit tot inlichtingen die verkregen zijn van banken of van daarmede gelijkgestelde instellingen als zodanig. De uitdrukking „daarmede gelijkgestelde instellingen” omvat onder andere verzekeringsmaatschappijen.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

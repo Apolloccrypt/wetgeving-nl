@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek China"
 identifier: "BWBV0003389"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-10-01"
-last_updated: "1984-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003389"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003509643"
-version_id: "10003556872"
-internal_id: "C10006979961"
-label_id: "10003495034"
-dtd_version: "2.0"
-original_entry_into_force: "1984-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003389/1984-10-01/0"
-intitule_bron: "Trb.1981-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1981-01-19"
-intitule_in_force: "1984-08-31"
-intitule_status: "goed"
-original_publication: "Trb.1981-12"
-original_published_date: "1981-01-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1981-12"
-entry_into_force_date: "1984-10-01"
-jci_1_3: "jci1.3:c:BWBV0003389&z=1984-10-01&g=1984-10-01"
-jci_1_0: "1.0:c:BWBV0003389&g=1984-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1984-10-01"
+publicatiedatum: 1984-10-01
+laatste_update: 1984-10-01
+status: geldig
+toestand: 1984-10-01
+bron: "https://wetten.overheid.nl/BWBV0003389"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek China
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China,
-
-Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide volken verder te verstevigen en de ontwikkeling van de economische en technologische samenwerking tussen de beide landen op basis van gelijkheid en wederzijds voordeel te bevorderen,
-
-Kennis nemend van de Handelsovereenkomst tussen de Europese Economische Gemeenschap en de Volksrepubliek China,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China, Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide volken verder te verstevigen en de ontwikkeling van de economische en technologische samenwerking tussen de beide landen op basis van gelijkheid en wederzijds voordeel te bevorderen, Kennis nemend van de Handelsovereenkomst tussen de Europese Economische Gemeenschap en de Volksrepubliek China, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -60,13 +35,13 @@ De Overeenkomstsluitende Partijen moedigen belanghebbende maatschappijen, organi
 
 De Overeenkomstsluitende Partijen komen overeen dat de samenwerking in de in artikel 3 van deze Overeenkomst aangegeven sectoren zal bestaan uit samenwerking tussen de belanghebbende maatschappijen, organisaties en organen in hun onderscheiden landen inzake onder meer de volgende aangelegenheden:
 
-- 1). de bestudering, voorbereiding en uitvoering van projecten die betrekking hebben op deze sectoren of op andere gebieden van gemeenschappelijke economische activiteit;
+- 1) de bestudering, voorbereiding en uitvoering van projecten die betrekking hebben op deze sectoren of op andere gebieden van gemeenschappelijke economische activiteit;
 
-- 2). de vervaardiging van goederen en uitrusting;
+- 2) de vervaardiging van goederen en uitrusting;
 
-- 3). gezamenlijke activiteiten die leiden tot nieuwe ondernemingen waarin wordt samengewerkt en waarin maatschappijen, organisaties en organen in beide Staten deelnemen, voor zover de desbetreffende wetten en voorschriften zodanige gezamenlijke activiteiten toestaan en deze in het belang zijn van beide Staten;
+- 3) gezamenlijke activiteiten die leiden tot nieuwe ondernemingen waarin wordt samengewerkt en waarin maatschappijen, organisaties en organen in beide Staten deelnemen, voor zover de desbetreffende wetten en voorschriften zodanige gezamenlijke activiteiten toestaan en deze in het belang zijn van beide Staten;
 
-- 4). de afzet van produkten.
+- 4) de afzet van produkten.
 
 ##### Artikel 5
 
@@ -74,15 +49,15 @@ De Overeenkomstsluitende Partijen zijn zich bewust van het belang van nauwe same
 
 Zij stellen vast dat zodanige samenwerking in het bijzonder zal zijn gediend door:
 
-- 1). de uitwisseling van technische kennis en technische documentatie;
+- 1) de uitwisseling van technische kennis en technische documentatie;
 
-- 2). de uitwerking van programma's op het gebied van toegepast wetenschappelijk onderzoek;
+- 2) de uitwerking van programma's op het gebied van toegepast wetenschappelijk onderzoek;
 
-- 3). het organiseren van beraadslagingen, bijeenkomsten en symposia inzake aangelegenheden die van wederzijds belang zijn voor de deskundigen van de beide landen;
+- 3) het organiseren van beraadslagingen, bijeenkomsten en symposia inzake aangelegenheden die van wederzijds belang zijn voor de deskundigen van de beide landen;
 
-- 4). de uitwisseling van bezoeken en studiereizen van gespecialiseerde delegaties, onderzoekspersoneel, specialisten en technici;
+- 4) de uitwisseling van bezoeken en studiereizen van gespecialiseerde delegaties, onderzoekspersoneel, specialisten en technici;
 
-- 5). de uitwisseling van stagiairs en bezoeken van deskundigen.
+- 5) de uitwisseling van stagiairs en bezoeken van deskundigen.
 
 ##### Artikel 6
 
@@ -98,9 +73,9 @@ De Overeenkomstsluitende Partijen komen overeen dat ter vergemakkelijking van de
 
 De Commissie:
 
-- (i). bespreekt alle zaken die betrekking hebben op de uitvoering van deze Overeenkomst en doet daarover aanbevelingen;
+- (i) bespreekt alle zaken die betrekking hebben op de uitvoering van deze Overeenkomst en doet daarover aanbevelingen;
 
-- (ii). onderzoekt en omschrijft andere sectoren waarbinnen naar haar oordeel de samenwerking tussen de beide landen zou kunnen worden uitgebreid en doet daarover aanbevelingen.
+- (ii) onderzoekt en omschrijft andere sectoren waarbinnen naar haar oordeel de samenwerking tussen de beide landen zou kunnen worden uitgebreid en doet daarover aanbevelingen.
 
 De Commissie kan eventueel gespecialiseerde werkgroepen instellen ter behandeling van de samenwerking binnen bepaalde sectoren. De werkgroepen brengen verslag uit aan de Commissie.
 
@@ -118,10 +93,10 @@ De bijeenkomsten van de Commissie worden beurtelings gehouden in 's-Gravenhage e
 
 GEDAAN in tweevoud te Peking op 30 oktober 1980 in de Nederlandse, de Chinese en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) C. A. VAN DER KLAAUW
 
-**Voor de Regering van de Volksrepubliek China**
+*Voor de Regering van de Volksrepubliek China*
 
 (w.g.) HUANG HUA

@@ -1,219 +1,168 @@
 ---
 title: "Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de tenuitvoerlegging van een programma betreffende luchtverkeerssatellieten"
 identifier: "BWBV0003676"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-12-09"
-last_updated: "1971-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003676"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003644513"
-version_id: "10003704582"
-internal_id: "C10006983761"
-label_id: "10003629774"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003676/1971-12-09/0"
-intitule_bron: "Trb.1975-26"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-03-04"
-intitule_status: "nogniet"
-original_publication: "Trb.1975-26"
-original_published_date: "1975-03-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-26"
-jci_1_3: "jci1.3:c:BWBV0003676&z=1971-12-09&g=1971-12-09"
-jci_1_0: "1.0:c:BWBV0003676&g=1971-12-09"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-03-04"
+laatste_update: 1971-12-09
+status: geldig
+toestand: 1971-12-09
+bron: "https://wetten.overheid.nl/BWBV0003676"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de tenuitvoerlegging van een programma betreffende luchtverkeerssatellieten
 
-De Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat
+*The Governments of the Federal Republic of Germany, the Kingdom of Belgium, Spain, the French Republic, the Italian Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, the Kingdom of Sweden and the Swiss Confederation (hereinafter referred to as 'the Participants') and the European Space Research Organisation (hereinafter referred to as 'the Organisation'), Considering that aeronautical traffic growth with an attendant need for improved air traffic services, in particular air-ground communications, is expected to require an operational aeronautical satellite capability in the Atlantic and Pacific Ocean areas by 1980 and that to meet the desired objective a preoperational capability is required as soon as possible, and in any event not later than the beginning of 1975; Having considered the proposed Memorandum of Understanding between the Organisation, the Federal Aviation Agency (FAA) of the United States Department of Transportation, the Commonwealth of Australia, Canada and Japan (hereinafter referred to as 'the Memorandum of Understanding'); Taking into account also the Resolution of the European Space Conference, held in Brussels in July 1970, with regard to an aeronautical programme; Having regard to the Declaration made by the representatives on the Council of the Organisation of the Governments referred to above, dated 9 December 1971 1)[Red: De definitieve teksten van Verklaring en Resolutie zijn gedateerd 20 december 1971.]; Having regard to the Resolution of 9 December 1971 1)[Red: De definitieve teksten van Verklaring en Resolutie zijn gedateerd 20 december 1971.]of the Council of the Organisation concerning the acceptance of the request for the Organisation's assistance in order to have the Integrated Programme executed within the framework of the Organisation; Considering the need to define, on the one hand, the rights and obligations that exist among the Participants, and, on the other hand, those existing between the Participants and the Organisation; Have agreed as follows:*
 
-en
+##### Article 1
 
-de Europese Organisatie voor ruimteonderzoek (hierna te noemen „de Organisatie”),
+1. The Participants shall, in cooperation with states that are not members of the Organisation, embark on a programme aiming at the design, development, setting up and operation of a preoperational system for air traffic control by means of satellites, in order to make a significant contribution to the establishment of such a system serving the Atlantic Ocean and the Pacific Ocean, and to acquire the necessary experience for the setting up of an operational system.
 
-Overwegende dat er reden is aan te nemen dat de groei van het luchtverkeer, die gepaard gaat met een behoefte aan betere diensten van het luchtverkeer, in het bijzonder op het terrein van lucht-grondverbindingen, tegen het midden der tachtiger jaren boven de veschillende oceaanzones en met name boven de Atlantische Oceaan en de Stille Zuidzee een operationeel potentieel van luchtverkeerssatellieten gaat vereisen, alsmede dat ten einde aan het gewenste doel te beantwoorden op zo kort mogelijke termijn een preoperationeel potentieel tot stand gebracht dient te zijn;
+2. The Organisation will, under the terms of Article VIII of the Convention, make available its assistance and the use of its facilities for the execution of the programme referred to in paragraph 1 of this Article.
 
-Overwegende dat over het scheppen van deze capaciteit besprekingen zijn gevoerd tussen vertegenwoordigers van de Deelnemers, van de Regering van de Verenigde Staten, van de Regering van Canada, van de Regering van Australië en van de Regering van Japan;
+##### Article 2
 
-Overwegende het Memorandum van Overeenstemming inzake een gezamenlijk programma van proefneming en evaluatie met luchtverkeerssatellieten, tussen het Federale Luchtvaartagentschap van het Ministerie van Vervoer van de Verenigde Staten, waarbij de Organisatie optreedt namens haar Deelnemende Lid-Staten en de Regering van Canada;
+1. The preoperational programme mentioned in Article 1, paragraph 1 (hereinafter referred to as 'the Joint Aerosat Programme'), shall consist of an Integrated Programme and a Coordinated Programme, which are defined and described in Annex A to this Arrangement.
 
-Overwegende dat de Organisatie, optredend namens haar Deelnemende Lid-Staten, de Regering van Canada en een Amerikaanse maatschappij, gezamenlijk bij contract de satellietcapaciteit zullen opzetten;
+2. The prime objective of the Joint Aerosat Programme is to supply a preoperational air traffic control service to all users concerned. Provided the requirements of this objective are met, the capacity of the Joint Aerosat Programme may be used for experimental purposes outside this prime objective.
 
-Rekening houdend met de Resolutie van de Europese Ruimte Conferentie, gehouden te Brussel in juli 1970, inzake een luchtverkeersprogramma;
+##### Article 3
 
-Gelet op de Verklaring van de vertegenwoordigers van de bovengenoemde Regeringen in de Raad van de Organisatie op 9 december 1971;
+1. The Participants shall set up a Programme Board, composed of their representatives, which shall be responsible for all European matters of the Joint Aerosat programme and shall take all decisions relating to these matters.
 
-Gelet op de Resolutie van de Raad van de Organisatie van 9 december 1971 betreffende de aanvaarding van het verzoek om bijstand van de Organisatie erop gericht het mogelijk te maken dat het Geïntegreerde Programma binnen het kader van de Organisatie wordt uitgevoerd;
+2. For matters affecting several programmes of the Organisation, this Programme Board shall be advisory to the Council of the Organisation, to which it will, on such matters, make all necessary recommendations to enable the Council of the Organisation to resolve possible conflicts and to take a decision by a two-thirds majority of the Member States.
 
-Overwegende de behoefte enerzijds de rechten en plichten die tussen Staten die Partij zijn bij deze Overeenkomst (hierna te noemen „de Deelnemers”) onderling bestaan, en anderzijds de rechten en plichten die bestaan tussen de Deelnemers en de Organisatie, te omschrijven;
+3. The Programme Board's tasks shall be, in particular:
 
-Met voldoening nota nemend van het voorstel tot instelling van een Conferentie van de directeuren van luchtverkeersbeveiliging van de Deelnemers;
+- (a) to define joint positions and to establish any necessary instructions for the European Delegation on the Aerosat Council, established in conformity with the proposed Memorandum of Understanding;
 
-Zijn overeengekomen als volgt:
+- (b) to determine how the Participants shall be represented on the Aerosat Council,
 
-##### Artikel 1
+- (c) to establish close links with the European Aeronautical Authorities and to assist in harmonising and coordinating their participation in the Coordinated Programme,
 
-1. De Deelnemers nemen, in samenwerking met Regeringen en instellingen van Staten die geen lid zijn van de Organisatie en maatschappijen van deze Staten, een programma ter hand dat het ontwerp, de ontwikkeling, de totstandkoming en de exploitatie beoogt van een stelsel van luchtverkeerssatellieten bestemd voor proefneming en evaluatie, ten einde een belangrijke bijdrage te leveren aan de totstandkoming van een zodanig stelsel voor verschillende zones en met name de Atlantische Oceaan en de Stille Zuidzee, en de voor de totstandbrenging van een operationeel stelsel benodigde ervaring te verwerven.
+- (d) to give such directives as are necessary to the Director General of the Organisation regarding the execution of the European undertakings in the Integrated Programme,
 
-2. Krachtens artikel VIII van het Verdrag verleent de Organisatie hulp en stelt zij haar installaties beschikbaar bij de uitvoering van het in het eerste lid van dit artikel bedoelde programma.
+- (e) to vote the annual Programme budget,
 
-##### Artikel 2
+- (f) to monitor the application of the Memorandum of Understanding as far as the rights and obligations of the European Participants are concerned,
 
-1. Het in het eerste lid van artikel 1 bedoelde programma voor proefneming en evaluatie (hierna te noemen „het Gezamenlijke evaluatieprogramma voor Aerosat”) bestaat uit een satellietcapaciteit en een Gecoördineerd Programma zoals gedefinieerd en beschreven in Bijlage A bij deze Overeenkomst.
+- (g) to express an opinion on any request presented by a Participant for use of the capacity of the Aeronautical Satellite system, as mentioned in Article 2.2, for submission to the Aerosat Council,
 
-2. Het hoofddoel van het Gezamenlijke evaluatieprogramma voor Aerosat is te voorzien in de ontwikkeling en het gebruik van een stelsel van luchtverkeerssatellieten voor proefneming en evaluatie. Mits aan deze doeleinden wordt voldaan, kan het Gezamenlijke evaluatieprogramma voor Aerosat, behalve voor dit hoofddoel, worden gebruikt voor experimentele doeleinden.
+- (h) in conformity with the rules of the Organisation, to advise the Director General on the filling of posts for the Joint Programme Office, in particular to ensure that the aeronautical aspects of the programme are given appropriate weight.
 
-3. De satellietcapaciteit wordt tot stand gebracht krachtens contracten tussen de Organisatie, optredend namens haar Deelnemende Lid-Staten, Canada en een maatschappij uit de Verenigde Staten, waardoor de Organisatie, Canada en een maatschappij uit de Verenigde Staten mede-eigenaar worden van deze capaciteit. De satellietcapaciteit wordt ter beschikking gesteld aan het Gezamenlijke evaluatieprogramma voor Aerosat.
+##### Article 4
 
-##### Artikel 3
+Decisions of the Programme Board shall be taken in accordance with the Rules of Procedure of the Council, which shall apply *mutatis mutandis* unless otherwise specified in this Arrangement.
 
-1. De Deelnemers stellen een Programmaraad in die zal bestaan uit hun vertegenwoordigers en die verantwoordelijk is voor alle Europese aangelegenheden van het Gezamenlijke evaluatieprogramma voor Aerosat en alle beslissingen betreffende deze aangelegenheden neemt, onder voorbehoud van de bijzondere bepalingen met betrekking tot het gecoördineerde programma.
+##### Article 5
 
-2. In aangelegenheden die meerdere programma's van de Organisatie betreffen, adviseert deze Programmaraad de Raad van de Organisatie, waaraan hij alle noodzakelijke aanbevelingen doet om de Raad van de Organisatie in staat te stellen mogelijke conflicten op te lossen en met een meerderheid van twee derde van de Lid-Staten een beslissing te nemen.
+1. The Integrated Programme shall be carried out under the responsibility of the Director General of the Organisation, in accordance with the provisions of this Arrangement.
 
-3. De taken van de Programmaraad zijn met name:
+2. Unless otherwise specified in this Arrangement, the Organisation shall execute this programme in conformity with the rules and procedures in force in the Organisation.
 
-- (a). de vertegenwoordiging van de Deelnemers te bepalen in de overeenkomstig het Memorandum van Overeenstemming ingestelde Aerosat-Raad en de door de Directeur voorgestelde vertegenwoordiging van zijn personeelsleden goed te keuren in de overeenkomstig de contractuele regelingen ingestelde Space Segment Board;
+3. In particular, the Director General of the Organisation shall:
 
-- (b). gemeenschappelijke standpunten te bepalen en alle noodzakelijke instructies op te stellen voor de Europese Delegatie naar de Aerosat-Raad, alsmede voor de delegatie naar de Space Segment Board;
+- (a) make available the necessary staff for participation in the work of the Aerosat Joint Programme Office referred to in Article 6 of the Memorandum of Understanding;
 
-- (c). met de in artikel 4 genoemde Conferentie en zonodig met de Europese burgerluchtvaartorganisaties, de banden tot stand te brengen die nodig zijn voor de uitvoering van het gecoördineerde programma;
+- (b) assure, on behalf of the Participants, the placing and technical and administrative management of contracts and sub-contracts, in conformity with the rules and procedures of the Organisation; however, preference shall be given, wherever possible, to the execution of work in the territories of the Participants, with due consideration to the recommendations of the Council of the Organisation in the field of industrial policy and distribution of work.
 
-- (d). aan de Directeur-Generaal van de Organisatie de nodige richtlijnen te verstrekken betreffende de uitvoering van de Europese projecten in de satellietcapaciteit;
+##### Article 6
 
-- (e). de jaarlijkse begroting van het Programma vast te stellen;
+1. The expenditure resulting from the execution of the Integrated Programme by the Organisation under this Arrangement shall be met by the Participants, in accordance with the detailed provisions set out in Annex B to this Arrangement.
 
-- (f). te waken voor de toepassing van het Memorandum van Overeenstemming en van de overeenkomsten wat de rechten en plichten van de Europese Deelnemers betreft;
+2. The Participants shall contribute to the financing of the said programme in accordance with the principles and the scale laid down in Annex B to this Arrangement and within the limits of a total financial envelope of 100 MAU, covering the amounts mentioned in (a) and (b) of paragraph 1 of Annex B.
 
-- (g). zich uit te spreken over elk door een Deelnemer gedaan verzoek inzake het gebruik van de capaciteit van het stelsel van luchtverkeerssatellieten, zoals bedoeld in het tweede lid van artikel 2, welke uitspraak aan de Aerosat-Raad wordt voorgelegd;
+3. The Programme Board shall approve the annual budgets of the Integrated Programme by a two-thirds majority.
 
-- (h). overeenkomstig het reglement van de Organisatie, de Directeur-Generaal van advies te dienen inzake het vervullen van vacatures bij het Coördinatiebureau voor Aerosat ten einde met name te verzekeren dat met de het luchtverkeer betreffende aspecten van het Programma voldoende rekening wordt gehouden; tevoren alle informatie te ontvangen omtrent de vervulling van vacatures bij het Space Segment Programme Office;
+##### Article 7
 
-- (i). toe te zien op de samenhang tussen enerzijds de maatregelen die worden uitgevoerd naar aanleiding van bijeenkomsten van de in artikel 4 genoemde Conferentie, en anderzijds de ontwikkeling van het programma als geheel.
+Subject to the provisions of the Memorandum of Understanding
 
-##### Artikel 4
+- (a) Intellectual property rights arising from the execution of the Integrated Programme, as well as access to technical information so arising, shall be reserved to the Participants, but the Organisation shall have the right to make use of them free of charge for its activities as a whole;
 
-Het gecoördineerde programma wordt gemeenschappelijk vastgesteld door de Organisatie en een Conferentie, die is samengesteld uit de directeuren van luchtverkeersbeveiligingsdiensten van de Deelnemers. De onderscheiden verdeling van de bevoegdheden en de verantwoordelijkheden tussen de Programmaraad en genoemde Conferentie wordt bepaald in een protocol dat wordt opgesteld tussen de Organisatie en deze Conferentie.
+- (b) The publication of, and access to, scientific information arising from the execution of the Integrated Programme shall be governed by the relevant rules of the Organisation.
 
-##### Artikel 5
+##### Article 8
 
-De besluiten van de Programmaraad worden genomen overeenkomstig het Reglement van orde van de Raad, dat **mutatis mutandis** van toepassing is, tenzij in deze Overeenkomst anders is bepaald.
+The Organisation shall make all necessary contractual arrangements in order to become, on behalf of the Participants, co-owner of the satellites developed under the Integrated Programme, as well as of facilities and equipments acquired for its execution, up to and including the preoperational phase. Any transfer of facilities or equipments belonging to the Organisation after the end of the Joint Aerosat Programme shall be decided by the Participants in consultation with the Council of the Organisation.
 
-Onder voorbehoud van wederkerigheid wordt een door de in artikel 4 genoemde Conferentie aangewezen vertegenwoordiger uitgenodigd als waarnemer bij de vergaderingen van de Programmaraad en brengt deze aan de Programmaraad verslag uit over de door de Conferentie tot uitdrukking gebrachte standpunten.
+##### Article 9
 
-##### Artikel 6
+1. The Participants agree, for the purpose of any revision of the total financial envelope specified in Article 6 in the event of changes in price level, to apply the procedure in force in the Organisation at that time.
 
-1. De satellietcapaciteit wordt uitgevoerd onder verantwoordelijkheid van de Directeur-Generaal van de Organisatie, overeenkomstig de bepalingen van deze Overeenkomst.
+2. If the sum specified in Article 6.2 has to be revised for reasons other than a change in price levels, the Programme Board shall decide on the additional expenditure of the Organisation by a two-thirds majority of the Participants, provided that the cumulative total cost does not exceed the 155 million U.S. dollars mentioned in Article 13 of the Memorandum of Understanding.
 
-2. Het gecoördineerde programma wordt gezamenlijk uitgevoerd door de Organisatie en de burgerluchtvaartautoriteiten, overeenkomstig het in artikel 4 vermelde protocol. De Organisatie ziet erop toe dat de uitvoering van het Europese deel van het gecoördineerde Programma geschiedt overeenkomstig het bepaalde in deze Overeenkomst en in het Memorandum van Overeenstemming.
+3. If such a total cumulative cost exceeds the $ US 155 million mentioned in Article 13 of the Memorandum of Understanding, those Participants who, nevertheless, wish to continue the execution of the Integrated Programme shall consult among themselves and determine the arrangements for its continuation. They shall inform accordingly the Council of the Organisation, which will take any necessary decisions. The other Participants shall withdraw from the programme subject to the provisions of Article 15.
 
-3. Tenzij in deze Overeenkomst anders is bepaald, voert de Organisatie dit Programma uit conform de in de Organisatie van kracht zijnde regels en procedures. Voor de functies die verband houden met het gecoördineerde programma die zijn toevertrouwd aan de Organisatie, gelden de in deze Overeenkomst genoemde regels, onder voorbehoud van eventueel door de Programmaraad vast te stellen bepalingen.
+##### Article 10
 
-4. In het bijzonder zorgt de Directeur-Generaal van de Organisatie:
+1. The Participants shall indemnify the Organisation in respect of any liability it may incur should its international responsibility be involved as a result of the execution of the Integrated Programme.
 
-- (a). voor het ter beschikking stellen van het benodigde personeel voor de vervulling van de werkzaamheden van het „Space Segment Programme Office”;
+2. Any compensation for damage received by the Organisation with respect to this programme shall be credited to the annual budgets of the Integrated Programme.
 
-- (b). ten behoeve van de Deelnemers, voor het sluiten van contracten en subcontracten en het technische en administratieve beheer daarvan, een en ander conform de regels en procedures van de Organisatie; waar mogelijk dient echter de voorkeur te worden gegeven aan het uitvoeren van de werkzaamheden op de grondgebieden van de Deelnemers, waarbij de nodige aandacht wordt geschonken aan de aanbevelingen van de Raad van de Organisatie ten aanzien van industrieel beleid en werkverdeling;
+##### Article 11
 
-- (c). dat rekening wordt gehouden met de standpunten van de in artikel 4 genoemde Conferentie in het kader van de opstelling van de jaarlijkse begroting voor het gecoördineerde programma.
+The arrangements for the execution and operation of the Coordinated Programme shall be examined by the Programme Board in liaison with the Aeronautical Authorities of the Participants in the said programme. Should functions with respect to the Coordinated Programme be entrusted to the Organisation, the rules mentioned in this Arrangement would be applicable, subject to any special provisions that may be laid down by the Programme Board.
 
-##### Artikel 7
+##### Article 12
 
-1. De kosten die voortvloeien uit de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat worden gedragen door de Deelnemers, binnen de grenzen van een totale financiële enveloppe ten belope van 101 miljoen rekeneenheden, op het prijspeil van medio 1974, waarin begrepen:
+The Participants have noted the provisions of the proposed Memorandum of Understanding and their rights and obligations arising therefrom, and they agree to the Council of the Organisation authorising the Director General to sign it.
 
-- (a). een financiële enveloppe van 76 miljoen rekeneenheden, op het prijspeil van medio 1974, wat betreft de satellietcapaciteit;
+##### Article 13
 
-- (b). een financiële enveloppe van 25 miljoen rekeneenheden, op het prijspeil van medio 1974, wat betreft het gecoördineerde programma.
+1. Any dispute which arises between two or more of the Participants, or between any of them and the Organisation, concerning the interpretation or application of this Arrangement, and which cannot be settled amicably, shall be submitted, at the request of any party to the dispute, to a single arbitrator appointed by the President of the International Court of Justice. The arbitrator may not be a national of a State which is a party to the dispute.
 
-2. De Deelnemers dragen bij aan de financiering van de satellietcapaciteit van het gecoördineerde programma, volgens de in bijlage B vastgestelde schaal.
+2. Those parties to the Arrangement which are not parties to the dispute shall have the right to join in the proceedings and the arbitrator's decision shall be binding on all the Participants and the Organisation, whether or not they have joined in the proceedings.
 
-3. De Programmaraad keurt de jaarlijkse begroting van het Gezamenlijke evaluatieprogramma voor Aerosat goed met een meerderheid van twee derde van het aantal stemmen.
+##### Article 14
 
-##### Artikel 8
+1. This Arrangement shall be open for signature by the Participants until 31 December 1971.
 
-Onder voorbehoud van het bepaalde in de in artikel 2, derde lid, bedoelde contracten,
+2. They shall become parties to this Arrangement:
 
-- (a). zijn de rechten van de intellectuele eigendom en de toegang tot technische gegevens die voortvloeien uit de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat aan de Deelnemers voorbehouden, doch de Organisatie heeft het recht hiervan kosteloos gebruik te maken ten behoeve van al haar activiteiten;
+- - upon signature not subject to ratification or approval;
 
-- (b). worden de publikatie van en de toegang tot wetenschappelijke gegevens die voortvloeien uit de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat beheerst door de desbetreffende regels van de Organisatie.
+- - upon depositing an instrument of ratification or approval with the Government of France, if the Arrangement was signed subject to ratification or approval.
 
-##### Artikel 9
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the aggregate contributions payable - on the basis of the scale set out in Annex B - by the States that have become parties to the Arrangement in accordance with the terms of paragraph 2 of this Article amount to two-thirds of the total contributions payable.
 
-De Organisatie treft alle noodzakelijke contractuele regelingen ten einde namens de Deelnemers mede-eigenares te worden van de satellieten die binnen het kader van de satellietcapaciteit worden ontwikkeld, alsmede van de installaties en uitrustingen die voor de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat zijn aangeschaft door de Organisatie tot en met inbegrip van de preoperationele fase. Over iedere overdracht van installaties of uitrusting die aan de Organisatie behoren na afloop van het Gezamenlijke evaluatieprogramma voor Aerosat beslissen de Deelnemers in overleg met de Raad van de Organisatie.
+4. For the purposes of paragraph 3 of this Article, the deposit of a declaration of intention to apply the Arrangement provisionally and to seek ratification or approval as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
 
-##### Artikel 10
+5. The Government of any Member State of the Organisation which has not signed the Arrangement by 31 December 1971 may become party to it as soon as it comes into force provided that:
 
-1. Ten einde de mogelijkheid te scheppen de in artikel 7, eerste lid, letters (a) en (b) bedoelde financiële enveloppes te herzien, komen de Deelnemers overeen om, in geval van wijzigingen in het prijspeil, de in de Organisatie van kracht zijnde procedure toe te passen.
+- (a) the other Governments party to the Arrangement agree;
 
-2. Indien de in artikel 7, eerste lid, letter (b) en in bijlage B, eerste paragraaf, letter (b) genoemde bedragen dienen te worden herzien om andere redenen dan wijzigingen in het prijspeil, zijn de volgende bepalingen van toepassing:
+- (b) the Government in question deposits an instrument of accession with the Government of France.
 
-- (a). voor zover de cumulatieve overschrijdingen van de kosten niet meer belopen dan 20 procent van één van die beide bedragen, kan geen enkele Deelnemer zich terugtrekken uit het programma en de Programmaraad stelt de extra-uitgaven vast, met een meerderheid van twee derde der stemmen van de Deelnemers;
+6. Unless the Programme Board unanimously decides otherwise, a Government that becomes a party to this Arrangement after its entry into force shall pay a contribution equal to that which it would have paid if it had been a party to the Arrangement at the moment of its entry into force, and this contribution shall be credited to the other parties in the programme budget pro rata to their contributions.
 
-- (b). indien de cumulatieve overschrijdingen meer belopen dan 20 procent van één der beide bedragen, zoals bedoeld in bijlage B, eerste paragraaf, letter (b), en in artikel 7, eerste lid, letter (b), waarbij de totale kosten van het Gezamenlijke evaluatieprogramma voor Aerosat blijven binnen het bedrag van honderdnegentien miljoen rekeneenheden, op het prijspeil van medio 1974, kan geen enkele Deelnemer zich terugtrekken uit het programma en besluit de Programmaraad, met een meerderheid van twee derde van de stemmen die ten minste twee derde der bijdragen vertegenwoordigen, op welke wijze gebruik wordt gemaakt van het gehele saldo of een gedeelte daarvan;
+7. The Government of a non-member State may present a request to the Council of the Organisation to accede to the programme; a Council decision to grant such a request shall require unanimity and must be taken in agreement with the Programme Board, which shall unanimously determine the terms of accession.
 
-- (c). indien de totale geraamde kosten van het Gezamenlijke evaluatieprogramma voor Aerosat meer bedragen dan honderdnegentien miljoen rekeneenheden, op het prijspeil van medio 1974, kunnen de Deelnemers die zulks wensen zich terugtrekken uit het Programma, onder voorbehoud van het bepaalde in artikel 16. Zij die de uitvoering van het Programma wensen voort te zetten plegen onderling overleg en bepalen de wijze van voortzetting. Zij stellen hiervan de Raad van de Organisatie op de hoogte, die zonodig alle noodzakelijke besluiten neemt.
+##### Article 15
 
-##### Artikel 11
+1. Any Participant who withdraws from the Integrated Programme under the provisions of Article 9.3 of this Arrangement shall remain bound to contribute to the expenditure under the commitments whose funding has already been agreed.
 
-1. De Deelnemers vrijwaren de Organisatie ter zake van elke aansprakelijkheid die op haar zou kunnen komen te rusten indien haar verantwoordelijkheid in internationaal verband in het geding zou komen ten gevolge van de uitvoering van het Gezamenlijke evaluatieprogramma voor Aerosat.
+2. Such withdrawal shall take effect on the date when the Participant concerned ceases to contribute to the expenditure commitments relating to the programme and decided by the Programme Board.
 
-2. Elke vergoeding voor geleden schade die de Organisatie ontvangt vanwege dit Programma wordt in de jaarlijkse begroting van het Gezamenlijke evaluatieprogramma voor Aerosat gecrediteerd.
+3. A withdrawing Participant shall enjoy the rights vested in the Participants up to the effective date of his withdrawal. Thereafter, no further right or obligation shall arise from the part of the programme in which he no longer participates.
 
-##### Artikel 12
+##### Article 16
 
-De Deelnemers trachten te verzekeren dat aan boord van lijnvliegtuigen elektronische boordapparatuur wordt geïnstalleerd, zulks op kosten van de Organisatie, volgens de in bijlage B, tweede paragraaf, letter (b), vermelde minimale verdeling, alsmede aan boord van ten minste één vliegtuig dat bestemd is voor onderzoek en ontwikkeling. Het programma voor ontwikkeling en fabricage van de elektronische boordapparatuur wordt met eenparigheid van stemmen vastgesteld; wordt geen eenparigheid bereikt, dan is iedere Deelnemer gemachtigd de met zijn deelname in dit programma overeenstemmende bedragen te gebruiken op de wijze die hem het meest passend lijkt.
+Annexes A and B to this Arrangement form an integral part thereof.
 
-##### Artikel 13
+##### Article 17
 
-De Deelnemers nemen goede nota van de bepalingen in het ontwerp van het Memorandum van Overeenstemming en de daaruit voor hen voortvloeiende rechten en plichten en zij gaan ermee akkoord dat de Raad van de Organisatie de Directeur-Generaal machtigt dit Memorandum te ondertekenen.
+1. Without prejudice to the relevant provisions of the Memorandum of Understanding this Arrangement may be amended at the request of one or more of the Participants. Similarly, the Organisation has the right to initiate amendments of provisions creating rights and obligations in its respect. Any amendments shall come into force when all parties have notified their approval to the depositary Government.
 
-##### Artikel 14
+2. Without prejudice to the relevant provisions of the Memorandum of Understanding the Annexes to the Arrangement may be revised by the Programme Board in accordance with the special provisions contained in the revision clauses of those Annexes.
 
-1. Elk geschil tussen twee of meer Deelnemers of tussen een Deelnemer en de Organisatie betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet in der minne kan worden geschikt, wordt op verzoek van een der partijen bij het geschil voorgelegd aan een enkele scheidsman die wordt benoemd door de President van het Internationale Gerechtshof. Deze scheidsman mag geen onderdaan zijn van een Staat die partij is bij het geschil.
+##### Article 18
 
-2. De partijen bij deze Overeenkomst die geen partijen zijn bij het geschil hebben het recht zich te voegen in het geding en de beslissing van de scheidsman is bindend voor alle Deelnemers en de Organisatie, ongeacht of zij al dan niet aan het geding hebben deelgenomen.
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with Article 102 of the United Nations Charter.
 
-##### Artikel 15
+##### Article 19
 
-1. Deze Overeenkomst staat tot 31 december 1971 open voor ondertekening door de Deelnemers.
-
-2. Staten worden partij bij deze Overeenkomst:
-
-- door ondertekening zonder voorbehoud van bekrachtiging of goedkeuring;
-
-- door nederlegging van een akte van bekrachtiging of goedkeuring bij de Regering van Frankrijk, indien deze Overeenkomst werd ondertekend onder voorbehoud van bekrachtiging of goedkeuring.
-
-3. Deze Overeenkomst treedt in werking wanneer zij door de Organisatie is ondertekend en wanneer zoveel Staten overeenkomstig het in het tweede lid van dit artikel bepaalde partij bij deze Overeenkomst zijn geworden, dat hun bijdragen volgens de schaal in bijlage B twee derde van alle te betalen bedragen belopen.
-
-##### Artikel 16
-
-1. Elke Deelnemer die zich uit het Gezamenlijke evaluatieprogramma voor Aerosat terugtrekt volgens het tweede lid, letter (c), van artikel 10 van deze Overeenkomst, blijft gehouden bij te dragen in de kosten die voortvloeien uit de verbintenissen omtrent de financiering waarvan reeds een besluit is genomen.
-
-2. Een zodanige terugtrekking wordt van kracht op de datum waarop de zich terugtrekkende Deelnemer niet langer bijdraagt in de betalingsverplichtingen betreffende het programma waarover de Programmaraad een besluit heeft genomen.
-
-3. Een zich terugtrekkende Deelnemer geniet de rechten die de Deelnemers toekomen tot op de datum van de werkelijke terugtrekking. Vanaf die datum ontstaan voor hem geen verdere rechten of verplichtingen voortvloeiend uit het deel van het Programma waaraan hij niet meer deelneemt.
-
-##### Artikel 17
-
-De bijlagen A en B vormen een integrerend deel van deze Overeenkomst.
-
-##### Artikel 18
-
-1. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kan deze Overeenkomst op verzoek van een of meer Deelnemers worden gewijzigd. De Organisatie geniet eveneens het recht van initiatief ter zake van wijzigingen betreffende bepalingen die voor haar rechten of plichten doen ontstaan. Wijzigingen worden van kracht wanneer alle Partijen hun goedkeuring hebben medegedeeld aan de Depositaris.
-
-2. Onverminderd de desbetreffende bepalingen van het Memorandum van Overeenstemming kunnen de bijlagen bij deze Overeenkomst door de Programmaraad worden herzien overeenkomstig de bijzondere bepalingen in de herzieningsclausules van deze bijlagen.
-
-##### Artikel 19
-
-Zodra deze Overeenkomst in werking is getreden doet de Regering van Frankrijk deze registreren bij het Secretariaat van de Verenigde Naties overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
-
-##### Artikel 20
-
-De Regering van Frankrijk is Depositaris van deze Overeenkomst; zij stelt de Regeringen van de Lid-Staten van de Organisatie in kennis van elke ondertekening, bekrachtiging of toetreding, alsmede van de datum van inwerkingtreding van deze Overeenkomst en van elke wijziging daarvan.
+The Government of the French Republic shall be the depositary of this Arrangement and shall notify the Governments of the Member States of the Organisation of all signatures, ratifications and accessions, and of the date of entry into force of the Arrangement and any amendments thereto.
 
 IN WITNESS WHEREOF the undersigned Representatives, having been duly authorised thereto, have signed this Arrangement.
 

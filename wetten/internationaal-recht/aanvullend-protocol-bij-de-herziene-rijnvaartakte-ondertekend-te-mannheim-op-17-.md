@@ -1,74 +1,37 @@
 ---
 title: "Aanvullend Protocol bij de Herziene Rijnvaartakte ondertekend te Mannheim op 17 oktober 1868"
 identifier: "BWBV0003383"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-02-27"
-last_updated: "1975-02-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003383"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003508223"
-version_id: "10003555292"
-internal_id: "C10006999151"
-label_id: "10003493614"
-dtd_version: "2.0"
-original_entry_into_force: "1975-02-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003383/1975-02-27/0"
-intitule_bron: "Trb.1973-21"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-02-13"
-intitule_in_force: "1975-04-14"
-intitule_status: "goed"
-original_publication: "Trb.1973-21"
-original_published_date: "1973-02-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-21"
-entry_into_force_date: "1975-02-27"
-jci_1_3: "jci1.3:c:BWBV0003383&z=1975-02-27&g=1975-02-27"
-jci_1_0: "1.0:c:BWBV0003383&g=1975-02-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-02-27"
+publicatiedatum: 1975-02-27
+laatste_update: 1975-02-27
+status: geldig
+toestand: 1975-02-27
+bron: "https://wetten.overheid.nl/BWBV0003383"
+opgehaald: 2026-09-13
 ---
+
 # Aanvullend Protocol bij de Herziene Rijnvaartakte ondertekend te Mannheim op 17 oktober 1868
 
-De Bondsrepubliek Duitsland,
-
-het Koninkrijk België,
-
-de Franse Republiek,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-het Koninkrijk der Nederlanden,
-
-de Zwitserse Bondsstaat,
-
-Overwegende:
-
-dat bepaalde moeilijkheden zijn gerezen met betrekking tot de toepassing en de uitlegging van enkele artikelen van de [Herziene Rijnvaartakte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363) van 17 oktober 1868, zoals deze op 20 november 1963 is gewijzigd (hierna te noemen „de Akte”)
-
-dat het op 18 september 1895 te Mannheim ondertekende Aanvullend Protocol bij de Herziene Rijnvaartakte van 17 oktober 1868 niet meer volledig rekening houdt met de ontwikkeling van het stelsel van sancties in de onderscheiden Verdragsluitende Staten en dat het bijgevolg dient te worden aangepast aan de nieuwe omstandigheden, met name door het daarbij mogelijk te maken om door tussenkomst van de administratieve autoriteiten sancties op te leggen terzake van overtredingen van de in gemeen overleg uitgevaardigde politievoorschriften voor de scheepvaart,
-
-zijn als volgt overeengekomen:
+*De Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk der Nederlanden, de Zwitserse Bondsstaat, Overwegende: - dat bepaalde moeilijkheden zijn gerezen met betrekking tot de toepassing en de uitlegging van enkele artikelen van de Herziene Rijnvaartakte van 17 oktober 1868, zoals deze op 20 november 1963 is gewijzigd (hierna te noemen „de Akte”) - dat het op 18 september 1895 te Mannheim ondertekende Aanvullend Protocol bij de Herziene Rijnvaartakte van 17 oktober 1868 niet meer volledig rekening houdt met de ontwikkeling van het stelsel van sancties in de onderscheiden Verdragsluitende Staten en dat het bijgevolg dient te worden aangepast aan de nieuwe omstandigheden, met name door het daarbij mogelijk te maken om door tussenkomst van de administratieve autoriteiten sancties op te leggen terzake van overtredingen van de in gemeen overleg uitgevaardigde politievoorschriften voor de scheepvaart, zijn als volgt overeengekomen:*
 
 ##### Artikel I
 
 1. Elke Verdragsluitende Staat draagt er zorg voor dat de sancties terzake van de in [artikel 32 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) bedoelde overtredingen worden opgelegd:
 
-- a). hetzij middels de in de [artikelen 32 tot en met 40 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) voorziene procedure;
+- a) hetzij middels de in de [artikelen 32 tot en met 40 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) voorziene procedure;
 
-- b). hetzij middels een bijzondere gerechtelijke procedure of een passende administratieve procedure.
+- b) hetzij middels een bijzondere gerechtelijke procedure of een passende administratieve procedure.
 
 2. De Verdragsluitende Staat die gebruik maakt van de in het eerste lid onder b bedoelde mogelijkheden dient erin te voorzien:
 
-- a). dat bevoegd is de autoriteit binnen wier rechtsgebied de overtreding is gepleegd;
+- a) dat bevoegd is de autoriteit binnen wier rechtsgebied de overtreding is gepleegd;
 
-- b). dat de beslissingen tot afdoening slechts boeten inhouden binnen de in [artikel 32 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) vastgestelde grenzen;
+- b) dat de beslissingen tot afdoening slechts boeten inhouden binnen de in [artikel 32 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) vastgestelde grenzen;
 
-- c). dat deze beslissingen eerst na verloop van een termijn van ten minste een week na betekening aan de betrokkene voor tenuitvoerlegging vatbaar worden;
+- c) dat deze beslissingen eerst na verloop van een termijn van ten minste een week na betekening aan de betrokkene voor tenuitvoerlegging vatbaar worden;
 
-- d). dat de betrokkene de mogelijkheid heeft binnen die termijn bezwaar te maken en aldus te bewerkstelligen dat de zaak wordt onderzocht en berecht door de Rijnvaartrechtbank binnen wier rechtsgebied de overtreding werd gepleegd.
+- d) dat de betrokkene de mogelijkheid heeft binnen die termijn bezwaar te maken en aldus te bewerkstelligen dat de zaak wordt onderzocht en berecht door de Rijnvaartrechtbank binnen wier rechtsgebied de overtreding werd gepleegd.
 
 3. Het bepaalde in de [artikelen 36, 1e en 3e lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=36), [39](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=39)en [40, 2e lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=40), alsmede de in artikel 40, 3e lid, voorziene waarborg van betekening ter domicilie is eveneens van toepassing op de in het eerste lid onder b bedoelde procedures.
 

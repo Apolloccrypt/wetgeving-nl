@@ -2,181 +2,176 @@
 title: "Europese Overeenkomst inzake internationale hoofdverkeerswegen"
 identifier: "BWBV0003779"
 categorie: "Verkeer"
-publicatiedatum: 2026-03-05
-laatste_update: 2026-05-05
+soort: "verdrag"
+publicatiedatum: 1983-03-15
+laatste_update: 2026-03-05
 status: geldig
+toestand: 2026-03-05
 bron: "https://wetten.overheid.nl/BWBV0003779"
+opgehaald: 2026-09-13
 ---
 
 # Europese Overeenkomst inzake internationale hoofdverkeerswegen
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Conscious of the need to facilitate and develop international road traffic in Europe, Considering that in order to strengthen relations between European countries it is essential to lay down a co-ordinated plan for the construction and development of roads adjusted to the requirements of future international traffic and the environment, Have agreed as follows:*
 
-Zich bewust van de noodzaak het internationale wegverkeer in Europa te vergemakkelijken en te verbeteren,
+#### Definition and adoption of the international E-road network
 
-Overwegende dat het voor de versteviging van de betrekkingen tussen Europese landen van groot belang is een gecoördineerd plan op te stellen voor het aanleggen van wegen die voldoen aan de eisen van het toekomstige internationale wegverkeer, alsmede voor het aanpassen van wegen aan deze eisen,
+##### Article 1
 
-Zijn overeengekomen als volgt:
+The Contracting Parties adopt the proposed road network hereinafter referred to as “the international E-road network” and described in annex I to this Agreement, as a co-ordinated plan for the construction and development of roads of international importance which they intend to undertake within the framework of their national programmes.
 
-### Omschrijving en aanvaarding van het internationale E-wegennet
+##### Article 2
 
-##### Artikel 1
+The international E-road network consists of a grid system of reference roads having a general north-south and west-east orientation; it includes also intermediate roads located between the reference roads and branch, link and connecting roads.
 
-De Overeenkomstsluitende Partijen aanvaarden het voorgestelde wegennet, hierna te noemen „het internationale E-wegennet” en omschreven in bijlage I bij deze Overeenkomst, als een gecoördineerd plan voor het aanleggen en aanpassen van wegen van internationaal belang, dat zij voornemens zijn uit te voeren binnen het kader van hun nationale programma’s.
+#### Construction and development of roads of the international E-road network
 
-##### Artikel 2
+##### Article 3
 
-Het internationale E-wegennet bestaat uit een netwerk van referentiewegen die in het algemeen van noord naar zuid of van west naar oost lopen; het omvat ook de tussenliggende wegen en de zij- en verbindingswegen.
+The roads of the international E-road network as referred to in article 1 of this Agreement shall be brought into conformity with the provisions of annex II to this Agreement.
 
-### Aanleg en ontwikkeling van wegen van het internationale E-wegennet
+#### Signing of the roads of the international E-road network
 
-##### Artikel 3
+##### Article 4
 
-De wegen van het internationale E-wegennet, als bedoeld in artikel 1 van deze Overeenkomst, worden in overeenstemming gebracht met de bepalingen van bijlage II bij deze Overeenkomst.
+1. The roads of the international E-road network shall be identified and signed by means of the road sign described in annex III to this Agreement.
 
-### Aanduiding van de wegen van het internationale E-wegennet
+2. All signs used to designate E roads, which are not in conformity with the provisions of this Agreement and its annexes shall be removed within three years from the date of entry into force of this Agreement for the State concerned, in accordance with article 6.
 
-##### Artikel 4
+3. New road signs conforming to that described in annex III to this Agreement shall be placed on all roads of the international E-road network within four years from the date of entry into force of this Agreement for the State concerned, in accordance with article 6.
 
-1. De wegen van het internationale E-wegennet worden aangeduid door en voorzien van het verkeersteken, beschreven in bijlage III bij deze Overeenkomst.
+4. The provisions of this article shall not be subject to any limitations which may result from the national programmes referred to in article 1 of this Agreement.
 
-2. Alle tekens die worden gebruikt om E-wegen aan te geven en die niet in overeenstemming zijn met de bepalingen van deze Overeenkomst en haar bijlagen, worden overeenkomstig artikel 6 verwijderd binnen drie jaar na de datum waarop deze Overeenkomst voor de betrokken Staat in werking treedt.
+#### Procedure for the signature of, and for becoming Party to, this Agreement
 
-3. Nieuwe verkeerstekens die voldoen aan het bepaalde in bijlage III bij deze Overeenkomst, worden overeenkomstig artikel 6 aangebracht op alle wegen van het internationale E-wegennet binnen 4 jaar na de datum waarop deze Overeenkomst voor de betrokken Staat in werking treedt.
+##### Article 5
 
-4. De bepalingen van dit artikel zijn niet onderworpen aan beperkingen die kunnen voortvloeien uit de nationale programma’s waarnaar in artikel 1 van deze Overeenkomst wordt verwezen.
+1. This Agreement shall be open until 31 December 1976 for signature by States which are either Members of the United Nations Economic Commission for Europe or have been admitted to the Commission in a consultative capacity in conformity with paragraph 8 of the terms of reference of the Commission.
 
-### Wijze van ondertekening en wijze van Partij worden bij deze Overeenkomst
+2. Those States may become Parties to this Agreement by
 
-##### Artikel 5
+- (a) signature not subject to ratification, acceptance or approval;
 
-1. Deze Overeenkomst staat tot 31 december 1976 open voor ondertekening door Staten die lid zijn van de Economische Commissie voor Europa van de Verenigde Naties dan wel in een adviserende hoedanigheid tot de Commissie zijn toegelaten overeenkomstig paragraaf 8 van het mandaat van de Commissie.
+- (b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or
 
-2. Bedoelde Staten kunnen Partij bij deze Overeenkomst worden door
+- (c) accession.
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring;
+3. Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument in good and due form with the Secretary-General of the United Nations.
 
-- (b). ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+#### Entry into force of this Agreement
 
-- (c). toetreding.
+##### Article 6
 
-3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een akte, in de vereiste vorm, bij de Secretaris-Generaal van de Verenigde Naties.
+1. This Agreement shall enter into force 90 days after the date on which the Governments of eight States have either signed it not subject to ratification, acceptance or approval or have deposited an instrument of ratification, acceptance, approval or accession provided that one or more roads of the international E-road network link, in a continuous manner, the territories of at least four of the States which have so signed or which have deposited such an instrument. If this condition is not fulfilled, the Agreement shall enter into force 90 days after the date either of the signature not subject to ratification, acceptance or approval or of the deposit of the instrument of ratification, acceptance, approval or accession, whereby the said condition will be satisfied.
 
-### Inwerkingtreding van deze Overeenkomst
+2. For each State which deposits its instrument of ratification, acceptance, approval or accession after the commencement of the period of 90 days specified in paragraph 1 of this article, the Agreement shall enter into force 90 days after the date of deposit of the said instrument.
 
-##### Artikel 6
+3. Upon its entry into force, this Agreement shall terminate and replace in relations between the Contracting Parties the [Declaration on the Construction of Main International Traffic Arteries](https://wetten.overheid.nl/jci1.3:c:BWBV0005605) signed at Geneva on 16 September 1950.
 
-1. Deze Overeenkomst treedt in werking 90 dagen na de datum waarop de Regeringen van acht Staten deze hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, dan wel een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, mits één of meer wegen van het internationale E-wegennet als doorlopende weg het grondgebied verbinden van ten minste vier van de Staten die de Overeenkomst op die wijze hebben ondertekend of zulk een akte hebben nedergelegd. Indien aan deze voorwaarde niet wordt voldaan, treedt de Overeenkomst in werking 90 dagen na de datum van ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring dan wel de nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, waardoor aan genoemde voorwaarde zal zijn voldaan.
+#### Procedures for amending the main text of this Agreement
 
-2. Voor elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na het begin van de in het eerste lid van dit Artikel vermelde periode van 90 dagen, treedt de Overeenkomst in werking 90 dagen na de datum van nederlegging van genoemde akte.
+##### Article 7
 
-3. Bij haar inwerkingtreding beëindigt en vervangt deze Overeenkomst in de betrekkingen tussen de Overeenkomstsluitende Partijen de [Verklaring nopens de aanleg van internationale hoofdverkeerswegen](https://wetten.overheid.nl/jci1.3:c:BWBV0005605), ondertekend te Genève op 16 september 1950.
+1. The main text of this Agreement may be amended by either of the procedures specified in this article.
 
-### Procedures voor de wijziging van de tekst van de Overeenkomst zelf
+2. - (a) Upon the request of a Contracting Party, any amendment proposed by it to the main text of this Agreement shall be considered in the Working Party on Road Transport of the Economic Commission for Europe (ECE).
 
-##### Artikel 7
+- (b) If adopted by a two-thirds majority of those present and voting and if such a majority includes a two-thirds majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General to all Contracting Parties for acceptance.
 
-1. De tekst van de Overeenkomst zelf kan door een van de in dit artikel genoemde procedures worden gewijzigd.
+- (c) If the amendment is accepted by two-thirds of the Contracting Parties, the Secretary-General shall so notify all Contracting Parties and the amendment shall come into force twelve months after the date of such notification. The amendment shall come into force with respect to all Contracting Parties except those which, before it comes into force, make a declaration that they do not accept the amendment.
 
-- (a). Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging in de tekst van de Overeenkomst zelf bestudeerd in de Werkgroep voor Wegvervoer van de Economische Commissie voor Europa (ECE).
+3. Upon the request of at least one-third of the Contracting Parties, a conference to which the States referred to in article 5 shall be invited, shall be convened by the Secretary-General. The procedure specified in sub paragraphs (a) and (b) of paragraph 2 of this article shall be applied in respect of any amendment submitted to the consideration of such a conference.
 
-- (b). Indien de wijziging met een tweederde meerderheid door de hun stem uitbrengende aanwezigen wordt aangenomen en indien deze meerderheid een tweederde meerderheid van de Overeenkomstsluitende Partijen welke aanwezig zijn en hun stem uitbrengen, omvat, wordt door de Secretaris-Generaal mededeling van de wijziging gedaan aan alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+#### Procedure for amending annex I to this Agreement
 
-- (c). Indien de wijziging door tweederde van de Overeenkomstsluitende Partijen wordt aanvaard, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen daarvan in kennis en treedt de wijziging in werking twaalf maanden na de datum van deze kennisgeving. De wijziging treedt in werking voor alle Overeenkomstsluitende Partijen, met uitzondering van die welke, vóórdat zij van kracht wordt, mededeling doen van het feit dat zij de wijziging niet aanvaarden.
+##### Article 8
 
-3. Op verzoek van ten minste éénderde van de Overeenkomstsluitende Partijen wordt door de Secretaris-Generaal een conferentie bijeengeroepen waartoe de in artikel 5 bedoelde Staten worden uitgenodigd. De in de letters (a) en (b) van het tweede lid van dit artikel vermelde procedure is van toepassing op elke wijziging die aan zulk een Conferentie wordt voorgelegd.
+1. Annex I to this Agreement may be amended by the procedure specified in this article.
 
-### Procedure voor de wijziging van Bijlage I bij deze Overeenkomst
+2. Upon the request of a Contracting Party, any amendment proposed by it to annex I to this Agreement shall be considered in the Working Party on Road Transport of the Economic Commission for Europe (ECE).
 
-##### Artikel 8
+3. If adopted by the majority of those present and voting and if such majority includes the majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General to the competent administrations of the Contracting Parties directly concerned. The following shall be considered Contracting Parties directly concerned:
 
-1. Bijlage I bij deze Overeenkomst kan door de in dit artikel omschreven procedure worden gewijzigd.
+- (a) in the case of a new, or the modification of an existing class-A international road, any Contracting Party whose territory is crossed by that road;
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van Bijlage I bij deze Overeenkomst bestudeerd in de Werkgroep voor Wegvervoer van de Economische Commissie voor Europa (ECE).
+- (b) in the case of a new, or the modification of an existing, class-B international road, any Contracting Party contiguous to the requesting country, whose territory is crossed by the class-A international road or roads with which the class-B international road, whether new or to be modified, is connected. Two Contracting Parties having in their respective territories the terminal points of a sea link on the class-A international road or roads specified above shall also be considered contiguous for the purposes of this paragraph.
 
-3. Indien de wijziging door een meerderheid van de hun stem uitbrengende aanwezigen wordt aangenomen en indien deze meerderheid de meerderheid van de aanwezige en hun stem uitbrengende Overeenkomstsluitende Partijen omvat, wordt deze door de Secretaris-Generaal ter kennis gebracht van de bevoegde beleidsinstanties van de direct betrokken Overeenkomstsluitende Partijen. Als direct betrokken Overeenkomstsluitende Partijen worden beschouwd:
+4. Any proposed amendments communicated in accordance with paragraph 3 of this article shall be accepted if within a period of six months following the date of its communication none of the competent administrations of the Contracting Parties directly concerned notify the Secretary-General of their objection to the amendment. If the administration of a Contracting Party states that its national law obliges it to subordinate its agreement to the grant of a specific authorization or to the approval of a legislative body, the competent administration shall not be considered as having consented to the amendment to annex I to this Agreement, and the proposed amendment shall not be accepted, until such time as the said competent administration notifies the Secretary-General that it has obtained the required authorization or approval. If such notification is not made within a period of eighteen months following the date on which the proposed amendment was communicated to the said competent administration or if, within the period of six months specified above, the competent administration of a Contracting Party directly concerned expresses an objection to the proposed amendment, that amendment shall not be accepted.
 
-- (a). in het geval van een nieuwe, of de wijziging van een bestaande internationale A-weg, elke Overeenkomstsluitende Partij over wier grondgebied deze weg loopt;
+5. Any amendment accepted shall be communicated by the Secretary-General to all the Contracting Parties and shall come into force for all the Contracting Parties three months after the date of its communication.
 
-- (b). in het geval van een nieuwe, of de wijziging van een bestaande internationale B-weg, elke Overeenkomstsluitende Partij wier grondgebied grenst aan dat van het verzoekende land en over wier grondgebied de internationale A-weg of A-wegen loopt of lopen waarmede de nieuwe of te wijzigen internationale B-weg wordt verbonden.
+#### Procedure for amending annexes II and III to this Agreement
 
-De grondgebieden van twee Overeenkomstsluitende Partijen waarop zich de onderscheiden eindpunten bevinden van een zeeverbinding als onderdeel van de internationale A-weg of A-wegen zoals hierboven omschreven, worden voor de toepassing van het bepaalde in dit lid eveneens geacht aan elkaar te grenzen.
+##### Article 9
 
-4. Elke voorgestelde wijziging waarvan overeenkomstig het derde lid van dit artikel kennis is gegeven, is aanvaard, indien binnen een tijdvak van zes maanden na de datum van kennisgeving geen van de bevoegde beleidsinstanties van de direct betrokken Overeenkomstsluitende Partijen de Secretaris-Generaal van haar bezwaar tegen de wijziging in kennis heeft gesteld. Indien de beleidsinstantie van een Overeenkomstsluitende Partij verklaart, dat haar nationale wetgeving haar verplicht haar instemming afhankelijk te stellen van de verlening van een bijzondere machtiging of van de goedkeuring van een wetgevend lichaam, wordt de bevoegde beleidsinstantie geacht niet te hebben ingestemd met de wijziging van Bijlage I bij deze Overeenkomst, en wordt de voorgestelde wijziging eerst aanvaard op het tijdstip waarop de genoemde bevoegde beleidsinstantie de Secretaris-Generaal ervan in kennis stelt, dat zij de vereiste machtiging of goedkeuring heeft verkregen. Indien deze kennisgeving niet wordt gedaan binnen een tijdvak van achttien maanden na de datum waarop de voorgestelde wijziging ter kennis werd gebracht van de bevoegde beleidsinstantie, of indien de bevoegde beleidsinstantie van een direct betrokken Overeenkomstsluitende Partij binnen het hierboven aangegeven tijdvak van zes maanden bezwaar aantekent tegen de voorgestelde wijziging, wordt de wijziging niet aanvaard.
+1. Annexes II and III to this Agreement may be amended by the procedure specified in this article.
 
-5. Elke aanvaarde wijziging wordt door de Secretaris-Generaal ter kennis gebracht van alle Overeenkomstsluitende Partijen en treedt voor alle Overeenkomstsluitende Partijen in werking drie maanden na de datum van kennisgeving.
+2. Upon the request of a Contracting Party, any amendment proposed by it to annexes II and III to this Agreement shall be considered in the Working Party on Road Transport of the Economic Commission for Europe (ECE).
 
-### Procedure voor de wijziging van de Bijlagen II en III bij deze Overeenkomst
+3. If adopted by the majority of those present and voting, and if such majority includes the majority of the Contracting Parties present and voting, the amendment shall be communicated by the Secretary-General to the competent administrations of all Contracting Parties for acceptance.
 
-##### Artikel 9
+4. Such amendment shall be accepted if during a period of six months from the date of notification, less than one-third of the competent administrations of the Contracting Parties notify the Secretary-General of their objection to the amendment.
 
-1. Bijlagen II en III bij deze Overeenkomst kunnen door de in dit artikel omschreven procedure worden gewijzigd.
+5. Any amendment accepted shall be communicated by the Secretary-General to all Contracting Parties and shall come into force three months after the date of its communication with respect to all Contracting Parties except those which, during the six-month period referred to in Article 9.4, make a declaration that they do not accept all or part of the amendment.
 
-2. Op verzoek van een Overeenkomstsluitende Partij wordt elke door haar voorgestelde wijziging van de Bijlagen II en III bij deze Overeenkomst bestudeerd in de Werkgroep voor Wegvervoer van de Economische Commissie voor Europa (ECE).
+#### Notification of the address of the administration to which proposed amendments to the annexes to this Agreement are to be communicated
 
-3. Indien de wijziging door een meerderheid van de hun stem uitbrengende aanwezigen wordt aangenomen en indien deze meerderheid de meerderheid van de aanwezige en hun stem uitbrengende Overeenkomstsluitende Partijen omvat, wordt door de Secretaris-Generaal mededeling van de wijziging gedaan aan de bevoegde beleidsinstanties van alle Overeenkomstsluitende Partijen ter fine van aanvaarding.
+##### Article 10
 
-4. Deze wijziging zal zijn aanvaard indien gedurende een tijdvak van zes maanden na de datum van kennisgeving minder dan één derde van de bevoegde beleidsinstanties van de Overeenkomstsluitende Partijen de Secretaris-Generaal in kennis stelt van hun bezwaar tegen de wijziging.
+Each State shall, at the time of signing, ratifying, accepting, approving or acceding to this Agreement, inform the Secretary-General of the name and address of its administration to which proposed amendments to the annexes to this Agreement are to be communicated in conformity with articles 8 and 9 of this Agreement.
 
-5. Elke aanvaarde wijziging wordt door de Secretaris-Generaal ter kennis gebracht van alle Overeenkomstsluitende Partijen en treedt drie maanden na de datum van kennisgeving in werking voor alle Overeenkomstsluitende Partijen behalve voor degene die, gedurende het tijdvak van zes maanden bedoeld in artikel 9, vierde lid, een verklaring afleggen dat zij de gehele of een deel van de wijziging niet aanvaarden.
+#### Denunciation and cessation of validity of this Agreement
 
-### Kennisgeving van het adres van de beleidsinstantie waaraan de voorstellen tot wijziging van de Bijlagen bij deze Overeenkomst dienen te worden medegedeeld
+##### Article 11
 
-##### Artikel 10
+Any Contracting Party may denounce this Agreement by written notification addressed to the Secretary-General. The denunciation shall take effect one year after the date of receipt by the Secretary-General of such notification.
 
-Elke Staat deelt op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot deze Overeenkomst de Secretaris-Generaal de naam en het adres van zijn beleidsinstantie mede die overeenkomstig de artikelen 8 en 9 van deze Overeenkomst in kennis dient te worden gesteld van de voorgestelde wijzigingen van de Bijlagen bij deze Overeenkomst.
+##### Article 12
 
-### Opzegging en het ophouden van kracht te zijn van deze Overeenkomst
+This Agreement shall cease to be in force if the number of Contracting Parties is less than eight for any period of twelve consecutive months.
 
-##### Artikel 11
+#### Settlement of disputes
 
-Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
+##### Article 13
 
-##### Artikel 12
+1. Any dispute between two or more Contracting Parties which relates to the interpretation or application of this Agreement and which the Parties in dispute are unable to settle by negotiation or other means of settlement shall be referred to arbitration if any of the Contracting Parties in dispute so requests and shall, to that end, be submitted to one or more arbitrators selected by mutual agreement between the Parties in dispute. If the Parties in dispute fail to agree on the choice of an arbitrator or arbitrators within three months after the request for arbitration, any of those Parties may request the Secretary-General of the United Nations to appoint a single arbitrator to whom the dispute shall be submitted for decision.
 
-Deze Overeenkomst houdt op van kracht te zijn, indien het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder is dan acht.
+2. The award of the arbitrator or arbitrators appointed in accordance with paragraph 1 of this article shall be binding upon the Contracting Parties in dispute.
 
-### Beslechting van geschillen
+#### Limits to the application of this Agreement
 
-##### Artikel 13
+##### Article 14
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen, dat betrekking heeft op de uitlegging of toepassing van deze Overeenkomst en dat door de partijen bij het geschil niet door onderhandelingen of door andere middelen tot regeling van een geschil kan worden opgelost, wordt onderworpen aan arbitrage, indien één der bij het geschil betrokken Overeenkomstsluitende Partijen zulks verzoekt, en wordt hiertoe voorgelegd aan één of meer scheidsmannen die in onderlinge overeenstemming tussen de partijen bij het geschil wordt of worden gekozen. Indien de partijen bij het geschil niet binnen drie maanden na het verzoek om arbitrage tot overeenstemming kunnen komen over de keuze van een scheidsman of scheidsmannen, kan elk van die partijen de Secretaris-Generaal van de Verenigde Naties verzoeken een enkele scheidsman te benoemen aan wie het geschil ter beslissing zal worden voorgelegd.
+Nothing in this Agreement shall be construed as preventing a Contracting Party from taking such action, compatible with the provisions of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) and limited to the exigencies of the situation, as it considers necessary to its external or internal security.
 
-2. De uitspraak van de overeenkomstig het eerste lid van dit artikel benoemde scheidsman of scheidsmannen is bindend voor de bij een geschil betrokken Overeenkomstsluitende Partijen.
+#### Declaration concerning article 13 of this Agreement
 
-### Beperking van de toepassing van deze Overeenkomst
+##### Article 15
 
-##### Artikel 14
+Any State may, at the time of signing this Agreement or of depositing its instrument of ratification, acceptance, approval or accession, declare that it does not consider itself bound by article 13 of this Agreement. Other Contracting Parties shall not be bound by article 13 with respect to any Contracting Party which has made such a declaration.
 
-Niets in deze Overeenkomst mag zo worden uitgelegd, dat een Overeenkomstsluitende Partij daardoor zou worden belet de maatregelen te nemen die deze Partij noodzakelijk acht voor haar buitenlandse of binnenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en beperkt blijven tot de vereisten der gegeven omstandigheden.
+#### Notifications to Contracting Parties
 
-### Verklaring betreffende artikel 13 van deze Overeenkomst
+##### Article 16
 
-##### Artikel 15
+In addition to the declarations, notifications and communications provided for in articles 7, 8, 9 and 15 of this Agreement, the Secretary-General shall notify the Contracting Parties and the other States referred to in article 5 of the following:
 
-Elke Staat kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren, dat hij zich niet gebonden acht aan artikel 13 van deze Overeenkomst. Andere Overeenkomstsluitende Partijen zijn niet gebonden aan artikel 13 ten opzichte van een Overeenkomstsluitende Partij die een zodanige verklaring heeft afgelegd.
+- (a) signatures, ratifications, acceptances, approvals and accessions under article 5;
 
-### Kennisgeving aan de Overeenkomstsluitende Partijen
+- (b) the dates of entry into force of this Agreement in accordance with article 6;
 
-##### Artikel 16
+- (c) the date of entry into force of amendments to this Agreement in accordance with article 7, paragraph 2 (c), article 8, paragraphs 4 and 5, and article 9;
 
-Behalve de verklaringen, kennisgevingen en mededelingen, bedoeld in de artikelen 7, 8, 9 en 15 van deze Overeenkomst, stelt de Secretaris-Generaal de Overeenkomstsluitende Partijen en de andere Staten, bedoeld in artikel 5 van deze Overeenkomst, in kennis van:
+- (d) denunciations under article 11;
 
-- (a). ondertekeningen, bekrachtigingen, aanvaardingen, goedkeuringen en toetredingen ingevolge artikel 5;
+- (e) the termination of this Agreement under article 12.
 
-- (b). de data waarop deze Overeenkomst in werking treedt overeenkomstig artikel 6;
+#### Deposit of the present Agreement with the Secretary-General
 
-- (c). de datum waarop de wijzigingen van deze Overeenkomst in werking treden overeenkomstig artikel 7, tweede lid, letter (c), artikel 8, vierde en vijfde lid, en artikel 9;
+##### Article 17
 
-- (d). opzeggingen ingevolge artikel 11;
-
-- (e). de beëindiging van deze Overeenkomst ingevolge artikel 12.
-
-### Nederlegging van de tekst van deze Overeenkomst bij de Secretaris-Generaal
-
-##### Artikel 17
-
-Na 31 december 1976 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten, bedoeld in artikel 5 van deze Overeenkomst.
+After 31 December 1976 the original of this Agreement shall be deposited with the Secretary-General of the United Nations, who shall send certified true copies to all the States referred to in article 5 of this Agreement.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.
 

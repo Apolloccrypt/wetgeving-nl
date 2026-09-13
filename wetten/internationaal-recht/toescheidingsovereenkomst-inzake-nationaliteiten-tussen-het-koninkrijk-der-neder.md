@@ -1,44 +1,19 @@
 ---
 title: "Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0003487"
-country: "nl"
-rank: "verdrag"
-publication_date: "1995-12-01"
-last_updated: "1995-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003487"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003559733"
-version_id: "10003615572"
-internal_id: "C10006982511"
-label_id: "10003545194"
-dtd_version: "2.0"
-original_entry_into_force: "1975-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003487/1995-12-01/0"
-intitule_bron: "Trb.1975-132"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-11-25"
-intitule_in_force: "1975-11-25"
-intitule_status: "goed"
-original_publication: "Trb.1975-132"
-original_published_date: "1975-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-132"
-entry_into_force_date: "1975-11-25"
-jci_1_3: "jci1.3:c:BWBV0003487&z=1995-12-01&g=1995-12-01"
-jci_1_0: "1.0:c:BWBV0003487&g=1995-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-11-25"
+publicatiedatum: 1975-11-25
+laatste_update: 1995-12-01
+status: geldig
+toestand: 1995-12-01
+bron: "https://wetten.overheid.nl/BWBV0003487"
+opgehaald: 2026-09-13
 ---
+
 # Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
-De Regering van het Koninkrijk der Nederlanden en
-
-de Regering van de Republiek Suriname,
-
-Overwegende dat het wenselijk is dat er in verband met het onafhankelijk worden van Suriname een nationaliteitenregeling wordt getroffen,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, Overwegende dat het wenselijk is dat er in verband met het onafhankelijk worden van Suriname een nationaliteitenregeling wordt getroffen, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -66,11 +41,11 @@ De Surinaamse nationaliteit verkrijgen voorts alle meerderjarige Nederlanders di
 
 - b. hetzij zij het Nederlanderschap hebben verkregen
 
-- 1. ingevolge de Overeenkomst betreffende de toescheiding van staatsburgers, opgenomen in de wet „Souvereiniteitsoverdracht Indonesië” (wet van 21 december 1949, **Stb.** J 570) en op 27 december 1949 hetzij woonplaats, hetzij werkelijk verblijf hadden in Suriname;
+   - 1. ingevolge de Overeenkomst betreffende de toescheiding van staatsburgers, opgenomen in de wet „Souvereiniteitsoverdracht Indonesië” (wet van 21 december 1949, *Stb.* J 570) en op 27 december 1949 hetzij woonplaats, hetzij werkelijk verblijf hadden in Suriname;
 
-- 2. door naturalisatie bij of krachtens de wet op het tijdstip van de indiening van het verzoek in Suriname hetzij woonplaats, hetzij werkelijk verblijf hadden;
+   - 2. door naturalisatie bij of krachtens de wet op het tijdstip van de indiening van het verzoek in Suriname hetzij woonplaats, hetzij werkelijk verblijf hadden;
 
-- 3. in verband met het huwelijk met een Nederlander, van rechtswege dan wel door het doen van een kennisgeving, en op het tijdstip van de huwelijkssluiting hetzij woonplaats, hetzij werkelijk verblijf in Suriname hadden.
+   - 3. in verband met het huwelijk met een Nederlander, van rechtswege dan wel door het doen van een kennisgeving, en op het tijdstip van de huwelijkssluiting hetzij woonplaats, hetzij werkelijk verblijf in Suriname hadden.
 
 ##### Artikel 5
 

@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst over het onderhoud van de Aastrang (Bocholter Aa) in het grensgebied"
 identifier: "BWBV0003889"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-12-29"
-last_updated: "1983-12-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003889"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003760113"
-version_id: "10003824582"
-internal_id: "C10006981561"
-label_id: "10003745014"
-dtd_version: "2.0"
-original_entry_into_force: "1983-12-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003889/1983-12-29/0"
-intitule_bron: "Trb.1978-112"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-10-19"
-intitule_in_force: "1984-08-31"
-intitule_status: "goed"
-original_publication: "Trb.1978-112"
-original_published_date: "1978-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-112"
-entry_into_force_date: "1983-12-29"
-jci_1_3: "jci1.3:c:BWBV0003889&z=1983-12-29&g=1983-12-29"
-jci_1_0: "1.0:c:BWBV0003889&g=1983-12-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1983-12-29"
+publicatiedatum: 1983-12-29
+laatste_update: 1983-12-29
+status: geldig
+toestand: 1983-12-29
+bron: "https://wetten.overheid.nl/BWBV0003889"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst over het onderhoud van de Aastrang (Bocholter Aa) in het grensgebied
 
-Het land Nordrhein-Westfalen, vertegenwoordigd door de Minister-präsident, deze vertegenwoordigd door de Regierungspräsident te Münster
-
-en
-
-het Waterschap van de Oude IJssel in Terborg, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf,
-
-sluiten met inachtneming van hoofdstuk 4, artikel 59 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.
+*Het land Nordrhein-Westfalen, vertegenwoordigd door de Minister-präsident, deze vertegenwoordigd door de Regierungspräsident te Münster en het Waterschap van de Oude IJssel in Terborg, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf, sluiten met inachtneming van hoofdstuk 4, artikel 59 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.*
 
 ##### Artikel 1
 
@@ -90,7 +65,7 @@ De partijen verbinden zich, om het bij hen voorkomende ruimsel bovenstrooms van 
 
 GEDAAN te Terborg de 27ste september 1977 in viervoud, elk in de Duitse en Nederlandse taal, waarbij elke tekst gelijkelijk verbindend is.
 
-**Voor het land Nordrhein-Westfalen**
+*Voor het land Nordrhein-Westfalen*
 
 Der Regierungspräsident
 
@@ -100,7 +75,7 @@ In Vertretung
 
 (Ruwe)
 
-**Voor het Waterschap**
+*Voor het Waterschap*
 
 (w.g.) W. KOOIJ
 

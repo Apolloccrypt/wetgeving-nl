@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Korea inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0003150"
-country: "nl"
-rank: "verdrag"
-publication_date: "2009-02-01"
-last_updated: "2009-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003150"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003357453"
-version_id: "10003393912"
-internal_id: "C10008431201"
-label_id: "10003343304"
-dtd_version: "2.0"
-original_entry_into_force: "2009-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003150/2009-02-01/0"
-intitule_bron: "Trb.2007-66"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-03-27"
-intitule_in_force: "2009-04-14"
-intitule_status: "goed"
-original_publication: "Trb.2007-66"
-original_published_date: "2007-03-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-66"
-entry_into_force_date: "2009-02-01"
-jci_1_3: "jci1.3:c:BWBV0003150&z=2009-02-01&g=2009-02-01"
-jci_1_0: "1.0:c:BWBV0003150&g=2009-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2009-02-01"
+publicatiedatum: 2009-02-01
+laatste_update: 2009-02-01
+status: geldig
+toestand: 2009-02-01
+bron: "https://wetten.overheid.nl/BWBV0003150"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Korea inzake wederzijdse administratieve bijstand in douanezaken
 
-Het Koninkrijk der Nederlanden,
-
-en
-
-de Republiek Korea,
-
-hierna te noemen de ‘‘Verdragsluitende Partijen’’,
-
-Gelet op het belang van de juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen;
-
-Overwegend dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid en handel schaden;
-
-Overwegend dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde dier- en plantensoorten en giftig afval een gevaar voor de samenleving vormt;
-
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneautoriteiten op basis van duidelijke internationaalrechtelijke bepalingen;
-
-Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953;
-
-Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden, en de Republiek Korea, hierna te noemen de ‘‘Verdragsluitende Partijen’’, Gelet op het belang van de juiste vaststelling van de douanerechten en andere belastingen die bij invoer of uitvoer worden geïnd en van het waarborgen van een juiste handhaving van verboden, beperkingen en controlemaatregelen; Overwegend dat inbreuken op de douanewetgeving hun economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid en handel schaden; Overwegend dat de grensoverschrijdende handel in verdovende middelen en psychotrope stoffen, gevaarlijke stoffen, bedreigde dier- en plantensoorten en giftig afval een gevaar voor de samenleving vormt; Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneautoriteiten op basis van duidelijke internationaalrechtelijke bepalingen; Gelet op de van belang zijnde instrumenten van de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in het bijzonder de Aanbeveling inzake wederzijdse administratieve bijstand van 5 december 1953; Tevens gelet op verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -64,9 +23,9 @@ Voor de toepassing van dit Verdrag,
 
 - a. wordt onder ,,douaneautoriteit’’ verstaan:
 
-- wat de Republiek Korea betreft: de Koreaanse Douanedienst;
+   - wat de Republiek Korea betreft: de Koreaanse Douanedienst;
 
-- wat het Koninkrijk der Nederlanden betreft: de centrale autoriteit die verantwoordelijk is voor de tenuitvoerlegging van de douane-wetgeving;
+   - wat het Koninkrijk der Nederlanden betreft: de centrale autoriteit die verantwoordelijk is voor de tenuitvoerlegging van de douane-wetgeving;
 
 - b. wordt onder ,,douanewetgeving’’ verstaan: alle wettelijke en administratieve bepalingen die door de douaneautoriteiten worden toegepast of gehandhaafd in verband met de invoer, uitvoer, overslag, doorvoer, opslag en het vervoer van goederen, met inbegrip van wettelijke en administratieve bepalingen met betrekking tot verboden, beperkingen en controlemaatregelen;
 
@@ -284,10 +243,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in tweevoud te Den Haag, op 14 februari 2007, in de Nederlandse, de Koreaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 G. ZALM
 
-**Voor de Republiek Korea,**
+*Voor de Republiek Korea,*
 
 JONG-MOO CHOI

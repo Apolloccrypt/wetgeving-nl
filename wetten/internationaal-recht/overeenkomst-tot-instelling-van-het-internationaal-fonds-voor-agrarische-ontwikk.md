@@ -1,399 +1,432 @@
 ---
 title: "Overeenkomst tot instelling van het Internationaal Fonds voor Agrarische Ontwikkeling"
 identifier: "BWBV0003787"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-02-18"
-last_updated: "2021-02-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003787"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003711583"
-version_id: "10003773322"
-internal_id: "C10006981361"
-label_id: "10003696964"
-dtd_version: "2.0"
-original_entry_into_force: "1977-11-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003787/2021-02-18/0"
-intitule_bron: "Trb.1977-55"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-03-28"
-intitule_in_force: "1978-02-13"
-intitule_status: "goed"
-original_publication: "Trb.1977-55"
-original_published_date: "1977-03-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-55"
-entry_into_force_date: "1977-11-30"
-jci_1_3: "jci1.3:c:BWBV0003787&z=2021-02-18&g=2021-02-18"
-jci_1_0: "1.0:c:BWBV0003787&g=2021-02-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-11-30"
+publicatiedatum: 1977-11-30
+laatste_update: 2021-02-18
+status: geldig
+toestand: 2021-02-18
+bron: "https://wetten.overheid.nl/BWBV0003787"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tot instelling van het Internationaal Fonds voor Agrarische Ontwikkeling
 
-Preambule
+*Preamble Recognizing that the continuing food problem of the world is afflicting a large segment of the people of the developing countries and is jeopardizing the most fundamental principles and values associated with the right to life and human dignity; Considering the need to improve the conditions of life in the developing countries and to promote socio-economic development within the context of the priorities and objectives of the developing countries, giving due regard to both economic and social benefits; Bearing in mind the responsibility of the Food and Agriculture Organization of the United Nations within the United Nations system, to assist the efforts of developing countries to increase food and agricultural production, as well as that organization’s technical competence and experience in this field; Conscious of the goals and objectives of the International Development Strategy for the Second United Nations Development Decade and especially the need to spread the benefits of assistance to all; Bearing in mind paragraph (f) of part 2 (“Food”) of Section I of General Assembly resolution 3202 (S-VI) on the Programme of Action on the Establishment of a New International Economic Order; Bearing in mind also the need for effecting transfer of technology for food and agricultural development and Section V (“Food and Agriculture”) of General Assembly resolution 3362 (S-VII) on development and international economic co-operation, with particular reference to paragraph 6 thereof regarding the establishment of an International Fund for Agricultural Development; Recalling paragraph 13 of General Assembly resolution 3348 (XXIX) and resolutions I and II of the World Food Conference on the objectives and strategies of food production and on the priorities for agricultural and rural development; Recalling resolution XIII of the World Food Conference which recognized: (i) the need for a substantial increase in investment in agriculture for increasing food and agricultural production in the developing countries; (ii) that provision of an adequate supply and proper utilization of food are the common responsibility of all members of the international community; and (iii) that the prospects of the world food situation call for urgent and co-ordinated measures by all countries; and which resolved: that an International Fund for Agricultural Development should be established immediately to finance agricultural development projects primarily for food production in the developing countries; The Contracting Parties have agreed to establish the International Fund for Agricultural Development, which shall be governed by the following provisions:*
 
-Erkennend dat het nog altijd bestaande mondiale voedsel vraagstuk een groot deel van de bevolking der ontwikkelingslanden zwaar treft en de meest fundamentele beginselen en waarden verband houdende met het recht op leven en het recht op menselijke waardigheid aantast;
+##### Article 1. Definitions
 
-Overwegend de noodzaak tot verbetering van de levensomstandigheden in de ontwikkelingslanden en tot bevordering van sociaal-economische ontwikkeling binnen het kader van de prioriteiten en doelstellingen van de ontwikkelingslanden, daarbij terdege rekening houdend met zowel economische als sociale voordelen;
+For the purposes of this Agreement the terms set out below shall have the following meaning, unless the context otherwise requires:
 
-Indachtig het feit dat de Voedsel- en Landbouworganisatie van de Verenigde Naties binnen het stelsel van de Verenigde Naties verantwoordelijk is voor het steunen van de pogingen van de ontwikkelingslanden tot verhoging van de voedsel- en landbouwproduktie, alsmede dat die organisatie technische bekwaamheid en ervaring op dit gebied bezit;
+- (a) “Fund” shall mean the International Fund for Agricultural Development;
 
-Zich bewust van de doelstellingen van de Internationale Ontwikkelingsstrategie voor het Tweede Ontwikkelingsdecennium van de Verenigde Naties en inzonderheid van de noodzaak de voordelen van hulp te doen uitstrekken tot een ieder;
+- (b) “food production” shall mean the production of food including the development of fisheries and livestock;
 
-Indachtig Sectie I, deel 2 („Voedsel”), paragraaf (f), van Resolutie 3202 (S-VI) van de Algemene Vergadering betreffende het Actieprogramma inzake de vestiging van een Nieuwe Internationale Economische Orde;
+- (c) “State” shall mean any State, or any grouping of States eligible for membership of the Fund in accordance with Section 1 (b) of Article 3;
 
-Voorts indachtig de noodzaak van overdracht van technologie voor ontwikkeling op voedsel- en landbouwgebied, en indachtig Sectie V („Voedsel en Landbouw”) van Resolutie 3362 (S-VII) van de Algemene Vergadering inzake ontwikkeling en internationale economische samenwerking, met name paragraaf 6 daarvan betreffende de instelling van een Internationaal Fonds voor Agrarische Ontwikkeling;
+- (d) “freely convertible currency” shall mean: “Currency of a Member” shall, in respect of a Member that is a grouping of States, mean the currency of any member of such grouping;
 
-Herinnerend aan paragraaf 13 van Resolutie 3348 (XXIX) van de Algemene Vergadering en aan Resoluties I en II van de Wereldvoedselconferentie betreffende doelstellingen en strategieën inzake voedselproduktie en betreffende prioriteiten voor de ontwikkeling van de landbouw en het platteland;
+   - (i) currency of a Member which the Fund determines, after consultation with the International Monetary Fund, is adequately convertible into the currencies of other Members for the purposes of the Fund’s operations; or
 
-Herinnerend aan Resolutie XIII van de Wereldvoedselconferentie, waarin wordt erkend:
+   - (ii) currency of a Member which such Member agrees, on terms satisfactory to the Fund, to exchange for the currencies of other Members for the purposes of the Fund’s operations.
 
-de noodzaak van aanzienlijke uitbreiding van de investeringen in de landbouw ter verhoging van de voedsel- en landbouw produktie in de ontwikkelingslanden;
+- (e) “Governor” shall mean a person whom a Member has designated as its principal representative at a session of the Governing Council;
 
-dat alle leden van de internationale gemeenschap gezamenlijk de verantwoordelijkheid dragen voor de totstandbrenging van een toereikende voedselvoorraad, alsook voor het juiste gebruik hiervan; en
+- (f) “votes cast” shall mean affirmative and negative votes.
 
-dat de vooruitzichten voor de wereldvoedselsituatie nopen tot het met spoed nemen van gecoördineerde maatregelen door alle landen,
+##### Article 2. Objective and functions
 
-en waarin werd besloten:
+The objective of the Fund shall be to mobilize additional resources to be made available on concessional terms for agricultural development in developing Member States. In fulfilling this objective the Fund shall provide financing primarily for projects and programmes specifically designed to introduce, expand or improve food production systems and to strengthen related policies and institutions within the framework of national priorities and strategies, taking into consideration: the need to increase food production in the poorest food deficit countries; the potential for increasing food production in other developing countries; and the importance of improving the nutritional level of the poorest populations in developing countries and the conditions of their lives.
 
-dat onmiddellijk een Internationaal Fonds voor Agrarische Ontwikkeling dient te worden ingesteld om projecten voor agrarische ontwikkeling die in eerste instantie zijn gericht op de voedselproduktie in de ontwikkelingslanden te financieren;
+##### Article 3. Membership
 
-Zijn de Overeenkomstsluitende Partijen overeengekomen een Internationaal Fonds voor Agrarische Ontwikkeling in te stellen, waarvoor de onderstaande bepalingen zullen gelden:
+Section 1 - Eligibility for membership
 
-##### Artikel 1. Begripsomschrijvingen
+- (a) Membership of the Fund shall be open to any State member of the United Nations or of any of its specialized agencies, or of the International Atomic Energy Agency.
 
-Voor de toepassing van deze Overeenkomst hebben de onderstaande termen de in dit artikel daaraan gehechte betekenis, tenzij het zinsverband anders vereist:
+- (b) Membership shall also be open to any grouping of States whose members have delegated to it powers in fields falling within the competence of the Fund, and which is able to fulfil all the obligations of a Member of the Fund.
 
-- (a). „Fonds”: het Internationaal Fonds voor Agrarische Ontwikkeling;
+Section 2 - Original Members and non-original Members
 
-- (b). „voedselproduktie”: de produktie van voedsel, met inbegrip van ontwikkeling van visserij en veeteelt;
+- (a) Original Members of the Fund shall be those States listed in Schedule I, which forms an integral part of this Agreement, that become parties to this Agreement in accordance with Section 1 (b) of Article 13.
 
-- (c). „Staat”: elke Staat of elke groep van Staten die in aanmerking komt voor lidmaatschap van het Fonds overeenkomstig artikel 3, eerste lid, letter (b);
+- (b) Non-original Members of the Fund shall be those other States that, after approval of their membership by the Governing Council, become parties to this Agreement in accordance with Section 1 (c) of Article 13.
 
-- (d). „vrij inwisselbare valuta”: „Valuta van een Lid”: ten aanzien van een Lid dat een groep van Staten is, de valuta van elk lid van een zodanige groep;
+Section 3 - limitation of liability
 
-- (i). de valuta van een Lid ten aanzien waarvan het Fonds bepaalt, na overleg met het Internationale Monetaire Fonds, dat deze valuta voldoende inwisselbaar is in de valuta’s van andere Leden ten behoeve van de verrichtingen van het Fonds; of
+No Member shall be liable, by reason of its membership, for acts or obligations of the Fund.
 
-- (ii). de valuta van een Lid ten aanzien waarvan dat Lid ermede instemt, deze op voor het Fonds bevredigende voorwaarden in te wisselen voor de valuta's van andere Leden ten behoeve van de verrichtingen van het Fonds;
+##### Article 4. Resources
 
-- (e). „Bestuurder”: een persoon die door een Lid is aangewezen als zijn voornaamste vertegenwoordiger op een zitting van de Raad van Bestuur;
+Section 1 - Resources of the Fund
 
-- (f). „uitgebrachte stemmen”: stemmen vóór en stemmen tegen.
+The resources of the Fund shall consist of:
 
-##### Artikel 2. Doel en functies
+- (i) initial contributions;
 
-Het doel van het Fonds is aanvullende middelen te mobiliseren, die op concessionele voorwaarden ter beschikking zullen worden gesteld voor agrarische ontwikkeling in Lid-Staten in ontwikkeling. Ter bereiking van dit doel verstrekt het Fonds financiële middelen, in de eerste plaats voor projecten en programma’s die er specifiek op zijn gericht voedselproduktiesystemen in te voeren, uit te breiden of te verbeteren en de daarmede samenhangende beleidslijnen en instellingen te verstevigen binnen het kader van nationale prioriteiten en strategieën, zulks met inachtneming van: de noodzaak tot vergroting van de voedselproduktie in de armste landen met een voedseltekort; de mogelijkheden voor verhoging van de voedselproduktie in andere ontwikkelingslanden; en het belang van verbetering van het voedingspeil en de levensomstandigheden van de armste bevolkingsgroepen in de ontwikkelingslanden.
+- (ii) additional contributions;
 
-##### Artikel 3. Lidmaatschap
+- (iii) special contributions from non-member States and from other sources;
 
-- (a). Het lidmaatschap van het Fonds staat open voor elke Staat die lid is van de Verenigde Naties, van een van haar gespecialiseerde organisaties, of van de Internationale Organisatie voor Atoomenergie.
+- (iv) funds derived or to be derived from operations or otherwise accruing to the Fund, including by borrowing from Members and other sources.
 
-- (b). Het lidmaatschap staat tevens open voor een groep van Staten waarvan de leden aan deze groep bevoegdheden hebben overgedragen op gebieden behorend tot het officiële arbeidsterrein van het Fonds, en welke groep in staat is alle verplichtingen van een Lid van het Fonds na te komen.
+Section 2 - Initial contributions
 
-- (a). De oorspronkelijke Leden van het Fonds zijn de Staten vermeld in Schema I, dat een integrerend deel van deze Overeenkomst vormt, en die partij bij deze Overeenkomst worden overeenkomstig artikel 13, eerste lid, letter (b).
+- (a) The amount of an initial contribution of an original and a non-original Member shall be the amount and in the currency of such contribution specified by the Member in its instrument of ratification, acceptance, approval or accession deposited by that Member pursuant to Section 1(b) and (c) of Article 13 of this Agreement.
 
-- (b). De niet-oorspronkelijke Leden van het Fonds zijn de andere Staten die, na goedkeuring van hun lidmaatschap door de Raad van Bestuur, partij bij deze Overeenkomst worden overeenkomstig artikel 13, eerste lid, letter (c).
+- (b) The initial contribution of each Member shall be due and payable in the forms set forth in Section 5 (b) and (c) of this Article, either in a single sum or, at the option of the Member, in three equal annual instalments. The single sum or the first annual instalment shall be due on the thirtieth day after this Agreement enters into force with respect to that Member; any second and third instalments shall be due on the first and on the second anniversary of the date on which the first instalment was due.
 
-Een Lid is niet, op grond van zijn lidmaatschap, aansprakelijk wat betreft handelingen of verplichtingen van het Fonds.
+Section 3 - Additional contributions
 
-##### Artikel 4. Middelen
+In order to assure continuity in the operations of the Fund, the Governing Council shall periodically, at such intervals as it deems appropriate, review the adequacy of the resources available to the Fund; the first such review shall take place not later than three years after the Fund commences operations. If the Governing Council, as a result of such a review, deems it necessary or desirable, it may invite Members to make additional contributions to the resources of the Fund on terms and conditions consistent with Section 5 of this Article. Decisions under this Section shall be taken by a two-thirds majority of the total number of votes.
 
-De middelen van het Fonds worden gevormd door:
+Section 4 - Increases in contributions
 
-- i. oorspronkelijke bijdragen;
+The Governing Council may authorize, at any time, a Member to increase the amount of any of its contributions.
 
-- ii. aanvullende bijdragen;
+Section 5 – Conditions Governing Contributions
 
-- iii. bijzondere bijdragen van niet-Lid-Staten en uit andere bronnen;
+- (a) Contributions shall be made without restriction as to use and shall be refunded to contributing Members only in accordance with [section 4 of article 9](https://wetten.overheid.nl/BWBV0003787).
 
-- iv. gelden verkregen of te verkrijgen uit verrichtingen of gelden die op andere wijze aan het Fonds toekomen, met inbegrip van leningen verstrekt door Leden en uit andere bronnen.
+- (b) Contributions shall be made in freely convertible currencies.
 
-- (a). De oorspronkelijke bijdrage van een oorspronkelijk Lid en een niet-oorspronkelijk Lid is het bedrag in de valuta aangegeven door het Lid in zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, nedergelegd door dat Lid ingevolge artikel 13, eerste lid, letters (b) en (c) van deze Overeenkomst.
+- (c) Contributions to the Fund shall be made in cash or, to the extent that any part of such contributions is not needed immediately by the Fund in its operations, such part may be paid in the form of non-negotiable, irrevocable, non-interest bearing promissory notes or obligations payable on demand. In order to finance its operations, the Fund shall draw down all contributions (regardless of the form in which they are made) as follows:
 
-- (b). De oorspronkelijke bijdrage van elk Lid is verschuldigd en moet worden betaald zoals bepaald in het vijfde lid, letters (b) en (c), van dit artikel, in een bedrag ineens of, naar keuze van het Lid, in drie gelijke jaarlijkse termijnen. Het bedrag ineens of de eerste jaarlijkse termijn is verschuldigd op de dertigste dag nadat deze Overeenkomst ten aanzien van dat Lid in werking is getreden; de tweede en de derde termijn zijn verschuldigd een jaar, onderscheidenlijk twee jaar na de datum waarop de eerste termijn verschuldigd was.
+   - (i) contributions shall be drawn down on a pro rata basis over reasonable periods of time as determined by the Executive Board;
 
-Ter verzekering van de continuïteit in de verrichtingen van het Fonds onderzoekt de Raad van Bestuur periodiek, met door deze Raad passend geachte tussenpozen, de toereikendheid van de het Fonds ter beschikking staande middelen; het eerste onderzoek vindt plaats uiterlijk drie jaar nadat het Fonds zijn verrichtingen heeft aangevangen.
+   - (ii) where a contribution is paid partly in cash, the part so paid shall be drawn down, in accordance with paragraph (i), before the rest of the contribution. Except to the extent that the part paid in cash is thus drawn down, it may be deposited or invested by the Fund to produce income to help defray its administrative and other expenditures:
 
-Indien de Raad van Bestuur het, als resultaat van een zodanig onderzoek, noodzakelijk of wenselijk acht, kan deze de Leden uitnodigen aanvullende bijdragen te verstrekken aan de middelen van het Fonds op voorwaarden die verenigbaar zijn met het vijfde lid van dit artikel. Besluiten krachtens dit lid worden genomen met een twee derde meerderheid van het totale aantal stemmen.
+   - (iii) all initial contributions, as well as any increases in them, shall be drawn down before any additional contributions are drawn down. The same rule shall apply to further additional contributions.
 
-De Raad van Bestuur kan te allen tijde een Lid machtigen het bedrag van een van zijn bijdragen te verhogen.
+- (d) Notwithstanding subsection (c) above, contributions to the Fund may also be made in the form of the grant element of a concessional partner loan; for this purpose, a “concessional partner loan” shall mean a loan provided by a Member or one of its state-supported institutions, which includes a grant element for the benefit of the Fund and is otherwise consistent with the Concessional Partner Loan Framework approved by the Executive Board; and “state-supported institution” shall mean any state-owned or state-controlled enterprise and development finance institution of a Member, with the exception of multilateral institutions.
 
-- a. De bijdragen worden verstrekt zonder beperkingen ten aanzien van het gebruik en worden alleen aan de bijdragende Leden terugbetaald overeenkomstig [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003787&artikel=9&z=2021-02-18&g=2021-02-18).
+- (e) Notwithstanding subsection (c) above, contributions to the Fund may also be made in the form of the discount or the credit generated from the early encashment of contributions in accordance with the mechanism approved by the Governing Council.
 
-- b. De bijdragen worden verstrekt in vrij inwisselbare valuta.
+Section 6 - Special contributions
 
-- c. De bijdragen aan het Fonds worden verstrekt in contant geld, of, voor zover het Fonds een deel van een zodanige bijdrage niet onmiddellijk nodig heeft voor zijn verrichtingen, in niet-overdraagbare, onherroepbare, niet-rentedragende promessen of schuldbewijzen die op aanvraag aflosbaar zijn. Voor de financiering van zijn verrichtingen wendt het Fonds alle bijdragen (ongeacht de vorm waarin zij zijn verstrekt) aan op de volgende wijze:
+The resources of the Fund may be increased by special contributions from non-member States or other sources on such terms and conditions, consistent with Section 5 of this Article, as shall be approved by the Governing Council on the recommendation of the Executive Board.
 
-- i. de bijdragen worden naar rato aangewend over door het College van Bewindvoerders redelijk geachte tijdvakken;
+Section 7 – Borrowing Activities
 
-- ii. wanneer een bijdrage gedeeltelijk in contant geld wordt betaald, wordt het aldus betaalde bedrag overeenkomstig het bepaalde in i. aangewend vóór het restant van de bijdrage. Behalve voor zover het in contant geld betaalde gedeelte aldus wordt aangewend, kan het door het Fonds worden gedeponeerd of belegd om inkomen te produceren ter bestrijding van zijn administratieve en andere uitgaven;
+The Fund shall be authorized to borrow funds from Member States or from other sources, buy and sell securities that the Fund has issued or guaranteed, and exercise such powers incidental to its borrowing activities as shall be necessary or desirable in furtherance of its purposes.
 
-- iii. alle oorspronkelijke bijdragen, alsmede verhogingen daarvan, worden aangewend voordat de aanvullende bijdragen worden aangewend. Dezelfde regel is van toepassing op toekomstige aanvullende bijdragen.
+##### Article 5. Currencies
 
-- d. Onverminderd letter (c) kunnen bijdragen aan het Fonds ook worden verstrekt in de vorm van een schenkingselement van een concessionele partnerlening; voor dit doel wordt onder „concessionele partnerlening” verstaan een lening die wordt verstrekt door een Lid of een van zijn door de staat gesteunde instellingen, die een schenkingselement ten behoeve van het Fonds omvat en anderszins in overeenstemming is met het door het College van Bewindvoerders goedgekeurde kader voor concessionele partnerleningen; en wordt onder „door de staat gesteunde instelling” verstaan een onderneming en instelling voor ontwikkelingsfinanciering die eigendom is van of wordt beheerst door de Staat van een Lid, met uitzondering van multilaterale instellingen.
+Section 1 - Use of currencies
 
-- e. Niettegenstaande de bovenstaande letter c, kunnen bijdragen aan het Fonds tevens gedaan worden in de vorm van de korting die of het krediet dat ontstaat uit de vroegtijdige inning van bijdragen in overeenstemming met het door de Raad van Bestuur goedgekeurde mechanisme.
+- (a) Members shall not maintain or impose any restriction on the holding or use by the Fund of freely convertible currencies.
 
-De middelen van het Fonds kunnen worden uitgebreid door bijzondere bijdragen van niet-Lid-Staten of uit andere bronnen op voorwaarden die verenigbaar zijn met het vijfde lid van dit artikel, en die worden goedgekeurd door de Raad van Bestuur op aanbeveling van het College van Bewindvoerders.
+- (b) The non-convertible currency contributions of a Member made to the Fund on account of that Member’s initial or additional contributions prior to 26 January 1995 may be used by the Fund, in consultation with the Member concerned, for the payment of administrative expenditures and other costs of the Fund in the territories of that Member, or, with the consent of that Member, for the payment of goods or services produced in its territories and required for activities financed by the Fund in other States.
 
-Het Fonds is gemachtigd gelden van Lid-Staten of uit andere bronnen te lenen, waardepapieren die het heeft uitgegeven of gegarandeerd te kopen of te verkopen, en de bevoegdheden uit te oefenen die bijkomstig zijn aan zijn leenactiviteiten voor zover deze noodzakelijk of wenselijk zijn bij het nastreven van zijn doeleinden.
+Section 2 - Valuation of currencies
 
-##### Artikel 5. Valuta’s
+- (a) The unit of account of the Fund shall be the Special Drawing Right of the International Monetary Fund.
 
-- (a). De Leden houden geen beperkingen in stand of leggen deze op ten aanzien van het bezit van of het gebruik door het Fonds van vrij inwisselbare valuta’s.
+- (b) For the purposes of this Agreement, the value of a currency in terms of the Special Drawing Right shall be calculated in accordance with the method of valuation applied by the International Monetary Fund, provided that:
 
-- (b). De bijdragen in niet inwisselbare valuta van een Lid die voor 26 januari 1995 aan het Fonds zijn betaald uit hoofde van de oorspronkelijke of aanvullende bijdrage van dat Lid, kunnen door het Fonds, in overleg met het betrokken Lid, worden gebruikt voor de betaling van administratieve uitgaven en andere kosten van het Fonds in de grondgebieden van dat Lid, of, met de toestemming van dat Lid, voor de betaling van goederen vervaardigd of diensten verleend in zijn grondgebieden die nodig zijn voor door het Fonds in andere Staten gefinancierde activiteiten.
+   - (i) in the case of the currency of a member of the International Monetary Fund for which such value is not available on a current basis, the value shall be calculated after consultation with the International Monetary Fund;
 
-- (a). De rekeneenheid van het Fonds is het Bijzondere Trekkingsrecht van het Internationale Monetaire Fonds.
+   - (ii) in the case of the currency of a non-member of the International Monetary Fund, the value of the currency in terms of the Special Drawing Right shall be calculated by the Fund on the basis of an appropriate exchange rate relationship between that currency and the currency of a member of the International Monetary Fund for which a value is calculated as specified above.
 
-- (b). Voor de toepassing van deze Overeenkomst wordt de waarde van een valuta uitgedrukt in het Bijzondere Trekkingsrecht berekend overeenkomstig de methode van waardebepaling toegepast door het Internationale Monetaire Fonds, met dien verstande dat:
+##### Article 6. Organization and management
 
-- (i). in het geval van de valuta van een lid van het Internationale Monetaire Fonds waarvoor een zodanige waarde niet op lopende basis beschikbaar is, de waarde wordt berekend na overleg met het Internationale Monetaire Fonds;
+Section 1 - Structure of the Fund The Fund shall have:
 
-- (ii). in het geval van de valuta van een Staat die geen lid is van het Internationale Monetaire Fonds, de in het Bijzondere Trekkingsrecht uitgedrukte waarde van de valuta door het Fonds wordt berekend op de basis van een passende wisselkoersverhouding tussen die valuta en de valuta van een lid van het Internationale Monetaire Fonds waarvoor een waarde is berekend zoals hierboven aangegeven.
+The Fund shall have:
 
-##### Artikel 6. Organisatie en beheer
+- (a) a Governing Council;
 
-Het Fonds bezit:
+- (b) an Executive Board;
 
-- (a). een Raad van Bestuur;
+- (c) a President and such staff as shall be necessary for the Fund to carry out its functions.
 
-- (b). een College van Bewindvoerders;
+Section 2 - The Governing Council
 
-- (c). een President en de staf die het Fonds nodig heeft om zijn functies te kunnen vervullen.
+- (a) Each Member shall be represented on the Governing Council and shall appoint one Governor and an alternate. An alternate may vote only in the absence of his principal.
 
-- (a). Elk Lid is vertegenwoordigd in de Raad van Bestuur en benoemt een Bestuurder en een plaatsvervanger. Een plaatsvervanger heeft alleen stemrecht bij afwezigheid van de Bestuurder wiens plaatsvervanger hij is.
+- (b) All the powers of the Fund shall be vested in the Governing Council.
 
-- (b). Alle bevoegdheden van het Fonds worden gelegd in handen van de Raad van Bestuur.
+- (c) The Governing Council may delegate any of its powers to the Executive Board with the exception of the power to:
 
-- (c). De Raad van Bestuur kan al zijn bevoegdheden overdragen aan het College van Bewindvoerders, behalve de bevoegdheid:
+   - (i) adopt amendments to this Agreement;
 
-- i. wijzigingen op deze Overeenkomst aan te nemen;
+   - (ii) approve membership;
 
-- ii. lidmaatschappen goed te keuren;
+   - (iii) suspend a Member;
 
-- iii. een Lid te schorsen;
+   - (iv) terminate the operations of the Fund and distribute its assets;
 
-- iv. de verrichtingen van het Fonds te beëindigen en zijn activa te verdelen;
+   - (v) decide appeals from decisions made by the Executive Board concerning the interpretation or application of this Agreement;
 
-- v. te beslissen inzake beroepen tegen besluiten van het College van Bewindvoerders betreffende de uitlegging of toepassing van deze Overeenkomst;
+   - (vi) determine the remuneration of the President.
 
-- vi. de bezoldiging van de President vast te stellen.
+- (d) The Governing Council shall hold an annual session, and such special sessions as it may decide, or as are called by Members having at least one fourth of the total number of votes in the Governing Council, or as requested by the Executive Board by a two-thirds majority of the votes cast.
 
-- (d). De Raad van Bestuur houdt een jaarlijkse zitting alsmede de bijzondere zittingen waartoe deze besluit of die worden bijeengeroepen door Leden die ten minste een vierde van het aantal stemmen in de Raad van Bestuur bezitten, dan wel op verzoek van het College van Bewindvoerders met een twee derde meerderheid van de uitgebrachte stemmen.
+- (e) The Governing Council may by regulation establish a procedure whereby the Executive Board may obtain a vote of the Council on a specific question without calling a meeting of the Council.
 
-- (e). De Raad van Bestuur kan door middel van een regeling een procedure vaststellen waarbij het College van Bewindvoerders een beslissing van de Raad betreffende een bepaald vraagstuk kan verkrijgen zonder daarvoor een vergadering van de Raad bijeen te roepen.
+- (f) The Governing Council may, by a two-thirds majority of the total number of votes, adopt such regulations and by-laws not inconsistent with this Agreement as may be appropriate to conduct the business of the Fund.
 
-- (f). De Raad van Bestuur kan met een twee derde meerderheid van het totale aantal stemmen niet met deze Overeenkomst strijdige regelingen en voorschriften aannemen, die dienstig zijn voor de leiding der zaken van het Fonds.
+- (g) A quorum for any meeting of the Governing Council shall be constituted by Governors exercising two-thirds of the total votes of all its members.
 
-- (g). Het quorum voor een vergadering van de Raad van Bestuur wordt gevormd door de Bestuurders die twee derde van het totale aantal stemmen van alle leden van de Raad bezitten.
+Section 3 - Voting in the Governing Council
 
-- a. Het totale aantal stemmen in de Raad van Bestuur bestaat uit oorspronkelijke stemmen en stemmen op basis van aanvullende bijdragen. Alle Leden hebben in gelijke mate de beschikking over deze stemmen op de volgende basis:
+- (a) The total number of votes in the Governing Council shall be comprised of Original Votes and Replenishment Votes. All Members shall have equal access to those votes on the following basis:
 
-- i. Het aantal **oorspronkelijke stemmen** bedraagt in totaal achttienhonderd (1800) en bestaat uit stemmen op basis van lidmaatschap en stemmen op basis van bijdrage;
+   - (i) *Original Votes* shall consist of a total of one thousand eight hundred (1 800) votes made up of membership votes and contribution votes:
 
-- A. De **stemmen op basis van lidmaatschap** worden gelijkelijk onder alle Leden verdeeld; en
+      - (A) *membership votes* shall be distributed equally among all Members; and
 
-- B. De**stemmen op basis van bijdrage** worden onder alle Leden verdeeld evenredig met de verhouding tussen de door elk Lid betaalde cumulatieve bijdragen aan de middelen van het Fonds, goedgekeurd door de Raad van Bestuur voor 26 januari 1995 en door de Leden verstrekt in overeenstemming met artikel 4, tweede, derde en vierde lid van deze Overeenkomst, en het totale bedrag van de desbetreffende door alle Leden betaalde bijdragen;
+      - (B) *contribution votes*shall be distributed among all Members in the proportion that each Member’s cumulative paid contributions to the resources of the Fund, authorized by the Governing Council prior to 26 January 1995 and made by Members in accordance with Sections 2, 3 and 4 of Article 4 of this Agreement, bear to the aggregate of the total of the said contributions paid by all Members;
 
-- ii. **Stemmen op basis van aanvullende bijdragen** bestaan uit stemmen op basis van lidmaatschap en stemmen op basis van bijdrage, waarbij het totale aantal stemmen wordt bepaald door de Raad van Bestuur telkens wanneer hij verzoekt om aanvullende bijdragen uit hoofde van artikel 4, derde lid, van deze Overeenkomst (een „aanvulling”) te beginnen met de vierde van deze aanvullingen. Tenzij de Raad van Bestuur met een tweederdemeerderheid van het totale aantal stemmen anders beslist, worden de stemmen voor elke aanvulling vastgesteld in de verhouding van honderd (100) stemmen voor het equivalent van elke honderdachtenvijftig miljoen US dollar (USD 158 000 000) dat wordt bijgedragen aan het totale bedrag van die aanvulling, of een deel daarvan;
+   - (ii) *Replenishment Votes* shall be made up of membership votes and contribution votes in a total amount of votes to be decided by the Governing Council upon each occasion that it calls for additional contributions under Section 3 of Article 4 of this Agreement (a “replenishment”) commencing with the fourth such replenishment. Except as the Governing Council shall by a two-thirds majority of the total number of votes otherwise decide, the votes for each replenishment shall be established in the ratio of one hundred (100) votes for the equivalent of each one hundred and fifty eight million United States dollars (USD 158 000 000) contributed to the total amount of that replenishment, or a fraction thereof:
 
-- A. **Stemmen op basis van lidmaatschap** worden gelijkelijk onder de Leden verdeeld op dezelfde basis als vervat in de bovenstaande bepaling (i) (A); en
+      - (A) *membership votes* shall be distributed equally among all Members on the same basis as that set forth in provision (i)(A) above; and
 
-- B. **Stemmen op basis van bijdrage** worden onder de Leden verdeeld evenredig met de verhouding tussen de door elk Lid betaalde bijdrage aan de middelen die bij elke aanvulling door de Leden aan het Fonds worden bijgedragen en het totale bedrag van de door alle Leden betaalde bijdragen ten behoeve van de betreffende aanvulling; en
+      - (B) *contribution votes* shall be distributed among all Members in the proportion that each Member’s paid contribution to the resources contributed to the Fund by Members for each replenishment bears to the aggregate of the total contributions paid by all Members to the said replenishment; and
 
-- iii. De Raad van Bestuur bepaalt het totale aantal stemmen dat uit hoofde van de onderdelen (i) en (ii) van dit lid wordt toegewezen als stemmen op basis van lidmaatschap en stemmen op basis van bijdrage. Na elke wijziging van het aantal Leden van het Fonds worden de stemmen op basis van lidmaatschap 27 139 en de stemmen op basis van bijdrage die uit hoofde van de onderdelen (i) en (ii) van dit lid zijn toegewezen opnieuw verdeeld in overeenstemming met de beginselen vervat in de genoemde onderdelen. Bij het toewijzen van stemmen waarborgt de Raad van Bestuur dat de Leden die voor 26 januari 1995 waren ingedeeld als leden in categorie III, een derde van het totale aantal stemmen als stemmen op basis van lidmaatschap krijgen.3)De toewijzing van stemmen geschiedt in overeenstemming met de grondbeginselen die door de Raad van Bestuur zijn goedgekeurd in het Verslag van de Bijzondere Commissie en in het bijzonder onderdeel 5 daarvan. De Raad van Bestuur neemt bij elke aanvulling een resolutie aan ter zake van de aanvulling en de verdeling van stemmen onder de Leden van de Raad van Bestuur en het College van Bewindvoerders voor elk tijdvak van aanvulling vanaf de Vierde Aanvulling. De resolutie inzake de Vierde Aanvulling bevat details over de stemmen die onder de Leden worden verdeeld tot en met het einde van het tijdvak van de Derde Aanvulling.
+   - (iii) The Governing Council shall decide the total number of votes to be allocated as membership votes and contribution votes under paragraphs (i) and (ii) of this Section. Upon any change in the number of Members of the Fund, the membership votes and contribution votes distributed under paragraphs (i) and (ii) of this Section shall be redistributed in accordance with the principles laid down in the said paragraphs. In the allocation of votes, the Governing Council shall ensure that those Members classified as members of Category III before 26 January 1995 receive one-third of the total votes as membership votes.3)The allocation of votes shall be in accordance with the basic principles approved by the Governing Council in the Report of the Special Committee and, in particular, paragraph 5 thereof. The Governing Council, at each replenishment, will adopt a resolution dealing with the replenishment and the distribution of votes among Members of the Governing Council and the Executive Board for each replenishment period from the Fourth Replenishment onwards. The resolution on the Fourth Replenishment will contain details of the votes distributed to Members up to the end of the Third Replenishment period.
 
-- b. Ten behoeve van het bovenstaande derde lid, letter a, paragrafen i.B en ii.B, wordt het schenkingselement van een concessionele partnerlening en de korting die of het krediet dat ontstaat uit de vroegtijdige inning van bijdragen beschouwd als “betaalde bijdragen” en de stemmen op basis van bijdragen worden dienovereenkomstig verdeeld; en
+- (b) For the purposes of Section 3 (a)(i)(B) and (ii)(B) above, the grant element of a concessional partner loan and the discount or the credit generated from the early encashment of contributions shall be considered as “paid contributions” and contributions votes shall be distributed accordingly; and
 
-- c. Behalve voor zover anders in deze Overeenkomst bepaald, worden besluiten van de Raad van Bestuur genomen met een enkelvoudige meerderheid van het totale aantal stemmen.
+- (c) Except as otherwise specified in this Agreement, decisions of the Governing Council shall be taken by a simple majority of the total number of votes.
 
-De Raad van Bestuur kiest uit zijn midden een Voorzitter met een ambtstermijn van twee jaar.
+Section 4 - Chairman of the Governing Council
 
-- (a). Het College van Bewindvoerders bestaat uit 18 leden en ten hoogste 18 plaatsvervangers, gekozen uit de Leden van het Fonds tijdens de jaarlijkse zitting van de Raad van Bestuur. De zetels in het College van Bewindvoerders worden door de Raad van Bestuur van tijd tot tijd verdeeld en aangegeven in Schema II bij deze Overeenkomst. De leden van het College van Bewindvoerders en hun plaatsvervangers, die alleen stemrecht hebben bij afwezigheid van een lid, worden gekozen en benoemd overeenkomstig de procedures vervat in Schema II hierbij, dat een integrerend onderdeel van deze Overeenkomst vormt.
+The Governing Council shall elect a Chairman from among the Governors, who shall serve for two years.
 
-- (b). De leden van het College van Bewindvoerders hebben een ambtstermijn van drie jaar.
+Section 5 - Executive Board
 
-- (c). Het College van Bewindvoerders is verantwoordelijk voor de algemene verrichtingen van het Fonds en oefent hiertoe de bevoegdheden uit die dit College zijn toegekend bij deze Overeenkomst of daaraan zijn overgedragen door de Raad van Bestuur.
+- (a) The Executive Board shall be composed of 18 members and up to 18 alternate members, elected from the Members of the Fund at the annual session of the Governing Council. The seats in the Executive Board shall be distributed by the Governing Council from time to time and specified in Schedule II to this Agreement. The members of the Executive Board and their alternates, who may vote only in the absence of a member, shall be elected and appointed in accordance with the procedures set forth in Schedule II hereto, which forms an integral part of this Agreement.
 
-- (d). Het College van Bewindvoerders komt zo vaak bijeen als de zaken van het Fonds vereisen.
+- (b) Members of the Executive Board shall serve for a term of three years.
 
-- (e). De vertegenwoordigers van een lid of van een plaatsvervangend lid van het College van Bewindvoerders nemen hun functies waar zonder vergoeding van het Fonds. De Raad van Bestuur kan evenwel de grondslag vaststellen waarop redelijke reis- en verblijfkosten kunnen worden toegekend aan één vertegenwoordiger van elk lid en van elk plaatsvervangend lid.
+- (c) The Executive Board shall be responsible for the conduct of the general operations of the Fund, and for this purpose shall exercise the powers given to it by this Agreement or delegated to it by the Governing Council.
 
-- (f). Het quorum voor een vergadering van het College van Bewindvoerders wordt gevormd door de leden die twee derde van het totale aantal stemmen van alle leden van het College bezitten.
+- (d) The Executive Board shall meet as often as the business of the Fund may require.
 
-- (a). De Raad van Bestuur beslist van tijd tot tijd over de verdeling van stemmen onder de leden van het College van Bewindvoerders in overeenstemming met de beginselen vastgelegd in artikel 6, derde lid, letter a, van deze Overeenkomst.4)De toewijzing van stemmen geschiedt in overeenstemming met de grondbeginselen die door de Raad van Bestuur zijn goedgekeurd in het Verslag van de Bijzondere Commissie en in het bijzonder onderdeel 5 daarvan. De Raad van Bestuur neemt bij elke aanvulling een resolutie aan ter zake van de aanvulling en de verdeling van stemmen onder Leden van de Raad van Bestuur en het College van Bewindvoerders voor elk tijdvak van aanvulling vanaf de Vierde Aanvulling. De resolutie inzake de Vierde Aanvulling bevat details over de stemmen die onder de Leden worden verdeeld tot en met het einde van het tijdvak van de Derde Aanvulling.
+- (e) The representatives of a member or of an alternate member of the Executive Board shall serve without remuneration from the Fund. However, the Governing Council may decide the basis on which reasonable travel and subsistence expenses may be granted to one such representative of each member and of each alternate member.
 
-- (b). Behalve voor zover anders in deze Overeenkomst bepaald, worden besluiten van het College van Bewindvoerders genomen met een drie vijfde meerderheid van de uitgebrachte stemmen, mits deze meerderheid groter is dan de helft van het totale aantal stemmen van alle leden van het College van Bewindvoerders.
+- (f) A quorum for any meeting of the Executive Board shall be constituted by members exercising two-thirds of the total votes of all its members.
 
-De President van het Fonds is de Voorzitter van het College van Bewindvoerders en neemt zonder stemrecht deel aan de vergaderingen.
+Section 6 - Voting in the Executive Board
 
-- (a). De Raad van Bestuur benoemt de President met een twee derde meerderheid van het totale aantal stemmen. Hij wordt benoemd voor een ambtstermijn van vier jaar en kan worden herbenoemd voor nog slechts één ambtstermijn. De aanstelling van de President kan worden beëindigd door de Raad van Bestuur met een twee derde meerderheid van het totale aantal stemmen.
+- (a) The Governing Council shall, from time to time, decide the distribution of votes among the members of the Executive Board in accordance with the principles established in Section 3(a) of Article 6 of this Agreement.4)The allocation of votes shall be in accordance with the basic principles approved by the Governing Council in the Report of the Special Committee and, in particular, paragraph 5 thereof. The Governing Council, at each replenishment, will adopt a resolution dealing with the replenishment and the distribution of votes among Members in the Governing Council and the Executive Board for each replenishment period from the Fourth Replenishment onwards. The resolution on the Fourth Replenishment will contain details of the votes distributed to Members up to the end of the Third Replenishment period.
 
-- (b). Niettegenstaande de beperking van de ambtstermijn van de President tot vier jaar, vervat in letter a van dit lid, kan de Raad van Bestuur, op aanbeveling van het College van Bewindvoerders, de duur van de in letter a voorgeschreven ambtstermijn van de President verlengen. Een dergelijke verlenging kan de zes maanden niet overschrijden.
+- (b) Except as otherwise specified in this Agreement, decisions of the Executive Board shall be taken by a majority of three fifths of the votes cast, provided that such majority is more than one half of the total number of votes of all members of the Executive Board.
 
-- c). De President kan een Vice-President benoemen, die de taken vervult welke hem door de President zijn opgedragen.
+Section 7 - Chairman of the Executive Board
 
-- (d). De President staat aan het hoofd van de staf en is onder het toezicht en de leiding van de Raad van Bestuur en het College van Bewindvoerders, verantwoordelijk voor de leiding der zaken van het Fonds. De President regelt de organisatie van de staf en benoemt en ontslaat de leden daarvan overeenkomstig de door de Raad van Bestuur vastgestelde regelingen.
+The President of the Fund shall be the Chairman of the Executive Board and shall participate in its meetings without the right to vote.
 
-- (e). Bij de aanstelling van de staf en de vaststelling van de arbeidsvoorwaarden wordt rekening gehouden met de noodzaak de hoogste normen van doelmatigheid, bekwaamheid en integriteit te verzekeren, alsmede met het belang van het in acht nemen van het beginsel van een billijke geografische verdeling.
+Section 8 - President and staff
 
-- (f). Bij de uitoefening van hun functies zijn de President en de staf uitsluitend verantwoording schuldig aan het Fonds en vragen noch ontvangen zij instructies van enige autoriteit buiten het Fonds. Elk Lid van het Fonds eerbiedigt het internationale karakter van deze functies en onthoudt zich van alle pogingen hen te beïnvloeden bij de uitoefening daarvan.
+- (a) The Governing Council shall appoint the President by a two-thirds majority of the total number of votes. He shall be appointed for a term of four years and shall be eligible for reappointment for only one further term. The appointment of the President may be terminated by the Governing Council by a two-thirds majority of the total number of votes.
 
-- (g). De President en de staf mengen zich niet in de politieke aangelegenheden van een Lid. Bij het nemen van hun beslissingen laten zij zich uitsluitend leiden door overwegingen van ontwikkelingsbeleid en deze overwegingen worden onpartijdig tegen elkaar afgewogen ten einde het doel te bereiken waarvoor het Fonds is opgericht.
+- (b) Notwithstanding the restriction on the term of office of the President of four years, contained in paragraph (a) of this Section, the Governing Council may, under special circumstances, on the recommendation of the Executive Board, extend the term of office of the President beyond the duration prescribed in paragraph (a) above. Any such extension shall be for no more than six months.
 
-- (h). De President is de vertegenwoordiger in rechte van het Fonds.
+- (c) The President may appoint a Vice-President, who shall perform such duties as shall be assigned to him by the President.
 
-- (i). De President of een door hem aangewezen vertegenwoordiger kan, zonder stemrecht, deelnemen aan alle vergaderingen van de Raad van Bestuur.
+- (d) The President shall head the staff and, under the control and direction of the Governing Council and the Executive Board, shall be responsible for conducting the business of the Fund. The President shall organize the staff and shall appoint and dismiss members of the staff in accordance with regulations adopted by the Executive Board.
 
-De Raad van Bestuur bepaalt met een twee derde meerderheid van het totale aantal stemmen de permanente zetel van het Fonds. De voorlopige zetel van het Fonds is te Rome gevestigd.
+- (e) In the employment of the staff and in the determination of the conditions of service consideration shall be given to the necessity of securing the highest standards of efficiency, competence and integrity as well as to the importance of observing the criterion of equitable geographical distribution.
 
-De President stelt een jaarlijkse administratieve begroting op, die hij voorlegt aan het College van Bewindvoerders voor toezending aan de Raad van Bestuur ter goedkeuring met een twee derde meerderheid van het totale aantal stemmen.
+- (f) The President and the staff, in the discharge of their functions, owe their duty exclusively to the Fund and shall neither seek nor receive instructions in regard to the discharge thereof from any authority external to the Fund. Each Member of the Fund shall respect the international character of this duty and shall refrain from any attempt to influence them in the discharge of their duties.
 
-Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd overzicht van zijn boekhouding omvat en, met passende tussenpozen, een beknopt overzicht van zijn financiële positie en van de resultaten van zijn verrichtingen. Exemplaren van deze verslagen, overzichten en andere daarmede samenhangende publikaties worden verstrekt aan alle Leden.
+- (g) The President and the staff shall not interfere in the political affairs of any Member. Only development policy considerations shall be relevant to their decisions and these considerations shall be weighed impartially in order to achieve the objective for which the Fund was established.
 
-##### Artikel 7. Verrichtingen
+- (h) The President shall be the legal representative of the Fund.
 
-- (a). De middelen van het Fonds worden gebruikt ter verwezenlijking van het in artikel 2 aangegeven doel.
+- (i) The President, or a representative designated by him, may participate, without the right to vote, in all meetings of the Governing Council.
 
-- (b). Er worden door het Fonds alleen financiële middelen verstrekt ten behoeve van Lidstaten in ontwikkeling. Dergelijke financiële middelen kunnen rechtstreeks aan Lidstaten in ontwikkeling of staatkundige onderdelen daarvan worden verstrekt of via intergouvernementele organisaties waarin zulke Leden deelnemen of aan, of via, nationale ontwikkelingsbanken, organisaties en ondernemingen in de private sector, of andere entiteiten die van tijd tot tijd door de Raad van Bestuur worden beoordeeld. In het geval van een lening aan een entiteit anders dan een Lid-Staat, kan het Fonds passende gouvernementele of andere waarborgen eisen, tenzij de Raad van Bestuur anderszins besluit op basis van een grondige beoordeling van de bijbehorende risico’s en waarborgen.
+Section 9 - Seat of the Fund
 
-- (c). Het Fonds treft maatregelen ter verzekering dat de financiële middelen alleen worden gebruikt voor de doeleinden waarvoor ze werden verstrekt, waarbij naar behoren rekening wordt gehouden met overwegingen van zuinigheid, doelmatigheid en sociale rechtvaardigheid.
+The Governing Council shall determine the permanent seat of the Fund by a two-thirds majority of the total number of votes. The provisional seat of the Fund shall be in Rome.
 
-- (d). Bij de toewijzing van zijn middelen laat het Fonds zich leiden door de onderstaande prioriteiten: Binnen het kader van bovengenoemde prioriteiten wordt hulp verleend op basis van objectieve economische en sociale criteria, waarbij bijzondere nadruk wordt gelegd op de behoeften van de landen met een laag inkomen en hun mogelijkheden voor verhoging van de voedselproduktie; voorts wordt terdege rekening gehouden met het beginsel van een billijke geografische verdeling van deze middelen.
+Section 10 - Administrative budget
 
-- (i). de noodzaak tot verhoging van de voedselproduktie en verbetering van het voedingspeil van de armste bevolkingsgroepen in de armste landen met een voedseltekort;
+The President shall prepare an annual administrative budget which he shall submit to the Executive Board for transmission to the Governing Council for approval by a two-thirds majority of the total number of votes.
 
-- (ii). de mogelijkheden voor verhoging van de voedselproduktie in andere ontwikkelingslanden. Tevens wordt de nadruk gelegd op verbetering van het voedingspeil van de armste bevolkingsgroepen in deze landen en van hun levensomstandigheden.
+Section 11 - Publication of reports and provision of information
 
-- (e). Onverminderd de bepalingen van deze Overeenkomst gelden voor de financiering door het Fonds algemene beleidslijnen, criteria en voorschriften die van tijd tot tijd door de Raad van Bestuur worden vastgesteld met een twee derde meerderheid van het totale aantal stemmen.
+The Fund shall publish an annual report containing an audited statement of its accounts and, at appropriate intervals, a summary statement of its financial position and of the results of its operations. Copies of such reports, statements and other publications connected therewith shall be distributed to all Members.
 
-- (a). Financiering door het Fonds kan geschieden in de vorm van leningen, schenkingen, een mechanisme ten behoeve van houdbare schulden, eigen vermogen of andere middelen, die worden verstrekt op door het Fonds passend geachte voorwaarden, rekening houdend met de economische situatie en vooruitzichten van het Lid en met de aard en behoeften van de betrokken activiteit. Het Fonds kan tevens, door middel van een besluit van het College van Bewindvoerders, aanvullende financiële middelen verstrekken voor de opzet en uitvoering van projecten en programma's, gefinancierd door het Fonds via leningen, schenkingen, een mechanisme ten behoeve van houdbare schulden, eigen vermogen of andere middelen.
+##### Article 7. Operations
 
-- (b). Het deel van de middelen van het Fonds dat in een boekjaar kan worden vastgelegd voor financieringstransacties in elk van de in letter (a) bedoelde vormen wordt van tijd tot tijd door het College van Bewindvoerders bepaald, waarbij terdege rekening wordt gehouden met de levensvatbaarheid van het Fonds op de lange termijn en met de noodzaak van continuïteit in zijn verrichtingen. Het deel van de schenkingen mag normaal niet meer bedragen dan een achtste van de in een boekjaar vastgelegde middelen. Het College van Bewindvoerders stelt een mechanisme ten behoeve van houdbare schulden en de bijbehorende procedures en modaliteiten in; de uit hoofde daarvan verstrekte financiële middelen tellen niet mee voor het in het voorgaande bedoelde schenkingsplafond. Een groot deel van de leningen wordt verstrekt op zeer concessionele voorwaarden.
+Section 1 - Use of resources and conditions of financing
 
-- (c). De President legt het College van Bewindvoerders projecten en programma’s voor ter beoordeling en goedkeuring.
+- (a) The resources of the Fund shall be used to achieve the objective specified in Article 2.
 
-- (d). De besluiten ten aanzien van de keuze en goedkeuring van projecten en programma’s worden genomen door het College van Bewindvoerders. Zodanige besluiten worden genomen op basis van de algemene beleidslijnen, criteria en voorschriften die zijn vastgesteld door de Raad van Bestuur.
+- (b) Financing by the Fund shall be provided only for the benefit of developing States that are Members of the Fund. Such financing may be provided directly to developing Member States or political subdivisions thereof, or through intergovernmental organizations in which such Members participate or to, or through, national development banks, private sector organizations and enterprises, or other entities as assessed from time to time by the Executive Board. In the case of a loan provided to an entity other than a Member State, the Fund shall normally require a suitable governmental or other guarantees, unless the Executive Board decides otherwise on the basis of a thorough assessment concerning related risks and safeguards.
 
-- (e). Voor de beoordeling van aan het Fonds ter financiering voorgelegde projecten en programma’s maakt het Fonds in de regel gebruik van de diensten van internationale instellingen en het kan, waar passend, gebruik maken van de diensten van andere bevoegde op dit terrein gespecialiseerde organisaties. Deze instellingen en organisaties worden door het College van Bewindvoerders gekozen na overleg met de betrokken ontvangende partij en zijn bij het verrichten van de beoordeling rechtstreeks verantwoordelijk jegens het Fonds.
+- (c) The Fund shall make arrangements to ensure that the proceeds of any financing are used only for the purposes for which the financing was provided, with due attention to considerations of economy, efficiency and social equity.
 
-- (f). De leningsovereenkomst, of andere overeenkomsten waar relevant, worden per geval gesloten door het Fonds en de ontvangende partij, die verantwoordelijk is voor de uitvoering van het betrokken project of programma.
+- (d) In allocating its resources the Fund shall be guided by the following priorities: Within the framework of the above-mentioned priorities, eligibility for assistance shall be on the basis of objective economic and social criteria with special emphasis on the needs of the low income countries and their potential for increasing food production, as well as due regard to a fair geographic distribution in the use of such resources.
 
-- (g). Tenzij het College van Bewindsvoerders anders besluit, vertrouwt het Fonds het beheer van de leningen, wat de uitbetaling van de opbrengst van de lening en het toezicht op de uitvoering van het betrokken project of programma betreft, toe aan de bevoegde nationale, regionale of internationale of andere instellingen of entiteiten. Deze instellingen of entiteiten zijn van mondiale, regionale of nationale aard en worden per geval gekozen met de goedkeuring van de ontvangende partij. Voordat het Fonds de lening ter goedkeuring voorlegt aan het College van Bewindvoerders, overtuigt het zich ervan dat de instelling of entiteit waaraan het toezicht wordt toevertrouwd, instemt met de resultaten van de beoordeling van het betrokken project of programma. Dit wordt overeengekomen tussen het Fonds en de met de beoordeling belaste instelling of organisatie, alsmede met de instelling of entiteit waaraan het toezicht zal worden opgedragen.
+   - (i) the need to increase food production and to improve the nutritional level of the poorest populations in the poorest food deficit countries;
 
-- (h). Voor de toepassing van het bepaalde in de letters (f) en (g) hierboven worden verwijzingen naar „leningen” geacht mede „schenkingen” te omvatten.
+   - (ii) the potential for increasing food production in other developing countries. Likewise, emphasis shall be placed on improving the nutritional level of the poorest populations in these countries and the conditions of their lives.
 
-- (i). Het Fonds kan een krediet openstellen voor een nationale ontwikkelingsorganisatie, waarmee deze, overeenkomstig de voorwaarden van de leningsovereenkomst en de modaliteiten vastgesteld door het Fonds, deelleningen kan verstrekken en beheren ter financiering van projecten en programma’s. Alvorens het College van Bewindvoerders de openstelling van een zodanig krediet goedkeurt, wordt de betrokken nationale ontwikkelingsorganisatie en haar programma beoordeeld overeenkomstig het bepaalde in letter (e). De uitvoering van genoemd programma is onderworpen aan het toezicht van de instellingen die zijn gekozen overeenkomstig het bepaalde in letter (g).
+- (e) Subject to the provisions of this Agreement, financing by the Fund shall be governed by broad policies, criteria and regulations laid down, from time to time, by the Governing Council by a two-thirds majority of the total number of votes.
 
-- (j). Het College van Bewindvoerders stelt passende voorschriften vast voor de aankoop van goederen en de betaling van diensten die uit de middelen van het Fonds zullen worden gefinancierd. Deze voorschriften dienen in de regel in overeenstemming te zijn met de beginselen van internationale inschrijvingen en dienen waar mogelijk de voorkeur te geven aan deskundigen, technici en goederen uit de ontwikkelingslanden.
+Section 2 - Forms and terms of financing
 
-Behalve de elders in deze Overeenkomst aangegeven verrichtingen kan het Fonds bijkomende activiteiten ondernemen en in het kader van zijn verrichtingen alle bevoegdheden uitoefenen die noodzakelijk zijn ter verwezenlijking van zijn doel.
+- (a) Financing by the Fund may take the form of loans, grants, a debt sustainability mechanism, equity or other means, which shall be provided on such terms as the Fund deems appropriate, having regard for the economic situation and prospects of the Member and the nature and requirements of the activity concerned. The Fund may also provide additional financing for the design and implementation of projects and programmes, financed by the Fund through loans, grants, debt sustainability mechanisms, equity or other means, as the Executive Board shall decide.
 
-##### Artikel 8. Betrekkingen met de Verenigde Naties en met andere organisaties, instellingen en organen
+- (b) The proportion of the Fund’s resources to be committed in any financial year for financing operations in any of the forms referred to in subsection (a) shall be decided from time to time by the Executive Board with due regard to the long-term viability of the Fund and the need for continuity in its operations. The proportion of grants shall not normally exceed one-eighth of the resources committed in any financial year. A debt sustainability mechanism and the procedures and modalities therefor shall be established by the Executive Board and financing provided thereunder shall not fall within the abovementioned grant ceiling. A large proportion of the loans shall be provided on highly concessional terms.
 
-Het Fonds knoopt onderhandelingen aan met de Verenigde Naties om een overeenkomst te sluiten ten einde betrekkingen aan te gaan met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in [artikel 57 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Voor overeenkomsten gesloten ingevolge [artikel 63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) is de goedkeuring vereist, met een twee derde meerderheid van het totale aantal stemmen, van de Raad van Bestuur, op aanbeveling van het College van Bewindvoerders.
+- (c) The President shall submit projects and programmes to the Executive Board for consideration and approval.
 
-Het Fonds werkt nauw samen met de Voedsel- en Landbouworganisatie van de Verenigde Naties en met andere organisaties binnen het stelsel der Verenigde Naties. Het werkt eveneens nauw samen met andere intergouvernementele organisaties, internationale financiële instellingen, niet-gouvernementele organisaties en overheidsinstanties die zich bezighouden met agrarische ontwikkeling. Hiertoe zal het Fonds streven naar medewerking bij zijn activiteiten van de Voedsel- en Landbouworganisatie van de Verenigde Naties en van de andere hierboven bedoelde organen, en kan het overeenkomsten sluiten of regelingen inzake werkzaamheden treffen met deze organen, al naar gelang het College van Bewindvoerders besluit.
+- (d) Decisions with regard to the selection and approval of projects and programmes shall be made by the Executive Board. Such decisions shall be made on the basis of the broad policies, criteria and regulations established by the Governing Council.
 
-##### Artikel 9. Terugtrekking, schorsing, beëindiging der verrichtingen
+- (e) For the appraisal of projects and programmes presented to it for financing, the Fund shall, as a general rule, use the services of international institutions and may, where appropriate, use the services of other competent agencies specialized in this field. Such institutions and agencies shall be selected by the Executive Board after consultation with the recipient concerned and shall be directly responsible to the Fund in performing the appraisal.
 
-- (a). Behalve zoals bepaald in het vierde lid, letter (a), van dit artikel, kan een Lid zich uit het Fonds terugtrekken door nederlegging van een akte van opzegging van deze Overeenkomst bij de depositaris.
+- (f) The loan agreement, or other agreements, as may be relevant, shall be concluded in each case by the Fund and the recipient which shall be responsible for the execution of the project or programme concerned.
 
-- (b). De terugtrekking van een Lid wordt van kracht op de in zijn akte van opzegging aangegeven datum, doch in geen geval eerder dan zes maanden na de neder legging van deze akte.
+- (g) Except as the Executive Board shall otherwise decide, the Fund shall entrust the administration of loans, for the purposes of the disbursement of the proceeds of the loan and the supervision of the implementation of the project or programme concerned, to competent national, regional, international or other institutions or entities. Such institutions or entities shall be of a world-wide, regional or national character and shall be selected in each case with the approval of the recipient. Before submitting the loan to the Executive Board for approval, the Fund shall assure itself that the institution or entities to be entrusted with the supervision agrees with the results of the appraisal of the project or programme concerned. This shall be arranged between the Fund and the institution or agency in charge of the appraisal as well as with the institution or entities to be entrusted with the supervision.
 
-- (a). Indien een Lid nalaat een van zijn verplichtingen jegens het Fonds na te komen, kan de Raad van Bestuur met een drie vierde meerderheid tan het totale aantal stemmen dit Lid schorsen. Het aldus geschorste Lid houdt automatisch op Lid te zijn met ingang van een jaar na de datum van de schorsing, tenzij de Raad met dezelfde meerderheid van het totale aantal stemmen besluit het Lid weer in zijn vroegere hoedanigheid te herstellen.
+- (h) For the purposes of subsections (f) and (g) above, references to “loans” shall be deemed to include “grants”.
 
-- (b). Terwijl een Lid geschorst is, is het niet gerechtigd enig recht krachtens deze Overeenkomst uit te oefenen, behalve het recht van terugtrekking; het blijft evenwel onderworpen aan al zijn verplichtingen.
+- (i) The Fund may extend a line of credit to a national development agency to provide and administer subloans for the financing of projects and programmes within the terms of the loan agreement and the frames work agreed to by the Fund. Before the Executive Board approves the extension of such a line of credit, the national development agency concerned and its programme shall be appraised in accordance with the provisions of subsection (e). Implementation of the said programme shall be subject to supervision by the institutions selected in accordance with the provisions of subsection (g).
 
-Wanneer een Staat ophoudt Lid te zijn, door terugtrekking dan wel als gevolg van de toepassing van het tweede lid van dit artikel, heeft hij geen rechten krachtens deze Overeenkomst behalve zoals bepaald in dit lid of in het tweede lid van artikel 11, maar blijft hij aansprakelijk voor alle door dit Lid aangegane financiële verplichtingen jegens het Fonds, als Lid, leningnemer of anderszins.
+- (j) The Executive Board shall adopt suitable regulations for procuring goods and services to be financed from the resources of the Fund. Such regulations shall, as a general rule, conform to the principles of international competitive bidding and shall give appropriate preference to experts, technicians and supplies from developing countries.
 
-- (a). De Raad van Bestuur kan met een drie vierde meerderheid van het totale aantal stemmen de verrichtingen van het Fonds beëindigen. Na een zodanige beëindiging van de verrichtingen houdt het Fonds onmiddellijk op met alle activiteiten, behalve die welke samenhangen met het ordelijk te gelde maken en in stand houden van zijn activa en het vereffenen van zijn schulden. Totdat een definitieve vereffening van deze schulden en de verdeling van deze activa heeft plaatsgevonden, blijft het Fonds bestaan en blijven alle rechten en verplichtingen van het Fonds en zijn Leden krachtens deze Overeenkomst onverlet, met de uitzondering dat een Lid niet kan worden geschorst of zich kan terugtrekken.
+Section 3 - Miscellaneous operations
 
-- (b). Er vindt geen verdeling van activa aan de Leden plaats, voordat aan alle verplichtingen tegenover de krediteuren is voldaan of deze verplichtingen zijn geregeld. Het Fonds verdeelt zijn activa aan de bijdragende Leden naar verhouding van de bijdragen die elk Lid heeft verstrekt aan de middelen van het Fonds. Tot een zodanige verdeling wordt besloten door de Raad van Bestuur met een drie vierde meerderheid van het totale aantal stemmen en zij vindt plaats op de tijdstippen en in de valuta’s of andere activa die de Raad van Bestuur eerlijk en billijk acht.
+In addition to the operations specified elsewhere in this Agreement, the Fund may undertake such ancillary activities and exercise such powers incidental to its operations as shall be necessary in furtherance of its objective.
 
-##### Artikel 10. Rechtspositie, voorrechten en immuniteiten
+##### Article 8. Relations with the United Nations and with other organizations, institutions and agencies
 
-Het Fonds bezit internationale rechtspersoonlijkheid.
+Section 1 - Relations with the United Nations
 
-- a. Het Fonds geniet in het grondgebied van elk van zijn Leden de voorrechten en immuniteiten die nodig zijn voor het vervullen van zijn taken en voor de verwezenlijking van zijn doel. De vertegenwoordigers van de Leden, de President en de staf van het Fonds genieten de voorrechten en immuniteiten die nodig zijn voor de onafhankelijke vervulling van hun taken in verband met het Fonds.
+The Fund shall enter into negotiations with the United Nations with a view to concluding an agreement to bring it into relationship with the United Nations as one of the specialized agencies referred to in [Article 57 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Any agreements concluded in accordance with [Article 63 of the Charter](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) shall require the approval of the Governing Council, by a two-thirds majority of the total number of votes, upon the recommendation of the Executive Board.
 
-- b. De in letter (a) bedoelde voorrechten en immuniteiten zijn:
+Section 2 - Relations with other organizations, institutions and agencies
 
-- (i). in het grondgebied van een Lid dat ten aanzien van het Fonds is toegetreden tot het [Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties](https://wetten.overheid.nl/jci1.3:c:BWBV0005536), die zoals omschreven in de standaardclausules van dat Verdrag zoals gewijzigd bij een aanhangsel daarbij goedgekeurd door de Raad van Bestuur;
+The Fund shall co-operate closely with the Food and Agriculture Organization of the United Nations and other organizations of the United Nations system. It shall also co-operate closely with other intergovernmental organizations, international financial institutions, non-governmental organizations and governmental agencies concerned with agricultural development. To this end, the Fund will seek the collaboration in its activities of the Food and Agriculture Organization of the United Nations and the other bodies referred to above, and may enter into agreements or establish working arrangements with such bodies, as may be decided by the Executive Board.
 
-- (ii). in het grondgebied van een Lid dat alleen ten aanzien van andere organisaties dan het Fonds is toegetreden tot het [Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties](https://wetten.overheid.nl/jci1.3:c:BWBV0005536), die zoals omschreven in de standaardclausules van dat Verdrag, behalve indien een zodanig Lid de depositaris ervan in kennis stelt dat deze clausules niet van toepassing zijn op het Fonds dan wel van toepassing zijn met inachtneming van de wijzigingen die zijn aangegeven in de kennisgeving;
+##### Article 9. Withdrawal, suspension of membership, termination of operations
 
-- (iii). die zoals omschreven in andere door het Fonds gesloten overeenkomsten.
+Section 1 - Withdrawal
 
-- c. Ten aanzien van een Lid dat een groep van Staten is, verzekert deze groep dat de in dit artikel bedoelde voorrechten en immuniteiten worden toegepast in de grondgebieden van alle leden van de groep.
+- (a) Except as provided in Section 4 (a) of this Article, a Member may withdraw from the Fund by depositing an instrument of denunciation of this Agreement with the Depositary.
 
-- d. Niettegenstaande het bovenstaande tweede lid, letters a – c, kunnen rechtsvorderingen tegen het Fonds die voortvloeien uit diens bevoegdheden krachtens [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003787&artikel=4&z=2021-02-18&g=2021-02-18), uitsluitend worden ingesteld bij een bevoegde rechter op het grondgebied van een Lid wanneer:
+- (b) Withdrawal of a Member shall take effect on the date specified in its instrument of denunciation, but in no event less than six months after deposit of such instrument.
 
-- i. het Fonds een vertegenwoordiger heeft aangewezen voor de betekening van dagvaardingen; of
+Section 2 - Suspension of membership
 
-- ii. het Fonds waardepapieren heeft uitgegeven of gegarandeerd, op voorwaarde echter dat:
+- (a) If a Member fails to fulfil any of its obligations to the Fund, the Governing Council may, by a three-fourths majority of the total number of votes, suspend its membership. The Member so suspended shall automatically cease to be a Member one year from the date of its suspension, unless the Council decides by the same majority of the total number of votes to restore the Member to good standing.
 
-- A. er geen procedures worden ingesteld door Lid-Staten of personen die optreden voor of vorderingen hebben op Lid-Staten; en
+- (b) While under suspension, a Member shall not be entitled to exercise any rights under this Agreement except the right of withdrawal, but shall remain subject to all of its obligations.
 
-- B. de eigendommen en bezittingen van het Fonds, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard van elke vorm van inbeslagname, beslaglegging of executie voordat een definitief vonnis tegen het Fonds is uitgesproken.
+Section 3 - Rights and duties of States ceasing to be Members
 
-##### Artikel 11. Uitlegging en arbitrage
+Whenever a State ceases to be a Member, whether by withdrawal or through the operation of Section 2 of this Article, it shall have no rights under this Agreement except as provided in this Section or in Section 2 of Article 11, but it shall remain liable for all financial obligations undertaken by it to the Fund, whether as Member, borrower or otherwise.
 
-- (a). Meningsverschillen omtrent de uitlegging of de toepassing van de bepalingen van deze Overeenkomst, die rijzen tussen een Lid en het Fonds of tussen Leden van het Fonds, worden ter beslissing voorgelegd aan het College van Bewindvoerders. Indien een Lid van het Fonds dat niet in het College van Bewindvoerders is vertegenwoordigd, in bijzondere mate bij het desbetreffende meningsverschil is betrokken, is dat Lid gerechtigd vertegenwoordigd te zijn overeenkomstig door de Raad van Bestuur vast te stellen regelingen.
+Section 4 - Termination of operations and distribution of assets
 
-- (b). Wanneer het College van Bewindvoerders ingevolge het bepaalde in letter (a) een beslissing heeft genomen, kan een Lid verzoeken dat de zaak wordt verwezen naar de Raad van Bestuur, welks oordeel bindend is. Hangende de beslissing van de Raad van Bestuur kan het Fonds, voor zover het zulks nodig acht, handelen op grond van de beslissing van het College van Bewindvoerders.
+- (a) The Governing Council may terminate the Fund’s operations by a three-fourths majority of the total number of votes. After such termination of operations the Fund shall forthwith cease all activities, except those incidental to the orderly realization and conservation of its assets and the settlement of its obligations. Until final settlement of such obligations and the distribution of such assets, the Fund shall remain in existence and all rights and obligations of the Fund and its Members under this Agreement shall continue unimpaired, except that no Member may be suspended or may withdraw.
 
-In geval van een geschil tussen het Fonds en een Staat die is opgehouden Lid te zijn, of tussen het Fonds en een Lid bij de beëindiging van de verrichtingen van het Fonds, wordt een zodanig geschil onderworpen aan arbitrage door een tribunaal van drie scheidsmannen. Een van de scheidsmannen wordt benoemd door het Fonds, een andere door het betrokken Lid of betrokken voormalige Lid en de beide partijen benoemen de derde scheidsman, die als voorzitter optreedt. Indien binnen 45 dagen na ontvangst van het verzoek om arbitrage een der partijen geen scheidsman heeft benoemd, of indien binnen 30 dagen na de benoeming van twee scheidsmannen de derde scheidsman niet is benoemd, kan een der partijen de President van het Internationale Gerechtshof, of een andere autoriteit voorgeschreven bij verordeningen vastgesteld door de Raad van Bestuur, verzoeken een scheidsman te benoemen. De arbitrageprocedure wordt vastgesteld door de scheidsmannen, maar de voorzitter is volledig bevoegd alle vragen betreffende de procedure te regelen in geval van meningsverschil daaromtrent. Een meerderheid van stemmen van de scheidsmannen is voldoende om een uitspraak te doen die definitief en bindend is voor de partijen.
+- (b) No distribution of assets shall be made to Members until all liabilities to creditors have been discharged or provided for. The Fund shall distribute its assets to contributing Members *pro rata* to the contributions that each Member has made to the resources of the Fund. Such distribution shall be decided by the Governing Council by a three-fourths majority of the total number of votes and shall be effected at such times, and in such currencies or other assets as the Governing Council shall deem fair and equitable.
 
-##### Artikel 12. Wijzigingen
+##### Article 10. Legal status, privileges and immunities
 
-(a). Behalve ten aanzien van Schema II:
+Section 1 - Legal status
 
-- i. wordt een door een Lid of door het College van Bewindvoerders gedaan voorstel tot wijziging van deze Overeenkomst medegedeeld aan de President, die alle Leden ervan in kennis stelt. De President legt door een Lid gedane voorstellen tot wijziging van deze Overeenkomst voor aan het College van Bewindvoerders, dat zijn aanbevelingen ter zake voorlegt aan de Raad van Bestuur;
+The Fund shall possess international legal personality.
 
-- ii. worden wijzigingen door de Raad van Bestuur aanvaard met een vier vijfde meerderheid van het totale aantal stemmen. Wijzigingen treden in werking drie maanden nadat zij zijn aanvaard, tenzij door de Raad van Bestuur anders bepaald, behalve dat wijzigingen van:
+Section 2 - Privileges and Immunities
 
-- A. het recht zich uit het Fonds terug te trekken;
+- (a) The Fund shall enjoy in the territory of each of its Members such privileges and immunities as are necessary for the exercise of its functions and for the fulfilment of its objective. Representatives of Members, the President and the staff of the Fund shall enjoy such privileges and immunities as are necessary for the independent exercise of their functions in connection with the Fund.
 
-- B. de in deze Overeenkomst bepaalde vereisten inzake de meerderheid van stemmen;
+- (b) The privileges and immunities referred to in paragraph (a) shall:
 
-- C. de beperking van de aansprakelijkheid bepaald in artikel 3, derde lid;
+   - (i) in the territory of any Member that has acceded to the [Convention on the Privileges and Immunities of the Specialized Agencies](https://wetten.overheid.nl/jci1.3:c:BWBV0005536) in respect of the Fund, be as defined in the standard clauses of that Convention as modified by an annex thereto approved by the Governing Council;
 
-- D. de procedure tot wijziging van deze Overeenkomst,
+   - (ii) in the territory of any Member that has acceded to the [Convention on the Privileges and Immunities of the Specialized Agencies](https://wetten.overheid.nl/jci1.3:c:BWBV0005536) only in respect of agencies other than the Fund, be as defined in the standard clauses of that Convention, except if such Member notifies the Depositary that such clauses shall not apply to the Fund or shall apply subject to such modifications as may be specified in the notification;
 
-niet in werking treden totdat de schriftelijke aanvaarding van een zodanige wijziging door alle Leden is ontvangen door de President.
+   - (iii) be as defined in other agreements entered into by the Fund.
 
-(b). Ten aanzien van de verschillende onderdelen van Schema II worden wijzigingen voorgesteld en aanvaard zoals in deze delen bepaald.
+- (c) In respect of a Member that is a grouping of States, it shall ensure that the privileges and immunities referred to in this Article are applied in the territories of all members of the grouping.
 
-(c). De President stelt alle Leden en de depositaris onverwijld in kennis van wijzigingen die zijn aanvaard en van de datum van inwerkingtreding van deze wijzigingen.
+- (d) Notwithstanding Section 2(a) – (c) above, actions arising out of its authorities under [Article 4, Section 7](https://wetten.overheid.nl/BWBV0003787) may be brought against the Fund only in a court of competent jurisdiction in the territories of a Member where:
 
-##### Artikel 13. Slotbepalingen
+   - (i) it has appointed an agent for the purpose of accepting service or notice of process; or
 
-- (a). Namens de Staten opgenomen in Schema I bij deze Overeenkomst kan deze Overeenkomst worden geparafeerd op de Conferentie der Verenigde Naties tot instelling van het Fonds; deze Overeenkomst staat open voor ondertekening op de zetel van de Verenigde Naties te New York door de in dat Schema opgenomen Staten zodra de daarin aangegeven oorspronkelijke bijdragen, die moeten worden verstrekt in vrij inwisselbare valuta, ten minste het equivalent bedragen van 1000 miljoen US dollars (waarde per 10 juni 1976). Indien op 30 september 1976 niet aan bovenstaande voorwaarde is voldaan, roept de door die Conferentie ingestelde Voorbereidende Commissie per 31 januari 1977 een vergadering bijeen van de in Schema I opgenomen Staten, die met een twee derde meerderheid van elke categorie het hierboven aangegeven bedrag kan verlagen en tevens andere voorwaarden kan vaststellen voor de openstelling van deze Overeenkomst voor ondertekening.
+   - (ii) the Fund has issued or guaranteed securities, provided, however, that:
 
-- (b). De ondertekenende Staten kunnen partij worden door nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring; niet-ondertekenende Staten opgenomen in Schema I kunnen partij worden door nederlegging van een akte van toetreding. In de akten van bekrachtiging, aanvaarding, goedkeuring en toetreding nedergelegd door Staten in categorie I of II wordt het bedrag aangegeven van de oorspronkelijke bijdrage die de Staat zich verbindt te verstrekken. Ondertekeningen kunnen worden geplaatst en akten van bekrachtiging, aanvaarding, goedkeuring of toetreding kunnen worden nedergelegd door deze Staten tot een jaar na de inwerkingtreding van deze Overeenkomst.
+      - (A) no action shall be brought by Member States or persons acting for or deriving claims from Members; and
 
-- (c). De Staten opgenomen in Schema I die geen partij zijn geworden bij deze Overeenkomst binnen een jaar nadat deze in werking is getreden en Staten die niet zijn opgenomen kunnen, na goedkeuring van hun lidmaatschap door de Raad van Bestuur, partij worden door nederlegging van een akte van toetreding.
+      - (B) the property and assets of the Fund shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgement against the Fund.
 
-- (a). De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overeenkomst.
+##### Article 11. Interpretation and arbitration
 
-- (b). De depositaris zendt kennisgevingen betreffende deze Overeenkomst toe:
+Section 1 - Interpretation
 
-- (i). tot een jaar na de inwerkingtreding ervan, aan de Staten opgenomen in Schema I bij deze Overeenkomst, en na de inwerkingtreding aan alle Staten die partij zijn bij deze Overeenkomst, alsmede aan de Staten waarvan het lidmaatschap is goedgekeurd door de Raad van Bestuur;
+- (a) Any question of interpretation or application of the provisions of this Agreement arising between any Member and the Fund or between Members of the Fund, shall be submitted to the Executive Board for decision. If the question particularly affects any Member of the Fund not represented on the Executive Board, that Member shall be entitled to be represented in accordance with regulations to be adopted by the Governing Council.
 
-- (ii). aan de Voorbereidende Commissie ingesteld door de Conferentie van de Verenigde Naties inzake de oprichting van het Fonds, zolang deze blijft bestaan, en daarna aan de President.
+- (b) Where the Executive Board has given a decision pursuant to subsection (a), any Member may require that the question be referred to the Governing Council, whose decision shall be final. Pending the decision of the Governing Council, the Fund may, so far as it deems necessary, act on the basis of the decision of the Executive Board.
 
-- (a). Deze Overeenkomst treedt in werking na ontvangst door de depositaris van akten van bekrachtiging, aanvaarding, goedkeuring of toetreding van ten minste 6 Staten in categorie I, 6 Staten in categorie II en 24 Staten in categorie III, mits deze akten zijn nedergelegd door Staten in de categorieën I en II waarvan de oorspronkelijke bijdragen, zoals aangegeven in deze akten, te zamen ten minste het equivalent bedragen van 750 miljoen US dollars (waarde per 10 juni 1976) en mits voorts aan de bovenstaande vereisten is voldaan binnen 18 maanden na de datum waarop deze Overeenkomst is opengesteld voor ondertekening dan wel op een latere datum die aan het einde van dat tijdvak door de Staten die deze akten hebben nedergelegd, wordt vastgesteld met een twee derde meerderheid in elke categorie, welke datum zij ter kennis brengen van de depositaris. Ten aanzien van Staten die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederleggen na de inwerkingtreding van deze Overeenkomst, treedt de Overeenkomst in werking op de datum van deze nederlegging.
+Section 2 - Arbitration
 
-- (c). De verplichtingen die de oorspronkelijke en niet-oorspronkelijke Leden voor 26 januari 1995 uit hoofde van deze Overeenkomst zijn aangegaan blijven onverlet en blijven verplichtingen van elk Lid van het Fonds.
+In the case of a dispute between the Fund and a State that has ceased to be a Member, or between the Fund and any Member upon the termination of the operations of the Fund, such dispute shall be submitted to arbitration by a tribunal of three arbitrators. One of the arbitrators shall be appointed by the Fund, another by the Member or former Member concerned and the two parties shall appoint the third arbitrator, who shall be the Chairman. If within 45 days of receipt of the request for arbitration either party has not appointed an arbitrator, or if within 30 days of the appointment of two arbitrators the third arbitrator has not been appointed, either party may request the President of the International Court of Justice, or such other authority as may have been prescribed by regulations adopted by the Governing Council, to appoint an arbitrator. The procedure of the arbitration shall be fixed by the arbitrators, but the Chairman shall have full power to settle all questions of procedure in any case of disagreement with respect thereto. A majority vote of the arbitrators shall be sufficient to reach a decision, which shall be final and binding upon the parties.
 
-- (d). Verwijzingen in deze Overeenkomst naar categorieën of naar de categorieën I, II en III worden geacht te verwijzen naar de categorieën van Leden die golden voor 26 januari 1995, zoals vervat in Schema III hierbij, dat een integrerend onderdeel van deze Overeenkomst vormt.
+##### Article 12. Amendments
 
-Er kunnen alleen voorbehouden worden gemaakt ten aanzien van artikel 11, tweede lid, van deze Overeenkomst.
+(a). Except in respect of Schedule II:
 
-De teksten van deze Overeenkomst in de Arabische, de Engelse, de Franse en de Spaanse taal zijn gelijkelijk gezaghebbend.
+- (i) Any proposal to amend this Agreement made by a Member or by the Executive Board shall be communicated to the President who shall notify all Members. The President shall refer proposals to amend this Agreement made by a Member to the Executive Board, which shall submit its recommendations thereon to the Governing Council.
+
+- (ii) Amendments shall be adopted by the Governing Council by a four-fifths majority of the total number of votes. Amendments shall enter into force three months after their adoption unless otherwise specified by the Governing Council, except that any amendment modifying: shall not come into force until written acceptance of such amendment by all Members is received by the President.
+
+   - A) the right to withdraw from the Fund;
+
+   - B) the voting majority requirements provided for in this Agreement;
+
+   - C) the limitation on liability provided for in Section 3 of Article 3;
+
+   - D) the procedure for amending this Agreement;
+
+(b). In respect of the several parts of Schedule II, amendments shall be proposed and adopted as provided in such parts.
+
+(c). The President shall immediately notify all Members and the Depositary of any amendments that are adopted and of the date of entry into force of any such amendments.
+
+##### Article 13. Final clauses
+
+Section 1 - Signature, ratification, acceptance, approval and accession
+
+- (a) This Agreement may be initialled on behalf of the States listed in Schedule I to this Agreement at the United Nations Conference on the Establishment of the Fund and shall be open for signature at the Headquarters of the United Nations in New York by the States listed in that Schedule as soon as the initial contributions indicated therein to be made in freely convertible currencies amount to at least the equivalent of 1,000 million United States dollars (valued as of 10 June 1976). If the foregoing requirement has not been fulfilled by 30 September 1976 the Preparatory Commission established by that Conference shall convene by 31 January 1977 a meeting of the States listed in Schedule I, which may by a two-thirds majority of each category reduce the above specified amount and may also establish other conditions for the opening of this Agreement for signature,
+
+- (b) Signatory States may become parties by depositing an instrument of ratification, acceptance or approval; non-signatory States listed in Schedule I may become parties by depositing an instrument of accession. Instruments of ratification, acceptance, approval and accession by States in category I or II shall specify the amount of the initial contribution the State undertakes to make. Signatures may be affixed and instruments of ratification, acceptance, approval or accession deposited by such States until one year after the entry into force of this Agreement.
+
+- (c) States listed in Schedule I that have not become parties to this Agreement within one year after its entry into force and States that are not so listed, may, after approval of their membership by the Governing Council, become parties by depositing an instrument of accession.
+
+Section 2 - Depositary
+
+- (a) The Secretary-General of the United Nations shall be the Depositary of this Agreement.
+
+- (b) The Depositary shall send notifications concerning this Agreement:
+
+   - (i) until one year after its entry into force, to the States listed in Schedule I to this Agreement, and after such entry into force to all States parties to this Agreement as well as to those approved for membership by the Governing Council;
+
+   - (ii) to the Preparatory Commission established by the United Nations Conference on the Establishment of the Fund, as long as it remains in existence, and thereafter to the President.
+
+Section 3 - Entry into force
+
+- (a) This Agreement shall enter into force upon receipt by the Depositary of instruments of ratification, acceptance, approval or accession from at least 6 States in category I, 6 States in category II and 24 States in category III, provided that such instruments have been deposited by States in categories I and II the aggregate of whose initial contributions specified in such instruments amounts to at least the equivalent of 750 million United States dollars (valued as of 10 June 1976), and further provided that the foregoing requirements have been fulfilled within 18 months of the date on which this Agreement is opened for signature or by such later date as the States that have deposited such instruments by the end of that period may decide, by a two-thirds majority of each category, and as they notify to the Depositary.
+
+- (b) For States that deposit an instrument of ratification, acceptance, approval or accession subsequent to the entry into force of this Agreement, it shall enter into force on the date of such deposit.
+
+- (c) The obligations accepted by original and non-original Members under this Agreement prior to 26 January 1995 shall remain unimpaired and shall be the continuing obligations of each Member to the Fund.
+
+- (d) References throughout this Agreement to categories or to categories I, II and III shall be deemed to refer to the categories of Members prevailing prior to 26 January 1995, as set out in Schedule III hereto, which forms an integral part of this Agreement.
+
+Section 4 - Reservations
+
+Reservations may only be made to Section 2 of Article 11 of this Agreement.
+
+Section 5 - Authoritative texts
+
+The versions of this Agreement in the Arabic, English, French and Spanish languages shall each be equally authoritative.
 
 IN WITNESS WHEREOF, the undersigned being duly authorized thereto, have signed this Agreement in a single original in the Arabic, English, French and Spanish languages.

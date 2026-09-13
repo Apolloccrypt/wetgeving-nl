@@ -1,77 +1,43 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie der Socialistische Sovjetrepublieken inzake de bevordering en wederzijdse bescherming van investeringen"
 identifier: "BWBV0002919"
-country: "nl"
-rank: "verdrag"
-publication_date: "1991-07-20"
-last_updated: "1991-07-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002919"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003249493"
-version_id: "10003268972"
-internal_id: "C10006985321"
-label_id: "10003235424"
-dtd_version: "2.0"
-original_entry_into_force: "1991-07-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002919/1991-07-20/0"
-intitule_bron: "Trb.1989-162"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-01-14"
-intitule_published: "1989-11-15"
-intitule_in_force: "1991-08-23"
-intitule_status: "goed"
-original_publication: "Trb.1989-162"
-original_signed_date: "1991-01-14"
-original_published_date: "1989-11-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1989-162"
-entry_into_force_date: "1991-07-20"
-jci_1_3: "jci1.3:c:BWBV0002919&z=1991-07-20&g=1991-07-20"
-jci_1_0: "1.0:c:BWBV0002919&g=1991-07-20"
-citeertitel_status: "officieel"
-signed_date: "1991-01-14"
-entry_into_force: "1991-07-20"
+publicatiedatum: 1991-07-20
+laatste_update: 1991-07-20
+status: geldig
+toestand: 1991-07-20
+bron: "https://wetten.overheid.nl/BWBV0002919"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie der Socialistische Sovjetrepublieken inzake de bevordering en wederzijdse bescherming van investeringen
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Unie der Socialistische Sovjetrepublieken,
-
-hierna aangeduid als de Overeenkomstsluitende Partijen,
-
-geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft,
-
-In het besef dat overeenstemming over het toekennen van een eerlijke en rechtvaardige behandeling aan zulke investeringen het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren;
-
-zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie der Socialistische Sovjetrepublieken, hierna aangeduid als de Overeenkomstsluitende Partijen, geleid door de wens de van oudsher tussen hun landen bestaande vriendschapsbanden te versterken, de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat investeringen door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij betreft, In het besef dat overeenstemming over het toekennen van een eerlijke en rechtvaardige behandeling aan zulke investeringen het kapitaalverkeer en de uitwisseling van technologie tussen, alsmede de economische ontwikkeling van de Overeenkomstsluitende Partijen zal stimuleren; zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst:
 
-- a). omvat de term „investeerder” met betrekking tot ieder der Overeenkomstsluitende Partijen:
+- a) omvat de term „investeerder” met betrekking tot ieder der Overeenkomstsluitende Partijen:
 
-- (i). natuurlijke personen die de nationaliteit van die Overeenkomstsluitende Partij bezitten in overeenstemming met haar recht en die het recht hebben in overeenstemming met de wetten van hun land investeringen te doen op het grondgebied van de andere Overeenkomstsluitende Partij;
+   - (i) natuurlijke personen die de nationaliteit van die Overeenkomstsluitende Partij bezitten in overeenstemming met haar recht en die het recht hebben in overeenstemming met de wetten van hun land investeringen te doen op het grondgebied van de andere Overeenkomstsluitende Partij;
 
-- (ii). rechtspersonen die zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij en die het recht hebben in overeenstemming met de wetten van hun land investeringen te doen op het grondgebied van de andere Overeenkomstsluitende Partij;
+   - (ii) rechtspersonen die zijn opgericht krachtens het recht van die Overeenkomstsluitende Partij en die het recht hebben in overeenstemming met de wetten van hun land investeringen te doen op het grondgebied van de andere Overeenkomstsluitende Partij;
 
-- b). omvat de term „investering” alle soorten vermogensbestanddelen die worden geïnvesteerd, hetzij rechtstreeks hetzij door tussenkomst van een investeerder van een derde Staat, door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij in overeenstemming met de wetten van de laatstbedoelde Overeenkomstsluitende Partij, daaronder begrepen in het bijzonder, doch niet uitsluitend:
+- b) omvat de term „investering” alle soorten vermogensbestanddelen die worden geïnvesteerd, hetzij rechtstreeks hetzij door tussenkomst van een investeerder van een derde Staat, door investeerders van de ene Overeenkomstsluitende Partij op het grondgebied van de andere Overeenkomstsluitende Partij in overeenstemming met de wetten van de laatstbedoelde Overeenkomstsluitende Partij, daaronder begrepen in het bijzonder, doch niet uitsluitend:
 
-- (i). goederen zoals gebouwen en uitrusting en alle desbetreffende eigendomsrechten;
+   - (i) goederen zoals gebouwen en uitrusting en alle desbetreffende eigendomsrechten;
 
-- (ii). kapitaal, alsmede rechten ontleend aan aandelen, obligaties en andere vormen van deelneming;
+   - (ii) kapitaal, alsmede rechten ontleend aan aandelen, obligaties en andere vormen van deelneming;
 
-- (iii). recht op geld of op andere vermogensbestanddelen of prestaties die economische waarde hebben;
+   - (iii) recht op geld of op andere vermogensbestanddelen of prestaties die economische waarde hebben;
 
-- (iv). rechten op het gebied van de intellectuele eigendom, technische werkwijzen en kennis;
+   - (iv) rechten op het gebied van de intellectuele eigendom, technische werkwijzen en kennis;
 
-- (v). rechten tot het ondernemen van commerciële werkzaamheden, daaronder begrepen rechten tot het opsporen, exploreren, ontginnen en exploiteren van natuurlijke rijkdommen, verleend krachtens een contract of krachtens de wetgeving van de Overeenkomstsluitende Partij op wier grondgebied deze werkzaamheden worden ondernomen.
+   - (v) rechten tot het ondernemen van commerciële werkzaamheden, daaronder begrepen rechten tot het opsporen, exploreren, ontginnen en exploiteren van natuurlijke rijkdommen, verleend krachtens een contract of krachtens de wetgeving van de Overeenkomstsluitende Partij op wier grondgebied deze werkzaamheden worden ondernomen.
 
-- c). is deze Overeenkomst van toepassing op het grondgebied van ieder der Overeenkomstsluitende Partijen, alsmede op maritieme gebieden die zich uitstrekken tot voorbij de territoriale zee van ieder der Overeenkomstsluitende Partijen, in welke zij in overeenstemming met het internationale recht hun soevereine rechten of rechtsmacht uitoefenen voor het exploreren, exploiteren en instandhouden van natuurlijke rijkdommen.
+- c) is deze Overeenkomst van toepassing op het grondgebied van ieder der Overeenkomstsluitende Partijen, alsmede op maritieme gebieden die zich uitstrekken tot voorbij de territoriale zee van ieder der Overeenkomstsluitende Partijen, in welke zij in overeenstemming met het internationale recht hun soevereine rechten of rechtsmacht uitoefenen voor het exploreren, exploiteren en instandhouden van natuurlijke rijkdommen.
 
 ##### Artikel 2
 
@@ -85,11 +51,11 @@ Elk der Overeenkomstsluitende Partijen bevordert, binnen het kader van haar wett
 
 3. De bepalingen van dit artikel mogen niet zodanig worden uitgelegd dat zij één van beide Overeenkomstsluitende Partijen verplichten aan investeerders van de andere Overeenkomstsluitende Partij voorrechten en voordelen te verlenen van dezelfde aard als die welke aan investeerders van een derde Staat worden verleend
 
-- a). uit hoofde van het lidmaatschap van de eerstbedoelde Partij van een bestaande of toekomstige douane-unie of economische unie of van een organisatie voor wederzijdse economische bijstand; of
+- a) uit hoofde van het lidmaatschap van de eerstbedoelde Partij van een bestaande of toekomstige douane-unie of economische unie of van een organisatie voor wederzijdse economische bijstand; of
 
-- b). in overeenstemming met een internationale overeenkomst die voorziet in voorrechten en voordelen van dezelfde aard als die welke door deze Overeenkomstsluitende Partij worden verleend aan leden van een onder letter a) van dit lid bedoelde organisatie, welke overeenkomst in werking is getreden vóór de datum van ondertekening van deze Overeenkomst; of
+- b) in overeenstemming met een internationale overeenkomst die voorziet in voorrechten en voordelen van dezelfde aard als die welke door deze Overeenkomstsluitende Partij worden verleend aan leden van een onder letter a) van dit lid bedoelde organisatie, welke overeenkomst in werking is getreden vóór de datum van ondertekening van deze Overeenkomst; of
 
-- c). op grond van een overeenkomst tot het vermijden van dubbele belasting of andere overeenkomsten of regelingen aangaande belasting, of op grond van wederkerigheid met een derde Staat.
+- c) op grond van een overeenkomst tot het vermijden van dubbele belasting of andere overeenkomsten of regelingen aangaande belasting, of op grond van wederkerigheid met een derde Staat.
 
 4. Elke Overeenkomstsluitende Partij komt alle verplichtingen na die zij is aangegaan met betrekking tot investeringen van investeerders van de andere Overeenkomstsluitende Partij.
 
@@ -99,13 +65,13 @@ Elk der Overeenkomstsluitende Partijen bevordert, binnen het kader van haar wett
 
 Elke Overeenkomstsluitende Partij waarborgt de investeerders van de andere Overeenkomstsluitende Partij dat hun betalingen die verband houden met de investering kunnen worden overgemaakt. Overmaking geschiedt in vrij inwisselbare valuta, zonder onredelijke beperking of vertraging. Dergelijke overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
-- a). winsten, interesten, dividenden, royalty's, honoraria en andere lopende inkomsten;
+- a) winsten, interesten, dividenden, royalty's, honoraria en andere lopende inkomsten;
 
-- b). de opbrengst van de verkoop of liquidatie van de investering, die toekomt aan de investeerder;
+- b) de opbrengst van de verkoop of liquidatie van de investering, die toekomt aan de investeerder;
 
-- c). gelden voor terugbetaling van leningen;
+- c) gelden voor terugbetaling van leningen;
 
-- d). het niet-uitgegeven gedeelte van lonen en andere beloningen die toekomen aan de onderdanen van de ene Overeenkomstsluitende Partij die werkzaam zijn op het grondgebied van de andere Overeenkomstsluitende Partij in verband met een investering.
+- d) het niet-uitgegeven gedeelte van lonen en andere beloningen die toekomen aan de onderdanen van de ene Overeenkomstsluitende Partij die werkzaam zijn op het grondgebied van de andere Overeenkomstsluitende Partij in verband met een investering.
 
 ##### Artikel 5
 
@@ -115,11 +81,11 @@ Elke Overeenkomstsluitende Partij waarborgt, in overeenstemming met haar op het 
 
 Geen der Overeenkomstsluitende Partijen neemt maatregelen waardoor aan investerders van de andere Overeenkomstsluitende Partij hun investeringen worden ontnomen, of maatregelen die een soortgelijke uitwerking hebben, tenzij aan de volgende voorwaarden wordt voldaan:
 
-- a). De maatregelen worden genomen in het openbaar belang en met inachtneming van een behoorlijke rechtsgang;
+- a) De maatregelen worden genomen in het openbaar belang en met inachtneming van een behoorlijke rechtsgang;
 
-- b). De maatregelen zijn niet discriminatoir;
+- b) De maatregelen zijn niet discriminatoir;
 
-- c). De maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onredelijke vertraging te worden betaald en vrij te kunnen worden overgemaakt in een vrij inwisselbare valuta die door de gerechtigden wordt aanvaard.
+- c) De maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onredelijke vertraging te worden betaald en vrij te kunnen worden overgemaakt in een vrij inwisselbare valuta die door de gerechtigden wordt aanvaard.
 
 ##### Artikel 7
 
@@ -185,13 +151,13 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe naar behoren ge
 
 GEDAAN in tweevoud te Moskou op 5 oktober 1989, in de Nederlandse, de Russische en de Engelse taal, zijnde de drie talen gelijkelijk authentiek. In geval van een verschil in uitlegging is de Engelse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) R. W. DE KORTE
 
 (w.g.) P. BUWALDA
 
-**Voor de Regering van de Unie der Socialistische Sovjetrepublieken:**
+*Voor de Regering van de Unie der Socialistische Sovjetrepublieken:*
 
 (w.g.) LAVEROV
 

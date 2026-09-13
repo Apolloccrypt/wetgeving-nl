@@ -1,511 +1,467 @@
 ---
 title: "Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied"
 identifier: "BWBV0002961"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-03-09"
-last_updated: "2015-03-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002961"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003278803"
-version_id: "10003301362"
-internal_id: "C10006985411"
-label_id: "10003265154"
-dtd_version: "2.0"
-original_entry_into_force: "2000-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002961/2015-03-09/0"
-intitule_bron: "Trb.1990-115"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1991-11-19"
-intitule_published: "1990-08-03"
-intitule_in_force: "2002-08-22"
-intitule_status: "goed"
-original_publication: "Trb.1990-115"
-original_signed_date: "1991-11-19"
-original_published_date: "1990-08-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-115"
-entry_into_force_date: "2000-06-17"
-jci_1_3: "jci1.3:c:BWBV0002961&z=2015-03-09&g=2015-03-09"
-jci_1_0: "1.0:c:BWBV0002961&g=2015-03-09"
-citeertitel_status: "officieel"
-signed_date: "1991-11-19"
-entry_into_force: "2000-06-17"
+publicatiedatum: 2000-06-17
+laatste_update: 2015-03-09
+status: geldig
+toestand: 2015-03-09
+bron: "https://wetten.overheid.nl/BWBV0002961"
+opgehaald: 2026-09-13
 ---
+
 # Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied
 
-De Verdragsluitende Partijen bij dit Protocol,
+*The Contracting Parties to this Protocol, Being Parties to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region, done at Cartagena de Indias, Colombia on 24 March 1983, Taking into account Article 10 of the Convention which requires the establishment of specially protected areas, Having regard to the special hydrographic, biotic and ecological characteristics of the Wider Caribbean Region, Conscious of the grave threat posed by ill-conceived development options to the integrity of the marine and coastal environment of the Wider Caribbean Region, Recognizing that protection and maintenance of the environment of the Wider Caribbean Region are essential to sustainable development within the region, Conscious of the overwhelming ecological, economic, aesthetic, scientific, cultural, nutritional and recreational value of rare or fragile ecosystems and native flora and fauna to the Wider Caribbean Region, Recognizing that the Wider Caribbean Region constitutes an interconnected group of ecosystems in which an environmental threat in one part represents a potential threat in other parts, Stressing the importance of establishing regional co-operation to protect and, as appropriate, to restore and improve the state of ecosystems, as well as threatened and endangered species and their habitats in the Wider Caribbean Region by, among other means, the establishment of protected areas in the marine areas and their associated ecosystems, Recognizing that the establishment and management of such protected areas and the protection of threatened and endangered species will enhance the cultural heritage and values of the countries and territories in the Wider Caribbean Region, and bring increased economic and ecological benefits to them, Have agreed as follows:*
 
-Partij zijnde bij het [Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), ondertekend te Cartagena de Indias op 24 maart 1983,
+##### Article 1. Definitions
 
-In aanmerking nemend [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=10) dat de instelling van speciaal beschermde gebieden verlangt,
+For the purpose of this Protocol:
 
-Gelet op de bijzondere hydrografische, biotische en ecologische kenmerken van het Caribisch gebied,
+- a) “[Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733)” means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, Colombia, March 1983);
 
-Zich bewust van de ernstige bedreiging die slecht opgezette ontwikkelingsplannen vormen voor de natuurlijke staat van het mariene milieu en de kusten van het Caribisch gebied,
+- b) “Action Plan” means the Action Plan for the Caribbean Environment Programme (Montego Bay, April 1981);
 
-Erkennende dat bescherming en behoud van het milieu van het Caribisch gebied van wezenlijk belang zijn voor een verantwoorde ontwikkeling in het gebied,
+- c) “Wider Caribbean Region” has the meaning given to the term “the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) area” in [Article 2(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2), and in addition, includes for the purposes of this Protocol:
 
-Zich bewust van de ontzaglijke ecologische, economische, esthetische, wetenschappelijke, culturele, nutritieve en recreatieve waarde van zeldzame en broze ecosystemen en inheemse dier- en plantesoorten voor het Caribisch gebied,
+   - (i) waters on the landward side of the baseline from which the breadth of the territorial sea is measured and extending, in the case of watercourses, up to the fresh water limit; and
 
-Erkennende dat het Caribisch gebied een groep onderling verbonden ecosystemen is, waarin een bedreiging voor het milieu in één deel een mogelijke bedreiging in andere delen vormt,
+   - (ii) such related terrestrial areas (including watersheds) as may be designated by the Party having sovereignty and jurisdiction over such areas;
 
-De nadruk leggend op het belang te komen tot regionale samenwerking met het oog op de bescherming en, indien van toepassing, het herstel en de verbetering van de toestand van ecosystemen, alsmede bedreigde en uitstervende soorten en hun leefmilieu in het Caribisch gebied door middel van, onder andere, de instelling van beschermde gebieden in de mariene gebieden en de daarmee samenhangende ecosystemen,
+- d) “Organization” means the body referred to in [Article 2(2) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2);
 
-Erkennende dat de instelling en het beheer van zulke beschermde gebieden en de bescherming van bedreigde en uitstervende soorten het cultureel erfgoed en de waarden van de landen en gebieden in het Caribisch gebied zal versterken en hun grotere economische en ecologische voordelen zal brengen,
+- e) “Protected area” means the areas accorded protection pursuant to [Article 4](https://wetten.overheid.nl/BWBV0002961) of this Protocol;
 
-Zijn als volgt overeengekomen:
+- f) “Endangered species” are species or subspecies of fauna and flora, or their populations, that are in danger of extinction throughout all or part of their range and whose survival is unlikely if the factors jeopardizing them continue to operate;
 
-##### Artikel 1. Begripsomschrijvingen
+- g) “Threatened species” are species or subspecies of fauna and flora, or their populations:
 
-Voor de toepassing van dit Protocol wordt verstaan onder
+   - (i) that are likely to become endangered within the foreseeable future throughout all or part of their range if the factors causing numerical decline or habitat degradation continue to operate; or
 
-- a. „het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733)”: het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied (Cartagena de Indias, 24 maart 1983);
+   - (ii) that are rare because they are usually localized within restricted geographical areas or habitats or are thinly scattered over a more extensive range and which are potentially or actually subject to decline and possible endangerment or extinction,
 
-- b. „het Actieplan”: het Actieplan voor het Caribisch Milieuprogramma (Montego Bay, april 1981);
+- h) “Protected species” are species or subspecies of fauna and flora, or their populations, accorded protection pursuant to [Article 10](https://wetten.overheid.nl/BWBV0002961) of this Protocol;
 
-- c. „het Caribisch gebied”: het „Verdragsgebied” bedoeld in [artikel 2, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2); dit omvat bovendien voor de toepassing van dit Protocol:
+- i) “Endemic species” are species or subspecies of fauna and flora, or their populations, whose distribution is restricted to a limited geographical area;
 
-- i. wateren gelegen aan de landzijde van de basislijn vanwaar de breedte van de territoriale zee wordt gemeten en zich uitstrekkende, in geval van waterlopen, tot de zoetwatergrens; en
+- j) “[Annex I](https://wetten.overheid.nl/BWBV0002961)” means the annex to the Protocol containing the agreed list of species of marine and coastal flora that fall within the categories defined in Article 1 and that require the protection measures indicated in [Article 11(l)(a)](https://wetten.overheid.nl/BWBV0002961). The Annex may include terrestrial species as provided for in Article l(c)(ii);
 
-- ii. de daarmee verbonden landgebieden (met inbegrip van stroomgebieden) die worden aangewezen door de Partij die soevereine rechten en rechtsmacht over die gebieden heeft;
+- k) “[Annex II](https://wetten.overheid.nl/BWBV0002961)” means the annex to the Protocol containing the agreed list of species of marine and coastal fauna that fall within the category defined in Article 1 and that require the protection measures indicated in [Article 11(l)(b)](https://wetten.overheid.nl/BWBV0002961). The Annex may include terrestrial species as provided for in Article l(c)(ii); and
 
-- d. „de Organisatie”: het in [artikel 2, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=2) bedoelde lichaam;
+- l) “[Annex III](https://wetten.overheid.nl/BWBV0002961)” means the annex to the Protocol containing the agreed list of species of marine and coastal flora and fauna that may be utilized on a rational and sustainable basis and that require the protection measures indicated in [Article 11(1)(c)](https://wetten.overheid.nl/BWBV0002961). The Annex may include terrestrial species as provided for in Article l(c)(ii).
 
-- e. „beschermd gebied”: een gebied dat wordt beschermd uit hoofde van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=4&z=2015-03-09&g=2015-03-09) van dit Protocol;
+##### Article 2. General Provisions
 
-- f. „uitstervende soorten”: dier- en plantesoorten of ondersoorten of hun populaties die in hun gehele verspreidingsgebied of een gedeelte daarvan met uitsterven worden bedreigd en waarvan het voortbestaan niet waarschijnlijk is indien de factoren die ze in gevaar brengen blijven bestaan;
+1. This Protocol shall apply to the Wider Caribbean Region as defined in [Article l(c)](https://wetten.overheid.nl/BWBV0002961).
 
-- g. „bedreigde soorten”: dier- en plantesoorten of ondersoorten of hun populaties:
+2. The provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) relating to its Protocols shall apply to this Protocol, including in particular, [paragraphs 2 and 3 of Article 3 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=3).
 
-- i. die in de nabije toekomst in hun gehele verspreidingsgebied of een gedeelte daarvan waarschijnlijk met uitsterven zullen worden bedreigd indien de factoren die leiden tot vermindering van hun aantal of tot aantasting van hun leefmilieu blijven bestaan; of
+3. The present Protocol shall not apply to warships or other ships owned or operated by a State while engaged in government non-commercial service. Nevertheless, each Party shall ensure through the adoption of appropriate measures that do not hinder the operation or operational capacities of vessels they own or operate, that they adhere to the terms of the present Protocol in so far as is reasonable and feasible.
 
-- ii. die zeldzaam zijn, omdat ze gewoonlijk voorkomen in een beperkt verspreidingsgebied of leefmilieu, of dun verspreid zijn over een groter gebied en die in aantal teruglopen of dreigen terug te lopen en mogelijk met uitsterven worden bedreigd of uitsterven;
+##### Article 3. General Obligations
 
-- h. „beschermde soorten”: dier- en plantesoorten of ondersoorten of hun populaties die worden beschermd uit hoofde van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2015-03-09&g=2015-03-09) van dit Protocol;
+1. Each Party to this Protocol shall, in accordance with its laws and regulations and the terms of the protocol, take the necessary measures to protect, preserve and manage in a sustainable way, within areas of the Wider Caribbean Region in which it exercises sovereignty, or sovereign rights or jurisdiction:
 
-- i. „inheemse soorten”: dier- en plantesoorten of ondersoorten of hun populaties waarvan de verspreiding is beperkt tot een bepaald gebied;
+- a) areas that require protection to safeguard their special value; and
 
-- j. „Bijlage I”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende plantesoorten bevat die vallen onder de in artikel 1 omschreven categorieën en die de in [artikel 11, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven; De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii;
+- b) threatened or endangered species of flora and fauna.
 
-- k. „Bijlage II”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende diersoorten bevat die vallen onder de in artikel 1 omschreven categorie en die de in [artikel 11, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii; en
+2. Each Party shall regulate and, where necessary, prohibit activities having adverse effects on these areas and species. Each Party shall endeavour to co-operate in the enforcement of these measures, without prejudice to the sovereignty, or sovereign rights or jurisdiction of other Parties. Any measures taken by such Party to enforce or to attempt to enforce the measures agreed pursuant to this Protocol shall be limited to those within the competence of such Party and shall be in accordance with international law.
 
-- l. „Bijlage III”: de bijlage bij dit Protocol die de overeengekomen lijst van in zee- en kustgebieden voorkomende dier- en plantesoorten bevat die op verstandige en verantwoorde wijze kunnen worden benut en die de in [artikel 11, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09), aangegeven beschermingsmaatregelen behoeven. De Bijlage mag op het land voorkomende soorten omvatten als bepaald in artikel 1, letter c, punt ii.
+3. Each Party, to the extent possible, consistent with each Party's legal system, shall manage species of fauna and flora with the objective of preventing species from becoming endangered or threatened.
 
-##### Artikel 2. Algemene bepalingen
+##### Article 4. Establisment of Protected Areas
 
-1. Dit Protocol is van toepassing op het Caribisch gebied zoals omschreven in [artikel 1, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=1&z=2015-03-09&g=2015-03-09).
+1. Each Party shall, when necessary, establish protected areas in areas over which it exercises sovereignty, or sovereign rights or jurisdiction, with a view to sustaining the natural resources of the Wider Caribbean Region, and encouraging ecologically sound and appropriate use, understanding and enjoyment of these areas, in accordance with the objectives and characteristics of each of them.
 
-2. De bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) met betrekking tot de protocollen daarbij zijn op dit Protocol van toepassing, met inbegrip van met name de [leden 2 en 3 van artikel 3 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=3).
+2. Such areas shall be established in order to conserve, maintain and restore, in particular:
 
-3. Dit Protocol is niet van toepassing op oorlogsschepen en andere schepen in eigendom van of geëxploiteerd door een Staat wanneer deze worden gebruikt in dienst van de overheid voor andere dan handelsdoeleinden. Niettemin zien alle Partijen erop toe, door middel van de aanneming van passende maatregelen die de exploitatie of de exploitatiemogelijkheden van schepen die zij in eigendom hebben of exploiteren niet in de weg staan, dat deze schepen zich houden aan de bepalingen van dit Protocol, voor zover zulks redelijk en haalbaar is.
+- a) representative types of coastal and marine ecosystems of adequate size to ensure their long-term viability and to maintain biological and genetic diversity;
 
-##### Artikel 3. Algemene verplichtingen
+- b) habitats and their associated ecosystems critical to the survival and recovery of endangered, threatened or endemic species of flora or fauna;
 
-1. Elke Partij bij dit Protocol neemt, in overeenstemming met haar wetten en voorschriften en de bepalingen van dit Protocol, de nodige maatregelen ten einde in gebieden in het Caribisch gebied waarin zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent op verantwoorde wijze te beschermen, in stand te houden en te beheren:
+- c) the productivity of ecosystems and natural resources that provide economic or social benefits and upon which the welfare of local inhabitants is dependent; and
 
-- a. gebieden die bescherming nodig hebben om hun bijzondere waarde veilig te stellen; en
+- d) areas of special biological, ecological, educational, scientific, historic, cultural, recreational, archaeological, aesthetic, or economic value, including in particular, areas whose ecological and biological processes are essential to the functioning of the Wider Caribbean ecosystems.
 
-- b. bedreigde of uitstervende dier- en plantesoorten.
+##### Article 5. Protection Measures
 
-2. Elke Partij reguleert en verbiedt, indien nodig, activiteiten die schadelijke gevolgen hebben voor deze gebieden en soorten. Elke Partij streeft naar samenwerking bij het doen naleven van deze maatregelen, zonder afbreuk te doen aan de soevereiniteit, soevereine rechten of rechtsmacht van andere Partijen. Alle maatregelen die door een zodanige Partij worden genomen om de krachtens dit Protocol overeengekomen maatregelen te doen naleven ofte trachten te doen naleven, dienen beperkt te zijn tot die maatregelen welke binnen de bevoegdheid van een zodanige Partij liggen en dienen in overeenstemming te zijn met het internationale recht.
+1. Each Party, taking into account the characteristics of each protected area over which it exercises sovereignty, or sovereign rights or jurisdiction, shall, in conformity with its national laws and regulations and with international law, progressively take such measures as are necessary and practicable to achieve the objectives for which the protected area was established.
 
-3. Elke Partij beheert, voor zover mogelijk, in overeenstemming met haar rechtsstelsel, dier- en plantesoorten met het doel te voorkomen dat zij uitstervende of bedreigde soorten worden.
+2. Such measures should include, as appropriate:
 
-##### Artikel 4. Instelling van beschermde gebieden
+- a) the regulation or prohibition of the dumping or discharge of wastes and other substances that may endanger protected areas;
 
-1. Elke Partij stelt, wanneer nodig, in de gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent beschermde gebieden in, ten einde de natuurlijke rijkdommen van het Caribisch gebied in stand te houden en ecologisch verantwoord en gepast gebruik, begrip en genot van deze gebieden aan te moedigen, in overeenstemming met de doelstellingen en kenmerken van elk daarvan.
+- b) the regulation or prohibition of coastal disposal or discharges causing pollution, emanating from coastal establishments and developments, outfall structures or any other sources within their territories;
 
-2. Dergelijke gebieden worden ingesteld ten behoeve van het behoud, de handhaving en het herstel van met name:
+- c) the regulation of the passage of ships, of any stopping or anchoring, and of other ship activities, that would have significant adverse environmental effects on the protected area, without prejudice to the rights of innocent passage, transit passage, archipelagic sea lanes passage and freedom of navigation, in accordance with international law;
 
-- a. representatieve typen kust- en zee-ecosystemen die groot genoeg zijn om hun levensvatbaarheid op de lange termijn te waarborgen en de biologische en genetische verscheidenheid te handhaven;
+- d) the regulation or prohibition of fishing, hunting, taking or harvesting of endangered or threatened species of fauna and flora and their parts or products;
 
-- b. leefmilieus en de daarmee samenhangende ecosystemen die essentieel zijn voor het voortbestaan en het herstel van uitstervende, bedreigde of inheemse dier- en plantesoorten;
+- e) the prohibition of activities that result in the destruction of endangered or threatened species of fauna or flora and their parts and products, and the regulation of any other activity likely to harm or disturb such species, their habitats or associated ecosystems;
 
-- c. de produktiviteit van ecosystemen en natuurlijke rijkdommen die economische of sociale voordelen bieden en waarvan het welzijn van de plaatselijke bewoners afhangt; en
+- f) the regulation or prohibition of the introduction of non-indigenous species;
 
-- d. gebieden van bijzondere biologische, ecologische, educatieve, wetenschappelijke, historische, culturele, recreatieve, archeologische, esthetische of economische waarde, met inbegrip van met name gebieden waarvan de ecologische en biologische processen essentieel zijn voor het functioneren van de ecosystemen in het Caribisch gebied.
+- g) the regulation or prohibition of any activity involving the exploration or exploitation of the sea-bed or its subsoil or a modification of the sea-bed profile;
 
-##### Artikel 5. Beschermingsmaatregelen
+- h) the regulation or prohibition of any activity involving a modification of the profile of the soil that could affect watersheds, denudation and other forms of degradation of watersheds, or the exploration or exploitation of the subsoil of the land part of a marine protected area;
 
-1. Elke Partij neemt, rekening houdend met de kenmerken van elk beschermd gebied waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, in overeenstemming met haar nationale wetten en voorschriften en met het internationale recht, geleidelijk de maatregelen die noodzakelijk en uitvoerbaar zijn om de doelstellingen waarvoor het beschermde gebied werd ingesteld te verwezenlijken.
+- i) the regulation of any archaeological activity and of the removal or damage of any object which may be considered as an archaeological object;
 
-2. Bedoelde maatregelen dienen, indien van toepassing, te omvatten:
+- j) the regulation or prohibition of trade in, and import and export of threatened or endangered species of fauna or their parts, products, or eggs, and of threatened or endangered species of flora or their parts or products, and archaeological objects that originate in protected areas;
 
-- a. het reguleren of verbieden van de storting of lozing van afval en andere stoffen die het beschermde gebied kunnen schaden;
+- k) the regulation or prohibition of industrial activities and of other activities which are not compatible with the uses that have been envisaged for the area by national measures and/or environmental impact assessments pursuant to [Article 13](https://wetten.overheid.nl/BWBV0002961);
 
-- b. het reguleren of verbieden van het zich ontdoen of lozen vanaf de kust van afval of andere stoffen die vervuiling veroorzaken, afkomstig van inrichtingen en bouwprojecten op de kust, uit rioolafvoeren of uit andere bronnen op haar grondgebied;
+- l. the regulation of tourist and recreational activities that might endanger the ecosystems of protected areas or the survival of threatened or endangered species of flora and fauna; and
 
-- c. het reguleren van de doorvaart van schepen, het stilliggen of ankeren en andere scheepsverrichtingen die nadelige milieu-effecten op het beschermde gebied kunnen hebben, zonder afbreuk te doen aan de rechten van onschuldige doorvaart, doortocht, doorvaart via scheepvaartroutes in een archipel en de vrijheid van de scheepvaart, in overeenstemming met het internationale recht;
+- m) any other measure aimed at conserving, protecting or restoring natural processes, ecosystems or populations for which the protected areas were established.
 
-- d. het reguleren of verbieden van het vissen, jagen, vangen of oogsten van uitstervende of bedreigde dier- en plantesoorten en delen of produkten daarvan;
+##### Article 6. Planning and Management Regime for Protected Areas
 
-- e. het verbieden van activiteiten die leiden tot de vernietiging van uitstervende of bedreigde dier- of plantesoorten en delen en produkten daarvan, en het reguleren van andere activiteiten die zodanige soorten, hun leefmilieu of daarmee samenhangende ecosystemen kunnen schaden of verstoren;
+1. In order to maximize the benefits from protected areas and to ensure the effective implementation of the measures set out in [Article 5](https://wetten.overheid.nl/BWBV0002961), each Party shall adopt and implement planning, management and enforcement measures for protected areas over which it exercises sovereignty, or sovereign rights or jurisdiction. In this regard, each Party shall take into account the guidelines and criteria formulated by the Scientific and Technical Advisory Committee as provided for in [Article 21](https://wetten.overheid.nl/BWBV0002961) and which have been adopted by meetings of the Parties.
 
-- f. het reguleren of verbieden van het uitzetten van niet-inheemse soorten;
+2. Such measures should include:
 
-- g. het reguleren of verbieden van activiteiten die de exploratie of exploitatie van de zeebodem of de ondergrond daarvan of een verandering van het profiel van de zeebodem inhouden;
+- a) the formulation and adoption of appropriate management guidelines for protected areas;
 
-- h. het reguleren of verbieden van activiteiten die een verandering van het profiel van de bodem van die stroomgebieden zou kunnen aantasten, erosie en andere vormen van schade aan stroomgebieden, dan wel de exploratie of exploitatie van de ondergrond van het op het land gelegen gedeelte van een marien beschermd gebied inhouden.
+- b) the development and adoption of a management plan that specifies the legal and institutional framework and the management and protection measures applicable to an area or areas;
 
-- i. het reguleren van archeologische activiteiten en van het verwijderen of beschadigen van voorwerpen die als archeologische voorwerpen kunnen worden beschouwd;
+- c) the conduct of scientific research on, and monitoring of, user impacts, ecological processes, habitats, species and populations; and the undertaking of activities aimed at improved management;
 
-- j. het reguleren of verbieden van handel in en in- en uitvoer van bedreigde of uitstervende diersoorten of delen, produkten of eieren daarvan, en van bedreigde of uitstervende plantesoorten of delen of produkten daarvan en archeologische voorwerpen die uit beschermde gebieden afkomstig zijn;
+- d) the development of public awareness and education programmes for users, decisionmakers and the public to enhance their appreciation and understanding of protected areas and the objectives for which they were established;
 
-- k. het reguleren of verbieden van industriële activiteiten en andere activiteiten die niet verenigbaar zijn met de vormen van gebruik waarin voor het gebied is voorzien krachtens nationale maatregelen en/of evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09); en
+- e) the active involvement of local communities, as appropriate, in the planning and management of protected areas, including assistance to, and training of, local inhabitants who may be affected by the establishment of protected areas;
 
-- l. het reguleren van toeristische en recreatieve activiteiten die de ecosystemen van beschermde gebieden of het voortbestaan van bedreigde of uitstervende dier- en plantesoorten zouden kunnen bedreigen; en
+- f) the adoption of mechanisms for financing the development and effective management of protected areas and facilitating programmes of mutual assistance;
 
-- m. andere maatregelen gericht op het behoud, de bescherming of het herstel van natuurlijke processen, ecosystemen of populaties waarvoor het beschermde gebied werd ingesteld.
+- g) contingency plans for responding to incidents that could cause or threaten to cause damage to protected areas including their resources;
 
-##### Artikel 6. Plannings- en beheersregels voor beschermde gebieden
+- h) procedures to permit, regulate or otherwise authorize activities compatible with the objectives for which the protected areas were established; and
 
-1. Ten einde de voordelen van beschermde gebieden optimaal te benutten en de daadwerkelijke uitvoering van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=5&z=2015-03-09&g=2015-03-09) uiteengezette maatregelen te waarborgen, neemt elke Partij voor beschermde gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent, plannings-, beheers- en uitvoeringsmaatregelen en past deze toe. Daarbij houdt elke Partij rekening met de door de Wetenschappelijke en Technische Raadgevende Commissie vastgestelde richtlijnen en criteria, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09), die zijn aangenomen op de vergaderingen van de Partijen.
+- i) the development of qualified managers and technical personnel, as well as appropriate infrastructure.
 
-2. Deze maatregelen dienen te omvatten:
+##### Article 7. Co-operation Programme for, and Listing of, Protected Areas
 
-- a. het opstellen en aannemen van passende beheersrichtlijnen voor beschermde gebieden;
+1. The Parties shall establish co-operation programmes within the framework of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) and the Action Plan and in accordance with their sovereignty, or sovereign rights or jurisdiction to further the objectives of the Protocol.
 
-- b. het ontwikkelen en aannemen van een beheersplan dat het wettelijke en institutionele kader en de op het gebied of de gebieden van toepassing zijnde beheers- en beschermingsmaatregelen aangeeft;
+2. A co-operation programme will be established to support the listing of protected areas. It will assist with the selection, establishment, planning, management and conservation of protected areas, and shall create a network of protected areas. To this end, the Parties shall establish a list of protected areas. The Parties shall:
 
-- c. het verrichten van wetenschappelijk onderzoek en het bewaken van gebruikseffecten, ecologische processen, leefmilieus, soorten en populaties en het ondernemen van activiteiten die zijn gericht op verbetering van het beheer;
+- a) recognize the particular importance of listed areas to the Wider Caribbean Region;
 
-- d. het ontwikkelen van bewustmakings- en vormingsprogramma's voor gebruikers, beslissers en het publiek ter vergroting van hun waardering en begrip voor beschermde gebieden en de doelstellingen waarvoor zij werden ingesteld;
+- b) accord priority to listed areas for scientific and technical research pursuant to [Article 17](https://wetten.overheid.nl/BWBV0002961);
 
-- e. het actief betrekken van plaatselijke gemeenschappen, indien van toepassing, bij de planning en het beheer van beschermde gebieden, met inbegrip van bijstand aan en opleiding van plaatselijke bewoners voor wie de instelling van beschermde gebieden gevolgen kan hebben;
+- c) accord priority to listed areas for mutual assistance pursuant to [Article 18](https://wetten.overheid.nl/BWBV0002961); and
 
-- f. het aannemen van mechanismen ter financiering van de ontwikkeling en het doeltreffende beheer van beschermde gebieden en ter bevordering van programma's voor wederzijdse bijstand;
+- d) not authorize or undertake activities that would undermine the purposes for which a listed area was created.
 
-- g. rampenplannen om te reageren op voorvallen die beschermde gebieden, met inbegrip van hun rijkdommen, zouden kunnen schaden of bedreigen;
+3. The procedures for the establishment of the list of protected areas are as follows:
 
-- h. procedures voor het toestaan, reguleren of anderszins verlenen van machtiging voor activiteiten die verenigbaar zijn met de doelstellingen waarvoor de beschermde gebieden werden ingesteld; en
+- a) The Party that exercises sovereignty, or sovereign rights or jurisdiction over a protected area shall nominate it to be included in the list of protected areas. Such nominations will be made in accordance with the guidelines and criteria concerning the identification, selection, establishment, management, protection, and any other matter adopted by the Parties pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961). Each Party making a nomination shall provide the Scientific and Technical Advisory Committee through the Organization with the necessary supporting documentation, including in particular, the information noted in [Article 19(2)](https://wetten.overheid.nl/BWBV0002961); and
 
-- i. het vormen van bekwaam leidinggevend en technisch personeel en het ontwikkelen van een passende infrastructuur.
+- b) After the Scientific and Technical Advisory Committee evaluates the nomination and supporting documentation, it will advise the Organization as to whether the nomination fulfills the common guidelines and criteria established pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961). If these guidelines and criteria have been met, the Organization will advise the Meeting of Contracting Parties who will include the nomination in the List of Protected Areas.
 
-##### Artikel 7. Samenwerkingsprogramma voor en opstelling van een lijst van beschermde gebieden
+##### Article 8. Establishment of Buffer Zones
 
-1. De Partijen brengen samenwerkingsprogramma's tot stand binnen het kader van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en het Actieplan en in overeenstemming met hun soevereiniteit, soevereine rechten of rechtsmacht, ter bevordering van de doelstellingen van dit Protocol.
+Each Party to this Protocol may, as necessary, strengthen the protection of a protected area by establishing, within areas in which it exercises sovereignty, or sovereign rights or jurisdiction, one or more buffer zones in which activities are less restricted than in the protected area while remaining compatible with achieving the purposes of the protected area.
 
-2. Een samenwerkingsprogramma wordt tot stand gebracht ter ondersteuning van de opstelling van een lijst van beschermde gebieden en ten behoeve van de keuze, de instelling, de planning, het beheer en het behoud van beschermde gebieden, en het scheppen van een netwerk van beschermde gebieden.
+##### Article 9. Protected Areas and Buffer Zones Contiguous to International Boundaries
 
-Daartoe stellen de Partijen een lijst van beschermde gebieden op. De Partijen:
+1. If a Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of another Party, the two Parties shall consult each other with a view to reaching agreement on the measures to be taken and shall, *inter alia,* examine the possibility of the establishment by the other Party of a corresponding contiguous protected area or buffer zone or the adoption by it of any other appropriate measures including co-operative management programmes.
 
-- a. erkennen het bijzondere belang van in de lijst opgenomen gebieden voor het Caribisch gebied;
+2. If a Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of a State that is not a Party to this Protocol, the party shall endeavour to work together with the competent authorities of that State with a view to holding the consultations referred to in paragraph 1.
 
-- b. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09);
+3. Whenever it becomes known to a Party that a non-Party intends to establish a protected area or a buffer zone contiguous to the frontier or to the limits of the zone of national jurisdiction of a Party to this Protocol, the latter shall endeavour to work together with that State with a view to holding the consultations referred to in paragraph 1.
 
-- c. kennen prioriteit toe aan in de lijst opgenomen gebieden voor wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2015-03-09&g=2015-03-09); en
+4. If contiguous protected areas and/or buffer zones are established by one Party and by a State that is not a Party to this Protocol, the former should attempt, where possible, to achieve conformity with the provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) and its Protocols.
 
-- d. verlenen geen machtiging voor en gaan niet over tot activiteiten die afbreuk doen aan de doelstellingen waarvoor een in de lijst opgenomen gebied werd ingesteld.
+##### Article 10. National Measures for the Protection of Wild Flora and Fauna
 
-3. De procedure voor de opstelling van deze lijst van beschermde gebieden is als volgt:
+1. Each Party shall identify endangered or threatened species of flora and fauna within areas over which it exercises sovereignty, or sovereign rights or jurisdiction, and accord protected status to such species. Each Party shall regulate and prohibit according to its laws and regulations, where appropriate, activities having adverse effects on such species or their habitats and ecosystems, and carry out species recovery, management, planning and other measures to effect the survival of such species. Each Party, in keeping with its legal system, shall also take appropriate actions to prevent species from becoming endangered or threatened.
 
-- a. De Partij die soevereiniteit, soevereine rechten of rechtsmacht over een beschermd gebied uitoefent, draagt het voor voor opneming in de lijst van beschermde gebieden. De voordracht geschiedt in overeenstemming met de richtlijnen en criteria betreffende de kenschetsing, de keuze, de instelling, het beheer, de bescherming en enige andere aangelegenheid, door de Partijen aangenomen uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09). Elke Partij die een voordracht doet, verstrekt via de Organisatie aan de Wetenschappelijke en Technische Raadgevende Commissie de nodige tot staving dienende stukken, met inbegrip van met name de in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09), genoemde gegevens;
+2. With respect to protected species of flora and their parts and products, each Party, in conformity with its laws and regulations, shall regulate, and where appropriate, prohibit all forms of destruction and disturbance, including the picking, collecting, cutting, uprooting or possession of, or commercial trade in, such species.
 
-- b. Nadat de Wetenschappelijke en Technische Raadgevende Commissie de voordracht en de tot staving dienende stukken heeft beoordeeld, brengt zij de Organisatie ervan op de hoogte of aan de uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) vastgestelde richtlijnen en criteria is voldaan. Indien aan deze richtlijnen en criteria is voldaan brengt de Organisatie de Vergadering van Verdragsluitende Partijen op de hoogte, die het voorgedragen gebied in de lijst van beschermde gebieden opneemt.
+3. With respect to protected species of fauna, each Party, in conformity with its laws and regulations, shall regulate, and where appropriate, prohibit:
 
-##### Artikel 8. Instelling van bufferzones
+- a) the taking, possession or killing (including, to the extent possible, the incidental taking, possession or killing) or commercial trade in such species or their parts or products; and
 
-Elke Partij bij dit Protocol kan, indien noodzakelijk, de bescherming van een beschermd gebied versterken door in de gebieden waarin zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent één of meer bufferzones in te stellen waarin activiteiten aan minder beperkingen zijn gebonden dan in het beschermde gebied, zolang deze verenigbaar blijven met de verwezenlijking van de doelstellingen van het beschermde gebied.
+- b) to the extent possible, the disturbance of wild fauna, particularly during the period of breeding, incubation, estivation or migration, as well as other periods of biological stress.
 
-##### Artikel 9. Beschermde gebieden en bufferzones langs internationale grenzen
+4. Each Party shall formulate and adopt policies and plans for the management of captive breeding of protected fauna and propogation of protected flora.
 
-1. Indien een Partij voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een andere Partij, plegen beide Partijen met elkander overleg ten einde overeenstemming te bereiken over de te nemen maatregelen en bestuderen zij, onder andere, de mogelijkheid dat de andere Partij een overeenkomstig aangrenzend beschermd gebied of een bufferzone instelt of andere passende maatregelen aanneemt, waaronder op samenwerking gerichte beheersprogramma's.
+5. The parties shall, in addition to the measures specified in paragraph 3, co-ordinate their efforts, through bilateral or multilateral actions, including if necessary, any treaties for the protection and recovery of migratory species whose range extends into areas under their sovereignty, or sovereign rights or jurisdiction.
 
-2. Indien een Partij voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een Staat die geen Partij bij dit Protocol is, tracht de Partij samen te werken met de bevoegde autoriteiten van die Staat ten einde te komen tot het in het eerste lid bedoelde overleg.
+6. The Parties shall endeavour to consult with range States that are not Parties to this Protocol, with a view to co-ordinating their efforts to manage and protect endangered or threatened migratory species.
 
-3. Wanneer een Partij ervan kennis neemt dat een Staat die geen Partij is voornemens is een beschermd gebied of een bufferzone in te stellen langs de landsgrens of de grenzen van het nationale rechtsgebied van een Partij bij dit Protocol, tracht deze Partij samen te werken met die Staat ten einde te komen tot het in het eerste lid bedoelde overleg.
+7. The Parties shall make provisions, where possible, for the repatriation of protected species exported illegally. Efforts should be made by Parties to reintroduce such species to the wild, or if unsuccessful, make provision for their use in scientific studies or for public education purposes.
 
-4. Indien aangrenzende beschermde gebieden en/of bufferzones worden ingesteld door een Partij en een Staat die geen Partij bij dit Protocol is, tracht de Partij, indien mogelijk, overeenstemming te bereiken met de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en de protocollen daarbij.
+8. The measures which Parties take under this Article are subject to their obligations under [Article 11](https://wetten.overheid.nl/BWBV0002961) and shall in no way derogate from such obligations.
 
-##### Artikel 10. Nationale maatregelen ter bescherming van wilde dier- en plantesoorten
+##### Article 11. Co-operative Measures for the Protection of Wild Flora and Fauna
 
-1. Elke Partij stelt in de gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent vast welke dier- en plantesoorten uitstervende of bedreigde soorten zijn en kent deze soorten een beschermde status toe. Elke Partij reguleert en verbiedt overeenkomstig haar wetten en voorschriften, indien van toepassing, activiteiten die schadelijke gevolgen hebben voor deze soorten of hun leefmilieus en ecosystemen, en voert maatregelen tot herstel, beheer en planning van de soort en andere maatregelen uit om het voortbestaan van deze soorten te bewerkstelligen. Elke Partij neemt, in overeenstemming met haar rechtsstelsel, tevens passende maatregelen om te voorkomen dat soorten uitstervende of bedreigde soorten worden.
+1. The Parties shall adopt co-operative measures to ensure the protection and recovery of endangered and threatened species of flora and fauna listed in [Annexes I](https://wetten.overheid.nl/BWBV0002961), [II](https://wetten.overheid.nl/BWBV0002961) and [III](https://wetten.overheid.nl/BWBV0002961) of the present Protocol.
 
-2. Ten aanzien van beschermde plantesoorten en delen en produkten daarvan reguleert en, indien van toepassing, verbiedt elke Partij, in overeenstemming met haar wetten en voorschriften, alle vormen van vernietiging en verstoring, met inbegrip van het plukken, verzamelen, afsnijden, ontwortelen of in bezit hebben, dan wel het verhandelen van deze soorten.
+- a) The Parties shall adopt all appropriate measures to ensure the protection and recovery of species of flora listed in [Annex I](https://wetten.overheid.nl/BWBV0002961). For this purpose, each Party shall prohibit all forms of destruction or disturbance, including the picking, collecting, cutting, uprooting or possession of, or commercial trade in such species, their seeds, parts or products. They shall regulate activities, to the extent possible, that could have harmful effects on the habitats of the species.
 
-3. Ten aanzien van beschermde diersoorten reguleert en, indien van toepassing, verbiedt elke Partij, in overeenstemming met haar wetten en voorschriften:
+- b) Each Party shall ensure total protection and recovery to the species of fauna listed in [Annex II](https://wetten.overheid.nl/BWBV0002961) by prohibiting:
 
-- a. het vangen, in bezit hebben of doden (met inbegrip, van voor zover mogelijk, het bij toeval vangen, in bezit hebben of doden) dan wel verhandelen van deze soorten en delen of produkten daarvan; en
+   - (i) the taking, possession or killing (including, to the extent possible, the incidental taking, possession or killing) or commercial trade in such species, their eggs, parts or products;
 
-- b. voor zover mogelijk, het verstoren van in het wild levende diersoorten, met name gedurende de voortplantings-, broed-, aestivatie- of trektijd, alsmede in andere perioden van biologische onrust.
+   - (ii) to the extent possible, the disturbance of such species, particularly during periods of breeding, incubation, estivation or migration, as well as other periods of biological stress.
 
-4. Elke Partij stippelt beleidslijnen en plannen uit tot beheer van het fokken van beschermde diersoorten en de voortplanting van beschermde plantesoorten, en neemt deze aan.
+- c) Each Party shall adopt appropriate measures to ensure the protection and recovery of the species of flora and fauna listed in [Annex III](https://wetten.overheid.nl/BWBV0002961) and may regulate the use of such species in order to ensure and maintain their populations at optimal levels. With regard to the species listed in Annex III, each Party shall, in co-operation with other Parties, formulate, adopt and implement plans for the management and use of such species, which may include:
 
-5. De Partijen stemmen, naast het nemen van de in het derde lid genoemde maatregelen, hun inspanningen op elkander af door middel van bilaterale of multilaterale maatregelen, met inbegrip van, indien noodzakelijk, verdragen inzake de bescherming en het herstel van trekkende soorten waarvan het verspreidingsgebied zich uitstrekt tot in gebieden die onder hun soevereiniteit, soevereine rechten of rechtsmacht vallen.
+   - (i) For species of fauna:
 
-6. De Partijen trachten met tot het verspreidingsgebied behorende Staten die geen Partij bij dit Protocol zijn, overleg te plegen ten einde hun inspanningen voor het beheer en de bescherming van uitstervende of bedreigde trekkende soorten op elkander af te stemmen.
+      - a) the prohibition of all non-selective means of capture, killing, hunting and fishing and of all actions likely to cause local disappearance of a species or serious disturbance of its tranquility;
 
-7. De Partijen treffen, indien mogelijk, voorzieningen voor de repatriëring van illegaal uitgevoerde beschermde soorten. Partijen dienen zich in te spannen om deze soorten uit te zetten in het wild of, indien dit niet gelukt, voorzieningen te treffen om ze te gebruiken in wetenschappelijke onderzoeken of voor algemene vormingsdoeleinden.
+      - b) the institution of closed hunting and fishing seasons and of other measures for maintaining their populations;
 
-8. De maatregelen die Partijen nemen uit hoofde van dit artikel zijn ondergeschikt aan hun verplichtingen uit hoofde van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) en mogen geenszins afbreuk doen aan die verplichtingen.
+      - c) the regulation of the taking, possession, transport or sale of living or dead species, their eggs, parts or products;
 
-##### Artikel 11. Gemeenschappelijke maatregelen voor de bescherming van wilde dier- en plantesoorten
+   - (ii) For species of flora, including their parts or products, the regulation of their collection, harvest and commercial trade.
 
-1. De Partijen nemen gemeenschappelijke maatregelen aan ten behoeve van de bescherming en het herstel van uitstervende of bedreigde dier- en plantesoorten opgenomen in de lijsten in de Bijlagen I, II en III bij dit Protocol.
+2. Each Party may adopt exemptions to the prohibitions prescribed for the protection and recovery of the species listed in [Annexes I](https://wetten.overheid.nl/BWBV0002961) and [II](https://wetten.overheid.nl/BWBV0002961) for scientific, educational or management purposes necessary to ensure the survival of the species or to prevent significant damage to forests or crops. Such exemptions shall not jeopardize the species and shall be reported to the Organization in order for the Scientific and Technical Advisory Committee to assess the pertinence of the exemptions granted.
 
-- a. De Partijen nemen alle passende maatregelen aan om toe te zien op de bescherming en het herstel van plantesoorten opgenomen in de lijsten in Bijlage I. Daartoe verbiedt elke Partij alle vormen van vernietiging of verstoring, met inbegrip van het plukken, verzamelen, afsnijden, ontwortelen of in bezit hebben, dan wel het verhandelen van die soorten en zaden, delen of produkten daarvan. Zij reguleren, voor zover mogelijk, alle activiteiten die schadelijke gevolgen kunnen hebben voor de leefmilieus van de soorten.
+3. The Parties also shall:
 
-- b. Elke Partij ziet toe op de totale bescherming en het herstel van de diersoorten opgenomen in de lijsten in Bijlage II door te verbieden:
+- a) accord priority to species contained in the annexes for scientific and technical research pursuant to [Article 17](https://wetten.overheid.nl/BWBV0002961);
 
-- i. het vangen, in bezit hebben of doden van (met inbegrip, voor zover mogelijk, van het bij toeval vangen, in bezit hebben of doden) dan wel verhandelen van die soorten en eieren, delen of produkten daarvan;
+- b) accord priority to species contained in the annexes for mutual assistance pursuant to [Article 18](https://wetten.overheid.nl/BWBV0002961).
 
-- ii. voor zover mogelijk, het verstoren van die soorten, met name gedurende de voortplantings-, broed-, overwinterings- of trektijd, alsmede andere perioden van biologische onrust.
+4. The procedures to amend the annexes shall be as follows:
 
-- c. Elke Partij neemt passende maatregelen aan ten behoeve van de bescherming en het herstel van de dier- en plantesoorten opgenomen in de lijsten in Bijlage III en kan het gebruik van die soorten reguleren ten einde hun populaties te beschermen en zo goed mogelijk te houden. Ten aanzien van de soorten opgenomen in de lijsten in Bijlage III worden door elke Partij, in samenwerking met andere Partijen, plannen uitgestippeld, aangenomen en uitgevoerd voor het beheer en het gebruik van die soorten, die kunnen omvatten:
+- a) any Party may nominate an endangered or threatened species of flora or fauna for inclusion in or deletion from these annexes, and shall submit to the Scientific and Technical Advisory Committee, through the Organization, supporting documentation, including, in particular, the information noted in [Article 19](https://wetten.overheid.nl/BWBV0002961). Such nomination will be made in accordance with the guidelines and criteria adopted by the Parties pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961);
 
-- i. Voor diersoorten:
+- b) the Scientific and Technical Advisory Committee shall review and evaluate the nominations and supporting documentation and shall report its views to the meetings of Parties held pursuant to [Article 23](https://wetten.overheid.nl/BWBV0002961);
 
-- a. het verbieden van alle niet-selectieve middelen voor het vangen, doden, jagen en vissen en van alle handelingen die kunnen leiden tot het plaatselijk verdwijnen van een soort of tot ernstige verstoring van zijn rust;
+- c) the Parties shall review the nominations, supporting documentation and the reports of the Scientific and Technical Advisory Committee. A species shall be listed in the annexes by consensus, if possible, and if not, by a three-quarters majority vote of the Parties present and voting, taking fully into account the advice of the Scientific and Technical Advisory committee that the nomination and supporting documentation meet the common guidelines and criteria established pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961);
 
-- b. het instellen van gesloten jacht- en visseizoenen en andere maatregelen ter instandhouding van hun populaties;
+- d) a Party may, in the exercise of its sovereignty or sovereign rights, enter a reservation to the listing of a particular species in an annex by notifying the Depositary in writing within 90 days of the vote of the Parties. The Depositary shall, without delay, notify all Parties of reservations received pursuant to this paragraph;
 
-- c. het reguleren van het vangen, in bezit hebben, vervoeren of verkopen van levende of dode soorten en eieren, delen of produkten daarvan;
+- e) a listing in the corresponding annex shall become effective 90 days after the vote for all Parties, except those which made a reservation in accordance with paragraph (d) of this Article; and
 
-- ii. Voor plantesoorten, met inbegrip van delen of produkten daarvan, het reguleren van het verzamelen, oogsten en verhandelen ervan.
+- f) a Party may at any time substitute an acceptance for a previous reservation to a listing by notifying the Depositary, in writing. The acceptance shall thereupon enter into force for that Party.
 
-2. Elke Partij kan met betrekking tot de verboden voorgeschreven tot bescherming en herstel van de soorten opgenomen in de lijsten in de Bijlagen I en II vrijstellingen aannemen voor wetenschaps-, vormings- en beheersdoeleinden die nodig zijn voor het voortbestaan van de soorten of ter voorkoming van aanzienlijke schade aan bossen of gewassen. Deze vrijstellingen mogen geen bedreiging vormen voor de soorten en dienen te worden gemeld aan de Organisatie, opdat de Wetenschappelijke en Technische Raadgevende Commissie de gegrondheid van de verleende vrijstellingen beoordeelt.
+5. The Parties shall establish co-operation programmes within the framework of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) and the Action Plan to assist with the management and conservation of protected species, and shall develop and implement regional recovery programmes for protected species in the Wider Caribbean Region, taking fully into account other existing regional conservation measures relevant to the management of those species. The Organization shall assist in the establishment and implementation of these regional recovery programmes.
 
-3. De Partijen kennen tevens prioriteit toe
+##### Article 12. Introduction of Non-indigenous or Genetically Altered Species
 
-- a. aan de in de bijlagen vervatte soorten ten behoeve van wetenschappelijk en technisch onderzoek uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09); en
+Each Party shall take all appropriate measures to regulate or prohibit intentional or accidental introduction of non-indigenous or genetically altered species to the wild that may cause harmful impacts to the natural flora, fauna or other features of the Wider Caribbean Region.
 
-- b. aan de in de bijlagen vervatte soorten ten behoeve van de wederzijdse bijstand uit hoofde van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=18&z=2015-03-09&g=2015-03-09).
+##### Article 13. Environmental Impact Assessment
 
-4. De procedure tot wijziging van de bijlagen is als volgt:
+1. In the planning process leading to decisions about industrial and other projects and activities that would have a negative environmental impact and significantly affect areas or species that have been afforded special protection under this Protocol, each Party shall evaluate and take into consideration the possible direct and indirect impacts, including cumulative impacts, of the projects and activities being contemplated.
 
-- a. iedere Partij kan uitstervende of bedreigde dier- of plantesoorten voordragen voor opneming en doorhaling in deze bijlagen en dient via de Organisatie bij de Wetenschappelijke en Technische Raadgevende Commissie tot staving dienende stukken in, met inbegrip van met name de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09) genoemde gegevens. De voordracht geschiedt in overeenstemming met de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) door de Partijen aangenomen richtlijnen en criteria;
+2. The Organization and the Scientific and Technical Advisory Committee shall, to the extent possible, provide guidance and assistance, upon request, to the Party making these assessments.
 
-- b. de Wetenschappelijke en Technische Raadgevende Commissie beziet en beoordeelt de voordrachten en tot staving dienende stukken en maakt haar standpunten bekend aan de vergaderingen van Partijen, gehouden overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=23&z=2015-03-09&g=2015-03-09);
+##### Article 14. Exemptions for Traditional Activities
 
-- c. de Partijen bezien de voordrachten, tot staving dienende stukken en verslagen van de Wetenschappelijke en Technische Raadgevende Commissie. Een soort wordt, indien mogelijk, door middel van consensus in de lijsten in de bijlagen opgenomen, en anders bij een meerderheid van drie vierde van de aanwezige Partijen die hun stem uitbrengen, ten volle rekening houdend met het advies van de Wetenschappelijke en Technische Raadgevende Commissie dat de voordracht en de tot staving dienende stukken voldoen aan de overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09) vastgestelde gemeenschappelijke richtlijnen en criteria;
+1. Each Party shall, in formulating management and protective measures, take into account and provide exemptions, as necessary, to meet the traditional subsistence and cultural needs of its local populations. To the fullest extent possible, no exemption which is allowed for this reason shall:
 
-- d. een Partij kan in de uitoefening van haar soevereiniteit of soevereine rechten een voorbehoud maken ten aanzien van de opneming van een bepaalde soort in een lijst in een bijlage door middel van een schriftelijke kennisgeving aan de Depositaris binnen 90 dagen na de stemming van de Partijen. De Depositaris stelt alle Partijen onverwijld in kennis van elk uit hoofde van deze bepaling ontvangen voorbehoud;
+- a) endanger the maintenance of areas protected under the terms of this Protocol, including the ecological processes contributing to the maintenance of those protected areas; or
 
-- e. een opneming in een lijst in de desbetreffende bijlage wordt 90 dagen na de stemming voor alle Partijen van kracht, behalve voor hen die een voorbehoud hebben gemaakt in overeenstemming met de bepaling in letter d van dit artikel; en
+- b) cause either the extinction of, or a substantial risk to, or substantial reduction in the number of, individuals making up the populations of species of fauna and flora within the protected areas, or any ecologically inter-connected species or populations, particularly migratory species and threatened, endangered or endemic species.
 
-- f. een Partij kan te allen tijde een eerder voorbehoud ten aanzien van een opneming in een lijst vervangen door een aanvaarding door middel van een schriftelijke kennisgeving aan de Depositaris. De aanvaarding wordt daarna voor die Partij van kracht.
+2. Parties which allow exemptions with regard to protective measures shall inform the Organization accordingly.
 
-5. De Partijen stellen samenwerkingsprogramma's op in het kader van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) en het Actieplan ten behoeve van het beheer en het behoud van beschermde soorten en ontwikkelen regionale herstelprogramma's voor beschermde soorten in het Caribisch gebied, en voeren deze uit, ten volle rekening houdend met andere bestaande regionale maatregelen tot behoud die voor het beheer van die soorten van belang zijn. De Organisatie verleent bijstand bij de opstelling en uitvoering van deze regionale herstelprogramma's.
+##### Article 15. Changes in the Status of Protected Areas or Protected Species
 
-##### Artikel 12. Uitzetting van niet-inheemse of genetisch gewijzigde soorten
+1. Changes in the delimitation or legal status of an area, or part thereof, or of a protected species, may only take place for significant reasons, bearing in mind the need to safeguard the environment and in accordance with the provisions of this Protocol and after notification to the Organization.
 
-Elke Partij neemt alle passende maatregelen om de opzettelijke of ongewenste uitzetting in het wild van niet-inheemse of genetisch gewijzigde soorten die voor natuurlijke dier- en plantesoorten en andere kenmerken van het Caribisch gebied schadelijke gevolgen kan hebben, te reguleren of te verbieden.
+2. The status of areas and species should be periodically reviewed and evaluated by the Scientific and Technical Advisory Committee on the basis of information provided by Parties through the Organization. Areas and species may be removed from the area listing or Protocol annexes by the same procedure by which they were incorporated.
 
-##### Artikel 13. Evaluatie van milieu-effecten
+##### Article 16. Publicity, Information, Public Awareness and Education
 
-1. Inde planningsprocessen die leiden tot beslissingen over industriële en andere projecten en activiteiten die negatieve milieu-effecten en ingrijpende gevolgen kunnen hebben voor gebieden of soorten waaraan bijzondere bescherming is toegekend krachtens dit Protocol, evalueert elke Partij de mogelijke directe en indirecte effecten, met inbegrip van de cumulatieve effecten van de beoogde projecten en activiteiten, en neemt zij deze in aanmerking.
+1. Each Party shall give appropriate publicity to the establishment of protected areas, in particular to their boundaries, buffer zones, and applicable regulations, and to the designation of protected species, in particular to their critical habitats and applicable regulations.
 
-2. De Organisatie en de Wetenschappelijke en Technische Raadgevende Commissie geven, voor zover mogelijk, op verzoek raad en verlenen bijstand aan een Partij bij bedoelde evaluaties.
+2. In order to raise public awareness, each Party shall endeavour to inform the public, as widely as possible, of the significance and value of the protected areas and species and of the scientific knowledge and other benefits which may be gained from them or any changes therein. Such information should have an appropriate place in education programmes concerning the environment and history. Each Party should also endeavour to promote the participation of its public and its conservation organizations in measures that are necessary for the protection of the areas and species concerned.
 
-##### Artikel 14. Vrijstellingen voor traditionele activiteiten
+##### Article 17. Scientific, Technical and Management Research
 
-1. Elke Partij houdt bij het opstellen van beheers- en beschermingsmaatregelen rekening met en voorziet in vrijstellingen, indien nodig, om tegemoet te komen aan de traditionele bestaansmogelijkheden en culturele behoeften van de plaatselijke bevolking. Voor zover zulks enigszins mogelijk is, mag geen enkele vrijstelling die om deze reden is verleend van zodanige aard zijn dat zij:
+1. Each Party shall encourage and develop scientific, technical and management-oriented research on protected areas, including, in particular, their ecological processes and archaeological, historical and cultural heritage, as well as on threatened or endangered species of fauna and flora and their habitats.
 
-- a. een bedreiging vormt voor de instandhouding van de krachtens de bepalingen van dit Protocol beschermde gebieden, met inbegrip van de ecologische processen die bijdragen tot de instandhouding van deze beschermde gebieden; of
+2. Each Party may consult with other Parties and with relevant regional and international organizations with a view to identifying, planning and undertaking scientific and technical research and monitoring programmes necessary to characterize and monitor protected areas and species and to assess the effectiveness of measures taken to implement management and recovery plans.
 
-- b. leiden tot het uitsterven van, dan wel een wezenlijk risico voor, of een wezenlijke vermindering van het aantal leden van, populaties van dier- en plantesoorten in de beschermde gebieden, of ecologisch verbonden soorten of populaties, in het bijzonder trekkende soorten. en bedreigde, uitstervende of inheemse soorten.
+3. The Parties shall exchange, directly or through the Organization, scientific and technical information concerning current and planned research and monitoring programmes and the results thereof. They shall, to the fullest extent possible, co-ordinate their research and monitoring programmes, and endeavour to standardize procedures for collecting, reporting, archiving and analyzing relevant scientific and technical information.
 
-2. Partijen die vrijstellingen verlenen met betrekking tot beschermingsmaatregelen stellen de Organisatie daarvan in kennis.
+4. The Parties shall, pursuant to the provisions of paragraph 1 above, compile comprehensive inventories of:
 
-##### Artikel 15. Wijzigingen in de status van beschermde gebieden of beschermde soorten
+- a) areas over which they exercise sovereignty, or sovereign rights or jurisdiction that contain rare or fragile ecosystems; that are reservoirs of biological or genetic diversity; that are of ecological value in maintaining economically important resources; that are important for threatened, endangered or migratory species; that are of value for aesthetic, recreational, tourist or archaeological reasons; and
 
-1. Wijzigingen in de afbakening of wettelijke status van een gebied, of een gedeelte daarvan, of van een beschermde soort kunnen slechts plaatsvinden om belangrijke redenen, de noodzaak het milieu te beschermen in aanmerking nemend en in overeenstemming met de bepalingen van dit Protocol, na kennisgeving aan de Organisatie.
+- b) species of fauna or flora that may qualify for listing as threatened or endangered according to the criteria established under this Protocol.
 
-2. De status van gebieden en soorten dient periodiek te worden bezien en beoordeeld door de Wetenschappelijke en Technische Raadgevende Commissie op basis van de door de Partijen via de Organisatie verstrekte gegevens. Gebieden en soorten kunnen uit de lijsten van gebieden of de bijlagen bij dit Protocol worden verwijderd op dezelfde wijze als waarop zij daarin werden opgenomen.
+##### Article 18. Mutual Assistance
 
-##### Artikel 16. Openbaarheid, voorlichting, publiek bewustzijn en vorming
+1. The Parties shall co-operate, directly or with the assistance of the Organization or other relevant international organizations, in formulating, drafting, financing and implementing programmes of assistance to those Parties that express a need for it in the selection, establishment and management of protected areas and species.
 
-1. Elke Partij geeft passende openbaarheid aan de instelling van beschermde gebieden, in het bijzonder hun grenzen, bufferzones en toepasselijke regelingen, alsmede aan de aanwijzing van beschermde soorten, in het bijzonder hun essentiële leefmilieus en de toepasselijke regelingen.
+2. These programmes should include public environmental education, the training of scientific, technical and management personnel, scientific research, and the acquisition, utilization, design and development of appropriate equipment on advantageous terms to be agreed among the Parties concerned.
 
-2. Ten einde publiek bewustzijn te kweken tracht elke Partij het publiek zo ruim mogelijk voor te lichten over de betekenis en de waarde van de beschermde gebieden en soorten en over de wetenschappelijke kennis en andere voordelen die daaruit kunnen worden verkregen of over veranderingen daarin. Deze voorlichting dient een passende plaats te krijgen in vormingsprogramma's op het gebied van milieu en geschiedenis. Elke Partij dient er tevens naar te streven te bevorderen dat haar publiek en haar organisaties voor natuurbehoud worden betrokken bij maatregelen die nodig zijn ter bescherming van de betrokken gebieden en soorten.
+##### Article 19. Notifications and Reports to the Organization
 
-##### Artikel 17. Wetenschappelijk, technisch en beheergericht onderzoek
+1. Each Party shall report periodically to the Organization on:
 
-1. Elke Partij stimuleert en ontwikkelt wetenschappelijk, technisch en beheergericht onderzoek inzake beschermde gebieden, met inbegrip van met name de ecologische processen en het archeologisch historisch en cultureel erfgoed daarvan, alsmede inzake bedreigde of uitstervende dier- en plantesoorten en hun leefmilieus.
+- a) the status of existing and newly established protected areas, buffer zones and protected species in areas over which they exercise sovereignty, or sovereign rights or jurisdiction; and
 
-2. Elke Partij kan met andere Partijen en met daarvoor in aanmerking komende regionale en internationale organisaties overleggen met het oog op het vaststellen, plannen en uitvoeren van programma's voor wetenschappelijk en technisch onderzoek en toezicht die nodig zijn om beschermde gebieden en soorten te kenschetsen en daarop toezicht te houden en om de doeltreffendheid van maatregelen ter uitvoering van beheers- en herstelplannen te beoordelen.
+- b) any changes in the delimitation or legal status of protected areas, buffer zones and protected species in areas over which they exercise sovereignty, or sovereign rights or jurisdiction.
 
-3. De Partijen wisselen rechtstreeks of via de Organisatie wetenschappelijke en technische informatie uit betreffende bestaande en geplande programma's voor onderzoek en toezicht en de resultaten daarvan. Zij stemmen in de hoogst mogelijke mate hun programma's voor onderzoek en toezicht op elkander af en trachten procedures voor het verzamelen, optekenen, archiveren en analyseren van ter zake dienende wetenschappelijke en technische informatie te standaardiseren.
+2. The reports relevant to the protected areas and buffer zones should include information on:
 
-4. De Partijen stellen overeenkomstig de bepalingen van het eerste lid hierboven uitgebreide inventarisatielijsten op van:
+- a) name of the area or zone;
 
-- a. gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefenen die zeldzame of broze ecosystemen bevatten; die een reservoir van biologische of genetische verscheidenheid zijn; die van ecologische waarde zijn voor de instandhouding van in economisch opzicht belangrijk leven; die van belang zijn voor bedreigde, uitstervende of trekkende soorten; die om esthetische, recreatieve, toeristische of archeologische redenen van waarde zijn; en
+- b) biogeography of the area or zone (boundaries, physical features, climate, flora and fauna);
 
-- b. dier- of plantesoorten die in aanmerking komen voor opneming in de lijsten van bedreigde of uitstervende soorten overeenkomstig de krachtens dit Protocol vastgestelde criteria.
+- c) legal status, with reference to relevant national legislation or regulation;
 
-##### Artikel 18. Wederzijdse bijstand
+- d) date and history of establishment;
 
-1. De Partijen werken rechtstreeks of met hulp van de Organisatie of andere daarvoor in aanmerking komende internationale organisaties samen bij het opzetten, ontwerpen, financieren en uitvoeren van programma's voor bijstand aan de Partijen die te kennen geven daaraan behoefte te hebben bij de keuze, de instelling en het beheer van beschermde gebieden en soorten.
+- e) protected area management plans;
 
-2. Deze programma's dienen algemene milieukundige vorming, de opleiding van wetenschappelijk, technisch en beherend personeel, wetenschappelijk onderzoek, alsmede de verwerving, het gebruik, het ontwerp en de ontwikkeling van passende uitrusting op gunstige door de betrokken Partijen overeen te komen voorwaarden te omvatten.
+- f) relevance to cultural heritage;
 
-##### Artikel 19. Kennisgeving en verslaglegging aan de Organisatie
+- g) facilities for research and visitors; and
 
-1. Elke Partij doet de Organisatie periodiek verslag van:
+- h) threats to the area or zone, especially threats which originate outside the jurisdiction of the Party.
 
-- a. de status van bestaande en nieuw ingestelde beschermde gebieden, bufferzones en beschermde soorten in gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent; en
+3. The reports relevant to the protected species should include, to the extent possible, information on:
 
-- b. wijzigingen in de afbakening of wettelijke status van beschermde gebieden, bufferzones en beschermde soorten in gebieden waarover zij soevereiniteit, soevereine rechten of rechtsmacht uitoefent.
+- a) scientific and common names of the species;
 
-2. De verslagen inzake de beschermde gebieden en bufferzones dienen informatie te bevatten over:
+- b) estimated populations of species and their geographic ranges;
 
-- a. de naam van het gebied of de zone;
+- c) status of legal protection, with reference to relevant national legislation or regulation;
 
-- b. de biogeografische eigenschappen van het gebied of de zone (grenzen, natuurlijke kenmerken, klimaat, dier- en plantesoorten);
+- d) ecological interactions with other species and specific habitat requirements;
 
-- c. de wettelijke status, met verwijzing naar de van toepassing zijnde nationale wetgeving of regelgeving;
+- e) management and recovery plans for endangered and threatened species;
 
-- d. datum en instelling en voorgeschiedenis;
+- f) research programmes and available scientific and technical publications relevant to the species; and
 
-- e. beheersplannen voor het beschermde gebied;
+- g) threats to the protected species, their habitats and their associated ecosystems, especially threats which originate outside the jurisdiction of the Party.
 
-- f. belang voor cultureel erfgoed;
+4. The reports provided to the Organization by the Parties will be used for the purposes outlined in [Articles 20](https://wetten.overheid.nl/BWBV0002961) and [22](https://wetten.overheid.nl/BWBV0002961).
 
-- g. faciliteiten voor onderzoek en bezoekers; en
+##### Article 20. Scientific and Technical Advisory Committee
 
-- h. bedreigingen voor het gebied of de zone, met name bedreigingen die hun oorsprong vinden buiten het rechtsgebied van de Partij.
+1. A Scientific and Technical Advisory Committee is hereby established.
 
-3. De verslagen inzake de beschermde soorten behoren, voor zover mogelijk, informatie te bevatten over:
+2. Each Party shall appoint a scientific expert appropriately qualified in the field covered by the Protocol as its representative on the Committee, who may be accompanied by other experts and advisors appointed by that Party. The Committee may also seek information from scientifically and technically qualified experts and organizations.
 
-- a. de wetenschappelijke en de gebruikelijke naam van de soorten;
+3. The Committee shall be responsible for providing advice to the Parties through the Organization on the following scientific and technical matters relating to the Protocol:
 
-- b. geschatte populaties van soorten en hun verspreidingsgebieden;
+- a) the listing of protected areas in the manner provided for in [Article 7](https://wetten.overheid.nl/BWBV0002961);
 
-- c. status van wettelijke bescherming, met verwijzing naar de van toepassing zijnde nationale wetgeving of regelgeving;
+- b) the listing of protected species in the manner provided for in [Article 11](https://wetten.overheid.nl/BWBV0002961);
 
-- d. ecologische wisselwerking met andere soorten en specifieke leefmilieu-eisen;
+- c) reports on the management and protection of protected areas and species and their habitats;
 
-- e. beheers- en herstelplannen voor uitstervende en bedreigde soorten;
+- d) proposals for technical assistance for training, research, education and management (including species recovery plans);
 
-- f. onderzoeksprogramma's en beschikbare wetenschappelijke en technische publikaties met betrekking tot de soorten; en
+- e) environmental impact assessment pursuant to [Article 13](https://wetten.overheid.nl/BWBV0002961);
 
-- g. bedreigingen voor de beschermde soorten, hun leefmilieus en daarmee samenhangende ecosystemen, met name bedreigingen die hun oorsprong vinden buiten het rechtsgebied van de Partij.
+- f) the formulation of common guidelines and criteria pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961); and
 
-4. De door de Partijen aan de Organisatie verstrekte verslagen worden gebruikt voor de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2015-03-09&g=2015-03-09) en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=22&z=2015-03-09&g=2015-03-09) genoemde doeleinden.
+- g) any other matters relating to the implementation of the Protocol, including those matters referred to it by the meetings of the Parties.
 
-##### Artikel 20. Wetenschappelijke en Technische Raadgevende Commissie
+4. The Committee shall adopt its own Rules of Procedure.
 
-1. Hierbij wordt een Wetenschappelijke en Technische Raadgevende Commissie ingesteld.
+##### Article 21. Establishment of Common Guidelines and Criteria
 
-2. Elke Partij wijst een wetenschappelijke deskundige die over de juiste bekwaamheid beschikt op het door het Protocol bestreken gebied aan als haar vertegenwoordiger in de Commissie; deze kan zich doen vergezellen door andere door de Partij aangewezen deskundigen en adviseurs. De Commissie kan ook advies inwinnen bij in wetenschappelijk en technisch opzicht bekwame deskundigen en organisaties.
+1. The Parties shall at their first meeting, or as soon as possible thereafter, evaluate and adopt common guidelines and criteria formulated by the Scientific and Technical Advisory Committee dealing in particular with:
 
-3. De Commissie heeft tot taak de Partijen via de Organisatie te adviseren inzake de volgende wetenschappelijke en technische aangelegenheden die verband houden met het Protocol:
+- a) the identification and selection of protected areas and protected species;
 
-- a. het opnemen van beschermde gebieden in lijsten op de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) bepaalde wijze;
+- b) the establishment of protected areas;
 
-- b. het opnemen van beschermde soorten in lijsten op de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) bepaalde wijze;
+- c) the management of protected areas and protected species including migratory species; and
 
-- c. verslagen inzake het beheer en de bescherming van beschermde gebieden en soorten en hun leefmilieus;
+- d) the provision of information on protected areas and protected species, including migratory species.
 
-- d. voorstellen voor technische bijstand ten behoeve van opleiding, onderzoek, vorming en beheer (met inbegrip van plannen voor herstel voor soorten);
+2. In implementing this Protocol, the Parties shall take into account these common guidelines and criteria, without prejudicing the right of a Party to adopt more stringent guidelines and criteria.
 
-- e. het evalueren van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09);
+##### Article 22. Institutional Arrangements
 
-- f. het opstellen van gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09); en
+1. Each Party shall designate a Focal Point to serve as liaison with the Organization on the technical aspects of the implementation of this Protocol.
 
-- g. andere maatregelen met betrekking tot de toepassing van dit Protocol, met inbegrip van de aan haar door de vergaderingen van de Partijen opgedragen maatregelen.
+2. The Parties designate the Organization to carry out the following Secretariat functions:
 
-4. De Commissie stelt haar eigen reglement van orde vast.
+- a) convening and servicing the meetings of the Parties;
 
-##### Artikel 21. Vaststelling van gemeenschappelijke richtlijnen en criteria
+- b) assisting in raising funds as provided for in [Article 24](https://wetten.overheid.nl/BWBV0002961);
 
-1. Op hun eerste vergadering, of zo spoedig mogelijk daarna, beoordelen de Partijen en hechten zij hun goedkeuring aan door de Wetenschappelijke en Technische Raadgevende Commissie opgestelde richtlijnen en criteria, met name op het gebied van:
+- c) assisting the Parties and the Scientific and Technical Advisory Committee, in co-operation with the competent international, intergovernmental and non-governmental organizations in:
 
-- a. de kenschetsing en keuze van beschermde gebieden en soorten;
+   - - facilitating programmes of technical and scientific research as provided for in [Article 17](https://wetten.overheid.nl/BWBV0002961);
 
-- b. de instelling van beschermde gebieden;
+   - - facilitating the exchange of scientific and technical information among the Parties as provided for in [Article 16](https://wetten.overheid.nl/BWBV0002961);
 
-- c. het beheer van beschermde gebieden en soorten, met inbegrip van trekkende soorten; en
+   - - the formulation of recommendations containing common guidelines and criteria pursuant to [Article 21](https://wetten.overheid.nl/BWBV0002961);
 
-- d. het verschaffen van informatie over beschermde gebieden en soorten, met inbegrip van trekkende soorten.
+   - - the preparation, when so requested, of management plans for protected areas and protected species pursuant to [Articles 6](https://wetten.overheid.nl/BWBV0002961) and [10](https://wetten.overheid.nl/BWBV0002961) respectively;
 
-2. Bij de toepassing van dit Protocol houden de Partijen rekening met deze gemeenschappelijke richtlijnen en criteria; dit doet geen afbreuk aan het recht van een Partij om strengere richtlijnen en criteria aan te nemen.
+   - - the development of co-operative programmes pursuant to [Articles 7](https://wetten.overheid.nl/BWBV0002961) and [11](https://wetten.overheid.nl/BWBV0002961);
 
-##### Artikel 22. Institutionele regelingen
+   - - the preparation, when so requested, of environmental impact assessments pursuant to [Article 13](https://wetten.overheid.nl/BWBV0002961);
 
-1. Elke Partij wijst een Centraal Punt aan om contacten met de Organisatie te onderhouden over de technische aspecten van de toepassing van dit Protocol.
+   - - the preparation of educational materials designed for various groups identified by the Parties;
 
-2. De Partijen wijzen de Organisatie aan om de volgende secretariaatswerkzaamheden te verrichten:
+   - - the repatriation of illegally exported wild flora and fauna and their parts or products;
 
-- a. het beleggen en verzorgen van de vergaderingen van de Partijen;
+- d) preparing common formats to be used by the Parties as the basis for notifications and reports to the Organization, as provided in [Article 19](https://wetten.overheid.nl/BWBV0002961);
 
-- b. het verlenen van bijstand bij het werven van fondsen als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2015-03-09&g=2015-03-09);
+- e) maintaining and updating databases of protected areas and protected species containing information pursuant to [Articles 7](https://wetten.overheid.nl/BWBV0002961) and [11](https://wetten.overheid.nl/BWBV0002961), as well as issuing periodically updated directories of protected areas and protected species;
 
-- c. het verlenen van bijstand aan de Partijen en de Wetenschappelijke en Technische Raadgevende Commissie in samenwerking met de bevoegde internationale, intergouvernementele en niet-gouvernementele organisaties bij:
+- f) preparing directories, reports and technical studies which may be required for the implementation of this Protocol;
 
-- -. het bevorderen van programma's voor technisch en wetenschappelijk onderzoek als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=17&z=2015-03-09&g=2015-03-09);
+- g) co-operating and co-ordinating with regional and international organizations concerned with the protection of areas and species; and
 
-- -. het bevorderen van de uitwisseling van wetenschappelijke en technische informatie tussen de Partijen als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=16&z=2015-03-09&g=2015-03-09);
+- h) carrying out any other function assigned by the Parties to the Organization.
 
-- -. het opstellen van aanbevelingen voor gemeenschappelijke richtlijnen en criteria overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09);
+##### Article 23. Meetings of the Parties
 
-- -. het opstellen, indien gewenst, van beheersplannen voor beschermde gebieden en soorten overeenkomstig, onderscheidenlijk, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=6&z=2015-03-09&g=2015-03-09) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=10&z=2015-03-09&g=2015-03-09);
+1. The ordinary meetings of the Parties shall be held in conjunction with the ordinary meetings of the Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) held pursuant to [Article 16 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16). The Parties may also hold extraordinary meetings in conformity with Article 16 of the Convention. The meetings will be governed by the Rules of Procedure adopted pursuant to [Article 20 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20).
 
-- -. het ontwikkelen van samenwerkingsprogramma's overeenkomstig de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09);
+2. It shall be the function of the meetings of the Parties to this Protocol:
 
-- -. het opstellen, indien gewenst, van evaluaties van milieu-effecten overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=13&z=2015-03-09&g=2015-03-09);
+- a) to keep under review and direct the implementation of this Protocol;
 
-- -. het samenstellen van vormingsmateriaal bestemd voor verschillende door de Partijen vastgestelde doelgroepen;
+- b) to approve the expenditure of funds referred to in [Article 24](https://wetten.overheid.nl/BWBV0002961);
 
-- -. het repatriëren van illegaal uitgevoerde wilde dier- en plantesoorten en delen of produkten daarvan;
+- c) to oversee and provide policy guidance to the Organization;
 
-- d. het opstellen van gemeenschappelijke modellen die voor Partijen als uitgangspunt dienen bij het doen toekomen van kennisgevingen en verslagen aan de Organisatie als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09);
+- d) to consider the efficacy of the measures adopted for the management and protection of areas and species, and to examine the need for other measures, in particular in the form of annexes, as well as amendments to this Protocol or to its annexes;
 
-- e. het bijhouden en bijwerken van gegevensbanken van beschermde gebieden en soorten die de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09) bedoelde gegevens bevatten, alsmede het periodiek uitgeven van bijgewerkte gidsen van beschermde gebieden en soorten;
+- e) to monitor and promote the establishment and development of the network of protected areas and recovery plans for protected species provided for in [Articles 7](https://wetten.overheid.nl/BWBV0002961) and [11](https://wetten.overheid.nl/BWBV0002961);
 
-- f. het samenstellen van gidsen, verslagen en technische studies die nodig kunnen zijn voor de toepassing van dit Protocol;
+- f) to adopt and revise, as needed, the guidelines and criteria provided for in [Article 21](https://wetten.overheid.nl/BWBV0002961);
 
-- g. het samenwerken en coördineren met regionale en internationale organisaties die zich bezighouden met de bescherming van gebieden en soorten; en
+- g) to analyze the advice and recommendations of the Scientific and Technical Advisory Committee pursuant to [Article 20](https://wetten.overheid.nl/BWBV0002961);
 
-- h. het vervullen van andere door de Partijen aan de Organisatie opgedragen taken.
+- h) to analyze reports transmitted by the Parties to the Organization under [Article 22 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=22) and [Article 19](https://wetten.overheid.nl/BWBV0002961) of this Protocol, as well as any other information which the Parties may transmit to the Organization or to the meeting of the Parties; and
 
-##### Artikel 23. Vergaderingen van de Partijen
+- i) to conduct such other business as appropriate.
 
-1. De gewone vergaderingen van de Partijen worden gehouden te zamen met de gewone vergaderingen van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), gehouden overeenkomstig [artikel 16 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=16). De Partijen kunnen ook buitengewone vergaderingen houden in overeenstemming met artikel 16 van het Verdrag. Voor de vergaderingen geldt het reglement van orde aangenomen overeenkomstig [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20).
+##### Article 24. Funding
 
-2. De vergaderingen van de Partijen bij dit Protocol hebben tot taak:
+In addition to the funds provided by the Parties in accordance with [paragraph 2, Article 20 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20), the Parties may direct the Organization to seek additional funds. These may include voluntary contributions for purposes connected with the Protocol from Parties, other governments, government agencies, non-governmental, international, regional and private sector organizations and individuals.
 
-- a. het volgen van en richting geven aan de toepassing van dit Protocol;
+##### Article 25. Relationship to other Conventions Dealing with the Special Protection of Wildlife
 
-- b. het goedkeuren van de besteding van de in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=24&z=2015-03-09&g=2015-03-09) bedoelde fondsen;
+Nothing in this Protocol shall be interpreted in a way that may affect the rights and obligations of Parties under the [Convention on International Trade in Endangered Species of Wild Fauna or Flora](https://wetten.overheid.nl/jci1.3:c:BWBV0003833) (CITES) and the Convention on the Conservation of Migratory Species of Wild Animals (CMS).
 
-- c. het toezien op en het geven van richtsnoeren voor het beleid van de Organisatie;
+##### Article 26. Transitional Clause
 
-- d. het beoordelen van de doeltreffendheid van de aangenomen maatregelen tot beheer en bescherming van gebieden en soorten en het bestuderen van de noodzaak andere maatregelen te nemen, met name in de vorm van bijlagen bij en wijzigingen op dit Protocol of de bijlagen daarbij;
+1. The initial version of the annexes, which constitutes an integral part of the Protocol, shall be adopted by consensus at a Conference of Plenipotentiaries of the Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733).
 
-- e. het begeleiden en bevorderen van de instelling en ontwikkeling van het netwerk van beschermde gebieden en van herstelplannen voor beschermde soorten bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=7&z=2015-03-09&g=2015-03-09) en [11](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=11&z=2015-03-09&g=2015-03-09).
+##### Article 27. Entry into Force
 
-- f. het aannemen en herzien, indien nodig, van de richtlijnen en criteria bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=21&z=2015-03-09&g=2015-03-09);
+1. The Protocol and its annexes, once adopted by the Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733), will enter into force in conformity with the procedure established in [paragraph 2 of Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=28).
 
-- g. het bestuderen van de adviezen en aanbevelingen van de Wetenschappelijke en Technische Raadgevende Commissie uit hoofde van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=20&z=2015-03-09&g=2015-03-09);
+2. The Protocol shall not enter into force until the initial annexes have been adopted in accordance with [Article 26](https://wetten.overheid.nl/BWBV0002961).
 
-- h. het bestuderen van de krachtens [artikel 22 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=22) en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=19&z=2015-03-09&g=2015-03-09) van dit Protocol door de Partijen aan de Organisatie toegezonden verslagen, alsmede andere informatie die de Partijen de Organisatie of de vergadering van de Partijen doen toekomen; en
+##### Article 28. Signature
 
-- i. in voorkomend geval, het verrichten van andere werkzaamheden.
-
-##### Artikel 24. Fondsen
-
-Naast de door de Partijen in overeenstemming met [artikel 20, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=20) verstrekte fondsen kunnen de Partijen de Organisatie opdracht geven aanvullende fondsen te werven. Deze kunnen vrijwillige bijdragen omvatten voor met het Protocol verband houdende doelstellingen, afkomstig van Partijen, andere regeringen, overheidsinstanties, niet-gouvernementele, internationale, regionale of particuliere organisaties en personen.
-
-##### Artikel 25. Verhouding tot andere Verdragen inzake de bijzondere bescherming van wilde dieren en planten
-
-Geen enkele bepaling van dit Protocol mag zodanig worden uitgelegd dat afbreuk wordt gedaan aan de rechten en verplichtingen van Partijen uit hoofde van de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten](https://wetten.overheid.nl/jci1.3:c:BWBV0003833)(CITES) en het [Verdrag inzake de bescherming van trekkende wilde diersoorten](onbekend) (CMS).
-
-##### Artikel 26. Overgangsbepaling
-
-De oorspronkelijke versie van de bijlagen, die een integrerend deel van dit Protocol uitmaken, wordt door middel van consensus op een Conferentie van gevolmachtigden van de Verdragsluitende Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) aangenomen.
-
-##### Artikel 27. Inwerkingtreding
-
-1. Dit Protocol en de daarbij behorende bijlagen, nadat zij door de Verdragsluitende Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733) zijn aangenomen, zullen overeenkomstig de in [artikel 28, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733&artikel=28) vastgestelde procedure in werking treden.
-
-2. Het Protocol treedt eerst in werking wanneer de oorspronkelijke bijlagen in overeenstemming met [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0002961&artikel=26&z=2015-03-09&g=2015-03-09) zijn aangenomen.
-
-##### Artikel 28. Ondertekening
-
-Dit Protocol staat open voor ondertekening te Kingston van 18 januari tot en met 31 januari 1990 en te Bogota van 1 februari 1990 tot en met 17 januari 1991 door elke Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002733).
+This Protocol shall be open for signature at Kingston, from 18 January 1990 to 31 January 1990 and at Bogota from 1 February 1990 to 17 January 1991 by any Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002733).
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments, have signed this Protocol.
 

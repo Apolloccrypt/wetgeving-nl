@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Spanje inzake culturele en wetenschappelijke samenwerking"
 identifier: "BWBV0003380"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-03-06"
-last_updated: "1979-03-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003380"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003506983"
-version_id: "10003554032"
-internal_id: "C10006980951"
-label_id: "10003492534"
-dtd_version: "2.0"
-original_entry_into_force: "1979-03-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003380/1979-03-06/0"
-intitule_bron: "Trb.1978-73"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-06-16"
-intitule_in_force: "1979-03-30"
-intitule_status: "goed"
-original_publication: "Trb.1978-73"
-original_published_date: "1978-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-73"
-entry_into_force_date: "1979-03-06"
-jci_1_3: "jci1.3:c:BWBV0003380&z=1979-03-06&g=1979-03-06"
-jci_1_0: "1.0:c:BWBV0003380&g=1979-03-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-03-06"
+publicatiedatum: 1979-03-06
+laatste_update: 1979-03-06
+status: geldig
+toestand: 1979-03-06
+bron: "https://wetten.overheid.nl/BWBV0003380"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Spanje inzake culturele en wetenschappelijke samenwerking
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Spanje, de wens koesterende de vriendschappelijke betrekkingen tussen beide landen te versterken en te dien einde de samenwerking op het gebied van onderwijs, wetenschap en cultuur in de breedste zin des woords te ontwikkelen, zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Spanje, de wens koesterende de vriendschappelijke betrekkingen tussen beide landen te versterken en te dien einde de samenwerking op het gebied van onderwijs, wetenschap en cultuur in de breedste zin des woords te ontwikkelen, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -88,9 +69,9 @@ De Overeenkomstsluitende Partijen zullen de uitwisseling van ensembles, theaterp
 
 De Overeenkomstsluitende Partijen zullen aanmoedigen:
 
-- -. de vertaling en de publikatie van literaire, wetenschappelijke en artistieke werken van het andere land;
+- - de vertaling en de publikatie van literaire, wetenschappelijke en artistieke werken van het andere land;
 
-- -. de uitwisseling van informatie op deze gebieden.
+- - de uitwisseling van informatie op deze gebieden.
 
 ##### Artikel XIII
 
@@ -156,10 +137,10 @@ TEN BLIJKE WAARVAN de gevolmachtigden van beide Overeenkomstsluitende Partijen d
 
 GEDAAN te Madrid op de zevenentwintigste februari negentienhonderdachtenzeventig in vier exemplaren allen gelijkelijk authentiek, twee in de Nederlandse taal en twee in de Spaanse taal.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) C. A. VAN DER KLAAUW
 
-**Voor de Regering van het Koninkrijk Spanje:**
+*Voor de Regering van het Koninkrijk Spanje:*
 
 (w.g.) MARCELINO OREJA

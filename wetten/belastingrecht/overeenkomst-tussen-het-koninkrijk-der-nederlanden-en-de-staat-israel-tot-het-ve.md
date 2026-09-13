@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0003781"
-country: "nl"
-rank: "verdrag"
-publication_date: "1996-07-26"
-last_updated: "1996-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003781"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003709673"
-version_id: "10003771152"
-internal_id: "C10009541831"
-label_id: "10003695124"
-dtd_version: "2.0"
-original_entry_into_force: "1974-09-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003781/1996-07-26/0"
-intitule_bron: "Trb.1974-39"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1974-03-18"
-intitule_in_force: "1974-10-15"
-intitule_status: "goed"
-original_publication: "Trb.1974-39"
-original_published_date: "1974-03-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1974-39"
-entry_into_force_date: "1974-09-09"
-jci_1_3: "jci1.3:c:BWBV0003781&z=1996-07-26&g=1996-07-26"
-jci_1_0: "1.0:c:BWBV0003781&g=1996-07-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-09-09"
+publicatiedatum: 1974-09-09
+laatste_update: 1996-07-26
+status: geldig
+toestand: 1996-07-26
+bron: "https://wetten.overheid.nl/BWBV0003781"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Israël tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël,
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël, De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -52,29 +29,29 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. De bestaande belastingen waarop de Overeenkomst van toepassing is, zijn met name:
 
-- a). voor Nederland: (hierna te noemen: „Nederlandse belasting”);
+- a) voor Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- -. de inkomstenbelasting
+   - - de inkomstenbelasting
 
-- -. de loonbelasting,
+   - - de loonbelasting,
 
-- -. de vennootschapsbelasting,
+   - - de vennootschapsbelasting,
 
-- -. de dividendbelasting,
+   - - de dividendbelasting,
 
-- -. de vermogensbelasting,
+   - - de vermogensbelasting,
 
-- b). voor Israël: (hierna te noemen: „Israëlische belasting”).
+- b) voor Israël: (hierna te noemen: „Israëlische belasting”).
 
-- -. de inkomstenbelasting, daaronder begrepen de belasting op vermogenswinsten,
+   - - de inkomstenbelasting, daaronder begrepen de belasting op vermogenswinsten,
 
-- -. de vennootschapsbelasting,
+   - - de vennootschapsbelasting,
 
-- -. de defensieheffing,
+   - - de defensieheffing,
 
-- -. de belasting op eigendommen,
+   - - de belasting op eigendommen,
 
-- -. de belasting ingevolge de wet op de belasting van waardevermeerdering van grond op winsten behaald bij de verkoop van grond,
+   - - de belasting ingevolge de wet op de belasting van waardevermeerdering van grond op winsten behaald bij de verkoop van grond,
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
@@ -84,23 +61,23 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. In deze Overeenkomst, tenzij het zinsverband anders vereist:
 
-- a). betekent de uitdrukking „Staat” Nederland of Israël, al naar het zinsverband vereist; betekent de uitdrukking „Staten” Nederland en Israël;
+- a) betekent de uitdrukking „Staat” Nederland of Israël, al naar het zinsverband vereist; betekent de uitdrukking „Staten” Nederland en Israël;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- c). betekent de uitdrukking „Israël” de Staat Israël en het onder de zee gelegen deel van de zeebodem en ondergrond waarop de Staat Israël in overeenstemming met het internationale recht soevereine rechten heeft;
+- c) betekent de uitdrukking „Israël” de Staat Israël en het onder de zee gelegen deel van de zeebodem en ondergrond waarop de Staat Israël in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „bevoegde autoriteit”:
+- g) betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Israël de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2. in Israël de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van deze Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
 
@@ -112,13 +89,13 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- a). Hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) Hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). Indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) Indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). Indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
+- c) Indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
 
-- d). Indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- d) Indien hij onderdaan is van beide Staten of van geen van beide, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 4. Indien een andere dan een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
@@ -128,41 +105,41 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- f) een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
 
-- g). een plantage, een wijngaard, een bos of een boomgaard;
+- g) een plantage, een wijngaard, een bos of een boomgaard;
 
-- h). de plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden, waarvan de duur twaalf maanden overschrijdt.
+- h) de plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden, waarvan de duur twaalf maanden overschrijdt.
 
 3. Een vaste inrichting wordt niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
 
 4. Een onderneming van een van de Staten wordt geacht een vaste inrichting in de andere Staat te bezitten, indien zij in die andere Saat gedurende langer dan twaalf maanden werkzaamheden van toezichthoudende aard verricht in verband met een bouwwerk dat, of constructie- of montagewerkzaamheden die in die andere Staat worden uitgevoerd.
 
 5. Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zesde lid - wordt als een in de eerstbedoelde Staat aanwezige inrichting beschouwd, indien:
 
-- a). hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
+- a) hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
 
-- b). hij in de eerstbedoelde Staat een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming.
+- b) hij in de eerstbedoelde Staat een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming.
 
 6. Een onderneming van een van de Staten wordt niet geacht een vaste inrichting in de andere Staat te bezitten op grond van de enkele omstandigheid dat zij aldaar zaken doet door middel van een makelaar, commissionair of enige andere onafhankelijke vertegenwoordiger, indien deze personen in de normale uitoefening van hun bedrijf handelen.
 
@@ -210,9 +187,9 @@ Indien op grond van een bepaling van deze Overeenkomst in een van de Staten verm
 
 Indien
 
-- a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden aanvaard of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar ten gevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -224,9 +201,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 - a. met betrekking tot dividenden betaald door een lichaam dat inwoner is van een van de Staten aan een lichaam waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van de andere Staat en dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt:
 
-- i. 10 percent van het brutobedrag van de dividenden indien de dividenden worden betaald uit winst die, op grond van de bepalingen in de Israëlische wetgeving ter bevordering van investeringen in Israël, van belastingheffing is vrijgesteld of is onderworpen aan belastingheffing naar een tarief dat lager is dan het algemene tarief dat wordt geheven van de winst van een lichaam dat inwoner is van Israël;
+   - i. 10 percent van het brutobedrag van de dividenden indien de dividenden worden betaald uit winst die, op grond van de bepalingen in de Israëlische wetgeving ter bevordering van investeringen in Israël, van belastingheffing is vrijgesteld of is onderworpen aan belastingheffing naar een tarief dat lager is dan het algemene tarief dat wordt geheven van de winst van een lichaam dat inwoner is van Israël;
 
-- ii. 5 percent van het brutobedrag van de dividenden in andere gevallen;
+   - ii. 5 percent van het brutobedrag van de dividenden in andere gevallen;
 
 - b. 15 percent van het brutobedrag van de dividenden in alle andere gevallen.
 
@@ -262,9 +239,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Deze royalty's mogen echter in de Staat waaruit zij afkomstig zijn, overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 10 percent van het bedrag van de royalty's voor bioscoopfilms en films of beeldbanden voor radio of televisie;
+- a) 10 percent van het bedrag van de royalty's voor bioscoopfilms en films of beeldbanden voor radio of televisie;
 
-- b). 5 percent van het bedrag van alle andere royalty's.
+- b) 5 percent van het bedrag van alle andere royalty's.
 
 3. De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede lid.
 
@@ -276,7 +253,7 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 7. Indien, ten gevolge van een bijzondere verhouding tussen de schuldenaar en de schuldeiser of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de schuldeiser zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van de betaalde bedragen belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van deze Overeenkomst.
 
-##### Artikel 14. Beperking van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26)
+##### Artikel 14. Beperking van de artikelen 11, 12 en 13
 
 Internationale organisaties, hun organen en functionarissen, alsmede personen die deel uitmaken van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die in een van de Staten verblijven, hebben in de andere Staat geen recht op de verminderingen of vrijstellingen van belasting voorzien in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26), met betrekking tot uit die andere Staat afkomstige bestanddelen van het inkomen die in deze artikelen zijn behandeld, indien die bestanddelen van het inkomen in de eerstbedoelde Staat niet aan een belasting naar het inkomen zijn onderworpen.
 
@@ -294,11 +271,11 @@ Onder „onroerende goederen” worden in dit lid mede begrepen rechten - andere
 
 5. De bepaling van het vierde lid tast niet aan het recht van elk van de Staten overeenkomstig zijn eigen wetgeving belasting te heffen op voordelen uit de vervreemding van aandelen of winstbewijzen in een lichaam waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat inwoner is van die Staat, mits de aandelen of winstbewijzen het eigendom zijn van een natuurlijke persoon die inwoner van de andere Staat is en
 
-- a). die onderdaan van de eerstbedoelde Staat is, zonder onderdaan van de andere Staat te zijn, en
+- a) die onderdaan van de eerstbedoelde Staat is, zonder onderdaan van de andere Staat te zijn, en
 
-- b). die in de loop van de laatste vijf jaren voorafgaande aan de vervreemding van de aandelen of winstbewijzen inwoner van de eerstbedoelde Staat is geweest, en
+- b) die in de loop van de laatste vijf jaren voorafgaande aan de vervreemding van de aandelen of winstbewijzen inwoner van de eerstbedoelde Staat is geweest, en
 
-- c). die, in de loop van hetzelfde tijdvak, onmiddellijk of middellijk, alleen of tezamen met zijn echtgenoot en zijn verwanten tenminste een derde gedeelte, alsook, alleen of tezamen met zijn echtgenoot, meer dan 7 percent van het nominaal gestorte kapitaal van bedoeld lichaam heeft bezeten.
+- c) die, in de loop van hetzelfde tijdvak, onmiddellijk of middellijk, alleen of tezamen met zijn echtgenoot en zijn verwanten tenminste een derde gedeelte, alsook, alleen of tezamen met zijn echtgenoot, meer dan 7 percent van het nominaal gestorte kapitaal van bedoeld lichaam heeft bezeten.
 
 ##### Artikel 16. Zelfstandige arbeid
 
@@ -312,11 +289,11 @@ Onder „onroerende goederen” worden in dit lid mede begrepen rechten - andere
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- c). de beloning als zodanig niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- c) de beloning als zodanig niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de bepalingen van het eerste en tweede lid mag de beloning ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer, worden belast in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -374,27 +351,27 @@ Bestanddelen van het inkomen van een inwoner van een van de Staten, die niet uit
 
 ##### Artikel 26. Vermijding van dubbele belasting
 
-- 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Israël mogen worden belast.
+A. - 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen of het vermogen te begrijpen die overeenkomstig de bepalingen van deze Overeenkomst in Israël mogen worden belast.
 
 - 2. Onder voorbehoud van de toepassing van de bepalingen betreffende de verliescompensatie in de eenzijdige voorschriften tot het vermijden van dubbele belasting, verleent Nederland een vermindering op het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag. Deze vermindering is gelijk aan dat gedeelte van het belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat, als het gedeelte van het inkomen of het vermogen dat in de in het eerste lid van dit artikel bedoelde grondslag is begrepen en dat volgens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=7&z=1996-07-26&g=1996-07-26), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=8&z=1996-07-26&g=1996-07-26), [11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26), [13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26), [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=15&z=1996-07-26&g=1996-07-26), [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=16&z=1996-07-26&g=1996-07-26), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=17&z=1996-07-26&g=1996-07-26), [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=18&z=1996-07-26&g=1996-07-26), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=19&z=1996-07-26&g=1996-07-26), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=21&z=1996-07-26&g=1996-07-26) en [25, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=IV&artikel=25&z=1996-07-26&g=1996-07-26), van de Overeenkomst in Israël mag worden belast, staat tot het bedrag van het gehele inkomen of vermogen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 - 3. Nederland verleent voorts een vermindering op de overeenkomstig de voorgaande leden van dit artikel berekende Nederlandse belasting met betrekking tot de bestanddelen van het inkomen die volgens de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26), en [17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=17&z=1996-07-26&g=1996-07-26), in Israël mogen worden belast en die in de in het eerste lid van dit artikel bedoelde grondslag zijn begrepen. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in Israël geheven belasting;
+   - a) het bedrag dat gelijk is aan de in Israël geheven belasting;
 
-- b). het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+   - b) het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 - 4. Indien als gevolg van een op grond van de bepalingen van de Israëlische wetgeving ter bevordering van investeringen in Israël verleende tegemoetkoming, de in feite geheven Israëlische belasting op dividenden betaald door een lichaam dat inwoner is van Israël of op uit Israël afkomstige interest, minder bedraagt dan de belasting die Israël ingevolge [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), onderscheidenlijk [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26), tweede lid, mag heffen, wordt het bedrag dat gelijk is aan de in Israël over die bestanddelen van het inkomen geheven belasting als bedoeld in het derde lid, letter a), geacht te zijn:
 
-- a). met betrekking tot dividenden betaald door een lichaam dat inwoner is van Israël: 15 percent van het bedrag van de dividenden;
+   - a) met betrekking tot dividenden betaald door een lichaam dat inwoner is van Israël: 15 percent van het bedrag van de dividenden;
 
-- b). met betrekking tot uit Israël afkomstige interest die wordt betaald aan een bank of een financiële instelling: een bedrag dat gelijk is aan het belastingbedrag dat Israël daarover in feite heeft geheven, vermeerderd met tweemaal het verschil tussen dit bedrag en 10 percent van het bedrag van de interest, met dien verstande dat de vermindering 15 percent van het bedrag van deze interest niet mag overschrijden;
+   - b) met betrekking tot uit Israël afkomstige interest die wordt betaald aan een bank of een financiële instelling: een bedrag dat gelijk is aan het belastingbedrag dat Israël daarover in feite heeft geheven, vermeerderd met tweemaal het verschil tussen dit bedrag en 10 percent van het bedrag van de interest, met dien verstande dat de vermindering 15 percent van het bedrag van deze interest niet mag overschrijden;
 
-- c). met betrekking tot andere uit Israël afkomstige interest: 15 percent van het bedrag van de interest.
+   - c) met betrekking tot andere uit Israël afkomstige interest: 15 percent van het bedrag van de interest.
 
 - 5. Het bedrag dat gelijk is aan de in Israël over uit Israël afkomstige royalty's geheven belasting als bedoeld in het derde lid, letter a), wordt geacht 10 percent van het bedrag van de royalty's te bedragen.
 
-- 1. Indien een inwoner van Israël inkomen verkrijgt dat overeenkomstig de bepalingen van deze Overeenkomst in Nederland mag worden belast, verleent Israël, behoudens in het geval bedoeld in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=15&z=1996-07-26&g=1996-07-26), en met inachtneming van de bepalingen van zijn eigen wetgeving, een vermindering op de belasting over dat inkomen tot een bedrag dat gelijk is aan de daarover in Nederland betaalde belasting. Deze vermindering overschrijdt evenwel niet dat deel van de belasting, zoals deze berekend is vóór het verlenen van de vermindering, dat aan het inkomen dat in Nederland mag worden belast kan worden toegerekend.
+B. - 1. Indien een inwoner van Israël inkomen verkrijgt dat overeenkomstig de bepalingen van deze Overeenkomst in Nederland mag worden belast, verleent Israël, behoudens in het geval bedoeld in [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=15&z=1996-07-26&g=1996-07-26), en met inachtneming van de bepalingen van zijn eigen wetgeving, een vermindering op de belasting over dat inkomen tot een bedrag dat gelijk is aan de daarover in Nederland betaalde belasting. Deze vermindering overschrijdt evenwel niet dat deel van de belasting, zoals deze berekend is vóór het verlenen van de vermindering, dat aan het inkomen dat in Nederland mag worden belast kan worden toegerekend.
 
 - 2. Dividenden betaald door een lichaam dat inwoner is van Nederland aan een lichaam dat inwoner is van Israël en dat ten minste 25 percent bezit van het totale aantal stemmen in het lichaam dat de dividenden betaalt, worden evenwel in Israël niet in de grondslag van de belasting begrepen voorzover deze dividenden ingevolge de Israëlische belastingwetgeving niet in de grondslag van de belasting zouden zijn begrepen, indien beide lichamen inwoner van Israël zouden zijn geweest.
 
@@ -408,9 +385,9 @@ C. Indien een inwoner van een van de Staten voordelen verkrijgt die volgens [art
 
 2. De uitdrukking „onderdanen” betekent:
 
-- a). alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+- a) alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
 
-- b). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
+- b) alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
 
 3. De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen. Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplicht aan inwoners van de andere Staat bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen uit hoofde van de samenstelling van het gezin of gezinslasten te verlenen, die eerstbedoelde Staat aan zijn eigen inwoners verleent.
 
@@ -434,11 +411,11 @@ C. Indien een inwoner van een van de Staten voordelen verkrijgt die volgens [art
 
 2. In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- a). maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
+- a) maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
 
-- b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- b) bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 30. Diplomatieke en consulaire ambtenaren
 
@@ -456,59 +433,25 @@ De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voor
 
 Deze Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Regeringen elkaar schriftelijk hebben medegedeeld, dat aan de in hun onderscheiden landen vereiste grondwettelijke procedures is voldaan, en de bepalingen ervan vinden toepassing -
 
-- a). in Nederland:
+- a) in Nederland:
 
-- voor belastingjaren en -tijdvakken die op of na 1 januari 1970 aanvangen;
+   - voor belastingjaren en -tijdvakken die op of na 1 januari 1970 aanvangen;
 
-- b). in Israël
+- b) in Israël
 
-- voor belastingjaren en -tijdvakken die op of na 1 april van het jaar 1970 aanvangen.
+   - voor belastingjaren en -tijdvakken die op of na 1 april van het jaar 1970 aanvangen.
 
 ##### Artikel 33. Beëindiging
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Staten is opgezegd. Elk van de Staten kan de Overeenkomst langs diplomatieke weg opzeggen door tenminste zes maanden voor het einde van enig kalenderjaar na het jaar 1976 een kennisgeving van beëindiging te zenden. In dat geval houdt de Overeenkomst op van toepassing te zijn -
 
-- a). in Nederland:
+- a) in Nederland:
 
-- voor belastingjaren en -tijdvakken, die aanvangen na het einde van het kalenderjaar waarin de kennisgeving is gedaan;
+   - voor belastingjaren en -tijdvakken, die aanvangen na het einde van het kalenderjaar waarin de kennisgeving is gedaan;
 
-- b). in Israël:
+- b) in Israël:
 
-- voor belastingjaren en -tijdvakken, die aanvangen na 31 maart van het kalenderjaar dat volgt op dat waarin de kennisgeving is gedaan.
-
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Israël gesloten, zijn de ondergetekenden, daartoe behoorlijk gemachtigd, overeengekomen, dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
-##### I
-
-Het is wel te verstaan dat voor de toepassing van de Overeenkomst belastingen naar het vermogen mede omvatten belastingen naar bestanddelen van het vermogen ongeacht of deze naar een bruto grondslag of naar een netto grondslag worden geheven.
-
-##### II. Ad [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=II&artikel=4&z=1996-07-26&g=1996-07-26)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waar het schip zijn thuishaven heeft.
-
-##### III. Ad [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26)
-
-Verzoeken om teruggaaf van belasting die in strijd met de bepalingen van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=13&z=1996-07-26&g=1996-07-26) is geheven, moeten bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, worden ingediend binnen een tijdvak van vijf jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### IV. Ad [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26)
-
-Met betrekking tot [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=11&z=1996-07-26&g=1996-07-26), van de Overeenkomst zijn de beide Regeringen, zich er van bewust zijnde dat het verschil tussen de bepalingen van letter a) en die van letter b) van dit lid gegrond is op de omstandigheid, dat in Israël de belastingdruk op Israëlische lichamen voor uitgedeelde winst aanzienlijk lager is dan die voor niet uitgedeelde winst, overeengekomen dat een herziening van die bepalingen ter hand zal worden genomen, teneinde letter b) aan te passen aan letter a), indien de grondslag voor het bedoelde verschil niet meer aanwezig is.
-
-##### V. Ad [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26)
-
-De uitdrukking „financiële instelling” zoals gebezigd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=III&artikel=12&z=1996-07-26&g=1996-07-26), en in [artikel 26, onderdeel A, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26), van de Overeenkomst omvat mede een lichaam dat in de normale uitoefening van zijn bedrijf geld op deposito ontvangt of leningen verstrekt.
-
-##### VI. Ad [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26)
-
-Na een tijdvak van tien jaren volgende op de inwerkingtreding van de Overeenkomst zullen de beide Regeringen met elkaar in onderhandeling treden, teneinde in het licht van de dan vigerende omstandigheden herziening te overwegen van de bepalingen van [artikel 26, letter A, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26), van de Overeenkomst.
-
-##### VII. Ad [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26)
-
-Het is wel te verstaan dat, wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=V&artikel=26&z=1996-07-26&g=1996-07-26), is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting, onderscheidenlijk de vennootschapsbelasting.
-
-##### VIII. Ad [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003781&hoofdstuk=VI&artikel=29&z=1996-07-26&g=1996-07-26)
-
-De verplichting tot het uitwisselen van inlichtingen strekt zich niet uit tot inlichtingen die verkregen zijn van banken of van daarmede gelijkgestelde instellingen. De uitdrukking „daarmede gelijkgestelde instellingen” betekent onder andere verzekeringsmaatschappijen.
+   - voor belastingjaren en -tijdvakken, die aanvangen na 31 maart van het kalenderjaar dat volgt op dat waarin de kennisgeving is gedaan.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 
@@ -516,10 +459,10 @@ GEDAAN te Jeruzalem, op 2 juli 1973, in twee originelen, elk in de Nederlandse, 
 
 In geval de Nederlandse en Hebreeuwse tekst verschillend kunnen worden uitgelegd, is de Engelse tekst beslissend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) W. ROOSDORP
 
-**Voor de Regering van de Staat Israël,**
+*Voor de Regering van de Staat Israël,*
 
 (w.g.) M. NEUDORFER

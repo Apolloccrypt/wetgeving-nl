@@ -1,70 +1,18 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en doorgifte van persoonsgegevens van passagiers (PNR) uit de Europese Unie door luchtvaartmaatschappijen aan de Australische douane"
 identifier: "BWBV0003050"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-06-30"
-last_updated: "2008-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003050"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003307953"
-version_id: "10003336022"
-internal_id: "C10008429341"
-label_id: "10003293794"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003050/2008-06-30/0"
-intitule_bron: "Trb.2008-170"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-30"
-intitule_published: "2008-09-03"
-intitule_status: "nogniet"
-original_publication: "Trb.2008-170"
-original_signed_date: "2008-06-30"
-original_published_date: "2008-09-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2008-170"
-jci_1_3: "jci1.3:c:BWBV0003050&z=2008-06-30&g=2008-06-30"
-jci_1_0: "1.0:c:BWBV0003050&g=2008-06-30"
-citeertitel_status: "redactioneel"
-signed_date: "2008-06-30"
-entry_into_force: "2008-09-03"
+laatste_update: 2008-06-30
+status: geldig
+toestand: 2008-06-30
+bron: "https://wetten.overheid.nl/BWBV0003050"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en doorgifte van persoonsgegevens van passagiers (PNR) uit de Europese Unie door luchtvaartmaatschappijen aan de Australische douane
 
-De Europese Unie,
-
-enerzijds, en
-
-Australië,
-
-anderzijds,
-
-Verlangende terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, doeltreffend te voorkomen en te bestrijden om hun respectieve democratische samenlevingen en gemeenschappelijke waarden te beschermen;
-
-Erkennende dat de uitwisseling van informatie een essentieel onderdeel vormt van de bestrijding van terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, en dat het gebruik van persoonsgegevens van passagiers (PNR-gegevens) in dit verband een belangrijk instrument is;
-
-Erkennende dat er met het oog op het waarborgen van de openbare veiligheid en de rechtshandhaving regels moeten worden vastgesteld met betrekking tot het beheren van de doorgifte door luchtvaartmaatschappijen van PNR-gegevens uit de Europese Unie aan de Australische douane;
-
-Erkennende het belang van het voorkomen en bestrijden van terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, waarbij de fundamentele rechten en vrijheden, met name het recht op privacy en gegevensbescherming, moeten worden geëerbiedigd;
-
-Erkennende dat de wetgeving, het beleid en de beginselen inzake gegevensbescherming van de Europese Unie en Australië een gemeenschappelijke basis hebben en dat eventuele verschillen bij de toepassing van deze beginselen geen belemmering voor de samenwerking tussen de Europese Unie en Australië op grond van deze overeenkomst mogen vormen;
-
-Gelet op artikel 17 van het Internationaal Verdrag inzake burgerrechten en politieke rechten over het recht op privacy;
-
-Gelet op artikel 6, lid 2, van het Verdrag betreffende de Europese Unie inzake de eerbiediging van de grondrechten, en met name op de grondrechten inzake privacy en de bescherming van persoonsgegevens;
-
-Gelet op de desbetreffende bepalingen van de Customs Act 1901 (Cth), en met name sectie 64AF daarvan, volgens welke alle internationale exploitanten van passagiersluchtvaartdiensten die naar, vanuit of over Australië vliegen verplicht zijn de Australische douane desgevraagd PNR-gegevens te verstrekken, voor zover deze op een bepaalde wijze en in een bepaalde vorm zijn verzameld en opgeslagen in de boekings- en vertrekcontrolesystemen van de luchtvaartmaatschappij, en van de Customs Administration Act 1985 (Cth), de Migration Act 1958 (Cth), de Crimes Act 1914 (Cth), de Privacy Act 1988 (Cth) en de Freedom of Information Act 1982 (Cth);
-
-Er nota van nemend dat de Europese Unie wil bewerkstelligen dat luchtvaartmaatschappijen met boekings- en vertrekcontrolesystemen en/of in de Europese Unie verwerkte PNR-gegevens er niet van worden weerhouden te voldoen aan de Australische wetgeving op het gebied van doorgifte van uit de Europese Unie afkomstige PNR-gegevens aan de Australische douane op grond van deze overeenkomst;
-
-Bevestigend dat deze overeenkomst geen precedent schept voor eventuele toekomstige besprekingen of onderhandelingen tussen de Europese Unie en Australië of tussen een van beide partijen en een andere staat betreffende de verwerking en doorgifte van PNR-gegevens uit de Europese Unie of enige andere vorm van gegevens; en
-
-In een streven naar versterking en aanmoediging van de samenwerking tussen de partijen in de geest van het partnerschap tussen de Europese Unie en Australië,
-
-Besluiten:
-
-Deze Overeenkomst is voorlopig toegepast vanaf 30 juni 2008 (Trb. 2008/170) tot 1 juni 2012 (Trb. 2013/53).
+*De Europese Unie, enerzijds, en Australië, anderzijds, Verlangende terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, doeltreffend te voorkomen en te bestrijden om hun respectieve democratische samenlevingen en gemeenschappelijke waarden te beschermen; Erkennende dat de uitwisseling van informatie een essentieel onderdeel vormt van de bestrijding van terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, en dat het gebruik van persoonsgegevens van passagiers (PNR-gegevens) in dit verband een belangrijk instrument is; Erkennende dat er met het oog op het waarborgen van de openbare veiligheid en de rechtshandhaving regels moeten worden vastgesteld met betrekking tot het beheren van de doorgifte door luchtvaartmaatschappijen van PNR-gegevens uit de Europese Unie aan de Australische douane; Erkennende het belang van het voorkomen en bestrijden van terrorisme en daarmee samenhangende misdrijven en andere ernstige misdrijven van grensoverschrijdende aard, waaronder begrepen de georganiseerde criminaliteit, waarbij de fundamentele rechten en vrijheden, met name het recht op privacy en gegevensbescherming, moeten worden geëerbiedigd; Erkennende dat de wetgeving, het beleid en de beginselen inzake gegevensbescherming van de Europese Unie en Australië een gemeenschappelijke basis hebben en dat eventuele verschillen bij de toepassing van deze beginselen geen belemmering voor de samenwerking tussen de Europese Unie en Australië op grond van deze overeenkomst mogen vormen; Gelet op artikel 17 van het Internationaal Verdrag inzake burgerrechten en politieke rechten over het recht op privacy; Gelet op artikel 6, lid 2, van het Verdrag betreffende de Europese Unie inzake de eerbiediging van de grondrechten, en met name op de grondrechten inzake privacy en de bescherming van persoonsgegevens; Gelet op de desbetreffende bepalingen van de Customs Act 1901 (Cth), en met name sectie 64AF daarvan, volgens welke alle internationale exploitanten van passagiersluchtvaartdiensten die naar, vanuit of over Australië vliegen verplicht zijn de Australische douane desgevraagd PNR-gegevens te verstrekken, voor zover deze op een bepaalde wijze en in een bepaalde vorm zijn verzameld en opgeslagen in de boekings- en vertrekcontrolesystemen van de luchtvaartmaatschappij, en van de Customs Administration Act 1985 (Cth), de Migration Act 1958 (Cth), de Crimes Act 1914 (Cth), de Privacy Act 1988 (Cth) en de Freedom of Information Act 1982 (Cth); Er nota van nemend dat de Europese Unie wil bewerkstelligen dat luchtvaartmaatschappijen met boekings- en vertrekcontrolesystemen en/of in de Europese Unie verwerkte PNR-gegevens er niet van worden weerhouden te voldoen aan de Australische wetgeving op het gebied van doorgifte van uit de Europese Unie afkomstige PNR-gegevens aan de Australische douane op grond van deze overeenkomst; Bevestigend dat deze overeenkomst geen precedent schept voor eventuele toekomstige besprekingen of onderhandelingen tussen de Europese Unie en Australië of tussen een van beide partijen en een andere staat betreffende de verwerking en doorgifte van PNR-gegevens uit de Europese Unie of enige andere vorm van gegevens; en In een streven naar versterking en aanmoediging van de samenwerking tussen de partijen in de geest van het partnerschap tussen de Europese Unie en Australië, Besluiten:*
 
 ##### Artikel 1. Definities
 

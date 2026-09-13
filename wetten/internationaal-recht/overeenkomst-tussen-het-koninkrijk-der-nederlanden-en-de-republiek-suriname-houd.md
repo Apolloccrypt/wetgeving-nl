@@ -1,46 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname, houdende regelen met betrekking tot de rechtspositie van militair en burgerpersoneel van het Koninkrijk der Nederlanden, ressorterende onder het Departement van Defensie"
 identifier: "BWBV0003861"
-country: "nl"
-rank: "verdrag"
-publication_date: "1975-11-25"
-last_updated: "1975-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003861"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003752573"
-version_id: "10003815432"
-internal_id: "C10006983061"
-label_id: "10003737474"
-dtd_version: "2.0"
-original_entry_into_force: "1975-11-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003861/1975-11-25/0"
-intitule_bron: "Trb.1975-135"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-11-25"
-intitule_in_force: "1975-11-25"
-intitule_status: "goed"
-original_publication: "Trb.1975-135"
-original_published_date: "1975-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-135"
-entry_into_force_date: "1975-11-25"
-jci_1_3: "jci1.3:c:BWBV0003861&z=1975-11-25&g=1975-11-25"
-jci_1_0: "1.0:c:BWBV0003861&g=1975-11-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "1975-11-25"
+publicatiedatum: 1975-11-25
+laatste_update: 1975-11-25
+status: geldig
+toestand: 1975-11-25
+bron: "https://wetten.overheid.nl/BWBV0003861"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname, houdende regelen met betrekking tot de rechtspositie van militair en burgerpersoneel van het Koninkrijk der Nederlanden, ressorterende onder het Departement van Defensie
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Suriname,
-
-Overwegende dat het met het oog op het onafhankelijk worden van Suriname wenselijk is regelen te treffen met betrekking tot de rechtspositie van militair en burgerpersoneel van het Koninkrijk der Nederlanden, ressorterende onder het Departement van Defensie,
-
-zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, Overwegende dat het met het oog op het onafhankelijk worden van Suriname wenselijk is regelen te treffen met betrekking tot de rechtspositie van militair en burgerpersoneel van het Koninkrijk der Nederlanden, ressorterende onder het Departement van Defensie, zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -74,10 +47,10 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemacht
 
 GEDAAN te Paramaribo op 25 november 1975 in tweevoud, in de Nederlandse taal.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) J. M. DEN UYL
 
-**Voor de Regering van de Republiek Suriname,**
+*Voor de Regering van de Republiek Suriname,*
 
 (w.g.) H. A. E. ARRON

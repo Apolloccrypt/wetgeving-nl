@@ -1,63 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied"
 identifier: "BWBV0003048"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-10-01"
-last_updated: "2005-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003048"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003306673"
-version_id: "10003334142"
-internal_id: "C10008429301"
-label_id: "10003292444"
-dtd_version: "2.0"
-original_entry_into_force: "2008-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003048/2008-10-01/0"
-intitule_bron: "Trb.2005-312"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-08-28"
-intitule_published: "2005-12-23"
-intitule_in_force: "2008-09-22"
-intitule_status: "goed"
-original_publication: "Trb.2005-312"
-original_signed_date: "2008-08-28"
-original_published_date: "2005-12-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2005-312"
-entry_into_force_date: "2008-10-01"
-jci_1_3: "jci1.3:c:BWBV0003048&z=2008-10-01&g=2008-10-01"
-jci_1_0: "1.0:c:BWBV0003048&g=2008-10-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-08-28"
-entry_into_force: "2008-10-01"
+publicatiedatum: 2008-10-01
+laatste_update: 2008-10-01
+status: geldig
+toestand: 2008-10-01
+bron: "https://wetten.overheid.nl/BWBV0003048"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied
 
-Het Koninkrijk der Nederlanden
-
-en
-
-Het Vlaams Gewest,
-
-hierna te noemen „de Verdragsluitende Partijen’’,
-
-Overwegende dat door het Tractaat tussen België en Nederland van 19 april 1839 een Permanente Commissie van Toezicht op de Scheldevaart werd opgericht, die belast is met het gemeenschappelijk toezicht op het loodswezen, de betonning en het onderhoud van de zeegaten van de Schelde beneden Antwerpen,
-
-Overwegende dat de hechte samenwerking tussen de Verdragsluitende Partijen door middel van de Permanente Commissie in de loop van de jaren steeds ruimer en intensiever is geworden door de uitbouw van het gemeenschappelijk toezicht op de vaarwegmarkering, de inrichting en benutting van een gemeenschappelijke radarketen langs de Schelde en de bijdrage tot het optimale functioneren van de Vlaamse en Nederlandse loodsdiensten op de Schelde,
-
-Constaterend dat het nautisch beheer in het Scheldegebied vanaf 1 januari 2003 daadwerkelijk gemeenschappelijk door Nederland en Vlaanderen wordt uitgeoefend en dat dit, onder sturing door de Permanente Commissie, op een open en constructieve wijze gebeurt vanuit het gezamenlijk belang van de afwikkeling van een veilig en vlot scheepvaartverkeer,
-
-Ervan overtuigd dat de verdragsrechtelijke instelling van een gemeenschappelijk nautisch beheer in het Scheldegebied een optimaal, veilig en vlot gebruik van de vaarwegcapaciteit verder zal bevorderen,
-
-Overwegende dat de Permanente Commissie hierbij dient te fungeren als gemeenschappelijk beleidsorgaan, dat de kaders zal vaststellen waarbinnen een Gemeenschappelijke Nautische Autoriteit zal optreden,
-
-Overwegende dat de Permanente Commissie bij de uitoefening van het gemeenschappelijk nautisch beheer groot belang hecht aan samenwerking met de Scheldehavens en streeft naar optimale afstemming van het nautisch beheer in het Scheldegebied en in de havens door gezamenlijke invulling van de ketenbenadering,
-
-Overwegende dat het gemeenschappelijk nautisch beheer in het algemeen tevens de Nederlands-Vlaamse samenwerking ten aanzien van het Schelde-estuarium verder zal bevorderen;
-
-komen het volgende overeen:
+*Het Koninkrijk der Nederlanden en Het Vlaams Gewest, hierna te noemen „de Verdragsluitende Partijen’’, Overwegende dat door het Tractaat tussen België en Nederland van 19 april 1839 een Permanente Commissie van Toezicht op de Scheldevaart werd opgericht, die belast is met het gemeenschappelijk toezicht op het loodswezen, de betonning en het onderhoud van de zeegaten van de Schelde beneden Antwerpen, Overwegende dat de hechte samenwerking tussen de Verdragsluitende Partijen door middel van de Permanente Commissie in de loop van de jaren steeds ruimer en intensiever is geworden door de uitbouw van het gemeenschappelijk toezicht op de vaarwegmarkering, de inrichting en benutting van een gemeenschappelijke radarketen langs de Schelde en de bijdrage tot het optimale functioneren van de Vlaamse en Nederlandse loodsdiensten op de Schelde, Constaterend dat het nautisch beheer in het Scheldegebied vanaf 1 januari 2003 daadwerkelijk gemeenschappelijk door Nederland en Vlaanderen wordt uitgeoefend en dat dit, onder sturing door de Permanente Commissie, op een open en constructieve wijze gebeurt vanuit het gezamenlijk belang van de afwikkeling van een veilig en vlot scheepvaartverkeer, Ervan overtuigd dat de verdragsrechtelijke instelling van een gemeenschappelijk nautisch beheer in het Scheldegebied een optimaal, veilig en vlot gebruik van de vaarwegcapaciteit verder zal bevorderen, Overwegende dat de Permanente Commissie hierbij dient te fungeren als gemeenschappelijk beleidsorgaan, dat de kaders zal vaststellen waarbinnen een Gemeenschappelijke Nautische Autoriteit zal optreden, Overwegende dat de Permanente Commissie bij de uitoefening van het gemeenschappelijk nautisch beheer groot belang hecht aan samenwerking met de Scheldehavens en streeft naar optimale afstemming van het nautisch beheer in het Scheldegebied en in de havens door gezamenlijke invulling van de ketenbenadering, Overwegende dat het gemeenschappelijk nautisch beheer in het algemeen tevens de Nederlands-Vlaamse samenwerking ten aanzien van het Schelde-estuarium verder zal bevorderen; komen het volgende overeen:*
 
 ##### Artikel 1. Definities
 
@@ -99,15 +55,15 @@ In dit Verdrag wordt verstaan onder:
 
 - r. verkeersteken: een in, naast of boven een scheepvaartweg aangebracht voorwerp of aangebrachte combinatie van voorwerpen waarmee aan het scheepvaartverkeer wordt gegeven:
 
-- 1°. een inlichting over de toestand in een bepaald gedeelte van een scheepvaartweg, of
+   - 1° een inlichting over de toestand in een bepaald gedeelte van een scheepvaartweg, of
 
-- 2°. een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag in een bepaald gedeelte van een scheepvaartweg;
+   - 2° een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag in een bepaald gedeelte van een scheepvaartweg;
 
 - s. bekendmaking met dezelfde strekking als een verkeersteken: een schriftelijke mededeling aan het scheepvaartverkeer waarmee aan dat verkeer wordt gegeven:
 
-- 1°. een inlichting over de toestand in een bepaald gedeelte van een scheepvaartweg, of
+   - 1° een inlichting over de toestand in een bepaald gedeelte van een scheepvaartweg, of
 
-- 2°. een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag in een bepaald gedeelte van een scheepvaartweg.
+   - 2° een inlichting, aanbeveling, gebod of verbod onderscheidenlijk opheffing van een gebod of verbod voor het verkeersgedrag in een bepaald gedeelte van een scheepvaartweg.
 
 ##### Artikel 2. Doel en voorwerp van het Verdrag
 
@@ -115,9 +71,9 @@ In dit Verdrag wordt verstaan onder:
 
 2. Het gemeenschappelijk nautisch beheer:
 
-- 1°. draagt zorg voor de instandhouding van de huidige niveaus van veiligheid en vlotheid van het scheepvaartverkeer en, zo mogelijk, voor de verbetering van de niveaus van veiligheid en vlotheid van het scheepvaartverkeer, waarbij een optimaal evenwicht tussen veiligheid en vlotheid wordt nagestreefd;
+- 1° draagt zorg voor de instandhouding van de huidige niveaus van veiligheid en vlotheid van het scheepvaartverkeer en, zo mogelijk, voor de verbetering van de niveaus van veiligheid en vlotheid van het scheepvaartverkeer, waarbij een optimaal evenwicht tussen veiligheid en vlotheid wordt nagestreefd;
 
-- 2°. wordt aangepast aan de internationale en Europeesrechtelijke normen, alsmede aan de ontwikkelingen op technologisch, nautisch en transporteconomisch gebied.
+- 2° wordt aangepast aan de internationale en Europeesrechtelijke normen, alsmede aan de ontwikkelingen op technologisch, nautisch en transporteconomisch gebied.
 
 3. Ter ondersteuning van de doelstellingen van het gemeenschappelijk nautisch beheer zal de Permanente Commissie initiatieven nemen ter verdere bevordering van de veiligheid op en rondom de Westerschelde. Deze initiatieven hebben in hoofdzaak betrekking op de beschikbaarheid van kwalitatief en kwantitatief adequaat rampenbestrijdingsmaterieel in het Scheldegebied. In dit verband zal zij binnen een jaar na inwerkingtreding van dit Verdrag een voorstel voor een werkplan opstellen en dit ter goedkeuring voorleggen aan de Verdragsluitende Partijen. Zij evalueert dit plan regelmatig en doet, waar nodig, voorstellen tot bijstelling van dit plan aan de Verdragsluitende Partijen.
 
@@ -135,9 +91,9 @@ In dit Verdrag wordt verstaan onder:
 
 - a. de Westerschelde en haar aanlooproutes gelegen in het door de Permanente Commissie nader afgebakende werkingsgebied van Vessel Traffic Services Schelde en haar Mondingen, voor zover ze gelegen zijn:
 
-- 1°. in de Belgische en Nederlandse territoriale zee;
+   - 1° in de Belgische en Nederlandse territoriale zee;
 
-- 2°. daarbuiten in zones die door België, onderscheidenlijk Nederland, overeenkomstig de door de Internationale Maritieme Organisatie vastgestelde regels met betrekking tot verkeersbegeleidingssystemen buiten de Belgische en Nederlandse territoriale zee zijn aangewezen, voor zover het aangelegenheden betreft waarvoor de Verdragsluitende Partijen internationaalrechtelijk bevoegd zijn;
+   - 2° daarbuiten in zones die door België, onderscheidenlijk Nederland, overeenkomstig de door de Internationale Maritieme Organisatie vastgestelde regels met betrekking tot verkeersbegeleidingssystemen buiten de Belgische en Nederlandse territoriale zee zijn aangewezen, voor zover het aangelegenheden betreft waarvoor de Verdragsluitende Partijen internationaalrechtelijk bevoegd zijn;
 
 - b. het Nederlands gedeelte van het Kanaal van Gent naar Terneuzen vanaf de grens met België tot aan de sluizen van Terneuzen, alsmede het gebied van de Westsluis, de Middensluis en de Oostsluis te Terneuzen, de Westbuitenhaven en de Oostbuitenhaven te Terneuzen, tot aan de denkbeeldige lijn getrokken over de koppen van de havenhoofden;
 
@@ -145,9 +101,9 @@ In dit Verdrag wordt verstaan onder:
 
 - d. de Beneden-Zeeschelde, met inbegrip van de toegangsgeulen van de sluizen tot aan de meest stroomafwaarts gelegen sluisdeuren, die voor de toepassing van dit Verdrag is begrensd:
 
-- 1°. stroomopwaarts door het verlengde van de lijn getrokken door de twee richtingspalen gelegen op ongeveer één kilometer stroomopwaarts van het zuidelijk uiteinde der kaden van Antwerpen;
+   - 1° stroomopwaarts door het verlengde van de lijn getrokken door de twee richtingspalen gelegen op ongeveer één kilometer stroomopwaarts van het zuidelijk uiteinde der kaden van Antwerpen;
 
-- 2°. stroomafwaarts door de Belgisch-Nederlandse grens.
+   - 2° stroomafwaarts door de Belgisch-Nederlandse grens.
 
 2. De Permanente Commissie kan, overeenkomstig Artikel 5, regels stellen met het oog op de precisering van de omschrijving en afbakening van de in het eerste lid genoemde scheepvaartwegen of, indien de gevolgen van infrastructurele veranderingen daartoe noodzaken, met het oog op de aanpassing ervan.
 
@@ -285,17 +241,17 @@ In dit Verdrag wordt verstaan onder:
 
 1. Vorderingen die betrekking hebben op besluiten, handelingen of verzuimen van de Permanente Commissie of op besluiten, handelingen of verzuimen van de Gemeenschappelijke Nautische Autoriteit worden ingesteld tegen de Permanente Commissie en worden gebracht voor de gewone rechtbanken in België en voor de burgerlijke rechter in Nederland, meer bepaald:
 
-- 1°. wat betreft vorderingen gericht tegen de besluiten van de Permanente Commissie, voor een rechtbank van één van beide landen, naar keuze van de eiser;
+- 1° wat betreft vorderingen gericht tegen de besluiten van de Permanente Commissie, voor een rechtbank van één van beide landen, naar keuze van de eiser;
 
-- 2°. in andere gevallen:
+- 2° in andere gevallen:
 
-- a. waarbij een schip betrokken is met als bestemming of herkomst een Belgische haven, voor een Belgische rechtbank;
+   - a. waarbij een schip betrokken is met als bestemming of herkomst een Belgische haven, voor een Belgische rechtbank;
 
-- b. waarbij een schip betrokken is met als bestemming of herkomst een Nederlandse haven, voor een Nederlandse rechtbank;
+   - b. waarbij een schip betrokken is met als bestemming of herkomst een Nederlandse haven, voor een Nederlandse rechtbank;
 
-- c. waarbij verschillende schepen betrokken zijn met als bestemming of herkomst havens van beide landen, voor de rechtbank van het land van de eerste haven waarheen of waaruit het schip met de grootste bruto-tonnenmaat voer;
+   - c. waarbij verschillende schepen betrokken zijn met als bestemming of herkomst havens van beide landen, voor de rechtbank van het land van de eerste haven waarheen of waaruit het schip met de grootste bruto-tonnenmaat voer;
 
-- 3°. in gevallen die niet onder 2° vallen, voor een rechtbank van één van beide landen, naar keuze van de eiser.
+- 3° in gevallen die niet onder 2° vallen, voor een rechtbank van één van beide landen, naar keuze van de eiser.
 
 2. De rechtbank past het interne aansprakelijkheidsrecht toe, inbegrepen daarvan deel uitmakende ontheffingen of beperkingen van aansprakelijkheid.
 
@@ -349,7 +305,7 @@ In dit Verdrag wordt verstaan onder:
 
 ##### Artikel 14. Wijzigingsbepaling
 
-Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Vlaams Gewest tot herziening van het Reglement ter uitvoering van artikel IX van het Tractaat van 19 april 1839 en van Hoofdstuk II, Afdelingen 1 en 2, van het Tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement); Middelburg, 11-01-1995.
+*Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Vlaams Gewest tot herziening van het Reglement ter uitvoering van artikel IX van het Tractaat van 19 april 1839 en van Hoofdstuk II, Afdelingen 1 en 2, van het Tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement); Middelburg, 11-01-1995.*
 
 ##### Artikel 15. Overgangsbepaling
 
@@ -363,10 +319,10 @@ TEN BLIJKE WAARVAN de Gevolmachtigden van de Regeringen der Verdragsluitende Par
 
 Ondertekend te Middelburg, op 21 december 2005, in tweevoud in de Nederlandse taal.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 K. M. H. Peijs
 
-**Voor het Vlaams Gewest,**
+*Voor het Vlaams Gewest,*
 
 K. PEETERS

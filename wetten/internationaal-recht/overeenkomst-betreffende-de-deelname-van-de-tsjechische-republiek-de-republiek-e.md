@@ -1,115 +1,19 @@
 ---
 title: "Overeenkomst betreffende de deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte"
 identifier: "BWBV0003057"
-country: "nl"
-rank: "verdrag"
-publication_date: "2005-12-06"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003057"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003311663"
-version_id: "10003339912"
-internal_id: "C10008429461"
-label_id: "10003297454"
-dtd_version: "2.0"
-original_entry_into_force: "2005-12-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003057/2005-12-06/0"
-intitule_bron: "Trb.2003-174"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2004-04-27"
-intitule_published: "2003-11-27"
-intitule_in_force: "2006-04-26"
-intitule_status: "goed"
-original_publication: "Trb.2003-174"
-original_signed_date: "2004-04-27"
-original_published_date: "2003-11-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2003-174"
-entry_into_force_date: "2005-12-06"
-jci_1_3: "jci1.3:c:BWBV0003057&z=2005-12-06&g=2005-12-06"
-jci_1_0: "1.0:c:BWBV0003057&g=2005-12-06"
-citeertitel_status: "redactioneel"
-signed_date: "2004-04-27"
-entry_into_force: "2005-12-06"
+publicatiedatum: 2005-12-06
+laatste_update: 2005-12-06
+status: geldig
+toestand: 2005-12-06
+bron: "https://wetten.overheid.nl/BWBV0003057"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst betreffende de deelname van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek aan de Europese Economische Ruimte
 
-De Europese Gemeenschap,
-
-het Koninkrijk België,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Portugese Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-hierna de „EG-lidstaten" te noemen
-
-de Republiek IJsland,
-
-het Vorstendom Liechtenstein,
-
-het Koninkrijk Noorwegen,
-
-hierna de „EVA-staten" te noemen
-
-gezamenlijk hierna de „huidige overeenkomstsluitende partijen" te noemen
-
-en
-
-de Tsjechische Republiek,
-
-de Republiek Estland,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-de Republiek Polen,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-Overwegende dat het [Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001642) (hierna het „Toetredingsverdrag" te noemen) werd ondertekend te Athene op 16 april 2003;
-
-Overwegende dat, op grond van [artikel 128 van de te Porto op 2 mei 1992 ondertekende Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=128), elke Europese Staat die tot de Gemeenschap toetreedt, moet vragen partij te worden bij de [Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) (hierna de „EER-Overeenkomst" te noemen);
-
-Overwegende dat de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek gevraagd hebben partij te worden bij de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070);
-
-Overwegende dat de voorwaarden voor een dergelijk lidmaatschap dienen te worden vastgelegd in een overeenkomst tussen de huidige overeenkomstsluitende partijen en de Staten die de aanvraag doen,
-
-Hebben besloten de volgende Overeenkomst te sluiten:
+*De Europese Gemeenschap, het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna de „EG-lidstaten" te noemen de Republiek IJsland, het Vorstendom Liechtenstein, het Koninkrijk Noorwegen, hierna de „EVA-staten" te noemen gezamenlijk hierna de „huidige overeenkomstsluitende partijen" te noemen en de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië, de Slowaakse Republiek, Overwegende dat het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie (hierna het „Toetredingsverdrag" te noemen) werd ondertekend te Athene op 16 april 2003; Overwegende dat, op grond van artikel 128 van de te Porto op 2 mei 1992 ondertekende Overeenkomst betreffende de Europese Economische Ruimte, elke Europese Staat die tot de Gemeenschap toetreedt, moet vragen partij te worden bij de Overeenkomst betreffende de Europese Economische Ruimte (hierna de „EER-Overeenkomst" te noemen); Overwegende dat de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek gevraagd hebben partij te worden bij de EER-Overeenkomst; Overwegende dat de voorwaarden voor een dergelijk lidmaatschap dienen te worden vastgelegd in een overeenkomst tussen de huidige overeenkomstsluitende partijen en de Staten die de aanvraag doen, Hebben besloten de volgende Overeenkomst te sluiten:*
 
 ##### Artikel 1
 
@@ -121,23 +25,23 @@ Hebben besloten de volgende Overeenkomst te sluiten:
 
 ##### Artikel 2
 
-Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
+*Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992*
 
 ##### Artikel 3
 
 1. Alle wijzigingen van in de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) opgenomen communautaire besluiten, aangebracht in het kader van de akte betreffende de toetredingsvoorwaarden voor de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek en de aanpassingen van de Verdragen waarop de Europese Unie is gegrond (hierna de „Toetredingsakte van 16 april 2003 genoemd"), worden in de EER-Overeenkomst opgenomen.
 
-2. Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
+2. *Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992*
 
-3. Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
+3. *Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992*
 
-4. Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
+4. *Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992*
 
 5. Wanneer met betrekking tot vóór de inwerkingtreding van deze Overeenkomst in de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) opgenomen besluiten aanpassingen nodig zijn naar aanleiding van het lidmaatschap van de nieuwe partijen bij de Overeenkomst, en bedoelde aanpassingen niet in deze Overeenkomst zijn opgenomen, worden deze aanpassingen overeenkomstig de in de EER-Overeenkomst vastgelegde procedures aangebracht.
 
 ##### Artikel 4
 
-Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992
+*Wijzigt de Overeenkomst betreffende de Europese Economische Ruimte; Oporto, 02-05-1992*
 
 ##### Artikel 5
 

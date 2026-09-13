@@ -1,182 +1,133 @@
 ---
 title: "Verdrag betreffende de bescherming van het vakverenigingsrecht en procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst"
 identifier: "BWBV0003778"
-country: "nl"
-rank: "verdrag"
-publication_date: "1989-11-29"
-last_updated: "1989-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003778"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10003707503"
-version_id: "10003769072"
-internal_id: "C10006981351"
-label_id: "10003693044"
-dtd_version: "2.0"
-original_entry_into_force: "1989-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003778/1989-11-29/0"
-intitule_bron: "Trb.1979-50"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-03-20"
-intitule_in_force: "1989-01-27"
-intitule_status: "goed"
-original_publication: "Trb.1979-50"
-original_published_date: "1979-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-50"
-entry_into_force_date: "1989-11-29"
-jci_1_3: "jci1.3:c:BWBV0003778&z=1989-11-29&g=1989-11-29"
-jci_1_0: "1.0:c:BWBV0003778&g=1989-11-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1989-11-29"
+publicatiedatum: 1989-11-29
+laatste_update: 1989-11-29
+status: geldig
+toestand: 1989-11-29
+bron: "https://wetten.overheid.nl/BWBV0003778"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag betreffende de bescherming van het vakverenigingsrecht en procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Sixty-fourth Session on 7 June 1978, and Noting the terms of the Freedom of Association and Protection of the Right to Organise Convention, 1948, the Right to Organise and Collective Bargaining Convention, 1949, and the Workers' Representatives Convention and Recommendation, 1971, and Recalling that the Right to Organise and Collective Bargaining Convention, 1949, does not cover certain categories of public employees and that the Workers' Representatives Convention and Recommendation, 1971, apply to workers' representatives in the undertaking, and Noting the considerable expansion of public-service activities in many countries and the need for sound labour relations between public authorities and public employees' organisations, and Having regard to the great diversity of political, social and economic systems among member States and the differences in practice among them (e.g. as to the respective functions of central and local government, of federal, state and provincial authorities, and of state-owned undertakings and various types of autonomous or semi-autonomous public bodies, as well as to the nature of employment relationships), and Taking into account the particular problems arising as to the scope of, and definitions for the purpose of, any international instrument, owing to the differences in many countries between private and public employment, as well as the difficulties of interpretation which have arisen in respect of the application of relevant provisions of the Right to Organise and Collective Bargaining Convention, 1949, to public servants, and the observations of the supervisory bodies of the ILO on a number of occasions that some governments have applied these provisions in a manner which excludes large groups of public employees from coverage by that Convention, and Having decided upon the adoption of certain proposals with regard to freedom of association and procedures for determining conditions of employment in the public service, which is the fifth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, adopts this twenty-seventh day of June of the year one thousand nine hundred and seventy-eight the following Convention, which may be cited as the Labour Relations (Public Service) Convention, 1978:*
 
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau, en aldaar bijeengekomen in haar vierenzestigste Zitting op 7 juni 1978;
+## PART I. SCOPE AND DEFINITIONS
 
-Gelet op de bepalingen van het [Verdrag betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545) (1948), het [Verdrag betreffende het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525) (1949), en het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003710) en de Aanbeveling betreffende de bescherming van de vertegenwoordigers van de werknemers in de onderneming en de hun te verlenen faciliteiten (1971);
+##### Article 1
 
-In herinnering brengende dat het [Verdrag betreffende het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525) (1949), niet van toepassing is op bepaalde categorieën werknemers in openbare dienst en dat het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003710) en de Aanbeveling betreffende de bescherming van de vertegenwoordigers van de werknemers in de onderneming en de hun te verlenen faciliteiten (1971), van toepassing zijn op de vertegenwoordigers van werknemers in de onderneming;
+1. This Convention applies to all persons employed by public authorities, to the extent that more favourable provisions in other international labour Conventions are not applicable to them.
 
-Gelet op de aanzienlijke uitbreiding van de taken van de overheid in vele landen en de behoefte aan goede arbeidsbetrekkingen tussen de overheid en de organisaties van overheidspersoneel;
+2. The extent to which the guarantees provided for in this Convention shall apply to high-level employees whose functions are normally considered as policy-making or managerial, or to employees whose duties are of a highly confidential nature, shall be determined by national laws or regulations.
 
-Rekening houdende met de grote verscheidenheid in politieke, sociale en economische stelsels in de Lidstaten en de verschillen in praktijk in die Staten (bijvoorbeeld voor wat betreft de onderscheiden functies van centrale en plaatselijke overheid, van federale, staats- en provinciale overheden, en van ondernemingen die overheidsbezit zijn en verschillende soorten van autonome of semiautonome overheidslichamen, evenals voor wat betreft de aard van de arbeidsverhoudingen);
+3. The extent to which the guarantees provided for in this Convention shall apply to the armed forces and the police shall be determined by national laws or regulations.
 
-In aanmerking nemende de bijzondere problemen die zich voordoen met betrekking tot de bepaling van de werkingssfeer van een internationale regeling en met betrekking tot het vaststellen van begripsomschrijvingen met het oog op deze internationale regeling, als gevolg van de verschillen in vele landen tussen de arbeidsverhoudingen in de particuliere sector en in openbare dienst, eveneens in aanmerking nemende de interpretatiemoeilijkheden die ontstaan zijn met betrekking tot de toepassing op overheidspersoneel van de desbetreffende bepalingen van het [Verdrag betreffende het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525), (1949), en de opmerkingen van de toezichthoudende organen van de Internationale Arbeidsorganisatie bij een aantal gelegenheden, dat bepaalde Regeringen deze bepalingen hebben toegepast op een wijze die grote groepen van werknemers in openbare dienst uitsluit van de toepassing van dat Verdrag;
+##### Article 2
 
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de vrijheid van vakvereniging en tot procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst, welk onderwerp als vijfde punt op de agenda van de Zitting voorkomt;
+For the purpose of this Convention, the term “public employee” means any person covered by the Convention in accordance with Article 1 thereof.
 
-Vastgesteld hebbende dat deze voorstellen de vorm van een Internationaal Verdrag dienen te krijgen,
+##### Article 3
 
-aanvaardt de zevenentwintigste juni van het jaar negentienhonderd achtenzeventig het volgende Verdrag, dat kan worden aangehaald als Verdrag betreffende de arbeidsverhoudingen in de openbare dienst, (1978):
+For the purpose of this Convention, the term “public employees' organisation” means any organisation, however composed, the purpose of which is to further and defend the interests of public employees.
 
-## DEEL I. TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
+## PART II. PROTECTION OF THE RIGHT TO ORGANISE
 
-##### Artikel 1
+##### Article 4
 
-1. Dit Verdrag is van toepassing op alle personen die in dienst zijn van de overheid, voorzover gunstiger bepalingen in andere Internationale Arbeidsverdragen op hen niet van toepassing zijn.
+1. Public employees shall enjoy adequate protection against acts of anti-union discrimination in respect of their employment.
 
-2. In welke omvang de waarborgen, neergelegd in dit Verdrag, van toepassing zullen zijn op hooggeplaatste functionarissen wier werkzaamheden in de regel als beleidsbepalend of leidinggevend worden beschouwd of op functionarissen wier werkzaamheden van zeer vertrouwelijke aard zijn, moet door nationale wettelijke voorschriften worden bepaald.
+2. Such protection shall apply more particularly in respect of acts calculated to—
 
-3. In welke omvang de waarborgen, neergelegd in dit Verdrag, van toepassing zullen zijn op de gewapende macht en de politie, moet door nationale wettelijke voorschriften worden bepaald.
+- (a) make the employment of public employees subject to the condition that they shall not join or shall relinquish membership of a public employees' organisation;
 
-##### Artikel 2
+- (b) cause the dismissal of or otherwise prejudice a public employee by reason of membership of a public employees' organisation or because of participation in the normal activities of such an organisation.
 
-Voor de toepassing van dit Verdrag wordt onder de term „werknemer in overheidsdienst” verstaan een ieder die onder het Verdrag valt krachtens artikel 1 van dit Verdrag.
+##### Article 5
 
-##### Artikel 3
+1. Public employees' organisations shall enjoy complete independence from public authorities.
 
-Voor de toepassing van dit Verdrag wordt onder de term „organisatie van overheidspersoneel” verstaan iedere organisatie, hoe ook samengesteld, die het bevorderen en het verdedigen van de belangen van het overheidspersoneel ten doel heeft.
+2. Public employees' organisations shall enjoy adequate protection against any acts of interference by a public authority in their establishment, functioning or administration.
 
-## DEEL II. BESCHERMING VAN HET VAKVERENIGINGSRECHT
+3. In particular, acts which are designed to promote the establishment of public employees' organisations under the domination of a public authority, or to support public employees' organisations by financial or other means, with the object of placing such organisations under the control of a public authority, shall be deemed to constitute acts of interference within the meaning of this Article.
 
-##### Artikel 4
+## PART III. FACILITIES TO BE AFFORDED TO PUBLIC EMPLOYEES' ORGANISATIONS
 
-1. Werknemers in overheidsdienst moeten een toereikende bescherming genieten tegen handelingen, ingegeven door een afwijzende houding jegens het vakverenigingswezen, die hen discrimineren in de sfeer van de arbeid.
+##### Article 6
 
-2. Deze bescherming moet met name geboden worden tegen handelingen die er op gericht zijn:
+1. Such facilities shall be afforded to the representatives of recognised public employees' organisations as may be appropriate in order to enable them to carry out their functions promptly and efficiently, both during and outside their hours of work.
 
-- (a). het in dienst nemen van een werknemer in overheidsdienst afhankelijk te stellen van de voorwaarde dat hij geen lid wordt van een organisatie van overheidspersoneel of zijn lidmaatschap daarvan opzegt;
+2. The granting of such facilities shall not impair the efficient operation of the administration or service concerned.
 
-- (b). de werknemer in overheidsdienst te ontslaan of op andere wijze te benadelen op grond van zijn lidmaatschap van een organisatie van overheidspersoneel of van zijn deelneming aan de normale activiteiten van een dergelijke organisatie.
+3. The nature and scope of these facilities shall be determined in accordance with the methods referred to in Article 7 of this Convention, or by other appropriate means.
 
-##### Artikel 5
+## PART IV. PROCEDURES FOR DETERMINING TERMS AND CONDITIONS OF EMPLOYMENT
 
-1. Organisaties van overheidspersoneel moeten volledige onafhankelijkheid genieten ten opzichte van de overheid.
+##### Article 7
 
-2. Organisaties van overheidspersoneel moeten een toereikende bescherming genieten tegen elke inmenging van de zijde van de overheid bij hun oprichting, de uitoefening van hun werkzaamheden of bij het beheer van hun organisaties.
+Measures appropriate to national conditions shall be taken, where necessary, to encourage and promote the full development and utilisation of machinery for negotiation of terms and conditions of employment between the public authorities concerned and public employees' organisations, or of such other methods as will allow representatives of public employees to participate in the determination of these matters.
 
-3. In het bijzonder wordt in dit artikel onder inmenging verstaan: daden die gericht zijn op het bevorderen van de oprichting van organisaties van overheidspersoneel die door de overheid worden beheerd of op het verlenen van steun met financiële of andere middelen aan organisaties van overheidspersoneel met het doel deze organisaties onder controle van de overheid te plaatsen.
+## PART V. SETTLEMENT OF DISPUTES
 
-## DEEL III. AAN DE ORGANISATIES VAN OVERHEIDSPERSONEEL TE VERLENEN FACILITEITEN
+##### Article 8
 
-##### Artikel 6
+The settlement of disputes arising in connection with the determination of terms and conditions of employment shall be sought, as may be appropriate to national conditions, through negotiation between the parties or through independent and impartial machinery, such as mediation, conciliation and arbitration, established in such a manner as to ensure the confidence of the parties involved.
 
-1. Aan de vertegenwoordigers van erkende organisaties van overheidspersoneel dienen passende faciliteiten te worden verleend, opdat zij hun functies snel en doeltreffend kunnen vervullen, zowel gedurende als buiten hun werktijden.
+## PART VI. CIVIL AND POLITICAL RIGHTS
 
-2. De toekenning van deze faciliteiten mag geen afbreuk doen aan de goede functionering van de overheid of van de desbetreffende overheidsdienst.
+##### Article 9
 
-3. De aard en werkingssfeer van deze faciliteiten moeten worden bepaald overeenkomstig de procedures als bedoeld in artikel 7 van dit Verdrag, of op enigerlei andere passende wijze.
+Public employees shall have, as other workers, the civil and political rights which are essential for the normal exercise of freedom of association, subject only to the obligations arising from their status and the nature of their functions.
 
-## DEEL IV. PROCEDURES VOOR HET VASTSTELLEN VAN ARBEIDSVOORWAARDEN
+## PART VII. FINAL PROVISIONS
 
-##### Artikel 7
+##### Article 10
 
-Waar nodig, moeten aan de nationale omstandigheden aangepaste maatregelen worden getroffen om de volledige ontwikkeling en het volledig gebruik aan te moedigen en te bevorderen van procedures voor het onderhandelen over arbeidsvoorwaarden tussen het betrokken overheidsgezag en de organisaties van overheidspersoneel, of van zodanige andere procedures die het mogelijk maken voor vertegenwoordigers van overheidspersoneel deel te hebben aan het vaststellen van genoemde arbeidsvoorwaarden.
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-## DEEL V. OPLOSSING VAN GESCHILLEN
+##### Article 11
 
-##### Artikel 8
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-De oplossing van geschillen, die zich voordoen met betrekking tot de vaststelling van arbeidsvoorwaarden moet in overeenstemming met de nationale omstandigheden gezocht worden door middel van onderhandelingen tussen partijen dan wel door middel van een procedure waarin onafhankelijkheid en onpartijdigheid gewaarborgd zijn, zoals bemiddeling, verzoening of arbitrage en tot stand gebracht op een wijze die beoogt het vertrouwen van de betrokken partijen daarin te verzekeren.
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-## DEEL VI. BURGERLIJKE EN POLITIEKE RECHTEN
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-##### Artikel 9
+##### Article 12
 
-Werknemers in overheidsdienst moeten evenals andere werknemers de burgerlijke en politieke rechten bezitten die onontbeerlijk zijn voor de normale uitoefening van de vrijheid van vakvereniging, zulks echter onverminderd de verplichtingen voortvloeiende uit hun status en de aard van hun functies.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-## DEEL VII. SLOTBEPALINGEN
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-##### Artikel 10
+##### Article 13
 
-De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-##### Artikel 11
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
+##### Article 14
 
-2. Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+##### Article 15
 
-##### Artikel 12
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring.
+##### Article 16
 
-De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides—
 
-2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden voorzien in dit artikel.
+- (a) the ratification by a Member of the new revising Convention *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 12 above, if and when the new revising Convention shall have come into force;
 
-##### Artikel 13
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
+##### Article 17
 
-##### Artikel 14
-
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
-
-##### Artikel 15
-
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit nodig acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening van dit Verdrag op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 16
-
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
-
-- (a). bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, ipso jure onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 12, onder voorbehoud evenwel dat het nieuwe Verdrag, houdende herziening, in werking is getreden;
-
-- (b). met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd.
-
-2. Dit Verdrag blijft echter naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 17
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
-
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
-
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau, en aldaar bijeengekomen in haar vierenzestigste Zitting op 7 juni 1978;
-
-Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot de vrijheid van vakvereniging en tot procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst, welk onderwerp als vijfde punt op de agenda van de Zitting voorkomt;
-
-Vastgesteld hebbende dat deze voorstellen de vorm dienen te krijgen van een Aanbeveling die het Verdrag betreffende de arbeidsverhoudingen in de openbare dienst, (1978), aanvult,
-
-aanvaardt de zevenentwintigste juni van het jaar negentienhonderd achtenzeventig de volgende Aanbeveling, die kan worden aangehaald als Aanbeveling betreffende de arbeidsverhoudingen in de openbare dienst, (1978):
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Sixty-fourth Session which was held at Geneva and declared closed the twenty-eight day of June 1978.
 

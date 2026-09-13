@@ -1,90 +1,21 @@
 ---
 title: "Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)"
 identifier: "BWBV0004033"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-07-01"
-last_updated: "2013-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004033"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003834633"
-version_id: "10003906872"
-internal_id: "C10006990701"
-label_id: "10003822134"
-dtd_version: "2.0"
-original_entry_into_force: "1958-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004033/2013-07-01/0"
-intitule_bron: "Trb.1957-92"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-07-12"
-intitule_in_force: "1957-12-27"
-intitule_status: "goed"
-original_publication: "Trb.1957-92"
-original_published_date: "1957-07-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-92"
-entry_into_force_date: "1958-01-01"
-jci_1_3: "jci1.3:c:BWBV0004033&z=2013-07-01&g=2013-07-01"
-jci_1_0: "1.0:c:BWBV0004033&g=2013-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-01-01"
+publicatiedatum: 1958-01-01
+laatste_update: 2013-07-01
+status: geldig
+toestand: 2013-07-01
+bron: "https://wetten.overheid.nl/BWBV0004033"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)
 
-Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden,
+*Zijne Majesteit de Koning der Belgen, de President van de Bondsrepubliek Duitsland, de President van de Franse Republiek, de President van de Italiaanse Republiek, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Beseffende, dat de kernenergie de voornaamste hulpbron vormt welke de ontwikkeling en de vernieuwing van de produktie zal verzekeren en de vooruitgang van de werken des vredes mogelijk zal maken, Overtuigd, dat alleen een onverwijlde gemeenschappelijke inspanning de belofte inhoudt van een verwezenlijking die beantwoordt aan het scheppingsvermogen van hun landen, Vastbesloten, de voorwaarden te scheppen tot ontwikkeling van een krachtige industrie op het gebied van de kernenergie als bron van ruime energievoorraden en van een modernisering der techniek, alsook van talrijke andere toepassingen welke zullen bijdragen tot het welzijn van hun volkeren, Verlangende, veiligheidsvoorwaarden te scheppen, waardoor de gevaren voor het leven en de gezondheid van de bevolking worden afgewend, Geleid door de wens, andere landen te betrekken in hun arbeid en samen te werken met de internationale organisaties die zich toeleggen op de vreedzame ontwikkeling van de atoomenergie, Hebben besloten een Europese Gemeenschap voor Atoomenergie (Euratom) op te richten, en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de Heer PAUL-HENRI SPAAK, Minister van Buitenlandse Zaken; J.CH. BARON SNOY ET D’OPPUERS, Secretaris-Generaal van het Ministerie van Economische Zaken, Voorzitter van de Belgische delegatie bij de Intergouvernementele Conferentie. De President van de Bondsrepubliek Duitsland: Dr. KONRAD ADENAUER, Bondskanselier; Prof. Dr. WALTER HALLSTEIN, Staatssecretaris van Buitenlandse Zaken. De President van de Franse Republiek: de Heer CHRISTIAN PINEAU, Minister van Buitenlandse Zaken; de Heer MAURICE FAURE, Staatssecretaris van Buitenlandse Zaken. De President van de Italiaanse Republiek: de Heer ANTONIO SEGNI, Voorzitter van de Raad van Ministers; Prof. GAETANO MARTINO, Minister van Buitenlandse Zaken. Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: de Heer JOSEPH BECH, Minister-President, Minister van Buitenlandse Zaken; de Heer LAMBERT SCHAUS, Ambassadeur, Voorzitter van de Luxemburgse delegatie bij de Intergouvernementele Conferentie. Hare Majesteit de Koningin der Nederlanden: de Heer JOSEPH LUNS, Minister van Buitenlandse Zaken; de Heer J. LINTHORST HOMAN, Voorzitter van de Nederlandse delegatie bij de Intergouvernementele Conferentie; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:*
 
-Beseffende, dat de kernenergie de voornaamste hulpbron vormt welke de ontwikkeling en de vernieuwing van de produktie zal verzekeren en de vooruitgang van de werken des vredes mogelijk zal maken,
-
-Overtuigd, dat alleen een onverwijlde gemeenschappelijke inspanning de belofte inhoudt van een verwezenlijking die beantwoordt aan het scheppingsvermogen van hun landen,
-
-Vastbesloten, de voorwaarden te scheppen tot ontwikkeling van een krachtige industrie op het gebied van de kernenergie als bron van ruime energievoorraden en van een modernisering der techniek, alsook van talrijke andere toepassingen welke zullen bijdragen tot het welzijn van hun volkeren,
-
-Verlangende, veiligheidsvoorwaarden te scheppen, waardoor de gevaren voor het leven en de gezondheid van de bevolking worden afgewend,
-
-Geleid door de wens, andere landen te betrekken in hun arbeid en samen te werken met de internationale organisaties die zich toeleggen op de vreedzame ontwikkeling van de atoomenergie,
-
-Hebben besloten een Europese Gemeenschap voor Atoomenergie (Euratom) op te richten, en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-**Zijne Majesteit de Koning der Belgen:**
-
-de Heer PAUL-HENRI SPAAK, Minister van Buitenlandse Zaken;
-
-J.CH. BARON SNOY ET D’OPPUERS, Secretaris-Generaal van het Ministerie van Economische Zaken, Voorzitter van de Belgische delegatie bij de Intergouvernementele Conferentie.
-
-**De President van de Bondsrepubliek Duitsland:**
-
-Dr. KONRAD ADENAUER, Bondskanselier;
-
-Prof. Dr. WALTER HALLSTEIN, Staatssecretaris van Buitenlandse Zaken.
-
-**De President van de Franse Republiek:**
-
-de Heer CHRISTIAN PINEAU, Minister van Buitenlandse Zaken;
-
-de Heer MAURICE FAURE, Staatssecretaris van Buitenlandse Zaken.
-
-**De President van de Italiaanse Republiek:**
-
-de Heer ANTONIO SEGNI, Voorzitter van de Raad van Ministers;
-
-Prof. GAETANO MARTINO, Minister van Buitenlandse Zaken.
-
-**Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:**
-
-de Heer JOSEPH BECH, Minister-President, Minister van Buitenlandse Zaken;
-
-de Heer LAMBERT SCHAUS, Ambassadeur, Voorzitter van de Luxemburgse delegatie bij de Intergouvernementele Conferentie.
-
-**Hare Majesteit de Koningin der Nederlanden:**
-
-de Heer JOSEPH LUNS, Minister van Buitenlandse Zaken;
-
-de Heer J. LINTHORST HOMAN, Voorzitter van de Nederlandse delegatie bij de Intergouvernementele Conferentie;
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:
-
-## TITEL EERSTE. TAKEN VAN DE GEMEENSCHAP
+### TITEL EERSTE. TAKEN VAN DE GEMEENSCHAP
 
 ##### Artikel 1
 
@@ -96,27 +27,27 @@ De Gemeenschap heeft tot taak, door het scheppen van de voorwaarden noodzakelijk
 
 Voor de vervulling van haar taak moet de Gemeenschap onder de in dit Verdrag bepaalde voorwaarden:
 
-- a). het onderzoek ontwikkelen en zorgen voor de verspreiding van technische kennis,
+- a) het onderzoek ontwikkelen en zorgen voor de verspreiding van technische kennis,
 
-- b). uniforme veiligheidsnormen vaststellen voor de gezondheidsbescherming van de bevolking en de werknemers en ervoor waken dat deze worden toegepast,
+- b) uniforme veiligheidsnormen vaststellen voor de gezondheidsbescherming van de bevolking en de werknemers en ervoor waken dat deze worden toegepast,
 
-- c). de investeringen vergemakkelijken en, met name door aanmoediging van het initiatief van de ondernemingen, zorgen voor de verwezenlijking van de fundamentele installaties die noodzakelijk zijn voor de ontwikkeling van de kernenergie in de Gemeenschap,
+- c) de investeringen vergemakkelijken en, met name door aanmoediging van het initiatief van de ondernemingen, zorgen voor de verwezenlijking van de fundamentele installaties die noodzakelijk zijn voor de ontwikkeling van de kernenergie in de Gemeenschap,
 
-- d). waken voor een regelmatige en billijke erts- en splijtstofvoorziening van alle gebruikers in de Gemeenschap,
+- d) waken voor een regelmatige en billijke erts- en splijtstofvoorziening van alle gebruikers in de Gemeenschap,
 
-- e). door passende controle waarborgen, dat de kernmaterialen niet voor andere doeleinden worden aangewend dan waarvoor zij bestemd zijn,
+- e) door passende controle waarborgen, dat de kernmaterialen niet voor andere doeleinden worden aangewend dan waarvoor zij bestemd zijn,
 
-- f). het eigendomsrecht uitoefenen dat haar wordt toegekend op de bijzondere splijtstoffen,
+- f) het eigendomsrecht uitoefenen dat haar wordt toegekend op de bijzondere splijtstoffen,
 
-- g). zorgen voor ruime afzetmogelijkheden en voor de beschikking over de beste technische middelen door het instellen van een gemeenschappelijke markt voor speciale goederen en uitrusting, door het vrije kapitaalverkeer voor investeringen op het gebied van de kernenergie en door vrije werkgelegenheid voor specialisten binnen de Gemeenschap,
+- g) zorgen voor ruime afzetmogelijkheden en voor de beschikking over de beste technische middelen door het instellen van een gemeenschappelijke markt voor speciale goederen en uitrusting, door het vrije kapitaalverkeer voor investeringen op het gebied van de kernenergie en door vrije werkgelegenheid voor specialisten binnen de Gemeenschap,
 
-- h). met andere landen en met internationale organisaties alle betrekkingen tot stand brengen, welke de vooruitgang in het vreedzame gebruik van de kernenergie kunnen bevorderen.
+- h) met andere landen en met internationale organisaties alle betrekkingen tot stand brengen, welke de vooruitgang in het vreedzame gebruik van de kernenergie kunnen bevorderen.
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
-## TITEL TWEEDE. BEPALINGEN TER BEVORDERING VAN DE VOORUITGANG OP HET GEBIED VAN DE KERNENERGIE
+### TITEL TWEEDE. BEPALINGEN TER BEVORDERING VAN DE VOORUITGANG OP HET GEBIED VAN DE KERNENERGIE
 
 ### HOOFDSTUK I. Ontwikkeling van het onderzoek
 
@@ -144,13 +75,13 @@ Ten einde te geraken tot wederzijds overleg en tot uitwisseling van inlichtingen
 
 Ter bevordering van de uitvoering van de haar medegedeelde onderzoekprogramma’s kan de Commissie:
 
-- a). in het raam van onderzoekcontracten financiële bijstand verlenen met uitsluiting van subsidies;
+- a) in het raam van onderzoekcontracten financiële bijstand verlenen met uitsluiting van subsidies;
 
-- b). al of niet tegen vergoeding de voor de uitvoering van deze programma’s nodige grondstoffen of bijzondere splijtstoffen, waarover zij beschikt, verstrekken;
+- b) al of niet tegen vergoeding de voor de uitvoering van deze programma’s nodige grondstoffen of bijzondere splijtstoffen, waarover zij beschikt, verstrekken;
 
-- c). al of niet tegen vergoeding installaties, uitrustingen of bijstand van deskundigen ter beschikking stellen van de Lid-Staten, personen of ondernemingen;
+- c) al of niet tegen vergoeding installaties, uitrustingen of bijstand van deskundigen ter beschikking stellen van de Lid-Staten, personen of ondernemingen;
 
-- d). een gemeenschappelijke financiering door de betrokken Lid-Staten, personen of ondernemingen bewerkstelligen.
+- d) een gemeenschappelijke financiering door de betrokken Lid-Staten, personen of ondernemingen bewerkstelligen.
 
 ##### Artikel 7
 
@@ -194,7 +125,7 @@ De Commissie publiceert de in de artikelen 7, 8 en 10 bedoelde onderzoekprogramm
 
 ### HOOFDSTUK II. Verspreiding van kennis
 
-### Afdeling I. - Kennis waarover de Gemeenschap beschikt
+#### Afdeling I. - Kennis waarover de Gemeenschap beschikt
 
 ##### Artikel 12
 
@@ -214,7 +145,7 @@ De Commissie kan echter aan mededeling van deze kennis de voorwaarden verbinden,
 
 De Commissie kan kennis welke zij heeft verkregen onder beperkende voorwaarden ten aanzien van het gebruik en de verspreiding daarvan - zoals de zogenaamde geclassificeerde kennis - slechts mededelen indien zij de naleving van die voorwaarden waarborgt.
 
-### Afdeling II. - Andere kennis
+#### Afdeling II. - Andere kennis
 
 #### a). Verspreiding langs minnelijke weg
 
@@ -260,17 +191,17 @@ Op verzoek van de Commissie wordt haar de inhoud daarvan binnen twee maanden med
 
 1. Bij gebreke van een minnelijke schikking kunnen niet-uitsluitende licenties worden verleend bij wege van arbitrage of ambtshalve, volgens de bepalingen van de artikelen 18 tot en met 23:
 
-- a). aan de Gemeenschap of aan de Gemeenschappelijke Ondernemingen waaraan dit recht krachtens artikel 48 is toegekend op de octrooien, op de voorlopig bescherminggevende rechten of op de gebruiksmodellen, betreffende uitvindingen welke rechtstreeks verband houden met onderzoekingen op het gebied van de kernenergie, voor zover het verlenen van die licenties noodzakelijk is voor het uitvoeren van hun eigen onderzoekingen of onontbeerlijk is voor het functioneren van hun installaties. Op verzoek van de Commissie houden deze licenties de bevoegdheid in, derden te machtigen de uitvinding toe te passen voor zover zij werkzaamheden of bestellingen uitvoeren voor rekening van de Gemeenschap of van de Gemeenschappelijke Ondernemingen;
+- a) aan de Gemeenschap of aan de Gemeenschappelijke Ondernemingen waaraan dit recht krachtens artikel 48 is toegekend op de octrooien, op de voorlopig bescherminggevende rechten of op de gebruiksmodellen, betreffende uitvindingen welke rechtstreeks verband houden met onderzoekingen op het gebied van de kernenergie, voor zover het verlenen van die licenties noodzakelijk is voor het uitvoeren van hun eigen onderzoekingen of onontbeerlijk is voor het functioneren van hun installaties. Op verzoek van de Commissie houden deze licenties de bevoegdheid in, derden te machtigen de uitvinding toe te passen voor zover zij werkzaamheden of bestellingen uitvoeren voor rekening van de Gemeenschap of van de Gemeenschappelijke Ondernemingen;
 
-- b). aan personen of ondernemingen, die daartoe een verzoek hebben gericht tot de Commissie, op octrooien, op voorlopig bescherminggevende rechten of op gebruiksmodellen, betreffende een uitvinding welke rechtstreeks verband houdt met en van overwegend belang is voor de ontwikkeling van de kernenergie binnen de Gemeenschap, voor zover aan alle hieronder volgende voorwaarden is voldaan:
+- b) aan personen of ondernemingen, die daartoe een verzoek hebben gericht tot de Commissie, op octrooien, op voorlopig bescherminggevende rechten of op gebruiksmodellen, betreffende een uitvinding welke rechtstreeks verband houdt met en van overwegend belang is voor de ontwikkeling van de kernenergie binnen de Gemeenschap, voor zover aan alle hieronder volgende voorwaarden is voldaan:
 
-- i). ten minste vier jaren zijn verlopen sedert de indiening van de aanvrage om octrooi, behoudens wanneer het een uitvinding betreft, welke betrekking heeft op een onderwerp, dat binnen het specifiek kernenergetische terrein valt;
+   - i) ten minste vier jaren zijn verlopen sedert de indiening van de aanvrage om octrooi, behoudens wanneer het een uitvinding betreft, welke betrekking heeft op een onderwerp, dat binnen het specifiek kernenergetische terrein valt;
 
-- ii). in de behoeften, welke voortvloeien uit de ontwikkeling van de kernenergie binnen het grondgebied van een Lid-Staat, waar een uitvinding wordt beschermd, zoals de Commissie deze ontwikkeling opvat, niet wordt voorzien voor wat deze uitvinding betreft;
+   - ii) in de behoeften, welke voortvloeien uit de ontwikkeling van de kernenergie binnen het grondgebied van een Lid-Staat, waar een uitvinding wordt beschermd, zoals de Commissie deze ontwikkeling opvat, niet wordt voorzien voor wat deze uitvinding betreft;
 
-- iii). een verzoek is gedaan aan de octrooihouder om zelf of door zijn licentiehouders in die behoeften te voorzien, doch door hem aan dat verzoek geen gevolg is gegeven;
+   - iii) een verzoek is gedaan aan de octrooihouder om zelf of door zijn licentiehouders in die behoeften te voorzien, doch door hem aan dat verzoek geen gevolg is gegeven;
 
-- iv). de gegadigde personen of ondernemingen in staat zijn daadwerkelijk door hun exploitatie in die behoeften te voorzien.
+   - iv) de gegadigde personen of ondernemingen in staat zijn daadwerkelijk door hun exploitatie in die behoeften te voorzien.
 
 Zonder voorafgaand verzoek van de Commissie kunnen de Lid-Staten, om in die zelfde behoeften te voorzien, geen enkele in hun nationale wetgeving opgenomen dwangmaatregel nemen, die beperking van de bescherming van de uitvinding tot gevolg heeft.
 
@@ -328,7 +259,7 @@ De beslissingen van de Arbitrage-Commissie of van de bevoegde nationale instanti
 
 De herziening dient te geschieden door de instantie waarvan de beslissing uitgaat.
 
-### Afdeling III. - Bepalingen betreffende de geheimhouding
+#### Afdeling III. - Bepalingen betreffende de geheimhouding
 
 ##### Artikel 24
 
@@ -340,15 +271,15 @@ De kennis, welke de Gemeenschap dank zij de uitvoering van haar onderzoekprogram
 
 - 3. De bepalingen van de artikelen 12 en 13 zijn niet van toepassing op de kennis die aan een stelsel van geheimhouding is onderworpen. Echter, onder voorbehoud dat de toepasselijke beveiligingsmaatregelen in acht genomen worden,
 
-- a). kan de in de artikelen 12 en 13 bedoelde kennis door de Commissie worden medegedeeld:
+   - a) kan de in de artikelen 12 en 13 bedoelde kennis door de Commissie worden medegedeeld:
 
-- i). aan een Gemeenschappelijke Onderneming,
+      - i) aan een Gemeenschappelijke Onderneming,
 
-- ii). aan een persoon of een andere dan een Gemeenschappelijke Onderneming door bemiddeling van de Lid-Staat op welks grondgebied zij werkzaam zijn;
+      - ii) aan een persoon of een andere dan een Gemeenschappelijke Onderneming door bemiddeling van de Lid-Staat op welks grondgebied zij werkzaam zijn;
 
-- b). kan de in artikel 13 bedoelde kennis door een Lid-Staat worden medegedeeld aan een persoon of aan een andere dan een Gemeenschappelijke Onderneming, die werkzaam is op het grondgebied van die Staat, onder voorbehoud dat van deze mededeling aan de Commissie kennis wordt gegeven;
+   - b) kan de in artikel 13 bedoelde kennis door een Lid-Staat worden medegedeeld aan een persoon of aan een andere dan een Gemeenschappelijke Onderneming, die werkzaam is op het grondgebied van die Staat, onder voorbehoud dat van deze mededeling aan de Commissie kennis wordt gegeven;
 
-- c). heeft elke Lid-Staat bovendien het recht, van de Commissie de verlening van een licentie overeenkomstig artikel 12 te eisen, voor zijn eigen behoeften of voor die van een persoon of onderneming, welke werkzaam zijn op het grondgebied van deze Staat.
+   - c) heeft elke Lid-Staat bovendien het recht, van de Commissie de verlening van een licentie overeenkomstig artikel 12 te eisen, voor zijn eigen behoeften of voor die van een persoon of onderneming, welke werkzaam zijn op het grondgebied van deze Staat.
 
 ##### Artikel 25
 
@@ -382,7 +313,7 @@ Wanneer meer Staten hetzij de verzwaring of de verlenging van de geheimhouding, 
 
 De Gemeenschap kan uit hoofde van dit artikel geen aanspraak maken op enige vergoeding.
 
-### Afdeling IV. - Bijzondere bepalingen
+#### Afdeling IV. - Bijzondere bepalingen
 
 ##### Artikel 28
 
@@ -404,11 +335,11 @@ Voor de bescherming van de gezondheid der bevolking en der werknemers tegen de a
 
 Onder basisnormen wordt verstaan:
 
-- a). de met voldoende veiligheid maximaal toelaatbare doses,
+- a) de met voldoende veiligheid maximaal toelaatbare doses,
 
-- b). de maximaal toelaatbare bestraling en besmetting,
+- b) de maximaal toelaatbare bestraling en besmetting,
 
-- c). de grondbeginselen van het medisch toezicht op de werknemers.
+- c) de grondbeginselen van het medisch toezicht op de werknemers.
 
 ##### Artikel 31
 
@@ -514,17 +445,17 @@ Hiertoe wint de Commissie het advies in van de Lid-Staten alsmede van elk openba
 
 Indien zij een gunstig advies uitbrengt over de noodzakelijkheid van de beoogde Gemeenschappelijke Onderneming, doet de Commissie aan de Raad voorstellen betreffende:
 
-- a). de vestigingsplaats,
+- a) de vestigingsplaats,
 
-- b). de statuten,
+- b) de statuten,
 
-- c). de omvang en het ritme van de financiering,
+- c) de omvang en het ritme van de financiering,
 
-- d). de eventuele deelneming van de Gemeenschap aan de financiering van de Gemeenschappelijke Onderneming,
+- d) de eventuele deelneming van de Gemeenschap aan de financiering van de Gemeenschappelijke Onderneming,
 
-- e). de eventuele deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming,
+- e) de eventuele deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming,
 
-- f). de toekenning van alle of van een gedeelte der in bijlage III van dit Verdrag genoemde gunsten.
+- f) de toekenning van alle of van een gedeelte der in bijlage III van dit Verdrag genoemde gunsten.
 
 Zij voegt daaraan een uitvoerig rapport toe over het gehele project.
 
@@ -538,9 +469,9 @@ Bij gunstig advies van.de Commissie of in het in de voorgaande alinea bedoelde g
 
 De Raad beslist echter met eenparigheid van stemmen over:
 
-- a). de deelneming van de Gemeenschap aan de financiering van de Gemeenschappelijke Onderneming,
+- a) de deelneming van de Gemeenschap aan de financiering van de Gemeenschappelijke Onderneming,
 
-- b). de deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming.
+- b) de deelneming van een derde Staat, een internationale organisatie of een onderdaan van een derde Staat aan de financiering of aan het beheer van de Gemeenschappelijke Onderneming.
 
 ##### Artikel 48
 
@@ -578,13 +509,13 @@ De Commissie zorgt voor de uitvoering van alle besluiten van de Raad betreffende
 
 2. Te dien einde, en volgens de bepalingen van dit hoofdstuk,
 
-- a). is elke handelwijze, welke beoogt aan bepaalde gebruikers een bevoorrechte positie te verschaffen, verboden;
+- a) is elke handelwijze, welke beoogt aan bepaalde gebruikers een bevoorrechte positie te verschaffen, verboden;
 
-- b). wordt een Agentschap opgericht, dat een optierecht heeft op ertsen, grondstoffen en bijzondere splijtstoffen, voortgebracht op het grondgebied van de Lid-Staten, alsmede het uitsluitend recht heeft om contracten te sluiten voor de levering van ertsen, grondstoffen of bijzondere splijtstoffen, herkomstig uit landen binnen of buiten de Gemeenschap.
+- b) wordt een Agentschap opgericht, dat een optierecht heeft op ertsen, grondstoffen en bijzondere splijtstoffen, voortgebracht op het grondgebied van de Lid-Staten, alsmede het uitsluitend recht heeft om contracten te sluiten voor de levering van ertsen, grondstoffen of bijzondere splijtstoffen, herkomstig uit landen binnen of buiten de Gemeenschap.
 
 Het Agentschap mag tussen de gebruikers niet discrimineren op grond van het gebruik dat zij van de gevraagde leveranties wensen te maken, tenzij dit gebruik ongeoorloofd is of indruist tegen de voorwaarden, welke de niet tot de Gemeenschap behorende leveranciers aan de betrokken leverantie hebben verbonden.
 
-### Afdeling I. - Het Agentschap
+#### Afdeling I. - Het Agentschap
 
 ##### Artikel 53
 
@@ -614,15 +545,15 @@ De Lid-Staten waarborgen de vrije uitoefening van de functies van het Agentschap
 
 Zij kunnen een orgaan of organen oprichten, die bevoegd zijn, om de producenten en de gebruikers in de niet-Europese gebieden, welke onder hun rechtsmacht vallen, te vertegenwoordigen in de betrekkingen met het Agentschap.
 
-### Afdeling II. Ertsen, grondstoffen en bijzondere splijtstoffen herkomstig uit de Gemeenschap
+#### Afdeling II. Ertsen, grondstoffen en bijzondere splijtstoffen herkomstig uit de Gemeenschap
 
 ##### Artikel 57
 
 1. Het optierecht van het Agentschap geldt:
 
-- a). voor de verkrijging van het gebruiks- en verbruiksrecht ten aanzien van materialen die krachtens de bepalingen van hoofdstuk VIII aan de Gemeenschap in eigendom toebehoren;
+- a) voor de verkrijging van het gebruiks- en verbruiksrecht ten aanzien van materialen die krachtens de bepalingen van hoofdstuk VIII aan de Gemeenschap in eigendom toebehoren;
 
-- b). voor de verkrijging van het eigendomsrecht in alle andere gevallen.
+- b) voor de verkrijging van het eigendomsrecht in alle andere gevallen.
 
 2. Het Agentschap oefent zijn optierecht uit door het sluiten van contracten met de producenten van ertsen, grondstoffen of bijzondere splijtstoffen.
 
@@ -638,9 +569,9 @@ Hetzelfde geldt voor verschillende ondernemingen, waartussen bindingen bestaan, 
 
 Wanneer het Agentschap zijn optierecht niet uitoefent ten aanzien van de gehele produktie of een gedeelte daarvan:
 
-- a). kan de producent hetzij met eigen middelen, hetzij door middel van contracten voor loonveredeling, de ertsen, grondstoffen of bijzondere splijtstoffen verwerken, onder voorbehoud dat hij het Agentschap het produkt van deze verwerking aanbiedt,
+- a) kan de producent hetzij met eigen middelen, hetzij door middel van contracten voor loonveredeling, de ertsen, grondstoffen of bijzondere splijtstoffen verwerken, onder voorbehoud dat hij het Agentschap het produkt van deze verwerking aanbiedt,
 
-- b). wordt de producent bij besluit van de Commissie toestemming verleend om de beschikbare produktie buiten de Gemeenschap te verkopen onder voorbehoud dat geen gunstiger voorwaarden worden bedongen dan bij het eerder gedane aanbod aan het Agentschap. De uitvoer van bijzondere splijtstoffen kan echter slechts door het Agentschap geschieden overeenkomstig de bepalingen van artikel 62.
+- b) wordt de producent bij besluit van de Commissie toestemming verleend om de beschikbare produktie buiten de Gemeenschap te verkopen onder voorbehoud dat geen gunstiger voorwaarden worden bedongen dan bij het eerder gedane aanbod aan het Agentschap. De uitvoer van bijzondere splijtstoffen kan echter slechts door het Agentschap geschieden overeenkomstig de bepalingen van artikel 62.
 
 De Commissie mag haar toestemming niet verlenen, indien de ontvangers van deze leveranties niet alle waarborgen bieden dat de algemene belangen van de Gemeenschap zullen worden geëerbiedigd of indien de bepalingen en voorwaarden van deze contracten in strijd zijn met de doelstellingen van dit Verdrag.
 
@@ -668,27 +599,27 @@ Het Agentschap kan, met inachtneming van de voorschriften van artikel 52, bij he
 
 1. Het Agentschap oefent zijn optierecht uit op de bijzondere splijtstoffen welke op het grondgebied van de Lid-Staten worden voortgebracht,
 
-- a). hetzij om aan de aanvragen van de verbruikers in de Gemeenschap onder de in artikel 60 bepaalde voorwaarden te voldoen,
+- a) hetzij om aan de aanvragen van de verbruikers in de Gemeenschap onder de in artikel 60 bepaalde voorwaarden te voldoen,
 
-- b). hetzij om deze stoffen zelf op te slaan,
+- b) hetzij om deze stoffen zelf op te slaan,
 
-- c). hetzij om deze stoffen uit te voeren met toestemming van de Commissie, die zich houdt aan de bepalingen van artikel 59 **b** ), tweede alinea.
+- c) hetzij om deze stoffen uit te voeren met toestemming van de Commissie, die zich houdt aan de bepalingen van artikel 59 *b* ), tweede alinea.
 
 2. Onverminderd de toepassing van de bepalingen van hoofdstuk VII worden deze stoffen en de bij de produktie overgebleven kweekstoffen echter ter beschikking gelaten van de producent,
 
-- a). hetzij om opgeslagen te worden met machtiging van het Agentschap,
+- a) hetzij om opgeslagen te worden met machtiging van het Agentschap,
 
-- b). hetzij om binnen de grenzen van zijn eigen behoeften te worden gebruikt,
+- b) hetzij om binnen de grenzen van zijn eigen behoeften te worden gebruikt,
 
-- c). hetzij om binnen de grenzen van hun behoeften ter beschikking te worden gesteld van ondernemingen binnen de Gemeenschap, welke met die producent, voor de uitvoering van een tijdig aan de Commissie medegedeeld programma, rechtstreekse bindingen hebben, welke noch ertoe strekken, noch ten gevolge hebben dat de produktie, de technische ontwikkeling of de investeringen worden beperkt, of wederrechtelijk een ongelijkheid tussen de gebruikers van de Gemeenschap wordt teweeggebracht.
+- c) hetzij om binnen de grenzen van hun behoeften ter beschikking te worden gesteld van ondernemingen binnen de Gemeenschap, welke met die producent, voor de uitvoering van een tijdig aan de Commissie medegedeeld programma, rechtstreekse bindingen hebben, welke noch ertoe strekken, noch ten gevolge hebben dat de produktie, de technische ontwikkeling of de investeringen worden beperkt, of wederrechtelijk een ongelijkheid tussen de gebruikers van de Gemeenschap wordt teweeggebracht.
 
-3. De bepalingen van artikel 89 lid 1**a** ) zijn van toepassing op bijzondere splijtstoffen, welke op het grondgebied van de Lid-Staten zijn voortgebracht en waarop het Agentschap zijn optierecht niet heeft uitgeoefend.
+3. De bepalingen van artikel 89 lid 1*a* ) zijn van toepassing op bijzondere splijtstoffen, welke op het grondgebied van de Lid-Staten zijn voortgebracht en waarop het Agentschap zijn optierecht niet heeft uitgeoefend.
 
 ##### Artikel 63
 
 De ertsen, grondstoffen of bijzondere splijtstoffen, voortgebracht door de Gemeenschappelijke Ondernemingen, worden aan de gebruikers toegewezen volgens de regels, vastgesteld in de statuten of overeenkomsten welke voor deze Ondernemingen gelden.
 
-### Afdeling III. Ertsen, grondstoffen en bijzondere splijtstoffen niet uit de Gemeenschap herkomstig
+#### Afdeling III. Ertsen, grondstoffen en bijzondere splijtstoffen niet uit de Gemeenschap herkomstig
 
 ##### Artikel 64
 
@@ -708,7 +639,7 @@ Dit recht wordt verleend voor de duur van één jaar, welke kan worden verlengd 
 
 De gebruikers die van het in dit artikel bedoelde recht gebruik maken, zijn gehouden de voorgenomen rechtstreekse contracten aan de Commissie mede te delen. Deze kan zich binnen een maand tegen het afsluiten daarvan verzetten, indien zij in strijd zijn met de doelstellingen van dit Verdrag.
 
-### Afdeling IV. - Prijzen
+#### Afdeling IV. - Prijzen
 
 ##### Artikel 67
 
@@ -728,7 +659,7 @@ De Raad kan met eenparigheid van stemmen op voorstel van de Commissie prijzen va
 
 Wanneer het Agentschap met toepassing van artikel 60 de voorwaarden vaststelt, waaronder aan de bestellingen kan worden voldaan, kan het aan de gebruikers, die een bestelling hebben gedaan, een prijsverevening voorstellen.
 
-### Afdeling V. - Bepalingen betreffende het voorzieningsbeleid
+#### Afdeling V. - Bepalingen betreffende het voorzieningsbeleid
 
 ##### Artikel 70
 
@@ -750,7 +681,7 @@ Het Agentschap kan uit de binnen en buiten de Gemeenschap beschikbare hoeveelhed
 
 De Commissie kan eventueel tot het aanleggen van veiligheidsvoorraden besluiten. De wijze van financiering van deze voorraden wordt op voorstel van de Commissie door de Raad met gekwalificeerde meerderheid van stemmen goedgekeurd.
 
-### Afdeling VI. - Bijzondere bepalingen
+#### Afdeling VI. - Bijzondere bepalingen
 
 ##### Artikel 73
 
@@ -766,15 +697,15 @@ Van iedere overdracht, invoer of uitvoer, welke geschiedt krachtens deze bepalin
 
 De bepalingen van dit hoofdstuk zijn niet van toepassing op de verbintenissen tot het behandelen, bewerken of verwerken van ertsen, grondstoffen of bijzondere splijtstoffen
 
-- a). aangegaan tussen verschillende personen of ondernemingen, indien de behandelde, bewerkte of verwerkte materialen moeten terugkeren naar de oorspronkelijke persoon of onderneming,
+- a) aangegaan tussen verschillende personen of ondernemingen, indien de behandelde, bewerkte of verwerkte materialen moeten terugkeren naar de oorspronkelijke persoon of onderneming,
 
-- b). aangegaan tussen een persoon of onderneming en een internationale organisatie of een onderdaan van een derde Staat, indien de materialen worden behandeld, bewerkt of verwerkt buiten de Gemeenschap en terugkeren naar de oorspronkelijke persoon of onderneming,
+- b) aangegaan tussen een persoon of onderneming en een internationale organisatie of een onderdaan van een derde Staat, indien de materialen worden behandeld, bewerkt of verwerkt buiten de Gemeenschap en terugkeren naar de oorspronkelijke persoon of onderneming,
 
-- c). aangegaan tussen een persoon of onderneming en een internationale organisatie of een onderdaan van een derde Staat, wanneer de materialen worden behandeld, bewerkt of verwerkt binnen de Gemeenschap en terugkeren, hetzij naar de oorspronkelijke organisatie of onderdaan, hetzij naar een andere door deze organisatie of onderdaan aangewezen geadresseerde eveneens buiten de Gemeenschap.
+- c) aangegaan tussen een persoon of onderneming en een internationale organisatie of een onderdaan van een derde Staat, wanneer de materialen worden behandeld, bewerkt of verwerkt binnen de Gemeenschap en terugkeren, hetzij naar de oorspronkelijke organisatie of onderdaan, hetzij naar een andere door deze organisatie of onderdaan aangewezen geadresseerde eveneens buiten de Gemeenschap.
 
-De betrokken personen of ondernemingen moeten echter aan het Agentschap kennis geven van het bestaan van dergelijke verbintenissen en, zodra de contracten zijn ondertekend, van de hoeveelheden materiaal welke daarmede gemoeid zijn. De Commissie kan zich verzetten tegen de onder **b)** vermelde verbintenissen, indien zij meent dat de bewerking of verwerking niet doeltreffend, veilig en zonder verlies aan materialen ten nadele van de Gemeenschap kan geschieden.
+De betrokken personen of ondernemingen moeten echter aan het Agentschap kennis geven van het bestaan van dergelijke verbintenissen en, zodra de contracten zijn ondertekend, van de hoeveelheden materiaal welke daarmede gemoeid zijn. De Commissie kan zich verzetten tegen de onder *b)* vermelde verbintenissen, indien zij meent dat de bewerking of verwerking niet doeltreffend, veilig en zonder verlies aan materialen ten nadele van de Gemeenschap kan geschieden.
 
-De materialen, waarvoor deze verbintenissen zijn aangegaan, worden op het grondgebied van de Lid-Staten aan de in hoofdstuk VII bepaalde controlemaatregelen onderworpen. De bepalingen van hoofdstuk VIII zijn echter niet van toepassing op de bijzondere splijtstoffen waarvoor de onder **c)** bedoelde verbintenissen zijn aangegaan.
+De materialen, waarvoor deze verbintenissen zijn aangegaan, worden op het grondgebied van de Lid-Staten aan de in hoofdstuk VII bepaalde controlemaatregelen onderworpen. De bepalingen van hoofdstuk VIII zijn echter niet van toepassing op de bijzondere splijtstoffen waarvoor de onder *c)* bedoelde verbintenissen zijn aangegaan.
 
 ##### Artikel 76
 
@@ -788,9 +719,9 @@ Na verloop van zeven jaar na 1 januari 1958 kan de Raad deze bepalingen in hun g
 
 Overeenkomstig de bepalingen van dit hoofdstuk moet de Commissie zich ervan vergewissen of op het grondgebied van de Lid-Staten
 
-- a). de ertsen, grondstoffen en bijzondere splijtstoffen niet voor andere doeleinden worden aangewend dan waarvoor de gebruikers verklaard hebben ze te bestemmen,
+- a) de ertsen, grondstoffen en bijzondere splijtstoffen niet voor andere doeleinden worden aangewend dan waarvoor de gebruikers verklaard hebben ze te bestemmen,
 
-- b). de bepalingen met betrekking tot de voorziening en elke bijzondere verbintenis betreffende controle, die de Gemeenschap heeft aangegaan in een akkoord met een derde Staat of een internationale organisatie, worden nageleefd.
+- b) de bepalingen met betrekking tot de voorziening en elke bijzondere verbintenis betreffende controle, die de Gemeenschap heeft aangegaan in een akkoord met een derde Staat of een internationale organisatie, worden nageleefd.
 
 ##### Artikel 78
 
@@ -840,13 +771,13 @@ Indien de lidstaat zich binnen de gestelde termijn niet aan deze richtlijn van d
 
 Deze sancties zijn, naar hun gewicht gerangschikt, de volgende:
 
-- a). de waarschuwing,
+- a) de waarschuwing,
 
-- b). het intrekken van bijzondere voordelen, zoals financiële bijstand of technische hulp,
+- b) het intrekken van bijzondere voordelen, zoals financiële bijstand of technische hulp,
 
-- c). het stellen van de onderneming, voor een tijdsduur van ten hoogste vier maanden, onder het beheer van een persoon of groep van personen, daartoe aangewezen in onderlinge overeenstemming tussen de Commissie en de Staat waaronder de onderneming ressorteert,
+- c) het stellen van de onderneming, voor een tijdsduur van ten hoogste vier maanden, onder het beheer van een persoon of groep van personen, daartoe aangewezen in onderlinge overeenstemming tussen de Commissie en de Staat waaronder de onderneming ressorteert,
 
-- d). het geheel of gedeeltelijk intrekken van grondstoffen of van bijzondere splijtstoffen.
+- d) het geheel of gedeeltelijk intrekken van grondstoffen of van bijzondere splijtstoffen.
 
 2. De besluiten van de Commissie houdende verplichting tot levering welke zijn vastgesteld ter uitvoering van het voorgaande lid, vormen een executoriale titel. Zij kunnen op het grondgebied van de Lid-Staten ten uitvoer worden gelegd, onder de in artikel 164 vastgestelde voorwaarden.
 
@@ -890,9 +821,9 @@ Het Agentschap houdt namens de Gemeenschap een bijzondere administratie bij, gen
 
 1. In de financiële administratie van de bijzondere splijtstoffen
 
-- a). wordt in het credit van de Gemeenschap en in het debet van de begunstigde Lid-Staat, persoon of onderneming, de waarde geboekt van de bijzondere splijtstoffen die ter beschikking zijn gelaten of gesteld van die Staat, van die persoon of van die onderneming;
+- a) wordt in het credit van de Gemeenschap en in het debet van de begunstigde Lid-Staat, persoon of onderneming, de waarde geboekt van de bijzondere splijtstoffen die ter beschikking zijn gelaten of gesteld van die Staat, van die persoon of van die onderneming;
 
-- b). wordt in het debet van de Gemeenschap en in het credit van de leverende Lid-Staat, persoon of onderneming, de waarde geboekt van de door die Staat, persoon of onderneming voortgebrachte of ingevoerde bijzondere splijtstoffen die eigendom van de Gemeenschap worden. Een soortgelijke boeking wordt verricht wanneer een Lid-Staat, een persoon of een onderneming aan de Gemeenschap bijzondere splijtstoffen teruggeeft die voorheen ter beschikking van die Staat, persoon of onderneming waren gelaten of gesteld.
+- b) wordt in het debet van de Gemeenschap en in het credit van de leverende Lid-Staat, persoon of onderneming, de waarde geboekt van de door die Staat, persoon of onderneming voortgebrachte of ingevoerde bijzondere splijtstoffen die eigendom van de Gemeenschap worden. Een soortgelijke boeking wordt verricht wanneer een Lid-Staat, een persoon of een onderneming aan de Gemeenschap bijzondere splijtstoffen teruggeeft die voorheen ter beschikking van die Staat, persoon of onderneming waren gelaten of gesteld.
 
 2. De veranderingen, die zich in de waarde van de hoeveelheden bijzondere splijtstoffen voordoen, worden in de administratie op zodanige wijze weergegeven, dat deze geen aanleiding kunnen geven tot enigerlei verlies of winst voor de Gemeenschap. Eventuele winsten of verliezen komen ten bate of ten laste van de houders.
 
@@ -920,19 +851,19 @@ Deze lijsten kunnen op initiatief van de Commissie of van een Lid-Staat door de 
 
 De lidstaten verbieden onderling alle douanerechten op de in- en uitvoer, of heffingen van gelijke werking en elke kwantitatieve beperking van de in- en uitvoer:
 
-- a). voor de op de lijsten A1 en A2 voorkomende produkten,
+- a) voor de op de lijsten A1 en A2 voorkomende produkten,
 
-- b). voor de op lijst B voorkomende produkten, voor zover hiervoor een gemeenschappelijk douanetarief geldt en deze produkten worden begeleid door een door de Commissie afgegeven certificaat, waaruit blijkt dat zij bestemd zijn voor doeleinden op het gebied van de kernenergie.
+- b) voor de op lijst B voorkomende produkten, voor zover hiervoor een gemeenschappelijk douanetarief geldt en deze produkten worden begeleid door een door de Commissie afgegeven certificaat, waaruit blijkt dat zij bestemd zijn voor doeleinden op het gebied van de kernenergie.
 
 De niet-Europese grondgebieden, welke vallen onder de rechtsmacht van een Lid-Staat, kunnen echter in- en uitvoerrechten of heffingen van gelijke werking met een uitsluitend fiscaal karakter blijven heffen. De hoogte en de wijze van heffing dezer rechten en heffingen mogen geen discriminatie teweegbrengen tussen deze Staat en de overige Lid-Staten.
 
 ##### Artikel 94
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 95
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 96
 
@@ -956,7 +887,7 @@ De Commissie kan ter vergemakkelijking van het kapitaalverkeer, bestemd voor de 
 
 ##### Artikel 100
 
-Vervallen
+*Vervallen*
 
 ### HOOFDSTUK X. Betrekkingen met derden
 
@@ -1000,139 +931,149 @@ De Lid-Staten die vóór 1 januari 1958 of, voor de toetredende staten, vóór d
 
 Ieder nieuw akkoord dat uit deze onderhandelingen voortvloeit behoeft de toestemming van de Lid-Staat of Lid-Staten welke de bovenbedoelde akkoorden hebben ondertekend, alsook de goedkeuring van de Raad, die met gekwalificeerde meerderheid van stemmen besluit.
 
-## TITEL DERDE. Institutionele en financiële bepalingen
+### TITEL DERDE. Institutionele en financiële bepalingen
 
-### Hoofdstuk 1. Toepassing van het aantal bepalingen van het [verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)
+### Hoofdstuk 1. Toepassing van het aantal bepalingen van het verdrag betreffende de Europese Unie en het verdrag betreffende de werking van de Europese Unie
 
-### Afdeling I. - De Vergadering
+##### Artikel 106 bis
+
+1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=7), de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=13), [artikel 48, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), en de [artikelen 49 en 50 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=49), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=15), de [artikelen 223 tot en met 236](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=223), de [artikelen 237 tot en met 244](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=237), [artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=245), de [artikelen 246 tot en met 270](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=246), de [artikelen 272, 273 en 274](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=272), de [artikelen 277 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=277), de [artikelen 285 tot en met 304](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=285), de [artikelen 310 tot en met 320](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=310), de [artikelen 322 tot en met 325](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) en de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=336), [342](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=342) en [344 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=344), alsmede het Protocol betreffende de overgangsbepalingen, zijn van toepassing op dit Verdrag.
+
+2. In het kader van het onderhavige Verdrag moeten de verwijzingen naar de Unie, naar het „[Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507)”, naar het „[Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)” of naar de „Verdragen” in de bepalingen die in lid 1 genoemd worden of die opgenomen zijn in de protocollen gehecht aan die Verdragen of aan het onderhavige Verdrag, gelezen worden als verwijzingen naar de Europese Gemeenschap voor Atoomenergie en naar het onderhavige Verdrag.
+
+3. De bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) laten de bepalingen van het onderhavige Verdrag onverlet.
+
+### HOOFDSTUK II. De instellingen van de Gemeenschap
+
+#### Afdeling I. Het Europees Parlement
 
 ##### Artikel 107
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107 A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107 B
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107 C
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 107 D
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 108
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 109
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 110
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 111
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 112
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 113
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 114
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. - De Raad
+#### Afdeling II. - De Raad
 
 ##### Artikel 115
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 116
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 117
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 118
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 119
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 120
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 121
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 122
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 123
 
-Vervallen
+*Vervallen*
 
-### Afdeling III. - De Commissie
+#### Afdeling III. - De Commissie
 
 ##### Artikel 124
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 125
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 126
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 127
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 128
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 129
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 130
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 131
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 132
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 133
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 134
 
@@ -1150,55 +1091,55 @@ Het Wetenschappelijk en Technisch Comité wijst ieder jaar uit zijn leden zijn v
 
 De Commissie kan een ieder raadplegen en alle studiecomités instellen noodzakelijk voor de vervulling van haar taak.
 
-### Afdeling IV. - Het Hof van Justitie
+#### Afdeling IV. - Het Hof van Justitie van de Europese Unie
 
 ##### Artikel 136
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 137
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 138
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 139
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140 A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 140 B
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 141
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 142
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 143
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 144
 
 Het Hof van Justitie van de Europese Unie oefent volledige rechtsmacht uit ten aanzien van
 
-- a). het beroep, ingesteld op grond van artikel 12, om passende voorwaarden te doen vaststellen voor de verlening van licenties en sub-licenties door de Commissie;
+- a) het beroep, ingesteld op grond van artikel 12, om passende voorwaarden te doen vaststellen voor de verlening van licenties en sub-licenties door de Commissie;
 
-- b). het beroep, ingesteld door personen of ondernemingen tegen de sancties die hun zijn opgelegd door de Commissie op grond van artikel 83.
+- b) het beroep, ingesteld door personen of ondernemingen tegen de sancties die hun zijn opgelegd door de Commissie op grond van artikel 83.
 
 ##### Artikel 145
 
@@ -1208,47 +1149,47 @@ Indien de betrokken Staat op dit verzoek, binnen de door de Commissie gestelde t
 
 ##### Artikel 146
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 147
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 148
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 149
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 150
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 151
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 152
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 153
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 154
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 155
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 156
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 157
 
@@ -1256,43 +1197,43 @@ Voor zover in dit Verdrag niet anders wordt bepaald, heeft een bij het Hof van J
 
 ##### Artikel 158
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 159
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 160
 
-Vervallen
+*Vervallen*
 
-### Afdeling V. DE REKENKAMER
+#### Afdeling V. DE REKENKAMER
 
 ##### Artikel 160 A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 160 B
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 160 C
 
-Vervallen
+*Vervallen*
 
-### HOOFDSTUK II. Bepalingen welke verscheidene instellingen gemeen hebben
+### HOOFDSTUK III. Bepalingen welke verscheidene instellingen gemeen hebben
 
 ##### Artikel 161
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 162
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 163
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 164
 
@@ -1302,33 +1243,33 @@ Nadat de bedoelde formaliteiten op verzoek van de belanghebbende zijn vervuld, k
 
 De tenuitvoerlegging kan niet worden geschorst dan krachtens een beschikking van het Hof van Justitie van de Europese Unie. Evenwel behoort het toezicht op de regelmatigheid van de wijze van tenuitvoerlegging tot de bevoegdheid van de nationale rechterlijke instanties.
 
-### HOOFDSTUK III. Het Economisch en Sociaal Comité
+### HOOFDSTUK IV. Het Economisch en Sociaal Comité
 
 ##### Artikel 165
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 166
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 167
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 168
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 169
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 170
 
-Vervallen
+*Vervallen*
 
-## TITEL VIERDE. FINANCIËLE BEPALINGEN
+### TITEL VIERDE. Bijzondere financiële bepalingen
 
 ##### Artikel 171
 
@@ -1344,11 +1285,11 @@ De voorwaarden betreffende de raming, de uitvoering en de controle op deze ontva
 
 ##### Artikel 172
 
-1. Vervallen.
+1. *Vervallen.*
 
-2. Vervallen.
+2. *Vervallen.*
 
-3. Vervallen.
+3. *Vervallen.*
 
 4. De leningen ter financiering van het onderzoek of van de investeringen worden aangegaan onder de voorwaarden, die de Raad vaststelt overeenkomstig [artikel 314 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=314).
 
@@ -1358,41 +1299,41 @@ De toestemming van de bevoegde autoriteiten van de Lid-Staat mag alleen worden g
 
 ##### Artikel 173
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 173 A
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 174
 
 1. De uitgaven voorkomende op de huishoudelijke begroting omvatten met name:
 
-- a). de administratiekosten,
+- a) de administratiekosten,
 
-- b). de uitgaven die betrekking hebben op de veiligheidscontrole en de gezondheidsbescherming.
+- b) de uitgaven die betrekking hebben op de veiligheidscontrole en de gezondheidsbescherming.
 
 2. De uitgaven voorkomende op de begroting voor onderzoek en investeringen omvatten met name:
 
-- a). de uitgaven die betrekking hebben op de uitvoering van het onderzoekprogramma van de Gemeenschap,
+- a) de uitgaven die betrekking hebben op de uitvoering van het onderzoekprogramma van de Gemeenschap,
 
-- b). de eventuele deelneming in het kapitaal en in de investeringsuitgaven van het Agentschap,
+- b) de eventuele deelneming in het kapitaal en in de investeringsuitgaven van het Agentschap,
 
-- c). de uitgaven die betrekking hebben op de uitrusting van onderwijsinrichtingen,
+- c) de uitgaven die betrekking hebben op de uitrusting van onderwijsinrichtingen,
 
-- d). de eventuele deelneming aan de Gemeenschappelijke Ondernemingen en aan bepaalde gemeenschappelijke werkzaamheden.
+- d) de eventuele deelneming aan de Gemeenschappelijke Ondernemingen en aan bepaalde gemeenschappelijke werkzaamheden.
 
 ##### Artikel 175
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 176
 
 1. De toewijzingen ten behoeve van uitgaven voor onderzoek en investeringen omvatten, binnen de grenzen van de programma’s of van betalingsbesluiten die op grond van dit Verdrag eenstemmigheid van de Raad vereisen:
 
-- a). vastleggingskredieten ter dekking van een op zich zelf staand deel, dat een samenhangend geheel vormt,
+- a) vastleggingskredieten ter dekking van een op zich zelf staand deel, dat een samenhangend geheel vormt,
 
-- b). betalingskredieten die de hoogste grens vormen der uitgaven welke jaarlijks ter dekking van vastgelegde verplichtingen aangegaan krachtens **a)** kunnen worden geboekt.
+- b) betalingskredieten die de hoogste grens vormen der uitgaven welke jaarlijks ter dekking van vastgelegde verplichtingen aangegaan krachtens *a)* kunnen worden geboekt.
 
 2. Het vervalboek van de vastgelegde verplichtingen en de betalingen wordt als bijlage opgenomen bij de overeenkomstige ontwerp-begroting, voorgesteld door de Commissie.
 
@@ -1402,39 +1343,39 @@ Vervallen
 
 ##### Artikel 177
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 177 bis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 178
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 179
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 179 bis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 180
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 180 bis
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 180 ter
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 181
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 182
 
@@ -1454,13 +1395,13 @@ Dit programma wordt door de Raad met gekwalificeerde meerderheid van stemmen goe
 
 ##### Artikel 183
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 183 A
 
-Vervallen
+*Vervallen*
 
-## TITEL VIJFDE. ALGEMENE BEPALINGEN
+### TITEL VIJFDE. ALGEMENE BEPALINGEN
 
 ##### Artikel 184
 
@@ -1472,7 +1413,7 @@ In elk der Lid-Staten heeft de Gemeenschap de ruimste handelingsbevoegdheid welk
 
 ##### Artikel 186
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 187
 
@@ -1492,7 +1433,7 @@ De zetel van de instellingen der Gemeenschap wordt in onderlinge overeenstemming
 
 ##### Artikel 190
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 191
 
@@ -1534,21 +1475,21 @@ De instellingen van de Gemeenschap alsook het Agentschap en de Gemeenschappelijk
 
 Voor de toepassing van dit Verdrag en voor zover hierin niet anders is bepaald, wordt verstaan onder:
 
-- a). **„persoon**”; iedere natuurlijke persoon die op de grondgebieden van de Lid-Staten zijn werkzaamheden geheel of gedeeltelijk uitoefent op het door het desbetreffende hoofdstuk van het Verdrag bepaalde terrein;
+- a) *„persoon*”; iedere natuurlijke persoon die op de grondgebieden van de Lid-Staten zijn werkzaamheden geheel of gedeeltelijk uitoefent op het door het desbetreffende hoofdstuk van het Verdrag bepaalde terrein;
 
-- b). **„onderneming”:** iedere onderneming of instelling welke haar werkzaamheden geheel of gedeeltelijk uitoefent onder dezelfde voorwaarden als bedoeld onder **a)**, ongeacht haar publiek- of privaatrechtelijke positie.
+- b) *„onderneming”:* iedere onderneming of instelling welke haar werkzaamheden geheel of gedeeltelijk uitoefent onder dezelfde voorwaarden als bedoeld onder *a)*, ongeacht haar publiek- of privaatrechtelijke positie.
 
 ##### Artikel 197
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- 1. **„bijzondere splijtstoffen”:** plutonium 239, uranium 233, uranium verrijkt in de isotopen 235 of 233; elk produkt dat een of meer der hierbovengenoemde isotopen bevat, evenals die andere splijtstoffen die door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie als zodanig worden aangewezen; de term **„bijzondere splijtstoffen”** is echter niet van toepassing op grondstoffen;
+- 1. *„bijzondere splijtstoffen”:* plutonium 239, uranium 233, uranium verrijkt in de isotopen 235 of 233; elk produkt dat een of meer der hierbovengenoemde isotopen bevat, evenals die andere splijtstoffen die door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie als zodanig worden aangewezen; de term *„bijzondere splijtstoffen”* is echter niet van toepassing op grondstoffen;
 
-- 2. **„uranium verrijkt in de isotopen 235 of 233”:** uranium dat hetzij uranium 235, hetzij uranium 233, hetzij beide isotopen bevat in een zodanige hoeveelheid dat de verhouding tussen de som van die twee isotopen en de isotoop 238 groter is dan de verhouding tussen de isotoop 235 en de isotoop 238 in natuurlijk uranium;
+- 2. *„uranium verrijkt in de isotopen 235 of 233”:* uranium dat hetzij uranium 235, hetzij uranium 233, hetzij beide isotopen bevat in een zodanige hoeveelheid dat de verhouding tussen de som van die twee isotopen en de isotoop 238 groter is dan de verhouding tussen de isotoop 235 en de isotoop 238 in natuurlijk uranium;
 
-- 3. **„grondstoffen”:** uranium dat het mengsel van isotopen bevat zoals dit in de natuur wordt aangetroffen, uranium waarvan het gehalte aan uranium 235 lager is dan normaal, thorium, alle hierboven vermelde materialen in de vorm van metaal, van legeringen, van chemische verbindingen of van concentraten, ieder ander materiaal dat een of meer der hierboven vermelde stoffen bevat in een gehalte dat door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie wordt vastgesteld;
+- 3. *„grondstoffen”:* uranium dat het mengsel van isotopen bevat zoals dit in de natuur wordt aangetroffen, uranium waarvan het gehalte aan uranium 235 lager is dan normaal, thorium, alle hierboven vermelde materialen in de vorm van metaal, van legeringen, van chemische verbindingen of van concentraten, ieder ander materiaal dat een of meer der hierboven vermelde stoffen bevat in een gehalte dat door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie wordt vastgesteld;
 
-- 4. **„ertsen”:** elk erts dat een door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie vast te stellen gemiddeld gehalte aan bestanddelen bevat, die het mogelijk maken om door doelmatige scheikundige en natuurkundige behandeling grondstoffen te verkrijgen als hierboven zijn omschreven.
+- 4. *„ertsen”:* elk erts dat een door de Raad met gekwalificeerde meerderheid van stemmen op voorstel van de Commissie vast te stellen gemiddeld gehalte aan bestanddelen bevat, die het mogelijk maken om door doelmatige scheikundige en natuurkundige behandeling grondstoffen te verkrijgen als hierboven zijn omschreven.
 
 ##### Artikel 198
 
@@ -1560,13 +1501,13 @@ Overeenkomstig Protocol nr. 2 bij de Akte betreffende de toetredingsvoorwaarden 
 
 In afwijking van de voorgaande alinea's:
 
-- a). is dit Verdrag niet van toepassing op de Faeröer. Dit verdrag is niet van toepassing op Groenland.
+- a) is dit Verdrag niet van toepassing op de Faeröer. Dit verdrag is niet van toepassing op Groenland.
 
-- b). Is dit Verdrag niet van toepassing op de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen.
+- b) Is dit Verdrag niet van toepassing op de zones van Cyprus die onder de soevereiniteit van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vallen.
 
-- c). Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage II van het Verdrag betreffende de Europese Unie en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
+- c) Is dit Verdrag niet van toepassing op de landen en gebieden overzee die met het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland bijzondere betrekkingen onderhouden, die niet zijn vermeld op de lijst in bijlage II van het Verdrag betreffende de Europese Unie en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
-- d). Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
+- d) Zijn de bepalingen van dit Verdrag op de Kanaaleilanden en op het eiland Man slechts van toepassing voor zover noodzakelijk ter verzekering van de toepassing van de regeling die voor deze eilanden is vastgesteld in het op 22 januari 1972 ondertekende Verdrag betreffende de toetreding van nieuwe Lid-Staten tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie.
 
 ##### Artikel 199
 
@@ -1592,11 +1533,11 @@ Indien een optreden van de Gemeenschap noodzakelijk blijkt ter verwezenlijking v
 
 ##### Artikel 204
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 205
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 206
 
@@ -1614,73 +1555,73 @@ De protocollen die, in onderlinge overeenstemming tussen de Lid-Staten, aan dit 
 
 Dit Verdrag wordt voor onbeperkte tijd gesloten.
 
-## TITEL ZESDE. BEPALINGEN MET BETREKKING TOT DE BEGINPERIODE
+### TITEL ZESDE. BEPALINGEN MET BETREKKING TOT DE BEGINPERIODE
 
-### Afdeling I. - Oprichting van de instellingen
+#### Afdeling I. - Oprichting van de instellingen
 
 ##### Artikel 209
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 210
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 211
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 212
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 213
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 214
 
-Vervallen
+*Vervallen*
 
-### Afdeling II. - Bepalingen voor de eerste toepassing van het Verdrag
+#### Afdeling II. - Bepalingen voor de eerste toepassing van het Verdrag
 
 ##### Artikel 215
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 216
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 217
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 218
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 219
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 220
 
-Vervallen
+*Vervallen*
 
-### Afdeling III. - Overgangsbepalingen
+#### Afdeling III. - Overgangsbepalingen
 
 ##### Artikel 221
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 222
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 223
 
-Vervallen
+*Vervallen*
 
 ### SLOTBEPALINGEN
 
@@ -1695,48 +1636,6 @@ Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het ned
 Dit Verdrag, opgesteld in één exemplaar, in de Duitse, de Franse, de Italiaanse en de Nederlandse taal, zijnde de vier teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
 Krachtens de Toetredingsverdragen zijn de teksten van dit Verdrag in de Bulgaarse, de Deense, de Engelse, de Estse, de Finse, de Griekse, de Hongaarse, de Ierse, de Kroatische, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Roemeense, de Slowaakse, de Sloveense, de Spaanse, de Tsjechische en de Zweedse taal eveneens gelijkelijk authentiek.
-
-TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
-
-Gedaan te Rome, de vijfentwintigste maart negentienhonderd zevenenvijftig.
-
-##### Artikel 106 bis
-
-1. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=7), de [artikelen 13 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=13), [artikel 48, leden 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=48), en de [artikelen 49 en 50 van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=49), [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=15), de [artikelen 223 tot en met 236](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=223), de [artikelen 237 tot en met 244](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=237), [artikel 245](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=245), de [artikelen 246 tot en met 270](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=246), de [artikelen 272, 273 en 274](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=272), de [artikelen 277 tot en met 281](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=277), de [artikelen 285 tot en met 304](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=285), de [artikelen 310 tot en met 320](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=310), de [artikelen 322 tot en met 325](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=322) en de [artikelen 336](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=336), [342](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=342) en [344 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=344), alsmede het Protocol betreffende de overgangsbepalingen, zijn van toepassing op dit Verdrag.
-
-2. In het kader van het onderhavige Verdrag moeten de verwijzingen naar de Unie, naar het „[Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507)”, naar het „[Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506)” of naar de „Verdragen” in de bepalingen die in lid 1 genoemd worden of die opgenomen zijn in de protocollen gehecht aan die Verdragen of aan het onderhavige Verdrag, gelezen worden als verwijzingen naar de Europese Gemeenschap voor Atoomenergie en naar het onderhavige Verdrag.
-
-3. De bepalingen van het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) laten de bepalingen van het onderhavige Verdrag onverlet.
-
-### HOOFDSTUK II. De instellingen van de Gemeenschap
-
-### Afdeling I. Het Europees Parlement
-
-### Afdeling II. - De Raad
-
-### Afdeling III. - De Commissie
-
-### Afdeling IV. - Het Hof van Justitie van de Europese Unie
-
-### Afdeling V. DE REKENKAMER
-
-### HOOFDSTUK III. Bepalingen welke verscheidene instellingen gemeen hebben
-
-### HOOFDSTUK IV. Het Economisch en Sociaal Comité
-
-## TITEL VIERDE. Bijzondere financiële bepalingen
-
-## TITEL VIJFDE. ALGEMENE BEPALINGEN
-
-## TITEL ZESDE. BEPALINGEN MET BETREKKING TOT DE BEGINPERIODE
-
-### Afdeling I. - Oprichting van de instellingen
-
-### Afdeling II. - Bepalingen voor de eerste toepassing van het Verdrag
-
-### Afdeling III. - Overgangsbepalingen
-
-### SLOTBEPALINGEN
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder dit Verdrag hebben gesteld.
 

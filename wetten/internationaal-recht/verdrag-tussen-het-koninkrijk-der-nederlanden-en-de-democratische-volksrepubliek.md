@@ -1,53 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije inzake de wederzijdse bevordering en bescherming van investeringen"
 identifier: "BWBV0003027"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-08-01"
-last_updated: "2007-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003027"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003295653"
-version_id: "10003320402"
-internal_id: "C10008430241"
-label_id: "10003281414"
-dtd_version: "2.0"
-original_entry_into_force: "2008-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003027/2008-08-01/0"
-intitule_bron: "Trb.2007-79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "2008-06-16"
-intitule_published: "2007-04-16"
-intitule_in_force: "2008-07-16"
-intitule_status: "goed"
-original_publication: "Trb.2007-79"
-original_signed_date: "2008-06-16"
-original_published_date: "2007-04-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-79"
-entry_into_force_date: "2008-08-01"
-jci_1_3: "jci1.3:c:BWBV0003027&z=2008-08-01&g=2008-08-01"
-jci_1_0: "1.0:c:BWBV0003027&g=2008-08-01"
-citeertitel_status: "redactioneel"
-signed_date: "2008-06-16"
-entry_into_force: "2008-08-01"
+publicatiedatum: 2008-08-01
+laatste_update: 2008-08-01
+status: geldig
+toestand: 2008-08-01
+bron: "https://wetten.overheid.nl/BWBV0003027"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije inzake de wederzijdse bevordering en bescherming van investeringen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Democratische Volksrepubliek Algerije,
-
-hierna te noemen de Verdragsluitende Partijen,
-
-Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij,
-
-In het besef dat een verdrag inzake de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Democratische Volksrepubliek Algerije, hierna te noemen de Verdragsluitende Partijen, Geleid door de wens de van oudsher bestaande vriendschapsbanden tussen hun landen te versterken en de economische betrekkingen tussen hen uit te breiden en te intensiveren, met name wat betreft investeringen door de investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij, In het besef dat een verdrag inzake de aan dergelijke investeringen toe te kennen behandeling het kapitaalverkeer en de overdracht van technologie tussen, alsmede de economische ontwikkeling van de Verdragsluitende Partijen zal stimuleren, en dat een eerlijke en rechtvaardige behandeling van investeringen wenselijk is, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -55,23 +21,23 @@ Voor de toepassing van dit Verdrag:
 
 - a. wordt onder de term „investeringen’’ verstaan: alle soorten vermogensbestanddelen en in het bijzonder, doch niet uitsluitend:
 
-- i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
+   - i. roerende en onroerende zaken, alsmede andere zakelijke rechten met betrekking tot alle soorten vermogensbestanddelen;
 
-- ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
+   - ii. rechten ontleend aan aandelen, obligaties en andere soorten belangen in ondernemingen en joint ventures;
 
-- iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
+   - iii. aanspraken op geld, op andere vermogensbestanddelen of op iedere prestatie die economische waarde heeft;
 
-- iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
+   - iv. rechten op het gebied van de intellectuele eigendom, technische werkwijzen, goodwill en knowhow;
 
-- v. rechten verleend krachtens de wet of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
+   - v. rechten verleend krachtens de wet of bij overeenkomst, met inbegrip van rechten tot het opsporen, exploreren, ontginnen en winnen van natuurlijke rijkdommen;
 
 - b. wordt onder de term „investeerders’’ verstaan:
 
-- i. natuurlijke personen die de nationaliteit van een Verdragsluitende Partij hebben en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
+   - i. natuurlijke personen die de nationaliteit van een Verdragsluitende Partij hebben en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
 
-- ii. rechtspersonen of andere organen die zijn opgericht of georganiseerd overeenkomstig het recht van de Verdragsluitende Partij, die hun zetel hebben op het grondgebied van diezelfde Verdragsluitende Partij en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
+   - ii. rechtspersonen of andere organen die zijn opgericht of georganiseerd overeenkomstig het recht van de Verdragsluitende Partij, die hun zetel hebben op het grondgebied van diezelfde Verdragsluitende Partij en investeringen doen op het grondgebied van de andere Verdragsluitende Partij;
 
-- iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
+   - iii. rechtspersonen die niet zijn opgericht krachtens het recht van die Verdragsluitende Partij, maar die onder al dan niet rechtstreeks toezicht staan van natuurlijke personen zoals omschreven onder i of van rechtspersonen zoals omschreven onder ii;
 
 - c. wordt onder de term „grondgebied’’ verstaan, naast het land, de territoriale zee en de verschillende zeegebieden waarop de Verdragsluitende Partijen krachtens hun nationale recht en het internationale recht, soevereine rechten en/of rechtsmacht uitoefenen ten behoeve van de exploratie, winning en het behoud van, en van onderzoek naar en het beheer van de natuurlijke rijkdommen, de zeebodem, de ondergrond en de daarboven liggende wateren;
 
@@ -183,10 +149,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN in twee originele exemplaren te ’s-Gravenhage, op 20 maart 2007, in de Nederlandse, de Arabische en de Franse taal, zijnde alle drie de teksten gelijkelijk authentiek, met dien verstande dat in geval van verschil in uitlegging de Franse tekst doorslaggevend is.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 F. HEEMSKERK
 
-**Voor de Regering van de Democratische Volksrepubliek Algerije**
+*Voor de Regering van de Democratische Volksrepubliek Algerije*
 
 BENCHAÂ DANI

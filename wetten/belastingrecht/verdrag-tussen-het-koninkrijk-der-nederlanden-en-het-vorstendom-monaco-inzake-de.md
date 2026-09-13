@@ -1,249 +1,224 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Monaco inzake de uitwisseling van informatie betreffende belastingen"
 identifier: "BWBV0004055"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-12-01"
-last_updated: "2010-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004055"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003870453"
-version_id: "10003945012"
-internal_id: "C10009635731"
-label_id: "10003855234"
-dtd_version: "2.0"
-original_entry_into_force: "2010-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004055/2010-12-01/0"
-intitule_bron: "Trb.2010-37"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-02-05"
-intitule_in_force: "2011-01-27"
-intitule_status: "goed"
-original_publication: "Trb.2010-37"
-original_published_date: "2010-02-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-37"
-entry_into_force_date: "2010-12-01"
-jci_1_3: "jci1.3:c:BWBV0004055&z=2010-12-01&g=2010-12-01"
-jci_1_0: "1.0:c:BWBV0004055&g=2010-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-12-01"
+publicatiedatum: 2010-12-01
+laatste_update: 2010-12-01
+status: geldig
+toestand: 2010-12-01
+bron: "https://wetten.overheid.nl/BWBV0004055"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vorstendom Monaco inzake de uitwisseling van informatie betreffende belastingen
 
-De Regering van het Koninkrijk der Nederlanden,
+*The Government of the Kingdom of the Netherlands and the Government of the Principality of Monaco, Desiring to facilitate the exchange of information with respect to taxes; Recognising that the exchange of information with respect to some taxes, in particular with respect to Value Added Tax, and with respect to Customs duties is already possible on the basis of existing legal instruments and arrangements; Have agreed as follows:*
 
-en
+##### Article 1. Scope of the Agreement
 
-de Regering van het Vorstendom Monaco;
+The competent authorities of the Contracting States shall provide assistance through exchange of information that is foreseeably relevant to the administration and enforcement of the domestic laws of the Contracting States concerning taxes covered by this Agreement.
 
-Geleid door de wens de uitwisseling van informatie met betrekking tot belastingen te vergemakkelijken;
+Such information shall include information that is foreseeably relevant to the determination, assessment and collection of such taxes, the recovery and enforcement of tax claims, or the investigation or prosecution of tax matters. Information shall be exchanged in accordance with the provisions of this Agreement and shall be treated as confidential in the manner provided in [Article 8](https://wetten.overheid.nl/BWBV0004055).
 
-Erkennend dat het uitwisselen van informatie met betrekking tot bepaalde belastingen, in het bijzonder met betrekking tot de belasting over de toegevoegde waarde en met betrekking tot douanerechten reeds mogelijk is op grond van bestaande juridische instrumenten en regelingen;
+The rights and safeguards secured to persons by the laws or administrative practice of the requested State remain applicable to the extent that they do not unduly prevent or delay effective exchange of information.
 
-Zijn het volgende overeengekomen:
+##### Article 2. Jurisdiction
 
-##### Artikel 1. Reikwijdte van het Verdrag
+A Requested State is not obligated to provide information which is neither held by its authorities nor in the possession or control of persons who are within its territorial jurisdiction.
 
-De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de Verdragsluitende Staten die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is.
+##### Article 3. Taxes covered
 
-Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=8&z=2010-12-01&g=2010-12-01).
+1. The taxes which are the subject of this Agreement are:
 
-De uit hoofde van de wetgeving of bestuursrechtelijke praktijk van de aangezochte Staat aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.
+- a) in the Netherlands the taxes of every kind and description imposed on behalf of the Netherlands, particularly the:
 
-##### Artikel 2. Rechtsmacht
+   - (i) Income tax (*Inkomstenbelasting*);
 
-Een aangezochte Staat is niet verplicht informatie te verstrekken die noch in het bezit is van zijn autoriteiten, noch in het bezit of onder de macht van personen onder zijn territoriale rechtsmacht.
+   - (ii) Wages tax (*Loonbelasting*);
 
-##### Artikel 3. Belastingen waarop het Verdrag van toepassing is
+   - (iii) Company tax, including the Government share in the net profits of the exploitation of natural resources levied pursuant the Mining Act (*Vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de netto-winsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet*);
 
-1. De belastingen waarop dit Verdrag van toepassing is betreffen:
+   - (iv) Dividend tax (*Dividendbelasting*);
 
-- a. in Nederland, de belastingen van elke soort en benaming die worden geheven ten behoeve van Nederland, en in het bijzonder:
+   - (v) Gift tax (*Schenkingsrecht*);
 
-- i. inkomstenbelasting;
+   - (vi) Inheritance tax (*Successierecht*);
 
-- ii. loonbelasting;
+- b) in Monaco: Profits tax (impôts sur les bénéfices).
 
-- iii. vennootschapsbelasting, daaronder begrepen het aandeel van de Regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet;
+2. This Agreement shall also apply to any identical taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. This Agreement shall also apply to any substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes if the competent authorities of the Contracting States so agree.
 
-- iv. dividendbelasting;
+Furthermore, the taxes covered may be expanded or modified by mutual agreement of the Contracting States in the form of an exchange of letters. The competent authorities of the Contracting States shall notify each other of any substantial changes to the taxation and related information gathering measures covered by the Agreement.
 
-- v. schenkingsrecht;
+##### Article 4. Definitions
 
-- vi. successierechten;
+1. For the purposes of this Agreement, unless otherwise defined:
 
-- b. in Monaco: winstbelasting (impôts sur les bénéfices).
+- a) the term “Contracting State” means the Netherlands or Monaco as the context requires;
 
-2. Dit Verdrag is ook van toepassing op alle gelijke belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Indien de bevoegde autoriteiten van de Verdragsluitende Staten zulks overeenkomen, is dit Verdrag ook van toepassing op alle in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. Voorts kunnen de belastingen waarop dit Verdrag van toepassing is, in onderling overleg tussen de Verdragsluitende Staten in de vorm van een briefwisseling worden uitgebreid of aangepast. De bevoegde autoriteiten van de Verdragsluitende Staten doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen inzake het verzamelen van informatie waarop het Verdrag van toepassing is.
+- b) the term “the Netherlands” means the part of the Kingdom of the Netherlands that is situated in Europe, including its territorial sea, and any area beyond the territorial sea within which the Netherlands, in accordance with international law, exercises jurisdiction or sovereign rights with respect to the sea bed, its sub soil and its superjacent waters, and their natural resources;
 
-##### Artikel 4. Begripsomschrijvingen
+- c) the term “Monaco” means the Principality of Monaco’s lands, internal waters, territorial sea including its bed and subsoil, the air space over them, the exclusive economic zone and the continental shelf, over which the Principality of Monaco exercises sovereign rights and jurisdiction in accordance with the provisions of international law and the Principality of Monaco’s national laws and regulations;
 
-1. Voor de toepassing van dit Verdrag, tenzij anders is bepaald:
+- d) the term “competent authority” means
 
-- a. „wordt onder de uitdrukking „Verdragsluitende Staat” verstaan Nederland of Monaco, al naargelang van hetgeen de context vereist;
+   - i) in the case of the Netherlands the Minister of Finance or his authorised representative;
 
-- b. wordt onder de uitdrukking „Nederland” verstaan het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, met inbegrip van zijn territoriale zee en elk gebied buiten de territoriale zee waarbinnen Nederland, in overeenstemming met het internationale recht, rechtsbevoegdheid heeft of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan en de daarboven gelegen wateren, en hun natuurlijke rijkdommen;
+   - ii) in the case of Monaco the Counsellor of the Government for Finance and Economy or his authorised representative;
 
-- c. wordt onder de uitdrukking „Monaco” verstaan het grondgebied van het Vorstendom Monaco alsmede zijn binnenwateren, territoriale wateren met inbegrip van de zeebodem en de ondergrond daarvan, het luchtruim daarboven, de exclusieve economische zone en het continentaal plat waarover het Vorstendom Monaco soevereine rechten uitoefent en rechtsbevoegdheid heeft in overeenstemming met de bepalingen van het internationaal recht en de nationale wet- en regelgeving van het Vorstendom Monaco;
+- e) the term “person” includes an individual, a company and any other body of persons;
 
-- d. wordt onder de uitdrukking „bevoegde autoriteit” verstaan:
+- f) the term “company” means any body corporate or any entity that is treated as a body corporate for tax purposes;
 
-- i. wat Nederland betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+- g) the term “publicly traded company” means any company whose principal class of shares is listed on a recognised stock exchange provided its listed shares can be readily purchased or sold by the public; shares can be purchased or sold “by the public” if the purchase or sale of shares is not implicitly or explicitly restricted to a limited group of investors;
 
-- ii. wat Monaco betreft, de adviseur voor Financiële Zaken en Economie van de Regering of zijn bevoegde vertegenwoordiger;
+- h) the term “principal class of shares” means the class or classes of shares representing a majority of the voting power and value of the company;
 
-- e. wordt onder de uitdrukking „persoon” verstaan een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- i) the term “recognised stock exchange” means any stock exchange agreed upon by the competent authorities of the Contracting States;
 
-- f. wordt onder de uitdrukking „lichaam” verstaan elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- j) the term “collective investment fund or scheme” means any pooled investment vehicle, irrespective of legal form. The term “public collective investment fund or scheme” means any collective investment fund or scheme provided the units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed by the public; units, shares or other interests in the fund or scheme can be readily purchased, sold or redeemed “by the public” if the purchase, sale or redemption is not implicitly or explicitly restricted to a limited group of investors;
 
-- g. wordt onder de uitdrukking „beursgenoteerd lichaam” verstaan een lichaam waarvan de voornaamste aandelencategorie aan een erkende effectenbeurs staat genoteerd mits de ter beurze genoteerde aandelen direct door het publiek gekocht of verkocht kunnen worden; aandelen kunnen „door het publiek” worden gekocht of verkocht indien de aankoop of verkoop van aandelen niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;
+- k) the term “tax” means any tax to which the Agreement applies;
 
-- h. wordt onder de uitdrukking „voornaamste aandelencategorie” verstaan de aandelencategorie of –categorieën die een meerderheid van het totale aantal stemmen en de waarde van het lichaam vertegenwoordigen;
+- l) the term “applicant State” means the Contracting State requesting information;
 
-- i. wordt onder de uitdrukking „erkende effectenbeurs” verstaan een effectenbeurs die de bevoegde autoriteiten van de Verdragsluitende Staten overeenkomen;
+- m) the term “requested State” means the Contracting State requested to provide information;
 
-- j. wordt onder de uitdrukking „collectief beleggingsfonds of collectieve beleggingsregeling” verstaan elk gezamenlijk beleggingsinstrument, ongeacht de rechtsvorm. De uitdrukking „openbaar collectief beleggingsfonds of openbare collectieve beleggingsregeling” omvat elk collectief beleggingsfonds of elke collectieve beleggingsregeling, mits de eenheden, aandelen of andere belangen in het fonds of de regeling direct door het publiek kunnen worden gekocht, verkocht of afgelost; eenheden, aandelen of andere belangen in het fonds of de regeling kunnen direct „door het publiek” worden gekocht, verkocht of afgelost indien de aankoop, verkoop of aflossing niet impliciet of expliciet is voorbehouden aan een beperkte groep investeerders;
+- n) the term “information gathering measures” means laws and administrative or judicial procedures that enable a Contracting State to obtain and provide the requested information;
 
-- k. wordt onder de uitdrukking „belasting” verstaan elke belasting waarop het Verdrag van toepassing is;
+- o) the term “information” means any fact, statement or record in any form whatever;
 
-- l. wordt onder de uitdrukking „verzoekende Staat” verstaan de Verdragsluitende Staat die om informatie verzoekt;
+- p) the term “criminal tax matters” means tax matters involving intentional conduct which is liable to prosecution under the criminal laws of the applicant State with the inclusion of administrative fines;
 
-- m. wordt onder de uitdrukking „aangezochte Staat” verstaan de Verdragsluitende Staat die gevraagd is informatie te verstrekken;
+- q) the term “criminal laws” means all criminal laws designated as such under domestic law irrespective of whether contained in the tax laws, the criminal code or other statutes.
 
-- n. wordt onder de uitdrukking „maatregelen ten behoeve van het verzamelen van informatie” verstaan wetten en bestuursrechtelijke of gerechtelijke procedures die een Verdragsluitende Staat in staat stellen de gevraagde informatie te verkrijgen en te verstrekken;
+2. As regards the application of this Agreement at any time by a Contracting State, any term not defined therein shall, unless the context otherwise requires, have the meaning that it has at that time under the law of that State, any meaning under the applicable tax laws of that State prevailing over a meaning given to the term under other laws of that State.
 
-- o. wordt onder de uitdrukking „informatie” verstaan alle feiten, verklaringen of stukken ongeacht in welke vorm;
+##### Article 5. Exchange of information upon request
 
-- p. wordt onder de uitdrukking „fiscale delicten” verstaan belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Staat, bestuursrechtelijke boetes daaronder begrepen;
+1. The competent authority of the requested State shall provide upon request information for the purposes referred to in [Article 1](https://wetten.overheid.nl/BWBV0004055). Such information shall be exchanged without regard to whether the conduct being investigated would constitute a crime under the laws of the requested State if such conduct occurred in the requested State.
 
-- q. wordt onder de uitdrukking „strafwetten” verstaan alle strafrechtelijke bepalingen die krachtens de nationale wetgeving als zodanig worden aangeduid, ongeacht of zij zijn opgenomen in belastingwetten, het wetboek van strafrecht of andere wetten.
+2. If the information in the possession of the competent authority of the requested State is not sufficient to enable it to comply with the request for information, that State shall use all relevant information gathering measures to provide the applicant State with the information requested, notwithstanding that the requested State may not need such information for its own tax purposes.
 
-2. Voor de toepassing van dit Verdrag door een Verdragsluitende Staat op enig ogenblik heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat de voorkeur heeft boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
+3. If specifically requested by the competent authority of an applicant State, the competent authority of the requested State shall provide information under this Article, to the extent allowable under its domestic laws, in the form of depositions of witnesses and authenticated copies of original records.
 
-##### Artikel 5. Uitwisseling van informatie op verzoek
+4. Each Contracting State shall ensure that its competent authorities for the purposes specified in [Article 1](https://wetten.overheid.nl/BWBV0004055) of the Agreement, have the authority to obtain and provide upon request:
 
-1. De bevoegde autoriteit van de aangezochte Staat verstrekt op verzoek informatie ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=1&z=2010-12-01&g=2010-12-01) bedoelde doeleinden. Dergelijke informatie wordt uitgewisseld ongeacht of de onderzochte gedragingen, indien deze in de aangezochte Staat zouden plaatsvinden, uit hoofde van de wetgeving van de aangezochte Staat als misdrijf zouden worden aangemerkt.
+- a) information held by banks, other financial institutions, and any person acting in an agency or fiduciary capacity including nominees and trustees;
 
-2. Indien de informatie in het bezit van de bevoegde autoriteit van de aangezochte Staat niet toereikend is om aan het verzoek te voldoen, treft die Staat alle toepasselijke maatregelen inzake het verzamelen van informatie om de verzoekende Staat de verlangde informatie te verstrekken, ongeacht het feit dat de aangezochte Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke informatie hoeft te beschikken.
+- b) information regarding the legal and beneficial ownership of companies, partnerships, trusts, foundations, “*Anstalten*” and other persons, including, within the constraints of [Article 2](https://wetten.overheid.nl/BWBV0004055), ownership information on all such persons in an ownership chain; in the case of trusts, information on settlors, trustees and beneficiaries and the position in an ownership chain; and in the case of foundations, information on founders, members of the foundation council and beneficiaries.
 
-3. Indien de bevoegde autoriteit van een verzoekende Staat specifiek daarom verzoekt, is de bevoegde autoriteit van de aangezochte Staat gehouden uit hoofde van dit artikel informatie te verstrekken, voor zover zulks is toegestaan uit hoofde van de nationale wetgeving, in de vorm van getuigenverklaringen en gewaarmerkte afschriften van originele stukken.
+Further, this Agreement does not create an obligation on the Contracting States to obtain or provide ownership information with respect to publicly traded companies or public collective investment funds or schemes, unless such information can be obtained without giving rise to disproportionate difficulties.
 
-4. Elke Verdragsluitende Staat waarborgt dat zijn bevoegde autoriteiten ten behoeve van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=1&z=2010-12-01&g=2010-12-01) van het Verdrag omschreven doelstellingen, over de bevoegdheid beschikken het navolgende te verkrijgen en te verstrekken:
+5. The competent authority of the applicant State shall provide the following information to the competent authority of the requested State when making a request for information under the Agreement to demonstrate the foreseeable relevance of the information to the request:
 
-- a. informatie die berust bij banken, overige financiële instellingen, of personen die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreden, met inbegrip van gevolmachtigden en beheerders van een trust („trustees”);
+- a) the identity of the person under examination or investigation;
 
-- b. informatie met betrekking tot de juridische en feitelijke eigendom van lichamen, maatschappen, trusts, stichtingen, „**Anstalten**” en andere rechtspersonen, met inbegrip van, binnen de beperkingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=2&z=2010-12-01&g=2010-12-01), informatie inzake de eigendom met betrekking tot al deze rechtspersonen binnen een eigendomsketen; in het geval van trusts, informatie met betrekking tot instellers van een trust, de beheerders daarvan („trustees”), begunstigden daarvan en de positie van een trust in een eigendomsketen; en in het geval van stichtingen, informatie met betrekking tot stichters, leden van het bestuur en begunstigden.
+- b) a statement of the information sought including its nature and the form in which the applicant State wishes to receive the information from the requested State;
 
-Dit Verdrag schept daarnaast geen verplichting voor de Verdragsluitende Staten informatie inzake de eigendom te verkrijgen of te verstrekken met betrekking tot beursgenoteerde lichamen of openbare collectieve beleggingsfondsen of openbare collectieve beleggingsregelingen, tenzij deze informatie kan worden verkregen zonder tot onevenredige moeilijkheden te leiden.
+- c) the tax purpose for which the information is sought;
 
-5. De bevoegde autoriteit van de verzoekende Staat verstrekt de volgende informatie aan de bevoegde autoriteit van de aangezochte Staat wanneer de eerstgenoemde Staat uit hoofde van het Verdrag een verzoek om informatie doet, teneinde aan te tonen dat deze naar verwachting van belang zal zijn voor het verzoek:
+- d) grounds for believing that the information requested is held in the requested State or is in the possession or control of a person within the jurisdiction of the requested State;
 
-- a. de identiteit van de persoon op wie de controle of het onderzoek betrekking heeft;
+- e) to the extent known, the name and address of any person believed to be in possession of the requested information;
 
-- b. een verklaring omtrent de gewenste informatie, met inbegrip van de aard en de vorm waarin de verzoekende Staat de informatie van de aangezochte Staat wenst te ontvangen;
+- f) a statement that the request is in conformity with the law and administrative practices of the applicant State, that if the requested information was within the jurisdiction of the applicant State then the competent authority of the applicant State would be able to obtain the information under the laws of the applicant State or in the normal course of administrative practice and that it is in conformity with this Agreement;
 
-- c. het fiscale doel waarvoor om de informatie wordt verzocht;
+- g) a statement that the applicant State has pursued all means available in its own territory to obtain the information, except those that would give rise to disproportionate difficulties.
 
-- d. de redenen om te veronderstellen dat de gevraagde informatie zich bevindt in de aangezochte Staat of zich in het bezit of onder de macht bevindt van een persoon die onder de rechtsmacht van de aangezochte Staat valt;
+6. The competent authority of the requested State shall forward the requested information as promptly as possible to the applicant State. To ensure a prompt response, the competent authority of the requested State shall:
 
-- e. de namen en adresgegevens, voor zover bekend, van personen van wie verondersteld wordt dat zij in het bezit zijn van de verzochte informatie;
+- a) Confirm receipt of a request in writing to the competent authority of the applicant State and shall notify the competent authority of the applicant State of deficiencies in the request, if any, within 60 days of the receipt of the request.
 
-- f. een verklaring dat het verzoek in overeenstemming is met de wetgeving en de administratieve praktijk van de verzoekende Staat, dat indien de gevraagde informatie onder de rechtsmacht van de verzoekende Staat zou vallen, de bevoegde autoriteit van de verzoekende Staat deze informatie volgens de wetten van de verzoekende Staat of volgens de normale gang van zaken in de bestuursrechtelijke praktijk zou kunnen verkrijgen, en dat het verzoek in overeenstemming is met dit Verdrag;
+- b) If the competent authority of the requested State has been unable to obtain and provide the information within 90 days of receipt of the request, including if it encounters obstacles in furnishing the information or it refuses to furnish the information, it shall immediately inform the applicant State, explaining the reason for its inability, the nature of the obstacles or the reasons for its refusal.
 
-- g. een verklaring dat de verzoekende Staat op zijn eigen grondgebied alles in het werk heeft gesteld om de informatie te verkrijgen, tenzij dit zou leiden tot onevenredige moeilijkheden.
+##### Article 6. Tax examinations abroad
 
-6. De bevoegde autoriteit van de aangezochte Staat doet de gevraagde informatie zo spoedig mogelijk toekomen aan de verzoekende Staat. Teneinde een snel antwoord te waarborgen:
+1. A Contracting State may allow representatives of the competent authority of the other Contracting State to enter the territory of the first-mentioned State to interview individuals and examine records with the written consent of the persons concerned. The competent authority of the second-mentioned State shall notify the competent authority of the first-mentioned State of the time and place of the meeting with the individuals concerned.
 
-- a. bevestigt de bevoegde autoriteit van de aangezochte Staat de ontvangst van een verzoek schriftelijk aan de bevoegde autoriteit van de verzoekende Staat en stelt zij de bevoegde autoriteit van de verzoekende Staat binnen 60 dagen na ontvangst van het verzoek in kennis van eventuele gebreken in het verzoek.
+2. At the request of the competent authority of one Contracting State the competent authority of the other Contracting State may allow representatives of the competent authority of the first-mentioned State to be present at the appropriate part of a tax examination in the second-mentioned State.
 
-- b. Indien de bevoegde autoriteit van de aangezochte Staat niet in staat is geweest de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, daaronder begrepen het feit dat zij belemmeringen ondervindt bij het verstrekken van informatie of weigert de informatie te verstrekken, stelt zij de verzoekende Staat daarvan onmiddellijk op de hoogte, onder vermelding van de redenen van het onvermogen, de aard van de belemmeringen of de redenen voor de weigering.
+3. If the request referred to in paragraph 2 is acceded to, the competent authority of the Contracting State conducting the examination shall, as soon as possible, notify the competent authority of the other State about the time and place of the examination, the authority or official designated to carry out the examination and the procedures and conditions required by the first-mentioned State for the conduct of the examination. All decisions with respect to the conduct of the tax examination shall be made by the State conducting the examination.
 
-##### Artikel 6. Belastingcontrole in het buitenland
+##### Article 7. Possibility of declining a request
 
-1. Een Verdragsluitende Staat kan vertegenwoordigers van de bevoegde autoriteit van de andere Verdragsluitende Staat toestaan het grondgebied van de eerstgenoemde Staat te betreden om, met schriftelijke toestemming van de betrokkenen, personen te ondervragen en stukken te onderzoeken. De bevoegde autoriteit van de als tweede genoemde Staat stelt de bevoegde autoriteit van de eerstgenoemde Staat in kennis van het tijdstip en de plaats van de ontmoeting met de betrokken personen.
+1. The requested State shall not be required to obtain or provide information that the applicant State would not be able to obtain under its own laws for purposes of the administration or enforcement of its own tax laws. The competent authority of the requested State may decline to assist where the request is not made in conformity with this Agreement or any other instrument to which the Contracting States are parties.
 
-2. Op verzoek van de bevoegde autoriteit van de ene Verdragsluitende Staat kan de bevoegde autoriteit van de andere Verdragsluitende Staat vertegenwoordigers van de bevoegde autoriteit van de eerstgenoemde Staat toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de als tweede genoemde Staat.
+2. The provisions of this Agreement shall not impose on a Contracting State the obligation to supply information which would disclose any trade, business, industrial, commercial or professional secret or trade process. Notwithstanding the foregoing, information of the type referred to in [Article 5, paragraph 4](https://wetten.overheid.nl/BWBV0004055) shall not be treated as such a secret or trade process merely because it meets the criteria in that paragraph.
 
-3. Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de Verdragsluitende Staat die de controle uitvoert, de bevoegde autoriteit van de andere Staat zo spoedig mogelijk in kennis van het tijdstip en de plaats van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de eerstgenoemde Staat ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de Staat die het onderzoek uitvoert.
+3. The provisions of this Agreement shall not impose on a Contracting State the obligation to obtain or provide information, which would reveal confidential communications between a client and an attorney, solicitor or other admitted legal representative where such communications are:
 
-##### Artikel 7. Mogelijkheid een verzoek af te wijzen
+- a) produced for the purposes of seeking or providing legal advice; or
 
-1. Van de aangezochte Staat kan niet worden verlangd dat hij informatie verkrijgt of verstrekt die de verzoekende Staat krachtens zijn eigen wetgeving niet zou kunnen verkrijgen ten behoeve van de toepassing of handhaving van zijn eigen belastingwetten. De bevoegde autoriteit van de aangezochte Staat kan verzoeken om bijstand afwijzen die niet zijn gedaan in overeenstemming met dit Verdrag of met een ander instrument waarbij de Verdragsluitende Staten partij zijn.
+- b) produced for the purposes of use in existing or contemplated legal proceedings.
 
-2. De bepalingen van dit Verdrag mogen een Verdragsluitende Staat niet verplichten informatie te verstrekken waardoor een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of handelsverloop zou worden onthuld. Niettegenstaande het voorgaande zal de informatie zoals bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=5&z=2010-12-01&g=2010-12-01), niet als geheim of handelsproces worden behandeld uitsluitend op grond van het feit dat zij aan de in dat lid gestelde criteria voldoet.
+4. The requested State may decline a request for information if the disclosure of the information would be contrary to public policy (ordre public).
 
-3. De bepalingen van dit Verdrag mogen een Verdragsluitende Staat niet verplichten informatie te verkrijgen of te verstrekken waardoor vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger zou worden onthuld indien dergelijke communicatie:
+5. A request for information shall not be refused on the ground that the tax claim giving rise to the request is disputed.
 
-- a. plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies; of
+6. The requested State may decline a request for information if the information is requested by the applicant State to administer or enforce a provision of the tax law of the applicant State, or any requirement connected therewith, which discriminates against a national of the requested State as compared with a national of the applicant State in the same circumstances.
 
-- b. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures.
+##### Article 8. Confidentiality
 
-4. De aangezochte Staat kan een verzoek om informatie afwijzen indien de openbaarmaking van de informatie in strijd zou zijn met de openbare orde.
+Any information received by a Contracting State under this Agreement shall be treated as confidential and may be disclosed only to persons or authorities (including courts and administrative bodies) in the jurisdiction of the Contracting State concerned with the assessment or collection of, the enforcement or prosecution in respect of, or the determination of appeals in relation to, the taxes covered by this Agreement.
 
-5. Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering, die aanleiding gaf tot het verzoek, wordt betwist.
+Such persons or authorities shall use such information only for such purposes. They may disclose the information in public court proceedings or in judicial decisions. The information may not be disclosed to any other person or entity or authority or any other jurisdiction without the express written consent of the competent authority of the requested State.
 
-6. De aangezochte Staat kan een verzoek om informatie afwijzen indien de informatie die door de verzoekende Staat wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende Staat ten uitvoer te leggen of te handhaven, of een daarmee verband houdend vereiste, discriminatie inhoudt van een onderdaan van de aangezochte Staat ten opzichte van een onderdaan van de verzoekende Staat die zich in dezelfde omstandigheden bevindt.
+##### Article 9. Costs
 
-##### Artikel 8. Vertrouwelijkheid
+Incidence of costs incurred in providing assistance shall be agreed by the competent authorities.
 
-Alle uit hoofde van dit Verdrag door een Verdragsluitende Staat ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van rechterlijke instanties en administratieve lichamen) die onder de rechtsmacht van de desbetreffende Verdragsluitende Staat vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag niet ter kennis worden gebracht van enige andere persoon, instelling, autoriteit of rechterlijke instantie zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte Staat.
+##### Article 10. Implementation legislation
 
-##### Artikel 9. Kosten
+The Contracting States shall enact any legislation necessary to comply with, and give effect to, the terms of the Agreement.
 
-De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.
+##### Article 11. Language
 
-##### Artikel 10. Uitvoeringswetgeving
+Requests for assistance and answers thereto shall be drawn up in the English or French language.
 
-De Verdragsluitende Staten stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van het Verdrag.
+##### Article 12. Other international agreements or arrangements
 
-##### Artikel 11. Taal
+The possibilities of assistance provided by this Agreement do not limit, nor are they limited by, those contained in existing international Agreements or other arrangements between the Contracting States which relate to co-operation in tax matters.
 
-Verzoeken om bijstand en antwoorden daarop worden gesteld in de Engelse of de Franse taal.
+##### Article 13. Mutual agreement procedure
 
-##### Artikel 12. Andere internationale verdragen of regelingen
+1. Where difficulties or doubts arise between the Contracting States regarding the implementation or interpretation of the Agreement, the competent authorities shall endeavour to resolve the matter by mutual agreement.
 
-De mogelijkheden voor bijstand waarin dit Verdrag voorziet, vormen geen beperking voor, noch worden zij beperkt door, de mogelijkheden vervat in bestaande internationale verdragen of andere regelingen tussen de Verdragsluitende Staten die betrekking hebben op samenwerking ter zake van belastingzaken.
+2. In addition to the agreements referred to in paragraph 1, the competent authorities of the Contracting States may mutually agree on the procedures to be used under [Articles 5](https://wetten.overheid.nl/BWBV0004055) and [6](https://wetten.overheid.nl/BWBV0004055).
 
-##### Artikel 13. Regeling voor onderling overleg
+3. The competent authorities of the Contracting States may communicate with each other directly for purposes of reaching agreement under this Article.
 
-1. De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten, die mochten rijzen tussen de Verdragsluitende Staten met betrekking tot de toepassing of de uitlegging van dit Verdrag, in onderling overleg op te lossen.
+4. If any difficulty or doubt arising as to the interpretation or application of the Agreement cannot be resolved by the competent authorities of the Contracting States in a mutual agreement procedure pursuant to the previous paragraphs of this article within a period of two years after the question was raised, the case may, at the request of either Contracting State, be submitted for arbitration, but only after fully exhausting the procedure available under paragraphs 1 and 3 of this Article and provided the taxpayer or taxpayers involved agree in writing to be bound by the decision of the arbitration board.
 
-2. Naast de in het eerste lid bedoelde afspraken, kunnen de bevoegde autoriteiten van de Verdragsluitende Staten in onderling overleg overeenstemming bereiken over de krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=5&z=2010-12-01&g=2010-12-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=6&z=2010-12-01&g=2010-12-01) te hanteren procedures.
+The decision of the arbitration board in a particular case shall be binding on both Contracting States and the taxpayers involved with respect to that case.
 
-3. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming te bereiken als bedoeld in dit artikel.
+##### Article 14. Entry into force
 
-4. Wanneer moeilijkheden of twijfelpunten die zijn gerezen met betrekking tot de uitlegging of toepassing van het Verdrag niet binnen een periode van twee jaar nadat de vraag is gerezen opgelost kunnen worden door de bevoegde autoriteiten van de Verdragsluitende Staten in een procedure voor onderling overleg ingevolge de voorgaande leden van dit artikel, kan het geval op verzoek van een van de Verdragsluitende Staten worden voorgelegd voor arbitrage, echter slechts nadat de procedures die beschikbaar zijn op grond van het eerste en derde lid van dit artikel volledig zijn uitgeput en mits de betrokken belastingplichtige of belastingplichtigen schriftelijk ermee instemmen te worden gebonden door de beslissing van de arbitragecommissie.
+1. This Agreement shall enter into force on the first day of the second month after receipt of the last notification in which each Party has notified the other in writing of the completion of its necessary internal procedures for entry into force.
 
-De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtigen.
+2. Upon entry into force, it shall have effect:
 
-##### Artikel 14. Inwerkingtreding
+- a) for criminal tax matters on that date; and
 
-1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de laatste kennisgeving waarin de Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat is voldaan aan de vereiste interne procedures voor de inwerkingtreding ervan.
+- b) for all other matters covered in [Article 1](https://wetten.overheid.nl/BWBV0004055) on that date, but only in respect of taxable periods beginning on or after that date, or where there is no taxable period, all charges to tax arising on or after that date.
 
-2. Vanaf de inwerkingtreding is dit Verdrag van toepassing op:
+##### Article 15. Termination
 
-- a. strafrechtelijke belastingzaken vanaf die datum; en
+1. This Agreement shall remain in force until terminated by one of the Contracting States. Either State may terminate the Agreement, through diplomatic channels, by giving notice of termination to the other Contracting State at least six months before the end of any calendar year after the expiration of a period of three years from the date of its entry into force. In such event the Agreement shall cease to have effect for taxable years and periods beginning after the end of the calendar year in which the notice of termination has been given.
 
-- b. alle overige aangelegenheden vanaf die datum waarop [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=1&z=2010-12-01&g=2010-12-01) van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, met betrekking tot alle belastingvorderingen ontstaan op of na die datum.
+2. Such termination shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of notice of termination by the other Contracting State. Nevertheless, all requests received before the effective date of termination shall be dealt with in accordance with this Agreement.
 
-##### Artikel 15. Beëindiging
-
-1. Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Staten kan het Verdrag langs diplomatieke weg beëindigen door de andere Verdragsluitende Staat ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van drie jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.
-
-2. Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere Verdragsluitende Staat. Alle verzoeken ontvangen vóór de feitelijke datum van beëindiging worden afgehandeld in overeenstemming met dit Verdrag.
-
-3. Bij beëindiging van dit Verdrag, blijven de Verdragsluitende Staten gebonden door de voorwaarden van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004055&artikel=8&z=2010-12-01&g=2010-12-01) ten aanzien van alle uit hoofde van dit Verdrag verkregen informatie.
+3. In the event of termination, both Contracting States shall remain bound by the provisions of [Article 8](https://wetten.overheid.nl/BWBV0004055) with respect to any information obtained under the Agreement.
 
 IN WITNESS whereof the undersigned, duly authorized thereto, have signed this Agreement.
 
 DONE at The Hague this 11th day of January 2010, in duplicate, in the Netherlands, French and English language, all texts being equally authentic. In case of any divergence of interpretation between the Netherlands and the French texts, the English text shall prevail.
 
-**For the Kingdom of the Netherlands,**
+*For the Kingdom of the Netherlands,*
 
 J. C. DE JAGER
 
-**For the Principality of Monaco,**
+*For the Principality of Monaco,*
 
 F. BIANCHERI

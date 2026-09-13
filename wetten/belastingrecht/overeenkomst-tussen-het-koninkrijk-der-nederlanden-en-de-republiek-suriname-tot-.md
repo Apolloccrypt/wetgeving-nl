@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0003461"
-country: "nl"
-rank: "verdrag"
-publication_date: "1977-04-13"
-last_updated: "1977-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003461"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003545023"
-version_id: "10003597022"
-internal_id: "C10006982451"
-label_id: "10003530904"
-dtd_version: "2.0"
-original_entry_into_force: "1977-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003461/1977-04-13/0"
-intitule_bron: "Trb.1975-134"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1975-11-25"
-intitule_in_force: "1977-06-06"
-intitule_status: "goed"
-original_publication: "Trb.1975-134"
-original_published_date: "1975-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1975-134"
-entry_into_force_date: "1977-04-13"
-jci_1_3: "jci1.3:c:BWBV0003461&z=1977-04-13&g=1977-04-13"
-jci_1_0: "1.0:c:BWBV0003461&g=1977-04-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-04-13"
+publicatiedatum: 1977-04-13
+laatste_update: 1977-04-13
+status: geldig
+toestand: 1977-04-13
+bron: "https://wetten.overheid.nl/BWBV0003461"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-De Regering van het Koninkrijk der Nederlanden en
-
-de Regering van de Republiek Suriname,
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -54,25 +29,25 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. De bestaande belastingen waarop deze Overeenkomst van toepassing is, zijn met name:
 
-- a). voor Nederland: (hierna te noemen: „Nederlandse belasting”);
+- a) voor Nederland: (hierna te noemen: „Nederlandse belasting”);
 
-- -. de inkomstenbelasting,
+   - - de inkomstenbelasting,
 
-- -. de loonbelasting,
+   - - de loonbelasting,
 
-- -. de vennootschapsbelasting,
+   - - de vennootschapsbelasting,
 
-- -. de dividendbelasting,
+   - - de dividendbelasting,
 
-- -. de vermogensbelasting,
+   - - de vermogensbelasting,
 
-- b). voor Suriname: (hierna te noemen: „Surinaamse belasting“).
+- b) voor Suriname: (hierna te noemen: „Surinaamse belasting“).
 
-- -. de inkomstenbelasting,
+   - - de inkomstenbelasting,
 
-- -. de dividendbelasting,
+   - - de dividendbelasting,
 
-- -. de vermogensbelasting,
+   - - de vermogensbelasting,
 
 4. De Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
@@ -82,31 +57,31 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. In deze Overeenkomst, tenzij het zinsverband anders vereist –
 
-- a). betekenen de uitdrukkingen „een van de Staten” en „de andere Staat”, al naar het zinsverband vereist, Nederland of Suriname; betekent de uitdrukking „Staten” Nederland en Suriname;
+- a) betekenen de uitdrukkingen „een van de Staten” en „de andere Staat”, al naar het zinsverband vereist, Nederland of Suriname; betekent de uitdrukking „Staten” Nederland en Suriname;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- c). omvat de uitdrukking „Suriname” het grondgebied van de Republiek Suriname en het onder de aangrenzende zee gelegen deel van de zeebodem en de ondergrond daarvan waarop de Republiek Suriname in overeenstemming met het internationale recht soevereine rechten heeft;
+- c) omvat de uitdrukking „Suriname” het grondgebied van de Republiek Suriname en het onder de aangrenzende zee gelegen deel van de zeebodem en de ondergrond daarvan waarop de Republiek Suriname in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon en een lichaam;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon en een lichaam;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen;
+- g) betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of een luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een van de Staten is gelegen, behalve wanneer het schip of het luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere Staat zijn gelegen;
 
-- h). betekent de uitdrukking „onderdaan”:
+- h) betekent de uitdrukking „onderdaan”:
 
-- 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
+   - 1. iedere natuurlijke persoon die de nationaliteit van een van de Staten bezit;
 
-- 2. iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
+   - 2. iedere rechtspersoon, vennootschap of vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in een van de Staten van kracht is;
 
-- i). betekent de uitdrukking „bevoegde autoriteit” –
+- i) betekent de uitdrukking „bevoegde autoriteit” –
 
-- 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Suriname de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - 2. in Suriname de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van de Overeenkomst door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
 
@@ -118,11 +93,11 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 3. Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 4. Indien een lichaam ingevolge de bepaling van het eerste lid inwoner van beide Staten is, wordt het geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
@@ -132,43 +107,43 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een boerderij of plantage;
+- f) een boerderij of plantage;
 
-- g). een mijn, een oliebron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- g) een mijn, een oliebron, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
 
-- h). het uitvoeren van niet onder letter i) vallende bouw-, constructie-, installatie-, montage-, graaf-, ontginnings-, bagger- of opruimingswerken of andere dergelijke werkzaamheden, of daarmede verband houdende werkzaamheden van toezichthoudende aard, hetzij gedurende meer dan drie maanden binnen een tijdvak van twaalf maanden, hetzij als onderdeel van een werk dat achtereenvolgens door verschillende ondernemingen wordt uitgevoerd en waarvan de totale duur drie maanden binnen een tijdvak van twaalf maanden overschrijdt;
+- h) het uitvoeren van niet onder letter i) vallende bouw-, constructie-, installatie-, montage-, graaf-, ontginnings-, bagger- of opruimingswerken of andere dergelijke werkzaamheden, of daarmede verband houdende werkzaamheden van toezichthoudende aard, hetzij gedurende meer dan drie maanden binnen een tijdvak van twaalf maanden, hetzij als onderdeel van een werk dat achtereenvolgens door verschillende ondernemingen wordt uitgevoerd en waarvan de totale duur drie maanden binnen een tijdvak van twaalf maanden overschrijdt;
 
-- i). het uitvoeren van constructie-, installatie- of montagewerkzaamheden ten aanzien van machines en industriële uitrusting, of daarmee verband houdende werkzaamheden van toezichthoudende aard, hetzij gedurende meer dan 183 dagen binnen een tijdvak van twaalf maanden, hetzij als onderdeel van werkzaamheden die achtereenvolgens door verschillende ondernemingen worden uitgevoerd en waarvan de totale duur 183 dagen binnen een tijdvak van twaalf maanden overschrijdt;
+- i) het uitvoeren van constructie-, installatie- of montagewerkzaamheden ten aanzien van machines en industriële uitrusting, of daarmee verband houdende werkzaamheden van toezichthoudende aard, hetzij gedurende meer dan 183 dagen binnen een tijdvak van twaalf maanden, hetzij als onderdeel van werkzaamheden die achtereenvolgens door verschillende ondernemingen worden uitgevoerd en waarvan de totale duur 183 dagen binnen een tijdvak van twaalf maanden overschrijdt;
 
-- j). het verlenen van diensten, met inbegrip van diensten van adviserende aard, door een onderneming door middel van een werknemer, indien werkzaamheden van dien aard in een van de Staten worden verricht gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen te boven gaan.
+- j) het verlenen van diensten, met inbegrip van diensten van adviserende aard, door een onderneming door middel van een werknemer, indien werkzaamheden van dien aard in een van de Staten worden verricht gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen te boven gaan.
 
 3. Een vaste inrichting wordt niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag of uitstalling van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag of uitstalling van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag of uitstalling;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag of uitstalling;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
 
 4. Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het zevende lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting beschouwd, indien
 
-- a). hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
+- a) hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in de eerstbedoelde Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming; of
 
-- b). hij in de eerstbedoelde Staat een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming.
+- b) hij in de eerstbedoelde Staat een voorraad van aan de onderneming toebehorende goederen of koopwaar aanhoudt waaruit hij regelmatig bestellingen uitvoert namens de onderneming.
 
 5. Een verzekeringsonderneming van een van de Staten wordt, behoudens voor zover het herverzekering betreft, geacht een vaste inrichting in de andere Staat te bezitten, indien zij op het grondgebied van die Staat premies int of aldaar aanwezige risico's verzekert door middel van een werknemer of een vertegenwoordiger die geen onafhankelijke vertegenwoordiger in de zin van het zevende lid is.
 
@@ -216,9 +191,9 @@ Deze Overeenkomst is van toepassing op personen die inwoner zijn van een van de 
 
 1. Indien –
 
-- a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in haar handelsbetrekkingen of financiële betrekkingen voorwaarden worden aanvaard of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar ten gevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -230,11 +205,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Deze dividenden mogen echter in de Staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 7½ percent van het bruto bedrag van de dividenden, indien de genieter een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt, mits de verhouding tussen de twee lichamen niet in het leven is geroepen of wordt gehandhaafd in de eerste plaats met het doel het voordeel van dat verlaagde tarief te genieten;
+- a) 7½ percent van het bruto bedrag van de dividenden, indien de genieter een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld en dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt, mits de verhouding tussen de twee lichamen niet in het leven is geroepen of wordt gehandhaafd in de eerste plaats met het doel het voordeel van dat verlaagde tarief te genieten;
 
-- b). 15 percent van het bruto bedrag van de niet onder a vallende dividenden, indien die dividenden niet begrepen zijn in de grondslag waarnaar de belasting wordt geheven in het land waarvan de genieter inwoner is;
+- b) 15 percent van het bruto bedrag van de niet onder a vallende dividenden, indien die dividenden niet begrepen zijn in de grondslag waarnaar de belasting wordt geheven in het land waarvan de genieter inwoner is;
 
-- c). 20 percent van het bruto bedrag van de dividenden in alle andere gevallen.
+- c) 20 percent van het bruto bedrag van de dividenden in alle andere gevallen.
 
 3. De bepalingen van het tweede lid laten onverlet de belastingheffing van het lichaam ter zake van de winsten waaruit de dividenden worden betaald.
 
@@ -250,9 +225,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Deze interest mag echter in de Staat waaruit zij afkomstig is, overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 5 percent van het bruto bedrag van de interest, indien deze wordt genoten door een bank of een daarmede gelijk te stellen financiële instelling;
+- a) 5 percent van het bruto bedrag van de interest, indien deze wordt genoten door een bank of een daarmede gelijk te stellen financiële instelling;
 
-- b). 10 percent van het bruto bedrag van de interest in alle andere gevallen.
+- b) 10 percent van het bruto bedrag van de interest in alle andere gevallen.
 
 3. In afwijking van het bepaalde in het tweede lid mag de Staat waaruit de interest afkomstig is geen belasting heffen van interest betaald aan de andere Staat of aan een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, dan wel aan een agentschap of orgaan (daaronder begrepen een financiële instelling) dat geheel eigendom is van die Staat of van dat staatkundige onderdeel of plaatselijke publiekrechtelijke lichaam.
 
@@ -270,9 +245,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Deze royalty's mogen echter in de Staat waaruit zij afkomstig zijn, overeenkomstig de wetgeving van die Staat worden belast, maar de aldus geheven belasting mag niet overschrijden:
 
-- a). 10 percent van het bruto bedrag van de royalty's voor bioscoopfilms en films of beeldbanden en geluidsbanden voor televisie of radio;
+- a) 10 percent van het bruto bedrag van de royalty's voor bioscoopfilms en films of beeldbanden en geluidsbanden voor televisie of radio;
 
-- b). 5 percent van het bruto bedrag van alle andere royalty's.
+- b) 5 percent van het bruto bedrag van alle andere royalty's.
 
 3. De uitdrukking „royalty's”, zoals gebezigd in dit artikel, betekent vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap - daaronder begrepen bioscoopfilms en films of beeldbanden en geluidsbanden voor televisie of radio -, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een ontwerp, een geheim recept of een geheime werkwijze, dan wel voor het gebruik van, of het recht van gebruik van, nijverheids- en handelsuitrusting of wetenschappelijke uitrusting, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.
 
@@ -312,11 +287,11 @@ Internationale organisaties, hun organen en functionarissen, alsmede de personen
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken die in een tijdvak van twaalf maanden een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- c). de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- c) de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning verkregen door een inwoner van een van de Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer, slechts in die Staat belastbaar.
 
@@ -344,29 +319,29 @@ Onder voorbehoud van de bepaling van artikel 20, eerste lid, zijn pensioenen en 
 
 1. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt in de eerste plaats met de bedoeling –
 
-- a). aan een erkende universiteit, hogeschool of school in die eerstbedoelde Staat te studeren; of
+- a) aan een erkende universiteit, hogeschool of school in die eerstbedoelde Staat te studeren; of
 
-- b). een opleiding voor een bedrijf of beroep te verkrijgen;
+- b) een opleiding voor een bedrijf of beroep te verkrijgen;
 
 is vrijgesteld van belasting in de eerstbedoelde Staat ter zake van –
 
-- i). alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding, en
+- i) alle overmakingen uit het buitenland ten behoeve van zijn onderhoud, studie of opleiding, en
 
-- ii). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat tot een bedrag dat 5.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens in enig belastingjaar niet te boven gaat.
+- ii) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat tot een bedrag dat 5.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens in enig belastingjaar niet te boven gaat.
 
 De voordelen ingevolge dit lid worden slechts verleend voor zulk een tijdsduur als redelijk is of gewoonlijk vereist om het doel van het bezoek te bereiken.
 
 2. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt gedurende een tijdvak van niet langer dan drie jaren met de bedoeling te studeren, wetenschappelijke onderzoekingen te doen of een opleiding te verkrijgen, zulks uitsluitend als genieter van een toelage, vergoeding of prijs verleend door een organisatie op het gebied van wetenschap, onderwijs, godsdienst of liefdadigheid of op grond van een programma van technische hulpverlening waaraan een van de Staten, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan deelneemt, is vrijgesteld van belasting in de eerstbedoelde Staat voor –
 
-- a). het bedrag van die toelage, vergoeding of prijs; en
+- a) het bedrag van die toelage, vergoeding of prijs; en
 
-- b). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie, onderzoek of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 5.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens in enig belastingjaar niet te boven gaat.
+- b) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie, onderzoek of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 5.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens in enig belastingjaar niet te boven gaat.
 
 3. Een natuurlijke persoon, die onmiddellijk voor zijn bezoek aan een van de Staten inwoner is van de andere Staat en die tijdelijk in de eerstbedoelde Staat verblijf houdt gedurende een tijdvak van niet langer dan twaalf maanden als werknemer van of onder een contract met de laatstbedoelde Staat, een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan of een onderneming van de laatstbedoelde Staat, met de bedoeling technische ervaring of beroeps- of bedrijfservaring te verkrijgen, is vrijgesteld van belasting in de eerstbedoelde Staat voor –
 
-- a). alle overmakingen uit de laatstbedoelde Staat ten behoeve van zijn onderhoud, studie of opleiding, en
+- a) alle overmakingen uit de laatstbedoelde Staat ten behoeve van zijn onderhoud, studie of opleiding, en
 
-- b). alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 15.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens niet te boven gaat.
+- b) alle beloningen voor persoonlijke arbeid verricht in de eerstbedoelde Staat, mits die arbeid verband houdt met zijn studie of opleiding of daaruit voortvloeit, zulks tot een bedrag dat 15.000 Nederlandse guldens of de tegenwaarde daarvan in Surinaamse guldens niet te boven gaat.
 
 De voordelen ingevolge dit lid worden echter niet verleend, indien de technische ervaring of de beroeps- of bedrijfservaring wordt verkregen van een lichaam, van welks stemgerechtigde aandelenkapitaal de Staat, het staatkundige onderdeel of het plaatselijke publiekrechtelijke lichaam daarvan of de onderneming, die de werknemer of de gecontracteerde persoon heeft uitgezonden, 50 percent of meer bezit.
 
@@ -396,9 +371,9 @@ Bestanddelen van het inkomen van een inwoner van een van de Staten die niet uitd
 
 3. Elk van de Staten verleent voorts een vermindering op de overeenkomstig de voorgaande leden van dit artikel berekende belasting met betrekking tot de bestanddelen van het inkomen, die volgens de artikelen 10, tweede lid, 11, tweede lid, 12, tweede lid, en 18 in de andere Staat mogen worden belast en die in de in het eerste lid van dit artikel bedoelde grondslag zijn begrepen. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in de andere Staat geheven belasting;
+- a) het bedrag dat gelijk is aan de in de andere Staat geheven belasting;
 
-- b). het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+- b) het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag dat tot dat belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 4. Indien, als gevolg van een tegemoetkoming verleend op grond van de bepalingen van de Surinaamse Investeringsverordening of op grond van enige andere bijzondere wettelijke regeling ter bevordering van de economische ontwikkeling van Suriname, de in feite geheven Surinaamse belasting op dividenden betaald door een lichaam, dat inwoner is van Suriname en dat uitsluitend of nagenoeg uitsluitend als bank werkzaam is of waarvan de werkzaamheden zich in hoofdzaak bewegen op het gebied van landbouw, cultures, bosbouw, visserij, veeteelt, mijnbouw, industrie, transportwezen, volkshuisvesting, toerisme, infrastructuur of enig ander produktiegebied, minder bedraagt dan de belasting die Suriname ingevolge artikel 10, tweede lid, letter c, zou hebben mogen heffen, wordt voor de toepassing door Nederland van het derde lid van dit artikel het bedrag dat gelijk is aan de in Suriname over die dividenden geheven belasting, geacht 20 percent van het bruto bedrag daarvan te zijn.
 
@@ -450,11 +425,11 @@ De bevoegde autoriteiten van de Staten wisselen zodanige inlichtingen uit als no
 
 In geen geval worden de bepalingen van de artikelen 27 en 28 aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- a). administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
+- a) administratieve maatregelen te nemen die in strijd zijn met de wetgeving of de administratieve praktijk van die of van de andere Staat;
 
-- b). gegevens te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van de administratieve werkzaamheden van die of van de andere Staat;
+- b) gegevens te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van de administratieve werkzaamheden van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 ##### Artikel 30. Diplomatieke en consulaire ambtenaren
 
@@ -486,16 +461,14 @@ Deze Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Pa
 
 3. Onverminderd het bepaalde in het eerste lid, kan elk van de Overeenkomstsluitende Partijen de toepasselijkheid van artikel 8 van de Overeenkomst ten aanzien van voordelen uit de exploitatie van luchtvaartuigen langs diplomatieke weg afzonderlijk opzeggen door ten minste zes maanden voor het einde van enig kalenderjaar na het jaar 1980 een kennisgeving van beëindiging te zenden. In dat geval houdt genoemd artikel ten aanzien van zodanige voordelen op van toepassing te zijn met betrekking tot belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan.
 
-Bij de ondertekening van de Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Republiek Suriname gesloten, zijn de ondergetekenden overeengekomen, dat de volgende bepalingen een integrerend deel van de Overeenkomst vormen.
-
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 
 GEDAAN, in twee originelen, in de Nederlandse taal, te Paramaribo op 25 november 1975.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) J. M. DEN UYL
 
-**Voor de Regering van de Republiek Suriname**
+*Voor de Regering van de Republiek Suriname*
 
 (w.g.) H. A. E. ARRON

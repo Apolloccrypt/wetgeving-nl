@@ -1,61 +1,29 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de erkenning van equivalenties op het gebied van het hoger onderwijs"
 identifier: "BWBV0002999"
-country: "nl"
-rank: "verdrag"
-publication_date: "1987-02-01"
-last_updated: "1987-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002999"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10003288623"
-version_id: "10003312482"
-internal_id: "C10006978971"
-label_id: "10003274364"
-dtd_version: "2.0"
-original_entry_into_force: "1987-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002999/1987-02-01/0"
-intitule_bron: "Trb.1985-146"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1986-11-06"
-intitule_published: "1985-11-20"
-intitule_in_force: "1986-12-03"
-intitule_status: "goed"
-original_publication: "Trb.1985-146"
-original_signed_date: "1986-11-06"
-original_published_date: "1985-11-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1985-146"
-entry_into_force_date: "1987-02-01"
-jci_1_3: "jci1.3:c:BWBV0002999&z=1987-02-01&g=1987-02-01"
-jci_1_0: "1.0:c:BWBV0002999&g=1987-02-01"
-citeertitel_status: "officieel"
-signed_date: "1986-11-06"
-entry_into_force: "1987-02-01"
+publicatiedatum: 1987-02-01
+laatste_update: 1987-02-01
+status: geldig
+toestand: 1987-02-01
+bron: "https://wetten.overheid.nl/BWBV0002999"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de erkenning van equivalenties op het gebied van het hoger onderwijs
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Oostenrijk
-
-in de geest van de vriendschappelijke betrekkingen tussen beide Staten,
-
-geleid door de wens de toelating tot of de voortzetting van de studie voor studenten uit beide Staten in elk der Overeenkomstsluitende Staten te vereenvoudigen,
-
-zijn het volgende overeengekomen inzake de erkenning van studietijden en studieresultaten ten behoeve van de voortzetting van de studie aan instellingen van hoger onderwijs alsmede inzake het voeren van academische graden:
+*Het Koninkrijk der Nederlanden en de Republiek Oostenrijk in de geest van de vriendschappelijke betrekkingen tussen beide Staten, geleid door de wens de toelating tot of de voortzetting van de studie voor studenten uit beide Staten in elk der Overeenkomstsluitende Staten te vereenvoudigen, zijn het volgende overeengekomen inzake de erkenning van studietijden en studieresultaten ten behoeve van de voortzetting van de studie aan instellingen van hoger onderwijs alsmede inzake het voeren van academische graden:*
 
 ##### Artikel 1
 
 In deze Overeenkomst betekent:
 
-- (a). de uitdrukking „instellingen van hoger onderwijs”: alle universiteiten, hogescholen en andere instellingen van hoger onderwijs, die in het Koninkrijk der Nederlanden en in de Republiek Oostenrijk wettelijk worden beschouwd het karakter van hoger onderwijs te hebben en die gerechtigd zijn de doctorsgraad te verlenen, of waar studies met een academische graad of met een „staatsexamen” kunnen worden afgesloten;
+- (a) de uitdrukking „instellingen van hoger onderwijs”: alle universiteiten, hogescholen en andere instellingen van hoger onderwijs, die in het Koninkrijk der Nederlanden en in de Republiek Oostenrijk wettelijk worden beschouwd het karakter van hoger onderwijs te hebben en die gerechtigd zijn de doctorsgraad te verlenen, of waar studies met een academische graad of met een „staatsexamen” kunnen worden afgesloten;
 
-- (b). de uitdrukking „academische graad”: elk diploma of elke graad, die door een instelling van hoger onderwijs als bewijs van de voltooiing van een studie wordt verleend;
+- (b) de uitdrukking „academische graad”: elk diploma of elke graad, die door een instelling van hoger onderwijs als bewijs van de voltooiing van een studie wordt verleend;
 
-- (c). de uitdrukking „examen” respectievelijk „staatsexamen”: zowel afsluitende examens als tussentijdse examens of deelexamens binnen het kader van een studie aan een instelling van hoger onderwijs.
+- (c) de uitdrukking „examen” respectievelijk „staatsexamen”: zowel afsluitende examens als tussentijdse examens of deelexamens binnen het kader van een studie aan een instelling van hoger onderwijs.
 
 ##### Artikel 2
 
@@ -95,12 +63,12 @@ Deze overeenkomst is slechts verbindend voor het Europese grondgebied van het Ko
 
 GEDAAN te Wenen, de 21e oktober 1985 in twee exemplaren, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 (w.g.) L. H. J. B. VAN GORKOM
 
 (w.g.) W. J. DEETMAN
 
-**Voor de Republiek Oostenrijk,**
+*Voor de Republiek Oostenrijk,*
 
 (w.g.) HEINZ FISCHER

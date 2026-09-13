@@ -1,50 +1,21 @@
 ---
 title: "Overeenkomst tussen de Europese Economische Gemeenschap (EEG) en België, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Ierland, Italië, Luxemburg, Nederland en het Verenigd Koninkrijk, Lid-Staten van deze Gemeenschap (Lid-Staten), enerzijds en de Internationale Ontwikkelingsassociatie (Associatie) anderzijds"
 identifier: "BWBV0003396"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-01-01"
-last_updated: "1979-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003396"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003511783"
-version_id: "10003559252"
-internal_id: "C10006980971"
-label_id: "10003497374"
-dtd_version: "2.0"
-original_entry_into_force: "1979-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003396/1979-01-01/0"
-intitule_bron: "Trb.1978-97"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-07-31"
-intitule_in_force: "1979-03-30"
-intitule_status: "goed"
-original_publication: "Trb.1978-97"
-original_published_date: "1978-07-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-97"
-entry_into_force_date: "1979-01-01"
-jci_1_3: "jci1.3:c:BWBV0003396&z=1979-01-01&g=1979-01-01"
-jci_1_0: "1.0:c:BWBV0003396&g=1979-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-01-01"
+publicatiedatum: 1979-01-01
+laatste_update: 1979-01-01
+status: geldig
+toestand: 1979-01-01
+bron: "https://wetten.overheid.nl/BWBV0003396"
+opgehaald: 2026-09-13
 ---
+
 # Overeenkomst tussen de Europese Economische Gemeenschap (EEG) en België, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Ierland, Italië, Luxemburg, Nederland en het Verenigd Koninkrijk, Lid-Staten van deze Gemeenschap (Lid-Staten), enerzijds en de Internationale Ontwikkelingsassociatie (Associatie) anderzijds
 
-Overwegende dat:
+*Overwegende dat: a) de EEG heeft besloten bij te dragen tot het Speciale-Actieprogramma waartoe is besloten op de Conferentie over Internationale Economische Samenwerking ten einde te helpen voorzien in de onmiddellijke behoeften van individuele landen met geringe inkomsten die te kampen hebben met algemene problemen op het gebied van de overdracht van middelen waardoor hun ontwikkeling wordt belemmerd; b) ten einde bovengenoemd besluit ten uitvoer te leggen, de EEG de Associatie heeft verzocht voor haar een speciale rekening (Speciale-Actierekening) te beheren voor een totaal bedrag dat overeenkomt met de tegenwaarde van 385 miljoen US dollar, die afzonderlijk en gescheiden moet worden gehouden van alle andere rekeningen en activa van de Associatie en moet worden gebruikt voor kredieten (Speciale-Actiekredieten) in bedragen die, zowel wat de leningen uit hoofde van programma's als wat de leningen uit hoofde van projecten betreft, worden verstrekt in aanvulling op het bedrag van het voorgenomen programma van de Associatie voor het tijdvak waarvoor gelden zijn vastgelegd op grond van de Speciale-Actierekening, voor elk land dat daarvoor in aanmerking komt en anderszins zoals hierna wordt uiteengezet; c) het de doelstelling van de EEG en de Lid-Staten is - en de Associatie zal al het mogelijke doen om dat te bewerkstelligen - dat het gehele door de Lid-Staten bij te dragen bedrag binnen zes maanden na de datum waarop de Overeenkomst van kracht wordt, wordt vastgelegd en voor zover mogelijk binnen twee jaar vanaf die datum aan kredieten is besteed; d) de EEG en de Associatie overleg hebben gepleegd inzake de voorgestelde tenuitvoerlegging en het voorgestelde beheer van deze overeenkomst en inzake de vastlegging van gelden met het oog op een ruime en evenwichtige geografische spreiding in het kader daarvan; dat de Associatie de EEG daartoe een tabel heeft verstrekt over de wijze waarop zij voorstelt de in deze overeenkomst neergelegde criteria toe te passen, Komen de partijen het volgende overeen:*
 
-de EEG heeft besloten bij te dragen tot het Speciale-Actieprogramma waartoe is besloten op de Conferentie over Internationale Economische Samenwerking ten einde te helpen voorzien in de onmiddellijke behoeften van individuele landen met geringe inkomsten die te kampen hebben met algemene problemen op het gebied van de overdracht van middelen waardoor hun ontwikkeling wordt belemmerd;
-
-ten einde bovengenoemd besluit ten uitvoer te leggen, de EEG de Associatie heeft verzocht voor haar een speciale rekening (Speciale-Actierekening) te beheren voor een totaal bedrag dat overeenkomt met de tegenwaarde van 385 miljoen US dollar, die afzonderlijk en gescheiden moet worden gehouden van alle andere rekeningen en activa van de Associatie en moet worden gebruikt voor kredieten (Speciale-Actiekredieten) in bedragen die, zowel wat de leningen uit hoofde van programma's als wat de leningen uit hoofde van projecten betreft, worden verstrekt in aanvulling op het bedrag van het voorgenomen programma van de Associatie voor het tijdvak waarvoor gelden zijn vastgelegd op grond van de Speciale-Actierekening, voor elk land dat daarvoor in aanmerking komt en anderszins zoals hierna wordt uiteengezet;
-
-het de doelstelling van de EEG en de Lid-Staten is - en de Associatie zal al het mogelijke doen om dat te bewerkstelligen - dat het gehele door de Lid-Staten bij te dragen bedrag binnen zes maanden na de datum waarop de Overeenkomst van kracht wordt, wordt vastgelegd en voor zover mogelijk binnen twee jaar vanaf die datum aan kredieten is besteed;
-
-de EEG en de Associatie overleg hebben gepleegd inzake de voorgestelde tenuitvoerlegging en het voorgestelde beheer van deze overeenkomst en inzake de vastlegging van gelden met het oog op een ruime en evenwichtige geografische spreiding in het kader daarvan; dat de Associatie de EEG daartoe een tabel heeft verstrekt over de wijze waarop zij voorstelt de in deze overeenkomst neergelegde criteria toe te passen,
-
-Komen de partijen het volgende overeen:
-
-### AFDELING I. Opening en beheer van de Speciale-Actierekening
+#### AFDELING I. Opening en beheer van de Speciale-Actierekening
 
 ##### Artikel 1
 
@@ -54,7 +25,7 @@ Hierbij wordt door de Associatie een speciale rekening geopend onder de naam „
 
 Elke Lid-Staat levert een bijdrage aan de Speciale-Actierekening in een bedrag van zijn eigen valuta dat op de datum van ondertekening van deze Overeenkomst gelijk is aan het bedrag in US-dollar dat hieronder naast zijn naam is aangegeven.
 
-| **Lid-Staten** | **Bedrag** (miljoen US $) |
+| Lid-Staten | Bedrag (miljoen US $) |
 | --- | --- |
 | België | 15,90 |
 | Denemarken | 11,28 |
@@ -65,45 +36,45 @@ Elke Lid-Staat levert een bijdrage aan de Speciale-Actierekening in een bedrag v
 | Luxemburg | 0,50 |
 | Nederland | 30,80 |
 | Verenigd Koninkrijk | 115,00 |
-|   | 385,00. |
+|  | 385,00. |
 
 ##### Artikel 3
 
 De betaling van elke bijdrage geschiedt als volgt:
 
-- a). De betaling wordt verricht in contanten of in de vorm van niet-rentedragende promessen van de Lid-Staten, betaalbaar op verzoek in de valuta van dat land en aan de order van de Associatie, als Beheerder van de Speciale-Actierekening; zij worden bij de depositaris van de Associatie in het betrokken land in bewaring gegeven.
+- a) De betaling wordt verricht in contanten of in de vorm van niet-rentedragende promessen van de Lid-Staten, betaalbaar op verzoek in de valuta van dat land en aan de order van de Associatie, als Beheerder van de Speciale-Actierekening; zij worden bij de depositaris van de Associatie in het betrokken land in bewaring gegeven.
 
-- b). De betaling geschiedt in twee gedeelten:
+- b) De betaling geschiedt in twee gedeelten:
 
-- i). het eerste gedeelte, van ten minste 45% van elke bijdrage, wordt binnen 30 dagen na de datum waarop deze Overeenkomst van kracht wordt, betaald, of op een ander in overleg tussen de EEG en de Beheerder bepaald tijdstip;
+   - i) het eerste gedeelte, van ten minste 45% van elke bijdrage, wordt binnen 30 dagen na de datum waarop deze Overeenkomst van kracht wordt, betaald, of op een ander in overleg tussen de EEG en de Beheerder bepaald tijdstip;
 
-- ii). het tweede gedeelte, bestaande uit het saldo van de bijdrage, wordt tegen 1 januari 1979 betaald, op of op een ander in overleg tussen de EEG en de Beheerder bepaald tijdstip, waarbij rekening dient te worden gehouden met de termijnen die nodig zijn voor de parlementaire goedkeuring van de jaarlijkse begrotingen.
+   - ii) het tweede gedeelte, bestaande uit het saldo van de bijdrage, wordt tegen 1 januari 1979 betaald, op of op een ander in overleg tussen de EEG en de Beheerder bepaald tijdstip, waarbij rekening dient te worden gehouden met de termijnen die nodig zijn voor de parlementaire goedkeuring van de jaarlijkse begrotingen.
 
-- c). De Lid-Staat die dat wenst, kan zijn betalingen eerder doen dan boven aangegeven.
+- c) De Lid-Staat die dat wenst, kan zijn betalingen eerder doen dan boven aangegeven.
 
 ##### Artikel 4
 
-De Beheerder neemt gelden op uit de in contanten of in promessen beschikbaar gestelde bedragen op min of meer **pro rata** -basis in overeenstemming met de normale procedures van de Associatie ten einde de nodige Speciale-Actiekredieten uit te betalen en een redelijk werksaldo op de Speciale-Actierekening te handhaven.
+De Beheerder neemt gelden op uit de in contanten of in promessen beschikbaar gestelde bedragen op min of meer *pro rata* -basis in overeenstemming met de normale procedures van de Associatie ten einde de nodige Speciale-Actiekredieten uit te betalen en een redelijk werksaldo op de Speciale-Actierekening te handhaven.
 
-### AFDELING II. Gebruik van de Speciale-Actierekening
+#### AFDELING II. Gebruik van de Speciale-Actierekening
 
 ##### Artikel 1
 
 Alle bedragen die in het credit van de Speciale-Actierekening worden geboekt, worden, in overeenstemming met de door de EEG gestelde voorwaarden, door de Beheerder uitsluitend gebruikt om Speciale-Actiekredieten te verlenen aan lid-landen van de Associatie met geringe inkomsten die onmiddellijk behoeften hebben, in het bijzonder onder de minst ontwikkelde1)Zoals deze termen van tijd tot tijd worden omschreven in of ingevolge resoluties van de Algemene Vergadering van de Verenigde Naties.en de meest getroffen1)Zoals deze termen van tijd tot tijd worden omschreven in of ingevolge resoluties van de Algemene Vergadering van de Verenigde Naties. ontwikkelingslanden, waarvan de ontwikkelingsvooruitzichten door externe factoren ernstig zijn beperkt en die te kampen hebben met algemene problemen op het gebied van de overdracht van middelen en die als gevolg daarvan voor moeilijkheden kunnen komen te staan bij de schulden dienst. Bij het toekennen van deze kredieten zal de Beheerder zich, in overeenstemming met de door de EEG gestelde voorwaarden, laten leiden door de volgende factoren:
 
-- i). de relatieve armoede van het betrokken ontwikkelingsland en zijn expansiemogelijkheden op lange termijn;
+- i) de relatieve armoede van het betrokken ontwikkelingsland en zijn expansiemogelijkheden op lange termijn;
 
-- ii). de mate waarin het betrokken land voor zijn externe kapitaalvoorziening afhankelijk is van ontwikkelingshulp van de overheid;
+- ii) de mate waarin het betrokken land voor zijn externe kapitaalvoorziening afhankelijk is van ontwikkelingshulp van de overheid;
 
-- iii). de mate waarin internationale economische factoren hebben bijgedragen tot de huidige en de te verwachten economische problemen van het land;
+- iii) de mate waarin internationale economische factoren hebben bijgedragen tot de huidige en de te verwachten economische problemen van het land;
 
-- iv). ontwikkelingen in en vooruitzichten voor de exportopbrengsten van het land;
+- iv) ontwikkelingen in en vooruitzichten voor de exportopbrengsten van het land;
 
-- v). het vermogen van het land om goederen in te voeren die essentieel zijn voor het ontwikkelingsproces;
+- v) het vermogen van het land om goederen in te voeren die essentieel zijn voor het ontwikkelingsproces;
 
-- vi). de samenstelling en de trend van de schuldendienstverplichtingen van het land en zijn vermogen om nog verdere leningen op te nemen op niet concessionele voorwaarden; en
+- vi) de samenstelling en de trend van de schuldendienstverplichtingen van het land en zijn vermogen om nog verdere leningen op te nemen op niet concessionele voorwaarden; en
 
-- vii). de mate waarin de problemen van de betrokken landen zouden kunnen worden opgelost via bijdragen uit andere bronnen.
+- vii) de mate waarin de problemen van de betrokken landen zouden kunnen worden opgelost via bijdragen uit andere bronnen.
 
 ##### Artikel 2
 
@@ -133,7 +104,7 @@ De opbrengsten van elk Speciale-Actiekrediet mogen worden gebruikt voor uitgaven
 
 De terugbetalingen van de hoofdsom van de Speciale-Actiekredieten worden betaalbaar gesteld aan de Speciale-Actierekening en het aldus terugbetaalde bedrag in de valuta van een Lid-Staat wordt zo spoedig mogelijk daarna door de Beheerder aan deze Lid-Staat overgedragen. De Associatie is niet aansprakelijk voor tekorten in de terugbetaling van de Speciale-Actiekredieten.
 
-### AFDELING III. Verslagen; overleg
+#### AFDELING III. Verslagen; overleg
 
 ##### Artikel 1
 
@@ -147,7 +118,7 @@ De Beheerder zal een passende boekhouding instellen en bijhouden om vast te stel
 
 De EEG en de Beheerder werken volledig met elkaar samen om de doelstellingen van deze regeling te verwezenlijken. Totdat de Speciale-Actierekening volledig is besteed, wisselen de EEG (via de Commissie der Europese Gemeenschappen) en de Beheerder hiertoe van tijd tot tijd van gedachten over de stand en positie van de Speciale-Actierekening, over de vorderingen van de programma's of projecten die uit de Speciale-Actiekredieten zijn gefinancierd en over alle andere aangelegenheden in verband met deze regeling.
 
-### AFDELING IV. Beëindiging; verdeling
+#### AFDELING IV. Beëindiging; verdeling
 
 ##### Artikel 1
 
@@ -157,7 +128,7 @@ Indien deze Overeenkomst op 31 december 1978 of op een latere door de EEG en de 
 
 Indien en wanneer het gehele bedrag van de hoofdsom van alle Speciale-Actiekredieten die door de kredietnemers uit hoofde daarvan zijn opgenomen, is terugbetaald en is overgedragen aan de Lid-Staten overeenkomstig afdeling II, artikel 8, van deze Overeenkomst, nemen deze Overeenkomst en alle verplichtingen die de partijen uit hoofde daarvan op zich hebben genomen een einde.
 
-### AFDELING V. Slotbepalingen
+#### AFDELING V. Slotbepalingen
 
 ##### Artikel 1
 

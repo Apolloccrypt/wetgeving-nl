@@ -1,305 +1,110 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966"
 identifier: "BWBV0003185"
-country: "nl"
-rank: "verdrag"
-publication_date: "2000-01-06"
-last_updated: "2000-01-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003185"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10003389323"
-version_id: "10003429432"
-internal_id: "C10008429531"
-label_id: "10003375454"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003185/2000-01-06/0"
-intitule_bron: "Trb.2000-25"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2000-03-24"
-intitule_status: "nogniet"
-original_publication: "Trb.2000-25"
-original_published_date: "2000-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-25"
-jci_1_3: "jci1.3:c:BWBV0003185&z=2000-01-06&g=2000-01-06"
-jci_1_0: "1.0:c:BWBV0003185&g=2000-01-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "2000-03-24"
+laatste_update: 2000-01-06
+status: geldig
+toestand: 2000-01-06
+bron: "https://wetten.overheid.nl/BWBV0003185"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966
 
-De Regering van het Koninkrijk der Nederlanden
+*Le Gouvernement du Royaume des Pays-Bas et le Gouvernement de la République de Turquie, Souhaitant améliorer les rapports en matière de sécurité sociale dans le domaine des soins de santé tels que prévus par la Convention sur la sécurité sociale conclue entre le Royaume des Pays-Bas et la République de Turquie le 5 avril 1966; Considérant l’article 7 de la Convention européenne de sécurité sociale du 14 décembre 1972; Désireux de conclure un accord bilatéral conformément à l’article 26 de cette Convention; Souhaitant modifier certaines dispositions de la Convention sur la sécurité sociale conclue entre le Royaume des Pays-Bas et la République de Turquie le 5 avril 1966; Sont convenus des dispositions suivantes:*
 
-en
+### CHAPITRE I. Dispositions générales
 
-de Regering van de Republiek Turkije
+##### Article 1
 
-Verlangende de betrekkingen inzake de sociale zekerheid op het gebied van de gezondheidszorg zoals bedoeld in het op 5 april 1966 tussen het Koninkrijk der Nederlanden en de Republiek Turkije gesloten Verdrag inzake sociale zekerheid te verbeteren;
+Aux fins de l’application du présent Accord:
 
-Gezien artikel 7 van het Europees Verdrag inzake sociale zekerheid van 14 december 1972;
+- a) le terme «Partie Contractante» désigne l’Etat contractant le présent Accord;
 
-Verlangend overeenkomstig artikel 26 van dat Verdrag een bilaterale verdrag te sluiten;
+- b) le terme «Convention» désigne la Convention européenne de sécurité sociale du 14 décembre 1972;
 
-Geleid door de wens enige bepalingen van het op 5 april 1966 tussen het Koninkrijk der Nederlanden en de Republiek Turkije gesloten Verdrag inzake sociale zekerheid te wijzigen;
+- c) les autres termes mentionnés dans le présent Accord ont la signification qui leur est attribué à l’article 1 de la Convention.
 
-Zijn de volgende bepalingen overeen gekomen:
+### CHAPITRE II. Maladie et maternité
 
-### HOOFDSTUK I. Algemene bepalingen
+##### Article 2
 
-##### Artikel 1
+Dans le respect des dispositions du présent Accord, les dispositions prévues aux articles 20, 21, 23 et 24 de la Convention s’appliquent aux relations entre les Parties Contractantes.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+##### Article 3
 
-- a. „Verdragsluitende Partij”: de Staat die dit Verdrag sluit;
+Les dispositions du présent Accord s’appliquent aux personnes qui satisfont aux conditions requises pour avoir droit aux prestations en vertu des dispositions de la Convention, à condition qu’elles soient soumises à la législation de l’une des Parties Contractantes en matière de prestations en cas de maladie et de maternité, ainsi que les membres de leur famille, si ces personnes ou les membres de leur famille résident sur le territoire d’une Partie Contractante.
 
-- b. „Europees Verdrag”: het Europees Verdrag inzake sociale zekerheid van 14 december 1972;
+##### Article 4
 
-- c. de overige in dit Verdrag genoemde termen hebben de betekenis die daaraan in artikel 1 van het Europees Verdrag worden toegekend.
+1. Dans les cas visés aux articles 20, 21, 23 et 24 de la Convention, l’octroi de prothèses, de grands appareils et autres prestations en nature d’une grande importance est subordonné à l’autorisation de l’autorité compétente, sauf en cas d’urgence absolue. Si ces prestations en nature ont été servies dans un cas d’urgence absolue, l’institution du lieu de résidence ou de séjour doit en notifier l’institution compétente sans délai.
 
-### HOOFDSTUK II. Ziekte en moederschap
+2. Si toutefois les frais afférents aux prestations en nature seront remboursés par des paiements forfaitaires, il n’est pas nécessaire d’obtenir l’autorisation de l’institution compétente ni de procéder à une notification telle que visée au paragraphe 1 du présent article.
 
-##### Artikel 2
+3. Sur autorisation des autorités compétentes des Parties contractantes, les organismes de liaison visés à l’article 3 de l’Accord complémentaire pour l’application de la Convention européenne de sécurité sociale du 14 décembre 1972 dressent une liste des prestations en nature auxquelles s’applique le paragraphe 1 du présent article.
 
-Met inachtneming van de bepalingen van dit Verdrag zijn de in artikel 20, 21, 23 en 24 van het Europees Verdrag genoemde bepalingen van toepassing op de betrekkingen tussen de Verdragsluitende Partijen.
+##### Article 5
 
-##### Artikel 3
+Les articles 20, paragraphe 2, 23 et 24, paragraphes 2 et 4, de la Convention ne s’appliquent aux membres de famille concernés que s’ils n’ont pas droit aux prestations en nature en vertu de la législation de la Partie Contractante sur le territoire de laquelle ils résident.
 
-De bepalingen van dit Verdrag zijn van toepassing op personen die voldoen aan de voorwaarden die vereist zijn om recht te hebben op de prestaties krachtens de bepalingen van het Europees Verdrag, mits zij vallen onder de wetgeving of wettelijke regelingen van één van de Verdragsluitende Partijen inzake verstrekkingen in geval van ziekte en moederschap, alsook hun gezinsleden, indien deze personen of hun gezinsleden wonen op het grondgebied van een Verdragsluitende Partij.
+##### Article 6
 
-##### Artikel 4
+1. Les prestations en nature servies par l’institution d’une Partie Contractante pour le compte de l’institution compétente de l’autre Partie Contractante en vertu des articles 20, 21, 23, et 24 de la Convention sont remboursées par l’institution de cette dernière Partie Contractante.
 
-1. In de in de artikelen 20, 21, 23 en 24 van het Europees Verdrag bedoelde gevallen is voor de toekenning van protheses, hulpmiddelen van grotere omvang en andere verstrekkingen van groot belang de toestemming van de bevoegde autoriteit vereist, behalve bij onmiskenbare spoedgevallen. Indien deze verstrekkingen zijn verleend in een onmiskenbaar spoedgeval dient het orgaan van de woonplaats of van de verblijfplaats het bevoegde orgaan hiervan onverwijld kennisgeving te doen.
+2. Les remboursements sont déterminés et effectués conformément à la procédure prévue dans [l’Arrangement administratif visé dans l’article 8 du présent Accord](https://wetten.overheid.nl/BWBV0003185), soit sur production d’une preuve des dépenses réelles, soit sur la base de paiements forfaitaires.
 
-2. Indien echter de met de verstrekkingen samenhangende kosten zullen worden vergoed door middel van forfaitaire betalingen, is het niet noodzakelijk de toestemming van het bevoegde orgaan te verkrijgen, noch de in het eerste lid van dit artikel bedoelde kennisgeving te doen.
+Dans ce dernier cas, les paiements forfaitaires doivent être tels que le remboursement correspond autant possible aux dépenses réelles.
 
-3. Na goedkeuring door de bevoegde autoriteiten van de Verdragsluitende Partijen stellen de in artikel 3 van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid van 14 december 1972 bedoelde verbindingsorganen een lijst van verstrekkingen op waarop het eerste lid van dit artikel van toepassing is.
+3. Les autorités compétentes des Parties Contractantes peuvent convenir d’autres méthodes de remboursement ou de renoncer à tout remboursement entre les institutions relevant de leur juridiction.
 
-##### Artikel 5
+##### Article 7
 
-De artikelen 20, tweede lid, 23 en 24, tweede en vierde lid, van het Europees Verdrag zijn slechts op de betrokken gezinsleden van toepassing indien zij geen recht hebben op de verstrekkingen krachtens de wetgeving of wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan zij wonen.
+Les dispositions du paragraphe 2, alinéa b, de l’article 21 de la Convention, ne s’appliquent pas en ce qui concerne les relations entre les Parties Contractantes.
 
-##### Artikel 6
+### CHAPITRE III. Dispositions diverses et finales
 
-1. De verstrekkingen die worden verleend door het orgaan van een Verdragsluitende Partij voor rekening van het bevoegd orgaan van de andere Verdragsluitende Partij krachtens de artikelen 20, 21, 23 en 24 van het Europees Verdrag, worden vergoed door het orgaan van deze laatste Verdragsluitende Partij.
+##### Article 8
 
-2. De vergoedingen worden vastgesteld en uitgevoerd overeenkomstig de procedure genoemd in het in [artikel 8 van dit Verdrag bedoelde Administratief Akkoord](https://wetten.overheid.nl/jci1.3:c:BWBV0003185&hoofdstuk=II&artikel=8&z=2000-01-06&g=2000-01-06), hetzij tegen overlegging van een bewijs van de werkelijke uitgaven, hetzij op basis van forfaitaire betalingen.
+Les autorités compétentes des Parties Contractantes fixent les modalités d’application du présent Accord dans un [Arrangement administratif](https://wetten.overheid.nl/BWBV0003185), en se basant sur l’Accord complémentaire pour l’application de la Convention européenne de sécurité sociale du 14 décembre 1972.
 
-In dit laatste geval moeten de forfaitaire betalingen zodanig zijn dat de vergoeding zoveel mogelijk overeenkomt met de werkelijke uitgaven.
+##### Article 9
 
-3. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen andere methoden van vergoeding overeenkomen of overeenkomen af te zien van elke vergoeding tussen de organen die onder hun rechtsbevoegdheid vallen.
+En ce qui concerne l’application du Titre II de la Convention, une personne concernée est soumise à la législation d’une seule Partie Contractante.
 
-##### Artikel 7
+##### Article 10
 
-De bepalingen van artikel 21, tweede lid, letter b), van het Europees Verdrag zijn niet van toepassing ten aanzien van de betrekkingen tussen de Verdragsluitende Partijen.
+La provision du Chapitre VI, sous D de l’Annexe VII de la Convention ne s’applique pas entre la Turquie et les Pays-Bas.
 
-### HOOFDSTUK III. Diverse bepalingen en slotbepalingen
+##### Article 11
 
-##### Artikel 8
+*Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; Ankara, 1 februari 1968.*
 
-De bevoegde autoriteiten van de Verdragsluitende Partijen leggen de wijze van toepassing van dit Verdrag vast in een Administratief Akkoord, uitgaande van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid van 14 december 1972.
+##### Article 12
 
-##### Artikel 9
+1. Les gouvernements des Parties Contractantes se notifient mutuellement par écrit l’achèvement de leurs procédures constitutionnelles respectives, requises pour l’entrée en vigueur du présent Accord.
 
-Ten aanzien van de toepassing van Titel II van het Europees Verdrag is een betrokken persoon onderworpen aan de wetgeving of wettelijke regelingen van een enkele Verdragsluitende Partij.
+2. Le présent Accord entrera en vigueur le premier jour du deuxième mois suivant la date de la dernière notification.
 
-##### Artikel 10
+3. Le [Protocole final](https://wetten.overheid.nl/BWBV0003185) du présent Accord fait partie intégrante dudit Accord.
 
-De bepaling van Hoofdstuk VI, onder D, van Bijlage VII van het Europees Verdrag is niet van toepassing tussen Turkije en Nederland.
+4. Les Parties Contractantes notifieront la date d’entrée en vigueur du présent Accord au Secrétaire Général du Conseil de l’Europe.
 
-##### Artikel 11
+##### Article 13
 
-Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; Ankara, 1 februari 1968.
+Le présent Accord est conclu pour une durée indéterminée. Il peut être dénoncé par chacune des Parties Contractantes.
 
-##### Artikel 12
+La dénonciation devra être notifiée au plus tard six mois avant la fin de l’année civile en cours; l’Accord cessera alors d’être en vigueur à la fin de cette année.
 
-1. De Regeringen van de Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun respectieve constitutionele procedures, vereist voor de inwerkingtreding van dit Verdrag.
+##### Article 14
 
-2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de laatste kennisgeving.
-
-3. Het Slotprotocol van dit Verdrag vormt een integrerend onderdeel van het genoemde Verdrag.
-
-4. De Verdragsluitende Partijen stellen de Secretaris-Generaal van de Raad van Europa in kennis van de inwerkingtreding van dit Verdrag.
-
-##### Artikel 13
-
-Dit Verdrag wordt gesloten voor onbepaalde tijd. Het kan door elk van de Verdragsluitende Partijen worden opgezegd.
-
-Van de opzegging moet uiterlijk zes maanden voor het einde van het lopende kalenderjaar kennis worden gegeven; dit Verdrag houdt aan het einde van dat jaar op van kracht te zijn.
-
-##### Artikel 14
-
-Ten aanzien van Nederland is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
-
-#### Verificatie van aanvragen en betalingen
-
-##### Artikel 1
-
-1. Het bevoegde orgaan van de ondertekenende Staat waarbij een aanvraag om prestaties is ingediend, controleert de juistheid van de gegevens betreffende de aanvrager en, indien van toepassing, van diens gezinsleden en verschaft het bewijsmateriaal en de andere documenten zodanig dat deze laatste de behandeling kan vervolgen.
-
-2. Het eerste lid van dit artikel is van overeenkomstige toepassing indien het bevoegde orgaan van een ondertekenende Staat een verzoek indient om controle van de gegevens bij het orgaan van de andere ondertekenende Staat met het oog op het vaststellen van de rechtmatigheid van betalingen aan de rechthebbenden die op het grondgebied van de andere ondertekenende Staat wonen of verblijven.
-
-3. De in het eerste en tweede lid van dit artikel bedoelde gegevens strekken zich tevens uit tot het adres, de werkkring, het volgen van scholing, het inkomen, de gezinssituatie, de arbeidsgeschiktheid of de gezondheidstoestand.
-
-4. De bevoegde organen van de ondertekenende Staten kunnen zich rechtstreeks tot elkaar ofwel tot hun onderscheiden rechthebbenden of tot hun vertegenwoordigers wenden.
-
-5. De diplomatieke en consulaire vertegenwoordigers alsmede de bevoegde organen van de ene ondertekenende Staat zich rechtstreeks tot de bevoegde organen van de andere ondertekenende Staat wenden, teneinde hun de nodige gegevens van de betrokken autoriteiten te vragen, voor het vaststellen van de rechten op uitkering alsmede ter controle van de rechtmatigheid van betalingen met betrekking tot hun onderscheiden rechthebbenden.
-
-6. De in het vorige lid bedoelde “betrokken autoriteiten” omvatten mede de belastingdienst, de bureaus voor de burgerlijke stand en bevolkingsbureaus, huwelijksbureaus, arbeidsbureaus en onderwijsinstellingen.
-
-7. De in het vijfde lid bedoelde gegevens dienen door het bevoegde orgaan van de ondertekenende Staat te worden verstrekt binnen een termijn van drie maanden te rekenen vanaf de dag van de indiening van het verzoek door de diplomatieke en consulaire vertegenwoordigers of door de bevoegde organen van de andere ondertekenende Staat.
-
-#### Identificatie
-
-##### Artikel 2
-
-1. Om het recht op uitkering en de rechtmatigheid van de betaling op grond van de wettelijke regeling van een ondertekenende Staat te kunnen vaststellen, zijn de personen op wie het Verdrag van toepassing is, verplicht bij het bevoegde orgaan van het land waar zij wonen hun identiteit aan te tonen door overlegging van een officieel identiteitsbewijs. Het bevoegde orgaan kan de persoon aldus aan de hand van zijn of haar identiteitsbewijs naar behoren identificeren.
-
-2. Een geldig paspoort of geldige identiteitskaart afgegeven door een bevoegde autoriteit van de woonplaats van de belanghebbende vormt een identiteitsbewijs.
-
-3. Het bevoegde orgaan van het land van de woonplaats zendt een kopie van het identiteitsbewijs aan het bevoegde orgaan van de andere ondertekenende Staat als bewijs dat de identiteit gecontroleerd is.
-
-#### Medische controle
-
-##### Artikel 3
-
-1. Op verzoek van het bevoegde orgaan voert de Sosyal Sigortalar Kurumu (SSK) de in de Nederlandse wettelijke regeling bedoelde medische en administratieve controles uit van de in Turkije woonachtige aanvragers van of rechthebbenden op een uitkering.
-
-2. Het Landelijk Instituut Sociale Verzekeringen (LISV) voert op verzoek van het bevoegde orgaan de in de Turkse wettelijke regeling bedoelde medische en administratieve controles uit van de in Nederland woonachtige aanvragers van of rechthebbenden op een uitkering.
-
-3. Voor de vaststelling van de mate van arbeidsongeschiktheid kunnen de organen van elke ondertekenende Staat zich baseren op de door de organen van de andere ondertekenende Staat verstrekte medische rapporten en administratieve gegevens. Het bevoegde orgaan behoudt evenwel het recht het onderzoek van de betrokkene te doen verrichten door een arts van zijn keuze, of hem op te roepen voor een medisch onderzoek op het grondgebied van de bevoegde Staat.
-
-4. De betrokkene is verplicht gehoor te geven aan de in het derde lid bedoelde oproep, hetgeen wil zeggen dat hij zich moet melden en een medisch onderzoek moet ondergaan. Indien hij verklaart dat hij om medische redenen niet in staat is zich naar het grondgebied van de Staat te begeven waar het bevoegde orgaan hem heeft opgeroepen, moet hij dit orgaan hierover onverwijld inlichten. In dat geval moet hij een medische verklaring overleggen die is afgegeven door een door datzelfde bevoegde orgaan aangewezen arts. Deze verklaring moet de medische redenen vermelden van de onmogelijkheid om te reizen, alsmede het tijdvak waarna deze onmogelijkheid eindigt.
-
-5. Indien het medisch onderzoek wordt uitgevoerd op het grondgebied van de bevoegde Staat, komen de kosten van het medisch onderzoek alsmede de reis- en verblijfkosten ten laste van het orgaan dat om het onderzoek heeft verzocht.
-
-#### Weigering, schorsing en intrekking
-
-##### Artikel 4
-
-Het bevoegde orgaan van een van de ondertekenende Staten is bevoegd de invaliditeits-, ouderdoms- of nabestaandenuitkering of de kinderbijslag te weigeren, te schorsen of in te trekken indien het van mening is dat de aanvrager, de rechthebbende of het bevoegde orgaan van de andere ondertekenende Staat niet de benodigde inlichtingen heeft verstrekt, indien de inlichtingen niet binnen drie maanden na de datum van het verzoek zijn verstrekt, of indien zij onvolledig zijn, ofwel indien de betrokkene niet een door het bevoegde orgaan voorzien geneeskundig onderzoek heeft ondergaan of indien hij het niet tijdig of volledig heeft ondergaan.
-
-#### Inwerkingtreding
-
-##### Artikel 5
-
-Dit Aanvullend Akkoord, dat een integrerend onderdeel vormt van het op 6 januari 2000 tussen het Koninkrijk der Nederlanden en de Republiek Turkije gesloten Verdrag inzake sociale zekerheid, treedt in werking onder dezelfde voorwaarden en voor hetzelfde tijdvak als het Verdrag.
-
-Ten behoeve van de toepassing van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966, zijn de Nederlandse en Turkse bevoegde autoriteiten de volgende bepalingen overeengekomen:
-
-### HOOFDSTUK I. Algemene bepalingen
-
-##### Artikel 1
-
-Voor de toepassing van dit Administratief Akkoord wordt verstaan onder:
-
-- a. „Verdrag”, het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije overeenkomstig de artikelen 7 en 26 van het Europees Verdrag inzake sociale zekerheid, gesloten op 14 december 1972, en houdende herziening van het Verdrag inzake sociale zekerheid, gesloten tussen het Koninkrijk der Nederlanden en de Republiek Turkije op 5 april 1966;
-
-- b. „Aanvullend Akkoord”, het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid van 14 december 1972;
-
-- c. „Bevoegde autoriteiten”, de in Bijlage 1 van het Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid bedoelde autoriteiten;
-
-- d. de overige in dit Akkoord vermelde termen hebben dezelfde betekenis als die welke daaraan wordt toegekend in [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003185&hoofdstuk=I&artikel=1&z=2000-01-06&g=2000-01-06).
-
-### HOOFDSTUK II. Ziekte en moederschap
-
-##### Artikel 2
-
-Met inachtneming van de bepalingen van dit Akkoord zijn de bepalingen van de artikelen 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29 en 30 van het Aanvullend Akkoord van toepassing op de betrekkingen tussen de Verdragsluitende Partijen.
-
-##### Artikel 3
-
-Het is niet noodzakelijk over te gaan tot de in artikel 17, zesde lid, van het Aanvullend Akkoord bedoelde kennisgeving wanneer de met de verstrekkingen samenhangende kosten door forfaitaire betalingen worden vergoed of wanneer wordt afgezien van de vergoeding van deze kosten.
-
-##### Artikel 4
-
-Het orgaan van de woonplaats of de verblijfplaats geeft de bevoegde autoriteit van tevoren kennis van elk besluit met betrekking tot de verlening van de in [artikel 4, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003185&hoofdstuk=II&artikel=4&z=2000-01-06&g=2000-01-06) bedoelde verstrekkingen.
-
-De bevoegde autoriteit beschikt over een termijn van vijftien dagen, te rekenen vanaf de datum van verzending van een kennisgeving, om bezwaar te maken en een dergelijk bezwaar te motiveren. Indien bij het verstrijken van de genoemde termijn geen bezwaar is gemaakt, gaat het orgaan van de woonplaats of de verblijfplaats over tot de verlening van de verstrekkingen.
-
-##### Artikel 5
-
-1. Het Turkse bevoegde orgaan vergoedt de kosten van de verstrekkingen die zijn verleend:
-
-- a. met toepassing van artikel 20, eerste en tweede lid, en artikel 23 van het Europees Verdrag, door storting van een forfaitair bedrag, gebaseerd op de gemiddelde jaarlijkse kosten per persoon van jonger dan 65 jaar;
-
-- b. met toepassing van artikel 21 en artikel 24, zesde lid, van het Europees Verdrag, elke zes maanden, op basis van de werkelijke bedragen van deze verstrekkingen zoals zij zijn vermeld in de boekhouding van het orgaan dat genoemde verstrekkingen heeft verleend;
-
-- c. met toepassing van artikel 24, tweede en vierde lid, van het Europees Verdrag, door storting van een forfaitair bedrag, gebaseerd op de gemiddelde kosten per persoon, verdeeld in een bedrag voor personen van jonger dan 65 jaar en een bedrag voor personen van ouder dan 65 jaar.
-
-2. De in het voorgaande lid bedoelde gemiddelde jaarlijkse kosten worden berekend door de jaarlijkse uitgaven met betrekking tot alle door de Nederlandse organen aan personen van jonger dan, respectievelijk van 65 jaar en ouder, verleende verstrekkingen te delen door het gemiddelde jaarlijkse aantal verzekerden van jonger dan, respectievelijk van 65 jaar en ouder.
-
-##### Artikel 6
-
-1. Het Nederlandse bevoegde orgaan vergoedt de kosten van de verstrekkingen die zijn verleend:
-
-- a. met toepassing van artikel 20, eerste en tweede lid, van artikel 23 en artikel 24, vierde lid, van het Europees Verdrag, door storting van een forfaitair bedrag gebaseerd op 95% van de gemiddelde jaarlijkse kosten per gezin;
-
-- b. met toepassing van artikel 20, vierde lid, van artikel 21 en van artikel 24, zesde lid, van het Europees Verdrag, elke zes maanden, op basis van de werkelijke bedragen van deze verstrekkingen zoals zij zijn vermeld in de boekhouding van het orgaan dat deze verstrekkingen heeft verleend;
-
-- c. met toepassing van artikel 24, tweede lid, van het Europees Verdrag, door storting van een forfaitair bedrag, gebaseerd op de gemiddelde jaarlijkse kosten per rechthebbende op een pensioen en zijn gezinsleden;
-
-- d. voor zover de in artikel 24, tweede lid, van het Europees Verdrag bedoelde rechthebbenden op een pensioen recht hebben op een invaliditeitspensioen krachtens de Nederlandse wettelijke regeling, wordt het in het eerste lid, letter c), genoemde forfaitaire bedrag verhoogd met een aanvullend percentage dat overeenkomt met de kosten van de prothesen en van de hulpmiddelen van grotere omvang die overeenkomstig de Turkse wettelijke regeling inzake arbeidsongevallen en beroepsziekten worden verleend.
-
-- a. de in het eerste lid, letter a), bedoelde gemiddelde jaarlijkse kosten worden als volgt bepaald: Het bovengenoemde gezinscoëfficiënt wordt voor elk kalenderjaar bepaald door de „Sosyal Sigortalar Kurumu” op basis van de officiële statistische gegevens en aan de „Ziekenfondsraad” medegedeeld.
-
-- –. de jaarlijkse kosten van de door het Turkse orgaan voor sociale zekerheid aan de verzekerde personen en aan hun gezinsleden verleende verstrekkingen worden gedeeld door het aantal personen dat op deze prestaties recht heeft;
-
-- –. het aldus verkregen resultaat wordt vermenigvuldigd met een gezinscoëfficiënt;
-
-- –. het gezinscoëfficiënt wordt berekend door het totale aantal gezinsleden van de werknemers te delen door het totale aantal verzekerde personen.
-
-- b. de in het eerste lid, letter c, genoemde gemiddelde jaarlijkse kosten worden als volgt bepaald: Het gezinscoëfficiënt wordt voor elk kalenderjaar bepaald door de „Sosyal Sigortalar Kurumu” op basis van de officiële statistische gegevens en aan de „Ziekenfondsraad” medegedeeld.
-
-- –. de gemiddelde jaarlijkse kosten van de door de „Sosyal Sigortalar Kurumu” aan de verzekerde personen en hun gezinsleden verleende verstrekkingen worden gedeeld door het aantal personen dat op zulke verstrekkingen recht heeft;
-
-- –. het aldus verkregen resultaat wordt vermenigvuldigd met een gezinscoëfficiënt +1;
-
-- –. het gezinscoëfficiënt wordt berekend door het totale aantal gezinsleden van de rechthebbenden op een pensioen te delen door het totale aantal verzekerde personen.
-
-- c. het ingevolge de bepalingen van de artikelen 20 en 23, en van artikel 24, vierde lid, van het Verdrag te storten forfaitaire bedrag wordt berekend door de gemiddelde jaarlijkse kosten per gezin overeenkomstig het tweede lid, letter a), te vermenigvuldigen met het totale aantal in aanmerking komende gezinnen.
-
-- d. het ingevolge de bepalingen van artikel 24, tweede lid, van het Europees Verdrag te storten forfaitaire bedrag wordt berekend door de gemiddelde jaarlijkse kosten per rechthebbende op pensioen overeenkomstig het tweede lid, letter b), te vermenigvuldigen met het totale aantal betrokken rechthebbenden op pensioen.
-
-- e. het in het eerste lid, letter c, genoemde percentage wordt verkregen door de gemiddelde kosten per persoon van de verstrekkingen in geval van arbeidsongevallen en beroepsziekten te delen door de gemiddelde kosten per persoon van de verstrekkingen in geval van ziekte en moederschap. Het aldus verkregen percentage wordt elk kalenderjaar aan de „Ziekenfondsraad” medegedeeld.
-
-##### Artikel 7
-
-De in de artikelen 5 en 6 van dit Akkoord genoemde forfaitaire bedragen worden met 10% vermeerderd wegens administratiekosten.
-
-##### Artikel 8
-
-De in de artikelen 5, 6 en 7 van dit Akkoord genoemde vergoedingen vinden plaats door tussenkomst van de in artikel 3 van het Aanvullend Akkoord bedoelde verbindingsorganen.
-
-De verbindingsorganen kunnen overeenkomen voorschotten te verstrekken.
-
-##### Artikel 9
-
-Artikel 20, eerste lid, van het Aanvullend Akkoord is niet van toepassing ten aanzien van de betrekkingen tussen de Verdragsluitende Partijen.
-
-Artikel 21 van het Aanvullend Akkoord is van toepassing in voorkomend geval.
-
-##### Artikel 10
-
-De verbindingsorganen kunnen voor de toepassing van het Verdrag en van dit Akkoord formulieren en andere benodigde documenten vaststellen.
-
-##### Artikel 11
-
-Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 5 april 1966 te Ankara ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; ’s-Gravenhage, 14 juni 1967.
-
-##### Artikel 12
-
-Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 5 april 1966 te Ankara ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Turkije inzake sociale zekerheid; ’s-Gravenhage, 14 juni 1967.
-
-##### Artikel 13
-
-Dit Akkoord treedt op dezelfde datum in werking als het Verdrag.
+En ce qui concerne les Pays-Bas, le présent Accord ne s’applique qu’au territoire du Royaume en Europe.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont signé le présent Accord.
 
 FAIT à Ankara, le 6 Janvier 2000, en double exemplaire en langue française.
 
-**Pour le Gouvernement du Royaume des Pays-Bas,**
+*Pour le Gouvernement du Royaume des Pays-Bas,*
 
 (s.) S. I. H. GOSSES
 
@@ -307,7 +112,7 @@ S. I. H. Gosses
 
 Ambassade du Royaume des Pays-Bas
 
-**Pour le Gouvernement de la République de Turquie,**
+*Pour le Gouvernement de la République de Turquie,*
 
 (s.) YAŞAR OKUYAN
 

@@ -1,204 +1,173 @@
 ---
 title: "Protocol van 1992 tot wijziging van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969"
 identifier: "BWBV0003263"
-country: "nl"
-rank: "verdrag"
-publication_date: "2003-11-01"
-last_updated: "2003-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003263"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003445313"
-version_id: "10003491662"
-internal_id: "C10006978991"
-label_id: "10003431484"
-dtd_version: "2.0"
-original_entry_into_force: "1997-11-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003263/2003-11-01/0"
-intitule_bron: "Trb.1994-229"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1994-11-04"
-intitule_in_force: "1997-01-06"
-intitule_status: "goed"
-original_publication: "Trb.1994-229"
-original_published_date: "1994-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1994-229"
-entry_into_force_date: "1997-11-15"
-jci_1_3: "jci1.3:c:BWBV0003263&z=2003-11-01&g=2003-11-01"
-jci_1_0: "1.0:c:BWBV0003263&g=2003-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1997-11-15"
+publicatiedatum: 1997-11-15
+laatste_update: 2003-11-01
+status: geldig
+toestand: 2003-11-01
+bron: "https://wetten.overheid.nl/BWBV0003263"
+opgehaald: 2026-09-13
 ---
+
 # Protocol van 1992 tot wijziging van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969
 
-De Partijen bij dit Protocol,
+*The Parties to the present Protocol, Having considered the International Convention on Civil Liability for Oil Pollution Damage, 1969, and the 1984 Protocol thereto, Having noted that the 1984 Protocol to that Convention, which provides for improved scope and enhanced compensation, has not entered into force, Affirming the importance of maintaining the viability of the international oil pollution liability and compensation system, Aware of the need to ensure the entry into force of the content of the 1984 Protocol as soon as possible, Recognizing that special provisions are necessary in connection with the introduction of corresponding amendments to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971, Have agreed as follows:*
 
-Bestudeerd hebbend het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, en het daarbij behorende Protocol van 1984,
+##### Article 1
 
-Vastgesteld hebbend dat het Protocol van 1984 bij dat Verdrag, waarbij wordt voorzien in een ruimere werkingssfeer van het Verdrag en in een verhoging van de vergoeding, niet in werking is getreden,
+The Convention which the provisions of this Protocol amend is the International Convention on Civil Liability for Oil Pollution Damage, 1969, hereinafter referred to as the “1969 Liability Convention”. For States Parties to the Protocol of 1976 to the 1969 Liability Convention, such reference shall be deemed to include the 1969 Liability Convention as amended by that Protocol.
 
-Het belang bevestigend van de handhaving van de levensvatbaarheid van het internationale stelsel van aansprakelijkheid voor verontreiniging door olie en van vergoeding van schade,
+##### Article 2
 
-Zich bewust van de noodzaak de zo spoedig mogelijke inwerkingtreding van de inhoud van het Protocol van 1984 te verzekeren,
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-Erkennend dat er bijzondere bepalingen nodig zijn in verband met de invoering van overeenkomstige wijzigingen van het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1971,
+##### Article 3
 
-Zijn het volgende overeengekomen:
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 1
+##### Article 4
 
-Het Verdrag dat door de bepalingen van dit Protocol wordt gewijzigd is het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, hierna te noemen het „Aansprakelijkheidsverdrag, 1969”. Ten aanzien van Staten die Partij zijn bij het Protocol van 1976 bij het Aansprakelijkheidsverdrag, 1969, wordt hiermee bedoeld het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dat Protocol.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 2
+##### Article 5
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 3
+##### Article 6
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 4
+##### Article 7
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 5
+##### Article 8
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 6
+##### Article 9
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 7
+##### Article 10
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+*Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.*
 
-##### Artikel 8
+##### Article 11
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+1. The 1969 Liability Convention and this Protocol shall, as between the Parties to this Protocol, be read and interpreted together as one single instrument.
 
-##### Artikel 9
+2. Articles I to XII ter, including the model certificate, of the 1969 Liability Convention as amended by this Protocol shall be known as the [International Convention on Civil Liability for Oil Pollution Damage, 1992 (1992 Liability Convention)](https://wetten.overheid.nl/jci1.3:c:BWBV0004147).
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+### FINAL CLAUSES
 
-##### Artikel 10
+##### Article 12. Signature, ratification, acceptance, approval and accession
 
-Wijzigt het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969; Brussel, 29 november 1969.
+1. This Protocol shall be open for signature at London from 15 January 1993 to 14 January 1994 by all States.
 
-##### Artikel 11
+2. Subject to paragraph 4, any State may become a Party to this Protocol by:
 
-1. Het Aansprakelijkheidsverdrag, 1969, en dit Protocol worden, wat de Partijen bij dit Protocol betreft, gelezen en uitgelegd als één enkel document.
+- (a) signature subject to ratification, acceptance or approval followed by ratification, acceptance or approval; or
 
-2. De artikelen I tot en met XII ter, met inbegrip van het modelcertificaat, van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, worden aangeduid als het [Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1992 (Aansprakelijkheidsverdrag, 1992)](https://wetten.overheid.nl/jci1.3:c:BWBV0004147).
+- (b) accession.
 
-### SLOTBEPALINGEN
+3. Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization.
 
-##### Artikel 12. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+4. Any Contracting State to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971, hereinafter referred to as the 1971 Fund Convention, may ratify, accept, approve or accede to this Protocol only if it ratifies, accepts, approves or accedes to the [Protocol of 1992 to amend that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003259) at the same time, unless it denounces the 1971 Fund Convention to take effect on the date when this Protocol enters into force for that State.
 
-1. Dit Protocol staat open voor ondertekening te Londen van 15 januari 1993 tot en met 14 januari 1994 door alle Staten.
+5. A State which is a Party to this Protocol but not a Party to the 1969 Liability Convention shall be bound by the provisions of the 1969 Liability Convention as amended by this Protocol in relation to other States Parties hereto, but shall not be bound by the provisions of the 1969 Liability Convention in relation to States Parties thereto.
 
-2. Onverminderd het bepaalde in het vierde lid kan een Staat Partij bij dit Protocol worden door:
+6. Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the 1969 Liability Convention as amended by this Protocol shall be deemed to apply to the Convention so amended, as modified by such amendment.
 
-- a. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+##### Article 13. Entry into force
 
-- b. toetreding.
+1. This Protocol shall enter into force twelve months following the date on which ten States including four States each with not less than one million units of gross tanker tonnage have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization.
 
-3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
+2. However, any Contracting State to the 1971 Fund Convention may, at the time of the deposit of its instrument of ratification, acceptance, approval or accession in respect of this Protocol, declare that such instrument shall be deemed not to be effective for the purposes of this Article until the end of the six-month period in [Article 31 of the Protocol of 1992 to amend the 1971 Fund Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=31). A State which is not a Contracting State to the 1971 Fund Convention but which deposits an instrument of ratification, acceptance, approval or accession in respect of the [Protocol of 1992 to amend the 1971 Fund Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003259) may also make a declaration in accordance with this paragraph at the same time.
 
-4. Een Verdragsluitende Staat bij het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1971, hierna te noemen het Fondsverdrag, 1971, kan dit Protocol slechts bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden indien hij tegelijkertijd het [Protocol van 1992 tot wijziging van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003259) bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, tenzij hij het Fondsverdrag, 1971, opzegt met ingang van de datum waarop dit Protocol voor die Staat in werking treedt.
+3. Any State which has made a declaration in accordance with the preceding paragraph may withdraw it at any time by means of a notification addressed to the Secretary-General of the Organization. Any such withdrawal shall take effect on the date the notification is received, provided that such State shall be deemed to have deposited its instrument of ratification, acceptance, approval or accession in respect of this Protocol on that date.
 
-5. Een Staat die Partij is bij dit Protocol maar geen Partij is bij het Aansprakelijkheidsverdrag, 1969, is gebonden door de bepalingen van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, met betrekking tot andere Staten die hierbij Partij zijn, maar is niet gebonden door de bepalingen van het Aansprakelijkheidsverdrag, 1969, met betrekking tot Staten die daarbij Partij zijn.
+4. For any State which ratifies, accepts, approves or accedes to it after the conditions in paragraph 1 for entry into force have been met, this Protocol shall enter into force twelve months following the date of deposit by such State of the appropriate instrument.
 
-6. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding die zijn nedergelegd nadat een wijziging van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, in werking is getreden, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door bedoelde wijziging.
+##### Article 14. Revision and amendment
 
-##### Artikel 13. Inwerkingtreding
+1. A Conference for the purpose of revising or amending the [1992 Liability Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004147) may be convened by the Organization.
 
-1. Dit Protocol treedt in werking twaalf maanden na de datum waarop tien Staten, waaronder vier Staten met elk niet minder dan een miljoen brutotonnage van tankschepen, akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal van de Organisatie.
+2. The Organization shall convene a Conference of Contracting States for the purpose of revising or amending the [1992 Liability Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004147) at the request of not less than one third of the Contracting States.
 
-2. Iedere Verdragsluitende Staat bij het Fondsverdrag, 1971, kan evenwel, op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Protocol, verklaren dat deze akte niet eerder van kracht wordt beschouwd voor de toepassing van dit artikel dan aan het einde van het tijdvak van zes maanden genoemd in [artikel 31 van het Protocol van 1992 bij het Fondsverdrag, 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=31). Een Staat die geen Verdragsluitende Staat bij het Fondsverdrag, 1971, is, doch die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot het [Protocol van 1992 tot wijziging van het Fondsverdrag, 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003259), nederlegt, kan ook tegelijkertijd een verklaring overeenkomstig dit lid afleggen.
+##### Article 15. Amendments of limitation amounts
 
-3. Iedere Staat die een verklaring overeenkomstig het voorgaande lid heeft afgelegd, kan deze te allen tijde intrekken door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Organisatie. Een zodanige intrekking wordt van kracht op de datum waarop de kennisgeving wordt ontvangen, met dien verstande dat deze Staat geacht wordt zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Protocol op die datum te hebben nedergelegd.
+1. Upon the request of at least one quarter of the Contracting States any proposal to amend the limits of liability laid down in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.
 
-4. Ten aanzien van elke Staat die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat aan de in het eerste lid gestelde eisen voor inwerkingtreding is voldaan, treedt dit Protocol in werking twaalf maanden na de datum van nederlegging door die Staat van de daartoe strekkende akte.
+2. Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization for consideration at a date at least six months after the date of its circulation.
 
-##### Artikel 14. Herziening en wijziging
+3. All Contracting States to the 1969 Liability Convention as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
 
-1. De Organisatie kan een conferentie tot herziening of wijziging van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), bijeenroepen.
+4. Amendments shall be adopted by a two-thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
 
-2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), op verzoek van ten minste een derde van de Verdragsluitende Staten.
+5. When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and in particular the amount of damage resulting therefrom, changes in the monetary values and the effect of the proposed amendment on the cost of insurance. It shall also take into account the relationship between the limits in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol and those in [Article 4, paragraph 4, of the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=4).
 
-##### Artikel 15. Wijzigingen van de beperkingsbedragen
+6. - (a). No amendment of the limits of liability under this Article may be considered before 15 January 1998 nor less than five years from the te of entry into force of a previous amendment under this Article. No amendment under this Article shall be considered before this Protocol has entered into force.
 
-1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de aansprakelijkheidsgrenzen, neergelegd in artikel V, eerste lid, van het Verdrag, zoals gewijzigd bij dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
+- (b). No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1969 Liability Convention as amended by this Protocol increased by 6 per cent per year calculated on a compound basis from 15 January 1993.
 
-2. Elke voorgestelde en zoals hierboven aangegeven toegezonden wijziging wordt voorgelegd aan de Juridische Commissie van de Organisatie ter overweging op een datum tenminste zes maanden na de datum van toezending.
+- (c). No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1969 Liability Convention as amended by this Protocol multiplied by 3.
 
-3. Alle Verdragsluitende Staten bij het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, ongeacht of zij Lid van de Organisatie zijn, zijn gerechtigd deel te nemen aan de werkzaamheden van de Juridische Commissie ter overweging en aanneming van wijzigingen.
+7. Any amendment adopted in accordance with paragraph 4 shall be notified by the Organization to all Contracting States. The amendment shall be deemed to have been accepted at the end of a period of eighteen months after the date of notification, unless within that period not less than one quarter of the States that were Contracting States at the time of the adoption of the amendment by the Legal Committee have communicated to the Organization that they do not accept the amendment in which case the amendment is rejected and shall have no effect.
 
-4. Wijzigingen worden aangenomen met een tweederde meerderheid van de Verdragsluitende Staten die aanwezig zijn en hun stem uitbrengen in de Juridische Commissie, welke is uitgebreid zoals bepaald in het derde lid, mits ten minste de helft van de Verdragsluitende Staten aanwezig is op het tijdstip van de stemming.
+8. An amendment deemed to have been accepted in accordance with paragraph 7 shall enter into force eighteen months after its acceptance.
 
-5. Wanneer de Commissie een voorstel tot wijziging van de grenzen bespreekt, houdt zij rekening met de ervaring opgedaan bij voorvallen en in het bijzonder met het bedrag van de daaruit voortvloeiende schade, met wijzigingen in geldswaarden, en de gevolgen van de voorgestelde wijziging voor de kosten van verzekering. Zij houdt voorts rekening met de samenhang van de grenzen van artikel V, eerste lid, van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol en die in [artikel 4, vierde lid, van het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146&artikel=4).
+9. All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with Article 16, paragraphs 1 and 2, at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
 
-- a. Er mag geen wijziging van de aansprakelijkheidsgrenzen ingevolge dit artikel worden overwogen vóór 15 januari 1998, en evenmin binnen vijf jaar vanaf de datum van inwerkingtreding van een voorgaande wijziging ingevolge dit artikel. Er kan geen wijziging ingevolge dit artikel worden overwogen alvorens dit Protocol in werking is getreden.
+10. When an amendment has been adopted by the Legal Committee but the eighteen-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
 
-- b. Er mag geen grens zodanig worden verhoogd dat deze een bedrag overschrijdt dat overeenkomt met de grens vervat in het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, verhoogd met zes procent per jaar berekend op samengestelde basis vanaf 15 januari 1993.
+##### Article 16. Denunciation
 
-- c. Er mag geen grens zodanig worden verhoogd, dat deze een bedrag overschrijdt dat overeenkomt met de grens vervat in het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol, vermenigvuldigd met drie.
+1. This Protocol may be denounced by any Party at any time after the date on which it enters into force for that Party.
 
-7. Elke wijziging aangenomen overeenkomstig het vierde lid wordt door de Organisatie ter kennis gebracht van alle Verdragsluitende Staten. De wijziging wordt geacht te zijn aanvaard aan het einde van een tijdvak van achttien maanden na de datum van kennisgeving, tenzij binnen dat tijdvak niet minder dan een vierde van de Staten die Verdragsluitende Staten waren op het tijdstip van aanneming van de wijziging door de Juridische Commissie de Organisatie hebben medegedeeld dat zij de wijziging niet aanvaarden, in welk geval de wijziging is verworpen en deze niet van kracht wordt.
+2. Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization.
 
-8. Een wijziging die geacht wordt te zijn aanvaard overeenkomstig het zevende lid, treedt in werking achttien maanden na aanvaarding ervan.
+3. A denunciation shall take effect twelve months, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization.
 
-9. Alle Verdragsluitende Staten zijn gebonden door de wijziging, tenzij zij ten minste zes maanden voordat de wijziging in werking treedt dit Protocol opzeggen overeenkomstig artikel 16, eerste en tweede lid. Deze opzegging wordt van kracht wanneer de wijziging in werking treedt.
+4. As between the Parties to this Protocol, denunciation by any of them of the 1969 Liability Convention in accordance with Article XVI thereof shall not be construed in any way as a denunciation of the 1969 Liability Convention as amended by this Protocol.
 
-10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die Staat in werking treedt, indien deze datum later valt.
+5. Denunciation of the [Protocol of 1992 to amend the 1971 Fund Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003259) by a State which remains a Party to the 1971 Fund Convention shall be deemed to be a denunciation of this Protocol. Such denunciation shall take effect on the date on which denunciation of the Protocol of 1992 to amend the 1971 Fund Convention takes effect according to [Article 34 of that Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=34).
 
-##### Artikel 16. Opzegging
+##### Article 17. Depositary
 
-1. Een Partij kan dit Protocol, na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
+1. This Protocol and any amendments accepted under Article 15 shall be deposited with the Secretary-General of the Organization.
 
-2. Opzegging geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Organisatie.
+2. The Secretary-General of the Organization shall:
 
-3. Een opzegging wordt van kracht twaalf maanden na de nederlegging van de akte van opzegging bij de Secretaris-Generaal van de Organisatie of na een langere termijn wanneer zulks in die akte is bepaald.
+- (a) inform all States which have signed or acceded to this Protocol of:
 
-4. Wat de Partijen bij dit Protocol betreft, wordt opzegging door een van hen van het Aansprakelijkheidsverdrag, 1969, overeenkomstig artikel XVI daarvan niet op enigerlei wijze uitgelegd als een opzegging van het Aansprakelijkheidsverdrag, 1969, zoals gewijzigd bij dit Protocol.
+   - (i) each new signature or deposit of an instrument together with the date thereof;
 
-5. Opzegging van het [Protocol van 1992 tot wijziging van het Fondsverdrag, 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003259), door een Staat die Partij blijft bij het Fondsverdrag, 1971, wordt geacht een opzegging te zijn van dit Protocol. Die opzegging wordt van kracht op de datum waarop de opzegging van het Protocol van 1992 tot wijziging van het Fondsverdrag, 1971, van kracht wordt overeenkomstig [artikel 34 van dat Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003259&artikel=34).
+   - (ii) each declaration and notification under Article 13 and each declaration and communication under [Article V, paragraph 9, of the 1992 Liability Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004147&artikel=V);
 
-##### Artikel 17. Depositaris
+   - (iii) the date of entry into force of this Protocol;
 
-1. Dit Protocol en alle ingevolge artikel 15 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
+   - (iv) any proposal to amend limits of liability which has been made in accordance with Article 15, paragraph 1;
 
-2. De Secretaris-Generaal van de Organisatie:
+   - (v) any amendment which has been adopted in accordance with Article 15, paragraph 4;
 
-- a. stelt alle Staten die dit Protocol hebben ondertekend of ertoe zijn toegetreden in kennis van:
+   - (vi) any amendment deemed to have been accepted under Article 15, paragraph 7, together with the date on which that amendment shall enter into force in accordance with paragraphs 8 and 9 of that Article;
 
-- i. elke nieuwe ondertekening of nederlegging van een akte en de datum daarvan;
+   - (vii) the deposit of any instrument of denunciation of this Protocol together with the date of the deposit and the date on which it takes effect;
 
-- ii. elke verklaring en kennisgeving ingevolge artikel 13, en elke verklaring en mededeling ingevolge [artikel V, negende lid, van het Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147&artikel=V);
+   - (viii) any denunciation deemed to have been made under Article 16, paragraph 5;
 
-- iii. de datum van inwerkingtreding van dit Protocol;
+   - (ix) any communication called for by any Article of this Protocol;
 
-- iv. alle voorstellen tot wijziging van de aansprakelijkheidsgrenzen die zijn gedaan overeenkomstig artikel 15, eerste lid;
+- (b) transmit certified true copies of this Protocol to all Signatory States and to all States which accede to this Protocol.
 
-- v. alle wijzigingen die zijn aangenomen overeenkomstig artikel 15, vierde lid;
+3. As soon as this Protocol enters into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- vi. alle wijzigingen die ingevolge artikel 15, zevende lid, worden geacht te zijn aanvaard alsmede de datum waarop die wijzigingen in werking treden overeenkomstig het achtste en het negende lid van dat artikel;
+##### Article 18. Languages
 
-- vii. de nederlegging van een akte van opzegging van dit Protocol, de datum van nederlegging en de datum waarop deze van kracht wordt;
-
-- viii. alle opzeggingen die geacht worden te zijn gedaan ingevolge artikel 16, vijfde lid;
-
-- ix. alle mededelingen die ingevolge een artikel van dit Protocol vereist zijn;
-
-- b. zendt voor eensluidend gewaarmerkte afschriften van dit Protocol toe aan alle ondertekenende Staten en aan alle Staten die tot dit Protocol toetreden.
-
-3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 18. Talen
-
-Dit Protocol is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
+This Protocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 DONE AT LONDON, this twenty-seventh day of November one thousand nine hundred and ninety-two.
 

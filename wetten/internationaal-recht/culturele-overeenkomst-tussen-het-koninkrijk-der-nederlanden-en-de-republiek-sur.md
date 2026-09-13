@@ -1,48 +1,19 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0003381"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-03-20"
-last_updated: "1978-03-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003381"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003507513"
-version_id: "10003554502"
-internal_id: "C10006980961"
-label_id: "10003492904"
-dtd_version: "2.0"
-original_entry_into_force: "1978-03-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003381/1978-03-20/0"
-intitule_bron: "Trb.1976-30"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-03-08"
-intitule_in_force: "1978-04-21"
-intitule_status: "goed"
-original_publication: "Trb.1976-30"
-original_published_date: "1976-03-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-30"
-entry_into_force_date: "1978-03-20"
-jci_1_3: "jci1.3:c:BWBV0003381&z=1978-03-20&g=1978-03-20"
-jci_1_0: "1.0:c:BWBV0003381&g=1978-03-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-03-20"
+publicatiedatum: 1978-03-20
+laatste_update: 1978-03-20
+status: geldig
+toestand: 1978-03-20
+bron: "https://wetten.overheid.nl/BWBV0003381"
+opgehaald: 2026-09-13
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Republiek Suriname,
-
-de wens koesterend de samenwerking tussen beide landen op het gebied van Onderwijs, Wetenschap en Cultuur in brede zin te bevorderen,
-
-ervan overtuigd dat deze samenwerking mede zal bijdragen tot een beter begrip tussen de volken van de beide landen,
-
-hebben besloten een culturele overeenkomst te sluiten en zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname, de wens koesterend de samenwerking tussen beide landen op het gebied van Onderwijs, Wetenschap en Cultuur in brede zin te bevorderen, ervan overtuigd dat deze samenwerking mede zal bijdragen tot een beter begrip tussen de volken van de beide landen, hebben besloten een culturele overeenkomst te sluiten en zijn het volgende overeengekomen:*
 
 ##### Artikel I
 
@@ -122,10 +93,10 @@ TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden, daartoe behoorlijk gemacht
 
 GEDAAN te 's-Gravenhage op 5 februari 1976, in tweevoud in de Nederlandse taal.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) L. J. BRINKHORST
 
-**Voor de Regering van de Republiek Suriname,**
+*Voor de Regering van de Republiek Suriname,*
 
 (w.g.) R. VENETIAAN

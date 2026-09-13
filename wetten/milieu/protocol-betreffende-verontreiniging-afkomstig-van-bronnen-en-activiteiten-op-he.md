@@ -1,73 +1,34 @@
 ---
 title: "Protocol betreffende verontreiniging afkomstig van bronnen en activiteiten op het land bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, met bijlagen"
 identifier: "BWBV0002980"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-10-06"
-last_updated: "1999-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0002980"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10003284963"
-version_id: "10003308352"
-internal_id: "C10006992541"
-label_id: "10003270974"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0002980/1999-10-06/0"
-intitule_bron: "Trb.2000-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2000-10-02"
-intitule_status: "nogniet"
-original_publication: "Trb.2000-110"
-original_published_date: "2000-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-110"
-jci_1_3: "jci1.3:c:BWBV0002980&z=1999-10-06&g=1999-10-06"
-jci_1_0: "1.0:c:BWBV0002980&g=1999-10-06"
-citeertitel_status: "officieel"
-entry_into_force: "2000-10-02"
+laatste_update: 1999-10-06
+status: geldig
+toestand: 1999-10-06
+bron: "https://wetten.overheid.nl/BWBV0002980"
+opgehaald: 2026-09-13
 ---
+
 # Protocol betreffende verontreiniging afkomstig van bronnen en activiteiten op het land bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied, met bijlagen
 
-The Contracting Parties to this Protocol,
-
-Being Parties to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region, done at Cartagena de Indias on 24 March 1983,
-
-Resolved, therefore, to implement the Convention and specifically Article 7,
-
-Taking note of Article 4, paragraph 4 of the Convention,
-
-Considering the principles of the Rio Declaration and Chapter 17 of Agenda 21 adopted by the United Nations Conference on the Environment and Development (Rio de Janeiro, 1992), and the Programme of Action for the Small Islands Developing States (Barbados, 1994), as well as the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities (Washington, 1995), including the illustrative list of funding sources set forth in its Annex,
-
-Recalling the relevant rules of international law as reflected in the 1982 United Nations Convention on the Law of the Sea and in particular its Part XII,
-
-Conscious of the serious threat to the marine and coastal resources and to human health in the Wider Caribbean Region posed by pollution from land-based sources and activities,
-
-Aware of the ecological, economic, aesthetic, scientific, recreational and cultural value of the marine and coastal ecosystems of the Wider Caribbean Region,
-
-Recognising the inequalities in economic and social development among the countries of the Wider Caribbean Region and their needs for the achievement of sustainable development,
-
-Determined to cooperate closely in taking the appropriate measures to protect the marine environment of the Wider Caribbean Region against pollution from land-based sources and activities,
-
-Further recognising the need to encourage national, sub-regional and regional action through a national political commitment at the highest level, and international cooperation to deal with the problems posed by pollutants entering the Convention area from land-based sources and activities,
-
-Have agreed as follows:
+*The Contracting Parties to this Protocol, Being Parties to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region, done at Cartagena de Indias on 24 March 1983, Resolved, therefore, to implement the Convention and specifically Article 7, Taking note of Article 4, paragraph 4 of the Convention, Considering the principles of the Rio Declaration and Chapter 17 of Agenda 21 adopted by the United Nations Conference on the Environment and Development (Rio de Janeiro, 1992), and the Programme of Action for the Small Islands Developing States (Barbados, 1994), as well as the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities (Washington, 1995), including the illustrative list of funding sources set forth in its Annex, Recalling the relevant rules of international law as reflected in the 1982 United Nations Convention on the Law of the Sea and in particular its Part XII, Conscious of the serious threat to the marine and coastal resources and to human health in the Wider Caribbean Region posed by pollution from land-based sources and activities, Aware of the ecological, economic, aesthetic, scientific, recreational and cultural value of the marine and coastal ecosystems of the Wider Caribbean Region, Recognising the inequalities in economic and social development among the countries of the Wider Caribbean Region and their needs for the achievement of sustainable development, Determined to cooperate closely in taking the appropriate measures to protect the marine environment of the Wider Caribbean Region against pollution from land-based sources and activities, Further recognising the need to encourage national, sub-regional and regional action through a national political commitment at the highest level, and international cooperation to deal with the problems posed by pollutants entering the Convention area from land-based sources and activities, Have agreed as follows:*
 
 ##### Article I. Definitions
 
 For the purposes of this Protocol:
 
-- a). "Convention" means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, Colombia, March 1983);
+- a) "Convention" means the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region (Cartagena de Indias, Colombia, March 1983);
 
-- b). "Organisation" means the United Nations Environment Programme as referred to in Article 2(2) of the Convention;
+- b) "Organisation" means the United Nations Environment Programme as referred to in Article 2(2) of the Convention;
 
-- c). "Pollution of the Convention area" means the introduction by humans, directly or indirectly, of substances or energy into the Convention area, which results or is likely to result in such deleterious effects as harm to living resources and marine ecosystems, hazards to human health, hindrance to marine activities, including fishing and other legitimate uses of the sea, impairment of quality for use of sea water and reduction of amenities;
+- c) "Pollution of the Convention area" means the introduction by humans, directly or indirectly, of substances or energy into the Convention area, which results or is likely to result in such deleterious effects as harm to living resources and marine ecosystems, hazards to human health, hindrance to marine activities, including fishing and other legitimate uses of the sea, impairment of quality for use of sea water and reduction of amenities;
 
-- d). "Land-based sources and activities" means those sources and activities causing pollution of the Convention area from coastal disposal or from discharges that emanate from rivers, estuaries, coastal establishments, outfall structures, or other sources on the territory of a Contracting Party, including atmospheric deposition originating from sources located on its territory;
+- d) "Land-based sources and activities" means those sources and activities causing pollution of the Convention area from coastal disposal or from discharges that emanate from rivers, estuaries, coastal establishments, outfall structures, or other sources on the territory of a Contracting Party, including atmospheric deposition originating from sources located on its territory;
 
-- e). "Most Appropriate Technology" means the best of currently available techniques, practices, or methods of operation to prevent, reduce or control pollution of the Convention area that are appropriate to the social, economic, technological, institutional, financial, cultural and environmental conditions of a Contracting Party or Parties; and
+- e) "Most Appropriate Technology" means the best of currently available techniques, practices, or methods of operation to prevent, reduce or control pollution of the Convention area that are appropriate to the social, economic, technological, institutional, financial, cultural and environmental conditions of a Contracting Party or Parties; and
 
-- f). "Monitoring" means the periodic measurement of environmental quality indicators.
+- f) "Monitoring" means the periodic measurement of environmental quality indicators.
 
 ##### Article II. General Provisions
 
@@ -85,11 +46,11 @@ For the purposes of this Protocol:
 
 ##### Article IV. Annexes
 
-1. The Contracting Parties shall address the source categories, activities and associated pollutants of concern listed in Annex I to this Protocol through the progressive development and implementation of additional annexes for those source categories, activities, and associated pollutants of concern that are determined by the Contracting Parties as appropriate for regional or sub-regional action. Such annexes shall, as appropriate, include **inter alia:**
+1. The Contracting Parties shall address the source categories, activities and associated pollutants of concern listed in Annex I to this Protocol through the progressive development and implementation of additional annexes for those source categories, activities, and associated pollutants of concern that are determined by the Contracting Parties as appropriate for regional or sub-regional action. Such annexes shall, as appropriate, include *inter alia:*
 
-- a). effluent and emission limitations and/or management practices based on the factors identified in Annex II to this Protocol; and
+- a) effluent and emission limitations and/or management practices based on the factors identified in Annex II to this Protocol; and
 
-- b). timetables for achieving the limits, management practices and measures agreed by the Contracting Parties.
+- b) timetables for achieving the limits, management practices and measures agreed by the Contracting Parties.
 
 2. In accordance with the provisions of the annexes to which it is party, each Contracting Party shall take measures to prevent, reduce and control pollution of the Convention area from the source categories, activities and pollutants addressed in annexes other than Annexes I and II to this Protocol.
 
@@ -101,33 +62,33 @@ For the purposes of this Protocol:
 
 2. In carrying out the obligations provided for in paragraph 1 above, Contracting Parties shall promote cooperation in the following areas:
 
-- a). monitoring activities undertaken in accordance with Article VI;
+- a) monitoring activities undertaken in accordance with Article VI;
 
-- b). research on the chemistry, fate, transport and effects of pollutants;
+- b) research on the chemistry, fate, transport and effects of pollutants;
 
-- c). exchange of scientific and technical information;
+- c) exchange of scientific and technical information;
 
-- d). identification and use of most appropriate technologies applicable to the specific source categories, activities and pollutants identified in Annex I to this Protocol; and
+- d) identification and use of most appropriate technologies applicable to the specific source categories, activities and pollutants identified in Annex I to this Protocol; and
 
-- e). research and development of technologies and practices for the implementation of this Protocol.
+- e) research and development of technologies and practices for the implementation of this Protocol.
 
 3. Contracting Parties shall promote co-operation, directly or through competent sub-regional, regional and global organisations, with those Contracting Parties which request it in obtaining assistance for the implementation of this Protocol particularly to:
 
-- a). develop scientific, technical, educational and public awareness programmes to prevent, reduce and control pollution of the Convention area from land-based sources and activities in accordance with this Protocol;
+- a) develop scientific, technical, educational and public awareness programmes to prevent, reduce and control pollution of the Convention area from land-based sources and activities in accordance with this Protocol;
 
-- b). train scientific, technical and administrative personnel;
+- b) train scientific, technical and administrative personnel;
 
-- c). provide technical advice, information and other assistance necessary to address the source categories, activities and pollutants identified in Annex I to this Protocol; and
+- c) provide technical advice, information and other assistance necessary to address the source categories, activities and pollutants identified in Annex I to this Protocol; and
 
-- d). identify and approach potential sources of financing for projects necessary to implement this Protocol.
+- d) identify and approach potential sources of financing for projects necessary to implement this Protocol.
 
 ##### Article VI. Monitoring and Assessment Programmes
 
 1. Each Contracting Party shall formulate and implement monitoring programmes, as appropriate, in accordance with the provisions of this Protocol and relevant national legislation. Such programmes may, inter alia:
 
-- a). systematically identify and assess patterns and trends in the environmental quality of the Convention area; and
+- a) systematically identify and assess patterns and trends in the environmental quality of the Convention area; and
 
-- b). assess the effectiveness of measures taken to implement the Protocol.
+- b) assess the effectiveness of measures taken to implement the Protocol.
 
 2. Monitoring information shall be made available to the Scientific, Technical and Advisory Committee to facilitate the work of the Committee, as provided in Article XIV.
 
@@ -175,35 +136,35 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 2. The Contracting Parties designate the Organisation to carry out the following Secretariat functions:
 
-- a). convene and service the meetings of the Contracting Parties;
+- a) convene and service the meetings of the Contracting Parties;
 
-- b). assist in raising funds as provided for in Article XVI;
+- b) assist in raising funds as provided for in Article XVI;
 
-- c). provide such assistance that the Scientific, Technical and Advisory Committee may require to carry out its functions as referred to in Article XIV;
+- c) provide such assistance that the Scientific, Technical and Advisory Committee may require to carry out its functions as referred to in Article XIV;
 
-- d). provide the appropriate assistance as may be identified by the Contracting Parties to facilitate:
+- d) provide the appropriate assistance as may be identified by the Contracting Parties to facilitate:
 
-- (i). the development and implementation of the plans, programmes and measures necessary to achieve the objectives of this Protocol;
+   - (i) the development and implementation of the plans, programmes and measures necessary to achieve the objectives of this Protocol;
 
-- (ii). the development of incentive programmes to implement this Protocol;
+   - (ii) the development of incentive programmes to implement this Protocol;
 
-- (iii). the development of information systems and networks for the exchange of information for the purposes of facilitating the implementation of this Protocol, as referred to in Article VIII; and
+   - (iii) the development of information systems and networks for the exchange of information for the purposes of facilitating the implementation of this Protocol, as referred to in Article VIII; and
 
-- (iv). the development and implementation of environmental education, training and public awareness programmes, as referred to in Article XI;
+   - (iv) the development and implementation of environmental education, training and public awareness programmes, as referred to in Article XI;
 
-- e). communicate and work with the Caribbean Environment Programme on activities relevant to the implementation of this Protocol;
+- e) communicate and work with the Caribbean Environment Programme on activities relevant to the implementation of this Protocol;
 
-- f). prepare common formats as directed by the Contracting Parties to be used as the basis for notifications and reports to the Organisation, as provided in Article XII;
+- f) prepare common formats as directed by the Contracting Parties to be used as the basis for notifications and reports to the Organisation, as provided in Article XII;
 
-- g). establish and update databases on national, sub-regional and regional measures adopted for the implementation of this Protocol, including any other pertinent information, in keeping with the provisions of Articles III and XII;
+- g) establish and update databases on national, sub-regional and regional measures adopted for the implementation of this Protocol, including any other pertinent information, in keeping with the provisions of Articles III and XII;
 
-- h). compile and make available to the Contracting Parties reports and studies which may be required for the implementation of this Protocol or as requested by them;
+- h) compile and make available to the Contracting Parties reports and studies which may be required for the implementation of this Protocol or as requested by them;
 
-- i). cooperate with relevant international organisations;
+- i) cooperate with relevant international organisations;
 
-- j). provide to the Contracting Parties a report which shall include a draft budget for the coming year and an audited revenue and expenditure statement of the preceding year; and
+- j) provide to the Contracting Parties a report which shall include a draft budget for the coming year and an audited revenue and expenditure statement of the preceding year; and
 
-- k). carry out any other functions assigned to it by the Contracting Parties.
+- k) carry out any other functions assigned to it by the Contracting Parties.
 
 ##### Article XIV. Scientific, Technical and Advisory Committee
 
@@ -213,29 +174,29 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 3. The Committee shall be responsible for reporting to and advising the Contracting Parties regarding the implementation of this Protocol. To carry out this function the Committee shall:
 
-- a). review on a regular basis the annexes to this Protocol as well as the state of pollution of the Convention area from land-based sources and activities and, where necessary, recommend amendments or additional annexes for consideration by the Contracting Parties;
+- a) review on a regular basis the annexes to this Protocol as well as the state of pollution of the Convention area from land-based sources and activities and, where necessary, recommend amendments or additional annexes for consideration by the Contracting Parties;
 
-- b). examine, assess and analyze the information submitted by the Contracting Parties in accordance with Articles VI and XII and other relevant information to determine the effectiveness of the measures adopted to implement this Protocol, and submit regional reports to the Contracting Parties on the state of the Convention area. The regional reports shall set forth an assessment of the effectiveness and the socio-economic impact of measures adopted to implement the Protocol, and may propose any other appropriate measures;
+- b) examine, assess and analyze the information submitted by the Contracting Parties in accordance with Articles VI and XII and other relevant information to determine the effectiveness of the measures adopted to implement this Protocol, and submit regional reports to the Contracting Parties on the state of the Convention area. The regional reports shall set forth an assessment of the effectiveness and the socio-economic impact of measures adopted to implement the Protocol, and may propose any other appropriate measures;
 
-- c). provide advice to the Contracting Parties for the preparation and updating of information, including national inventories on marine pollution from land-based sources and activities;
+- c) provide advice to the Contracting Parties for the preparation and updating of information, including national inventories on marine pollution from land-based sources and activities;
 
-- d). provide guidance to the Contracting Parties:
+- d) provide guidance to the Contracting Parties:
 
-- (i). on measures and methodologies to assess pollution loads in the Convention area, and to ensure regional compatibility in data; and
+   - (i) on measures and methodologies to assess pollution loads in the Convention area, and to ensure regional compatibility in data; and
 
-- (ii). on the development of plans, programmes and measures for the implementation of this Protocol;
+   - (ii) on the development of plans, programmes and measures for the implementation of this Protocol;
 
-- e). advise on the formulation of common criteria, guidelines and standards for the prevention, reduction and control of pollution of the Convention area from land-based sources and activities;
+- e) advise on the formulation of common criteria, guidelines and standards for the prevention, reduction and control of pollution of the Convention area from land-based sources and activities;
 
-- f). propose priority measures for scientific and technical research and management of pollution from land-based sources and activities as well as for control, management practices and monitoring programmes, bearing in mind regional trends and conditions and any information available;
+- f) propose priority measures for scientific and technical research and management of pollution from land-based sources and activities as well as for control, management practices and monitoring programmes, bearing in mind regional trends and conditions and any information available;
 
-- g). provide scientific and technical advice to the Meeting of the Contracting Parties regarding proposals for technical assistance;
+- g) provide scientific and technical advice to the Meeting of the Contracting Parties regarding proposals for technical assistance;
 
-- h). formulate programmes on environmental education and awareness related to this Protocol;
+- h) formulate programmes on environmental education and awareness related to this Protocol;
 
-- i). develop a draft budget for the operation of the Scientific, Technical and Advisory Committee and submit it to the Contracting Parties for approval; and
+- i) develop a draft budget for the operation of the Scientific, Technical and Advisory Committee and submit it to the Contracting Parties for approval; and
 
-- j). carry out any other function related to the implementation of this Protocol which is assigned to it by the Contracting Parties.
+- j) carry out any other function related to the implementation of this Protocol which is assigned to it by the Contracting Parties.
 
 4. The Committee shall adopt Rules of Procedure.
 
@@ -245,19 +206,19 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 2. It shall be the function of the meetings of the Contracting Parties to this Protocol to:
 
-- a). keep under review the implementation of this Protocol and the effectiveness of actions taken pursuant to it;
+- a) keep under review the implementation of this Protocol and the effectiveness of actions taken pursuant to it;
 
-- b). consider proposed amendments to this Protocol, including additional annexes, with a view to their subsequent adoption in accordance with the procedures established in the Convention and this Protocol;
+- b) consider proposed amendments to this Protocol, including additional annexes, with a view to their subsequent adoption in accordance with the procedures established in the Convention and this Protocol;
 
-- c). approve the expenditure of funds identified in Article XVI that are not otherwise designated for a specific project by the donors;
+- c) approve the expenditure of funds identified in Article XVI that are not otherwise designated for a specific project by the donors;
 
-- d). review and adopt, as appropriate, regional reports developed by the Scientific, Technical and Advisory Committee in accordance with Articles XII and XIV as well as other information that a Contracting Party may transmit to the Meeting of the Contracting Parties;
+- d) review and adopt, as appropriate, regional reports developed by the Scientific, Technical and Advisory Committee in accordance with Articles XII and XIV as well as other information that a Contracting Party may transmit to the Meeting of the Contracting Parties;
 
-- e). take appropriate action with regard to the recommendations of the Scientific, Technical and Advisory Committee;
+- e) take appropriate action with regard to the recommendations of the Scientific, Technical and Advisory Committee;
 
-- f). promote and facilitate, directly or through the Organisation, the exchange of information, experience and expertise and any other type of exchange between the Contracting Parties in accordance with Article V; and
+- f) promote and facilitate, directly or through the Organisation, the exchange of information, experience and expertise and any other type of exchange between the Contracting Parties in accordance with Article V; and
 
-- g). conduct such other business as appropriate.
+- g) conduct such other business as appropriate.
 
 ##### Article XVI. Funding
 
@@ -265,9 +226,9 @@ The Contracting Parties shall develop and implement individually and collectivel
 
 2. The Contracting Parties, taking into account their capabilities, shall endeavour as far as possible to ensure that adequate financial resources are available for the formulation and implementation of projects and programmes necessary to implement this Protocol. To this end, the Contracting Parties shall:
 
-- a). promote the mobilisation of substantial financial resources, including grants and concessional loans, from national, bilateral and multilateral funding sources and mechanisms, including multilateral financial institutions; and
+- a) promote the mobilisation of substantial financial resources, including grants and concessional loans, from national, bilateral and multilateral funding sources and mechanisms, including multilateral financial institutions; and
 
-- b). explore innovative methods and incentives for mobilising and channeling resources, including those of foundations, non-governmental organisations and other private sector entities.
+- b) explore innovative methods and incentives for mobilising and channeling resources, including those of foundations, non-governmental organisations and other private sector entities.
 
 3. In keeping with its development priorities, policies and strategies, each Contracting Party undertakes to mobilise financial resources to implement its plans, programmes and measures pursuant to this Protocol.
 
@@ -301,7 +262,7 @@ Costa Rica
 
 Frankrijk
 
-het **Koninkrijk der Nederlanden**
+het *Koninkrijk der Nederlanden*
 
 de Verenigde Staten van Amerika
 

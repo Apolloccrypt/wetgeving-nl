@@ -1,122 +1,99 @@
 ---
 title: "Fytosanitaire Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen"
 identifier: "BWBV0003429"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-11-01"
-last_updated: "1979-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003429"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10003529113"
-version_id: "10003578582"
-internal_id: "C10006980991"
-label_id: "10003515014"
-dtd_version: "2.0"
-original_entry_into_force: "1979-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003429/1979-11-01/0"
-intitule_bron: "Trb.1979-84"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-05-18"
-intitule_in_force: "1979-10-16"
-intitule_status: "goed"
-original_publication: "Trb.1979-84"
-original_published_date: "1979-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-84"
-entry_into_force_date: "1979-11-01"
-jci_1_3: "jci1.3:c:BWBV0003429&z=1979-11-01&g=1979-11-01"
-jci_1_0: "1.0:c:BWBV0003429&g=1979-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-11-01"
+publicatiedatum: 1979-11-01
+laatste_update: 1979-11-01
+status: geldig
+toestand: 1979-11-01
+bron: "https://wetten.overheid.nl/BWBV0003429"
+opgehaald: 2026-09-13
 ---
+
 # Fytosanitaire Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek Polen,
+*The Government of the Kingdom of the Netherlands, and the Government of the Polish People's Republic, Realizing that it is desirable to prevent organisms harmful to plants and plant products being brought into their territories, and Desiring to facilitate wherever possible cooperation between them in the field of plant protection, Have agreed as follows:*
 
-In het besef dat het wenselijk is het binnenbrengen van voor planten en plantaardige produkten schadelijke organismen op hun grondgebied te voorkomen en
+##### Article 1
 
-Verlangende de onderlinge samenwerking op het gebied van de planteziektenbestrijding zoveel mogelijk te vergemakkelijken;
+For the purposes of this Agreement
 
-Zijn overeengekomen als volgt:
+- a. “plants” shall mean living plants and living parts thereof, including seed for sowing;
 
-##### Artikel 1
+- b. “plant products” shall mean products of plant origin which have not been processed or have only been subjected to simple treatment;
 
-Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+- c. “harmful organisms” shall mean organisms which are injurious to plants or plant products and which are of an animal or plant nature, including weeds and their seeds.
 
-- a. „planten”: levende planten en levende delen daarvan, met inbegrip van zaaizaden;
+##### Article 2
 
-- b. „plantaardige produkten”: produkten van plantaardige oorsprong, die niet zijn verwerkt of slechts een eenvoudige behandeling hebben ondergaan;
+The importation into the territory of the one Contracting Party of plants, plant products and soil, originating from the territory of the other Contracting Party, is permitted only if the items are free from the harmful organisms indicated in Annex I, Part A and Part B respectively and if they comply with the special requirements referred to in Part A and Part B respectively of Annex II.
 
-- c. „schadelijke organismen”: organismen die schadelijk zijn voor planten of plantaardige produkten en die van dierlijke of plantaardige aard zijn, met inbegrip van onkruiden en hun zaden.
+##### Article 3
 
-##### Artikel 2
+Every consignment consisting of plants, plant products or soil, as indicated in Part A and Part B respectively of Annex III, and originating from the territory of the other Contracting Party shall, on importation, be accompanied by a health certificate issued by the Plant Protection Service of that Contracting Party, corresponding to the latest model of phytosanitary certificate, as set out in the International Plant Protection Convention, concluded in Rome on 6th December 1951, under the auspices of the Food and Agriculture Organisation of the United Nations.
 
-De invoer van planten, plantaardige produkten en grond, afkomstig van het grondgebied van de ene Overeenkomstsluitende Partij, op het grondgebied van de andere Overeenkomstsluitende Partij, is slechts toegestaan, indien deze vrij zijn van de schadelijke organismen, vermeld in Bijlage I respectievelijk deel A en deel B en voldoen aan de bijzondere eisen, genoemd in respectievelijk deel A en deel B van bijlage II.
+##### Article 4
 
-##### Artikel 3
+1. A health certificate shall not be issued earlier than fourteen days before the date on which the consignment leaves the country of the Contracting Party.
 
-Elke zending bestaande uit planten, plantaardige produkten of grond, zoals aangegeven in respectievelijk deel A en deel B van bijlage III, en afkomstig van het grondgebied van de andere Overeenkomstsluitende Partij, moet bij invoer vergezeld zijn van een door de Planteziektenkundige Dienst van die Overeenkomstsluitende Partij afgegeven gezondheidscertificaat, dat overeenkomt met het laatste model gezondheidscertificaat, als aangegeven in het Internationaal Verdrag voor de bescherming van planten, dat op 6 december 1951 te Rome onder auspiciën van de Voedsel- en Landbouworganisatie van de Verenigde Naties tot stand is gekomen.
+2. The certificate shall be in English or German and shall not contain any alterations or deletions.
 
-##### Artikel 4
+3. If the consignment consists of soil the text of the certificate shall be adapted accordingly.
 
-1. Een gezondheidscertificaat mag niet eerder dan 14 dagen vóór de datum waarop de zending het land van de Overeenkomstsluitende Partij verlaat, zijn afgegeven.
+##### Article 5
 
-2. Het certificaat moet zijn gesteld in de Engelse of de Duitse taal en er mogen geen wijzigingen of doorhalingen in voorkomen.
+The Contracting Parties prohibit the import of plants and plant products and other objects including soil which may be the carriers of harmful organisms, as indicated in Annex IV, Parts A and B respectively.
 
-3. Indien de zending bestaat uit grond, wordt de tekst van het certificaat dienovereenkomstig aangepast.
+##### Article 6
 
-##### Artikel 5
+The Plant Protection Service of the Contracting Party may subject the plants and plant products imported from the country of the other Contracting Party to phytosanitary examination as determined by the appropriate authorities and decide on any necessary quarantine treatment. If it is established that plants or plant products have been affected by harmful organisms, the other Contracting Party shall be notified immediately of this.
 
-De Overeenkomstsluitende Partijen verbieden de invoer van planten en plantaardige produkten en ander materiaal, met inbegrip van grond, die de dragers kunnen zijn van schadelijke organismen, als vermeld in bijlage IV, respectievelijk deel A en deel B.
+##### Article 7
 
-##### Artikel 6
+Each Contracting Party is entitled to direct that the transit through its territory, of plants, plant products and soil, exported from the country of the other Contracting Party, or intended for that country, shall be permitted only if the consignment is accompanied by a health certificate and complies with the phytosanitary regulations applicable in the country of transit.
 
-De Planteziektenkundige Dienst van de Overeenkomstsluitende Partij kan de invoer van planten en plantaardige produkten uit het land van de andere Overeenkomstsluitende Partij onderwerpen aan een fytosanitair onderzoek als bepaald door de bevoegde autoriteiten, en kan besluiten tot elke uit quarantaine oogpunt noodzakelijke behandeling. Indien is vastgesteld dat planten of plantaardige produkten zijn aangetast door schadelijke organismen, wordt de andere Overeenkomstsluitende Partij daarvan onverwijld in kennis gesteld.
+##### Article 8
 
-##### Artikel 7
+The Contracting Parties undertake:
 
-Elk van de Overeenkomstsluitende Partijen is gerechtigd te bepalen dat de doorvoer over haar grondgebied van planten, plantaardige produkten en grond, die uit het land van de andere Overeenkomstsluitende Partij zijn uitgevoerd of voor dat land zijn bestemd, slechts dan is toegelaten, indien de zending is vergezeld van een gezondheidscertificaat en voldoet aan de geldende fytosanitaire voorschriften in het land van doorvoer.
+- a. to facilitate cooperation in the field of research into harmful organisms and the methods of their control, and to facilitate the exchange of information on the results obtained;
 
-##### Artikel 8
+- b. to promote the exchange of specialists in order that they may become acquainted with methods applied in plant protection and in the quarantine of plants;
 
-De Overeenkomstsluitende Partijen nemen de verplichting op zich:
+- c. to supply each other with the texts of the phytosanitary regulations in force.
 
-- a. de samenwerking te vergemakkelijken op het gebied van het onderzoek betreffende schadelijke organismen en de bestrijdingsmethoden, alsmede de uitwisseling van gegevens over de verkregen resultaten;
+##### Article 9
 
-- b. de uitwisseling te bevorderen van deskundigen, opdat zij zich op de hoogte kunnen stellen van de op het gebied van de bescherming en de quarantaine van planten toegepaste methoden;
+The costs of travelling and accommodation incurred under the terms of Article 8, shall be borne by each Contracting Party in respect of its own specialists.
 
-- c. elkaar in het bezit te stellen van de tekst van de van kracht zijnde fytosanitaire voorschriften.
+##### Article 10
 
-##### Artikel 9
+1. If one of the Contracting Parties considers it desirable to amend any provision of this Agreement, it may request consultation with the other Contracting Party.
 
-De door toepassing van artikel 8 gemaakte reis- en verblijfkosten worden gedragen door de Overeenkomstsluitende Partijen, elk voor hun eigen deskundigen.
+Such consultation, which may be carried out either verbal or in writing, shall take place within a period of two months to be reckoned from the day when the request has been made. The amendments thus agreed upon, shall be effective on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the amendments have been approved in their respective countries in conformity with the constitutional requirements.
 
-##### Artikel 10
+2. The competent authorities of the two Contracting Parties may each amend the Parts of Annexes I, II, III and IV which relate to their own country.
 
-1. Indien een van de Overeenkomstsluitende Partijen het wenselijk acht enige bepaling van deze Overeenkomst te wijzigen, kan zij de andere Overeenkomstsluitende Partij verzoeken om overleg.
+Such amendments shall be communicated to the competent authorities of the other Contracting Party through diplomatic channels. Each Contracting Party shall endeavour to notify the other Contracting Party of the amendments before these become effective.
 
-Dit overleg, dat zowel mondeling als schriftelijk kan zijn, vindt plaats binnen een tijdvak van twee maanden, te rekenen van de dag waarop het verzoek is gedaan. De wijzigingen waarover aldus overeenstemming is bereikt, worden van kracht op de eerste dag van de tweede maand na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat in hun onderscheiden landen de wijzigingen in overeenstemming met de grondwettelijke bepalingen zijn goedgekeurd.
+##### Article 11
 
-2. De bevoegde instanties van beide Overeenkomstsluitende Partijen kunnen ieder voor zich de op haar land betrekking hebbende onderdelen van de bijlagen I, II, III en IV wijzigen. Deze wijzigingen worden langs diplomatieke weg medegedeeld aan de bevoegde instanties van de andere Overeenkomstsluitende Partij. Ieder van de Overeenkomstsluitende Partijen streeft ernaar de wijzigingen ter kennis te brengen van de andere Overeenkomstsluitende Partij, voordat deze van kracht worden.
+The appropriate authorities of the Contracting Parties shall have direct contact with each other for the purpose of implementing the provisions of this Agreement.
 
-##### Artikel 11
+##### Article 12
 
-De desbetreffende instanties van de Overeenkomstsluitende Partijen staan in direct contact met elkaar met het oog op de toepassing van de bepalingen van dit Verdrag.
+This Agreement shall not infringe the rights and obligations the Contracting Parties have acquired or have accepted, or will still acquire or accept by reason of other international agreements.
 
-##### Artikel 12
+##### Article 13
 
-Deze Overeenkomst maakt geen inbreuk op rechten en verplichtingen die de Overeenkomstsluitende Partijen hebben verkregen of op zich hebben genomen, dan wel alsnog zullen verkrijgen of op zich nemen op grond van andere internationale overeenkomsten.
+As regards the Kingdom of the Netherlands the present Agreement shall apply to the Kingdom in Europe.
 
-##### Artikel 13
+##### Article 14
 
-Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het Rijk in Europa.
+1. This Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have notified each other in writing that the formalities constitutionally required in their respective countries have been complied with.
 
-##### Artikel 14
-
-1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld, dat aan de in hun onderscheiden landen grondwettelijk vereiste formaliteiten is voldaan.
-
-2. Deze Overeenkomst blijft aanvankelijk voor een tijdvak van vijf jaar van kracht. Na afloop van deze termijn wordt de geldigheidsduur telkens stilzwijgend met een jaar verlengd, indien geen van beide Overeenkomstsluitende Partijen deze Overeenkomst zes maanden voor het verstrijken van deze of elke volgende jaartermijn opzegt.
+2. This Agreement shall remain in force initially for five years. After the expiry of its term of operation, it shall be renewed tacitly for one year on each occasion provided neither Contracting Party has denounced it six months before the expiry date of the initial term or of a subsequent annual term.
 
 IN WITNESS WHEREOF the undersigned, having been duly authorised to this effect, have signed this Agreement.
 

@@ -1,516 +1,497 @@
 ---
 title: "Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden"
 identifier: "BWBV0003190"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-09-01"
-last_updated: "2010-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003190"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003393183"
-version_id: "10003434232"
-internal_id: "C10008429591"
-label_id: "10003379854"
-dtd_version: "2.0"
-original_entry_into_force: "2010-09-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003190/2010-09-01/0"
-intitule_bron: "Trb.2009-86"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2009-06-03"
-intitule_in_force: "2010-07-05"
-intitule_status: "goed"
-original_publication: "Trb.2009-86"
-original_published_date: "2009-06-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2009-86"
-entry_into_force_date: "2010-09-01"
-jci_1_3: "jci1.3:c:BWBV0003190&z=2010-09-01&g=2010-09-01"
-jci_1_0: "1.0:c:BWBV0003190&g=2010-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-09-01"
+publicatiedatum: 2010-09-01
+laatste_update: 2010-09-01
+status: geldig
+toestand: 2010-09-01
+bron: "https://wetten.overheid.nl/BWBV0003190"
+opgehaald: 2026-09-13
 ---
+
 # Protocol bij het Verdrag inzake internationale zakelijke rechten op mobiel materieel betreffende voor luchtvaartuigmaterieel specifieke aangelegenheden
 
-De Partijen bij dit Protocol,
+*The states parties to this protocol, Considering it necessary to implement the Convention on International Interests in Mobile Equipment (hereinafter referred to as “the Convention”) as it relates to aircraft equipment, in the light of the purposes set out in the preamble to the Convention, Mindful of the need to adapt the Convention to meet the particular requirements of aircraft finance and to extend the sphere of application of the Convention to include contracts of sale of aircraft equipment, Mindful of the principles and objectives of the Convention on International Civil Aviation, signed at Chicago on 7 December 1944, Have agreed upon the following provisions relating to aircraft equipment:*
 
-Overwegende dat het nodig is het [Verdrag inzake internationale zakelijke rechten op mobiel materieel](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) (hierna te noemen „het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189)”) voor zover het betrekking heeft op luchtvaartuigmaterieel, in het licht van de in de preambule tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) vervatte doeleinden ten uitvoer te leggen,
+### CHAPTER I. SPHERE OF APPLICATION AND GENERAL PROVISIONS
 
-Indachtig de behoefte het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) aan te passen om tegemoet te komen aan de specifieke vereisten van de financiering van luchtvaartuigen en de reikwijdte van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) uit te breiden tot verkoopcontracten van luchtvaartuigmaterieel,
+##### Article I. Defined terms
 
-Indachtig de beginselen en doeleinden van het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944,
+1. In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189).
 
-Zijn de volgende bepalingen met betrekking tot luchtvaartuigmaterieel overeengekomen:
+2. In this Protocol the following terms are employed with the meanings set out below:
 
-### HOOFDSTUK I. TOEPASSINGSBEREIK EN ALGEMENE BEPALINGEN
+- a) “aircraft” means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
 
-##### Artikel I. Begripsomschrijvingen
+- b) “aircraft engines” means aircraft engines (other than those used in military, customs or police services) powered by jet propulsion or turbine or piston technology and:
 
-1. De in dit Protocol gebruikte termen hebben, behoudens indien de context anders vereist, de betekenis die daaraan in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) wordt gegeven.
+   - (i) in the case of jet propulsion aircraft engines, have at least 1750 lb of thrust or its equivalent; and
 
-2. In dit Protocol worden de volgende termen gebruikt met de hieronder omschreven betekenis:
+   - (ii) in the case of turbine-powered or piston-powered aircraft engines, have at least 550 rated take-off shaft horsepower or its equivalent, together with all modules and other installed, incorporated or attached accessories, parts and equipment and all data, manuals and records relating thereto;
 
-- a. „luchtvaartuig”: een luchtvaartuig zoals omschreven voor de toepassing van het Verdrag van Chicago dat hetzij een luchtvaartuigcasco is met daarop geïnstalleerde luchtvaartuigmotoren, hetzij een helikopter;
+- c) “aircraft objects” means airframes, aircraft engines and helicopters;
 
-- b. „luchtvaartuigmotoren”: luchtvaartuigmotoren (anders dan die welke worden gebruikt door de krijgsmacht, douane of politie) die worden aangedreven door straalaandrijving of turbine- of zuigertechnologie en die: tezamen met alle modules en andere geïnstalleerde, ingebouwde of bevestigde toebehoren, onderdelen en apparatuur en alle gegevens, handleidingen en documenten die daar betrekking op hebben;
+- d) “aircraft register” means a register maintained by a State or a common mark registering authority for the purposes of the Chicago Convention;
 
-- i. in het geval van luchtvaartuigmotoren met straalaandrijving, een stuwkracht van ten minste 1750 lb (Engelse ponden) of een equivalent daarvan bezitten; en
+- e) “airframes” means airframes (other than those used in military, customs or police services) that, when appropriate aircraft engines are installed thereon, are type certified by the competent aviation authority to transport:
 
-- ii. in het geval van luchtvaartuigmotoren die door turbine- of zuigertechnologie worden aangedreven, ten minste een nominaal startvermogen bezitten van 550 paardenkrachten op de aandrijfas of een equivalent daarvan,
+   - (i) at least eight (8) persons including crew; or
 
-- c. „luchtvaartuigzaken”: luchtvaartuigcasco’s, luchtvaartuigmotoren en helikopters;
+   - (ii) goods in excess of 2750 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (other than aircraft engines), and all data, manuals and records relating thereto;
 
-- d. „luchtvaartuigregister”: een door een Staat of een gemeenschappelijke registratieautoriteit gehouden register voor de toepassing van het Verdrag van Chicago;
+- f) “authorised party” means the party referred to in [Article XIII(3)](https://wetten.overheid.nl/BWBV0003190);
 
-- e. „luchtvaartuigcasco’s”: luchtvaartuigcasco’s (anders dan die welke worden gebruikt door de krijgsmacht, douane of politie) die, indien daarop geschikte luchtvaartuigmotoren zijn geïnstalleerd, van de bevoegde luchtvaartautoriteiten een typegoedkeuring hebben voor het vervoer van: tezamen met alle geïnstalleerde, ingebouwde of bevestigde toebehoren, onderdelen en apparatuur (anders dan luchtvaartuigmotoren) en alle gegevens, handleidingen en documenten die daar betrekking op hebben;
+- g) “Chicago Convention” means the *Convention on International Civil Aviation*, signed at Chicago on 7 December 1944, as amended, and its Annexes;
 
-- i. ten minste acht (8) personen met inbegrip van de bemanning; of
+- h) “common mark registering authority” means the authority maintaining a register in accordance with Article 77 of the Chicago Convention as implemented by the Resolution adopted on 14 December 1967 by the Council of the International Civil Aviation Organization on nationality and registration of aircraft operated by international operating agencies;
 
-- ii. meer dan 2750 kilogram goederen,
+- i) “de-registration of the aircraft” means deletion or removal of the registration of the aircraft from its aircraft register in accordance with the Chicago Convention;
 
-- f. „gemachtigde partij”: de in [artikel XIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIII&z=2010-09-01&g=2010-09-01), bedoelde Partij;
+- j) “guarantee contract” means a contract entered into by a person as guarantor;
 
-- g. „Verdrag van Chicago”: het Verdrag inzake de internationale burgerluchtvaart, ondertekend te Chicago op 7 december 1944, zoals gewijzigd, en de Bijlagen daarbij;
+- k) “guarantor” means a person who, for the purpose of assuring performance of any obligations in favour of a creditor secured by a security agreement or under an agreement, gives or issues a suretyship or demand guarantee or a standby letter of credit or any other form of credit insurance;
 
-- h. „gemeenschappelijke registratieautoriteit”: de autoriteit die een register houdt in overeenstemming met artikel 77 van het Verdrag van Chicago zoals geïmplementeerd door de op 14 december 1967 door de Raad van de Internationale Burgerluchtvaartorganisatie aangenomen Resolutie inzake de nationaliteit en inschrijving van luchtvaartuigen geëxploiteerd door internationale exploitatie-instellingen;
+- l) “helicopters” means heavier-than-air machines (other than those used in military, customs or police services) supported in flight chiefly by the reactions of the air on one or more power-driven rotors on substantially vertical axes and which are type certified by the competent aviation authority to transport:
 
-- i. „doorhaling van de inschrijving van het luchtvaartuig”: doorhaling van de inschrijving van het luchtvaartuig uit het luchtvaartuigregister in overeenstemming met het Verdrag van Chicago;
+   - (i) at least five (5) persons including crew; or
 
-- j. „garantieovereenkomst”: een overeenkomst die door een persoon in de hoedanigheid van garant wordt gesloten;
+   - (ii) goods in excess of 450 kilograms, together with all installed, incorporated or attached accessories, parts and equipment (including rotors), and all data, manuals and records relating thereto;
 
-- k. „garant”: een persoon die, tot zekerheid van de nakoming van verplichtingen jegens een schuldeiser die door een overeenkomst tot vestiging van een zakelijk recht of een andere overeenkomst zijn zekergesteld, een borgstelling of een betalingsgarantie of een **standby letter of credit** of andere vorm van kredietverzekering geeft of afgeeft;
+- m) “insolvency-related event” means:
 
-- l. „helikopters”: luchtvaartuigen die zwaarder dan de lucht zijn (anders dan die welke worden gebruikt door de krijgsmacht, douane of politie) en die in de lucht hoofdzakelijk worden gedragen door de werking van de lucht op een of meer door een krachtbron aangedreven rotors op hoofdzakelijk verticale assen en die van de bevoegde luchtvaartautoriteiten een typegoedkeuring hebben gekregen voor het vervoer van: tezamen met alle geïnstalleerde, ingebouwde of bevestigde toebehoren, onderdelen en apparatuur (met inbegrip van rotors) en alle gegevens, handleidingen en documenten die daar betrekking op hebben;
+   - (i) the commencement of the insolvency proceedings; or
 
-- i. ten minste vijf (5) personen met inbegrip van de bemanning; of
+   - (ii) the declared intention to suspend or actual suspension of payments by the debtor where the creditor’s right to institute insolvency proceedings against the debtor or to exercise remedies under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) is prevented or suspended by law or State action;
 
-- ii. meer dan 450 kilogram goederen,
+- n) “primary insolvency jurisdiction” means the Contracting State in which the centre of the debtor’s main interests is situated, which for this purpose shall be deemed to be the place of the debtor’s statutory seat or, if there is none, the place where the debtor is incorporated or formed, unless proved otherwise;
 
-- m. „insolventiegerelateerde gebeurtenis”:
+- o) “registry authority” means the national authority or the common mark registering authority, maintaining an aircraft register in a Contracting State and responsible for the registration and de-registration of an aircraft in accordance with the Chicago Convention; and
 
-- i. de aanvang van de insolventieprocedure; of
+- p) “State of registry” means, in respect of an aircraft, the State on the national register of which an aircraft is entered or the State of location of the common mark registering authority maintaining the aircraft register.
 
-- ii. de verklaarde intentie tot het opschorten of het feitelijk opschorten van betalingen door de schuldenaar indien het recht van de schuldeiser om een insolventieprocedure tegen de schuldenaar aanhangig te maken of rechtsmiddelen toe te passen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), door de wet of door staatsoptreden wordt belemmerd of geschorst;
+##### Article II. Application of Convention as regards aircraft objects
 
-- n. „primaire bevoegdheid bij insolventie”: de Verdragsluitende Staat waar het centrum van de hoofdbelangen van de schuldenaar is gelegen, dat terzake wordt geacht de plaats van de statutaire zetel van de schuldenaar te zijn of, indien er geen statutaire zetel is, de plaats waar de schuldenaar is opgericht of tot stand gekomen, tenzij anders wordt bewezen;
+1. The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall apply in relation to aircraft objects as provided by the terms of this Protocol.
 
-- o. „registratieautoriteit”: de nationale autoriteit of de gemeenschappelijke registratieautoriteit die in een Verdragsluitende Staat een luchtvaartuigregister houdt en verantwoordelijk is voor de inschrijving en doorhaling van de inschrijving van een luchtvaartuig in overeenstemming met het Verdrag van Chicago; en
+2. The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.
 
-- p. „Staat van inschrijving”: ten aanzien van een luchtvaartuig, de Staat in wiens nationale register een luchtvaartuig is ingeschreven of de Staat waar de gemeenschappelijke registratieautoriteit die het luchtvaartuigregister houdt, is gelegen.
+##### Article III. Application of Convention to sales
 
-##### Artikel II. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) ten aanzien van luchtvaartuigzaken
+The following provisions of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:
 
-1. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) is van toepassing op luchtvaartuigzaken zoals voorzien door de bepalingen van dit Protocol.
+[Articles 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3) and [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=4);
 
-2. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol zijn bekend als het Verdrag inzake internationale zakelijke rechten op mobiel materieel zoals toegepast op luchtvaartuigzaken.
+[Article 16(1)(a)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=16);
 
-##### Artikel III. Toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) op verkopen
+[Article 19(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=19);
 
-De volgende bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) zijn van toepassing alsof verwijzingen naar een overeenkomst waarbij een internationaal zakelijk recht wordt gevestigd of in zo’n zakelijk recht wordt voorzien verwijzingen waren naar een verkoopcontract en alsof verwijzingen naar een internationaal zakelijk recht, een toekomstig internationaal zakelijk recht, de schuldenaar en de schuldeiser verwijzingen waren naar respectievelijk een verkoop, een toekomstige verkoop, de verkoper en de koper:
+[Article 20(1)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=20) (as regards registration of a contract of sale or a prospective sale);
 
-de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=4);
+[Article 25(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=25) (as regards a prospective sale); and
 
-[artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=16);
+[Article 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=30).
 
-[artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=19);
+In addition, the general provisions of [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1), [Article 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=5), [Chapters IV to VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV), [Article 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) (other than [Article 29(3)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) which is replaced by [Article XIV(1) and (2)](https://wetten.overheid.nl/BWBV0003190)), [Chapter X](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X), [Chapter XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII) (other than [Article 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43)), [Chapter XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIII) and [Chapter XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV) (other than [Article 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60)) shall apply to contracts of sale and prospective sales.
 
-[artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=20) (ten aanzien van de inschrijving van een verkoopcontract of een toekomstige verkoop);
+##### Article IV. Sphere of application
 
-[artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=25) (ten aanzien van een toekomstige verkoop); en
+1. Without prejudice to [Article 3(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3), the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
 
-[artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=30).
+2. For the purposes of the definition of “internal transaction” in [Article 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1):
 
-Bovendien zijn de algemene bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=5), de [Hoofdstukken IV tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=IV), [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) (anders dan [artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29), dat is vervangen door [artikel XIV, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIV&z=2010-09-01&g=2010-09-01)), [Hoofdstuk X](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=X), [Hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XII) (anders dan [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43)), [Hoofdstuk XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIII) en [Hoofdstuk XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=XIV) (anders dan [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60)) van toepassing op verkoopcontracten en toekomstige verkopen.
+- a) an airframe is located in the State of registry of the aircraft of which it is a part;
 
-##### Artikel IV. Toepassingsbereik
+- b) an aircraft engine is located in the State of registry of the aircraft on which it is installed or, if it is not installed on an aircraft, where it is physically located; and
 
-1. Onverminderd [artikel 3, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=3), is het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) eveneens van toepassing met betrekking tot een helikopter, of tot een bij een luchtvaartuig behorend luchtvaartuigcasco, die zijn ingeschreven in een luchtvaartuigregister van een Verdragsluitende Staat die de Staat van inschrijving is, en wordt deze inschrijving, indien deze is gedaan uit hoofde van een overeenkomst tot inschrijving van het luchtvaartuig, geacht te zijn gedaan op het tijdstip van de overeenkomst.
+- c) a helicopter is located in its State of registry, at the time of the conclusion of the agreement creating or providing for the interest.
 
-2. Voor de toepassing van de omschrijving van „interne transactie” in [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1):
+3. The parties may, by agreement in writing, exclude the application of [Article XI](https://wetten.overheid.nl/BWBV0003190) and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except [Article IX (2)-(4)](https://wetten.overheid.nl/BWBV0003190).
 
-- a. bevindt een luchtvaartuigcasco zich in de Staat van inschrijving van het luchtvaartuig waarvan het een onderdeel vormt;
+##### Article V. Formalities, effects and registration of contracts of sale
 
-- b. bevindt een luchtvaartuigmotor zich in de Staat van inschrijving van het luchtvaartuig waarop hij is geïnstalleerd of, indien de motor niet op een luchtvaartuig is geïnstalleerd, waar hij zich fysiek bevindt, en
+1. For the purposes of this Protocol, a contract of sale is one which:
 
-- c. bevindt een helikopter zich in zijn Staat van inschrijving,
+- a) is in writing;
 
-op het tijdstip van het sluiten van de overeenkomst waarbij het zakelijk recht wordt gevestigd of in het zakelijk recht wordt voorzien.
+- b) relates to an aircraft object of which the seller has power to dispose; and
 
-3. De partijen kunnen, door middel van een schriftelijke overeenkomst, de toepassing van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01) uitsluiten en, in hun onderlinge betrekkingen, van de bepalingen van dit Protocol afwijken of de rechtsgevolgen ervan wijzigen, met uitzondering van [artikel IX, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01).
+- c) enables the aircraft object to be identified in conformity with this Protocol.
 
-##### Artikel V. Formaliteiten, rechtsgevolgen en inschrijving van verkoopcontracten
+2. A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.
 
-1. Voor de toepassing van dit Protocol is een verkoopcontract een contract dat:
+3. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
-- a. schriftelijk is;
+##### Article VI. Representative capacities
 
-- b. betrekking heeft op een luchtvaartuigzaak ten aanzien waarvan de verkoper beschikkingsbevoegd is; en
+A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189).
 
-- c. het mogelijk maakt de luchtvaartuigzaak te identificeren in overeenstemming met dit Protocol.
+##### Article VII. Description of aircraft objects
 
-2. Een verkoopcontract draagt de rechten van de verkoper op de luchtvaartuigzaak in overeenstemming met de bedingen van de overeenkomst over op de koper.
+A description of an aircraft object that contains its manufacturer’s serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of [Article 7(c) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=7) and [Article V(1)(c)](https://wetten.overheid.nl/BWBV0003190) of this Protocol.
 
-3. De inschrijving van een verkoopcontract blijft voor onbepaalde duur van kracht. De inschrijving van een toekomstige verkoop blijft van kracht totdat deze wordt doorgehaald of totdat het eventueel in de inschrijving vermelde tijdvak is verstreken.
+##### Article VIII. Choice of law
 
-##### Artikel VI. Vertegenwoordigingsbevoegdheid
+1. This Article applies only where a Contracting State has made a declaration pursuant to [Article XXX(1)](https://wetten.overheid.nl/BWBV0003190).
 
-Een persoon kan in het kader van een agentschap, trust of in een andere vertegenwoordigende hoedanigheid een overeenkomst of verkoop sluiten en een internationaal zakelijk recht op of verkoop van een luchtvaartuigzaak inschrijven. In een dergelijk geval is die persoon bevoegd rechten en zakelijke rechten ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) te doen gelden.
+2. The parties to an agreement, or a contract of sale, or a related guarantee contract or subordination agreement may agree on the law which is to govern their contractual rights and obligations, wholly or in part.
 
-##### Artikel VII. Beschrijving van luchtvaartuigzaken
+3. Unless otherwise agreed, the reference in the preceding paragraph to the law chosen by the parties is to the domestic rules of law of the designated State or, where that State comprises several territorial units, to the domestic law of the designated territorial unit.
 
-Een beschrijving van een luchtvaartuigzaak die het serienummer van de fabrikant, de naam van de fabrikant en de aanduiding van het model bevat is noodzakelijk en voldoende om het voorwerp te identificeren voor de toepassing van [artikel 7, onderdeel c, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=7) en [artikel V, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=I&artikel=V&z=2010-09-01&g=2010-09-01), van dit Protocol.
+### CHAPTER II. DEFAULT REMEDIES, PRIORITIES AND ASSIGNMENTS
 
-##### Artikel VIII. Rechtskeuze
+##### Article IX. Modification of default remedies provisions
 
-1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
+1. In addition to the remedies specified in [Chapter III of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III), the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in [that Chapter](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III):
 
-2. De partijen bij een overeenkomst, of een verkoopcontract, of een daaraan gerelateerde garantieovereenkomst of achterstellingsovereenkomst kunnen overeenkomen door welk recht hun contractuele rechten en verplichtingen, geheel of ten dele, worden beheerst.
+- a) procure the de-registration of the aircraft; and
 
-2. Tenzij anders is overeengekomen, is de verwijzing in het voorgaande lid naar het door de partijen gekozen recht een verwijzing naar de regels van het nationale recht van de aangewezen Staat of, indien die Staat uit meerdere territoriale eenheden bestaat, het nationale recht van de aangewezen territoriale eenheid.
+- b) procure the export and physical transfer of the aircraft object from the territory in which it is situated.
 
-### HOOFDSTUK II. RECHTSMIDDELEN BIJ VERZUIM, RANGORDE EN CESSIE
+2. The creditor shall not exercise the remedies specified in the preceding paragraph without the prior consent in writing of the holder of any registered interest ranking in priority to that of the creditor.
 
-##### Artikel IX. Wijziging van de bepalingen inzake rechtsmiddelen bij verzuim
+3. [Article 8(3) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=8) shall not apply to aircraft objects. Any remedy given by the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.
 
-1. Naast de in [Hoofdstuk III van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III) bedoelde rechtsmiddelen kan de schuldeiser, voorzover de schuldenaar daar op enig tijdstip mee heeft ingestemd en onder de in [dat Hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&hoofdstuk=III) genoemde omstandigheden:
+4. A chargee giving ten or more working days’ prior written notice of a proposed sale or lease to interested persons shall be deemed to satisfy the requirement of providing “reasonable prior notice” specified in [Article 8(4) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=8). The foregoing shall not prevent a chargee and a chargor or a guarantor from agreeing to a longer period of prior notice.
 
-- a. de doorhaling van de inschrijving van het luchtvaartuig bewerkstelligen; en
+5. The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:
 
-- b. de uitvoer en de fysieke overbrenging bewerkstelligen van de luchtvaartuigzaak uit het grondgebied waar dit zich bevindt.
+- a) the request is properly submitted by the authorised party under a recorded irrevocable deregistration and export request authorisation; and
 
-2. De schuldeiser past de in het voorgaande lid genoemde rechtsmiddelen niet toe zonder de voorafgaande schriftelijke instemming van de houder van een ingeschreven zakelijk recht dat in rang gaat boven die van de schuldeiser.
+- b) the authorised party certifies to the registry authority, if required by that authority, that all registered interests ranking in priority to that of the creditor in whose favour the authorisation has been issued have been discharged or that the holders of such interests have consented to the de-registration and export.
 
-3. [Artikel 8, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=8) is niet van toepassing op luchtvaartuigzaken. De door het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) met betrekking tot een luchtvaartuigzaak toegekende rechtsmiddelen moeten op een in commercieel opzicht redelijke wijze worden toegepast. Een rechtsmiddel wordt geacht op een in commercieel opzicht redelijke wijze te zijn toegepast indien het is toegepast in overeenstemming met een beding van de overeenkomst, behoudens indien een dergelijk beding kennelijk onredelijk is.
+6. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed deregistration and export to:
 
-4. Een nemer van een zakelijk recht die ten minste tien werkdagen van tevoren een schriftelijke kennisgeving van een voorgenomen verkoop of leasing aan belanghebbenden heeft gegeven, wordt geacht te voldoen aan het vereiste van het verschaffen van een „redelijke voorafgaande kennisgeving”, bedoeld in [artikel 8, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=8). Het voorgaande staat er niet aan in de weg dat een nemer van een zakelijk recht en een gever van een zakelijk recht of een garant overeenkomen dat de voorafgaande kennisgeving eerder moet geschieden.
+- a) interested persons specified in [Article 1(m)(i) and (ii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1); and
 
-5. De registratieautoriteit in een Verdragsluitende Staat willigt, onverminderd eventuele toepasselijke veiligheidswetten en -voorschriften, een verzoek om doorhaling van de inschrijving en uitvoer in, indien:
+- b) interested persons specified in [Article 1(m)(iii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1) who have given notice of their rights to the chargee within a reasonable time prior to the de-registration and export.
 
-- a. het verzoek naar behoren is ingediend door de gemachtigde partij krachtens een vastgelegde onherroepelijke machtiging voor doorhaling van de inschrijving en voor een uitvoerverzoek; en
+##### Article X. Modification of provisions regarding relief pending final determination
 
-- b. de gemachtigde partij aan de registratieautoriteit, indien zij zulks verlangt, verklaart dat alle ingeschreven zakelijke rechten die een hogere rang hebben dan die van de schuldeiser ten gunste van wie de machtiging is afgegeven, zijn opgeheven of dat de houders van dergelijke zakelijke rechten met doorhaling van de inschrijving en uitvoer hebben ingestemd.
+1. This Article applies only where a Contracting State has made a declaration under [Article XXX(2)](https://wetten.overheid.nl/BWBV0003190) and to the extent stated in such declaration.
 
-6. Een nemer van een zakelijk recht die voornemens is over te gaan tot het bewerkstelligen van doorhaling van de inschrijving en uitvoer van een luchtvaartuig ingevolge het eerste lid, anders dan krachtens een bevel van het gerecht, geeft een redelijke voorafgaande schriftelijke kennisgeving van de voorgenomen doorhaling van de inschrijving en uitvoer aan:
+2. For the purposes of [Article 13(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13), “speedy” in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
-- a. de in [artikel 1, onderdeel m, onder i en ii, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1) bedoelde belanghebbenden; en
+3. [Article 13(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13) applies with the following being added immediately after sub-paragraph (d):
 
-- b. de in [artikel 1, onderdeel m, onder iii, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=1) bedoelde belanghebbenden die binnen een redelijke tijd voorafgaand aan de doorhaling van de inschrijving en uitvoer aan de nemer van een zakelijk recht kennisgeving van hun rechten hebben gedaan.
+- “(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom”,
 
-##### Artikel X. Wijziging van bepalingen met betrekking tot redres hangende definitieve vaststelling
+and [Article 43(2)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) applies with the insertion after the words “[Article 13(1)(d)](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13)” of the words “and (e)”.
 
-1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd en in de in die verklaring aangegeven mate.
+4. Ownership or any other interest of the debtor passing on a sale under the preceding paragraph is free from any other interest over which the creditor’s international interest has priority under the provisions of [Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29).
 
-2. Voor de toepassing van [artikel 13, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13) wordt in verband met het verkrijgen van redres onder „spoedig” verstaan, binnen het aantal werkdagen, vanaf de dag van indiening van het verzoek om redres, dat wordt vermeld in een door de Verdragsluitende Staat waarin het verzoek wordt gedaan afgelegde verklaring.
+5. The creditor and the debtor or any other interested person may agree in writing to exclude the application of [Article 13(2) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13).
 
-3. [Artikel 13, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13) is van toepassing, met toevoeging, onmiddellijk na onderdeel d, van het volgende:
+6. With regard to the remedies in [Article IX(1)](https://wetten.overheid.nl/BWBV0003190):
 
-- „e. indien de schuldenaar en de schuldeiser zulks op enig tijdstip in het bijzonder overeenkomen, de verkoop en aanwending van de opbrengsten daarvan”,
+- a) they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in [Article IX(1)](https://wetten.overheid.nl/BWBV0003190) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189); and
 
-en [artikel 43, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43), is van toepassing met invoeging van de woorden „en onderdeel e”, na de woorden „[artikel 13, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13)”.
+- b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 
-4. De eigendom of elk ander recht van de schuldenaar dat overgaat bij een verkoop ingevolge het voorgaande lid is vrij van elk ander recht waarboven het internationale zakelijk recht van de schuldeiser krachtens de bepalingen van [artikel 29 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) voorrang heeft.
+7. Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.
 
-5. De schuldeiser en schuldenaar of andere belanghebbenden kunnen schriftelijk overeenkomen de toepassing van [artikel 13, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=13) uit te sluiten.
+##### Article XI. Remedies on insolvency
 
-6. Ten aanzien van de in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01), genoemde rechtsmiddelen geldt dat:
+1. This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to [Article XXX(3)](https://wetten.overheid.nl/BWBV0003190).
 
-- a. deze beschikbaar worden gesteld door de registratieautoriteit en andere administratieve autoriteiten in een Verdragsluitende Staat, naargelang hetgeen van toepassing is, uiterlijk vijf werkdagen nadat de schuldeiser die autoriteiten ervan kennis heeft gegeven dat het in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01), bedoelde redres is toegekend of, ingeval het redres is toegekend door een buitenlands gerecht, is erkend door een gerecht van die Verdragsluitende Staat, en dat de schuldeiser gerechtigd is die rechtsmiddelen in overeenstemming met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) te bewerkstelligen; en
+Alternative A
 
-- b. de desbetreffende autoriteiten met spoed met de schuldeiser samenwerken en deze bijstaan bij de toepassing van deze rechtsmiddelen in overeenstemming met de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.
+2. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
 
-7. Het tweede en zesde lid doen geen afbreuk aan de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.
+- a) the end of the waiting period; and
 
-##### Artikel XI. Rechtsmiddelen bij insolventie
+- b) the date on which the creditor would be entitled to possession of the aircraft object if this Article did not apply.
 
-1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat die de primaire rechtsmacht bij insolventie heeft, een verklaring ingevolge [artikel XXX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
+3. For the purposes of this Article, the “waiting period” shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
 
-2. Indien zich een insolventiegerelateerde gebeurtenis voordoet, stelt de curator of de schuldenaar, naargelang hetgeen van toepassing is, onder voorbehoud van het zevende lid, de luchtvaartuigzaak in het bezit van de schuldeiser, uiterlijk op het vroegste van de volgende twee tijdstippen:
+4. References in this Article to the “insolvency administrator” shall be to that person in its official, not in its personal, capacity.
 
-- a. aan het einde van de wachttermijn; en
+5. Unless and until the creditor is given the opportunity to take possession under paragraph 2:
 
-- b. op de datum waarop de schuldeiser gerechtigd zou zijn tot bezit van de luchtvaartuigzaak indien dit artikel niet van toepassing zou zijn.
+- a) the insolvency administrator or the debtor, as applicable, shall preserve the aircraft object and maintain it and its value in accordance with the agreement; and
 
-3. Voor de toepassing van dit artikel is de „wachttermijn” het tijdvak dat wordt vermeld in een verklaring van de Verdragsluitende Staat die de primaire rechtsmacht bij insolventie heeft.
+- b) the creditor shall be entitled to apply for any other forms of interim relief available under the applicable law.
 
-4. Verwijzingen in dit artikel naar de „curator” zijn verwijzingen naar die persoon in zijn officiële en niet in zijn persoonlijke hoedanigheid.
+6. Sub-paragraph (a) of the preceding paragraph shall not preclude the use of the aircraft object under arrangements designed to preserve the aircraft object and maintain it and its value.
 
-5. Tenzij en totdat de schuldeiser de gelegenheid is gegeven tot inbezitneming ingevolge het tweede lid:
+7. The insolvency administrator or the debtor, as applicable, may retain possession of the aircraft object where, by the time specified in paragraph 2, it has cured all defaults other than a default constituted by the opening of insolvency proceedings and has agreed to perform all future obligations under the agreement. A second waiting period shall not apply in respect of a default in the performance of such future obligations.
 
-- a. bewaart de curator of de schuldenaar, naargelang hetgeen van toepassing is, de luchtvaartuigzaak en zorgt hij voor de instandhouding van de zaak en van de waarde ervan in overeenstemming met de overeenkomst; en
+8. With regard to the remedies in [Article IX(1)](https://wetten.overheid.nl/BWBV0003190):
 
-- b. is de schuldeiser gerechtigd andere vormen van tussentijds redres te verzoeken die ingevolge het toepasselijke recht beschikbaar zijn.
+- a) they shall be made available by the registry authority and the administrative authorities in a Contracting State, as applicable, no later than five working days after the date on which the creditor notifies such authorities that it is entitled to procure those remedies in accordance with the Convention; and
 
-6. Onderdeel a van het voorgaande lid vormt geen beletsel voor het gebruik van de luchtvaartuigzaak krachtens afspraken voor de bewaring van de luchtvaartuigzaak en voor de instandhouding van de zaak en van de waarde ervan.
+- b) the applicable authorities shall expeditiously co-operate with and assist the creditor in the exercise of such remedies in conformity with the applicable aviation safety laws and regulations.
 
-7. De curator of de schuldenaar, naargelang hetgeen van toepassing is, mag de luchtvaartuigzaak in bezit houden indien hij, op het in het tweede lid bedoelde tijdstip, alle gevallen van verzuim, anders dan een verzuim ontstaan door de opening van een insolventieprocedure, heeft gezuiverd en ermee heeft ingestemd alle toekomstige verplichtingen uit hoofde van de overeenkomst na te komen. Ten aanzien van een verzuim bij de nakoming van die toekomstige verplichtingen is geen tweede wachttermijn van toepassing.
+9. No exercise of remedies permitted by the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) or this Protocol may be prevented or delayed after the date specified in paragraph 2.
 
-8. Ten aanzien van de in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01), genoemde rechtsmiddelen geldt dat:
+10. No obligations of the debtor under the agreement may be modified without the consent of the creditor.
 
-- a. deze beschikbaar worden gesteld door de registratieautoriteit en andere administratieve autoriteiten in een Verdragsluitende Staat, naargelang hetgeen van toepassing is, uiterlijk vijf werkdagen na de datum waarop de schuldeiser die autoriteiten ervan kennis heeft gegeven dat hij gerechtigd is die rechtsmiddelen in overeenstemming met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) te bewerkstelligen; en
+11. Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
 
-- b. de desbetreffende autoriteiten met spoed met de schuldeiser samenwerken en deze bijstaan bij de toepassing van deze rechtsmiddelen in overeenstemming met de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart.
+12. No rights or interests, except for non-consensual rights or interests of a category covered by a declaration pursuant to Article 39(1), shall have priority in insolvency proceedings over registered interests.
 
-9. De toepassing van de door het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) of dit Protocol toegestane rechtsmiddelen mag na de in het tweede lid bedoelde datum niet worden belemmerd of vertraagd.
+13. The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) as modified by [Article IX](https://wetten.overheid.nl/BWBV0003190) of this Protocol shall apply to the exercise of any remedies under this Article.
 
-10. De verplichtingen van de schuldenaar ingevolge de overeenkomst mogen zonder de instemming van de schuldeiser niet worden gewijzigd.
+Alternative B
 
-11. Niets in het voorgaande lid mag zodanig worden uitgelegd dat de eventuele bevoegdheid van de curator ingevolge het toepasselijke recht om de overeenkomst te beëindigen, wordt aangetast.
+2. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to [Article XXX(3)](https://wetten.overheid.nl/BWBV0003190) whether it will:
 
-12. Geen enkel recht of zakelijk recht, behoudens buitencontractuele rechten of zakelijke rechten van een categorie waarop een verklaring ingevolge [artikel 39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=39), van toepassing is, heeft bij een insolventieprocedure voorrang boven ingeschreven zakelijke rechten.
+- a) cure all defaults other than a default constituted by the opening of insolvency proceedings and agree to perform all future obligations, under the agreement and related transaction documents; or
 
-13. Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) zoals gewijzigd door [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01) van dit Protocol is van toepassing op de aanwending van rechtsmiddelen ingevolge dit artikel.
+- b) give the creditor the opportunity to take possession of the aircraft object, in accordance with the applicable law.
 
-2. Indien zich een insolventiegerelateerde gebeurtenis voordoet, stelt de curator of de schuldenaar, naargelang hetgeen van toepassing is, op verzoek van de schuldeiser, de schuldeiser binnen de in een verklaring van een Verdragsluitende Staat ingevolge [artikel XXX, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), genoemde termijn, ervan in kennis of hij:
+3. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
 
-- a. alle gevallen van verzuim, anders dan een verzuim ontstaan door de opening van een insolventieprocedure, zal zuiveren en ermee instemt alle toekomstige verplichtingen uit hoofde van de overeenkomst en de daaraan gerelateerde transactiedocumenten na te komen; of
+4. The creditor shall provide evidence of its claims and proof that its international interest has been registered.
 
-- b. de schuldeiser in de gelegenheid zal stellen de luchtvaartuigzaak, in overeenstemming met het toepasselijke recht, in bezit te nemen.
+5. If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.
 
-3. Het in het voorgaande lid, onderdeel b, bedoelde toepasselijke recht kan het gerecht toestaan te verlangen dat een aanvullende maatregel wordt genomen of een aanvullende garantie wordt gesteld.
+6. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
-4. De schuldeiser levert bewijs van zijn vorderingen en bewijst dat zijn internationale zakelijk recht is ingeschreven.
+##### Article XII. Insolvency assistance
 
-5. Indien de curator of de schuldenaar, naargelang hetgeen van toepassing is, geen kennisgeving doet in overeenstemming met het tweede lid, of indien de curator of de schuldenaar heeft verklaard dat hij de schuldeiser in de gelegenheid stelt de luchtvaartuigzaak in bezit te nemen, maar verzuimt zulks te doen, kan het gerecht de schuldeiser toestaan de luchtvaartuigzaak in bezit te nemen op de door het gerecht bevolen voorwaarden en kan het gerecht verlangen dat een aanvullende maatregel wordt genomen of een aanvullende garantie wordt gesteld.
+1. This Article applies only where a Contracting State has made a declaration pursuant to [Article XXX(1)](https://wetten.overheid.nl/BWBV0003190).
 
-6. Hangende een beslissing door een gerecht ter zake van de vordering en het internationale zakelijk recht, wordt de luchtvaartuigzaak niet verkocht.
+2. The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of [Article XI](https://wetten.overheid.nl/BWBV0003190).
 
-##### Artikel XII. Bijstand bij insolventie
+##### Article XIII. De-registration and export request authorisation
 
-1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
+1. This Article applies only where a Contracting State has made a declaration pursuant to [Article XXX(1)](https://wetten.overheid.nl/BWBV0003190).
 
-2. De gerechten van een Verdragsluitende Staat waarin zich een luchtvaartuigzaak bevindt, werken bij de uitvoering van de bepalingen van [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01), in overeenstemming met het recht van de Verdragsluitende Staat, in de ruimst mogelijke mate samen met buitenlandse gerechten en buitenlandse curatoren.
+2. Where the debtor has issued an irrevocable de-registration and export request authorisation substantially in the form annexed to this Protocol and has submitted such authorisation for recordation to the registry authority, that authorisation shall be so recorded.
 
-##### Artikel XIII. Machtiging voor een doorhaling van de inschrijving en een uitvoerverzoek
+3. The person in whose favour the authorisation has been issued (the “authorised party”) or its certified designee shall be the sole person entitled to exercise the remedies specified in [Article IX(1)](https://wetten.overheid.nl/BWBV0003190) and may do so only in accordance with the authorisation and applicable aviation safety laws and regulations.
 
-1. Dit artikel is uitsluitend van toepassing indien een Verdragsluitende Staat een verklaring ingevolge [artikel XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), heeft afgelegd.
+Such authorisation may not be revoked by the debtor without the consent in writing of the authorised party. The registry authority shall remove an authorisation from the registry at the request of the authorised party.
 
-2. Indien de schuldenaar een onherroepelijke machtiging voor doorhaling van een inschrijving en een uitvoerverzoek heeft afgegeven die in hoofdzaak overeenstemt met het bij dit Protocol gevoegde formulier, en deze machtiging ter inschrijving bij de registratieautoriteit heeft ingediend, wordt die machtiging aldus ingeschreven.
+4. The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in [Article IX](https://wetten.overheid.nl/BWBV0003190).
 
-3. De persoon ten gunste van wie de machtiging is afgegeven (de „gemachtigde partij”) of de officieel door hem aangewezen persoon is de enige persoon die gerechtigd is de in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01), bedoelde rechtsmiddelen toe te passen en kan dit uitsluitend doen in overeenstemming met de machtiging en de toepasselijke wetten en voorschriften inzake de veiligheid van de luchtvaart. Deze machtiging kan niet door de schuldenaar worden ingetrokken zonder de schriftelijke instemming van de gemachtigde partij. Op verzoek van de gemachtigde partij verwijdert de registratieautoriteit een machtiging uit het register.
+##### Article XIV. Modification of priority provisions
 
-4. De registratieautoriteit en andere administratieve autoriteiten in Verdragsluitende Staten werken met spoed samen met de gemachtigde partij en verlenen haar bijstand bij de toepassing van de in [artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=IX&z=2010-09-01&g=2010-09-01) bedoelde rechtsmiddelen.
+1. A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.
 
-##### Artikel XIV. Wijziging van bepalingen inzake voorrang
+2. A buyer of an aircraft object acquires its interest in that object subject to an interest registered at the time of its acquisition.
 
-1. Een koper van een luchtvaartuigzaak krachtens een ingeschreven verkoop verwerft zijn recht op die zaak vrij van een later ingeschreven recht en vrij van een niet ingeschreven recht, zelfs wanneer de koper feitelijk op de hoogte is van het niet ingeschreven recht.
+3. Ownership of or another right or interest in an aircraft engine shall not be affected by its installation on or removal from an aircraft.
 
-2. Een koper van een luchtvaartuigzaak verwerft zijn recht op die zaak onder voorbehoud van een recht dat ten tijde van diens verwerving was ingeschreven.
+4. [Article 29(7) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
 
-3. De installatie van een luchtvaartuigmotor op een luchtvaartuig of de verwijdering daarvan doet geen afbreuk aan de eigendom van die motor of een ander recht of zakelijk recht daarop.
+##### Article XV. Modification of assignment provisions
 
-4. [Artikel 29, zevende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) is van toepassing op een onderdeel, anders dan een zaak, die op een luchtvaartuigcasco, luchtvaartuigmotor of helikopter zijn geïnstalleerd.
+[Article 33(1) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=33) applies as if the following were added immediately after sub-paragraph (b):
 
-##### Artikel XV. Wijziging van bepalingen inzake cessie
+- “and (c) the debtor has consented in writing, whether or not the consent is given in advance of the assignment or identifies the assignee.”
 
-[Artikel 33, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=33) is van toepassing alsof het volgende onmiddellijk na onderdeel b was toegevoegd:
+##### Article XVI. Debtor provisions
 
-- „en c. de schuldenaar schriftelijk heeft ingestemd, ongeacht het feit of de instemming al dan niet voorafgaand aan de cessie is gegeven of daarin de cessionaris wordt genoemd.”
+1. In the absence of a default within the meaning of [Article 11 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=11), the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
 
-##### Artikel XVI. Bepalingen inzake schuldenaars
+- a) its creditor and the holder of any interest from which the debtor takes free pursuant to [Article 29(4) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) or, in the capacity of buyer, [Article XIV(1)](https://wetten.overheid.nl/BWBV0003190) of this Protocol, unless and to the extent that the debtor has otherwise agreed; and
 
-1. Bij afwezigheid van een verzuim in de zin van [artikel 11 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=11), heeft de schuldenaar recht op het rustige bezit en gebruik van de zaak in overeenstemming met de overeenkomst tegenover:
+- b) the holder of any interest to which the debtor’s right or interest is subject pursuant to [Article 29(4) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) or, in the capacity of buyer, [Article XIV(2)](https://wetten.overheid.nl/BWBV0003190) of this Protocol, but only to the extent, if any, that such holder has agreed.
 
-- a. zijn schuldeiser en de houder van een zakelijk recht waarvan het door de schuldenaar verworven recht vrij is gebleven ingevolge [artikel 29, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) of, in de hoedanigheid van koper, [artikel XIV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIV&z=2010-09-01&g=2010-09-01), van dit Protocol, tenzij en voorzover de schuldenaar anders is overeengekomen; en
+2. Nothing in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.
 
-- b. de houder van een zakelijk recht waaraan het recht van de schuldenaar onderworpen is ingevolge [artikel 29, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=29) of, in de hoedanigheid van koper, [artikel XIV, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIV&z=2010-09-01&g=2010-09-01), van dit Protocol, doch uitsluitend in de mate waarin die houder daarmee eventueel heeft ingestemd.
+### CHAPTER III. REGISTRY PROVISIONS RELATING TO INTERNATIONAL INTERESTS IN AIRCRAFT OBJECTS
 
-2. Niets in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) of dit Protocol doet afbreuk aan de aansprakelijkheid van een schuldeiser wegens niet-nakoming van de overeenkomst ingevolge het toepasselijke recht voorzover die overeenkomst betrekking heeft op een luchtvaartuigzaak.
+##### Article XVII. The Supervisory Authority and the Registrar
 
-### HOOFDSTUK III. BEPALINGEN INZAKE DE INSCHRIJVING VAN INTERNATIONALE ZAKELIJKE RECHTEN OP LUCHTVAARTUIGZAKEN
+1. The Supervisory Authority shall be the international entity designated by a Resolution adopted by the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol.
 
-##### Artikel XVII. De Toezichthoudende Autoriteit en de Bewaarder
+2. Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.
 
-1. De Toezichthoudende Autoriteit is de internationale entiteit die wordt aangewezen door een Resolutie aangenomen door de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol.
+3. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
 
-2. Indien de in het vorige lid bedoelde internationale entiteit niet in staat en bereid is als Toezichthoudende Autoriteit op te treden, wordt een Conferentie van de Ondertekenende en Verdragsluitende Staten bijeengeroepen teneinde een andere Toezichthoudende Autoriteit aan te wijzen.
+4. The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
 
-3. De Toezichthoudende Autoriteit en haar leidinggevenden en medewerkers genieten de immuniteit van gerechtelijke en administratieve vervolging zoals toegekend krachtens de op hen als internationale entiteit of anderszins van toepassing zijnde regels.
+5. The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.
 
-4. De Toezichthoudende Autoriteit kan een commissie van deskundigen instellen, samengesteld uit door de Ondertekenende en Verdragsluitende Staten voorgedragen personen met de nodige kwalificaties en ervaring, en deze commissie opdragen de Toezichthoudende Autoriteit bij de vervulling van haar taken bij te staan.
+##### Article XVIII. First regulations
 
-5. De eerste Bewaarder beheert het Internationaal Register voor een tijdvak van vijf jaren, te rekenen vanaf de datum van inwerkingtreding van dit Protocol. Daarna wordt de Bewaarder met regelmatige tussenpozen van vijf jaren door de Toezichthoudende Autoriteit benoemd of herbenoemd.
+The first regulations shall be made by the Supervisory Authority so as to take effect upon the entry into force of this Protocol.
 
-##### Artikel XVIII. Eerste reglement
+##### Article XIX. Designated entry points
 
-Het eerste reglement wordt door de Toezichthoudende Autoriteit opgesteld opdat dit van kracht wordt bij de inwerkingtreding van dit Protocol.
+1. Subject to paragraph 2, a Contracting State may at any time designate an entity or entities in its territory as the entry point or entry points through which there shall or may be transmitted to the International Registry information required for registration other than registration of a notice of a national interest or a right or interest under [Article 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40) in either case arising under the laws of another State.
 
-##### Artikel XIX. Aangewezen punten van invoer
+2. A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.
 
-1. Onverminderd het tweede lid kan een Verdragsluitende Staat te allen tijde een of meer organen op zijn grondgebied aanwijzen als punt of punten van invoer via welke informatie aan het Internationaal Register moet of kan worden verzonden die vereist is voor de inschrijving, anders dan de inschrijving van een kennisgeving van een nationaal zakelijk recht of een recht of zakelijk recht ingevolge [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40) die in beide gevallen ontstaan ingevolge het recht van een andere Staat.
+##### Article XX. Additional modifications to Registry provisions
 
-2. Een aanwijzing ingevolge het voorgaande lid kan het gebruik van een aangewezen punt of punten van invoer toestaan, doch niet opleggen, voor informatie vereist voor inschrijvingen ten aanzien van luchtvaartuigmotoren.
+1. For the purposes of [Article 19(6) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=19), the search criteria for an aircraft object shall be the name of its manufacturer, its manufacturer’s serial number and its model designation, supplemented as necessary to ensure uniqueness. Such supplementary information shall be specified in the regulations.
 
-##### Artikel XX. Aanvullende wijzigingen van bepalingen inzake inschrijving
+2. For the purposes of [Article 25(2) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=25) and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
 
-1. Voor de toepassing van [artikel 19, zesde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=19) zijn de raadpleegcriteria voor een luchtvaartuigzaak de naam van de fabrikant, het serienummer van de fabrikant en de naam van het model, met de aanvullingen die vereist zijn voor haar individualisering. Deze aanvullende informatie wordt in het reglement nader omschreven.
+3. The fees referred to in [Article 17(2)(h) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=17) shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by [Article 17(2) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=17).
 
-2. Voor de toepassing van [artikel 25, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=25) en onder de daar beschreven omstandigheden, neemt de houder van een ingeschreven toekomstig internationaal zakelijk recht of een ingeschreven toekomstige cessie van een internationaal zakelijk recht of de persoon ten gunste van wie een toekomstige verkoop is ingeschreven, zodanige maatregelen als binnen zijn macht liggen om doorhaling van de inschrijving te bewerkstelligen, uiterlijk vijf werkdagen na de ontvangst van een in dat lid genoemd verzoek.
+4. The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
 
-3. De in [artikel 17, tweede lid, onderdeel h, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=17) bedoelde tarieven worden zodanig vastgesteld dat deze dekkend zijn voor de redelijke kosten van de instelling, exploitatie en reglementering van het Internationaal Register en de redelijke kosten van de Toezichthoudende Autoriteit samenhangend met de vervulling van de taken, uitoefening van de bevoegdheden, en nakoming van de verplichtingen vervat in [artikel 17, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=17).
+5. The amount of the insurance or financial guarantee referred to in [Article 28(4) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=28) shall, in respect of each event, not be less than the maximum value of an aircraft object as determined by the Supervisory Authority.
 
-4. De gecentraliseerde taken van het Internationaal Register worden door de Bewaarder 24 uur per dag uitgeoefend en beheerd. De diverse punten van invoer functioneren ten minste gedurende de werktijden in hun respectieve grondgebieden.
+6. Nothing in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=28).
 
-5. De in [artikel 28, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=28) bedoelde hoogte van de verzekering of financiële garantie bedraagt, per gebeurtenis, ten minste de maximumwaarde van een luchtvaartuigzaak zoals vastgesteld door de Toezichthoudende Autoriteit.
+### CHAPTER IV. JURISDICTION
 
-6. Niets in dit Verdrag belet de Bewaarder voor een verzekering of financiële garantie te zorgen die gebeurtenissen dekt waarvoor de Bewaarder ingevolge [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=28) niet aansprakelijk is.
+##### Article XXI. Modification of jurisdiction provisions
 
-### HOOFDSTUK IV. RECHTSMACHT
+For the purposes of [Article 43 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) and subject to [Article 42 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42), a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry.
 
-##### Artikel XXI. Wijziging van bepalingen inzake rechtsmacht
+##### Article XXII. Waivers of sovereign immunity
 
-Voor de toepassing van [artikel 43 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) en onder voorbehoud van [artikel 42 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42), is een gerecht van een Verdragsluitende Staat eveneens bevoegd indien de zaak een helikopter, of een bij een luchtvaartuig behorend luchtvaartuigcasco is, ten aanzien waarvan die Staat de Staat van inschrijving is.
+1. Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in [Article 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42) or [Article 43 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) or relating to enforcement of rights and interests relating to an aircraft object under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.
 
-##### Artikel XXII. Afstand van soevereine immuniteit
+2. A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.
 
-1. Onverminderd het tweede lid is afstand van soevereine immuniteit van rechtsmacht van de in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=42) of [artikel 43 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=43) bedoelde gerechten of met betrekking tot de handhaving van rechten en zakelijke rechten die ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) betrekking hebben op een luchtvaartuigzaak, bindend, en, indien aan de andere voorwaarden voor deze rechtsmacht of handhaving is voldaan, ontstaat hierdoor, naargelang van het geval, bevoegdheid en wordt hierdoor handhaving mogelijk.
+### CHAPTER V. RELATIONSHIP WITH OTHER CONVENTIONS
 
-2. Afstand zoals bedoeld in het voorgaande lid dient schriftelijk te geschieden en dient een beschrijving van de luchtvaartuigzaak te bevatten.
+##### Article XXIII. Relationship with the Convention on the International Recognition of Rights in Aircraft
 
-### HOOFDSTUK V. VERHOUDING TOT ANDERE VERDRAGEN
+The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall, for a Contracting State that is a party to the *Convention on the International Recognition of Rights in Aircraft*, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), the Geneva Convention shall not be superseded.
 
-##### Artikel XXIII. Verhouding tot het Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen
+##### Article XXIV. Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
-Ten aanzien van een Verdragsluitende Staat die Partij is bij het **Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen**, ondertekend te Genève op 19 juni 1948, heeft het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol, en op luchtvaartuigzaken. Ten aanzien van door dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) niet bestreken of geraakte rechten of zakelijke rechten heeft dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) geen voorrang boven het Verdrag van Genève.
+1. The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall, for a Contracting State that is a Party to the *Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft*, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
 
-##### Artikel XXIV. Verhouding tot het Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen
+2. A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.
 
-1. Ten aanzien van een Verdragsluitende Staat die Partij is bij het **Verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen,** ondertekend te Rome op 29 mei 1933, heeft het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) voorrang boven dat Verdrag voorzover het betrekking heeft op luchtvaartuigen, zoals nader aangeduid in dit Protocol.
+##### Article XXV. Relationship with the UNIDROIT Convention on International Financial Leasing
 
-2. Een Verdragsluitende Staat die Partij is bij het bovengenoemde Verdrag kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij dit artikel niet toepast.
+The [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) shall supersede the *Unidroit Convention on International Financial Leasing*, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.
 
-##### Artikel XXV. Verhouding tot het Unidroit-verdrag inzake internationale financiële leasing
+### CHAPTER VI. FINAL PROVISIONS
 
-Het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) heeft voorrang boven het **Unidroit-verdrag inzake internationale financiële leasing**, ondertekend te Ottawa op 28 mei 1988, voorzover dit betrekking heeft op luchtvaartuigzaken.
+##### Article XXVI. Signature, ratification, acceptance, approval or accession
 
-### HOOFDSTUK VI. SLOTBEPALINGEN
+1. This Protocol shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001. After 16 November 2001, this Protocol shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with [Article XXVIII](https://wetten.overheid.nl/BWBV0003190).
 
-##### Artikel XXVI. Ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding
+2. This Protocol shall be subject to ratification, acceptance or approval by States which have signed it.
 
-1. Dit Protocol staat open voor ondertekening te Kaapstad op 16 november 2001 door Staten die deelnemen aan de Diplomatieke Conferentie voor de aanneming van een Verdrag inzake mobiel materieel en een luchtvaartuig-Protocol, gehouden te Kaapstad van 29 oktober tot en met 16 november 2001. Na 16 november 2001 staat dit Protocol voor alle Staten open voor ondertekening op de Zetel van het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit) te Rome, totdat het in werking treedt in overeenstemming met [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXVIII&z=2010-09-01&g=2010-09-01).
+3. Any State which does not sign this Protocol may accede to it at any time.
 
-2. Dit Protocol is onderworpen aan bekrachtiging, aanvaarding of goedkeuring door Staten voor welke het is ondertekend.
+4. Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
 
-3. Staten die dit Protocol niet ondertekenen kunnen er te allen tijde tot toetreden.
+5. A State may not become a Party to this Protocol unless it is or becomes also a Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189).
 
-4. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een formele akte daartoe bij de Depositaris.
+##### Article XXVII. Regional Economic Integration Organisations
 
-5. Een Staat kan uitsluitend Partij bij dit Protocol worden indien hij tevens Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) is of wordt.
+1. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
-##### Artikel XXVII. Regionale organisaties voor economische integratie
+2. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organisation by its Member States.
 
-1. Een regionale organisatie voor economische integratie die door soevereine Staten is ingesteld en bevoegdheid heeft over bepaalde door dit Protocol beheerste kwesties, kan dit Protocol eveneens ondertekenen, aanvaarden, goedkeuren of ertoe toetreden. De regionale organisatie voor economische integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat, voorzover die organisatie bevoegdheid heeft over zaken die door dit Protocol worden beheerst. Indien het aantal Verdragsluitende Staten in dit Protocol van belang is, telt de regionale organisatie voor economische integratie niet als een extra Verdragsluitende Staat naast haar lidstaten die Verdragsluitende Staat zijn.
+The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
 
-2. De regionale organisatie voor economische integratie legt, op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding, aan de Depositaris een verklaring af die de door dit Protocol beheerste zaken vermeldt ten aanzien waarvan haar lidstaten hun bevoegdheid aan die organisatie hebben overgedragen. De regionale organisatie voor economische integratie geeft de Depositaris onverwijld kennis van alle wijzigingen van de in overeenstemming met dit lid in de verklaring vermelde verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden.
+3. Any reference to a “Contracting State” or “Contracting States” or “State Party” or “States Parties” in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.
 
-3. Elke verwijzing in dit Protocol naar „Verdragsluitende Staat” of „Verdragsluitende Staten” of „Staat die Partij is” of „Staten die Partij zijn” is, indien de context zulks vereist, eveneens van toepassing op een regionale organisatie voor economische integratie.
+##### Article XXVIII. Entry into force
 
-##### Artikel XXVIII. Inwerkingtreding
+1. This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.
 
-1. Dit Protocol treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van de achtste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tussen de Staten die dergelijke akten hebben nedergelegd.
+2. For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
-2. Ten aanzien van andere Staten treedt dit Protocol in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de datum van nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+##### Article XXIX. Territorial units
 
-##### Artikel XXIX. Territoriale eenheden
+1. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
-1. Indien een Verdragsluitende Staat territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn op de in dit Protocol geregelde aangelegenheden kan deze Staat, op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat dit Protocol zich uitstrekt tot al zijn territoriale eenheden of slechts een of meer daarvan en kan hij zijn verklaring te allen tijde wijzigen door indiening van een andere verklaring.
+2. Any such declaration shall state expressly the territorial units to which this Protocol applies.
 
-2. In een dergelijke verklaring worden de territoriale eenheden waarop dit Protocol van toepassing is, uitdrukkelijk genoemd.
+3. If a Contracting State has not made any declaration under paragraph 1, this Protocol shall apply to all territorial units of that State.
 
-3. Indien een Verdragsluitende Staat geen verklaring ingevolge het eerste lid heeft afgelegd, is dit Protocol van toepassing op alle territoriale eenheden van die Staat.
+4. Where a Contracting State extends this Protocol to one or more of its territorial units, declarations permitted under this Protocol may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
 
-4. Indien een Verdragsluitende Staat de toepasselijkheid van dit Protocol uitbreidt tot een of meer van zijn territoriale eenheden, kunnen de ingevolge dit Protocol toegestane verklaringen worden afgelegd ten aanzien van elke afzonderlijke territoriale eenheid, en kunnen de verklaringen die ten aanzien van de ene territoriale eenheid worden afgelegd, verschillen van die welke ten aanzien van een andere territoriale eenheid worden afgelegd.
+5. If by virtue of a declaration under paragraph 1, this Protocol extends to one or more territorial units of a Contracting State:
 
-5. Indien de toepasselijkheid van dit Protocol zich krachtens een verklaring ingevolge het eerste lid uitstrekt tot een of meer territoriale eenheden van een Verdragsluitende Staat:
+- a) the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol apply or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol apply;
 
-- a. wordt de schuldenaar uitsluitend geacht zich in een Verdragsluitende Staat te bevinden indien hij is opgericht of tot stand gekomen krachtens een wet die van kracht is in een territoriale eenheid waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn of indien hij zijn maatschappelijke of statutaire zetel, bestuurlijk centrum, plaats van bedrijfsuitoefening of gewone verblijfplaats heeft in een territoriale eenheid waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn;
+- b) any reference to the location of the object in a Contracting State refers to the location of the object in a territorial unit to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol apply; and
 
-- b. verwijst elke verwijzing naar de plaats van de zaak in een Verdragsluitende Staat naar de plaats van de zaak in een territoriale eenheid waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn; en
+- c) any reference to the administrative authorities in that Contracting State shall be construed as referring to the administrative authorities having jurisdiction in a territorial unit to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol apply and any reference to the national egister or to the registry authority in that Contracting State shall be construed as referring to the aircraft register in force or to the registry authority having jurisdiction in the territorial unit or units to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) and this Protocol apply.
 
-- c. wordt elke verwijzing naar de administratieve autoriteiten in die Verdragsluitende Staat uitgelegd als een verwijzing naar de administratieve autoriteiten die bevoegd zijn in een territoriale eenheid waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn en wordt elke verwijzing naar het nationale register of naar de registratieautoriteit in die Verdragsluitende Staat uitgelegd als een verwijzing naar het luchtvaartuigregister dat van kracht is of naar de registratieautoriteit die bevoegd is in de territoriale eenheid of eenheden waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) en dit Protocol van toepassing zijn.
+##### Article XXX. Declarations relating to certain provisions
 
-##### Artikel XXX. Verklaringen met betrekking tot sommige bepalingen
+1. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of [Articles VIII](https://wetten.overheid.nl/BWBV0003190), [XII](https://wetten.overheid.nl/BWBV0003190) and [XIII](https://wetten.overheid.nl/BWBV0003190) of this Protocol.
 
-1. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij een of meer van de [artikelen VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=I&artikel=VIII&z=2010-09-01&g=2010-09-01), [XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XII&z=2010-09-01&g=2010-09-01) en [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XIII&z=2010-09-01&g=2010-09-01) van dit Protocol zal toepassen.
+2. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply [Article X](https://wetten.overheid.nl/BWBV0003190) of this Protocol, wholly or in part. If it so declares with respect to [Article X(2)](https://wetten.overheid.nl/BWBV0003190), it shall specify the time-period required thereby.
 
-2. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=X&z=2010-09-01&g=2010-09-01) van dit Protocol, geheel of ten dele, zal toepassen. Indien hij een dergelijke verklaring aflegt ten aanzien van [artikel X, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=X&z=2010-09-01&g=2010-09-01), vermeldt hij het daarin vereiste tijdvak.
+3. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of [Alternative A, or the entirety of Alternative B of Article XI](https://wetten.overheid.nl/BWBV0003190) and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by [Article XI](https://wetten.overheid.nl/BWBV0003190).
 
-3. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij het [volledige Alternatief A, of het volledige Alternatief B, van artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01) zal toepassen en, in dat geval, de eventuele soorten insolventieprocedures aanduiden waarop hij Alternatief A zal toepassen, en de eventuele soorten insolventieprocedures aanduiden waarop hij Alternatief B zal toepassen. Een Verdragsluitende Staat die een verklaring ingevolge dit lid aflegt, vermeldt het door [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01) vereiste tijdvak.
+4. The courts of Contracting States shall apply [Article XI](https://wetten.overheid.nl/BWBV0003190) in conformity with the declaration made by the Contracting State which is the primary insolvency jurisdiction.
 
-4. De gerechten van Verdragsluitende Staten passen [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=II&artikel=XI&z=2010-09-01&g=2010-09-01) toe in overeenstemming met de door de Verdragsluitende Staat die de primaire rechtsmacht bij insolventie heeft, afgelegde verklaring.
+5. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of [Article XXI](https://wetten.overheid.nl/BWBV0003190), wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
 
-5. Een Verdragsluitende Staat kan, op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, verklaren dat hij de bepalingen van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=IV&artikel=XXI&z=2010-09-01&g=2010-09-01), geheel of gedeeltelijk, niet zal toepassen. In de verklaring moet worden vermeld onder welke voorwaarden het desbetreffende artikel zal worden toegepast, indien het gedeeltelijk zal worden toegepast, of anders welke andere vormen van voorlopig redres zullen worden toegepast.
+##### Article XXXI. Declarations under the Convention
 
-##### Artikel XXXI. Verklaringen ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189)
+Declarations made under the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), including those made under [Articles 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=50), [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=55), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=58) and [60 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60), shall be deemed to have also been made under this Protocol unless stated otherwise.
 
-Verklaringen afgelegd ingevolge het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), met inbegrip van verklaringen krachtens de [artikelen 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=40), [50](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=50), [53](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=53), [54](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=54), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=55), [57](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=58) en [60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60), worden geacht eveneens te zijn afgelegd ingevolge dit Protocol, behoudens andersluidende verklaring.
+##### Article XXXII. Reservations and declarations
 
-##### Artikel XXXII. Voorbehouden en verklaringen
+1. No reservations may be made to this Protocol but declarations authorised by [Articles XXIV](https://wetten.overheid.nl/BWBV0003190), [XXIX](https://wetten.overheid.nl/BWBV0003190), [XXX](https://wetten.overheid.nl/BWBV0003190), [XXXI](https://wetten.overheid.nl/BWBV0003190), [XXXIII](https://wetten.overheid.nl/BWBV0003190) and [XXXIV](https://wetten.overheid.nl/BWBV0003190) may be made in accordance with these provisions.
 
-1. Ten aanzien van dit Protocol kunnen geen voorbehouden worden gemaakt, maar uit hoofde van de [artikelen XXIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=V&artikel=XXIV&z=2010-09-01&g=2010-09-01), [XXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXIX&z=2010-09-01&g=2010-09-01), [XXX](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXX&z=2010-09-01&g=2010-09-01), [XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01), [XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXIII&z=2010-09-01&g=2010-09-01) en [XXXIV](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXIV&z=2010-09-01&g=2010-09-01) toegestane verklaringen kunnen in overeenstemming met deze artikelen worden afgelegd.
+2. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.
 
-2. Van elke verklaring of latere verklaring of elke intrekking van een verklaring ingevolge dit Protocol wordt schriftelijke kennisgeving aan de Depositaris gedaan.
+##### Article XXXIII. Subsequent declarations
 
-##### Artikel XXXIII. Latere verklaringen
+1. A State Party may make a subsequent declaration, other than a declaration made in accordance with [Article XXXI](https://wetten.overheid.nl/BWBV0003190) under [Article 60 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60), at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
 
-1. Een Staat die Partij is kan te allen tijde na de datum waarop dit Protocol voor hem in werking is getreden door middel van een daartoe aan de Depositaris gerichte kennisgeving een latere verklaring afleggen, anders dan een in overeenstemming met [artikel XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01) uit hoofde van [artikel 60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60) afgelegde verklaring.
+2. Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
 
-2. Later afgelegde verklaringen worden van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris. Indien in de kennisgeving een langer tijdvak voor het van kracht worden van die verklaring is vermeld, wordt de verklaring van kracht na het verstrijken van dit langere tijdvak na de ontvangst van de kennisgeving door de Depositaris.
+3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-3. Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die latere verklaring zijn ontstaan, van toepassing alsof geen latere verklaring was afgelegd.
+##### Article XXXIV. Withdrawal of declarations
 
-##### Artikel XXXIV. Intrekking van verklaringen
+1. Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with [Article XXXI](https://wetten.overheid.nl/BWBV0003190) under [Article 60 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60), may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
-1. Elke Staat die Partij is en die een verklaring uit hoofde van dit Protocol heeft afgelegd, anders dan een in overeenstemming met [artikel XXXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXXI&z=2010-09-01&g=2010-09-01) uit hoofde van [artikel 60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189&artikel=60) afgelegde verklaring, kan deze verklaring te allen tijde intrekken door middel van een kennisgeving aan de Depositaris. Deze intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van zes maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
+2. Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-2. Niettegenstaande het voorgaande lid blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van die intrekking zijn ontstaan, van toepassing alsof de verklaring niet was ingetrokken.
+##### Article XXXV. Denunciations
 
-##### Artikel XXXV. Opzeggingen
+1. Any State Party may denounce this Protocol by notification in writing to the Depositary.
 
-1. Elke Staat die Partij is kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
+2. Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date of receipt of the notification by the Depositary.
 
-2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van twaalf maanden na de datum waarop de kennisgeving door de Depositaris is ontvangen.
+3. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
-3. Niettegenstaande de voorgaande leden blijft dit Protocol ten aanzien van alle rechten en zakelijke rechten die voor de datum van het van kracht worden van een opzegging zijn ontstaan, van toepassing alsof geen opzegging had plaatsgevonden.
+##### Article XXXVI. Review Conferences, amendments and related matters
 
-##### Artikel XXXVI. Herzieningsconferenties, wijzigingen en daaraan gerelateerde aangelegenheden
+1. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) as amended by this Protocol has operated in practice.
 
-1. De Depositaris stelt jaarlijks, of op een zodanig ander tijdstip als de omstandigheden vereisen, in overleg met de Toezichthoudende Autoriteit, verslagen op voor de Staten die Partij zijn met betrekking tot de wijze waarop het bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), zoals gewijzigd door dit Protocol, ingestelde internationale stelsel in de praktijk heeft gefunctioneerd. Bij de opstelling van deze verslagen neemt de Depositaris de verslagen van de Toezichthoudende Autoriteit betreffende de werking van het internationale registratiesysteem in aanmerking.
+In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
-2. Op verzoek van ten minste vijfentwintig procent van de Staten die Partij zijn wordt door de Depositaris, in overleg met de Toezichthoudende Autoriteit, van tijd tot tijd een Herzieningsconferentie van de Staten die Partij zijn bijeengeroepen, ter bestudering van:
+2. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
 
-- a. de praktische werking van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189), zoals gewijzigd door dit Protocol, en de doeltreffendheid ervan bij de bevordering van de op onderpand van activa gebaseerde financiering en leasing van de zaken waarop de bepalingen van dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) van toepassing zijn;
+- a) the practical operation of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003189) as amended by this Protocol and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
 
-- b. de gerechtelijke interpretatie en de toepassing van de bepalingen van dit Protocol en het reglement;
+- b) the judicial interpretation given to, and the application made of the terms of this Protocol and the regulations;
 
-- c. de werking van het internationale registratiesysteem, de prestaties van de Bewaarder en het toezicht op hem door de Toezichthoudende Autoriteit, met inachtneming van de verslagen van de Toezichthoudende Autoriteit; en
+- c) the functioning of the international registration system, the performance of the Registrar and its oversight by the Supervisory Authority, taking into account the reports of the Supervisory Authority; and
 
-- d. de vraag of het wenselijk is wijzigingen aan te brengen in dit Protocol of in de regelingen inzake het Internationaal Register.
+- d) whether any modifications to this Protocol or the arrangements relating to the International Registry are desirable.
 
-3. Een wijziging van dit Protocol wordt goedgekeurd met een meerderheid van ten minste tweederde van de Staten die Partij zijn en die aan de in het voorgaande lid bedoelde Conferentie deelnemen, en treedt vervolgens in werking ten aanzien van de Staten die de wijziging hebben bekrachtigd, aanvaard of goedgekeurd indien deze, in overeenstemming met de bepalingen van [artikel XXVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003190&hoofdstuk=VI&artikel=XXVIII&z=2010-09-01&g=2010-09-01) inzake zijn inwerkingtreding, door acht Staten is bekrachtigd, aanvaard of goedgekeurd.
+3. Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of [Article XXVIII](https://wetten.overheid.nl/BWBV0003190) relating to its entry into force.
 
-##### Artikel XXXVII. Depositaris en taken van de Depositaris
+##### Article XXXVII. Depositary and its functions
 
-1. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij het Internationaal Instituut voor de Eenmaking van het Privaatrecht (Unidroit), dat hierbij tot Depositaris wordt benoemd.
+1. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 
-2. De Depositaris:
+2. The Depositary shall:
 
-- a. stelt alle Verdragsluitende Staten op de hoogte van:
+- a) inform all Contracting States of:
 
-- i. elke nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tezamen met de datum daarvan;
+   - (i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession, together with the date thereof;
 
-- ii. de datum van inwerkingtreding van dit Protocol;
+   - (ii) the date of entry into force of this Protocol;
 
-- iii. elke verklaring afgelegd in overeenstemming met dit Protocol, tezamen met de datum daarvan;
+   - (iii) each declaration made in accordance with this Protocol, together with the date thereof;
 
-- iv. de intrekking of wijziging van verklaringen, tezamen met de datum daarvan; en
+   - (iv) the withdrawal or amendment of any declaration, together with the date thereof; and
 
-- v. kennisgevingen van opzegging van dit Protocol, tezamen met de datum daarvan en de datum waarop de opzegging van kracht wordt;
+   - (v) the notification of any denunciation of this Protocol together with the date thereof and the date on which it takes effect;
 
-- b. zendt gewaarmerkte afschriften van dit Protocol aan alle Verdragsluitende Staten;
+- b) transmit certified true copies of this Protocol to all Contracting States;
 
-- c. doet de Toezichthoudende Autoriteit en de Bewaarder een afschrift toekomen van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, tezamen met de datum van nederlegging daarvan, van elke verklaring of intrekking of wijziging van een verklaring en van elke kennisgeving van opzegging, tezamen met de datum van kennisgeving daarvan, zodat de daarin vervatte informatie eenvoudig en volledig beschikbaar is; en
+- c) provide the Supervisory Authority and the Registrar with a copy of each instrument of ratification, acceptance, approval or accession, together with the date of deposit thereof, of each declaration or withdrawal or amendment of a declaration and of each notification of denunciation, together with the date of notification thereof, so that the information contained therein is easily and fully available; and
 
-- d. verricht de overige voor een Depositaris gebruikelijke taken.
+- d) perform such other functions customary for depositaries.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorised, have signed this Protocol.
 

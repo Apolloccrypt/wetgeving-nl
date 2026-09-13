@@ -1,692 +1,247 @@
 ---
 title: "Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten"
 identifier: "BWBV0003238"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-10-06"
-last_updated: "2008-10-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0003238"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003421653"
-version_id: "10003468252"
-internal_id: "C10006999111"
-label_id: "10003408844"
-dtd_version: "2.0"
-original_entry_into_force: "1979-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0003238/2008-10-06/0"
-intitule_bron: "Trb.1999-79"
-intitule_effect: "wijziging"
-intitule_published: "1999-05-04"
-intitule_in_force: "2007-09-11"
-intitule_status: "goed"
-original_publication: "Trb.1978-122"
-original_published_date: "1978-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-122"
-entry_into_force_date: "1979-07-16"
-jci_1_3: "jci1.3:c:BWBV0003238&z=2008-10-06&g=2008-10-06"
-jci_1_0: "1.0:c:BWBV0003238&g=2008-10-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-07-16"
+publicatiedatum: 1979-07-16
+laatste_update: 2008-10-06
+status: geldig
+toestand: 2008-10-06
+bron: "https://wetten.overheid.nl/BWBV0003238"
+opgehaald: 2026-09-13
 ---
+
 # Verdrag inzake de Internationale Organisatie voor Mobiele Satellieten
 
-De Staten die Partij zijn bij dit Verdrag,
+*The States Parties to this Convention: Considering the principle set forth in Resolution 1721 (XVI) of the General Assembly of the United Nations that communication by means of satellites should be available to the nations of the world as soon as practicable on a global and non-discriminatory basis, Considering also the relevant provisions of the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies, concluded on 27 January 1967, and in particular Article 1, which states that outer space shall be used for the benefit and in the interests of all countries, Determined, to this end, to continue to make provision for the benefit of telecommunications users of all nations through the most advanced suitable space technology available, for the most efficient and economic facilities possible consistent with the most efficient and equitable use of the radio frequency spectrum and of satellite orbits, Bearing in mind that the International Maritime Satellite Organization (INMARSAT) has, in accordance with its original purpose, established a global mobile satellite communications system for maritime communications, including distress and safety communications capabilities which are specified in the International Convention for the Safety of Life at Sea, 1974, as amended from time to time, and the Radio Regulations specified in the Constitution and the Convention of the International Telecommunication Union, as amended from time to time, as meeting certain radiocommunications requirements of the Global Maritime Distress and Safety System (GMDSS), Recalling that Inmarsat has extended its original purpose by providing aeronautical and land mobile satellite communications, including aeronautical satellite communications for air traffic management and aircraft operational control (aeronautical safety services), and is also providing radiodetermination services, Recalling further that in December 1994 the Assembly decided to replace the name “International Maritime Satellite Organization (INMARSAT)” with “International Mobile Satellite Organization (INMARSAT)”, and that, although these amendments did not enter formally into force, the name International Mobile Satellite Organization (Inmarsat) was used thereafter, including in the restructuring documentation, Recognizing that, in the restructuring of the International Mobile Satellite Organization, its assets, commercial operations and interests were transferred without restriction to a new commercial company, Inmarsat Ltd., while the continued provision of the GMDSS and adherence to the other public interests by the company have been secured by a mechanism for intergovernmental oversight by the International Mobile Satellite Organization (IMSO), Acknowledging that, by adopting IMO Assembly Resolution A.888(21), “Criteria for the Provision of Mobile-Satellite Communication Systems in the Global Maritime Distress and Safety System (GMDSS),” the International Maritime Organization (IMO) has recognized the need for IMO to have in place criteria against which to evaluate the capabilities and performance of mobile satellite communication systems, as may be notified to IMO by Governments for possible recognition for use in the GMDSS, Acknowledging further that IMO has developed a “Procedure for the Evaluation and Possible Recognition of Mobile-Satellite Systems Notified for Use in the GMDSS”, Acknowledging also the desire of Parties to promote the growth of a pro-competitive market environment in the current and future provision of mobile satellite communications systems services for the GMDSS, Affirming that, under such circumstances, there is a need to ensure continuity in the provision of the GMDSS through intergovernmental oversight, Acknowledging that IMO, through the Maritime Safety Committee (MSC) at its eighty-first session, adopted amendments to Chapter V of the International Convention for the Safety of Life at Sea, 1974 relating to the long-range identification and tracking of ships (LRIT), adopted performance standards and functional requirements for LRIT, and adopted arrangements for the timely establishment of the LRIT system, Affirming the willingness of Parties that IMSO may assume the functions and duties of the LRIT Co-ordinator, at no cost to Parties, in accordance with decisions of IMO, subject to the terms of this Convention, Acknowledging that the MSC, at its eighty-second session, decided to appoint IMSO as the LRIT Co-ordinator and invited IMSO to take whatever action it could in order to ensure the timely implementation of the LRIT system, Agree as follows:*
 
-Gelet op het in Resolutie 1721 (XVI) van de Algemene Vergadering van de Verenigde Naties neergelegde beginsel, volgens hetwelk de berichtgeving door middel van telecommunicatiesatellieten beschikbaar dient te zijn voor alle landen ter wereld, zonder onderscheid, zodra zulks uitvoerbaar is,
+##### Article 1. Definitions
 
-Tevens gelet op de relevante bepalingen van het op 27 januari 1967 gesloten [Verdrag inzake de beginselen waaraan de activiteiten van Staten zijn onderworpen bij het onderzoek en gebruik van de kosmische ruimte, met inbegrip van de maan en andere hemellichamen](https://wetten.overheid.nl/jci1.3:c:BWBV0004403), en met name [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004403&artikel=I) daarvan waarin staat vermeld dat het gebruik van de kosmische ruimte plaatsvindt ten voordele en in het belang van alle landen,
+For the purposes of this Convention:
 
-Vastbesloten daartoe ten voordele van de telecommunicatiegebruikers van alle landen, met gebruikmaking van de nieuwste vindingen op het gebied van de ruimtetechniek, zo doeltreffend en economisch mogelijke voorzieningen in het leven te blijven roepen, verenigbaar zijnde met het doeltreffend en rechtvaardig gebruik van het radiofrequentiespectrum en van de satellietbanen,
+- a) “The Organization” means the intergovernmental organization established pursuant to Article 2.
 
-Indachtig het feit dat de Internationale Organisatie voor Maritieme Satellieten (INMARSAT), overeenkomstig haar oorspronkelijke doelstelling, een wereldwijd mobiele-satellietcommunicatiesysteem voor maritieme communicatie heeft opgericht, met inbegrip van mogelijkheden voor de communicatie voor noodgevallen en veiligheid die worden gespecificeerd in het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals van tijd tot tijd gewijzigd, en het Radioreglement als beschreven in het Statuut van en het Verdrag van de Internationale Telecommunicatie Unie, zoals van tijd tot tijd gewijzigd, en welke voldoen aan bepaalde radiocommunicatievereisten van het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS),
+- b) “GMDSS” means the Global Maritime Distress and Safety System as established by IMO.
 
-In herinnering brengend dat INMARSAT haar oorspronkelijke doel heeft uitgebreid met het beschikbaar stellen van mobiele-satellietcommunicatie ten behoeve van het land- en luchtvaartverkeer, met inbegrip van satellietcommunicatie voor beheer van het luchtvaartverkeer en operationeel beheer van luchtvaartuigen (veiligheidsdiensten voor de luchtvaart), en tevens diensten verleent ten behoeve van radioplaatsbepaling,
+- c) “Provider” means any entity or entities, which, through a mobile satellite communications system recognized by IMO, provides services for the GMDSS.
 
-Voorts in herinnering brengend dat de Assemblee in december 1994 heeft besloten de naam „Internationale Organisatie voor Maritieme Satellieten (INMARSAT)” te vervangen door „Internationale Organisatie voor Mobiele Satellieten (Inmarsat)” en dat, hoewel deze wijzigingen niet formeel in werking zijn getreden, sindsdien de naam Internationale Organisatie voor Mobiele Satellieten (Inmarsat) is gehanteerd, waaronder in de herstructureringsdocumentatie,
+- d) “Party” means a State for which this Convention has entered into force.
 
-Erkennend dat, bij de herstructurering van de Internationale Organisatie voor Mobiele Satellieten, haar vermogensbestanddelen, commerciële operaties en belangen zonder beperkingen zijn overgedragen aan een nieuwe commerciële onderneming, Inmarsat Ltd., waarbij voortzetting van de levering van het GMDSS en steun voor andere publieke belangen door de onderneming worden gewaarborgd door een mechanisme voor intergouvernementeel toezicht door de Internationale Organisatie voor Mobiele Satellieten (IMSO),
+- e) “Public Services Agreement” means an Agreement executed by the Organization and a Provider, as referred to in Article 5(1).
 
-Erkennend dat, door aanneming van Resolutie A.888(21) van de Assemblee van de IMO, „Criteria voor het leveren van mobiele-satellietcommunicatiesystemen voor het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS)”, de Internationale Maritieme Organisatie (IMO) de noodzaak heeft onderkend dat zijzelf criteria beschikbaar moet hebben aan de hand waarvan de mogelijkheden en prestaties kunnen worden getoetst van mobiele-satellietcommunicatiesystemen, die door regeringen kunnen worden aangemeld bij de IMO ten behoeve van mogelijke erkenning voor gebruik in het GMDSS,
+- f) “IMO” means the International Maritime Organization.
 
-Voorts erkennend dat de IMO een „Procedure voor het toetsen en mogelijk erkennen van mobiele-satellietsystemen aangemeld voor gebruik in het GMDSS” heeft ontwikkeld,
+- g) “MSC” means the Maritime Safety Committee of IMO.
 
-Voorts de wens van de partijen ERKENNEND de ontwikkeling van een concurrerende marktomgeving te stimuleren voor de huidige en toekomstige levering van diensten voor mobiele-satellietcommunicatiesystemen voor het GMDSS,
+- h) “LRIT” means the long-range identification and tracking of ships as established by IMO.
 
-Bevestigend dat onder dergelijke omstandigheden de noodzaak bestaat de continuïteit van de levering van diensten voor het GMDSS door middel van intergouvernementeel toezicht te waarborgen,
+- i) “LRIT Services Agreement” means an Agreement executed by the Organization and either an LRIT Data Centre or an LRIT Data Exchange, or other relevant entities, as referred to in Article 7.
 
-Erkennend dat de IMO, tijdens de eenentachtigste zitting van haar Maritieme Veiligheidscommissie (MSC), wijzigingen van [hoofdstuk V van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=V), met betrekking tot de langeafstandsidentificatie en -tracking van schepen (LRIT), alsmede prestatienormen en functionele vereisten voor LRIT en regelingen voor de tijdige invoering van het LRIT-systeem heeft aangenomen,
+- j) “LRIT Data Centre” means a national, regional, co-operative or international data centre operating in conformity with requirements adopted by IMO in relation to LRIT.
 
-Bevestigend dat de partijen wensen dat IMSO de functies en taken van de LRIT-coördinator op zich neemt, zonder kosten voor de partijen, in overeenstemming met de besluiten van de IMO, met inachtneming van de bepalingen van dit Verdrag,
+- k) “LRIT Data Exchange” means a data exchange operating in conformity with requirements adopted by IMO in relation to LRIT.
 
-Erkennend dat de MSC, tijdens haar tweeënentachtigste zitting, heeft besloten IMSO tot de LRIT-coördinator te benoemen en IMSO heeft uitgenodigd alle mogelijke maatregelen te nemen om de tijdige invoering van het LRIT-systeem te waarborgen.
+- l) “LRIT Co-ordinator” means the Co-ordinator for the LRIT system appointed by the MSC.
 
-Zijn als volgt overeengekomen:
+##### Article 2. Establishment of the Organization
 
-##### Artikel 1. Begripsomschrijvingen
+The International Mobile Satellite Organization (IMSO), herein referred to as “the Organization”, is hereby established.
 
-In dit Verdrag wordt verstaan onder:
+##### Article 3. Primary Purpose
 
-- a. „De Organisatie”: de intergouvernementele organisatie opgericht ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=2&z=2008-10-06&g=2008-10-06).
+1. The Primary Purpose of the Organization is to ensure the provision, by each Provider, of maritime mobile satellite communications services for the GMDSS according to the legal framework set up by IMO.
 
-- b. „GMDSS”: het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid**,**zoals ingesteld door de IMO.
+2. In implementing the Primary Purpose set out in paragraph (1), the Organization shall:
 
-- c. „Leverancier”: een entiteit of entiteiten die, door middel van een door de IMO erkend mobiele-satellietcommunicatiesysteem, diensten levert voor het GMDSS.
+- a) act exclusively for peaceful purposes; and
 
-- d. „Partij”: een Staat waarvoor het Verdrag in werking is getreden.
+- b) perform the oversight functions in a fair and consistent manner among Providers.
 
-- e. „Algemene-dienstenovereenkomst”: een overeenkomst uitgevoerd door de Organisatie en een Leverancier, zoals bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=5&z=2008-10-06&g=2008-10-06).
+##### Article 4. Other Functions
 
-- f. „IMO”: de Internationale Maritieme Organisatie.
+1. Subject to the decision of the Assembly, the Organization may assume functions and/or duties of LRIT Co-ordinator, at no cost to Parties, in accordance with the decisions of IMO.
 
-- g. „MSC”: de Maritieme Veiligheidscommissie van de IMO.
+2. The Organization shall continue to perform the functions and/or duties of LRIT Co-ordinator, subject to the decision of the Assembly. In performing such functions and/or duties, the Organization shall act in a fair and consistent manner.
 
-- h. „LRIT”: de door de IMO ingestelde langeafstandsidentificatie en -tracking van schepen.
+##### Article 5. Oversight of the GMDSS
 
-- i. „LRIT-dienstenovereenkomst”: een Overeenkomst uitgevoerd door de Organisatie en een LRIT-datacentrum ofwel een LRIT-data-uitwisselingssysteem, of andere relevante entiteiten, als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=7&z=2008-10-06&g=2008-10-06).
+1. The Organization shall execute a Public Services Agreement with each Provider, and shall conclude such other arrangements as may be necessary to enable the Organization to perform its oversight functions, and to report as well as make recommendations, as appropriate.
 
-- j. „LRIT-datacentrum”: een nationaal, regionaal, coöperatief of internationaal datacentrum dat werkt in overeenstemming met de door de IMO aangenomen vereisten met betrekking tot LRIT.
+2. Oversight of Providers by the Organization shall be based on:
 
-- k. „LRIT-data-uitwisselingssysteem”: een data-uitwisselingssysteem dat werkt in overeenstemming met de door de IMO aangenomen vereisten met betrekking tot LRIT.
+- a) any specific conditions or obligations imposed by IMO during, or at any stage after, the recognition and authorization of the Provider;
 
-- l. „LRIT-coördinator: de door de MSC benoemde coördinator voor het LRIT-systeem.
+- b) relevant international regulations, standards, recommendations, resolutions and procedures relating to the GMDSS;
 
-##### Artikel 2. Oprichting van de Organisatie
+- c) the relevant Public Services Agreement and any other related arrangements concluded between the Organization and the Provider.
 
-De Internationale Organisatie voor Mobiele Satellieten (IMSO), hierna te noemen „de Organisatie”, wordt hierbij opgericht.
+3. Each Public Services Agreement shall include, *inter alia,*general provisions, common principles and appropriate obligations for the Provider in accordance with a Reference Public Services Agreement and guidelines developed by the Assembly, including arrangements for the provision of all the information necessary for the Organization to fulfil its purpose, functions and duties, consistent with Article 3.
 
-##### Artikel 3. Primaire doel
+4. All Providers shall execute Public Services Agreements which shall also be executed by the Director General on behalf of the Organization. Public Services Agreements shall be approved by the Assembly. The Director General shall circulate the Public Services Agreements to all Parties. Such Agreements shall be considered approved by the Assembly unless more than one-third of the Parties submit written objections to the Director General within three months from the date of circulation.
 
-1. Het primaire doel van de Organisatie is de levering door elke Leverancier te waarborgen van mobiele-satellietcommunicatiediensten op zee voor het GMDSS in overeenstemming met het juridisch kader ingesteld door de IMO.
+##### Article 6. Facilitation
 
-2. Bij de implementatie van het in het eerste lid vervatte primaire doel:
+1. Parties shall take appropriate measures, in accordance with national laws, to enable Providers to provide GMDSS services.
 
-- a. handelt de Organisatie uitsluitend voor vreedzame doeleinden; en
+2. The Organization, through existing international and national mechanisms dealing with technical assistance, should seek to assist Providers in their effort to ensure that all areas, where there is a need, are provided with mobile satellite communications services, giving due consideration to the rural and remote areas.
 
-- b. oefent zij op eerlijke en consequente wijze toezicht uit op de Leveranciers.
+##### Article 7. LRIT Services Agreements
 
-##### Artikel 4. Overige functies
+In order to perform its LRIT Co-ordinator functions and duties, including recovery of the costs incurred, the Organization may enter into contractual relationships, including LRIT Services Agreements, with LRIT Data Centres, LRIT Data Exchanges, or other relevant entities, on such terms and conditions as may be negotiated by the Director General, subject to oversight by the Assembly.
 
-1. Met inachtneming van het besluit van de Assemblee kan de Organisatie functies en/of taken als LRIT-coördinator vervullen, zonder kosten voor de partijen, in overeenstemming met de besluiten van de IMO.
+##### Article 8. Structure
 
-2. De Organisatie blijft de functies en/of taken als LRIT-coördinator vervullen, op voorwaarde dat de Assemblee hiermee instemt. Bij het vervullen van dergelijke functies en/of taken handelt de Organisatie op eerlijke en consequente wijze.
+The organs of the Organization shall be:
 
-##### Artikel 5. Toezicht op het GMDSS
+- (a) The Assembly.
 
-1. De Organisatie voert met elke Leverancier een Algemene-dienstenovereenkomst uit, en treft zo nodig andere regelingen om de Organisatie in staat te stellen haar toezichtsfuncties uit te oefenen, alsmede verslag te doen en aanbevelingen te doen, al naargelang van toepassing.
+- (b) A Directorate, headed by a Director General.
 
-2. Het toezicht op Leveranciers door de Organisatie is gebaseerd op:
+##### Article 9. Assembly – Composition and Meetings
 
-- a. specifieke voorwaarden of verplichtingen die door de IMO worden opgelegd tijdens, of in elk stadium na, de erkenning en goedkeuring van de Leverancier;
+1. The Assembly shall be composed of all the Parties.
 
-- b. relevante internationale regelgeving, normen, aanbevelingen, resoluties en procedures die op het GMDSS betrekking hebben;
+2. Regular sessions of the Assembly shall be held once every two years. Extraordinary sessions shall be convened upon the request of one-third of the Parties or upon the request of the Director General, or as may be provided for in the Rules of Procedure for the Assembly.
 
-- c. de desbetreffende Algemene-dienstenovereenkomst en eventuele daarmee verband houdende regelingen tussen de Organisatie en de Leverancier.
+3. All Parties are entitled to attend and participate at meetings of the Assembly, regardless of where the meeting may take place. The arrangements made with any host country shall be consistent with these obligations.
 
-3. Elke Algemene-dienstenovereenkomst omvat onder andere algemene bepalingen, gemeenschappelijke beginselen en toepasselijke verplichtingen voor de Leverancier in overeenstemming met een referentiemodel van een Algemene-dienstenovereenkomst en richtlijnen die door de Assemblee zijn ontwikkeld, met inbegrip van regelingen voor het leveren van alle informatie die de Organisatie nodig heeft om, in overeenstemming met [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=3&z=2008-10-06&g=2008-10-06), haar doel, functies en taken te vervullen.
+##### Article 10. Assembly – Procedure
 
-4. Alle Leveranciers voeren Algemene-dienstenovereenkomsten uit die tevens worden uitgevoerd door de Directeur-Generaal namens de Organisatie. Algemene-dienstenovereenkomsten dienen door de Assemblee te worden goedgekeurd. De Algemene-dienstenovereenkomsten worden door de Directeur-Generaal toegezonden aan alle partijen. Dergelijke overeenkomsten worden geacht door de Assemblee te zijn goedgekeurd tenzij binnen drie maanden na de datum van verzending meer dan een derde van de partijen een schriftelijk bezwaar heeft ingediend bij de Directeur-Generaal.
+(1). Each Party shall have one vote in the Assembly.
 
-##### Artikel 6. Facilitatie
+(2). Decisions on matters of substance shall be taken by a two-thirds majority, and on procedural matters by a simple majority, of the Parties present and voting. Parties which abstain from voting shall be considered as not voting.
 
-1. De partijen treffen passende maatregelen in overeenstemming met hun nationale wetgeving om Leveranciers in staat te stellen diensten voor het GMDSS te leveren.
+(3). Decisions whether a question is procedural or substantive shall be taken by the Chairman. Such decisions may be overruled by a two-thirds majority of the Parties present and voting.
 
-2. De Organisatie dient ernaar te streven, met behulp van bestaande internationale en nationale mechanismen op het gebied van technische ondersteuning, Leveranciers te ondersteunen bij hun streven te waarborgen dat mobiele-satellietcommunicatiediensten worden geleverd aan alle gebieden waar hieraan behoefte bestaat, waarbij naar behoren rekening wordt gehouden met landelijke en afgelegen gebieden.
+(4). A quorum for any meeting of the Assembly shall consist of a simple majority of the Parties.
 
-##### Artikel 7. LRIT-dienstenovereenkomsten
+##### Article 11. Assembly – Functions
 
-Om haar functies en taken als LRIT-coördinator te vervullen, met inbegrip van het verhalen van de gemaakte kosten, mag de Organisatie contractuele verbintenissen aangaan, met inbegrip van LRIT-dienstenovereenkomsten, met LRIT-datacentra, LRIT-data-uitwisselingssystemen, of andere relevante entiteiten, op de voorwaarden die de Directeur-Generaal in onderhandelingen kan overeenkomen, onder toezicht van de Assemblee.
+The functions of the Assembly shall be:
 
-##### Artikel 8. Structurele opzet
+- a) to consider and review the purposes, general policy and long term objectives of the Organization and the activities of the Providers which relate to the primary purpose;
 
-De Organisatie heeft de volgende organen:
+- b) to take any steps or procedures necessary to ensure that each Provider carries out its obligation of providing maritime mobile satellite communications services for the GMDSS, including approval of the conclusion, modification and termination of Public Services Agreements;
 
-- a). de Assemblée,
+- c) to decide upon questions concerning formal relationships between the Organization and States, whether Parties or not, and international organizations;
 
-- b). Een Directoraat onder leiding van een Directeur-Generaal.
+- d) to decide upon any amendment to this Convention pursuant to Article 20 thereof;
 
-##### Artikel 9. Assemblée: samenstelling en bijeenkomsten
+- e) to appoint a Director General under Article 12 and to remove the Director General;
 
-1. De Assemblée is samengesteld uit alle Partijen.
+- f) to endorse the budget proposals of the Director General, and to establish procedures for the review and approval of the budget;
 
-2. Gewone zittingen van de Assemblee worden eenmaal in de twee jaar gehouden. Buitengewone zittingen worden belegd op verzoek van één derde van de partijen of op verzoek van de Directeur-Generaal, of op de tijdstippen waarin het Reglement van Orde voor de Assemblee eventueel voorziet.
+- g) to consider and review the purposes, general policy and long term objectives of the Organization in the performance of the Organization’s role as LRIT Co-ordinator, and to take appropriate steps necessary to ensure that the Organization performs its role as LRIT Co-ordinator;
 
-3. Alle Partijen zijn gerechtigd tot bijwoning van en deelneming aan bijeenkomsten van de Assemblée, ongeacht de plaats waar de bijeenkomst wordt gehouden. De regelingen die met een gastheerland worden getroffen, dienen verenigbaar te zijn met deze verplichtingen.
+- h) to take any steps or procedures necessary in the negotiation and execution of LRIT Services Agreements and/or contracts, including approval of the conclusion, modification and termination of such Agreements and/or contracts; and
 
-##### Artikel 10. Assemblée: procedure
+- i) to exercise any other function conferred upon it under any other Article of this Convention.
 
-1. Elke Partij brengt één stem uit in de Assemblée.
+##### Article 12. Directorate
 
-2. Beslissingen omtrent materiële zaken worden genomen met een twee derde meerderheid, en beslissingen in procedurele zaken met een gewone meerderheid, van de aanwezige en hun stem uitbrengende Partijen. De Partijen die zich van stemming onthouden, worden geacht niet aan de stemming te hebben deelgenomen.
+1. The term of appointment of the Director General shall be for four years or such other term as the Assembly decides.
 
-3. Over de vraag of een bepaalde zaak van procedurele of materiële aard is, wordt door de Voorzitter beslist. Deze beslissingen kunnen ongedaan worden gemaakt door een twee derde meerderheid van de aanwezige en hun stem uitbrengende Partijen.
+2. The Director General shall serve for a maximum of two consecutive terms, unless the Assembly decides otherwise.
 
-4. Het quorum voor een bijeenkomst van de Assemblee wordt gevormd door een gewone meerderheid van de partijen.
+3. The Director General shall be the legal representative of the Organization and Chief Executive Officer of the Directorate, and shall be responsible to and under the direction of the Assembly.
 
-##### Artikel 11. Assemblée: Functies
+4. The Director General shall, subject to the guidance and instructions of the Assembly, determine the structure, staff levels and standard terms of employment of officials and employees, and consultants and other advisers to the Directorate, and shall appoint the personnel of the Directorate.
 
-De Assemblée heeft de volgende functies:
+5. The paramount consideration in the appointment of the Director General and other personnel of the Directorate shall be the necessity of ensuring the highest standards of integrity, competency and efficiency.
 
-- a. het in overweging nemen en beoordelen van de doeleinden, het algemene beleid en de doelstellingen op de lange termijn van de Organisatie en de werkzaamheden van de Leveranciers die samenhangen met het primaire doel;
+6. The Organization shall conclude, with any Party in whose territory the Organization establishes the Directorate, an agreement, to be approved by the Assembly, relating to any facilities, privileges and immunities of the Organization, its Director General, other officers, and representatives of Parties whilst in the territory of the host Government, for the purpose of exercising their functions. The agreement shall terminate if the Directorate is moved from the territory of the host Government.
 
-- b. het nemen van alle stappen of het volgen van procedures die noodzakelijk zijn om te waarborgen dat elke Leverancier zijn verplichting nakomt tot het leveren van mobiele-satellietcommunicatiediensten op zee voor het GMDSS, met inbegrip van goedkeuring van het sluiten, aanpassen en opzeggen van Algemene-dienstenovereenkomsten;
+7. All Parties, other than a Party which has concluded an agreement referred to in paragraph (6), shall conclude a Protocol on the privileges and immunities of the Organization, its Director General, its staff, of experts performing missions for the Organization and representatives of Parties whilst in the territory of Parties for the purposes of exercising their functions. The Protocol shall be independent of this Convention and shall prescribe the conditions for its termination.
 
-- c. het beslissen over vraagstukken betreffende de formele betrekkingen tussen de Organisatie en al of niet Partij zijnde Staten en internationale organisaties;
+##### Article 13. Costs
 
-- d. het beslissen over eventuele wijzigingen van dit Verdrag ingevolge [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=20&z=2008-10-06&g=2008-10-06);
+1. The Organization shall keep separate accounts of costs incurred for GMDSS oversight and LRIT Co-ordinator services. The Organization shall, in the Public Services Agreements, and in the LRIT Services Agreements and/or contracts, as appropriate, arrange for the costs associated with the following to be paid by the Providers and by entities with which the Organization has entered into LRIT Services Agreements and/or contracts:
 
-- e. het benoemen van een Directeur-Generaal krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=12&z=2008-10-06&g=2008-10-06) en het uit zijn ambt ontzetten van de Directeur-Generaal;
+- a) the operation of the Directorate;
 
-- f. het goedkeuren van de begrotingsvoorstellen van de Directeur-Generaal en het vaststellen van procedures voor het toetsen en goedkeuren van de begroting;
+- b) the holding of Assembly sessions and meetings of its subsidiary bodies;
 
-- g. het in overweging nemen en beoordelen van de doeleinden, het algemene beleid en de doelstellingen op de lange termijn van de Organisatie bij het vervullen van de rol van de Organisatie als LRIT-coördinator en het nemen van passende stappen om te waarborgen dat de Organisatie haar rol als LRIT-coördinator vervult;
+- c) the implementation of measures taken by the Organization in accordance with Article 5 to ensure that the Provider carries out its obligation of providing maritime mobile satellite communications services for the GMDSS; and
 
-- h. het nemen van de stappen of het aannemen van de procedures die nodig zijn voor het onderhandelen over en uitvoeren van LRIT-dienstenovereenkomsten en/of contracten, met inbegrip van goedkeuring van het sluiten, wijzigen en beëindigen van dergelijke Overeenkomsten en/of contracten; en
+- d) the implementation of measures taken by the Organization in accordance with Article 4 in its role as LRIT Co-ordinator.
 
-- i. het uitoefenen van alle andere functies die haar ingevolge enig ander artikel van dit Verdrag zijn verleend.
+2. The costs defined in paragraph (1) shall be apportioned between all Providers and among entities with which the Organization has entered into LRIT Services Agreements and/or contracts, as appropriate, according to rules set up by the Assembly.
 
-##### Artikel 12. Directoraat
+3. No Party shall be obligated to pay for any costs associated with the performance by the Organization of the functions and duties of LRIT Co-ordinator by reason of its status as a Party to this Convention.
 
-1. De Directeur-Generaal wordt benoemd voor vier jaar of voor zolang als de Assemblee besluit.
+4. Each Party shall meet its own costs of representation at Assembly sessions and meetings of its subsidiary bodies.
 
-2. De Directeur-Generaal wordt voor ten hoogste twee achtereenvolgende termijnen benoemd, tenzij de Assemblee anderszins besluit.
+##### Article 14. Liability
 
-3. De Directeur-Generaal is de wettelijk vertegenwoordiger van de Organisatie en de hoogste functionaris van het Directoraat en legt verantwoording af aan en handelt volgens de aanwijzingen van de Assemblee.
+Parties are not, in their capacity as such, liable for the acts and obligations of the Organization or the Providers, except in relation to non-Parties or natural or juridical persons they might represent in so far as such liability may follow from treaties in force between the Party and the non-Party concerned. However, the foregoing does not preclude a Party which has been required to pay compensation under such a treaty to a non-Party or to a natural or juridical person it might represent from invoking any rights it may have under that treaty against any other Party.
 
-4. Met inachtneming van de aanwijzingen en instructies van de Assemblee bepaalt de Directeur-Generaal de structuur, het aantal medewerkers, alsmede de standaardarbeidsvoorwaarden voor functionarissen en werknemers en voor deskundigen en andere adviseurs van het Directoraat en benoemt hij het personeel van het Directoraat.
+##### Article 15. Legal Personality
 
-5. Bij de benoeming van de Directeur-Generaal en het overige personeel van het Directoraat dient vóór alles te worden gelet op de noodzaak van het waarborgen van de hoogste normen van integriteit, bekwaamheid en doelmatigheid.
+The Organization shall have legal personality. For the purpose of its proper functioning, it shall, in particular, have the capacity to contract, to acquire, lease, hold and dispose of movable and immovable property, to be a party to legal proceedings and to conclude agreements with States or international organizations.
 
-6. De Organisatie sluit met de partij op het grondgebied waarvan de Organisatie het Directoraat vestigt, een door de Assemblee goed te keuren overeenkomst inzake de faciliteiten, voorrechten en immuniteiten van de Organisatie, haar Directeur-Generaal, andere functionarissen en vertegenwoordigers van partijen, wanneer zij zich op het grondgebied van de regering van het gastland bevinden voor de uitoefening van hun functie. De overeenkomst eindigt indien het Directoraat wordt verplaatst buiten het grondgebied van de regering van het gastland.
+##### Article 16. Relationship with other International Organizations
 
-7. Alle partijen, met uitzondering van een partij die de in het zesde lid bedoelde overeenkomst heeft gesloten, sluiten een protocol ter regeling van de voorrechten en immuniteiten van de Organisatie, haar Directeur-Generaal, haar personeel, van deskundigen die opdrachten voor de Organisatie uitvoeren, en van vertegenwoordigers van partijen, die zich op het grondgebied van partijen bevinden voor de uitoefening van hun functie. Het protocol is onafhankelijk van dit Verdrag en legt de voorwaarden voor zijn beëindiging vast.
+The Organization shall co-operate with the United Nations and its bodies dealing with the Peaceful Uses of Outer Space and Ocean Area, its Specialized Agencies, as well as other international organizations, on matters of common interest.
 
-##### Artikel 13. Kosten
+##### Article 17. Settlement of Disputes
 
-1. De Organisatie houdt een afzonderlijke boekhouding bij van de kosten gemaakt voor toezicht op het GMDSS en dienstverlening als LRIT-coördinator. De Organisatie legt in de Algemene-dienstenovereenkomsten en in de LRIT-dienstenovereenkomsten en/of contracten, al naargelang van toepassing, een regeling vast voor de door de Leveranciers en de entiteiten waarmee de Organisatie een LRIT-dienstenovereenkomst en/of contract heeft gesloten te betalen kosten die verband houden met het volgende:
+Disputes between Parties, or between Parties and the Organization, relating to any matter arising under this Convention, should be settled by negotiation between the parties concerned. If within one year of the time any party has requested settlement, a settlement has not been reached and if the parties to the dispute have not agreed either (a) in the case of disputes between Parties, to submit it to the International Court of Justice; or (b) in the case of other disputes, to some other procedure for settling disputes, the dispute may, if the parties to the dispute consent, be submitted to arbitration in accordance with the Annex to this Convention.
 
-- a. het functioneren van het Directoraat;
+##### Article 18. Consent to be Bound
 
-- b. het houden van zittingen van de Assemblee en bijeenkomsten van haar hulporganen;
+(1). This Convention shall remain open for signature in London until entry into force and shall thereafter remain open for accession. All States may become Parties to the Convention by:
 
-- c. het uitvoeren van door de Organisatie overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=5&z=2008-10-06&g=2008-10-06) genomen maatregelen om te waarborgen dat de Leverancier zijn verplichting tot het leveren van mobiele-satellietcommunicatiediensten op zee voor het GMDSS nakomt; en
+- (a) Signature not subject to ratification, acceptance or approval, or
 
-- d. het uitvoeren van door de Organisatie in haar hoedanigheid van LRIT-coördinator overeenkomstig [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=4&z=2008-10-06&g=2008-10-06) genomen maatregelen.
+- (b) Signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval, or
 
-2. De in het eerste lid omschreven kosten worden over alle Leveranciers en entiteiten waarmee de Organisatie een LRIT-dienstenovereenkomst en/of contracten is aangegaan, al naargelang van toepassing, omgeslagen in overeenstemming met de door de Assemblee ingestelde regels.
+- (c) Accession.
 
-3. Geen van de partijen is gehouden vanwege haar status als partij bij dit Verdrag kosten te betalen die verband houden met het uitvoeren door de Organisatie van de functies en taken van LRIT-coördinator.
+(2). Ratification, acceptance, approval or accession shall be effected by the deposit of the appropriate instrument with the Depositary.
 
-4. Elke partij draagt zelf de kosten van vertegenwoordiging bij zittingen van de Assemblee en bijeenkomsten van haar hulporganen.
+(3). *Vervallen.*
 
-##### Artikel 14. Aansprakelijkheid
+(4). *Vervallen.*
 
-Partijen zijn in die hoedanigheid niet aansprakelijk voor de handelingen en verplichtingen van de Organisatie of de Leveranciers, behalve met betrekking tot Staten die geen partij zijn, of door hen vertegenwoordigde natuurlijke personen of rechtspersonen, voor zover deze aansprakelijkheid voortvloeit uit van kracht zijnde verdragen tussen de partij en de betrokken Staat die geen partij is. Het bovenstaande vormt echter geen beletsel voor een partij die ingevolge een dergelijke verdrag schadevergoeding heeft moeten betalen aan een Staat die geen partij is, of aan een door deze Staat vertegenwoordigde natuurlijke persoon of rechtspersoon, zich jegens elke andere partij te beroepen op de rechten die zij krachtens dat verdrag heeft.
+(5). Reservations cannot be made to this Convention.
 
-##### Artikel 15. Rechtspersoonlijkheid
+##### Article 19. Entry into Force
 
-De Organisatie bezit rechtspersoonlijkheid. Teneinde haar functies naar behoren te kunnen uitoefenen heeft zij in het bijzonder de bevoegdheid contracten aan te gaan, roerende en onroerende zaken te kopen, te huren, te bezitten of te verkopen, zich partij te stellen in een geding en overeenkomsten te sluiten met Staten of internationale organisaties.
+(1). This Convention shall enter into force sixty days after the date on which States representing 95 percent of the initial investment shares have become Parties to the Convention.
 
-##### Artikel 16. Betrekkingen met andere internationale organisaties
+(2). Notwithstanding paragraph (1), if the Convention has not entered into force within thirty-six months after the date it was opened for signature, it shall not enter into force.
 
-De Organisatie werkt samen met de Verenigde Naties en de daartoe behorende organen voor het vreedzaam gebruik van de ruimte en het oceaangebied, haar Gespecialiseerde Organisaties, alsmede met andere internationale organisaties, ter behartiging van zaken van gemeenschappelijk belang.
+(3). For a State which deposits an instrument of ratification, acceptance, approval or accession after the date on which the Convention has entered into force, the ratification, acceptance, approval or accession shall take effect on the date of deposit.
 
-##### Artikel 17. Beslechting van geschillen
+##### Article 20. Amendments
 
-Geschillen die tussen Partijen of tussen Partijen en de Organisatie rijzen met betrekking tot een kwestie op grond van dit Verdrag, dienen door middel van onderhandelingen tussen de betrokken partijen te worden opgelost. Indien binnen een jaar na het tijdstip waarop een partij om regeling van een geschil heeft verzocht, geen overeenstemming is bereikt en indien de partijen bij het geschil er niet mee hebben ingestemd a) in geval van een geschil tussen Partijen het geschil voor te leggen aan het Internationaal Gerechtshof of b) in geval van andere geschillen te onderwerpen aan een andere procedure voor de beslechting van geschillen, kan, mits de partijen bij het geschil daarmee instemmen, het geschil aan arbitrage worden onderworpen overeenkomstig het bepaalde in de Bijlage bij dit Verdrag.
+1. An amendment to this Convention may be proposed by any Party. The proposed amendment shall be circulated by the Director General to all Parties and to Observers. The Assembly shall consider the proposed amendment not earlier than six months thereafter. This period may in any particular case be reduced by up to three months by a substantive decision of the Assembly. Providers and Observers shall have the right to provide comments and input to Parties concerning the proposed amendment.
 
-##### Artikel 18. Instemming gebonden te worden
+2. If adopted by the Assembly, the amendment shall enter into force one hundred and twenty days after the Depositary has received notices of acceptance from two-thirds of those States which, at the time of adoption by the Assembly, were Parties. Upon entry into force, the amendment shall become binding upon those Parties that have accepted it. For any other State which was a Party at the time of adoption of the amendment by the Assembly, the amendment shall become binding on the day the Depositary receives its notice of acceptance.
 
-1. Dit Verdrag staat voor ondertekening open te Londen tot het tijdstip waarop het in werking treedt, en staat daarna open voor toetreding. Alle Staten kunnen Partij bij het Verdrag worden door:
+##### Article 21. Withdrawal
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+Any Party may, by written notification to the Depositary, withdraw voluntarily from the Organization at any time, such withdrawal to be effective upon receipt by the Depositary of such notification.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring, of
+##### Article 22. Depositary
 
-- c. toetreding.
+1. The Depositary of this Convention shall be the Secretary-General of IMO.
 
-2. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door middel van nederlegging van de desbetreffende akte bij de Depositaris.
+2. The Depositary shall promptly inform all Parties of:
 
-3. Vervallen.
+- a) Any signature of the Convention.
 
-4. Vervallen.
+- b) The deposit of any instrument of ratification, acceptance, approval or accession.
 
-5. Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
+- c) The entry into force of the Convention.
 
-##### Artikel 19. Inwerkingtreding
+- d) The adoption of any amendment to the Convention and its entry into force.
 
-1. Dit Verdrag treedt in werking zestig dagen na de datum waarop Staten die gezamenlijk 95% van de aanvankelijke investeringsaandelen vertegenwoordigen partij bij het Verdrag zijn geworden.
+- e) Any notification of withdrawal.
 
-2. Niettegenstaande het bepaalde in lid 1 treedt het Verdrag niet in werking, indien het niet binnen zesendertig maanden na de datum waarop het Verdrag werd opengesteld voor ondertekening, in werking is getreden.
+- f) Other notifications and communications relating to the Convention.
 
-3. Voor een Staat waarvan de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd na de datum waarop het Verdrag in werking is getreden, wordt de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding van kracht op de datum van de nederlegging.
-
-##### Artikel 1
-
-Geschillen die vatbaar zijn voor regeling overeenkomstig artikel 15 van het Verdrag, worden door een uit drie leden bestaand scheidsgerecht behandeld.
-
-##### Artikel 2
-
-Een eiser, of een groep eisers, die een geschil aan arbitrage wenst te onderwerpen, doet iedere gedaagde alsmede het Secretariaat een document met de volgende gegevens toekomen:
-
-- a. een volledige beschrijving van het geschil, de gronden waarop iedere gedaagde gehouden is aan de arbitrage deel te nemen, en de maatregelen die worden gevraagd;
-
-- b. de gronden waarop wordt aangenomen dat het onderwerp van het geschil binnen de bevoegdheid van een scheidsgerecht valt en dat de gevraagde maatregelen kunnen worden toegestaan, indien het scheidsgerecht uitspraak doet ten gunste van de eiser;
-
-- c. een uiteenzetting, aangevend door welke oorzaak de eiser niet in staat is geweest een oplossing voor het geschil te vinden door middel van onderhandelingen of op een andere wijze dan door middel van arbitrage;
-
-- d. het bewijs van de toestemming of de instemming van de partijen in gevallen waarin dit een voorwaarde voor arbitrage is;
-
-- e. de naam van degene die door de eiser is aangewezen om op te treden als lid van het scheidsgerecht.
-
-Het Secretariaat zendt onverwijld een afschrift van het document aan iedere Partij.
-
-##### Artikel 3
-
-1. Binnen zestig dagen na het tijdstip waarop kopieën van het in artikel 2 omschreven document door alle gedaagden zijn ontvangen, wijzen zij gezamenlijk iemand aan om als lid van het scheidsgerecht op te treden. Binnen deze termijn kunnen de gedaagden gezamenlijk, of ieder afzonderlijk, aan elke partij bij het geschil en aan het Secretariaat een document doen toekomen waarin hun gezamenlijk of afzonderlijk verweer op het in artikel 2 genoemde document wordt vermeld, met inbegrip van eventuele eisen in reconventie, die uit het onderwerp van het geschil kunnen voortvloeien.
-
-2. Binnen dertig dagen na de aanwijzing van de twee leden van het scheidsgerecht dienen beiden overeenstemming over de keuze van een derde lid te bereiken. Dit lid mag niet dezelfde nationaliteit hebben als, of ingezetene zijn van het grondgebied van, een der partijen bij het geschil, noch in haar dienst werkzaam zijn.
-
-3. Indien de partijen bij het geschil nalaten, binnen de voorgeschreven termijn een lid van het scheidsgerecht aan te wijzen, of indien het derde lid niet binnen de voorgeschreven termijn wordt benoemd, kan de President van het Internationaal Gerechtshof of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de Vice-President of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de rechter die de oudste in rang is en die niet dezelfde nationaliteit heeft als een der partijen bij het geschil, op verzoek van een der partijen een of meer leden van het scheidsgerecht benoemen, al naar gelang zulks noodzakelijk is.
-
-4. Het derde lid van het scheidsgerecht treedt op als voorzitter van het scheidsgerecht.
-
-5. Het scheidsgerecht is ingesteld zodra de voorzitter is gekozen.
-
-##### Artikel 4
-
-1. Indien een vacature in het scheidsgerecht ontstaat door oorzaken die naar het oordeel van de voorzitter of de overblijvende leden van het scheidsgerecht buiten de macht van de partijen bij het geschil liggen of die niet strijdig zijn met de regels, voorgeschreven voor een geding ten overstaan van scheidsmannen, wordt de vacature vervuld overeenkomstig de volgende bepalingen:
-
-- a. indien de vacature ontstaat ten gevolge van het feit dat een door een partij bij het geschil benoemd lid zich terugtrekt, kiest deze partij binnen tien dagen na het ontstaan van de vacature een vervanger;
-
-- b. indien de vacature ontstaat ten gevolge van het feit dat de voorzitter of een ingevolge het derde lid van artikel 3 benoemd lid zich terugtrekt, wordt een vervanger gekozen op de wijze als omschreven in het tweede, respectievelijk derde lid van artikel 3.
-
-2. Indien een vacature ontstaat door andere oorzaken, of indien een vacature, ontstaan ingevolge het eerste lid, niet wordt vervuld, hebben de overblijvende leden van het scheidsgerecht de bevoegdheid, niettegenstaande het bepaalde in artikel 1, op verzoek van een der partijen het geding voort te zetten en de scheidsrechterlijke uitspraak te doen.
-
-##### Artikel 5
-
-1. Het scheidsgerecht stelt tijd en plaats van zijn zittingen vast.
-
-2. Het geding wordt gehouden achter gesloten deuren en alle stukken die aan het scheidsgerecht worden voorgelegd, worden als vertrouwelijk behandeld. De Organisatie heeft echter het recht aanwezig te zijn en heeft toegang tot de overgelegde stukken. Indien de Organisatie partij is bij het geding, hebben alle Partijen het recht aanwezig te zijn en hebben zij toegang tot alle overgelegde stukken.
-
-3. In geval van een geschil over de bevoegdheid van het scheidsgerecht behandelt het scheidsgerecht allereerst deze zaak.
-
-4. Het proces wordt schriftelijk gevoerd en iedere partij heeft het recht schriftelijke bewijsstukken over te leggen ter staving van hetgeen zij ten aanzien van de feiten en van het recht aanvoert. Indien het scheidsgerecht dit gewenst acht, kunnen echter mondelinge argumenten worden aangevoerd en getuigenverklaringen worden afgelegd.
-
-5. Het proces begint met het uiteenzetten van het standpunt van de eiser in het geding, met vermelding van zijn argumenten, daarmee in verband staande feiten die steunen op bewijs, alsmede de rechtsbeginselen waarop een beroep wordt gedaan. Dit wordt gevolgd door het uiteenzetten van het standpunt van de gedaagde. De eiser kan hierop van repliek dienen en de gedaagde kan dupliek geven. Verdere pleidooien worden alleen gehouden, indien het scheidsgerecht zulks noodzakelijk oordeelt.
-
-6. Het scheidsgerecht kan eisen in reconventie die rechtstreeks uit het onderwerp van geschil voortvloeien, in behandeling nemen en daarover een beslissing nemen, mits deze eisen in reconventie binnen zijn bevoegdheid vallen, zoals deze is vastgesteld in artikel 15 van dit Verdrag.
-
-7. Indien de partijen bij het geschil tijdens het proces tot overeenstemming komen, wordt deze overeenstemming vastgelegd in de vorm van een beslissing van het scheidsgerecht, gegeven met toestemming van de partijen bij het geschil.
-
-8. Op elk tijdstip gedurende het proces kan het scheidsgerecht het proces beëindigen, indien het van oordeel is dat het geschil buiten zijn bevoegdheid valt, zoals deze is vastgesteld in artikel 15 van dit Verdrag.
-
-9. De beraadslagingen van het scheidsgerecht zijn geheim.
-
-10. De beslissingen van het scheidsgerecht worden schriftelijk gegeven, vergezeld van een schriftelijke motivering. Zijn uitspraken en beslissingen moeten door ten minste twee leden worden ondersteund. Ingeval een lid een van de beslissing afwijkend oordeel heeft, kan hij een afzonderlijke schriftelijke motivering overleggen.
-
-11. Het scheidsgerecht doet zijn beslissing aan het Secretariaat toekomen, dat haar aan alle Partijen toezendt.
-
-12. Het scheidsgerecht kan noodzakelijk geachte aanvullende regels inzake de procedure aanvaarden, die verenigbaar zijn met die welke in deze Bijlage zijn vastgesteld.
-
-##### Artikel 6
-
-Indien een der partijen nalaat haar standpunt in het geschil in het geding te brengen, kan de andere partij het scheidsgerecht verzoeken een uitspraak te haren gunste te doen. Alvorens uitspraak te doen, dient het scheidsgerecht zich ervan te overtuigen, dat de zaak binnen zijn bevoegdheid valt en op goede feitelijke en juridische gronden berust.
-
-##### Artikel 7
-
-Elke Partij of de Organisatie kan een verzoek tot het scheidsgerecht richten ter verkrijging van toestemming voor toelating als partij bij het geding. Indien het scheidsgerecht beslist dat verzoeker een aanmerkelijk belang bij de zaak heeft, willigt het het verzoek in.
-
-##### Artikel 8
-
-Het scheidsgerecht kan, op verzoek van een der partijen of op eigen initiatief, deskundigen aanwijzen om zich te laten bijstaan.
-
-##### Artikel 9
-
-Elke Partij en de Organisatie dienen alle inlichtingen te verschaffen die het scheidsgerecht, hetzij op verzoek van een der partijen bij het geding, hetzij op eigen initiatief, noodzakelijk oordeelt voor de behandeling en de regeling van het geschil.
-
-##### Artikel 10
-
-Het scheidsgerecht kan, hangende de uitspraak, voorlopige maatregelen aangeven die naar zijn mening noodzakelijk zijn om de onderscheiden rechten van de partijen bij het geschil te waarborgen.
-
-##### Artikel 11
-
-1. De uitspraak van het scheidsgerecht dient in overeenstemming te zijn met internationaal recht en te zijn gegrond op:
-
-- a. dit Verdrag
-
-- b. algemeen aanvaarde rechtsbeginselen.
-
-2. De uitspraak van het scheidsgerecht, met inbegrip van de eventueel door de partijen bij het geschil bereikte overeenstemming ingevolge artikel 5, zevende lid, is bindend voor alle partijen bij het geschil en wordt door hen te goeder trouw ten uitvoer gelegd. Indien de Organisatie partij is bij het geschil en het scheidsgerecht beslist dat een besluit van een van zijn organen geen rechtskracht heeft, aangezien daarin niet is voorzien bij, of dit niet in overeenstemming is met dit Verdrag, is de beslissing van het scheidsgerecht bindend voor alle Partijen.
-
-3. In geval van een geschil over de uitleg of draagwijdte van zijn uitspraak, wordt deze op verzoek van enige partij bij het geschil door het scheidsgerecht toegelicht.
-
-##### Artikel 12
-
-Tenzij het scheidsgerecht wegens de bijzondere omstandigheden van de zaak anders beslist, worden de kosten van het scheidsgerecht, met inbegrip van de vergoeding van de leden van het scheidsgerecht, voor gelijke delen door ieder der partijen gedragen. Indien aan één zijde meer dan één partij is, wordt het aandeel in de kosten voor deze zijde door het scheidsgerecht over die partijen aan deze zijde verdeeld. Indien de Organisatie partij is bij het geding, worden de met de arbitrage verband houdende kosten beschouwd als administratieve kosten van de Organisatie.
-
-##### Artikel I. Begripsomschrijvingen
-
-Vervallen
-
-##### Artikel II. Rechten en verplichtingen van de Ondertekenaars
-
-Vervallen
-
-##### Artikel III. Kapitaalbijdragen
-
-Vervallen
-
-##### Artikel IV. Limiet van het kapitaal
-
-Vervallen
-
-##### Artikel V. Investeringsaandelen
-
-Vervallen
-
-##### Artikel VI. Financiële verrekeningen lussen Ondertekenaars
-
-Vervallen
-
-##### Artikel VII. Betaling van gebruiksheffingen
-
-Vervallen
-
-##### Artikel VIII. Inkomsten
-
-Vervallen
-
-##### Artikel IX. Vereffening van rekeningen
-
-Vervallen
-
-##### Artikel X. Financiering van tekorten
-
-Vervallen
-
-##### Artikel XI. Aansprakelijkheid
-
-Vervallen
-
-##### Artikel XII. Ontheffing van aansprakelijkheid, voortvloeiend uit het verlenen van telecommunicatiediensten
-
-Vervallen
-
-##### Artikel XIII. Vereffening bij terugtrekking of royement
-
-Vervallen
-
-##### Artikel XIV. Goedkeuring van grondstations
-
-Vervallen
-
-##### Artikel XV. Gebruik van de INMARSAT-ruimtesector
-
-Vervallen
-
-##### Artikel XVI. Beslechting van geschillen
-
-Vervallen
-
-##### Artikel XVII. Inwerkingtreding
-
-Vervallen
-
-##### Artikel XVIII. Wijzigingen
-
-Vervallen
-
-##### Artikel XIX. Depositaris
-
-Vervallen
-
-IN WITNESS WHEREOF the undersigned, duly authorized by their respective Governments, have signed this Convention.
-
-DONE at London this third day of September one thousand nine hundred and seventy-six in the English, French, Russian and Spanish languages, all the texts being equally authentic, in a single original which shall be deposited with the Depositary, who shall send a certified copy to the Government of each of the States which were invited to attend the International Conference on the Establishment of an International Maritime Satellite System and to the Government of any other State which signs or accedes to this Convention.
-
-##### Artikel 20. Wijzigingen
-
-1. Een wijziging van dit Verdrag kan door elke partij worden voorgesteld. De voorgestelde wijziging wordt door de Directeur-Generaal aan alle partijen en aan waarnemers toegezonden. De Assemblee neemt de voorgestelde wijziging niet eerder in overweging dan zes maanden daarna. De Assemblee kan deze termijn in bijzondere gevallen met ten hoogste drie maanden verkorten door middel van een besluit overeenkomstig de vastgestelde procedure voor materiële zaken. Leveranciers en waarnemers hebben het recht de partijen te voorzien van hun commentaar en inbreng met betrekking tot de voorgestelde wijziging.
-
-2. Een door de Assemblée aangenomen wijziging wordt van kracht honderdtwintig dagen nadat de Depositaris kennisgevingen van aanvaarding heeft ontvangen van twee derde van de Staten die op het tijdstip van aanneming door de Assemblée Partij waren bij dit Verdrag. Zodra de wijziging van kracht wordt, wordt deze bindend voor alle Partijen die haar hebben aanvaard. Voor alle overige Staten die op het tijdstip van aanneming door de Assemblée Partij waren bij dit Verdrag wordt de wijziging bindend op de dag waarop de Depositaris hun kennisgeving van aanvaarding ontvangt.
-
-##### Artikel 21. Terugtrekking
-
-Een Partij kan zich op elk tijdstip vrijwillig uit de Organisatie terugtrekken door middel van een schriftelijke kennisgeving, welke terugtrekking van kracht wordt op de datum waarop de Depositaris de kennisgeving ontvangt.
-
-##### Artikel 1
-
-Geschillen die vatbaar zijn voor regeling overeenkomstig artikel 15 van het Verdrag, worden door een uit drie leden bestaand scheidsgerecht behandeld.
-
-##### Artikel 2
-
-Een eiser, of een groep eisers, die een geschil aan arbitrage wenst te onderwerpen, doet iedere gedaagde alsmede het Directoraat een document met de volgende gegevens toekomen:
-
-- a. een volledige beschrijving van het geschil, de gronden waarop iedere gedaagde gehouden is aan de arbitrage deel te nemen, en de maatregelen die worden gevraagd;
-
-- b. de gronden waarop wordt aangenomen dat het onderwerp van het geschil binnen de bevoegdheid van een scheidsgerecht valt en dat de gevraagde maatregelen kunnen worden toegestaan, indien het scheidsgerecht uitspraak doet ten gunste van de eiser;
-
-- c. een uiteenzetting, aangevend door welke oorzaak de eiser niet in staat is geweest een oplossing voor het geschil te vinden door middel van onderhandelingen of op een andere wijze dan door middel van arbitrage;
-
-- d. het bewijs van de toestemming of de instemming van de partijen in gevallen waarin dit een voorwaarde voor arbitrage is;
-
-- e. de naam van degene die door de eiser is aangewezen om op te treden als lid van het scheidsgerecht.
-
-Het Directoraat zendt onverwijld een afschrift van het document aan iedere Partij.
-
-##### Artikel 3
-
-1. Binnen zestig dagen na het tijdstip waarop kopieën van het in artikel 2 omschreven document door alle gedaagden zijn ontvangen, wijzen zij gezamenlijk iemand aan om als lid van het scheidsgerecht op te treden. Binnen deze termijn kunnen de gedaagden gezamenlijk, of ieder afzonderlijk, aan elke partij bij het geschil en aan het Directoraat een document doen toekomen waarin hun gezamenlijk of afzonderlijk verweer op het in artikel 2 genoemde document wordt vermeld, met inbegrip van eventuele eisen in reconventie, die uit het onderwerp van het geschil kunnen voortvloeien.
-
-2. Binnen dertig dagen na de aanwijzing van de twee leden van het scheidsgerecht dienen beiden overeenstemming over de keuze van een derde lid te bereiken. Dit lid mag niet dezelfde nationaliteit hebben als, of ingezetene zijn van het grondgebied van, een der partijen bij het geschil, noch in haar dienst werkzaam zijn.
-
-3. Indien de partijen bij het geschil nalaten, binnen de voorgeschreven termijn een lid van het scheidsgerecht aan te wijzen, of indien het derde lid niet binnen de voorgeschreven termijn wordt benoemd, kan de President van het Internationaal Gerechtshof of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de Vice-President of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de rechter die de oudste in rang is en die niet dezelfde nationaliteit heeft als een der partijen bij het geschil, op verzoek van een der partijen een of meer leden van het scheidsgerecht benoemen, al naar gelang zulks noodzakelijk is.
-
-4. Het derde lid van het scheidsgerecht treedt op als voorzitter van het scheidsgerecht.
-
-5. Het scheidsgerecht is ingesteld zodra de voorzitter is gekozen.
-
-##### Artikel 4
-
-1. Indien een vacature in het scheidsgerecht ontstaat door oorzaken die naar het oordeel van de voorzitter of de overblijvende leden van het scheidsgerecht buiten de macht van de partijen bij het geschil liggen of die niet strijdig zijn met de regels, voorgeschreven voor een geding ten overstaan van scheidsmannen, wordt de vacature vervuld overeenkomstig de volgende bepalingen:
-
-- a. indien de vacature ontstaat ten gevolge van het feit dat een door een partij bij het geschil benoemd lid zich terugtrekt, kiest deze partij binnen tien dagen na het ontstaan van de vacature een vervanger;
-
-- b. indien de vacature ontstaat ten gevolge van het feit dat de voorzitter of een ingevolge het derde lid van artikel 3 benoemd lid zich terugtrekt, wordt een vervanger gekozen op de wijze als omschreven in het tweede, respectievelijk derde lid van artikel 3.
-
-2. Indien een vacature ontstaat door andere oorzaken, of indien een vacature, ontstaan ingevolge het eerste lid, niet wordt vervuld, hebben de overblijvende leden van het scheidsgerecht de bevoegdheid, niettegenstaande het bepaalde in artikel 1, op verzoek van een der partijen het geding voort te zetten en de scheidsrechterlijke uitspraak te doen.
-
-##### Artikel 5
-
-1. Het scheidsgerecht stelt tijd en plaats van zijn zittingen vast.
-
-2. Het geding wordt gehouden achter gesloten deuren en alle stukken die aan het scheidsgerecht worden voorgelegd, worden als vertrouwelijk behandeld. De Organisatie heeft echter het recht aanwezig te zijn en heeft toegang tot de overgelegde stukken. Indien de Organisatie partij is bij het geding, hebben alle Partijen het recht aanwezig te zijn en hebben zij toegang tot alle overgelegde stukken.
-
-3. In geval van een geschil over de bevoegdheid van het scheidsgerecht behandelt het scheidsgerecht allereerst deze zaak.
-
-4. Het proces wordt schriftelijk gevoerd en iedere partij heeft het recht schriftelijke bewijsstukken over te leggen ter staving van hetgeen zij ten aanzien van de feiten en van het recht aanvoert. Indien het scheidsgerecht dit gewenst acht, kunnen echter mondelinge argumenten worden aangevoerd en getuigenverklaringen worden afgelegd.
-
-5. Het proces begint met het uiteenzetten van het standpunt van de eiser in het geding, met vermelding van zijn argumenten, daarmee in verband staande feiten die steunen op bewijs, alsmede de rechtsbeginselen waarop een beroep wordt gedaan. Dit wordt gevolgd door het uiteenzetten van het standpunt van de gedaagde. De eiser kan hierop van repliek dienen en de gedaagde kan dupliek geven. Verdere pleidooien worden alleen gehouden, indien het scheidsgerecht zulks noodzakelijk oordeelt.
-
-6. Het scheidsgerecht kan eisen in reconventie die rechtstreeks uit het onderwerp van geschil voortvloeien, in behandeling nemen en daarover een beslissing nemen, mits deze eisen in reconventie binnen zijn bevoegdheid vallen, zoals deze is vastgesteld in artikel 15 van dit Verdrag.
-
-7. Indien de partijen bij het geschil tijdens het proces tot overeenstemming komen, wordt deze overeenstemming vastgelegd in de vorm van een beslissing van het scheidsgerecht, gegeven met toestemming van de partijen bij het geschil.
-
-8. Op elk tijdstip gedurende het proces kan het scheidsgerecht het proces beëindigen, indien het van oordeel is dat het geschil buiten zijn bevoegdheid valt, zoals deze is vastgesteld in artikel 15 van dit Verdrag.
-
-9. De beraadslagingen van het scheidsgerecht zijn geheim.
-
-10. De beslissingen van het scheidsgerecht worden schriftelijk gegeven, vergezeld van een schriftelijke motivering. Zijn uitspraken en beslissingen moeten door ten minste twee leden worden ondersteund. Ingeval een lid een van de beslissing afwijkend oordeel heeft, kan hij een afzonderlijke schriftelijke motivering overleggen.
-
-11. Het scheidsgerecht doet zijn beslissing aan het Directoraat toekomen, dat haar aan alle Partijen toezendt.
-
-12. Het scheidsgerecht kan noodzakelijk geachte aanvullende regels inzake de procedure aanvaarden, die verenigbaar zijn met die welke in deze Bijlage zijn vastgesteld.
-
-##### Artikel 6
-
-Indien een der partijen nalaat haar standpunt in het geschil in het geding te brengen, kan de andere partij het scheidsgerecht verzoeken een uitspraak te haren gunste te doen. Alvorens uitspraak te doen, dient het scheidsgerecht zich ervan te overtuigen, dat de zaak binnen zijn bevoegdheid valt en op goede feitelijke en juridische gronden berust.
-
-##### Artikel 7
-
-Elke Partij of de Organisatie kan een verzoek tot het scheidsgerecht richten ter verkrijging van toestemming voor toelating als partij bij het geding. Indien het scheidsgerecht beslist dat verzoeker een aanmerkelijk belang bij de zaak heeft, willigt het het verzoek in.
-
-##### Artikel 8
-
-Het scheidsgerecht kan, op verzoek van een der partijen of op eigen initiatief, deskundigen aanwijzen om zich te laten bijstaan.
-
-##### Artikel 9
-
-Elke Partij en de Organisatie dienen alle inlichtingen te verschaffen die het scheidsgerecht, hetzij op verzoek van een der partijen bij het geding, hetzij op eigen initiatief, noodzakelijk oordeelt voor de behandeling en de regeling van het geschil.
-
-##### Artikel 10
-
-Het scheidsgerecht kan, hangende de uitspraak, voorlopige maatregelen aangeven die naar zijn mening noodzakelijk zijn om de onderscheiden rechten van de partijen bij het geschil te waarborgen.
-
-##### Artikel 11
-
-1. De uitspraak van het scheidsgerecht dient in overeenstemming te zijn met internationaal recht en te zijn gegrond op:
-
-- a. dit Verdrag
-
-- b. algemeen aanvaarde rechtsbeginselen.
-
-2. De uitspraak van het scheidsgerecht, met inbegrip van de eventueel door de partijen bij het geschil bereikte overeenstemming ingevolge artikel 5, zevende lid, is bindend voor alle partijen bij het geschil en wordt door hen te goeder trouw ten uitvoer gelegd. Indien de Organisatie partij is bij het geschil en het scheidsgerecht beslist dat een besluit van een van zijn organen geen rechtskracht heeft, aangezien daarin niet is voorzien bij, of dit niet in overeenstemming is met dit Verdrag, is de beslissing van het scheidsgerecht bindend voor alle Partijen.
-
-3. In geval van een geschil over de uitleg of draagwijdte van zijn uitspraak, wordt deze op verzoek van enige partij bij het geschil door het scheidsgerecht toegelicht.
-
-##### Artikel 12
-
-Tenzij het scheidsgerecht wegens de bijzondere omstandigheden van de zaak anders beslist, worden de kosten van het scheidsgerecht, met inbegrip van de vergoeding van de leden van het scheidsgerecht, voor gelijke delen door ieder der partijen gedragen. Indien aan één zijde meer dan één partij is, wordt het aandeel in de kosten voor deze zijde door het scheidsgerecht over die partijen aan deze zijde verdeeld. Indien de Organisatie partij is bij het geding, worden de met de arbitrage verband houdende kosten beschouwd als administratieve kosten van de Organisatie.
-
-IN WITNESS WHEREOF the undersigned, duly authorized by their respective Governments, have signed this Convention.
-
-DONE at London this third day of September one thousand nine hundred and seventy-six in the English, French, Russian and Spanish languages, all the texts being equally authentic, in a single original which shall be deposited with the Depositary, who shall send a certified copy to the Government of each of the States which were invited to attend the International Conference on the Establishment of an International Maritime Satellite System and to the Government of any other State which signs or accedes to this Convention.
-
-##### Artikel 22. Depositaris
-
-1. De Secretaris-Generaal van de IMO is de Depositaris van dit Verdrag.
-
-2. De Depositaris stelt alle Partijen onverwijld in kennis van:
-
-- a. een ondertekening van het Verdrag
-
-- b. de nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding
-
-- c. de inwerkingtreding van het Verdrag
-
-- d. de aanneming van een wijziging in het Verdrag en het van kracht worden daarvan
-
-- e. een kennisgeving van terugtrekking
-
-- f. andere kennisgevingen en mededelingen met betrekking tot het Verdrag.
-
-3. Op het tijdstip van inwerkingtreding van een wijziging van het Verdrag zendt de Depositaris een gewaarmerkt afschrift aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 1
-
-Geschillen die vatbaar zijn voor regeling overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=17&z=2008-10-06&g=2008-10-06) van het Verdrag, worden door een uit drie leden bestaand scheidsgerecht behandeld.
-
-##### Artikel 2
-
-Een eiser, of een groep eisers, die een geschil aan arbitrage wenst te onderwerpen, doet iedere gedaagde alsmede het Directoraat een document met de volgende gegevens toekomen:
-
-- a. een volledige beschrijving van het geschil, de gronden waarop iedere gedaagde gehouden is aan de arbitrage deel te nemen, en de maatregelen die worden gevraagd;
-
-- b. de gronden waarop wordt aangenomen dat het onderwerp van het geschil binnen de bevoegdheid van een scheidsgerecht valt en dat de gevraagde maatregelen kunnen worden toegestaan, indien het scheidsgerecht uitspraak doet ten gunste van de eiser;
-
-- c. een uiteenzetting, aangevend door welke oorzaak de eiser niet in staat is geweest een oplossing voor het geschil te vinden door middel van onderhandelingen of op een andere wijze dan door middel van arbitrage;
-
-- d. het bewijs van de toestemming of de instemming van de partijen in gevallen waarin dit een voorwaarde voor arbitrage is;
-
-- e. de naam van degene die door de eiser is aangewezen om op te treden als lid van het scheidsgerecht.
-
-Het Directoraat zendt onverwijld een afschrift van het document aan iedere Partij.
-
-##### Artikel 3
-
-1. Binnen zestig dagen na het tijdstip waarop kopieën van het in artikel 2 omschreven document door alle gedaagden zijn ontvangen, wijzen zij gezamenlijk iemand aan om als lid van het scheidsgerecht op te treden. Binnen deze termijn kunnen de gedaagden gezamenlijk, of ieder afzonderlijk, aan elke partij bij het geschil en aan het Directoraat een document doen toekomen waarin hun gezamenlijk of afzonderlijk verweer op het in artikel 2 genoemde document wordt vermeld, met inbegrip van eventuele eisen in reconventie, die uit het onderwerp van het geschil kunnen voortvloeien.
-
-2. Binnen dertig dagen na de aanwijzing van de twee leden van het scheidsgerecht dienen beiden overeenstemming over de keuze van een derde lid te bereiken. Dit lid mag niet dezelfde nationaliteit hebben als, of ingezetene zijn van het grondgebied van, een der partijen bij het geschil, noch in haar dienst werkzaam zijn.
-
-3. Indien de partijen bij het geschil nalaten, binnen de voorgeschreven termijn een lid van het scheidsgerecht aan te wijzen, of indien het derde lid niet binnen de voorgeschreven termijn wordt benoemd, kan de President van het Internationaal Gerechtshof of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de Vice-President of, indien hij verhinderd is zulks te doen of dezelfde nationaliteit heeft als een der partijen bij het geschil, de rechter die de oudste in rang is en die niet dezelfde nationaliteit heeft als een der partijen bij het geschil, op verzoek van een der partijen een of meer leden van het scheidsgerecht benoemen, al naar gelang zulks noodzakelijk is.
-
-4. Het derde lid van het scheidsgerecht treedt op als voorzitter van het scheidsgerecht.
-
-5. Het scheidsgerecht is ingesteld zodra de voorzitter is gekozen.
-
-##### Artikel 4
-
-1. Indien een vacature in het scheidsgerecht ontstaat door oorzaken die naar het oordeel van de voorzitter of de overblijvende leden van het scheidsgerecht buiten de macht van de partijen bij het geschil liggen of die niet strijdig zijn met de regels, voorgeschreven voor een geding ten overstaan van scheidsmannen, wordt de vacature vervuld overeenkomstig de volgende bepalingen:
-
-- a. indien de vacature ontstaat ten gevolge van het feit dat een door een partij bij het geschil benoemd lid zich terugtrekt, kiest deze partij binnen tien dagen na het ontstaan van de vacature een vervanger;
-
-- b. indien de vacature ontstaat ten gevolge van het feit dat de voorzitter of een ingevolge het derde lid van artikel 3 benoemd lid zich terugtrekt, wordt een vervanger gekozen op de wijze als omschreven in het tweede, respectievelijk derde lid van artikel 3.
-
-2. Indien een vacature ontstaat door andere oorzaken, of indien een vacature, ontstaan ingevolge het eerste lid, niet wordt vervuld, hebben de overblijvende leden van het scheidsgerecht de bevoegdheid, niettegenstaande het bepaalde in artikel 1, op verzoek van een der partijen het geding voort te zetten en de scheidsrechterlijke uitspraak te doen.
-
-##### Artikel 5
-
-1. Het scheidsgerecht stelt tijd en plaats van zijn zittingen vast.
-
-2. Het geding wordt gehouden achter gesloten deuren en alle stukken die aan het scheidsgerecht worden voorgelegd, worden als vertrouwelijk behandeld. De Organisatie heeft echter het recht aanwezig te zijn en heeft toegang tot de overgelegde stukken. Indien de Organisatie partij is bij het geding, hebben alle Partijen het recht aanwezig te zijn en hebben zij toegang tot alle overgelegde stukken.
-
-3. In geval van een geschil over de bevoegdheid van het scheidsgerecht behandelt het scheidsgerecht allereerst deze zaak.
-
-4. Het proces wordt schriftelijk gevoerd en iedere partij heeft het recht schriftelijke bewijsstukken over te leggen ter staving van hetgeen zij ten aanzien van de feiten en van het recht aanvoert. Indien het scheidsgerecht dit gewenst acht, kunnen echter mondelinge argumenten worden aangevoerd en getuigenverklaringen worden afgelegd.
-
-5. Het proces begint met het uiteenzetten van het standpunt van de eiser in het geding, met vermelding van zijn argumenten, daarmee in verband staande feiten die steunen op bewijs, alsmede de rechtsbeginselen waarop een beroep wordt gedaan. Dit wordt gevolgd door het uiteenzetten van het standpunt van de gedaagde. De eiser kan hierop van repliek dienen en de gedaagde kan dupliek geven. Verdere pleidooien worden alleen gehouden, indien het scheidsgerecht zulks noodzakelijk oordeelt.
-
-6. Het scheidsgerecht kan eisen in reconventie die rechtstreeks uit het onderwerp van geschil voortvloeien, in behandeling nemen en daarover een beslissing nemen, mits deze eisen in reconventie binnen zijn bevoegdheid vallen, zoals deze is vastgesteld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=17&z=2008-10-06&g=2008-10-06) van dit Verdrag.
-
-7. Indien de partijen bij het geschil tijdens het proces tot overeenstemming komen, wordt deze overeenstemming vastgelegd in de vorm van een beslissing van het scheidsgerecht, gegeven met toestemming van de partijen bij het geschil.
-
-8. Op elk tijdstip gedurende het proces kan het scheidsgerecht het proces beëindigen, indien het van oordeel is dat het geschil buiten zijn bevoegdheid valt, zoals deze is vastgesteld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0003238&artikel=17&z=2008-10-06&g=2008-10-06) van dit Verdrag.
-
-9. De beraadslagingen van het scheidsgerecht zijn geheim.
-
-10. De beslissingen van het scheidsgerecht worden schriftelijk gegeven, vergezeld van een schriftelijke motivering. Zijn uitspraken en beslissingen moeten door ten minste twee leden worden ondersteund. Ingeval een lid een van de beslissing afwijkend oordeel heeft, kan hij een afzonderlijke schriftelijke motivering overleggen.
-
-11. Het scheidsgerecht doet zijn beslissing aan het Directoraat toekomen, dat haar aan alle Partijen toezendt.
-
-12. Het scheidsgerecht kan noodzakelijk geachte aanvullende regels inzake de procedure aanvaarden, die verenigbaar zijn met die welke in deze Bijlage zijn vastgesteld.
-
-##### Artikel 6
-
-Indien een der partijen nalaat haar standpunt in het geschil in het geding te brengen, kan de andere partij het scheidsgerecht verzoeken een uitspraak te haren gunste te doen. Alvorens uitspraak te doen, dient het scheidsgerecht zich ervan te overtuigen, dat de zaak binnen zijn bevoegdheid valt en op goede feitelijke en juridische gronden berust.
-
-##### Artikel 7
-
-Elke Partij of de Organisatie kan een verzoek tot het scheidsgerecht richten ter verkrijging van toestemming voor toelating als partij bij het geding. Indien het scheidsgerecht beslist dat verzoeker een aanmerkelijk belang bij de zaak heeft, willigt het het verzoek in.
-
-##### Artikel 8
-
-Het scheidsgerecht kan, op verzoek van een der partijen of op eigen initiatief, deskundigen aanwijzen om zich te laten bijstaan.
-
-##### Artikel 9
-
-Elke Partij en de Organisatie dienen alle inlichtingen te verschaffen die het scheidsgerecht, hetzij op verzoek van een der partijen bij het geding, hetzij op eigen initiatief, noodzakelijk oordeelt voor de behandeling en de regeling van het geschil.
-
-##### Artikel 10
-
-Het scheidsgerecht kan, hangende de uitspraak, voorlopige maatregelen aangeven die naar zijn mening noodzakelijk zijn om de onderscheiden rechten van de partijen bij het geschil te waarborgen.
-
-##### Artikel 11
-
-1. De uitspraak van het scheidsgerecht dient in overeenstemming te zijn met internationaal recht en te zijn gegrond op:
-
-- a. dit Verdrag
-
-- b. algemeen aanvaarde rechtsbeginselen.
-
-2. De uitspraak van het scheidsgerecht, met inbegrip van de eventueel door de partijen bij het geschil bereikte overeenstemming ingevolge artikel 5, zevende lid, is bindend voor alle partijen bij het geschil en wordt door hen te goeder trouw ten uitvoer gelegd. Indien de Organisatie partij is bij het geschil en het scheidsgerecht beslist dat een besluit van een van zijn organen geen rechtskracht heeft, aangezien daarin niet is voorzien bij, of dit niet in overeenstemming is met dit Verdrag, is de beslissing van het scheidsgerecht bindend voor alle Partijen.
-
-3. In geval van een geschil over de uitleg of draagwijdte van zijn uitspraak, wordt deze op verzoek van enige partij bij het geschil door het scheidsgerecht toegelicht.
-
-##### Artikel 12
-
-Tenzij het scheidsgerecht wegens de bijzondere omstandigheden van de zaak anders beslist, worden de kosten van het scheidsgerecht, met inbegrip van de vergoeding van de leden van het scheidsgerecht, voor gelijke delen door ieder der partijen gedragen. Indien aan één zijde meer dan één partij is, wordt het aandeel in de kosten voor deze zijde door het scheidsgerecht over die partijen aan deze zijde verdeeld. Indien de Organisatie partij is bij het geding, worden de met de arbitrage verband houdende kosten beschouwd als administratieve kosten van de Organisatie.
+3. Upon entry into force of an amendment to the Convention, the Depositary shall transmit a certified copy to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 IN WITNESS WHEREOF the undersigned, duly authorized by their respective Governments, have signed this Convention.
 
