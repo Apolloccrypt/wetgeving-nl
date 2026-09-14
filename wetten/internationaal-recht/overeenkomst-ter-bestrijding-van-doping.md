@@ -1,301 +1,253 @@
 ---
 title: "Overeenkomst ter bestrijding van doping"
 identifier: "BWBV0004757"
-country: "nl"
-rank: "verdrag"
-publication_date: "2026-01-01"
-last_updated: "2004-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004757"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004303133"
-version_id: "10004501832"
-internal_id: "C10006986031"
-label_id: "10004288424"
-dtd_version: "2.0"
-original_entry_into_force: "1995-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004757/2026-01-01/0"
-intitule_bron: "Trb.1991-8"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1995-04-11"
-intitule_published: "1991-01-23"
-intitule_in_force: "1995-05-11"
-intitule_status: "goed"
-original_publication: "Trb.1991-8"
-original_signed_date: "1995-04-11"
-original_published_date: "1991-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1991-8"
-entry_into_force_date: "1995-06-01"
-jci_1_3: "jci1.3:c:BWBV0004757&z=2026-01-01&g=2026-01-01"
-jci_1_0: "1.0:c:BWBV0004757&g=2026-01-01"
-citeertitel_status: "officieel"
-signed_date: "1995-04-11"
-entry_into_force: "1995-06-01"
+publicatiedatum: 1995-06-01
+laatste_update: 2026-01-01
+status: geldig
+toestand: 2026-01-01
+bron: "https://wetten.overheid.nl/BWBV0004757"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst ter bestrijding van doping
 
-Preambule
+*Preamble The member States of the Council of Europe, the other States party to the European Cultural Convention, and other States, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its members for the purpose of safeguarding and realising the ideals and principles which are their common heritage and of facilitating their economic and social progress; Conscious that sport should play an important role in the protection of health, in moral and physical education and in promoting international understanding; Concerned by the growing use of doping agents and methods by sportsmen and sportswomen throughout sport and the consequences thereof for the health of participants and the future of sport; Mindful that this problem puts at risk the ethical principles and educational values embodied in the Olympic Charter, in the International Charter for Sport and Physical Education of Unesco and in Resolution (76) 41. of the Committee of Ministers of the Council of Europe, known as the “European Sport for All Charter”; Bearing in mind the anti-doping regulations, policies and declarations adopted by the international sports organisations; Aware that public authorities and the voluntary sports organisations have complementary responsibilities to combat doping in sport, notably to ensure the proper conduct, on the basis of the principle of fair play, of sports events and to protect the health of those that take part in them; Recognising that these authorities and organisations must work together for these purposes at all appropriate levels; Recalling the resolutions on doping adopted by the Conference of European Ministers responsible for Sport; and in particular Resolution No: 1 adopted at the 6th Conference at Reykjavik in 1989; Recalling that the Committee of Ministers of the Council of Europe has already adopted Resolution (67) 12 on the doping of athletes, Recommendation No. R (79) 8 on doping in sport, Recommendation No. R (84) 19 on the “European Anti-Doping Charter for sport”, and Recommendation No. R (88) 12 on the institution of doping controls without warning outside competitions; Recalling Recommendation No. 5 on doping adopted by the 2nd International Conference of Ministers and Senior Officials responsible for Sport and Physical Education organised by Unesco at Moscow (1988); Determined however to take further and stronger co-operative action aimed at the reduction and eventual elimination of doping in sport using as a basis the ethical values and practical measures contained in those instruments, Have agreed as follows:*
 
-De lidstaten van de Raad van Europa, de andere Staten die partij zijn bij het Europees Cultureel Verdrag, en andere Staten die deze Overeenkomst hebben ondertekend,
+##### Article 1. Aim of the Convention
 
-Overwegend dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn leden teneinde de idealen en beginselen die hun gemeenschappelijk erfdeel zijn, veilig te stellen en te verwezenlijken en hun economische en sociale vooruitgang te bevorderen;
+The Parties, with a view to the reduction and eventual elimination of doping in sport, undertake, within the limits of their respective constitutional provisions, to take the steps necessary to apply the provisions of this Convention.
 
-Zich ervan bewust dat sport een belangrijke rol dient te spelen bij de bescherming van de gezondheid, bij de zedelijke en lichamelijke opvoeding en bij de bevordering van internationaal begrip;
+##### Article 2. Definition and scope of the Convention
 
-Bezorgd over het toenemende gebruik van dopingmiddelen en dopingmethoden door sportmensen in alle takken van sport en de gevolgen daarvan voor de gezondheid van sportmensen en de toekomst van de sport;
+1. For the purposes of this Convention:
 
-Indachtig het feit dat dit probleem een bedreiging vormt voor de ethische beginselen en de opvoedende waarden vervat in het Olympisch Handvest, in het Internationale Handvest voor Sport en Lichamelijke Opvoeding van UNESCO en in resolutie 76(41) van het Comité van Ministers van de Raad van Europa, bekend als het „Europees Handvest inzake sport voor allen”;
+- a. “doping in sport” means the administration to sportsmen or sportswomen, or the use by them, of pharmacological classes of doping agents or doping methods;
 
-Gelet op de regelingen, beleidslijnen en verklaringen inzake de bestrijding van doping, aangenomen door de internationale sportorganisaties;
+- b. “pharmacological classes of doping agents or doping methods” means, subject to paragraph 2 below, those classes of doping agents or doping methods banned by the relevant international sports organisations and appearing in lists that have been approved by the Monitoring Group under the terms of Article 11.1.b;
 
-Zich bewust van het feit dat de verantwoordelijkheden van de overheden en de particuliere sportorganisaties ten aanzien van het bestrijden van doping in de sport elkaar aanvullen, met name wat betreft het waarborgen van een goed verloop van sportevenementen, gebaseerd op het beginsel van eerlijk spel, en wat betreft het beschermen van de gezondheid van allen die daaraan deelnemen;
+- c. “sportsmen and sportswomen” means those persons who participate regularly in organised sports activities.
 
-Erkennend dat deze overheden en organisaties hiertoe op alle passende niveaus moeten samenwerken;
+2. Until such time as a list of banned pharmacological classes of doping agents and doping methods is approved by the Monitoring Group under the terms of Article 11.1.b, the reference list-in the appendix to this Convention shall apply.
 
-Herinnerend aan de resoluties inzake doping, aangenomen door de Conferentie van Europese Ministers verantwoordelijk voor Sport, en met name Resolutie nr. 1, aangenomen tijdens de 6e Conferentie te Reykjavik in 1989;
+##### Article 3. Domestic co-ordination
 
-In herinnering roepend dat het Comité van Ministers van de Raad van Europa Resolutie (67)12 inzake doping van atleten, aanbeveling nr. R(79)8 inzake doping in de sport, aanbeveling nr. R(84) 19 inzake het „Europees Handvest inzake de bestrijding van doping in de sport” en Aanbeveling nr. R(88)l2 inzake het zonder voorafgaande waarschuwing houden van dopingcontroles buiten wedstrijden, reeds heeft aangenomen;
+1. The Parties shall co-ordinate the policies and actions of their government departments and other public agencies concerned with combating doping in sport.
 
-Herinnerend aan Aanbeveling nr. 5 inzake doping, aangenomen door de 2e Internationale Conferentie van Ministers en Hoge Ambtenaren verantwoordelijk voor Sport en Lichamelijke Opvoeding, georganiseerd door Unesco te Moskou (1988);
+2. They shall ensure that there is practical application of this Convention, and in particular that the requirements under Article 7 are met, by entrusting, where appropriate, the implementation of some of the provisions of this Convention to a designated governmental or non-governmental sports authority or to a sports organisation.
 
-Niettemin vastbesloten nadere maatregelen te nemen, in hechtere samenwerking, gericht op de vermindering en uiteindelijke uitbanning van: doping in de sport op basis van de in die akten vervatte ethische waarden en praktische maatregelen,
+##### Article 4. Measures to restrict the availability and use of banned doping agents and methods
 
-zijn het volgende overeengekomen:
+1. The Parties shall adopt where appropriate legislation, regulations or administrative measures to restrict the availability (including provisions to control movement, possession, importation, distribution and sale) as well as the use in sport of banned doping agents and doping methods and, in particular, anabolic steroids.
 
-##### Artikel 1. Doel van de Overeenkomst
+2. To this end, the Parties or, where appropriate, the relevant non-governmental organisations shall make it a criterion for the grant of public subsidies to sports organisations that they effectively apply anti-doping regulations.
 
-De Partijen verbinden zich ertoe, in het streven naar de vermindering en uiteindelijke uitbanning van doping in de sport, binnen de grenzen van hun onderscheiden constitutionele bepalingen, de noodzakelijke stappen te nemen om de bepalingen van deze Overeenkomst toe te passen.
+3. Furthermore, the Parties shall:
 
-##### Artikel 2. Begripsomschrijvingen en werkingssfeer van de Overeenkomst
+- a. assist their sports organisations to finance doping controls and analyses, either by direct subsidies or grants, or by recognising the costs of such controls and analyses when determining the overall subsidies or grants to be awarded to those organisations;
 
-1. Voor de toepassing van deze Overeenkomst wordt verstaan onder:
+- b. take appropriate steps to withhold the grant of subsidies from public funds, for training purposes, to individual sportsmen and sportswomen who have been suspended following a doping offence in sport, during the period of their suspension.
 
-- a. „doping in de sport”: de toediening aan sportmensen, of het gebruik door hen, van farmacologische groepen van dopingmiddelen of dopingmethoden;
+- c. encourage and, where appropriate, facilitate the carrying out by their sports organisations of the doping controls required by the competent international sports organisations whether during or outside competitions; and
 
-- b. „farmacologische groepen van dopingmiddelen of dopingmethoden”: behoudens het tweede lid hieronder, de groepen van dopingmiddelen of dopingmethoden die door de bevoegde internationale sportorganisaties zijn verboden en die voorkomen op de lijsten die zijn goedgekeurd door de Commissie van Toezicht overeenkomstig het bepaalde in artikel 11, eerste lid, letter b;
+- d. encourage and facilitate the negotiation by sports organisations of agreements permitting their members to be tested by duly authorised doping control teams in other countries.
 
-- c. „sportmensen”: personen die regelmatig deelnemen aan georganiseerde sportactiviteiten.
+4. Parties reserve the right to adopt anti-doping regulations and to organise doping controls on their own initiative and on their own responsibility, provided that they are compatible with the relevant principles of this Convention.
 
-2. Totdat een lijst van verboden farmacologische groepen van dopingmiddelen en dopingmethoden door de Commissie van Toezicht is goedgekeurd overeenkomstig het bepaalde in artikel 11, eerste lid, letter b, is de lijst in het aanhangsel bij deze Overeenkomst van toepassing.
+##### Article 5. Laboratories
 
-##### Artikel 3. Coördinatie op binnenlands niveau
+1. Each Party undertakes:
 
-1. De Partijen coördineren de beleidslijnen en maatregelen van hun overheidsdiensten, en andere openbare organen die betrokken zijn bij de bestrijding van doping in de sport.
+- a. either to establish or facilitate the establishment on its territory of one or more doping control laboratories suitable for consideration for accreditation under the criteria adopted by the relevant international sports organisations and approved by the Monitoring Group under the terms of Article 11.1.b; or
 
-2. Zij dragen er zorg voor dat deze Overeenkomst in de praktijk wordt toegepast, en met name dat aan de vereisten, krachtens artikel 7 wordt voldaan, door de uitvoering van een aantal bepalingen van deze Overeenkomst, wanneer er aanleiding toe is, op te dragen aan een aangewezen gouvernementele of niet-gouvernementele sportautoriteit of sportorganisatie.
+- b. to assist its sports organisations to gain access to such a laboratory on the territory of another Party.
 
-##### Artikel 4. Maatregelen ter beperking van de beschikbaarheid en het gebruik van verboden dopingmiddelen en dopingmethoden
+2. These laboratories shall be encouraged to:
 
-1. Wanneer er aanleiding toe is nemen de Partijen wetten, regelingen of bestuurlijke maatregelen aan ter beperking van de beschikbaarheid (met name bepalingen ter beheersing van het verkeer, het bezit, de invoer, de verspreiding en de verkoop) alsmede van het gebruik in de sport van verboden dopingmiddelen en dopingmethoden en in het bijzonder van anabole steroïden.
+- a. take appropriate action to employ and retain, train and retrain qualified staff;
 
-2. Hiertoe hanteren de Partijen of, wanneer van toepassing, de bevoegde niet-gouvernementele organisaties, als criterium voor de verlening van overheidssubsidies aan sportorganisaties de vraag of zij daadwerkelijk regelingen ter bestrijding van doping toepassen.
+- b. undertake appropriate programmes of research and development into doping agents and methods used, or thought to be used, for the purposes of doping in sport and into analytical biochemistry and pharmacology with a view to obtaining a better understanding of the effects of various substances upon the human body and their consequences for athletic performance;
 
-3. Voorts verbinden de Partijen zich ertoe:
+- c. publish and circulate promptly new data from their research.
 
-- a. hun sportorganisaties te ondersteunen bij de financiering van dopingcontroles en -analyses, hetzij door rechtstreekse subsidies of bijdragen, hetzij door erkenning van de kosten van die controles en analyses bij de vaststelling van de totale subsidies of bijdragen die aan die organisaties worden toegekend;
+##### Article 6. Education
 
-- b. passende stappen te ondernemen om de toekenning van bijdragen of subsidies uit overheidsmiddelen voor trainingsdoeleinden aan individuele sportmensen die zijn geschorst wegens een dopingovertreding in de sport, te weigeren voor de duur van de schorsing;
+1. The Parties undertake to devise and implement, where appropriate in co-operation with the sports organisations concerned and the mass media, educational programmes and information campaigns emphasising the dangers to health inherent in doping and its harm to the ethical values of sport. Such programmes and campaigns shall be directed at both young people in schools and sports clubs and their parents and at adult sportsmen and sportswomen, sports officials, coaches and trainers. For those involved in medicine, such educational programmes will emphasise respect for medical ethics.
 
-- c. de uitvoering door hun sportorganisaties van door de bevoegde internationale sportorganisaties vereiste dopingcontroles aan te moedigen en in voorkomende gevallen te vergemakkelijken, ongeacht of deze controles tijdens of buiten wedstrijden plaatsvinden;
+2. The Parties undertake to encourage and promote research, in co-operation with the regional, national and international sports organisations concerned, into ways and means of devising scientifically-based physiological and psychological training programmes that respect the integrity of the human person.
 
-- d. het sluiten van overeenkomsten door sportorganisaties waarbij wordt toegestaan dat hun leden in andere landen worden getest door daartoe bevoegde teams voor dopingcontrole aan te moedigen en te vergemakkelijken.
+##### Article 7. Co-operation with sports organisations on measures to be taken by them
 
-4. De Partijen behouden zich het recht voor regelingen ter bestrijding van doping aan te nemen en op eigen initiatief en voor eigen verantwoordelijkheid dopingcontroles te houden, mits deze verenigbaar zijn met de desbetreffende beginselen van deze Overeenkomst.
+1. The Parties undertake to encourage their sports organisations and through them the international sports organisations to formulate and apply all appropriate measures, falling within their competence, against doping in sport.
 
-##### Artikel 5. Laboratoria
+2. To this end, they shall encourage their sports organisations to clarify and harmonise their respective rights, obligations and duties, in particular by harmonising their:
 
-1. Elke Partij verbindt zich tot:
+- a. anti-doping regulations on the basis of the regulations agreed by the relevant international sports organisations;
 
-- a. het oprichten of het vergemakkelijken van de oprichting op haar grondgebied van één of meer laboratoria voor dopingcontrole die in aanmerking kunnen komen voor erkenning krachtens de criteria die zijn aangenomen door de bevoegde internationale sportorganisaties en zijn goedgekeurd door de Commissie van Toezicht overeenkomstig het bepaalde in artikel 11, eerste lid, letter b; of
+- b. lists of banned pharmacological classes of doping agents and banned doping methods on the basis of the lists agreed by the relevant international sports organisations;
 
-- b. het ondersteunen van haar sportorganisaties bij het verkrijgen van toegang tot een dergelijk laboratorium op het grondgebied van een andere Partij.
+- c. doping control procedures;
 
-2. Deze laboratoria worden aangemoedigd om:
+- d. disciplinary procedures, applying agreed international principles of natural justice and ensuring respect for the fundamental rights of suspected sportsmen and sportswomen; these principles will include:
 
-- a. passende maatregelen te nemen om bekwaam personeel in dienst te nemen en te behouden, op te leiden en bij te scholen;
+   - (i) the reporting and disciplinary bodies to be distinct from one another;
 
-- b. passende programma's uit te voeren voor onderzoek en ontwikkeling betreffende dopingmiddelen en dopingmethoden die worden gebruikt of vermoedelijk worden gebruikt voor doping in de sport, en betreffende analytische biochemie en farmacologie, ten einde een beter inzicht te verkrijgen in de effecten van de verschillende stoffen op het menselijk lichaam en de gevolgen ervan voor sportprestaties;
+   - (ii) the right of such persons to a fair hearing and to be assisted or represented;
 
-- c. nieuwe gegevens uit hun onderzoeken snel te publiceren en te verspreiden.
+   - (iii) clear and enforceable provisions for appealing against an judgment made;
 
-##### Artikel 6. Onderwijs
+- e. procedures for the imposition of effective penalties for officials, doctors, veterinary doctors, coaches, physiotherapists and other officials or accessories associated with infringements of the anti-doping regulations by sportsmen and sportswomen;
 
-1. De Partijen verbinden zich ertoe voorlichtingsprogramma's en informatiecampagnes te ontwerpen en uit te voeren, wanneer er aanleiding toe is in samenwerking met de betrokken sportorganisaties en de massamedia, waarin de nadruk wordt gelegd op de gevaren voor de gezondheid inherent aan doping en op de schade die doping toebrengt aan de ethische waarden in de sport. Die programma's en campagnes worden gericht op zowel jongeren op scholen en bij sportverenigingen als hun ouders, alsmede op volwassen sportmensen, sportfunctionarissen, coaches en trainers. Voor degenen die werkzaam zijn op medisch gebied, zal in deze onderwijsprogramma's de nadruk worden gelegd op de medische ethiek.
+- f. procedures for the mutual recognition of suspensions and other penalties imposed by other sports organisations in the same or other countries.
 
-2. De Partijen verbinden zich tot het stimuleren en bevorderen van onderzoek, in samenwerking met de betrokken regionale, nationale en internationale sportorganisaties, naar manieren en middelen om wetenschappelijk gebaseerde fysiologische en psychologische trainingsprogramma's te ontwerpen waarin de integriteit van het individu wordt geëerbiedigd.
+3. Moreover, the Parties shall encourage their sports organisations:
 
-##### Artikel 7. Samenwerking met sportorganisaties inzake door hen te nemen maatregelen
+- a. to introduce, on an effective scale, doping controls not only at, but also without advance warning at any appropriate time outside, competitions, such controls to be conducted in a way which is equitable for all sportsmen and sportswomen and which includes testing and retesting of persons selected, where appropriate, on a random basis;
 
-1. De Partijen verbinden zich ertoe hun sportorganisaties en, door hun tussenkomst, de internationale sportorganisaties aan te moedigen tot het formuleren en toepassen van alle onder hun bevoegdheid vallende passende maatregelen ter bestrijding van doping in de sport.
+- b. to negotiate agreements with sports organisations of other countries permitting a sportsman or sportswoman training in another country to be tested by a duly authorised doping control team of that country;
 
-2. Hiertoe moedigen zij hun sportorganisaties aan hun onderscheiden rechten, verplichtingen en taken te verduidelijken en met elkaar in overeenstemming te brengen, met name door harmonisatie van:
+- c. to clarify and harmonise regulations on eligibility to take part in sports events which will include anti-doping criteria;
 
-- a. hun regelingen ter bestrijding van doping op basis van de door de bevoegde internationale sportorganisaties overeengekomen regelingen;
+- d. to promote active participation by sportsmen and sportswomen themselves in the anti-doping work of international sports organisations;
 
-- b. lijsten van verboden farmacologische groepen van dopingmiddelen en dopingmethoden op basis van de door de bevoegde internationale sportorganisaties overeengekomen lijsten;
+- e. to make full and efficient use of the facilities available for doping analysis at the laboratories provided for by Article 5, both during and outside sports competitions;
 
-- c. procedures voor dopingcontrole;
+- f. to study scientific training methods and to devise guidelines to protect sportsmen and sportswomen of all ages, appropriate for each sport.
 
-- d. disciplinaire procedures, waarbij zij de internationaal aanvaarde algemene rechtsbeginselen toepassen en de fundamentele rechten van sportmensen die onder verdenking staan, eerbiedigen. Met name de volgende beginselen dienen te worden toegepast:
+##### Article 8. International co-operation
 
-- (i). er dient een duidelijk onderscheid te zijn tussen het orgaan dat een overtreding meldt en de tuchtcommissie;
+1. The Parties shall co-operate closely on the matters covered by this Convention and shall encourage similar co-operation amongst their sports organisations.
 
-- (ii). de betrokken personen hebben recht op rechtvaardige wijze te worden gehoord en het recht op bijstand of vertegenwoordiging;
+2. The Parties undertake:
 
-- (iii). er dienen duidelijke en uitvoerbare bepalingen te bestaan voor beroep tegen gedane uitspraken;
+- a. to encourage their sports organisations to operate in a manner that promotes application of the provisions of this Convention within all the appropriate international sports organisations to which they are affiliated, including the refusal to ratify claims for world or regional records unless accompanied by an authenticated negative doping control report;
 
-- e. procedures voor het opleggen van doeltreffende straffen aan sportfunctionarissen, artsen, veeartsen, coaches, fysiotherapeuten en anderen die verantwoordelijk zijn voor of medeplichtig zijn aan overtredingen door sportmensen van de regelingen ter bestrijding van doping;
+- b. to promote co-operation between the staffs of their doping control laboratories established or operating in pursuance of Article 5; and
 
-- f. procedures voor de wederzijdse erkenning van schorsingen en andere straffen, opgelegd door andere sportorganisaties in hetzelfde of een ander land.
+- c. to initiate bilateral and multilateral co-operation between their appropriate agencies; authorities and organisations in order to achieve, at the international level as well, the purposes set out in Article 4.1.
 
-3. Voorts stimuleren de Partijen hun sportorganisaties:
+3. The Parties with laboratories established or operating in pursuance of Article 5 undertake to assist other Parties to enable them to acquire the experience, skills and techniques necessary to establish their own laboratories.
 
-- a. op doeltreffende schaal dopingcontroles in te voeren niet alleen bij wedstrijden maar ook, zonder voorafgaande waarschuwing, daarbuiten; die controles dienen op een voor alle sportmensen rechtvaardige wijze te worden uitgevoerd en dienen het testen en opnieuw testen te omvatten van personen die, in voorkomende gevallen, willekeurig worden uitgekozen;
+##### Article 9. Provision of information
 
-- b. met sportorganisaties van andere landen overeenkomsten te sluiten waarbij wordt toegestaan dat een sportman of -vrouw die in een ander land traint, wordt getest door een daartoe bevoegd team voor dopingcontrole van dat land;
+Each Party shall forward to the Secretary General of the Council of Europe, in one of the official languages of the Council of Europe, all relevant information concerning legislative and other measures taken by it for the purpose of complying with the terms of this Convention.
 
-- c. de regelingen voor de toelating tot deelneming aan sportevenementen duidelijker te maken en te harmoniseren; deze regelingen zullen criteria omvatten betreffende de bestrijding van doping;
+##### Article 10. Monitoring Group
 
-- d. actieve deelneming van sportmensen zelf aan de bestrijding van doping door internationale sportorganisaties te stimuleren;
+1. For the purposes of this Convention, a Monitoring Group is hereby set up.
 
-- e. volledig en doelmatig gebruik te maken van de beschikbare faciliteiten voor dopinganalyse in de in artikel 5 voorziene laboratoria, zowel tijdens als buiten sportwedstrijden;
+2. Any Party may be represented on the Monitoring Group by one or more delegates. Each Party shall have one vote.
 
-- f. wetenschappelijke trainingsmethoden te bestuderen en richtlijnen te ontwerpen om sportmensen van alle leeftijden te beschermen, aangepast aan de desbetreffende sport.
+3. Any State mentioned in Article 14.1 which is not a Party to this Convention may be represented on the Monitoring Group by an observer.
 
-##### Artikel 8. Internationale samenwerking
+4. The Monitoring Group may, by unanimous decision, invite any non-member State of the Council of Europe which is not a Party to the Convention and any sports or other professional organisation concerned to be represented by an observer at one or more of its meetings.
 
-1. De Partijen werken nauw samen ten aanzien van de door deze Overeenkomst bestreken aangelegenheden en stimuleren soortgelijke samenwerking tussen hun sportorganisaties.
+5. The Monitoring Group shall be convened by the Secretary General. Its first meeting shall be held as soon as reasonably practicable, and in any case within one year after the date of the entry into force of the Convention. It shall subsequently meet whenever necessary, on the initiative of the Secretary General or a Party.
 
-2. De Partijen verbinden zich ertoe:
+6. A majority of the Parties shall constitute a quorum for holding a meeting of the Monitoring Group.
 
-- a. hun sportorganisaties aan te moedigen door hun werkwijze de toepassing van de bepalingen van deze Overeenkomst binnen alle internationale sportorganisaties waarbij zij zijn aangesloten, te bevorderen, met name door te weigeren aanspraken op wereldrecords of regionale records te erkennen tenzij deze vergezeld gaan van een gelegaliseerd verslag met een negatieve uitslag van de dopingcontrole;
+7. The Monitoring Group shall meet in private.
 
-- b. de samenwerking tussen de medewerkers van de overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria voor dopingcontrole te bevorderen; en
+8. Subject to the provisions of this Convention, the Monitoring Group shall draw up and adopt by consensus its own Rules of Procedure.
 
-- c. bilaterale en multilaterale samenwerking tussen hun bevoegde organen, autoriteiten en organisaties op gang te brengen ten einde de in artikel 4, eerste lid, omschreven doelstellingen ook op internationaal niveau te verwezenlijken.
+##### Article 11
 
-3. De Partijen die beschikken over overeenkomstig artikel 5 op hun grondgebied opgerichte of reeds werkzame laboratoria, verbinden zich ertoe andere Partijen te ondersteunen ten einde hen in staat te stellen de nodige ervaring, vaardigheden en technieken te verwerven om hun eigen laboratoria op te richten.
+1. The Monitoring Group shall monitor the application of this Convention. It may in particular:
 
-##### Artikel 9. Verstrekking van informatie
+- a. keep under review the provisions of this Convention and examine any modifications necessary;
 
-Elke Partij stuurt de Secretaris-Generaal van de Raad van Europa in één van de officiële talen van de Raad van Europa alle relevante informatie betreffende wettelijke en andere maatregelen die zij heeft genomen ten einde aan de voorwaarden van deze Overeenkomst te voldoen.
+- b. approve the list, and any revision thereto, of pharmacological classes of doping agents and doping methods banned by the relevant international sports organisations, referred to in Articles 2.1 and 2.2., and the criteria for accreditation of laboratories, and any revision thereto, adopted by the said organisations, referred to in Article 5.1 .a, and fix the date for the relevant decisions to enter into force;
 
-##### Artikel 10. Commissie van Toezicht
+- c. hold consultations with relevant sports organisations;
 
-1. Voor de toepassing van deze Overeenkomst wordt hierbij een Commissie van Toezicht ingesteld.
+- d. make recommendations to the Parties concerning measures to be taken for the purposes of this Convention;
 
-2. Iedere Partij kan door één of meer afgevaardigden worden vertegenwoordigd in de Commissie van Toezicht. Elke Partij heeft één stem.
+- e. recommend the appropriate measures to keep relevant international organisations and the public informed about the activities undertaken within the framework of this Convention;
 
-3. Iedere in artikel 14, eerste lid, bedoelde Staat die geen Partij bij deze Overeenkomst is, kan door een waarnemer worden vertegenwoordigd in de Commissie van Toezicht.
+- f. make recommendations to the Committee of Ministers concerning non-member States of the Council of Europe to be invited to accede to this Convention;
 
-4. De Commissie van Toezicht kan, bij unaniem besluit, iedere niet-lidstaat van de Raad van Europa die geen Partij bij de Overeenkomst is, en iedere betrokken sportorganisatie of andere professionele organisatie uitnodigen zich door een waarnemer te laten vertegenwoordigen bij één of meer van haar bijeenkomsten.
+- g. make any proposal for improving the effectiveness of this Convention.
 
-5. De Commissie van Toezicht wordt bijeengeroepen door de Secretaris-Generaal. Haar eerste bijeenkomst wordt gehouden zo spoedig als redelijkerwijs mogelijk is, en in ieder geval binnen één jaar na de datum van inwerkingtreding van de Overeenkomst. De Commissie van Toezicht komt daarna bijeen wanneer dit noodzakelijk blijkt, op initiatief van de Secretaris-Generaal of van een Partij.
+2. In order to discharge its functions, the Monitoring Group may, on its own initiative, arrange for meetings of groups of experts.
 
-6. De meerderheid van de Partijen vormt het vereiste quorum voor het houden van een bijeenkomst van de Commissie van Toezicht.
+##### Article 12
 
-7. De bijeenkomsten van de Commissie van Toezicht zijn niet openbaar.
+After each meeting, the Monitoring Group shall forward to the Committee of Ministers of the Council of Europe a report on its work and on the functioning of the Convention.
 
-8. Behoudens de bepalingen van deze Overeenkomst stelt de Commissie van Toezicht haar eigen procedureregels op en neemt deze bij consensus aan.
+##### Article 13. Amendments to the Articles of the Convention
 
-##### Artikel 11
+1. Amendments to the Articles of this Convention may be proposed by a Party, the Committee of Ministers of the Council of Europe or the Monitoring Group.
 
-1. De Commissie van Toezicht ziet toe op de toepassing van deze Overeenkomst. Zij kan met name:
+2. Any proposal for amendment shall be communicated by the Secretary General of the Council of Europe to the States mentioned in Article 14 and to every State which has acceded to or has been invited to accede to this Convention in accordance with the provisions of Article 16.
 
-- a. de bepalingen van deze Overeenkomst voortdurend bezien en eventueel noodzakelijke wijzigingen bestuderen;
+3. Any amendment proposed by a Party or the Committee of Ministers shall be communicated to the Monitoring Group at least two months before the meeting at which it is to be considered. The Monitoring Group shall submit to the Committee of Ministers its opinion on the proposed amendment, where appropriate after consultation with the relevant sports organisations.
 
-- b. haar goedkeuring hechten aan de lijst bedoeld in artikel 2, eerste en tweede lid, en herzieningen daarvan, van farmacologische groepen van dopingmiddelen en dopingmethoden die zijn verboden door de bevoegde internationale sportorganisaties, en aan de criteria voor erkenning van laboratoria bedoeld in artikel 5, eerste lid, letter a, en door die organisaties aangenomen herzieningen daarvan, en de datum vaststellen waarop de desbetreffende beslissingen in werking treden;
+4. The Committee of Ministers shall consider the proposed amendment and any opinion submitted by the Monitoring Group and may adopt the amendment.
 
-- c. overleg plegen met de betrokken sportorganisaties;
+5. The text of any amendment adopted by the Committee of Ministers in accordance with paragraph 4 of this Article shall be forwarded to the Parties for acceptance.
 
-- d. aanbevelingen aan de Partijen doen betreffende de voor de toepassing van deze Overeenkomst te nemen maatregelen;
+6. Any amendment adopted in accordance with paragraph 4 of this Article shall come into force on the first day of the month following the expiration of a period of one month after all Parties have informed the Secretary General of their acceptance thereof.
 
-- e. passende maatregelen aanbevelen om de betrokken internationale organisaties en het publiek op de hoogte te houden van de in het kader van deze Overeenkomst ondernomen activiteiten;
+### Final clauses
 
-- f. aanbevelingen aan het Comité van Ministers doen betreffende het uitnodigen van niet-lidstaten van de Raad van Europa om tot deze Overeenkomst toe te treden;
+##### Article 14
 
-- g. voorstellen doen ter vergroting van de doeltreffendheid van deze Overeenkomst.
+1. This Convention shall be open for signature by member States of the Council of Europe, other States party to the [European Cultural Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005098) and non-member States which have participated in the elaboration of this Convention, which may express their consent to be bound by:
 
-2. Voor de uitvoering van haar taken kan de Commissie van Toezicht op eigen initiatief bijeenkomsten van groepen deskundigen beleggen.
+- a. signature without reservation as to ratification, acceptance or approval, or
 
-##### Artikel 12
+- b. signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-Na elke bijeenkomst stuurt de Commissie van Toezicht het Comité van Ministers van de Raad van Europa een verslag van haar werk en van de werking van de Overeenkomst.
+2. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 13. Wijzigingen van de artikelen van de Overeenkomst
+##### Article 15
 
-1. Wijzigingen van de artikelen van deze Overeenkomst kunnen worden voorgesteld door een Partij, het Comité van Ministers van de Raad van Europa of de Commissie van Toezicht.
+1. The Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date on which five States, including at least four member States of the Council of Europe, have expressed their consent to be bound by the Convention in accordance with the provisions of Article 14.
 
-2. Ieder wijzigingsvoorstel wordt door de Secretaris-Generaal van de Raad van Europa toegezonden aan de Staten bedoeld in artikel 14 en aan iedere Staat die is toegetreden of is uitgenodigd toe te treden tot deze Overeenkomst in overeenstemming met de bepalingen van artikel 16.
+2. In respect of any signatory State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of signature or of the deposit of the instrument of ratification, acceptance or approval.
 
-3. Iedere door een Partij of door het Comité van Ministers voorgestelde wijziging wordt uiterlijk twee maanden vóór de bijeenkomst waarop deze moet worden bezien, toegezonden aan de Commissie van Toezicht. De Commissie van Toezicht stelt het Comité van Ministers in kennis van haar mening inzake de voorgestelde wijziging, wanneer er aanleiding toe is in overleg met de bevoegde sportorganisaties.
+##### Article 16
 
-4. Het Comité van Ministers bestudeert de voorgestelde wijziging en de mening van de Commissie van Toezicht en kan de wijziging aannemen.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe, after consulting the Parties; may invite to accede to the Convention any non-member State by a decision, taken by the majority provided for in [Article 20.d of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) and by the unanimous vote of the representatives of the Contracting States-entitled to sit on the Committee.
 
-5. De tekst van een door het Comité van Ministers in overeenstemming met het vierde lid van dit artikel aangenomen wijziging wordt aan de Partijen toegezonden voor aanvaarding.
+2. In respect of any acceding State, the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of the deposit of the instrument of accession with the Secretary General of the Council of Europe.
 
-6. Iedere in overeenstemming met het vierde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand nadat alle Partijen de Secretaris-Generaal in kennis hebben gesteld van hun aanvaarding daarvan.
+##### Article 17
 
-## SLOTBEPALINGEN
+1. Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.
 
-##### Artikel 14
+2. Any State may, at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of one month after the date of receipt of such declaration by the Secretary General.
 
-1. Deze Overeenkomst staat ter ondertekening open voor de lidstaten van de Raad van Europa, andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), en niet-lidstaten die hebben deelgenomen aan de opstelling van deze Overeenkomst, die hun instemming te worden gebonden tot uitdrukking kunnen brengen door:
+3. Any declaration made under the two preceding paragraphs may, in respect of any territory mentioned in such declaration, be withdrawn by a notification addressed to the Secretary General. Such withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+##### Article 18
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+1. Any Party may, at any time, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+2. Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of the notification by the Secretary General.
 
-##### Artikel 15
+##### Article 19
 
-l. Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop vijf Staten, waaronder ten minste vier lidstaten van de Raad van Europa, hun instemming door deze Overeenkomst te worden gebonden tot uitdrukking hebben gebracht overeenkomstig de bepalingen van artikel 14.
+The Secretary General of the Council of Europe shall notify the Parties, the other member States of the Council of Europe, the other States party to the [European Cultural Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), the non-member States which have participated in the elaboration of this Convention and any State which has acceded or has been invited to accede to it of:
 
-2. Ten aanzien van iedere ondertekenende Staat die later zijn instemming door deze Overeenkomst te worden gebonden tot uitdrukking heeft gebracht, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ondertekening of van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
+- a. any signature in accordance with Article 14;
 
-##### Artikel 16
+- b. the deposit of any instrument of ratification, acceptance, approval or accession in accordance with Article 14 or 16;
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Partijen, iedere Staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot de Overeenkomst, zulks bij een besluit genomen met de meerderheid, voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die het recht hebben in het Comité van Ministers zitting te hebben.
+- c. any date of entry into force of this Convention in accordance with Articles 15 and 16;
 
-2. Ten aanzien van iedere toetredende Staat treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+- d. any information forwarded under the provisions of Article 9;
 
-##### Artikel 17
+- e. any report prepared in pursuance of the provisions of Article 12;
 
-1. Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, aangeven op welk grondgebied of welke grondgebieden deze Overeenkomst van toepassing zal zijn.
+- f. any proposal for amendment or any amendment adopted in accordance with Article 13 and the date on which the amendment comes into force;
 
-2. Iedere Staat kan te allen tijde daarna door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring de toepasselijkheid van deze Overeenkomst uitbreiden tot ieder ander in de verklaring genoemd grondgebied. De Overeenkomst treedt ten aanzien van dit grondgebied in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van één maand na de datum van ontvangst van de verklaring door de Secretaris-Generaal.
+- g. any declaration made under the provisions of Article 17;
 
-3. Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied; worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
+- h. any notification made under the provisions of Article 18 and the date on which the denunciation takes effect;
 
-##### Artikel 18
-
-1. Iedere Partij kan deze Overeenkomst te allen tijde opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
-
-2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
-
-##### Artikel 19
-
-De Secretaris-Generaal van de Raad van Europa stelt de Partijen, de andere lidstaten van de Raad van Europa, de andere Staten die Partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098), de niet-lidstaten die hebben deelgenomen aan het opstellen van deze Overeenkomst, alsmede iedere Staat die ertoe is toegetreden of is uitgenodigd ertoe toe te treden, in kennis van:
-
-- a. iedere ondertekening overeenkomstig artikel 14;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding overeenkomstig de artikelen 14 of 16;
-
-- c. iedere datum van inwerkingtreding van deze Overeenkomst overeenkomstig de artikelen 15 en 16;
-
-- d. iedere overeenkomstig het bepaalde in artikel 9 gedane mededeling;
-
-- e. ieder ingevolge het bepaalde in artikel 12 opgesteld verslag;
-
-- f. ieder wijzigingsvoorstel of iedere wijziging, aangenomen overeenkomstig artikel 13, en de datum waarop de wijziging van kracht wordt;
-
-- g. iedere overeenkomstig het bepaalde in artikel 17 afgelegde verklaring;
-
-- h. iedere overeenkomstig het bepaalde in artikel 18 gedane kennisgeving, alsmede de datum waarop de opzegging van kracht wordt;
-
-- i. iedere andere handeling, kennisgeving of mededeling betrekking hebbend, op deze Overeenkomst.
+- i. any other act, notification or communication relating to this Convention.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

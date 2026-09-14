@@ -1,57 +1,30 @@
 ---
 title: "Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied"
 identifier: "BWBV0004245"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-07-26"
-last_updated: "1971-07-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004245"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004016043"
-version_id: "10004180152"
-internal_id: "C10008344581"
-label_id: "10004000574"
-dtd_version: "2.0"
-original_entry_into_force: "1971-07-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004245/1971-07-26/0"
-intitule_bron: "Trb.1968-145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1968-11-01"
-intitule_in_force: "1971-11-04"
-intitule_status: "goed"
-original_publication: "Trb.1968-145"
-original_published_date: "1968-11-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1968-145"
-entry_into_force_date: "1971-07-26"
-jci_1_3: "jci1.3:c:BWBV0004245&z=1971-07-26&g=1971-07-26"
-jci_1_0: "1.0:c:BWBV0004245&g=1971-07-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-07-26"
+publicatiedatum: 1971-07-26
+laatste_update: 1971-07-26
+status: geldig
+toestand: 1971-07-26
+bron: "https://wetten.overheid.nl/BWBV0004245"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika en het Caraïbisch gebied
 
-De ondertekenende gevolmachtigden, door hun onderscheiden Regeringen daartoe volledig gemachtigd,
+*The undersigned Plenipotentiaries, furnished with full powers by their respective Governments, Convinced that the Treaty for the Prohibition of Nuclear Weapons in Latin America, negotiated and signed in accordance with the recommendations of the General Assembly of the United Nations in Resolution 1911 (XVIII) of 27 November 1963, represents an important step towards ensuring the non-proliferation of nuclear weapons, Aware that the non-proliferation of nuclear weapons is not an end in itself but, rather, a means of achieving general and complete disarmament at a later stage, and Desiring to contribute, so far as lies in their power, towards ending the armaments race, especially in the field of nuclear weapons, and towards strengthening a world at peace, based on mutual respect and sovereign equality of States, Have agreed as follows:*
 
-Ervan overtuigd dat het Verdrag tot het verbod van kernwapens in Latijns-Amerika dat, overeenkomstig de aanbevelingen van de Algemene Vergadering van de Verenigde Naties, vervat in Resolutie 1911 (XVIII) van 27 november 1963, is gesloten en ondertekend, een belangrijke stap betekent ter verzekering van de niet-verpreiding van kernwapens,
+##### Article 1
 
-Zich ervan bewust dat de niet-verspreiding van kernwapens geen doel op zichzelf is, doch veeleer een middel ter verwezenlijking van algemene en volledige ontwapening in een later stadium, en
+To undertake to apply the statute of denuclearization in respect of warlike purposes as defined in articles 1, 3, 5 and 13 of the Treaty for the Prohibition of Nuclear Weapons in Latin America in territories for which, *de jure* or *de facto,* they are internationally responsible and which lie within the limits of the geographical zone established in that Treaty.
 
-Verlangend, voor zover in hun vermogen ligt, ertoe bij te dragen dat een einde wordt gemaakt aan de bewapeningswedloop, in het bijzonder op het gebied van de kernwapens, en dat de vrede in de wereld, gegrondvest op wederzijdse eerbied en op de soevereine gelijkheid van de Staten, wordt versterkt,
+##### Article 2
 
-Zijn als volgt overeengekomen:
+The duration of this Protocol shall be the same as that of the Treaty for the Prohibition of Nuclear Weapons in Latin America of which this Protocol is an annex, and the provisions regarding ratification and denunciation contained in the Treaty shall be applicable to it.
 
-##### Artikel 1
+##### Article 3
 
-Op zich te nemen het statuut van denuclearisatie ten aanzien van oorlogsdoeleinden zoals omschreven in de artikelen 1, 3, 5 en 13 van het Verdrag tot het verbod van kernwapens in Latijns-Amerika toe te passen op de grondgebieden waarvoor zij de jure of de facto internationale verantwoordelijkheid dragen en die liggen binnen de grenzen van het in dat Verdrag vastgestelde geografische gebied.
-
-##### Artikel 2
-
-De looptijd van dit Protocol is gelijk aan die van het Verdrag tot het verbod van kernwapens in Latijns-Amerika, waarvan dit Protocol een bijlage is, en de in het Verdrag vervatte bepalingen betreffende bekrachtiging en opzegging zijn erop van toepassing.
-
-##### Artikel 3
-
-Dit Protocol treedt in werking voor de Staten die het hebben bekrachtigd op de datum van nederlegging van hun onderscheiden akten van bekrachtiging.
+This Protocol shall enter into force, for the States which have ratified it, on the date of the deposit of their respective instruments of ratification.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having deposited their full powers, found in good and due form, sign this Protocol on behalf of their respective Governments.

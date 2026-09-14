@@ -1,62 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg betreffende samenwerking op het gebied der diplomatieke vertegenwoordiging"
 identifier: "BWBV0004457"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-10-08"
-last_updated: "1965-10-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004457"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004141763"
-version_id: "10004310582"
-internal_id: "C10006977341"
-label_id: "10004126794"
-dtd_version: "2.0"
-original_entry_into_force: "1965-10-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004457/1965-10-08/0"
-intitule_bron: "Trb.1964-42"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-04-07"
-intitule_in_force: "1965-10-06"
-intitule_status: "goed"
-original_publication: "Trb.1964-42"
-original_published_date: "1964-04-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-42"
-entry_into_force_date: "1965-10-08"
-jci_1_3: "jci1.3:c:BWBV0004457&z=1965-10-08&g=1965-10-08"
-jci_1_0: "1.0:c:BWBV0004457&g=1965-10-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-10-08"
+publicatiedatum: 1965-10-08
+laatste_update: 1965-10-08
+status: geldig
+toestand: 1965-10-08
+bron: "https://wetten.overheid.nl/BWBV0004457"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg betreffende samenwerking op het gebied der diplomatieke vertegenwoordiging
 
-Hare Majesteit de Koningin der Nederlanden
-
-en
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg,
-
-Overwegende dat op grond van een gevestigde traditie de Nederlandse diplomatieke vertegenwoordigingen zorg dragen voor de vertegenwoordiging van het Groothertogdom Luxemburg en de behartiging van zijn belangen in de Staten waar het Groothertogdom Luxemburg geen diplomatieke vertegenwoordigingen onderhoudt;
-
-Gelet op de overeenkomst welke te dezer zake werd gesloten door nota's gewisseld te 's-Gravenhage op 6 en 7 januari 1880;
-
-Verlangende een nieuwe grondslag te leggen voor Hun samenwerking op dit gebied, daarbij rekening houdende met het Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961;
-
-Hebben besloten te dien einde een verdrag te sluiten en hebben daartoe tot Hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken,
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:
-
-Zijne Excellentie de Heer Eugène Schaus, Vice-President van de Regering en Minister van Buitenlandse Zaken;
-
-Zijne Excellentie de Heer P. Schulté, Buitengewoon en Gevolmachtigd Ambassadeur van Luxemburg te 's-Gravenhage;
-
-die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Overwegende dat op grond van een gevestigde traditie de Nederlandse diplomatieke vertegenwoordigingen zorg dragen voor de vertegenwoordiging van het Groothertogdom Luxemburg en de behartiging van zijn belangen in de Staten waar het Groothertogdom Luxemburg geen diplomatieke vertegenwoordigingen onderhoudt; Gelet op de overeenkomst welke te dezer zake werd gesloten door nota's gewisseld te 's-Gravenhage op 6 en 7 januari 1880; Verlangende een nieuwe grondslag te leggen voor Hun samenwerking op dit gebied, daarbij rekening houdende met het Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961; Hebben besloten te dien einde een verdrag te sluiten en hebben daartoe tot Hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: Zijne Excellentie de Heer Eugène Schaus, Vice-President van de Regering en Minister van Buitenlandse Zaken; Zijne Excellentie de Heer P. Schulté, Buitengewoon en Gevolmachtigd Ambassadeur van Luxemburg te 's-Gravenhage; die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

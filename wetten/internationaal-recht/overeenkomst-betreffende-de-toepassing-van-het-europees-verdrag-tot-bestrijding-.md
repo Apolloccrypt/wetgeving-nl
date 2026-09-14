@@ -1,41 +1,18 @@
 ---
 title: "Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen"
 identifier: "BWBV0004779"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-12-04"
-last_updated: "1979-12-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004779"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004311573"
-version_id: "10004510712"
-internal_id: "C10008384171"
-label_id: "10004296484"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004779/1979-12-04/0"
-intitule_bron: "Trb.1980-14"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-01-30"
-intitule_status: "nogniet"
-original_publication: "Trb.1980-14"
-original_published_date: "1980-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-14"
-jci_1_3: "jci1.3:c:BWBV0004779&z=1979-12-04&g=1979-12-04"
-jci_1_0: "1.0:c:BWBV0004779&g=1979-12-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1980-01-30"
+laatste_update: 1979-12-04
+status: geldig
+toestand: 1979-12-04
+bron: "https://wetten.overheid.nl/BWBV0004779"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst betreffende de toepassing van het Europees Verdrag tot bestrijding van terrorisme tussen de Lid-Staten van de Europese Gemeenschappen
 
-De Lid-Staten van de Europese Gemeenschappen,
-
-verlangende de justitiële samenwerking tussen deze Staten in de strijd tegen gewelddaden te versterken,
-
-in afwachting van de bekrachtiging zonder voorbehoud van het Europees Verdrag tot bestrijding van terrorisme, ondertekend te Straatsburg op 27 januari 1977, hierna te noemen „het Europees Verdrag”, door alle Lid-Staten van de Europese Gemeenschappen, hierna te noemen „de Lid-Staten”,
-
-zijn het volgende overeengekomen:
+*De Lid-Staten van de Europese Gemeenschappen, verlangende de justitiële samenwerking tussen deze Staten in de strijd tegen gewelddaden te versterken, in afwachting van de bekrachtiging zonder voorbehoud van het Europees Verdrag tot bestrijding van terrorisme, ondertekend te Straatsburg op 27 januari 1977, hierna te noemen „het Europees Verdrag”, door alle Lid-Staten van de Europese Gemeenschappen, hierna te noemen „de Lid-Staten”, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ter verdere vereenvoudiging van het rechtsverkeer, zoals geregeld bij het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering"
 identifier: "BWBV0004305"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-05-03"
-last_updated: "1964-05-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004305"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004042173"
-version_id: "10004210342"
-internal_id: "C10008341541"
-label_id: "10004026704"
-dtd_version: "2.0"
-original_entry_into_force: "1964-05-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004305/1964-05-03/0"
-intitule_bron: "Trb.1962-108"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-10-09"
-intitule_in_force: "1964-04-22"
-intitule_status: "goed"
-original_publication: "Trb.1962-108"
-original_published_date: "1962-10-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-108"
-entry_into_force_date: "1964-05-03"
-jci_1_3: "jci1.3:c:BWBV0004305&z=1964-05-03&g=1964-05-03"
-jci_1_0: "1.0:c:BWBV0004305&g=1964-05-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-05-03"
+publicatiedatum: 1964-05-03
+laatste_update: 1964-05-03
+status: geldig
+toestand: 1964-05-03
+bron: "https://wetten.overheid.nl/BWBV0004305"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ter verdere vereenvoudiging van het rechtsverkeer, zoals geregeld bij het op 1 maart 1954 te 's-Gravenhage gesloten Verdrag betreffende de burgerlijke rechtsvordering
 
-HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN
-
-en
-
-DE PRESIDENT VAN DE BONDSREPUBLIEK DUITSLAND,
-
-Verlangend het rechtsverkeer, zoals geregeld bij het Haagse [Verdrag van 1 maart 1954 betreffende de burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBV0002016), tussen de beide Staten verder te vereenvoudigen,
-
-Zijn overeengekomen een verdrag te sluiten en hebben tot Hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-De Heer mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken,
-
-De President van de Bondsrepubliek Duitsland:
-
-De Heren
-
-Dr. J. Löns, Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage, en
-
-Prof. dr. A. Bülow, Directeur-Generaal bij het Bondsministerie van Justitie.
-
-De gevolmachtigden zijn, na uitwisseling van hun in goede en behoorlijke vorm bevonden volmachten, het volgende overeengekomen:
+*HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN en DE PRESIDENT VAN DE BONDSREPUBLIEK DUITSLAND, Verlangend het rechtsverkeer, zoals geregeld bij het Haagse Verdrag van 1 maart 1954 betreffende de burgerlijke rechtsvordering, tussen de beide Staten verder te vereenvoudigen, Zijn overeengekomen een verdrag te sluiten en hebben tot Hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: De Heer mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken, De President van de Bondsrepubliek Duitsland: De Heren Dr. J. Löns, Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage, en Prof. dr. A. Bülow, Directeur-Generaal bij het Bondsministerie van Justitie. De gevolmachtigden zijn, na uitwisseling van hun in goede en behoorlijke vorm bevonden volmachten, het volgende overeengekomen:*
 
 ### Betekening of mededeling van gerechtelijke en buitengerechtelijke stukken
 
@@ -62,9 +21,9 @@ De gevolmachtigden zijn, na uitwisseling van hun in goede en behoorlijke vorm be
 
 (1). Gerechtelijke of buitengerechtelijke stukken, die uit een van beide Staten afkomstig zijn, worden rechtstreeks toegezonden, en wel
 
-- a). wanneer zij bestemd zijn voor personen in de Bondsrepubliek Duitsland, door de bevoegde Nederlandse rechterlijke autoriteiten aan de President van het Landgericht of het Amtsgericht in welks gebied de persoon, voor wie het stuk bestemd is, verblijft,
+- a) wanneer zij bestemd zijn voor personen in de Bondsrepubliek Duitsland, door de bevoegde Nederlandse rechterlijke autoriteiten aan de President van het Landgericht of het Amtsgericht in welks gebied de persoon, voor wie het stuk bestemd is, verblijft,
 
-- b). wanneer de betekening moet geschieden aan personen in Nederland, door de bevoegde Duitse rechterlijke autoriteiten aan de Officier van Justitie bij de Arrondissements-Rechtbank in welker gebied de persoon, voor wie het stuk bestemd is, verblijft.
+- b) wanneer de betekening moet geschieden aan personen in Nederland, door de bevoegde Duitse rechterlijke autoriteiten aan de Officier van Justitie bij de Arrondissements-Rechtbank in welker gebied de persoon, voor wie het stuk bestemd is, verblijft.
 
 (2). De genoemde autoriteiten bedienen zich bij de aanvragen en de verdere briefwisseling van hun eigen landstaal.
 
@@ -164,11 +123,11 @@ TEN BLIJKE WAARVAN de gevolmachtigden dit Verdrag hebben ondertekend en van hun 
 
 GEDAAN te 's-Gravenhage, de 30e augustus 1962, in twee oorspronkelijke exemplaren, elk in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) J. LUNS
 
-**Voor de Bondsrepubliek Duitsland:**
+*Voor de Bondsrepubliek Duitsland:*
 
 (w.g.) DR. J. LÖNS
 

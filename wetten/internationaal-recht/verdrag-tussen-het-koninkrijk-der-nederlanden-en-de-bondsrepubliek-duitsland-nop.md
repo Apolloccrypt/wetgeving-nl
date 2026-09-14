@@ -1,48 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de regeling van de spoorweggrensovergangen"
 identifier: "BWBV0004398"
-country: "nl"
-rank: "verdrag"
-publication_date: "1968-11-25"
-last_updated: "1968-11-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004398"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004099283"
-version_id: "10004267892"
-internal_id: "C10006985781"
-label_id: "10004083794"
-dtd_version: "2.0"
-original_entry_into_force: "1968-07-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004398/1968-11-25/0"
-intitule_bron: "Trb.1966-218"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-10-07"
-intitule_in_force: "1968-07-24"
-intitule_status: "goed"
-original_publication: "Trb.1966-218"
-original_published_date: "1966-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-218"
-entry_into_force_date: "1968-07-12"
-jci_1_3: "jci1.3:c:BWBV0004398&z=1968-11-25&g=1968-11-25"
-jci_1_0: "1.0:c:BWBV0004398&g=1968-11-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "1968-07-12"
+publicatiedatum: 1968-07-12
+laatste_update: 1968-11-25
+status: geldig
+toestand: 1968-11-25
+bron: "https://wetten.overheid.nl/BWBV0004398"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland nopens de regeling van de spoorweggrensovergangen
 
-Het Koningrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland
-
-Geleid door de wens de tussen de beide Staten bestaande overeenkomsten en afspraken nopens de grensoverschrijdende baanvakken aan de huidige omstandigheden aan te passen,
-
-Mede gelet op de artikelen 83 en 84 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960,
-
-Zijn het volgende overeengekomen:
+*Het Koningrijk der Nederlanden en de Bondsrepubliek Duitsland Geleid door de wens de tussen de beide Staten bestaande overeenkomsten en afspraken nopens de grensoverschrijdende baanvakken aan de huidige omstandigheden aan te passen, Mede gelet op de artikelen 83 en 84 van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

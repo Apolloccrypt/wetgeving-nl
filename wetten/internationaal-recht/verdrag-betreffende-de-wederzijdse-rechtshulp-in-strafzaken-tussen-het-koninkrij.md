@@ -1,50 +1,19 @@
 ---
 title: "Verdrag betreffende de wederzijdse rechtshulp in strafzaken tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko"
 identifier: "BWBV0004727"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-12-01"
-last_updated: "2012-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004727"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004282653"
-version_id: "10004475582"
-internal_id: "C10008201891"
-label_id: "10004267804"
-dtd_version: "2.0"
-original_entry_into_force: "2012-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004727/2012-12-01/0"
-intitule_bron: "Trb.2010-285"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-11-26"
-intitule_in_force: "2012-12-04"
-intitule_status: "goed"
-original_publication: "Trb.2010-285"
-original_published_date: "2010-11-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-285"
-entry_into_force_date: "2012-12-01"
-jci_1_3: "jci1.3:c:BWBV0004727&z=2012-12-01&g=2012-12-01"
-jci_1_0: "1.0:c:BWBV0004727&g=2012-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-12-01"
+publicatiedatum: 2012-12-01
+laatste_update: 2012-12-01
+status: geldig
+toestand: 2012-12-01
+bron: "https://wetten.overheid.nl/BWBV0004727"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende de wederzijdse rechtshulp in strafzaken tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Koninkrijk Marokko,
-
-hierna te noemen „de partijen”,
-
-Gelet op de bestaande samenwerking, in het bijzonder op grond van het [Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen](https://wetten.overheid.nl/jci1.3:c:BWBV0001425);
-
-Geleid door de wens hun samenwerking in strafzaken te verbeteren op het terrein van de wederzijdse rechtshulp in strafzaken;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Koninkrijk Marokko, hierna te noemen „de partijen”, Gelet op de bestaande samenwerking, in het bijzonder op grond van het Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake de overbrenging van gevonniste personen; Geleid door de wens hun samenwerking in strafzaken te verbeteren op het terrein van de wederzijdse rechtshulp in strafzaken; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Toepassingsbereik
 
@@ -52,9 +21,9 @@ Zijn het volgende overeengekomen:
 
 2. Wederzijdse rechtshulp wordt ook verleend ten behoeve van:
 
-- a). burgerlijke rechtsvorderingen die bij een strafrechtelijke procedure zijn ingesteld, zolang de strafrechter nog niet onherroepelijk in de strafzaak heeft beslist;
+- a) burgerlijke rechtsvorderingen die bij een strafrechtelijke procedure zijn ingesteld, zolang de strafrechter nog niet onherroepelijk in de strafzaak heeft beslist;
 
-- b). procedures voor de betekening van gerechtelijke stukken betreffende de tenuitvoerlegging van straffen.
+- b) procedures voor de betekening van gerechtelijke stukken betreffende de tenuitvoerlegging van straffen.
 
 3. Dit Verdrag is niet van toepassing op de tenuitvoerlegging van een bevel tot aanhouding, noch op de tenuitvoerlegging van veroordelingen.
 
@@ -66,11 +35,11 @@ Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepass
 
 1. De rechtshulp kan worden geweigerd:
 
-- a). indien het verzoek betrekking heeft op strafbare feiten die door de aangezochte partij hetzij als politiek delict hetzij als een met een dergelijk misdrijf samenhangend feit worden beschouwd. Echter, voor de toepassing van dit Verdrag wordt een aanslag op het leven van het Staatshoofd van een van de verdragsluitende partijen of van een van zijn familieleden niet als een politiek delict beschouwd, evenmin als delicten bedoeld in verdragen die tussen de partijen van kracht zijn, ten aanzien waarvan het politieke karakter is uitgesloten krachtens die verdragen;
+- a) indien het verzoek betrekking heeft op strafbare feiten die door de aangezochte partij hetzij als politiek delict hetzij als een met een dergelijk misdrijf samenhangend feit worden beschouwd. Echter, voor de toepassing van dit Verdrag wordt een aanslag op het leven van het Staatshoofd van een van de verdragsluitende partijen of van een van zijn familieleden niet als een politiek delict beschouwd, evenmin als delicten bedoeld in verdragen die tussen de partijen van kracht zijn, ten aanzien waarvan het politieke karakter is uitgesloten krachtens die verdragen;
 
-- b). indien het verzoek betrekking heeft op militaire strafbare feiten die niet tevens strafbare feiten volgens het gewone strafrecht zijn;
+- b) indien het verzoek betrekking heeft op militaire strafbare feiten die niet tevens strafbare feiten volgens het gewone strafrecht zijn;
 
-- c). indien de aangezochte partij van mening is dat de uitvoering van het verzoek zou kunnen leiden tot aantasting van de soevereiniteit, de veiligheid, de openbare orde of andere wezenlijke belangen van haar land.
+- c) indien de aangezochte partij van mening is dat de uitvoering van het verzoek zou kunnen leiden tot aantasting van de soevereiniteit, de veiligheid, de openbare orde of andere wezenlijke belangen van haar land.
 
 2. Rechtshulp kan niet worden geweigerd op de enkele grond dat het verzoek betrekking heeft op een strafbaar feit dat door de aangezochte partij als een fiscaal delict wordt gekwalificeerd.
 
@@ -86,23 +55,23 @@ Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepass
 
 1. In een verzoek om rechtshulp dienen de volgende gegevens te worden vermeld:
 
-- a). de autoriteit van wie het verzoek uitgaat, met inbegrip van haar contactgegevens;
+- a) de autoriteit van wie het verzoek uitgaat, met inbegrip van haar contactgegevens;
 
-- b). het voorwerp en de reden van het verzoek, met inbegrip van een beknopte uiteenzetting van de feiten, de datum en plaats waarop deze zijn gepleegd, en een beschrijving van de procedure waarop het verzoek betrekking heeft;
+- b) het voorwerp en de reden van het verzoek, met inbegrip van een beknopte uiteenzetting van de feiten, de datum en plaats waarop deze zijn gepleegd, en een beschrijving van de procedure waarop het verzoek betrekking heeft;
 
-- c). de wetteksten betreffende de strafbaarstelling en, in voorkomend geval, andere toepasselijke wetteksten;
+- c) de wetteksten betreffende de strafbaarstelling en, in voorkomend geval, andere toepasselijke wetteksten;
 
-- d). voor zover mogelijk, de identiteit en de nationaliteit van de persoon op wie de procedure betrekking heeft; en
+- d) voor zover mogelijk, de identiteit en de nationaliteit van de persoon op wie de procedure betrekking heeft; en
 
-- e). de naam en het adres van de geadresseerde, indien van toepassing.
+- e) de naam en het adres van de geadresseerde, indien van toepassing.
 
 2. In een verzoek om rechtshulp kunnen tevens de volgende gegevens worden vermeld:
 
-- a). alle eisen met betrekking tot vertrouwelijkheid krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=11&z=2012-12-01&g=2012-12-01);
+- a) alle eisen met betrekking tot vertrouwelijkheid krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=11&z=2012-12-01&g=2012-12-01);
 
-- b). de details van bijzondere procedures, ongeacht welke, die de verzoekende partij toegepast wenst te zien;
+- b) de details van bijzondere procedures, ongeacht welke, die de verzoekende partij toegepast wenst te zien;
 
-- c). de termijn waarbinnen het verzoek dient te worden ingewilligd en de redenen voor de gestelde termijn.
+- c) de termijn waarbinnen het verzoek dient te worden ingewilligd en de redenen voor de gestelde termijn.
 
 ##### Artikel 5. Taal waarin verzoeken om rechtshulp worden gesteld
 
@@ -206,29 +175,29 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 3. De in het eerste lid voorziene overbrenging kan worden geweigerd:
 
-- a). indien de aanwezigheid van de persoon vereist is in een lopende strafrechtelijke procedure;
+- a) indien de aanwezigheid van de persoon vereist is in een lopende strafrechtelijke procedure;
 
-- b). indien de overbrenging de duur van de detentie van de persoon zou kunnen verlengen;
+- b) indien de overbrenging de duur van de detentie van de persoon zou kunnen verlengen;
 
-- c). indien andere dringende overwegingen zich tegen de overbrenging verzetten;
+- c) indien andere dringende overwegingen zich tegen de overbrenging verzetten;
 
-- d). in de gevallen waarin de verschijning in persoon als getuige wordt gevraagd, indien de persoon daar niet mee instemt.
+- d) in de gevallen waarin de verschijning in persoon als getuige wordt gevraagd, indien de persoon daar niet mee instemt.
 
 4. Voor de in het eerste en tweede lid voorziene overbrenging is de instemming van de aangezochte partij vereist.
 
-##### Artikel 17. Aanvullende voorwaarden voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01)
+##### Artikel 17. Aanvullende voorwaarden voor de toepassing van artikel 16
 
 Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01):
 
-- a). worden verzoeken om overbrenging en de daarop betrekking hebbende berichten verzonden door de centrale autoriteiten van de partijen;
+- a) worden verzoeken om overbrenging en de daarop betrekking hebbende berichten verzonden door de centrale autoriteiten van de partijen;
 
-- b). zijn in het akkoord tussen de bevoegde autoriteiten van de partijen de voorwaarden opgenomen voor de tijdelijke overbrenging van de persoon en de termijn waarbinnen de persoon moet worden teruggebracht naar het grondgebied van de partij waar hij daarvoor gedetineerd was;
+- b) zijn in het akkoord tussen de bevoegde autoriteiten van de partijen de voorwaarden opgenomen voor de tijdelijke overbrenging van de persoon en de termijn waarbinnen de persoon moet worden teruggebracht naar het grondgebied van de partij waar hij daarvoor gedetineerd was;
 
-- c). dient, indien voor de overbrenging de instemming van de betrokkene vereist is, door de partij op wier grondgebied deze persoon gedetineerd is, onverwijld een verklaring van instemming of een afschrift daarvan te worden verstrekt;
+- c) dient, indien voor de overbrenging de instemming van de betrokkene vereist is, door de partij op wier grondgebied deze persoon gedetineerd is, onverwijld een verklaring van instemming of een afschrift daarvan te worden verstrekt;
 
-- d). blijft de persoon die wordt overgebracht van zijn vrijheid benomen op het grondgebied van de partij waarnaar hij wordt overgebracht, tenzij de andere partij om zijn invrijheidstelling verzoekt. De duur van de hechtenis op het grondgebied van de partij waarnaar de persoon is overgebracht, wordt in mindering gebracht op de duur van de vrijheidsstraf die betrokkene dient te ondergaan;
+- d) blijft de persoon die wordt overgebracht van zijn vrijheid benomen op het grondgebied van de partij waarnaar hij wordt overgebracht, tenzij de andere partij om zijn invrijheidstelling verzoekt. De duur van de hechtenis op het grondgebied van de partij waarnaar de persoon is overgebracht, wordt in mindering gebracht op de duur van de vrijheidsstraf die betrokkene dient te ondergaan;
 
-- e). het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01) is van overeenkomstige toepassing.
+- e) het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01) is van overeenkomstige toepassing.
 
 ##### Artikel 18. Gecontroleerde afleveringen
 
@@ -254,9 +223,9 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 1. Op verzoek van de verzoekende partij, zal de aangezochte partij:
 
-- a). inlichtingen betreffende bankverrichtingen die in een bepaald tijdvak zijn uitgevoerd door middel van een of meer in het verzoek genoemde rekeningen, met inbegrip van de bijzonderheden betreffende de rekening van herkomst of bestemming, verstrekken;
+- a) inlichtingen betreffende bankverrichtingen die in een bepaald tijdvak zijn uitgevoerd door middel van een of meer in het verzoek genoemde rekeningen, met inbegrip van de bijzonderheden betreffende de rekening van herkomst of bestemming, verstrekken;
 
-- b). gedurende een bepaald tijdvak de bankverrichtingen die worden uitgevoerd door middel van een of meer in het verzoek genoemde bankrekeningen onder toezicht plaatsen en de resultaten van dat toezicht doorgeven aan de verzoekende partij. De praktische details van het toezicht worden tussen de bevoegde autoriteiten van de aangezochte en de verzoekende partij overeengekomen.
+- b) gedurende een bepaald tijdvak de bankverrichtingen die worden uitgevoerd door middel van een of meer in het verzoek genoemde bankrekeningen onder toezicht plaatsen en de resultaten van dat toezicht doorgeven aan de verzoekende partij. De praktische details van het toezicht worden tussen de bevoegde autoriteiten van de aangezochte en de verzoekende partij overeengekomen.
 
 2. De toepassing van het eerste lid is beperkt tot zaken betreffende feiten die aan het verzoek ten grondslag liggen naar het recht van zowel de aangezochte partij als de verzoekende partij strafbaar zijn gesteld met een vrijheidsstraf van ten minste vier jaren.
 
@@ -346,10 +315,10 @@ GEDAAN te Rabat, op 20 september 2010, in twee exemplaren, in de Nederlandse, de
 
 In geval van verschil van uitlegging is de Franse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 E. HIRSCH BALLIN
 
-**Voor het Koninkrijk Marokko,**
+*Voor het Koninkrijk Marokko,*
 
 M.T. NACIRI

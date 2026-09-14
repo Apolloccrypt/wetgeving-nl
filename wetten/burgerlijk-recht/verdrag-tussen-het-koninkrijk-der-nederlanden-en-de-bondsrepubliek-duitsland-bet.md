@@ -1,64 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken"
 identifier: "BWBV0004221"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-09-15"
-last_updated: "1965-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004221"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004008103"
-version_id: "10004169352"
-internal_id: "C10008336151"
-label_id: "10003992814"
-dtd_version: "2.0"
-original_entry_into_force: "1965-09-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004221/1965-09-15/0"
-intitule_bron: "Trb.1963-50"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1963-06-27"
-intitule_in_force: "1965-08-27"
-intitule_status: "goed"
-original_publication: "Trb.1963-50"
-original_published_date: "1963-06-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1963-50"
-entry_into_force_date: "1965-09-15"
-jci_1_3: "jci1.3:c:BWBV0004221&z=1965-09-15&g=1965-09-15"
-jci_1_0: "1.0:c:BWBV0004221&g=1965-09-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-09-15"
+publicatiedatum: 1965-09-15
+laatste_update: 1965-09-15
+status: geldig
+toestand: 1965-09-15
+bron: "https://wetten.overheid.nl/BWBV0004221"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken
 
-HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN
+*HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN en DE PRESIDENT VAN DE BONDSREPUBLIEK DUITSLAND, De wens koesterende, om de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken te regelen, Zijn overeengekomen, een verdrag te sluiten, en hebben tot Hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: De Heer mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken, De President van de Bondsrepubliek Duitsland: De Heren Dr. J. Löns, Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage, en Prof. dr. A. Bülow, Directeur-Generaal bij het Bondsministerie van Justitie. De gevolmachtigden zijn, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, het volgende overeengekomen:*
 
-en
-
-DE PRESIDENT VAN DE BONDSREPUBLIEK DUITSLAND,
-
-De wens koesterende, om de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en andere executoriale titels in burgerlijke zaken te regelen,
-
-Zijn overeengekomen, een verdrag te sluiten, en hebben tot Hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-De Heer mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken,
-
-De President van de Bondsrepubliek Duitsland:
-
-De Heren
-
-Dr. J. Löns, Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage, en
-
-Prof. dr. A. Bülow, Directeur-Generaal bij het Bondsministerie van Justitie.
-
-De gevolmachtigden zijn, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, het volgende overeengekomen:
-
-Het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken vervangt per 1 februari 1973 het onderhavige Verdrag, en wel op grond van artikel 55 van het Verdrag van 1968 en de genoemde inwerkingtreding ervan. Echter, de vervanging geldt slechts met inachtneming van de beperkingen van de artikelen 54, tweede alinea, en 56 van het genoemde Verdrag en slechts voor zover de toepassing van dat Verdrag op grond van zijn artikel 1 reikt. De EG-Verordening 44/2001 vervangt per 1 maart 2002 het onderhavige Verdrag, en wel op grond van artikel 69 van de Verordening en de genoemde inwerkingtreding ervan. Echter, de vervanging geldt slechts met inachtneming van de beperkingen van de artikelen 66, tweede lid, en 70 van de Verordening en slechts voor zover de toepassing van de Verordening op grond van haar artikel 1 reikt. De EG-Verordening 1346/2000 vervangt per 31 mei 2002 het onderhavige Verdrag, en wel op grond van artikel 44 van de Verordening en de genoemde inwerkingtreding ervan. Echter, de vervanging geldt slechts voor zover de toepassing van de Verordening op grond van haar artikel 1 reikt. De EG-Verordening 2201/2003 vervangt per 1 augustus 2004 het onderhavige Verdrag, en wel op grond van artikel 59 van de Verordening en de genoemde inwerkingtreding ervan. Echter, de vervanging is pas van toepassing vanaf 1 maart 2005, met uitzondering van de artikelen 67, 68, 69 en 70 van de Verordening van 2003 die wel vanaf 1 augustus 2004 van toepassing zijn. Bovendien geldt de vervanging slechts voor zover de toepassing van de Verordening op grond van haar artikel 1 reikt (Trb. 2005/61).
-
-## TITEL I. Erkenning van rechterlijke beslissingen
+### TITEL I. Erkenning van rechterlijke beslissingen
 
 ##### Artikel 1
 
@@ -68,25 +25,25 @@ Het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van 
 
 (3). Dit Verdrag is niet van toepassing
 
-- a). op beslissingen die in een strafrechtelijk geding zijn gegeven over vorderingen voortvloeiende uit een burgerrechtelijke rechtsbetrekking;
+- a) op beslissingen die in een strafrechtelijk geding zijn gegeven over vorderingen voortvloeiende uit een burgerrechtelijke rechtsbetrekking;
 
-- b). op beslissingen inzake huwelijk en echtscheiding en in andere zaken betreffende de staat van personen;
+- b) op beslissingen inzake huwelijk en echtscheiding en in andere zaken betreffende de staat van personen;
 
-- c). op beslissingen waarbij een failliet-verklaring is uitgesproken, een procedure omtrent een akkoord ter afwending van een faillissement (Vergleichsverfahren zur Abwendung des Konkurses) is geopend of surséance van betaling is verleend, noch op andere beslissingen in deze procedures, voor zover zij uitsluitend voor deze procedures betekenis hebben.
+- c) op beslissingen waarbij een failliet-verklaring is uitgesproken, een procedure omtrent een akkoord ter afwending van een faillissement (Vergleichsverfahren zur Abwendung des Konkurses) is geopend of surséance van betaling is verleend, noch op andere beslissingen in deze procedures, voor zover zij uitsluitend voor deze procedures betekenis hebben.
 
 ##### Artikel 2
 
 De erkenning mag slechts worden geweigerd,
 
-- a). indien zij in strijd is met de openbare orde van de Staat waar een beroep op de beslissing wordt gedaan; of
+- a) indien zij in strijd is met de openbare orde van de Staat waar een beroep op de beslissing wordt gedaan; of
 
-- b). indien het gerecht van de Staat waar de beslissing is gegeven, niet als bevoegd in de zin van dit Verdrag of van een ander tussen beide Staten geldend Verdrag kan worden erkend; of
+- b) indien het gerecht van de Staat waar de beslissing is gegeven, niet als bevoegd in de zin van dit Verdrag of van een ander tussen beide Staten geldend Verdrag kan worden erkend; of
 
-- c). in geval van een beslissing bij verstek, indien de gedaagde aantoont,
+- c) in geval van een beslissing bij verstek, indien de gedaagde aantoont,
 
-- 1. dat de dagvaarding of de beschikking, waardoor het geding werd ingeleid, hem niet overeenkomstig de voorschriften van de Staat waar de beslissing is gegeven, werd bezorgd, of
+   - 1. dat de dagvaarding of de beschikking, waardoor het geding werd ingeleid, hem niet overeenkomstig de voorschriften van de Staat waar de beslissing is gegeven, werd bezorgd, of
 
-- 2. dat hij geen gelegenheid heeft gehad verweer te voeren, omdat de dagvaarding of de beschikking hem niet of niet tijdig genoeg heeft bereikt; dit geldt echter niet, wanneer de eiser aantoont dat de gedaagde tegen de beslissing geen rechtsmiddel heeft aangewend, hoewel hij van haar had kennis gekregen.
+   - 2. dat hij geen gelegenheid heeft gehad verweer te voeren, omdat de dagvaarding of de beschikking hem niet of niet tijdig genoeg heeft bereikt; dit geldt echter niet, wanneer de eiser aantoont dat de gedaagde tegen de beslissing geen rechtsmiddel heeft aangewend, hoewel hij van haar had kennis gekregen.
 
 ##### Artikel 3
 
@@ -98,35 +55,35 @@ De erkenning mag slechts worden geweigerd,
 
 (1). De gerechten van de Staat waar de beslissing is gegeven, worden als bevoegd in de zin van dit Verdrag erkend,
 
-- a). indien de gedaagde ten tijde van de inleiding van het geding volgens het recht van de Staat waar de beslissing is gegeven, in deze Staat hetzij zijn woonplaats, hetzij zijn gewone verblijfplaats had, in het laatste geval echter alleen indien hij ook in andere Staat geen woonplaats had;
+- a) indien de gedaagde ten tijde van de inleiding van het geding volgens het recht van de Staat waar de beslissing is gegeven, in deze Staat hetzij zijn woonplaats, hetzij zijn gewone verblijfplaats had, in het laatste geval echter alleen indien hij ook in andere Staat geen woonplaats had;
 
-- b). indien de gedaagde zich bij overeenkomst heeft onderworpen aan de rechtsmacht van de gerechten van de Staat waar de beslissing is gegeven, tenzij zodanige overeenkomst met het recht van de Staat waar de beslissing wordt ingeroepen, in strijd is; van een overeenkomst in de zin van dit voorschrift is slechts sprake, indien een partij een schriftelijke verklaring heeft afgelegd en de wederpartij deze heeft aanvaard, of wanneer een mondeling tot stand gekomen overeenkomst door één partij schriftelijk is bevestigd en de wederpartij deze bevestiging niet heeft tegengesproken;
+- b) indien de gedaagde zich bij overeenkomst heeft onderworpen aan de rechtsmacht van de gerechten van de Staat waar de beslissing is gegeven, tenzij zodanige overeenkomst met het recht van de Staat waar de beslissing wordt ingeroepen, in strijd is; van een overeenkomst in de zin van dit voorschrift is slechts sprake, indien een partij een schriftelijke verklaring heeft afgelegd en de wederpartij deze heeft aanvaard, of wanneer een mondeling tot stand gekomen overeenkomst door één partij schriftelijk is bevestigd en de wederpartij deze bevestiging niet heeft tegengesproken;
 
-- c). indien de gedaagde voor het gerecht van de Staat waar de beslissing is gegeven, ten gronde op de rechtsstrijd is ingegaan, ofschoon bevoegdheid van dat gerecht, welke volgens dit Verdrag erkend zou moeten worden, ontbreekt; dit geldt echter niet indien de gedaagde vóórdat hij op de zaak ten gronde is ingegaan, heeft verklaard dat hij uitsluitend in het geding is verschenen met het oog op vermogen, dat gelegen is in de Staat van het gerecht waarbij de zaak aanhangig is;
+- c) indien de gedaagde voor het gerecht van de Staat waar de beslissing is gegeven, ten gronde op de rechtsstrijd is ingegaan, ofschoon bevoegdheid van dat gerecht, welke volgens dit Verdrag erkend zou moeten worden, ontbreekt; dit geldt echter niet indien de gedaagde vóórdat hij op de zaak ten gronde is ingegaan, heeft verklaard dat hij uitsluitend in het geding is verschenen met het oog op vermogen, dat gelegen is in de Staat van het gerecht waarbij de zaak aanhangig is;
 
-- d). indien de gedaagde in de Staat waar de beslissing is gegeven, in rechte is opgeroepen ter plaatse van zijn handelsonderneming of filiaal, ter zake van vorderingen verband houdende met de exploitatie van deze onderneming of dit filiaal;
+- d) indien de gedaagde in de Staat waar de beslissing is gegeven, in rechte is opgeroepen ter plaatse van zijn handelsonderneming of filiaal, ter zake van vorderingen verband houdende met de exploitatie van deze onderneming of dit filiaal;
 
-- e). indien de eis tot onderwerp had een uit een verkeersongeval waarbij een motorvoertuig betrokken was, of uit een aanvaring voortvloeiende vordering, en het voorval heeft plaats gevonden Staat waar de beslissing is gegeven;
+- e) indien de eis tot onderwerp had een uit een verkeersongeval waarbij een motorvoertuig betrokken was, of uit een aanvaring voortvloeiende vordering, en het voorval heeft plaats gevonden Staat waar de beslissing is gegeven;
 
-- f). indien de eis tot onderwerp had een recht op een onroerende zaak of een vordering uit een recht op zulk een zaak, en de onroerende zaak gelegen is in de Staat waar de beslissing is gegeven;
+- f) indien de eis tot onderwerp had een recht op een onroerende zaak of een vordering uit een recht op zulk een zaak, en de onroerende zaak gelegen is in de Staat waar de beslissing is gegeven;
 
-- g). indien de eis is gedaan in een erfrechtelijk geschil, en de erflater zijn laatste woonplaats had in de Staat waar de beslissing is gegeven, ongeacht of er tot de nalatenschap roerende of onroerende goederen behoren;
+- g) indien de eis is gedaan in een erfrechtelijk geschil, en de erflater zijn laatste woonplaats had in de Staat waar de beslissing is gegeven, ongeacht of er tot de nalatenschap roerende of onroerende goederen behoren;
 
-- h). indien in het geval dat de gedaagde in geen van beide Staten zijn woonplaats of zijn gewone verblijfplaats had, er ten tijde van de aanvang van het geding vermogen van de gedaagde bevond in de Staat waar de beslissing is gegeven;
+- h) indien in het geval dat de gedaagde in geen van beide Staten zijn woonplaats of zijn gewone verblijfplaats had, er ten tijde van de aanvang van het geding vermogen van de gedaagde bevond in de Staat waar de beslissing is gegeven;
 
-- i). indien het betrof een eis in reconventie of een eis in vrijwaring, en de bevoegdheid van het gerecht om over de eis in de hoofdzaak te beslissen volgens dit Verdrag zou moeten worden erkend. Voor de eis in vrijwaring wordt de bevoegdheid van dit gerecht echter niet erkend, indien tussen de gewaarborgde en de waarborg bij overeenkomst een ander gerecht als bevoegd is aangewezen en deze overeenkomst mede betrekking heeft op de eis in vrijwaring;
+- i) indien het betrof een eis in reconventie of een eis in vrijwaring, en de bevoegdheid van het gerecht om over de eis in de hoofdzaak te beslissen volgens dit Verdrag zou moeten worden erkend. Voor de eis in vrijwaring wordt de bevoegdheid van dit gerecht echter niet erkend, indien tussen de gewaarborgde en de waarborg bij overeenkomst een ander gerecht als bevoegd is aangewezen en deze overeenkomst mede betrekking heeft op de eis in vrijwaring;
 
-- j). indien de eis tot onderwerp had een recht op schadevergoeding of tot teruggave van het ontvangene, uit dezen hoofde dat een beslissing van een gerecht van de andere Staat is ten uitvoer gelegd en die beslissing in deze Staat is vernietigd of gewijzigd.
+- j) indien de eis tot onderwerp had een recht op schadevergoeding of tot teruggave van het ontvangene, uit dezen hoofde dat een beslissing van een gerecht van de andere Staat is ten uitvoer gelegd en die beslissing in deze Staat is vernietigd of gewijzigd.
 
-(2). De bevoegdheid van de gerechten van de Staat waar de beslissing is gegeven, wordt echter in de gevallen van het eerste lid, onder **a-d, h** en **i** , niet erkend, wanneer tot kennisneming van de eis die tot de beslissing heeft geleid, de gerechten van de Staat waar de beslissing wordt ingeroepen, of de gerechten van een derde Staat uitsluitend bevoegd zijn; dit geldt met name voor eisen die een recht op een onroerend goed of een vordering uit een recht op zulk een goed tot onderwerp hebben.
+(2). De bevoegdheid van de gerechten van de Staat waar de beslissing is gegeven, wordt echter in de gevallen van het eerste lid, onder *a-d, h* en *i* , niet erkend, wanneer tot kennisneming van de eis die tot de beslissing heeft geleid, de gerechten van de Staat waar de beslissing wordt ingeroepen, of de gerechten van een derde Staat uitsluitend bevoegd zijn; dit geldt met name voor eisen die een recht op een onroerend goed of een vordering uit een recht op zulk een goed tot onderwerp hebben.
 
 ##### Artikel 5
 
-(1). De in een Staat gegeven beslissing, welke in de andere Staat wordt ingeroepen, mag slechts worden getoetst aan de in artikel 2 en artikel 3, lid 2, genoemde weigeringsgronden. Het gerecht van de Staat waar een beroep op de beslissing wordt gedaan, is bij zijn onderzoek of de voorwaarde van artikel 2, onder **b**, is vervuld, gebonden aan de feitelijke- en rechtsoverwegingen op grond waarvan het gerecht zijn bevoegdheid heeft vastgesteld.
+(1). De in een Staat gegeven beslissing, welke in de andere Staat wordt ingeroepen, mag slechts worden getoetst aan de in artikel 2 en artikel 3, lid 2, genoemde weigeringsgronden. Het gerecht van de Staat waar een beroep op de beslissing wordt gedaan, is bij zijn onderzoek of de voorwaarde van artikel 2, onder *b*, is vervuld, gebonden aan de feitelijke- en rechtsoverwegingen op grond waarvan het gerecht zijn bevoegdheid heeft vastgesteld.
 
 (2). De beslissing mag in geen geval worden getoetst op haar juistheid.
 
-## TITEL II. Tenuitvoerlegging van rechterlijke beslissingen
+### TITEL II. Tenuitvoerlegging van rechterlijke beslissingen
 
 ##### Artikel 6
 
@@ -150,21 +107,21 @@ Het verzoek tot afgifte van een verlof tot tenuitvoerlegging kan worden gedaan d
 
 De partij die verlening van een verlof tot tenuitvoerlegging verzoekt, moet overleggen:
 
-- a). een grosse van de beslissing, welke ook de gronden moet bevatten;
+- a) een grosse van de beslissing, welke ook de gronden moet bevatten;
 
-- b). het origineel of een voor eensluidend verklaard afschrift van het exploit van betekening of van een ander stuk, waaruit blijkt dat beslissing is betekend aan de partij te wier laste de tenuitvoerlegging moet geschieden;
+- b) het origineel of een voor eensluidend verklaard afschrift van het exploit van betekening of van een ander stuk, waaruit blijkt dat beslissing is betekend aan de partij te wier laste de tenuitvoerlegging moet geschieden;
 
-- c). het bewijs, dat zij aan een haar opgelegde verplichting tot zekerheidstelling heeft voldaan;
+- c) het bewijs, dat zij aan een haar opgelegde verplichting tot zekerheidstelling heeft voldaan;
 
-- d). een vertaling van de voormelde stukken in de taal van het aangezochte gerecht, welke vertaling door een diplomatieke of consulaire vertegenwoordiger of door een ambtelijk benoemde of beëdigde vertaler van een van beide Staten voor eensluidend is verklaard.
+- d) een vertaling van de voormelde stukken in de taal van het aangezochte gerecht, welke vertaling door een diplomatieke of consulaire vertegenwoordiger of door een ambtelijk benoemde of beëdigde vertaler van een van beide Staten voor eensluidend is verklaard.
 
 ##### Artikel 11
 
 (1). Bij zijn beslissing op het verzoek tot afgifte van een verlof tot tenuitvoerlegging bepaalt het aangezochte gerecht zich ertoe te onderzoeken
 
-- a). of de ingevolge artikel 10 vereiste stukken zijn overgelegd;
+- a) of de ingevolge artikel 10 vereiste stukken zijn overgelegd;
 
-- b). of een van de in artikel 2, onder **a** en **b,** of artikel 3, lid 2, genoemde weigeringsgronden aanwezig is.
+- b) of een van de in artikel 2, onder *a* en *b,* of artikel 3, lid 2, genoemde weigeringsgronden aanwezig is.
 
 (2). De beslissing waarop het verlof tot tenuitvoerlegging moet worden gegeven, mag in geen geval getoetst worden op haar juistheid.
 
@@ -172,9 +129,9 @@ De partij die verlening van een verlof tot tenuitvoerlegging verzoekt, moet over
 
 Het verlof tot tenuitvoerlegging kan ook slechts voor een deel van de beslissing worden gegeven,
 
-- a). indien de beslissing een of meer vorderingen betreft en de partij die de tenuitvoerlegging verlangt, verzoekt het verlof tot tenuitvoerlegging slechts voor een deel van de vordering of voor een of enige vorderingen te geven;
+- a) indien de beslissing een of meer vorderingen betreft en de partij die de tenuitvoerlegging verlangt, verzoekt het verlof tot tenuitvoerlegging slechts voor een deel van de vordering of voor een of enige vorderingen te geven;
 
-- b). indien de beslissing verscheidene vorderingen betreft en het verzoek van de partij die de tenuitvoerlegging verlangt, slechts ten aanzien van een of enige vorderingen gegrond is.
+- b) indien de beslissing verscheidene vorderingen betreft en het verzoek van de partij die de tenuitvoerlegging verlangt, slechts ten aanzien van een of enige vorderingen gegrond is.
 
 ##### Artikel 13
 
@@ -184,11 +141,11 @@ De tenuitvoerlegging mag pas een aanvang nemen, nadat de van het verlof tot tenu
 
 (1). Tegen een beslissing waarbij een verlof tot tenuitvoerlegging is verleend, kan de schuldenaar aanvoeren:
 
-- a). dat het verlof tot tenuitvoerlegging niet had mogen worden gegeven;
+- a) dat het verlof tot tenuitvoerlegging niet had mogen worden gegeven;
 
-- b). dat een van de in artikel 2, onder **c,** genoemde weigeringsgronden aanwezig is;
+- b) dat een van de in artikel 2, onder *c,* genoemde weigeringsgronden aanwezig is;
 
-- c). dat hij tegen de vordering zelf nog verweren kan inbrengen op gronden, die eerst na de uitspraak van de rechterlijke beslissing zijn ontstaan.
+- c) dat hij tegen de vordering zelf nog verweren kan inbrengen op gronden, die eerst na de uitspraak van de rechterlijke beslissing zijn ontstaan.
 
 (2). Het geding waarin deze verweren kunnen worden aangevoerd, wordt geregeld door het recht van de Staat waar de tenuitvoerlegging moet plaatsvinden.
 
@@ -196,27 +153,27 @@ De tenuitvoerlegging mag pas een aanvang nemen, nadat de van het verlof tot tenu
 
 Is de partij die de tenuitvoerlegging verlangt, in de Staat waar de gerechtelijke beslissing is gegeven, toegelaten om kosteloos te procederen, dan geniet zij datzelfde recht zonder meer ook in de andere Staat, zowel in de procedure tot verlening van het verlof tot tenuitvoerlegging, als bij de tenuitvoerlegging zelf.
 
-## TITEL III. Erkenning en tenuitvoerlegging van andere executoriale titels
+### TITEL III. Erkenning en tenuitvoerlegging van andere executoriale titels
 
 ##### Artikel 16
 
 (1). In de andere Staat worden behalve rechterlijke beslissingen ook de volgende executoriale titels erkend en als in kracht van gewijsde gegane rechterlijke beslissingen ten uitvoer gelegd, voor zover zij in de Staat waar zij tot stand gekomen zijn, voor tenuitvoerlegging vatbaar zijn:
 
-- a). gerechtelijke schikkingen;
+- a) gerechtelijke schikkingen;
 
-- b). andere authentieke akten, met name gerechtelijke of notariële akten, alsmede schuldbekentenissen en schikkingen welke in zaken betreffende levensonderhoud ten overstaan van een administratieve instantie - Jugendamt - opgemaakt zijn;
+- b) andere authentieke akten, met name gerechtelijke of notariële akten, alsmede schuldbekentenissen en schikkingen welke in zaken betreffende levensonderhoud ten overstaan van een administratieve instantie - Jugendamt - opgemaakt zijn;
 
-- c). erkenningen van vorderingen in een faillissement;
+- c) erkenningen van vorderingen in een faillissement;
 
-- d). de in een faillissement, in een procedure omtrent een akkoord ter afwending van een faillissement (Vergleichsverfahren zur Abwendung des Konkurses) of in een surséance van betaling gehomologeerde akkoorden.
+- d) de in een faillissement, in een procedure omtrent een akkoord ter afwending van een faillissement (Vergleichsverfahren zur Abwendung des Konkurses) of in een surséance van betaling gehomologeerde akkoorden.
 
-(2). Op het verzoek tot verlening van het verlof tot tenuitvoerlegging en voor de verdere procedure zijn de artikelen 9, 10, onder **a, c** en **d,** 12, 13, 14, eerste lid, onder **a** en **c** , en tweede lid, alsmede artikel 15 van overeenkomstige toepassing. Bij de beslissing op het verzoek tot verlening van het verlof tot tenuitvoerlegging moet het aangezochte gerecht zich bepalen tot het onderzoek of de vereiste stukken zijn overgelegd en of de in artikel 2, onder **a,** genoemde weigeringsgrond aanwezig is.
+(2). Op het verzoek tot verlening van het verlof tot tenuitvoerlegging en voor de verdere procedure zijn de artikelen 9, 10, onder *a, c* en *d,* 12, 13, 14, eerste lid, onder *a* en *c* , en tweede lid, alsmede artikel 15 van overeenkomstige toepassing. Bij de beslissing op het verzoek tot verlening van het verlof tot tenuitvoerlegging moet het aangezochte gerecht zich bepalen tot het onderzoek of de vereiste stukken zijn overgelegd en of de in artikel 2, onder *a,* genoemde weigeringsgrond aanwezig is.
 
 ##### Artikel 17
 
 De erkenning en tenuitvoerlegging van scheidsrechterlijke uitspraken blijven geregeld door de Verdragen die daaromtrent tussen de beide Staten van kracht zijn of zullen worden.
 
-## TITEL IV. Bijzondere bepalingen
+### TITEL IV. Bijzondere bepalingen
 
 ##### Artikel 18
 
@@ -232,7 +189,7 @@ Dit Verdrag doet geen afbreuk aan de bepalingen van andere Overeenkomsten, die t
 
 Dit Verdrag is slechts van toepassing op die rechterlijke beslissingen en andere executoriale titels, die na zijn inwerkingtreding zijn tot stand gekomen of verleden.
 
-## TITEL V. Slotbepalingen
+### TITEL V. Slotbepalingen
 
 ##### Artikel 21
 
@@ -256,11 +213,11 @@ TEN BLIJKE WAARVAN de gevolmachtigden dit Verdrag hebben ondertekend en van hun 
 
 GEDAAN te 's-Gravenhage, de 30e augustus 1962, in twee oorspronkelijke exemplaren, elk in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) J. LUNS
 
-**Voor de Bondsrepubliek Duitsland:**
+*Voor de Bondsrepubliek Duitsland:*
 
 (w.g.) DR. J. LÖNS
 

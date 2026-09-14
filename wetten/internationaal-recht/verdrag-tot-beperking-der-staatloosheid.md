@@ -1,242 +1,215 @@
 ---
 title: "Verdrag tot beperking der staatloosheid"
 identifier: "BWBV0004351"
-country: "nl"
-rank: "verdrag"
-publication_date: "1985-08-11"
-last_updated: "1985-08-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004351"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004076943"
-version_id: "10004245402"
-internal_id: "C10006999831"
-label_id: "10004061814"
-dtd_version: "2.0"
-original_entry_into_force: "1985-08-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004351/1985-08-11/0"
-intitule_bron: "Trb.1967-124"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-09-13"
-intitule_in_force: "1985-05-17"
-intitule_status: "goed"
-original_publication: "Trb.1967-124"
-original_published_date: "1967-09-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-124"
-entry_into_force_date: "1985-08-11"
-jci_1_3: "jci1.3:c:BWBV0004351&z=1985-08-11&g=1985-08-11"
-jci_1_0: "1.0:c:BWBV0004351&g=1985-08-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "1985-08-11"
+publicatiedatum: 1985-08-11
+laatste_update: 1985-08-11
+status: geldig
+toestand: 1985-08-11
+bron: "https://wetten.overheid.nl/BWBV0004351"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tot beperking der staatloosheid
 
-De Verdragsluitende Staten,
+*The Contracting States, Acting in pursuance of resolution 896 (IX), adopted by the General Assembly of the United Nations on 4 December 1954, Considering it desirable to reduce statelessness by international agreement, Have agreed as follows:*
 
-Handelende overeenkomstig resolutie 896 (IX), aangenomen door de op 4 december 1954 gehouden Algemene Vergadering van de Verenigde Naties,
+##### Article 1
 
-Overwegende dat het wenselijk is de staatloosheid door een internationaal akkoord te beperken,
+1. A Contracting State shall grant its nationality to a person born in its territory who would otherwise be stateless. Such nationality shall be granted:
 
-Zijn het volgende overeengekomen:
+- (a) at birth, by operation of law, or
 
-##### Artikel 1
+- (b) upon an application being lodged with the appropriate authority, by or on behalf of the person concerned, in the manner prescribed by the national law. Subject to the provisions of paragraph 2 of this Article, no such application may be rejected.
 
-1. Iedere Verdragsluitende Staat verleent zijn nationaliteit aan degene die geboren is op zijn grondgebied en die anders staatloos zou zijn.
+A Contracting State which provides for the grant of its nationality in accordance with sub-paragraph (*b*) of this paragraph may also provide for the grant of its nationality by operation of law at such age and subject to such conditions as may be prescribed by the national law.
 
-Deze nationaliteit wordt verleend:
+2. A Contracting State may make the grant of its nationality in accordance with sub-paragraph (*b*) of paragraph 1 of this Article subject to one or more of the following conditions:
 
-- a). van rechtswege, bij de geboorte, of
+- (a) that the application is lodged during a period, fixed by the Contracting State, beginning not later than at the age of eighteen years and ending not earlier than at the age of twenty-one years, so, however, that the person concerned shall be allowed at least one year during which he may himself make the application without having to obtain legal authorization to do so;
 
-- b). op een verzoek, door of namens belanghebbende bij de bevoegde autoriteit ingediend op de wijze als door de wetgeving van de betrokken Staat is voorgeschreven; behoudens de bepalingen van het tweede lid van dit artikel, mag het verzoek niet worden afgewezen.
+- (b) that the person concerned has habitually resided in the territory of the Contracting State for such period as may be fixed by that State, not exceeding five years immediately preceding the lodging of the application nor ten years in all;
 
-Een Verdragsluitende Staat welks wetgeving verlening van zijn nationaliteit op verzoek overeenkomstig punt **b** van dit lid kent, kan die nationaliteit ook van rechtswege verlenen bij het bereiken van de leeftijd en op de voorwaarden als in zijn wetgeving zijn vastgesteld.
+- (c) that the person concerned has neither been convicted of an offence against national security nor has been sentenced to imprisonment for a term of five years or more on a criminal charge;
 
-2. Een Verdragsluitende Staat kan de verkrijging van zijn nationaliteit overeenkomstig punt **b** van het eerste lid van dit artikel, aan een of meer van de volgende voorwaarden binden:
+- (d) that the person concerned has always been stateless.
 
-- a). dat het verzoek wordt ingediend in de loop van een tijdvak vastgesteld door de Verdragsluitende Staat, welk tijdvak uiterlijk op de leeftijd van 18 jaar aanvangt en niet eerder dan op de leeftijd van 21 jaar eindigt, met dien verstande echter dat de belanghebbende ten minste één jaar de tijd krijgt om zijn verzoek persoonlijk en zonder dat hij daartoe bevoegd behoeft te zijn verklaard in te dienen;
+3. Notwithstanding the provisions of paragraphs 1 (*b*) and 2 of this Article, a child born in wedlock in the territory of a Contracting State, whose mother has the nationality of that State, shall acquire at birth that nationality if it otherwise would be stateless.
 
-- b). dat de belanghebbende gedurende een door de Verdragsluitende Staat vast te stellen tijdvak zijn gewone verblijf op het grondgebied van die Staat heeft gehad; bedoeld tijdvak mag niet op langer dan tien jaar in totaal worden gesteld, noch op langer dan vijf jaar onmiddellijk voorafgaande aan de indiening van het verzoek;
+4. A Contracting State shall grant its nationality to a person who would otherwise be stateless and who is unable to acquire the nationality of the Contracting State in whose territory he was born because he has passed the age for lodging his application or has not fulfilled the required residence conditions, if the nationality of one of his parents at the time of the person's birth was that of the Contracting State first above mentioned. If his parents did not possess the same nationality at the time of his birth, the question whether the nationality of the person concerned should follow that of the father or that of the mother shall be determined by the national law of such Contracting State. If application for such nationality is required, the application shall be made to the appropriate authority by or on behalf of the applicant in the manner prescribed by the national law. Subject to the provisions of paragraph 5 of this Article, such application shall not be refused.
 
-- c). dat de belanghebbende niet schuldig is verklaard aan een delict tegen de nationale veiligheid, noch is veroordeeld tot een gevangenisstraf van ten minste 5 jaar terzake van een ander strafbaar feit;
+5. The Contracting State may make the grant of its nationality in accordance with the provisions of paragraph 4 of this Article subject to one or more of the following conditions:
 
-- d). dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
+- (a) that the application is lodged before the applicant reaches an age, being not less than twenty-three years, fixed by the Contracting State;
 
-3. Ongeacht de bepalingen van het eerste lid sub **b** en van het tweede lid van dit artikel, verkrijgt het wettige kind dat is geboren op het grondgebied van een Verdragsluitende Staat en welks moeder de nationaliteit van die Staat bezit, die nationaliteit bij de geboorte, indien het anders staatloos zou zijn.
+- (b) that the person concerned has habitually resided in the territory of the Contracting State for such period immediately preceding the lodging of the application, not exceeding three years, as may be fixed by that State;
 
-4. Iedere Verdragsluitende Staat verleent zijn nationaliteit aan degene, die anders staatloos zou zijn en van wie, ten tijde van de geboorte, de vader of de moeder de nationaliteit van genoemde Staat bezat, indien hij, doordat hij boven de leeftijd is gekomen welke is vastgesteld voor de indiening van zijn verzoek, of doordat hij niet voldoet aan de gestelde voorwaarden met betrekking tot het verblijf, de nationaliteit van de Verdragsluitende Staat op welks grondgebied hij is geboren niet heeft kunnen verkrijgen. Indien de ouders niet dezelfde nationaliteit bezaten ten tijde van de geboorte, volgt naar gelang van de wetgeving van de betrokken Verdragsluitende Staat het kind de nationaliteit van de vader dan wel die van de moeder. Indien de nationaliteit moet worden aangevraagd, dient dit verzoek door of namens de belanghebbende bij de bevoegde autoriteit te worden ingediend op de wijze als is voorgeschreven door de wetgeving van de betrokken Staat. Behoudens de bepalingen van het vijfde lid van dit artikel, mag dit verzoek niet worden afgewezen.
+- (c) that the person concerned has always been stateless.
 
-5. De Verdragsluitende Staat kan het verlenen van zijn nationaliteit overeenkomstig het bepaalde in het vierde lid van dit artikel, binden aan een of meer van de volgende voorwaarden:
+##### Article 2
 
-- a). dat het verzoek wordt ingediend voordat de belanghebbende een door de betrokken Verdragsluitende Staat vastgestelde leeftijd heeft bereikt, welke leeftijd echter niet beneden de 23 jaar mag liggen;
+A foundling found in the territory of a Contracting State shall, in the absence of proof to the contrary, be considered to have been born within that territory of parents possessing the nationality of that State.
 
-- b). dat de belanghebbende gedurende een zeker tijdvak onmiddellijk voorafgaand aan de indiening van het verzoek zijn gewone verblijf heeft gehad op het grondgebied van de betrokken Verdragsluitende Staat; de duur van dit tijdvak wordt door die Staat vastgesteld, doch mag drie jaar niet te boven gaan;
+##### Article 3
 
-- c). dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
+For the purpose of determining the obligations of Contracting States under this Convention, birth on a ship or in an aircraft shall be deemed to have taken place in the territory of the State whose flag the ship flies or in the territory of the State in which the aircraft is registered, as the case may be.
 
-##### Artikel 2
+##### Article 4
 
-Het kind, gevonden op het grondgebied van een Verdragsluitende Staat wordt, totdat het tegendeel is bewezen, geacht te zijn geboren op dat grondgebied uit ouders die de nationaliteit van die Staat bezitten.
+1. A Contracting State shall grant its nationality to a person, not born in the territory of a Contracting State, who would otherwise be stateless, if the nationality of one of his parents at the time of the person's birth was that of that State. If his parents did not possess the same nationality at the time of his birth, the question whether the nationality of the person concerned should follow that of the father or that of the mother shall be determined by the national law of such Contracting State. Nationality granted in accordance with the provisions of this paragraph shall be granted:
 
-##### Artikel 3
+- (a) at birth, by operation of law, or
 
-Ter vaststelling van de verplichtingen der Verdragsluitende Staten binnen het kader van dit Verdrag wordt een geboorte aan boord van een schip of van een luchtvaartuig geacht te hebben plaats gehad op het grondgebied van de Staat welks vlag het schip voert of waarin het luchtvaartuig staat ingeschreven.
+- (b) upon an application being lodged with the appropriate authority, by or on behalf of the person concerned, in the manner prescribed by the national law. Subject to the provisions of paragraph 2 of this Article, no such application may be rejected.
 
-##### Artikel 4
+2. A Contracting State may make the grant of its nationality in accordance with the provisions of paragraph 1 of this Article subject to one or more of the following conditions:
 
-1. Een Verdragsluitende Staat verleent zijn nationaliteit aan degene, die anders staatloos zou zijn en niet is geboren op het grondgebied van een Verdragsluitende Staat, indien ten tijde van de geboorte de vader of de moeder de nationaliteit van de eerstgenoemde Staat bezat. Indien de ouders ten tijde van de geboorte niet dezelfde nationaliteit bezaten, volgt het kind, naar gelang van de wetgeving van die Staat, de nationaliteit van de vader dan wel die van de moeder. De nationaliteit, toegekend overeenkomstig het in dit lid bepaalde, wordt verleend:
+- (a) that the application is lodged before the applicant reaches an age, being not less than twenty-three years, fixed by the Contracting State;
 
-- a). van rechtswege, bij de geboorte, of
+- (b) that the person concerned has habitually resided in the territory of the Contracting State for such period immediately preceding the lodging of the application, not exceeding three years, as may be fixed by that State;
 
-- b). op verzoek, door of namens belanghebbende ingediend bij de bevoegde autoriteit met inachtneming van de wettelijke voorschriften; behoudens de bepalingen van het tweede lid van dit artikel, mag het verzoek niet worden afgewezen.
+- (c) that the person concerned has not been convicted of an offence against national security;
 
-2. De Verdragsluitende Staat kan het verlenen van zijn nationaliteit, overeenkomstig het bepaalde in het eerste lid van dit artikel binden aan een of meer van de volgende voorwaarden:
+- (d) that the person concerned has always been stateless.
 
-- a). dat het verzoek wordt ingediend voordat de belanghebbende een door de betrokken Verdragsluitende Staat vastgestelde leeftijd heeft bereikt, welke leeftijd niet beneden de 23 jaar mag liggen;
+##### Article 5
 
-- b). dat de belanghebbende gedurende een zeker tijdvak onmiddellijk voorafgaand aan het verzoek zijn gewone verblijf heeft gehad op het grondgebied van de betrokken Verdragsluitende Staat; de duur van dit tijdvak wordt door die Staat vastgesteld, doch mag drie jaar niet te boven gaan;
+1. If the law of a Contracting State entails loss of nationality as a consequence of any change in the personal status of a person such as marriage, termination of marriage, legitimation, recognition or adoption, such loss shall be conditional upon possession or acquisition of another nationality.
 
-- c). dat de belanghebbende niet schuldig is verklaard aan een delict tegen de nationale veiligheid;
+2. If, under the law of a Contracting State, a child born out of wedlock loses the nationality of that State in consequence of a recognition of affiliation, he shall be given an opportunity to recover that nationality by written application to the appropriate authority, and the conditions governing such application shall not be more rigorous than those laid down in paragraph 2 of [Article 1](https://wetten.overheid.nl/BWBV0004351) of this Convention.
 
-- d). dat de belanghebbende bij zijn geboorte of later geen nationaliteit heeft verkregen.
+##### Article 6
 
-##### Artikel 5
+If the law of a Contracting State provides for loss of its nationality by a person's spouse or children as a consequence of that person losing or being deprived of that nationality, such loss shall be conditional upon their possession or acquisition of another nationality.
 
-1. Indien de wetgeving van een Verdragsluitende Staat bepaalt dat iemand zijn nationaliteit verliest als gevolg van een wijziging in zijn burgerlijke staat zoals huwelijk, ontbinding van het huwelijk, wettiging, erkenning of adoptie, wordt dat verlies afhankelijk gesteld van het bezit of het verkrijgen van de nationaliteit van een andere Staat.
+##### Article 7
 
-2. Indien overeenkomstig de wetgeving van een Verdragsluitende Staat een natuurlijk kind de nationaliteit van die Staat verliest als gevolg van een erkenning, wordt het de mogelijkheid geboden deze terug te krijgen door middel van een daartoe strekkend aan de bevoegde autoriteit gericht verzoek, waarvan de inwilliging niet mag worden gebonden aan de vervulling van strengere voorwaarden dan die, welke worden genoemd in het tweede lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=1&z=1985-08-11&g=1985-08-11) van dit Verdrag.
+1. - (a) If the law of a Contracting State permits renunciation of nationality, such renunciation shall not result in loss of nationality unless the person concerned possesses or acquires another nationality.
 
-##### Artikel 6
+- (b) The provisions of sub-paragraph (*a*) of this paragraph shall not apply where their application would be inconsistent with the principles stated in [Articles 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001008&artikel=13) and [14 of the Universal Declaration of Human Rights](https://wetten.overheid.nl/jci1.3:c:BWBV0001008&artikel=14) approved on 10 December 1948 by the General Assembly of the United Nations.
 
-Indien de wetgeving van een Verdragsluitende Staat bepaalt dat, doordat iemand de nationaliteit van die Staat verliest of deze hem wordt ontnomen ook de echtgenoot of de kinderen deze verliezen, wordt dit verlies afhankelijk gesteld van het bezit of het verkrijgen door dezen van de nationaliteit van een andere Staat.
+2. A national of a Contracting State who seeks naturalization in a foreign country shall not lose his nationality unless he acquires or has been accorded assurance of acquiring the nationality of that foreign country.
 
-##### Artikel 7
+3. Subject to the provisions of paragraphs 4 and 5 of this Article, a national of a Contracting State shall not lose his nationality, so as to become stateless, on the ground of departure, residence abroad, failure to register or on any similar ground.
 
-- a). Indien de wetgeving van een Verdragsluitende Staat toelaat dat iemand afstand doet van zijn nationaliteit, dan heeft dit alleen dan verlies van die nationaliteit tot gevolg, indien de betrokkene de nationaliteit van een andere Staat bezit of verkrijgt.
+4. A naturalized person may lose his nationality on account of residence abroad for a period, not less than seven consecutive years, specified by the law of the Contracting State concerned if he fails to declare to the appropriate authority his intention to retain his nationality.
 
-- b). De bepalingen onder punt **a** van dit lid zijn niet van toepassing wanneer zij onverenigbaar zouden blijken te zijn met de beginselen vermeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001008&artikel=13) en [14 van de Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008&artikel=14), welke op 10 december 1948 door de Algemene Vergadering van de Verenigde Naties is goedgekeurd.
+5. In the case of a national of a Contracting State, born outside its territory, the law of that State may make the retention of its nationality after the expiry of one year from his attaining his majority conditional upon residence at that time in the territory of the State or registration with the appropriate authority.
 
-2. Hij die de nationaliteit van een Verdragsluitende Staat bezit en een verzoek tot naturalisatie in een ander land heeft ingediend, verliest zijn nationaliteit niet, tenzij hij de nationaliteit van dat andere land verkrijgt of de verzekering heeft ontvangen die te zullen verkrijgen.
+6. Except in the circumstances mentioned in this Article, a person shall not lose the nationality of a Contracting State, if such loss would render him stateless, notwithstanding that such loss is not expressly prohibited by any other provision of this Convention.
 
-3. Behoudens de bepalingen van het vierde en vijfde lid van dit artikel, zal niemand zijn nationaliteit verliezen op grond van het feit dat hij het land waarvan hij de nationaliteit bezit, verlaat, in het buitenland woont, zich niet laat inschrijven of op grond van enig ander soortgelijk feit, dat voor hem staatloosheid met zich zou brengen.
+##### Article 8
 
-4. Verlies van de nationaliteit, verkregen door naturalisatie, kan worden gegrond op verblijf in den vreemde gedurende een door de wetgeving van de betrokken Verdragsluitende Staat vast te stellen tijdvak van ten minste zeven opeenvolgende jaren, tenzij de belanghebbende de bevoegde autoriteit ervan in kennis stelt dat hij zijn nationaliteit wenst te behouden.
+1. A Contracting State shall not deprive a person of its nationality if such deprivation would render him stateless.
 
-5. Met betrekking tot een persoon die geboren is buiten het grondgebied van de Verdragsluitende Staat waarvan hij de nationaliteit bezit, kan de wetgeving van die Staat bepalen, dat deze persoon zijn nationaliteit na verloop van één jaar te rekenen van het tijdstip waarop hij meerderjarig werd, verliest, indien hij op dat moment zijn woonplaats niet heeft op het grondgebied van die Staat of zich niet bij de bevoegde autoriteit heeft laten inschrijven.
+2. Notwithstanding the provisions of paragraph 1 of this Article, a person may be deprived of the nationality of a Contracting State:
 
-6. Behoudens het bepaalde in dit artikel verliest niemand de nationaliteit van een Verdragsluitende Staat, indien dit verlies voor hem staatloosheid met zich zou brengen, ook indien dit verlies niet reeds uitdrukkelijk door enige andere bepaling van dit Verdrag is uitgesloten.
+- (a) in the circumstances in which, under [paragraphs 4 and 5 of Article 7](https://wetten.overheid.nl/BWBV0004351), it is permissible that a person should lose his nationality;
 
-##### Artikel 8
+- (b) where the nationality has been obtained by misrepresentation or fraud.
 
-1. Een Verdragsluitende Staat ontneemt een onderdaan de nationaliteit van die Staat niet, indien dit voor die onderdaan staatloosheid met zich zou brengen.
+3. Notwithstanding the provisions of paragraph 1 of this Article, a Contracting State may retain the right to deprive a person of his nationality, if at the time of signature, ratification or accession it specifies its retention of such right on one or more of the following grounds, being grounds existing in its national law at that time:
 
-2. Ongeacht de bepaling van het eerste lid van dit artikel kan iemand de nationaliteit van een Verdragsluitende Staat worden ontnomen:
+- (a) that, inconsistently with his duty of loyalty to the Contracting State, the person
 
-- a). in de gevallen waarin het, krachtens de [leden 4 en 5 van artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=7&z=1985-08-11&g=1985-08-11), toegelaten is te bepalen, dat iemand zijn nationaliteit verliest;
+   - (i) has, in disregard of an express prohibition by the Contracting State rendered or continued to render services to, or received or continued to receive emoluments from, another State, or
 
-- b). indien hij die nationaliteit door middel van een valse verklaring of bedrog heeft verkregen.
+   - (ii) has conducted himself in a manner seriously prejudicial to the vital interests of the State;
 
-3. Ongeacht het bepaalde in het eerste lid van dit artikel behoudt een Verdragsluitende Staat het recht iemand zijn nationaliteit te ontnemen, indien die Staat ten tijde van de ondertekening of de bekrachtiging van of de toetreding tot dit Verdrag een daartoe strekkende verklaring aflegt onder opgave van de gronden, welke zijn nationale recht voor die ontneming kent en waarvoor de beweegreden is geweest:
+- (b) that the person has taken an oath, or made a formal declaration, of allegiance to another State, or given definite evidence of his determination to repudiate his allegiance to the Contracting State.
 
-- a). dat betrokkene, op een wijze die onverenigbaar is met zijn plicht tot trouw aan de Verdragsluitende Staat,
+4. A Contracting State shall not exercise a power of deprivation permitted by paragraphs 2 or 3 of this Article except in accordance with law, which shall provide for the person concerned the right to a fair hearing by a court or other independent body.
 
-- (i). in weerwil van een uitdrukkelijk verbod van de Verdragsluitende Staat aan een andere Staat diensten heeft verleend of is blijven verlenen, of van een andere Staat emolumenten heeft ontvangen of is blijven ontvangen, of
+##### Article 9
 
-- (ii). zich dusdanig heeft gedragen, dat daardoor aan de wezenlijke belangen van de Staat ernstig afbreuk wordt gedaan;
+A Contracting State may not deprive any person or group of persons of their nationality on racial, ethnic, religious or political grounds.
 
-- b). dat betrokkene hetzij een eed, hetzij een stellige verklaring van trouw aan een andere Staat heeft afgelegd, dan wel door zijn gedrag onweerlegbaar heeft doen blijken van zijn besluit de trouw aan de Verdragsluitende Staat op te zeggen.
+##### Article 10
 
-4. Een Verdragsluitende Staat maakt van de mogelijkheid om iemand met inachtneming van de leden 2 en 3 van dit artikel zijn nationaliteit te ontnemen geen gebruik dan met eerbiediging van de wet, waarbij de betrokkene recht heeft op een onpartijdige behandeling van zijn zaak, hetzij door een rechtbank, hetzij door een ander onafhankelijk orgaan.
+1. Every treaty between Contracting States providing for the transfer of territory shall include provisions designed to secure that no person shall become stateless as a result of the transfer. A Contracting State shall use its best endeavours to secure that any such treaty made by it with a State which is not a party to this Convention includes such provisions.
 
-##### Artikel 9
+2. In the absence of such provisions a Contracting State to which territory is transferred or which otherwise acquires territory shall confer its nationality on such persons as would otherwise become stateless as a result of the transfer or acquisition.
 
-Geen Verdragsluitende Staat mag een persoon of een groep personen hun nationaliteit op grond van overwegingen ingegeven door hun ras, etnologische afkomst, godsdienst of politieke overtuiging ontnemen.
+##### Article 11
 
-##### Artikel 10
+The Contracting States shall promote the establishment within the framework of the United Nations, as soon as may be after the deposit of the sixth instrument of ratification or accession, of a body to which a person claiming the benefit of this Convention may apply for the examination of his claim and for assistance in presenting it to the appropriate authority.
 
-1. Ieder tussen Verdragsluitende Staten gesloten verdrag waarin wordt voorzien in de overdracht van grondgebied, dient bepalingen te bevatten ter verzekering dat niemand tengevolge van die overdracht staatloos wordt. Een Verdragsluitende Staat dient al het mogelijke te doen ter verzekering dat in elk zodanig verdrag dat hij met een Staat die geen partij is bij het onderhavige Verdrag sluit, bepalingen als hierboven bedoeld worden opgenomen.
+##### Article 12
 
-2. Indien bepalingen van deze strekking ontbreken, verleent de Verdragsluitende Staat waaraan grondgebied wordt overgedragen of die op andere wijze grondgebied verkrijgt, zijn nationaliteit aan hen die anders tengevolge van de overdracht of de verkrijging, staatloos zouden worden.
+1. In relation to a Contracting State which does not, in accordance with the provisions of [paragraph 1 of Article 1](https://wetten.overheid.nl/BWBV0004351) or of [Article 4](https://wetten.overheid.nl/BWBV0004351) of this Convention, grant its nationality at birth by operation of law, the provisions of paragraph 1 of Article 1 or of Article 4, as the case may be, shall apply to persons born before as well as to persons born after the entry into force of this Convention.
 
-##### Artikel 11
+2. The provisions of [paragraph 4 of Article 1](https://wetten.overheid.nl/BWBV0004351) of this Convention shall apply to persons born before as well as to persons born after its entry into force.
 
-De Verdragsluitende Staten bevorderen dat binnen het raam van de Organisatie van de Verenigde Naties, zo spoedig mogelijk na de nederlegging van de zesde akte van bekrachtiging of toetreding een orgaan wordt ingesteld, waartoe iemand die zich op dit Verdrag wenst te beroepen zich, zowel voor onderzoek van zijn beroep als voor bijstand bij het voorleggen van zijn zaak aan het bevoegde gezag, kan wenden.
+3. The provisions of [Article 2](https://wetten.overheid.nl/BWBV0004351) of this Convention shall apply only to foundlings found in the territory of a Contracting State after the entry into force of the Convention for that State.
 
-##### Artikel 12
+##### Article 13
 
-1. Ten aanzien van een Verdragsluitende Staat die niet overeenkomstig de bepalingen van het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=1&z=1985-08-11&g=1985-08-11) of die van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=4&z=1985-08-11&g=1985-08-11) van dit Verdrag zijn nationaliteit van rechtswege bij de geboorte verleent, zijn de bepalingen van het eerste lid van artikel 1 of die van artikel 4 van toepassing zowel op personen die geboren zijn vóór, als op personen die geboren zijn na de inwerkingtreding van dit Verdrag.
+This Convention shall not be construed as affecting any provisions more conducive to the reduction of statelessness which may be contained in the law of any Contracting State now or hereafter in force, or may be contained in any other convention, treaty or agreement now or hereafter in force between two or more Contracting States.
 
-2. De bepalingen van het [vierde lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=1&z=1985-08-11&g=1985-08-11) van dit Verdrag zijn van toepassing zowel op personen die geboren zijn vóór, als op personen die geboren zijn na de inwerkingtreding daarvan.
+##### Article 14
 
-3. De bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=2&z=1985-08-11&g=1985-08-11) van dit Verdrag zijn uitsluitend van toepassing op kinderen gevonden op het grondgebied van een Verdragsluitende Staat na het in werking treden van het Verdrag.
+Any dispute between Contracting States concerning the interpretation or application of this Convention which cannot be settled by other means shall be submitted to the International Court of Justice at the request of any one of the parties to the dispute.
 
-##### Artikel 13
+##### Article 15
 
-Dit Verdrag laat eventuele bepalingen, die in nog sterkere mate de beperking der staatloosheid bevorderen en thans zijn of later mochten worden opgenomen, hetzij in de wetgeving van een der Verdragsluitende Staten, hetzij in een Verdrag, overeenkomst of regeling tussen twee of meer Verdragsluitende Staten, onverlet.
+1. This Convention shall apply to all non-self-governing, trust, colonial and other non-metropolitan territories for the international relations of which any Contracting State is responsible; the Contracting State concerned shall, subject to the provisions of paragraph 2 of this Article, at the time of signature, ratification or accession, declare the non-metropolitan territory or territories to which the Convention shall apply *ipso facto* as a result of such signature, ratification or accession.
 
-##### Artikel 14
+2. In any case in which, for the purpose of nationality, a non-metropolitan territory is not treated as one with the metropolitan territory, or in any case in which the previous consent of a non-metropolitan territory is required by the constitutional laws or practices of the Contracting State or of the non-metropolitan territory for the application of the Convention to that territory, that Contracting State shall endeavour to secure the needed consent of the non-metropolitan territory within the period of twelve months from the date of signature of the Convention by that Contracting State, and when such consent has been obtained the Contracting State shall notify the Secretary-General of the United Nations. This Convention shall apply to the territory or territories named in such notification from the date of its receipt by the Secretary-General.
 
-Elk tussen Verdragsluitende Staten gerezen geschil de uitlegging of toepassing van dit Verdrag betreffende, dat niet langs andere weg kan worden beslecht, wordt op verzoek van een der partijen bij het geschil voorgelegd aan het Internationale Gerechtshof.
+3. After the expiry of the twelve-month period mentioned in paragraph 2 of this Article, the Contracting States concerned shall inform the Secretary-General of the results of the consultations with those non-metropolitan territories for whose international relations they are responsible and whose consent to the application of this Convention may have been withheld.
 
-##### Artikel 15
+##### Article 16
 
-1. Dit Verdrag is van toepassing op alle niet-autonome, onder beheer staande en koloniale gebieden, alsmede op alle andere niet tot het moederland behorende gebieden voor de internationale betrekkingen waarvan een Verdragsluitende Staat verantwoordelijk is; met inachtneming van de bepalingen van het tweede lid van dit artikel verklaart de betrokken Verdragsluitende Staat ten tijde van de ondertekening of de bekrachtiging van of de toetreding tot dit Verdrag op welke van de niet tot het moederland behorende gebieden het Verdrag **ipso facto**, op grond van die ondertekening, die bekrachtiging of die toetreding van toepassing is.
+1. This Convention shall be open for signature at the Headquarters of the United Nations from 30 August 1961 to 31 May 1962.
 
-2. Indien, wat de nationaliteit betreft, een niet tot het moederland behorend grondgebied niet geacht wordt een geheel met het moederland uit te maken of indien krachtens de constitutionele wetten of gebruiken van de Verdragsluitende Staat of van het niet tot het moederland behorende gebied, voor de toepassing van het Verdrag op dat gebied, vooraf de goedkeuring van dat niet tot het moederland behorende gebied wordt vereist, tracht de betrokken Verdragsluitende Staat de vereiste goedkeuring van het niet tot het moederland behorende gebied binnen de twaalf maanden volgend op de ondertekening van het Verdrag door die, Verdragsluitende Staat te verkrijgen; nadat bedoelde goedkeuring is verkregen, stelt de Verdragsluitende Staat de Secretaris-Generaal van de Organisatie van de Verenigde Naties daarvan in kennis. Met ingang van de dag waarop bedoelde kennisgeving door de Secretaris-Generaal wordt ontvangen is dit Verdrag op de in die kennisgeving genoemde gebieden van toepassing.
+2. This Convention shall be open for signature on behalf of:
 
-3. Na het verstrijken van de in het tweede lid van dit artikel genoemde termijn van twaalf maanden stellen de betrokken Verdragsluitende Staten de Secretaris-Generaal in kennis van de resultaten van het overleg dat is gevoerd met die niet tot het moederland behorende gebieden, voor de internationale betrekkingen waarvan zij verantwoordelijk zijn en die met de toepasselijkheid van dit Verdrag niet hebben ingestemd.
+- (a) any State Member of the United Nations;
 
-##### Artikel 16
+- (b) any other State invited to attend the United Nations Conference on the Elimination or Reduction of Future Statelessness;
 
-1. Dit Verdrag staat open voor ondertekening ten hoofdkwartiere van de Organisatie van de Verenigde Naties van 30 augustus 1961 tot 31 mei 1962.
+- (c) any State to which an invitation to sign or to accede may be addressed by the General Assembly of the United Nations.
 
-2. Dit Verdrag staat open voor ondertekening namens:
+3. This Convention shall be ratified and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-- a). iedere Staat die lid is van de Verenigde Naties;
+4. This Convention shall be open for accession by the States referred to in paragraph 2 of this Article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-- b). elke andere Staat die is uitgenodigd de Conferentie van de Verenigde Naties inzake de wegneming of beperking van staatloosheid in de toekomst bij te wonen;
+##### Article 17
 
-- c). elke Staat die door de Algemene Vergadering van de Verenigde Naties zou worden uitgenodigd tot ondertekening van of toetreding tot dit Verdrag.
+1. At the time of signature, ratification or accession any State may make a reservation in respect of [Articles 11](https://wetten.overheid.nl/BWBV0004351), [14](https://wetten.overheid.nl/BWBV0004351) or [15](https://wetten.overheid.nl/BWBV0004351).
 
-3. Dit Verdrag zal worden bekrachtigd en akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Organisatie van de Verenigde Naties.
+2. No other reservations to this Convention shall be admissible.
 
-4. Dit Verdrag staat open voor toetreding door de in het tweede lid van dit artikel genoemde Staten. Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Organisatie van de Verenigde Naties.
+##### Article 18
 
-##### Artikel 17
+1. This Convention shall enter into force two years after the date of the deposit of the sixth instrument of ratification or accession.
 
-1. Bij de ondertekening, de bekrachtiging of de toetreding kan elke Staat een voorbehoud maken met betrekking tot de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=11&z=1985-08-11&g=1985-08-11), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=14&z=1985-08-11&g=1985-08-11) of [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=15&z=1985-08-11&g=1985-08-11).
+2. For each State ratifying or acceding to this Convention after the deposit of the sixth instrument of ratification or accession, it shall enter into force on the ninetieth day after the deposit by such State of its instrument of ratification or accession or on the date on which this Convention enters into force in accordance with the provisions of paragraph 1 of this Article, whichever is the later.
 
-2. Andere voorbehouden op dit Verdrag worden niet toegestaan.
+##### Article 19
 
-##### Artikel 18
+1. Any Contracting State may denounce this Convention at any time by a written notification addressed to the Secretary-General of the United Nations. Such denunciation shall take effect for the Contracting State concerned one year after the date of its receipt by the Secretary-General.
 
-1. Dit Verdrag treedt in werking twee jaar na het tijdstip waarop de zesde akte van bekrachtiging of toetreding is neder gelegd.
+2. In cases where, in accordance with the provisions of [Article 15](https://wetten.overheid.nl/BWBV0004351), this Convention has become applicable to a non-metropolitan territory of a Contracting State, that State may at any time thereafter, with the consent of the territory concerned, give notice to the Secretary-General of the United Nations denouncing this Convention separately in respect of that territory. The denunciation shall take effect one year after the date of the receipt of such notice by the Secretary-General, who shall notify all other Contracting States of such notice and the date of receipt thereof.
 
-2. Ten aanzien van elke Staat die bekrachtigt of toetreedt na de nederlegging van de zesde akte van bekrachtiging of toetreding, treedt het in werking op de negentigste dag na de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding of op het tijdstip waarop dit Verdrag overeenkomstig de bepalingen van het eerste lid van dit artikel in werking treedt, zo dit tijdstip later valt.
+##### Article 20
 
-##### Artikel 19
+1. The Secretary-General of the United Nations shall notify all Members of the United Nations and the non-member States referred to in [Article 16](https://wetten.overheid.nl/BWBV0004351) of the following particulars:
 
-1. Elke Verdragsluitende Staat heeft het recht dit Verdrag op elk willekeurig tijdstip door middel van een aan de Secretaris-Generaal van de Organisatie van de Verenigde Naties gerichte schriftelijke kennisgeving op te zeggen. Deze opzegging wordt ten aanzien van de betrokken Verdragsluitende Staat van kracht één jaar na ontvangst van de kennisgeving door de Secretaris-Generaal.
+- (a) signatures, ratifications and accessions under Article 16;
 
-2. In gevallen waarin, overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=15&z=1985-08-11&g=1985-08-11), dit Verdrag op een niet tot het moederland van een Verdragsluitende Staat behorend gebied van toepassing is geworden, kan die Staat, met goedkeuring van het betrokken gebied op elk willekeurig tijdstip daarna de Secretaris-Generaal van de Organisatie van de Verenigde Naties ervan in kennis stellen dat hij dit Verdrag ten aanzien van dat betrokken gebied opzegt. De opzegging heeft rechtsgevolg één jaar na de datum waarop de Secretaris-Generaal de kennisgeving van opzegging heeft ontvangen, waarop de Secretaris-Generaal alle andere Verdragsluitende Staten zowel van die kennisgeving als van de datum van ontvangst daarvan bericht zendt.
+- (b) reservations under [Article 17](https://wetten.overheid.nl/BWBV0004351);
 
-##### Artikel 20
+- (c) the date upon which this Convention enters into force in pursuance of [Article 18](https://wetten.overheid.nl/BWBV0004351);
 
-1. De Secretaris-Generaal van de Organisatie van de Verenigde Naties doet aan alle leden van de Verenigde Naties en de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=16&z=1985-08-11&g=1985-08-11) genoemde Staten die geen lid zijn van deze Organisatie mededeling van:
+- (d) denunciations under [Article 19](https://wetten.overheid.nl/BWBV0004351).
 
-- a). de krachtens artikel 16 ontvangen ondertekeningen, bekrachtigingen en toetredingen;
+2. The Secretary-General of the United Nations shall, after the deposit of the sixth instrument of ratification or accession at the latest, bring to the attention of the General Assembly the question of the establishment, in accordance with [Article 11](https://wetten.overheid.nl/BWBV0004351), of such a body as therein mentioned.
 
-- b). de krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=17&z=1985-08-11&g=1985-08-11) gemaakte voorbehouden;
+##### Article 21
 
-- c). de datum waarop ingevolge het bepaalde in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=18&z=1985-08-11&g=1985-08-11) dit Verdrag in werking treedt;
-
-- d). de ingevolge [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=19&z=1985-08-11&g=1985-08-11) ontvangen opzeggingen.
-
-2. Uiterlijk na de nederlegging van de zesde akte van bekrachtiging of toetreding zal de Secretaris-Generaal van de Organisatie van de Verenigde Naties de aandacht van de Algemene Vergadering erop vestigen, dat een orgaan dient te worden ingesteld, als voorzien in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004351&artikel=11&z=1985-08-11&g=1985-08-11).
-
-##### Artikel 21
-
-Dit Verdrag wordt door de Secretaris-Generaal van de Organisatie van de Verenigde Naties geregistreerd op de dag waarop het in werking treedt.
+This Convention shall be registered by the Secretary-General of the United Nations on the date of its entry into force.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries have signed this Convention.
 

@@ -1,115 +1,80 @@
 ---
 title: "Verdrag inzake de huwelijkstoestemming, de minimum-leeftijd waarop een huwelijk mag worden aangegaan en de registratie van huwelijken"
 identifier: "BWBV0004321"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-09-30"
-last_updated: "1965-09-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004321"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004054453"
-version_id: "10004222532"
-internal_id: "C10008335681"
-label_id: "10004038874"
-dtd_version: "2.0"
-original_entry_into_force: "1965-09-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004321/1965-09-30/0"
-intitule_bron: "Trb.1964-55"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-06-04"
-intitule_in_force: "1965-08-13"
-intitule_status: "goed"
-original_publication: "Trb.1964-55"
-original_published_date: "1964-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-55"
-entry_into_force_date: "1965-09-30"
-jci_1_3: "jci1.3:c:BWBV0004321&z=1965-09-30&g=1965-09-30"
-jci_1_0: "1.0:c:BWBV0004321&g=1965-09-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-09-30"
+publicatiedatum: 1965-09-30
+laatste_update: 1965-09-30
+status: geldig
+toestand: 1965-09-30
+bron: "https://wetten.overheid.nl/BWBV0004321"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake de huwelijkstoestemming, de minimum-leeftijd waarop een huwelijk mag worden aangegaan en de registratie van huwelijken
 
-**Preambule**
+*Preamble The Contracting States, Desiring, in conformity with the Charter of the United Nations, to promote universal respect for, and observance of, human rights and fundamental freedoms for all, without distinction as to race, sex, language or religion, Recalling that article 16 of the Universal Declaration of Human Rights states that: “(1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution. “(2) Marriage shall be entered into only with the free and full consent of the intending spouses.”, Recalling further that the General Assembly of the United Nations declared, by resolution 843 (IX) of 17 December 1954, that certain customs, ancient laws and practices relating to marriage and the family were inconsistent with the principles set forth in the Charter of the United Nations and in the Universal Declaration of Human Rights, Reaffirming that all States, including those which have or assume responsibility for the administration of Non-Self-Governing and Trust Territories until their achievement of independence, should take all appropriate measures with a view to abolishing such customs, ancient laws and practices by ensuring, inter alia, complete freedom in the choice of a spouse, eliminating completely child marriages and the betrothal of young girls before the age of puberty, establishing appropriate penalties where necessary and establishing a civil or other register in which all marriages will be recorded, Hereby agree as hereinafter provided:*
 
-De Verdragsluitende Staten,
+##### Article 1
 
-Verlangende, overeenkomstig het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), overal de eerbied voor en de inachtneming van de rechten van de mens en de fundamentele vrijheden voor allen, zonder onderscheid naar ras, geslacht, taal of godsdienst, te bevorderen,
+(1). No marriage shall be legally entered into without the full and free consent of both parties, such consent to be expressed by them in person after due publicity and in the presence of the authority competent to solemnize the marriage and of witnesses, as prescribed by law.
 
-In herinnering brengende, dat in [artikel 16 van de Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008&artikel=16) het navolgende wordt bepaald:
+(2). Notwithstanding anything in paragraph 1 above, it shall not be necessary for one of the parties to be present when the competent authority is satisfied that the circumstances are exceptional and that the party has, before a competent authority and in such manner as may be prescribed by law, expressed and not withdrawn consent.
 
-Zonder enige beperking op grond van ras, nationaliteit of godsdienst, hebben mannen en vrouwen van huwbare leeftijd het recht om te huwen en een gezin te stichten. Zij hebben gelijke rechten wat het huwelijk betreft, tijdens het huwelijk en bij de ontbinding ervan.
+##### Article 2
 
-Een huwelijk kan slechts worden gesloten met de vrije en volledige toestemming van de aanstaande echtgenoten.”,
+States parties to the present Convention shall take legislative action to specify a minimum age for marriage. No marriage shall be legally entered into by any person under this age, except where a competent authority has granted a dispensation as to age, for serious reasons, in the interest of the intending spouses.
 
-Tevens in herinnering brengende, dat de Algemene Vergadering der Verenigde Naties in haar besluit 843 (ix) van 17 december 1954 heeft verklaard, dat bepaalde gewoonten, oude wetten en gebruiken, het huwelijk en het gezin betreffende, onverenigbaar zijn met de beginselen die in het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) tot uitdrukking zijn gebracht,
+##### Article 3
 
-Er nogmaals op wijzende, dat alle Staten, met inbegrip van die welke verantwoordelijk zijn of de verantwoordelijkheid aanvaarden voor het bestuur van met-zelfbesturende gebieden of trustgebieden tot op het ogenblik waarop deze hun onafhankelijkheid verkrijgen, alle maatregelen dienen te nemen die kunnen strekken tot de afschaffing van deze gewoonten, oude wetten en gebruiken, met name door volledige vrijheid te verzekeren bij de keus van een echtgenoot, door het kinderhuwelijk en de trouwbelofte van meisjes beneden de huwbare leeftijd af te schaffen, door, voor zover nodig, deugdelijke sancties te scheppen en door een register van de burgerlijke stand of een ander register waarin alle huwelijken worden ingeschreven, in te stellen,
+All marriages shall be registered in an appropriate official register by the competent authority.
 
-Zijn het volgende overeengekomen:
+##### Article 4
 
-##### Artikel 1
+(1). The present Convention shall, until 31 December 1963, be open for signature on behalf of all States Members of the United Nations or members of any of the specialized agencies, and of any other State invited by the General Assembly of the United Nations to become party to the Convention.
 
-(1). Geen enkel huwelijk wordt wettig gesloten zonder de vrije en volledige toestemming van beide partijen. Deze toestemming wordt, nadat daaraan voldoende bekendheid is gegeven, door hen persoonlijk tot uitdrukking gebracht ten overstaan van de tot het voltrekken van het huwelijk bevoegde autoriteit en van getuigen, een en ander zoals voorgeschreven bij de wet.
+(2). The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-(2). Niettegenstaande het bepaalde in lid 1 van dit artikel, is de aanwezigheid van een der partijen niet vereist indien de bevoegde autoriteit bewezen acht, dat er sprake is van buitengewone omstandigheden en dat die partij ten overstaan van een bevoegde autoriteit en op zodanige wijze als bij de wet is voorgeschreven haar toestemming tot uitdrukking heeft gebracht en deze niet heeft ingetrokken.
+##### Article 5
 
-##### Artikel 2
+(1). The present Convention shall be open for accession to all States referred to in article 4, paragraph 1.
 
-In de Staten die partij zijn bij dit Verdrag wordt de minimumleeftijd waarop een huwelijk mag worden aangegaan bij de wet vastgesteld. Een huwelijk kan niet wettig worden aangegaan door personen die deze leeftijd nog niet hebben bereikt, tenzij een bevoegde autoriteit om gewichtige redenen en in het belang van de aanstaande echtgenoten dispensatie daarvan heeft verleend.
+(2). Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-##### Artikel 3
+##### Article 6
 
-Alle huwelijken worden door de bevoegde autoriteiten in een officieel register ingeschreven.
+(1). The present Convention shall come into force on the ninetieth day following the date of deposit of the eighth instrument or ratification or accession.
 
-##### Artikel 4
+(2). For each State ratifying or acceding to the Convention after the deposit of the eighth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day after deposit by such State of its instrument of ratification or accession.
 
-(1). Dit Verdrag wordt tot 31 december 1963 ter ondertekening opengesteld voor alle Staten die Lid zijn van de Verenigde Naties of van een der gespecialiseerde organisaties, alsmede voor alle andere Staten die door de Algemene Vergadering der Verenigde Naties zijn uitgenodigd bij het Verdrag partij te worden.
+##### Article 7
 
-(2). Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+(1). Any Contracting State may denounce the present Convention by written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 
-##### Artikel 5
+(2). The present Convention shall cease to be in force as from the date when the denunciation which reduces the number of parties to less than eight becomes effective.
 
-(1). Dit Verdrag staat open ter toetreding voor alle in lid 1 van artikel 4 bedoelde Staten.
+##### Article 8
 
-(2). Toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
+Any dispute which may arise between any two or more Contracting States concerning the interpretation or application of the present Convention which is not settled by negotiation shall, at the request of all the parties to the dispute, be referred to the International Court of Justice for decision, unless the parties agree to another mode of settlement.
 
-##### Artikel 6
+##### Article 9
 
-(1). Dit Verdrag treedt in werking op de negentigste dag na het tijdstip van nederlegging van de achtste akte van bekrachtiging of toetreding.
+The Secretary-General of the United Nations shall notify all States Members of the United Nations and the non-member States contemplated in article 4, paragraph 1, of the present Convention of the following:
 
-(2). Voor iedere Staat die, na de nederlegging van de achtste akte van bekrachtiging of toetreding, dit Verdrag bekrachtigt of ertoe toetreedt, treedt het Verdrag in werking op de negentigste dag na de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding.
+- (a) Signatures and instruments of ratification received in accordance with article 4;
 
-##### Artikel 7
+- (b) Instruments of accession received in accordance with article 5;
 
-(1). Elke Verdragsluitende Staat kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving gericht tot de Secretaris-Generaal der Verenigde Naties. De opzegging wordt van kracht een jaar na het tijdstip van ontvangst door de Secretaris-Generaal van de daartoe strekkende kennisgeving.
+- (c) The date upon which the Convention enters into force in accordance with article 6;
 
-(2). Dit Verdrag treedt buiten werking met ingang van het tijdstip waarop de opzegging van kracht wordt die het aantal partijen tot minder dan acht terugbrengt.
+- (d) Notifications of denunciation received in accordance with article 7, paragraph 1;
 
-##### Artikel 8
+- (e) Abrogation in accordance with article 7, paragraph 2.
 
-Ieder geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag, dat niet door onderhandelingen is beslecht, wordt, op verzoek van alle bij het geschil betrokken partijen, aan het Internationale Gerechtshof ter beslissing voorgelegd, tenzij de partijen een andere wijze van regeling zijn overeengekomen.
+##### Article 10
 
-##### Artikel 9
+(1). The present Convention, of which the Chinese, English, French, Russian and Spanish texts shall be equally authentic, shall be deposited in the archives of the United Nations.
 
-De Secretaris-Generaal der Verenigde Naties doet alle Staten die Lid zijn van de Verenigde Naties, alsmede de in lid 1 van artikel 4 van dit Verdrag bedoelde Staten die geen Lid zijn, mededeling van:
-
-- (a). de overeenkomstig artikel 4 gestelde ondertekeningen en ontvangen akten van bekrachtiging,
-
-- (b). de overeenkomstig artikel 5 ontvangen akten van toetreding,
-
-- (c). het tijdstip waarop het Verdrag overeenkomstig artikel 6 in werking treedt,
-
-- (d). de overeenkomstig lid 1 van artikel 7 ontvangen kennisgevingen van opzegging,
-
-- (e). de buitenwerkingtreding overeenkomstig lid 2 van artikel 7.
-
-##### Artikel 10
-
-1. Dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
-
-2. De Secretaris-Generaal der Verenigde Naties doet aan alle Staten die Lid zijn der Verenigde Naties, alsmede aan de in lid 1 van artikel 4 bedoelde Staten die geen Lid zijn, een voor eensluidend gewaarmerkt afschrift van het Verdrag toekomen.
+(2). The Secretary-General of the United Nations shall transmit a certified copy of the Convention to all States Members of the United Nations and to the non-member States contemplated in article 4, paragraph 1.
 
 IN FAITH WHEREOF the undersigned, being duly authorized, have signed, on behalf of their respective Governments, the present Convention which was opened for signature at the Headquarters of the United Nations, New York, on the tenth day of December, one thousand nine hundred and sixty-two.

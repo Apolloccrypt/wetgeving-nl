@@ -1,66 +1,19 @@
 ---
 title: "Handels- en Scheepvaartovereenkomst tussen de Benelux Economische Unie en de Republiek Paraguay"
 identifier: "BWBV0004256"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-02-13"
-last_updated: "1967-02-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004256"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004027603"
-version_id: "10004192512"
-internal_id: "C10008344391"
-label_id: "10004012204"
-dtd_version: "2.0"
-original_entry_into_force: "1967-02-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004256/1967-02-13/0"
-intitule_bron: "Trb.1963-166"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1963-10-30"
-intitule_in_force: "1967-11-21"
-intitule_status: "goed"
-original_publication: "Trb.1963-166"
-original_published_date: "1963-10-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1963-166"
-entry_into_force_date: "1967-02-13"
-jci_1_3: "jci1.3:c:BWBV0004256&z=1967-02-13&g=1967-02-13"
-jci_1_0: "1.0:c:BWBV0004256&g=1967-02-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-02-13"
+publicatiedatum: 1967-02-13
+laatste_update: 1967-02-13
+status: geldig
+toestand: 1967-02-13
+bron: "https://wetten.overheid.nl/BWBV0004256"
+opgehaald: 2026-09-14
 ---
+
 # Handels- en Scheepvaartovereenkomst tussen de Benelux Economische Unie en de Republiek Paraguay
 
-Het Koninkrijk der Nederlanden,
-
-en
-
-Het Koninkrijk België, krachtens bestaande overeenkomsten mede in naam van het Groothertogdom Luxemburg,
-
-Handelende tezamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958, enerzijds,
-
-en
-
-De Republiek Paraguay, anderzijds,
-
-Erkennende, dat het hun belang is hun onderling handelsverkeer te bevorderen en te stimuleren alsmede het zee- en rivierverkeer te vergemakkelijken,
-
-Bezield door de wens de traditionele vriendschapsbanden te versterken door verlening van de wederzijdse en onvoorwaardelijke behandeling van de meestbegunstigde natie als grondslag van hun handels- en scheepvaartbetrekkingen,
-
-Hebben besloten over te gaan tot het afsluiten van een handels- en scheepvaartovereenkomst tussen de Benelux Economische Unie, enerzijds, en de Republiek Paraguay, anderzijds,
-
-en hebben daartoe aangewezen hun Gevolmachtigden, te weten:
-
-Hare Majesteit de Koningin der Nederlanden, Zijne Excellentie Mr. Johannes Christoffel van Beusekom, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden bij de Regering van de Republiek Paraguay;
-
-Zijne Majesteit de Koning der Belgen, de Heer Maurice Seynave, Tijdelijk Zaakgelastigde van België te Paraguay, en
-
-Zijne Excellentie de President van de Republiek Paraguay, Zijne Excellentie Dr. Raul Sapena Pastor, Minister van Buitenlandse Zaken.
-
-Dewelke, na uitwisseling van de respectieve volmachten, welke in goede orde werden bevonden,
-
-de volgende bepalingen zijn overeengekomen:
+*Het Koninkrijk der Nederlanden, en Het Koninkrijk België, krachtens bestaande overeenkomsten mede in naam van het Groothertogdom Luxemburg, Handelende tezamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958, enerzijds, en De Republiek Paraguay, anderzijds, Erkennende, dat het hun belang is hun onderling handelsverkeer te bevorderen en te stimuleren alsmede het zee- en rivierverkeer te vergemakkelijken, Bezield door de wens de traditionele vriendschapsbanden te versterken door verlening van de wederzijdse en onvoorwaardelijke behandeling van de meestbegunstigde natie als grondslag van hun handels- en scheepvaartbetrekkingen, Hebben besloten over te gaan tot het afsluiten van een handels- en scheepvaartovereenkomst tussen de Benelux Economische Unie, enerzijds, en de Republiek Paraguay, anderzijds, en hebben daartoe aangewezen hun Gevolmachtigden, te weten: Hare Majesteit de Koningin der Nederlanden, Zijne Excellentie Mr. Johannes Christoffel van Beusekom, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden bij de Regering van de Republiek Paraguay; Zijne Majesteit de Koning der Belgen, de Heer Maurice Seynave, Tijdelijk Zaakgelastigde van België te Paraguay, en Zijne Excellentie de President van de Republiek Paraguay, Zijne Excellentie Dr. Raul Sapena Pastor, Minister van Buitenlandse Zaken. Dewelke, na uitwisseling van de respectieve volmachten, welke in goede orde werden bevonden, de volgende bepalingen zijn overeengekomen:*
 
 ##### Artikel I
 
@@ -94,13 +47,13 @@ De Overeenkomstsluitende Partijen zullen elkaar tenminste een even gunstige beha
 
 De in de artikelen I, II, III en IV aangeduide behandeling van de meestbegunstigde natie zal zich niet uitstrekken tot:
 
-- a). de gunsten, voorrechten of vrijstellingen, die de Beneluxlanden verlenen of zullen verlenen voor de invoer van produkten van oorsprong uit de buiten Europa gelegen delen van het Koninkrijk der Nederlanden, de Republiek Kongo (Leopoldstad) of de landen Ruanda en Burundi;
+- a) de gunsten, voorrechten of vrijstellingen, die de Beneluxlanden verlenen of zullen verlenen voor de invoer van produkten van oorsprong uit de buiten Europa gelegen delen van het Koninkrijk der Nederlanden, de Republiek Kongo (Leopoldstad) of de landen Ruanda en Burundi;
 
-- b). de gunsten, voorrechten of vrijstellingen, die de Republiek Paraguay verleent of zal verlenen aan nabuurlanden en aan de Republiek Uruguay;
+- b) de gunsten, voorrechten of vrijstellingen, die de Republiek Paraguay verleent of zal verlenen aan nabuurlanden en aan de Republiek Uruguay;
 
-- c). de gunsten, voorrechten of vrijstellingen, die een der Regeringen van de Overeenkomstsluitende Partijen verleent of zal verlenen aan aangrenzende landen voor het grensverkeer;
+- c) de gunsten, voorrechten of vrijstellingen, die een der Regeringen van de Overeenkomstsluitende Partijen verleent of zal verlenen aan aangrenzende landen voor het grensverkeer;
 
-- d). de produkten van de nationale visserij.
+- d) de produkten van de nationale visserij.
 
 ##### Artikel VI
 
@@ -112,17 +65,17 @@ Bijgevolg kunnen de in de onderhavige Overeenkomst vervatte verplichtingen van d
 
 Geen bepaling van deze Overeenkomst zal worden uitgelegd zodanig dat zij een beletsel vormt voor het nemen of toepassen van maatregelen:
 
-- a). noodzakelijk ter bescherming van de openbare zeden;
+- a) noodzakelijk ter bescherming van de openbare zeden;
 
-- b). noodzakelijk ter nakoming van de wetten en reglementen nopens de openbare veiligheid;
+- b) noodzakelijk ter nakoming van de wetten en reglementen nopens de openbare veiligheid;
 
-- c). noodzakelijk ter bescherming van het leven of de gezondheid van mens, dier of plant;
+- c) noodzakelijk ter bescherming van het leven of de gezondheid van mens, dier of plant;
 
-- d). betrekking hebbende op de in- of uitvoer van goud of zilver;
+- d) betrekking hebbende op de in- of uitvoer van goud of zilver;
 
-- e). ingesteld ter bescherming van de nationale schatten, welke een kunstzinnige, geschiedkundige of oudheidkundige waarde hebben;
+- e) ingesteld ter bescherming van de nationale schatten, welke een kunstzinnige, geschiedkundige of oudheidkundige waarde hebben;
 
-- f). betrekking hebbende op de controle van de in- of uitvoer van wapens, oorlogstuig en militaire goederen.
+- f) betrekking hebbende op de controle van de in- of uitvoer van wapens, oorlogstuig en militaire goederen.
 
 ##### Artikel VIII
 

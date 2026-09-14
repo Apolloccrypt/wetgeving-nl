@@ -1,60 +1,27 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten ter zake van nalatenschappen"
 identifier: "BWBV0004806"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-12-23"
-last_updated: "1955-12-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004806"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004331023"
-version_id: "10004530772"
-internal_id: "C10007160151"
-label_id: "10004316064"
-dtd_version: "2.0"
-original_entry_into_force: "1955-12-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004806/1955-12-23/0"
-intitule_bron: "Trb.1954-161"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-10-25"
-intitule_in_force: "1956-01-17"
-intitule_status: "goed"
-original_publication: "Trb.1954-161"
-original_published_date: "1954-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-161"
-entry_into_force_date: "1955-12-23"
-jci_1_3: "jci1.3:c:BWBV0004806&z=1955-12-23&g=1955-12-23"
-jci_1_0: "1.0:c:BWBV0004806&g=1955-12-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-12-23"
+publicatiedatum: 1955-12-23
+laatste_update: 1955-12-23
+status: geldig
+toestand: 1955-12-23
+bron: "https://wetten.overheid.nl/BWBV0004806"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Finland tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten ter zake van nalatenschappen
 
-Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Finland,
-
-Bezield door de wens, dubbele belasting zoveel mogelijk te vermijden en regelen voor wederzijdse administratieve hulp vast te stellen met betrekking tot rechten terzake van nalatenschappen,
-
-hebben besloten te dien einde een Verdrag te sluiten, en hebben tot Hun gevolmachtigden benoemd: te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Haar Tijdelijk Zaakgelastigde te Helsinki de Heer Carel G. Verdonck Huffnagel
-
-De President van de Republiek Finland:
-
-de Minister van Buitenlandse Zaken de Heer Ralf Törngren
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Finland, Bezield door de wens, dubbele belasting zoveel mogelijk te vermijden en regelen voor wederzijdse administratieve hulp vast te stellen met betrekking tot rechten terzake van nalatenschappen, hebben besloten te dien einde een Verdrag te sluiten, en hebben tot Hun gevolmachtigden benoemd: te weten: Hare Majesteit de Koningin der Nederlanden: Haar Tijdelijk Zaakgelastigde te Helsinki de Heer Carel G. Verdonck Huffnagel De President van de Republiek Finland: de Minister van Buitenlandse Zaken de Heer Ralf Törngren Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 § 1. De rechten, welke het onderwerp van dit Verdrag vormen, zijn
 
-- (a). Voor zoveel Finland betreft: de nalatenschapsbelasting, de gemeentelijke belasting op nalatenschappen, legaten, of vermakingen, en de „bijdrage voor de armen”.
+- (a) Voor zoveel Finland betreft: de nalatenschapsbelasting, de gemeentelijke belasting op nalatenschappen, legaten, of vermakingen, en de „bijdrage voor de armen”.
 
-- (b). Voor zoveel Nederland betreft: het successierecht en het recht van overgang bij overlijden.
+- (b) Voor zoveel Nederland betreft: het successierecht en het recht van overgang bij overlijden.
 
 § 2. Dit Verdrag is ook van toepassing op alle andere rechten terzake van overlijden, geheven in Nederland of Finland, na de tekening van dit Verdrag, wegens overgang van vermogen door overlijden, onverschillig of zulke rechten worden geheven over de gehele nalatenschap dan wel over het deel, dat aan iedere erfgenaam of legataris opkomt.
 
@@ -84,9 +51,9 @@ Diplomatieke en consulaire ambtenaren, uitgezonden door een van de Staten en bij
 
 In dit verband:
 
-- (i). wordt een onderneming niet geacht een vaste inrichting in een van de Staten te hebben enkel op grond van het feit, dat zij in die Staat bedrijfshandelingen verricht door middel van een **bona fide** makelaar of commissionnair, handelende in de normale uitoefening van zijn bedrijf als zodanig;
+- (i) wordt een onderneming niet geacht een vaste inrichting in een van de Staten te hebben enkel op grond van het feit, dat zij in die Staat bedrijfshandelingen verricht door middel van een *bona fide* makelaar of commissionnair, handelende in de normale uitoefening van zijn bedrijf als zodanig;
 
-- (ii). stempelt het feit, dat een onderneming in een van de Staten een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van goederen of koopwaar op zichzelf die vaste bedrijfsinrichting niet tot een vaste inrichting van zodanige onderneming.
+- (ii) stempelt het feit, dat een onderneming in een van de Staten een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van goederen of koopwaar op zichzelf die vaste bedrijfsinrichting niet tot een vaste inrichting van zodanige onderneming.
 
 ##### Artikel 4
 
@@ -114,9 +81,9 @@ Rechten, in een van de Staten geheven over de gehele nalatenschap van een overle
 
 § 2. Ongeacht enige andere bepaling van dit Verdrag, is Nederland bevoegd bij het heffen van zijn recht over de nalatenschap van een persoon, die ten tijde van zijn overlijden zijn woonplaats in Nederland had, in de grondslag waarnaar het recht wordt geheven, de gehele nalatenschap te begrijpen, maar zal Nederland een vermindering van zijn recht toestaan, gelijk aan het laagste van de volgende bedragen
 
-- (a). het bedrag van het recht, in Finland geheven met betrekking tot zaken, welke volgens de bepalingen van dit Verdrag aan Fins recht zijn onderworpen;
+- (a) het bedrag van het recht, in Finland geheven met betrekking tot zaken, welke volgens de bepalingen van dit Verdrag aan Fins recht zijn onderworpen;
 
-- (b). een zodanig deel van het Nederlandse recht, als het netto bedrag van de zaken, welke volgens de bepalingen van dit Verdrag aan Fins recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
+- (b) een zodanig deel van het Nederlandse recht, als het netto bedrag van de zaken, welke volgens de bepalingen van dit Verdrag aan Fins recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
 
 ##### Artikel 9
 
@@ -126,9 +93,9 @@ De bevoegde autoriteiten van de Staten zullen zodanige inlichtingen (zijnde inli
 
 § 1. In geen geval zullen de bepalingen van artikel 9 van dit Verdrag dusdanig worden uitgelegd, dat zij een van de beide Staten de verplichting opleggen
 
-- (a). administratieve maatregelen te nemen, welke in strijd zijn met de voorschriften en het gebruik van een van de beide Staten, of
+- (a) administratieve maatregelen te nemen, welke in strijd zijn met de voorschriften en het gebruik van een van de beide Staten, of
 
-- (b). bijzonderheden te verstrekken, welke niet verkrijgbaar zijn volgens zijn eigen wetgeving of die van de verzoekende Staat.
+- (b) bijzonderheden te verstrekken, welke niet verkrijgbaar zijn volgens zijn eigen wetgeving of die van de verzoekende Staat.
 
 § 2. De Staat, aan welke een verzoek om inlichtingen is gedaan, zal zo spoedig mogelijk aan het gedane verzoek gevolg geven. Nochtans kan de bedoelde Staat weigeren aan het verzoek te voldoen om redenen van openbaar beleid. In een dergelijk geval zal deze Staat de verzoekende Staat zo spoedig mogelijk hiervan in kennis stellen.
 
@@ -163,12 +130,6 @@ De uitdrukking „bevoegde autoriteit” betekent, voor zoveel Nederland betreft
 ##### Artikel 17
 
 Dit Verdrag zal voor onbepaalde tijd van kracht blijven, maar elk van de Staten kan, op of voor de 30ste Juni van elk kalenderjaar niet vroeger dan het jaar 1957, aan de andere Staat langs diplomatieke weg een schriftelijke kennisgeving van beëindiging doen toekomen, en in zulk geval zal dit Verdrag ophouden van kracht te zijn aan het einde van dat kalenderjaar, maar het zal van toepassing zijn in alle gevallen, waarin het overlijden van de overledene heeft plaats gevonden voor het einde van het kalenderjaar.
-
-Bij gelegenheid van de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen, heden tussen het Koninkrijk der Nederlanden en de Republiek Finland gesloten, zijn de ondergetekende Gevolmachtigden overeengekomen, dat de volgende bepaling een integrerend deel van het Verdrag zal uitmaken:
-
-##### Ad Artikel 9
-
-De verplichting tot het uitwisselen van inlichtingen geldt niet voor inlichtingen, verkregen van banken of daarmede gelijkgestelde instellingen.
 
 Ten blijke waarvan de bovengenoemde Gevolmachtigden dit Verdrag hebben ondertekend en van hun zegel voorzien.
 

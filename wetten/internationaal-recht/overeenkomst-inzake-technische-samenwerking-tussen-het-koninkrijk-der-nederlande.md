@@ -1,78 +1,51 @@
 ---
 title: "Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Indonesië"
 identifier: "BWBV0004677"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-11-17"
-last_updated: "1964-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004677"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004256153"
-version_id: "10004443642"
-internal_id: "C10006977471"
-label_id: "10004241164"
-dtd_version: "2.0"
-original_entry_into_force: "1964-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004677/1964-11-17/0"
-intitule_bron: "Trb.1964-43"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-04-09"
-intitule_in_force: "1965-03-04"
-intitule_status: "goed"
-original_publication: "Trb.1964-43"
-original_published_date: "1964-04-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-43"
-entry_into_force_date: "1964-11-17"
-jci_1_3: "jci1.3:c:BWBV0004677&z=1964-11-17&g=1964-11-17"
-jci_1_0: "1.0:c:BWBV0004677&g=1964-11-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-11-17"
+publicatiedatum: 1964-11-17
+laatste_update: 1964-11-17
+status: geldig
+toestand: 1964-11-17
+bron: "https://wetten.overheid.nl/BWBV0004677"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Indonesië
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië,
+*The Government of the Kingdom of the Netherlands, and the Republic of Indonesia, Desirous of strengthening the ties between their nations and of promoting the good relations between their countries generally, Recognizing that it is in the interest of both Parties to promote scientific, economic and social progress in their countries to the best of their ability and that an arrangement for technical co-operation would substantially contribute to that aim, Considering that it would be useful to create a general framework within which such technical co-operation could be realized, Have agreed as follows:*
 
-Verlangende, de banden tussen hun landen te versterken en in het algemeen de goede betrekkingen tussen hun landen uit te breiden,
+##### Article 1
 
-Erkennende, dat het in beider belang is wederzijds de wetenschappelijke, economische en sociale vooruitgang naar vermogen te bevorderen en dat een regeling van de technische samenwerking daartoe een belangrijke bijdrage vormt,
+The two Governments shall promote technical co-operation between their countries as far as their financial and material possibilities and the personnel at their disposal permit.
 
-Overwegende dat hiertoe bevorderlijk kan zijn het scheppen van een algemeen kader, waarbinnen zulke technische samenwerking kan worden tot stand gebracht,
+##### Article 2
 
-Komen het volgende overeen:
+1. Technical co-operation shall comprise the exchange, in the widest sense of the term, of knowledge and experience between the two countries, which may or may not be accompanied by material aid.
 
-##### Artikel 1
+2. Effective co-operation as referred to in the preceding paragraph shall not be initiated before the country wishing to avail itself of the opportunities for co-operation offered by the other country has made an explicit request to that effect, nor before agreement has been reached on the facilities requisite for such co-operation.
 
-De beide Regeringen zullen wederzijds binnen de ten dienste staande financiële, personele en materiële mogelijkheden, de technische samenwerking tussen beider landen bevorderen.
+##### Article 3
 
-##### Artikel 2
+When technical co-operation as referred to in paragraph 1 of Article 2 has been decided upon and, in consequence, experts are made available, fellowships are granted or technical co-operation on a broader scale is initiated, the methods to be employed and the conditions to be observed shall, in each individual case, be decided in joint consultation by administrative arrangements, in accordance with the principles embodied in the present Agreement.
 
-1. De technische samenwerking zal bestaan uit de uitwisseling tussen beide landen van kennis en ervaring in de ruimste zin al dan niet vergezeld van materiële steun.
+##### Article 4
 
-2. Tot daadwerkelijke samenwerking als bedoeld in het vorige lid zal slechts kunnen worden overgegaan nadat hierom uitdrukkelijk is verzocht door de Regering van het land dat van de geboden mogelijkheden van samenwerking met het andere land gebruik wenst te maken en niet eerder dan nadat over de voor deze samenwerking vereiste zakelijke voorwaarden overeenstemming is bereikt.
+To experts made available by the Government of one country to the other country shall be accorded the same privileges as are applicable to experts on missions for the United Nations.
 
-##### Artikel 3
+##### Article 5
 
-Wanneer tot technische samenwerking als bedoeld in het eerste lid van artikel 2 wordt besloten en dientengevolge deskundigen worden beschikbaar gesteld, fellowships verleend of tot meer uitgebreide vormen van technische samenwerking wordt overgegaan, zullen onder verwijzing naar deze Overeenkomst, de wijze waarop en de voorwaarden waaronder zulks zal geschieden, van geval tot geval in gemeenschappelijk overleg nader worden geregeld in administratieve akkoorden.
+With regard to the importation and exportation of equipment, demonstration material and other goods required by the experts for the performance of their task or forming part of material made available in cases of technical co-operation on a broader scale, the same regulations as are applicable to United Nations equipment and supplies shall be applied.
 
-##### Artikel 4
+##### Article 6
 
-Aan deskundigen die door de Regering van het ene land ter beschikking worden gesteld van het andere land, worden dezelfde privileges toegekend als die welke gelden voor deskundigen die voor de Verenigde Naties worden uitgezonden.
+As regards contingencies for which this Agreement does not provide, the two Governments shall, in each individual case, decide by administrative arrangement.
 
-##### Artikel 5
+##### Article 7
 
-Voor de invoer en de uitvoer van apparatuur, demonstratiemateriaal en andere goederen, nodig voor het vervullen van de taak van de beschikbaar gestelde deskundigen of welke deel uitmaken van het materiaal, dat in gevallen van uitgebreide technische samenwerking beschikbaar wordt gesteld, zijn dezelfde bepalingen van toepassing als die welke gelden met betrekking tot apparatuur en goederen van de Verenigde Naties.
+The Agreement shall enter into force on the day on which the Government of the Kingdom of the Netherlands and the Government of the Republic of Indonesia have informed each other in writing that the procedures constitutionally required in their respective countries have been complied with.
 
-##### Artikel 6
-
-Ten aanzien van gevallen waarin deze Overeenkomst niet voorziet, beslissen de beide Regeringen van geval tot geval bij administratief akkoord.
-
-##### Artikel 7
-
-De Overeenkomst treedt in werking op de dag waarop de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië elkaar schriftelijk kennis geven, dat in hun beide landen aan de vereiste grondwettelijke procedures is voldaan.
-
-Deze Overeenkomst geldt voor een periode van vijf jaar. Zij wordt geacht stilzwijgend te zijn verlengd, telkens voor een periode van drie jaar, indien zij niet door een der Partijen schriftelijk is opgezegd uiterlijk zes maanden voor het einde van de lopende periode.
+The present Agreement shall be valid for a term of five years. Unless either of the Contracting Parties gives notice in writing not less than six months before expiry of the current period, it shall be deemed to have been tacitly extended for further terms of three years.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto, have signed the present Agreement.
 

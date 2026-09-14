@@ -1,100 +1,75 @@
 ---
 title: "Overeenkomst tussen de Beneluxlanden en de Republiek Korea inzake de afschaffing van de visumplicht"
 identifier: "BWBV0004193"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-06-01"
-last_updated: "1970-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004193"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003995673"
-version_id: "10004152402"
-internal_id: "C10008364851"
-label_id: "10003980444"
-dtd_version: "2.0"
-original_entry_into_force: "1970-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004193/1970-06-01/0"
-intitule_bron: "Trb.1970-89"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-06-18"
-intitule_in_force: "1970-06-18"
-intitule_status: "goed"
-original_publication: "Trb.1970-89"
-original_published_date: "1970-06-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-89"
-entry_into_force_date: "1970-06-01"
-jci_1_3: "jci1.3:c:BWBV0004193&z=1970-06-01&g=1970-06-01"
-jci_1_0: "1.0:c:BWBV0004193&g=1970-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-06-01"
+publicatiedatum: 1970-06-01
+laatste_update: 1970-06-01
+status: geldig
+toestand: 1970-06-01
+bron: "https://wetten.overheid.nl/BWBV0004193"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Beneluxlanden en de Republiek Korea inzake de afschaffing van de visumplicht
 
-De Regeringen van de Beneluxlanden, gezamenlijk optredend op grond van de op 11 april 1960 te Brussel ondertekende [Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), en de Regering van de Republiek Korea,
+*The Governments of the Benelux countries acting jointly under the Agreement between the Kingdom of Belgium, the Grand Duchy of Luxemburg and the Kingdom of the Netherlands signed at Brussels on 11 April 1960 concerning the transfer of immigration control to the outer frontiers of Benelux, and the Government of the Republic of Korea, Desirous of further simplifying the travel formalities for their respective nationals and of adapting them to the situation that has arisen as a result of the transfer of immigration control to the outer frontiers of Benelux, Have agreed as follows:*
 
-Verlangende, de formaliteiten met betrekking tot het reisverkeer van hun onderscheiden onderdanen verder te vereenvoudigen en aan te passen aan de situatie die is ontstaan door de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied,
+##### Article 1
 
-Zijn het volgende overeengekomen:
+In this Agreement, the term “Benelux countries” shall mean: the Kingdom of Belgium, the Grand Duchy of Luxemburg and the Kingdom of the Netherlands;
 
-##### Artikel 1
+The term “Benelux territory” shall mean: the joint territories in Europe of the Kingdom of Belgium, the Grand Duchy of Luxemburg and the Kingdom of the Netherlands.
 
-In deze Overeenkomst wordt verstaan:
+##### Article 2
 
-onder „Beneluxlanden”: het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+Nationals of the Benelux countries who are holders of a valid national passport may, irrespective of the point of their departure, enter the Republic of Korea without a visa and stay for a period not exceeding three months. No guaranty shall be demanded, and the valid national passport shall also be the sole document required when leaving that country.
 
-onder „Beneluxgebied”: de gezamenlijke grondgebieden in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
+##### Article 3
 
-##### Artikel 2
+Nationals of the Republic of Korea who are holders of a valid national passport may, irrespective of the point of their departure, enter Benelux territory without a visa and stay for a period not exceeding three months. No guaranty shall be demanded, and the valid national passport shall also be the sole document required when leaving that territory.
 
-Onderdanen van de Beneluxlanden die in het bezit zijn van een geldig nationaal paspoort mogen ongeacht de plaats van vertrek voor een verblijf van ten hoogste drie maanden zonder visum de Republiek Korea binnenkomen. Er wordt geen zekerheidstelling geëist en het geldige nationale paspoort is ook voor hun vertrek uit dat land het enige vereiste document.
+##### Article 4
 
-##### Artikel 3
+For a stay exceeding three months, the persons coming under the provisions of this Agreement shall before their departure obtain the required permission through the diplomatic or consular representative of the country they wish to enter.
 
-Onderdanen van de Republiek Korea die in het bezit zijn van een geldig nationaal paspoort mogen ongeacht de plaats van vertrek voor een verblijf van ten hoogste drie maanden zonder visum het Beneluxgebied binnenkomen. Er wordt geen zekerheidstelling geëist en het geldige nationale paspoort is ook voor hun vertrek uit dat gebied het enige vereiste document.
+##### Article 5
 
-##### Artikel 4
+Nationals of the Benelux countries residing in the Republic of Korea with the approval of the competent authorities of the Republic of Korea and nationals of the Republic of Korea residing in any of the Benelux countries with the approval of the competent authorities in the Benelux countries may leave their country of residence and return to it without a visa on presentation of a valid national passport. No guaranty shall be demanded.
 
-Voor een verblijf van meer dan drie maanden dienen de onder de bepalingen van deze Overeenkomst vallende personen daartoe vóór hun vertrek, door tussenkomst van de diplomatieke of consulaire vertegenwoordiger van het land waarheen zij zich willen begeven, toestemming te hebben verkregen.
+##### Article 6
 
-##### Artikel 5
+Each Government reserves the right to refuse to admit to its territory any person not holding the documents required for entry or lacking sufficient means of support or unable to acquire such means by engaging in lawful occupations, or to refuse to admit persons regarded as undesirable aliens or whose presence in the country is regarded as prejudicial to law and order or national security.
 
-Onderdanen van de Beneluxlanden die met toestemming van de bevoegde autoriteiten van de Republiek Korea in de Republiek Korea zijn gevestigd en onderdanen van de Republiek Korea die met toestemming van de bevoegde autoriteiten van de Beneluxlanden in een der Beneluxlanden zijn gevestigd, mogen het land van vestiging verlaten en daarheen zonder visum terugkeren op vertoon van een geldig nationaal paspoort, terwijl geen zekerheidstelling wordt vereist.
+##### Article 7
 
-##### Artikel 6
+The present Agreement shall not affect the aliens regulations in force in the Benelux countries and in the Republic of Korea governing entry, length of stay, residence, expulsion and any form of occupation, except in respect of the foregoing provisions.
 
-Iedere Regering behoudt zich het recht voor te weigeren personen op haar grondgebied toe te laten die niet in het bezit zijn van de voor binnenkomst vereiste documenten of wie het ontbreekt aan voldoende middelen van bestaan of die deze niet door legale arbeid kunnen verwerven, dan wel te weigeren personen toe te laten, die als ongewenste vreemdeling worden beschouwd of wier aanwezigheid in het land een bedreiging wordt geacht voor de openbare orde of de nationale veiligheid.
+##### Article 8
 
-##### Artikel 7
+Each Government undertakes to re-admit to its territory at any time and without formalities:
 
-Behoudens de voorgaande bepalingen is deze Overeenkomst niet van invloed op de voorschriften inzake vreemdelingen welke in de Beneluxlanden en in de Republiek Korea van kracht zijn betreffende de binnenkomst, de duur van het verblijf, de vestiging en de uitwijzing, alsmede met betrekking tot enigerlei werkzaamheid.
+- a. its nationals who have entered the territory of the other Party;
 
-##### Artikel 8
+- b. persons who have entered its territory on presentation of a valid national passport issued by the Belgian, Luxemburg, Netherlands or the Korean authorities, even if their nationality is doubtful.
 
-Elke Regering verplicht zich te allen tijde en zonder formaliteiten weder op haar grondgebied toe te laten:
+##### Article 9
 
-- a. haar onderdanen die het grondgebied van de andere partij zijn binnengekomen;
+As regards the Kingdom of the Netherlands, this Agreement may be extended to Surinam and the Netherlands Antilles by notification addressed by the Government of the Kingdom of the Netherlands to the Government of the Republic of Korea.
 
-- b. personen die dat grondgebied zijn binnengekomen op vertoon van een geldig nationaal paspoort, afgegeven door de Belgische, Luxemburgse, Nederlandse of Koreaanse autoriteiten, zelfs indien er twijfel bestaat omtrent hun nationaliteit.
+##### Article 10
 
-##### Artikel 9
+This Agreement shall enter into force on 1 June, 1970 for a period of one year. If the Agreement has not been denounced thirty days before the expiry of that period, it shall be deemed to have been renewed indefinitely. After the first period of one year each signatory Government may denounce the Agreement by giving thirty days' notice to the Belgian Government.
 
-Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst worden uitgebreid tot Suriname en de Nederlandse Antillen door middel van een kennisgeving gericht door de Regering van het Koninkrijk der Nederlanden tot de Regering van de Republiek Korea.
+The Agreement shall cease to be effective if one of the signatory Governments denounces it.
 
-##### Artikel 10
+The Belgian Government shall inform the other signatory Governments of the receipt of the thirty days' notice referred to in this Article.
 
-Deze Overeenkomst treedt in werking op 1 juni 1970 voor de duur van één jaar. Indien de Overeenkomst niet dertig dagen voor het verstrijken van die periode is opgezegd, wordt zij geacht voor onbepaalde tijd te zijn verlengd. Na de periode van één jaar kan ieder der ondertekenende Regeringen de Overeenkomst opzeggen door dertig dagen tevoren de Belgische Regering hiervan in kennis te stellen.
+##### Article 11
 
-Indien een der ondertekenende Regeringen de Overeenkomst opzegt, treedt deze buiten werking.
+With the exception of Article 8, the operation of this Agreement may be suspended by any Contracting Party.
 
-De Belgische Regering deelt de andere ondertekenende Regeringen de ontvangst mede van de in dit artikel bedoelde kennisgeving van opzegging.
-
-##### Artikel 11
-
-Behoudens artikel 8 kan de toepassing van deze Overeenkomst door ieder der Overeenkomstsluitende Partijen worden geschorst.
-
-De Belgische Regering wordt onmiddellijk langs diplomatieke weg van deze schorsing in kennis gesteld. De Belgische Regering deelt de andere ondertekenende Regeringen de ontvangst van deze kennisgeving mede. Dezelfde procedure wordt gevolgd wanneer de schorsing wordt ingetrokken.
+The Belgian Government shall be notified forthwith of such suspension through the diplomatic channel. The Belgian Government shall inform the other signatory Governments of the receipt of such notification. The same procedure shall be adopted when the suspension is lifted.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed the present Agreement.
 

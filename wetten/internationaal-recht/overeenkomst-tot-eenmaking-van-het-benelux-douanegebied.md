@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tot eenmaking van het Benelux-douanegebied"
 identifier: "BWBV0004231"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-02-01"
-last_updated: "1971-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004231"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004010793"
-version_id: "10004172182"
-internal_id: "C10008344311"
-label_id: "10003995324"
-dtd_version: "2.0"
-original_entry_into_force: "1971-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004231/1971-02-01/0"
-intitule_bron: "Trb.1969-125"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-08-15"
-intitule_in_force: "1971-01-25"
-intitule_status: "goed"
-original_publication: "Trb.1969-125"
-original_published_date: "1969-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-125"
-entry_into_force_date: "1971-02-01"
-jci_1_3: "jci1.3:c:BWBV0004231&z=1971-02-01&g=1971-02-01"
-jci_1_0: "1.0:c:BWBV0004231&g=1971-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-02-01"
+publicatiedatum: 1971-02-01
+laatste_update: 1971-02-01
+status: geldig
+toestand: 1971-02-01
+bron: "https://wetten.overheid.nl/BWBV0004231"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tot eenmaking van het Benelux-douanegebied
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Verlangende de Benelux Economische Unie te verstevigen door het tot stand brengen van een gemeenschappelijk douanegebied,
-
-Overwegende, dat daartoe de douaneformaliteiten aan de binnengrenzen van Benelux dienen te worden afgeschaft door middel van een uitbreiding tot het gehele Beneluxgebied van de werkingssfeer der nationale douanewetgevingen betreffende het goederenverkeer,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Verlangende de Benelux Economische Unie te verstevigen door het tot stand brengen van een gemeenschappelijk douanegebied, Overwegende, dat daartoe de douaneformaliteiten aan de binnengrenzen van Benelux dienen te worden afgeschaft door middel van een uitbreiding tot het gehele Beneluxgebied van de werkingssfeer der nationale douanewetgevingen betreffende het goederenverkeer, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

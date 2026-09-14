@@ -1,52 +1,19 @@
 ---
 title: "Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Antigua en Barbuda inzake luchtvervoer tussen Antigua en Barbuda en de Nederlandse Antillen"
 identifier: "BWBV0004072"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-03-01"
-last_updated: "2010-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004072"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10003888803"
-version_id: "10003979812"
-internal_id: "C10008431391"
-label_id: "10003873704"
-dtd_version: "2.0"
-original_entry_into_force: "2010-03-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004072/2010-03-01/0"
-intitule_bron: "Trb.2007-9"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-01-23"
-intitule_in_force: "2010-03-03"
-intitule_status: "goed"
-original_publication: "Trb.2007-9"
-original_published_date: "2007-01-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-9"
-entry_into_force_date: "2010-03-01"
-jci_1_3: "jci1.3:c:BWBV0004072&z=2010-03-01&g=2010-03-01"
-jci_1_0: "1.0:c:BWBV0004072&g=2010-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-03-01"
+publicatiedatum: 2010-03-01
+laatste_update: 2010-03-01
+status: geldig
+toestand: 2010-03-01
+bron: "https://wetten.overheid.nl/BWBV0004072"
+opgehaald: 2026-09-14
 ---
+
 # Luchtvaartverdrag tussen het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en Antigua en Barbuda inzake luchtvervoer tussen Antigua en Barbuda en de Nederlandse Antillen
 
-The Kingdom of the Netherlands, in respect of the Netherlands Antilles,
-
-and
-
-Antigua and Barbuda,
-
-hereinafter referred to as “the Parties”;
-
-Being Parties to the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944;
-
-Desiring to contribute to the progress of regional and international civil aviation;
-
-Desiring to conclude an agreement for the purpose of establishing and operating air services between and beyond their respective territories;
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, in respect of the Netherlands Antilles, and Antigua and Barbuda, hereinafter referred to as “the Parties”; Being Parties to the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944; Desiring to contribute to the progress of regional and international civil aviation; Desiring to conclude an agreement for the purpose of establishing and operating air services between and beyond their respective territories; Have agreed as follows:*
 
 ##### Article 1. Definitions
 
@@ -60,9 +27,9 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 - 4. “Convention” means the Convention on International Civil Aviation, opened for signature at Chicago on December 7, 1944, and includes;
 
-- a). any amendment that has entered into force under Article 94(a) of the Convention and has been ratified by both Parties, and
+- a) any amendment that has entered into force under Article 94(a) of the Convention and has been ratified by both Parties, and
 
-- b). any Annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such Annex or amendment is at any given time effective for both Parties;
+- b) any Annex or any amendment thereto adopted under Article 90 of the Convention, insofar as such Annex or amendment is at any given time effective for both Parties;
 
 - 5. “Designated airline” means an airline designated and authorized in accordance with [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2010-03-01&g=2010-03-01) of this Agreement;
 
@@ -84,11 +51,11 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 1. Each Party grants to the other Party the following rights for the conduct of air transportation by the designated airlines of the other Party:
 
-- a). the right to fly across its territory without landing;
+- a) the right to fly across its territory without landing;
 
-- b). the right to make stops in its territory for non-traffic purposes; and
+- b) the right to make stops in its territory for non-traffic purposes; and
 
-- c). the rights otherwise specified in this Agreement.
+- c) the rights otherwise specified in this Agreement.
 
 2. Nothing in this Article shall be deemed to confer on the airline or airlines of one Party the right to take on board in the territory of the other Party, passengers, their baggage, cargo, or mail carried for compensation and destined for another point in the territory of that other Party.
 
@@ -96,9 +63,9 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 1. Each designated airline may on any or all flights on the agreed services and at its option, change aircraft in the territory of the other Party or at any point along the specified routes, provided that:
 
-- a). aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
+- a) aircraft used beyond the point of change of aircraft shall be scheduled in coincidence with the inbound or outbound aircraft, as the case may be;
 
-- b). in the case of change of aircraft in the territory of the other Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
+- b) in the case of change of aircraft in the territory of the other Party and when more than one aircraft is operated beyond the point of change, not more than one such aircraft may be of equal size and none may be larger than the aircraft used on the third and fourth freedom sector.
 
 2. For the purpose of change of aircraft operations, a designated airline may use its own equipment and, subject to national regulations, leased equipment, and may operate under commercial arrangements with another airline.
 
@@ -110,11 +77,11 @@ For the purpose of this Agreement, unless otherwise stated, the term:
 
 2. On receipt of such a designation, and of applications from the designated airline, in the form and manner prescribed for operating authorizations and technical permissions, the other Party shall grant appropriate authorizations and permissions within thirty (30) days, provided:
 
-- a). substantial ownership and effective control of that airline are vested in the Government designating the airline, or nationals of the Party, or both;
+- a) substantial ownership and effective control of that airline are vested in the Government designating the airline, or nationals of the Party, or both;
 
-- b). the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
+- b) the designated airline is qualified to meet the conditions prescribed under the laws and regulations normally applied to the operation of international air transportation by the Party considering the application or applications; and
 
-- c). the Government designating the airline is maintaining and administering the standards set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety) and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2010-03-01&g=2010-03-01) (Aviation Security).
+- c) the Government designating the airline is maintaining and administering the standards set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety) and [Article 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=8&z=2010-03-01&g=2010-03-01) (Aviation Security).
 
 3. The right of each Party to designate an airline or airlines shall include designation in accordance with the Principle of Community of Interest as established by the International Civil Aviation Organization (ICAO). On receipt of such designation and application from the designated airline in the form and manner prescribed for operating authorization the Aeronautical authorities shall, without undue delay, grant the appropriate authorization provided the designated airline complies with the provisions of paragraph 2b of the present Article.
 
@@ -124,11 +91,11 @@ Once the designation is received, the responsibility for compliance with [Articl
 
 1. Either Party may revoke, suspend or limit the operating authorizations or technical permissions of an airline designated by the other Party where:
 
-- a). substantial ownership and effective control of that airline are not vested in the other designating Government, the Party’s nationals, or both, or in the case of authorization granted under [Article 4, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2010-03-01&g=2010-03-01), where the airline no longer meets the requirements of the Community of Interest Principle as outlined in that Article;
+- a) substantial ownership and effective control of that airline are not vested in the other designating Government, the Party’s nationals, or both, or in the case of authorization granted under [Article 4, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=4&z=2010-03-01&g=2010-03-01), where the airline no longer meets the requirements of the Community of Interest Principle as outlined in that Article;
 
-- b). that airline has failed to comply with the laws and regulations referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=6&z=2010-03-01&g=2010-03-01) (Application of Laws) of this Agreement; or
+- b) that airline has failed to comply with the laws and regulations referred to in [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=6&z=2010-03-01&g=2010-03-01) (Application of Laws) of this Agreement; or
 
-- c). the other Party is not maintaining and administering the standards as set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety).
+- c) the other Party is not maintaining and administering the standards as set forth in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=7&z=2010-03-01&g=2010-03-01) (Safety).
 
 2. Unless immediate action is essential to prevent further non compliance with subparagraphs 1b or 1c of this Article, the rights established by this Article shall be exercised only after consultation with the other Party.
 
@@ -176,9 +143,9 @@ Once the designation is received, the responsibility for compliance with [Articl
 
 7. In operating or holding out the authorized services on the agreed routes, any designated airline of one Party may enter into co-operative marketing arrangements such as blocked-space, code-sharing, joint ventures or leasing arrangements, with
 
-- a). an airline or airlines of either Party; and
+- a) an airline or airlines of either Party; and
 
-- b). an airline or airlines of a third country, provided that such third country authorizes or allows comparable arrangements between the airlines of the other Party and other airlines on services to, from and via such a third country;
+- b) an airline or airlines of a third country, provided that such third country authorizes or allows comparable arrangements between the airlines of the other Party and other airlines on services to, from and via such a third country;
 
 provided that all airlines in such arrangements (1) hold the appropriate authority and (2) meet the requirements normally applied to such arrangements.
 
@@ -196,17 +163,17 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 1. The Parties agree that:
 
-- a). the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
+- a) the interest of consumers of air transport products will be protected from any misuse of such information including misleading presentation thereof;
 
-- b). a designated airline of a Party and the airline’s agents will have unrestricted and non-discriminatory access to and use of CRS in the territory of the other Party;
+- b) a designated airline of a Party and the airline’s agents will have unrestricted and non-discriminatory access to and use of CRS in the territory of the other Party;
 
-- c). in this respect the ICAO CRS Code of Conduct shall be applicable.
+- c) in this respect the ICAO CRS Code of Conduct shall be applicable.
 
 2. Each Party guarantees to the other Party free and unimpaired access in its territory to the CRS’s chosen as its primary system by the designated airline(s) of the Parties. Neither Party shall, in its territory, impose or permit to be imposed on the CRS of the designated airline(s) of the other Party more stringent requirements than those imposed on the CRS of its own designated airline(s), such as with respect to:
 
-- a). the operation and sale of the CRS services including CRS display and editing rules, and
+- a) the operation and sale of the CRS services including CRS display and editing rules, and
 
-- b). the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
+- b) the access to and use of communications facilities, selection and use of technical hardware and software or the installation of hardware.
 
 ##### Article 12. Fair Competition
 
@@ -220,17 +187,17 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 5. The Parties agree that the following airline practices may be regarded as possible unfair competitive practices which may merit closer examination:
 
-- –. charging fares and rates at levels which are, in the aggregate, insufficient to cover the costs of providing the services to which they relate;
+- – charging fares and rates at levels which are, in the aggregate, insufficient to cover the costs of providing the services to which they relate;
 
-- –. the addition of excessive capacity or frequency of service;
+- – the addition of excessive capacity or frequency of service;
 
-- –. the practices in question are sustained rather than temporary;
+- – the practices in question are sustained rather than temporary;
 
-- –. the practices in question have a serious negative economic effect on, or cause significant damage to, another airline;
+- – the practices in question have a serious negative economic effect on, or cause significant damage to, another airline;
 
-- –. the practices in question reflect an apparent intent or have the probable effect, of crippling, excluding or driving another airline from the market; and
+- – the practices in question reflect an apparent intent or have the probable effect, of crippling, excluding or driving another airline from the market; and
 
-- –. behaviour indicating an abuse of dominant position on the route.
+- – behaviour indicating an abuse of dominant position on the route.
 
 6. If the Aeronautical authorities of one Party consider that an operation or operations intended or conducted by a designated carrier of the other Party may constitute unfair competitive behaviour in accordance with the indicators listed in paragraph 5, they may request consultation in accordance with [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004072&artikel=15&z=2010-03-01&g=2010-03-01) (Consultations and amendment) with a view to resolving the problem. Any such request shall be accompanied by notice of the reasons for the request and the consultation shall begin within fifteen (15) days of the request.
 
@@ -238,11 +205,11 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 1. Each Party shall allow prices for air transportation to be established by each designated airline based upon commercial considerations in the marketplace. Intervention by the Parties shall be limited to:
 
-- a). prevention of unreasonably discriminatory prices or practices;
+- a) prevention of unreasonably discriminatory prices or practices;
 
-- b). protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
+- b) protection of consumers from prices that are unreasonably high or restrictive due to the abuse of a dominant position; and
 
-- c). protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
+- c) protection of airlines from prices that are artificially low due to direct or indirect governmental subsidy or support.
 
 2. Each Party may require notification to or filing with its Aeronautical authorities of prices to be charged to or from its territory by airlines of the other Party. Notification or filing by the airlines of both Parties may be required no more than thirty (30) days before the proposed date of effectiveness. In individual cases, notification or filing may be permitted on shorter notice than normally required. Neither Party shall require the notification or filing by airlines of the other Party of prices charged by charterers to the public, except as may be required on a non-discriminatory basis for information purposes.
 
@@ -270,9 +237,9 @@ provided that all airlines in such arrangements (1) hold the appropriate authori
 
 2. Arbitration shall be by a tribunal of three arbitrators to be constituted as follows:
 
-- a). Within thirty (30) days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within sixty (60) days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
+- a) Within thirty (30) days after the receipt of a request for arbitration, each Party shall name one arbitrator. Within sixty (60) days after these two arbitrators have been named, they shall by agreement appoint a third arbitrator, who shall act as President of the arbitral tribunal;
 
-- b). If either Party fails to name an arbitrator, or if the third arbitrator is not appointed in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within thirty (30) days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
+- b) If either Party fails to name an arbitrator, or if the third arbitrator is not appointed in accordance with subparagraph a of this paragraph, either Party may request the President of the Council of the International Civil Aviation Organization to appoint the necessary arbitrator or arbitrators within thirty (30) days. If the President of the Council is of the same nationality as one of the Parties, the most senior Vice President who is not disqualified on that ground shall make the appointment.
 
 3. Except as otherwise agreed, the arbitral tribunal shall determine the limits of its jurisdiction in accordance with this Agreement and shall establish its own procedural rules. The tribunal, once formed, may recommend interim relief measures pending its final determination. At the direction of the tribunal or at the request of either of the Parties, a conference to determine the precise issues to be arbitrated and the specific procedures to be followed shall be held not later than fifteen (15) days after the tribunal is fully constituted.
 
@@ -316,10 +283,10 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respe
 
 DONE in duplicate, at Saint John’s on this 24th day of November 2006, in the English language.
 
-**For the Kingdom of the Netherlands:**
+*For the Kingdom of the Netherlands:*
 
 K.A. GIJSBERTHA
 
-**For Antigua and Barbuda:**
+*For Antigua and Barbuda:*
 
 H. LOVELL

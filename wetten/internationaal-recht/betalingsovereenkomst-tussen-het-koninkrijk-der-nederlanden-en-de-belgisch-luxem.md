@@ -1,48 +1,19 @@
 ---
 title: "Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Roemeense Volksrepubliek, anderzijds"
 identifier: "BWBV0004838"
-country: "nl"
-rank: "verdrag"
-publication_date: "1969-02-03"
-last_updated: "1969-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004838"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004343613"
-version_id: "10004543692"
-internal_id: "C10007140381"
-label_id: "10004328564"
-dtd_version: "2.0"
-original_entry_into_force: "1960-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004838/1969-02-03/0"
-intitule_bron: "Trb.1960-139"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-11-02"
-intitule_in_force: "1960-11-02"
-intitule_status: "goed"
-original_publication: "Trb.1960-139"
-original_published_date: "1960-11-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-139"
-entry_into_force_date: "1960-10-01"
-jci_1_3: "jci1.3:c:BWBV0004838&z=1969-02-03&g=1969-02-03"
-jci_1_0: "1.0:c:BWBV0004838&g=1969-02-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-10-01"
+publicatiedatum: 1960-10-01
+laatste_update: 1969-02-03
+status: geldig
+toestand: 1969-02-03
+bron: "https://wetten.overheid.nl/BWBV0004838"
+opgehaald: 2026-09-14
 ---
+
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Roemeense Volksrepubliek, anderzijds
 
-Le Gouvernement du Royaume des Pays-Bas, et
-
-Le Gouvernement du Royaume de Belgique, tant en son nom qu'au nom du Gouvernement du Grand-Duché de Luxembourg, en vertu d'accords existants,
-
-Ces Gouvernements agissant en commun en vertu du Protocole relatif à la politique commerciale conclu entre eux le 9 décembre 1953, d'une part, et
-
-Le Gouvernement de la République Populaire Roumaine, d'autre part,
-
-Animés du désir de régler le trafic des paiements entre leurs territoires,
-
-Sont convenus des dispositions suivantes:
+*Le Gouvernement du Royaume des Pays-Bas, et Le Gouvernement du Royaume de Belgique, tant en son nom qu'au nom du Gouvernement du Grand-Duché de Luxembourg, en vertu d'accords existants, Ces Gouvernements agissant en commun en vertu du Protocole relatif à la politique commerciale conclu entre eux le 9 décembre 1953, d'une part, et Le Gouvernement de la République Populaire Roumaine, d'autre part, Animés du désir de régler le trafic des paiements entre leurs territoires, Sont convenus des dispositions suivantes:*
 
 ##### Article I
 

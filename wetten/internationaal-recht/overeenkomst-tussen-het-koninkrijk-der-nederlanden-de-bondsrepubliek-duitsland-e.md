@@ -1,62 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium"
 identifier: "BWBV0004423"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-07-19"
-last_updated: "1971-07-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004423"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004120003"
-version_id: "10004288792"
-internal_id: "C10006984401"
-label_id: "10004104954"
-dtd_version: "2.0"
-original_entry_into_force: "1971-07-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004423/1971-07-19/0"
-intitule_bron: "Trb.1970-41"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-03-17"
-intitule_in_force: "1971-08-06"
-intitule_status: "goed"
-original_publication: "Trb.1970-41"
-original_published_date: "1970-03-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-41"
-entry_into_force_date: "1971-07-19"
-jci_1_3: "jci1.3:c:BWBV0004423&z=1971-07-19&g=1971-07-19"
-jci_1_0: "1.0:c:BWBV0004423&g=1971-07-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-07-19"
+publicatiedatum: 1971-07-19
+laatste_update: 1971-07-19
+status: geldig
+toestand: 1971-07-19
+bron: "https://wetten.overheid.nl/BWBV0004423"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake samenwerking bij de ontwikkeling en exploitatie van het gas-ultracentrifuge-procédé voor de produktie van verrijkt uranium
 
-Het Koninkrijk der Nederlanden,
-
-de Bondsrepubliek Duitsland en
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
-
-Van oordeel zijnde dat het van groot belang is dat verrijkt uranium beschikbaar komt voor andere doeleinden dan de vervaardiging van kernwapens;
-
-Overwegende dat in de nabije toekomst een snelle toeneming van het aantal kerncentrales in Europa en elders is te verwachten;
-
-Overwegende dat het van belang is in Europa een aanzienlijke capaciteit voor de verrijking van uranium te ontwikkelen ten einde te kunnen voldoen aan de vraag naar verrijkt uranium als brandstof voor deze centrales;
-
-Overwegende dat in hun onderscheiden landen vorderingen op het gebied van de ontwikkeling van de gas-ultracentrifugemethode zijn gemaakt;
-
-Overwegende dat gezamenlijke ontwikkeling van deze methode de Europese samenwerking op technologisch gebied zal versterken en dat gezamenlijke industriële exploitatie van deze methode zal bijdragen tot de economische integratie van Europa;
-
-Uitdrukking gevend aan hun bereidheid te overwegen samen te werken met Europese of andere landen die belangstelling hebben voor de produktie van verrijkt uranium volgens de gas-ultracentrifuge-methode;
-
-Voorts uitdrukking gevend aan hun bereidheid hun samenwerking in te passen in het verband van een grotere Europese gemeenschap;
-
-In herinnering brengend de op 4 maart 1970 te Almelo ondertekende Interim-Overeenkomst inzake beveiligingsmaatregelen en rubricering en uitdrukking gevend aan hun voornemen geëigende beveiligingsmaatregelen toe te passen ter uitvoering van een gemeenschappelijk rubriceringsbeleid ten aanzien van het gas-ultracentrifuge-procédé;
-
-Wederom bevestigend dat iedere afspraak tot samenwerking in overeenstemming zal moeten zijn met het beleid van de Overeenkomstsluitende Partijen inzake de niet-verspreiding van kernwapens, waaraan zij groot belang hechten, alsmede met hun internationale verplichtingen op dit gebied, en dat geëigende internationale veiligheidscontrole daarop zal worden toegepast;
-
-Zijn overeengekomen als volgt:
+*Het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland; Van oordeel zijnde dat het van groot belang is dat verrijkt uranium beschikbaar komt voor andere doeleinden dan de vervaardiging van kernwapens; Overwegende dat in de nabije toekomst een snelle toeneming van het aantal kerncentrales in Europa en elders is te verwachten; Overwegende dat het van belang is in Europa een aanzienlijke capaciteit voor de verrijking van uranium te ontwikkelen ten einde te kunnen voldoen aan de vraag naar verrijkt uranium als brandstof voor deze centrales; Overwegende dat in hun onderscheiden landen vorderingen op het gebied van de ontwikkeling van de gas-ultracentrifugemethode zijn gemaakt; Overwegende dat gezamenlijke ontwikkeling van deze methode de Europese samenwerking op technologisch gebied zal versterken en dat gezamenlijke industriële exploitatie van deze methode zal bijdragen tot de economische integratie van Europa; Uitdrukking gevend aan hun bereidheid te overwegen samen te werken met Europese of andere landen die belangstelling hebben voor de produktie van verrijkt uranium volgens de gas-ultracentrifuge-methode; Voorts uitdrukking gevend aan hun bereidheid hun samenwerking in te passen in het verband van een grotere Europese gemeenschap; In herinnering brengend de op 4 maart 1970 te Almelo ondertekende Interim-Overeenkomst inzake beveiligingsmaatregelen en rubricering en uitdrukking gevend aan hun voornemen geëigende beveiligingsmaatregelen toe te passen ter uitvoering van een gemeenschappelijk rubriceringsbeleid ten aanzien van het gas-ultracentrifuge-procédé; Wederom bevestigend dat iedere afspraak tot samenwerking in overeenstemming zal moeten zijn met het beleid van de Overeenkomstsluitende Partijen inzake de niet-verspreiding van kernwapens, waaraan zij groot belang hechten, alsmede met hun internationale verplichtingen op dit gebied, en dat geëigende internationale veiligheidscontrole daarop zal worden toegepast; Zijn overeengekomen als volgt:*
 
 ##### Artikel I
 
@@ -80,31 +37,31 @@ Zijn overeengekomen als volgt:
 
 (5). De Gemengde Commissie heeft tot taak:
 
-- (a). alle vragen die met betrekking tot de in Artikel VII voorziene veiligheidscontrole rijzen, te bestuderen en dienaangaande beslissingen te nemen;
+- (a) alle vragen die met betrekking tot de in Artikel VII voorziene veiligheidscontrole rijzen, te bestuderen en dienaangaande beslissingen te nemen;
 
-- (b). vragen voortvloeiende uit de rubriceringsregelingen en beveiligingsmaatregelen die overeenkomstig Artikel V in acht genomen moeten worden, te bestuderen en dienaangaande beslissingen te nemen;
+- (b) vragen voortvloeiende uit de rubriceringsregelingen en beveiligingsmaatregelen die overeenkomstig Artikel V in acht genomen moeten worden, te bestuderen en dienaangaande beslissingen te nemen;
 
-- (c). de Overeenkomstsluitende Partijen van advies te dienen betreffende de voorwaarden waarop overeenkomsten als bedoeld in artikel IX zouden kunnen worden gesloten;
+- (c) de Overeenkomstsluitende Partijen van advies te dienen betreffende de voorwaarden waarop overeenkomsten als bedoeld in artikel IX zouden kunnen worden gesloten;
 
-- (d). voorstellen betrekking hebbende op de volgende onderwerpen te bestuderen en dienaangaande beslissingen te nemen:
+- (d) voorstellen betrekking hebbende op de volgende onderwerpen te bestuderen en dienaangaande beslissingen te nemen:
 
-- (i). het overbrengen naar gebieden buiten het grondgebied van de Overeenkomstsluitende Partijen van gegevens die zijn verkregen ten gevolge van de in Artikel I van deze Overeenkomst omschreven samenwerking, dan wel van gegevens waarvan de daarop rustende rechten zijn overgedragen aan de gezamenlijke industriële ondernemingen ingevolge deze Overeenkomst;
+   - (i) het overbrengen naar gebieden buiten het grondgebied van de Overeenkomstsluitende Partijen van gegevens die zijn verkregen ten gevolge van de in Artikel I van deze Overeenkomst omschreven samenwerking, dan wel van gegevens waarvan de daarop rustende rechten zijn overgedragen aan de gezamenlijke industriële ondernemingen ingevolge deze Overeenkomst;
 
-- (ii). het verlenen van licenties of sub-licenties voor het gebruik buiten het grondgebied van de Overeenkomstsluitende Partijen van de gegevens bedoeld in (i) van dit lid, dan wel van uitvindingen die worden gedaan tijdens de in Artikel I van deze Overeenkomst omschreven samenwerking;
+   - (ii) het verlenen van licenties of sub-licenties voor het gebruik buiten het grondgebied van de Overeenkomstsluitende Partijen van de gegevens bedoeld in (i) van dit lid, dan wel van uitvindingen die worden gedaan tijdens de in Artikel I van deze Overeenkomst omschreven samenwerking;
 
-- (iii). de uitvoer buiten het grondgebied van de Overeenkomstsluitende Partijen van apparatuur of materialen ontwikkeld, geproduceerd of verwerkt ingevolge de in Artikel I van deze Overeenkomst omschreven samenwerking;
+   - (iii) de uitvoer buiten het grondgebied van de Overeenkomstsluitende Partijen van apparatuur of materialen ontwikkeld, geproduceerd of verwerkt ingevolge de in Artikel I van deze Overeenkomst omschreven samenwerking;
 
-- (e). de akten waarbij de gezamenlijke industriële ondernemingen worden opricht goed te keuren en in het bijzonder goedkeuring te verlenen aan de samenstelling van deze ondernemingen, de te beslissen of aan voorstellen tot wijziging van deze akten of deze samenstelling gevolg kan worden gegeven;
+- (e) de akten waarbij de gezamenlijke industriële ondernemingen worden opricht goed te keuren en in het bijzonder goedkeuring te verlenen aan de samenstelling van deze ondernemingen, de te beslissen of aan voorstellen tot wijziging van deze akten of deze samenstelling gevolg kan worden gegeven;
 
-- (f). voorstellen goed te keuren van de gezamenlijke industriële ondernemingen betreffende de plaats van vestiging van alle belangrijke installaties die zullen worden gebouwd ingevolge de in Artikel I van deze Overeenkomst omschreven samenwerking;
+- (f) voorstellen goed te keuren van de gezamenlijke industriële ondernemingen betreffende de plaats van vestiging van alle belangrijke installaties die zullen worden gebouwd ingevolge de in Artikel I van deze Overeenkomst omschreven samenwerking;
 
-- (g). regelingen te treffen aangaande de vaststelling en de betaling van royalty's overeenkomstig de derde, vierde en vijfde paragraaf van Bijlage I bij deze Overeenkomst betreffende octrooien en andere industriële rechten;
+- (g) regelingen te treffen aangaande de vaststelling en de betaling van royalty's overeenkomstig de derde, vierde en vijfde paragraaf van Bijlage I bij deze Overeenkomst betreffende octrooien en andere industriële rechten;
 
-- (h). die programma's voor onderzoek en ontwikkeling goed te keuren die geheel of ten dele zullen worden gefinancierd uit gezamenlijke regeringssubsidies van de Overeenkomstsluitende Partijen, alsmede voorstellen te bestuderen, gedaan door de gezamenlijke industriële ondernemingen aangaande wijzigingen in het gezamenlijk door de Overeenkomstsluitende Partijen te dragen aandeel in de kosten voor onderzoek en ontwikkeling;
+- (h) die programma's voor onderzoek en ontwikkeling goed te keuren die geheel of ten dele zullen worden gefinancierd uit gezamenlijke regeringssubsidies van de Overeenkomstsluitende Partijen, alsmede voorstellen te bestuderen, gedaan door de gezamenlijke industriële ondernemingen aangaande wijzigingen in het gezamenlijk door de Overeenkomstsluitende Partijen te dragen aandeel in de kosten voor onderzoek en ontwikkeling;
 
-- (i). beslissingen te nemen omtrent het treffen van geëigende maatregelen, indien zich ontwikkelingen op technisch of economisch gebied voordoen, die de exploitatie op commerciële basis van het gas-ultracentrifuge-procédé door de gezamenlijke industriële ondernemingen in belangrijke mate kunnen beïnvloeden of daaromtrent de Overeenkomstsluitende Partijen aanbevelingen te doen;
+- (i) beslissingen te nemen omtrent het treffen van geëigende maatregelen, indien zich ontwikkelingen op technisch of economisch gebied voordoen, die de exploitatie op commerciële basis van het gas-ultracentrifuge-procédé door de gezamenlijke industriële ondernemingen in belangrijke mate kunnen beïnvloeden of daaromtrent de Overeenkomstsluitende Partijen aanbevelingen te doen;
 
-- (j). beslissingen te nemen met betrekking tot alle vragen betreffende de uitlegging van deze Overeenkomst die aan haar worden voorgelegd door de gezamenlijke industriële ondernemingen in verband met de uitoefening van hun taken.
+- (j) beslissingen te nemen met betrekking tot alle vragen betreffende de uitlegging van deze Overeenkomst die aan haar worden voorgelegd door de gezamenlijke industriële ondernemingen in verband met de uitoefening van hun taken.
 
 (6). Gedurende de periode waarin een aanvankelijk scheidend vermogen van in totaal 350 ton per jaar wordt opgebouwd, keurt de Gemengde Commissie ook die bepalingen van de belangrijkste tussen de gezamenlijke industriële ondernemingen te sluiten contracten goed die belangrijke financiële gevolgen kunnen hebben.
 
@@ -112,13 +69,13 @@ Zijn overeengekomen als volgt:
 
 ##### Artikel III
 
-- (a). Met inachtneming van de bepalingen van dit Artikel, neemt een Overeenkomstsluitende Partij niet de exploitatie op commerciële basis ter hand van het gas-ultracentrifuge-procédé voor de verrijking van uranium of bevordert of helpt op enigerlei wijze deze exploitatie, dan door middel van de in Artikel I van deze Overeenkomst omschreven samenwerking.
+(1). - (a) Met inachtneming van de bepalingen van dit Artikel, neemt een Overeenkomstsluitende Partij niet de exploitatie op commerciële basis ter hand van het gas-ultracentrifuge-procédé voor de verrijking van uranium of bevordert of helpt op enigerlei wijze deze exploitatie, dan door middel van de in Artikel I van deze Overeenkomst omschreven samenwerking.
 
-- (b). De gezamenlijke industriële ondernemingen spannen zich in om te voldoen aan alle opdrachten voor de verrijking van uranium die bij hen worden geplaatst door afnemers op het grondgeied van een Overeenkomstsluitende Partij, ongeacht of het voldoen aan deze opdrachten het creëren van nieuwe capaciteit voor het verrijken van uranium nodig zou maken. De gezamenlijke industriële ondernemingen zijn verplicht aan deze opdrachten te voldoen, indien de betrokken Overeenkomstsluitende Partij of lichamen op haar grondgebied ermede instemt, onderscheidenlijk instemmen dat gedeelte van de benodigde extra financiën beschikbaar te stellen dat niet door de gezamenlijke industriële ondernemingen en de andere Overeenkomstsluitende Partijen wordt verschaft.
+- (b) De gezamenlijke industriële ondernemingen spannen zich in om te voldoen aan alle opdrachten voor de verrijking van uranium die bij hen worden geplaatst door afnemers op het grondgeied van een Overeenkomstsluitende Partij, ongeacht of het voldoen aan deze opdrachten het creëren van nieuwe capaciteit voor het verrijken van uranium nodig zou maken. De gezamenlijke industriële ondernemingen zijn verplicht aan deze opdrachten te voldoen, indien de betrokken Overeenkomstsluitende Partij of lichamen op haar grondgebied ermede instemt, onderscheidenlijk instemmen dat gedeelte van de benodigde extra financiën beschikbaar te stellen dat niet door de gezamenlijke industriële ondernemingen en de andere Overeenkomstsluitende Partijen wordt verschaft.
 
-- (a). Geen der Overeenkomstsluitende Partijen neemt een nieuw programma voor onderzoek of ontwikkeling inzake het gas-ultracentrifuge-procédé ter hand ten einde dit procédé op commerciële basis te exploiteren of bevordert of helpt op enigerlei wijze een zodanig programma, tenzij dit programma in het kader van de in Artikel I van deze Overeenkomst omschreven samenwerking is aangeboden voor uitvoering door de daarvoor in aanmerking komende gezamenlijke industriële onderneming en dit aanbod niet binnen een termijn van 4 maanden is aanvaard.
+(2). - (a) Geen der Overeenkomstsluitende Partijen neemt een nieuw programma voor onderzoek of ontwikkeling inzake het gas-ultracentrifuge-procédé ter hand ten einde dit procédé op commerciële basis te exploiteren of bevordert of helpt op enigerlei wijze een zodanig programma, tenzij dit programma in het kader van de in Artikel I van deze Overeenkomst omschreven samenwerking is aangeboden voor uitvoering door de daarvoor in aanmerking komende gezamenlijke industriële onderneming en dit aanbod niet binnen een termijn van 4 maanden is aanvaard.
 
-- (b). In gevallen waarin een programma dat op deze wijze is aangeboden en dat niet is aanvaard, wordt uitgevoerd, mogen de resultaten daarvan niet door de betrokken Overeenkomstsluitende Partij worden gebruikt, tenzij deze zijn aangeboden voor gebruik door de daarvoor in aanmerking komende gezamenlijke industriële onderneming in het kader van de in Artikel I van de Overeenkomst omschreven samenwerking op billijke en redelijke voorwaarden en dat aanbod eveneens niet binnen een termijn van vier maanden is aanvaard.
+- (b) In gevallen waarin een programma dat op deze wijze is aangeboden en dat niet is aanvaard, wordt uitgevoerd, mogen de resultaten daarvan niet door de betrokken Overeenkomstsluitende Partij worden gebruikt, tenzij deze zijn aangeboden voor gebruik door de daarvoor in aanmerking komende gezamenlijke industriële onderneming in het kader van de in Artikel I van de Overeenkomst omschreven samenwerking op billijke en redelijke voorwaarden en dat aanbod eveneens niet binnen een termijn van vier maanden is aanvaard.
 
 (3). De Overeenkomstsluitende Partijen houden elkander via de Gemengde Commissie op de hoogte van technische en/of economische ontwikkelingen die de exploitatie op commerciële basis van het gas-ultracentrifuge-procédé door de gezamenlijke industriële ondernemingen in belangrijke mate zouden kunnen beïnvloeden.
 
@@ -146,11 +103,11 @@ Zijn overeengekomen als volgt:
 
 (2). Ingevolge het bepaalde in het eerste lid van dit Artikel worden de volgende procedures toegepast:
 
-- (a). de procedures van het door de Europese Gemeenschap voor Atoomenergie (EURATOM) ingestelde stelsel voor veiligheidscontrole en de maatregelen voor het afleggen van rekening en verantwoording voor het gebruik van materiaal en uitrusting, zoals vastgesteld door de Regering van het Verenigd Koninkrijk, zoals die van toepassing zijn op de onderscheiden grondgebieden van de Overeenkomstsluitende Partijen; vertegenwoordigers van de Overeenkomstsluitende Partijen en waar noodzakelijk van de Commissie van de Europese Gemeenschappen plegen overleg en wisselen bezoeken uit, ten einde te verzekeren dat zodanige procedures bevredigend en doelmatig zijn voor het doel van dit Artikel;
+- (a) de procedures van het door de Europese Gemeenschap voor Atoomenergie (EURATOM) ingestelde stelsel voor veiligheidscontrole en de maatregelen voor het afleggen van rekening en verantwoording voor het gebruik van materiaal en uitrusting, zoals vastgesteld door de Regering van het Verenigd Koninkrijk, zoals die van toepassing zijn op de onderscheiden grondgebieden van de Overeenkomstsluitende Partijen; vertegenwoordigers van de Overeenkomstsluitende Partijen en waar noodzakelijk van de Commissie van de Europese Gemeenschappen plegen overleg en wisselen bezoeken uit, ten einde te verzekeren dat zodanige procedures bevredigend en doelmatig zijn voor het doel van dit Artikel;
 
-- (b). de procedures die voortvloeien uit bijkomende verplichtingen met betrekking tot veiligheidscontrole die bindend zijn voor een of meer der Overeenkomstsluitende Partijen ingevolge een overeenkomst of overeenkomsten gesloten met de Internationale Organisatie voor Atoomenergie;
+- (b) de procedures die voortvloeien uit bijkomende verplichtingen met betrekking tot veiligheidscontrole die bindend zijn voor een of meer der Overeenkomstsluitende Partijen ingevolge een overeenkomst of overeenkomsten gesloten met de Internationale Organisatie voor Atoomenergie;
 
-- (c). in geval van samenwerking met of uitvoer naar andere Staten dan de Overeenkomstsluitende Partijen, mutatis mutandis de onder (a) en (b) hierboven omschreven internationale procedures.
+- (c) in geval van samenwerking met of uitvoer naar andere Staten dan de Overeenkomstsluitende Partijen, mutatis mutandis de onder (a) en (b) hierboven omschreven internationale procedures.
 
 (3). De Gemengde Commissie treft alle voor de tenuitvoerlegging van dit Artikel noodzakelijke voorzieningen.
 

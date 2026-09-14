@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0004204"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004204"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004004113"
-version_id: "10004164922"
-internal_id: "C10009544071"
-label_id: "10003989014"
-dtd_version: "2.0"
-original_entry_into_force: "1971-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004204/2010-07-01/0"
-intitule_bron: "Trb.1970-169"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-10-13"
-intitule_in_force: "1971-04-28"
-intitule_status: "goed"
-original_publication: "Trb.1970-169"
-original_published_date: "1970-10-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-169"
-entry_into_force_date: "1971-04-21"
-jci_1_3: "jci1.3:c:BWBV0004204&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBV0004204&g=2010-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-04-21"
+publicatiedatum: 1971-04-21
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBV0004204"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-Hare Majesteit de Koningin der Nederlanden
-
-en de Bondspresident van de Republiek Oostenrijk,
-
-de wens koesterende, een verdrag te sluiten tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, hebben daartoe tot hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Constant Wilhelm Baron van Boetzelaer van Asperen, Buitengewoon en Gevolmachtigd Ambassadeur te Wenen;
-
-De Bondspresident van de Republiek Oostenrijk:
-
-Sektionschef Dr. Josef Hammerschmidt, Bondsministerie van Financiën;
-
-die, na uitwisseling van hun volmachten, die in goede en behoorlijke vorm werden bevonden, het volgende zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en de Bondspresident van de Republiek Oostenrijk, de wens koesterende, een verdrag te sluiten tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, hebben daartoe tot hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Constant Wilhelm Baron van Boetzelaer van Asperen, Buitengewoon en Gevolmachtigd Ambassadeur te Wenen; De Bondspresident van de Republiek Oostenrijk: Sektionschef Dr. Josef Hammerschmidt, Bondsministerie van Financiën; die, na uitwisseling van hun volmachten, die in goede en behoorlijke vorm werden bevonden, het volgende zijn overeengekomen:*
 
 ### HOOFDSTUK I. Reikwijdte van het Verdrag
 
@@ -62,61 +29,61 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. De bestaande belastingen waarop het Verdrag van toepassing is, zijn met name:
 
-- a). voor Nederland:
+- a) voor Nederland:
 
-- i). inkomstenbelasting;
+   - i) inkomstenbelasting;
 
-- ii). de loonbelasting;
+   - ii) de loonbelasting;
 
-- iii). de vennootschapsbelasting;
+   - iii) de vennootschapsbelasting;
 
-- iv). de dividendbelasting;
+   - iv) de dividendbelasting;
 
-- v). de commissarissenbelasting;
+   - v) de commissarissenbelasting;
 
-- vi). de vermogensbelasting;
+   - vi) de vermogensbelasting;
 
-- i). de grondbelasting;
+      - i) de grondbelasting;
 
-- ii). de gemeentelijke baatbelastingen;
+      - ii) de gemeentelijke baatbelastingen;
 
-- ix). de gemeentelijke bouwterreinbelastingen;
+   - ix) de gemeentelijke bouwterreinbelastingen;
 
-- x). de wegen-, straat- en vaartbelastingen;
+   - x) de wegen-, straat- en vaartbelastingen;
 
-- xi). het recht op de mijnen;
+   - xi) het recht op de mijnen;
 
-- b). voor Oostenrijk:
+- b) voor Oostenrijk:
 
-- i). de Einkommensteuer (inkomstenbelasting) (met inbegrip van de Lohnsteuer (loonbelasting) en de Kapitalertragsteuer (belasting op kapitaalopbrengsten));
+   - i) de Einkommensteuer (inkomstenbelasting) (met inbegrip van de Lohnsteuer (loonbelasting) en de Kapitalertragsteuer (belasting op kapitaalopbrengsten));
 
-- ii). de Körperschaftsteuer (vennootschapsbelasting) (met inbegrip van de Kapitalertragsteuer (belasting op kapitaalopbrengsten));
+   - ii) de Körperschaftsteuer (vennootschapsbelasting) (met inbegrip van de Kapitalertragsteuer (belasting op kapitaalopbrengsten));
 
-- iii). de Vermögensteuer (vermogensbelasting);
+   - iii) de Vermögensteuer (vermogensbelasting);
 
-- iv). de Beitrag vom Einkommen zur Förderung des Wohnbaues und für Zwecke des Familienlastenausgleiches (bijdrage van het inkomen voor het bevorderen van de woningbouw en voor de verdeling van gezinslasten);
+   - iv) de Beitrag vom Einkommen zur Förderung des Wohnbaues und für Zwecke des Familienlastenausgleiches (bijdrage van het inkomen voor het bevorderen van de woningbouw en voor de verdeling van gezinslasten);
 
-- v). de Katastrophenfondsbeitrag vom Einkommen (bijdrage van het inkomen in het Rampenfonds);
+   - v) de Katastrophenfondsbeitrag vom Einkommen (bijdrage van het inkomen in het Rampenfonds);
 
-- vi). de Sonderabgabe vom Einkommen (extra-heffing van het inkomen);
+   - vi) de Sonderabgabe vom Einkommen (extra-heffing van het inkomen);
 
-- vii). de Aufsichtsratsabgabe (commissarissenbelasting);
+   - vii) de Aufsichtsratsabgabe (commissarissenbelasting);
 
-- viii). de Gewerbesteuer (ondernemingsbelasting) (met inbegrip van de Lohnsummensteuer (belasting op totaalbedrag der uitbetaalde Ionen en salarissen));
+   - viii) de Gewerbesteuer (ondernemingsbelasting) (met inbegrip van de Lohnsummensteuer (belasting op totaalbedrag der uitbetaalde Ionen en salarissen));
 
-- ix). de Grundsteuer (grondbelasting);
+   - ix) de Grundsteuer (grondbelasting);
 
-- x). de Abgabe von land- und forstwirtschaftlichen Betrieben (heffing van landbouw- en bosbedrijven);
+   - x) de Abgabe von land- und forstwirtschaftlichen Betrieben (heffing van landbouw- en bosbedrijven);
 
-- xi). de Abgabe vom Bodenwert bei unbebauten Grundstücken (heffing van de waarde van onbebouwde terreinen);
+   - xi) de Abgabe vom Bodenwert bei unbebauten Grundstücken (heffing van de waarde van onbebouwde terreinen);
 
-- xii). de Katastrophenfondsbeitrag vom Vermögen (bijdrage van het vermogen in het Rampenfonds);
+   - xii) de Katastrophenfondsbeitrag vom Vermögen (bijdrage van het vermogen in het Rampenfonds);
 
-- xiii). de Sonderabgabe vom Vermögen (extra-heffing van het vermogen);
+   - xiii) de Sonderabgabe vom Vermögen (extra-heffing van het vermogen);
 
-- xiv). de Abgabe von Vermögen, die der Erbschaftssteuer entzogen sind (heffing van vermogens, die aan de successiebelasting onttrokken zijn);
+   - xiv) de Abgabe von Vermögen, die der Erbschaftssteuer entzogen sind (heffing van vermogens, die aan de successiebelasting onttrokken zijn);
 
-- xv). de Beiträge von land- und forstwirtschaftlichen Betrieben zum Ausgleichsfonds für Familienbeihilfen (bijdragen van landbouw- en bosbedrijven in het egalisatiefonds voor gezinstoelagen).
+   - xv) de Beiträge von land- und forstwirtschaftlichen Betrieben zum Ausgleichsfonds für Familienbeihilfen (bijdragen van landbouw- en bosbedrijven in het egalisatiefonds voor gezinstoelagen).
 
 4. Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen, die in de toekomst naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de beide Staten delen elkaar alle wezenlijke wijzigingen die in hun belastingwetgeving zijn aangebracht, mede.
 
@@ -126,23 +93,23 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 1. In dit Verdrag, tenzij het zinsverband anders vereist:
 
-- a). betekenen de uitdrukkingen „een van de beide Staten” en „de andere Staat”, al naar het zinsverband vereist, Nederland of Oostenrijk;
+- a) betekenen de uitdrukkingen „een van de beide Staten” en „de andere Staat”, al naar het zinsverband vereist, Nederland of Oostenrijk;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan, waarop het Koninkrijk der Nederlanden in overeenstemming met het internationale recht soevereine rechten heeft;
 
-- c). betekent de uitdrukking „Oostenrijk” het grondgebied van de Republiek Oostenrijk;
+- c) betekent de uitdrukking „Oostenrijk” het grondgebied van de Republiek Oostenrijk;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de beide Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de beide Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de beide Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de beide Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „bevoegde autoriteit”:
+- g) betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Oostenrijk: de Bondsminister voor Financiën.
+   - 2. in Oostenrijk: de Bondsminister voor Financiën.
 
 2. Voor de toepassing van het Verdrag door een van de beide Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van het Verdrag uitmaken.
 
@@ -154,11 +121,11 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waar hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waar hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van die van de beide Staten waarvan hij onderdaan is.
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van die van de beide Staten waarvan hij onderdaan is.
 
 4. Indien een andere dan een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
@@ -168,31 +135,31 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- f) een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
 
-- g). de plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden, waarvan de duur twaalf maanden overschrijdt.
+- g) de plaats van uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden, waarvan de duur twaalf maanden overschrijdt.
 
 3. Een vaste inrichting wordt niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
 
 4. Een persoon die in een van de beide Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het vijfde lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting beschouwd, indien hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming.
 
@@ -240,9 +207,9 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 Indien:
 
-- a). een onderneming van een van de beide Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de beide Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de beide Staten en een onderneming van de andere Staat,
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de beide Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in haar handelsbetrekkingen of financiële betrekkingen voorwaarden worden aanvaard of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar tengevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -316,11 +283,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de beide Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende kalenderjaar een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende kalenderjaar een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- c). de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- c) de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning genoten door een inwoner van een van de beide Staten ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer of aan boord van een schip dat dient voor het vervoer in de binnenwateren, slechts in die Staat belastbaar.
 
@@ -344,15 +311,15 @@ Onder voorbehoud van de bepalingen van [artikel 20, tweede lid, sub a, en vierde
 
 ##### Artikel 20. Overheidsfuncties en sociale zekerheid
 
-- a. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, mogen in die Staat worden belast.
+1. - a. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam, mogen in die Staat worden belast.
 
 - b. Deze salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere Staat belastbaar, indien de diensten in die Staat worden bewezen en de natuurlijke persoon inwoner is van die Staat, die:
 
-- i. onderdaan is van die Staat; of
+   - i. onderdaan is van die Staat; of
 
-- ii. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
+   - ii. niet uitsluitend voor het verrichten van de diensten inwoner van die Staat werd.
 
-- a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam mogen in die Staat worden belast.
+2. - a. Pensioenen, betaald door, of uit fondsen in het leven geroepen door, een van de Staten of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten bewezen aan die Staat of dat onderdeel of dat publiekrechtelijk lichaam mogen in die Staat worden belast.
 
 - b. Deze pensioenen zijn echter alleen in de andere Staat belastbaar, indien de natuurlijke persoon inwoner en onderdaan is van die Staat.
 
@@ -392,9 +359,9 @@ Bestanddelen van het inkomen van een inwoner van een van de beide Staten die nie
 
 Nederland verleent voorts een vermindering op het overeenkomstig het eerste lid berekende belastingbedrag voor die bestanddelen van het inkomen die volgens de [artikelen 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=12&z=2010-07-01&g=2010-07-01), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=13&z=2010-07-01&g=2010-07-01), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=14&z=2010-07-01&g=2010-07-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=18&z=2010-07-01&g=2010-07-01), in Oostenrijk mogen worden belast en die in de in het eerste lid van dit artikel bedoelde grondslag zijn begrepen. Het bedrag van deze vermindering is het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in Oostenrijk geheven belasting;
+- a) het bedrag dat gelijk is aan de in Oostenrijk geheven belasting;
 
-- b). het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+- b) het bedrag van de Nederlandse belasting dat tot het overeenkomstig het eerste lid van dit artikel berekende belastingbedrag in dezelfde verhouding staat, als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 3. Indien een inwoner van Oostenrijk inkomen verkrijgt of vermogen bezit dat overeenkomstig de bepalingen van dit Verdrag in Nederland mag worden belast, stelt Oostenrijk, behoudens de bepalingen van het vierde lid, dat inkomen of vermogen vrij van belasting; Oostenrijk mag evenwel bij het berekenen van de belasting over het overige inkomen of vermogen van die inwoner het belasting tarief toepassen, dat van toepassing zou zijn geweest, indien het vrijgestelde inkomen of vermogen niet was vrijgesteld.
 
@@ -408,9 +375,9 @@ Nederland verleent voorts een vermindering op het overeenkomstig het eerste lid 
 
 2. De uitdrukking „onderdanen” betekent:
 
-- a). alle natuurlijke personen die de nationaliteit van een van de beide Staten bezitten;
+- a) alle natuurlijke personen die de nationaliteit van een van de beide Staten bezitten;
 
-- b). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de beide Staten van kracht is.
+- b) alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de beide Staten van kracht is.
 
 3. De belastingheffing van een vaste inrichting die een onderneming van een van de beide Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen.
 
@@ -469,28 +436,6 @@ De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechte
 ##### Artikel 31. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een van de beide Verdragsluitende Partijen is opgezegd. Elk van de Verdragsluitende Partijen kan het Verdrag langs diplomatieke weg opzeggen met inachtneming van een termijn van ten minste zes maanden voor het einde van enig kalenderjaar. In dat geval houdt het Verdrag op van toepassing te zijn met betrekking tot belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar tegen het einde waarvan het Verdrag is opgezegd.
-
-Bij de ondertekening van het Verdrag tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, heden tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk gesloten, zijn de gevolmachtigden die dit Slotprotocol hebben ondertekend, de volgende bepalingen overeengekomen, welke een integrerend deel vormen van het Verdrag.
-
-##### I. Ad [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=I&artikel=1&z=2010-07-01&g=2010-07-01):
-
-Het Verdrag vindt geen toepassing op internationale organisaties, op hun organen en functionarissen, en op personen deel uitmakende van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die in een van de beide Staten verblijven of aldaar hun zetel hebben en aldaar niet voor hun gehele inkomen en hun gehele vermogen aan de belastingheffing zijn onderworpen.
-
-##### II. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=13&z=2010-07-01&g=2010-07-01):
-
-Verzoeken om teruggaaf van belasting die in strijd met de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=13&z=2010-07-01&g=2010-07-01) is geheven, moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### III. Ad [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01)
-
-- a. Het is wel verstaan dat, wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting onderscheidenlijk de vennootschapsbelasting.
-
-- b. Het is wel verstaan dat voor de berekening van de vermindering vermeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), de waarde van de in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=IV&artikel=23&z=2010-07-01&g=2010-07-01), bedoelde vermogensbestandddelen wordt verminderd met de waarde van de schulden verzekerd door hypotheek op dat vermogen en de waarde van de in artikel 23, tweede lid, bedoelde vermogensbestanddelen wordt verminderd met de waarde van de tot de vaste inrichting of het vaste middelpunt behorende schulden.
-
-- c. Het in [artikel 24, tweede lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=V&artikel=24&z=2010-07-01&g=2010-07-01), bedoelde bedrag van de in Oostenrijk geheven belasting wordt voor de in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004204&hoofdstuk=III&artikel=14&z=2010-07-01&g=2010-07-01), genoemde voordelen naar het gemiddeld toegepaste tarief berekend.
-
-##### IV. Ad Artikel 27:
-
-Vervallen
 
 TEN BLIJKE WAARVAN de bovengenoemde gevolmachtigden van de beide Staten dit Verdrag hebben ondertekend en er hun zegels aan hebben gehecht.
 

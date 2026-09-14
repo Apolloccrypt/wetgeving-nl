@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken inzake de Handelsscheepvaart"
 identifier: "BWBV0004691"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-09-14"
-last_updated: "1971-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004691"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004263663"
-version_id: "10004451252"
-internal_id: "C10006997771"
-label_id: "10004248704"
-dtd_version: "2.0"
-original_entry_into_force: "1971-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004691/1971-09-14/0"
-intitule_bron: "Trb.1969-115"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-08-04"
-intitule_in_force: "1971-09-28"
-intitule_status: "goed"
-original_publication: "Trb.1969-115"
-original_published_date: "1969-08-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-115"
-entry_into_force_date: "1971-09-14"
-jci_1_3: "jci1.3:c:BWBV0004691&z=1971-09-14&g=1971-09-14"
-jci_1_0: "1.0:c:BWBV0004691&g=1971-09-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-09-14"
+publicatiedatum: 1971-09-14
+laatste_update: 1971-09-14
+status: geldig
+toestand: 1971-09-14
+bron: "https://wetten.overheid.nl/BWBV0004691"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken inzake de Handelsscheepvaart
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-Republieken,
-
-Verlangende de handelsscheepvaart tussen hun landen te ontwikkelen en bij te dragen tot de ontwikkeling van de internationale handelsscheepvaart op basis der beginselen van de vrijheid daarvan,
-
-Hebben besloten de onderhavige Overeenkomst te sluiten:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-Republieken, Verlangende de handelsscheepvaart tussen hun landen te ontwikkelen en bij te dragen tot de ontwikkeling van de internationale handelsscheepvaart op basis der beginselen van de vrijheid daarvan, Hebben besloten de onderhavige Overeenkomst te sluiten:*
 
 ##### Artikel 1
 
@@ -44,13 +21,13 @@ In de onderhavige Overeenkomst betekent:
 
 - 1. de term „schip van de Overeenkomstsluitende Partij” elk vaartuig, dat ingeschreven is in een scheepsregister van die Partij. Echter heeft deze term geen betrekking op:
 
-- a). oorlogsschepen;
+   - a) oorlogsschepen;
 
-- b). andere vaartuigen, gedurende de tijd dat deze uitsluitend worden gebruikt ten dienste van de krijgsmacht;
+   - b) andere vaartuigen, gedurende de tijd dat deze uitsluitend worden gebruikt ten dienste van de krijgsmacht;
 
-- c). vaartuigen welke in een of andere vorm overheidsgezag uitoefenen;
+   - c) vaartuigen welke in een of andere vorm overheidsgezag uitoefenen;
 
-- d). vaartuigen welke werkzaamheden verrichten van niet-commerciële aard, zoals staatsjachten, hospitaalschepen en wetenschappelijke researchschepen.
+   - d) vaartuigen welke werkzaamheden verrichten van niet-commerciële aard, zoals staatsjachten, hospitaalschepen en wetenschappelijke researchschepen.
 
 - 2. de term „lid van de bemanning” de kapitein benevens elke persoon, die tijdens de reis aan boord daadwerkelijk is belast met de vervulling van werkzaamheden welke verband houden met de exploitatie van of de dienstverlening op het schip, en die is opgenomen op de monsterrol.
 
@@ -72,13 +49,13 @@ In het bijzonder komen de Overeenkomstsluitende Partijen overeen wederzijds cons
 
 1. De Overeenkomstsluitende Partijen komen overeen, in overeenstemming met artikel 3:
 
-- a). de deelname van schepen van het Koninkrijk der Nederlanden en van de Unie van Socialistische Sowjet-Republieken in het vervoer over zee tussen de havens van hun landen te bevorderen;
+- a) de deelname van schepen van het Koninkrijk der Nederlanden en van de Unie van Socialistische Sowjet-Republieken in het vervoer over zee tussen de havens van hun landen te bevorderen;
 
-- b). samen te werken bij het uit de weg ruimen van belemmeringen welke de ontwikkeling van het vervoer over zee tussen de havens van hun landen kunnen bemoeilijken;
+- b) samen te werken bij het uit de weg ruimen van belemmeringen welke de ontwikkeling van het vervoer over zee tussen de havens van hun landen kunnen bemoeilijken;
 
-- c). in beginsel de deelname van schepen van de andere Overeenkomstsluitende Partij in het vervoer over zee tussen de havens van de ene Overeenkomstsluitende Partij en de havens van derde landen geen belemmeringen in de weg te leggen;
+- c) in beginsel de deelname van schepen van de andere Overeenkomstsluitende Partij in het vervoer over zee tussen de havens van de ene Overeenkomstsluitende Partij en de havens van derde landen geen belemmeringen in de weg te leggen;
 
-- d). behoudens de uitzonderingen, vervat in de nationale voorschriften voor de territoriale- en binnenwateren, in beginsel het gebruikmaken van zeesleep- en bergingsdiensten van de ene Overeenkomstsluitende Partij door schepen van de andere Overeenkomstsluitende Partij geen belemmeringen in de weg te leggen.
+- d) behoudens de uitzonderingen, vervat in de nationale voorschriften voor de territoriale- en binnenwateren, in beginsel het gebruikmaken van zeesleep- en bergingsdiensten van de ene Overeenkomstsluitende Partij door schepen van de andere Overeenkomstsluitende Partij geen belemmeringen in de weg te leggen.
 
 2. Het gestelde in het onderhavige artikel laat het recht van schepen onder de vlag van derde landen om deel te nemen in het vervoer tussen de havens van de Overeenkomstsluitende Partijen onverlet.
 
@@ -88,13 +65,13 @@ In het bijzonder komen de Overeenkomstsluitende Partijen overeen wederzijds cons
 
 2. Het gestelde in lid 1 van het onderhavige artikel:
 
-- a). heeft geen betrekking op havens welke niet in gebruik zijn ten behoeve van de aan het internationale verkeer deelnemende schepen, of op havens, havengebieden en havengedeelten welke uitsluitend of in hoofdzaak bestemd zijn voor oorlogsschepen, voorzover niet van het tegendeel door de bevoegde autoriteiten van de andere Overeenkomstsluitende Partij is kennis gegeven;
+- a) heeft geen betrekking op havens welke niet in gebruik zijn ten behoeve van de aan het internationale verkeer deelnemende schepen, of op havens, havengebieden en havengedeelten welke uitsluitend of in hoofdzaak bestemd zijn voor oorlogsschepen, voorzover niet van het tegendeel door de bevoegde autoriteiten van de andere Overeenkomstsluitende Partij is kennis gegeven;
 
-- b). is niet van toepassing op activiteiten welke elk van de Overeenkomstsluitende Partijen aan haar eigen organisaties onderscheidenlijk ondernemingen voorbehoudt, zoals met name de nationale kustvaart en de zeevisserij, waaronder begrepen het aan land brengen en verhandelen van de visvangst;
+- b) is niet van toepassing op activiteiten welke elk van de Overeenkomstsluitende Partijen aan haar eigen organisaties onderscheidenlijk ondernemingen voorbehoudt, zoals met name de nationale kustvaart en de zeevisserij, waaronder begrepen het aan land brengen en verhandelen van de visvangst;
 
-- c). verplicht niet de ene Overeenkomstsluitende Partij de uitzonderingsbepalingen ten aanzien van het verplichte gebruik van de diensten van het loodswezen voor haar eigen schepen, ook van toepassing te verklaren voor schepen van de andere Overeenkomstsluitende Partij;
+- c) verplicht niet de ene Overeenkomstsluitende Partij de uitzonderingsbepalingen ten aanzien van het verplichte gebruik van de diensten van het loodswezen voor haar eigen schepen, ook van toepassing te verklaren voor schepen van de andere Overeenkomstsluitende Partij;
 
-- d). laat onverlet de voorschriften betreffende de binnenkomst en het verblijf van vreemdelingen.
+- d) laat onverlet de voorschriften betreffende de binnenkomst en het verblijf van vreemdelingen.
 
 ##### Artikel 7
 
@@ -134,15 +111,15 @@ Aan houders van de in artikel 9 van de onderhavige Overeenkomst genoemde identit
 
 2. Wanneer een lid van de bemanning van een schip van een Overeenkomstsluitende Partij aan boord van dat schip een strafbaar feit begaat, terwijl het schip zich op de binnenwateren van de andere Overeenkomstsluitende Partij bevindt, stellen de autoriteiten van de staat waar het schip zich bevindt zonder instemming van een bevoegde diplomatieke of consulaire functionaris van de vlagstaat geen vervolging tegen hem in, tenzij naar hun oordeel:
 
-- a). de gevolgen van het strafbare feit zich uitstrekken tot het grondgebied van de staat waar het schip zich bevindt, of
+- a) de gevolgen van het strafbare feit zich uitstrekken tot het grondgebied van de staat waar het schip zich bevindt, of
 
-- b). het strafbare feit aldaar de openbare orde verstoort of de veiligheid in gevaar brengt, of
+- b) het strafbare feit aldaar de openbare orde verstoort of de veiligheid in gevaar brengt, of
 
-- c). het strafbare feit volgens de wet van de staat waar het schip zich bevindt een ernstig misdrijf oplevert, of
+- c) het strafbare feit volgens de wet van de staat waar het schip zich bevindt een ernstig misdrijf oplevert, of
 
-- d). het strafbare feit is begaan tegen een ander dan een lid van de bemanning, of
+- d) het strafbare feit is begaan tegen een ander dan een lid van de bemanning, of
 
-- e). het instellen van een vervolging noodzakelijk is voor de onderdrukking van de verboden handel in verdovende middelen.
+- e) het instellen van een vervolging noodzakelijk is voor de onderdrukking van de verboden handel in verdovende middelen.
 
 3. Het bepaalde in lid 2 laat onverlet de bevoegdheden tot het houden van toezicht en het verrichten van opsporing of onderzoek welke de autoriteiten van elk der Overeenkomstsluitende Partijen aan hun nationale wet ontlenen.
 
@@ -162,9 +139,9 @@ Scheepvaartondernemingen of -maatschappijen wier centrale leiding op het grondge
 
 1. Elk van de Overeenkomstsluitende Partijen zal zorgdragen dat gevolg wordt gegeven aan de uitspraken welke door een gerecht van de andere Overeenkomstsluitende Partij worden gedaan in een geding dat betrekking heeft op:
 
-- a). het gebruik van een schip dat aan haar toebehoort dan wel door haar wordt geëxploiteerd of bevracht, of
+- a) het gebruik van een schip dat aan haar toebehoort dan wel door haar wordt geëxploiteerd of bevracht, of
 
-- b). het vervoer van passagiers of ladingen op een dergelijk schip.
+- b) het vervoer van passagiers of ladingen op een dergelijk schip.
 
 2. Op het grondgebied van een der Overeenkomstsluitende Partijen zal voor een vordering welke betrekking heeft op een der in het eerste lid genoemde handelingen geen beslag worden gelegd op een schip dat aan de andere Overeenkomstsluitende Partij toebehoort, wanneer de schuldenaar op dat grondgebied woonplaats kiest.
 

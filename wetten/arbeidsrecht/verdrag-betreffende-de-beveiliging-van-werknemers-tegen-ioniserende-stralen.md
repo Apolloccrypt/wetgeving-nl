@@ -1,187 +1,160 @@
 ---
 title: "Verdrag betreffende de beveiliging van werknemers tegen ioniserende stralen"
 identifier: "BWBV0004950"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-11-29"
-last_updated: "1967-11-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004950"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004403023"
-version_id: "10004606672"
-internal_id: "C10007200331"
-label_id: "10004387904"
-dtd_version: "2.0"
-original_entry_into_force: "1967-11-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004950/1967-11-29/0"
-intitule_bron: "Trb.1962-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-05-22"
-intitule_in_force: "1967-02-03"
-intitule_status: "goed"
-original_publication: "Trb.1962-45"
-original_published_date: "1962-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-45"
-entry_into_force_date: "1967-11-29"
-jci_1_3: "jci1.3:c:BWBV0004950&z=1967-11-29&g=1967-11-29"
-jci_1_0: "1.0:c:BWBV0004950&g=1967-11-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-11-29"
+publicatiedatum: 1967-11-29
+laatste_update: 1967-11-29
+status: geldig
+toestand: 1967-11-29
+bron: "https://wetten.overheid.nl/BWBV0004950"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende de beveiliging van werknemers tegen ioniserende stralen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Forty-fourth Session on 1 June 1960, and Having decided upon the adoption of certain proposals with regard to the protection of workers against ionising radiations, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, adopts this twenty-second day of June of the year one thousand nine hundred and sixty the following Convention, which may be cited as the Radiation Protection Convention, 1960:*
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau te Genève bijeengeroepen en aldaar op 1 juni 1960 in haar 44ste zitting bijeengekomen;
+## Part I. General Provisions
 
-Besloten hebbende tot het aanvaarden van bepaalde voorstellen met betrekking tot de beveiliging van werknemers tegen ioniserende stralen, welk onderwerp het vierde agendapunt van de zitting vormt;
+##### Article 1
 
-Besloten hebbende dat deze voorstellen de vorm van een internationaal verdrag zullen aannemen;
+Each Member of the International Labour Organisation which ratifies this Convention undertakes to give effect thereto by means of laws or regulations, codes of practice or other appropriate means. In applying the provisions of the Convention the competent authority shall consult with representatives of employers and workers.
 
-Neemt heden, de 22e juni 1960, het volgende Verdrag aan, hetwelk kan worden aangehaald als het „Verdrag Beveiliging Stralen, 1960”:
+##### Article 2
 
-## Deel I. Algemene bepalingen
+1. This Convention applies to all activities involving exposure of workers to ionising radiations in the course of their work.
 
-##### Artikel 1
+2. This Convention does not apply to radioactive substances, whether sealed or unsealed, nor to apparatus generating ionising radiations which substances or apparatus, owing to the limited doses of ionising radiations which can be received from them, are exempted from its provisions by one of the methods of giving effect to the Convention mentioned in Article 1.
 
-Elk lid van de Internationale Arbeidsorganisatie dat dit Verdrag bekrachtigt, verbindt zich ertoe daaraan uitvoering te geven door middel van wetten of regelingen, handleidingen voor de praktijk of andere passende middelen. Bij het toepassen van de bepalingen van het Verdrag, dient het bevoegde overheidsorgaan overleg te plegen met de vertegenwoordigers van de werkgevers en de werknemers.
+##### Article 3
 
-##### Artikel 2
+1. In the light of knowledge available at the time, all appropriate steps shall be taken to ensure effective protection of workers, as regards their health and safety, against ionising radiations.
 
-1. Dit Verdrag is van toepassing op alle werkzaamheden waarbij werknemers gedurende de arbeid blootgesteld zijn aan ioniserende stralen.
+2. Rules and measures necessary for this purpose shall be adopted, and data essential for effective protection shall be made available.
 
-2. Dit Verdrag is niet van toepassing op radioactieve stoffen, al of niet in omhulsel of op toestellen die ioniserende stralen uitzenden, welke, wegens de geringe doses ioniserende stralen die daarvan geabsorbeerd kunnen worden, uitgezonderd zijn van het bepaalde in het Verdrag overeenkomstig een van de methoden tot uitvoering van het Verdrag vermeld in artikel 1.
+3. With a view to ensuring such effective protection—
 
-##### Artikel 3
+- (a) measures for the protection of workers against ionising radiations adopted after ratification of the Convention by the Member concerned shall comply with the provision thereof;
 
-1. In het licht van het beschikbaar wetenschappelijk inzicht dienen alle nodige maatregelen te worden getroffen om de werknemers te verzekeren van een doeltreffende beveiliging tegen ioniserende stralen wat betreft hun gezondheid en veiligheid.
+- (b) the Member concerned shall modify, as soon as practicable, measures adopted by it prior to the ratification of the Convention, so as to comply with the provisions thereof, and shall promote such modification of other measures existing at the time of ratification;
 
-2. Er dienen regels te worden aanvaard en maatregelen te worden getroffen, die voor dit doel noodzakelijk zijn. Voorts dienen de gegevens beschikbaar te worden gesteld, die voor een doeltreffende beveiliging onmisbaar zijn.
+- (c) the Member concerned shall communicate to the Director-General of the International Labour Office, when ratifying the Convention, a statement indicating the manner in which and the categories of workers to which the provisions of the Convention are applied, and shall indicate in its reports on the application of the Convention any further progress made in the matter;
 
-3. Om een zodanige doeltreffende beveiliging te waarborgen:
+- (d) at the expiration of three years from the date on which this Convention first enters into force the Governing Body of the International Labour Office shall submit to the Conference a special report concerning the application of subparagraph (*b*) of this paragraph and containing such proposals as it may think appropriate for further action in regard to the matter.
 
-- a). dienen de maatregelen voor de beveiliging van werknemers tegen ioniserende stralen welke getroffen worden na de bekrachtiging van het Verdrag door het betrokken Lid, in overeenstemming te zijn met het bepaalde in het Verdrag;
+## Part II. Protective Measures
 
-- b). dient het betrokken Lid zo snel mogelijk de maatregelen die het vóór de bekrachtiging van het Verdrag heeft getroffen, zodanig te wijzigen dat zij in overeenstemming zijn met het bepaalde in het Verdrag en dient het een dienovereenkomstige wijziging van andere maatregelen die ten tijde van de bekrachtiging golden, te bevorderen;
+##### Article 4
 
-- c). dient het betrokken Lid bij bekrachtiging van het Verdrag aan de Directeur-Generaal van het Internationaal Arbeidsbureau een verklaring te doen toekomen, die aangeeft op welke wijze en op welke categorieën werknemers de bepalingen van het Verdrag worden toegepast, en dient het Lid in zijn rapporten aangaande de toepassing van het Verdrag elke verdere vooruitgang ter zake te vermelden;
+The activities referred to in Article 2 shall be so arranged and conducted as to afford the protection envisaged in this Part of the Convention.
 
-- d). dient de Raad van Beheer van het Internationaal Arbeidsbureau, na het verstrijken van een tijdvak van drie jaar na het tijdstip waarop dit Verdrag voor het eerst in werking treedt, aan de Conferentie een bijzonder verslag uit te brengen betreffende de toepassing van alinea**(b)** van dit lid en houdende zodanige voorstellen als de Raad voor verdere maatregelen ter zake gepast acht.
+##### Article 5
 
-## Deel II. Beveiligingsmaatregelen
+Every effort shall be made to restrict the exposure of workers to ionising radiations to the lowest practicable level, and any unnecessary exposure shall be avoided by all parties concerned.
 
-##### Artikel 4
+##### Article 6
 
-De in artikel 2 bedoelde werkzaamheden dienen zodanig te worden ingedeeld en uitgevoerd dat zij de in dit Deel van het Verdrag beoogde beveiliging verschaffen.
+1. Maximum permissible doses of ionising radiations which may be received from sources external to or internal to the body and maximum permissible amounts of radioactive substances which can be taken into the body shall be fixed in accordance with Part I of this Convention for various categories of workers.
 
-##### Artikel 5
+2. Such maximum permissible doses and amounts shall be kept under constant review in the light of current knowledge.
 
-Alles dient in het werk te worden gesteld om het blootstellen van werknemers aan ioniserende stralen te beperken tot het laagst mogelijke peil, en elke onnodige blootstelling dient door alle betrokkenen te worden vermeden.
+##### Article 7
 
-##### Artikel 6
+1. Appropriate levels shall be fixed in accordance with Article 6 for workers who are directly engaged in radiation work and are—
 
-1. De maximaal toelaatbare doses ioniserende stralen afkomstig van binnen of buiten het lichaam gelegen bronnen, en de maximaal toelaatbare hoeveelheden radioactieve stoffen welke in het lichaam kunnen worden opgenomen dienen in overeenstemming met Deel I van dit Verdrag te worden vastgesteld voor de verschillende categorieën werknemers.
+- (a) aged 18 and over;
 
-2. Deze maximaal toelaatbare doses en hoeveelheden dienen bij voortduring te worden herzien in het licht van de nieuwe wetenschappelijke inzichten.
+- (b) under the age of 18.
 
-##### Artikel 7
+2. No worker under the age of 16 shall be engaged in work involving ionising radiations.
 
-1. Er dienen in overeenstemming met artikel 6 deugdelijke grenswaarden te worden vastgesteld voor werknemers die rechtstreeks betrokken zijn bij radiologische werkzaamheden en die:
+##### Article 8
 
-- a). 18 jaar of ouder zijn;
+Appropriate levels shall be fixed in accordance with Article 6 for workers who are not directly engaged in radiation work, but who remain or pass where they may be exposed to ionising radiations or radioactive substances.
 
-- b). de leeftijd van 18 jaar nog niet hebben bereikt.
+##### Article 9
 
-2. Werknemers beneden de leeftijd van 16 jaar mogen niet betrokken zijn bij werkzaamheden waarbij ioniserende stralen optreden.
+1. Appropriate warnings shall be used to indicate the presence of hazards from ionising radiations. Any information necessary in this connection shall be supplied to the workers.
 
-##### Artikel 8
+2. All workers directly engaged in radiation work shall be adequately instructed, before and during such employment, in the precautions to be taken for their protection, as regards their health and safety, and the reasons therefor.
 
-Er dienen in overeenstemming met artikel 6 deugdelijke grenswaarden te worden vastgesteld voor werknemers die niet rechtstreeks betrokken zijn bij radiologische werkzaamheden, maar zich ophouden op plaatsen waar zij blootgesteld kunnen zijn aan ioniserende stralen of radioactieve stoffen, of deze plaatsen passeren.
+##### Article 10
 
-##### Artikel 9
+Laws or regulations shall require the notification in a manner prescribed thereby of work involving exposure of workers to ionising radiations in the course of their work.
 
-1. Er dient een deugdelijk stelsel van waarschuwingstekens gebezigd te worden om de aanwezigheid van stralingsgevaar aan te geven. Aan de werknemers dienen alle in dit verband noodzakelijke inlichtingen te worden verstrekt.
+##### Article 11
 
-2. Alle werknemers die rechtstreeks betrokken zijn bij radiologische werkzaamheden dienen voor en gedurende hun tewerkstelling naar behoren te worden ingelicht omtrent de voorzorgsmaatregelen die getroffen moeten worden voor hun veiligheid en voor de bescherming van hun gezondheid, alsmede omtrent de redenen daarvoor.
+Appropriate monitoring of workers and places of work shall be carried out in order to measure the exposure of workers to ionising radiations and radioactive substances, with a view to ascertaining that the applicable levels are respected.
 
-##### Artikel 10
+##### Article 12
 
-Wetten of regelingen dienen voor te schrijven dat van werkzaamheden waarbij werknemers gedurende de arbeid worden blootgesteld aan ioniserende stralen mededeling moet worden gedaan op een in die wetten of regelingen aangegeven wijze.
+All workers directly engaged in radiation work shall undergo an appropriate medical examination prior to or shortly after taking up such work and subsequently undergo further medical examinations at appropriate intervals.
 
-##### Artikel 11
+##### Article 13
 
-Er dient een deugdelijke controle op de werknemers en op de plaatsen waar de arbeid verricht wordt te worden uitgeoefend om de mate waarin werknemers aan ioniserende stralen en aan radioactieve stoffen worden blootgesteld te meten, ten einde na te gaan of de hand wordt gehouden aan de gestelde grenswaarden.
+Circumstances shall be specified, by one of the methods of giving effect to the Convention mentioned in Article 1, in which, because of the nature or degree of the exposure or a combination of both, the following action shall be taken promptly:
 
-##### Artikel 12
+- (a) the worker shall undergo an appropriate medical examination;
 
-Alle werknemers die rechtstreeks betrokken zijn bij radiologische werkzaamheden dienen voor of kort na het aanvangen van die werkzaamheden een deugdelijk geneeskundig onderzoek te ondergaan en dienen daarna geregeld aan een geneeskundig onderzoek te worden onderworpen.
+- (b) the employer shall notify the competent authority in accordance with its requirements;
 
-##### Artikel 13
+- (c) persons competent in radiation protection shall examine the conditions in which the worker's duties are performed;
 
-Volgens een der in artikel 1 aangegeven methoden voor de uitvoering van het Verdrag dienen de gevallen te worden vastgesteld, waarin uit hoofde van de aard of de mate van de blootstelling de navolgende maatregelen terstond getroffen dienen te worden:
+- (d) the employer shall take any necessary remedial action on the basis of the technical findings and the medical advice.
 
-- a). de werknemer dient een deugdelijk geneeskundig onderzoek te ondergaan;
+##### Article 14
 
-- b). de werkgever dient het bevoegde gezagsorgaan in te lichten overeenkomstig de door dit orgaan gegeven richtlijnen;
+No workers shall be employed or shall continue to be employed in work by reason of which the worker could be subject to exposure to ionising radiations contrary to qualified medical advice.
 
-- c). personen die deskundig zijn op het gebied van de beveiliging tegen stralen dienen de omstandigheden te besturen waaronder de werknemer zijn werkzaamheden verricht;
+##### Article 15
 
-- d). de werkgever dient de nodige maatregelen ter verbetering te treffen aan de hand van de technische bevindingen en van de medische adviezen.
+Each Member which ratifies this Convention undertakes to provide appropriate inspection services for the purpose of supervising the application of its provisions, or to satisfy itself that appropriate inspection is carried out.
 
-##### Artikel 14
+## Part III. Final Provisions
 
-Een werknemer mag niet tewerkgesteld worden of blijven, aan werkzaamheden waarbij hij tegen het advies van een erkende arts in, blootgesteld kan worden aan ioniserende stralen.
+##### Article 16
 
-##### Artikel 15
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-Elk Lid dat dit Verdrag bekrachtigt verbindt zich voor hun taak berekende inspectiediensten te belasten met het toezicht op de toepassing der verdragsbepalingen, of zich ervan te vergewissen dat een deugdelijk toezicht is gewaarborgd.
+##### Article 17
 
-## Deel III. Slotbepalingen
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-##### Artikel 16
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-De formele bekrachtigingen van dit Verdrag dienen aan de Directeur-Generaal van het Internationaal Arbeidsbureau te worden medegedeeld en door deze geregistreerd.
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-##### Artikel 17
+##### Article 18
 
-1. Dit Verdrag is slechts verbindend voor die Leden van de Internationale Arbeidsorganisatie wier bekrachtiging door de Directeur-Generaal is geregistreerd.
+1. A Member which has ratified this Convention may denounce it after the expiration of five years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-2. Het treedt in werking twaalf maanden nadat twee Leden hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of five years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of five years and, thereafter, may denounce this Convention at the expiration of each period of five years under the terms provided for in this Article.
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+##### Article 19
 
-##### Artikel 18
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een periode van vijf jaar na de datum van inwerkingtreding van het Verdrag, door middel van een tot de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst een jaar nadat zij is geregistreerd van kracht.
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na verloop van de periode van vijf jaar als bedoeld in het vorige lid, gebruik heeft gemaakt van de bevoegdheid tot opzegging voorzien in dit artikel, is gebonden voor een nieuwe periode van vijf jaar en kan vervolgens dit Verdrag opzeggen na verloop van elke periode van vijf jaar, onder de voorwaarden bedoeld in dit artikel.
+##### Article 20
 
-##### Artikel 19
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau geeft aan alle Leden van de Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de leden der Organisatie zijn medegedeeld.
+##### Article 21
 
-2. Bij de kennisgeving aan de leden der Organisatie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum, waarop het Verdrag in werking treedt.
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-##### Artikel 20
+##### Article 22
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden betreffende alle bekrachtigingen en opzeggingen welke door hem overeenkomstig de voorgaande artikelen zijn geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then unless the new Convention otherwise provides—
 
-##### Artikel 21
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 18 above, if and when the new revising Convention shall have come into force;
 
-Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt deze Raad of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-##### Artikel 22
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, en indien het nieuwe Verdrag niet anders bepaalt:
+##### Article 23
 
-- a). brengt de bekrachtiging van het nieuwe Verdrag, houdende herziening, door een Lid ipso jure onmiddellijk opzegging van het onderhavige Verdrag mede, niettegenstaande het in artikel 18 bepaalde, mits het nieuwe Verdrag houdende herziening, in werking is getreden;
-
-- b). kan met ingang van de datum waarop het nieuwe Verdrag, houdende herziening, in werking treedt, het onderhavige Verdrag niet langer door de Leden worden bekrachtigd.
-
-2. Het onderhavige Verdrag blijft echter in elk geval naar huidige vorm en inhoud van kracht voor die Leden die het bekrachtigd hebben en het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 23
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
+The English and French versions of the text of this Convention are equally authoritative.

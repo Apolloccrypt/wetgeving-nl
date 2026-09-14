@@ -1,143 +1,108 @@
 ---
 title: "Verdrag betreffende discriminatie in arbeid en beroep"
 identifier: "BWBV0004947"
-country: "nl"
-rank: "verdrag"
-publication_date: "1974-03-15"
-last_updated: "1974-03-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004947"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004401153"
-version_id: "10004604642"
-internal_id: "C10007040941"
-label_id: "10004385964"
-dtd_version: "2.0"
-original_entry_into_force: "1974-03-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004947/1974-03-15/0"
-intitule_bron: "Trb.1962-41"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-05-22"
-intitule_in_force: "1973-04-24"
-intitule_status: "goed"
-original_publication: "Trb.1962-41"
-original_published_date: "1962-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-41"
-entry_into_force_date: "1974-03-15"
-jci_1_3: "jci1.3:c:BWBV0004947&z=1974-03-15&g=1974-03-15"
-jci_1_0: "1.0:c:BWBV0004947&g=1974-03-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-03-15"
+publicatiedatum: 1974-03-15
+laatste_update: 1974-03-15
+status: geldig
+toestand: 1974-03-15
+bron: "https://wetten.overheid.nl/BWBV0004947"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende discriminatie in arbeid en beroep
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Forty-second Session on 4 June 1958, and Having decided upon the adoption of certain proposals with regard to discrimination in the field of employment and occupation, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention, and Considering that the Declaration of Philadelphia affirms that all human beings, irrespective of race, creed or sex, have the right to pursue both their material well-being and their spiritual development in conditions of freedom and dignity, of economic security and equal opportunity, and Considering further that discrimination constitutes a violation of rights enunciated by the Universal Declaration of Human Rights, adopts this twenty-fifth day of June of the year one thousand nine hundred and fifty-eight the following Convention, which may be cited as the Discrimination (Employment and Occupation) Convention, 1958:*
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève en aldaar bijeengekomen op 4 juni 1958 in haar tweeënveertigste zitting;
+##### Article 1
 
-Besloten hebbende bepaalde voorstellen aan te nemen betreffende discriminatie in arbeid en beroep, welk onderwerp is vervat in het vijfde punt van de agenda der zitting;
+1. For the purpose of this Convention the term “discrimination” includes—
 
-Besloten hebbende dat deze voorstellen de vorm zullen aannemen van een internationaal verdrag;
+- (a) any distinction, exclusion or preference made on the basis of race, colour, sex, religion, political opinion, national extraction or social origin, which has the effect of nullifying or impairing equality of opportunity or treatment in employment or occupation;
 
-Overwegende dat de Verklaring van Philadelphia bevestigt dat alle mensen, ongeacht hun ras, geloof of geslacht, het recht hebben, in vrijheid en waardigheid, onder omstandigheden waarin economische zekerheid en gelijke kansen zijn gewaarborgd, hun materiële welvaart en hun geestelijke ontwikkeling na te streven;
+- (b) such other distinction, exclusion or preference which has the effect of nullifying or impairing equality of opportunity or treatment in employment or occupation as may be determined by the Member concerned after consultation with representative employers' and workers' organisations, where such exist, and with other appropriate bodies.
 
-Voorts overwegende dat discriminatie een inbreuk vormt op de rechten neergelegd in de Universele Verklaring van de Rechten van de Mens,
+2. Any distinction, exclusion or preference in respect of a particular job based on the inherent requirements thereof shall not be deemed to be discrimination.
 
-Neemt heden, 25 juni 1958, het volgende Verdrag aan, dat kan worden aangehaald als het „Verdrag betreffende discriminatie (arbeid en beroep), 1958”.
+3. For the purpose of this Convention the terms “employment” and “occupation” include access to vocational training, access to employment and to particular occupations, and terms and conditions of employment.
 
-##### Artikel 1
+##### Article 2
 
-1. Voor de toepassing van dit Verdrag omvat de uitdrukking „discriminatie”:
+Each Member for which this Convention is in force undertakes to declare and pursue a national policy designed to promote, by methods appropriate to national conditions and practice, equality of opportunity and treatment in respect of employment and occupation, with a view to eliminating any discrimination in respect thereof.
 
-- a). elk onderscheid, elke uitsluiting of voorkeur gebaseerd op ras, huidskleur, geslacht, godsdienst, politieke overtuiging, nationale afstamming of sociale afkomst, leidend tot ontzegging of aantasting van de gelijkheid van kansen of van de behandeling inzake arbeid of beroep;
+##### Article 3
 
-- b). elk ander onderscheid, elke andere uitsluiting of voorkeur leidend tot ontzegging of aantasting van die gelijkheid van kansen of van de behandeling in arbeid of beroep, als zodanig aangemerkt door het betrokken Lid na overleg met die representatieve werkgevers- en werknemersorganisaties, zo deze bestaan, en met andere passende organen.
+Each Member for which this Convention is in force undertakes, by methods appropriate to national conditions and practice—
 
-2. Onderscheid, uitsluiting of voorkeur ten aanzien van een bepaalde functie, voor zover gebaseerd op voor die functie vereiste bekwaamheden worden niet als discriminatie beschouwd.
+- (a) to seek the co-operation of employers' and workers' organisations and other appropriate bodies in promoting the acceptance and observance of this policy;
 
-3. Voor de toepassing van dit Verdrag omvatten die woorden „arbeid” en „beroep” mede de toegang tot de beroepsopleiding, de toegang tot de arbeidsuitoefening en de verschillende beroepen, alsmede de arbeidsvoorwaarden.
+- (b) to enact such legislation and to promote such educational programmes as may be calculated to secure the acceptance and observance of the policy;
 
-##### Artikel 2
+- (c) to repeal any statutory provisions and modify any administrative instructions or practices which are inconsistent with the policy;
 
-Elk Lid waarvoor dit Verdrag van kracht is, verbindt zich ertoe een nationaal beleid te formuleren en toe te passen, dat is gericht op de bevordering, door aan de nationale omstandigheden en gebruiken aangepaste methoden, van de gelijkheid van kansen en van de behandeling in arbeid en beroep, ten einde elke discriminatie ter zake op te heffen.
+- (d) to pursue the policy in respect of employment under the direct control of a national authority;
 
-##### Artikel 3
+- (e) to ensure observance of the policy in the activities of vocational guidance, vocational training and placement services under the direction of a national authority;
 
-Elk Lid waarvoor dit Verdrag van kracht is, verbindt zich ertoe, door aan de nationale omstandigheden en gebruiken aangepaste methoden:
+- (f) to indicate in its annual reports on the application of the Convention the action taken in pursuance of the policy and the results secured by such action.
 
-- a). te trachten de medewerking te verkrijgen van werkgevers- en werknemersorganisaties en van andere in aanmerking komende organen om de aanvaarding en de toepassing van dit beleid te bevorderen;
+##### Article 4
 
-- b). wetten uit te vaardigen en onderwijsprogramma's te bevorderen die erop zijn gericht de aanvaarding en toepassing van dat beleid te verzekeren;
+Any measures affecting an individual who is justifiably suspected of, or engaged in, activities prejudicial to the security of the State shall not be deemed to be discrimination, provided that the individual concerned shall have the right to appeal to a competent body established in accordance with national practice.
 
-- c). elke wetsbepaling in te trekken en elke administratieve bepaling of praktijk te wijzigen die onverenigbaar is met bedoeld beleid;
+##### Article 5
 
-- d). dit beleid toe te passen ten aanzien van de arbeidsplaatsen die zijn onderworpen aan het rechtstreekse toezicht van een nationale instantie;
+1. Special measures of protection or assistance provided for in other Conventions or Recommendations adopted by the International Labour Conference shall not be deemed to be discrimination.
 
-- e). de toepassing van genoemd beleid te verzekeren in de werkzaamheden van de diensten voor beroepskeuze, voor beroepsopleiding en arbeidsvoorziening die zijn onderworpen aan het toezicht van een nationale instantie;
+2. Any Member may, after consultation with representative employers' and workers' organisations, where such exist, determine that other special measures designed to meet the particular requirements of persons who, for reasons such as sex, age, disablement, family responsibilities or social or cultural status, are generally recognised to require special protection or assistance, shall not be deemed to be discrimination.
 
-- f). in zijn jaarverslagen omtrent de toepassing van het Verdrag de maatregelen die op grond van dit beleid zijn genomen, alsmede de verkregen resultaten, te vermelden.
+##### Article 6
 
-##### Artikel 4
+Each Member which ratifies this Convention undertakes to apply it to non-metropolitan territories in accordance with the provisions of the [Constitution of the International Labour Organisation](https://wetten.overheid.nl/jci1.3:c:BWBV0001986).
 
-Als discriminatie worden niet beschouwd de maatregelen aangaande een persoon ten aanzien van wie de gewettigde verdenking bestaat dat hij zich inlaat met activiteiten die de staatsveiligheid kunnen schaden, of van wie is vastgesteld dat hij zich met zodanige activiteiten inlaat, mits bedoelde persoon het recht heeft in beroep te gaan bij een overeenkomstig de nationale gebruiken ingestelde bevoegde instantie.
+##### Article 7
 
-##### Artikel 5
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-1. Bijzondere beschermende maatregelen of maatregelen tot hulpverlening waarin andere door de Internationale Arbeidsconferentie aanvaarde verdragen of aanbevelingen voorzien, worden niet als discriminatie beschouwd.
+##### Article 8
 
-2. Elk Lid kan na raadpleging van de werkgevers- en werknemersorganisaties, daar waar deze bestaan, bepalen, dat alle andere bijzondere maatregelen die erop zijn gericht dat rekening wordt gehouden met de bijzondere behoeften van degenen van wie algemeen wordt erkend dat zij bescherming of bijzondere hulp behoeven uit hoofde van hun geslacht, leeftijd, invaliditeit, gezinslasten of sociaal of cultureel niveau, niet als discriminatie worden beschouwd.
+1. This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.
 
-##### Artikel 6
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-Elk Lid dat dit Verdrag bekrachtigt, verbindt zich ertoe het overeenkomstig de bepalingen van het [Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986) toe te passen op de buiten het moederland gelegen gebieden.
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.
 
-##### Artikel 7
+##### Article 9
 
-De officiële bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-##### Artikel 8
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
 
-1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
+##### Article 10
 
-2. Het treedt in werking twaalf maanden nadat de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.
 
-3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+2. When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.
 
-##### Artikel 9
+##### Article 11
 
-1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na de datum waarop het Verdrag van kracht is geworden door een verklaring aan de Directeur-Generaal van het Internationaal Arbeidsbureau te zenden en deze door hem te laten registreren. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.
 
-2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na verloop van de termijn van tien jaren, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag na verloop van elke termijn van tien jaren, onder de voorwaarden voorzien in dit artikel, opzeggen.
+##### Article 12
 
-##### Artikel 10
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de Organisatie zijn medegedeeld.
+##### Article 13
 
-2. Bij de kennisgeving van de tweede hem medegedeelde bekrachtiging aan de Leden der Organisatie vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum waarop het Verdrag in werking treedt.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides—
 
-##### Artikel 11
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 9 above, if and when the new revising Convention shall have come into force;
 
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet van de volledige bijzonderheden omtrent alle bekrachtigingen en verklaringen van opzegging welke hij heeft geregistreerd overeenkomstig de bepalingen van de voorgaande artikelen, mededeling aan de Secretaris-Generaal van de Verenigde Naties ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-##### Artikel 12
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dat noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
+##### Article 14
 
-##### Artikel 13
-
-1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
-
-- a). de bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, **ipso jure** onmiddellijk opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 9, zodra het nieuwe verdrag, houdende herziening, in werking is getreden;
-
-- b). met ingang van de datum, waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden bekrachtigd kunnen worden.
-
-2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 14
-
-De Engelse en Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
-
-De voorgaande tekst is de authentieke tekst van het Verdrag, naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie in haar tweeënveertigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op 26 juni 1958.
-
-TEN BLIJKE WAARVAN wij onze handtekeningen hebben geplaatst op de vijfde dag van de maand juli 1958:
+The English and French versions of the text of this Convention are equally authoritative.

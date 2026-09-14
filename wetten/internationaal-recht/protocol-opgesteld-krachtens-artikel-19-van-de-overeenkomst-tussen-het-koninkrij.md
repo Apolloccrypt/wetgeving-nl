@@ -1,169 +1,164 @@
 ---
 title: "Protocol opgesteld krachtens artikel 19 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationale wegvervoer"
 identifier: "BWBV0004954"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-11-01"
-last_updated: "1979-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004954"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004404383"
-version_id: "10004608652"
-internal_id: "C10006983441"
-label_id: "10004389194"
-dtd_version: "2.0"
-original_entry_into_force: "1973-08-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004954/1979-11-01/0"
-intitule_bron: "Trb.1973-3"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1973-01-12"
-intitule_in_force: "1973-09-03"
-intitule_status: "goed"
-original_publication: "Trb.1973-3"
-original_published_date: "1973-01-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1973-3"
-entry_into_force_date: "1973-08-16"
-jci_1_3: "jci1.3:c:BWBV0004954&z=1979-11-01&g=1979-11-01"
-jci_1_0: "1.0:c:BWBV0004954&g=1979-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1973-08-16"
+publicatiedatum: 1973-08-16
+laatste_update: 1979-11-01
+status: geldig
+toestand: 1979-11-01
+bron: "https://wetten.overheid.nl/BWBV0004954"
+opgehaald: 2026-09-14
 ---
+
 # Protocol opgesteld krachtens artikel 19 van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende het internationale wegvervoer
 
-Met het oog op de toepassing van genoemde Overeenkomst zijn de Directeur-Generaal van het Verkeer en de „Director-Geral de Transportes Terrestres”, de bevoegde autoriteiten van het Koninkrijk der Nederlanden en de Republiek Portugal, overeengekomen als volgt:
+*En vue de l'application dudit Accord, le „Directeur-Generaal van het Verkeer” et le „Director-Geral de Transportes Terrestres”, étant les autorités compétentes du Royaume des Pays-Bas et de la République Portugaise, sont convenues de ce que suit:*
 
-##### I. Met betrekking tot artikel 1
+##### Artikel I. Pour ce qui concerne l'article 1er
 
-De voertuigen die zijn ingeschreven in het land van een der Overeenkomstsluitende Partijen zijn bevoegd bij bevrachting voor de terugrit goederen te laden op het grondgebied van de andere Overeenkomstsluitende Partij die zijn bestemd voor een derde land op de volgende voorwaarden:
+Les véhicules immatriculés dans le pays de l'une des Parties Contractantes sont autorisés à prendre des marchandises, en fret de retour, dans le territoire de l'autre Partie Contractante et à destination d'un pays tiers, dans les conditions suivantes:
 
-- a. dat dit vervoer in transito leidt over het grondgebied van het land van inschrijving;
+- a) si ce transport emprunte, en transit, le territoire du pays d'immatriculation;
 
-- b. in andere gevallen en bij wijze van proef met een beperking tot 1/3 van het aantal vergunningen dat is vastgesteld bij toepassing van artikel 9 van de Overeenkomst.
+- b) dans d'autres cas et à titre expérimental, dans la limite de 1/3 du nombre d'autorisations fixé par l'application de l'article 9 de l’Accord.
 
-##### II. Met betrekking tot de artikelen 2, 4 en 5
+##### Artikel II. Pour ce qui concerne les articles 2, 4 et 5
 
-1. De bevoegde autoriteiten aan wie de aanvragen om vergunning dienen te worden gericht en die deze vergunningen afgeven, zijn de volgende:
+1. Les autorités compétentes auxquelles doivent être adressées les demandes d'autorisation et qui délivrent les dites autorisations sont les suivantes:
 
-- -. Voor de Portugese Republiek: Director-Geral de Transportes Terrestres Avenida 28 de Maio, 40 Lisboa - 4
+- - Pour la République Portugaise: Director-Geral dé Transportes Terrestres Avenida 28 de Maio, 40 Lisboa - 4
 
-- -. Voor het Koninkrijk der Nederlanden: Directeur-Generaal van het Verkeer Plesmanweg 1-6, Den Haag
+- - Pour le Royaume des Pays-Bas: Directeur-Generaal van het Verkeer Plesmanweg 1-6, Den Haag
 
-2. De aanvragen om vergunning voor de diensten bedoeld in artikel 4 dienen vergezeld te gaan van de volgende gegevens:
+2. Les demandes d'autorisation pour les services visés à l'article 4 doivent être accompagnées des renseignements suivants:
 
-- -. periode van uitvoering en frequentie;
+- - période d'exploitation et fréquence;
 
-- -. voorgestelde tarieven;
+- - projet de tarif;
 
-- -. reisweg;
+- - schéma de l’itinéraire;
 
-- -. eventueel bijzondere exploitatievoorwaarden.
+- - éventuellement, conditions particulières d'exploitation.
 
-3. De aanvragen om vergunning bedoeld in artikel 5 dienen te worden gericht aan de bevoegde autoriteiten, en wel zo vroeg mogelijk voor de datum die is voorzien voor de uitvoering van de rit.
+3. Les demandes d'autorisation visées à l'article 5 doivent être adressées aux autorités compétentes, le plutôt possible avant la date prévue pour l'exécution du voyage.
 
-Zij dienen vergezeld te gaan van de volgende gegevens:
+Elles doivent comporter les renseignements suivants:
 
-- -. naam en adres van degene die de rit organiseert;
+- - nom et adresse de l'organisateur du voyage;
 
-- -. naam en adres van de vervoerder;
+- - nom et adresse du transporteur;
 
-- -. aantal te gebruiken voertuigen;
+- - nombre de véhicules utilisés;
 
-- -. aantal te vervoeren passagiers;
+- - nombre de voyageurs à transporter;
 
-- -. datum en plaats van grensoverschrijding bij binnenkomst en verlaten van het grondgebied, waarbij aan te geven welke trajecten beladen en welke onbeladen worden afgelegd;
+- - dates et lieux de passage à la frontière, à l'entrée et à la sortie du territoire, en précisant les parcours effectués en charge ou à vide;
 
-- -. reisweg;
+- - itinéraires;
 
-- -. namen van de steden waar de nacht wordt doorgebracht en zo mogelijk de adressen van de hotels;
+- - noms des villes où s'effectueront arrêts de nuit et, si possible, adresses des hôtels;
 
-- -. aard van de rit: georganiseerd verblijf, pendeldienst of eenvoudig vervoer.
+- - caractère du voyage: séjour organisé, navette ou simple transport.
 
-4. In het reizigersvervoer mogen geen dagtrajecten worden opgenomen van meer dan 450 km.
+4. Les transports de voyageurs ne doivent comporter des étapes journalières excédant 450 kilomètres.
 
-##### III. Met betrekking tot artikel 3
+##### Artikel III. Pour ce qui concerne l’article 3
 
-De verklaringen die worden afgegeven overeenkomstig artikel 3 dienen de volgende gegevens te bevatten:
+Les déclarations délivrées conformément à l'article 3 doivent comporter les renseignements suivants:
 
-- -. naam en adres van de vervoerder;
+- - nom et adresse du transporteur;
 
-- -. kenteken van het (de) te gebruiken voertuig(en);
+- - numéro d'immatriculation du ou des véhicules utilisés;
 
-- -. aantal reizigers;
+- - nombre de voyageurs;
 
-- -. datum van de rit;
+- - date du voyage;
 
-- -. reisweg en eindpunten van de dagtrajecten.
+- - itinéraire et lieu des étapes journalières.
 
-##### IV. Met betrekking tot de artikelen 7, 9 en 10
+##### Artikel IV. Pour ce qui concerne les articles 7, 9 et 10
 
-1. Voor de toepassing van artikel 9 van de Overeenkomst wordt het aantal vergunningen voorlopig vastgesteld voor elk kalenderjaar.
+1. Pour l'application de l'article 9 de l'Accord, le nombre d'autorisations sera fixé préalablement, pour chaque année civile.
 
-2. Voor het eerste jaar, waarin de Overeenkomst wordt toegepast, wordt het aantal vergunningen voor ritten vastgesteld op 120.
+2. Pour la première année de l'application de l'Accord, le nombre d'autorisations est fixé à 120 voyages.
 
-3. Elke termijnvergunning wordt afgerond gerekend als 10 reizen.
+3. Chaque autorisation à temps est comptée forfaitairement pour 10 voyages.
 
-4. De vergunningen van een model dat overeenkomt met het model dat in gebruik is in de Lid-Staten van de Europese Economische Gemeenschap, zijn tweetalig.
+4. Les autorisations, d'un modèle analogue à celui en usage dans les Etats Membres de la Communauté Economique Européenne, seront bilingues.
 
-De vergunningen dragen in de linkerbovenhoek: de letters NL voor Nederland en de letter P voor Portugal.
+Les autorisations portent dans la partie supérieure gauche: les lettres NL pour les Pays-Bas et la lettre P pour le Portugal.
 
-De termijnvergunningen zijn wit van kleur.
+Les autorisations à temps sont de couleur blanche.
 
-De ritvergunningen zijn groen van kleur.
+Les autorisations au voyage sont de couleur verte.
 
-5. De vergunningen worden door de autoriteit die ze afgeeft, genummerd.
+5. Les autorisations sont numérotées par l'autorité qui les émet. Elles sont accompagnées soit de la lettre de voiture - CMR -, soit d'un compte rendu du voyage effectué, comportant:
 
-Zij gaan vergezeld van hetzij de vrachtbrief (GMR), hetzij een vervoerverslag, vermeldende:
+- - le numéro d'immatriculation du véhicule qui effectue le transport;
 
-- -. het kenteken van het voertuig waarmede het vervoer wordt verricht;
+- - la charge utile et le poids total en charge du véhicule;
 
-- -. het laadvermogen en het totale beladen gewicht van het voertuig;
+- - le point de chargement et de déchargement de la marchandise;
 
-- -. de plaats van lading en van lossing van de goederen;
+- - la nature de la marchandise transportée;
 
-- -. de aard van de vervoerde goederen;
+- - le poids de la marchandise transportée;
 
-- -. het gewicht van de vervoerde goederen;
+- - le cas échéant, le cachet à date de la douane, à l'entrée et à la sortie du pays.
 
-- -. eventueel, het datumstempel van de douane bij binnenkomst in en vertrek uit het land.
+6. Les services habilités à délivrer les autorisations sont:
 
-6. De diensten die gemachtigd zijn de vergunningen af te geven, zijn:
+Pour la République Portugaise:
 
-- -. Voor de Portugese Republiek: Director-Geral de Transportes Terrestres Avenida 28 de Maio, 40 Lisboa - 4
+Director-Geral de Transportes Terrestres
 
-- -. Voor het Koninkrijk der Nederlanden: Directeur-Generaal van het Verkeer Plesmanweg 1-6 Den Haag
+Avenida 28 de Maio, 40
 
-##### V. Met betrekking tot artikel 14
+Lisboa-4
 
-De aanvragen om bijzondere vergunningen dienen te worden gericht
+Pour le Royaume des Pays-Bas:
 
-- a. door Portugese vervoerders aan Directeur van de Rijksdienst voor het Wegverkeer Fruitweg 262 Den Haag
+Directeur-Generaal van het Verkeer,
 
-- b. door Nederlandse vervoerders aan Director-Geral de Transportes Terrestres Avenida 28 de Maio, 40 Lisboa-4
+Plesmanweg 1-6,
 
-##### VI. Met betrekking tot artikel 15
+Den Haag.
 
-De tekst van de vertaling is niet beschikbaar.
+##### Artikel V. Pour ce qui concerne l’article 14
 
-##### VII. Met betrekking tot artikel 17
+Les demandes d'autorisations spéciales doivent être adressées:
 
-1. De bevoegde autoriteiten doen elkander binnen twee maanden na afloop van elk kalenderjaar een opgave toekomen van de door hen in het afgelopen jaar afgegeven vergunningen.
+- a) par les transporteurs portugais: au Directeur van de Rijksdienst voor het Wegverkeer, Fruitweg 262, Den Haag
 
-2. Deze opgave bevat voor elke vervoerscategorie de volgende gegevens:
+- b) par les transporteurs néerlandais: au Director-Geral de Transportes Terrestres Avenida 28 de Maio, 40 Lisboa - 4
 
-- a. het nummer van de eerste en de laatste voor elke categorie afgegeven vergunning, alsmede het aantal ritten waarvoor een vergunning is afgegeven;
+##### Artikel VI. Pour ce qui concerne l'article 15
 
-- b. het aantal uitgevoerde ritten;
+1. Les transports de voyageurs et de marchandises effectués par un transporteur, établi sur le territoire d'une Partie Contractante, sur le territoire de l'autre Partie Contractante ainsi que les véhicules au moyen desquels les dits transports se réalisent sont exonérés sur le territoire de l'autre Partie Contractante de toutes les taxes et impôts spécifiques les frappant.
 
-- c. eventueel het aantal geannuleerde of niet gebruikte vergunningen.
+2. Cette exonération ne s'applique pas à l'impôt frappant au Portugal le transport régulier non touristique de personnes, prévu dans l'article 16 du Décret-Loi no. 477/71, du 6 novembre.
+
+3. Sont exclus en outre de cette exonération les péages pour les routes, les ponts et les tunnels, dans la mesure où ces péages sont généralement applicables au transport national et international.
+
+##### Artikel VII. Pour ce qui concerne l’ article 17
+
+1. Les autorités compétentes se communiquent, dans un délai de deux mois après l'expiration de chaque année civile, le relevé des autorisations délivrées durant l’année écoulée.
+
+2. Ce relevé comprendra, pour chaque catégorie de transports, les indications suivantes:
+
+- a) les numéros de la première et de la dernière autorisation délivrée dans chaque catégorie et le nombre de voyages autorisés;
+
+- b) le nombre de voyages effectués;
+
+- c) éventuellement, le nombre d'autorisations annulées ou non utilisées.
 
 FAIT à Lisbonne, le 9 novembre 1972, en deux exemplaires originaux en langue française.
 
-**Pour le „Directeur-Generaal van het Verkeer”:**
+*Pour le „Directeur-Generaal van het Verkeer”:*
 
 (s.) E. P. BRUGGEMAN
 
-**Voor de „Director-Geral de Transportes Terrestres”:**
+*Voor de „Director-Geral de Transportes Terrestres”:*
 
 (s.) CARNEIRO AIRES

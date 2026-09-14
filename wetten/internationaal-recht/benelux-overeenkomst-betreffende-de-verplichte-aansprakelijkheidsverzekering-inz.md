@@ -1,52 +1,19 @@
 ---
 title: "Benelux-overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen"
 identifier: "BWBV0004166"
-country: "nl"
-rank: "verdrag"
-publication_date: "1976-06-01"
-last_updated: "1976-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004166"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10003986773"
-version_id: "10004139132"
-internal_id: "C10008344811"
-label_id: "10003971554"
-dtd_version: "2.0"
-original_entry_into_force: "1976-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004166/1976-06-01/0"
-intitule_bron: "Trb.1966-178"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-08-09"
-intitule_in_force: "1976-06-28"
-intitule_status: "goed"
-original_publication: "Trb.1966-178"
-original_published_date: "1966-08-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-178"
-entry_into_force_date: "1976-06-01"
-jci_1_3: "jci1.3:c:BWBV0004166&z=1976-06-01&g=1976-06-01"
-jci_1_0: "1.0:c:BWBV0004166&g=1976-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1976-06-01"
+publicatiedatum: 1976-06-01
+laatste_update: 1976-06-01
+status: geldig
+toestand: 1976-06-01
+bron: "https://wetten.overheid.nl/BWBV0004166"
+opgehaald: 2026-09-14
 ---
+
 # Benelux-overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Bezield door het verlangen naar gelijkvormigheid in de rechtsbeginselen en de overeenstemming in de juridische oplossingen voor hun landen,
-
-Van mening zijnde, dat er aanleiding bestaat om de rechten van de slachtoffers van ongevallen, welke door motorrijtuigen op hun grondgebied worden veroorzaakt, door de invoering van een stelsel van verplichte verzekering te waarborgen,
-
-Overwegende anderzijds, dat volkomen eenmaking van het recht voor dit onderwerp bezwaren blijkt op te leveren en dat voorts er mede kan worden volstaan, dat de voornaamste, onmisbaar te achten regelen gemeenschappelijk zijn voor de drie landen, met dien verstande dat ieder der landen de vrijheid behoudt voor zijn grondgebied bepalingen af te kondigen, die de waarborg ten behoeve van de benadeelden vergroten,
-
-Overwegende tenslotte, dat de aanvaarding door de drie landen van een gelijksoortig stelsel met betrekking tot de verplichte verzekering inzake de wettelijke aansprakelijkheid de mogelijkheid biedt om overeenkomstig de doelstellingen van het [Benelux-Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) bij te dragen tot de verwezenlijking van het vrije verkeer van personen en goederen in Benelux door aan de binnengrenzen der drie landen de controle op de verzekering van motorrijtuigen af te schaffen,
-
-Zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Bezield door het verlangen naar gelijkvormigheid in de rechtsbeginselen en de overeenstemming in de juridische oplossingen voor hun landen, Van mening zijnde, dat er aanleiding bestaat om de rechten van de slachtoffers van ongevallen, welke door motorrijtuigen op hun grondgebied worden veroorzaakt, door de invoering van een stelsel van verplichte verzekering te waarborgen, Overwegende anderzijds, dat volkomen eenmaking van het recht voor dit onderwerp bezwaren blijkt op te leveren en dat voorts er mede kan worden volstaan, dat de voornaamste, onmisbaar te achten regelen gemeenschappelijk zijn voor de drie landen, met dien verstande dat ieder der landen de vrijheid behoudt voor zijn grondgebied bepalingen af te kondigen, die de waarborg ten behoeve van de benadeelden vergroten, Overwegende tenslotte, dat de aanvaarding door de drie landen van een gelijksoortig stelsel met betrekking tot de verplichte verzekering inzake de wettelijke aansprakelijkheid de mogelijkheid biedt om overeenkomstig de doelstellingen van het Benelux-Unieverdrag bij te dragen tot de verwezenlijking van het vrije verkeer van personen en goederen in Benelux door aan de binnengrenzen der drie landen de controle op de verzekering van motorrijtuigen af te schaffen, Zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel 1
 
@@ -157,106 +124,6 @@ In afwijking van artikel 12 van de bij deze Overeenkomst behorende Gemeenschappe
 2. De Overeenkomst zal in werking treden op de eerste dag van de maand, volgende op de datum van neerlegging van de derde akte van bekrachtiging.
 
 3. Onverminderd het bepaalde in artikel 9, eindigt de Overeenkomst tegelijk met het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047).
-
-##### Artikel 1
-
-Voor de toepassing van deze wet worden verstaan:
-
-onder motorrijtuigen: rij- of voertuigen, bestemd om zich over de grond te bewegen en die door een mechanische kracht kunnen worden gedreven, zonder aan spoorstaven te zijn gebonden; al hetgeen aan het rij- of voertuig is gekoppeld, wordt als een deel daarvan aangemerkt;
-
-onder verzekerden: zij wier aansprakelijkheid overeenkomstig de bepalingen van deze wet is gedekt;
-
-onder benadeelden: zij die schade hebben geleden welke grond oplevert voor toepassing van deze wet, alsmede hun rechtverkrijgenden;
-
-onder verzekeraar: de verzekeringsonderneming, door de Regering toegelaten in de zin van artikel 2, § 1, en in het geval van § 2, het bureau, belast met de afwikkeling van de schade, welke in België/in Luxemburg/in Nederland is veroorzaakt door motorrijtuigen, die gewoonlijk in het buitenland zijn gestald. De in een Staat geregistreerde motorrijtuigen worden geacht gewoonlijk in die Staat te zijn gestald.
-
-##### Artikel 2
-
-§ 1. Tot het verkeer op de openbare weg en op terreinen die toegankelijk zijn voor het publiek of slechts voor een beperkt aantal personen, die het recht hebben om er te komen, worden motorrijtuigen slechts toegelaten, indien de burgerrechtelijke aansprakelijkheid, waartoe zij aanleiding kunnen geven, gedekt is door een verzekering welke aan de bepalingen van deze wet beantwoordt.
-
-De verplichting tot het sluiten van de verzekering rust op de eigenaar van het motorrijtuig. Indien een andere persoon de verzekering heeft gesloten, wordt de verplichting van de eigenaar geschorst voor de duur van het door die andere persoon gesloten contract.
-
-§ 2. De verzekering moet worden gesloten bij een tot dat doel door de Regering toegelaten verzekeraar.
-
-Niettemin worden motorrijtuigen, die gewoonlijk in het buitenland zijn gestald, tot het verkeer in België/in Luxemburg/in Nederland toegelaten, mits een bureau, voor dat doel erkend door de Regering, zelf tegenover de benadeelden de verplichting op zich neemt de schade, door die motorrijtuigen toegebracht, overeenkomstig de bepalingen van deze wet te vergoeden.
-
-Deze verplichting valt ten laste van het bureau, zelfs als de verplichting tot verzekering niet is nagekomen, wanneer het een motorrijtuig betreft, dat gewoonlijk in een van de beide andere Beneluxlanden is gestald.
-
-##### Artikel 3
-
-§ 1. De verzekering moet de burgerrechtelijke aansprakelijkheid dekken van de eigenaar, van ieder houder, van iedere bestuurder van het verzekerde motorrijtuig en van iedere vervoerde persoon, zulks met uitzondering van de burgerrechtelijke aansprakelijkheid van hen die zich door diefstal of geweldpleging de macht over het motorrijtuig hebben verschaft en van hen die, dit wetende, een dergelijk motorrijtuig zonder geldige reden gebruiken.
-
-§ 2. De verzekering moet de schade omvatten, welke aan personen en aan goederen wordt gebracht door in België, in Luxemburg en in Nederland voorgevallen feiten. Zij moet mede de schade omvatten, toegebracht aan personen, die onder welke titel ook, worden vervoerd door het motorrijtuig, dat de schade veroorzaakt; de goederen door dat motorrijtuig vervoerd, kunnen van de verzekering worden uitgesloten.
-
-§ 3. De verzekering moet de burgerrechtelijke aansprakelijkheid voor de door het motorrijtuig veroorzaakte schade dekken zoals die aansprakelijkheid voortvloeit uit de toepasselijke wet.
-
-##### Artikel 4
-
-§ 1. Van het recht op een uitkering kunnen worden uitgesloten:
-
-- 1. de bestuurder van het motorrijtuig dat het ongeval veroorzaakt, alsmede de verzekeringnemer en zij wier burgerrechtelijke aansprakelijkheid door de polis is gedekt;
-
-- 2. de echtgenoot van de personen bedoeld in vorig nummer, alsmede hun bloed- en aanverwanten in de rechte linie, mits dezen bij hen inwonen en door hen worden onderhouden;
-
-- 3. zij, die gerechtigd zijn tot een uitkering uit hoofde van bijzondere wetten inzake schadevergoeding voor arbeidsongevallen, behalve voor zover zij tegen de verzekerde een op burgerrechtelijke aansprakelijkheid berustende vordering behouden.
-
-§ 2. Van de verzekering kan worden uitgesloten de schade, die voortvloeit uit het deelnemen van het motorrijtuig aan snelheids-, regelmatigheids- of behendigheidsritten en -wedstrijden, waartoe van overheidswege verlof is verleend.
-
-##### Artikel 5
-
-Indien de overeenkomst een beding inhoudt dat de verzekerde persoonlijk voor een deel in de vergoeding van de schade zal bijdragen, blijft de verzekeraar niettemin jegens de benadeelde gehouden tot betaling van de schadeloosstelling die krachtens de overeenkomst ten laste van de verzekerde blijft.
-
-##### Artikel 6
-
-§ 1. De verzekering geeft aan de benadeelde een eigen recht tegen de verzekeraar.
-
-§ 2. Indien er meer dan een benadeelde is en het totaal bedrag van de verschuldigde schadeloosstellingen de verzekerde som overschrijdt, worden de rechten van de benadeelden tegen de verzekeraar naar evenredigheid teruggebracht tot het beloop van die som. Niettemin blijft de verzekeraar, die, onbekend met het bestaan van vorderingen van andere benadeelden, te goeder trouw aan een benadeelde een groter bedrag dan het aan deze toekomende deel heeft uitgekeerd, jegens die anderen slechts gehouden tot het beloop van het overblijvende gedeelte van de verzekerde som.
-
-##### Artikel 7
-
-Voor de uitvoering van de bepalingen van deze wet kan de verzekeraar door de benadeelde in België - in Luxemburg - in Nederland worden gedagvaard, hetzij voor de rechter van de plaats van het feit, waaruit de schade is ontstaan, hetzij voor de rechter van de woonplaats van de benadeelde, hetzij voor de rechter van de zetel van de verzekeraar.
-
-##### Artikel 8
-
-De verzekerden moeten van ieder ongeval, waarbij het verzekerde motorrijtuig is betrokken, mededeling doen aan de verzekeraar. De verzekeringnemer moet aan de verzekeraar alle door de verzekeringsovereenkomst voorgeschreven inlichtingen en bescheiden verschaffen. De overige verzekerden moeten aan de verzekeraar op zijn verzoek alle nodige inlichtingen en bescheiden verschaffen.
-
-##### Artikel 9
-
-§ 1. Een vonnis gewezen in een geschil terzake van door een motorrijtuig veroorzaakte schade, kan aan de verzekeraar, aan de verzekerde of aan de benadeelde slechts worden tegengeworpen, indien zij in het geding partij zijn geweest of daarin zijn geroepen.
-
-§ 2. Niettemin kan het vonnis, dat in een geschil tussen de benadeelde en de verzekerde is gewezen, worden tegengeworpen aan de verzekeraar, indien is komen vast te staan, dat de laatste in feite de leiding van het geding op zich heeft genomen.
-
-§ 3. De verzekeraar kan de verzekerde in het geding roepen, dat door de benadeelde tegen hem wordt ingesteld.
-
-##### Artikel 10
-
-§ 1. Iedere uit deze wet voortvloeiende rechtsvordering van de benadeelde tegen de verzekeraar verjaart door verloop van drie jaar te rekenen van het feit waaruit de schade is ontstaan.
-
-§ 2. Handelingen die de verjaring van de rechtsvordering van een benadeelde tegen een verzekerde stuiten, stuiten de verjaring van de rechtsvordering van die benadeelde tegen de verzekeraar. Handelingen die de verjaring van de rechtsvordering van een benadeelde tegen de verzekeraar stuiten, stuiten de verjaring van de rechtsvordering van de benadeelde tegen de verzekerden.
-
-§ 3. De verjaring wordt ten opzichte van een verzekeraar gestuit door iedere onderhandeling tussen de verzekeraar en de benadeelde. Een nieuwe termijn van drie jaar begint te lopen te rekenen van het ogenblik waarop één van de partijen bij deurwaardersexploot of aangetekende brief aan de andere partij heeft kennisgegeven dat zij de onderhandelingen afbreekt.
-
-##### Artikel 11
-
-§ 1. Geen uit de wet of de overeenkomst van verzekering voortvloeiende nietigheid, exceptie of verval kan door een verzekeraar aan een benadeelde worden tegengeworpen.
-
-§ 2. Een verzekeraar kan zich een recht van verhaal voorbehouden tegen de verzekeringnemer en, indien daartoe grond bestaat, tegen een verzekerde die niet de verzekeringnemer is, voor zover de verzekeraar volgens de wet of de verzekeringsovereenkomst gerechtigd mocht zijn de uitkering te weigeren of te verminderen.
-
-##### Artikel 12
-
-§ 1. De beëindiging, de nietigverklaring, de ontbinding, de schorsing van de overeenkomst of van de dekking, door welke oorzaak ook, moeten door de verzekeraar worden medegedeeld aan het overheidsorgaan of aan de persoon door de regering aangewezen. De regering bepaalt op welke wijze de kennisgeving moet worden gedaan, sedert welk ogenblik zij kan worden gedaan en wanneer de termijn bedoeld in paragraaf 2, aanvangt.
-
-§ 2. De verplichtingen van de verzekeraar jegens de benadeelde blijven bestaan voor ongevallen welke plaatsvinden binnen 16 dagen na de kennisgeving, bedoeld in de vorige paragraaf; deze termijn kan niet beginnen te lopen vóór de dag, volgende op die waarop de overeenkomst of de dekking eindigt.
-
-§ 3. Deze verplichtingen eindigen echter van rechtswege, zonder kennisgeving, voor zover het betreft ongevallen die plaats vinden:
-
-- 1. na het van kracht worden van een nieuwe verzekering welke hetzelfde risico dekt;
-
-- 2. wanneer het betreft het dekken van de burgerrechtelijke aansprakelijkheid waartoe een motorrijtuig dat gewoonlijk in het buitenland wordt gestald, aanleiding geeft, na verloop van een termijn van 16 dagen volgende op het einde van de tijd waarvoor een verzekeringsovereenkomst overeenkomstig paragraaf 1 van artikel 2 is aangegaan.
-
-##### Artikel 13
-
-Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdheid daartoe uit de bepaling zelve blijkt.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

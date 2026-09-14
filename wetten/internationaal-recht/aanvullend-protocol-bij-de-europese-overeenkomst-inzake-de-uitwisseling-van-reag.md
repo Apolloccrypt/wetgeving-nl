@@ -1,72 +1,45 @@
 ---
 title: "Aanvullend Protocol bij de Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering"
 identifier: "BWBV0004846"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-05-13"
-last_updated: "1978-05-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004846"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004346133"
-version_id: "10004546482"
-internal_id: "C10006981971"
-label_id: "10004331104"
-dtd_version: "2.0"
-original_entry_into_force: "1978-05-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004846/1978-05-13/0"
-intitule_bron: "Trb.1977-154"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1977-11-04"
-intitule_in_force: "1978-07-03"
-intitule_status: "goed"
-original_publication: "Trb.1977-154"
-original_published_date: "1977-11-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1977-154"
-entry_into_force_date: "1978-05-13"
-jci_1_3: "jci1.3:c:BWBV0004846&z=1978-05-13&g=1978-05-13"
-jci_1_0: "1.0:c:BWBV0004846&g=1978-05-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-05-13"
+publicatiedatum: 1978-05-13
+laatste_update: 1978-05-13
+status: geldig
+toestand: 1978-05-13
+bron: "https://wetten.overheid.nl/BWBV0004846"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Protocol bij de Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering
 
-De Lid-Staten van de Raad van Europa, die de [Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) (hierna te noemen „de Overeenkomst”) en dit Aanvullend Protocol hebben ondertekend,
+*The member States of the Council of Europe signatory to the European Agreement on the Exchange of Tissue-typing Reagents (hereafter called the “Agreement”) and to this Additional Protocol, Having regard to the provisions of Article 5, paragraph 1 of the Agreement, according to which “the Contracting Parties shall take all necessary measures to exempt from all import duties the tissue-typing reagents placed at their disposal by the other Parties”; Considering that so far as the member States of the European Economic Community are concerned, the undertaking to grant this exemption falls within the competence of the Community, which possesses the necessary powers in this respect by virtue of the Treaty which instituted it; Considering therefore that for the purpose of the implementation of Article 5, paragraph 1 of the Agreement, it is necessary for the European Economic Community to be able to become a Contracting Party to the Agreement, Have agreed as follows:*
 
-Gelet op het bepaalde in [artikel 5, eerste lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016&artikel=5), waarin wordt gesteld dat „de Overeenkomstsluitende Partijen alle nodige maatregelen treffen ten einde de hun door andere Partijen ter beschikking gestelde reagentia voor weefseltypering vrij te stellen van alle invoerrechten”;
+##### Article 1
 
-Overwegende dat, wat de Lid-Staten van de Europese Economische Gemeenschap betreft, de verplichting tot het verlenen van bedoelde vrijstelling een zaak is van de Gemeenschap, die krachtens haar oprichtingsverdrag beschikt over de daartoe vereiste bevoegdheden;
+The European Economic Community may become a Contracting Party to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) by signing it.
 
-Overwegende derhalve dat, voor de toepassing van het bepaalde in [artikel 5, eerste lid, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016&artikel=5), het noodzakelijk is dat de Europese Economische Gemeenschap Partij kan worden bij de Overeenkomst,
+##### Article 2
 
-Zijn overeengekomen als volgt:
+This Additional Protocol shall be open to signature by the States signatory to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004016), which may become Parties to the Additional Protocol in accordance with the procedure laid down in [Article 7 of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004016&artikel=7).
 
-##### Artikel 1
+##### Article 3
 
-De Europese Economische Gemeenschap kan Partij worden bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) door deze te ondertekenen.
+No State may become a Contracting Party to the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) without at the same time becoming a Contracting Party to this Additional Protocol, which forms an integral part of the Agreement.
 
-##### Artikel 2
+##### Article 4
 
-Dit Aanvullend Protocol staat open voor ondertekening door de Staten die de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) hebben ondertekend en die Partij kunnen worden bij het Aanvullend Protocol overeenkomstig de procedure aangegeven in [artikel 7 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016&artikel=7).
+This Additional Protocol shall enter into force on the same date as the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004016).
 
-##### Artikel 3
+##### Article 5
 
-Geen enkele Staat kan Partij worden bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016) zonder gelijktijdig Partij te worden bij dit Aanvullend Protocol, dat een integrerend deel van de Overeenkomst vormt.
+The Secretary General of the Council of Europe shall notify the member States of the Council and the European Economic Community of:
 
-##### Artikel 4
+- a. any signature of this Additional Protocol;
 
-Dit Aanvullend Protocol treedt in werking op hetzelfde tijdstip als de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004016).
+- b. the deposit of any instrument of ratification or acceptance;
 
-##### Artikel 5
-
-De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad van Europa en de Europese Economische Gemeenschap kennis van:
-
-- a. iedere ondertekening van dit Aanvullend Protocol;
-
-- b. de nederlegging van iedere akte van bekrachtiging of aanvaarding;
-
-- c. de datum van inwerkingtreding van dit Aanvullend Protocol.
+- c. the date of entry into force of this Additional Protocol.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this Protocol.
 

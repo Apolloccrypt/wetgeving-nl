@@ -1,132 +1,107 @@
 ---
 title: "Overeenkomst inzake het uitwisselen van gegevens met betrekking tot het verkrijgen van nationaliteit"
 identifier: "BWBV0004662"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-06-17"
-last_updated: "1967-06-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004662"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004247743"
-version_id: "10004435112"
-internal_id: "C10006987391"
-label_id: "10004232934"
-dtd_version: "2.0"
-original_entry_into_force: "1967-06-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004662/1967-06-17/0"
-intitule_bron: "Trb.1965-91"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-07-16"
-intitule_in_force: "1967-07-11"
-intitule_status: "goed"
-original_publication: "Trb.1965-91"
-original_published_date: "1965-07-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-91"
-entry_into_force_date: "1967-06-17"
-jci_1_3: "jci1.3:c:BWBV0004662&z=1967-06-17&g=1967-06-17"
-jci_1_0: "1.0:c:BWBV0004662&g=1967-06-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-06-17"
+publicatiedatum: 1967-06-17
+laatste_update: 1967-06-17
+status: geldig
+toestand: 1967-06-17
+bron: "https://wetten.overheid.nl/BWBV0004662"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake het uitwisselen van gegevens met betrekking tot het verkrijgen van nationaliteit
 
-De Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, de Franse Republiek, het Koninkrijk Griekenland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Zwitserse Bondsstaat, en de Turkse Republiek, leden van de Internationale Commissie voor de Burgerlijke Stand,
+*La République Fédérale d'Allemagne, la République d'Autriche, le Royaume de Belgique, la République Française, le Royaume de Grèce, la République Italienne, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas, la Confédération Suisse et la République Turque, membres de la Commission Internationale de l'Etat Civil, Désireux de coopérer, par un échange de renseignements concernant les acquisitions de nationalité de leurs ressortissants, Sont convenus des dispositions suivantes:*
 
-Verlangende door samenwerking te komen tot uitwisseling van gegevens met betrekking tot het verkrijgen van nationaliteit door hun onderdanen,
+##### Article 1er
 
-Zijn het volgende overeengekomen:
+Chaque Etat contractant s'engage à donner communication à un autre Etat contractant des acquisitions de nationalité résultant de naturalisations, options ou réintégrations concernant les ressortissants de cet Etat.
 
-##### Artikel 1
+##### Article 2
 
-Indien onderdanen van een Overeenkomstsluitende Staat de nationaliteit van een andere Overeenkomstsluitende Staat hebben verkregen door naturalisatie of optie of deze nationaliteit hebben herkregen, verbindt deze Staat zich hiervan opgave te doen aan de eerstbedoelde Staat.
+Cette communication est faite au moyen d'une fiche dont le modèle est annexé à la présente Convention et qui doit mentionner:
 
-##### Artikel 2
+- 1. les nom et prénoms de l'intéressé;
 
-Deze opgave geschiedt door middel van een formulier waarvan een model bij deze Overeenkomst is gevoegd en waarop dienen te worden vermeld:
+- 2. le lieu et la date de sa naissance;
 
-- 1. de geslachtsnaam en de voornamen van de betrokkene;
+- 3. sa résidence actuelle et sa dernière résidence connue dans l'Etat dont il avait la nationalité;
 
-- 2. de plaats en de datum van zijn geboorte;
+- 4. le mode d'acquisition de la nationalité et la date à laquelle cette acquisition prend effet;
 
-- 3. zijn tegenwoordige verblijfplaats en zijn laatst bekende verblijfplaats in de Staat waarvan hij de nationaliteit bezat;
+- 5. éventuellement la nature, le numéro et la date du document faisant preuve de la nationalité précédente.
 
-- 4. de wijze waarop de nationaliteit is verkregen, alsmede de datum waarop de verkrijging ingaat;
+##### Article 3
 
-- 5. eventueel de aard, het nummer en de datum van het bewijsstuk van de vorige nationaliteit.
+Lorsque l'acquisition de nationalité étend de plein droit ses effets au conjoint ou aux enfants mineurs, la fiche prévue à l'article précédent doit en outre mentionner les noms, prénoms, datés et lieux de naissance de ce conjoint et de ces enfants.
 
-##### Artikel 3
+##### Article 4
 
-Indien de verkrijging van nationaliteit zich van rechtswege uitstrekt tot de echtgenoot of de minderjarige kinderen, dienen op het formulier, bedoeld in het vorige artikel, tevens te worden vermeld de geslachtsnaam, de voornamen, de datum en de plaats van geboorte van die echtgenoot en die kinderen.
+La fiche est transmise par voie directe dans les trois mois de la date à laquelle l'acquisition de nationalité prend effet.
 
-##### Artikel 4
+Chaque Etat contractant, lors de la signature, de la notification ou de l'adhésion, indiquera l'autorité centrale qu'il habilite à recevoir cette transmission.
 
-Het formulier wordt binnen drie maanden te rekenen van de datum waarop de verkrijging van de nationaliteit ingaat rechtstreeks overgemaakt.
+##### Article 5
 
-Iedere Overeenkomstsluitende Staat wijst bij de ondertekening, de kennisgeving of de toetreding, het centrale overheidsorgaan aan bevoegd om dit formulier in ontvangst te nemen.
+La présente Convention ne porte atteinte ni aux dispositions de la loi interne de chaque Etat contractant relative à la nationalité, ni aux conventions prévoyant un échange de renseignements plus complets en matière d'acquisition de nationalité.
 
-##### Artikel 5
+##### Article 6
 
-Deze Overeenkomst laat zowel de bepalingen van de nationale wetgeving van iedere Overeenkomstsluitende Staat betreffende de nationaliteit als de overeenkomsten die voorzien in de uitwisseling van meer gegevens aangaande de verkrijging van nationaliteit, onverlet.
+Les Etats contractants notifieront au Conseil Fédéral Suisse l'accomplissement des procédures requises par leur Constitution pour rendre applicable sur leur territoire la présente Convention.
 
-##### Artikel 6
+Le Conseil Fédéral Suisse avisera les Etats contractants et le Secrétaire Général de la Commission Internationale de l'Etat Civil de toute notification au sens de l'alinéa précédent.
 
-De Overeenkomstsluitende Staten stellen de Zwitserse Bondsraad ervan in kennis, dat de door hun Grondwet vereiste procedures voor de inwerkingtreding van deze Overeenkomst op hun grondgebied zijn vervuld.
+##### Article 7
 
-De Zwitserse Bondsraad doet de Overeenkomstsluitende Staten en de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van iedere kennisgeving in de zin van het vorige lid.
+La présente Convention entrera en vigueur à compter du trentième jour suivant la date du dépôt de la deuxième notification et prendra, dès lors, effet entre les deux Etats ayant accompli cette formalité.
 
-##### Artikel 7
+Pour chaque Etat signataire, accomplissant postérieurement la formalité prévue à l'article précédent, la présente Convention prendra effet à compter du trentième jour suivant la date du dépôt de sa notification.
 
-Deze Overeenkomst treedt in werking op de dertigste dag te rekenen van de datum van nederlegging van de tweede kennisgeving en is van dat tijdstip af van kracht tussen de beide Staten die deze formaliteit hebben vervuld.
+##### Article 8
 
-Voor iedere ondertekenende Staat, die de in het vorige artikel bedoelde formaliteit later vervult, wordt deze Overeenkomst van kracht te rekenen van de dertigste dag na de datum van nederlegging van zijn kennisgeving.
+Chaque Etat contractant pourra, lors de la signature, de la notification prévue à l'article 6, ou de l'adhésion, déclarer qu'il exclut des communications prévues à l'article 1er les acquisitions de nationalité résultant d'options ou de réintégrations.
 
-##### Artikel 8
+Tout Etat contractant pourra retirer en tout ou en partie la réserve formulée par lui en vertu du paragraphe précédent, par notification adressée au Conseil Fédéral Suisse et qui prendra effet le trentième jour après la date de sa réception.
 
-Iedere Overeenkomstsluitende Staat kan bij de ondertekening, de in artikel 6 bedoelde kennisgeving of de toetreding, verklaren, dat hij, in afwijking van het bepaalde in artikel 1, geen mededeling zal doen van de verkrijging van nationaliteit door optie of van het herkrijgen van nationaliteit.
+Le Conseil Fédéral Suisse avisera de cette notification chacun des Etats contractants et le Secrétaire Général de la Commission Internationale de l'Etat Civil.
 
-Iedere Overeenkomstsluitende Staat kan het voorbehoud, hetwelk door hem krachtens het vorige lid is gemaakt, geheel of gedeeltelijk intrekken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving, die verbindend wordt op de dertigste dag na de datum van ontvangst.
+##### Article 9
 
-De Zwitserse Bondsraad doet ieder van de Overeenkomstsluitende Staten alsmede de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van deze kennisgeving.
+La présente Convention s'applique de plein droit sur toute l'étendue du territoire métropolitain de chaque Etat contractant.
 
-##### Artikel 9
+Tout Etat contractant pourra, lors de la signature, de la notification prévue à l'article 6, de l'adhésion ou ultérieurement, déclarer par notification adressée au Conseil Fédéral Suisse que les dispositions de la présente Convention seront applicables à l'un ou plusieurs de ses territoires extra-métropolitains, des Etats ou des territoires dont il assume la responsabilité internationale. Le Conseil Fédéral Suisse avisera de cette notification chacun des Etats contractants et le Secrétaire Général de la Commission Internationale de l'Etat Civil. Les dispositions de la présente Convention deviendront applicables dans le ou les territoires désignés dans la notification le trentième jour suivant la date à laquelle le Conseil Fédéral Suisse aura reçu ladite notification.
 
-Deze Overeenkomst is van rechtswege van toepassing in het gehele moederland van elke Overeenkomstsluitende Staat.
+Tout Etat qui a fait la déclaration conformément aux dispositions de l'alinéa 2 du présent article, pourra, par la suite, déclarer à tout moment, par notification adressée au Conseil Fédéral Suisse, que la présente Convention cessera d'être applicable à l'un ou plusieurs des Etats ou territoires désignés dans la déclaration.
 
-Elke Overeenkomstsluitende Staat kan bij de ondertekening, de in artikel 6 bedoelde kennisgeving, de toetreding of nadien door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving verklaren, dat de bepalingen van deze Overeenkomst van toepassing zullen zijn in een of meer van zijn buiten het moederland gelegen gebieden, van de staten of van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is. De Zwitserse Bondsraad doet van deze kennisgeving mededeling aan elk der Overeenkomstsluitende Staten en aan de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand. De bepalingen van deze Overeenkomst worden van toepassing in het gebied of de gebieden, in de kennisgeving aangewezen, op de dertigste dag na de datum waarop de Zwitserse Bondsraad bedoelde kennisgeving heeft ontvangen.
+Le Conseil Fédéral Suisse avisera de la nouvelle notification chacun des Etats contractants et le Secrétaire Général de la Commission Internationale de l'Etat Civil.
 
-ledere Staat die een verklaring heeft afgelegd overeenkomstig het bepaalde in het tweede lid van dit artikel kan nadien op ieder tijdstip door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving verklaren, dat deze Overeenkomst zal ophouden van toepassing te zijn in een of meer van de staten of gebieden die in de verklaring zijn genoemd.
+La Convention cessera d'être applicable au territoire visé le trentième jour suivant la date à laquelle le Conseil Fédéral Suisse aura reçu ladite notification.
 
-De Zwitserse Bondsraad doet van deze kennisgeving mededeling aan elk der Overeenkomstsluitende Staten en aan de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand.
+##### Article 10
 
-De Overeenkomst houdt op van toepassing te zijn in het bedoelde gebied op de dertigste dag na de datum waarop de Zwitserse Bondsraad de voornoemde kennisgeving heeft ontvangen.
+Tout Etat membre de la Commission Internationale de l'Etat Civil ou du Conseil de l'Europe pourra adhérer à la présente Convention.
 
-##### Artikel 10
+L'Etat désirant adhérer notifiera son intention par un acte qui sera déposé auprès du Conseil Fédéral Suisse. Celui-ci avisera chacun des Etats contractants et le Secrétaire Général de la Commission Internationale de l'Etat Civil de tout dépôt d'acte d'adhésion. La Convention entrera en vigueur, pour l'Etat adhérent, le trentième jour suivant la date du dépôt de l'acte d'adhésion.
 
-Iedere Lid-Staat van de Internationale Commissie voor de Burgerlijke Stand of van de Raad van Europa, kan tot deze Overeenkomst toetreden.
+Le dépôt de l'acte d'adhésion ne pourra avoir lieu qu'après l'entrée en vigueur de la présente Convention.
 
-De Staat die wenst toe te treden, geeft van zijn voornemen kennis door middel van een akte die wordt neder gelegd bij de Zwitserse Bondsraad. Deze doet van elke nederlegging van een akte van toetreding mededeling aan elk der Overeenkomstsluitende Staten en aan de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand
+##### Article 11
 
-Ten aanzien van de toetredende Staat treedt de Overeenkomst in werking op de dertigste dag na de datum van nederlegging van de akte van toetreding.
+La présente Convention peut être soumise à des révisions.
 
-De nederlegging van de akte van toetreding kan niet plaats hebben dan nadat deze Overeenkomst in werking is getreden.
+La proposition de révision sera introduite auprès du Conseil Fédéral Suisse qui la notifiera aux divers Etats contractants et au Secrétaire Général de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 11
+##### Article 12
 
-Deze Overeenkomst kan worden herzien.
+La présente Convention aura une durée de cinq ans à partir de la date indiquée à l'article 7, alinéa 1er.
 
-Een voorstel tot herziening wordt ingediend bij de Zwitserse Bondsraad die daarvan kennis geeft aan de andere Overeenkomstsluitende Staten alsmede aan de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand.
+La Convention sera renouvelée tacitement de cinq ans en cinq ans, sauf dénonciation.
 
-##### Artikel 12
+La dénonciation devra, au moins six mois avant l'expiration du terme, être notifiée au Conseil Fédéral Suisse qui en donnera connaissance à tous les autres Etats contractants et au Secrétaire Général de la Commission Internationale de l'Etat Civil.
 
-Deze Overeenkomst wordt gesloten voor een tijdvak van vijf jaar te rekenen van de in het eerste lid van artikel 7 aangegeven datum.
-
-De Overeenkomst wordt, behoudens opzegging, stilzwijgend telkens voor vijf jaar verlengd.
-
-De opzegging moet ten minste zes maanden voor het verstrijken van de termijn ter kennis worden gebracht van de Zwitserse Bondsraad, die hiervan aan alle andere Overeenkomstsluitende Staten en aan de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling doet.
-
-De opzegging heeft slechts gevolg ten opzichte van de Staat die haar heeft gedaan, De Overeenkomst blijft van kracht voor de andere Overeenkomstsluitende Staten.
+La dénonciation ne produira son effet qu'à l'égard de l'Etat qui l'aura notifiée. La Convention restera en vigueur pour les autres Etats contractants.
 
 EN FOI DE QUOI les représentants soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

@@ -1,54 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal"
 identifier: "BWBV0004442"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-02-01"
-last_updated: "2014-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004442"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004130273"
-version_id: "10004299092"
-internal_id: "C10006990821"
-label_id: "10004115384"
-dtd_version: "2.0"
-original_entry_into_force: "1962-09-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004442/2014-02-01/0"
-intitule_bron: "Trb.1961-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-05-18"
-intitule_in_force: "1962-10-11"
-intitule_status: "goed"
-original_publication: "Trb.1961-46"
-original_published_date: "1961-05-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-46"
-entry_into_force_date: "1962-09-07"
-jci_1_3: "jci1.3:c:BWBV0004442&z=2014-02-01&g=2014-02-01"
-jci_1_0: "1.0:c:BWBV0004442&g=2014-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-09-07"
+publicatiedatum: 1962-09-07
+laatste_update: 2014-02-01
+status: geldig
+toestand: 2014-02-01
+bron: "https://wetten.overheid.nl/BWBV0004442"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal
 
-Hare Majesteit de Koningin der Nederlanden en
-
-Zijne Majesteit de Koning der Belgen,
-
-erkend hebbende dat het nodig geworden is tussen het Julianakanaal en het Albertkanaal een betere verbinding tot stand te brengen,
-
-hebben besloten te dien einde een verdrag te sluiten en hebben tot hun gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Jonkheer E. Teixeira de Mattos, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden te Brussel;
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie de Heer P. Wigny, Minister van Buitenlandse Zaken;
-
-die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning der Belgen, erkend hebbende dat het nodig geworden is tussen het Julianakanaal en het Albertkanaal een betere verbinding tot stand te brengen, hebben besloten te dien einde een verdrag te sluiten en hebben tot hun gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Jonkheer E. Teixeira de Mattos, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden te Brussel; Zijne Majesteit de Koning der Belgen: Zijne Excellentie de Heer P. Wigny, Minister van Buitenlandse Zaken; die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -58,47 +23,47 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 1. — Om de in artikel 1 genoemde verbinding tot stand te brengen zullen de volgende werken worden uitgevoerd:
 
-- a). het bouwen, ten oosten van de bestaande tweelingsluis te Ternaaien, van een sluis met de volgende afmetingen: Het bovenhoofd van deze sluis zal in dezelfde lijn liggen als het bovenhoofd van de bestaande tweelingsluis. Over het benedenhoofd van de nieuwe sluis zal een brug worden gelegd en, erbij aansluitend, een brug over het hierna onder b) beschreven verbindingskanaal;
+- a) het bouwen, ten oosten van de bestaande tweelingsluis te Ternaaien, van een sluis met de volgende afmetingen: Het bovenhoofd van deze sluis zal in dezelfde lijn liggen als het bovenhoofd van de bestaande tweelingsluis. Over het benedenhoofd van de nieuwe sluis zal een brug worden gelegd en, erbij aansluitend, een brug over het hierna onder b) beschreven verbindingskanaal;
 
-- —. nuttige lengte: 136 m;
+   - — nuttige lengte: 136 m;
 
-- —. nuttige breedte: 16 m;
+   - — nuttige breedte: 16 m;
 
-- —. bovenpeil: het peil van het aansluitend pand van het Albertkanaal, d.i. 57,68 m + N.A.P. of (+ 60,00) Staf, met een doorvaarthoogte van 7 m daarboven;
+   - — bovenpeil: het peil van het aansluitend pand van het Albertkanaal, d.i. 57,68 m + N.A.P. of (+ 60,00) Staf, met een doorvaarthoogte van 7 m daarboven;
 
-- —. benedenpeil: het hierna onder h) vermelde stuwpeil, d.i. 44,00 m + N.A.P. of (+ 46,32) Staf, met een doorvaarthoogte van 7 m boven 46,48 m + N.A.P. of (+ 48,80) Staf, overeenkomende met het hierna onder h) vermelde vaarpeil.
+   - — benedenpeil: het hierna onder h) vermelde stuwpeil, d.i. 44,00 m + N.A.P. of (+ 46,32) Staf, met een doorvaarthoogte van 7 m boven 46,48 m + N.A.P. of (+ 48,80) Staf, overeenkomende met het hierna onder h) vermelde vaarpeil.
 
-- b). het graven, over de lengte begrepen tussen de bestaande en nieuwe sluizen van Ternaaien enerzijds en de zuidergrens van de enclave van Maastricht anderzijds, van een verbindingskanaal met een bodempeil van 39,74 m + N.A.P. of ( + 42,06) Staf en een bodembreedte van 67,50 m, in de aansluiting aan de Maas verminderende tot ongeveer 50 m;
+- b) het graven, over de lengte begrepen tussen de bestaande en nieuwe sluizen van Ternaaien enerzijds en de zuidergrens van de enclave van Maastricht anderzijds, van een verbindingskanaal met een bodempeil van 39,74 m + N.A.P. of ( + 42,06) Staf en een bodembreedte van 67,50 m, in de aansluiting aan de Maas verminderende tot ongeveer 50 m;
 
-- c). het maken, in het kanaal van Ternaaien naar Maastricht, van een afdamming als westelijk oevergedeelte van het onder b) beschreven verbindingskanaal;
+- c) het maken, in het kanaal van Ternaaien naar Maastricht, van een afdamming als westelijk oevergedeelte van het onder b) beschreven verbindingskanaal;
 
-- d). het doorgraven van het gedeelte van de oostelijke dijk van het kanaal van Ternaaien naar Maastricht hetwelk komt te liggen in het tracé van het onder b) beschreven verbindingskanaal;
+- d) het doorgraven van het gedeelte van de oostelijke dijk van het kanaal van Ternaaien naar Maastricht hetwelk komt te liggen in het tracé van het onder b) beschreven verbindingskanaal;
 
-- e). het dempen van het gedeelte van het kanaal van Ternaaien naar Maastricht, begrepen tussen de onder c) vermelde afdamming en de zuidergrens van de enclave van Maastricht;
+- e) het dempen van het gedeelte van het kanaal van Ternaaien naar Maastricht, begrepen tussen de onder c) vermelde afdamming en de zuidergrens van de enclave van Maastricht;
 
-- f). het rechttrekken van de Maas, vanaf de bovenzijde van de mergeldrempel van Eysden-Ternaaien tot aan de zuidergrens van de enclave van Maastricht, d.i. tussen km 4,150 en km 8,865, volgens de telling met de stuw van Wezet als nulpunt. Gepaard gaande met dit rechttrekken, hetwelk een verkorting van het riviervak van ongeveer 550 m zal betekenen, zal een verbetering van het dwarsprofiel worden verwezenlijkt bestaande uit:
+- f) het rechttrekken van de Maas, vanaf de bovenzijde van de mergeldrempel van Eysden-Ternaaien tot aan de zuidergrens van de enclave van Maastricht, d.i. tussen km 4,150 en km 8,865, volgens de telling met de stuw van Wezet als nulpunt. Gepaard gaande met dit rechttrekken, hetwelk een verkorting van het riviervak van ongeveer 550 m zal betekenen, zal een verbetering van het dwarsprofiel worden verwezenlijkt bestaande uit:
 
-- —. een verlaging van de mergeldrempel van Eysden-Ternaaien tot een peil van 40,50 m + N.A.P. of (+ 42,82) Staf bij km 4,300, waarbij zuidwaarts een horizontale bodemlijn zal aansluiten, en noordwaarts een bodemlijn afdalend met een verhang van 24 cm per km tot 39,54 m + N.A.P. of (+ 41,86) Staf bij km 8,865;
+   - — een verlaging van de mergeldrempel van Eysden-Ternaaien tot een peil van 40,50 m + N.A.P. of (+ 42,82) Staf bij km 4,300, waarbij zuidwaarts een horizontale bodemlijn zal aansluiten, en noordwaarts een bodemlijn afdalend met een verhang van 24 cm per km tot 39,54 m + N.A.P. of (+ 41,86) Staf bij km 8,865;
 
-- —. een normalisering van de rivierbreedte, welke aan het boveneinde van het vermelde gedeelte van de Maas 175 m zal bedragen op het hierna onder h) vermelde stuwpeil en stroomafwaarts van Eysden, in verband met de ontplooiing van het winterbed op de oostelijke oever, geleidelijk zal afnemen tot 130 m even beneden km 6,000 en van daar gelijk zal blijven tot het benedeneinde;
+   - — een normalisering van de rivierbreedte, welke aan het boveneinde van het vermelde gedeelte van de Maas 175 m zal bedragen op het hierna onder h) vermelde stuwpeil en stroomafwaarts van Eysden, in verband met de ontplooiing van het winterbed op de oostelijke oever, geleidelijk zal afnemen tot 130 m even beneden km 6,000 en van daar gelijk zal blijven tot het benedeneinde;
 
-- g). het bouwen van een gemaal even beneden de zuidergrens der enclave van Maastricht, ten behoeve van de voeding, vanuit de Maas, van het kanaalgedeelte noordwaarts van de onder e) vermelde demping;
+- g) het bouwen van een gemaal even beneden de zuidergrens der enclave van Maastricht, ten behoeve van de voeding, vanuit de Maas, van het kanaalgedeelte noordwaarts van de onder e) vermelde demping;
 
-- h). het normaliseren van het gedeelte van de Maas vanaf de zuidergrens van de enclave van Maastricht tot aan de Sint-Servaasbrug, d.i. tussen km 8,865 en km 13,180, volgens de telling met de stuw van Wezet als nulpunt. Voor deze normalisering zal worden aangehouden:
+- h) het normaliseren van het gedeelte van de Maas vanaf de zuidergrens van de enclave van Maastricht tot aan de Sint-Servaasbrug, d.i. tussen km 8,865 en km 13,180, volgens de telling met de stuw van Wezet als nulpunt. Voor deze normalisering zal worden aangehouden:
 
-- —. een stuwpeil van 44,00 m + N.A.P. of (+ 46,32) Staf;
+   - — een stuwpeil van 44,00 m + N.A.P. of (+ 46,32) Staf;
 
-- —. een vaarpeil, optredende bij een waterafvoer van 1.460 m3/ sec. (was) — 1.400 m3/sec. (val), bedragende 46,40 m + N.A.P. of (+ 48,72) Staf bij km 8,900, 45,63 m + N.A.P. of (+ 47,95) Staf bij km 12,100 en 45,05 m + N.A.P. of (+ 47,37) Staf bij km 14,500;
+   - — een vaarpeil, optredende bij een waterafvoer van 1.460 m3/ sec. (was) — 1.400 m3/sec. (val), bedragende 46,40 m + N.A.P. of (+ 48,72) Staf bij km 8,900, 45,63 m + N.A.P. of (+ 47,95) Staf bij km 12,100 en 45,05 m + N.A.P. of (+ 47,37) Staf bij km 14,500;
 
-- —. een hoogste waterstand, optredend bij een waterafvoer van 3.000 m3/sec, bedragende 48,80 m + N.A.P. of (+ 51,12) Staf bij km 8,900, 47,65 m + N.A.P. of (+ 49,97) Staf bij km 12,100 en 46,35 m + N.A.P. of (+ 48,67) Staf bij km 14,500;
+   - — een hoogste waterstand, optredend bij een waterafvoer van 3.000 m3/sec, bedragende 48,80 m + N.A.P. of (+ 51,12) Staf bij km 8,900, 47,65 m + N.A.P. of (+ 49,97) Staf bij km 12,100 en 46,35 m + N.A.P. of (+ 48,67) Staf bij km 14,500;
 
-- —. een bodemlijn met een verhang van 24 cm per km, afdalend van 39,54 m + N.A.P. of (+ 41,86) Staf bij km 8,865 tot 38,50 m + N.A.P. of (+ 40,82) Staf bij km 13,180;
+   - — een bodemlijn met een verhang van 24 cm per km, afdalend van 39,54 m + N.A.P. of (+ 41,86) Staf bij km 8,865 tot 38,50 m + N.A.P. of (+ 40,82) Staf bij km 13,180;
 
-- —. een rivierbreedte van 130 m op het voornoemde stuwpeil, welke zich direct boven de Sint-Servaasbrug zal verwijden in aansluiting aan het brugprofiel;
+   - — een rivierbreedte van 130 m op het voornoemde stuwpeil, welke zich direct boven de Sint-Servaasbrug zal verwijden in aansluiting aan het brugprofiel;
 
-- i). het verhogen van de spoorwegbrug in de lijn Hasselt-Maastricht tot een doorvaarthoogte van 7 m boven stuwpeil en het verwezenlijken van een beweegbaar vak in deze spoorwegbrug, hetwelk een doorvaarthoogte zal bieden van 7 m boven 45,12 m + N.A.P. of (+ 47,44) Staf, overeenkomende met het onder h) vermelde vaarpeil, alsmede het hefbaar maken van de scheepvaartopening van de Sint-Servaasbrug, zodanig dat deze een doorvaarthoogte biedt van 7 m boven 45,37 m + N.A.P. of (+ 47,69) Staf, overeenkomende met het onder h) vermelde vaarpeil;
+- i) het verhogen van de spoorwegbrug in de lijn Hasselt-Maastricht tot een doorvaarthoogte van 7 m boven stuwpeil en het verwezenlijken van een beweegbaar vak in deze spoorwegbrug, hetwelk een doorvaarthoogte zal bieden van 7 m boven 45,12 m + N.A.P. of (+ 47,44) Staf, overeenkomende met het onder h) vermelde vaarpeil, alsmede het hefbaar maken van de scheepvaartopening van de Sint-Servaasbrug, zodanig dat deze een doorvaarthoogte biedt van 7 m boven 45,37 m + N.A.P. of (+ 47,69) Staf, overeenkomende met het onder h) vermelde vaarpeil;
 
-- j). het verwezenlijken, onder de bovengrondse elektrische of andere leidingen, kabels of dergelijke, welke de verbinding kruisen, van een vrije hoogte van 25 m boven de hoogste vaarbare waterstand.
+- j) het verwezenlijken, onder de bovengrondse elektrische of andere leidingen, kabels of dergelijke, welke de verbinding kruisen, van een vrije hoogte van 25 m boven de hoogste vaarbare waterstand.
 
 § 2. — De Belgische Minister die de Bruggen en Wegen (Bestuur der waterwegen) onder zijn bevoegdheid heeft en de Nederlandse Minister die de Rijkswaterstaat onder zijn bevoegdheid heeft, zullen in onderlinge overeenstemming kunnen toestaan, dat bij de uitvoering der werken op ondergeschikte punten van technische aard wordt afgeweken van het bepaalde in de voorgaande paragraaf.
 
@@ -176,14 +141,14 @@ TEN BLIJKE WAARVAN de hierboven genoemde gevolmachtigden dit Verdrag hebben onde
 
 GEDAAN te Brussel, op 24 februari 1961, in tweevoud in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
-**Pour le Royaume des Pays-Bas:**
+*Pour le Royaume des Pays-Bas:*
 
 (w.g.) E. TEIXEIRA DE MATTOS
 
-**Voor het Koninkrijk België:**
+*Voor het Koninkrijk België:*
 
-**Pour le Royaume de Belgique:**
+*Pour le Royaume de Belgique:*
 
 (w.g.) P. WIGNY

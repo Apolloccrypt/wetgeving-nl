@@ -1,592 +1,551 @@
 ---
 title: "Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten"
 identifier: "BWBV0004615"
-country: "nl"
-rank: "verdrag"
-publication_date: "1966-10-14"
-last_updated: "1966-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004615"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004224393"
-version_id: "10004408012"
-internal_id: "C10008343641"
-label_id: "10004211964"
-dtd_version: "2.0"
-original_entry_into_force: "1966-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004615/1966-10-14/0"
-intitule_bron: "Trb.1966-152"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-05-25"
-intitule_in_force: "1966-10-26"
-intitule_status: "goed"
-original_publication: "Trb.1966-152"
-original_published_date: "1966-05-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-152"
-entry_into_force_date: "1966-10-14"
-jci_1_3: "jci1.3:c:BWBV0004615&z=1966-10-14&g=1966-10-14"
-jci_1_0: "1.0:c:BWBV0004615&g=1966-10-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1966-10-14"
+publicatiedatum: 1966-10-14
+laatste_update: 1966-10-14
+status: geldig
+toestand: 1966-10-14
+bron: "https://wetten.overheid.nl/BWBV0004615"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten
 
-Preambule
+*Preamble The Contracting States Considering the need for international cooperation for economic development, and the role of private international investment therein; Bearing in mind the possibility that from time to time disputes may arise in connection with such investment between Contracting States and nationals of other Contracting States; Recognizing that while such disputes would usually be subject to national legal processes, international methods of settlement may be appropriate in certain cases; Attaching particular importance to the availability of facilities for international conciliation or arbitration to which Contracting States and nationals of other Contracting States may submit such disputes if they so desire; Desiring to establish such facilities under the auspices of the International Bank for Reconstruction and Development; Recognizing that mutual consent by the parties to submit such disputes to conciliation or to arbitration through such facilities constitutes a binding agreement which requires in particular that due consideration be given to any recommendation of conciliators, and that any arbitral award be complied with; and Declaring that no Contracting State shall by the mere fact of its ratification, acceptance or approval of this Convention and without its consent be deemed to be under any obligation to submit any particular dispute to conciliation or arbitration, Have agreed as follows:*
 
-De Verdragsluitende Staten,
+### CHAPTER I. International Centre for Settlement of Investment Disputes
 
-Overwegende de noodzaak tot internationale samenwerking op het gebied van de economische ontwikkeling en de rol, welke particuliere internationale investeringen daarbij spelen;
+#### Section 1. Establishment and Organization
 
-Rekening houdende met de mogelijkheid dat geschillen inzake dergelijke investeringen kunnen rijzen tussen Verdragsluitende Staten en onderdanen van andere Verdragsluitende Staten;
+##### Article 1
 
-Erkennende dat het in bepaalde gevallen wenselijk kan zijn dat dergelijke geschillen door internationale procedures worden geregeld, ook al zullen deze geschillen in het algemeen onderworpen zijn aan nationale rechtswegen;
+(1). There is hereby established the International Centre for Settlement of Investment Disputes (hereinafter called the Centre).
 
-Bijzonder belang hechtende aan het openstaan van mogelijkheden voor internationale bemiddeling of arbitrage, waaraan Verdragsluitende Staten en onderdanen van andere Verdragsluitende Staten dergelijke geschillen kunnen onderwerpen, indien zij dit wensen;
+(2). The purpose of the Centre shall be to provide facilities for conciliation and arbitration of investment disputes between Contracting States in accordance with the provisions of this Convention.
 
-Verlangende, deze mogelijkheden te scheppen onder auspiciën van de Internationale Bank voor Herstel en Ontwikkeling;
+##### Article 2
 
-Erkennende dat wederzijdse instemming van de partijen om deze geschillen te onderwerpen aan bemiddeling of arbitrage langs deze weg, een bindende overeenkomst vormt, welke met name vereist dat aan de aanbevelingen van de bemiddelaars passende aandacht wordt geschonken en dat de arbitrale uitspraken ten uitvoer worden gelegd;
+The seat of the Centre shall be at the principal office of the International Bank for Reconstruction and Development (hereinafter called the Bank). The seat may be moved to another place by decision of the Administrative Council adopted by a majority of two-thirds of its members.
 
-Verklarende dat geen Verdragsluitende Staat, alleen door het feit dat hij dit Verdrag bekrachtigt, aanvaardt of goedkeurt, geacht wordt zonder zijn instemming verplicht te zijn een bepaald geschil aan bemiddeling of arbitrage te onderwerpen,
+##### Article 3
 
-Zijn het volgende overeengekomen:
+The Centre shall have an Administrative Council and a Secretariat and shall maintain a Panel of Conciliators and a Panel of Arbitrators.
 
-### HOOFDSTUK I. Het Internationale Centrum voor Beslechting van Investeringsgeschillen
+#### Section 2. The Administrative Council
 
-### Afdeling 1. Oprichting en Organisatie
+##### Article 4
 
-##### Artikel 1
+(1). The Administrative Council shall be composed of one representative of each Contracting State. An alternate may act as representative in case of his principal's absence from a meeting or inability to act.
 
-1. Hierbij wordt opgericht het Internationaal Centrum voor Beslechting van Investeringsgeschillen (hierna te noemen het Centrum).
+(2). In the absence of a contrary designation, each governor and alternate governor of the Bank appointed by a Contracting State shall be *ex officio* its representative and its alternate respectively.
 
-2. Het doel van het Centrum is, de gelegenheid te openen voor bemiddeling en arbitrage ter beslechting van geschillen met betrekking tot investeringen tussen Verdragsluitende Staten en onderdanen van andere Verdragsluitende Staten in overeenstemming met de bepalingen van dit Verdrag.
+##### Article 5
 
-##### Artikel 2
+The President of the Bank shall be *ex officio* Chairman of the Administrative Council (hereinafter called the Chairman) but shall have no vote. During his absence or inability to act and during any vacancy in the office of President of the Bank, the person for the time being acting as President shall act as Chairman of the Administrative Council.
 
-De zetel van het Centrum is gevestigd ten hoofdkantore van de Internationale Bank voor Herstel en Ontwikkeling (hierna te noemen de Bank). De zetel kan worden verplaatst naar een andere plaats bij besluit van de Raad van Bestuur, genomen door een meerderheid van twee derden van zijn leden.
+##### Article 6
 
-##### Artikel 3
+(1). Without prejudice to the powers and functions vested in it by other provisions of this Convention, the Administrative Council shall:
 
-Het Centrum bestaat uit een Raad van Bestuur en een Secretariaat. Het houdt een Lijst aan van Bemiddelaars en een Lijst van Arbiters.
+- (a) adopt the administrative and financial regulations of the Centre;
 
-### Afdeling 2. De Raad van Bestuur
+- (b) adopt the rules of procedure for the institution of conciliation and arbitration proceedings;
 
-##### Artikel 4
+- (c) adopt the rules of procedure for conciliation and arbitration proceedings (hereinafter called the Conciliation Rules and the Arbitration Rules);
 
-1. De Raad van Bestuur wordt gevormd door de vertegenwoordigers van de Verdragsluitende Staten, en wel één van iedere Staat. Een plaatsvervanger kan als vertegenwoordiger optreden, wanneer de eigenlijke vertegenwoordiger afwezig of niet tot handelen in staat is.
+- (d) approve arrangements with the Bank for the use of the Bank's administrative facilities and services;
 
-2. Als **geen** ander daartoe is aangewezen, is elke door een Verdragsluitende Staat benoemde bestuurder en plaatsvervangende bestuurder van de Bank **ex officio** de vertegenwoordiger, onderscheidenlijk de plaatsvervangende vertegenwoordiger, van die Staat.
+- (e) determine the conditions of service of the Secretary-General and of any Deputy Secretary-General;
 
-##### Artikel 5
+- (f) adopt the annual budget of revenues and expenditures of the Centre;
 
-De President van de Bank is **ex officio** Voorzitter van de Raad van Bestuur (hierna genoemd de Voorzitter), maar heeft geen stemrecht. Wanneer hij afwezig of niet tot handelen in staat is of indien de zetel van de President van de Bank vacant is, treedt de waarnemend President op als Voorzitter van de Raad van Bestuur.
+- (g) approve the annual report on the operation of the Centre.
 
-##### Artikel 6
+The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
 
-1. Onverminderd de bevoegdheden en taken, hem opgedragen in andere bepalingen van dit Verdrag, draagt de Raad van Bestuur zorg voor:
+(2). The Administrative Council may appoint such committees as it considers necessary.
 
-- a). vaststelling van de bestuurs- en financiële reglementen van het Centrum;
+(3). The Administrative Council shall also exercise such other powers and perform such other functions as it shall determine to be necessary for the implementation of the provisions of this Convention.
 
-- b). vaststelling van procedureregels voor het aanhangig maken van een bemiddelings- of arbitragegeding;
+##### Article 7
 
-- c). vaststelling van de procedureregels voor bemiddeling en arbitrage, hierna te noemen de Procedureregels voor Bemiddeling en de Procedureregels voor Arbitrage;
+(1). The Administrative Council shall hold an annual meeting and such other meetings as may be determined by the Council, or convened by the Chairman, or convened by the Secretary-General at the request of not less than five members of the Council.
 
-- d). goedkeuring van alle met de Bank te treffen regelingen betreffende het gebruik van haar lokaliteiten en diensten;
+(2). Each member of the Administrative Council shall have one vote and, except as otherwise herein provided, all matters before the Council shall be decided by a majority of the votes cast.
 
-- e). vaststelling van de arbeidsvoorwaarden voor de Secretaris-Generaal en diens Plaatsvervanger(s);
+(3). A quorum for any meeting of the Administrative Council shall be a majority of its members.
 
-- f). vaststelling van de jaarlijkse begroting van inkomsten en uitgaven van het Centrum;
+(4). The Administrative Council may establish, by a majority of twothirds of its members, a procedure whereby the Chairman may seek a vote of the Council without convening a meeting of the Council. The vote shall be considered valid only if the majority of the members of the Council cast their votes within the time limit fixed by the said procedure.
 
-- g). goedkeuring van het Jaarverslag over de werkzaamheden van het Centrum.
+##### Article 8
 
-De hierboven onder a, b, c en f bedoelde besluiten worden door een meerderheid van twee derden der leden van de Raad van Bestuur genomen.
+Members of the Administrative Council and the Chairman shall serve without remuneration from the Centre.
 
-2. De Raad van Bestuur kan iedere commissie instellen, die hij nodig oordeelt.
+#### Section 3. The Secretariat
 
-3. De Raad van Bestuur oefent voorts alle andere bevoegdheden uit en verricht alle andere taken, die hij nodig oordeelt voor de uitvoering van de bepalingen van dit Verdrag.
+##### Article 9
 
-##### Artikel 7
+The Secretariat shall consist of a Secretary-General, one or more Deputy Secretaries-General and staff.
 
-1. De Raad van Bestuur houdt jaarlijks een zitting en voorts zoveel andere zittingen als de Raad besluit of worden bijeengeroepen door de Voorzitter of bijeengeroepen door de Secretaris-Generaal op verzoek van tenminste vijf leden van de Raad.
+##### Article 10
 
-2. Ieder lid van de Raad van Bestuur heeft één stem en behoudens de door dit Verdrag voorziene uitzonderingen, worden alle aan de Raad voorgelegde vraagstukken bij meerderheid der uitgebrachte stemmen beslist.
+(1). The Secretary-General and any Deputy Secretary-General shall be elected by the Administrative Council by a majority of two-thirds of its members upon the nomination of the Chairman for a term of service not exceeding six years and shall be eligible for re-election. After consulting the members of the Administrative Council, the Chairman shall propose one or more candidates for each such office.
 
-3. Bij alle zittingen van de Raad van Bestuur bestaat het quorum uit de helft der leden, vermeerderd met één lid.
+(2). The offices of Secretary-General and Deputy Secretary-General shall be incompatible with the exercise of any political function. Neither the Secretary-General nor any Deputy Secretary-General may hold any other employment or engage in any other occupation except with the approval of the Administrative Council.
 
-4. De Raad van Bestuur kan bij een meerderheid van twee derden van zijn leden een procedure vaststellen, waarbij de Voorzitter een stemming door de Raad kan uitlokken zonder deze bijeen te roepen. Deze stemming wordt slechts als geldig beschouwd indien de meerderheid van de Raad zijn stem uitbrengt binnen de in genoemde procedure voorgeschreven termijnen.
+(3). During the Secretary-General's absence or inability to act, and during any vacancy of the office of Secretary-General, the Deputy Secretary-General shall act as Secretary-General. If there shall be more than one Deputy Secretary-General, the Administrative Council shall determine in advance the order in which they shall act as Secretary-General.
 
-##### Artikel 8
+##### Article 11
 
-De werkzaamheden van de leden van de Raad van Bestuur alsmede van de President worden niet gehonoreerd door het Centrum.
+The Secretary-General shall be the legal representative and the principal officer of the Centre and shall be responsible for its administration, including the appointment of staff, in accordance with the provisions of this Convention and the rules adopted by the Administrative Council. He shall perform the function of registrar and shall have the power to authenticate arbitral awards rendered pursuant to this Convention, and to certify copies thereof.
 
-### Afdeling 3. Het Secretariaat
+#### Section 4. The Panels
 
-##### Artikel 9
+##### Article 12
 
-Het Secretariaat bestaat uit een Secretaris-Generaal, een of meer Plaatsvervangende Secretarissen-Generaal en verder personeel.
+The Panel of Conciliators and the Panel of Arbitrators shall each consist of qualified persons, designated as hereinafter provided, who are willing to serve thereon.
 
-##### Artikel 10
+##### Article 13
 
-1. De Secretaris-Generaal en de Plaatsvervangende Secretarissen-Generaal worden op voordracht van de Voorzitter gekozen door de Raad van Bestuur met een meerderheid van twee derden van zijn leden voor een tijdvak van ten hoogste zes jaar; zij zijn herkiesbaar. De Voorzitter stelt, na overleg met de leden van de Raad van Bestuur, voor elk ambt een of meer kandidaten voor.
+(1). Each Contracting State may designate to each Panel four persons who may but need not be its nationals.
 
-2. Het ambt van Secretaris-Generaal en Plaatsvervangend Secretaris-Generaal is onverenigbaar met de uitoefening van een politieke functie. De Secretaris-Generaal en de Plaatsvervangende Secretarissen-Generaal kunnen uitsluitend met toestemming van de Raad van Bestuur andere ambten vervullen of andere beroepswerkzaamheden verrichten.
+(2). The Chairman may designate ten persons to each Panel. The persons so designated to a Panel shall each have a different nationality.
 
-3. Wanneer de Secretaris-Generaal afwezig is of niet tot handelen in staat is, of wanneer het ambt vacant is, treedt de Plaatsvervangende Secretaris-Generaal op als Secretaris-Generaal.
+##### Article 14
 
-Indien er meer dan een Plaatsvervangende Secretaris-Generaal zal zijn, stelt de Raad van Bestuur tevoren de volgorde vast, waarin zij zullen optreden als Secretaris-Generaal.
+(1). Persons designated to serve on the Panels shall be persons of high moral character and recognized competence in the fields of law, commerce, industry or finance, who may be relied upon to exercise independent judgment. Competence in the field of law shall be of particular importance in the case of persons on the Panel of Arbitrators.
 
-##### Artikel 11
+(2). The Chairman, in designating persons to serve on the Panels, shall in addition pay due regard to the importance of assuring representation of the Panels of the principal legal systems of the world and of the main forms of economic activity.
 
-De Secretaris-Generaal is de vertegenwoordiger in rechten en de hoogste ambtenaar van het Centrum. Hij is verantwoordelijk voor het beheer daarvan, waaronder de benoeming van de leden van het personeel overeenkomstig de bepalingen van dit Verdrag en de door de Raad van Bestuur vastgestelde bepalingen. Hij treedt op als griffier en is bevoegd de scheidsrechterlijke uitspraken, gewezen ingevolge dit Verdrag, te legaliseren en afschriften daarvan te waarmerken.
+##### Article 15
 
-### Afdeling 4. De Lijsten
+(1). Panel members shall serve for renewable periods of six years.
 
-##### Artikel 12
+(2). In case of death or resignation of a member of a Panel, the authority which designated the member shall have the right to designate another person to serve for the remainder of that member's term.
 
-De Lijst van Bemiddelaars en de Lijst van Arbiters bestaan ieder uit namen van personen die de voor deze functies vereiste bekwaamheden bezitten en aangewezen zijn op de hierna bepaalde wijze en die goedvinden, op deze Lijsten te worden vermeld.
+(3). Panel members shall continue in office until their successors have been designated.
 
-##### Artikel 13
+##### Article 16
 
-1. Iedere Verdragsluitende Staat kan voor elke Lijst vier personen aanwijzen, die onderdaan van die Staat kunnen doch niet behoeven te zijn.
+(1). A person may serve on both Panels.
 
-2. De Voorzitter kan tien personen aanwijzen voor iedere Lijst. De aldus voor een Lijst aangewezen personen dienen ieder van verschillende nationaliteit te zijn.
+(2). If a person shall have been designated to serve on the same Panel by more than one Contracting State, or by one or more Contracting States and the Chairman, he shall be deemed to have been designated by the authority which first designated him or, if one such authority is the State of which he is a national, by that State.
 
-##### Artikel 14
+(3). All designations shall be notified to the Secretary-General and shall take effect from the date on which the notification is received.
 
-1. De voor de Lijsten aangewezen personen dienen van hoog zedelijk karakter en erkende deskundigen op het gebied van het recht, van de handel, de industrie of de financiën te zijn, op wier onafhankelijkheid van oordeel kan worden vertrouwd. Deskundigheid op juridisch gebied is van bijzonder belang voor de op de Lijst van Arbiters vermelde personen.
+#### Section 5. Financing the Centre
 
-2. De Voorzitter houdt voorts bij zijn aanwijzing van personen voor de Lijsten rekening met het belang, dat op de Lijsten de voornaamste rechtsstelsels van de wereld en de belangrijkste vormen van economische bedrijvigheid zijn vertegenwoordigd.
+##### Article 17
 
-##### Artikel 15
+If the expenditure of the Centre cannot be met out of charges for the use of its facilities, or out of other receipts, the excess shall be borne by Contracting States which are members of the Bank in proportion to their respective subscriptions to the capital stock of the Bank, and by Contracting States which are not members of the Bank in accordance with rules adopted by the Administrative Council.
 
-1. De aangewezen personen staan op de Lijst voor perioden van zes jaar, die kunnen worden verlengd.
+#### Section 6. Status, Immunities and Privileges
 
-2. Bij overlijden of aftreden van een der op de Lijsten vermelde personen heeft de autoriteit die deze persoon heeft aangewezen het recht, een opvolger aan te wijzen voor de resterende termijn.
+##### Article 18
 
-3. De op de Lijsten vermelde personen blijven daarop vermeld tot hun opvolger is aangewezen.
+The Centre shall have full international legal personality. The legal capacity of the Centre shall include the capacity;
 
-##### Artikel 16
+- (a) to contract;
 
-1. Eenzelfde persoon kan op beide Lijsten worden vermeld.
+- (b) to acquire and dispose of movable and immovable property;
 
-2. Indien een persoon door verschillende Verdragsluitende Staten, of door één of meer Verdragsluitende Staten en tevens door de Voorzitter, is aangewezen voor eenzelfde Lijst, wordt hij geacht te zijn aangewezen door de autoriteit die hem het eerst heeft aangewezen. Indien hij echter onderdaan is van één der Staten die hem hebben aangewezen, wordt hij geacht door die Staat te zijn aangewezen.
+- (c) to institute legal proceedings.
 
-3. Alle aanwijzingen worden ter kennis gebracht van de Secretaris-Generaal en hebben rechtsgevolg vanaf het tijdstip waarop deze kennisgeving is ontvangen.
+##### Article 19
 
-### Afdeling 5. De Inkomsten van het Centrum
+To enable the Centre to fulfil its functions, it shall enjoy in the territories of each Contracting State the immunities and privileges set forth in this Section.
 
-##### Artikel 17
+##### Article 20
 
-Indien de uitgaven van het Centrum niet kunnen worden gedekt door de vergoedingen voor het gebruik van zijn diensten of door andere ontvangsten, worden de resterende kosten gedragen door de Verdragsluitende Partijen die lid zijn van de Bank, en door de Verdragsluitende Staten die geen lid van de Bank zijn, overeenkomstig de door de Raad van Bestuur vastgestelde regels.
+The Centre, its property and assets shall enjoy immunity from all legal process, except when the Centre waives this immunity.
 
-### Afdeling 6. Status, immuniteiten en voorrechten
+##### Article 21
 
-##### Artikel 18
+The Chairman, the members of the Administrative Council, persons acting as conciliators or arbitrators or members of a Committee appointed pursuant to paragraph (3) of article 52, and the officers and employees of the Secretariat:
 
-Het Centrum bezit volledige rechtspersoonlijkheid naar internationaal recht. De rechtsbevoegdheid van het Centrum omvat onder meer:
+- (a) shall enjoy immunity from legal process with respect to acts performed by them in the exercise of their functions, except when the Centre waives this immunity;
 
-- a). het aangaan van overeenkomsten;
+- (b) not being local nationals, shall enjoy the same immunities from immigration restrictions, alien registration requirements and national service obligations, the same facilities as regards exchange restrictions and the same treatment in respect of travelling facilities as are accorded by Contracting States to the representatives, officials and employees of comparable rank of other Contracting States.
 
-- b). het verwerven en vervreemden van roerend en onroerend goed;
+##### Article 22
 
-- c). het optreden in rechte.
+The provisions of article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts; provided, however, that sub-paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
 
-##### Artikel 19
+##### Article 23
 
-Ten einde zijn werkzaamheden te kunnen verrichten geniet het Centrum op het grondgebied van elk der Verdragsluitende Staten de in deze Afdeling neergelegde immuniteiten en voorrechten.
+(1). The archives of the Centre shall be inviolable, wherever they may be.
 
-##### Artikel 20
+(2). With regard to its official communications, the Centre shall be accorded by each Contracting State treatment not less favourable than that accorded to other international organizations.
 
-Het Centrum, alsmede zijn eigendommen en tegoeden, genieten immuniteit van rechtsmacht, tenzij het Centrum afstand doet van deze immuniteit.
+##### Article 24
 
-##### Artikel 21
+(1). The Centre, its assets, property and income, and its operations and transactions authorized by this Convention shall be exempt from all taxation and customs duties. The Centre shall also be exempt from liability for the collection or payment of any taxes or customs duties.
 
-De Voorzitter, de leden van de Raad van Bestuur, zij die optreden als bemiddelaars, arbiters of als leden van een Comité ingesteld ingevolge artikel 52, lid 3, alsmede de ambtenaren en het overige personeel van het secretariaat:
+(2). Except in the case of local nationals, no tax shall be levied on or in respect of expense allowances paid by the Centre to the Chairman or members of the Administrative Council, or on or in respect of salaries, expense allowances or other emoluments paid by the Centre to officials or employees of the Secretariat.
 
-- a). genieten immuniteit van rechtsmacht met betrekking tot handelingen die zij bij het vervullen van hun taak hebben verricht, tenzij het Centrum afstand doet van deze immuniteit;
+(3). No tax shall be levied on or in respect of fees or expense allowances received by persons acting as conciliators, or arbitrators, or members of a Committee appointed pursuant to paragraph (3) of article 52, in proceedings under this Convention, if the sole jurisdictional basis for such tax is the location of the Centre or the place where such proceedings are conducted or the place where such fees or allowances are paid.
 
-- b). genieten, indien zij geen onderdaan zijn van de Staat waar zij hun werkzaamheden verrichten, dezelfde immuniteiten terzake van immigratiebeperkingen, voorschriften voor vreemdelingenregistratie en dienstplicht, alsmede dezelfde faciliteiten terzake van deviezenbeperkingen en dezelfde behandeling, voorzover het betreft het maken van reizen als die welke de Verdragsluitende Staten verlenen aan de vertegenwoordigers, ambtenaren en het overige personeel van overeenkomstige rang van andere Verdragsluitende Staten.
+### CHAPTER II. Jurisdiction of the Centre
 
-##### Artikel 22
+##### Article 25
 
-De bepalingen van artikel 21 zijn van toepassing op hen die als partij, vertegenwoordiger, raadsman, advocaat, getuige of deskundige aan een geding volgens dit Verdrag deelnemen, met dien verstande echter dat het bepaalde sub b) slechts van toepassing is ten aanzien van hun reis naar en van, en hun verblijf in de plaats waar het geding wordt gehouden.
+(1). The jurisdiction of the Centre shall extend to any legal dispute arising directly out of an investment, between a Contracting State (or any constituent subdivision or agency of a Contracting State designated to the Centre by that State) and a national of another Contracting State, which the parties to the dispute consent in writing to submit to the Centre. When the parties have given their consent, no party may withdraw its consent unilaterally.
 
-##### Artikel 23
+(2). “National of another Contracting State” means:
 
-1. De archieven van het Centrum zijn onschendbaar, onverschillig waar zij zich bevinden.
+- (a) any natural person who had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration as well as on the date on which the request was registered pursuant to paragraph (3) of article 28 or paragraph (3) of article 36, but does not include any person who on either date also had the nationality of the Contracting State party to the dispute; and
 
-2. Elke Verdragsluitende Staat verleent het Centrum met betrekking tot zijn officiële verbindingen, een behandeling die tenminste even gunstig is als die welke hij aan andere internationale organisaties verleent.
+- (b) any juridical person which had the nationality of a Contracting State other than the State party to the dispute on the date on which the parties consented to submit such dispute to conciliation or arbitration and any juridical person which had the nationality of the Contracting State party to the dispute on that date and which, because of foreign control, the parties have agreed should be treated as a national of another Contracting State for the purposes of this Convention.
 
-##### Artikel 24
+(3). Consent by a constituent subdivision or agency of a Contracting State shall require the approval of that State unless that State notifies the Centre that no such approval is required.
 
-1. Het Centrum, alsmede zijn tegoeden, eigendommen en inkomsten en de op grond van dit Verdrag door hen verrichte handelingen en transacties zijn vrijgesteld van alle belastingen en douanerechten. Het Centrum is eveneens vrijgesteld van elke aansprakelijkheid voor de invordering of betaling van belastingen of douanerechten.
+(4). Any Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
 
-2. Geen belasting wordt geheven op of in verband met de door het Centrum aan de Voorzitter of de leden van de Raad van Bestuur betaalde onkostenvergoedingen, of op of in verband met de salarissen, onkostenvergoedingen of andere emolumenten welke door het Centrum aan de ambtenaren of het overige personeel van het Secretariaat worden betaald, behalve voor zover het betreft hen, die onderdaan zijn van het land waar zij hun werkzaamheden verrichten.
+##### Article 26
 
-3. Geen belasting wordt geheven op of in verband met de honoraria of onkostenvergoedingen, ontvangen door personen die optreden als bemiddelaars, arbiters of leden van een ingevolge artikel 52, lid 3, ingesteld Comité, in de gedingen die krachtens dit Verdrag plaatsvinden, indien het enige aanknopingspunt voor het opleggen van die belasting is de plaats waar het Centrum is gelegen of de plaats waar het geding plaatsvindt, of de plaats waar deze honoraria of vergoedingen worden betaald.
+Consent of the parties to arbitration under this Convention shall, unless otherwise stated, be deemed consent to such arbitration to the exclusion of any other remedy. A Contracting State may require the exhaustion of local administrative or judicial remedies as a condition of its consent to arbitration under this Convention.
 
-### HOOFDSTUK II. Het werkterrein van het Centrum
+##### Article 27
 
-##### Artikel 25
+(1). No Contracting State shall give diplomatic protection, or bring an international claim, in respect of a dispute which one of its nationals and another Contracting State shall have consented to submit or shall have submitted to arbitration under this Convention, unless such other Contracting State shall have failed to abide by and comply with the award rendered in such dispute.
 
-1. Het werkterrein van het Centrum omvat de beslechting van alle rechtsgeschillen tussen een Verdragsluitende Staat (of een samenstellend deel of een orgaan van die Staat, hetwelk als zodanig door die Verdragsluitende Staat aan het Centrum is aangewezen) en een onderdaan van een andere Verdragsluitende Staat, welke rechtstreeks voortvloeien uit een investering, en ten aanzien waarvan de partijen er schriftelijk in hebben toegestemd, deze aan het Centrum voor te leggen. Wanneer de partijen hun toestemming hebben gegeven, kan geen hunner deze eenzijdig intrekken.
+(2). Diplomatic protection, for the purposes of paragraph (1), shall not include informal diplomatic exchanges for the sole purpose of facilitating a settlement of the dispute.
 
-2. Onder „onderdaan van een andere Verdragsluitende Staat” wordt verstaan:
+### CHAPTER III. Conciliation
 
-- a). iedere natuurlijke persoon welke de nationaliteit van een andere Verdragsluitende Staat bezit dan van de Staat die partij is bij het geschil, op het tijdstip waarop partijen erin hebben toegestemd, zodanig geschil te onderwerpen aan bemiddeling of arbitrage, alsmede op het tijdstip waarop het verzoek bedoeld in artikel 28, lid 3, of artikel 36, lid 3, werd ingeschreven, doch met uitsluiting van ieder die op een van deze beide tijdstippen eveneens de nationaliteit bezit van de Verdragsluitende Staat die partij is in het geschil;
+#### Section 1. Request for Conciliation
 
-- b). iedere rechtspersoon die de nationaliteit bezat van een andere Verdragsluitende Staat dan van de Staat die partij is in het geschil, op het tijdstip waarop de partijen erin hebben toegestemd, zodanig geschil te onderwerpen aan bemiddeling of arbitrage, alsmede iedere rechtspersoon welke de nationaliteit van de Verdragsluitende Staat, partij bij het geschil, bezat op dat tijdstip en welke rechtspersoon partijen zijn overeengekomen, ter fine van dit Verdrag te beschouwen als onderdaan van een andere Verdragsluitende Staat wegens de overwegend buitenlandse belangen bij deze rechtspersoon.
+##### Article 28
 
-3. Toestemming door een samenstellend deel of orgaan van een Verdragsluitende Staat behoeft de goedkeuring van die Staat, tenzij die Staat het Centrum mededeelt dat een dergelijke goedkeuring niet vereist is.
+(1). Any Contracting State or any national of a Contracting State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
-4. Elke Verdragsluitende Staat kan bij bekrachtiging, aanvaarding of goedkeuring van dit Verdrag of op ieder later tijdstip het Centrum in kennis stellen van de categorie of categorieën van geschillen welke naar het oordeel van die Staat al dan niet in aanmerking komen om aan het Centrum voorgelegd te worden. De Secretaris-Generaal deelt alle Verdragsluitende Staten deze kennisgeving terstond mede. Een dergelijke kennisgeving vormt niet de in lid 1 bedoelde toestemming.
+(2). The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to conciliation in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
-##### Artikel 26
+(3). The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register.
 
-Toestemming van partijen tot arbitrage volgens dit Verdrag wordt, tenzij anders wordt verklaard, beschouwd als toestemming tot zodanige arbitrage met uitsluiting van ieder ander beslechtingsmiddel. Een Verdragsluitende Staat kan, als voorwaarde voor zijn toestemming tot arbitrage volgens dit Verdrag, eisen dat de nationale administratieve of gerechtelijke middelen tot beslechting zijn uitgeput.
+#### Section 2. Constitution of the Conciliation Commission
 
-##### Artikel 27
+##### Article 29
 
-1. Geen der Verdragsluitende Staten verleent diplomatieke bescherming of stelt een volkenrechtelijke eis met betrekking tot een geschil, dat een van zijn onderdanen en een andere Verdragsluitende Staat zijn overeengekomen aan arbitrage volgens dit Verdrag te onderwerpen of reeds onderworpen hebben, tenzij de andere Verdragsluitende Staat zich niet heeft gedragen overeenkomstig de inzake dat geschil gewezen uitspraak en deze niet heeft nagekomen.
+(1). The Conciliation Commission (hereinafter called the Commission) shall be constituted as soon as possible after registration of a request pursuant to article 28.
 
-2. Onder diplomatieke bescherming, bedoeld in lid 1, zijn niet begrepen de informele diplomatieke stappen, uitsluitend dienende om een beslechting van het geschil te vergemakkelijken.
+(2). - (a) The Commission shall consist of a sole conciliator or any uneven number of conciliators appointed as the parties shall agree.
 
-### HOOFDSTUK III. Bemiddeling
+- (b) Where the parties do not agree upon the number of conciliators and the method of their appointment, the Commission shall consist of three conciliators, one conciliator appointed by each party and the third, who shall be the president of the Commission, appointed by agreement of the parties.
 
-### Afdeling 1. Het verzoek tot bemiddeling
+##### Article 30
 
-##### Artikel 28
+If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
 
-1. Een Verdragsluitende Staat of een onderdaan van een Verdragsluitende Staat die een bemiddelingsprocedure wenst aanhangig te maken, wendt zich met een daartoe strekkend schriftelijk request tot de Secretaris-Generaal, die een afschrift van het request aan de andere partij zendt.
+##### Article 31
 
-2. Het request bevat inlichtingen omtrent de punten van geschil, de hoedanigheid der partijen en hun toestemming tot bemiddeling in overeenstemming met de procedureregels voor het aanhangig maken van een bemiddelings- of arbitragegeding.
+(1). Conciliators may be appointed from outside the Panel of Conciliators, except in the case of appointments by the Chairman pursuant to article 30.
 
-3. De Secretaris-Generaal schrijft het request in, tenzij hij, op grond van de in het request vervatte gegevens, van oordeel is dat het geschil duidelijk buiten het werkterrein van het Centrum valt. Hij stelt de partijen terstond in kennis van de inschrijving of de weigering van de inschrijving.
+(2). Conciliators appointed from outside the Panel of Conciliators shall possess the qualities stated in paragraph (1) of article 14.
 
-### Afdeling 2. De samenstelling van de Bemiddelingscommissie
+#### Section 3. Conciliation Proceedings
 
-##### Artikel 29
+##### Article 32
 
-1. De Bemiddelingscommissie (hierna te noemen de Commissie) wordt zo spoedig mogelijk na de inschrijving van het request bedoeld in artikel 28, samengesteld.
+(1). The Commission shall be the judge of its own competence.
 
-- a). De Commissie bestaat uit één bemiddelaar of een oneven aantal bemiddelaars, benoemd op door de partijen overeen te komen wijze.
+(2). Any objection by a party to the dispute that that dispute is not within the jurisdiction of the Centre, or for other reasons is not within the competence of the Commission, shall be considered by the Commission which shall determine whether to deal with it as a preliminary question or to join it to the merits of the dispute.
 
-- b). Indien partijen geen overeenstemming bereiken over het aantal bemiddelaars en de wijze van benoeming, bestaat de Commissie uit drie bemiddelaars; iedere partij benoemt een bemiddelaar en de derde, die optreedt als voorzitter van de Commissie, wordt bij overeenstemming tussen de partijen benoemd.
+##### Article 33
 
-##### Artikel 30
+Any conciliation proceeding shall be conducted in accordance with the provisions of this Section and, except as the parties otherwise agree, in accordance with the Conciliation Rules in effect on the date on which the parties consented to conciliation. If any question of procedure arises which is not covered by this Section or the Conciliation Rules or any rules agreed by the parties, the Commission shall decide the question.
 
-Indien de Commissie niet is samengesteld binnen 90 dagen nadat de kennisgeving van inschrijving van het request door de Secretaris-Generaal overeenkomstig artikel 28, lid 3, is verzonden of binnen een andere tussen partijen overeengekomen termijn, benoemt de Voorzitter op verzoek van een van beide partijen, en voor zover mogelijk na raadpleging van beide partijen, de nog niet benoemde bemiddelaar of bemiddelaars.
+##### Article 34
 
-##### Artikel 31
+(1). It shall be the duty of the Commission to clarify the issues in dispute between the parties and to endeavour to bring about agreement between them upon mutually acceptable terms. To that end, the Commission may at any stage of the proceedings and from time to time recommend terms of settlement to the parties. The parties shall co-operate in good faith with the Commission in order to enable the Commission to carry out its functions, and shall give their most serious consideration to its recommendations.
 
-1. Als bemiddelaars kunnen worden benoemd personen die niet op de Lijst van Bemiddelaars voorkomen, tenzij het een benoeming door de Voorzitter ingevolge artikel 30 betreft.
+(2). If the parties reach agreement, the Commission shall draw up a report noting the issues in dispute and recording that the parties have reached agreement. If, at any stage of the proceedings, it appears to the Commission that there is no likelihood of agreement between the parties, it shall close the proceedings and shall draw up a report noting the submission of the dispute and recording the failure of the parties to reach agreement. If one party fails to appear or participate in the proceedings, the Commission shall close the proceedings and shall draw up a report noting that party's failure to appear or participate.
 
-2. Op deze wijze benoemde bemiddelaars dienen te voldoen aan de in artikel 14, lid 1, gestelde eisen.
+##### Article 35
 
-### Afdeling 3. Het geding voor de Bemiddelingscommissie
+Except as the parties to the dispute shall otherwise agree, neither party to a conciliation proceeding shall be entitled in any other proceeding, whether before arbitrators or in a court of law or otherwise, to invoke or rely on any views expressed or statements or admissions or offers of settlement made by the other party in the conciliation proceedings, or the report or any recommendations made by the Commission.
 
-##### Artikel 32
+### CHAPTER IV. Arbitration
 
-1. De Commissie beslist over haar bevoegdheid.
+#### Section 1. Request for Arbitration
 
-2. Elke exceptie, door een der partijen opgeworpen, inhoudende dat het geschil niet binnen het werkterrein van het Centrum, of om andere redenen niet binnen de bevoegdheid van de Commissie valt, wordt door de Commissie in overweging genomen, die bepaalt of zij behandeld zal worden als een preliminaire vraag dan wel gelijktijdig met de hoofdzaak zal dienen.
+##### Article 36
 
-##### Artikel 33
+(1). Any Contracting State or any national of a Contracting State wishing to institute arbitration proceedings shall address a request to that eeect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
-De bemiddelingsprocedure wordt gevoerd overeenkomstig de bepalingen van deze Afdeling en, tenzij partijen anders overeenkomen, overeenkomstig de Procedureregels voor Bemiddeling, van kracht op het tijdstip waarop partijen in bemiddeling hebben toegestemd. Indien een vraag rijst inzake de procedure waarin niet door deze Afdeling of door de genoemde Procedureregels of enige andere door partijen aanvaarde regel wordt voorzien, beslist de Commissie.
+(2). The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to arbitration in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
-##### Artikel 34
+(3). The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register.
 
-1. Het is de taak van de Commissie om de geschilpunten tussen de partijen op te helderen en te trachten een voor beide partijen aanvaardbare oplossing te vinden. Daartoe kan de Commissie in iedere fase van het geding, en van tijd tot tijd, aan partijen aanbevelingen doen voor een regeling van het geschil. De partijen dienen te goeder trouw samen te werken met de Commissie ten einde haar in staat te stellen, haar werkzaamheden te verrichten, en dienen haar aanbevelingen in zeer ernstige overweging te nemen.
+#### Section 2. Constitution of the Tribunal
 
-2. Indien de partijen overeenstemming bereiken, stelt de Commissie een rapport op, inhoudende de punten van geschil en vermeldende dat partijen tot overeenstemming zijn gekomen. Indien in enige fase van het geding de Commissie meent dat overeenstemming tussen partijen niet mogelijk is, sluit zij het geding en stelt een rapport op, vermeldende dat het geschil is onderworpen aan bemiddeling en dat partijen geen overeenstemming hebben bereikt. Indien een der partijen niet verschijnt of niet deelneemt aan het geding, sluit de Commissie het geding en stelt een rapport op, vermeldende dat die partij niet verschenen is of niet heeft deelgenomen aan het geding.
+##### Article 37
 
-##### Artikel 35
+(1). The Arbitral Tribunal (hereinafter called the Tribunal) shall be constituted as soon as possible after registration of a request pursuant to article 36.
 
-Tenzij partijen bij het geschil anders overeenkomen, is geen der partijen bij een bemiddelingsgeding gerechtigd in enig ander geding, hetzij voor arbiters, hetzij voor een rechtbank of op andere wijze, een beroep te doen of te stemmen op door de andere partij in het bemiddelingsgeding geuite meningen, verklaringen, erkenningen of voorstellen tot regeling, dan wel op het rapport of de aanbevelingen, opgesteld door de Commissie.
+(2). - (a) The Tribunal shall consist of a sole arbitrator or any uneven number of arbitrators appointed as the parties shall agree.
 
-### HOOFDSTUK IV. Arbitrage
+- (b) Where the parties do not agree upon the number of arbitrators and the method of their appointment, the Tribunal shall consist of three arbitrators, one arbitrator appointed by each party and the third, who shall be the president of the Tribunal, appointed by agreement of the parties.
 
-### Afdeling 1. Het verzoek tot arbitrage
+##### Article 38
 
-##### Artikel 36
+If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
 
-1. Een Verdragsluitende Staat of een onderdaan van een Verdragsluitende Staat die een arbitragegeding wenst aanhangig te maken, wendt zich met een daartoe strekkend schriftelijk request tot de Secretaris-Generaal, die een afschrift van het request aan de andere partij zendt.
+##### Article 39
 
-2. Het request bevat inlichtingen omtrent de punten van geschil, de hoedanigheid der partijen en hun toestemming tot arbitrage in overeenstemming met de procedureregels voor het aanhangig maken van een bemiddelings- of arbitrageprocedure.
+The majority of the arbitrators shall be nationals of States other than the Contracting State party to the dispute and the Contracting State whose national is a party to the dispute; provided, however, that the foregoing provisions of this article shall not apply if the sole arbitrator or each individual member of the Tribunal has been appointed by agreement of the parties.
 
-3. De Secretaris-Generaal schrijft het request in, tenzij hij op grond van de in het request vervatte gegevens van oordeel is, dat het geschil duidelijk buiten het werkterrein van het Centrum valt. Hij stelt de partijen terstond in kennis van de inschrijving of de weigering van de inschrijving.
+##### Article 40
 
-### Afdeling 2. De samenstelling van het Scheidsgerecht
+(1). Arbitrators may be appointed from outside the Panel of Arbitrators, except in the case of appointments by the Chairman pursuant to article 38.
 
-##### Artikel 37
+(2). Arbitrators appointed from outside the Panel of Arbitrators shall possess the qualities stated in paragraph (1) of article 14.
 
-1. Het Scheidsgerecht wordt zo spoedig mogelijk na de inschrijving van een request bedoeld in artikel 36 samengesteld.
+#### Section 3. Powers and Functions of the Tribunal
 
-- a). Het Scheidsgerecht bestaat uit één arbiter of een oneven aantal arbiters, benoemd op door de partijen overeen te komen wijze.
+##### Article 41
 
-- b). Indien partijen geen overeenstemming bereiken over het aantal arbiters en de wijze van benoeming, bestaat het Scheidsgerecht uit drie arbiters; iedere partij benoemt een arbiter, en de derde, die optreedt als Voorzitter van het Scheidsgerecht, wordt bij overovereenstemming tussen partijen benoemd.
+(1). The Tribunal shall be the judge of its own competence.
 
-##### Artikel 38
+(2). Any objection by a party to the dispute that that dispute is not within the jurisdiction of the Centre, or for other reasons is not within the competence of the Tribunal, shall be considered by the Tribunal which shall determine whether to deal with it as a preliminary question or to join it to the merits of the dispute.
 
-Indien het Scheidsgerecht niet is samengesteld binnen 90 dagen nadat de kennisgeving van inschrijving van het request door de Secretaris-Generaal overeenkomstig artikel 36, lid 3, is verzonden, of binnen een andere tussen partijen overeengekomen termijn, benoemt de Voorzitter op verzoek van een van beide partijen en voor zover mogelijk na raadpleging van beide partijen, de nog niet benoemde arbiter of arbiters. De door de Voorzitter ingevolge de bepalingen van dit artikel benoemde arbiters mogen geen onderdaan zijn van de Verdragsluitende Staat welke partij is bij het geschil of van de Verdragsluitende Staat wiens onderdaan partij is bij het geschil.
+##### Article 42
 
-##### Artikel 39
+(1). The Tribunal shall decide a dispute in accordance with such rules of law as may be agreed by the parties. In the absence of such agreement, the Tribunal shall apply the law of the Contracting State party to the dispute (including its rules on the conflict of laws) and such rules of international law as may be applicable.
 
-De meerderheid der arbiters dient onderdaan te zijn van andere Staten dan de Verdragsluitende Staat die partij is bij het geschil en dan de Verdragsluitende Staat wiens onderdaan partij is bij het geschil, met dien verstande evenwel dat bovenstaande bepalingen van dit artikel niet van toepassing zijn, indien de partijen in onderlinge overeenstemming de enige arbiter of elk der leden van het Scheidsgerecht hebben benoemd.
+(2). The Tribunal may not bring in a finding of *non liquet* on the ground of silence or obscurity of the law.
 
-##### Artikel 40
+(3). The provisions of paragraphs (1) and (2) shall not prejudice the power of the Tribunal to decide a dispute *ex aequo et bono* if the parties so agree.
 
-1. Als arbiters kunnen worden benoemd personen die niet op de Lijst van Arbiters voorkomen, tenzij het een benoeming door de Voorzitter ingevolge artikel 38 betreft.
+##### Article 43
 
-2. Op deze wijze benoemde arbiters dienen te voldoen aan de in artikel 14, eerste lid, gestelde eisen.
+Except as the parties otherwise agree, the Tribunal may, if it deems it necessary at any stage of the proceedings:
 
-### Afdeling 3. De bevoegdheden en functies van het Scheidsgerecht
+- (a) call upon the parties to produce documents or other evidence, and
 
-##### Artikel 41
+- (b) visit the scene connected with the dispute, and conduct such inquiries there as it may deem appropriate.
 
-1. Het Scheidsgerecht beslist over zijn bevoegdheid.
+##### Article 44
 
-2. Elke exceptie door een der partijen opgeworpen inhoudende dat het geschil niet binnen het werkterrein van het Centrum, of om andere redenen niet binnen de bevoegdheid van het Scheidsgerecht valt, wordt door het Scheidsgerecht in overweging genomen, dat bepaalt of zij behandeld dient te worden als een preliminaire vraag dan wel gelijktijdig met de hoofdzaak zal dienen.
+Any arbitration proceeding shall be conducted in accordance with the provisions of this Section and, except as the parties otherwise agree, in accordance with the Arbitration Rules in effect on the date on which the parties consented to arbitration. If any question of procedure arises which is not covered by this Section or the Arbitration Rules or any rules agreed by the parties, the Tribunal shall decide the question.
 
-##### Artikel 42
+##### Article 45
 
-1. Het Scheidsgerecht beslist over een geschil in overeenstemming met zodanige rechtsregels als door partijen zal zijn overeengekomen. Bij gebreke aan zulk een overeenstemming past het Scheidsgerecht het recht toe van de Verdragsluitende Staat, die partij is bij het geschil, waaronder mede dienen te worden verstaan diens regels betreffende het conflictenrecht, alsmede die volkenrechtelijke regels, welke van toepassing kunnen zijn op de zaak.
+(1). Failure of a party to appear or to present his case shall not be deemed an admission of the other party's assertions.
 
-2. Het Scheidsgerecht mag niet weigeren, recht te spreken onder het motief van het stilzwijgen of de duisterheid van het recht.
+(2). If a party fails to appear or to present his case at any stage of the proceedings the other party may request the Tribunal to deal with the questions submitted to it and to render an award. Before rendering an award, the Tribunal shall notify, and grant a period of grace to, the party failing to appear or to present its case, unless it is satisfied that that party does not intend to do so.
 
-3. De bepalingen der vorige leden doen geen afbreuk aan de bevoegdheid van het Scheidsgerecht om een uitspraak ex aequo et bono te doen, indien de partijen zulks overeenkomen.
+##### Article 46
 
-##### Artikel 43
+Except as the parties otherwise agree, the Tribunal shall, if requested by a party, determine any incidental or additional claims or counterclaims arising directly out of the subject-matter of the dispute provided that they are within the scope of the consent of the parties and are otherwise within the jurisdiction of the Centre.
 
-Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks nodig oordeelt, in elke fase van het geding:
+##### Article 47
 
-- a). de partijen opdragen, stukken of ander bewijs over te leggen, alsmede
+Except as the parties otherwise agree, the Tribunal may, if it considers that the circumstances so require, recommend any provisional measures which should be taken to preserve the respective rights of either party.
 
-- b). zich naar de plaats van het geschil begeven en daar die onderzoekingen verrichten die het nodig oordeelt.
+#### Section 4. The Award
 
-##### Artikel 44
+##### Article 48
 
-Het arbitragegeding wordt gevoerd overeenkomstig de bepalingen van deze Afdeling, en tenzij partijen anders overeenkomen, overeenkomstig de Procedureregels voor Arbitrage, van kracht op het tijdstip waarop zij hebben ingestemd met de arbitrage. Indien een vraag rijst over de procedure, waarin niet is voorzien door deze Afdeling, of door de Procedureregels voor Arbitrage, of door enige door partijen overeengekomen regels, wordt deze vraag beslist door het Scheidsgerecht.
+(1). The Tribunal shall decide questions by a majority of the votes of all its members.
 
-##### Artikel 45
+(2). The award of the Tribunal shall be in writing and shall be signed by the members of the Tribunal who voted for it.
 
-1. Indien een der partijen niet verschijnt of haar zaak niet uiteenzet, wordt dit niet beschouwd als een erkenning van de juistheid van de beweringen van de wederpartij.
+(3). The award shall deal with every question submitted to the Tribunal, and shall state the reasons upon which it is based.
 
-2. Indien een der partijen niet verschijnt of haar zaak niet uiteenzet in enige fase van het geding, kan de wederpartij het Scheidsgerecht verzoeken de voorgelegde vragen toch te behandelen en een uitspraak te geven. Alvorens een uitspraak te geven, doet het Scheidsgerecht de partij die niet verschijnt of haar zaak niet uiteenzet, hiervan aanzegging, en verleent die partij uitstel, tenzij het ervan overtuigd is dat genoemde partij niet voornemens is te verschijnen of haar zaak uiteen te zetten.
+(4). Any member of the Tribunal may attach his individual opinion to the award, whether he dissents from the majority or not, or a statement of his dissent.
 
-##### Artikel 46
+(5). The Centre shall not publish the award without the consent of the parties.
 
-Tenzij partijen anders overeenkomen beslist het Scheidsgerecht, op verzoek van een der partijen, over bijkomende of verderstrekkende eisen dan wel eisen in reconventie, welke rechtstreeks verband houden met het voorwerp van geschil, mits deze eisen binnen het kader van de door partijen gegeven toestemming en overigens binnen het werkterrein van het Centrum vallen.
+##### Article 49
 
-##### Artikel 47
+(1). The Secretary-General shall promptly dispatch certified copies of the award to the parties. The award shall be deemed to have been rendered on the date on which the certified copies were dispatched.
 
-Tenzij partijen anders overeenkomen kan het Scheidsgerecht, indien het zulks op grond van de omstandigheden noodzakelijk acht, voorlopige maatregelen aanbevelen ter bescherming van de rechten van partijen.
+(2). The Tribunal upon the request of a party made within 45 days after the date on which the award was rendered may after notice to the other party decide any question which it had omitted to decide in the award, and shall rectify any clerical, arithmetical or similar error in the award. Its decision shall become part of the award and shall be notified to the parties in the same manner as the award. The periods of time provided for under paragraph (2) of article 51 and paragraph (2) of article 52 shall run from the date on which the decision was rendered.
 
-### Afdeling 4. De Uitspraak
+#### Section 5. Interpretation, Revision and Annulment of the Award
 
-##### Artikel 48
+##### Article 50
 
-1. Het Scheidsgerecht beslist over alle vragen met meerderheid van stemmen van al zijn leden.
+(1). If any dispute shall arise between the parties as to the meaning or scope of an award, either party may request interpretation of the award by an application in writing addressed to the Secretary-General.
 
-2. De uitspraak wordt schriftelijk gegeven en wordt getekend door de leden van het Scheidsgerecht die daarvoor hebben gestemd.
+(2). The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
 
-3. De uitspraak behandelt alle aan het Scheidsgerecht voorgelegde vragen en bevat de redenen waarop zij is gegrond.
+##### Article 51
 
-4. Ieder lid van het Scheidsgerecht kan aan de uitspraak hetzij zijn persoonlijke mening, onafhankelijk van het feit of hij het oordeel van de meerderheid al dan niet deelt, hetzij een verklaring van zijn afwijkend oordeel toevoegen.
+(1). Either party may request revision of the award by an application in writing addressed to the Secretary-General on the ground of discovery of some fact of such a nature as decisively to affect the award, provided that when the award was rendered that fact was unknown to the Tribunal and to the applicant and that the applicant's ignorance of that fact was not due to negligence.
 
-5. Het Centrum publiceert de uitspraak niet dan met instemming van de partijen.
+(2). The application shall be made within 90 days after the discovery of such fact and in any event within three years after the date on which the award was rendered.
 
-##### Artikel 49
+(3). The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter.
 
-1. De Secretaris-Generaal doet onverwijld aan partijen gewaarmerkte afschriften van de uitspraak toekomen. De uitspraak wordt geacht te zijn gedaan op de dag waarop genoemde afschriften zijn verzonden.
+(4). The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Tribunal rules on such request.
 
-2. Op verzoek van een der partijen binnen 45 dagen na de uitspraak, kan het Scheidsgerecht, na kennisgeving daarvan aan de wederpartij, beslissen inzake ieder vraagpunt waarover het heeft nagelaten in de uitspraak te beslissen, alsmede iedere verschrijving, verrekening of soortgelijke vergissing in de uitspraak herstellen. Deze beslissing vormt een deel van de uitspraak en wordt op dezelfde wijze als die uitspraak ter kennis gebracht van partijen. De in artikel 51, lid 2, en in artikel 52, lid 2, bedoelde termijnen beginnen te lopen vanaf het tijdstip van de desbetreffende beslissing.
+##### Article 52
 
-### Afdeling 5. Interpretatie, revisie en vernietiging van de uitspraak
+(1). Either party may request annulment of the award by an application in writing addressed to the Secretary-General on one or more of the following grounds:
 
-##### Artikel 50
+- (a) that the Tribunal was not properly constituted;
 
-1. Indien een geschil tussen de partijen rijst inzake de bedoeling of de betekenis van een uitspraak, kan een der partijen schriftelijk een request tot interpretatie van de uitspraak tot de Secretaris-Generaal richten.
+- (b) that the Tribunal has manifestly exceeded its powers;
 
-2. Het request wordt zo mogelijk voorgelegd aan het Scheidsgerecht dat de uitspraak heeft gewezen. Indien zulks niet mogelijk is, wordt een nieuw Scheidsgerecht gevormd overeenkomstig Afdeling 2 van dit Hoofdstuk. Het Scheidsgerecht kan, indien het van oordeel is dat de omstandigheden zulks vereisen, de tenuitvoerlegging van de uitspraak schorsen, totdat het zich heeft uitgesproken.
+- (c) that there was corruption on the part of a member of the Tribunal;
 
-##### Artikel 51
+- (d) that there has been a serious departure from a fundamental rule of procedure; or
 
-1. Elk der partijen kan schriftelijk aan de Secretaris-Generaal een request tot revisie van de uitspraak richten, wegens het aan het licht treden van een feit van dien aard dat het de uitspraak beslissend kan beïnvloeden, mits dit feit aan het Scheidsgerecht en aan de verzoekende partij niet bekend was toen de uitspraak werd gewezen, en mits de laatste dit feit niet had behoren te kennen.
+- (e) that the award has failed to state the reasons on which it is based.
 
-2. Het verzoekschrift wordt ingediend binnen 90 dagen na het aan het licht treden van dit nieuwe feit en in elk geval binnen 3 jaar na de datum van de uitspraak.
+(2). The application shall be made within 120 days after the date on which the award was rendered except that when annulment is requested on the ground of corruption such application shall be made within 120 days after discovery of the corruption and in any event within three years after the date on which the award was rendered.
 
-3. Het verzoekschrift wordt zo mogelijk voorgelegd aan het Scheidsgerecht dat de uitspraak heeft gewezen. Indien zulks niét mogelijk is, wordt een nieuw Scheidsgerecht gevormd overeenkomstig Afdeling 2 van dit Hoofdstuk.
+(3). On receipt of the request the Chairman shall forthwith appoint from the Panel of Arbitrators an *ad hoc* Committee of three persons. None of the members of the Committee shall have been a member of the Tribunal which rendered the award, shall be of the same nationality as any such member, shall be a national of the State party to the dispute or of the State whose national is a party to the dispute, shall have been designated to the Panel of Arbitrators by either of those States, or shall have acted as a conciliator in the same dispute. The Committee shall have the authority to annul the award or any part thereof on any of the grounds set forth in paragraph (1).
 
-4. Het Scheidsgerecht kan, indien het van oordeel is dat de omstandigheden zulks vereisen, de tenuitvoerlegging van de uitspraak schorsen, totdat het zich heeft uitgesproken. Indien de verzoekende partij in zijn request vraagt om schorsing van de tenuitvoerlegging van de uitspraak, wordt de tenuitvoerlegging voorlopig opgeschort, totdat het Scheidsgerecht over dit verzoek heeft beslist.
+(4). The provisions of articles 41-45, 48, 49, 53 and 54, and of Chapters VI and VII shall apply *mutatis mutandis* to proceedings before the Committee.
 
-##### Artikel 52
+(5). The Committee may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Committee rules on such request.
 
-1. Elk der partijen kan schriftelijk de Secretaris-Generaal verzoeken om vernietiging van de uitspraak om een der volgende redenen:
+(6). If the award is annulled the dispute shall, at the request of either party, be submitted to a new Tribunal constituted in accordance with Section 2 of this Chapter.
 
-- a). onjuiste samenstelling van het Scheidsgerecht,
+#### Section 6. Recognition and Enforcement of the Award
 
-- b). klaarblijkelijke overschrijding van zijn bevoegdheden door het Scheidsgerecht,
+##### Article 53
 
-- c). corruptie van een der leden van het Scheidsgerecht,
+(1). The award shall be binding on the parties and shall not be subject to any appeal or to any other remedy except those provided for in this Convention. Each party shall abide by and comply with the terms of the award except to the extent that enforcement shall have been stayed pursuant to the relevant provisions of this Convention.
 
-- d). ernstige afwijking van een grondregel van procedure, of
+(2). For the purposes of this Section, “award” shall include any decision interpreting, revising or annulling such award pursuant to articles 50, 51 or 52.
 
-- e). het ontbreken in de uitspraak van de gronden waarop deze is gewezen.
+##### Article 54
 
-2. Het verzoekschrift wordt ingediend binnen 120 dagen na de datum van de uitspraak tenzij de nietigverklaring wordt gevraagd wegens corruptie; in dat geval dient het verzoekschrift te worden ingediend binnen 120 dagen na ontdekking van de corruptie en in elk geval binnen 3 jaar na de datum van de uitspraak.
+(1). Each Contracting State shall recognize an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent State.
 
-3. Na ontvangst van het verzoekschrift benoemt de Voorzitter terstond uit de Lijst van Arbiters een Comité ad hoc, bestaande uit drie leden. De leden van dit Comité mogen geen deel hebben uitgemaakt van het Scheidsgerecht dat de uitspraak heeft gewezen, noch dezelfde nationaliteit bezitten als een der leden van dit Scheidsgerecht, noch ook die van de Staat die partij is bij het geschil of van de Staat waarvan een onderdaan partij is bij het geschil, noch zijn aangewezen voor de Lijst van Arbiters door een van deze beide Staten, noch als bemiddelaar in hetzelfde geding zijn opgetreden. Het Comité is bevoegd, de uitspraak geheel of gedeeltelijk nietig te verklaren wegens een der in lid 1 van dit artikel genoemde redenen.
+(2). A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary-General. Each Contracting State shall notify the Secretary-General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
 
-4. De bepalingen van de artikelen 41—45, 48, 49, 53 en 54 van hoofdstuk VI en VII zijn **mutatis mutandis** van toepassing op het geding voor het Comité.
+(3). Execution of the award shall be governed by the laws concerning the execution of judgments in force in the State in whose territories such execution is sought.
 
-5. Het Comité kan, indien het van oordeel is dat de omstandigheden zulks vereisen, besluiten de tenuitvoerlegging van de uitspraak te schorsen totdat het uitspraak heeft gedaan. Indien de verzoekende partij in zijn verzoekschrift om schorsing van de tenuitvoerlegging van de uitspraak vraagt, wordt de tenuitvoerlegging voorlopig geschorst totdat het Comité over dit verzoek heeft beslist.
+##### Article 55
 
-6. Indien de uitspraak wordt vernietigd, wordt het geschil op verzoek van een van beide partijen aan een nieuw Scheidsgerecht, ingesteld overeenkomstig Afdeling 2 van dit Hoofdstuk, voorgelegd.
+Nothing in article 54 shall be construed as derogating from the law in force in any Contracting State relating to immunity of that State or of any foreign State from excution.
 
-### Afdeling 6. Erkenning en Tenuitvoerlegging van de Uitspraak
+### CHAPTER V. Replacement and Disqualification of Conciliators and Arbitrators
 
-##### Artikel 53
+##### Article 56
 
-1. De uitspraak is bindend voor partijen en niet onderworpen aan beroep of enig ander rechtsmiddel met uitzondering van die voorzien in dit Verdrag.
+(1). After a Commission or a Tribunal has been constituted and proceedings have begun, its composition shall remain unchanged; provided, however, that if a conciliator or an arbitrator should die, become incapacitated, or resign, the resulting vacancy shall be filled in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
-Iedere partij dient zich overeenkomstig de bepalingen van de uitspraak te gedragen en deze na te komen, behalve voor zover de tenuitvoerlegging is geschorst ingevolge de desbetreffende bepalingen van dit Verdrag.
+(2). A member of a Commission or Tribunal shall continue to serve in that capacity notwithstanding that he shall have ceased to be a member of the Panel.
 
-2. Voor de toepassing van deze Afdeling, omvat „de uitspraak” mede iedere beslissing tot interpretatie, revisie of nietigverklaring van de uitspraak, genomen overeenkomstig artikel 50, 51 of 52.
+(3). If a conciliator or arbitrator appointed by a party shall have resigned without the consent of the Commission or Tribunal of which he was a member, the Chairman shall appoint a person from the appropriate Panel to fill the resulting vacancy.
 
-##### Artikel 54
+##### Article 57
 
-1. Iedere Verdragsluitende Staat erkent een ingevolge dit Verdrag gewezen uitspraak als bindend en draagt zorg voor de tenuitvoerlegging op zijn grondgebied van de financiële verplichtingen die deze uitspraak oplegt als ware zij een in kracht van gewijsde gegaan vonnis van een gerecht van die Staat. Een Verdragsluitende Staat die het karakter draagt van een bondsstaat, kan zulk een uitspraak ten uitvoer leggen door tussenkomst van zijn federale gerechten en bepalen dat deze een dergelijke uitspraak moeten behandelen als ware zij een in kracht van gewijsde gegaan vonnis van de gerechten van een der samenstellende delen van die Staat.
+A party may propose to a Commission or Tribunal the disqualification of any of its members on account of any fact indicating a manifest lack of the qualities required by paragraph (1) of article 14. A party to arbitration proceedings may, in addition, propose the disqualification of an arbitrator on the ground that he was ineligible for appointment to the Tribunal under Section 2 of Chapter IV.
 
-2. Ten einde erkenning en tenuitvoerlegging van een uitspraak op het grondgebied van een Verdragsluitende Staat te verkrijgen, dient de betrokken partij een door de Secretaris-Generaal gewaarmerkt afschrift van de beslissing over te leggen aan een bevoegd nationaal gerecht of aan een andere autoriteit, door genoemde Staat voor dat doel aangewezen. Iedere Verdragsluitende Staat doet de Secretaris-Generaal mededeling van de aanwijzing voor dat doel van het bevoegde gerecht of de andere autoriteit, en van eventuele veranderingen in deze aanwijzing.
+##### Article 58
 
-3. De tenuitvoerlegging van de uitspraak wordt beheerst door de wetgeving betreffende de tenuitvoerlegging van vonnissen, van kracht in de Staat op wiens grondgebied de tenuitvoerlegging wordt verlangd.
+The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
-##### Artikel 55
+### CHAPTER VI. Cost of Proceedings
 
-Geen der bepalingen van artikel 54 kan worden uitgelegd als afbreuk te doen aan het recht, van kracht in een Verdragsluitende Staat, betreffende de immuniteit van deze Staat of van een vreemde Staat ten aanzien van de tenuitvoerlegging van vonnissen.
+##### Article 59
 
-### HOOFDSTUK V. Vervanging en Uitsluiting van Bemiddelaars en Arbiters
+The charges payable by the parties for the use of the facilities of the Centre shall be determined by the Secretary-General in accordance with the regulations adopted by the Administrative Council.
 
-##### Artikel 56
+##### Article 60
 
-1. Nadat een Commissie of een Scheidsgerecht is samengesteld en het geding is begonnen, blijft de samenstelling daarvan ongewijzigd. Ingeval echter van overlijden, onvermogen of aftreden van een bemiddelaar of een arbiter, wordt in de vacature voorzien overeenkomstig de bepalingen van Hoofdstuk III, Afdeling 2, of van Hoofdstuk IV, Afdeling 2.
+(1). Each Commission and each Tribunal shall determine the fees and expenses of its members within limits established from time to time by the Administrative Council and after consultation with the Secretary-General.
 
-2. Een lid van een Commissie of van een Scheidsgerecht blijft zijn werkzaamheden als zodanig vervullen, ook al is zijn naam afgevoerd van de Lijst.
+(2). Nothing in paragraph (1) of this article shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees and expenses of its members.
 
-3. Indien een bemiddelaar of een arbiter, benoemd door een der partijen, ontslag neemt zonder toestemming van de Commissie of het Scheidsgerecht waarvan hij lid was, voorziet de Voorzitter in de vacature door een der op de desbetreffende Lijst vermelde personen aan te wijzen.
+##### Article 61
 
-##### Artikel 57
+(1). In the case of conciliation proceedings the fees and expenses of members of the Commission as well as the charges for the use of the facilities of the Centre, shall be borne equally by the parties. Each party shall bear any other expenses it incurs in connection with the proceedings.
 
-Een partij kan de Commissie of het Scheidsgerecht voorstellen, een der leden te disqualificeren wegens enig feit dat wijst op een klaarblijkelijk ontbreken van de in artikel 14, eerste lid, vereiste hoedanigheden. Een partij bij een arbitragegeding kan bovendien disqualificatie van een arbiter voorstellen met het motief dat deze niet voldeed aan de in Afdeling 2 van Hoofdstuk IV gestelde voorwaarden voor benoeming in het Scheidsgerecht.
+(2). In the case of arbitration proceedings the Tribunal shall, except as the parties otherwise agree, assess the expenses incurred by the parties in connection with the proceedings, and shall decide how and by whom those expenses, the fees and expenses of the members of the Tribunal and the charges for the use of the facilities of the Centre shall be paid. Such decision shall form part of the award.
 
-##### Artikel 58
+### CHAPTER VII. Place of Proceedings
 
-De overige leden van de Commissie, onderscheidenlijk het Scheidsgerecht beslissen over elk voorstel tot disqualificatie van een bemiddelaar of een arbiter. Bij staking van stemmen, of indien het verzoek tot disqualificatie betrekking heeft op één bemiddelaar of arbiter of op een meerderheid van de leden van de Commissie of van het Scheidsgerecht, wordt deze beslissing genomen door de Voorzitter. Indien de beslissing luidt dat het voorstel gegrond is, wordt de betrokken bemiddelaar of arbiter vervangen overeenkomstig de bepalingen van Hoofdstuk III, Afdeling 2, of van Hoofdstuk IV, Afdeling 2.
+##### Article 62
 
-### HOOFDSTUK VI. De kosten van het geding
+Conciliation and arbitration proceedings shall be held at the seat of the Centre except as hereinafter provided.
 
-##### Artikel 59
+##### Article 63
 
-De door partijen wegens gebruikmaking van de diensten van het Centrum verschuldigde bedragen worden door de Secretaris-Generaal vastgesteld in overeenstemming met de door de Raad van Bestuur terzake vastgestelde reglementen.
+Conciliation and arbitration proceedings may be held, if the parties so agree:
 
-##### Artikel 60
+- (a) at the seat of the Permanent Court of Arbitration or of any other appropriate institution, whether private or public, with which the Centre may make arrangements for that purpose; or
 
-1. Iedere Commissie en ieder Scheidsgerecht stelt de honoraria en onkostenvergoedingen van zijn leden vast, binnen door de Raad van Bestuur van tijd tot tijd opgestelde grenzen, en na overleg met de Secretaris-Generaal.
+- (b) at any other place approved by the Commission or Tribunal after consultation with the Secretary-General.
 
-2. Het bepaalde in het vorige lid sluit niet uit, dat partijen bij voorbaat, met de Commissie of het Scheidsgerecht, de honoraria en onkostenvergoedingen van zijn leden overeenkomen.
+### CHAPTER VIII. Disputes between Contracting States
 
-##### Artikel 61
+##### Article 64
 
-1. Bij een bemiddelingsgeding worden de honoraria en onkostenvergoedingen van de leden van de Commissie, alsmede de wegens gebruikmaking van de diensten van het Centrum verschuldigde bedragen, voor gelijke delen door partijen gedragen. Iedere partij draagt alle andere kosten die zij in verband met het geding maakt.
+Any dispute arising between Contracting States concerning the interpretation or application of this Convention which is not settled by negotiation shall be referred to the International Court of Justice by the application of any party to such dispute, unless the States concerned agree to another method of settlement.
 
-2. Bij een arbitragegeding stelt het Scheidsgerecht, tenzij partijen anders overeenkomen, het bedrag der door hen in verband met het geding gemaakte kosten vast en beslist over de wijze van verdeling en betaling van genoemde kosten, van de honoraria en de onkostenvergoedingen van de leden van het Scheidsgerecht, alsmede van de bedragen verschuldigd wegens gebruikmaking van de diensten van het Centrum. Dit besluit vormt een deel van de uitspraak.
+### CHAPTER IX. Amendment
 
-### HOOFDSTUK VII. De plaats van het geding
+##### Article 65
 
-##### Artikel 62
+Any Contracting State may propose amendment of this Convention. The text of a proposed amendment shall be communicated to the Secretary-General not less than 90 days prior to the meeting of the Administrative Council at which such amendment is to be considered and shall forthwith be transmitted by him to all the members of the Administrative Council.
 
-De bemiddelings- en arbitragegedingen bedoeld in dit Verdrag dienen ter plaatse waar het Centrum is gevestigd, behoudens het hierna bepaalde.
+##### Article 66
 
-##### Artikel 63
+(1). If the Administrative Council shall so decide by a majority of two-thirds of its members, the proposed amendment shall be circulated to all Contracting States for ratification, acceptance or approval. Each amendment shall enter into force 30 days after dispatch by the depositary of this Convention of a notification to Contracting States that all Contracting States have ratified, accepted or approved the amendment.
 
-Indien partijen aldus besluiten, kunnen de bemiddelings- en arbitragegedingen dienen:
+(2). No amendment shall affect the rights and obligations under this Convention of any Contracting State or of any of its constituent subdivisions or agencies, or of any national of such State arising out of consent to the jurisdiction of the Centre given before the date of entry into force of the amendment.
 
-- a). hetzij ter plaatse waar het Permanent Hof van Arbitrage of enige andere daarvoor in aanmerking komende instelling van publiekrechtelijke of privaatrechtelijke aard, waarmee het Centrum de nodige regelingen ter zake kan treffen, is gevestigd;
+### CHAPTER X. Final Provisions
 
-- b). hetzij op een andere door de Commissie of het Scheidsgerecht na overleg met de Secretaris-Generaal goedgekeurde plaats.
+##### Article 67
 
-### HOOFDSTUK VIII. Geschillen tussen de Verdragsluitende Staten
+This Convention shall be open for signature on behalf of States members of the Bank. It shall also be open for signature on behalf of any other State which is a party to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) and which the Administrative Council, by a vote of two-thirds of its members, shall have invited to sign the Convention.
 
-##### Artikel 64
+##### Article 68
 
-Geschillen die rijzen tussen de Verdragsluitende Staten met betrekking tot de interpretatie of de toepassing van dit Verdrag, die niet door onderhandelingen worden opgelost, worden op verzoek van een der partijen bij het geschil voor het Internationale Gerechtshof gebracht, tenzij de betrokken Staten een andere wijze van beslechting overeenkomen.
+(1). This Convention shall be subject to ratification, acceptance or approval by the signatory States in accordance with their respective constitutional procedures.
 
-### HOOFDSTUK IX. Wijzigingen
+(2). This Convention shall enter into force 30 days after the date of deposit of the twentieth instrument of ratification, acceptance or approval. It shall enter into force for each State which subsequently deposits its instrument of ratification, acceptance or approval 30 days after the date of such deposit.
 
-##### Artikel 65
+##### Article 69
 
-Iedere Verdragsluitende Staat kan wijzigingen in dit Verdrag voorstellen. De tekst van een wijzigingsvoorstel wordt medegedeeld aan de Secretaris-Generaal uiterlijk 90 dagen vóór de vergadering van de Raad van Bestuur waarop genoemde wijziging moet worden overwogen en wordt door de Secretaris-Generaal terstond ter kennis gebracht van alle leden van de Raad van Bestuur.
+Each Contracting State shall take such legislative or other measures as may be necessary for making the provisions of this Convention effective in its territories.
 
-##### Artikel 66
+##### Article 70
 
-1. Indien de Raad van Bestuur daartoe met een meerderheid van twee derden van zijn leden besluit, wordt de voorgestelde wijziging aan alle Verdragsluitende Staten toegezonden ter bekrachtiging, aanvaarding of goedkeuring. Iedere wijziging treedt in werking 30 dagen nadat de depositaris van dit Verdrag aan de Verdragsluitende Staten kennisgeving heeft verzonden van bekrachtiging, aanvaarding of goedkeuring van de wijziging door alle Verdragsluitende Staten.
+This Convention shall apply to all territories for whose international relations a Contracting State is responsible, except those which are excluded by such State by written notice to the depositary of this Convention either at the time of ratification, acceptance or approval or subsequently.
 
-2. Geen wijziging kan afbreuk doen aan de rechten en verplichtingen krachtens dit Verdrag van een Verdragsluitende Staat, een samenstellend deel of een orgaan van die Staat, of van een onderdaan van een Verdragsluitende Staat, die voortvloeien uit toestemming tot de bevoegdheid van het Centrum, gegeven vóór het tijdstip waarop zulk een wijziging in werking treedt.
+##### Article 71
 
-### HOOFDSTUK X. Slotbepalingen
+Any Contracting State may denounce this Convention by written notice to the depositary of this Convention. The denunciation shall take effect six months after receipt of such notice.
 
-##### Artikel 67
+##### Article 72
 
-Dit Verdrag staat open voor ondertekening door Staten die lid zijn van de Bank. Het staat tevens open voor ondertekening door alle andere Staten die partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), indien de Raad van Bestuur hen met een meerderheid van twee derden van zijn leden heeft uitgenodigd het Verdrag te ondertekenen.
+Notice by a Contracting State pursuant to articles 70 or 71 shall not affect the rights or obligations under this Convention of that State or of any of its constituent subdivisions or agencies or of any national of that State arising out of consent to the jurisdiction of the Centre given by one of them before such notice was received by the depositary.
 
-##### Artikel 68
+##### Article 73
 
-1. Dit Verdrag wordt door de ondertekenende Staten in overeenstemming met hun grondwettelijke procedures bekrachtigd, aanvaard of goedgekeurd.
+Instruments of ratification, acceptance or approval of this Convention and of amendments thereto shall be deposited with the Bank which shall act as the depositary of this Convention. The depositary shall transmit certified copies of this Convention to States members of the Bank and to any other State invited to sign the Convention.
 
-2. Dit Verdrag treedt in werking 30 dagen na het tijdstip van nederlegging van de 20ste akte van bekrachtiging, aanvaarding of goedkeuring. Ten aanzien van Staten die op een later tijdstip hun akte van bekrachtiging, aanvaarding of goedkeuring nederleggen, treedt het in werking 30 dagen na het tijdstip van die nederlegging.
+##### Article 74
 
-##### Artikel 69
+The depositary shall register this Convention with the Secretariat of the United Nations in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) and the Regulations thereunder adopted by the General Assembly.
 
-De Verdragsluitende Staten nemen de wettelijke en andere maatregelen, welke nodig zijn om de bepalingen van dit Verdrag van kracht te doen zijn op hun grondgebied.
+##### Article 75
 
-##### Artikel 70
+The depositary shall notify all signatory States of the following:
 
-Dit Verdrag is van toepassing op alle gebieden waarvan de buitenlandse betrekkingen onder de verantwoordelijkheid van een der Verdragsluitende Staten vallen, tenzij die Staat deze gebieden, door middel van een schriftelijke kennisgeving aan de depositaris van dit Verdrag, heeft uitgesloten, hetzij op het tijdstip van de bekrachtiging, aanvaarding of goedkeuring, hetzij op enig later tijdstip.
+- (a) signatures in accordance with article 67;
 
-##### Artikel 71
+- (b) deposits of instruments of ratification, acceptance and approval in accordance with article 73;
 
-De Verdragsluitende Staten kunnen dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris van dit Verdrag. De opzegging heeft rechtsgevolg vanaf zes maanden na ontvangst van een dergelijke kennisgeving.
+- (c) the date on which this Convention enters into force in accordance with article 68;
 
-##### Artikel 72
+- (d) exclusions from territorial application pursuant to article 70;
 
-Een kennisgeving door een Verdragsluitende Staat overeenkomstig de artikelen 70 of 71 doet geen afbreuk aan de rechten en verplichtingen krachtens dit Verdrag van die Staat of van een van zijn samenstellende delen of organen of van een onderdaan van die Staat, die voortvloeien uit toestemming tot de bevoegdheid van het Centrum, gegeven vóór het tijdstip waarop genoemde kennisgeving door de depositaris is ontvangen.
+- (e) the date on which any amendment of this Convention enters into force in accordance with article 66; and
 
-##### Artikel 73
-
-De akten van bekrachtiging, aanvaarding of goedkeuring van dit Verdrag en van daarin aangebrachte wijzigingen, worden nedergelegd bij de Bank, die zal optreden als depositaris van dit Verdrag. De depositaris zendt gewaarmerkte afschriften van dit Verdrag aan de Staten die lid zijn van de Bank en aan iedere andere Staat die is uitgenodigd het Verdrag te ondertekenen.
-
-##### Artikel 74
-
-De depositaris laat dit Verdrag bij het Secretariaat van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), en het krachtens dit artikel door de Algemene Vergadering aangenomen Reglement.
-
-##### Artikel 75
-
-De depositaris stelt alle ondertekenende Staten in kennis van:
-
-- a). ondertekeningen overeenkomstig artikel 67;
-
-- b). nederlegging van de akten van bekrachtiging, aanvaarding en goedkeuring overeenkomstig artikel 73;
-
-- c). het tijdstip van inwerkingtreding van dit Verdrag overeenkomstig artikel 68;
-
-- d). uitsluitingen van territoriale toepassing ingevolge artikel 70;
-
-- e). het tijdstip van inwerkingtreding van wijzigingen van dit Verdrag overeenkomstig artikel 66;
-
-- f). opzeggingen overeenkomstig artikel 71.
+- (f) denunciations in accordance with article 71.
 
 DONE at Washington in the English, French and Spanish languages, all three texts being equally authentic, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to fulfil the functions with which it is charged under this Convention.
 
@@ -594,10 +553,10 @@ For the International Bank for Reconstruction and Development:
 
 (sd.) GEORGE D. WOODS
 
-**President**
+*President*
 
 (sd.) H. BROCHES
 
-**General Counsel**
+*General Counsel*
 
 18 March 1965

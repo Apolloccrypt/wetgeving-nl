@@ -1,54 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en authentieke akten op het gebied van het burgerlijk recht"
 identifier: "BWBV0004290"
-country: "nl"
-rank: "verdrag"
-publication_date: "1966-04-30"
-last_updated: "1966-04-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004290"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004038863"
-version_id: "10004205602"
-internal_id: "C10008341461"
-label_id: "10004023364"
-dtd_version: "2.0"
-original_entry_into_force: "1966-04-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004290/1966-04-30/0"
-intitule_bron: "Trb.1963-51"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1963-07-08"
-intitule_in_force: "1966-04-27"
-intitule_status: "goed"
-original_publication: "Trb.1963-51"
-original_published_date: "1963-07-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1963-51"
-entry_into_force_date: "1966-04-30"
-jci_1_3: "jci1.3:c:BWBV0004290&z=1966-04-30&g=1966-04-30"
-jci_1_0: "1.0:c:BWBV0004290&g=1966-04-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1966-04-30"
+publicatiedatum: 1966-04-30
+laatste_update: 1966-04-30
+status: geldig
+toestand: 1966-04-30
+bron: "https://wetten.overheid.nl/BWBV0004290"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk betreffende de wederzijdse erkenning en tenuitvoerlegging van rechterlijke beslissingen en authentieke akten op het gebied van het burgerlijk recht
 
-Hare Majesteit de Koningin der Nederlanden en de Bondspresident van de Republiek Oostenrijk,
-
-De wens koesterende om de wederzijdse erkenning en tenuitvoerlegging van in burgerlijke zaken gegeven rechterlijke beslissingen alsmede van authentieke akten te regelen,
-
-Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hun Gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-De Heer dr. H. R. van Houten, Staatssecretaris van Buitenlandse Zaken,
-
-De Bondspresident van de Republiek Oostenrijk:
-
-De Heer dr. Claus Winterstein, Buitengewoon en Gevolmachtigd Ambassadeur van de Republiek Oostenrijk in het Koninkrijk der Nederlanden,
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, de volgende bepalingen zijn overeengekomen:
-
-Het onderhavige Verdrag is op 1 september 1996 vervangen door het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, gedaan te Lugano op 16 september 1988, voor zover de toepassing van dat Verdrag reikt op grond van zijn artikelen 1 en 56. Het onderhavige Verdrag is op 1 december 1998 vervangen door het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, voor zover de toepassing van dat Verdrag reikt op grond van zijn artikelen 1, 54, tweede lid en 56. Het onderhavige Verdrag is op 1 maart 2002 vervangen door de Verordening van 2002, voor zover de toepassing van de Verordening reikt op grond van zijn artikelen 1, 66 en 70. Het onderhavige Verdrag is op 1 maart 2005 vervangen door de EG-Verordening 2201/2003, voor zover de toepassing van de Verordening reikt op grond van zijn artikelen 1 en 64 (Trb. 2005/62).
+*Hare Majesteit de Koningin der Nederlanden en de Bondspresident van de Republiek Oostenrijk, De wens koesterende om de wederzijdse erkenning en tenuitvoerlegging van in burgerlijke zaken gegeven rechterlijke beslissingen alsmede van authentieke akten te regelen, Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hun Gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: De Heer dr. H. R. van Houten, Staatssecretaris van Buitenlandse Zaken, De Bondspresident van de Republiek Oostenrijk: De Heer dr. Claus Winterstein, Buitengewoon en Gevolmachtigd Ambassadeur van de Republiek Oostenrijk in het Koninkrijk der Nederlanden, Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, de volgende bepalingen zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -60,57 +25,57 @@ Het onderhavige Verdrag is op 1 september 1996 vervangen door het Verdrag betref
 
 (4). Onder „beslissingen” worden voor de toepassing van dit Verdrag verstaan: alle beslissingen, hoe ook genaamd (zoals vonnissen, beslissingen in kort geding, beschikkingen, arresten, dwangbevelen, Urteile, Zahlungsbefehle, Zahlungsaufträge, Beschlüsse), gegeven in zaken van eigenlijke of oneigenlijke rechtspraak, met uitzondering evenwel van:
 
-- a). beslissingen inzake faillissement, akkoord en surséance van betaling;
+- a) beslissingen inzake faillissement, akkoord en surséance van betaling;
 
-- b). voorlopige maatregelen;
+- b) voorlopige maatregelen;
 
-- c). beslissingen van de strafrechter omtrent burgerrechtelijke vorderingen;
+- c) beslissingen van de strafrechter omtrent burgerrechtelijke vorderingen;
 
-- d). beslissingen van Nederlandse gerechten voorzover daarbij een schuldenaar veroordeeld is tot betaling van een dwangsom aan de schuldeiser voor het geval de schuldenaar zijn verplichting tot het verrichten of nalaten van een handeling niet nakomt, tenzij de verbeurde geldsom door een nadere beslissing van een Nederlands gerecht vastgesteld is.
+- d) beslissingen van Nederlandse gerechten voorzover daarbij een schuldenaar veroordeeld is tot betaling van een dwangsom aan de schuldeiser voor het geval de schuldenaar zijn verplichting tot het verrichten of nalaten van een handeling niet nakomt, tenzij de verbeurde geldsom door een nadere beslissing van een Nederlands gerecht vastgesteld is.
 
 ##### Artikel 2
 
 (1). De door de gerechten van een der Hoge Verdragsluitende Partijen gegeven beslissingen worden in het gebied van de andere Hoge Verdragsluitende Partij erkend, indien zij voldoen aan de volgende voorwaarden:
 
-- a). dat de beslissing is gegeven door een in de zin van artikel 3 van dit Verdrag bevoegd gerecht;
+- a) dat de beslissing is gegeven door een in de zin van artikel 3 van dit Verdrag bevoegd gerecht;
 
-- b). dat de beslissing in kracht van gewijsde is gegaan;
+- b) dat de beslissing in kracht van gewijsde is gegaan;
 
-- c). dat de partijen wettig vertegenwoordigd zijn geweest of, in geval van een beslissing bij verstek, wettig zijn opgeroepen; betreft het een dwangbevel, „Zahlungsauftrag” of „Zahlungsbefehl”, dan dient het stuk wettig te zijn bezorgd bij degene tegen wie het is uitgevaardigd;
+- c) dat de partijen wettig vertegenwoordigd zijn geweest of, in geval van een beslissing bij verstek, wettig zijn opgeroepen; betreft het een dwangbevel, „Zahlungsauftrag” of „Zahlungsbefehl”, dan dient het stuk wettig te zijn bezorgd bij degene tegen wie het is uitgevaardigd;
 
-- d). dat de erkenning niet in strijd is met de openbare orde van de Staat, waar zij wordt ingeroepen; met name mag in de Staat, waar de erkenning wordt ingeroepen, niet reeds een in kracht van gewijsde gegane beslissing zijn gegeven in dezelfde zaak tussen dezelfde partijen;
+- d) dat de erkenning niet in strijd is met de openbare orde van de Staat, waar zij wordt ingeroepen; met name mag in de Staat, waar de erkenning wordt ingeroepen, niet reeds een in kracht van gewijsde gegane beslissing zijn gegeven in dezelfde zaak tussen dezelfde partijen;
 
-- e). dat in de Staat, waar de erkenning wordt ingeroepen, niet reeds een geding aanhangig is in dezelfde zaak tussen dezelfde partijen, dat aldaar aanhangig is gemaakt vóór de aanvang van het geding Staat waar de beslissing is gegeven.
+- e) dat in de Staat, waar de erkenning wordt ingeroepen, niet reeds een geding aanhangig is in dezelfde zaak tussen dezelfde partijen, dat aldaar aanhangig is gemaakt vóór de aanvang van het geding Staat waar de beslissing is gegeven.
 
-(2). De in het voorgaande lid onder **c** genoemde voorwaarde is niet vervuld,
+(2). De in het voorgaande lid onder *c* genoemde voorwaarde is niet vervuld,
 
 wanneer
 
-- a). in geval van een beslissing bij verstek de niet-verschenen partij ten overstaan van het gerecht waarbij de erkenning wordt ingeroepen, bewijst dat zij niet zo tijdig van het geding kennis heeft gekregen dat zij daarin kon verschijnen;
+- a) in geval van een beslissing bij verstek de niet-verschenen partij ten overstaan van het gerecht waarbij de erkenning wordt ingeroepen, bewijst dat zij niet zo tijdig van het geding kennis heeft gekregen dat zij daarin kon verschijnen;
 
-- b). indien het betreft een dwangbevel, een „Zahlungsauftrag” of een „Zahlungsbefehl”, de partij tegen wie het is uitgevaardigd, ten overstaan van het gerecht waarbij de erkenning wordt ingeroepen, bewijst dat zij van de beslissing niet zo tijdig kennis heeft gekregen dat zij daartegen in verzet kon gaan („Einwendungen, Widerspruch erheben”).
+- b) indien het betreft een dwangbevel, een „Zahlungsauftrag” of een „Zahlungsbefehl”, de partij tegen wie het is uitgevaardigd, ten overstaan van het gerecht waarbij de erkenning wordt ingeroepen, bewijst dat zij van de beslissing niet zo tijdig kennis heeft gekregen dat zij daartegen in verzet kon gaan („Einwendungen, Widerspruch erheben”).
 
 ##### Artikel 3
 
-(1). In de zin van artikel 2, lid 1 onder **a,** is, met uitzondering van de hierna in lid 2 genoemde gevallen, bevoegd het gerecht dat de beslissing heeft gegeven,
+(1). In de zin van artikel 2, lid 1 onder *a,* is, met uitzondering van de hierna in lid 2 genoemde gevallen, bevoegd het gerecht dat de beslissing heeft gegeven,
 
-- a). indien op het tijdstip van de aanvang van het geding de gedaagde in de Staat welks gerecht de beslissing heeft gegeven, zijn woonplaats of zijn gewone verblijfplaats had;
+- a) indien op het tijdstip van de aanvang van het geding de gedaagde in de Staat welks gerecht de beslissing heeft gegeven, zijn woonplaats of zijn gewone verblijfplaats had;
 
-- b). indien de gedaagde een onderneming of een filiaal had in de Staat welks gerecht de beslissing heeft gegeven, en aldaar in rechte betrokken is ter zake van geschillen, die op die onderneming of dat filiaal betrekking hebben;
+- b) indien de gedaagde een onderneming of een filiaal had in de Staat welks gerecht de beslissing heeft gegeven, en aldaar in rechte betrokken is ter zake van geschillen, die op die onderneming of dat filiaal betrekking hebben;
 
-- c). indien de gedaagde zich schriftelijk door overeenkomst of domiciliekeuze voor een bepaald geschil of voor geschillen uit een bepaalde rechtsverhouding voortspruitende, had onderworpen aan de rechtsmacht van dat gerecht;
+- c) indien de gedaagde zich schriftelijk door overeenkomst of domiciliekeuze voor een bepaald geschil of voor geschillen uit een bepaalde rechtsverhouding voortspruitende, had onderworpen aan de rechtsmacht van dat gerecht;
 
-- d). wanneer de gedaagde op de rechtsstrijd ten gronde is ingegaan zonder bezwaren tegen de bevoegdheid van het gerecht (lid 4) te hebben opgeworpen;
+- d) wanneer de gedaagde op de rechtsstrijd ten gronde is ingegaan zonder bezwaren tegen de bevoegdheid van het gerecht (lid 4) te hebben opgeworpen;
 
-- e). in geval van een eis in reconventie, indien in de zin van dit artikel het gerecht bevoegd was te beslissen in conventie.
+- e) in geval van een eis in reconventie, indien in de zin van dit artikel het gerecht bevoegd was te beslissen in conventie.
 
 (2). In gedingen met betrekking tot zakelijke rechten op onroerende goederen en de overgang van zulke goederen ter zake des doods zijn bevoegd de gerechten van de Staat, waar de goederen zijn gelegen.
 
 (3). De gerechten van de Staat, waar de erkenning wordt ingeroepen, zijn gebonden aan de feiten zoals die in de beslissing zijn vastgesteld en waarop het gerecht dat de beslissing heeft gegeven, zijn bevoegdheid heeft gegrond.
 
-(4). Onder „bezwaar tegen de bevoegdheid van het gerecht” in de zin van het eerste lid onder **d** wordt mede verstaan elke verklaring van de gedaagde, dat hij de bevoegdheid van het gerecht enkel in de zin van dit artikel bestrijdt.
+(4). Onder „bezwaar tegen de bevoegdheid van het gerecht” in de zin van het eerste lid onder *d* wordt mede verstaan elke verklaring van de gedaagde, dat hij de bevoegdheid van het gerecht enkel in de zin van dit artikel bestrijdt.
 
-(5). De gerechten van de Hoge Verdragsluitende Partij in wier gebied de beslissing is gegeven, zijn niettemin niet bevoegd in de zin van artikel 2, lid 1 onder **a,** indien naar het recht van de andere Hoge Verdragsluitende Partij haar eigen gerechten of die van een derde Staat uitsluitend bevoegd waren.
+(5). De gerechten van de Hoge Verdragsluitende Partij in wier gebied de beslissing is gegeven, zijn niettemin niet bevoegd in de zin van artikel 2, lid 1 onder *a,* indien naar het recht van de andere Hoge Verdragsluitende Partij haar eigen gerechten of die van een derde Staat uitsluitend bevoegd waren.
 
 ##### Artikel 4
 
@@ -132,13 +97,13 @@ Is bij de beslissing over meer dan een vordering uitspraak gedaan, doch aan de v
 
 (1). De partij, die erkenning of uitvoerbaarverklaring (tenuitvoerlegging) verlangt, moet overleggen:
 
-- a). een expeditie van de beslissing;
+- a) een expeditie van de beslissing;
 
-- b). bewijsstukken waaruit kan worden vastgesteld, dat de beslissing in kracht van gewijsde is gegaan en — indien uitvoerbaarverklaring (tenuitvoerlegging) wordt verzocht — dat de beslissing vatbaar is voor tenuitvoerlegging in de Staat, waar zij is gegeven;
+- b) bewijsstukken waaruit kan worden vastgesteld, dat de beslissing in kracht van gewijsde is gegaan en — indien uitvoerbaarverklaring (tenuitvoerlegging) wordt verzocht — dat de beslissing vatbaar is voor tenuitvoerlegging in de Staat, waar zij is gegeven;
 
-- c). indien het een beslissing bij verstek betreft, een gewaarmerkt afschrift van de dagvaarding of een ander geschrift dat kan dienen tot bewijs dat de gedaagde wettig is gedagvaard;
+- c) indien het een beslissing bij verstek betreft, een gewaarmerkt afschrift van de dagvaarding of een ander geschrift dat kan dienen tot bewijs dat de gedaagde wettig is gedagvaard;
 
-- d). indien het betreft een dwangbevel, „een Zahlungsauftrag” of een „Zahlungsbefehl”, een geschrift, dat kan dienen tot bewijs dat de beslissing op wettige wijze is bezorgd bij de gedaagde.
+- d) indien het betreft een dwangbevel, „een Zahlungsauftrag” of een „Zahlungsbefehl”, een geschrift, dat kan dienen tot bewijs dat de beslissing op wettige wijze is bezorgd bij de gedaagde.
 
 (2). De over te leggen bescheiden behoeven niet te zijn gelegaliseerd doch dienen, indien het gerecht dat verlangt, vergezeld te gaan van een vertaling. De juistheid van de vertaling moet zijn bevestigd door een beëdigde vertaler, die in één van de beide Staten is toegelaten.
 
@@ -186,10 +151,10 @@ TEN BLIJKE WAARVAN de wederzijdse Gevolmachtigden dit Verdrag hebben ondertekend
 
 GEDAAN te 's-Gravenhage, de 6e februari 1963, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) H. R. VAN HOUTEN
 
-**Voor de Republiek Oostenrijk:**
+*Voor de Republiek Oostenrijk:*
 
 (w.g.) DR. CLAUS WINTERSTEIN

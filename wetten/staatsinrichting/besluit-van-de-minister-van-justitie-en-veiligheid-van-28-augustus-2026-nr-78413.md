@@ -9,7 +9,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0053088"
-opgehaald: 2026-09-13
+opgehaald: 2026-09-14
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 28 augustus 2026, nr. 7841304, houdende een semi-permanente ontheffing van de eis van bekwaamheid voor de uitoefening van de opsporingsbevoegdheden en politiebevoegdheden van buitengewoon agenten van politie bij de Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch gebied

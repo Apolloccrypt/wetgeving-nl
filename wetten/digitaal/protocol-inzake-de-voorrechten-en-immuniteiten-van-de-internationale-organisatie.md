@@ -1,76 +1,45 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Telecommunicatiesatellieten “INTELSAT”"
 identifier: "BWBV0004951"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-07-15"
-last_updated: "1983-07-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004951"
+categorie: "Digitaal en privacy"
 soort: "verdrag"
-stam_id: "10004403923"
-version_id: "10004607632"
-internal_id: "C10008343351"
-label_id: "10004388794"
-dtd_version: "2.0"
-original_entry_into_force: "1983-07-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004951/1983-07-15/0"
-intitule_bron: "Trb.1983-115"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1983-09-07"
-intitule_in_force: "1983-09-07"
-intitule_status: "goed"
-original_publication: "Trb.1983-115"
-original_published_date: "1983-09-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-115"
-entry_into_force_date: "1983-07-15"
-jci_1_3: "jci1.3:c:BWBV0004951&z=1983-07-15&g=1983-07-15"
-jci_1_0: "1.0:c:BWBV0004951&g=1983-07-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1983-07-15"
+publicatiedatum: 1983-07-15
+laatste_update: 1983-07-15
+status: geldig
+toestand: 1983-07-15
+bron: "https://wetten.overheid.nl/BWBV0004951"
+opgehaald: 2026-09-14
 ---
+
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Organisatie voor Telecommunicatiesatellieten “INTELSAT”
 
-Preamble
-
-The States Parties to this Protocol,
-
-Considering that [paragraph (c) of Article XV of the Agreement relating to the International Telecommunications Satellite Organization](https://wetten.overheid.nl/jci1.3:c:BWBV0004067&artikel=XV) (INTELSAT) provides that each Party, including the Party in whose territory the headquarters of INTELSAT is located, shall grant appropriate privileges, exemptions and immunities;
-
-Considering that INTELSAT has concluded a Headquarters Agreement with the Government of the United States of America, which entered into force on 24 November 1976;
-
-Considering that [paragraph (c) of Article XV of the Agreement relating to INTELSAT](https://wetten.overheid.nl/jci1.3:c:BWBV0004067&artikel=XV) provides for the conclusion by the Parties, other than the one in whose territory the INTELSAT Headquarters is located, of a Protocol covering privileges, exemptions and immunities;
-
-Affirming that the purpose of the privileges, exemptions and immunities covered by this Protocol is to ensure the efficient performance of the functions of INTELSAT;
-
-Have agreed as follows:
+*Preamble The States Parties to this Protocol, Considering that paragraph (c) of Article XV of the Agreement relating to the International Telecommunications Satellite Organization (INTELSAT) provides that each Party, including the Party in whose territory the headquarters of INTELSAT is located, shall grant appropriate privileges, exemptions and immunities; Considering that INTELSAT has concluded a Headquarters Agreement with the Government of the United States of America, which entered into force on 24 November 1976; Considering that paragraph (c) of Article XV of the Agreement relating to INTELSAT provides for the conclusion by the Parties, other than the one in whose territory the INTELSAT Headquarters is located, of a Protocol covering privileges, exemptions and immunities; Affirming that the purpose of the privileges, exemptions and immunities covered by this Protocol is to ensure the efficient performance of the functions of INTELSAT; Have agreed as follows:*
 
 ##### Article 1. Use of Terms
 
 For the purposes of this Protocol:
 
-- (a). “Agreement” means the [Agreement Relating to the International Telecommunications Satellite Organization](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) (INTELSAT), including its Annexes, opened for signature by Governments at Washington on August 20, 1971;
+- (a) “Agreement” means the [Agreement Relating to the International Telecommunications Satellite Organization](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) (INTELSAT), including its Annexes, opened for signature by Governments at Washington on August 20, 1971;
 
-- (b). “Operating Agreement” means the agreement, including its Annex, opened for signature at Washington on August 20, 1971, by Governments or telecommunications entities designated by Governments;
+- (b) “Operating Agreement” means the agreement, including its Annex, opened for signature at Washington on August 20, 1971, by Governments or telecommunications entities designated by Governments;
 
-- (c). “INTELSAT Agreements” means the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) and the Operating Agreement referred to in (a) and (b) above;
+- (c) “INTELSAT Agreements” means the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) and the Operating Agreement referred to in (a) and (b) above;
 
-- (d). “INTELSAT Party” means a State for which the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) is in force;
+- (d) “INTELSAT Party” means a State for which the [Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067) is in force;
 
-- (e). “INTELSAT Signatory” means an INTELSAT Party, or the telecommunications entity designated by an INTELSAT Party, for which the Operating Agreement is in force;
+- (e) “INTELSAT Signatory” means an INTELSAT Party, or the telecommunications entity designated by an INTELSAT Party, for which the Operating Agreement is in force;
 
-- (f). “Contracting Party” means an INTELSAT Party for which this Protocol has entered into force;
+- (f) “Contracting Party” means an INTELSAT Party for which this Protocol has entered into force;
 
-- (g). “Staff members of INTELSAT” means the Director General and those staff members of the Executive Organ holding regular or fixed-term appointments for a minimum of one year and who are employed on a full-time basis within the Organization, other than persons in the domestic service of INTELSAT;
+- (g) “Staff members of INTELSAT” means the Director General and those staff members of the Executive Organ holding regular or fixed-term appointments for a minimum of one year and who are employed on a full-time basis within the Organization, other than persons in the domestic service of INTELSAT;
 
-- (h). “Representatives of Parties” means representatives of INTELSAT Parties and in each case means heads of delegations, their alternates and advisers;
+- (h) “Representatives of Parties” means representatives of INTELSAT Parties and in each case means heads of delegations, their alternates and advisers;
 
-- (i). “Representatives of Signatories” means representatives of INTELSAT Signatories and in each case means heads of delegations, their alternates and advisers;
+- (i) “Representatives of Signatories” means representatives of INTELSAT Signatories and in each case means heads of delegations, their alternates and advisers;
 
-- (j). “Property” includes every subject of whatever nature to which a right of ownership can attach, as well as contractual rights;
+- (j) “Property” includes every subject of whatever nature to which a right of ownership can attach, as well as contractual rights;
 
-- (k). “Archives” includes all records, correspondence, documents, manuscripts, photographs, films, optical and magnetic recordings belonging to or held by INTELSAT.
+- (k) “Archives” includes all records, correspondence, documents, manuscripts, photographs, films, optical and magnetic recordings belonging to or held by INTELSAT.
 
 ### CHAPTER I. : INTELSAT'S PROPERTY AND OPERATIONS
 
@@ -82,25 +51,25 @@ The archives of INTELSAT shall be inviolable wherever located.
 
 1. Within the scope of its activities authorized by the INTELSAT Agreements, INTELSAT shall have immunity from jurisdiction and immunity from execution except:
 
-- (a). to the extent that the Director General shall have expressly waived such immunity from jurisdiction or immunity from execution in a particular case;
+- (a) to the extent that the Director General shall have expressly waived such immunity from jurisdiction or immunity from execution in a particular case;
 
-- (b). in respect of its commercial activities;
+- (b) in respect of its commercial activities;
 
-- (c). in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to, or operated on behalf of, INTELSAT, or in respect of a traffic offence involving such a vehicle;
+- (c) in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to, or operated on behalf of, INTELSAT, or in respect of a traffic offence involving such a vehicle;
 
-- (d). in the event of the attachment, pursuant to a decision by the judicial authorities, of the salaries and emoluments owed by INTELSAT to a staff member;
+- (d) in the event of the attachment, pursuant to a decision by the judicial authorities, of the salaries and emoluments owed by INTELSAT to a staff member;
 
-- (e). in respect of a counter-claim directly connected with proceedings initiated by INTELSAT; or
+- (e) in respect of a counter-claim directly connected with proceedings initiated by INTELSAT; or
 
-- (f). in respect of the enforcement of an arbitration award made under [Article XVIII of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067&artikel=XVIII) or Article 20 of the Operating Agreement.
+- (f) in respect of the enforcement of an arbitration award made under [Article XVIII of the Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0004067&artikel=XVIII) or Article 20 of the Operating Agreement.
 
 2. The property of INTELSAT, wherever located and by whomsoever held, shall be immune:
 
-- (a). from any form of search, requisition, confiscation and sequestration;
+- (a) from any form of search, requisition, confiscation and sequestration;
 
-- (b). from expropriation, except that real property may be expropriated for public purposes and subject to prompt payment of fair compensation;
+- (b) from expropriation, except that real property may be expropriated for public purposes and subject to prompt payment of fair compensation;
 
-- (c). from any form of administrative or provisional judicial constraint, except insofar as may be temporarily necessary in connection with the prevention and investigation of accidents involving motor vehicles or other means of transport belonging to, or operated on behalf of, INTELSAT.
+- (c) from any form of administrative or provisional judicial constraint, except insofar as may be temporarily necessary in connection with the prevention and investigation of accidents involving motor vehicles or other means of transport belonging to, or operated on behalf of, INTELSAT.
 
 ##### Article 4. Fiscal and Customs Provisions
 
@@ -128,19 +97,19 @@ Within the scope of its activities authorized by the INTELSAT Agreements, the fu
 
 1. The staff members of INTELSAT shall enjoy the following privileges, exemptions and immunities:
 
-- (a). immunity from jurisdiction, even after they have left the service of INTELSAT, in respect of acts, including words written and spoken, done by them in the exercise of their official functions and within the limits of their duties. However, there shall be no immunity in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to or driven by them, or in respect of a traffic offence involving such a vehicle and committed by them;
+- (a) immunity from jurisdiction, even after they have left the service of INTELSAT, in respect of acts, including words written and spoken, done by them in the exercise of their official functions and within the limits of their duties. However, there shall be no immunity in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle or other means of transport belonging to or driven by them, or in respect of a traffic offence involving such a vehicle and committed by them;
 
-- (b). inviolability for official documents and papers related to the performance of their functions within the scope of the activities of INTELSAT;
+- (b) inviolability for official documents and papers related to the performance of their functions within the scope of the activities of INTELSAT;
 
-- (c). exemption from national service obligations;
+- (c) exemption from national service obligations;
 
-- (d). together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities, as well as the same repatriation facilities in time of international crisis, as are normally accorded to staff members of intergovernmental organizations;
+- (d) together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities, as well as the same repatriation facilities in time of international crisis, as are normally accorded to staff members of intergovernmental organizations;
 
-- (e). exemption from all national income tax on their salaries and emoluments paid to them by INTELSAT, excluding pensions and other similar benefits paid by INTELSAT. The Contracting Parties reserve the right to take those salaries and emoluments into account when assessing the amount of tax to be applied to income from other sources;
+- (e) exemption from all national income tax on their salaries and emoluments paid to them by INTELSAT, excluding pensions and other similar benefits paid by INTELSAT. The Contracting Parties reserve the right to take those salaries and emoluments into account when assessing the amount of tax to be applied to income from other sources;
 
-- (f). the same treatment in the matter of currency and exchange control as is normally accorded to staff members of intergovernmental organizations;
+- (f) the same treatment in the matter of currency and exchange control as is normally accorded to staff members of intergovernmental organizations;
 
-- (g). the right to import free of customs duties and other customs charges (except payment for services rendered), their furniture and personal effects, including a motor vehicle, at the time of taking up their post in the territory of a Contracting Party, and the right to export them free of duty upon termination of their functions, subject to the conditions laid down by the laws of the Contracting Party concerned.
+- (g) the right to import free of customs duties and other customs charges (except payment for services rendered), their furniture and personal effects, including a motor vehicle, at the time of taking up their post in the territory of a Contracting Party, and the right to export them free of duty upon termination of their functions, subject to the conditions laid down by the laws of the Contracting Party concerned.
 
 2. Goods belonging to staff members which have been exempted under paragraph 1 (g) shall not be transferred, hired out or lent, permanently or temporarily, except in accordance with the domestic laws of the Contracting Party which granted the exemption.
 
@@ -158,17 +127,17 @@ Within the scope of its activities authorized by the INTELSAT Agreements, the fu
 
 1. Representatives of INTELSAT Parties at meetings called by or held under the auspices of INTELSAT shall, in the exercise of their functions, and during their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
-- (a). immunity from jurisdiction, even after termination of their mission, in respect of acts, including words written and spoken, done by them in the exercise of their official functions and within the limits of their duties. However, there shall be no immunity in respect of a civil ction by a third party for damage arising from an accident caused by motor vehicle or other means of transport belonging to or driven by them, or in respect of a traffic offence involving such a vehicle and committed by them;
+- (a) immunity from jurisdiction, even after termination of their mission, in respect of acts, including words written and spoken, done by them in the exercise of their official functions and within the limits of their duties. However, there shall be no immunity in respect of a civil ction by a third party for damage arising from an accident caused by motor vehicle or other means of transport belonging to or driven by them, or in respect of a traffic offence involving such a vehicle and committed by them;
 
-- (b). inviolability for all their official documents and papers;
+- (b) inviolability for all their official documents and papers;
 
-- (c). together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities as is normally accorded to staff members of intergovernmental organizations; provided that no Contracting Party shall be obliged to apply this provision to its permanent residents.
+- (c) together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities as is normally accorded to staff members of intergovernmental organizations; provided that no Contracting Party shall be obliged to apply this provision to its permanent residents.
 
 2. Representatives of Signatories at meetings called by or held under the auspices of INTELSAT shall, in the exercise of their functions, and during their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
-- (a). inviolability for official documents and papers related to the performance of their functions within the scope of the activities of INTELSAT;
+- (a) inviolability for official documents and papers related to the performance of their functions within the scope of the activities of INTELSAT;
 
-- (b). together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities as is normally accorded to staff members of intergovernmental organizations; provided that no Contracting Party shall be obliged to apply this provision to its permanent residents.
+- (b) together with members of their families forming part of their households, the same immunity from restrictions on admission, alien registration and departure formalities as is normally accorded to staff members of intergovernmental organizations; provided that no Contracting Party shall be obliged to apply this provision to its permanent residents.
 
 3. The members of an arbitral tribunal and witnesses before that tribunal participating in arbitration proceedings in accordance with Annex C of the Agreement shall, in the exercise of their functions, and during their journeys to and from the place of meeting, enjoy the privileges and immunities referred to in paragraphs 1 (a), (b) and (c).
 
@@ -180,13 +149,13 @@ Within the scope of its activities authorized by the INTELSAT Agreements, the fu
 
 The privileges, exemptions and immunities provided for in this Protocol are not granted for the personal benefit of individuals. If such privileges, exemptions and immunities are likely to impede the course of justice, and in all cases where they may be waived without prejudice to the efficient performance of the functions of INTELSAT, the authorities set forth below shall agree to waive such privileges, exemptions and immunities:
 
-- (a). the Contracting Parties, with respect to their representatives and the representatives of their Signatories;
+- (a) the Contracting Parties, with respect to their representatives and the representatives of their Signatories;
 
-- (b). the Board of Governors, with respect to the Director General of INTELSAT;
+- (b) the Board of Governors, with respect to the Director General of INTELSAT;
 
-- (c). the Director General of INTELSAT, with respect to INTELSAT and the other staff members;
+- (c) the Director General of INTELSAT, with respect to INTELSAT and the other staff members;
 
-- (d). the Board of Governors, with respect to the persons participating in arbitration proceedings referred to in paragraph 3 of Article 8.
+- (d) the Board of Governors, with respect to the persons participating in arbitration proceedings referred to in paragraph 3 of Article 8.
 
 ### CHAPTER V. : GENERAL PROVISIONS
 

@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 37, lid 2 van het Verdrag tot instelling van de Benelux Economische Unie"
 identifier: "BWBV0004288"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-08-01"
-last_updated: "2013-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004288"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004038113"
-version_id: "10004204932"
-internal_id: "C10008341371"
-label_id: "10004022724"
-dtd_version: "2.0"
-original_entry_into_force: "1966-03-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004288/2013-08-01/0"
-intitule_bron: "Trb.1964-32"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-03-25"
-intitule_in_force: "1966-05-18"
-intitule_status: "goed"
-original_publication: "Trb.1964-32"
-original_published_date: "1964-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-32"
-entry_into_force_date: "1966-03-03"
-jci_1_3: "jci1.3:c:BWBV0004288&z=2013-08-01&g=2013-08-01"
-jci_1_0: "1.0:c:BWBV0004288&g=2013-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1966-03-03"
+publicatiedatum: 1966-03-03
+laatste_update: 2013-08-01
+status: geldig
+toestand: 2013-08-01
+bron: "https://wetten.overheid.nl/BWBV0004288"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst ter uitvoering van artikel 37, lid 2 van het Verdrag tot instelling van de Benelux Economische Unie
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg
-
-en
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Gelet op het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047), ondertekend te 's-Gravenhage op 3 februari 1958, en met name op [artikel 37, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=37),
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg en De Regering van het Koninkrijk der Nederlanden, Gelet op het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958, en met name op artikel 37, leden 2 en 3, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Het toezicht op de uitvoering der begrotingen
 
@@ -52,13 +23,13 @@ Ten einde het toezicht op de uitvoering van de begroting van de instellingen van
 
 Dit reglement bevat in het bijzonder bepalingen omtrent:
 
-- a). de kenmerken van de begroting met betrekking tot de universaliteit en de verdeling in artikelen;
+- a) de kenmerken van de begroting met betrekking tot de universaliteit en de verdeling in artikelen;
 
-- b). de data waarop de ontwerp-begroting door de Secretaris-Generaal wordt ingediend en door elk der organen welke belast zijn met het onderzoek daarvan, wordt doorgezonden;
+- b) de data waarop de ontwerp-begroting door de Secretaris-Generaal wordt ingediend en door elk der organen welke belast zijn met het onderzoek daarvan, wordt doorgezonden;
 
-- c). de regelen voor het financiële en het administratieve beheer;
+- c) de regelen voor het financiële en het administratieve beheer;
 
-- d). het aanbrengen van wijzigingen in de begroting in de loop van het jaar.
+- d) het aanbrengen van wijzigingen in de begroting in de loop van het jaar.
 
 ##### Artikel 2
 
@@ -116,15 +87,15 @@ De Secretaris-Generaal legt jaarlijks vóór 31 januari rekening en verantwoordi
 
 De rekening houdt in:
 
-- a). het saldo der vlottende middelen op 1 januari van het afgelopen jaar;
+- a) het saldo der vlottende middelen op 1 januari van het afgelopen jaar;
 
-- b). alle ontvangsten en uitgaven gedaan in de loop van het jaar, gerangschikt en gespecificeerd naar de onderverdeling van de begroting;
+- b) alle ontvangsten en uitgaven gedaan in de loop van het jaar, gerangschikt en gespecificeerd naar de onderverdeling van de begroting;
 
-- c). het saldo der vlottende middelen op 31 december;
+- c) het saldo der vlottende middelen op 31 december;
 
-- d). een vergelijkende staat van de in de begroting opgenomen bedragen en van de werkelijke ontvangsten en betalingen;
+- d) een vergelijkende staat van de in de begroting opgenomen bedragen en van de werkelijke ontvangsten en betalingen;
 
-- e). een staat van de verplichtingen waarvoor op 31 december nog geen betaling is geschied.
+- e) een staat van de verplichtingen waarvoor op 31 december nog geen betaling is geschied.
 
 ##### Artikel 13
 

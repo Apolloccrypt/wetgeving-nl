@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake Nederlandse oorlogsgraven in de Bondsrepubliek Duitsland (Oorlogsgravenovereenkomst)"
 identifier: "BWBV0004803"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-09-01"
-last_updated: "1998-09-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004803"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004330023"
-version_id: "10004529522"
-internal_id: "C10007164591"
-label_id: "10004315014"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004803/1998-09-01/0"
-intitule_bron: "Trb.1960-72"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-07-18"
-intitule_in_force: "1963-07-31"
-intitule_status: "goed"
-original_publication: "Trb.1960-72"
-original_published_date: "1960-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-72"
-entry_into_force_date: "1963-08-01"
-jci_1_3: "jci1.3:c:BWBV0004803&z=1998-09-01&g=1998-09-01"
-jci_1_0: "1.0:c:BWBV0004803&g=1998-09-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-01"
+publicatiedatum: 1963-08-01
+laatste_update: 1998-09-01
+status: geldig
+toestand: 1998-09-01
+bron: "https://wetten.overheid.nl/BWBV0004803"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake Nederlandse oorlogsgraven in de Bondsrepubliek Duitsland (Oorlogsgravenovereenkomst)
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:*
 
 ##### Artikel 1
 

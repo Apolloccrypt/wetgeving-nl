@@ -1,53 +1,46 @@
 ---
 title: "Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst betreffende het internationale goederenvervoer langs de weg"
 identifier: "BWBV0004969"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-07-01"
-last_updated: "1953-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004969"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004413173"
-version_id: "10004617922"
-internal_id: "C10006990981"
-label_id: "10004397844"
-dtd_version: "2.0"
-original_entry_into_force: "1953-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004969/1953-07-01/0"
-intitule_bron: "Trb.1954-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-02-08"
-intitule_in_force: "1954-02-08"
-intitule_status: "goed"
-original_publication: "Trb.1954-12"
-original_published_date: "1954-02-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-12"
-entry_into_force_date: "1953-07-01"
-jci_1_3: "jci1.3:c:BWBV0004969&z=1953-07-01&g=1953-07-01"
-jci_1_0: "1.0:c:BWBV0004969&g=1953-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-07-01"
+publicatiedatum: 1953-07-01
+laatste_update: 1953-07-01
+status: geldig
+toestand: 1953-07-01
+bron: "https://wetten.overheid.nl/BWBV0004969"
+opgehaald: 2026-09-14
 ---
+
 # Notawisseling tussen de Nederlandse en de Franse Regering houdende een overeenkomst betreffende het internationale goederenvervoer langs de weg
 
-Pour la délégation française:
+AMBASSADE DE FRANCE
 
-**L'Inspecteur Général des Ponts**
+AUX PAYS-BAS
 
-**et Chaussées,**
+No. 147
 
-**Chef du Service du Contrôle**
+La Haye, le 13 juin 1953.
 
-**des Transports Routiers,**
+Monsieur le Ministre,
 
-(s.) L. ROBERT.
+A la suite des négociations qui se sont déroulées à La Haye les 8 et 9 avril 1953, un accord est intervenu entre les experts néerlandais et français au sujet du transport international de marchandises par route.
 
-Pour la délégation néerlandaise:
+Mon Gouvernement m'a communiqué le texte du procès-verbal établi à cette occasion.
 
-**Le Directeur au Ministère des**
+L'article XI de ce document prévoit que les deux gouvernements intéressés constateront par un échange de lettres leur accord sur les dispositions contenues dans le procès-verbal dont je fais parvenir une copie sous ce pli à Votre Excellence.
 
-**Transports et du Waterstaat,**
+J'ai l'honneur de vous faire savoir que mon Gouvernement en approuve entièrement les termes. Il souhaiterait que la date de la mise en vigueur dudit accord fût fixée au 1er juillet prochain.
 
-(s.) K. VONK.
+Veuillez agréer, Monsieur le Ministre, les assurances de ma plus haute considération.
+
+(s.) J. P. GARNIER.
+
+*Son Excellence*
+
+*Monsieur J.M.A.H. Luns,*
+
+*Ministre sans portefeuille au*
+
+*Ministère des Affaires Etrangères,*
+
+*La Haye.*

@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tussen Nederland, België en het Groothertogdom Luxemburg nopens wederkerige bijstand inzake de invordering van belastingschulden"
 identifier: "BWBV0004829"
-country: "nl"
-rank: "verdrag"
-publication_date: "1956-11-08"
-last_updated: "1956-11-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004829"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004341963"
-version_id: "10004542082"
-internal_id: "C10006744701"
-label_id: "10004326884"
-dtd_version: "2.0"
-original_entry_into_force: "1956-11-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004829/1956-11-08/0"
-intitule_bron: "Trb.1952-137"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-10-22"
-intitule_in_force: "1956-11-20"
-intitule_status: "goed"
-original_publication: "Trb.1952-137"
-original_published_date: "1952-10-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-137"
-entry_into_force_date: "1956-11-08"
-jci_1_3: "jci1.3:c:BWBV0004829&z=1956-11-08&g=1956-11-08"
-jci_1_0: "1.0:c:BWBV0004829&g=1956-11-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1956-11-08"
+publicatiedatum: 1956-11-08
+laatste_update: 1956-11-08
+status: geldig
+toestand: 1956-11-08
+bron: "https://wetten.overheid.nl/BWBV0004829"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen Nederland, België en het Groothertogdom Luxemburg nopens wederkerige bijstand inzake de invordering van belastingschulden
 
-Hare Majesteit de Koningin der Nederlanden;
-
-Zijne Majesteit de Koning der Belgen;
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg,
-
-Bezield door de wens de wederkerige bijstand te verzekeren van de bevoegde autoriteiten inzake de invordering van belastingschulden, zulks ter uiteindelijke verwezenlijking van de economische unie tussen Nederland, België en het Groothertogdom Luxemburg, beoogd bij de op 5 September 1944 te Londen getekende Douaneovereenkomst,
-
-Hebben besloten een Verdrag te sluiten en hebben daartoe als Hun Gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Jonkheer G. Beelaerts van Blokland, Zaakgelastigde a.i. der Nederlanden te Brussel;
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie de Heer P. van Zeeland, Minister van Buitenlandse Zaken;
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:
-
-Zijne Excellentie de Heer Robert Als, Buitengewoon Gezant en Gevolmachtigd Minister van het Groothertogdom Luxemburg te Brussel,
-
-die, na elkander mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, over de volgende bepalingen tot overeenstemming zijn gekomen:
+*Hare Majesteit de Koningin der Nederlanden; Zijne Majesteit de Koning der Belgen; Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, Bezield door de wens de wederkerige bijstand te verzekeren van de bevoegde autoriteiten inzake de invordering van belastingschulden, zulks ter uiteindelijke verwezenlijking van de economische unie tussen Nederland, België en het Groothertogdom Luxemburg, beoogd bij de op 5 September 1944 te Londen getekende Douaneovereenkomst, Hebben besloten een Verdrag te sluiten en hebben daartoe als Hun Gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Jonkheer G. Beelaerts van Blokland, Zaakgelastigde a.i. der Nederlanden te Brussel; Zijne Majesteit de Koning der Belgen: Zijne Excellentie de Heer P. van Zeeland, Minister van Buitenlandse Zaken; Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: Zijne Excellentie de Heer Robert Als, Buitengewoon Gezant en Gevolmachtigd Minister van het Groothertogdom Luxemburg te Brussel, die, na elkander mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, over de volgende bepalingen tot overeenstemming zijn gekomen:*
 
 ##### Artikel 1
 

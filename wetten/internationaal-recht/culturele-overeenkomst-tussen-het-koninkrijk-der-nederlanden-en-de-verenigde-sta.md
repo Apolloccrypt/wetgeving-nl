@@ -1,72 +1,35 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië"
 identifier: "BWBV0004218"
-country: "nl"
-rank: "verdrag"
-publication_date: "1968-05-29"
-last_updated: "1968-05-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004218"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004007613"
-version_id: "10004168422"
-internal_id: "C10008336101"
-label_id: "10003992134"
-dtd_version: "2.0"
-original_entry_into_force: "1968-05-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004218/1968-05-29/0"
-intitule_bron: "Trb.1966-219"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-10-12"
-intitule_in_force: "1968-07-18"
-intitule_status: "goed"
-original_publication: "Trb.1966-219"
-original_published_date: "1966-10-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-219"
-entry_into_force_date: "1968-05-29"
-jci_1_3: "jci1.3:c:BWBV0004218&z=1968-05-29&g=1968-05-29"
-jci_1_0: "1.0:c:BWBV0004218&g=1968-05-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1968-05-29"
+publicatiedatum: 1968-05-29
+laatste_update: 1968-05-29
+status: geldig
+toestand: 1968-05-29
+bron: "https://wetten.overheid.nl/BWBV0004218"
+opgehaald: 2026-09-14
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Brazilië
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Republiek der Verenigde Staten van Brazilië,
-
-Verlangend, de traditionele vriendschapsbanden die de twee volkeren verbinden nauwer aan te halen en de betrekkingen tussen de twee landen op het gebied van het onderwijs, de wetenschappen en dat der kunsten te versterken,
-
-Hebben besloten een overeenkomst inzake de culturele betrekkingen te sluiten en hebben te dien einde als Gevolmachtigden benoemd:
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken, en
-
-De Regering van de Republiek der Verenigde Staten van Brazilië,
-
-Zijne Excellentie de Heer Jayme Sloan Chermont, Buitengewoon en Gevolmachtigd Ambassadeur,
-
-Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Republiek der Verenigde Staten van Brazilië, Verlangend, de traditionele vriendschapsbanden die de twee volkeren verbinden nauwer aan te halen en de betrekkingen tussen de twee landen op het gebied van het onderwijs, de wetenschappen en dat der kunsten te versterken, Hebben besloten een overeenkomst inzake de culturele betrekkingen te sluiten en hebben te dien einde als Gevolmachtigden benoemd: De Regering van het Koninkrijk der Nederlanden, Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken, en De Regering van de Republiek der Verenigde Staten van Brazilië, Zijne Excellentie de Heer Jayme Sloan Chermont, Buitengewoon en Gevolmachtigd Ambassadeur, Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:*
 
 ##### Artikel I
 
 Teneinde in hun respectieve landen een betere kennis van de cultuur van het andere land te bevorderen, zullen de Overeenkomstsluitende Partijen elkaar, zoveel als mogelijk is, bijstaan bij:
 
-- a). de verspreiding van boeken, tijdschriften en andere publikaties;
+- a) de verspreiding van boeken, tijdschriften en andere publikaties;
 
-- b). het organiseren van conferenties, concerten en toneelvoorstellingen;
+- b) het organiseren van conferenties, concerten en toneelvoorstellingen;
 
-- c). het organiseren van tentoonstellingen op het gebied der kunst en andere tentoonstellingen met een cultureel karakter;
+- c) het organiseren van tentoonstellingen op het gebied der kunst en andere tentoonstellingen met een cultureel karakter;
 
-- d). het organiseren van radiouitzendingen, de verspreiding van grammofoonplaten en soortgelijke middelen;
+- d) het organiseren van radiouitzendingen, de verspreiding van grammofoonplaten en soortgelijke middelen;
 
-- e). het vertonen van films met een wetenschappelijk, opvoedkundig of cultureel karakter;
+- e) het vertonen van films met een wetenschappelijk, opvoedkundig of cultureel karakter;
 
-- f). het uitwisselen van kopieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
+- f) het uitwisselen van kopieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
 
 ##### Artikel II
 

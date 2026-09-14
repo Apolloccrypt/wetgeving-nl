@@ -1,58 +1,19 @@
 ---
 title: "Aanvullend Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende rechtsgedingen"
 identifier: "BWBV0004429"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-03-16"
-last_updated: "1970-03-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004429"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004122163"
-version_id: "10004290832"
-internal_id: "C10006985821"
-label_id: "10004107114"
-dtd_version: "2.0"
-original_entry_into_force: "1970-03-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004429/1970-03-16/0"
-intitule_bron: "Trb.1967-196"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-12-14"
-intitule_in_force: "1969-12-19"
-intitule_status: "goed"
-original_publication: "Trb.1967-196"
-original_published_date: "1967-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-196"
-entry_into_force_date: "1970-03-16"
-jci_1_3: "jci1.3:c:BWBV0004429&z=1970-03-16&g=1970-03-16"
-jci_1_0: "1.0:c:BWBV0004429&g=1970-03-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-03-16"
+publicatiedatum: 1970-03-16
+laatste_update: 1970-03-16
+status: geldig
+toestand: 1970-03-16
+bron: "https://wetten.overheid.nl/BWBV0004429"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende rechtsgedingen
 
-Hare Majesteit de Koningin der Nederlanden en
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van de Commonwealth (hierna te noemen „Hare Britse Majesteit”);
-
-De wens koesterende het tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk gesloten Verdrag tot het vergemakkelijken van het voeren van rechtsgedingen, welk Verdrag op 31 mei 1932 te Londen ondertekend is, aan te vullen;
-
-Hebben besloten tot dat doel een aanvullend Verdrag te sluiten en hebben te dien einde tot hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie de Heer H. J. de Koster, Staatssecretaris van Buitenlandse Zaken;
-
-Hare Britse Majesteit:
-
-Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-Zijne Excellentie Sir Isham Peter Garran, K. C. M. G., Harer Britse Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage en
-
-De Right Honourable Lord Gardiner, Lord High Chancellor van Groot-Brittannië;
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van de Commonwealth (hierna te noemen „Hare Britse Majesteit”); De wens koesterende het tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk gesloten Verdrag tot het vergemakkelijken van het voeren van rechtsgedingen, welk Verdrag op 31 mei 1932 te Londen ondertekend is, aan te vullen; Hebben besloten tot dat doel een aanvullend Verdrag te sluiten en hebben te dien einde tot hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie de Heer H. J. de Koster, Staatssecretaris van Buitenlandse Zaken; Hare Britse Majesteit: Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: Zijne Excellentie Sir Isham Peter Garran, K. C. M. G., Harer Britse Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage en De Right Honourable Lord Gardiner, Lord High Chancellor van Groot-Brittannië; Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:*
 
 ##### Artikel I. Werkingssfeer van het Verdrag en begripsomschrijvingen
 
@@ -60,21 +21,21 @@ Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 2. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
-- a). „gebieden”:
+- a) „gebieden”:
 
-- 1). waar het betreft het Verenigd Koninkrijk, Engeland en Wales, Schotland en Noord-Ierland en die gebieden, waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel VII, eerste lid, onder a); en
+   - 1) waar het betreft het Verenigd Koninkrijk, Engeland en Wales, Schotland en Noord-Ierland en die gebieden, waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel VII, eerste lid, onder a); en
 
-- 2). waar het betreft het Koninkrijk der Nederlanden, het Europese gedeelte van het Koninkrijk en elk ander deel van het Koninkrijk waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel VII, eerste lid, onder b);
+   - 2) waar het betreft het Koninkrijk der Nederlanden, het Europese gedeelte van het Koninkrijk en elk ander deel van het Koninkrijk waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel VII, eerste lid, onder b);
 
-- b). „rechtspersonen”: vennootschappen, verenigingen en andere rechtspersonen;
+- b) „rechtspersonen”: vennootschappen, verenigingen en andere rechtspersonen;
 
-- c). „onderdanen”:
+- c) „onderdanen”:
 
-- 1). waar het betreft het Verenigd Koninkrijk, burgers van het Verenigd Koninkrijk en de Koloniën, Britse beschermde personen en Britse onderdanen zonder burgerschap;
+   - 1) waar het betreft het Verenigd Koninkrijk, burgers van het Verenigd Koninkrijk en de Koloniën, Britse beschermde personen en Britse onderdanen zonder burgerschap;
 
-- 2). waar het betreft het Koninkrijk der Nederlanden, alle personen die de Nederlandse nationaliteit bezitten;
+   - 2) waar het betreft het Koninkrijk der Nederlanden, alle personen die de Nederlandse nationaliteit bezitten;
 
-- 3). ten aanzien van elk der Hoge Verdragsluitende Partijen, rechtspersonen, die volgens de wetten van de gebieden van die Hoge Verdragsluitende Partij als zodanig zijn opgericht of erkend.
+   - 3) ten aanzien van elk der Hoge Verdragsluitende Partijen, rechtspersonen, die volgens de wetten van de gebieden van die Hoge Verdragsluitende Partij als zodanig zijn opgericht of erkend.
 
 ##### Artikel II. Rechtsbescherming en optreden in rechte
 
@@ -104,9 +65,9 @@ Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing va
 
 ##### Artikel VII. Territoriale uitbreiding
 
-- a). Hare Britse Majesteit kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk gebied voor welks internationale betrekkingen de Regering van Hare Britse Majesteit in het Verenigd Koninkrijk verantwoordelijk is.
+1. - a) Hare Britse Majesteit kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk gebied voor welks internationale betrekkingen de Regering van Hare Britse Majesteit in het Verenigd Koninkrijk verantwoordelijk is.
 
-- b). Hare Majesteit de Koningin der Nederlanden kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk deel van het Koninkrijk der Nederlanden buiten Europa.
+- b) Hare Majesteit de Koningin der Nederlanden kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk deel van het Koninkrijk der Nederlanden buiten Europa.
 
 2. Een uitbreiding zal van kracht worden één maand na de datum van kennisgeving.
 

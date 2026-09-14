@@ -1,202 +1,171 @@
 ---
 title: "Verdrag inzake het onderzoek en de stempeling van edelmetalen werken"
 identifier: "BWBV0004101"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-01-01"
-last_updated: "2004-08-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004101"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003918213"
-version_id: "10004043762"
-internal_id: "C10008344681"
-label_id: "10003903204"
-dtd_version: "2.0"
-original_entry_into_force: "1999-07-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004101/2019-01-01/0"
-intitule_bron: "Trb.2004-192"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-08-18"
-intitule_in_force: "2004-08-18"
-intitule_status: "goed"
-original_publication: "Trb.2004-192"
-original_published_date: "2004-08-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-192"
-entry_into_force_date: "1999-07-16"
-jci_1_3: "jci1.3:c:BWBV0004101&z=2019-01-01&g=2019-01-01"
-jci_1_0: "1.0:c:BWBV0004101&g=2019-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1999-07-16"
+publicatiedatum: 1999-07-16
+laatste_update: 2019-01-01
+status: geldig
+toestand: 2019-01-01
+bron: "https://wetten.overheid.nl/BWBV0004101"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake het onderzoek en de stempeling van edelmetalen werken
 
-Preambule
+*Preamble The Republic of Austria, the Republic of Finland, the Kingdom of Norway, the Portuguese Republic, the Kingdom of Sweden, the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland; Desiring to facilitate intemational trade in articles of precious metals while at the same time maintaining consumer protection justified by the particular nature of these articles; Considering that the international harmonisation of standards and technical regulations and guidelines for methods and procedures for the control and marking of precious metal articles is a valuable contribution to the free movement of such products; Considering that this harmonisation should be supplemented by mutual recognition of control and marking and desiring therefore to promote and maintain co-operation between their assay offices and concerned authorities; Having regard to the fact that compulsory hallmarking is not required from the Contracting States to the Convention and that the marking of articles of precious metals with the Convention marks is carried out on a voluntary basis; Have agreed as follows:*
 
-De Republiek Oostenrijk, de Republiek Finland, het Koninkrijk Noorwegen, de Portugese Republiek, het Koninkrijk Zweden, de Zwitserse Bondsstaat en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
+### I. SCOPE AND OPERATION
 
-Geleid door de wens de internationale handel in voorwerpen van edelmetaal te vergemakkelijken en tegelijkertijd de door de bijzondere aard van deze voorwerpen gewettigde bescherming van de consument te handhaven;
+##### Article 1
 
-Overwegend dat de internationale harmonisatie van normen en technische voorschriften en richtlijnen voor methoden en procedures voor het onderzoek en het afslaan van voorwerpen van edelmetaal een waardevolle bijdrage levert aan het vrij verkeer van dergelijke producten;
+1. Articles controlled and marked by an authorised assay office in accordance with the provisions of this Convention shall not be submitted to further compulsory assaying or marking in an importing Contracting State. This does not prevent an importing Contracting State from carrying out check tests in accordance with Article 6.
 
-Overwegend dat deze harmonisatie aangevuld dient te worden door de wederzijdse erkenning van onderzoek en afslaan en derhalve verlangend de samenwerking tussen hun waarborginstellingen en de betrokken autoriteiten te bevorderen en in stand te houden;
+2. Nothing in this Convention shall require a Contracting State to allow the importation or sale of articles of precious metals which are not defined in its national legislation or do not comply with its national standards of fineness.
 
-Gelet op het feit dat verplichte stempeling niet vereist wordt van de Verdragsluitende Staten die Partij zijn bij het Verdrag en dat het afslaan van voorwerpen van edelmetaal met in het Verdrag omschreven merken op vrijwillige basis geschiedt;
+##### Article 2
 
-Zijn als volgt overeengekomen:
+For the purposes of this Convention “articles of precious metals” means articles of platinum, gold, palladium, silver, or alloys thereof, as defined in Annex I.
 
-De Engelse tekst van het Verdrag is oorspronkelijk gepubliceerd in Trb. 1991/16. De vertaling is gepubliceerd in Trb. 1991/16. Het Verdrag is in werking getreden op 16 juli 1999, zie Trb. 1999/168. Het Verdrag is gewijzigd volgens Trb. 1995/238, Trb. 2000/14 en Trb. 2001/42.
+##### Article 3
 
-### I. WERKINGSSFEER EN WERKING
+1. In order to benefit from the provisions of Article 1, articles of precious metals must:
 
-##### Artikel 1
+- a) be submitted to an authorised assay office appointed in accordance with Article 5;
 
-1. Voorwerpen die door een bevoegde waarborginstelling zijn onderzocht en afgeslagen in overeenstemming met de bepalingen van dit Verdrag worden in een invoerende Verdragsluitende Staat niet opnieuw voorgelegd voor verplicht onderzoek of verplichte afslag. Dit belet een invoerende Verdragsluitende Staat niet controleproeven te nemen in overeenstemming met artikel 6.
+- b) fulfil the technical requirements of this Convention as laid down in Annex I;
 
-2. Geen enkele bepaling van dit Verdrag vereist van een Verdragsluitende Staat dat deze de invoer of verkoop toestaat van voorwerpen van edelmetaal die niet in zijn nationale wetgeving staan omschreven of niet voldoen aan nationale wettelijke gehalten.
+- c) be controlled in accordance with the rules and procedures laid down in Annex II;
 
-##### Artikel 2
+- d) be marked with the marks as prescribed in Annex II.
 
-Voor de toepassing van dit Verdrag wordt onder „voorwerpen van edelmetaal” verstaan voorwerpen van platina, goud, palladium, zilver of legeringen daarvan, zoals omschreven in Bijlage I.
+2. The benefits of Article 1 shall not be applicable to articles of precious metals which, after being marked as prescribed in Annex II, have had any of these marks altered or obliterated.
 
-##### Artikel 3
+##### Article 4
 
-1. Teneinde in aanmerking te komen voor de toepassing van de bepalingen van artikel 1 moeten voorwerpen van edelmetaal:
+The Contracting States shall not be obliged to apply the provisions of paragraph 1 of Article 1 to articles of precious metals which, since being submitted to an authorised assay office, and controlled and marked as prescribed in Article 3, have been altered by addition or in any other manner.
 
-- a. worden voorgelegd aan een bevoegde waarborginstelling aangesteld in overeenstemming met artikel 5;
+### II. CONTROL AND SANCTIONS
 
-- b. voldoen aan de technische eisen van dit Verdrag als vervat in Bijlage I;
+##### Article 5
 
-- c. door de bevoegde waarborginstelling worden onderzocht in overeenstemming met de regels en procedures vervat in Bijlage II;
+1. Each Contracting State shall appoint one or more authorised assay offices for the control and marking of articles of precious metals as provided for in Annex II.
 
-- d. worden afgeslagen met de merken voorgeschreven in Bijlage II.
+2. The authorised assay offices shall satisfy the following conditions:
 
-2. Voorwerpen van edelmetaal waarvan een merk is veranderd of uitgewist nadat zij zijn afgeslagen zoals voorgeschreven in Bijlage II, vallen niet onder de toepassing van artikel 1.
+- – availability of staff and of the necessary means and equipment;
 
-##### Artikel 4
+- – technical competence and professional integrity of the staff;
 
-De Verdragsluitende Staten zijn niet verplicht de bepalingen van artikel 1, eerste lid, toe te passen op voorwerpen van edelmetaal die, nadat zij zijn voorgelegd aan een bevoegde waarborginstelling en zijn onderzocht en afgeslagen zoals voorgeschreven in artikel 3, zijn veranderd door toevoeging of op enigerlei andere wijze.
+- – in carrying out the requirements of the Convention, the management and technical staff of the authorised assay office must be independent of all circles, grouping or persons with direct or indirect interest in the area concerned;
 
-### II. ONDERZOEK EN SANCTIES
+- – staff must be bound by professional secrecy.
 
-##### Artikel 5
+3. Each Contracting State shall notify the depositary of the appointment of such assay offices and of their marks and any withdrawal of this authorisation from any assay office previously appointed. The depositary shall immediately notify all other Contracting States accordingly.
 
-1. Elke Verdragsluitende Staat wijst een of meer bevoegde waarborginstellingen aan voor het onderzoeken en afslaan van voorwerpen van edelmetaal zoals voorzien in Bijlage II.
+##### Article 6
 
-2. De bevoegde waarborginstellingen dienen aan de volgende eisen te voldoen:
+The provisions of this Convention shall not prevent a Contracting State from carrying out check tests on articles of precious metals bearing the marks provided for in this Convention. Such tests shall not be carried out in such a way as to hamper unduly the importation or sale of articles of precious metals marked in conformity with the provisions of this Convention.
 
-- –. beschikbaarheid van personeel en van de benodigde middelen en apparatuur;
+##### Article 7
 
-- –. technische bekwaamheid en professionele integriteit van het personeel;
+The Contracting States hereby empower the depositary to register with the World Intellectual Property Organisation (WIPO), in accordance with the [Convention of Paris for the Protection of Industrial Property](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), the Common Control Mark described in Annex II as a national hallmark of each Contracting State. The depositary shall also do so in the case of a Contracting State in relation to which this Convention enters into force at a later date or in the case of an acceding State.
 
-- –. bij het uitvoeren van de vereisten van dit Verdrag dienen de leiding en het technisch personeel van de bevoegde waarborginstelling onafhankelijk te zijn van alle personen of groepen van personen die direct of indirect belang hebben bij het desbetreffende terrein;
+##### Article 8
 
-- –. het personeel moet aan het beroepsgeheim gebonden zijn.
+1. Each Contracting State shall have and maintain legislation prohibiting, subject to penalties, any forgery, unauthorised alteration or misuse of the Common Control Mark or of the marks of the authorised assay offices which have been notified in accordance with paragraph 3 of Article 5, and any unauthorised alteration to the article or alteration or obliteration of the fineness mark or responsibility mark after the Common Control Mark has been applied.
 
-3. Elke Verdragsluitende Staat stelt de depositaris in kennis van de aanstelling van zulke waarborginstellingen en van hun merken en van de intrekking van machtigingen verleend aan eerder aangestelde waarborginstellingen. De depositaris stelt alle andere Verdragsluitende Staten daarvan onverwijld in kennis.
+2. Each Contracting State undertakes to institute proceedings under such legislation when sufficient evidence of forgery or misuse of the Common Control Mark or marks of the authorised assay offices, or unauthorised alteration to the article or alteration or obliteration of the fineness mark or responsibility mark after the Common Control Mark has been applied is discovered or brought to its attention by another Contracting State or, where more appropriate, to take other suitable action.
 
-##### Artikel 6
+##### Article 9
 
-De bepalingen van dit Verdrag beletten een Verdragsluitende Staat niet controleproeven te nemen op voorwerpen van edelmetaal die zijn voorzien van de in dit Verdrag bepaalde merken. Deze proeven worden niet op zodanige wijze uitgevoerd, dat daardoor de invoer of verkoop van voorwerpen van edelmetaal die in overeenstemming met de bepalingen van dit Verdrag zijn afgeslagen, onnodig wordt belemmerd.
+1. If an importing Contracting State or one of its authorised assay offices has reason to believe that an assay office in an exporting Contracting State has affixed the Common Control Mark without having complied with the relevant provisions of this Convention, the assay office by which the articles are purported to have been marked shall be immediately consulted and shall promptly lend all reasonable assistance for the investigation of the case. If no satisfactory settlement is reached, either of the parties may refer the case to the Standing Committee by notifying its Chairman. In such a case the Chairman shall convene a meeting of the Standing Committee.
 
-##### Artikel 7
+2. If any matter has been referred to the Standing Committee under paragraph 1, the Standing Committee may, after having given an opportunity for the parties concerned to be heard, make recommendations as to the appropriate action to be taken.
 
-De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II beschreven Gemeenschappelijk Keurmerk als nationaal waarborgmerk van elke Verdragsluitende Staat te registreren bij de Wereldorganisatie voor de Intellectuele Eigendom (OMPI/WIPO) in overeenstemming met het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120). De depositaris doet zulks ook in het geval van een Verdragsluitende Staat met betrekking waartoe dit Verdrag op een latere datum in werking treedt of in het geval van een toetredende Staat.
+3. If within a reasonable time a recommendation referred to in paragraph 2 has not been complied with, or the Standing Committee has failed to make any recommendation, the importing Contracting State may then introduce such additional surveillance of articles of precious metals marked by that particular assay office and entering its territory, as it considers necessary, including the right temporarily to refuse to accept such articles. Such measures shall immediately be notified to all Contracting States and shall be reviewed from time to time by the Standing Committee.
 
-##### Artikel 8
+4. Where there is evidence of repeated and grave misapplication of the Common Control Mark the importing Contracting State may temporarily refuse to accept articles bearing the assay office mark of the assay office concerned whether or not controlled and marked in accordance with this Convention. In such a case the importing Contracting State shall immediately notify all other Contracting States and the Standing Committee shall meet within one month to consider the matter.
 
-1. Elke Verdragsluitende Staat bezit en handhaaft wetten waarbij het wordt verboden, op straffe van sancties, het Gemeenschappelijk Kenmerk bedoeld in dit Verdrag of de merken van de bevoegde waarborginstellingen die ter kennis zijn gebracht in overeenstemming met artikel 5, derde lid, te vervalsen, ongeoorloofd te veranderen of verkeerd te gebruiken, en, ongeoorloofd, het voorwerp te veranderen of het gehaltemerk of het merk van de instelling te veranderen of uit te wissen nadat het Gemeenschappelijk Keurmerk is aangebracht.
+### III. STANDING COMMITTEE AND AMENDMENTS
 
-2. Elke Verdragsluitende Staat verbindt zich ertoe krachtens deze wetten gerechtelijke stappen te ondernemen wanneer er voldoende bewijs van vervalsing of verkeerd gebruik van het Gemeenschappelijk Keurmerk of de merken van de bevoegde waarborginstellingen dan wel van ongeoorloofde verandering van het voorwerp of verandering of uitwissing van het gehaltemerk of het waarborgmerk nadat het Gemeenschappelijk Keurmerk is aangebracht, is ontdekt of onder zijn aandacht gebracht door een andere Verdragsluitende Staat of, wanneer meer van toepassing, andere passende stappen te ondernemen.
+##### Article 10
 
-##### Artikel 9
+1. A Standing Committee is hereby established on which each Contracting State shall be represented. Each Contracting State shall have one vote.
 
-1. Indien een invoerende Verdragsluitende Staat of een van zijn bevoegde waarborginstellingen redenen heeft om aan te nemen dat een waarborginstelling van een uitvoerende Verdragsluitende Staat het Gemeenschappelijk Keurmerk heeft aangebracht zonder te hebben voldaan aan de desbetreffende bepalingen van dit Verdrag, wordt de waarborginstelling die de voorwerpen zou hebben afgeslagen onmiddellijk geraadpleegd en verleent deze waarborginstelling onverwijld alle in redelijkheid te verlangen bijstand voor het onderzoek van de aangelegenheid. Indien geen bevredigende regeling wordt bereikt, kan elk der partijen de aangelegenheid voorleggen aan de Permanente Commissie door middel van kennisgeving aan haar Voorzitter. In dat geval belegt de Voorzitter een bijeenkomst van de Permanente Commissie.
+2. The tasks of the Standing Committee shall be:
 
-2. Indien een aangelegenheid aan de Permanente Commissie is voorgelegd krachtens het eerste lid, kan de Permanente Commissie, na de betrokken partijen de gelegenheid te hebben geboden om te worden gehoord, aanbevelingen doen inzake de te ondernemen stappen.
+to consider and review the operation of this Convention;
 
-3. Indien een aanbeveling zoals bedoeld in het tweede lid niet binnen een redelijke tijd is opgevolgd, of indien de Permanente Commissie geen aanbeveling heeft gedaan, kan de invoerende Verdragsluitende Staat op voorwerpen van edelmetaal die door die bepaalde waarborginstelling zijn afgeslagen en zijn grondgebied binnenkomen, het extra toezicht houden dat hij noodzakelijk acht, zulks met inbegrip van het recht tijdelijk te weigeren zulke voorwerpen te aanvaarden. Deze maatregelen worden onmiddellijk ter kennis gebracht van alle Verdragsluitende Staten en worden van tijd tot tijd getoetst door de Permanente Commissie.
+to review and, where necessary, propose amendments to the Annexes to this Convention:
 
-4. Wanneer er aanwijzingen zijn van herhaalde en ernstige verkeerde toepassing van het Gemeenschappelijk Keurmerk kan de invoerende Verdragsluitende Staat tijdelijk weigeren voorwerpen voorzien van het waarborgmerk van de betrokken waarborginstelling te aanvaarden, ongeacht of deze zijn onderzocht en afgeslagen in overeenstemming met dit Verdrag. In dat geval stelt de invoerende Verdragsluitende Staat onmiddellijk alle andere Verdragsluitende Staten daarvan in kennis en komt de Permanente Commissie binnen een maand bijeen om de aangelegenheid te bestuderen.
+to take decisions on technical matters, as provided for in the Annexes;
 
-### III. PERMANENTE COMMISSIE EN WIJZIGINGEN
+to promote and maintain technical and administrative co-operation between the Contracting States in matters dealt with by this Convention;
 
-##### Artikel 10
+to consider measures for securing uniform interpretation and application of the provisions of this Convention;
 
-1. Hierbij wordt een Permanente Commissie ingesteld, waarin elke Verdragsluitende Staat is vertegenwoordigd. Elke Verdragsluitende Staat heeft één stem.
+to encourage the adequate protection of the marks against forgery and misuse;
 
-2. De Permanente Commissie heeft tot taak:
+to make recommendations in the case of any matter referred to it under the provisions of paragraph 2 of Article 9, or for the settlement of any dispute arising out of the operation of this Convention which is presented to the Standing Committee;
 
-- de werking van dit Verdrag te bestuderen en te toetsen;
+to examine whether the arrangements of a State interested in acceding to this Convention comply with the conditions of the Convention and its Annexes and to make a report in that respect for consideration by the Contracting States.
 
-- de Bijlagen bij dit Verdrag te herzien en, waar nodig, wijzigingen voor te stellen;
+3. The Standing Committee shall adopt rules of procedure for its meeting including rules for the convening of such meetings. This Committee shall meet at least once a year.
 
-- beslissingen inzake technische aangelegenheden te nemen, zoals voorzien in de Bijlagen;
+4. In accordance with paragraph 2 above, the Standing Committee shall take decisions on technical matters, as provided for in the Annexes, by unanimous vote,
 
-- technische en administratieve samenwerking tussen de Verdragsluitende Staten in door dit Verdrag bestreken aangelegenheden te bevorderen en in stand te houden;
+5. The Standing Committee may make recommendations on any question relating to the implementation of this Convention or make proposals for the amendment of this Convention. Such recommendations or proposals shall be transmitted to the depositary which shall notify all Contracting States.
 
-- maatregelen te bestuderen teneinde een uniforme uitlegging en toepassing van de bepalingen van dit Verdrag te waarborgen;
+##### Article 11. Amendment to the Convention
 
-- de toereikende bescherming van de merken tegen vervalsing en verkeerd gebruik te bevorderen;
+1. In the case of a proposal received from the Standing Committee for the amendment of the Articles to the Convention, or in the case of a proposal for amendment of the Convention received from a Contracting State, the depositary shall submit such proposals for acceptance to all Contracting States.
 
-- aanbevelingen te doen in het geval van een ingevolge de bepalingen van artikel 9, tweede lid, aan haar voorgelegde aangelegenheid of voor de regeling van een geschil dat voortvloeit uit de werking van dit Verdrag en dat aan de Permanente Commissie is voorgelegd;
+2. If within three months from the date of the submission of a proposal for amendment under paragraph 1 a Contracting State requests that negotiations be opened on the proposal, the depositary shall arrange for such negotiations to be held.
 
-- te onderzoeken of de regelingen van een Staat die tot dit Verdrag wenst toe te treden voldoen aan de voorwaarden van het Verdrag en de Bijlagen daarbij en daaromtrent een verslag op te stellen ter bestudering door de Verdragsluitende Staten.
+3. Provided it is accepted by all Contracting States, an amendment to this Convention shall enter into force one month after deposit of the last instrument of acceptance unless another date is provided for in the amendment. Instruments of acceptance shall be deposited with the depositary which shall notify all Contracting States.
 
-3. De Permanente Commissie neemt een reglement van orde voor haar bijeenkomsten aan, met inbegrip van regelingen voor het beleggen van deze bijeenkomsten. De Commissie komt ten minste eens per jaar bijeen.
+Amendment to the Annexes
 
-4. In overeenstemming met het tweede lid van dit artikel neemt de Permanente Commissie beslissingen inzake technische aangelegenheden, zoals voorzien in de Bijlagen, met eenparigheid van stemmen.
+4. In the case of a proposal made by the Standing Committee for amendment of the Annexes to the Convention, the depositary shall notify all Contracting States,
 
-5. De Permanente Commissie kan aanbevelingen doen inzake iedere kwestie verband houdend met de toepassing van dit Verdrag of voorstellen doen tot wijziging van dit Verdrag. Deze aanbevelingen of voorstellen worden toegezonden aan de depositaris, die alle Verdragsluitende Staten daarvan in kennis stelt.
+5. The amendment to the Annexes shall come into force six months after the date of notification by the depositary unless an objection has been received from the Government of a Contracting State or unless a later date for its entry into force has been provided for in the amendment.
 
-##### Artikel 11. Wijziging van het Verdrag
+### IV. FINAL PROVISIONS
 
-1. Wanneer van de Permanente Commissie een voorstel tot wijziging van de artikelen van het Verdrag wordt ontvangen, of wanneer van een Verdragsluitende Staat een voorstel tot wijziging van het Verdrag wordt ontvangen, legt de depositaris deze voorstellen ter aanvaarding voor aan alle Verdragsluitende Staten.
+#### Accession
 
-2. Indien een Verdragsluitende Staat binnen drie maanden na de datum van voorlegging van een voorstel tot wijziging ingevolge het eerste lid verzoekt dat onderhandelingen omtrent het voorstel worden aangegaan, treft de depositaris regelingen voor het voeren van dergelijke onderhandelingen.
+##### Article 12
 
-3. Mits door alle Verdragsluitende Staten aanvaard, treedt een wijziging van dit Verdrag in werking een maand na de nederlegging van de laatste akte van aanvaarding, tenzij in de wijziging een andere datum is bepaald. Akten van aanvaarding worden nedergelegd bij de depositaris, die alle Verdragsluitende Staten daarvan in kennis stelt.
+1. Any State being a Member of the United Nations or of any of the specialised agencies or of the International Atomic Energy Agency or a Party to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) and having arrangements for the assay and marking of articles of precious metals necessary to comply with the requirements of the Convention and its Annexes may, upon invitation of the Contracting States to be transmitted by the depositary, accede to this Convention.
 
-4. Wanneer de Permanente Commissie een voorstel doet tot wijziging van de Bijlagen bij het Verdrag, stelt de depositaris alle Verdragsluitende Staten daarvan in kennis.
+2. The Governments of the Contracting States shall notify their reply to the depositary within four months after receipt of the request by the depositary asking them whether they agree to the invitation. Any Government not replying within that period shall be deemed to have consented to the invitation.
 
-5. De wijziging van de Bijlagen treedt in werking zes maanden na de datum van kennisgeving door de depositaris, tenzij van de Regering van een Verdragsluitende Staat een bezwaar is ontvangen of tenzij in de wijziging een latere datum van inwerkingtreding is bepaald.
+3. The Governments of the Contracting States shall base their decision whether to invite a State to accede primarily on the report referred to in paragraph 2 of Article 10.
 
-### IV. SLOTBEPALINGEN
+4. The invited State may accede to this Convention by depositing an instrument of accession with the depositary which shall notify all other Contracting States. The accession shall become effective three months after deposit of that instrument.
 
-#### Toetreding
+##### Article 13
 
-##### Artikel 12
+1. The Government of any signatory or acceding State may, when depositing its instrument of ratification or accession, or at any time thereafter, declare in writing to the depositary that this Convention shall apply to all or part of the territories, designated in the declaration, for the external relations of which it is responsible. The depositary shall communicate any such declaration to the Governments of all other Contracting States.
 
-1. Een Staat die lid is van de Verenigde Naties of van een van de gespecialiseerde organisaties of van de Internationale Organisatie voor Atoomenergie dan wel Partij is bij het [Statuut van het Internationaal Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) en die beschikt over regelingen voor het onderzoeken en afslaan van voorwerpen van edelmetaal vereist om te voldoen aan de voorwaarden van het Verdrag en de Bijlagen daarbij kan, op uitnodiging van de Verdragsluitende Staten die wordt overgebracht door de depositaris, tot dit Verdrag toetreden.
+2. If the declaration was made at the time of the deposit of the instrument of ratification or accession this Convention shall enter into force in relation to those territories on the same date as the Convention enters into force in relation to the State having made the declaration. In all other cases the Convention shall enter into force in relation to those territories three months after the declaration has been received by the depositary.
 
-2. De Regeringen van de Verdragsluitende Staten stellen de depositaris in kennis van hun antwoord binnen vier maanden na ontvangst van het verzoek van de depositaris waarin zij worden gevraagd of zij instemmen met de uitnodiging. Een Regering die niet antwoordt binnen deze periode wordt geacht te hebben ingestemd met de uitnodiging.
+3. The application of this Convention to all or part of such territories may be terminated by the Government of the State having made the declaration referred to in paragraph 1 provided that it gives three months’ notice in writing to the depositary which shall notify all other Contracting States.
 
-3. De Regeringen van de Verdragsluitende Staten baseren hun beslissing om een Staat al dan niet uit te nodigen toe te treden in de eerste plaats op het in artikel 10, tweede lid, bedoelde verslag.
+#### Withdrawal
 
-4. De uitgenodigde Staat kan tot dit Verdrag toetreden door nederlegging van een akte van toetreding bij de depositaris, die alle andere Verdragsluitende Staten daarvan in kennis stelt. De toetreding wordt van kracht drie maanden na de nederlegging van deze akte.
+##### Article 14
 
-##### Artikel 13
+Any Contracting State may withdraw from this Convention provided that it gives twelve months’ notice in writing to the depositary which shall notify all Contracting States, or on such other terms as may be agreed upon by the Contracting States. Each Contracting State undertakes that, in the event of its withdrawal from the Convention, it will cease after withdrawal to use or apply the Common Control Mark for any purpose.
 
-1. De Regering van een ondertekenende of toetredende Staat kan bij de nederlegging van haar akte van bekrachtiging of toetreding of op elk tijdstip daarna, schriftelijk tegenover de depositaris verklaren dat dit Verdrag van toepassing is op alle of een deel van de gebieden, aangegeven in de verklaring, voor de buitenlandse betrekkingen waarvan zij verantwoordelijk is. De depositaris stelt de Regeringen van alle andere Verdragsluitende Staten in kennis van een zodanige verklaring.
+#### Ratification
 
-2. Indien de verklaring werd afgelegd op het tijdstip van nederlegging van de akte van bekrachtiging of toetreding, treedt dit Verdrag in werking ten aanzien van die grondgebieden op dezelfde datum als die waarop het Verdrag in werking treedt ten aanzien van de Staat die de verklaring heeft afgelegd. In alle andere gevallen treedt het Verdrag in werking ten aanzien van die gebieden drie maanden nadat de verklaring door de depositaris is ontvangen.
+##### Article 15
 
-3. De toepassing van dit Verdrag op alle of een deel van zodanige gebieden kan door de Regering van de Staat die de in het eerste lid bedoelde verklaring heeft afgelegd, worden beëindigd door drie maanden tevoren schriftelijk kennisgeving daarvan te doen aan de depositaris, die alle andere Verdragsluitende Staten daarvan in kennis stelt.
+1. This Convention shall be ratified by the signatory States. The instruments of ratification shall be deposited with the depositary which shall notify all other signatory States.
 
-#### Terugtrekking
-
-##### Artikel 14
-
-Een Verdragsluitende Staat kan zich uit dit Verdrag terugtrekken mits hij twaalf maanden tevoren schriftelijk kennisgeving daarvan doet aan de depositaris, die alle Verdragsluitende Staten daarvan in kennis stelt, of op andere voorwaarden zoals overeengekomen door de Verdragsluitende Staten. Elke Verdragsluitende Staat verbindt zich ertoe, in geval van terugtrekking uit het Verdrag, na terugtrekking op te houden het Gemeenschappelijk Keurmerk voor enig doel te gebruiken of aan te brengen.
-
-#### Bekrachtiging
-
-##### Artikel 15
-
-1. Dit Verdrag dient door de ondertekenende Staten te worden bekrachtigd. De akten van bekrachtiging dienen te worden nedergelegd bij de depositaris, die alle andere ondertekenende Staten daarvan in kennis stelt.
-
-2. Dit Verdrag treedt in werking vier maanden na de nederlegging van de vierde akte van bekrachtiging. Ten aanzien van andere ondertekenende Staten die hun akte van bekrachtiging daarna nederleggen, treedt dit Verdrag in werking twee maanden na de datum van nederlegging, maar niet vóór het verstrijken van het bovenvermelde tijdvak van vier maanden.
+2. This Convention shall enter into force four months after deposit of the fourth instrument of ratification. In relation to any other signatory State depositing subsequently its instrument of ratification this Convention shall enter into force two months after the date of deposit but not before the expiry of the above-mentioned period of four months.
 
 IN WITNESS THEREOF the undersigned, duly authorised thereto, have signed the present Convention.
 

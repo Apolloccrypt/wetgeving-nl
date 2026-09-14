@@ -1,134 +1,111 @@
 ---
 title: "Overeenkomst inzake de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken"
 identifier: "BWBV0004478"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-06-20"
-last_updated: "1967-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004478"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004158083"
-version_id: "10004328122"
-internal_id: "C10006999471"
-label_id: "10004143534"
-dtd_version: "2.0"
-original_entry_into_force: "1967-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004478/1967-06-20/0"
-intitule_bron: "Trb.1967-198"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-12-15"
-intitule_in_force: "1967-12-15"
-intitule_status: "goed"
-original_publication: "Trb.1967-198"
-original_published_date: "1967-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-198"
-entry_into_force_date: "1967-06-20"
-jci_1_3: "jci1.3:c:BWBV0004478&z=1967-06-20&g=1967-06-20"
-jci_1_0: "1.0:c:BWBV0004478&g=1967-06-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-06-20"
+publicatiedatum: 1967-06-20
+laatste_update: 1967-06-20
+status: geldig
+toestand: 1967-06-20
+bron: "https://wetten.overheid.nl/BWBV0004478"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Denemarken;
+*Le Gouvernement du Royaume des Pays-Bas et le Gouvernement du Royaume de Danemark; Désireux de favoriser la formation de stagiaires néerlandais et danois au point de vue professionnel et linguistique, Ont arrêté, d'un commun accord, les dispositions suivantes:*
 
-Verlangende de opleiding van Nederlandse en Deense stagiaires, wat hun vakkennis en hun kennis van de taal betreft, te bevorderen;
+##### Article 1er
 
-Zijn overeengekomen als volgt;
+a). Le présent Accord s'applique aux stagiaires, c'est-à-dire aux ressortissants de l'un des deux Etats qui se rendent pour une période délimitée sur le territoire de l'autre Etat afin de perfectionner leurs connaissances professionnelles et linguistiques en occupant un emploi chez un employeur.
 
-##### Artikel 1
+b). Les stagiaires peuvent être de l'un ou de l'autre sexe et peuvent être employés à des activités manuelles ou intellectuelles. En principe, ils doivent avoir atteint l'âge de 18 ans et ne pas avoir dépassé l'âge de 30 ans.
 
-a). Deze Overeenkomst is van toepassing op stagiaires, dat wil zeggen op onderdanen van een van beide Staten die zich voor een beperkte tijdsduur naar het grondgebied van de andere Staat begeven ten einde hun vakkennis en hun kennis van de taal te verbeteren door het vervullen van een dienstbetrekking.
+##### Article 2
 
-b). Stagiaires kunnen van beiderlei kunne zijn en kunnen zowel als handarbeider als als hoofdarbeider worden tewerkgesteld. Als algemene regel zullen zij de leeftijd van 18 jaar moeten hebben bereikt en niet ouder mogen zijn dan 30 jaar.
+Les stagiaires seront autorisés à occuper un emploi dans les conditions fixées par les articles ci-après, sans que la situation de l'emploi en général ni celle de la profession dont il s'agit, puissent être prises en considération.
 
-##### Artikel 2
+##### Article 3
 
-De stagiaires wordt toegestaan onder de in de volgende artikelen vastgestelde voorwaarden een dienstbetrekking te vervullen, onafhankelijk van de stand van de Arbeidsmarkt in het algemeen en in het desbetreffende beroep.
+a). Le nombre des autorisations qui seront accordées aux stagiaires de chacun des deux Etats en vertu du présent Accord ne devra pas dépasser 100 par an.
 
-##### Artikel 3
+b). Cette limite sera indépendante du nombre des stagiaires résidant déjà sur le territoire de l'un ou de l'autre Etat par suite d'une prolongation de leur stage dans les conditions prévues à l'article 4. Elle s'appliquera, quelle que soit la durée pour laquelle les autorisations délivrées au cours d'une année auront été accordées et pendant laquelle elles auront été utilisées.
 
-a). Het aantal vergunningen dat aan stagiaires van elk der beide Staten krachtens deze Overeenkomst zal kunnen worden verleend, mag ten hoogste 100 per kalenderjaar bedragen.
+c). Si ce contingent n'était pas atteint au cours d'une année par les stagiaires de l'un des deux Etats, celui-ci ne pourra pas réduire le nombre des autorisations réservées aux stagiaires de l'autre Etat, ni reporter sur l'année suivante le reliquat inutilisé de son contingent. Ce contingent de 100 stagiaires est valable pour l'année du 1er janvier au 31 décembre, s'il n'a pas été modifié en vertu d'un nouvel Accord qui devra intervenir sur la proposition de l'un des deux Etats le 1er octobre au plus tard en vue d'être appliqué l'année suivante.
 
-b). Deze beperking is niet afhankelijk van het aantal stagiaires dat reeds op het grondgebied van een van beide Staten verblijft als gevolg van de verlenging van hun stage onder de in artikel 4 genoemde voorwaarden en houdt evenmin verband met de duur waarvoor de in een bepaald jaar afgegeven vergunningen zijn verleend, noch met de tijd gedurende welke er gebruik van wordt gemaakt.
+##### Article 4
 
-c). Indien het toegestane quotum in de loop van een jaar niet werd bereikt door de stagiaires van een Staat, mag deze Staat het aantal vergunningen bestemd voor stagiaires van de andere Staat niet verminderen, noch het niet gebruikte deel van zijn quotum naar het volgende kalenderjaar overbrengen. Dit quotum van 100 stagiaires geldt voor het jaar lopende van 1 januari tot 31 december, tenzij hierin wijziging wordt gebracht krachtens een nieuwe overeenkomst die, op voorstel van een van beide Staten, uiterlijk op 1 oktober moet zijn tot stand gekomen om het volgende jaar in werking te kunnen treden.
+a). La durée du stage est limitée à une période d'un an. Cette période pourra être prolongée de six mois au maximum.
 
-##### Artikel 4
+b). A l'expiration de leur période de stage, les stagiaires ne doivent pas rester sur le territoire du pays où ce stage a été effectué dans le dessein d'y occuper un emploi.
 
-a). De tijdsduur van de stage wordt beperkt tot één jaar en kan met ten hoogste zes maanden worden verlengd.
+##### Article 5
 
-b). Na de beëindiging van hun stage mogen de stagiaires niet op het grondgebied blijven van het land waar zij stage hebben gelopen, met de bedoeling daar een dienstbetrekking te vervullen.
+Les autorisations de stage peuvent être accordées sous la réserve que les stagiaires n'exerceront aucune autre activité lucrative ou n'occuperont aucun emploi autre que celui pour lequel l'autorisation a été accordée.
 
-##### Artikel 5
+##### Article 6
 
-Aan het verlenen van vergunning tot het lopen van stage kan de voorwaarde worden verbonden dat de stagiaires geen andere betaalde werkzaamheden zullen uitoefenen of geen andere betrekking zullen vervullen dan die waarvoor de vergunning is verleend.
+C'est une condition pour admettre les stagiaires que les employeurs désireux de les embaucher s'engagent à les occuper aux mêmes conditions de travail et de salaires que celles en vigueur pour les nationaux chargés des mêmes travaux dans les entreprises où ces stagiaires seront occupés.
 
-##### Artikel 6
+##### Article 7
 
-De stagiaires mogen slechts worden toegelaten indien de werkgevers die hen in dienst willen nemen zich verplichten hen onder dezelfde arbeids- en loonvoorwaarden tewerk te stellen als die welke gelden voor onderdanen die in de ondernemingen waar deze stagiaires worden tewerkgesteld met soortgelijke werkzaamheden zijn belast.
+Les deux Etats s'engagent à ne pas délivrer d'autorisation d'emploi en faveur des stagiaires sans s'être assurés que ceux-ci disposeront de ressources suffisantes pendant leur période d'emploi.
 
-##### Artikel 7
+##### Article 8
 
-Beide Staten nemen de verplichting op zich voor stagiaires geen werkvergunning te verstrekken dan nadat zij zich ervan hebben overtuigd dat dezen voor de duur van hun stage over voldoende middelen beschikken om in hun levensonderhoud te voorzien.
+a). Les stagiaires jouissent de l'égalité de traitement avec les ressortissants du pays du lieu de travail pour tout ce qui concerne l'application des lois, règlements et usages régissant la sécurité, l'hygiène et les conditions de travail, sauf si d'après les dispositions législatives dont il s'agit c'est une condition pour obtenir ces droits que le stagiaire soit naturalisé dans le pays en question.
 
-##### Artikel 8
+b). Les stagiaires et leurs employeurs sont tenus de se conformer aux prescriptions en vigueur en matière d'assurance sociale.
 
-a). De stagiaires genieten in elk opzicht wat de toepassing van wetten, reglementen en gebruiken ten aanzien van de veiligheid, de gezondheid en de arbeidsvoorwaarden betreft, een zelfde behandeling als de onderdanen van het land waar zij tewerk zijn gesteld tenzij, uit hoofde van de desbetreffende wettelijke bepalingen, aan het verkrijgen van deze rechten de voorwaarde is verbonden dat de stagiaire in het desbetreffende land is genaturaliseerd.
+##### Article 9
 
-b). De stagiaires en hun werkgevers zijn verplicht zich te houden aan de van kracht zijnde voorschriften inzake de sociale verzekering.
+Les deux Etats s'engagent à exonérer de toutes taxes et de tous droits, à l'exception des frais d'administration purement nominaux, les demandes concernant les stagiaires. Cette exonération s'applique également et sous la même réserve à la délivrance des permis de travail et de séjour accordés aux intéressés.
 
-##### Artikel 9
+##### Article 10
 
-Beide Staten nemen de verplichting op zich de aanvragen betreffende stagiaires vrij te stellen van alle belastingen en rechten, met uitzondering van de te verwaarlozen administratiekosten. Deze vrijstelling is eveneens en onder hetzelfde voorbehoud van toepassing op de aan de belanghebbenden te verstrekken werk- en verblijfsvergunningen.
+a). Les stagiaires désireux de bénéficier des dispositions du présent Accord devront en faire la demande en ce qui concerne les ressortissants néerlandais à la Direction générale de l'Emploi du Ministère des Affaires sociales et de la Santé publique à La Haye; en ce qui concerne les ressortissants danois, à la Direction générale du Travail à Copenhague.
 
-##### Artikel 10
+b). Dans leur demande, les stagiaires devront donner toutes les indications nécessaires et faire connaître notamment le nom et l'adresse de l'employeur.
 
-a). De stagiaires die gebruik wensen te maken van de bepalingen van deze Overeenkomst dienen, voor zover het Nederlandse onderdanen betreft, een hiertoe strekkend verzoek te richten tot het Directoraat-Generaal voor de Arbeidsvoorziening van het Ministerie van Sociale Zaken en Volksgezondheid te 's-Gravenhage; de Deense onderdanen dienen zich te wenden tot de Algemene Directie voor Arbeidszaken te Kopenhagen.
+c). Les stagiaires devront soumettre à l'autorité chargée de recueillir les demandes dans leur pays:
 
-b). In hun verzoek dienen de stagiaires alle noodzakelijke inlichtingen te verstrekken en in het bijzonder de naam en het adres van de werkgever te vermelden.
+- 1) un certificat de bonne vie et moeurs;
 
-c). De stagiaires dienen bij de in hun land met de in ontvangstneming van de aanvragen belaste instantie de volgende stukken over te leggen:
+- 2) le cas échéant, une déclaration d'engagement de l'employeur;
 
-- 1). een bewijs van goed gedrag;
+- 3) une déclaration de l'intéressé prouvant qu'il s'engage à partir dès la fin de la période de stage.
 
-- 2). eventueel een werkgeversverklaring;
+d). II appartiendra à ladite autorité d'examiner s'il y a lieu de transmettre la demande à l'autorité correspondante de l'autre Etat, en tenant compte du contingent annuel prévu.
 
-- 3). een verklaring van de belanghebbende waaruit blijkt dat hij zich ertoe verplicht te vertrekken na beëindiging van zijn stage.
+##### Article 11
 
-d). De bedoelde instantie dient na te gaan, rekening houdend met het overeengekomen jaarlijkse quotum, of de aanvraag kan worden doorgezonden aan de overeenkomstige instantie van de andere Staat.
+En vue d'atteindre le but fixé par le présent Accord et d'aider, dans la mesure du possible, les candidats stagiaires qui ne seraient pas en mesure de trouver, par leurs propres moyens, d'employeur disposé à utiliser leurs services en tant que stagiaires, les deux Etats s'engagent à faciliter l'échange des stagiaires, par tous les moyens appropriés, avec le concours des organisations intéressées.
 
-##### Artikel 11
+##### Article 12
 
-Ten einde het met deze Overeenkomst beoogde doel te verwezenlijken en de kandidaat-stagiaires die zelf niet in staat zijn een werkgever te vinden die bereid is van hun diensten als stagiaire gebruik te maken, zoveel mogelijk te helpen, nemen beide Staten de verplichting op zich, in samenwerking met de belanghebbende organisaties, de uitwisseling van stagiaries met alle passende middelen te vergemakkelijken.
+Aucune disposition du présent Accord ne peut être interprétée dans un sens susceptible d'affecter l'obligation de toute personne de se conformer aux lois et règlements en vigueur dans les territoires des deux Etats concernant l'entrée, le séjour et la sortie des ressortissants d'autres pays.
 
-##### Artikel 12
+##### Article 13
 
-Geen enkele bepaling van deze Overeenkomst mag zodanig worden uitgelegd dat een ieders verplichting zich te houden aan de op de grondgebieden van beide Staten van klacht zijnde wetten en reglementen de binnenkomst, het verblijf en het vertrek van onderdanen van andere landen betreffende zou kunnen worden aangetast.
+a). Des arrangements entre les autorités compétentes des deux Etats fixeront, le cas échéant, lès mesures nécessaires à l'application du présent Accord.
 
-##### Artikel 13
+b). Tout différend venant à s'élever entre les deux Etats concernant l'interprétation ou l'application du présent Accord sera résolu par voie de négociation directe.
 
-a). Door middel van afspraken stellen de bevoegde autoriteiten van beide Staten eventueel de maatregelen vast die noodzakelijk zijn voor de uitvoering van deze Overeenkomst.
+c). Si ce différend ne peut être résolu dans un délai de trois mois à dater du début de la négociation, il sera soumis à l'arbitrage d'un organisme dont la composition sera déterminée par accord entre les deux Etats; la procédure à suivre sera établie dans les mêmes conditions.
 
-b). Elk geschil dat tussen de twee Staten mocht rijzen met betrekking tot de uitleg of de toepassing van deze Overeenkomst wordt geregeld door middel van rechtstreekse onderhandelingen.
+d). La décision de l'organisme arbitral sera prise conformément aux principes fondamentaux et à l'esprit du présent Accord; elle sera obligatoire et sans appel.
 
-c). Indien het geschil niet kan worden geregeld binnen een tijdvak van drie maanden te rekenen van het begin van de onderhandelingen, wordt het ter scheidsrechterlijke beslechting voorgelegd aan een orgaan waarvan de samenstelling wordt geregeld in overleg tusen de twee Staten; de te volgen procedure wordt op dezelfde wijze vastgesteld.
+##### Article 14
 
-d). Beslissingen van dit scheidsrechterlijk orgaan worden genomen in overeenstemming met de grondbeginselen en in de geest van deze Overeenkomst; zij zijn bindend en beroep is niet mogelijk.
+En ce qui concerne le Royaume des Pays-Bas, le présent Accord ne s'appliquera qu'au territoire du Royaume en Europe.
 
-##### Artikel 14
+##### Article 15
 
-Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het grondgebied van het Rijk in Europa.
+Le présent Accord entrera en vigueur à la date de sa signature et restera en vigueur jusqu'au 1er janvier 1968.
 
-##### Artikel 15
+Il sera prorogé ensuite, par tacite reconduction et chaque fois pour une nouvelle année, à moins qu’il ne soit dénoncé par écrit par l'un des deux Etats, avant le 1er juillet pour la fin de l'année.
 
-Deze Overeenkomst treedt in werking op de dag van ondertekening en blijft van kracht tot 1 januari 1968.
-
-Deze Overeenkomst wordt vervolgens stilzwijgend verlengd, telkens voor een jaar, tenzij zij vóór 1 juli schriftelijk door een van beide Staten wordt opgezegd voor het einde van het jaar.
-
-In geval van opzegging blijven de krachtens deze Overeenkomst verstrekte vergunningen echter geldig voor de tijdsduur waarvoor zij zijn verleend.
+Toutefois, en cas de dénonciation, les autorisations accordées en vertu du présent Accord resteront valables pour la durée pour laquelle elles auront été accordées.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord et l'ont revêtu de leurs sceaux.
 

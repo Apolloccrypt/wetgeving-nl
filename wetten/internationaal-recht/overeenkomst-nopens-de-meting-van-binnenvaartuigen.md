@@ -1,318 +1,183 @@
 ---
 title: "Overeenkomst nopens de meting van binnenvaartuigen"
 identifier: "BWBV0004330"
-country: "nl"
-rank: "verdrag"
-publication_date: "1979-08-14"
-last_updated: "1979-08-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004330"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004067323"
-version_id: "10004236162"
-internal_id: "C10008335731"
-label_id: "10004052574"
-dtd_version: "2.0"
-original_entry_into_force: "1979-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004330/1979-08-14/0"
-intitule_bron: "Trb.1967-43"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-04-11"
-intitule_in_force: "1978-09-27"
-intitule_status: "goed"
-original_publication: "Trb.1967-43"
-original_published_date: "1967-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-43"
-entry_into_force_date: "1979-08-14"
-jci_1_3: "jci1.3:c:BWBV0004330&z=1979-08-14&g=1979-08-14"
-jci_1_0: "1.0:c:BWBV0004330&g=1979-08-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1979-08-14"
+publicatiedatum: 1979-08-14
+laatste_update: 1979-08-14
+status: geldig
+toestand: 1979-08-14
+bron: "https://wetten.overheid.nl/BWBV0004330"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst nopens de meting van binnenvaartuigen
 
-##### Artikel 1
+##### Article premier
 
-In de Bijlage bij deze Overeenkomst wordt het doel van het meten van binnenvaartuigen en van andere bij de vaart op de binnenwateren gebruikte vaartuigen, alsmede de wijze waarop dit geschiedt, beschreven. In bedoelde Bijlage wordt eveneens het model beschreven van de meetbrief die voor elk overeenkomstig de bepalingen van deze Overeenkomst gemeten vaartuig wordt afgegeven.
+La présente Convention définit dans son annexe l'objet et les modalités des opérations de jaugeage des bateaux de navigation intérieure ainsi que des autres bateaux appelés à naviguer sur les voies d'eau intérieures. Elle définit également dans cette annexe le modèle du certificat de jaugeage à délivrer pour tout bateau jaugé conformément à ses dispositions.
 
-##### Artikel 2
+##### Article 2
 
-1. Elke Overeenkomstsluitende Partij vaardigt, zodra de Overeenkomst op haar grondgebied van toepassing wordt, voorschriften uit voor de tenuitvoerlegging van de bepalingen van deze Overeenkomst en de Bijlage.
+1. Dès que la présente Convention sera applicable sur son territoire chaque Partie contractante mettra en vigueur des règlements pour l'exécution des dispositions de la présente Convention et de son annexe.
 
-2. Elke Overeenkomstsluitende Partij stelt elke andere Overeenkomstsluitende Partij op haar verzoek in kennis van de voorschriften die zij heeft uitgevaardigd overeenkomstig het eerste lid van dit artikel.
+2. Chaque Partie contractante communiquera à toute autre Partie contractante qui lui en fera la demande les règlements qu'elle a mis en vigueur conformément au paragraphe 1 du présent article.
 
-3. Voor de toepassing van deze Overeenkomst wijst elke Overeenkomstsluitende Partij op haar grondgebied de dienst(en) of instelling(en) - hierna te noemen bureaus van meting - aan, die zijn belast met het afgeven van meetbrieven. Elk bureau van meting wordt met bepaalde letters of met bepaalde cijfers en letters aangeduid, waarbij de laatste letter(s) de Overeenkomstsluitende Partij aanduidt(duiden) op wier grondgebied het bureau is gevestigd.
+3. Chaque Partie contractante désignera sur son territoire, pour l'application de la présente Convention, le ou les services ou organismes, dénommés ci-après „bureaux de jaugeage”, qui sont chargés de la délivrance des certificats de jaugeage. Chaque bureau de jaugeage sera caractérisé par des lettres ou par des numéros et des lettres, la ou les dernières lettres étant distinctives de la Partie contractante sur le territoire de laquelle se trouve le bureau.
 
-##### Artikel 3
+##### Article 3
 
-Elke Overeenkomstsluitende Partij neemt de verplichting op zich de vaartuigen bedoeld in artikel 1 van deze Overeenkomst op haar grondgebied te doen meten of hermeten, indien de eigenaar van het vaartuig of degene die namens hem optreedt daarom verzoekt.
+Chaque Partie contractante s'engage à faire procéder sur son territoire au jaugeage ou au rejaugeage des bateaux visés à l'article premier de la présente Convention à la demande du propriétaire du bateau ou d'un représentant de ce propriétaire.
 
-##### Artikel 4
+##### Article 4
 
-1. De geldigheidsduur van een meetbrief is ten hoogste vijftien jaar; op iedere meetbrief staat de datum vermeld waarop hij vervalt.
+1. La durée de validité d'un certificat de jaugeage ne peut être supérieure à quinze ans; sur chaque certificat est portée la date d'expiration de sa validité.
 
-2. Een meetbrief verliest zijn geldigheid, ongeacht de daarin vermelde vervaldatum, indien het vaartuig zodanige veranderingen ondergaat (herstellingen, veranderingen, blijvende beschadigingen) dat de in de meetbrief vermelde gegevens, de waterverplaatsing bij bepaalde inzinkingen of het maximale laadvermogen betreffende, niet juist meer zijn.
+2. Quelle que soit la date d'expiration de validité qu'il porte, un certificat de jaugeage cesse d'être valable si le bateau subit des modifications (réparations, transformations, déformations permanentes) telles que les indications du certificat relatives aux déplacements pour des enfoncements donnés ou au port en lourd maximal ne sont plus exactes.
 
-##### Artikel 5
+##### Article 5
 
-Onder voorbehoud van het bepaalde in artikel 15, tweede lid, van deze Overeenkomst kan elk bureau van meting binnen het kader van de voorschriften die het van de Overeenkomstsluitende Partij waaronder het ressorteert ontvangt, de geldigheidsduur van een meetbrief verlengen indien bij een ingesteld onderzoek en, zo nodig, na raadpleging van de staat van meting op grond waarvan de meetbrief is afgegeven, blijkt dat de gegevens van de meetbrief nog juist zijn. De geldigheidsduur kan telkens voor ten hoogste tien jaar worden verlengd voor vaartuigen bestemd voor het vervoer van goederen en voor ten hoogste vijftien jaar voor andere vaartuigen.
+Sous réserve des dispositions du paragraphe 2 de l'article 15 de la présente Convention, tout bureau de jaugeage peut, dans la limite des instructions qu'il reçoit de la Partie contractante dont il relève, proroger la validité d'un certificat de jaugeage s'il est constaté, après vérification et en consultant, s'il est utile, le dossier du jaugeage ayant donné lieu à la délivrance dudit certificat, que les indications de ce certificat restent valables. La durée de validité de chaque prorogation est au plus égale à dix ans pour les bateaux destinés au transport de marchandises et à quinze ans pour les autres bateaux.
 
-##### Artikel 6
+##### Article 6
 
-1. Binnen de begrenzing van hun geldigheidsduur zoals deze is vastgesteld in artikel 4 en 5 van deze Overeenkomst, worden meetbrieven, die door een bureau van meting van een der Overeenkomstsluitende Partijen zijn afgegeven op grond van overeenkomstig de bepalingen van deze Overeenkomst vastgestelde voorschriften, door de autoriteiten van de andere Overeenkomstsluitende Partijen erkend als gelijkwaardig aan de door deze Partijen op grond van hun overeenkomstig de bepalingen van deze Overeenkomst vastgestelde eigen voorschriften afgegeven meetbrieven.
+1. Dans la limite de leur validité telle qu'elle est définie aux articles 4 et 5 de la présente Convention, les certificats de jaugeage délivrés par un bureau de jaugeage d'une Partie contractante en vertu de règlements conformes aux dispositions de la présente Convention sont reconnus par les autorités des autres Parties contractantes comme équivalents à ceux que ces Parties délivrent en vertu de leurs propres règlements conformes aux dispositions de la présente Convention.
 
-2. Het in het eerste lid van dit artikel bepaalde belet een Overeenkomstsluitende Partij niet voor eigen rekening de gegevens van meetbrieven afgegeven door de bureaus van meting van een andere Overeenkomstsluitende Partij te doen controleren; deze controle dient evenwel op zodanige wijze te geschieden dat het daaruit voor de exploitatie van het vaartuig voortvloeiend ongerief tot het strikt onvermijdelijke blijft beperkt. Indien de Overeenkomstsluitende Partij die de controle laat verrichten onjuistheden in de gegevens van de meetbrief aantreft, stelt zij de Overeenkomstsluitende Partij waaronder het bureau van meting dat de meetbrief heeft afgegeven ressorteert, daarvan in kennis; het bepaalde in het eerst lid van dit artikel is op deze gegevens niet van toepassing.
+2. Les dispositions du paragraphe 1 du présent article n'empêchent pas une Partie contractante de faire contrôler à ses frais des indications de certificats délivrés par les bureaux de jaugeage d'une autre Partie contractante; toutefois, les modalités de ce contrôle devront être telles que la gêne apportée à l'exploitation du bateau soit limitée à ce qui est strictement inévitable. Si la Partie contractante qui fait procéder au contrôle constate l'inexactitude d'indications du certificat de jaugeage, elle en informe la Partie contractante du bureau de jaugeage qui a délivré le certificat et les dispositions du paragraphe 1 du présent article ne s'appliquent pas à ces indications.
 
-##### Artikel 7
+##### Article 7
 
-1. In geval van hermeting van een vaartuig trekt het bureau van meting dat de nieuwe meetbrief afgeeft, de oude in.
+1. En cas de rejaugeage d'un bateau, le bureau de jaugeage qui délivre le nouveau certificat de jaugeage retire l'ancien certificat.
 
-2. Indien een bureau van meting van een Overeenkomstsluitende Partij een meetbrief afgeeft voor een vaartuig, waarvoor door een bureau van een andere Overeenkomstsluitende Partij reeds eerder een meetbrief was afgegeven, stelt de eerste Overeenkomstsluitende Partij de tweede daarvan in kennis en stuurt haar overeenkomstig de bepalingen van artikel 11 van de Bijlage bij deze Overeenkomst de ingetrokken meetbrief terug.
+2. Dans le cas où un bureau de jaugeage d'une Partie contractante délivre un certificat de jaugeage pour un bateau dont le précédent certificat avait été délivré par un bureau d'une autre Partie contractante, la première Partie contractante en informe la seconde et lui renvoie le certificat de jaugeage retiré, conformément aux dispositions de l'article 11 de l'annexe de la présente Convention.
 
-3. Elke Overeenkomstsluitende Partij neemt de nodige maatregelen opdat, indien een vaartuig, waarvoor de meetbrief is afgegeven door een bureau van meting van een andere Overeenkomstsluitende Partij op haar grondgebied tenietgaat of gesloopt wordt of daar voor de vaart blijvend ongeschikt wordt, het bureau dat de meetbrief heeft afgegeven daarvan in kennis wordt gesteld en de meetbrief zo mogelijk aan dat bureau wordt teruggezonden.
+3. Chaque Partie contractante prendra les mesures nécessaires pour que, si un bateau dont le certificat de jaugeage a été délivré par un bureau de jaugeage d'une autre Partie contractante périt ou est démoli sur son territoire ou y devient définitivement inapte à la navigation, le bureau qui avait délivré le certificat de jaugeage en soit avisé et, si possible, le certificat lui soit renvoyé.
 
-##### Artikel 8
+##### Article 8
 
-1. Elke Overeenkomstsluitende Partij deelt de andere Overeenkomstsluitende Partijen de naam en het adres mede van de centrale dienst(en), die op het gebied der scheepsmeting bevoegd is (zijn).
+1. Chaque Partie contractante communiquera aux autres Parties contractantes la dénomination et l'adresse de son service central ou de ses services centraux compétents en matière de jaugeage.
 
-2. De centrale diensten bedoeld in het eerste lid van dit artikel doen elkaar een lijst toekomen van de verschillende bureaus van meting binnen het ressort alsmede van de overeenkomstig het bepaalde in artikel 2, lid 3, van deze Overeenkomst aan die bureaus toegewezen onderscheidingsletters of -cijfers; zij geven elkaar eveneens kennis van de eventueel in deze lijsten en in de onderscheidingsletters of -cijfers aangebrachte wijzigingen.
+2. Les services centraux visés au paragraphe 1 du présent article se communiqueront réciproquement la liste des bureaux de jaugeage de leur ressort, ainsi que les lettres ou numéros distinctifs attribués à ces bureaux conformément au paragraphe 3 de l'article 2 de la présente Convention; ils se communiqueront également les modifications qui interviendraient dans ces listes et dans ces lettres ou numéros distinctifs.
 
-3. De bevoegde centrale diensten van de Overeenkomstsluitende Partijen zijn bevoegd rechtstreeks met elkaar in verbinding te treden wat betreft de toepassing van artikel 2, lid 2, van deze Overeenkomst, de toepassing van dit artikel en de toepassing van de artikelen 10 en 11 van de Bijlage bij deze Overeenkomst.
+3. Les services centraux compétents des Parties contractantes sont autorisés à communiquer directement entre eux pour l'application du paragraphe 2 de l'article 2 de la présente Convention, pour l'application du présent article et pour l'application des articles 10 et 11 de l'annexe de la présente Convention.
 
-4. De bureaus van meting van de Overeenkomstsluitende Partijen zijn eveneens bevoegd rechtstreeks met elkaar in verbinding te treden wat betreft de toepassing van dit artikel, de toepassing van de artikelen 10 en 11 van de Bijlage bij deze Overeenkomst, alsmede voor het inwinnen van dringende inlichtingen.
+4. Les bureaux de jaugeage des Parties contractantes sont également autorisés à communiquer directement entre eux pour l'application du présent article et pour l'application des articles 10 et 11 de l'annexe de la présente Convention, ainsi que pour obtenir des renseignements urgents.
 
-##### Artikel 9
+##### Article 9
 
-Meetbrieven die op het tijdstip waarop deze Overeenkomst voor een bepaald land in werking treedt, in dat land geldig zijn, worden erkend als meetbrieven overeenkomstig de bepalingen van deze Overeenkomst, onder voorbehoud dat het vaartuig geen zodanige veranderingen heeft ondergaan dat de gegevens van de meetbrief de waterverplaatsing van het vaartuig bij bepaalde inzinkingen of het maximale laadvermogen betreffende niet juist meer zijn.
+Les certificats de jaugeage valables dans un pays au moment de la mise en vigueur de la présente Convention dans ce pays tiendront lieu de certificats conformes aux dispositions de la présente Convention sous réserve que le bateau n'ait pas subi de modifications telles que les indications du certificat relatives aux déplacements du bateau en fonction des enfoncements ou au port en lourd maximal ne soient plus exactes. La durée de validité de ces certificats sera celle qui y était prévue, sans pouvoir toutefois dépasser dix ans à dater de l'entrée en vigueur de la présente Convention dans le pays. Ces certificats ne peuvent être prorogés en application des dispositions de l'article 5 de la présente Convention, mais, si les conditions exigées par ledit article pour une prorogation sont remplies, un certificat de jaugeage conforme aux dispositions de la présente Convention pourra être délivré contre remise de l'ancien certificat sans qu'il y ait lieu à rejaugeage.
 
-De geldigheidsduur van deze meetbrieven blijft onveranderd, met dien verstande dat deze een termijn van tien jaar, te rekenen van het tijdstip van inwerkingtreding van deze Overeenkomst voor dat land, niet mag overschrijden. De geldigheidsduur van deze meetbrieven kan niet worden verlengd onder toepassing van de bepalingen van artikel 5 van deze Overeenkomst; indien echter aan de in genoemd artikel voor verlenging gestelde voorwaarden is voldaan, kan een meetbrief overeenkomstig de bepalingen van deze Overeenkomst worden afgegeven tegen overlegging van de oude meetbrief, zonder dat hermeting is vereist.
+##### Article 10
 
-##### Artikel 10
+1. La présente Convention est ouverte à la signature ou à l'adhésion des pays membres de la Commission économique pour l'Europe et des pays admis à la Commission à titre consultatif conformément au paragraphe 8 du mandat de cette Commission.
 
-1. Deze Overeenkomst staat open voor ondertekening of toetreding door de landen die lid zijn van de Economische Commissie voor Europa en door de landen die overeenkomstig het achtste lid van het mandaat van genoemde Commissie als raadgevend lid tot de Commissie zijn toegelaten.
+2. La présente Convention sera ouverte à la signature jusqu'au 15 novembre 1966 inclus. Après cette date, elle sera ouverte à l'adhésion.
 
-2. Deze Overeenkomst staat open voor ondertekening tot en met 15 november 1966. Na deze datum staat de Overeenkomst open voor toetreding.
+3. La présente Convention sera ratifiée.
 
-3. Deze Overeenkomst dient te worden bekrachtigd.
+4. La ratification ou l'adhésion sera effectuée par le dépôt d'un instrument auprès du Secrétaire général de l'Organisation des Nations Unies.
 
-4. Bekrachtiging of toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+5. Au moment où il dépose son instrument de ratification ou d'adhésion, tout pays doit notifier au Secrétaire général la lettre ou le groupe de lettres distinctif qu'il a choisi pour l'application du paragraphe 3 de l'article 2 de la présente Convention; par nouvelle notification au Secrétaire général, il peut ultérieurement modifier son choix. Au cas où la lettre ou le groupe de lettres notifié par un pays aurait déjà été notifié par un autre pays, le Secrétaire général ferait connaître que la notification ne peut être acceptée. Une modification de la lettre ou du groupe de lettres choisi antérieurement prend effet trois mois après la date à laquelle elle a été notifiée au Secrétaire général.
 
-5. Elk land dat een akte van bekrachtiging of van toetreding nederlegt dient de Secretaris-Generaal tegelijkertijd mede te delen welke onderscheidingsletter of -lettergroep het voor de toepassing van artikel 2, lid 3, van deze Overeenkomst heeft gekozen; later kan het land zijn keuze wijzigen door middel van een nieuwe aan de Secretaris-Generaal gerichte kennisgeving. Indien de door een land opgegeven letter of lettergroep reeds door een ander land is opgegeven, deelt de Secretaris-Generaal het eerstbedoelde land mede dat deze niet kan worden aanvaard. Een wijziging van een eerder gekozen letter of lettergroep wordt drie maanden na het tijdstip waarop de Secretaris-Generaal daarvan kennis is gegeven van kracht.
+6. Tout pays pourra en signant la présente Convention, ou en déposant son instrument de ratification ou d'adhésion, déclarer que la Convention sera applicable seulement à une partie du territoire du pays. Tout pays qui aura déclaré que la Convention est applicable seulement à une partie du territoire pourra à tout moment déclarer, par notification adressée au Secrétaire général, que la Convention sera applicable à tout ou partie du reste du territoire; cette notification prendra effet douze mois après sa réception par le Secrétaire général.
 
-6. Elk land kan bij het ondertekenen van deze Overeenkomst of bij het nederleggen van zijn akte van bekrachtiging of van toetreding verklaren dat deze Overeenkomst slechts van toepassing zal zijn op een gedeelte van zijn grondgebied. Elk land dat heeft verklaard dat de Overeenkomst slechts van toepassing is op een gedeelte van zijn grondgebied kan te allen tijde door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat de Overeenkomst van toepassing zal zijn voor het geheel of voor een gedeelte van het overige grondgebied; deze kennisgeving wordt twaalf maanden na ontvangst daarvan door de Secretaris-Generaal van kracht.
+##### Article 11
 
-##### Artikel 11
+1. La présente Convention entrera en vigueur douze mois après que cinq des pays mentionnés au paragraphe 1 de l'article 10 auront déposé leur instrument de ratification ou d'adhésion.
 
-1. Deze Overeenkomst treedt in werking twaalf maanden nadat vijf van de in het eerste lid van artikel 10 bedoelde landen hun akte van bekrachtiging of van toetreding hebben nedergelegd.
+2. Pour chaque pays qui la ratifiera ou y adhérera après que cinq pays auront déposé leur instrument de ratification ou d'adhésion, la présente Convention entrera en vigueur douze mois après le dépôt de l'instrument de ratification ou d'adhésion dudit pays.
 
-2. Voor elk land dat het bekrachtigt of ertoe toetreedt nadat vijf landen hun akte van bekrachtiging of van toetreding hebben nedergelegd, treedt deze Overeenkomst in werking twaalf maanden nadat de akte van bekrachtiging of toetreding van het betrokken land is nedergelegd.
+##### Article 12
 
-##### Artikel 12
+1. Chaque Partie contractante pourra dénoncer la présente Convention par notification adressée au Secrétaire général de l'Organisation des Nations Unies. Cette dénonciation pourra concerner l'ensemble du territoire de la Partie contractante ou seulement une partie de celui-ci.
 
-1. Elk der Overeenkomstsluitende Partijen kan deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving. Deze opzegging kan betrekking hebben op het gehele grondgebied van de Overeenkomstsluitende Partij, of slechts op een gedeelte daarvan.
+2. La dénonciation prendra effet douze mois après la date à laquelle le Secrétaire général en aura reçu notification.
 
-2. De opzegging wordt van kracht twaalf maanden na de datum waarop de Secretaris-Generaal daarvan in kennis is gesteld.
+##### Article 13
 
-##### Artikel 13
+La présente Convention cessera de produire ses effets si, après son entrée en vigueur, le nombre des Parties contractantes est inférieur à cinq pendant une période quelconque de douze mois consécutifs.
 
-Deze Overeenkomst houdt op van kracht te zijn indien, na haar inwerkingtreding, het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder dan vijf bedraagt.
+##### Article 14
 
-##### Artikel 14
+Tout différend entre deux ou plusieurs Parties contractantes touchant l'interprétation ou l'application de la présente Convention que les Parties n'auraient pu régler par voie de négociations ou par un autre mode de règlement pourra être porté, à la requête d'une quelconque des Parties contractantes intéressées, devant la Cour internationale de Justice, pour être tranché par elle.
 
-Elk tussen een of meer Overeenkomstsluitende Partijen met betrekking tot de uitlegging of de toepassing van deze Overeenkomst gerezen geschil dat Partijen niet door middel van onderhandelingen of op andere wijze hebben kunnen regelen, kan op verzoek van een der betrokken Overeenkomstsluitende Partijen aan het Internationale Gerechtshof ter beslissing worden voorgelegd.
+##### Article 15
 
-##### Artikel 15
+1. Tout pays peut, au moment où il signe la présente Convention ou dépose son instrument de ratification ou d'adhésion, déclarer qu'il ne se considère pas lié par l'article 14 de la présente Convention en ce qui concerne le renvoi des différends à la Cour internationale de Justice. Les autres Parties contractantes ne seront pas liées par l'article 14 envers toute Partie contractante qui aura formulé une telle réserve.
 
-1. Elk land kan bij de ondertekening van deze Overeenkomst of bij de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren dat het artikel 14 van deze Overeenkomst met betrekking tot het voorleggen van geschillen aan het Internationale Gerechtshof voor zichzelf niet als bindend beschouwt. De overige Overeenkomstsluitende Partijen zijn door artikel 14 niet gebonden ten opzichte van een Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+2. Tout pays peut, au moment où il signe la présente Convention ou dépose son instrument de ratification ou d'adhésion, déclarer que les certificats de jaugeage pour les bateaux destinés au transport de marchandises, délivrés par ses bureaux de jaugeage, ne pourront être prorogés, ou déclarer qu'ils ne pourront l'être que par le bureau de jaugeage qui les a délivrés ou qu'ils ne pourront l'être que par un de ses bureaux de jaugeage. Les autres Parties contractantes seront alors tenues de ne pas proroger la validité des certificats de jaugeage en cause.
 
-2. Elk land kan bij de ondertekening van deze Overeenkomst of de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren dat de door zijn bureaus van meting afgegeven meetbrieven voor vaartuigen die voor het vervoer van goederen zijn bestemd, niet kunnen worden verlengd, of dat deze alleen kunnen worden verlengd door het bureau van afgifte of door een van zijn eigen bureaus van meting. In dit geval nemen de andere Overeenkomstsluitende Partijen de verplichting op zich de geldigheidsduur van de desbetreffende meetbrieven niet te verlengen.
+3. Toute Partie contractante qui aura formulé une réserve conformément aux paragraphes 1 et 2 du présent article pourra à tout moment lever cette réserve par une notification adressée au Secrétaire général de l'Organisation des Nations Unies.
 
-3. Elke Overeenkomstsluitende Partij die een voorbehoud heeft gemaakt overeenkomstig het eerste en tweede lid van dit artikel kan dit te allen tijde intrekken door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving.
+4. A l'exception des réserves visées aux paragraphes 1 et 2 du présent article, aucune réserve à la présente Convention ne sera admise.
 
-4. Behoudens de in het eerste en tweede lid van dit artikel genoemde voorbehouden mag met betrekking tot deze Overeenkomst geen enkel voorbehoud worden gemaakt.
+##### Article 16
 
-##### Artikel 16
+1. Après que la présente Convention aura été en vigueur pendant trois ans, toute Partie contractante pourra, par notification adressée au Secrétaire général de l'Organisation des Nations Unies, demander la convocation d'une conférence à l'effet de reviser la présente Convention. Le Secrétaire général notifiera cette demande à toutes les Parties contractantes et convoquera une conférence de revision si, dans un délai de quatre mois à dater de la notification adressée par lui, le quart au moins des Parties contractantes lui signifient leur assentiment à cette demande.
 
-1. Nadat deze Overeenkomst gedurende drie jaar van kracht is geweest kan elke Overeenkomstsluitende Partij, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte schriftelijke kennisgeving, verzoeken een conferentie tot herziening van deze Overeenkomst bijeen te roepen. De Secretaris-Generaal brengt dit verzoek ter kennis van alle Overeenkomstsluitende Partijen en roept een conferentie tot herziening bijeen, indien binnen een tijdvak van vier maanden na dagtekening van de door hem verzonden kennisgeving ten minste een vierde van de Overeenkomstsluitende Partijen hem van hun instemming met het verzoek kennis hebben gegeven.
+2. Si une conférence est convoquée conformément au paragraphe 1 du présent article, le Secrétaire général en avisera toutes les Parties contractantes et les invitera à présenter, dans un délai de trois mois, les propositions qu'elles souhaiteraient voir examiner par la conférence. Le Secrétaire général communiquera à toutes les Parties contractantes l'ordre du jour provisoire de la conférence, ainsi que le texte de ces propositions, trois mois au moins avant la date d'ouverture de la conférence.
 
-2. Indien overeenkomstig het eerste lid van dit artikel een conferentie wordt bijeengeroepen, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen hiervan in kennis en verzoekt hun binnen drie maanden de voorstellen die naar hun oordeel door de conferentie dienen te worden behandeld in te zenden. De Secretaris-Generaal stelt alle Overeenkomstsluitende Partijen ten minste drie maanden voor de datum van aanvang van de conferentie in kennis van de voorlopige agenda van de conferentie, alsmede van de inhoud van de voorstellen.
+3. Le Secrétaire général invitera à toute conférence convoquée conformément au présent article tous les pays visés au paragraphe 1 de l'article 10 de la présente Convention.
 
-3. De Secretaris-Generaal nodigt alle in artikel 10, eerste lid, van deze Overeenkomst bedoelde landen uit tot het bijwonen van de overeenkomstig dit artikel bijeengeroepen conferenties.
+##### Article 17
 
-##### Artikel 17
+1. Toute Partie contractante pourra proposer un ou plusieurs amendements à l'annexe de la présente Convention ou à ses appendices. Le texte de tout projet d'amendement sera communiqué au Secrétaire général de l'Organisation des Nations Unies qui le communiquera à toutes les Parties contractantes et le portera à la connaissance des autres pays visés au paragraphe 1 de l'article 10 de la présente Convention.
 
-1. Elke Overeenkomstsluitende Partij kan een of meer wijzigingen in de Bijlage bij deze Overeenkomst of in de Aanhangsels daarvan voorstellen. De tekst van elk voorstel tot wijziging wordt aan de Secretaris-Generaal van de Verenigde Naties toegezonden, die deze ter kennis brengt van alle Overeenkomstsluitende Partijen, alsmede van de in artikel 10, eerste lid, van deze Overeenkomst bedoelde landen.
+2. Dans un délai de six mois à compter de la date de la communication par le Secrétaire général du projet d'amendement, toute Partie contractante peut faire connaître au Secrétaire général
 
-2. Elke Overeenkomstsluitende Partij kan, binnen een termijn van zes maanden te rekenen van de datum waarop de Secretaris-Generaal het voorstel tot wijziging heeft bekend gemaakt, de Secretaris-Generaal ervan in kennis stellen
+- a) soit qu'elle a une objection à l'amendement proposé,
 
-- a. hetzij, dat zij bezwaar maakt tegen de voorgestelde wijziging;
+- b) soit que, bien qu'elle ait l'intention d'accepter le projet, les conditions nécessaires à cette acceptation ne se trouvent pas encore remplies dans son pays.
 
-- b. hetzij dat, hoewel zij voornemens is het voorstel te aanvaarden, de voorwaarden waaraan in haar land de aanvaarding is gebonden, nog niet zijn vervuld.
+3. Tant qu'une Partie contractante qui a adressé la communication prévue au paragraphe 2.*b*) du présent article n'aura pas notifié au Secrétaire général son acceptation, elle pourra, pendant un délai de neuf mois à partir de l'expiration du délai de six mois prévu pour la communication, présenter une objection à l'amendement proposé.
 
-3. Zolang een Overeenkomstsluitende Partij, die de kennisgeving bedoeld in het tweede lid, onder **b** van dit artikel heeft gedaan, de Secretaris-Generaal nog geen bericht van aanvaarding heeft gezonden, kan zij gedurende een termijn van negen maanden, te rekenen van het tijdstip waarop de termijn van zes maanden die voor het doen van de kennisgeving is voorzien, afloopt, bezwaar maken tegen de voorgestelde wijziging.
+4. Si une objection au projet d'amendement est formulée dans les conditions prévues aux paragraphes 2 et 3 du présent article, l'amendement sera considéré comme n'ayant pas été accepté et sera sans effet.
 
-4. Indien overeenkomstig het bepaalde in het tweede en derde lid van dit artikel bezwaar tegen het voorstel tot wijziging wordt gemaakt, wordt de wijziging als niet aanvaard beschouwd en wordt zij niet van kracht.
+5. Si aucune objection au projet d'amendement n'a été formulée dans les conditions prévues aux paragraphes 2 et 3 du présent article, l'amendement sera réputé accepté et il entrera en vigueur à la date suivante:
 
-5. Indien overeenkomstig het bepaalde in het tweede en derde lid van dit artikel geen bezwaar tegen het voorstel tot wijziging wordt gemaakt, wordt de wijziging geacht te zijn aanvaard en wordt zij op de volgende datum van kracht:
+- a) lorsque aucune Partie contractante n'a adressé de communication en application du paragraphe 2.*b*) du présent article, à l'expiration du délai de six mois visé à ce paragraphe 2;
 
-- a. indien geen der Overeenkomstsluitende Partijen een kennisgeving als bedoeld in het tweede lid, onder **b** van dit artikel, heeft gedaan, na afloop van de in het tweede lid van dit artikel bedoelde termijn;
+- b) lorsque au moins une Partie contractante a adressé une communication en application du paragraphe 2.*b*) du présent article, à la plus rapprochée des deux dates suivantes:
 
-- b. indien ten minste een der Overeenkomstsluitende Partijen een kennisgeving als bedoeld in het tweede lid, onder **b** van dit artikel heeft gedaan, op het eerst vallende van de beide hierna genoemde tijdstippen:
+   - - date à laquelle toutes les Parties contractantes ayant adressé une telle communication auront notifié au Secrétaire général leur acceptation du projet d'amendement, cette date étant toutefois reportée à l'expiration du délai de six mois visé au paragraphe 2 du présent article si toutes les acceptations étaient notifiées antérieurement à cette expiration;
 
-- -. de datum waarop alle Overeenkomstsluitende Partijen die een zodanige kennisgeving nebben gedaan de Secretaris-Generaal ervan in kennis hebben gesteld dat zij instemmen met het voorstel tot wijziging, met dien verstande dat deze datum wordt gesteld op het einde van de in lid 2 van dit artikel bedoelde termijn van zes maanden, als alle aanvaardingen voor het aflopen van die termijn waren medegedeeld;
+   - - expiration du délai de neuf mois visé au paragraphe 3 du présent article.
 
-- -. het tijdstip waarop de in het derde lid van dit artikel bedoelde termijn van negen maanden afloopt.
+6. Le Secrétaire général adressera le plus tôt possible à toutes les Parties contractantes une notification pour leur faire savoir si une objection a été formulée contre le projet d'amendement conformément au paragraphe 2.*a*) du présent article et si une ou plusieurs Parties contractantes lui ont adressé une communication conformément au paragraphe 2.*b*). Dans le cas où une ou plusieurs Parties contractantes ont adressé une telle communication, il notifiera ultérieurement à toutes les Parties contractantes si la ou les Parties contractantes qui ont adressé une telle communication élèvent une objection contre le projet d'amendement ou l'acceptent.
 
-6. Indien overeenkomstig het tweede lid onder **a** van dit artikel tegen het voorstel tot wijziging bezwaar wordt gemaakt en indien aan de Secretaris-Generaal door een of meer Overeenkomstsluitende Partijen kennisgevingen zijn gedaan overeenkomstig het tweede lid onder **b**, stelt deze alle Overeenkomstsluitende Partijen er zo spoedig mogelijk van in kennis. Indien de Overeenkomstsluitende Partij die een dergelijke kennisgeving heeft gedaan bezwaar maakt tegen het voorstel tot wijziging of het aanvaardt, stelt de Secretaris-Generaal alle Overeenkomstsluitende Partijen daarvan vervolgens in kennis.
+7. Indépendamment de la procédure d'amendement prévue aux paragraphes 1 à 6 du présent article, l'annexe de la présente Convention et ses appendices peuvent être modifiés par accord entre les administrations compétentes de toutes les Parties contractantes mais à condition, si cet accord modifie l'appendice 1, qu'il prévoie que les certificats de jaugeage délivrés avant la date de l'entrée en vigueur de la modification et conformes à l'ancien texte de cet appendice 1 resteront valables pendant une période transitoire. Le Secrétaire général fixera la date d'entrée en vigueur de la modification.
 
-7. Onafhankelijk van de in het eerste tot en met zesde lid van dit artikel voorziene wijzigingsprocedure, kunnen de Bijlage bij deze Overeenkomst en de aanhangsels daarvan worden gewijzigd als de bevoegde overheidsinstanties van de Overeenkomstsluitende Partijen daarmede instemmen, doch op voorwaarde dat, indien aldus Aanhangsel 1 wordt gewijzigd, daarbij wordt bepaald dat meetbrieven afgegeven voor de datum waarop de wijziging van kracht wordt en die met de vroegere tekst van Aanhangsel 1 in overeenstemming zijn, gedurende een overgangstijdvak hun geldigheid zullen behouden. De Secretaris-Generaal bepaalt de datum waarop de wijziging van kracht wordt.
+##### Article 18
 
-##### Artikel 18
+Outre les notifications prévues aux articles 16 et 17 et au paragraphe 2 de l'article 21 de la présente Convention, le Secrétaire général de l'Organisation des Nations Unies notifiera aux pays visés au paragraphe 1 de l'article 10 de la présente Convention
 
-Buiten de in artikel 16 en 17 en in artikel 21, lid 2, van deze Overeenkomst bedoelde kennisgevingen, stelt de Secretaris-Generaal van de Verenigde Naties de in het eerste lid van artikel 10 van dit Verdrag bedoelde landen in kennis van:
+- a) les ratifications et adhésions en vertu de l'article 10, ainsi que les lettres ou groupes de lettres distinctifs notifiés conformément au paragraphe 5 de l'article 10 et les déclarations faites en application du paragraphe 6 dudit article;
 
-- a. de bekrachtigingen en toetredingen krachtens artikel 10, alsmede de onderscheidingsletters of -lettergroepen die zijn opgegeven overeenkomstig het bepaalde in artikel 10, lid 5, en de overeenkomstig het bepaalde in artikel 10, lid 6, ingezonden verklaringen;
+- b) les dates auxquelles la présente Convention entrera en vigueur conformément à l'article 11;
 
-- b. de data waarop deze Overeenkomst ingevolge artikel 11 in werking treedt;
+- c) les dénonciations en vertu de l'article 12;
 
-- c. de opzeggingen krachtens artikel 12;
+- d) l'abrogation de la présente Convention conformément à l'article 13;
 
-- d. het ophouden van kracht te zijn van deze Overeenkomst overeenkomstig het bepaalde in artikel 13;
+- e) les déclarations et notifications reçues conformément aux paragraphes 1, 2 et 3 de l'article 15.
 
-- e. de overeenkomstig het bepaalde in artikel 15, eerste, tweede en derde lid, ontvangen verklaringen en mededelingen.
+##### Article 19
 
-##### Artikel 19
+Au moment où il déposera son instrument de ratification ou d'adhésion, tout Etat Partie à la Convention relative au jaugeage des bateaux de navigation intérieure, signée à Paris le 27 novembre 1925, devra dénoncer cette dernière Convention. Cependant, si à ce moment le nombre des instruments de ratification ou d'adhésion déposés n'atteint pas encore cinq, l'Etat intéressé pourra, s'il le désire, prier le Secrétaire général de l'Organisation des Nations Unies de considérer sa dénonciation comme étant faite officiellement à la date du dépôt du cinquième instrument de ratification ou d'adhésion.
 
-Iedere Staat die partij is bij het op 27 november 1925 te Parijs ondertekende Verdrag nopens de meting van binnenvaartuigen, moet dat Verdrag, bij het nederleggen van de akte van bekrachtiging van of van toetreding tot deze Overeenkomst, opzeggen. Indien echter alsdan het aantal nedergelegde akten van bekrachtiging of van toetreding nog geen vijf bedraagt, kan de belanghebbende Staat desgewenst de Secretaris-Generaal van de Verenigde Naties verzoeken de opzegging te beschouwen als officieel te zijn gedaan op de datum van nederlegging van de vijfde akte van bekrachtiging of toetreding.
+##### Article 20
 
-##### Artikel 20
+Le Protocole de signature de la présente Convention aura les mêmes force, valeur et durée que la Convention elle-même, dont il sera considéré comme faisant partie intégrante.
 
-Het Protocol van ondertekening van deze Overeenkomst heeft dezelfde kracht, geldigheid en duur als de Overeenkomst, waarvan het een integrerend deel uitmaakt.
+##### Article 21
 
-##### Artikel 21
+1. La présente Convention est faite en un seul exemplaire en langues française et russe, les deux textes faisant également foi.
 
-1. Deze Overeenkomst is opgesteld in een enkel exemplaar in de Franse en de Russische taal, zijnde beide teksten gelijkelijk gezaghebbend.
+2. Une traduction du texte de la présente Convention dans une langue autre que le français ou le russe peut être déposé auprès du Secrétaire général de l'Organisation des Nations Unies en commun par des pays qui déposent ou ont déjà déposé leurs instruments de ratification ou d'adhésion. Un autre pays peut, lors du dépôt de son instrument de ratification ou d'adhésion ou à tout moment ultérieur, déclarer qu'il adopte une traduction déjà déposée. Pour les pays qui ont déposé une traduction ou ont déclaré l'adopter, la traduction aura la valeur de traduction officielle, mais, en cas de divergence, seuls les textes français et russe feront foi. Le Secrétaire général informera tous les pays, qui ont signé la présente Convention ou qui ont déposé leur instrument d'adhésion, des traductions déposées et des noms des pays qui les ont déposées ou qui ont déclaré les adopter.
 
-2. Een vertaling van de tekst van deze Overeenkomst in een andere dan de Franse of de Russische taal kan door de landen die hun akten van bekrachtiging of toetreding reeds hebben nedergelegd of zullen nederleggen gezamenlijk aan de Secretaris-Generaal van de Verenigde Naties worden toegezonden. Bij de nederlegging van zijn akte van bekrachtiging of toetreding of op ieder later tijdstip kan een land verklaren dat het een reeds nedergelegde vertaling aanvaardt. De vertaling geldt als officiële vertaling voor de landen die een vertaling hebben nedergelegd of hebben verklaard deze te aanvaarden; in geval van verschil zijn echter uitsluitend de Franse en de Russische tekst gezaghebbend.
+##### Article 22
 
-De Secretaris-Generaal stelt alle landen die deze Overeenkomst hebben ondertekend of een akte van toetreding hebben nedergelegd, in kennis van de nederlegging der vertalingen en deelt hun mede welke landen deze hebben nedergelegd of hebben verklaard deze te aanvaarden.
-
-##### Artikel 22
-
-De oorspronkelijke tekst van deze Overeenkomst wordt na 15 november 1966 nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die een voor eensluidend gewaarmerkt afschrift daarvan zal toezenden aan elk der landen, bedoeld in het eerste lid van artikel 10 van deze Overeenkomst.
-
-##### Artikel 1
-
-1. De meting bestaat in het vaststellen van het volume water dat door een vaartuig wordt verplaatst in samenhang met zijn inzinking.
-
-2. De meting van een vaartuig heeft ten doel de maximum toelaatbare verplaatsing vast te stellen, evenals, indien nodig, de verplaatsingen behorend bij de gegeven lastlijnen. De meting van vaartuigen, bestemd voor het vervoer van goederen, kan ook ten doel hebben het mogelijk te maken het gewicht van de lading volgens de inzinking te bepalen.
-
-##### Artikel 2
-
-Ieder bureau van meting schrijft in een bijzonder register, onder een eigen volgnummer, iedere meetbrief in die het uitreikt, zomede de datum van de uitreiking, de naam en de kenspreuk van het vaartuig en de andere gegevens waardoor het binnenvaartuig kan worden geïdentificeerd.
-
-##### Artikel 3
-
-De meetbrieven moeten overeenstemmen met het in Aanhangsel 1 van deze Bijlage gegeven model. Elke Overeenkomstsluitende Partij mag de rubrieken die in het model als facultatief zijn aangegeven uit de meetbrief weglaten. Onder voorbehoud dat de nummering en volgorde voor al de rubrieken die voorkomen op het model dat hij uitreikt gehandhaafd blijven, kan elke Overeenkomstsluitende Partij aan de meetbrieven rubrieken toevoegen, of voorschrijven dat nadere aanduidingen gemaakt dienen te worden in de rubrieken volgens het model. De meetbrieven behoeven slechts te worden gedrukt en ingevuld in de taal of in een der talen van het land van uitgifte.
-
-##### Artikel 4
-
-1. Voor de meting van een vaartuig worden de maten aan het vaartuig zelf gemeten. Het te meten deel van het vaartuig is het deel dat begrepen is tussen het vlak van de grootste diepgang, tot welke het vaartuig zal kunnen varen, en hetzij het vlak van inzinking van het ledige vaartuig, bepaald volgens paragraaf 1 van artikel 7 van deze Bijlage, hetzij het horizontale vlak, gaande door het laagste punt van de romp van het vaartuig.
-
-2. De lengte en breedte worden in centimeters uitgevoerd, de hoogte in millimeters.
-
-3. Het te meten deel van het vaartuig wordt door horizontale vlakken of door vlakken, gaande door een rechte lijn die de snijlijn van de vlakken, bedoeld in paragraaf 1 van dit artikel, vormt, verdeeld in schijven. De dikte van de schijven moet, in verband met de vorm van de romp, op zodanige wijze worden gekozen, dat voldoende nauwkeurigheid bij de berekening van het volume is gewaarborgd; de afstand tussen de horizontale vlakken of de gemiddelde dikte van de schijven tussen de elkaar snijdende vlakken moet, voor de berekening van het volume in de gevormde delen, constant zijn en in de regel 10 cm.
-
-4. Men verkrijgt de inhoud van een schijf, begrensd door horizontale vlakken, door de halve som van de oppervlakken van het boven- en het ondervlak met de dikte te vermenigvuldigen. De inhoud van een schijf, begrensd door elkaar snijdende vlakken, wordt op dezelfde wijze verkregen, waarbij als gemiddelde dikte de lengte van de verticale lijn tussen het boven- en ondervlak, gaande door het zwaartepunt van het middenvlak van de schijf, wordt genomen; ter vereenvoudiging kan men echter voor al de schijven de lengte nemen van de verticale lijn die gaat door een gemiddeld zwaartepunt.
-
-5. Voor het berekenen van het oppervlak van ieder vlak verdeelt men het oppervlak in delen van dezelfde lengte door ordinaten loodrecht op de lengteas van het vaartuig; in het middengedeelte, dat in het algemeen duidelijk rechthoekig is, evenals in elk der uiteinden voor en achter, is het aantal vakken tenminste vier; daarenboven wordt het oppervlak van de uitstekende einden vóór en achter, indien nodig, afzonderlijk berekend.
-
-6. Bij de berekening van de oppervlakken die door gebogen lijnen worden begrensd, gebruikt men de regel van Simpson; voor de uitstekende einden in voor- en achterschip kan men echter de gebogen lijnen gelijkstellen met bekende krommen als ellips, parabool en dergelijke.
-
-7. In het geval waarin het verloop van de oppervlakken voldoende regelmatig is, kan men zich beperken tot het berekenen van een aantal oppervlakken, voldoende om de kromme van verschillen van de oppervlakken van de doorsneden, of van zekere delen van deze doorsneden, in samenhang met hun hoogteligging te ontwerpen en de andere oppervlakken daarvan afleiden.
-
-8. Het quotiënt, verkregen door de inhoud van een schijf te delen door haar gemiddelde dikte, uitgedrukt in centimeters, wordt geacht de verplaatsing van het vaartuig te zijn voor iedere centimeter inzinking over de hoogte van deze schijf.
-
-9. Voor de schepen waarvan de bestemming zodanig is, dat men voor het bepalen van de lading in geen geval zal afgaan op gegevens bij verschillende diepgang, kan men, op uitdrukkelijk verzoek van de aanvrager van de meting, het invullen van de tabellen van rubriek 33 in de meetbrief achterwege laten.
-
-##### Artikel 5
-
-Voor de vaartuigen die niet bestemd zijn voor het vervoer van goederen kan men zich beperken tot het berekenen van de waterverplaatsing tot het vlak van de grootste toegelaten diepgang en tot het vlak van ledige inzinking of tot één van deze vlakken, in plaats van het uitvoeren van een meting volgens de voorschriften van artikel 4 van deze Bijlage.
-
-Deze berekening moet worden uitgevoerd hetzij op basis van de meetkundige gegevens, verkregen aan het schip zelf of van de constructietekeningen, hetzij door voor de waterverplaatsing te nemen het produkt van de volheidscoëfficiënt en de drie volgende afmetingen van de romp:
-
-- a. de lengte, dat wil zeggen de afstand tussen de snijpunten van het langsscheepse middenvlak met de kromme lijn die het vlak van inzinking begrenst;
-
-- b. de maximum-breedte in het vlak van inzinking;
-
-- c. de gemiddelde inzinking, dat wil zeggen de verticale afstand tussen het vlak van inzinking en het laagste punt van de dwarsdoorsnede, gelegen op het midden van de onder **a** vermelde lengte;
-
-deze afmetingen moeten worden bepaald, zonder rekening te houden met uitstekende delen van de romp, aan het vaartuig zelf of van de constructietekeningen, waarbij de aangenomen waarde van de volheidscoëfficiënt zodanig moet zijn als normaal voor het betreffende type vaartuig geldt; voor de vaartuigen met een scherpe vorm (passagiersschepen, sleepboten enz.) moet deze waarde, bij gebrek aan andere gegevens, op 0.7 gesteld worden.
-
-##### Artikel 6
-
-1. De ijkmerken moeten in paren op de zijden van het vaartuig worden aangebracht; zij dienen duidelijk zichtbaar en symmetrisch ten opzichte van het langsscheepse middenvlak te zijn geplaatst. Ieder merk moet bestaan uit een horizontale lijn van ten minste 30 cm lengte, geplaatst ter hoogte van het vlak van inzinking tot hetwelk het vaartuig is gemeten en uit een verticale lijn van 20 cm lengte, geplaatst loodrecht beneden het midden van de horizontale lijn; het ijkmerk kan ook aangevuld worden met lijnen die met de horizontale lijn een rechthoek vormen, waarvan dan de horizontale lijn de onderzijde is. De lijnen worden ingebeiteld of gecenterd.
-
-2. De vlakken die door de verticale lijnen van de ijkmerken gaan, moeten op gelijke afstand uit elkaar geplaatst en symmetrisch verdeeld zijn met betrekking tot het in paragraaf 4 van artikel 4 van deze Bijlage vermelde gemiddelde zwaartepunt. De afstand tussen deze vlakken moet voor een vaartuig, voorzien van n paar ijkmerken, ongeveer l/n van de lengte van het vaartuig zijn.
-
-3. Voor elk vaartuig is het aantal paren ijkmerken tenminste drie. Evenwel
-
-- a. is voor de vaartuigen die niet bestemd zijn voor het vervoer van goederen één paar voldoende;
-
-- b. kan voor de vaartuigen waarvan de lengte van de romp minder dan 40 m bedraagt worden toegestaan dat men slechts twee paar merken aanbrengt.
-
-4. In plaats van te zijn uitgevoerd op de wijze als in paragraaf 1 van dit artikel is omschreven, kunnen de ijkmerken bestaan uit een duurzaam bevestigde plaat van ten minste 30 cm lengte en 4 cm hoogte, waarvan de onderkant gelijk is met het vlak van inzinking tot hetwelk het vaartuig is gemeten en waarvan het midden is gemerkt door een verticale lijn.
-
-5. Op de platen die de ijkmerken vormen of bij de andere ijkmerken wordt, in duidelijke tekens, een metingsmerk ingebeiteld of gecenterd, bestaande uit de hierna omschreven aanduidingen:
-
-- a. de onderscheidingsletters of -nummers van het bureau dat de meetbrief uitgeeft;
-
-- b. het nummer van de meetbrief.
-
-Elke Overeenkomstsluitende Partij kan echter voor de vaartuigen, binnen zijn gebied gemeten, voorschrijven dat dit metingsmerk slechts op één paar ijkmerken wordt aangebracht.
-
-6. Het metingsmerk wordt eveneens, in onuitwisbare tekens, aangebracht op een duidelijk waarneembare in de meetbrief vermelde plaats op een vast deel van het vaartuig, dat beschermd is tegen schokken en weinig aan slijtage onderhevig is.
-
-7. De ijkschalen kunnen op de romp recht onder de ijkmerken worden aangebracht; indien men deze schalen aanbrengt moet het nulpunt ervan gelijk zijn met de onderkant van de romp ter plaatse van de schaal of, indien er een kiel is, gelijk met de onderkant van de kiel ter plaatse van de schaal; de ijkschalen die zich echter op een vaartuig bevinden op het tijdstip van het in werking treden van deze Overeenkomst voor het land waar het vaartuig is gemeten en waarvan het nulpunt overeenkomt met het vlak van inzinking van het ledige vaartuig, zullen kunnen blijven gehandhaafd totdat voor dit vaartuig een meetbrief volgens de voorschriften van deze Overeenkomst zal worden uitgereikt.
-
-##### Artikel 7
-
-1. Het vlak van ledige inzinking, zoals dit in paragraaf 1 van artikel 4, in de aanvang van artikel 5 en in paragraaf 7 van artikel 6 van deze Bijlage wordt aangeduid, is het vlak overeenkomende met het wateroppervlak indien
-
-- a. het vaartuig geen brandstof of verplaatsbare ballast aan boord heeft doch slechts de uitrusting, de proviand en de bemanning die normaal aan boord zijn als het vaartuig vaart; alsmede het water, dat niet door gebruikelijke middelen uit het ruim kan worden verwijderd; de drinkwatervoorraad mag echter 0,5% van de grootste verplaatsing van het vaartuig niet overschrijden;
-
-- b. de werktuigen, ketels, pijpleidingen en installaties, nodig voor de voortstuwing of voor de noodzakelijke hulpwerktuigen, zomede voor verwarming of koeling, het water, de olie of de andere vloeistoffen bevatten waarvan zij in gewone omstandigheden worden voorzien om dienst te kunnen doen;
-
-- c. het vaartuig zich in zoet water bevindt, dat wil zeggen in water met een soortelijk gewicht gelijk aan 1.
-
-2. Indien het vaartuig zich bij de meting niet in de toestand, omschreven in paragraaf 1 van dit artikel, bevindt, of niet in omstandigheden die leiden tot dezelfde inzinking en ongeveer dezelfde trimligging, moet het verschil in belasting en het verschil in soortelijk gewicht van het water in aanmerking worden genomen bij het maken van de berekeningen.
-
-3. De gewichten aan boord die behoren bij de ledige inzinking moeten in de meetbrief worden vermeld.
-
-##### Artikel 8
-
-Voor het onderzoek overeenkomstig artikel 5 van deze Overeenkomst om vast te stellen of de gegevens van een meetbrief al of niet geldig blijven:
-
-- a. moet men de volgende afmetingen van het vaartuig controleren: de lengte, de breedte, de ledige inzinking ter plaatse van elk ijkmerk;
-
-- b. moet men, ingeval het vaartuig blijvende vervormingen heeft, enkele breedten controleren, aan de hand van de laatste staat van meting, om na te gaan of de vervormingen vóór of na de laatste meting zijn ontstaan.
-
-##### Artikel 9
-
-Wanneer een vaartuig wordt hermeten moeten de merken, platen, aanwijzingen en ijkschalen die vervallen zijn worden verwijderd of ongeldig gemaakt.
-
-##### Artikel 10
-
-1. Ingeval van wijziging van de naam of van de kenspreuk van een vaartuig wordt de noodzakelijke correctie in de meetbrief door een daartoe bevoegde ambtenaar aangebracht; deze ambtenaar moet de correctie waarmerken. Indien de wijziging wordt uitgevoerd op het gebied van een andere Overeenkomstsluitende Partij dan die, onder welke het bureau van meting dat de meetbrief heeft uitgereikt ressorteert, moet de bevoegde centrale dienst voor de Scheepsmeting van de eerstbedoelde Partij de bevoegde centrale dienst van de andere Partij terzake inlichten; te dien einde moet hij, minstens driemaandelijks, een lijst, opgemaakt volgens het model aangegeven in Aanhangsel 2 van deze Bijlage, verzenden; evenwel kunnen Overeenkomstsluitende Partijen overeenkomen het zenden van lijsten te vervangen door een mededeling aan het bureau van meting dat de meetbrief heeft uitgereikt.
-
-2. Het bureau van meting dat de meetbrief heeft uitgereikt of elk bureau van meting van een andere Overeenkomstsluitende Partij — in het laatste geval met schriftelijke machtiging van eerstbedoeld bureau of van de bevoegde centrale dienst van het land tot hetwelk dat bureau behoort — kan op aanvraag correcties in de meetbrief aanbrengen die nodig zijn door veranderingen van het vaartuig, mits deze veranderingen niet de geldigheid van de meetbrief volgens artikel 4, lid 2, van deze Overeenkomst aantasten; men dient deze correcties in de daarvoor bestemde rubriek in de meetbrief te waarmerken. Zonder deze schriftelijke machtiging mag het andere bureau eveneens bedoelde correcties in de meetbrief aanbrengen, doch in dat geval slechts voorlopig, met een geldigheid van niet meer dan drie maanden en op voorwaarde, enerzijds dat het bureau dat de meetbrief heeft uitgereikt, of de bevoegde centrale dienst van het land tot hetwelk dit bureau behoort, wordt ingelicht, en anderzijds dat deze correcties in de daarvoor bestemde rubriek in de meetbrief worden gewaarmerkt en daarbij tevens de duur van hun voorlopige geldigheid wordt vermeld.
-
-##### Artikel 11
-
-1. In het geval dat, bij toepassing van artikel 5 van deze Overeenkomst, een bureau van meting van een Overeenkomstsluitende Partij een meetbrief, uitgereikt door een bureau van meting van een andere Overeenkomstsluitende Partij, verlengt, zal de bevoegde centrale dienst van het land, tot hetwelk eerstgenoemd bureau behoort, de bevoegde centrale dienst van de andere Overeenkomstsluitende Partij moeten inlichten; daarvoor moet hij minstens driemaandelijks een lijst, opgemaakt volgens het model aangegeven in Aanhangsel 3 van deze Bijlage, verzenden; evenwel kunnen Overeenkomstsluitende Partijen overeenkomen het zenden van lijsten te vervangen door een mededeling van het bureau van meting dat de verlenging heeft uitgevoerd aan het bureau van meting dat de meetbrief heeft uitgereikt.
-
-2. Voor toepassing van artikel 7, lid 2, van deze Overeenkomst doet de bevoegde centrale dienst van een Overeenkomstsluitende Partij waarvan een bureau van meting hermeting van binnenvaartuigen, laatstelijk gemeten door een bureau van een andere Overeenkomstsluitende Partij, verricht heeft, minstens driemaandelijks aan de bevoegde centrale dienst van die andere Overeenkomstsluitende Partij een lijst van bedoelde binnenvaartuigen toekomen, opgemaakt volgens het model van Aanhangsel 4 van deze Bijlage, onder bijvoeging van de ingetrokken meetbrieven; evenwel kunnen Overeenkomstsluitende Partijen overeenkomen het zenden van lijsten te vervangen door een mededeling van het bureau van meting dat de meetbrief intrekt aan het bureau dat de meetbrief had uitgereikt.
+Après le 15 novembre 1966, l'original de la présente Convention sera déposé auprès du Secrétaire général de l'Organisation des Nations Unies qui en transmettra des copies certifiées conformes à chacun des pays visés au paragraphe 1 de l'article 10 de la présente Convention.
 
 EN FOI DE QUOI, les soussignés, à ce dûment autorisés, ont signé la présente Convention.
 

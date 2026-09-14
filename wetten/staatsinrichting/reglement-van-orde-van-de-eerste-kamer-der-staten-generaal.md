@@ -8,7 +8,7 @@ laatste_update: 2026-09-09
 status: geldig
 toestand: 2026-09-09
 bron: "https://wetten.overheid.nl/BWBR0048272"
-opgehaald: 2026-09-13
+opgehaald: 2026-09-14
 ---
 
 # Reglement van Orde van de Eerste Kamer der Staten-Generaal

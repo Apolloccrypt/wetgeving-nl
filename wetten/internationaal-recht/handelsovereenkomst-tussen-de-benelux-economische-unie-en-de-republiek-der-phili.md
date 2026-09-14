@@ -1,48 +1,19 @@
 ---
 title: "Handelsovereenkomst tussen de Benelux Economische Unie en de Republiek der Philippijnen"
 identifier: "BWBV0004348"
-country: "nl"
-rank: "verdrag"
-publication_date: "1972-10-12"
-last_updated: "1972-10-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004348"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004076133"
-version_id: "10004244172"
-internal_id: "C10006985741"
-label_id: "10004060584"
-dtd_version: "2.0"
-original_entry_into_force: "1972-10-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004348/1972-10-12/0"
-intitule_bron: "Trb.1967-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-04-14"
-intitule_in_force: "1972-11-21"
-intitule_status: "goed"
-original_publication: "Trb.1967-49"
-original_published_date: "1967-04-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-49"
-entry_into_force_date: "1972-10-12"
-jci_1_3: "jci1.3:c:BWBV0004348&z=1972-10-12&g=1972-10-12"
-jci_1_0: "1.0:c:BWBV0004348&g=1972-10-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "1972-10-12"
+publicatiedatum: 1972-10-12
+laatste_update: 1972-10-12
+status: geldig
+toestand: 1972-10-12
+bron: "https://wetten.overheid.nl/BWBV0004348"
+opgehaald: 2026-09-14
 ---
+
 # Handelsovereenkomst tussen de Benelux Economische Unie en de Republiek der Philippijnen
 
-Het Koninkrijk der Nederlanden, en
-
-Het Koninkrijk België, krachtens bestaande overeenkomsten mede in naam van het Groothertogdom Luxemburg,
-
-Handelende tezamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958, enerzijds, en
-
-De Republiek der Philippijnen, anderzijds,
-
-Bezield door de wens hun traditionele vriendschapsbanden te versterken en hun wederzijdse handel uit te breiden door verlening van de wederzijdse en onvoorwaardelijke behandeling van de meestbegunstigde natie als grondslag van hun handelsbetrekkingen,
-
-Zijn de volgende bepalingen overeengekomen:
+*Het Koninkrijk der Nederlanden, en Het Koninkrijk België, krachtens bestaande overeenkomsten mede in naam van het Groothertogdom Luxemburg, Handelende tezamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958, enerzijds, en De Republiek der Philippijnen, anderzijds, Bezield door de wens hun traditionele vriendschapsbanden te versterken en hun wederzijdse handel uit te breiden door verlening van de wederzijdse en onvoorwaardelijke behandeling van de meestbegunstigde natie als grondslag van hun handelsbetrekkingen, Zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel I
 
@@ -66,11 +37,11 @@ Beide Overeenkomstsluitende Partijen zullen, in overeenstemming met hun national
 
 Het bepaalde in de artikelen II en III van deze Overeenkomst zal niet van toepassing zijn op:
 
-- (a). tariefpreferenties of andere gunsten die de Republiek der Philippijnen thans verleent of in de toekomst zal verlenen aan de Verenigde Staten van Amerika;
+- (a) tariefpreferenties of andere gunsten die de Republiek der Philippijnen thans verleent of in de toekomst zal verlenen aan de Verenigde Staten van Amerika;
 
-- (b). de gunsten, voorrechten, tegemoetkomingen of vrijstellingen die de Beneluxlanden thans verlenen of in de toekomst zullen verlenen voor de invoer van produkten van oorsprong hetzij uit de Democratische Republiek Kongo, de Republiek Rwanda en het Koninkrijk Burundi, hetzij uit de buiten Europa gelegen delen van het Koninkrijk der Nederlanden; en
+- (b) de gunsten, voorrechten, tegemoetkomingen of vrijstellingen die de Beneluxlanden thans verlenen of in de toekomst zullen verlenen voor de invoer van produkten van oorsprong hetzij uit de Democratische Republiek Kongo, de Republiek Rwanda en het Koninkrijk Burundi, hetzij uit de buiten Europa gelegen delen van het Koninkrijk der Nederlanden; en
 
-- (c). de gunsten, voorrechten, tegemoetkomingen of vrijstellingen die enige Regering van de Beneluxlanden thans verleent of in de toekomst zal verlenen aan aangrenzende landen voor het grensverkeer.
+- (c) de gunsten, voorrechten, tegemoetkomingen of vrijstellingen die enige Regering van de Beneluxlanden thans verleent of in de toekomst zal verlenen aan aangrenzende landen voor het grensverkeer.
 
 ##### Artikel V
 
@@ -118,12 +89,12 @@ TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe behoorlijk gema
 
 GEDAAN te Manilla, op 14 maart 1967, in drievoud, in de Engelse, de Nederlandse, de Franse en de Philippijnse taal. In geval van afwijkende uitlegging zal de Engelse tekst doorslaggevend zijn.
 
-**Voor de Benelux Economische Unie:**
+*Voor de Benelux Economische Unie:*
 
 (w.g.) G. J. DISSEVELT
 
 (w.g.) J. VAN CALOEN
 
-**Voor de Republiek der Philippijnen:**
+*Voor de Republiek der Philippijnen:*
 
 (w.g.) NARCISO RAMOS

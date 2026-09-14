@@ -1,109 +1,90 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije inzake de regeling van financiële vraagstukken"
 identifier: "BWBV0004582"
-country: "nl"
-rank: "verdrag"
-publication_date: "1962-07-01"
-last_updated: "1962-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004582"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004202283"
-version_id: "10004379582"
-internal_id: "C10006990851"
-label_id: "10004187894"
-dtd_version: "2.0"
-original_entry_into_force: "1962-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004582/1962-07-01/0"
-intitule_bron: "Trb.1961-96"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-09-15"
-intitule_in_force: "1962-11-01"
-intitule_status: "goed"
-original_publication: "Trb.1961-96"
-original_published_date: "1961-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-96"
-entry_into_force_date: "1962-07-01"
-jci_1_3: "jci1.3:c:BWBV0004582&z=1962-07-01&g=1962-07-01"
-jci_1_0: "1.0:c:BWBV0004582&g=1962-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-07-01"
+publicatiedatum: 1962-07-01
+laatste_update: 1962-07-01
+status: geldig
+toestand: 1962-07-01
+bron: "https://wetten.overheid.nl/BWBV0004582"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije inzake de regeling van financiële vraagstukken
 
-De Nederlandse Regering en de Bulgaarse Regering, verlangende financiële vraagstukken tussen hun beide landen te regelen, hebben de volgende Overeenkomst gesloten:
+*Le Gouvernement néerlandais et le Gouvernement bulgare, désireux de régler des problèmes financiers entre leurs pays, ont conclu l'Accord suivant:*
 
-##### Artikel 1
+##### Article premier
 
-1. De Bulgaarse Regering betaalt aan de Nederlandse Regering een bedrag van 1.500.000 gulden, berekend op basis van 1 gulden = 0,245489 gram fijn goud, bij wijze van algehele afdoening:
+1. Le Gouvernement bulgare paiera au Gouvernement néerlandais un montant fixé à 1.500.000 florins néerlandais, calculé à la base de 1 florin néerlandais = 0,245489 gr. or pur, à titre de règlement global et forfaitaire:
 
-- a). van de schadevergoedingsverplichtingen voortvloeiende uit de Bulgaarse maatregelen strekkend tot nationalisatie, onteigening, confiscatie of enigerlei andere vorm van gehele of gedeeltelijke ontneming van het bezit, waardoor eigendommen, rechten of belangen van natuurlijke personen of rechtspersonen, die zowel ten tijde van het uitvaardigen dezer maatregelen als van de ondertekening van de onderhavige Overeenkomst Nederlands waren, zijn aangetast;
+- a) des indemnités dues en raison des mesures bulgares de nationalisation, expropriation, confiscation ou autres mesures de dépossession totale ou partielle qui ont atteint les biens, droits ou intérêts de personnes physiques ou morales néerlandaises ayant ce statut tant à la date où ces mesures ont été prises qu'à la date de la signature du présent Accord;
 
-- b). van de verplichtingen van de Bulgaarse Regering jegens de Nederlandse Regering en jegens Nederlandse natuurlijke personen of rechtspersonen uit hoofde van artikel 23 van het op 10 februari 1947 te Parijs ondertekende Vredesverdrag met Bulgarije;
+- b) des obligations du Gouvernement bulgare envers le Gouvernement néerlandais et les personnes physiques ou morales néerlandaises, résultant de l'article 23 du Traité de Paix avec la Bulgarie, signé à Paris le 10 février 1947;
 
-- c). van alle handels- en financiële schuldvorderingen van Nederlandse natuurlijke of rechtspersonen op Bulgaarse schuldenaren voor zover deze schuldvorderingen zijn ontstaan vóór de afsluiting van de Bulgaars-Nederlandse Betalingsovereenkomst van 4 juni 1947;
+- c) de toutes créances commerciales et financières de personnes physiques ou morales néerlandaises sur des débiteurs bulgares, pour autant que ces créances sont nées avant la conclusion de l'Accord de Paiement bulgaro-néerlandais du 4 juin 1947;
 
-- d). van de verplichtingen voortvloeiende uit in het buitenland geplaatste Bulgaarse overheidsleningen of door de Bulgaarse staat gewaarborgde leningen voor zover op 31 december 1960 in handen van natuurlijke personen of rechtspersonen die op de datum van ondertekening van de onderhavige overeenkomst Nederlands waren.
+- d) des obligations d'emprunts publics extérieurs bulgares ou d'emprunts garantis par l'Etat bulgare, appartenant le 31 décembre 1960 à des personnes physiques ou morales néerlandaises ayant ce statut à la date de la signature du présent Accord.
 
-2. Indien het hierboven weergegeven goudgehalte van de Nederlandse gulden een wijziging mocht ondergaan, zal het nog niet betaalde gedeelte van het schadevergoedingsbedrag dienovereenkomstig worden aangepast.
+2. Si la teneur en or du florin néerlandais visée ci-dessus venait à être modifiée, la partie non payée de la somme globale sera ajustée conformément.
 
-##### Artikel 2
+##### Article 2
 
-1. De betaling van het in artikel 1 bedoelde bedrag door de Bulgaarse Regering aan de Nederlandse Regering vindt plaats door middel van halfjaarlijkse stortingen, waarbij elke storting gelijk is aan 7 % van de betalingen die in het voorafgaande kalenderhalfjaar zijn verricht door Nederlandse afnemers van goederen van Bulgaarse oorsprong of herkomst.
+1. Le règlement du montant prévu à l'article 1er sera effectué en florins néerlandais par le Gouvernement bulgare envers le Gouvernement néerlandais par des versements semestriels, chaque versement étant égal à 7 % des paiements effectués pendant le semestre calendrier précédent par des acheteurs néerlandais de marchandises d'origine ou de provenance bulgare.
 
-2. De halfjaarlijkse stortingen worden in opdracht van de Bulgaarse Regering door de Nationale Bank van Bulgarije verricht op basis van de door de Nederlandsche Bank aan de Nationale Bank van Bulgarije te verstrekken gegevens.
+2. Les versements semestriels s'effectueront sur l'ordre du Gouvernement bulgare par la Banque Nationale de Bulgarie sur la base des données fournies par la Nederlandsche Bank à la Banque Nationale de Bulgarie.
 
-3. De halfjaarlijkse stortingen geschieden uiterlijk op de laatste dag van de tweede maand volgende op 30 juni of 31 december van elk jaar en worden geboekt op een in de boeken der Nederlandsche Bank te openen rekening „Schadevergoeding-Bulgarije” ten name van de Nederlandse Regering.
+3. Les versements semestriels auront lieu au plus tard à la fin du deuxième mois suivant le 30 juin et le 31 décembre de chaque année et seront portés au crédit d'un compte en florins néerlandais, dénommé „Indemnisation - Bulgarie” qui sera ouvert sur les livres de la Nederlandsche Bank au nom du Gouvernement néerlandais.
 
-4. De eerste storting heeft betrekking op het halfjaar dat onmiddellijk na het tijdstip van de inwerkingtreding van de Overeenkomst eindigt.
+4. Le premier versement se rapportera à la période semestrielle se terminant immédiatement après la date de l'entrée en vigueur de l'Accord.
 
-5. De laatste storting zal gelijk zijn aan het verschil tussen het gehele krachtens artikel 1 te betalen bedrag en de som van de reeds verrichte stortingen.
+5. Le dernier versement représentera la différence entre le montant total à payer en vertu de l'article 1er et le total des versements déjà effectués.
 
-##### Artikel 3
+##### Article 3
 
-1. Na volledige betaling van het in artikel 1 vastgestelde bedrag zal de Nederlandse Regering de in voornoemd artikel bedoelde vorderingen als definitief geregeld beschouwen. Door deze betaling is de Bulgaarse Regering bevrijd van verdere verplichtingen uit dien hoofde jegens de Nederlandse Regering en jegens de belanghebbende Nederlandse natuurlijke en rechtspersonen.
+1. Après paiement intégral du montant fixé à l'article 1er, le Gouvernement néerlandais considérera comme définitivement réglées les prétentions néerlandaises visées à l'article précité. Ce règlement aura effet libératoire pour le Gouvernement bulgare à l'égard du Gouvernement néerlandais et des personnes physiques et morales néerlandaises intéressées.
 
-2. Harerzijds zal de Bulgaarse Regering alle vorderingen van de Bulgaarse Staat jegens de Nederlandse natuurlijke en rechtspersonen, voor zover deze vorderingen zijn ontstaan vóór het tijdstip van ondertekening van de Bulgaars-Nederlandse Betalingsovereenkomst van 4 juni 1947, als definitief geregeld beschouwen.
+2. De son côté, le Gouvernement bulgare considérera comme définitivement réglées toutes les prétentions de l'Etat bulgare envers les personnes physiques et morales néerlandaises, ayant pris naissance avant la signature de l'Accord de Paiement bulgaro-néerlandais du 4 juin 1947.
 
-3. De Bulgaarse Regering beschouwt alle Bulgaarse vorderingen jegens de Nederlandse belanghebbenden, te wier behoeve de onderhavige Overeenkomst is aangegaan, als definitief geregeld. Noch de eigendommen, rechten en belangen, noch de schadevergoedingsbedragen zullen aan toekomstige Bulgaarse belastingen en heffingen worden onderworpen.
+3. Le Gouvernement bulgare considérera comme définitivement réglées toutes les prétentions bulgares envers les intéressés néerlandais bénéficiaires du présent Accord. Les biens, droits et intérêts, ainsi que les indemnités ne seront pas imposés de futures impôts et charges bulgares.
 
-4. Van het ogenblik van de inwerkingtreding van de onderhavige Overeenkomst af zullen de Nederlandse Regering en de Bulgaarse Regering de door deze Overeenkomst geregelde vorderingen niet meer geldend kunnen maken dan wel daaraan op enigerlei wijze steun kunnen verlenen. Evenzo zal de Nederlandse Regering aan geen enkele eventuele vordering van haar onderdanen die geweigerd hebben gebruik te maken van de uit deze Overeenkomst voortvloeiende voordelen, steun verlenen.
+4. Dès l'entrée en vigueur du présent Accord, le Gouvernement néerlandais, de même que le Gouvernement bulgare ne pourront plus faire valoir, ni appuyer par quel moyen que ce soit, les prétentions, réglées par le présent Accord. De même, le Gouvernement néerlandais n'appuyera aucune prétention éventuelle de ses ressortissants, qui ont refusé les bénéfices du présent Accord.
 
-##### Artikel 4
+##### Article 4
 
-De Nederlandse vorderingen voortvloeiende uit na de ondertekening van deze Overeenkomst genomen Bulgaarse wettelijke of andere maatregelen zijn niet door de bepalingen van deze Overeenkomst geregeld.
+Les prétentions néerlandaises résultant d'actes législatifs ou d'autres mesures bulgares postérieurs à la signature du présent Accord ne sont pas réglées par les dispositions du présent Accord.
 
-##### Artikel 5
+##### Article 5
 
-De Nederlandse Regering zal, voor zover mogelijk, de notariële akten die in het bezit zijn van de belanghebbenden wier vorderingen krachtens artikel 1, lid 1, **a,** zijn geregeld, aan de Bulgaarse Regering ter hand stellen. Desgelijks zal de Nederlandse Regering de waardepapieren en schuldbewijzen van in het buitenland geplaatste Bulgaarse overheidsleningen tezamen met de niet verzilverde coupons, voor zover deze waardepapieren en schuldbewijzen door de houders worden aangeboden voor wederinkoop door de Bulgaarse Regering, aan de Bulgaarse Regering ter hand stellen.
+Le Gouvernement néerlandais remettra dans la mesure du possible au Gouvernement bulgare les actes notariés dans la possession des intéressés, dont les prétentions se trouvent réglées en vertu de l'article 1er, paragraphe 1, alinéa *a.* De même, le Gouvernement néerlandais remettra au Gouvernement bulgare les papiers-valeur et les titres d'obligations d'emprunts publics extérieurs bulgares, avec les coupons non encaissés, déclarés par les porteurs aux fins de rachat par le Gouvernement bulgare.
 
-##### Artikel 6
+##### Article 6
 
-1. De bevoegdheid tot en de verantwoordelijkheid voor de verdeling van het in artikel 1 genoemde bedrag van 1.500.000 gulden onder de Nederlandse belanghebbenden berust volledig bij de Nederlandse Regering.
+1. La répartition du montant global et forfaitaire de 1.500.000 florins néerlandais, prévu à l'article 1er, entre les personnes néerlandaises intéressées est entièrement de la compétence et de la responsabilité du Gouvernement néerlandais.
 
-2. Ter vergemakkelijking van de uitvoering van deze Overeenkomst zal de Bulgaarse Regering aan de Nederlandse Regering op haar verzoek, en voor zover mogelijk, alle inlichtingen verschaffen, welke de Nederlandse autoriteiten behoeven om de aanvragen van Nederlandse belanghebbenden die tot schadevergoeding gerechtigd zijn, te onderzoeken.
+2. En vue de faciliter l'exécution du présent Accord, le Gouvernement bulgare fournira au Gouvernement néerlandais, à sa demande et dans la mesure du possible, toutes les informations nécessaires aux autorités néerlandaises pour examiner les requêtes des intéressés néerlandais ayant droit à une indemnité.
 
-##### Artikel 7
+##### Article 7
 
-De Nederlandsche Bank en de Nationale Bank van Bulgarije, ieder handelend voor rekening van haar Regering, zullen in gemeenschappelijk overleg de technische voorzieningen voor de toepassing van deze Overeenkomst treffen.
+La Nederlandsche Bank et la Banque Nationale de Bulgarie, chacune agissant pour le compte de son Gouvernement, conviendront des dispositions techniques à prendre en vue de l'application du présent Accord.
 
-##### Artikel 8
+##### Article 8
 
-De toepassing van deze Overeenkomst op Suriname en de Nederlandse Antillen is onderworpen aan de goedkeuring van de Regeringen van die landen, welke zal worden beschouwd als stilzwijgend te zijn verleend, tenzij de Nederlandse Regering de Bulgaarse Regering binnen drie maanden na de inwerkingtreding van deze Overeenkomst van het tegendeel in kennis stelt.
+L'application du présent Accord au Surinam et aux Antilles néerlandaises est soumise à l'approbation de leurs Gouvernements respectifs, laquelle sera considérée comme accordée tacitement sauf notification contraire du Gouvernement néerlandais au Gouvernement bulgare dans les trois mois qui suivent l'entrée en vigueur du présent Accord.
 
-##### Artikel 9
+##### Article 9
 
-Deze Overeenkomst treedt in werking op een datum vast te stellen bij een wisseling van nota's, waarin wordt medegedeeld, dat de door de nationale wetgeving van elk der Overeenkomstsluitende Partijen vereiste formaliteiten zijn vervuld.
+Le présent Accord entrera en vigueur à une date à fixer par un échange de notes, notifiant que les formalités requises par la législation nationale de chacune des Parties Contractantes ont été remplies.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 
 FAIT à Sofia, le 7 juillet 1961 en double exemplaire, en langue française.
 
-**Pour le Gouvernement Néerlandais:**
+*Pour le Gouvernement Néerlandais:*
 
 (s.) W. A. FROWEIN
 
-**Pour le Gouvernement Bulgare:**
+*Pour le Gouvernement Bulgare:*
 
 (s.) V. TODOROV

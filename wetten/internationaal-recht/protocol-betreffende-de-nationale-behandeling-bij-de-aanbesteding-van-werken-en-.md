@@ -1,60 +1,27 @@
 ---
 title: "Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen"
 identifier: "BWBV0004734"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-11-01"
-last_updated: "1960-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004734"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004285653"
-version_id: "10004483082"
-internal_id: "C10007309501"
-label_id: "10004270604"
-dtd_version: "2.0"
-original_entry_into_force: "1958-08-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004734/1960-11-01/0"
-intitule_bron: "Trb.1956-76"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-07-30"
-intitule_in_force: "1958-10-08"
-intitule_status: "goed"
-original_publication: "Trb.1956-76"
-original_published_date: "1956-07-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-76"
-entry_into_force_date: "1958-08-29"
-jci_1_3: "jci1.3:c:BWBV0004734&z=1960-11-01&g=1960-11-01"
-jci_1_0: "1.0:c:BWBV0004734&g=1960-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-08-29"
+publicatiedatum: 1958-08-29
+laatste_update: 1960-11-01
+status: geldig
+toestand: 1960-11-01
+bron: "https://wetten.overheid.nl/BWBV0004734"
+opgehaald: 2026-09-14
 ---
+
 # Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen
 
-De Regeringen van Nederland, België en Luxemburg,
-
-Gelet op hoofdstuk IV, punt 3, van het Protocol van Oostende van 31 juli 1950, betreffende de nationale behandeling inzake openbare aanbestedingen;
-
-Gelet op de beginselen, nedergelegd in artikel VI van het op 15 october 1949 ondertekende Voor-Unie Accoord, alsmede in punt 5 van het daarbij behorende Protocol van Ondertekening;
-
-Bezield door de wens te komen tot een volledige toepassing van het beginsel der nationale behandeling in het raam der Economische Unie;
-
-Erkennende dat dit doel slechts geleidelijk kan worden bereikt;
-
-Zijn ter verwezenlijking van een eerste stap in deze richting het navolgende overeengekomen:
-
-Voor voorlopige toepassing zie ook Trb. 1958/137.
-
-Voor voorlopige toepassing zie ook Trb. 1958/137.
+*De Regeringen van Nederland, België en Luxemburg, Gelet op hoofdstuk IV, punt 3, van het Protocol van Oostende van 31 juli 1950, betreffende de nationale behandeling inzake openbare aanbestedingen; Gelet op de beginselen, nedergelegd in artikel VI van het op 15 october 1949 ondertekende Voor-Unie Accoord, alsmede in punt 5 van het daarbij behorende Protocol van Ondertekening; Bezield door de wens te komen tot een volledige toepassing van het beginsel der nationale behandeling in het raam der Economische Unie; Erkennende dat dit doel slechts geleidelijk kan worden bereikt; Zijn ter verwezenlijking van een eerste stap in deze richting het navolgende overeengekomen:*
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
@@ -118,15 +85,15 @@ De Commissie is verplicht tot geheimhouding van alle gegevens van bijzondere of 
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 12
 

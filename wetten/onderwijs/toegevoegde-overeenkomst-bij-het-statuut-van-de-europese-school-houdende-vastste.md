@@ -1,42 +1,19 @@
 ---
 title: "Toegevoegde Overeenkomst bij het Statuut van de Europese School houdende vaststelling van een regeling voor het Europese Baccalaureaat"
 identifier: "BWBV0004908"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-03-10"
-last_updated: "1986-03-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004908"
+categorie: "Onderwijs"
 soort: "verdrag"
-stam_id: "10004375893"
-version_id: "10004577922"
-internal_id: "C10007218391"
-label_id: "10004360844"
-dtd_version: "2.0"
-original_entry_into_force: "1960-05-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004908/1986-03-10/0"
-intitule_bron: "Trb.1957-246"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-12-14"
-intitule_in_force: "1960-08-17"
-intitule_status: "goed"
-original_publication: "Trb.1957-246"
-original_published_date: "1957-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-246"
-entry_into_force_date: "1960-05-19"
-jci_1_3: "jci1.3:c:BWBV0004908&z=1986-03-10&g=1986-03-10"
-jci_1_0: "1.0:c:BWBV0004908&g=1986-03-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-05-19"
+publicatiedatum: 1960-05-19
+laatste_update: 1986-03-10
+status: geldig
+toestand: 1986-03-10
+bron: "https://wetten.overheid.nl/BWBV0004908"
+opgehaald: 2026-09-14
 ---
+
 # Toegevoegde Overeenkomst bij het Statuut van de Europese School houdende vaststelling van een regeling voor het Europese Baccalaureaat
 
-De Partijen bij het Statuut van de Europese School, ondertekend te Luxemburg op 12 april 1957,
-
-Verlangend de regelen voor het Europese Baccalaureaat vast te stellen,
-
-Zijn overeengekomen nopens de volgende bepalingen, welke de in artikel 5, 2e lid, van het Statuut bedoelde bijlage vormen:
+*De Partijen bij het Statuut van de Europese School, ondertekend te Luxemburg op 12 april 1957, Verlangend de regelen voor het Europese Baccalaureaat vast te stellen, Zijn overeengekomen nopens de volgende bepalingen, welke de in artikel 5, 2e lid, van het Statuut bedoelde bijlage vormen:*
 
 ##### Artikel 1
 
@@ -62,23 +39,23 @@ De wijze van inschrijving en de inschrijvingsgelden worden vastgesteld door de R
 
 1). Het Europese Baccalaureaatsexamen omvat de vakken die in het 6e en 7e leerjaar worden onderwezen, en heeft met name betrekking op:
 
-- -. de basistaal;
+- - de basistaal;
 
-- -. de eerste vreemde taal;
+- - de eerste vreemde taal;
 
-- -. ten minste één van de door de leerlingen gekozen keuzevakken;
+- - ten minste één van de door de leerlingen gekozen keuzevakken;
 
-- -. een van de onderdelen van de menswetenschappen: geschiedenis of aardrijkskunde;
+- - een van de onderdelen van de menswetenschappen: geschiedenis of aardrijkskunde;
 
-- -. een natuurwetenschappelijk vak.
+- - een natuurwetenschappelijk vak.
 
 Het aantal schriftelijke proeven is minimaal vier en maximaal zes; het aantal mondelinge proeven is minimaal drie en maximaal vijf.
 
 2). Ter beoordeling van de resultaten der kandidaten worden door de Examencommissie op een door de Raad van Bestuur vastgestelde wijze de volgende elementen in aanmerking genomen:
 
-- -. het eindexamen;
+- - het eindexamen;
 
-- -. een voorlopig cijfer, gebaseerd op eerdere studieresultaten.
+- - een voorlopig cijfer, gebaseerd op eerdere studieresultaten.
 
 3). Het eindexamen wordt ten dele schriftelijk en ten dele mondeling afgelegd. Bij de beoordeling van het eindexamen worden de cijfers 0 t/m 10 toegekend, waarbij 10 de hoogste waardering vertegenwoordigt. Voor ieder onderdeel van het examen wordt een coëfficiënt vastgesteld.
 
@@ -90,13 +67,13 @@ Het aantal schriftelijke proeven is minimaal vier en maximaal zes; het aantal mo
 
 1). Van de Examencommissie maken deel uit:
 
-- -. de Voorzitter, de Ondervoorzitters;
+- - de Voorzitter, de Ondervoorzitters;
 
-- -. de examinatoren uit de Lid-Staten die door de Raad van Bestuur worden aangewezen;
+- - de examinatoren uit de Lid-Staten die door de Raad van Bestuur worden aangewezen;
 
-- -. de Directeur van de School;
+- - de Directeur van de School;
 
-- -. de leraren van de hoogste klas die volgens de door de Raad van Bestuur vastgestelde bepalingen worden aangewezen.
+- - de leraren van de hoogste klas die volgens de door de Raad van Bestuur vastgestelde bepalingen worden aangewezen.
 
 2). Zij vormen samen de enige Examencommissie voor de verschillende taalgroepen van de middelbare school.
 
@@ -168,9 +145,9 @@ De leden van de Examencommissie zijn verplicht tot geheimhouding ten aanzien van
 
 Degenen die in het bezit zijn van het op de School behaalde Europese Baccalaureaatsdiploma:
 
-- a). genieten in hun respectieve landen alle voordelen die verbonden zijn aan het diploma of getuigschrift dat aan het eind van het middelbaar onderwijs van dat land wordt uitgereikt;
+- a) genieten in hun respectieve landen alle voordelen die verbonden zijn aan het diploma of getuigschrift dat aan het eind van het middelbaar onderwijs van dat land wordt uitgereikt;
 
-- b). kunnen met dezelfde rechten als leerlingen uit het desbetreffende land met gelijkwaardige diploma's, om toelating verzoeken tot elke universiteit op het grondgebied van de Verdragsluitende Partijen.
+- b) kunnen met dezelfde rechten als leerlingen uit het desbetreffende land met gelijkwaardige diploma's, om toelating verzoeken tot elke universiteit op het grondgebied van de Verdragsluitende Partijen.
 
 ##### Artikel 19. Algemene bepalingen
 

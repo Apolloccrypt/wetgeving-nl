@@ -1,118 +1,91 @@
 ---
 title: "Europese Overeenkomst inzake de afschaffing van legalisatie van stukken opgemaakt door diplomatieke of consulaire ambtenaren"
 identifier: "BWBV0004597"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-10-10"
-last_updated: "1970-10-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004597"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004211013"
-version_id: "10004388372"
-internal_id: "C10006999401"
-label_id: "10004196254"
-dtd_version: "2.0"
-original_entry_into_force: "1970-10-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004597/1970-10-10/0"
-intitule_bron: "Trb.1969-168"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-10-03"
-intitule_in_force: "1970-07-22"
-intitule_status: "goed"
-original_publication: "Trb.1969-168"
-original_published_date: "1969-10-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-168"
-entry_into_force_date: "1970-10-10"
-jci_1_3: "jci1.3:c:BWBV0004597&z=1970-10-10&g=1970-10-10"
-jci_1_0: "1.0:c:BWBV0004597&g=1970-10-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-10-10"
+publicatiedatum: 1970-10-10
+laatste_update: 1970-10-10
+status: geldig
+toestand: 1970-10-10
+bron: "https://wetten.overheid.nl/BWBV0004597"
+opgehaald: 2026-09-14
 ---
+
 # Europese Overeenkomst inzake de afschaffing van legalisatie van stukken opgemaakt door diplomatieke of consulaire ambtenaren
 
-Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn Leden;
+*The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members; Considering that relations between the member States, as well as relations between their diplomatic agents or consular officers, are increasingly based on mutual trust; Considering that the abolition of legalisation is likely to strengthen the ties between the member States by making it possible to use foreign documents in the same manner as documents emanating from national authorities; Convinced of the need to abolish the requirement of legalisation of documents executed by their diplomatic agents or consular officers, Have agreed as follows:*
 
-Overwegende dat de betrekkingen tussen de Lid-Staten en die tussen hun diplomatieke of consulaire ambtenaren steeds meer berusten op wederzijds vertrouwen;
+##### Article 1
 
-Overwegende dat de afschaffing van legalisatie ertoe bijdraagt de banden tussen de Lid-Staten te versterken, aangezien het, door die afschaffing, mogelijk wordt op dezelfde wijze gebruik te maken van buitenlandse stukken als van stukken afgegeven door nationale autoriteiten;
+For the purposes of this Convention, legalisation means only the formality used to certify the authenticity of the signature on a document, the capacity in which the person signing such document has acted and, where appropriate, the identity of the seal or stamp which such document bears.
 
-Overtuigd van de noodzaak tot afschaffing van het vereiste van legalisatie van stukken opgemaakt door hun diplomatieke of consulaire ambtenaren,
+##### Article 2
 
-Zijn als volgt overeengekomen:
+1. This Convention shall apply to documents which have been executed by diplomatic agents or consular officers of a Contracting Party, acting in their official capacity and exercising their functions in the territory of any State, and which have to be produced:
 
-##### Artikel 1
+- a. either in the territory of another Contracting Party, or
 
-In deze Overeenkomst wordt onder legalisatie uitsluitend verstaan de formaliteit waarbij een bevestigende verklaring wordt afgegeven omtrent de echtheid van de handtekening op een stuk, de hoedanigheid waarin de ondertekenaar van het stuk heeft gehandeld en, in voorkomend geval, de identiteit van het zegel of het stempel op het stuk.
+- b. to the diplomatic agents or consular officers of another Contracting Party exercising their functions in the territory of a State which is not a party to this Convention.
 
-##### Artikel 2
+2. This Convention shall also apply to official certificates, such as those recording the registration of a document or the fact that it was in existence on a certain date, and authentications of signatures, appended by diplomatic agents or consular officers to documents other than those referred to in paragraph 1.
 
-1. Deze Overeenkomst is van toepassing op stukken die zijn opgemaakt door diplomatieke of consulaire ambtenaren van een Overeenkomstsluitende Partij, handelende in hun officiële hoedanigheid op het grondgebied van welke Staat ook, en die moeten worden overgelegd:
+##### Article 3
 
-- (a). hetzij op het grondgebied van een andere Overeenkomstsluitende Partij,
+Each Contracting Party shall exempt from legalisation documents to which this Convention applies.
 
-- (b). hetzij aan de diplomatieke of consulaire ambtenaren van een andere Overeenkomstsluitende Partij die hun werkzaamheden uitoefenen op het grondgebied van een Staat die geen partij is bij deze Overeenkomst.
+##### Article 4
 
-2. Deze Overeenkomst is mede van toepassing op officiële verklaringen, zoals verklaringen omtrent registratie, het bestaan van een stuk op een bepaalde datum en de echtheid van een handtekening, welke verklaringen door diplomatieke of consulaire ambtenaren zijn geplaatst op andere stukken dan die bedoeld in het eerste lid.
+1. Each Contracting Party shall take the measures necessary to avoid the carrying out by its authorities of legalisations in cases where this Convention abolishes legalisation.
 
-##### Artikel 3
+2. Each Contracting Party shall provide for the verification, where necessary, of the authenticity of the documents to which this Convention applies. Such verification shall not give rise to payment of any taxes or expenses and shall be carried out as quickly as possible.
 
-ledere Overeenkomstsluitende Partij stelt de stukken waarop deze Overeenkomst van toepassing is, vrij van legalisatie.
+##### Article 5
 
-##### Artikel 4
+This Convention shall, as between the Contracting Parties, prevail over the provisions of any treaties, conventions or agreements which provide, or shall provide, for legalisation of the authenticity of the signature of a diplomatic agent or consular officer, the capacity in which such person signing the document has acted, and, where appropriate, the identity of the seal or stamp which the document bears.
 
-1. Iedere Overeenkomstsluitende Partij neemt de nodige maatregelen om te voorkomen dat haar autoriteiten tot legalisatie overgaan in de gevallen waarin deze Overeenkomst legalisatie afschaft.
+##### Article 6
 
-2. Iedere Overeenkomstsluitende Partij zal, indien nodig, zorg dragen voor de procedure de echtheid van de akten waarop deze Overeenkomst van toepassing is te bevestigen. Deze procedure geeft geen aanleiding tot de betaling van heffingen of kosten van welke aard ook, en wordt zo snel mogelijk verricht.
+1. This Convention shall be open to signature by the member States of the Council of Europe. It shall be subject to ratification or acceptance. Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.
 
-##### Artikel 5
+2. This Convention shall enter into force three months after the date of the deposit of the third instrument of ratification or acceptance.
 
-In de betrekkingen tussen de Overeenkomstsluitende Partijen hebben de bepalingen van deze Overeenkomst voorrang boven bepalingen van bestaande of toekomstige verdragen, overeenkomsten of regelingen die de echtheid van de handtekening van een diplomatieke of consulaire ambtenaar, de hoedanigheid waarin de ondertekenaar van een stuk heeft gehandeld en, in voorkomend geval, de identiteit van het zegel of het stempel op het stuk onderwerpen aan legalisatie.
+3. In respect of a signatory State ratifying or accepting subsequently, the Convention shall come into force three months after the date of the deposit of its instrument of ratification or acceptance.
 
-##### Artikel 6
+##### Article 7
 
-1. Deze Overeenkomst staat ter ondertekening open voor de Lid-Staten van de Raad van Europa. Zij dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a Member of the Council of Europe to accede to this Convention.
 
-2. Deze Overeenkomst treedt in werking drie maanden na het tijdstip van nederlegging van de derde akte van bekrachtiging of aanvaarding.
+2. Such accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect three months after the date of its deposit.
 
-3. Zij treedt voor iedere ondertekenende Staat die haar daarna bekrachtigt of aanvaardt, in werking drie maanden na de datum van nederlegging van diens akte van bekrachtiging of aanvaarding.
+##### Article 8
 
-##### Artikel 7
+1. Any Contracting Party may, at the time of signature or when depositing its instrument of ratification, acceptance or accession, specify the territory or territories to which this Convention shall apply.
 
-1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen Lid is van de Raad uitnodigen tot deze Overeenkomst toe te treden.
+2. Any Contracting Party may, when depositing its instrument of ratification, acceptance or accession or at any later date, by declaration addressed to the Secretary General of the Council of Europe, extend this Convention to any other territory or territories specified in the declaration and for whose international relations it is responsible or on whose behalf it is authorised to give undertakings.
 
-2. Deze toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, en wordt van kracht drie maanden na de datum van nederlegging daarvan.
+3. Any declaration made in pursuance of the preceding paragraph may, in respect of any territory mentioned in such declaration, be withdrawn according to the procedure laid down in Article 9 of this Convention.
 
-##### Artikel 8
+##### Article 9
 
-1. Iedere Overeenkomstsluitende Partij kan bij de ondertekening op het ogenblik van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, aangeven op welk gebied of op welke gebieden deze Overeenkomst van toepassing is.
+1. This Convention shall remain in force indefinitely.
 
-2. Iedere Overeenkomstsluitende Partij kan, op het ogenblik van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding of op een later tijdstip, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving, de toepasselijkheid van deze Overeenkomst uitbreiden tot het gebied of de gebieden genoemd in deze kennisgeving, voor de internationale betrekkingen waarvan zij verantwoordelijk is, of waarvoor zij bevoegd is overeenkomsten aan te gaan.
+2. Any Contracting Party may, in so far as it is concerned, denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.
 
-3. Elke krachtens het bepaalde van het voorgaande lid afgelegde verklaring kan, ten aanzien van elk in deze verklaring genoemd gebied, worden ingetrokken overeenkomstig de procedure omschreven in artikel 9 van deze Overeenkomst.
+3. Such denunciation shall take effect six months after the date of receipt by the Secretary General of such notification.
 
-##### Artikel 9
+##### Article 10
 
-1. Deze Overeenkomst is voor onbepaalde tijd van kracht.
+The Secretary General of the Council of Europe shall notify the member States of the Council and any State which has acceded to this Convention of:
 
-2. Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
+- a. any signature;
 
-3. Deze opzegging wordt van kracht zes maanden na het tijdstip van ontvangst van deze kennisgeving door de Secretaris-Generaal.
+- b. any deposit of an instrument of ratification, acceptance or accession;
 
-##### Artikel 10
+- c. any date of entry into force of this Convention;
 
-De Secretaris-Generaal van de Raad van Europa doet aan de Leden van de Raad en aan iedere Staat die tot deze Overeenkomst is toegetreden, mededeling van:
+- d. any declaration received in pursuance of the provisions of Article 8;
 
-- (a). elke ondertekening;
-
-- (b). de nederlegging van elke akte van bekrachtiging, aanvaarding of toetreding;
-
-- (c). elke datum van inwerkingtreding van deze Overeenkomst;
-
-- (d). elke kennisgeving ontvangen krachtens het bepaalde in artikel 8;
-
-- (e). elke krachtens de bepalingen van artikel 9 ontvangen kennisgeving en de datum waarop de opzegging van kracht wordt.
+- e. any notification received in pursuance of the provisions of Article 9 and the date on which denunciation takes effect.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

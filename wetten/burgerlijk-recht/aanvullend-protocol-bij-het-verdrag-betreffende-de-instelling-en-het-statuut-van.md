@@ -1,50 +1,19 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van de personen in dienst van de Benelux Economische Unie"
 identifier: "BWBV0004547"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-12-01"
-last_updated: "1986-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004547"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004186533"
-version_id: "10004362592"
-internal_id: "C10006984601"
-label_id: "10004172114"
-dtd_version: "2.0"
-original_entry_into_force: "1974-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004547/1986-12-01/0"
-intitule_bron: "Trb.1969-128"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-08-15"
-intitule_in_force: "1973-12-21"
-intitule_status: "goed"
-original_publication: "Trb.1969-128"
-original_published_date: "1969-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-128"
-entry_into_force_date: "1974-01-01"
-jci_1_3: "jci1.3:c:BWBV0004547&z=1986-12-01&g=1986-12-01"
-jci_1_0: "1.0:c:BWBV0004547&g=1986-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-01-01"
+publicatiedatum: 1974-01-01
+laatste_update: 1986-12-01
+status: geldig
+toestand: 1986-12-01
+bron: "https://wetten.overheid.nl/BWBV0004547"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Protocol bij het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof inzake de rechtsbescherming van de personen in dienst van de Benelux Economische Unie
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Gelet op het [Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117), ondertekend te Brussel op 31 maart 1965,
-
-Gelet op de Aanbeveling van de Raadgevende Interparlementaire Beneluxraad van 15 januari 1965 en het door die Raad op 29 november 1968 uitgebrachte advies,
-
-Verlangende rechtsbescherming te verlenen aan de personen in dienst van de Benelux Economische Unie door instelling van een ambtenarenrechtspraak,
-
-Hebben tot dat doel besloten over te gaan tot het sluiten van een Aanvullend Protocol bij het [Verdrag betreffende de instelling van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117), en zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Gelet op het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, ondertekend te Brussel op 31 maart 1965, Gelet op de Aanbeveling van de Raadgevende Interparlementaire Beneluxraad van 15 januari 1965 en het door die Raad op 29 november 1968 uitgebrachte advies, Verlangende rechtsbescherming te verlenen aan de personen in dienst van de Benelux Economische Unie door instelling van een ambtenarenrechtspraak, Hebben tot dat doel besloten over te gaan tot het sluiten van een Aanvullend Protocol bij het Verdrag betreffende de instelling van een Benelux-Gerechtshof, en zijn de volgende bepalingen overeengekomen:*
 
 ### HOOFDSTUK I. Bevoegdheid
 
@@ -255,30 +224,6 @@ Dit Protocol maakt een integrerend bestanddeel uit van het op 31 maart 1965 te B
 1. Dit Protocol zal worden bekrachtigd en de akten van bekrachtiging zullen worden neergelegd bij het Secretariaat-Generaal van de Benelux Economische Unie.
 
 2. Het Protocol treedt in werking op de eerste dag van de maand, volgende op de datum van neerlegging van de derde akte van bekrachtiging.
-
-## A. ALGEMEEN
-
-## B. TOELICHTING OP DE ARTIKELEN
-
-### HOOFDSTUK I. Bevoegdheid
-
-### HOOFDSTUK II. Intern beroep
-
-### HOOFDSTUK III. Uitblijven van de beslissing
-
-### HOOFDSTUK IV. Beroepsgronden
-
-### HOOFDSTUK V. Vertegenwoordiging en bijstand van partijen
-
-### HOOFDSTUK VI. Procesgang
-
-### HOOFDSTUK VII. Taalgebruik
-
-### HOOFDSTUK VIII. Uitspraken van het Hof
-
-### HOOFDSTUK IX. Tenuitvoerlegging
-
-### HOOFDSTUK X. Slotbepalingen
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Protocol hebben ondertekend.
 

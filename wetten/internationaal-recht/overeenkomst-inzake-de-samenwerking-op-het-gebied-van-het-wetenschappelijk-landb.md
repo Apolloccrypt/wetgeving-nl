@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst inzake de samenwerking op het gebied van het wetenschappelijk landbouwonderzoek tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken"
 identifier: "BWBV0004673"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-09-14"
-last_updated: "1971-09-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004673"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004254743"
-version_id: "10004442062"
-internal_id: "C10006997751"
-label_id: "10004239684"
-dtd_version: "2.0"
-original_entry_into_force: "1971-09-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004673/1971-09-14/0"
-intitule_bron: "Trb.1970-96"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-06-24"
-intitule_in_force: "1971-09-28"
-intitule_status: "goed"
-original_publication: "Trb.1970-96"
-original_published_date: "1970-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-96"
-entry_into_force_date: "1971-09-14"
-jci_1_3: "jci1.3:c:BWBV0004673&z=1971-09-14&g=1971-09-14"
-jci_1_0: "1.0:c:BWBV0004673&g=1971-09-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-09-14"
+publicatiedatum: 1971-09-14
+laatste_update: 1971-09-14
+status: geldig
+toestand: 1971-09-14
+bron: "https://wetten.overheid.nl/BWBV0004673"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake de samenwerking op het gebied van het wetenschappelijk landbouwonderzoek tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken
 
-Het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken,
-
-de wens koesterend de samenwerking op het gebied van het wetenschappelijk landbouwonderzoek en tevens de verdere versteviging van de vriendschappelijke banden tussen beide landen te bevorderen,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken, de wens koesterend de samenwerking op het gebied van het wetenschappelijk landbouwonderzoek en tevens de verdere versteviging van de vriendschappelijke banden tussen beide landen te bevorderen, zijn het volgende overeengekomen:*
 
 ##### Artikel I
 

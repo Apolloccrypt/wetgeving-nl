@@ -1,52 +1,33 @@
 ---
 title: "Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende het verblijf van vluchtelingen als bedoeld in het Verdrag betreffende de status van vluchtelingen met Bijlagen (Verdrag van Genève van 28 juli 1951)"
 identifier: "BWBV0004519"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-04-01"
-last_updated: "1965-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004519"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004174173"
-version_id: "10004348162"
-internal_id: "C10006999751"
-label_id: "10004159184"
-dtd_version: "2.0"
-original_entry_into_force: "1965-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004519/1965-04-01/0"
-intitule_bron: "Trb.1965-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-05-14"
-intitule_in_force: "1965-05-14"
-intitule_status: "goed"
-original_publication: "Trb.1965-46"
-original_published_date: "1965-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-46"
-entry_into_force_date: "1965-04-01"
-jci_1_3: "jci1.3:c:BWBV0004519&z=1965-04-01&g=1965-04-01"
-jci_1_0: "1.0:c:BWBV0004519&g=1965-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-04-01"
+publicatiedatum: 1965-04-01
+laatste_update: 1965-04-01
+status: geldig
+toestand: 1965-04-01
+bron: "https://wetten.overheid.nl/BWBV0004519"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende het verblijf van vluchtelingen als bedoeld in het Verdrag betreffende de status van vluchtelingen met Bijlagen (Verdrag van Genève van 28 juli 1951)
 
-Met het doel bepaalde vraagstukken met betrekking tot reisdocumenten en het verblijf van vluchtelingen als bedoeld in het Verdrag betreffende de status van vluchtelingen met Bijlagen (Verdrag van Genève van 28 juli 1951) in het belang dezer vluchtelingen in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:
+*Met het doel bepaalde vraagstukken met betrekking tot reisdocumenten en het verblijf van vluchtelingen als bedoeld in het Verdrag betreffende de status van vluchtelingen met Bijlagen (Verdrag van Genève van 28 juli 1951) in het belang dezer vluchtelingen in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:*
 
 ##### Artikel 1
 
 1). De bevoegde autoriteiten van de Republiek Oostenrijk zullen aan de houder van een krachtens het bepaalde in artikel 28 van het Verdrag van Genève van 28 juli 1951 door de autoriteiten van het Koninkrijk België, het Groothertogdom Luxemburg of het Koninkrijk der Nederlanden afgegeven reisdocument, overeenkomstig het bepaalde in lid 11 van de Bijlage van dat Verdrag, een nieuw reisdocument uitreiken, indien de vluchteling rechtmatig
 
-- a). langer dan de geldigheidsduur van het reisdocument, of
+- a) langer dan de geldigheidsduur van het reisdocument, of
 
-- b). tenminste twee jaren zonder onderbreking
+- b) tenminste twee jaren zonder onderbreking
 
 op het grondgebied van de Republiek Oostenrijk verblijf heeft gehouden.
 
-2). Een tijdelijke afwezigheid tot een totale duur van zes maanden wordt voor het verblijf als bedoeld sub **b** van lid 1 niet als onderbreking beschouwd.
+2). Een tijdelijke afwezigheid tot een totale duur van zes maanden wordt voor het verblijf als bedoeld sub *b* van lid 1 niet als onderbreking beschouwd.
 
-3). Tijdvakken gedurende welke de vluchteling een door het gerecht opgelegde vrijheidsstraf ondergaat of zich aan een medische behandeling in een ziekenhuis moet onderwerpen, worden bij de berekening van de termijn bedoeld in lid 1 **b**, niet medegerekend.
+3). Tijdvakken gedurende welke de vluchteling een door het gerecht opgelegde vrijheidsstraf ondergaat of zich aan een medische behandeling in een ziekenhuis moet onderwerpen, worden bij de berekening van de termijn bedoeld in lid 1 *b*, niet medegerekend.
 
 ##### Artikel 2
 
@@ -58,15 +39,15 @@ op het grondgebied van de Republiek Oostenrijk verblijf heeft gehouden.
 
 1). De bevoegde autoriteiten van het Koninkrijk België, het Groothertogdom Luxemburg of het Koninkrijk der Nederlanden zullen aan de houder van een krachtens het bepaalde in artikel 28 van het Verdrag van Genève van 28 juli 1951, door de autoriteiten van de Republiek Oostenrijk afgegeven reisdocument, overeenkomstig het bepaalde in lid 11 van de Bijlage van dat Verdrag een nieuw reisdocument uitreiken, indien de vluchteling rechtmatig
 
-- a). langer dan de geldigheidsduur van het reisdocument, of
+- a) langer dan de geldigheidsduur van het reisdocument, of
 
-- b). tenminste twee jaren zonder onderbreking
+- b) tenminste twee jaren zonder onderbreking
 
 op het grondgebied van het Koninkrijk België, het Groothertogdom Luxemburg of het Koninkrijk der Nederlanden verblijf heeft gehouden.
 
-2). Een tijdelijke afwezigheid tot een totale duur van zes maanden wordt voor het verblijf als bedoeld sub **b** van lid 1 niet als onderbreking beschouwd.
+2). Een tijdelijke afwezigheid tot een totale duur van zes maanden wordt voor het verblijf als bedoeld sub *b* van lid 1 niet als onderbreking beschouwd.
 
-3). Tijdvakken, gedurende welke de vluchteling een door het gerecht opgelegde vrijheidsstraf ondergaat of zich aan een medische behandeling in een ziekenhuis moet onderwerpen, worden bij de berekening van de termijn bedoeld in lid 1 **b**, niet medegerekend.
+3). Tijdvakken, gedurende welke de vluchteling een door het gerecht opgelegde vrijheidsstraf ondergaat of zich aan een medische behandeling in een ziekenhuis moet onderwerpen, worden bij de berekening van de termijn bedoeld in lid 1 *b*, niet medegerekend.
 
 ##### Artikel 4
 
@@ -82,9 +63,9 @@ Indien de autoriteiten van een Overeenkomstsluitende Staat in een uitzonderingsg
 
 De onderhavige Overeenkomst laat onverlet:
 
-- 1). de krachtens het Verdrag van Genève van 28 juli 1951 aan vluchtelingen toegekende rechten,
+- 1) de krachtens het Verdrag van Genève van 28 juli 1951 aan vluchtelingen toegekende rechten,
 
-- 2). de Overeenkomsten tussen de Overeenkomstsluitende Staten betreffende het overnemen van personen aan de grens.
+- 2) de Overeenkomsten tussen de Overeenkomstsluitende Staten betreffende het overnemen van personen aan de grens.
 
 ##### Artikel 7
 

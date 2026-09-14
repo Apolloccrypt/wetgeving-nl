@@ -1,50 +1,19 @@
 ---
 title: "Arbeidsverdrag tussen België, Luxemburg en Nederland"
 identifier: "BWBV0004805"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-11-01"
-last_updated: "1960-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004805"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004330693"
-version_id: "10004530472"
-internal_id: "C10007160541"
-label_id: "10004315774"
-dtd_version: "2.0"
-original_entry_into_force: "1960-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004805/1960-11-01/0"
-intitule_bron: "Trb.1956-98"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-08-29"
-intitule_in_force: "1961-01-18"
-intitule_status: "goed"
-original_publication: "Trb.1956-98"
-original_published_date: "1956-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-98"
-entry_into_force_date: "1960-11-01"
-jci_1_3: "jci1.3:c:BWBV0004805&z=1960-11-01&g=1960-11-01"
-jci_1_0: "1.0:c:BWBV0004805&g=1960-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-11-01"
+publicatiedatum: 1960-11-01
+laatste_update: 1960-11-01
+status: geldig
+toestand: 1960-11-01
+bron: "https://wetten.overheid.nl/BWBV0004805"
+opgehaald: 2026-09-14
 ---
+
 # Arbeidsverdrag tussen België, Luxemburg en Nederland
 
-Zijne Majesteit de Koning der Belgen,
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, en
-
-Hare Majesteit de Koningin der Nederlanden,
-
-In gelijke mate bezield door de wens, te streven naar een gemeenschappelijke arbeidsmarkt voor Hun onderdanen;
-
-Verlangend, aan elkaars onderdanen gelijke arbeidsvoorwaarden toe te kennen als waartoe Hun eigen onderdanen gerechtigd zijn;
-
-Met het doel, op het grondgebied der drie landen het vrije verkeer van arbeidskrachten en de volledige tewerkstelling te bevorderen, alsmede de produktiebronnen van deze landen tot het uiterste tot ontwikkeling te brengen en te gebruiken;
-
-Hebben besloten, te dien einde een Verdrag te sluiten en hebben gevolmachtigden benoemd, die, na elkander mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, over de volgende bepalingen tot overeenstemming zijn gekomen:
+*Zijne Majesteit de Koning der Belgen, Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, en Hare Majesteit de Koningin der Nederlanden, In gelijke mate bezield door de wens, te streven naar een gemeenschappelijke arbeidsmarkt voor Hun onderdanen; Verlangend, aan elkaars onderdanen gelijke arbeidsvoorwaarden toe te kennen als waartoe Hun eigen onderdanen gerechtigd zijn; Met het doel, op het grondgebied der drie landen het vrije verkeer van arbeidskrachten en de volledige tewerkstelling te bevorderen, alsmede de produktiebronnen van deze landen tot het uiterste tot ontwikkeling te brengen en te gebruiken; Hebben besloten, te dien einde een Verdrag te sluiten en hebben gevolmachtigden benoemd, die, na elkander mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, over de volgende bepalingen tot overeenstemming zijn gekomen:*
 
 ##### Artikel 1
 

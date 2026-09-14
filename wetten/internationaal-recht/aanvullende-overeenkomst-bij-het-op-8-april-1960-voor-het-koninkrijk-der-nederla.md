@@ -1,42 +1,19 @@
 ---
 title: "Aanvullende Overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)"
 identifier: "BWBV0004413"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-08-01"
-last_updated: "1963-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004413"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004107693"
-version_id: "10004276582"
-internal_id: "C10006992701"
-label_id: "10004092774"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004413/1963-08-01/0"
-intitule_bron: "Trb.1962-54"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-06-13"
-intitule_in_force: "1963-08-08"
-intitule_status: "goed"
-original_publication: "Trb.1962-54"
-original_published_date: "1962-06-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-54"
-entry_into_force_date: "1963-08-01"
-jci_1_3: "jci1.3:c:BWBV0004413&z=1963-08-01&g=1963-08-01"
-jci_1_0: "1.0:c:BWBV0004413&g=1963-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-01"
+publicatiedatum: 1963-08-01
+laatste_update: 1963-08-01
+status: geldig
+toestand: 1963-08-01
+bron: "https://wetten.overheid.nl/BWBV0004413"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullende Overeenkomst bij het op 8 april 1960 voor het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland
-
-geleid door de wens de ontginning van de bodemschatten in de ondergrond van de Eemsmonding te bevorderen en met de bedoeling daarbij samen te werken in de geest van artikel 48 van het Eems-Dollardverdrag,
-
-zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland geleid door de wens de ontginning van de bodemschatten in de ondergrond van de Eemsmonding te bevorderen en met de bedoeling daarbij samen te werken in de geest van artikel 48 van het Eems-Dollardverdrag, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -62,11 +39,11 @@ De artikelen 4 tot en met 10 van deze Overeenkomst hebben betrekking op de in he
 
 (1). In het grensgebied vindt, onverminderd het Eems-Dollardverdrag, met betrekking tot
 
-- a). de opsporing en winning
+- a) de opsporing en winning
 
-- b). een met de opsporing en winning verband houdend handelen en nalaten
+- b) een met de opsporing en winning verband houdend handelen en nalaten
 
-- c). de voor de opsporing en winning ingerichte installaties
+- c) de voor de opsporing en winning ingerichte installaties
 
 aan de Nederlandse zijde van de lijn het Nederlandse recht, en aan de Duitse zijde van de lijn het Duitse recht toepassing. Het voorgaande vindt ten aanzien van de bevoegdheid der autoriteiten en gerechten overeenkomstige toepassing; met betrekking tot met de bodem verbonden installaties voor de opsporing of winning is artikel 33, lid 2 tot en met lid 6, van het Eems-Dollardverdrag van overeenkomstige toepassing.
 
@@ -96,13 +73,13 @@ aan de Nederlandse zijde van de lijn het Nederlandse recht, en aan de Duitse zij
 
 (2). De gerechtigden sluiten ten behoeve van deze samenwerking zo spoedig mogelijk overeenkomsten ten aanzien van de volgende aangelegenheden:
 
-- a). de wijze van berekening der aardolie- en aardgasvoorraden en de uitkomst daarvan;
+- a) de wijze van berekening der aardolie- en aardgasvoorraden en de uitkomst daarvan;
 
-- b). de bijzonderheden betreffende de verdeling der produkten en kosten overeenkomstig artikel 5, alsmede de boekhouding en accountantscontrole;
+- b) de bijzonderheden betreffende de verdeling der produkten en kosten overeenkomstig artikel 5, alsmede de boekhouding en accountantscontrole;
 
-- c). de vraag of en tot welk bedrag risicopremies als bedoeld in artikel 6, lid 3, dienen te worden toegekend;
+- c) de vraag of en tot welk bedrag risicopremies als bedoeld in artikel 6, lid 3, dienen te worden toegekend;
 
-- d). de geschillenregeling.
+- d) de geschillenregeling.
 
 (3). Het staat de gerechtigden vrij overeenkomsten af te sluiten over andere met hun samenwerking verband houdende vraagstukken; in deze overeenkomsten kunnen ook voor andere gevallen dan die bedoeld in artikel 6, lid 3, risicopremies worden overeengekomen.
 
@@ -155,38 +132,6 @@ Deze Overeenkomst moet worden bekrachtigd. De akten van bekrachtiging dienen zo 
 ##### Artikel 15
 
 Deze Overeenkomst treedt een maand na de uitwisseling der akten van bekrachtiging in werking. Zij maakt deel uit van het Eems-Dollardverdrag.
-
-Bij de ondertekening van de Aanvullende Overeenkomst bij het op 8 april 1960 door het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland ondertekende Verdrag tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) zijn de gevolmachtigden der beide Overeenkomstsluitende Partijen het volgende overeengekomen:
-
-##### Artikel 1
-
-(1). Bij de toepassing van de Aanvullende Overeenkomst dient onder Duits recht te worden verstaan het recht dat in het aan Duitse zijde aan het grensgebied grenzende gebied geldt. In het bijzonder dient hieronder te worden verstaan het mijnrecht, het arbeidsrecht, het sociale recht alsmede het belasting- en douanerecht.
-
-(2). Onder Nederlands recht dient in het bijzonder te worden verstaan het mijnrecht, het arbeidsrecht, het sociale recht alsmede het belasting- en douanerecht.
-
-##### Artikel 2
-
-Voorwaarden als bedoeld in artikel 6, lid 2, van de Aanvullende Overeenkomst zijn slechts die voorwaarden die bij de verlening van de Nederlandse concessie aan de gerechtigde zijn of worden opgelegd met betrekking tot de leiding en inrichting van mijnwerken, de opsporing en de bescherming van bodemschatten en de mededeling van geologische gegevens.
-
-##### Artikel 3
-
-Indien van Nederlandse zijde voor een deel van het grensgebied geen concessie is verleend, bepaalt de Regering van het Koninkrijk der Nederlanden op verzoek van de Regering van de Bondsrepubliek Duitsland wie in de zin van deze Aanvullende Overeenkomst als gerechtigde tot het doen van opsporingen moet worden beschouwd.
-
-##### Artikel 4
-
-Indien een Overeenkomstsluitende Partij voor een deel van het grensgebied geen ontginningsrecht heeft verleend, verleent zij dit indien daar een aardolie- of aardgasvoorkomen wordt vastgesteld. Indien het ontginningsrecht niet binnen een redelijke termijn wordt verleend, heeft de houder van een door de andere Overeenkomstsluitende Partij voor dit deel van het grensgebied verleend ontginningsrecht, in afwijking van de bepaling van artikel 5, lid 1, van de Aanvullende Overeenkomst, het beschikkingsrecht over het gehele in dit deel van het grensgebied vóór het begin van de winning aanwezige aardolie- of aardgasvoorkomen.
-
-##### Artikel 5
-
-(1). Voor de toepassing van de artikelen 32 en 36 van het Eems-Dollardverdrag wordt een met de bodem verbonden installatie voor de opsporing of winning die zich aan de Nederlandse zijde van de lijn bevindt gelijkgesteld met een Nederlandse haven, en een zodanige installatie die zich aan de Duitse zijde van de lijn bevindt met een Duitse haven. Het overeenkomstige geldt voor de toepassing van artikel 40 van het Eems-Dollardverdrag.
-
-(2). Er bestaat overeenstemming over dat het toezicht der mijnbouwautoriteiten op opsporingswerkzaamheden die vanaf een schip worden uitgevoerd niet onder artikel 34, lid 3, eerste volzin, van het Eems-Dollardverdrag valt; in dit geval is voor de toepassing van het recht en de bevoegdheid der mijnbouwautoriteiten de lijn bepalend.
-
-(3). Er bestaat overeenstemming over dat ook drijvende installaties, of schepen, als met de bodem verbonden worden beschouwd indien vanaf die installaties of schepen boringen worden verricht.
-
-##### Artikel 6
-
-Er bestaat overeenstemming over dat, onverminderd de bijzondere scheidsrechterlijke bevoegdheid voorzien in deze Aanvullende Overeenkomst (artikelen 8 tot en met 10 van de Aanvullende Overeenkomst), de artikelen 50 tot en met 54 van het Eems-Dollardverdrag ook van toepassing zijn op geschillen tussen de Overeenkomstsluitende Partijen die betrekking hebben op de uitlegging of toepassing van deze Aanvullende Overeenkomst.
 
 TEN BLIJKE WAARVAN de gevolmachtigden der Overeenkomstsluitende Partijen deze Overeenkomst hebben ondertekend.
 

@@ -1,50 +1,21 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland"
 identifier: "BWBV0004184"
-country: "nl"
-rank: "verdrag"
-publication_date: "1961-04-08"
-last_updated: "1961-04-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004184"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10003991183"
-version_id: "10004146972"
-internal_id: "C10008364801"
-label_id: "10003975944"
-dtd_version: "2.0"
-original_entry_into_force: "1961-04-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004184/1961-04-08/0"
-intitule_bron: "Trb.1961-59"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-06-07"
-intitule_in_force: "1961-06-07"
-intitule_status: "goed"
-original_publication: "Trb.1961-59"
-original_published_date: "1961-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-59"
-entry_into_force_date: "1961-04-08"
-jci_1_3: "jci1.3:c:BWBV0004184&z=1961-04-08&g=1961-04-08"
-jci_1_0: "1.0:c:BWBV0004184&g=1961-04-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1961-04-08"
+publicatiedatum: 1961-04-08
+laatste_update: 1961-04-08
+status: geldig
+toestand: 1961-04-08
+bron: "https://wetten.overheid.nl/BWBV0004184"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland
 
-De Regering van het Koninkrijk der Nederlanden en
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Spaanse Staat, Overwegende de vriendschappelijke betrekkingen die de beide landen verenigen, en hun beider behoeften met betrekking tot de arbeidsvoorziening, Constaterende, dat het in het belang van beide landen is de tewerkstelling van Spaanse arbeiders in Nederland te bevorderen, Verlangende een regeling te treffen nopens de migratie, de aanwerving en de tewerkstelling van Spaanse arbeiders in Nederland, Zijn de volgende bepalingen overeengekomen:*
 
-De Regering van de Spaanse Staat,
-
-Overwegende de vriendschappelijke betrekkingen die de beide landen verenigen, en hun beider behoeften met betrekking tot de arbeidsvoorziening,
-
-Constaterende, dat het in het belang van beide landen is de tewerkstelling van Spaanse arbeiders in Nederland te bevorderen,
-
-Verlangende een regeling te treffen nopens de migratie, de aanwerving en de tewerkstelling van Spaanse arbeiders in Nederland,
-
-Zijn de volgende bepalingen overeengekomen:
-
-### Algemene bepalingen
+#### Algemene bepalingen
 
 ##### Artikel 1
 
@@ -68,7 +39,7 @@ Aan Nederlandse zijde, de Directie Arbeidsvoorziening van het Ministerie van Soc
 
 3. Deze gegevens zullen worden bijgewerkt telkens wanneer zulks noodzakelijk is.
 
-### Aanwerving en tewerkstelling
+#### Aanwerving en tewerkstelling
 
 ##### Artikel 4
 
@@ -82,9 +53,9 @@ Aan Nederlandse zijde, de Directie Arbeidsvoorziening van het Ministerie van Soc
 
 De leeftijdsgrenzen waarbinnen de Spaanse arbeiders werk in Nederland kunnen verkrijgen, zijn vastgesteld als volgt:
 
-- -. van 21 tot 35 jaar voor de ongeschoolde arbeiders,
+- - van 21 tot 35 jaar voor de ongeschoolde arbeiders,
 
-- -. van 18 tot 45 jaar voor de geschoolde en gespecialiseerde arbeiders.
+- - van 18 tot 45 jaar voor de geschoolde en gespecialiseerde arbeiders.
 
 Deze leeftijdsgrenzen kunnen worden gewijzigd voor de op naam aangevraagde arbeiders of, in bijzondere gevallen, in overleg tussen het Instituto en de Directie.
 
@@ -150,7 +121,7 @@ Ingeval Nederlandse werkgevers met name aangeduide Spaanse arbeiders aanvragen, 
 
 3. De werkkosten van een delegatie komen steeds voor Nederlandse rekening.
 
-### Algemene arbeidsvoorwaarden
+#### Algemene arbeidsvoorwaarden
 
 ##### Artikel 15
 
@@ -186,7 +157,7 @@ De Spaanse arbeiders zullen naar Spanje het totale bedrag van hun spaargelden ku
 
 3. In geval van vernieuwing van het arbeidscontract na twaalf maanden, zal de werkgever de kosten van heen- en terugreis voldoen, indien de arbeider zijn vakantie in Spanje wil doorbrengen. Bij verdere verlengingen zal dit voorrecht niet verplicht zijn.
 
-### Slotbepalingen
+#### Slotbepalingen
 
 ##### Artikel 20
 
@@ -214,28 +185,14 @@ Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen van toe
 
 2. Zij zal van kracht zijn tot 31 december 1961 en kan van jaar tot jaar stilzwijgend worden verlengd, tenzij zij ten minste drie maanden vóór het einde van het lopende jaar door een der Partijen langs diplomatieke weg wordt opgezegd.
 
-Ter gelegenheid van de ondertekening op rieden van de Overeenkomst tussen het Koninkrijk der Nederlanden en de Spaanse Staat inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland, zijn de gevolmachtigden van de beide Overeenkomstsluitende Partijen het volgende overeengekomen:
-
-##### Artikel 1
-
-Vastgesteld wordt, dat de Nederlandse wetgeving inzake sociale zekerheid van toepassing is op de Spaanse arbeiders die op het grondgebied van Nederland worden tewerkgesteld.
-
-##### Artikel 2
-
-Beide Overeenkomstsluitende Partijen nemen de verplichtingen op zich de totstandkoming op korte termijn van een Algemeen Verdrag inzake sociale zekerheid te bevorderen.
-
-##### Artikel 3
-
-Dit Protocol zal in werking treden tegelijk met de Overeenkomst inzake migratie, aanwerving en tewerkstelling van Spaanse arbeiders in Nederland en zal dezelfde geldigheidsduur hebben als genoemde Overeenkomst.
-
 TEN BLIJKE WAARVAN de daartoe behoorlijk gevolmachtigde vertegenwoordigers van beide Partijen hun handtekening onder deze Overeenkomst hebben geplaatst.
 
 GEDAAN te Madrid de achtste april 1961, in vier exemplaren, waarvan twee in de Nederlandse en twee in de Spaanse taal, zijnde de teksten in beide talen gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) W. CNOOP KOOPMANS
 
-**Voor de Regering van de Spaanse Staat,**
+*Voor de Regering van de Spaanse Staat,*
 
 (w.g.) FERNANDO CASTIELLA

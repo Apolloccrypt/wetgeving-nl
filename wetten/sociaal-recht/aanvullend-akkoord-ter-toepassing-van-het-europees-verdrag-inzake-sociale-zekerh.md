@@ -1,962 +1,937 @@
 ---
 title: "Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid"
 identifier: "BWBV0004901"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-02-28"
-last_updated: "2001-09-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004901"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004369403"
-version_id: "10004572732"
-internal_id: "C10008430401"
-label_id: "10004355714"
-dtd_version: "2.0"
-original_entry_into_force: "1977-05-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004901/2007-02-28/0"
-intitule_bron: "Trb.1976-54"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-05-03"
-intitule_in_force: "1977-02-18"
-intitule_status: "goed"
-original_publication: "Trb.1976-54"
-original_published_date: "1976-05-03"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-54"
-entry_into_force_date: "1977-05-09"
-jci_1_3: "jci1.3:c:BWBV0004901&z=2007-02-28&g=2007-02-28"
-jci_1_0: "1.0:c:BWBV0004901&g=2007-02-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-05-09"
+publicatiedatum: 1977-05-09
+laatste_update: 2007-02-28
+status: geldig
+toestand: 2007-02-28
+bron: "https://wetten.overheid.nl/BWBV0004901"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Akkoord ter toepassing van het Europees Verdrag inzake sociale zekerheid
 
-De Lid-Staten van de Raad van Europa welke het [Europees Verdrag inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) en dit aanvullend Akkoord hebben ondertekend,
+*The member States of the Council of Europe, signatory to the European Convention on Social Security and to this Supplementary Agreement, Considering that by the terms of Article 80, paragraph 1, of the European Convention on Social Security, the application of that Convention is governed by a Supplementary Agreement, Have agreed as follows:*
 
-Overwegende dat overeenkomstig [artikel 80, eerste lid van het Europees Verdrag inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=80), de toepassing van dit Verdrag bij een aanvullend Akkoord wordt geregeld,
+### TITLE I. General provisions
 
-Zijn het volgende overeengekomen:
+##### Article 1
 
-## TITEL I. Algemene Bepalingen
+For the purposes of this Supplementary Agreement:
 
-##### Artikel 1
+- (a) the term “Convention” means the [European Convention on Social Security](https://wetten.overheid.nl/jci1.3:c:BWBV0003473);
 
-Voor de toepassing van dit aanvullend Akkoord:
+- (b) the term “Agreement” means the Supplementary Agreement for the application of the Convention;
 
-- a). wordt onder „Verdrag” verstaan het [Europees Verdrag inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473);
+- (c) the term “Committee” means the Committee of Experts on Social Security of the Council of Europe or such other committee as the Committee of Ministers of the Council of Europe may designate to carry out the duties mentioned in Article 2 of this Agreement;
 
-- b). wordt onder „Akkoord” verstaan het aanvullend Akkoord ter toepassing van het Verdrag;
+- (d) the term “seasonal worker” means a worker who moves to the territory of a Contracting Party other than that of his residence for the purpose of carrying out, for an undertaking or employer of that Party, work of a seasonal nature for a period not longer than eight months, and who temporarily resides in the territory of that Party for the duration of such work; work of a seasonal nature means work which is dependent on the cycle of the seasons and is automatically repeated each year; the status of a seasonal worker is proved by the production of a contract of employment endorsed by the Employment Service of the Contracting Party whose territory the seasonal worker enters to follow his occupation, or of a document endorsed by that Service, attesting to his seasonal employment in that territory;
 
-- c). wordt onder „Comité” verstaan het Comité van deskundigen inzake sociale zekerheid van de Raad van Europa of ieder ander Comité dat door het Comité van Ministers van de Raad van Europa met de in artikel 2 van het Akkoord bedoelde taken kan worden belast;
+- (e) the terms defined in [Article 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=1) have the meanings given them in that Article.
 
-- d). wordt onder „seizoenarbeider” verstaan een werknemer die zich begeeft naar het grondgebied van een andere Verdragsluitende Partij dan die, op het grondgebied waarvan hij woont, teneinde aldaar voor rekening van een onderneming of een werkgever van deze Partij seizoenarbeid te verrichten voor een tijdvak dat niet langer dan acht maanden zal duren en die gedurende zijn werkzaamheden op het grondgebied van bedoelde Partij verblijft; onder seizoenarbeid wordt verstaan arbeid die van het seizoen afhankelijk is en elk jaar automatisch terugkeert; de hoedanigheid van seizoenarbeider wordt bewezen door overlegging van de arbeidsovereenkomst, voor gezien getekend door de diensten voor arbeidsbemiddeling van de Verdragsluitende Partij op het grondgebied waarvan de seizoenarbeider werkzaamheden komt verrichten, of van een door deze diensten voor gezien getekend document waarin wordt verklaard dat de belanghebbende op dit grondgebied een seizoenbetrekking heeft;
+##### Article 2
 
-- e). hebben de in [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=1) omschreven termen de hun in dit artikel toegekende betekenis.
+1. Models of the certificates, statements, declarations, claims and other documents required for the application of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) and of this Agreement shall be prepared by the Committee. However, if two or more Contracting Parties agree on the use of different models, they shall inform the Committee accordingly.
 
-##### Artikel 2
+2. The Committee may assemble information on the legislative provisions to which the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) applies at the request of the competent authorities of any Contracting Party.
 
-1. De modellen van de bewijsstukken, verklaringen, aangiften, aanvragen en andere documenten welke voor de toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) en het Akkoord nodig zijn, worden door het Comité vastgesteld. Indien twee of meer Verdragsluitende Partijen overeenkomen andere modellen te gebruiken, stellen zij daarvan het Comité in kennis.
+3. The Committee may prepare leaflets for the purpose of informing the persons concerned of their rights and of the administrative formalities with which they must comply in order to secure them.
 
-2. Op verzoek van de bevoegde autoriteiten van een Verdragsluitende Partij kan het Comité inlichtingen verzamelen betreffende de bepalingen van de wetgevingen waarop het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) van toepassing is.
+##### Article 3
 
-3. Het Comité kan handleidingen samenstellen met het doel de belanghebbenden voor te lichten over hun rechten en de administratieve formaliteiten welke zij dienen te vervullen om deze rechten geldend te maken.
+1. The competent authorities of the Contracting Parties may designate liaison bodies empowered to communicate directly with one another and provided they are authorised to do so by the competent authorities of that Party, with the institutions of any Contracting Party.
 
-##### Artikel 3
+2. Any institution of a Contracting Party, and likewise any person residing or temporarily residing in the territory of a Contracting Party, may approach the institution of another Contracting Party either directly or through the liaison bodies.
 
-1. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen verbindingsorganen aanwijzen welke gerechtigd zijn zich rechtstreeks met elkaar in verbinding te stellen, alsmede met de organen van elke Verdragsluitende Partij, mits de bevoegde autoriteit van deze Partij daartoe toestemming heeft verleend.
+##### Article 4
 
-2. Ieder orgaan van een Verdragsluitende Partij, alsmede elke persoon die op het grondgebied van een Verdragsluitende Partij woont of verblijft, kan zich rechtstreeks of door bemiddeling van de verbindingsorganen tot het orgaan van een andere Verdragsluitende Partij wenden.
+1. Annex 1 names the competent authority or authorities of each Contracting Party.
 
-##### Artikel 4
+2. Annex 2 names the competent institutions of each Contracting Party.
 
-1. Bijlage 1 vermeldt de bevoegde autoriteit of de bevoegde autoriteiten van elke Verdragsluitende Partij.
+3. Annex 3 names the institutions of the place of residence and the institutions of the place of temporary residence of each Contracting Party.
 
-2. Bijlage 2 vermeldt de bevoegde organen van elke Verdragsluitende Partij.
+4. Annex 4 names the liaison bodies designated by the competent authorities of the Contracting Parties pursuant to Article 3, paragraph 1, of this Agreement.
 
-3. Bijlage 3 vermeldt de organen van de woonplaats en de organen van de verblijfplaats van elke Verdragsluitende Partij.
+5. Annex 5 lists the provisions referred to in Article 6, sub-paragraph *(b)* and Article 46, paragraph 2, of this Agreement.
 
-4. Bijlage 4 vermeldt de door de bevoegde autoriteiten van de Verdragsluitende Partijen krachtens artikel 3, eerste lid van het Akkoord aangewezen verbindingsorganen.
+6. Annex 6 lists the names and addresses of the banks referred to in Article 48, paragraph 1, of this Agreement.
 
-5. Bijlage 5 vermeldt de in artikel 6, sub b) en in artikel 46, tweede lid van het Akkoord bedoelde bepalingen.
+7. Annex 7 names the institutions designated by the competent authorities of the Contracting Parties pursuant to the provisions of Article 7, paragraph 1, Article 12, paragraph 1, Article 14, paragraphs 2 and 3, Article 34, Article 57, paragraph 1, Article 63, paragraph 1, Article 72, paragraph 2, Article 73, paragraph 2, Article 76, Article 77, Article 78, paragraph 2, Article 83, paragraph 1, Article 84 and Article 87, paragraph 2, of this Agreement.
 
-6. Bijlage 6 vermeldt naam en plaats van vestiging van de in artikel 48, eerste lid van het Akkoord bedoelde banken.
+##### Article 5
 
-7. Bijlage 7 vermeldt de organen welke door de bevoegde autoriteiten van de Verdragsluitende Partijen zijn aangewezen krachtens artikel 7, eerste lid, artikel 12, eerste lid, artikel 14, tweede en derde lid, artikel 34, artikel 57, eerste lid, artikel 63, eerste lid, artikel 72, tweede lid, artikel 73, tweede lid, artikel 76, artikel 77, artikel 78, tweede lid, artikel 83, eerste lid, artikel 84 en artikel 87, tweede lid van het Akkoord.
+Two or more Contracting Parties may by common agreement, in so far as they are concerned, prescribe different rules for applying the Convention from those provided for in this Agreement.
 
-##### Artikel 5
+##### Article 6
 
-Twee of meer Verdragsluitende Partijen kunnen in onderlinge overeenstemming, voor wat hen betreft, andere toepassingsvoorschriften vaststellen dan die welke in dit Akkoord zijn neergelegd.
+This Agreement replaces:
 
-##### Artikel 6
+- (a) agreements for the application of such social security conventions as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) replaces;
 
-Het Akkoord treedt in de plaats van:
+- (b) provisions for the application of such provisions in the conventions on social security referred to in [Article 6, paragraph 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=6) as are not listed in Annex 5.
 
-- a). de akkoorden betreffende de toepassing van de verdragen inzake sociale zekerheid waarvoor het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) in de plaats treedt;
+### TITLE II. Application of Title I of the Convention
 
-- b). de bepalingen betreffende de toepassing van de in [artikel 6, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=6) bedoelde verdragsbepalingen, tenzij deze bepalingen in bijlage 5 worden vermeld.
+#### Application of Article 10 of the Convention
 
-## TITEL II. Toepassing van [Titel I van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&titeldeel=I)
+##### Article 7
 
-### Toepassing van [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10)
+1. Where, having regard to [Article 10 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), the person concerned satisfies the conditions for admission to optional continued insurance in respect of invalidity, old age or death (pensions) under more than one scheme, by virtue of the legislation of a Contracting Party, and has not been compulsorily insured under any of those schemes by virtue of his most recent employment, he shall qualify for admission to optional continued insurance only under the scheme which would have applied if he had followed, under the legislation of that Party, the employment subject to compulsory insurance for pension purposes which he last followed under the legislation of another Contracting Party. However, where the said employment was not subject to compulsory insurance under the legislation of the first Party, or where the nature of that employment cannot be determined, then the competent authority of that Party or such institution as it may designate shall decide the scheme under which the optional insurance may be continued.
 
-##### Artikel 7
+2. In order to benefit from the provisions of [Article 10 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), the person concerned shall submit to the institution of the Contracting Party concerned a certificate of the periods of insurance completed under the legislation of any other Contracting Party and also of any periods of residence, after the age of sixteen, under the non-contributory legislation of any other Contracting Party. This certificate shall be issued at the request of the person concerned, or the said institution, by the institution or institutions within whose purview he has completed the periods in question.
 
-1. Indien de belanghebbende, met inachtneming van het bepaalde in [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), krachtens de wetgeving van een Verdragsluitende Partij voldoet aan de voorwaarden voor toelating tot de vrijwillig voortgezette verzekering bij invaliditeit, ouderdom of overlijden (pensioenen) ingevolge meer dan een stelsel, en hij op grond van zijn laatste werkzaamheden niet verplicht verzekerd is geweest ingevolge één dezer stelsels, kan hij op grond van genoemd artikel slechts toegelaten worden tot de vrijwillig voortgezette verzekering ingevolge het stelsel dat bevoegd zou zijn geweest indien hij onder de wetgeving van deze Partij de aan de pensioenverzekering onderworpen werkzaamheden had verricht welke hij laatstelijk onder de wetgeving van een andere Verdragsluitende Partij heeft verricht. Ingeval door deze werkzaamheden de belanghebbende niet verplicht verzekerd krachtens de wetgeving van eerstbedoelde Partij zou worden of indien de aard van deze werkzaamheden niet kan worden vastgesteld, bepaalt de bevoegde autoriteit van deze Partij of het door haar aangewezen orgaan onder welk stelsel de vrijwillige verzekering kan worden voortgezet.
+#### Application of Article 13 of the Convention
 
-2. Om in aanmerking te komen voor toepassing van [artikel 10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), legt de belanghebbende aan het orgaan van de betrokken Verdragsluitende Partij een bewijsstuk over inzake de tijdvakken van verzekering welke krachtens de wetgeving van enige andere Verdragsluitende Partij zijn vervuld, alsmede, in voorkomend geval, inzake de tijdvakken van wonen, welke na de zestienjarige leeftijd krachtens de wetgeving van niet-contributieve aard van enige andere Verdragsluitende Partij zijn vervuld. Dit bewijsstuk wordt op verzoek van de belanghebbende of van bedoeld orgaan verstrekt door het orgaan of de organen, waarbij hij de betreffende tijdvakken heeft vervuld.
+##### Article 8
 
-### Toepassing van [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13)
+Where a person in receipt of benefit under the legislation of one Contracting Party is also entitled to benefits under the legislation of one or more of the other Contracting Parties, the following rules shall apply:
 
-##### Artikel 8
+- (a) where the application of the provisions of [Article 13, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13) would entail the reduction, suspension or suppression of such benefits, none of them may be reduced, suspended or suppressed to an extent greater than the amount which would be obtained by dividing the sum affected by the reduction, suspension or suppression in accordance with the legislation under which benefit is due by the number of benefits subject to reduction, suspension or suppression to which the beneficiary is entitled;
 
-Wanneer de rechthebbende op een krachtens de wetgeving van een Verdragsluitende Partij verschuldigde uitkering eveneens recht heeft op uitkeringen krachtens de wetgevingen van één of meer andere Verdragsluitende Partijen, zijn de volgende voorschriften van toepassing:
+- (b) nevertheless, where the benefits concerned are invalidity, old age, or death (pensions) benefits paid out in conformity with the provisions of [Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) by the institution of a Contracting Party, that institution shall take account of the benefits, income or remuneration entailing the reduction, suspension or suppression of the benefits due from it solely for the purposes of the reduction, suspension or suppression of the amount referred to in Article 29, paragraphs 4 or 5, but not for the calculation of the theoretical amount referred to in Article 29, paragraphs 2 and 3; however, account shall be taken of such benefits, income or remuneration only to the extent of that fraction of their amount corresponding to the ratio of the periods completed, as prescribed in Article 29, paragraph 4, of the Convention;
 
-- a). ingeval de toepassing van [artikel 13, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13) tot gevolg zou hebben dat deze uitkeringen gelijktijdig worden verminderd, geschorst of ingetrokken, mag geen van deze uitkeringen worden verminderd, geschorst of ingetrokken voor een bedrag dat hoger is dan het bedrag dat wordt verkregen door het bedrag waarop de vermindering, schorsing of intrekking krachtens de wetgeving op grond waarvan deze uitkering verschuldigd is, betrekking heeft, te delen door het aantal de rechthebbende toekomende uitkeringen, welke verminderd, geschorst of ingetrokken moeten worden;
+- (c) for the application of the provisions of [Article 13, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13), the competent institutions concerned shall communicate all relevant information to one another on request;
 
-- b). indien het echter uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) betreft, welke overeenkomstig [artikel 29 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) door het orgaan van een Verdragsluitende Partij zijn vastgesteld, houdt dit orgaan rekening met die uitkeringen, inkomsten of beloningen welke vermindering, schorsing of intrekking van de door dit orgaan verschuldigde uitkering tot gevolg hebben; dit geldt niet voor de berekening van het in artikel 29, tweede en derde lid van het Verdrag bedoelde theoretische bedrag, doch uitsluitend voor de vermindering, schorsing of intrekking van het in genoemd artikel 29, vierde of vijfde lid bedoelde bedrag; van het bedrag van deze uitkeringen, inkomsten of beloningen wordt echter slechts een gedeelte in aanmerking genomen, dat overeenkomstig artikel 29, vierde lid van het Verdrag naar verhouding van de duur van de vervulde tijdvakken wordt vastgesteld;
+- (d) for the application of the provisions of [Article 13, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13), the official rate of exchange shall be the rate prevailing on the first day of the month in which the final payment is made or, if the pension is recalculated, at the rate then prevailing.
 
-- c). voor de toepassing van [artikel 13, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13) verstrekken de betrokken bevoegde organen elkaar op hun verzoek alle ter zake dienende inlichtingen;
+##### Article 9
 
-- d). voor de toepassing van [artikel 13, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=13) wordt als officiële wisselkoers aangehouden de koers welke geldig is op de eerste dag van de maand waarin de laatste vaststellingshandeling plaatsvindt of, eventueel, de koers welke geldig is bij de herberekening van het pensioen of de rente.
+Where a person or a member of that person's family has a claim to maternity benefit under the legislation of two or more Contracting Parties, benefits shall be provided solely under the legislation of the Party in whose territory the birth took place, or, if the birth did not take place in the territory of either of these Parties, solely under the legislation to which the person concerned was last subject.
 
-##### Artikel 9
+##### Article 10
 
-Indien een persoon of een lid van zijn gezin aanspraak kan maken op prestaties bij moederschap krachtens de wettelijke regelingen van twee of meer Verdragsluitende Partijen, worden deze prestaties uitsluitend verleend krachtens de wettelijke regeling van die van deze Partijen op het grondgebied waarvan de bevalling heeft plaatsgehad, of indien de bevalling niet op het grondgebied van één van deze Partijen heeft plaatsgevonden, uitsluitend krachtens de wettelijke regeling waaraan deze persoon laatstelijk onderworpen is geweest.
+1. Where death occurs in the territory of a Contracting Party, only entitlement to a death grant acquired under the legislation of that Party shall be recognised, to the exclusion of any right acquired under the legislation of another Contracting Party.
 
-##### Artikel 10
+2. When death occurs in the territory of a Contracting Party and entitlement to death grant has been acquired solely under the legislation of two or more other Contracting Parties, or where death occurs outside the territory of either of the Contracting Parties, and entitlement to death grant has been acquired under the legislation of any Contracting Party, only the entitlement acquired under the legislation of the Contracting Party to which the person in respect of whom the death grant is payable was last subject shall be recognised, to the exclusion of any entitlement acquired under the legislation of any other Contracting Party.
 
-1. Bij overlijden op het grondgebied van een Verdragsluitende Partij wordt alleen het krachtens de wettelijke regeling van deze Partij verkregen recht op de uitkering bij overlijden gehandhaafd, met uitsluiting van de krachtens de wettelijke regelingen van alle andere Verdragsluitende Partijen verkregen rechten.
+##### Article 11
 
-2. Bij overlijden op het grondgebied van een Verdragsluitende Partij, terwijl het recht op een uitkering bij overlijden uitsluitend krachtens de wettelijke regelingen van twee of meer andere Verdragsluitende Partijen is verkregen, of bij overlijden buiten het grondgebied van de Verdragsluitende Partijen, terwijl dit recht krachtens de wettelijke regelingen van twee of meer Verdragsluitende Partijen is verkregen, wordt alleen het recht gehandhaafd dat werd verkregen krachtens de wettelijke regeling van de Verdragsluitende Partij waaraan een persoon te wiens aanzien recht op de uitkering bij overlijden bestaat, laatstelijk onderworpen is geweest, met uitsluiting van de krachtens de wettelijke regelingen van alle andere Verdragsluitende Partijen verkregen rechten.
+Where, over the same period, two or more persons are entitled to family allowances under the legislation of two or more Contracting Parties with respect to the same members of the family, the Contracting Party to whose legislation the family's main breadwinner is subject shall be deemed to be the only competent State. However, where family allowances are payable under the legislation of the Contracting Party in whose territory the children reside or are brought up, by virtue of a person's employment or occupational activity, that Party shall be deemed to be the only competent State.
 
-##### Artikel 11
+### TITLE III. Application of Title II of the Convention
 
-Indien over hetzelfde tijdvak twee of meer personen voor dezelfde gezinsleden recht hebben op kinderbijslag krachtens de wettelijke regelingen van twee of meer Verdragsluitende Partijen, wordt de Verdragsluitende Partij aan de wettelijke regeling waarvan de belangrijkste kostwinner onderworpen is als enige bevoegde Staat beschouwd. Ingeval echter wegens het vervullen van een dienstbetrekking of het verrichten van beroepswerkzaamheden kinderbijslag verschuldigd is krachtens de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de kinderen wonen of worden opgevoed, wordt deze Partij als de enige bevoegde Staat beschouwd.
+#### Application of Article 15, paragraphs 1 and 2, of the Convention
 
-## TITEL III. Toepassing van [Titel II van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&titeldeel=II)
+##### Article 12
 
-### Toepassing van [artikel 15, eerste en tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15)
+1. In the cases covered by [Article 15, paragraph 1, sub-paragraph (a) (i), and paragraph 2, sub-paragraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), the institution designated by the competent authority of the Contracting Party whose legislation is applicable shall issue to the worker on his or his employer's request, if the requisite conditions are fulfilled, a certificate of such temporary employment abroad stating that he is still subject to that legislation.
 
-##### Artikel 12
+2. The consent referred to in [Article 15, paragraph 1, sub-paragraph (a) (ii), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) shall be requested by the employer. The consent of each worker concerned shall be required if so provided in the legislation of the Contracting Party referred to in the preceding paragraph.
 
-1. In de in [artikel 15, eerste lid, sub a) i) en tweede lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde gevallen verstrekt het orgaan, aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij waarvan de wetgeving van toepassing blijft de loontrekkende, op diens verzoek of op verzoek van zijn werkgever, indien aan de voorwaarden is voldaan, een bewijs van detachering waarin wordt verklaard dat hij aan deze wetgeving onderworpen blijft.
+##### Article 13
 
-2. De in [artikel 15, eerste lid, sub a) ii) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde toestemming dient door de werkgever te worden aangevraagd. Indien de wetgeving van de in het vorige lid bedoelde Verdragsluitende Partij zulks bepaalt, is de toestemming van de betrokken werknemer vereist.
+Where, under [Article 15, paragraph 1, sub-paragraph (b) or (c), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), the legislation of a Contracting Party is applicable to an employed person whose employer is not in the territory of that Party, that legislation shall apply as if the person were employed at his place of residence in the said territory, particularly for the purpose of determining the competent institution.
 
-##### Artikel 13
+#### Application of Article 17 of the Convention
 
-Wanneer de wetgeving van een Verdragsluitende Partij krachtens [artikel 15, eerste lid, sub b) of sub c) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) van toepassing is op een loontrekkende wiens werkgever niet op het grondgebied van deze Partij gevestigd is, wordt deze wetgeving toegepast alsof deze loontrekkende werkzaam was ter plaatse waar hij op dit grondgebied woont, in het bijzonder met het oog op het vaststellen van het bevoegde orgaan.
+##### Article 14
 
-### Toepassing van [artikel 17 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15)
+1. The provisions of [Article 17, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=17) shall remain applicable until the date of exercise of the option provided for in paragraph 2 of that Article.
 
-##### Artikel 14
+2. An employed person who exercises his right of option shall so notify the competent institution of the Contracting Party in whose territory he is employed, as well as the institution designated by the competent authority of the Contracting Party for whose legislation he has opted, and shall at the same time notify his employer. The last mentioned institution shall, as required, notify any other institutions of the latter Contracting Party, in accordance with the instructions issued by that Party's competent authority.
 
-1. Het bepaalde in [artikel 17, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=17) blijft van toepassing tot de datum waarop de in het tweede lid van dit artikel bedoelde keuze wordt gedaan.
+3. The institution designated by the competent authority of the Contracting Party for whose legislation the employed person has opted shall issue him a certificate stating that he is subject to the legislation of that Party whilst he is employed in the diplomatic mission or consular post in question, or in the private service of officials of such mission or post.
 
-2. De loontrekkende die zijn keuzerecht uitoefent, stelt het bevoegde orgaan van de Verdragsluitende Partij op het grondgebied waarvan hij werkzaam is, daarvan in kennis, alsmede het orgaan dat daartoe werd aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij voor de wetgeving waarvan hij heeft gekozen, terwijl hij tegelijkertijd zijn werkgever ervan op de hoogte stelt. Dit orgaan stelt zo nodig alle andere organen van laatstbedoelde Partij hiervan in kennis overeenkomstig de door de bevoegde autoriteit van deze Partij verstrekte richtlijnen.
+4. Where the employed person has opted for the application of the legislation of the Contracting Party which is the accrediting State or the sending State, the provisions of that legislation shall apply as if the person were employed at the seat of government of the said Party.
 
-3. Het orgaan dat daartoe is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij voor de wetgeving waarvan de loontrekkende heeft gekozen, verstrekt hem een bewijs, waarin wordt verklaard dat hij gedurende de tijd dat hij bij bedoelde diplomatieke zending of consulaire post of in persoonlijke dienst van ambtenaren van deze zending of post werkzaam is, aan de wetgeving van deze Partij is onderworpen.
+### TITLE IV. The adding together of periods of insurance and of residence
 
-4. Indien de loontrekkende voor de toepassing van de wetgeving van de Verdragsluitende Partij welke zendstaat is, heeft gekozen, wordt deze wetgeving toegepast alsof de loontrekkende ter plaatse waar de Regering van deze Partij haar zetel heeft, werkzaam was.
+#### Application of Articles 10, 19, 28, 49 and 51 of the Convention
 
-## TITEL IV. Samentelling van de tijdvakken van verzekering en van wonen
+##### Article 15
 
-### Toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19), [28](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), [49](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49) en [51 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51)
+1. In the cases referred to in [Article 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), [Article 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19), [Article 28, paragraphs 1 to 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), [Article 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49), and [Article 51, paragraphs 1 to 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51), without prejudice to the provisions of Article 28, paragraph 4, or Article 51, paragraph 3, of the Convention, as the case may be, periods of insurance and periods of residence shall be added together in accordance with the following rules:
 
-##### Artikel 15
+- (a) to the periods of insurance or residence completed under the legislation of one Contracting Party shall be added the periods of insurance completed under the legislation of any other Contracting Party and also any periods of residence completed after the age of sixteen under the non-contributory scheme of any other Contracting Party, to the extent necessary to make up the total period of insurance or residence required under the legislation of the first Contracting Party for the acquisition, maintenance or recovery of entitlement to benefit provided always these periods do not overlap. In the case of invalidity, old age, or death (pensions) benefits to be paid by the institutions of two or more Contracting Parties in accordance with the provisions of [Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29), each of the institutions concerned shall separately add together all the periods of insurance or residence completed by the person concerned under the legislation of all the Contracting Parties to which he has been subject;
 
-1. In de gevallen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=10), in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19), in [artikel 28, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49) en in [artikel 51, eerste tot en met derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51), in voorkomend geval onverminderd het bepaalde in artikel 28, vierde lid of artikel 51, derde lid van het Verdrag, geschiedt de samentelling van de tijdvakken van verzekering en van wonen overeenkomstig de volgende regels:
+- (b) where a period of compulsory insurance completed in accordance with the legislation of one Contracting Party coincides with a period of voluntary or optional continued insurance completed under the legislation of another Contracting Party, the first only shall be taken into account, without prejudice to the provisions of the second sentence of [Article 16, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=16);
 
-- a). bij de tijdvakken van verzekering of van wonen, vervuld krachtens de wetgeving van een Verdragsluitende Partij, worden gevoegd de tijdvakken van verzekering, vervuld krachtens de wetgeving van iedere andere Verdragsluitende Partij, alsmede, in voorkomend geval, de tijdvakken van wonen, vervuld nà de zestienjarige leeftijd krachtens de wetgeving van niet-contributieve aard van iedere andere Verdragsluitende Partij, voorzover het noodzakelijk is hierop een beroep te doen om de tijdvakken van verzekering of van wonen, vervuld krachtens de wetgeving van eerstbedoelde Partij, aan te vullen met het oog op het verkrijgen, het behoud of het herstel van het recht op prestaties, mits deze tijdvakken elkaar niet overlappen; indien het uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) betreft, welke door de organen van twee of meer Verdragsluitende Partijen overeenkomstig [artikel 29 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) moeten worden vastgesteld, verricht elk der betrokken organen deze samentelling afzonderlijk, rekening houdende met het totaal der door de belanghebbende krachtens de wetgevingen van alle Verdragsluitende Partijen waaraan hij onderworpen is geweest, vervulde tijdvakken van verzekering of van wonen;
+- (c) where an actual period of insurance completed under the legislation of one Contracting Party coincides with a period assimilated to an actual period of insurance under the legislation of another Contracting Party, the first only shall be taken into account;
 
-- b). wanneer een tijdvak van verzekering, vervuld op grond van een verplichte verzekering krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een op grond van een vrijwillige of vrijwillig voortgezette verzekering krachtens de wetgeving van een andere Verdragsluitende Partij vervuld tijdvak van verzekering, wordt alleen het eerste tijdvak in aanmerking genomen, onverminderd het bepaalde in [artikel 16, tweede lid, tweede volzin van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=16);
+- (d) any period assimilated to an actual period of insurance under the legislation of two or more Contracting Parties shall be taken into account only by the institution of that Contracting Party to whose legislation the person insured was last compulsorily subject prior to the said period; where the insured person has not been compulsorily subject to the legislation of one of those Parties prior to the said period, that period shall be taken into account by the institution of that Contracting Party to whose legislation he was first compulsorily subject after the period in question;
 
-- c). wanneer een effectief tijdvak van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een tijdvak dat krachtens de wetgeving van een andere Verdragsluitende Partij met een effectief tijdvak van verzekering is gelijkgesteld, wordt alleen het eerste tijdvak in aanmerking genomen;
+- (e) where the time at which certain periods of insurance were completed under the legislation of a Contracting Party cannot be accurately determined, such periods shall be presumed not to overlap with periods completed under the legislation of another Contracting Party and shall be taken into account as may be necessary;
 
-- d). elk tijdvak dat krachtens de wetgevingen van twee of meer Verdragsluitende Partijen met een effectief tijdvak van verzekering is gelijkgesteld, wordt slechts in aanmerking genomen door het orgaan van die van deze Partijen krachtens de wetgeving waarvan de belanghebbende laatstelijk vóór dit tijdvak verplicht verzekerd is geweest; indien de verzekerde vóór genoemd tijdvak niet verplicht verzekerd is geweest krachtens de wetgeving van een van deze Partijen, wordt dit tijdvak in aanmerking genomen door het orgaan van die van genoemde Partijen krachtens de wetgeving waarvan hij na dit tijdvak voor de eerste maal verplicht verzekerd is geweest.
+- (f) where, according to the legislation of one Contracting Party, certain periods of insurance are taken into account only if they have been completed within a specified time, the institution which applies this legislation shall take into account only periods completed under the legislation of another Contracting Party as have been completed within the same specified time.
 
-- e). ingeval de periode waarin bepaalde tijdvakken van verzekering krachtens de wetgeving van een Verdragsluitende Partij vervuld zijn, niet nauwkeurig kan worden vastgesteld, wordt ervan uitgegaan dat deze tijdvakken niet overlapt worden door krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken en wordt hiermede rekening gehouden, voor zover de tijdvakken hiervoor in aanmerking kunnen worden genomen;
+2. Periods of insurance completed under a scheme of a Contracting Party to which the Convention does not apply, but which are taken into account by a scheme of that Party to which the Convention does apply, shall be considered as insurance periods to be taken into account for the purpose of adding together.
 
-- f). ingeval volgens de wetgeving van een Verdragsluitende Partij bepaalde tijdvakken van verzekering slechts in aanmerking worden genomen indien zij binnen een bepaalde termijn zijn vervuld, houdt het orgaan dat deze wetgeving toepast slechts rekening met krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken indien deze binnen dezelfde termijn zijn vervuld.
+3. Where the periods of insurance completed under the legislation of one Contracting Party are expressed in units other than those used in the legislation of another Contracting Party, the conversion necessary for the purpose of adding them together shall be governed by the following rules:
 
-2. De tijdvakken van verzekering, vervuld krachtens een stelsel van een Verdragsluitende Partij waarop het Verdrag niet van toepassing is, maar die in aanmerking worden genomen door een stelsel van dezelfde Partij waarop het Verdrag wel van toepassing is, worden beschouwd als tijdvakken van verzekering welke voor de samentelling in aanmerking dienen te worden genomen.
+- (a) where the person concerned has been working a six-day week:
 
-3. Wanneer de tijdvakken van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, worden uitgedrukt in andere eenheden dan in de wetgeving van een andere Verdragsluitende Partij worden gebezigd, geschiedt de omrekening welke voor de samentelling nodig is volgens onderstaande regels:
+   - (i) one day shall be equivalent to eight hours, and vice versa;
 
-- a). indien voor de belanghebbende de zesdaagse werkweek gold:
+   - (ii) six days shall be equivalent to one week, and vice versa;
 
-- i). geldt een dag als acht uren en omgekeerd;
+   - (iii) twenty-six days shall be equivalent to one month, and vice versa;
 
-- ii). gelden zes dagen als een week en omgekeerd;
+   - (iv) three months, or thirteen weeks, or seventy-eight days shall be equivalent to one quarter and vice versa;
 
-- iii). gelden zesentwintig dagen als een maand en omgekeerd;
+   - (v) for the conversion of weeks into months, and vice versa, the weeks and months shall be converted into days;
 
-- iv). gelden drie maanden of dertien weken of achtenzeventig dagen als een kwartaal en omgekeerd;
+   - (vi) the application of the rules set out above shall not result in a total, for periods completed during one calendar year, of more than three hundred and twelve days, or fifty-two weeks, or twelve months, or four quarters;
 
-- v). worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
+- (b) where the person concerned has been working a five-day week:
 
-- vi). mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan driehonderd en twaalf dagen of tweeënvijftig weken of twaalf maanden of vier kwartalen wordt verkregen;
+   - (i) one day shall be equivalent to nine hours, and vice versa;
 
-- b). indien voor de belanghebbende de vijfdaagse werkweek gold:
+   - (ii) five days shall be equivalent to one week, and vice versa;
 
-- i). geldt een dag als negen uur en omgekeerd;
+   - (iii) twenty-two days shall be equivalent to one month, and vice versa;
 
-- ii). gelden vijf dagen als een week en omgekeerd;
+   - (iv) three months, or thirteen weeks, or sixty-six days, shall be equivalent to one quarter, and vice versa;
 
-- iii). gelden tweeëntwintig dagen als een maand en omgekeerd;
+   - (v) for the conversion of weeks into months, and vice versa, the weeks and months shall be converted into days;
 
-- iv). gelden drie maanden of dertien weken of zesenzestig dagen als een kwartaal en omgekeerd;
+   - (vi) the application of the preceding rules shall not result in a total, for periods completed during one calendar year, of more than two hundred and sixty-four days, or fifty-two weeks, or twelve months, or four quarters.
 
-- v). worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
+4. Where, in accordance with paragraph 1, sub-paragraph *(b)*, of this Article, periods of voluntary or optional continued insurance in respect of invalidity, old age or death (pensions) completed under the legislation of a Contracting Party are not taken into account when adding periods together, the contributions relating to such periods shall be considered as conferring entitlement to increased benefits under the said legislation. Where such legislation provides to supplementary insurance, the said contributions shall be taken into account for the calculation of the benefits due under such supplementary insurance.
 
-- vi). mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan tweehonderdvierenzestig dagen of tweeënvijftig weken of twaalf maanden of vier kwartalen wordt verkregen.
+### TITLE V. Application of Title III of the Convention
 
-4. Wanneer krachtens het eerste lid, sub b) van dit artikel ingevolge de wetgeving van een Verdragsluitende Partij vervulde tijdvakken van verzekering op grond van een vrijwillige of vrijwillig voortgezette verzekering bij invaliditeit, ouderdom of overlijden (pensioenen) voor de samentelling niet in aanmerking worden genomen, worden de op deze tijdvakken betrekking hebbende premies of bijdragen geacht bestemd te zijn tot verhoging van de krachtens deze wetgeving verschuldigde uitkeringen. Indien deze wetgeving een aanvullende verzekering kent, worden bedoelde premies of bijdragen in aanmerking genomen voor de berekening van op grond van een dergelijke verzekering verschuldigde uitkeringen.
+### Chapter 1. : Sickness and maternity
 
-## TITEL V. Toepassing van [Titel III van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&titeldeel=III)
+#### Application of Article 19 of the Convention
 
-### Hoofdstuk 1. : Ziekte en moederschap
+##### Article 16
 
-### Toepassing van [artikel 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19)
+1. In order to benefit from the provisions of [Article 19 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19), the person concerned shall submit to the competent institution a certificate setting out the periods of insurance completed under the legislation of the Contracting Party to which he was previously last subject, and he shall supply any additional information required under the legislation applied by that institution.
 
-##### Artikel 16
+2. The certificate referred to in the preceding paragraph shall be issued, at the request of the person concerned, by the institution, competent in relation to sickness, of the Contracting Party to whose legislation he was previously last subject. If the person concerned does not submit this certificate, the competent institution shall apply for it to that institution.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=19) legt de belanghebbende aan het bevoegde orgaan een bewijs over, waarin de tijdvakken van verzekering zijn vermeld welke zijn vervuld krachtens de wettelijke regeling van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle verdere inlichtingen welke de door dit orgaan toegepaste wettelijke regeling verlangt.
+3. Where it is necessary to take into account periods of insurance previously completed under the legislation of any other Contracting Party in order to satisfy the conditions prescribed by the legislation of the competent State, the provisions of the preceding paragraphs of this Article shall be applied mutatis mutandis.
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de belanghebbende verstrekt door het voor de ziekteverzekering bevoegde orgaan van de Verdragsluitende Partij aan de wettelijke regeling waarvan hij tevoren en laatstelijk onderworpen is geweest. Indien de belanghebbende genoemd bewijs niet overlegt, verzoekt het bevoegde orgaan dit orgaan daarom.
+#### Application of Article 20 of the Convention
 
-3. De voorgaande leden van dit artikel zijn van overeenkomstige toepassing, indien het nodig is met de vroeger krachtens de wettelijke regeling van enige andere Verdragsluitende Partij vervulde tijdvakken van verzekering rekening te houden om aan de in de wettelijke regeling van de bevoegde Staat gestelde voorwaarden te voldoen.
+##### Article 17
 
-### Toepassing van [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=20)
+1. In order to receive the benefits in kind provided for in [Article 20 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=20), the person concerned shall register himself and the members of his family with the institution of his place of residence, submitting a certificate of his and his family's entitlement. This certificate shall be issued by the competent institution on the basis of information supplied, where appropriate, by the employer. If the person concerned or the members of his family fail to submit such a certificate, the institution of the place of residence shall itself apply for it to the competent institution.
 
-##### Artikel 17
+2. The certificate referred to in the preceding paragraph shall be valid until such time as the institution of the place of residence receives notice of its cancellation.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=20), laat de belanghebbende zich en zijn gezinsleden inschrijven bij het orgaan van de woonplaats, onder overlegging van een bewijs waarin wordt verklaard dat hij voor zichzelf en zijn gezinsleden recht op deze verstrekkingen heeft. Dit bewijs wordt afgegeven door het bevoegde orgaan, in voorkomend geval na kennisneming van de door de werkgever verstrekte inlichtingen. Indien dit bewijs door de belanghebbende of zijn gezinsleden wordt overgelegd, verzoekt het orgaan van de woonplaats het bevoegde orgaan daarom.
+3. Where the person concerned is employed as a seasonal worker, the certificate referred to in paragraph 1 of this Article shall remain valid for the expected duration of the seasonal work, unless in the meantime the competent institution notifies the institution of the place of residence of its cancellation.
 
-2. Het in het vorige lid bedoelde bewijs blijft geldig zolang het orgaan van de woonplaats ter zake geen kennisgeving van intrekking heeft ontvangen.
+4. The institution of the place of residence shall advise the competent institution of any registration made in accordance with the provisions of paragraph 1 of this Article.
 
-3. Indien de belanghebbende de hoedanigheid van seizoenarbeider bezit, is het in het eerste lid van dit artikel bedoelde bewijs geldig gedurende de gehele voor de seizoenarbeid voorziene tijdsduur, tenzij het bevoegde orgaan het orgaan van de woonplaats tussentijds van de intrekking in kennis stelt.
+5. For any claim for benefits in kind the claimant shall submit the supporting documents normally required for the provision of benefits in kind under the legislation of the Contracting Party in whose territory he resides.
 
-4. Het orgaan van de woonplaats stelt het bevoegde orgaan in kennis van iedere inschrijving welke het overeenkomstig het eerste lid van dit artikel heeft verricht.
+6. In the event of hospitalisation the institution of the place of residence shall notify the competent institution, as soon as this information is available, of the date of entry, the probable duration of hospitalisation, and the date of discharge.
 
-5. Bij iedere aanvraag om verstrekkingen legt de aanvrager de bewijsstukken over welke krachtens de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan hij woont, gewoonlijk voor de toekenning van verstrekkingen vereist worden.
+7. The person concerned or the members of his family shall advise the institution of the place of residence of any change in their circumstances which might affect their entitlement to benefits in kind and, in particular, of any cessation or change of employment or occupational activity on the part of the person concerned or any change in the latter's residence or temporary residence, or in that of a member of his family. The competent institution shall likewise inform the institution of the place of residence of the person concerned of the termination of his affiliation or of his entitlement to benefit. The institution of the place of residence may at any time request the competent institution to supply any information relating to the said person's affiliation or entitlement to benefit.
 
-6. Bij opneming in een ziekenhuis geeft het orgaan van de woonplaats, zodra het zulks heeft vernomen, aan het bevoegde orgaan kennis van de datum van opneming in de ziekeninrichting, van de vermoedelijke verblijfsduur en van de datum van ontslag.
+##### Article 18
 
-7. De belanghebbende of zijn gezinsleden zijn verplicht het orgaan van de woonplaats in kennis te stellen van iedere verandering in hun omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere beëindiging of verandering van dienstbetrekking of beroepswerkzaamheden van de belanghebbende of iedere overbrenging van de woon- of verblijfplaats van de belanghebbende of van een gezinslid. Het bevoegde orgaan stelt het orgaan van de woonplaats eveneens in kennis van het beëindigen van de aansluiting van de belanghebbende of van diens rechten op verstrekkingen. Het orgaan van de woonplaats kan het bevoegde orgaan te allen tijde verzoeken alle inlichtingen te verschaffen omtrent de aansluiting van de belanghebbende of diens rechten op verstrekkingen.
+In the case of frontier workers or members of their families, any medicines, bandages, spectacles, minor appliances, laboratory analyses and examinations shall only be provided or carried out in the territory of the Contracting Party in which they have been prescribed and in accordance with the legislation of that Party.
 
-##### Artikel 18
+##### Article 19
 
-Indien het grensarbeiders of hun gezinsleden betreft, mogen genees- en verbandmiddelen, brillen, kunstmiddelen van kleine omvang, laboratoriumanalyses en -proeven slechts worden afgegeven of verricht op het grondgebied van de Verdragsluitende Partij waar zij werden voorgeschreven, overeenkomstig de wettelijke regeling van deze Partij.
+1. In order to receive the cash benefits provided for in [Article 20, paragraph 1, sub-paragraph (b), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=20), the person concerned shall apply to the institution of his place of residence within three days of becoming incapable of work, and submit a certificate to the effect that he has ceased to work or, if the legislation applied by the competent institution or by the institution of the place of residence so requires, a certificate of incapacity for work issued by the doctor attending him. He shall also submit any other documents required by the legislation of the competent State, according to the type of benefit claimed.
 
-##### Artikel 19
+2. If doctors in the country of residence do not issue certificates of incapacity for work, the person concerned shall apply directly to the institution of the place of residence, within the time-limit set by the legislation it applies. That institution shall at once seek medical confirmation of incapacity for work and issue the certificate referred to in the preceding paragraph.
 
-1. Om in aanmerking te komen voor uitkeringen krachtens [artikel 20, eerste lid, sub b) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=20), wendt de belanghebbende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de woonplaats onder overlegging van een kennisgeving van arbeidsonderbreking of, indien de wettelijke regeling welke door het bevoegde orgaan of het orgaan van de woonplaats wordt toegepast, hierin voorziet, een door de behandelende geneesheer afgegeven bewijs van arbeidsongeschiktheid. Bovendien is hij verplicht alle andere krachtens de wettelijke regeling van de bevoegde Staat vereiste documenten over te leggen, naar gelang van de aard van de aangevraagde uitkeringen.
+3. The institution of the place of residence shall immediately transmit to the competent institution the documents referred to in the preceding paragraphs of this Article, indicating at the same time the probable duration of incapacity for work.
 
-2. Wanneer de behandelende geneesheren van het land van de woonplaats geen bewijzen van arbeidsongeschiktheid afgeven, wendt de belanghebbende zich rechtstreeks tot het orgaan van de woonplaats, binnen de termijn welke is vastgesteld in de door dit orgaan toegepaste wettelijke regeling. Dit orgaan laat onmiddellijk de arbeidsongeschiktheid medisch vaststellen en het in het vorige lid bedoelde bewijs uitschrijven.
+4. As soon as possible, the institution of the place of residence shall undertake a medical examination of the person concerned and make the necessary administrative enquiries regarding his case, and shall notify the competent institution without delay of the finding. The competent institution may, if it so desires, have the person concerned examined by a doctor of its choice at its own expense. Where this institution decides to refuse benefit on the grounds that the person concerned has failed to comply with the rules relating to the investigation of his case, it shall notify him of this decision and at the same time send a copy to the institution of the place of residence.
 
-3. Het orgaan van de woonplaats zendt de in de vorige leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.
+5. Termination of incapacity for work shall be notified without delay to the person concerned by the institution of the place of residence which shall at the same time notify the competent institution. When this latter institution itself decides that the person concerned is again capable of work, it shall notify him of its decision and at the same time send a copy of the decision to the institution of the place of residence.
 
-4. Zo spoedig mogelijk oefent het orgaan van de woonplaats de geneeskundige en administratieve controle op de belanghebbende uit en deelt het resultaat daarvan onverwijld mede aan het bevoegde orgaan, dat de bevoegdheid houdt de belanghebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze. Indien laatstbedoeld orgaan besluit de uitkeringen te weigeren, omdat de belanghebbende de controlevoorschriften niet heeft nageleefd, stelt dit orgaan hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de woonplaats.
+6. Where, in the same case, two different dates are set by the institution of the place of residence and by the competent institution for the termination of incapacity for work, the date set by the competent institution shall apply.
 
-5. Onverwijld wordt de belanghebbende van het einde van de arbeidsongeschiktheid in kennis gesteld door het orgaan van de woonplaats, dat daaromtrent het bevoegde orgaan onmiddellijk inlicht. Wanneer laatstbedoeld orgaan zelf beslist dat de belanghebbende weer arbeidsgeschikt is geworden, stelt het hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de woonplaats.
+7. When the person concerned resumes work, he shall notify the competent institution, if so required by the legislation which that institution applies.
 
-6. Indien, in hetzelfde geval, voor het einde van de arbeidsongeschiktheid twee verschillende data zijn vastgesteld onderscheidenlijk door het orgaan van de woonplaats en door het bevoegde orgaan, wordt de door het bevoegde orgaan vastgestelde datum aangehouden.
+8. The competent institution shall pay cash benefits by any appropriate means, for example by international money order, and shall advise the institution of the place of residence of such payments. Where benefit is paid by the institution of the place of residence on behalf of the competent institution, the competent institution shall inform the person concerned of his entitlement in the manner prescribed by the legislation which it applies, and shall also advise him of the institution charged with paying the benefits. It shall at the same time inform the institution of the place of residence of the amount of benefit payable, the dates of payment, and the maximum period for which it is payable under the legislation of the competent State. The amount of benefit payable by the institution of the place of residence shall be converted at the official rate of exchange prevailing on the first day of the month in which benefit is paid.
 
-7. Wanneer de belanghebbende het werk hervat, geeft hij hiervan bericht aan het bevoegde orgaan, indien de door dit orgaan toegepaste wettelijke regeling hierin voorziet.
+#### Application of Article 21 of the Convention
 
-8. Het bevoegde orgaan betaalt de uitkeringen met behulp van alle daartoe aangewezen middelen, bij voorbeeld per internationale postwissel, en geeft het orgaan van de woonplaats hiervan kennis. Indien de uitkeringen door het orgaan van de woonplaats voor rekening van het bevoegde orgaan worden verleend, stelt het bevoegde orgaan de belanghebbende van zijn rechten in kennis op de wijze als voorzien bij de door dit orgaan toegepaste wettelijke regeling en geeft gelijktijdig het orgaan aan dat deze uitkeringen zal uitbetalen. Tegelijkertijd doet het bevoegde orgaan het orgaan van de woonplaats mededeling van het bedrag van de uitkeringen, de data waarop zij moeten worden betaald en de maximumduur waarover zij ingevolge de wettelijke regeling van de bevoegde Staat worden toegekend. Het bedrag van de door laatstbedoeld orgaan te betalen uitkeringen wordt omgerekend tegen de officiële wisselkoers welke geldig is op de eerste dag van de maand waarin deze uitkeringen worden betaald.
+##### Article 20
 
-### Toepassing van [artikel 21 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21)
+1. In order to receive benefits in kind for himself or for such members of his family as accompany him in his temporary employment abroad, a worker employed in the circumstances referred to in [Article 15, paragraph 1, sub-paragraph (a) (i) or paragraph 2, sub-paragraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) shall submit to the institution of his place of temporary residence the certificate prescribed in Article 12, paragraph 1, of this Agreement. When he has submitted this certificate he shall be presumed to have satisfied the conditions for entitlement to benefits in kind.
 
-##### Artikel 20
+2. In order to receive benefits in kind for himself or for the members of his family who accompany him, a worker employed in the circumstances referred to in [Article 15, paragraph 1, sub-paragraph (b), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), whose work brings him to the territory of a Contracting Party other than the competent State, shall submit as promptly as possible to the institution of his place of temporary residence a statement issued by the employer or his agent within the two preceding calendar months. This statement shall indicate the date on which he began work for that employer, and the name and address of the competent institution. However, if, according to the legislation of the competent State, the employer is not presumed to know the competent institution, the said worker shall indicate the name and address of that institution in writing when submitting his application to the institution of the place of temporary residence. When he has produced the above-mentioned statement he shall be presumed to have satisfied the conditions for entitlement to benefits in kind. If he is unable to apply to the institution of the place of temporary residence before commencing medical treatment, he shall nevertheless receive such treatment on presentation of the said statement, as if he were insured with that institution.
 
-1. Om voor zichzelf of voor zijn gezinsleden die hem gedurende zijn detachering vergezellen in aanmerking te komen voor verstrekkingen, legt de in [artikel 15, eerste lid, sub a)i) of tweede lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkende aan het orgaan van de verblijfplaats het in artikel 12, eerste lid van het Akkoord bedoelde bewijs over. Wanneer bedoelde loontrekkende dit bewijs heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen.
+3. The institution of the place of temporary residence shall apply without delay to the competent institution to ascertain whether the worker referred to in paragraph 1 or 2 of this Article, as the case may be, or the members of his family concerned, satisfy the conditions for entitlement to benefits in kind. The institution of the place of temporary residence shall provide the said benefits until a reply has been received from the competent institution, but for not longer than thirty days.
 
-2. Om voor zichzelf of voor zijn gezinsleden die hem vergezellen, in aanmerking te komen voor verstrekkingen, legt de in [artikel 15, eerste lid, sub b) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkende, die zich voor de uitoefening van zijn beroep op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat bevindt, aan het orgaan van de verblijfplaats zo spoedig mogelijk een verklaring over welke door de werkgever of diens vertegenwoordiger in de loop van de twee voorafgaande kalendermaanden is afgegeven. In deze verklaring wordt met name de datum vermeld sedert welke de belanghebbende voor rekening van bedoelde werkgever werkt, alsmede de naam en de plaats van vestiging van het bevoegde orgaan; indien de werkgever evenwel volgens de wettelijke regeling van de bevoegde Staat niet wordt geacht het bevoegde orgaan te kennen, geeft bedoelde loontrekkende de naam en de plaats van vestiging van dit orgaan schriftelijk op wanneer de aanvraag bij het orgaan van de verblijfplaats wordt ingediend. Wanneer hij deze verklaring heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen. Indien hij niet in staat is zich vóór de medische behandeling tot het orgaan van de verblijfplaats te wenden, ontvangt hij deze behandeling desniettegenstaande op vertoon van bedoelde verklaring, alsof hij bij dat orgaan verzekerd was.
+4. The competent institution shall reply to the institution of the place of temporary residence within ten days of receiving that institution's enquiry. If the reply is in the affirmative, the competent institution shall indicate the maximum period, if any, during which the benefits in kind may be provided under the legislation which it applies, and the institution of the place of temporary residence shall continue to provide the said benefits.
 
-3. Het orgaan van de verblijfplaats richt zich onverwijld tot het bevoegde orgaan, teneinde te vernemen of de in het eerste, onderscheidenlijk het tweede lid van dit artikel bedoelde loontrekkende of de betrokken gezinsleden aan de voorwaarden voor het ingaan van het recht op verstrekkingen voldoen. Het is verplicht verstrekkingen te verlenen totdat antwoord van het bevoegde orgaan is ontvangen en ten hoogste gedurende dertig dagen.
+5. Instead of the certificate or statement referred to respectively in paragraphs 1 and 2 of this Article, the worker may submit to the institution of the place of temporary residence the certificate referred to in Article 21, paragraph 1, of this Agreement. In that case, the provisions of the preceding paragraphs of this Article shall not apply.
 
-4. Het bevoegde orgaan zendt het orgaan van de verblijfplaats antwoord binnen tien dagen na ontvangst van het verzoek van dit orgaan. Indien dit antwoord bevestigend luidt, deelt het bevoegde orgaan in voorkomend geval de maximumduur mede waarover overeenkomstig de door dit orgaan toegepaste wettelijke regeling verstrekkingen mogen worden toegekend en zet het orgaan van de verblijfplaats het verlenen van verstrekkingen voort.
+6. The provisions of Article 17, paragraph 6, of this Agreement shall apply, mutatis mutandis.
 
-5. In plaats van het bewijs of de verklaring, bedoeld in het eerste, onderscheidenlijk het tweede lid van dit artikel, kan de loontrekkende aan het orgaan van de verblijfplaats het in artikel 21, eerste lid van het Akkoord bedoelde bewijs overleggen. In dit geval zijn de voorgaande leden van dit artikel niet van toepassing.
+##### Article 21
 
-6. Artikel 17, zesde lid van het Akkoord is van overeenkomstige toepassing.
+1. In order to receive the benefits in kind provided for in [Article 21, paragraph 1, sub-paragraph (a) (i), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), except in cases where the presumption in Article 20, paragraphs 1 and 2, of this Agreement is operative, the person concerned shall submit to the institution of his place of temporary residence a certificate that he is entitled to such benefits. This certificate, issued by the competent institution at the request of the person concerned before he leaves the territory of the Contracting Party in which he resides, shall indicate the maximum period, if any, during which benefits in kind may be provided under the legislation of the competent State. If the person concerned does not submit such a certificate, the institution of the place of temporary residence shall apply for it to the competent institution.
 
-##### Artikel 21
+2. The provisions of Article 17, paragraph 6, of this Agreement shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 21, eerste lid, sub a)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), behalve in de gevallen waarin van de in artikel 20, eerste en tweede lid van het Akkoord bedoelde veronderstelling wordt uitgegaan, legt de belanghebbende aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op deze verstrekkingen heeft. In dit bewijs, dat op verzoek van de belanghebbende door het bevoegde orgaan wordt afgegeven, voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont, verlaat, wordt in voorkomend geval met name de maximumduur vermeld waarover overeenkomstig de wettelijke regeling van de bevoegde Staat verstrekkingen mogen worden toegekend. Indien de belanghebbende dit bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan daarom.
+##### Article 22
 
-2. Artikel 17, zesde lid van het Akkoord is van overeenkomstige toepassing.
+1. In order to receive the benefits in kind provided for in [Article 21, paragraph 1, sub-paragraph (b) (i) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), the person concerned shall submit to the institution of his place of residence a certificate that he is authorised to continue receiving such benefits. This certificate, issued by the competent institution at the request of the person concerned, prior to his departure, shall indicate the maximum period, if any, during which such benefits may continue to be provided under the legislation of the competent State. The certificate may be issued after the departure of the person concerned, at his request, when, for reasons outside his control, it could not have been prepared earlier.
 
-##### Artikel 22
+2. The provisions of Article 17, paragraph 6, of this Agreement shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 21, eerste lid, sub b)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), legt de belanghebbende aan het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij het recht op deze verstrekkingen mag behouden. In dit bewijs, dat op verzoek van de belanghebbende door het bevoegde orgaan vóór zijn vertrek wordt afgegeven, wordt in voorkomend geval met name de maximumduur vermeld waarover volgens de wettelijke regeling van de bevoegde Staat nog verstrekkingen mogen worden verleend. Het bewijs kan op verzoek van de belanghebbende na diens vertrek worden afgegeven, wanneer het wegens overmacht niet voordien kon worden opgemaakt.
+3. The provisions of the preceding paragraphs of this Article shall apply, mutatis mutandis, in the case covered by [Article 21, paragraph 1, sub-paragraph (c) (i) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21).
 
-2. Artikel 17, zesde lid van het Akkoord is van overeenkomstige toepassing.
+##### Article 23
 
-3. In het in [artikel 21, eerste lid, sub c)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21) bedoelde geval zijn de voorgaande leden van dit artikel van overeenkomstige toepassing.
+The provisions of Article 21 or of Article 22 of this Agreement as the case may be shall apply, mutatis mutandis, in relation to the provision of benefits in kind to the members of the family referred to in [Article 21, paragraph 3 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21).
 
-##### Artikel 23
+##### Article 24
 
-Artikel 21 dan wel artikel 22 van het Akkoord is van overeenkomstige toepassing voor de toekenning van verstrekkingen aan de in [artikel 21, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21) bedoelde gezinsleden.
+1. In order to receive the cash benefits provided for in [Article 21, paragraph 1, sub-paragraph (a) (ii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), the person concerned shall apply to the institution of his place of temporary residence within three days of becoming incapable of work, and submit a certificate of incapacity for work issued by the doctor attending him, if so required by the legislation applied by the competent institution or by the institution of the place of temporary residence. He shall also indicate his address in the country of temporary residence as well as the name and address of the competent institution.
 
-##### Artikel 24
+2. If doctors in the country of temporary residence do not issue certificates of incapacity for work, the provisions of Article 19, paragraph 2, of this Agreement shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor uitkeringen krachtens [artikel 21, eerste lid, sub a) ii) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21), wendt de belanghebbende zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de verblijfplaats onder overlegging van een door de behandelende geneesheer afgegeven bewijs van arbeidsongeschiktheid, voor zover de wettelijke regeling welke door het bevoegde orgaan of het orgaan van de verblijfplaats wordt toegepast, hierin voorziet. Bovendien deelt hij zijn adres in het land waar hij verblijft mede, alsmede de naam en het adres van het bevoegde orgaan.
+3. The institution of the place of temporary residence shall without delay transmit to the competent institution the documents referred to in the preceding paragraphs of this Article indicating in particular the probable duration of incapacity for work.
 
-2. Wanneer de behandelende geneesheren van het land van de verblijfplaats geen bewijzen van arbeidsongeschiktheid afgeven, is artikel 19, tweede lid van het Akkoord van overeenkomstige toepassing.
+4. Persons other than the workers referred to in [Article 15, paragraph 1, sub-paragraph (a) (i), and paragraph 2, sub-paragraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), whose state of health is found by medical examination to be such as not to prevent them from returning to the territory of the Contracting Party where they reside, shall immediately be notified to this effect by the institution of the place of temporary residence, which shall also send a copy of the notification to the competent institution.
 
-3. Het orgaan van de verblijfplaats zendt de in de vorige leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.
+5. In addition, the provisions of Article 19, paragraphs 4 to 8, of this Agreement shall apply, mutatis mutandis.
 
-4. Indien voor wat betreft andere personen dan de in [artikel 15, eerste lid, sub a)i) en tweede lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkenden medisch wordt vastgesteld dat hun gezondheidstoestand geen belemmering vormt voor hun terugkeer naar het grondgebied van de Verdragsluitende Partij waarop zij wonen, geeft het orgaan van de verblijfplaats hun daarvan onmiddellijk kennis en zendt het een afschrift van deze kennisgeving aan het bevoegde orgaan.
+#### Application of Article 22, paragraph 4, of the Convention
 
-5. Artikel 19, vierde tot en met achtste lid van het Akkoord is bovendien van overeenkomstige toepassing.
+##### Article 25
 
-### Toepassing van [artikel 22, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=22)
+1. In order to benefit from the provisions of [Article 22, paragraph 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=22), the person concerned shall submit to the competent institution a certificate regarding the members of his family residing in the territory of a Contracting Party other than the competent State. This certificate shall be issued by the institution of the place of residence of the said members of the family.
 
-##### Artikel 25
+2. The certificate referred to in the preceding paragraph shall be valid for a period of twelve months from the date of issue and shall be renewable. When renewed, its validity shall begin to run from the date of its renewal. The person concerned shall immediately notify the competent institution of any change to be made in the certificate. Such change shall have effect from the date on which the contingency occurred.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 22, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=22) legt de belanghebbende aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven door het orgaan van de woonplaats van deze gezinsleden.
+3. Instead of the certificate referred to in paragraph 1 of this Article, the competent institution may require the person concerned to submit recent civil status papers for the members of his family who are residing in the territory of a Contracting Party other than the competent State, if such papers are normally issued by the authorities of that Contracting Party.
 
-2. Het in het vorige lid bedoelde bewijs is geldig gedurende twaalf maanden na de datum van afgifte. Het kan worden vernieuwd; in dit geval loopt de geldigheidsduur te rekenen van de datum van vernieuwing. De belanghebbende is verplicht het bevoegde orgaan onmiddellijk kennis te geven van iedere wijziging welke in dit bewijs moet worden aangebracht. Een dergelijke wijziging wordt van kracht op de dag waarop de omstandigheid welke oorzaak is van de wijziging, zich voordoet.
+#### Application of Article 23 of the Convention
 
-3. In de plaats van het in het eerste lid van dit artikel bedoelde bewijs, kan het bevoegde orgaan verlangen dat de belanghebbende recente stukken van de burgerlijke stand overlegt omtrent zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen, indien het gebruikelijk is dat de autoriteiten van deze Partij dergelijke stukken afgeven.
+##### Article 26
 
-### Toepassing van [artikel 23 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=23)
+The provisions of Article 17 of this Agreement shall apply, mutatis mutandis, in relation to the provision of benefits in kind for unemployed persons and the members of their family residing in the territory of a Contracting Party other than the competent State.
 
-##### Artikel 26
+#### Application of Article 24 of the Convention
 
-Artikel 17 van het Akkoord is van overeenkomstige toepassing voor de toekenning van verstrekkingen aan werklozen en hun gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen.
+##### Article 27
 
-### Toepassing van [artikel 24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24)
+1. In order to receive the benefits in kind provided for in [Article 24, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24) in the territory of the Contracting Party in which he resides, a person receiving a pension, and the members of his family, shall register with the institution of the place of residence, submitting a certificate stating his entitlement to benefits in kind for himself and for the members of his family according to the legislation, or one of the legislations, under which the pension is payable.
 
-##### Artikel 27
+2. The certificate referred to in the preceding paragraph shall be issued, at the request of the person concerned, by the institution, or by one of the institutions, by which the pension is payable or, where appropriate, by the institution competent to decide on entitlement to benefits in kind, provided that the recipient of the pension satisfies the conditions for entitlement to such benefits. If the person concerned fails to submit such a certificate the institution of the place of residence shall apply for it to the institution or institutions by which the pension is payable or, where appropriate, to any other institution empowered to issue such a certificate. Pending receipt of the certificate the institution of the place of residence may register the person concerned and the members of his family provisionally upon presentation of supporting documents which are acceptable to it. Such registration can only be invoked against the institution responsible for the provision of benefits in kind if this latter institution has issued the said certificate.
 
-1. Om op het grondgebied van de Verdragsluitende Partij waarop hij woont, in aanmerking te komen voor verstrekkingen krachtens [artikel 24, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24), laat de pensioen- of rentetrekker zich en zijn gezinsleden inschrijven bij het orgaan van de woonplaats, onder overlegging van een bewijs waarin wordt verklaard dat hij krachtens de wettelijke regeling of krachtens één der wettelijke regelingen op grond waarvan een pensioen of rente verschuldigd is, voor zichzelf en zijn gezinsleden recht op verstrekkingen heeft.
+3. The institution of the place of residence shall notify the institution which has issued the certificate referred to in paragraph 1 of this Article of any registration made in accordance with the provisions of that paragraph.
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de pensioen- of rentetrekker door het orgaan of één der organen welke pensioen of rente verschuldigd zijn of, in voorkomend geval, door het orgaan dat over het recht op verstrekkingen moet beslissen, afgegeven, zodra de pensioen- of rentetrekker voldoet aan de voorwaarden voor het ingaan van het recht op verstrekkingen. Indien de pensioen- of rentetrekker dit bewijs niet overlegt, verzoekt het orgaan van de woonplaats het orgaan of de organen welke pensioen of rente verschuldigd zijn of, in voorkomend geval, ieder ander orgaan dat bevoegd is bedoeld bewijs af te geven, daarom. In afwachting van de ontvangst van dit bewijs, kan het orgaan van de woonplaats de pensioen- of rentetrekker er zijn gezinsleden voorlopig inschrijven op vertoon van de door dit orgaan toegelaten bewijsstukken. Deze inschrijving is voor het orgaan dat de kosten van de verstrekkingen moet dragen slechts bindend, wanneer laatstbedoeld orgaan genoemd bewijs heeft afgegeven.
+4. Any application for benefits in kind shall entitle the institution of the place of residence to require the person concerned to furnish proof of his continued entitlement to a pension in the form of a receipt, or the counterfoil of a money order, relating to the latest pension payment.
 
-3. Het orgaan van de woonplaats stelt het orgaan dat het in het eerste lid van dit artikel bedoeld bewijs heeft afgegeven in kennis van iedere inschrijving welke het overeenkomstig bedoeld lid heeft verricht.
+5. The person concerned or the members of his family shall inform the institution of the place of residence of any change in their circumstances which might affect their entitlement to benefits in kind, and in particular of any suspension or suppression of the pension, and of any change of residence. The institutions concerned shall likewise notify the institution of the place of residence of any changes of which they become aware.
 
-4. Bij elke aanvraag om verstrekkingen kan het orgaan van de woonplaats verlangen dat de pensioen- of rentetrekker, aan de hand van het ontvangstbewijs of het strookje van de postwissel van de laatste betaling, aantoont dat hij nog altijd recht op pensioen of rente heeft.
+##### Article 28
 
-5. De pensioen- of rentetrekker of zijn gezinsleden zijn verplicht het orgaan van de woonplaats in kennis te stellen van elke wijziging in hun omstandigheden, waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van elke schorsing of beëindiging van het pensioen of de rente en elke overbrenging van hun woonplaats. De betrokken organen stellen het orgaan van de woonplaats van de pensioen- of rentetrekker eveneens op de hoogte van elke wijziging waarvan zij kennis dragen.
+1. In order to receive the benefits in kind provided for in [Article 24, paragraph 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24) in the territory of the Contracting Party in which they reside, the members of the family of a recipient of a pension shall register with the institution of their place of residence, submitting the supporting documents normally required by the legislation which that institution applies for the granting of such benefits to members of the family of a recipient of a pension, together with a certificate similar to that referred to in Article 27, paragraph 1, of this Agreement. The said institution shall notify the institution of the recipient's place of residence of any registration made in accordance with this paragraph.
 
-##### Artikel 28
+2. When applying for benefits in kind, the members of the family shall submit to the institution of their place of residence a certificate that the recipient of the pension is entitled to benefits in kind for himself and for the members of his family; this certificate, issued by the institution of the recipient's place of residence, shall remain valid as long as the institution of the place of residence of the members of the family has not received notice of its cancellation.
 
-1. Om op het grondgebied van de Verdragsluitende Partij waarop zij wonen in aanmerking te komen voor verstrekkingen krachtens [artikel 24, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24), laten de gezinsleden van een pensioen- of rentetrekker zich inschrijven bij het orgaan van hun woonplaats, onder overlegging van de bewijsstukken welke krachtens de door dit orgaan toegepaste wettelijke regeling gewoonlijk vereist worden voor de toekenning van verstrekkingen aan de gezinsleden van een pensioen- of rentetrekker, alsmede van een soortgelijk bewijs als bedoeld in artikel 27, eerste lid van het Akkoord. Bedoeld orgaan stelt het orgaan van de woonplaats van de pensioen- of rentetrekker in kennis van iedere inschrijving welke het overeenkomstig het bepaalde in de vorige volzin verricht.
+3. The institution of the place of residence of the recipient of a pension shall notify to the institution of the place of residence of the members of the family the suspension or suppression of the pension and any change in the place of residence of such recipient. The institution of the place of residence of the members of the family may at any time request the institution of the place of residence of the recipient of a pension to supply any information relating to the latter's entitlement to benefit.
 
-2. Bij iedere aanvraag om verstrekkingen leggen de gezinsleden aan het orgaan van hun woonplaats een bewijs over waarin wordt verklaard dat de pensioen- of rentetrekker voor zichzelf en zijn gezinsleden recht op verstrekkingen heeft; dit bewijs, dat wordt afgegeven door het orgaan van de woonplaats van de pensioen- of rentetrekker, blijft geldig zolang het orgaan van de woonplaats van de gezinsleden ter zake geen kennisgeving van intrekking heeft ontvangen.
+4. The members of the family shall inform the institution of their place of residence of any change in their circumstances which might affect their entitlement to benefits in kind, and in particular of any change of residence.
 
-3. Het orgaan van de woonplaats van de pensioen- of rentetrekker stelt het orgaan van de woonplaats van de gezinsleden in kennis van de schorsing of intrekking van het pensioen of de rente en van iedere overbrenging van de woonplaats van de pensioen- of rentetrekker. Het orgaan van de woonplaats van de gezinsleden kan te allen tijde aan het orgaan van de woonplaats van de pensioen- of rentetrekker verzoeken alle inlichtingen te verschaffen omtrent diens rechten op verstrekkingen.
+##### Article 29
 
-4. De gezinsleden zijn verplicht het orgaan van hun woonplaats in kennis te stellen van iedere verandering in hun omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere overbrenging van hun woonplaats.
+1. In order to receive the benefits in kind provided for in [Article 24, paragraph 6, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24), the recipient of a pension shall submit to the institution of his place of temporary residence a certificate that he is entitled to such benefits. This certificate, issued by the institution of his place of residence before he leaves the territory of the Contracting Party in which he resides, shall indicate the maximum period, if any, during which benefits in kind may be provided under the legislation of this Contracting Party. If he does not submit such a certificate, the institution of the place of temporary residence shall apply for it to the institution of the place of residence.
 
-##### Artikel 29
+2. The provisions of Article 17, paragraph 6, of this Agreement shall apply, mutatis mutandis. In this case, the institution of the recipient's place of residence shall be regarded as the competent institution.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 24, zesde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24), legt de pensioen- of rentetrekker aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op deze verstrekkingen heeft. In dit bewijs, dat het orgaan van de woonplaats van de pensioen- of rentetrekker uitreikt voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont, verlaat, wordt in voorkomend geval met name de maximumduur vermeld waarover overeenkomstig de wettelijke regeling van deze Partij verstrekkingen mogen worden toegekend. Indien de pensioen- of rentetrekker genoemd bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het orgaan van de woonplaats daarom.
+3. The previous paragraphs of this Article shall apply, mutatis mutandis, in relation to the provision of benefits in kind for the members of the family referred to in [Article 24, paragraph 6, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24).
 
-2. Artikel 17, zesde lid van het Akkoord is van overeenkomstige toepassing. In dit geval wordt het orgaan van de woonplaats van de pensioen- of rentetrekker als bevoegd orgaan beschouwd.
+4. If the formalities referred to in the preceding paragraphs could not be complied with during temporary residence of the person concerned in the territory of a Contracting Party other than the competent State, the provisions of Article 30 shall apply, mutatis mutandis.
 
-3. De vorige leden van dit artikel zijn van overeenkomstige toepassing voor de toekenning van verstrekkingen aan de in [artikel 24, zesde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24) bedoelde gezinsleden.
+#### Application of Articles 21 and 24 of the Convention
 
-4. Indien de in de vorige leden van dit artikel voorgeschreven formaliteiten niet gedurende het verblijf van de belanghebbende op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat konden worden vervuld, is artikel 30 van het Akkoord van overeenkomstige toepassing.
+##### Article 30
 
-### Toepassing van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=21) en [24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=24)
+If the formalities referred to in Article 20, paragraphs 1, 2 and 5 and in Articles 21 and 22 of this Agreement have not been complied with during the temporary residence in the territory of a Contracting Party other than the competent State, the relevant medical expenses shall be refunded, at the request of the person concerned, by the competent institution, in accordance with the scale of reimbursement applied by the institution of the place of temporary residence. The institution of the place of temporary residence shall provide the competent institution, on request, with any necessary information concerning the scale of reimbursement.
 
-##### Artikel 30
+#### Application of Article 25, paragraph 3, of the Convention
 
-Indien de in artikel 20, eerste, tweede en vijfde lid en de in de artikelen 21 en 22 van het Akkoord voorgeschreven formaliteiten niet gedurende het verblijf van de belanghebbende op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat konden worden vervuld, worden de gemaakte kosten op verzoek van de belanghebbende door het bevoegde orgaan vergoed tegen de tarieven, welke door het orgaan van de verblijfplaats voor de vergoeding worden toegepast. Het orgaan van de verblijfplaats verstrekt het bevoegde orgaan dat zulks verzoekt de nodige inlichtingen over deze tarieven.
+##### Article 31
 
-### Toepassing van [artikel 25, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=25)
+For the purpose of applying the provisions of Article 25, paragraph 3, of the Convention, the institution of a Contracting Party from which benefits are due may apply to the institution of another Contracting Party for information concerning the period for which the latter has been providing such benefits for the same case of sickness or maternity.
 
-##### Artikel 31
+### Chapter 2. : Invalidity, old age and death (pensions)
 
-Voor de toepassing van artikel 25, derde lid van het Verdrag, vraagt het orgaan van een Verdragsluitende Partij dat prestaties moet verlenen zo nodig bij het orgaan van een andere Verdragsluitende Partij gegevens op omtrent de duur waarover laatstbedoeld orgaan reeds prestaties heeft verleend voor hetzelfde geval van ziekte of moederschap.
+#### Submission and examination of benefit claims
 
-### Hoofdstuk 2. : Invaliditeit, ouderdom en overlijden (pensioenen)
+##### Article 32
 
-### Indiening en behandeling van de aanvragen om uitkeringen
+1. In order to receive the benefits provided for in [Articles 28 to 34 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), the claimant shall submit a claim to the institution of his place of residence in the manner prescribed by the legislation which that institution applies. If the claimant or the deceased person has not been subject to that legislation, the institution of the place of residence shall transmit the claim to the institution of the Contracting Party to whose legislation the claimant or the deceased person was last subject, indicating the date on which the claim was submitted. That date shall then be considered as the date of submission of the claim to the last-mentioned institution.
 
-##### Artikel 32
+2. If the claimant resides in the territory of a Contracting Party to whose legislation he or the deceased person has not been subject, he may submit his claim to the institution of the Contracting Party to whose legislation he or the deceased person was last subject.
 
-1. Om in aanmerking te komen voor uitkeringen krachtens de [artikelen 28 tot en met 34 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), richt de aanvrager een aanvraag tot het orgaan van de woonplaats, volgens de voorschriften van de door dit orgaan toegepaste wettelijke regeling. Indien de aanvrager of de overledene niet aan deze wettelijke regeling onderworpen is geweest, zendt het orgaan van de woonplaats de aanvraag door aan het orgaan van de Verdragsluitende Partij, aan de wettelijke regeling waarvan de aanvrager of de overledene laatstelijk onderworpen is geweest, zulks onder opgave van de datum waarop de aanvraag werd ingediend. Deze datum wordt beschouwd als de datum waarop de aanvraag bij laatstbedoeld orgaan werd ingediend.
+##### Article 33
 
-2. Wanneer de aanvrager woont op het grondgebied van een Verdragsluitende Partij aan de wettelijke regeling waarvan hijzelf of de overledene niet onderworpen is geweest, kan hij zijn aanvraag richten tot het orgaan van de Verdragsluitende Partij aan de wettelijke regeling waarvan hijzelf of de overledene laatstelijk onderworpen is geweest.
+The submission of the claims referred to in Article 32 of this Agreement shall be subject to the following rules:
 
-##### Artikel 33
+- (a) the claim shall be accompanied by the requisite supporting documents and shall be submitted on the forms prescribed
 
-Voor de indiening van de in artikel 32 van het Akkoord bedoelde aanvragen gelden de volgende regels:
+   - (i) either by the legislation of the Contracting Party in whose territory the claimant resides, in the case referred to in Article 32, paragraph 1,
 
-- a). de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld op de formulieren, voorgeschreven
+   - (ii) or by the legislation of the Contracting Party to which the claimant or the deceased person was last subject, in the case referred to in Article 32, paragraph 2;
 
-- i). hetzij in de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont, in het geval bedoeld in artikel 32, eerste lid,
+- (b) the accuracy of the information furnished by the claimant shall be substantiated by official documents attached to the claim form, or corroborated by the authorities of the Contracting Party in whose territory he resides;
 
-- ii). hetzij in de wettelijke regeling van de Verdragsluitende Partij waaraan de aanvrager of de overledene laatstelijk onderworpen is geweest, in het geval bedoeld in artikel 32, tweede lid;
+- (c) the claimant shall indicate, as far as possible, either the invalidity, old age, or death (pensions) insurance institution or institutions of each of the Contracting Parties to whose legislation he or the deceased has or had been subject, or the employer or employers by whom he or the deceased has or had been employed in the territory of any Contracting Party, and submit any certificates of employment that may be in his possession.
 
-- b). de juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij het aanvraagformulier gevoegde officiële stukken, of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont;
+##### Article 34
 
-- c). voor zover mogelijk moet de aanvrager vermelden, ofwel het orgaan of de organen van de invaliditeits- of ouderdomsverzekering of van de verzekering bij overlijden (pensioenen) van elke Verdragsluitende Partij aan de wettelijke regeling waarvan hijzelf of de overledene is onderworpen geweest, ofwel de werkgever of werkgevers bij wie hijzelf of de overledene op het grondgebied van elke Verdragsluitende Partij is werkzaam geweest, zulks onder overlegging van de bewijzen van verrichte arbeid waarover hij mocht beschikken.
+In order to benefit from the provisions of [Article 30, paragraph 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=30), the claimant shall submit a certificate regarding the members of his family who are residing in the territory of a Contracting Party other than that where the institution which pays the benefit is situated. This certificate shall be issued either by the institution, competent in relation to sickness, of the place of residence of the members of the family or by any other institution designated by the competent authority of the Contracting Party in whose territory the said members of the family reside. The provisions of Article 25, paragraphs 2 and 3, of this Agreement shall apply, mutatis mutandis.
 
-##### Artikel 34
+##### Article 35
 
-Om in aanmerking te komen voor toepassing van [artikel 30, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=30), legt de aanvrager een bewijs over betreffende zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij wonen dan die waar het orgaan dat de uitkeringen moet vaststellen gevestigd is. Dit bewijs wordt afgegeven door het orgaan van de ziekteverzekering van de woonplaats van deze gezinsleden of door een ander orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze gezinsleden wonen. Artikel 25, tweede en derde lid van het Akkoord is van overeenkomstige toepassing.
+In determining the degree of invalidity, the institution of a Contracting Party shall take account of all the medical and administrative information assembled by the institutions of any other Contracting Party. However, each institution shall retain the right to have the claimant examined by a doctor of its choice at its own expense.
 
-##### Artikel 35
+##### Article 36
 
-Het orgaan van een Verdragsluitende Partij houdt voor het bepalen van de mate van invaliditeit rekening met alle inlichtingen van medische en administratieve aard welke door het orgaan van enige andere Verdragsluitende Partij zijn ingewonnen. Elk orgaan behoudt echter de bevoegdheid de aanvrager voor eigen rekening door een arts van eigen keuze te laten onderzoeken.
+1. Claims shall be examined by the institution to which they have been submitted or to which they have been transmitted, as the case may be, as provided for in Article 32 of this Agreement. This institution shall be known as “the examining institution”.
 
-##### Artikel 36
+2. The examining institution shall immediately advise all the institutions concerned so that the claims may be examined by them simultaneously and without delay.
 
-1. De aanvragen om uitkering worden behandeld door het betrokken orgaan waaraan zij, overeenkomstig artikel 32 van het Akkoord, naargelang de omstandigheden, zijn gericht of doorgezonden. Dit orgaan wordt „het behandelende orgaan” genoemd.
+##### Article 37
 
-2. Het behandelende orgaan geeft alle betrokken organen onmiddellijk kennis van de aanvragen om uitkeringen, opdat deze aanvragen gelijktijdig en onverwijld door deze organen kunnen worden behandeld.
+1. In examining claims, the examining institution shall use a form setting out details of, and the total of, the periods of insurance or residence completed by the person concerned or by the deceased person under the legislation of all the Contracting Parties concerned.
 
-##### Artikel 37
+2. The transmission of this form to the institution of any other Contracting Party shall take the place of the transmission of supporting documents.
 
-1. Voor de behandeling van de aanvragen om uitkeringen maakt het behandelende orgaan gebruik van een formulier waarin met name een opsomming en een samenvatting voorkomen van de tijdvakken van verzekering of van wonen welke door de belanghebbende zelf of de overledene krachtens de wettelijke regelingen van alle betrokken Verdragsluitende Partijen zijn vervuld.
+##### Article 38
 
-2. De toezending van dit formulier aan het orgaan van een andere Verdragsluitende Partij geldt als toezending van bewijsstukken.
+1. The examining institution shall enter on the form referred to in Article 37, paragraph 1, of this Agreement, the periods of insurance or residence completed under its own legislation, and shall return a copy of the form to the invalidity, old age or death (pensions) insurance institution of each Contracting Party to whose legislation the person concerned or the deceased person has or had been subject attaching any employment certificates produced by the claimant.
 
-##### Artikel 38
+2. If only one other institution is involved, that institution shall complete the form sent to it in accordance with the provisions of the preceding paragraph, indicating the periods of insurance or residence completed under the legislation it applies. It shall then determine entitlement under that legislation, having regard to the provisions of [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), and shall state on the form the theoretical and the actual amounts of the benefit, calculated in accordance with the provisions of [paragraphs 2, 3, 4 or 5 of Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) as well as, where appropriate, the amount of any benefit which could be claimed, without applying the provisions of [Articles 28 to 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), solely for the periods completed under the legislation it applies. The form, which should also contain information concerning appeals procedure including time limits, shall then be returned to the examining institution.
 
-1. Het behandelende orgaan vermeldt op het in artikel 37, eerste lid van het Akkoord bedoelde formulier de tijdvakken van verzekering of van wonen welke krachtens de door dit orgaan toegepaste wettelijke regeling zijn vervuld en zendt een exemplaar van dit formulier aan het orgaan van de invaliditeits- of ouderdomsverzekering of van de verzekering bij overlijden (pensioenen) van iedere Verdragsluitende Partij aan de wettelijke regeling waarvan de belanghebbende of de overledene is onderworpen geweest, in voorkomend geval onder bijvoeging van de bewijzen van verrichte arbeid welke de aanvrager heeft overgelegd.
+3. If there are two or more other institutions involved, each institution shall complete the form submitted to it in accordance with the provisions of paragraph 1 of this Article, indicating the periods of insurance or residence completed under the legislation it applies, and return the form to the examining institution. That institution shall send the completed form to the other institutions involved, each of which shall determine entitlement under the legislation it applies in accordance with the provisions of [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28) and indicate on the form the theoretical and actual amounts of any benefit calculated in accordance with the provisions of [paragraphs 2, 3, 4 or 5 of Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) as well as, where appropriate, the amount of any benefit which could be claimed, without applying the provisions of [Articles 28 to 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), solely for the periods completed under the legislation it applies. The form, which should also contain information concerning appeals procedure, including time-limits, shall then be returned to the examining institution.
 
-2. Indien er slechts één ander orgaan bij betrokken is, vult dit orgaan het hem overeenkomstig het vorige lid toegezonden formulier aan met de vermelding van de tijdvakken van verzekering of van wonen welke krachtens de door dit orgaan toegepaste wettelijke regeling zijn vervuld. Vervolgens stelt dit orgaan, rekening houdende met [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), vast welke rechten op grond van deze wettelijke regeling bestaan en vermeldt op dit formulier het theoretische bedrag en het werkelijke bedrag van de uitkering, berekend overeenkomstig [artikel 29, tweede, derde, vierde of vijfde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29), alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wettelijke regeling vervulde tijdvakken, zonder dat de [artikelen 28 tot en met 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28) worden toegepast. Nadat op genoemd formulier nog de rechtsmiddelen en de beroepstermijnen zijn vermeld, wordt het aan het behandelende orgaan teruggezonden.
+4. When the examining institution has received all the information referred to in paragraphs 2 or 3 of this Article, it shall determine entitlement under the legislation it applies, having regard to the provisions of [Article 28 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), and shall calculate the theoretical and actual amounts of the benefit, in accordance with the provisions of [paragraphs 2, 3, 4 or 5 of Article 29 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) as well as, where appropriate, the amount of any benefit which could be claimed without applying the provisions of [Articles 28 to 33 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), solely for the periods completed under the legislation it applies.
 
-3. Indien er twee of meer andere organen bij betrokken zijn, vult elk van deze organen het hem overeenkomstig het eerste lid van dit artikel toegezonden formulier aan met de vermelding van de tijdvakken van verzekering of van wonen welke krachtens de door dit orgaan toegepaste wettelijke regeling zijn vervuld en zendt het aan het behandelende orgaan terug. Dit orgaan zendt het aldus aangevulde formulier aan alle betrokken organen; elk van deze organen stelt, rekening houdende met [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), vast welke rechten op grond van de door dit orgaan toegepaste wettelijke regeling bestaan en vermeldt op dit formulier het theoretische bedrag en het werkelijke bedrag van de uitkering, berekend overeenkomstig [artikel 29, tweede, derde, vierde of vijfde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29), alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wettelijke regeling vervulde tijdvakken, zonder dat de [artikelen 28 tot en met 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28) worden toegepast. Nadat op genoemd formulier nog de rechtsmiddelen en de beroepstermijnen zijn vermeld, wordt het aan het behandelende orgaan teruggezonden.
+5. Should the examining institution, upon receiving the information referred to in paragraphs 2 or 3 of this Article, find it is necessary to apply the provisions of [Article 31, paragraphs 2 or 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=31), [Article 32, paragraphs 2, 4 or 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=32), or [Article 34, paragraph 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34), it shall so inform the other institutions concerned.
 
-4. Wanneer het behandelende orgaan in het bezit is van alle in het tweede of het derde lid van dit artikel bedoelde gegevens, stelt dit orgaan, rekening houdende met [artikel 28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28), op zijn beurt vast welke rechten op grond van de door dit orgaan toegepaste wettelijke regeling bestaan en berekent, overeenkomstig [artikel 29, tweede, derde, vierde of vijfde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29), het theoretische bedrag en het werkelijke bedrag van de uitkering dat dit orgaan verschuldigd is, alsmede eventueel het bedrag van de uitkering waarop de aanvrager aanspraak zou kunnen maken uitsluitend op grond van de krachtens de door dit orgaan toegepaste wettelijke regeling vervulde tijdvakken, zonder dat de [artikelen 28 tot en met 33 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=28) worden toegepast.
+##### Article 39
 
-5. Zodra het behandelende orgaan bij ontvangst van de in het tweede of derde lid van dit artikel bedoelde gegevens vaststelt dat [artikel 31, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=31), [artikel 32, tweede, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=32) of [artikel 34, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34) moet worden toegepast, stelt het de overige betrokken organen hiervan in kennis.
+1. If the examining institution finds that the claimant is entitled to benefit under the legislation it applies, without reference to the periods of insurance or residence completed under the legislation of the other Contracting Parties to which the person concerned or the deceased person was subject, it shall make an immediate payment of this benefit on a provisional basis.
 
-##### Artikel 39
+2. Each institution which, in accordance with the provisions of [Article 29, paragraph 5, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29), may calculate directly the benefit or partial benefit due to the claimant, shall pay him such benefit immediately. If an institution other than the examining institution pays benefit directly to the claimant, it shall immediately inform the examining institution accordingly and retain any arrears due having regard to the application of the provisions of paragraph 7 of this Article, in favour of any institution which may have paid in excess of the amount due.
 
-1. Indien het behandelende orgaan vaststelt dat de aanvrager krachtens de door dit orgaan toegepaste wettelijke regeling recht heeft op uitkeringen zonder dat een beroep behoeft te worden gedaan op de tijdvakken van verzekering of van wonen welke zijn vervuld krachtens de wettelijke regelingen van de andere Verdragsluitende Partijen waaraan de belanghebbende of de overledene onderworpen is geweest, betaalt dit orgaan hem deze onmiddellijk als voorlopige uitkering.
+3. Where the examining institution pays benefit under paragraph 1 of this Article, it shall deduct from the amount of such benefit the amount of benefit paid by any other institution in accordance with the preceding paragraph, as soon as it knows the amount in question.
 
-2. Elk orgaan dat overeenkomstig [artikel 29, vijfde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29) gerechtigd is de uitkeringen of bestanddelen van uitkeringen welke het de rechthebbende verschuldigd is, rechtstreeks te berekenen, betaalt hem deze uitkeringen onmiddellijk. Indien een ander orgaan dan het behandelende orgaan deze uitkeringen rechtstreeks aan de rechthebbende betaalt, stelt het het behandelende orgaan hiervan onmiddellijk in kennis en reserveert het, met het oog op de toepassing van het zevende lid van dit artikel, het bedrag van de eventuele achterstallige termijnen ten behoeve van elk orgaan dat teveel mocht hebben uitbetaald.
+4. If, while a claim is being examined, an institution other than the examining institution finds that the claimant is entitled to benefit in accordance with the legislation it applies without needing to take account of periods of insurance or residence completed under the legislation of the other Contracting Parties to which the person concerned or the deceased person was subject, it shall at once advise the examining institution, which shall immediately make a provisional payment of such benefit on behalf of the first institution, without prejudice, however, to the provisions of paragraphs 2 and 3 of this Article.
 
-3. Ingeval het behandelende orgaan uitkeringen betaalt krachtens het eerste lid van dit artikel, vermindert het deze uitkeringen in voorkomend geval met het bedrag van de uitkeringen welke krachtens het vorige lid door ieder ander orgaan werden betaald, zodra het hiervan op de hoogte is.
+5. Where the examining institution is required to pay benefit under paragraphs 1 and 4 of this Article, it shall pay only the highest rate of benefit, without prejudice, however, to the provisions of paragraphs 2 and 3 of this Article.
 
-4. Indien een van de betrokken organen, het behandelende orgaan uitgezonderd, tijdens de behandeling van de aanvraag vaststelt dat de aanvrager recht heeft op uitkeringen krachtens de door eerstbedoeld orgaan toegepaste wettelijke regeling, zonder dat een beroep behoeft te worden gedaan op de tijdvakken van verzekering of van wonen welke zijn vervuld krachtens de wettelijke regelingen van de andere Verdragsluitende Partijen waaraan de belanghebbende of de overledene onderworpen is geweest, doet dit orgaan hiervan onverwijld mededeling aan het behandelende orgaan, dat het bedrag van deze uitkeringen onmiddellijk voor rekening van eerstbedoeld orgaan als voorlopige uitkering aan de rechthebbende uitbetaalt, in voorkomend geval onverminderd het bepaalde in het tweede en derde lid van dit artikel.
+6. Where the examining institution does not pay benefit under paragraphs 1, 2 or 4 of this Article, and in cases where there might be delay, it shall make the person concerned a recoverable advance determined in accordance with the provisions of [Article 29, paragraphs 1 to 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29).
 
-5. Ingeval het behandelende orgaan uitkeringen zou moeten betalen krachtens het eerste en het vierde lid van dit artikel, betaalt het alleen de hoogste uitkering, in voorkomend geval onverminderd het bepaalde in het tweede en derde lid van dit artikel.
+7. When the final settlement of the benefit claim is in process, the examining institution and the other institutions concerned shall adjust their accounts as regards the amount of any provisional benefit paid or the advances made in accordance with the provisions of paragraphs 1, 3, 4, 5 and 6 of this Article. Sums overpaid by the said institutions may be deducted from the amount of benefits they are required to pay to the person concerned.
 
-6. Ingeval het behandelende orgaan geen uitkeringen krachtens het eerste, tweede of vierde lid van dit artikel betaalt en in gevallen waarin vertraging kan optreden, betaalt dit orgaan de belanghebbende een terugvorderbaar voorschot, waarvan de hoogte wordt vastgesteld overeenkomstig [artikel 29, eerste tot en met vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=29).
+##### Article 40
 
-7. Bij de definitieve afdoening van de aanvraag om uitkeringen vereffenen het behandelende orgaan en de andere betrokken organen hun rekeningen betreffende de voorlopige uitkeringen en voorschotten, verleend overeenkomstig het eerste, derde, vierde, vijfde en zesde lid van dit artikel. De door deze organen ter zake teveel betaalde bedragen kunnen worden ingehouden op de termijnbetalingen welke zij aan de belanghebbende moeten verlenen.
+1. In the case referred to in [Article 34, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34), the examining institution shall calculate the final amount of the supplement which each institution concerned has to pay and advise them accordingly.
 
-##### Artikel 40
+2. For the purpose of applying the provisions of [Article 34 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34), amounts expressed in different national currencies shall be converted at the official rate of exchange prevailing on the first day of the month in which the final payment of the benefit due is made.
 
-1. In het in [artikel 34, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34) bedoelde geval berekent het behandelende orgaan het definitieve bedrag van de aanvulling dat elk van de betrokken organen moet toekennen en geeft hen daarvan bericht.
+##### Article 41
 
-2. Voor de toepassing van [artikel 34 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=34) vindt de omrekening van de in verschillende nationale muntsoorten luidende bedragen plaats tegen de officiële wisselkoers welke geldig is op de eerste dag van de maand waarin de laatste vaststellingshandeling plaatsvond.
+For the purpose of applying the provisions of [Article 33, paragraphs 2 and 3 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=33), the provisions of Articles 38 and 40 of this Agreement shall apply, mutatis mutandis.
 
-##### Artikel 41
+##### Article 42
 
-Voor de toepassing van [artikel 33, tweede en derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=33) zijn de artikelen 38 en 40 van het Akkoord van overeenkomstige toepassing.
+1. Each of the institutions concerned shall advise the claimant of the decision regarding his claim for benefit as soon as that decision can be taken as final after consultation with the examining institution. Each institution shall at the same time advise the examining institution. Every decision shall indicate that it relates only to part of the total benefit that may be due, and shall also contain information concerning appeals procedure, including time-limits, prescribed by the legislation concerned.
 
-##### Artikel 42
+2. After the benefit claim has been finally settled, the examining institution shall send the claimant a copy of all decisions taken by the institutions concerned.
 
-1. Elk der betrokken organen geeft de aanvrager kennis van de genomen beslissing op zijn aanvraag om uitkeringen, zodra deze beslissing, na overleg met het behandelende orgaan, als definitief kan worden beschouwd en licht hierover tegelijkertijd laatstbedoeld orgaan in. Elke beslissing moet er melding van maken dat het gaat om een gedeeltelijke vaststelling van de uitkering en bovendien aangeven de in de betrokken wettelijke regeling voorziene rechtsmiddelen en beroepstermijnen.
+##### Article 43
 
-2. Na de definitieve afdoening van de aanvraag om uitkeringen zendt het behandelende orgaan de aanvrager alle door de betrokken organen genomen beslissingen toe, vergezeld van een samenvatting.
+In order to expedite the settlement of benefit claims, the following rules shall be observed:
 
-##### Artikel 43
+- (a) where a person, formerly subject to the legislation of one or more Contracting Parties, is subject to the legislation of another Contracting Party, the competent institution of the latter Party shall apply to the liaison body of the other Contracting Party or Parties for all relevant information, particularly regarding the institutions to which the person concerned was affiliated, and for his registration numbers if any;
 
-Ter bespoediging van de vaststelling van de uitkeringen zijn de volgende voorschriften van toepassing:
+- (b) at the request of the person concerned or of the institution to which he is affiliated, the institutions concerned shall begin, to the extent possible, to reconstitute his case-history as from one year prior to the date on which he will reach pensionable age.
 
-- a). wanneer een persoon die voordien aan de wettelijke regeling van één of meer Verdragsluitende Partijen onderworpen was, onderworpen is aan de wettelijke regeling van een andere Verdragsluitende Partij, verzoekt het bevoegde orgaan van laatstbedoelde Partij aan het verbindingsorgaan van de andere Verdragsluitende Partij of Partijen om alle gegevens, betreffende de organen waarbij de belanghebbende is aangesloten geweest en, eventueel, de inschrijvingsnummers welke hem zijn toegekend;
+#### Administrative and medical supervision
 
-- b). op verzoek van de belanghebbende of van het orgaan, waarbij hij is aangesloten beginnen de betrokken organen op zijn vroegst één jaar voor de datum waarop de belanghebbende de pensioengerechtigde leeftijd bereikt, aan het opstellen, voor zover mogelijk, van een overzicht van zijn loopbaan.
+##### Article 44
 
-### Administratieve en medische controle
+1. If a recipient of:
 
-##### Artikel 44
+- (a) an invalidity benefit;
 
-1. Wanneer een rechthebbende op:
+- (b) an old-age benefit awarded on grounds of incapacity for work;
 
-- a). invaliditeitsuitkeringen;
+- (c) an old-age benefit awarded to an unemployed person;
 
-- b). ouderdomsuitkeringen toegekend in geval van arbeidsongeschiktheid;
+- (d) an old-age benefit awarded on retirement from gainful employment;
 
-- c). ouderdomsuitkeringen toegekend aan bejaarde werklozen;
+- (e) a survivors' benefit awarded on grounds of invalidity or incapacity for work;
 
-- d). ouderdomsuitkeringen toegekend in geval van beëindiging van de beroepswerkzaamheden;
+- (f) a benefit awarded subject to a means test;
 
-- e). uitkeringen aan nagelaten betrekkingen toegekend in geval van invaliditeit of van arbeidsongeschiktheid;
+temporarily resides, or resides, in the territory of a Contracting Party other than the competent State, administrative and medical supervision shall be exercised at the request of the competent institution by the institution of the place of temporary residence or residence, in accordance with the rules laid down by the legislation which the latter institution applies. However, the competent institution may have the recipient examined by a doctor of its choice at its own expense.
 
-- f). uitkeringen welke worden toegekend op voorwaarde dat de inkomsten van de rechthebbende een bepaalde grens niet overschrijden;
+2. If the supervision referred to in the preceding paragraph reveals that a person receiving benefit is employed or has means in excess of the prescribed limit, the institution of the place of temporary residence or residence shall report to the competent institution which requested the supervision. The report shall contain the information requested and shall state in particular the nature of the employment, the amount of the earnings or other income received by the beneficiary during the last full quarter and the normal remuneration paid in the same area to a worker in the occupational category to which the person concerned belonged in the occupation he followed before he became an invalid, over a reference period to be specified by the competent institution. Where applicable, a medical opinion as to the state of health of the person concerned shall also be given.
 
-op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont of verblijft, wordt de administratieve en medische controle op verzoek van het bevoegde orgaan uitgeoefend door het orgaan van de woon- of verblijfplaats, op de wijze als bepaald in de door laatstbedoeld orgaan toegepaste wettelijke regeling. Het bevoegde orgaan blijft evenwel bevoegd de rechthebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze.
+##### Article 45
 
-2. Indien uit de in het vorige lid bedoelde controle blijkt dat de rechthebbende werkzaamheden verricht of dat hij inkomsten geniet welke de voorgeschreven grens overschrijden, is het orgaan van de woon- of verblijfplaats verplicht het bevoegde orgaan dat om controle heeft verzocht, een rapport toe te zenden. Dit rapport maakt melding van de door het bevoegde orgaan gevraagde inlichtingen en vermeldt in het bijzonder de aard van de verrichte werkzaamheden, het bedrag van de verdiensten of inkomsten, welke de belanghebbende gedurende het laatstelijk verstreken kwartaal genoot, de normale beloning welke tijdens een door het bevoegde orgaan te bepalen referentieperiode in hetzelfde gebied werd genoten door een werknemer van de beroepsgroep waartoe de belanghebbende behoorde in het beroep dat hij uitoefende voor hij invalide werd, alsmede in voorkomend geval het advies van een medisch deskundige omtrent de gezondheidstoestand van de belanghebbende.
+If, after suspension of the benefit he had been receiving, a person requalifies for benefit while residing in the territory of a Contracting Party other than the competent State, the institutions concerned shall exchange all the information necessary to enable payment of benefit to be resumed.
 
-##### Artikel 45
+#### Payment of benefits
 
-Wanneer de belanghebbende na schorsing van de uitkeringen welke hij genoot, opnieuw recht op uitkeringen verkrijgt, terwijl hij op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont, verstrekken de betrokken organen elkaar alle nodige inlichtingen met het oog op de hervatting van bedoelde uitkeringen.
+##### Article 46
 
-### Betaling van de uitkeringen
+1. Where the competent institution of a Contracting Party does not pay benefit directly to a beneficiary residing in the territory of another Contracting Party, such benefit shall be paid at the competent institution's request by the liaison body of the latter Party or by the institution of the place of residence, in accordance with the procedure laid down in Articles 47 to 51 of this Agreement. Where the competent institution pays benefit directly to such beneficiaries it shall so notify the institution of the place of residence.
 
-##### Artikel 46
+2. The provisions of earlier Agreements relating to the payment of benefit, which are applicable on the day preceding the entry into force of this Agreement, shall continue to apply provided that they are listed in Annex 5.
 
-1. Indien het orgaan van een Verdragsluitende Partij dat uitkeringen verschuldigd is, de verschuldigde uitkeringen niet rechtstreeks betaalt aan de rechthebbenden die op het grondgebied van een andere Verdragsluitende Partij wonen, wordt de betaling van deze uitkeringen op verzoek van het orgaan dat deze verschuldigd is, verricht door het verbindingsorgaan van laatstbedoelde Partij of door het orgaan van de woonplaats, zulks op de in de artikelen 47 tot en met 51 van het Akkoord bepaalde wijze; indien het orgaan dat uitkeringen verschuldigd is, deze rechtstreeks aan die rechthebbenden betaalt, geeft het van de betaling van de uitkeringen kennis aan het orgaan van de woonplaats.
+##### Article 47
 
-2. De bepalingen van vroegere overeenkomsten, welke betrekking hebben op de betaling van uitkeringen en welke van toepassing zijn op de dag vóór de inwerkingtreding van het Akkoord, blijven van toepassing voor zover zij in bijlage 5 zijn vermeld.
+The institution responsible for paying benefit shall forward to the liaison body of the Contracting Party in whose territory the beneficiary resides, or to the institution of the place of residence – hereinafter called the “paying agency” – a statement in duplicate setting out the benefit due; this statement must reach the said agency at least twenty days before the date on which the benefit is payable.
 
-##### Artikel 47
+##### Article 48
 
-Het orgaan dat uitkeringen verschuldigd is, zendt aan het verbindingsorgaan van de Verdragsluitende Partij op het grondgebied waarvan de rechthebbende woont of aan het orgaan van de woonplaats, welke hierna „uitbetalend orgaan” worden genoemd, een borderel in tweevoud van de verschuldigde bedragen, dat uiterlijk twintig dagen voor de vervaldatum van de uitkeringen in het bezit van dit orgaan moet zijn.
+1. Ten days before the date on which the benefit is payable, the institution responsible for payment shall remit, in the currency of the Contracting Party in whose territory it is situated, the amount of the benefit due as shown on the statement referred to in Article 47 above. Payment shall be made through the National Bank or through another bank of that Contracting Party to the account opened in the name of the National Bank or in the name of another bank of the Contracting Party in the territory in which the paying agency is situated, to the latter's order. Such payment shall discharge liability. The institution responsible for payment shall at the same time notify the paying agency of the payment.
 
-##### Artikel 48
+2. The bank to which the amount has been transferred shall credit the paying agency with the equivalent amount in the currency of the Contracting Party in whose territory that agency is situated.
 
-1. Tien dagen vóór de vervaldatum van de uitkeringen, stort het orgaan dat de uitkeringen verschuldigd is, in de valuta van de Verdragsluitende Partij op het grondgebied waarvan het gevestigd is, het bedrag dat nodig is voor de betaling der verschuldigde bedragen welke vermeld staan op het in artikel 47 van het Akkoord bedoelde borderel. Deze storting geschiedt bij de nationale bank of bij een andere bank van deze Partij, op een rekening ten name van de nationale bank of een andere bank van de Verdragsluitende Partij, op het grondgebied waarvan het uitbetalende orgaan is gevestigd, aan order van dit orgaan. Deze storting geldt als kwijting van het verschuldigde bedrag. Het orgaan dat de uitkeringen verschuldigd is, zendt tegelijkertijd een bericht van storting aan het uitbetalende orgaan.
+3. The names and addresses of the banks referred to in paragraph 1 of this Article shall be listed in Annex 6.
 
-2. De bank op welker rekening de storting heeft plaatsgehad, crediteert het uitbetalende orgaan voor de tegenwaarde van het gestorte bedrag in de valuta van de Verdragsluitende Partij op het grondgebied waarvan bedoeld orgaan is gevestigd.
+##### Article 49
 
-3. Naam en plaats van vestiging van de in het eerste lid van dit artikel bedoelde banken zijn in bijlage 6 vermeld.
+1. The benefit due, as shown in the statement referred to in Article 47 of this Agreement, shall be paid to the beneficiary by the paying agency on behalf of the competent institution in accordance with the procedure prescribed by the legislation which the paying agency applies.
 
-##### Artikel 49
+2. The sum payable to the beneficiary shall be converted into the currency of the Contracting Party in whose territory he resides, at the rate of exchange at which, in accordance with the provisions of Article 48 of this Agreement, it was credited to the paying agency.
 
-1. De verschuldigde bedragen welke op het in artikel 47 van het Akkoord bedoelde borderel zijn vermeld, worden door het uitbetalende orgaan voor rekening van het orgaan dat uitkeringen verschuldigd is, aan de rechthebbende betaald. Deze betalingen geschieden op de wijze als bepaald in de door het uitbetalende orgaan toegepaste wettelijke regeling.
+3. If the paying agency, or any other agency it may designate becomes aware of any matter justifying the suspension or suppression of benefit, it shall immediately cease payment. This shall also be done when the beneficiary transfers his residence to the territory of a Contracting Party other than that in which the paying agency is situated.
 
-2. Het aan de rechthebbende toekomende bedrag wordt omgerekend in de valuta van de Verdragsluitende Partij op het grondgebied waarvan hij woont, tegen de koers waartegen het uitbetalende orgaan voor het overeenkomstig artikel 48 van het Akkoord gestorte bedrag werd gecrediteerd.
+4. The paying agency shall advise the institution responsible for payment of any reason for non-payment and inform it of the date of any event justifying such action.
 
-3. Zodra het uitbetalend orgaan of enig ander door dit orgaan aangewezen orgaan kennis krijgt van een omstandigheid welke schorsing of intrekking van de uitkeringen rechtvaardigt, staakt het de betalingen. Dit geldt ook wanneer de rechthebbende zijn woonplaats overbrengt naar het grondgebied van een andere Verdragsluitende Partij dan die waarop het uitbetalende orgaan is gevestigd.
+##### Article 50
 
-4. Het uitbetalende orgaan stelt het orgaan dat uitkeringen verschuldigd is, in kennis van elke beweegreden voor het staken van de betaling en doet dit orgaan in voorkomend geval mededeling van de datum waarop een gebeurtenis welke zulks rechtvaardigt, heeft plaatsgevonden.
+1. The payments referred to in Article 49, paragraph 1, of this Agreement shall be examined at the end of each payment period in order to determine the amounts actually paid to the beneficiaries or their legal or appointed representatives and the amounts outstanding.
 
-##### Artikel 50
+2. The total amount of the actual payments expressed in figures and in words in the currency of the Contracting Party in whose territory the institution responsible for payment is situated, shall be stated as agreeing with the payments effected by the paying agency and this statement shall be counter-signed by the latter's representative.
 
-1. Aan het einde van elk betalingstijdvak worden de in artikel 49, eerste lid van het Akkoord bedoelde betalingen afgesloten, ten einde vast te stellen welke bedragen in feite aan de rechthebbenden of aan hun wettelijke vertegenwoordigers of gemachtigden zijn uitbetaald, alsmede welke bedragen niet zijn uitbetaald.
+3. The paying agency shall vouch for the fact that the payments shown are in order.
 
-2. Het totale bedrag in cijfers en letters geschreven, uitgedrukt in de valuta van de Verdragsluitende Partij op het grondgebied waarvan het orgaan dat de uitkeringen verschuldigd is, is gevestigd, wordt gewaarmerkt als zijnde in overeenstemming met de door het uitbetalende orgaan verrichte betalingen en wordt voorzien van de handtekening van de vertegenwoordiger van dit orgaan.
+4. Any difference between the amounts paid by the responsible institution, as expressed in the currency of the Contracting Party on whose territory it is situated, and the value, expressed in the same currency, of payments vouched for by the paying agency, shall be entered against subsequent sums due to be paid by the said responsible institution.
 
-3. Het uitbetalende orgaan staat borg voor de regelmatigheid van de vastgestelde betalingen.
+##### Article 51
 
-4. Het verschil tussen de door het orgaan dat de uitkeringen verschuldigd is gestorte bedragen, uitgedrukt in de valuta van de Verdragsluitende Partij op het grondgebied waarvan dit orgaan is gevestigd en de in dezelfde valuta uitgedrukte waarde van de door het uitbetalende orgaan verantwoorde betalingen, wordt verrekend met op dezelfde grond later door het orgaan dat de uitkeringen verschuldigd is, te storten bedragen.
+Costs incurred in paying benefit, such as postal and banking charges, may be recovered from the beneficiary by the paying agency in accordance with the legislation which it applies.
 
-##### Artikel 51
+##### Article 52
 
-De kosten verbonden aan de uitbetaling van de uitkeringen, zoals porto- en bankkosten, kunnen door het uitbetalende orgaan aan de rechthebbenden in rekening worden gebracht, op de wijze, vastgesteld in de door dit orgaan toegepaste wettelijke regeling.
+When the recipient of benefit payable under the legislation of one or more Contracting Parties transfers his residence from the territory of one Contracting Party to that of another Contracting Party, he shall notify the competent institution or institutions responsible for the payment of such benefit and also, where appropriate, the paying agency.
 
-##### Artikel 52
+### Chapter 3. : Occupational injuries and diseases
 
-Wanneer de rechthebbende op uitkeringen welke krachtens de wettelijke regeling van een of meer Verdragsluitende Partijen verschuldigd zijn, zijn woonplaats overbrengt van het grondgebied van een Verdragsluitende Partij naar dat van een andere Verdragsluitende Partij, is hij verplicht hiervan kennis te geven aan het orgaan of de organen welke deze uitkeringen verschuldigd zijn en, in voorkomend geval, aan het uitbetalende orgaan.
+#### Application of Article 38 of the Convention
 
-### Hoofdstuk 3. : Arbeidsongevallen en beroepsziekten
+##### Article 53
 
-### Toepassing van [artikel 38 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38)
+1. In order to receive the benefits in kind provided for in [Article 38, paragraph 1, sub-paragraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38), the worker shall submit to the institution of his place of residence a certificate that he is entitled to such benefits. This certificate shall be issued by the competent institution on the basis of information supplied, where appropriate, by the employer. In addition, where the legislation of the competent State so provides, the worker shall submit to the institution of his place of residence an acknowledgement of the notification of his occupational injury or disease. If he fails to submit these documents, the institution of the place of residence shall apply for them to the competent institution and, meanwhile, shall provide the benefits in kind available in case of sickness if the worker concerned is entitled to such benefits.
 
-##### Artikel 53
+2. The certificate referred to in the preceding paragraph shall be valid until such time as the institution of the place of residence receives notice of its cancellation.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 38, eerste lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38), legt de werknemer aan het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij recht op deze verstrekkingen heeft. Dit bewijs wordt afgegeven door het bevoegde orgaan, in voorkomend geval na kennisneming van de door de werkgever verstrekte inlichtingen. Indien de wettelijke regeling van de bevoegde Staat daarin voorziet, legt de werknemer bovendien aan het orgaan van de woonplaats een bericht van ontvangst van de aangifte van een arbeidsongeval of een beroepsziekte over. Indien hij deze stukken niet overlegt, verzoekt het orgaan van de woonplaats het bevoegde orgaan daarom en verleent hem in afwachting daarvan verstrekkingen wegens ziekte, voorzover hij recht heeft op dergelijke verstrekkingen.
+3. In the case of seasonal workers the certificate referred to in paragraph 1 of this Article shall remain valid for the expected duration of the seasonal work, unless in the meantime the competent institution notifies the institution of the place of residence of its cancellation.
 
-2. Het in het vorige lid bedoelde bewijs blijft geldig zolang het orgaan van de woonplaats ter zake geen kennisgeving van intrekking heeft ontvangen.
+4. For any claim for benefits in kind the worker shall submit the supporting documents normally required for the provision of benefits in kind under the legislation of the Contracting Party in whose territory he resides.
 
-3. Indien de werknemer de hoedanigheid van seizoenarbeider bezit, is het in het eerste lid van dit artikel bedoelde bewijs geldig gedurende de gehele voor de seizoenarbeid voorziene tijdsduur, tenzij het bevoegde orgaan het orgaan van de woonplaats tussentijds van de intrekking in kennis stelt.
+5. In the event of hospitalisation the institution of the place of residence shall notify the competent institution, as soon as this information is available, of the date of entry, the probable duration of hospitalisation, and the date of discharge.
 
-4. Bij iedere aanvraag om verstrekkingen legt de werknemer de bewijsstukken over welke krachtens de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan hij woont, gewoonlijk voor de toekenning van verstrekkingen vereist worden.
+6. The worker shall advise the institution of his place of residence of any change in his circumstances which might affect his entitlement to benefits in kind, in particular of any cessation or change of employment or occupational activity, or any change in his residence or temporary residence. The competent institution shall likewise inform the institution of the place of residence when a worker's entitlement to benefit ceases. The institution of the place of residence may at any time request the competent institution to supply any information relating to the worker's entitlement to benefit.
 
-5. Bij opneming in een ziekenhuis geeft het orgaan van de woonplaats, zodra het zulks heeft vernomen, aan het bevoegde orgaan kennis van de datum van opneming in de ziekeninrichting, van de vermoedelijke verblijfsduur en van de datum van ontslag.
+7. In the case of frontier workers, any medicines, bandages, spectacles, minor appliances, laboratory analyses and examinations shall only be provided or carried out in the territory of the Contracting Party in which they have been prescribed, and in accordance with the provisions of the legislation of that Party.
 
-6. De werknemer is verplicht het orgaan van de woonplaats in kennis te stellen van iedere verandering in zijn omstandigheden waardoor het recht op verstrekkingen kan worden gewijzigd, in het bijzonder van iedere beëindiging of verandering van dienstbetrekking of beroepswerkzaamheden of iedere overbrenging van de woon- of verblijfplaats. Het bevoegde orgaan stelt het orgaan van de woonplaats eveneens in kennis van het beëindigen van de rechten op verstrekkingen van de werknemer. Het orgaan van de woonplaats kan het bevoegde orgaan te allen tijde verzoeken alle inlichtingen te verschaffen omtrent de rechten op verstrekkingen van de werknemer.
+##### Article 54
 
-7. Indien het grensarbeiders betreft, mogen genees- en verbandmiddelen, brillen, kunstmiddelen van kleine omvang, laboratoriumanalyses en -proeven slechts worden afgegeven of verricht op het grondgebied van de Verdragsluitende Partij waar zij werden voorgeschreven en overeenkomstig de wettelijke regeling van deze Partij.
+1. In order to receive the cash benefits other than pensions provided for in [Article 38, paragraph 1, sub-paragraph (b) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38), the worker shall apply to the institution of his place of residence within three days of becoming incapable of work, and submit a certificate to the effect that he has ceased to work or, if the legislation applied by the competent institution or by the institution of the place of residence so requires, a certificate of incapacity for work issued by the doctor attending him. He shall also submit any other documents required by the legislation of the competent State, according to the type of benefit claimed.
 
-##### Artikel 54
+2. If doctors in the country of residence do not issue certificates of incapacity for work, the worker shall apply directly to the institution of the place of residence, within the time-limit set by the legislation it applies. That institution shall at once seek medical confirmation of incapacity for work and issue the certificate referred to in the preceding paragraph.
 
-1. Om krachtens [artikel 38, eerste lid, sub b) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38) in aanmerking te komen voor andere uitkeringen dan renten, wendt de werknemer zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de woonplaats onder overlegging van een kennisgeving van arbeidsonderbreking of indien de wettelijke regeling welke door het bevoegde orgaan of het orgaan van de woonplaats wordt toegepast, hierin voorziet, een door de behandelende geneesheer afgegeven bewijs van arbeidsongeschiktheid. Bovendien is hij verplicht alle andere krachtens de wettelijke regeling van de bevoegde Staat vereiste documenten over te leggen, naar gelang van de aard van de aangevraagde uitkeringen.
+3. The institution of the place of residence shall immediately transmit to the competent institution the documents referred to in the preceding paragraphs of this Article, indicating at the same time the probable duration of incapacity for work.
 
-2. Wanneer de behandelende geneesheren van het land van de woonplaats geen bewijzen van arbeidsongeschiktheid afgeven, wendt de werknemer zich rechtstreeks tot het orgaan van de woonplaats, binnen de termijn welke is vastgesteld in de door dit orgaan toegepaste wettelijke regeling. Dit orgaan laat onmiddellijk de arbeidsongeschiktheid medisch vaststellen en het in het vorige lid bedoelde bewijs uitschrijven.
+4. As soon as possible, the institution of the place of residence shall undertake a medical examination of the worker and make the necessary administrative enquiries regarding his case, as if the said worker were insured by it, and shall notify the competent institution without delay of the findings. The competent institution may, if it so desires, have the worker concerned examined by a doctor of its choice at its own expense. Where this institution decides to refuse benefit on the grounds that the worker has failed to comply with the rules relating to the investigation of his case, it shall notify him of this decision, and at the same time send a copy of the decision to the institution of the place of residence.
 
-3. Het orgaan van de woonplaats zendt de in de vorige leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.
+5. Termination of incapacity for work shall be notified without delay to the worker by the institution of the place of residence, which shall at the same time notify the competent institution. When this latter institution itself decides that the worker is again capable of work, it shall notify him of its decision and at the same time send a copy of the decision to the institution of the place of residence.
 
-4. Zo spoedig mogelijk oefent het orgaan van de woonplaats de geneeskundige en administratieve controle op de werknemer uit, alsof het een eigen verzekerde betrof, en deelt het resultaat daarvan onverwijld mede aan het bevoegde orgaan, dat de bevoegdheid houdt de belanghebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze. Indien laatstbedoeld orgaan besluit de uitkeringen te weigeren omdat de werknemer de controlevoorschriften niet heeft nageleefd, stelt dit orgaan hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de woonplaats.
+6. Where, in the same case, two different dates are set by the institution of the place of residence and by the competent institution for the termination of incapacity for work, the date set by the competent institution shall apply.
 
-5. Onverwijld wordt de werknemer van het einde van de arbeidsongeschiktheid in kennis gesteld door het orgaan van de woonplaats, dat daaromtrent het bevoegde orgaan onmiddellijk inlicht. Wanneer laatstbedoeld orgaan zelf beslist dat de werknemer weer arbeidsgeschikt is geworden, stelt het hem in kennis van deze beslissing en zendt het gelijktijdig een afschrift daarvan aan het orgaan van de woonplaats.
+7. When the worker resumes work, he shall notify the competent institution, if so required by the legislation which that institution applies.
 
-6. Indien, in hetzelfde geval, voor het einde van de arbeidsongeschiktheid twee verschillende data zijn vastgesteld onderscheidenlijk door het orgaan van de woonplaats en door het bevoegde orgaan, wordt de door het bevoegde orgaan vastgestelde datum aangehouden.
+8. The competent institution shall pay cash benefits by any appropriate means, for example by international money order, and shall advise the institution of the place of residence of such payments. Where benefit is paid by the institution of the place of residence on behalf of the competent institution, the competent institution shall inform the worker of his entitlement in the manner prescribed by the legislation which it applies, and shall also advise him of the institution charged with paying the benefits. It shall at the same time inform the institution of the place of residence of the amount of benefit payable, the dates of payment, and the maximum period for which it is payable under the legislation of the competent State. The amount of benefit payable by the institution of the place of residence shall be converted at the official rate of exchange prevailing on the first day of the month in which benefit is paid.
 
-7. Wanneer de werknemer het werk hervat, geeft hij hiervan bericht aan het bevoegde orgaan, indien de door dit orgaan toegepaste wettelijke regeling hierin voorziet.
+#### Application of Article 40 of the Convention
 
-8. Het bevoegde orgaan betaalt de uitkeringen met behulp van alle daartoe aangewezen middelen, bij voorbeeld per internationale postwissel, en geeft het orgaan van de woonplaats hiervan kennis. Indien de uitkeringen door het orgaan van de woonplaats voor rekening van het bevoegde orgaan worden verleend, stelt het bevoegde orgaan de werknemer van zijn rechten in kennis op de wijze als voorzien bij de door dit orgaan toegepaste wettelijke regeling en stelt hem gelijktijdig op de hoogte van het orgaan dat deze uitkeringen zal uitbetalen. Tegelijkertijd doet het bevoegde orgaan het orgaan van de woonplaats mededeling van het bedrag van de uitkeringen, de data waarop zij moeten worden betaald en de maximumduur waarover zij ingevolge de wettelijke regeling van de bevoegde Staat worden toegekend. Het bedrag van de door laatstbedoeld orgaan te betalen uitkeringen wordt omgerekend tegen de officiële wisselkoers welke geldig is op de eerste dag van de maand waarin deze uitkeringen worden betaald.
+##### Article 55
 
-### Toepassing van [artikel 40 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40)
+1. In order to receive benefits in kind, the worker referred to in [Article 15, paragraph 1, sub-paragraph (a) (i), or paragraph 2, subparagraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) shall submit to the institution of his place of temporary residence the certificate prescribed in Article 12, paragraph 1, of this Agreement. When he has submitted this certificate he shall be presumed to have satisfied the conditions for entitlement to benefits in kind.
 
-##### Artikel 55
+2. In order to receive benefits in kind, the worker referred to in [Article 15, paragraph 1, sub-paragraph (b) (i) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), employed in the territory of a Contracting Party other than the competent State, shall submit as promptly as possible to the institution of the place of temporary residence a statement issued by the employer or his agent within the two preceding calendar months. This statement shall indicate the date on which he began to work for that employer, and the name and address of the competent institution. When he has produced the above-mentioned statement he shall be presumed to have satisfied the conditions for entitlement to benefits in kind. If he is unable to apply to the institution of the place of temporary residence before commencing medical treatment, he shall nevertheless receive such treatment on presentation of the said statement, as if he were insured with that institution.
 
-1. Om in aanmerking te komen voor verstrekkingen, legt de in [artikel 15, eerste lid, sub a) i) of tweede lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkende aan het orgaan van de verblijfplaats het in artikel 12, eerste lid van het Akkoord bedoelde bewijs over. Wanneer bedoelde loontrekkende dit bewijs heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen.
+3. The institution of the place of temporary residence shall apply without delay to the competent institution to ascertain whether the worker referred to in paragraph 1 or 2 of this Article, as the case may be, satisfies the conditions for entitlement to benefits in kind. The institution of the place of temporary residence shall provide the said benefits until a reply has been received from the competent institution, but for not longer than thirty days.
 
-2. Om in aanmerking te komen voor verstrekkingen, legt de in [artikel 15, eerste lid, sub b)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkende, die zich voor de uitoefening van zijn beroep op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat bevindt, aan het orgaan van de verblijfplaats zo spoedig mogelijk een verklaring over welke door de werkgever of diens vertegenwoordiger in de loop van de twee voorafgaande kalendermaanden is afgegeven. In deze verklaring wordt met name de datum vermeld sedert welke de belanghebbende voor rekening van bedoelde werkgever werkt, alsmede de naam en de plaats van vestiging van het bevoegde orgaan. Wanneer de loontrekkende deze verklaring heeft overgelegd, wordt hij geacht te voldoen aan de voorwaarden voor het ingaan van het recht op verstrekkingen. Indien hij niet in staat is zich vóór de medische behandeling tot het orgaan van de verblijfplaats te wenden, ontvangt hij deze behandeling desniettegenstaande op vertoon van bedoelde verklaring, alsof hij bij dat orgaan verzekerd was.
+4. The competent institution shall reply to the institution of the place of temporary residence within ten days of receiving that institution's enquiry. If the reply is in the affirmative, the competent institution shall indicate the maximum period, if any, during which the benefits in kind may be provided under the legislation which it applies, and the institution of the place of temporary residence shall continue to provide the said benefits.
 
-3. Het orgaan van de verblijfplaats richt zich onverwijld tot het bevoegde orgaan, teneinde te vernemen of de in het eerste, onderscheidenlijk het tweede lid van dit artikel bedoelde loontrekkende aan de voorwaarden voor het ingaan van het recht op verstrekkingen voldoet. Het is verplicht verstrekkingen te verlenen totdat antwoord van het bevoegde orgaan is ontvangen en ten hoogste gedurende dertig dagen.
+5. Instead of the certificate or statement referred to respectively in paragraphs 1 and 2 of this Article, the worker may submit to the institution of the place of temporary residence the certificate referred to in Article 56, paragraph 1, of this Agreement. In that case, the provisions of the preceding paragraphs of this Article shall not apply.
 
-4. Het bevoegde orgaan zendt het orgaan van de verblijfplaats antwoord binnen tien dagen na ontvangst van het verzoek van dit orgaan. Indien dit antwoord bevestigend luidt, deelt het bevoegde orgaan in voorkomend geval de maximumduur mede waarover overeenkomstig de door dit orgaan toegepaste wettelijke regeling verstrekkingen mogen worden verleend en zet het orgaan van de verblijfplaats het verlenen van verstrekkingen voort.
+6. The provisions of Article 53, paragraph 5, of this Agreement shall apply, mutatis mutandis.
 
-5. In plaats van het bewijs of de verklaring, bedoeld in het eerste, onderscheidenlijk het tweede lid van dit artikel, kan de loontrekkende aan het orgaan van de verblijfplaats het in artikel 56, eerste lid van het Akkoord bedoelde bewijs overleggen. In dit geval zijn de voorgaande leden van dit artikel niet van toepassing.
+##### Article 56
 
-6. Artikel 53, vijfde lid van het Akkoord is van overeenkomstige toepassing.
+1. In order to receive the benefits in kind provided for in [Article 40, paragraph 1, sub-paragraph (a) (i), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40), except in cases where the presumption in Article 55, paragraphs 1 and 2, of this Agreement is operative, the worker shall submit to the institution of his place of temporary residence a certificate that he is entitled to such benefits. This certificate, issued by the competent institution at the worker's request before he leaves the territory of the Contracting Party in which he resides, shall indicate the maximum period, if any, during which benefits in kind may be provided under the legislation of the competent State. If the worker does not submit such a certificate, the institution of the place of temporary residence shall apply for it to the competent institution.
 
-##### Artikel 56
+2. The provisions of Article 53, paragraph 5, of this Agreement shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 40, eerste lid, sub a)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40), behalve in de gevallen waarin van de in artikel 55, eerste en tweede lid van het Akkoord geopperde veronderstelling wordt uitgegaan, legt de werknemer aan het orgaan van de verblijfplaats een bewijs over waarin wordt verklaard dat hij recht op deze verstrekkingen heeft. In dit bewijs, dat op verzoek van de werknemer door het bevoegde orgaan wordt afgegeven, voordat hij het grondgebied van de Verdragsluitende Partij waarop hij woont, verlaat wordt in voorkomend geval met name de maximumduur vermeld waarover overeenkomstig de wettelijke regeling van de bevoegde Staat verstrekkingen mogen worden toegekend. Indien de werknemer dit bewijs niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan daarom.
+##### Article 57
 
-2. Artikel 53, vijfde lid van het Akkoord is van overeenkomstige toepassing.
+1. In order to receive the benefits in kind provided for in [Article 40, paragraph 1, sub-paragraph (b) (i) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40), the worker shall submit to the institution of his place of residence a certificate that he is authorised to continue receiving such benefits. This certificate, issued by the competent institution, shall indicate the maximum period, if any, during which such benefits may continue to be provided under the legislation of the competent State. The competent institution shall send a copy of the certificate to the body designated by the competent authority of the Contracting Party to whose territory the worker concerned has returned or transferred his residence. The certificate may be issued after the worker's departure, at his request, when, for reasons outside his control, it could not have been prepared earlier.
 
-##### Artikel 57
+2. The provisions of Article 53, paragraph 5, of this Agreement shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor verstrekkingen krachtens [artikel 40, eerste lid, sub b)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40), legt de werknemer van het orgaan van de woonplaats een bewijs over waarin wordt verklaard dat hij het recht op deze verstrekkingen mag behouden. In dit bewijs, dat door het bevoegde orgaan wordt afgegeven, wordt in voorkomend geval met name de maximumduur vermeld waarover volgens de wettelijke regeling van de bevoegde Staat nog verstrekkingen mogen worden verleend. Het bevoegde orgaan zendt een afschrift van bedoeld bewijs aan de instelling welke is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij naar het grondgebied waarvan de belanghebbende is teruggekeerd of zijn woonplaats heeft overgebracht.
+3. The provisions of the preceding paragraphs of this Article shall apply, mutatis mutandis, in the case covered by [Article 40, paragraph 1, sub-paragraph (c) (i) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40).
 
-Het bewijs kan op verzoek van de werknemer na diens vertrek worden afgegeven, wanneer het wegens overmacht niet voordien kon worden opgemaakt.
+##### Article 58
 
-2. Artikel 53, vijfde lid van het Akkoord is van overeenkomstige toepassing.
+1. In order to receive cash benefits other than pensions provided for in [Article 40, paragraph 1, sub-paragraph (a) (ii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40), the worker shall apply to the institution of his place of temporary residence within three days of becoming incapable of work, and submit a certificate of incapacity for work issued by the doctor attending him, if so required by the legislation applied by the competent institution or by the institution of the place of temporary residence. He shall also indicate his address in the country of temporary residence and the name and address of the competent institution.
 
-3. In het in [artikel 40, eerste lid, sub c)i) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40) bedoelde geval zijn de voorafgaande leden van dit artikel van overeenkomstige toepassing.
+2. If doctors in the country of temporary residence do not issue certificates of incapacity for work, the provisions of Article 54, paragraph 2, of this Agreement shall apply, mutatis mutandis.
 
-##### Artikel 58
+3. The institution of the place of temporary residence shall without delay transmit to the competent institution the documents referred to in the preceding paragraphs of this Article indicating in particular the probable duration of incapacity for work.
 
-1. Om krachtens [artikel 40, eerste lid, sub a)ii) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40) in aanmerking te komen voor andere uitkeringen dan renten, wendt de werknemer zich binnen drie dagen na het begin van de arbeidsongeschiktheid tot het orgaan van de verblijfplaats en legt, indien de door het bevoegde orgaan of het orgaan van de verblijfplaats toegepaste wettelijke regeling hierin voorziet, een door de behandelende geneesheer afgegeven bewijs van arbeidsongeschiktheid over. Hij vermeldt bovendien zijn adres in het land waar hij verblijft, alsmede naam en adres van het bevoegde orgaan.
+4. Workers other than those referred to in [Article 15, paragraph 1, sub-paragraph (a) (i), or paragraph 2, sub-paragraph (a), of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15), whose state of health is found by medical examination to be such as not to prevent them from returning to the territory of the Contracting Party where they reside shall immediately be notified to this effect by the institution of the place of temporary residence, which shall also send a copy of the notification to the competent institution.
 
-2. Wanneer de behandelende geneesheren van het land van de verblijfplaats geen bewijzen van arbeidsongeschiktheid afgeven, is artikel 54, tweede lid van het Akkoord van overeenkomstige toepassing.
+5. In addition, the provisions of Article 54, paragraphs 4 to 8, of this Agreement shall apply, mutatis mutandis.
 
-3. Het orgaan van de verblijfplaats zendt de in de vorige leden van dit artikel bedoelde documenten onverwijld door aan het bevoegde orgaan, onder vermelding van de vermoedelijke duur van de arbeidsongeschiktheid.
+#### Application of Articles 38 to 40 of the Convention
 
-4. Indien voor wat betreft andere werknemers dan de in [artikel 15, eerste lid, sub a)i) en tweede lid, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=15) bedoelde loontrekkenden medisch wordt vastgesteld dat hun gezondheidstoestand geen belemmering vormt voor hun terugkeer naar het grondgebied van de Verdragsluitende Partij waarop zij wonen, geeft het orgaan van de verblijfplaats hun daarvan onmiddellijk kennis en zendt het een afschrift van deze kennisgeving aan het bevoegde orgaan.
+##### Article 59
 
-5. Bovendien is artikel 54, vierde tot en met achtste lid van het Akkoord van overeenkomstige toepassing.
+1. If an occupational injury or disease should occur in the territory of a Contracting Party other than the competent State, it should be declared in accordance with the provisions of the legislation of the competent State, without prejudice to any existing legal provisions in the territory of the Contracting Party where the injury or disease occurred, the application of which is mandatory in the case. This declaration shall be sent to the competent institution and, if necessary, a copy to the institution of the place of residence.
 
-### Toepassing van de [artikelen 38 tot en met 40 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38)
+2. The institution of the Contracting Party in whose territory the occupational injury or disease occurred shall send in duplicate to the competent institution the medical certificates issued in that territory and, at the request of the latter institution, all relevant information.
 
-##### Artikel 59
+3. The certificate indicating that the victim of the injury or disease has fully recovered or that his condition has stabilised must where appropriate give a detailed description of his condition and contain information of the final consequences of the occupational injury or disease. Any costs incurred shall be met by the institution of the place of residence or by the institution of the place of temporary residence, as the case may be, at the rate applied by that institution and at the expense of the competent institution.
 
-1. Wanneer het arbeidsongeval of de beroepsziekte zich heeft voorgedaan op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat, moet de desbetreffende aangifte worden gedaan overeenkomstig de wettelijke regeling van de bevoegde Staat, in voorkomend geval onverminderd alle wettelijke bepalingen welke gelden op het grondgebied van de Verdragsluitende Partij waarop het ongeval of de ziekte zich heeft voorgedaan en die in een dergelijk geval van toepassing moeten blijven. Deze aangifte wordt aan het bevoegde orgaan gericht en aan het orgaan van de woonplaats wordt, zo nodig, een afschrift gezonden.
+4. The competent institution shall notify the institution of the place of residence, or the institution of the place of temporary residence, as the case may be, of the date of recovery of the worker or of the stabilisation of his condition and also, if relevant, of any decision regarding an award of a pension.
 
-2. Het orgaan van de Verdragsluitende Partij op het grondgebied waarvan zich het arbeidsongeval of de beroepsziekte heeft voorgedaan, zendt het bevoegde orgaan de op dit grondgebied opgestelde geneeskundige verklaringen in tweevoud toe en verstrekt op verzoek van laatstbedoeld orgaan alle ter zake dienende inlichtingen.
+##### Article 60
 
-3. De verklaring welke aangeeft dat de getroffene genezen is of dat een blijvende toestand is ingetreden moet in voorkomend geval de toestand van de getroffene nauwkeurig beschrijven en aanwijzingen bevatten omtrent de blijvende gevolgen van het arbeidsongeval of de beroepsziekte. De honoraria hiervoor worden betaald door het orgaan van de woonplaats, casu quo het orgaan van de verblijfplaats, overeenkomstig het door dit orgaan toegepaste tarief en voor rekening van het bevoegde orgaan.
+1. If, in a case covered by [Article 38, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38), or [Article 40, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40) the institution concerned questions whether the legislation relating to occupational injuries or diseases is applicable, it shall immediately inform the institution of the place of residence or the institution of the place of temporary residence which has provided benefits in kind. These benefits shall be regarded as benefits relating to sickness and shall continue to be so provided if the worker concerned is entitled to such benefits.
 
-4. Het bevoegde orgaan geeft het orgaan van de woonplaats, casu quo het orgaan van de verblijfplaats kennis van de beslissing waarin de datum van genezing of consolidatie wordt vastgesteld, alsmede, in voorkomend geval, van de beslissing betreffende de toekenning van een rente.
+2. When a final decision on the question has been reached, the institution concerned shall immediately notify the institution of the place of residence or the institution of the place of temporary residence which has provided the benefit in kind. If an occupational injury or disease is not involved, that institution shall continue to provide the benefits in kind as in the case of sickness, if the worker concerned is entitled to such benefits. On the other hand, if it is an occupational accident or disease, any benefits the worker has received as if for sickness shall be regarded as benefits relating to an occupational injury or disease.
 
-##### Artikel 60
+#### Application of Article 43, paragraph 4, of the Convention
 
-1. Wanneer het betrokken orgaan betwist dat in het in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=38) of [artikel 40, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=40) bedoelde geval, de wettelijke regeling inzake arbeidsongevallen of beroepsziekten van toepassing is, stelt het het orgaan van de woonplaats of het orgaan van de verblijfplaats dat de verstrekkingen heeft verleend, hiervan onmiddellijk in kennis; de verstrekkingen worden dan als verstrekkingen van de ziekteverzekering beschouwd en worden verder uit dien hoofde verleend, voorzover de belanghebbende recht heeft op dergelijke verstrekkingen.
+##### Article 61
 
-2. Wanneer naar aanleiding van dit geschil een definitieve beslissing is genomen, stelt het betrokken orgaan het orgaan van de woonplaats of het orgaan van de verblijfplaats dat de verstrekkingen heeft verleend, hiervan onmiddellijk in kennis. Indien het geen arbeidsongeval of beroepsziekte betreft, gaat dit orgaan voort met het verlenen van de verstrekkingen wegens ziekte, voorzover de belanghebbende recht heeft op deze verstrekkingen. In het tegenovergestelde geval, indien het wel een arbeidsongeval of beroepsziekte betreft, worden de door de werknemer genoten verstrekkingen van de ziekteverzekering beschouwd als verstrekkingen wegens arbeidsongeval of beroepsziekte.
+1. To enable the degree of incapacity to be assessed, for the purposes of [Article 43, paragraph 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=43), the worker shall provide the competent institution of the Contracting Party to whose legislation he was subject when the occupational injury or disease occurred with full information concerning any previous occupational injuries or diseases he suffered while subject to the legislation of any other Contracting Party, whatever the degree of incapacity caused by such previous occupational injuries or diseases.
 
-### Toepassing van [artikel 43, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=43)
+2. The competent institution may apply to any other institution previously competent for whatever information it considers necessary.
 
-##### Artikel 61
+#### Application of Article 44, paragraph 2, of the Convention
 
-1. Voor de beoordeling van de mate van ongeschiktheid in het in [artikel 43, vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=43) bedoelde geval, verstrekt de werknemer aan het bevoegde orgaan van de Verdragsluitende Partij aan de wettelijke regeling waarvan hij was onderworpen toen het arbeidsongeval of de beroepsziekte zich heeft voorgedaan, alle inlichtingen omtrent de arbeidsongevallen of beroepsziekten waardoor hij reeds eerder werd getroffen, terwijl hij aan de wettelijke regeling van enige andere Verdragsluitende Partij was onderworpen, ongeacht welke mate van ongeschiktheid door deze vroegere arbeidsongevallen of beroepsziekten is ontstaan.
+##### Article 62
 
-2. Het bevoegde orgaan kan zich, ter verkrijging van de inlichtingen welke het nodig acht, wenden tot elk ander orgaan dat vroeger bevoegd is geweest.
+For the application of the provisions of [Article 44, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=44), the institution of any Contracting Party required to provide benefits may, as necessary, ask the institution of any other Contracting Party for information regarding the length of time for which the latter institution has already provided benefit for the same occupational injury or disease.
 
-### Toepassing van [artikel 44, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=44)
+#### Application of Article 45, paragraph 3, of the Convention
 
-##### Artikel 62
+##### Article 63
 
-Voor de toepassing van [artikel 44, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=44) kan het orgaan van een Verdragsluitende Partij dat prestaties moet verlenen voor zover noodzakelijk bij het orgaan van een andere Verdragsluitende Partij inlichtingen vragen omtrent de duur waarover laatstbedoeld orgaan reeds prestaties heeft verleend voor hetzelfde arbeidsongeval of dezelfde beroepsziekte.
+In order to benefit from the provisions of [Article 45, paragraphs, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=45), the claimant shall submit to the competent institution a certificate regarding members of his family residing in the territory of a Contracting Party other than the competent State. This certificate shall be issued either by the institution of the place of residence of these members of the family which is competent in relation to sickness, or by any other institution designated by the competent authority of the Contracting Party in whose territory these members of the family reside. In addition, the provisions of Article 25, paragraphs 2 and 3, of this Agreement shall apply, mutatis mutandis.
 
-### Toepassing van [artikel 45, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=45)
+#### Application of Article 46 of the Convention
 
-##### Artikel 63
+##### Article 64
 
-Om in aanmerking te komen voor toepassing van [artikel 45, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=45) legt de aanvrager aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven hetzij door het orgaan van de woonplaats van de gezinsleden dat ter zake van ziekte bevoegd is hetzij door een ander orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waar van deze gezinsleden wonen. Bovendien is artikel 25, tweede en derde lid van het Akkoord van overeenkomstige toepassing.
+1. In the case covered by [Article 46, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), the declaration notifying an occupational disease shall be sent either to the institution, competent in respect of occupational disease, of the Contracting Party under whose legislation the worker was last engaged in an occupation liable to cause the disease under consideration, or to the institution of the place of residence, which shall transmit the declaration to the first mentioned institution.
 
-### Toepassing van [artikel 46 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46)
+2. If the institution receiving the declaration considers that an occupation liable to cause the disease in question was last followed under the legislation of another Contracting Party, it shall transmit the declaration and the accompanying documents to the corresponding institution of that Party and inform at the same time the person concerned.
 
-##### Artikel 64
+3. If the institution of the Contracting Party under whose legislation the worker was last engaged in an occupation liable to cause the disease in question finds that he or his survivors fail to satisfy the conditions of that legislation, taking into account the provisions of [Article 46, paragraphs 2, 3 and 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), the institution in question:
 
-1. In het in [artikel 46, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46) bedoelde geval wordt de aangifte van de beroepsziekte gezonden hetzij aan het voor beroepsziekten bevoegde orgaan van de Verdragsluitende Partij onder de wettelijke regeling waarvan de getroffene laatstelijk werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, hetzij aan het orgaan van de woonplaats, dat de aangifte aan eerstbedoeld orgaan doorzendt.
+- (a) shall immediately send to the institution of the Contracting Party under whose legislation the worker was previously engaged in an occupation liable to cause the disease in question the declaration and all accompanying documents, including the findings and reports of medical examinations carried out by the former institution, together with a copy of the decision referred to in the following sub-paragraph;
 
-2. Indien het orgaan waarbij de aangifte is ingediend vaststelt dat werkzaamheden waardoor de betreffende beroepsziekte kon ontstaan, het laatst onder de wettelijke regeling van een andere Verdragsluitende Partij zijn uitgeoefend, zendt het de aangifte en de daarbij gevoegde stukken door aan het overeenkomstige orgaan van deze Partij en licht het hierover tegelijkertijd de belanghebbende in.
+- (b) shall, at the same time, inform the person concerned of its decision stating the grounds on which benefit is refused, the procedure and time-limits for appeal, and the date on which the records of the case were transmitted to the institution referred to in the preceding sub-paragraph.
 
-3. Wanneer het orgaan van de Verdragsluitende Partij onder de wettelijke regeling waarvan de getroffene laatstelijk werkzaamheden heeft verricht, waardoor de betreffende beroepsziekte kon ontstaan, vaststelt dat de getroffene of zijn nagelaten betrekkingen niet voldoen aan de voorwaarden van deze wettelijke regeling, rekening houdende met artikel 46, tweede, derde en vierde lid van het Verdrag:
+4. If necessary the case shall be referred back, following the same procedure, to the corresponding institution of the Contracting Party under whose legislation the worker was first engaged in an occupation liable to cause the disease in question.
 
-- a). zendt bedoeld orgaan de aangifte en alle daarbij gevoegde stukken met inbegrip van de bevindingen en verslagen van het geneeskundig onderzoek dat door het eerste orgaan is verricht, alsmede een afschrift van de in de volgende alinea bedoelde beslissing, onverwijld door aan het orgaan van de Verdragsluitende Partij onder de wettelijke regeling waarvan de getroffene voordien werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan;
+##### Article 65
 
-- b). stelt bedoeld orgaan de belanghebbende gelijktijdig in kennis van zijn beslissing, onder vermelding van de redenen tot weigering van de uitkeringen, de rechtsmiddelen en beroepstermijnen, alsmede de datum waarop het dossier aan het in de vorige alinea bedoelde orgaan werd doorgezonden.
+1. If an appeal is made against rejection of a claim by the institution of one of the Contracting Parties under whose legislation the worker was engaged in an occupation liable to cause the disease under consideration, that institution shall inform the institution to which the declaration, if any, was transmitted, in accordance with the procedure prescribed in Article 64, paragraph 3, of this Agreement, and subsequently inform it of the final decision taken.
 
-4. In voorkomend geval kan volgens dezelfde procedure verder worden teruggegaan tot aan het overeenkomstige orgaan van de Verdragsluitende Partij onder de wettelijke regeling waarvan de getroffene het eerst werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan.
+2. Where entitlement to benefit is established under the legislation applied by the institution to which the declaration was transmitted in accordance with the procedure prescribed in Article 64, paragraph 3, of this Agreement, account being taken of the provisions of [Article 46, paragraphs 2, 3 and 4, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), that institution shall make advance payments to the person concerned, the amounts being determined in consultation with the institution against whose decision the appeal was lodged. If, following the appeal, the latter institution is obliged to provide benefits, it shall refund to the former institution the advance payments made, deducting an equivalent amount from the benefit payable to the person concerned.
 
-##### Artikel 65
+#### Application of Article 47 of the Convention
 
-1. Indien beroep wordt ingesteld tegen een afwijzende beslissing van het orgaan van een der Verdragsluitende Partijen onder de wettelijke regeling waarvan de getroffene werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan, is dit orgaan verplicht hiervan kennis te geven aan het orgaan waaraan de aangifte volgens de procedure van artikel 64, derde lid van het Akkoord eventueel werd doorgezonden en het later op de hoogte te stellen van de definitieve beslissing.
+##### Article 66
 
-2. Indien krachtens de wettelijke regeling, toegepast door het orgaan waaraan de aangifte volgens de procedure van artikel 64, derde lid van het Akkoord werd doorgezonden, met inachtneming van [artikel 46, tweede, derde en vierde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), recht op uitkeringen is ingegaan, verleent dit orgaan de belanghebbende voorschotten waarvan de hoogte wordt vastgesteld in overleg met het orgaan tegen de beslissing waarvan beroep werd ingesteld. Indien het ingestelde beroep tot gevolg heeft dat laatstbedoeld orgaan de uitkeringen moet verlenen, betaalt het het bedrag der verleende voorschotten terug aan eerstbedoeld orgaan en houdt een gelijk bedrag in op de aan de belanghebbende verschuldigde uitkeringen.
+In the case referred to in [Article 47 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=47), the worker shall provide the institution of the Contracting Party from which he claims benefit with full information on any benefits previously received by him in respect of the occupational disease in question and on any occupations he has followed since the award of these benefits. That institution may request such information as it considers necessary from any other previously competent institution.
 
-### Toepassing van [artikel 47 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=47)
+#### Submission and examination of claims for pensions
 
-##### Artikel 66
+##### Article 67
 
-In het in [artikel 47 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=47) bedoelde geval is de werknemer verplicht aan het orgaan van de Verdragsluitende Partij, waarbij hij aanspraak op uitkeringen maakt, alle inlichtingen te verstrekken omtrent vroeger voor de betreffende beroepsziekte toegekende uitkeringen en door hem sedert het genot van deze uitkeringen verrichte beroepswerkzaamheden. Dit orgaan kan zich, ter verkrijging van de inlichtingen welke het nodig acht, wenden tot elk ander orgaan dat vroeger bevoegd is geweest.
+1. If a pension or allowance to supplement a pension awarded under the legislation of one Contracting Party is claimed by a worker or his survivors residing in the territory of another Contracting Party, the claim shall be submitted either to the competent institution or to the institution of the place of residence which shall then transmit it to the competent institution. The claim must comply with the following rules:
 
-### Indiening en behandeling van aanvragen om renten
+- (a) it must be accompanied by the requisite supporting documents and shall be submitted on the forms prescribed by the legislation of the competent State;
 
-##### Artikel 67
+- (b) the accuracy of the information supplied by the claimant must be substantiated by official documents attached to the claim form or corroborated by the competent authorities of the Contracting Party in whose territory he resides.
 
-1. Wanneer een werknemer of diens nagelaten betrekkingen die op het grondgebied van een Verdragsluitende Partij wonen, in het genot wensen te komen van een krachtens de wettelijke regeling van een andere Verdragsluitende Partij toe te kennen rente of uitkering ter aanvulling van een rente, richten zij hun aanvraag, hetzij tot het bevoegde orgaan, hetzij tot het orgaan van de woonplaats, dat deze aan het bevoegde orgaan doorzendt. Voor het indienen van de aanvraag gelden de volgende regels:
+2. The competent institution shall convey its decision directly to the claimant or through the liaison body of the competent State; it shall send a copy of the decision to the liaison body of the Contracting Party in whose territory the claimant resides.
 
-- a). de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld op de formulieren welke zijn voorgeschreven in de wettelijke regeling van de bevoegde Staat;
+#### Administrative and medical supervision
 
-- b). de juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij het aanvraagformulier gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont.
+##### Article 68
 
-2. Het bevoegde orgaan geeft de aanvrager rechtstreeks of door bemiddeling van het verbindingsorgaan van de bevoegde Staat kennis van zijn beslissing; het zendt een afschrift van deze kennisgeving aan het verbindingsorgaan van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont.
+If the recipient of a pension temporarily resides or resides in the territory of a Contracting Party other than the competent State, administrative and medical supervision and also such medical examinations as are necessary for the revision of pensions shall be carried out at the request of the competent institution by the institution of the place of temporary residence or residence in accordance with the rules laid down in the legislation which the latter institution applies. However, the competent institution may have the recipient examined by a doctor of its choice at its own expense.
 
-### Administratieve en medische controle
+#### Payment of pensions
 
-##### Artikel 68
+##### Article 69
 
-Wanneer een rentetrekker op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont of verblijft, worden de administratieve en medische controle, alsmede de medische onderzoeken welke nodig zijn bij herziening van renten, op verzoek van het bevoegde orgaan verricht door het orgaan van de woon- of verblijfplaats, op de wijze als bepaald in de door laatstbedoeld orgaan toegepaste wettelijke regeling. Het bevoegde orgaan blijft evenwel bevoegd de rechthebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze.
+Pensions payable by the institution of a Contracting Party to claimants residing in the territory of another Contracting Party shall be paid in accordance with the provisions of Articles 46 to 51 of this Agreement.
 
-### Betaling van renten
+### Chapter 4. : Death (grants)
 
-##### Artikel 69
+#### Application of Articles 49 and 50 of the Convention
 
-De betaling van de renten welke door het orgaan van een Verdragsluitende Partij verschuldigd zijn aan rechthebbenden die op het grondgebied van een andere Verdragsluitende Partij wonen, geschiedt overeenkomstig de artikelen 46 tot en met 51 van het Akkoord.
+##### Article 70
 
-### Hoofdstuk 4. : Overlijden (uitkeringen)
+Where a person residing in the territory of one Contracting Party claims a death grant under the legislation of another Contracting Party, he shall submit his claim either to the competent institution, or to the institution of the place of residence, together with the supporting documents required under the legislation applied by the competent institution. The accuracy of the information supplied by the claimant shall be substantiated by official documents attached to the claim form or corroborated by the competent authorities of the Contracting Party in whose territory he resides.
 
-### Toepassing van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49) en [50 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=50)
+##### Article 71
 
-##### Artikel 70
+1. In order to benefit from the provisions of [Article 49 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49), the person concerned shall submit to the competent institution a certificate setting out the periods of insurance or of residence completed by the person in respect of whom the death grant is payable under the legislation of the Contracting Party to which he was last subject.
 
-Wanneer een persoon die op het grondgebied van een Verdragsluitende Partij woont, in aanmerking wenst te komen voor een uitkering bij overlijden krachtens de wettelijke regeling van een andere Verdragsluitende Partij, richt hij zijn aanvraag of tot het bevoegde orgaan, of tot het orgaan van de woonplaats, vergezeld van de bewijsstukken welke in de door het bevoegde orgaan toegepaste wettelijke regeling vereist worden. De juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont.
+2. The certificate referred to in the preceding paragraph shall be issued, at the request of the person concerned, by the institution competent in relation to sickness or old age, as the case may be, of the Contracting Party to whose legislation the person in respect of whom the death grant is payable was last subject. If the person concerned does not submit this certificate, the competent institution shall apply to the latter institution for it.
 
-##### Artikel 71
+3. Where it is necessary to take into account periods of insurance or of residence completed previously under the legislation of any other Contracting Party in order to satisfy the conditions prescribed by the legislation of the competent State, the provisions of the preceding paragraphs of this Article shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 49 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=49), legt de belanghebbende aan het bevoegde orgaan een bewijs over waarin de tijdvakken van verzekering of wonen zijn vermeld welke zijn vervuld krachtens de wettelijke regeling van de Verdragsluitende Partij waaraan de persoon die de aanleiding is tot het ontstaan van het recht op de uitkering bij overlijden, laatstelijk onderworpen is geweest.
+### Chapter 5. : Unemployment
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de belanghebbende verstrekt door het ter zake van ziekte casu quo ouderdom bevoegde orgaan van de Verdragsluitende Partij aan de wettelijke regeling waarvan de persoon die de aanleiding is tot het ontstaan van het recht op de uitkering bij overlijden, laatstelijk onderworpen is geweest. Indien de belanghebbende dit bewijs niet overlegt, verzoekt het bevoegde orgaan erom aan laatstbedoeld orgaan.
+#### Application of Article 51 of the Convention
 
-3. Indien het nodig is met de vroeger krachtens de wettelijke regeling van enige andere Verdragsluitende Partij vervulde tijdvakken van verzekering of wonen rekening te houden om aan de in de wettelijke regeling van de bevoegde Staat gestelde voorwaarden te voldoen, zijn de vorige leden van dit artikel van overeenkomstige toepassing.
+##### Article 72
 
-### Hoofdstuk 5. : Werkloosheid
+1. In order to benefit from the provisions of [Article 51, paragraph 1 or 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51), the person concerned shall submit to the competent institution a certificate setting out the periods of insurance, employment or other occupational activity, completed under the legislation of the Contracting Party to which he was previously last subject, and he shall supply any additional information required under the legislation applied by that institution.
 
-### Toepassing van [artikel 51 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51)
+2. The certificate referred to in the preceding paragraph shall be issued, at the request of the person concerned, either by the institution, competent in relation to unemployment, of the Contracting Party to whose legislation he was previously last subject, or by another institution designated by the competent authority of that Party. If the person concerned does not submit such a certificate, the competent institution shall apply for it to one of these institutions, unless the institution competent in relation to sickness can send a copy of the certificate provided for in Article 16, paragraph 1, of this Agreement.
 
-##### Artikel 72
+3. Where it is necessary to take into account periods of insurance, employment or other occupational activity previously completed under the legislation of any other Contracting Party in order to satisfy the conditions prescribed by the legislation of the competent State, the provisions of the preceding paragraphs of this Article shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 51, eerste of tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=51), legt de belanghebbende aan het bevoegde orgaan een bewijs over, waarin de tijdvakken van verzekering, dienstbetrekking of beroepswerkzaamheden zijn vermeld, welke zijn vervuld krachtens de wettelijke regeling van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle aanvullende inlichtingen welke zijn vereist bij de door dit orgaan toegepaste wettelijke regeling.
+#### Application of Article 52 of the Convention
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de belanghebbende verstrekt, hetzij door het voor werkloosheid bevoegde orgaan van de Verdragsluitende Partij aan de wettelijke regeling waar van hij tevoren en laatstelijk onderworpen is geweest, hetzij door een ander door de bevoegde autoriteit van deze Partij aangewezen orgaan. Indien de belanghebbende genoemd bewijs niet overlegt, verzoekt het bevoegde orgaan daarom aan een van deze organen, tenzij het voor ziekte bevoegde orgaan in staat is een afschrift van het in artikel 16, eerste lid van het Akkoord bedoelde bewijs te zenden.
+##### Article 73
 
-3. Indien het nodig is met vroeger krachtens de wettelijke regeling van enige andere Verdragsluitende Partij vervulde tijdvakken van verzekering, dienstbetrekking of beroepswerkzaamheden rekening te houden om aan de in de wettelijke regeling van de bevoegde Staat gestelde voorwaarden te voldoen, zijn de vorige leden van dit artikel van overeenkomstige toepassing.
+1. In order to benefit from the provisions of [Article 52 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=52), the person concerned shall submit to the institution of his new place of residence a certificate that he satisfies the conditions prescribed by the legislation of the competent State for entitlement to benefits in respect of the completion of periods of insurance, employment, occupational activity or residence, and he shall apply any additional information required by the legislation applied by that institution.
 
-### Toepassing van [artikel 52 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=52)
+2. The certificate referred to in the preceding paragraph shall be issued by the competent institution, at the request of the person concerned, before he changes his place of residence. That institution shall send a copy of it to the institution designated by the competent authority of the Contracting Party to whose territory the person concerned is transferring his residence. If the person concerned does not submit this certificate or if the institution of the new place of residence has not received a copy, that institution shall apply for it to the competent institution.
 
-##### Artikel 73
+#### Application of Article 53 of the Convention
 
-1. Om in aanmerking te komen voor toepassing van [artikel 52 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=52), legt de belanghebbende aan het orgaan van zijn nieuwe woonplaats een bewijs over waarin wordt verklaard dat hij voldoet aan de door de wettelijke regeling van de bevoegde Staat gestelde voorwaarden voor het recht op uitkeringen ten aanzien van de vervulling van tijdvakken van verzekering, dienstbetrekking, beroepswerkzaamheden of wonen en verstrekt hij alle aanvullende inlichtingen welke zijn vereist bij de door dit orgaan toegepaste wettelijke regeling.
+##### Article 74
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de belanghebbende door het bevoegde orgaan verstrekt voordat hij van woonplaats verandert. Dit orgaan zendt een afschrift van dit bewijs aan het orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij naar het grondgebied waarvan de belanghebbende zijn woonplaats overbrengt. Indien de belanghebbende dit bewijs niet overlegt of indien het orgaan van de nieuwe woonplaats geen afschrift van dit bewijs heeft ontvangen, verzoekt dit orgaan daarom aan het bevoegde orgaan.
+1. In the cases covered by [Article 53, paragraph 1, sub-paragraphs (a) (ii) and (b) (ii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53), the institution of the place of residence shall be regarded as the competent institution for applying the provisions of Article 72 of this Agreement,
 
-### Toepassing van artikel 53 van het Verdrag
+2. In the case covered by [Article 53, paragraph 1, sub-paragraph (b) (iii) of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53), the provisions of Article 73 of this Agreement shall apply, mutatis mutandis.
 
-##### Artikel 74
+3. For the application of the provisions of [Article 53, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53), the institution of the place of residence shall apply to the competent institution for all necessary information regarding the rights of the person concerned in relation to that institution.
 
-1. In de gevallen, bedoeld in [artikel 53, eerste lid, sub a)ii) en sub b)ii) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53) wordt het orgaan van de woonplaats beschouwd als het voor de toepassing van artikel 72 van het Akkoord bevoegde orgaan.
+#### Application of Article 54 of the Convention
 
-2. In het geval, bedoeld in [artikel 53, eerste lid, sub b)iii) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53), is artikel 73 van het Akkoord van overeenkomstige toepassing.
+##### Article 75
 
-3. Voor de toepassing van [artikel 53, tweede lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=53), vraagt het orgaan van de woonplaats aan het bevoegde orgaan alle inlichtingen met betrekking tot de rechten van de belanghebbende ten aanzien van laatstbedoeld orgaan.
+For the application of the provisions of [Article 54 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=54) the competent institution shall, where appropriate, indicate in the certificate mentioned in Article 73, paragraph 1 of this Agreement the length of time for which it has paid benefit since entitlement to such benefit was last established.
 
-### Toepassing van [artikel 54 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=54)
+#### Application of Article 55 of the Convention
 
-##### Artikel 75
+##### Article 76
 
-Voor de toepassing van [artikel 54 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=54), vermeldt het bevoegde orgaan in voorkomend geval op het in artikel 73, eerste lid van het Akkoord bedoelde bewijs de duur waarover het reeds uitkeringen heeft verleend, nadat het recht op uitkeringen voor de laatste maal werd vastgesteld.
+For the purpose of calculating benefits to be paid by an institution referred to in [Article 55, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=55) in cases where the person concerned was not last employed for at least four weeks in the territory of the Contracting Party in which that institution is situated, he shall submit to it a statement of the nature of his last employment for at least four weeks in the territory of another Contracting Party, and indicate in what branch of the economy he was employed. If the worker does not submit such a statement, the institution in question shall apply for it either to the institution competent in relation to unemployment of that Party, or to any other institution designated by the competent authority of that Party.
 
-### Toepassing van [artikel 55 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=55)
+##### Article 77
 
-##### Artikel 76
+In order to benefit from the provisions of [Article 55, paragraph 2, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=55), the person concerned shall submit to the competent institution a certificate regarding the members of his family residing in the territory of a Contracting Party other than the competent State. That certificate shall be issued either by the institution of the place of residence of such members of the family, which is competent in relation to sickness or by any other institution designated by the competent authority of the Contracting Party in whose territory those members of the family reside. In addition, the provisions of paragraphs 2 and 3 of Article 25 of this Agreement shall apply, mutatis mutandis.
 
-Voor de berekening van de uitkeringen welke ten laste komen van een in [artikel 55, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=55) bedoeld orgaan in de gevallen waarin de belanghebbende zijn laatste werkzaamheden niet gedurende ten minste vier weken heeft uitgeoefend op het grondgebied van de Verdragsluitende Partij waar dit orgaan is gevestigd, legt hij aan dit orgaan een verklaring over welke de aard vermeldt van de laatstelijk door hem op het grondgebied van een andere Verdragsluitende Partij gedurende tenminste vier weken verrichte werkzaamheden, alsmede de bedrijfstak waarin deze werkzaamheden werden verricht. Indien de werknemer deze verklaring niet overlegt, verzoekt bedoeld orgaan daarom hetzij aan het voor werkloosheid bevoegde orgaan van laatstbedoelde Partij, hetzij aan een ander door de bevoegde autoriteit van deze Partij aangewezen orgaan.
+### Chapter 6. : Family benefits
 
-##### Artikel 77
+#### Application of Article 57 of the Convention
 
-Om in aanmerking te komen voor toepassing van [artikel 55, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=55) legt de belanghebbende aan het bevoegde orgaan een bewijs over met betrekking tot zijn gezinsleden die op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat wonen. Dit bewijs wordt afgegeven, hetzij door het voor ziekte bevoegde orgaan van de woonplaats van deze gezinsleden, hetzij door een ander orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze gezinsleden wonen. Bovendien is artikel 25, tweede en derde lid van het Akkoord van overeenkomstige toepassing.
+##### Article 78
 
-### Hoofdstuk 6. : Gezinsuitkeringen
+1. In order to benefit from the provisions of [Article 57 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=57), the person concerned shall submit to the competent institution a certificate setting out the periods of employment, other occupational activity or residence completed under the legislation of the Contracting Party to which he was previously last subject, and he shall supply any additional information required under the legislation applied by that institution.
 
-### Toepassing van [artikel 57 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=57)
+2. The certificate referred to in the preceding paragraph shall be issued, at the request of the person concerned, either by the institution competent in relation to family benefits of the Contracting Party to whose legislation he was previously last subject or by any other institution designated by the competent authority of that Party. If the person concerned does not submit such a certificate, the competent institution shall apply for it to one of these institutions, unless the institution competent in relation to sickness can send a copy of the certificate provided for in Article 16, paragraph 1, of this Agreement.
 
-##### Artikel 78
+3. Where it is necessary to take into account periods of employment, other occupational activity or residence previously completed under the legislation of any other Contracting Party in order to satisfy the conditions prescribed by the legislation of the competent State, the provisions of the preceding paragraphs of this Article shall apply, mutatis mutandis.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 57 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=57) legt de belanghebbende aan het bevoegde orgaan een bewijs over waarin de tijdvakken van dienstbetrekking, beroepswerkzaamheden of wonen zijn vermeld, welke zijn vervuld krachtens de wettelijke regeling van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest en verstrekt hij alle aanvullende inlichtingen welke zijn vereist bij de door dit orgaan toegepaste wettelijke regeling.
+#### Application of Articles 59 and 60 of the Convention
 
-2. Het in het vorige lid bedoelde bewijs wordt op verzoek van de belanghebbende verstrekt, hetzij door het voor gezinsuitkeringen bevoegde orgaan van de Verdragsluitende Partij aan de wettelijke regeling waarvan hij tevoren en laatstelijk onderworpen is geweest, hetzij door een ander door de bevoegde autoriteit van deze Partij aangewezen orgaan. Indien de belanghebbende genoemd bewijs niet overlegt, verzoekt het bevoegde orgaan daarom aan een van deze organen, tenzij het voor ziekte bevoegde orgaan in staat is een afschrift van het in artikel 16, eerste lid van het Akkoord bedoelde bewijs te zenden.
+##### Article 79
 
-3. Indien het nodig is met vroeger krachtens de wettelijke regeling van enige andere Verdragsluitende Partij vervulde tijdvakken van dienstbetrekking, beroepswerkzaamheden of wonen rekening te houden om aan de in de wettelijke regeling van de bevoegde Staat gestelde voorwaarden te voldoen, zijn de vorige leden van dit artikel van overeenkomstige toepassing.
+1. In order to benefit from the provisions of [Article 59 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59), the person concerned shall apply to the competent institution, if necessary through his employer.
 
-### Toepassing van de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59) en [60 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=60)
+2. When [Article 59, paragraph 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59) is to be applied, the competent institution, in order to make the comparison provided for in paragraph 4 of that Article, shall obtain information through the competent authority to which it is responsible regarding the amount of family allowances payable under the legislation of the Contracting Party in which the children reside or are being brought up. That authority shall apply at the end of each quarter to the competent authority of the Contracting Party in question for such information. This information shall be based on the legislation applicable on the 15th day of the last month of the last quarter under consideration, and shall constitute the valid basis for payment of family allowances relating to the following quarter.
 
-##### Artikel 79
+3. In support of his claim the person concerned shall submit a certificate as to his family status issued by the competent registration authorities in the territory of the Contracting Party in which the children reside or are being brought up, if such certificate is normally issued by the above-mentioned authorities; and if not, by the institution designated by the competent authority of that Contracting Party. This certificate shall be renewed annually.
 
-1. Om in aanmerking te komen voor toepassing van [artikel 59 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59), richt de belanghebbende, eventueel door bemiddeling van zijn werkgever, een aanvraag tot het bevoegde orgaan.
+4. The person concerned shall also, where appropriate and at the request of the competent institution, supply information identifying the person to whom family allowances are to be paid in the territory of the Contracting Party where the children reside or are being brought up.
 
-2. Teneinde bij de toepassing van [artikel 59, derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59) de in het vierde lid van laatstgenoemd artikel bedoelde vergelijking te maken, verkrijgt het bevoegde orgaan de gegevens betreffende het bedrag van de kinderbijslag waarin de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de kinderen wonen of worden opgevoed, voorziet, door bemiddeling van de bevoegde autoriteit onder wie dit orgaan ressorteert. Aan het einde van elk kwartaal verzoekt deze bevoegde autoriteit aan de bevoegde autoriteit van bedoelde Verdragsluitende Partij om opgave van deze gegevens, welke gebaseerd dienen te zijn op de stand van de wettelijke regeling op de vijftiende dag van de laatste maand van het laatstbetreffende kwartaal. Deze gegevens vormen de rechtsgeldige grondslag voor de vaststelling van de kinderbijslag voor het volgende kwartaal.
+5. The person concerned shall inform the competent institution, if necessary through his employer, of any change in the circumstances of his children which might affect their entitlement to family allowances, and in particular of any change of residence and any alteration in the number of children in respect of whom family allowances are payable.
 
-3. Ter ondersteuning van zijn aanvraag legt de belanghebbende een verklaring omtrent de gezinssamenstelling over, afgegeven door de bevoegde autoriteiten van de burgerlijke stand op het grondgebied van de Verdragsluitende Partij waarop de kinderen wonen of worden opgevoed, indien dergelijke verklaringen gewoonlijk door deze autoriteiten worden afgegeven, of, zo dit niet het geval is, door het door de bevoegde autoriteit van deze Partij aangewezen orgaan. Deze verklaring dient jaarlijks te worden vernieuwd.
+6. The provisions of paragraphs 1, 3 and 5 of this Article shall apply in the case referred to in [Article 59, paragraph 5, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59).
 
-4. Bovendien verstrekt de belanghebbende in voorkomend geval, op verzoek van het bevoegde orgaan, gegevens aan de hand waarvan kan worden vastgesteld aan wie de kinderbijslag moet worden uitbetaald op het grondgebied van de Verdragsluitende Partij waarop de kinderen wonen of worden opgevoed.
+##### Article 80
 
-5. De belanghebbende dient het bevoegde orgaan, eventueel door bemiddeling van zijn werkgever, in kennis te stellen van elke verandering in de toestand van zijn kinderen waardoor het recht op kinderbijslag kan worden beïnvloed, in het bijzonder van elke overbrenging van hun woonplaats en elke wijziging in het aantal kinderen waarvoor kinderbijslag verschuldigd is.
+1. If the person concerned has been employed or has engaged in other occupational activity or has been resident during any calendar month or quarter in the territory of two Contracting Parties, the family allowances he may claim under the legislation of each of these Parties shall correspond to the number of daily allowances payable under the respective legislations concerned. If one or other of these legislations provides for the payment of monthly or quarterly allowances, one twenty-sixth part of the total monthly allowance or one seventy-eighth part of the total quarterly allowance shall be paid for each day of employment, other occupational activity or residence completed in the territory of the Contracting Party concerned and for each day assimilated thereto by the legislation of that Party.
 
-6. In het in [artikel 59, vijfde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=59) bedoelde geval zijn het eerste, derde en vijfde lid van dit artikel van toepassing.
+2. If the institution of one Contracting Party has paid family allowances for a month or part of a month, and they should have been paid by the institution of another Contracting Party, the incorrect payments of allowances shall be adjusted between the two institutions.
 
-##### Artikel 80
+#### Application of Article 61 of the Convention
 
-1. Indien de belanghebbende in de loop van een kalendermaand of een kalenderkwartaal op het grondgebied van twee Verdragsluitende Partijen een dienstbetrekking heeft vervuld of beroepswerkzaamheden heeft verricht of aldaar heeft gewoond, komt de kinderbijslag waarop hij krachtens de wettelijke regeling van elk van deze Partijen aanspraak kan maken overeen met het aantal daguitkeringen welke krachtens de betreffende wettelijke regeling verschuldigd zijn. Indien volgens een van beide wettelijke regelingen de kinderbijslag maandelijks of per kwartaal wordt toegekend, wordt krachtens deze wettelijke regeling of een zesentwintigste deel van het maandbedrag, of een achtenzeventigste deel van het kwartaalbedrag aan kinderbijslag toegekend voor iedere dag waarover op het grondgebied van de betrokken Verdragsluitende Partij een dienstbetrekking werd vervuld, beroepswerkzaamheden werden verricht of aldaar werd gewoond en voor iedere dag, in de wettelijke regeling van deze Partij daarmede gelijkgesteld.
+##### Article 81
 
-2. Indien het orgaan van een Verdragsluitende Partij kinderbijslag heeft verleend voor een maand of een gedeelte daarvan, terwijl deze bijslag voor rekening van het orgaan van een andere Verdragsluitende Partij kwam, zal de ten onrechte verleende bijslag tussen deze organen worden verrekend.
+1. In order to receive family benefit in the territory of the Contracting Party in which they reside, the members of the family referred to in [Article 61, paragraph 1, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=61) shall register with the institution of their place of residence, submitting the supporting documents normally required for the award of family benefit under the legislation applied by that institution and also a certificate stating that the person concerned satisfies the conditions for entitlement to benefit. This certificate shall include the following information:
 
-### Toepassing van [artikel 61 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=61)
+- (a) if the legislation of the competent State does not make entitlement to benefit conditional upon any employment or other occupational activity, the certificate shall simply state that the person concerned is subject to the legislation of that State;
 
-##### Artikel 81
+- (b) if the legislation of the competent State makes entitlement to benefit conditional upon the completion of a specified period of employment or other occupational activity, the certificate shall state that this condition has been satisfied;
 
-1. Om in aanmerking te komen voor gezinsuitkeringen op het grondgebied van de Verdragsluitende Partij waarop zij wonen, laten de in [artikel 61, eerste lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=61) bedoelde gezinsleden zich inschrijven bij het orgaan van hun woonplaats, onder overlegging van de bewijsstukken welke krachtens de door dit orgaan toegepaste wettelijke regeling gewoonlijk vereist worden voor de toekenning van gezinsuitkeringen, alsmede van een bewijs waarin wordt verklaard dat de belanghebbende voldoet aan de voorwaarden voor het recht op uitkeringen. Dit bewijs bevat de volgende gegevens:
+- (c) if the legislation of the competent State provides that the duration of entitlement to benefit shall correspond to the duration of periods of employment or other occupational activity, the certificate shall state the duration of employment or other occupational activity completed during the period under consideration.
 
-- a). indien volgens de wettelijke regeling van de bevoegde Staat het recht op uitkeringen niet afhankelijk is van voorwaarden inzake het vervullen van een dienstbetrekking of het verrichten van beroepswerkzaamheden, vermeldt het bewijs uitsluitend dat op de belanghebbende de wettelijke regeling van deze Staat van toepassing is;
+This certificate shall be issued by the competent institution, at the request of the person concerned, as soon as he satisfies the prescribed conditions. If the members of the family do not submit this certificate, the institution of their place of residence shall apply for it to the competent institution.
 
-- b). indien volgens de wettelijke regeling van de bevoegde Staat het recht op uitkeringen afhankelijk is van het gedurende een bepaalde tijd vervullen van een dienstbetrekking of verrichten van beroepswerkzaamheden, vermeldt het bewijs dat aan deze voorwaarde is voldaan;
+2. In the case mentioned in sub-paragraphs *(a)* and *(b)* of the preceding paragraph, the certificate referred to shall remain valid until the institution of the place of residence is notified of its cancellation. In the case mentioned in sub-paragraph *(c)*, however, the certificate shall remain valid for three months from the date of issue only, and shall be renewed ex officio every three months by the competent institution.
 
-- c). indien volgens de wettelijke regeling van de bevoegde Staat de duur waarover recht op uitkeringen bestaat overeenkomt met de duur van de tijdvakken van dienstbetrekking of beroepswerkzaamheden, vermeldt het bewijs de duur van de gedurende het betreffende tijdvak vervulde dienstbetrekking of verrichte beroepswerkzaamheden.
+3. If the person concerned is a seasonal worker, the certificate referred to in paragraph 1 of this Article shall remain valid during the whole expected duration of the seasonal work, unless the competent institution notifies its cancellation in the meantime to the institution of the place of residence.
 
-Dit bewijs wordt op verzoek van de belanghebbende door het bevoegde orgaan verstrekt zodra hij aan de gestelde voorwaarden voldoet. Indien de gezinsleden genoemd bewijs niet overleggen, verzoekt het orgaan van hun woonplaats daarom aan het bevoegde orgaan.
+4. If the legislation of the Contracting Party in whose territory the members of the family reside provides for monthly or quarterly payment of benefit, and the legislation of the competent State provides that the duration of entitlement to benefit shall correspond to the duration of periods of employment or other occupational activity completed in that State, benefit shall be provided for a period corresponding to the ratio of that period to the total length of time prescribed by the legislation of the country of residence of the members of the family.
 
-2. Het in het vorige lid bedoelde bewijs blijft, in de sub a) en b) bedoelde gevallen, geldig zolang het orgaan van de woonplaats ter zake geen kennisgeving van intrekking heeft ontvangen. In het sub c) genoemde geval is dit bewijs echter slechts geldig gedurende drie maanden na de datum van afgifte en moet het door het bevoegde orgaan om de drie maanden ambtshalve worden vernieuwd.
+5. If the legislation of the Contracting Party in whose territory the members of the family reside provides for the payment of benefit for a number of days corresponding to the number of days of employment or other occupational activity completed, and the legislation of the competent State provides that entitlement shall be for a period of a month or a quarter, benefit shall be paid monthly or quarterly.
 
-3. Indien de belanghebbende de hoedanigheid van seizoenarbeider bezit, is het in het eerste lid van dit artikel bedoelde bewijs geldig gedurende de gehele voor de seizoenarbeid voorziene tijdsduur, tenzij het bevoegde orgaan het orgaan van de woonplaats tussentijds van de intrekking in kennis stelt.
+6. In the cases covered by paragraphs 4 and 5 of this Article, if periods of employment or other occupational activity completed under the legislation of the competent State are expressed in units other than those used in calculating benefit under the legislation of the Contracting Party in whose territory the members of the family reside, they shall be converted as provided in Article 15, paragraph 3, of this Agreement.
 
-4. Indien de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de gezinsleden wonen bepaalt dat maandelijks of driemaandelijks uitkeringen worden toegekend, terwijl de wettelijke regeling van de bevoegde Staat bepaalt dat de duur waarover recht op uitkeringen bestaat overeenkomt met de tijdsduur waarover een dienstbetrekking werd vervuld of beroepswerkzaamheden werden verricht, worden de uitkeringen toegekend naar de verhouding van deze tijdsduur ten opzichte van de bij de wettelijke regeling van het land van de woonplaats van de gezinsleden bepaalde duur.
+7. The competent institution shall immediately inform the institution of the place of residence of members of the family of the date on which the person concerned ceases to be entitled to benefit or transfers his residence from the territory of one Contracting Party to that of another. The institution of the place of residence of the members of the family may at any time ask the competent institution for all necessary information regarding entitlement to benefit of the person concerned.
 
-5. Indien de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de gezinsleden wonen bepaalt dat de uitkeringen worden toegekend voor een aantal dagen dat overeenkomt met de dagen waarover een dienstbetrekking werd vervuld of beroepswerkzaamheden werden verricht, terwijl de wettelijke regeling van de bevoegde Staat bepaalt dat recht op uitkeringen bestaat voor een gehele maand of een geheel kwartaal, worden de uitkeringen voor een maand of een kwartaal toegekend.
+8. The members of the family shall inform the institution of their place of residence of any change in their circumstances which might affect their entitlement to benefit, and in particular of any change of residence.
 
-6. Wanneer de tijdvakken van dienstbetrekking of beroepswerkzaamheden welke krachtens de wettelijke regeling van de bevoegde Staat zijn vervuld, in andere eenheden worden uitgedrukt dan die welke dienen voor de berekening van de uitkeringen krachtens de wetttelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de gezinsleden wonen, vindt in de in het vierde en vijfde lid van dit artikel bedoelde gevallen de omrekening plaats overeenkomstig artikel 15, derde lid van het Akkoord.
+##### Article 82
 
-7. Het bevoegde orgaan stelt het orgaan van de woonplaats van de gezinsleden onmiddellijk in kennis van de datum met ingang waarvan de belanghebbende niet langer recht op uitkeringen heeft of zijn woonplaats van het grondgebied van een Verdragsluitende Partij naar dat van een andere Verdragsluitende Partij overbrengt. Het orgaan van de woonplaats van de gezinsleden kan te allen tijde aan het bevoegde orgaan verzoeken alle inlichtingen te verstrekken omtrent de rechten van de belanghebbende op uitkeringen.
+If members of a family transfer their residence from the territory of one Contracting Party to that of another during the course of a calendar month or quarter, the family benefit paid to them under the legislation of each of those Parties shall correspond to the number of daily benefits payable under the legislations concerned. If either of these legislations provides for the payment of benefit, monthly or quarterly, benefit shall be paid proportionately to the duration of residence in the territory of the Party in question during the month or quarter concerned.
 
-8. De gezinsleden zijn verplicht bet orgaan van hun woonplaats in kennis te stellen van elke verandering in hun omstandigheden waardoor het recht op uitkeringen kan worden gewijzigd, in het bijzonder van elke overbrenging van hun woonplaats.
+#### Application of Article 62 of the Convention
 
-##### Artikel 82
+##### Article 83
 
-Indien gezinsleden in de loop van een kalendermaand of kalenderkwartaal hun woonplaats van het grondgebied van een Verdragsluitende Partij naar dat van een andere Verdragsluitende Partij overbrengen, komen de gezinsuitkeringen welke hun krachtens de wettelijke regeling van elk van deze Partijen worden toegekend overeen met het aantal dagelijkse uitkeringen welke krachtens de betreffende wettelijke regeling verschuldigd zijn. Indien volgens een van beide wettelijke regelingen de uitkeringen maandelijks of per kwartaal worden toegekend, worden deze uitkeringen toegekend naar evenredigheid van de tijdsduur waarover de belanghebbenden gedurende de betreffende maand of het betreffende kwartaal op het grondgebied van de betrokken Partij hebben gewoond.
+1. In order to receive family benefit in the territory of the Contracting Party in which they reside, the members of the family referred to in [Article 62 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=62) shall submit to the institution of their place of residence a certificate stating that the person concerned receives unemployment benefit under the legislation of another Contracting Party, and would be entitled to family benefits if he lived with the members of his family in the territory of the competent State. This certificate shall be issued either by the institution competent in relation to unemployment in the latter State or by any other institution designated by the competent authority of that State. If the members of the family do not submit this certificate, the institution of their place of residence shall apply for it to the competent institution.
 
-### Toepassing van artikel 62 van het Verdrag
+2. The provisions of Articles 81 and 82 of this Agreement shall apply, mutatis mutandis.
 
-##### Artikel 83
+### TITLE VI. Miscellaneous provisions
 
-1. Om in aanmerking te komen voor gezinsuitkeringen op het grondgebied van de Verdragsluitende Partij waarop zij wonen, leggen de in [artikel 62 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=62) bedoelde gezinsleden aan het orgaan van hun woonplaats een bewijs over waarin wordt verklaard dat de belanghebbende in het genot is van werkloosheidsuitkeringen krachtens de wettelijke regeling van een andere Verdragsluitende Partij en dat hij recht zou hebben op gezinsuitkeringen indien hij met zijn gezinsleden op het grondgebied van de bevoegde Staat woonde. Dit bewijs wordt afgegeven hetzij door het voor werkloosheid bevoegde orgaan van laatstbedoelde Staat, hetzij door een ander door de bevoegde autoriteit van deze Staat aangewezen orgaan. Indien de gezinsleden dit bewijs niet overleggen, verzoekt het orgaan van de woonplaats daarom aan het bevoegde orgaan.
+##### Article 84
 
-2. De artikelen 81 en 82 van het Akkoord zijn van overeenkomstige toepassing.
+The institution of the place of residence of a person who has received benefits that were not payable to him, or the institution designated by the competent authority of the Contracting Party in whose territory that person resides, shall cooperate with the institution of any other Contracting Party which has paid such benefits should the latter institution seek recovery from the person in question.
 
-## TITEL VI. Diverse bepalingen
+##### Article 85
 
-##### Artikel 84
+1. If, during the assessment or the revision of invalidity, old-age or death (pensions) benefits under the provisions of [Chapter 2 of Title III of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&hoofdstuk=2), the institution of a Contracting Party has paid to a beneficiary a sum in excess of his entitlement, it may request the institution of any other Contracting Party responsible for the payment of corresponding benefits to that person to deduct the amount overpaid from any arrears payable to him. The latter institution shall transfer the amount so withheld to the creditor institution. If recovery cannot be made in this way, the provisions of the following paragraph shall apply.
 
-Het orgaan van de woonplaats van een persoon die ten onrechte prestaties heeft genoten of het orgaan dat is aangewezen door de bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan deze persoon woont, verleent zijn goede diensten aan het orgaan van elke andere Verdragsluitende Partij dat deze prestaties heeft verstrekt, indien laatstbedoeld orgaan verhaal op de betrokken persoon wil nemen.
+2. If the institution of a Contracting Party has paid to a beneficiary a sum in excess of his entitlement, that institution may, under the conditions and to the extent permissible under the legislation it applies, request the institution of any other Contracting Party responsible for payment of benefits to that person to deduct the amount overpaid from the payments it is making to him. The latter institution shall withhold that amount to the extent to which such a deduction is permissible under the legislation it applies, as if the overpayment had been made by it, and transfer the amount so withheld to the creditor institution.
 
-##### Artikel 85
+3. If the institution of a Contracting Party has made an advance payment of benefits for a period during which the beneficiary was entitled to corresponding benefits under the legislation of another Contracting Party, it may request the institution of the other Contracting Party to deduct the amount of the advance from the payments due to him for the same period. The latter institution shall withhold the amount and transfer it to the creditor institution.
 
-1. Indien bij de vaststelling of de herziening van uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) krachtens [Titel III, hoofdstuk 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&hoofdstuk=2), het orgaan van een Verdragsluitende Partij aan een rechthebbende op uitkeringen een hoger bedrag heeft uitbetaald dan waarop deze recht heeft, kan dit orgaan aan het orgaan van enige andere Verdragsluitende Partij dat overeenkomstige uitkeringen aan deze rechthebbende verschuldigd is, verzoeken het teveel betaalde bedrag in te houden op de aan bedoelde rechthebbende verschuldigde achterstallige termijnen. Laatstbedoeld orgaan maakt het aldus ingehouden bedrag over aan het orgaan dat de vordering heeft. Indien de terugvordering niet met de achterstallige termijnen kan worden verrekend, is het volgende lid van toepassing.
+##### Article 86
 
-2. Wanneer het orgaan van een Verdragsluitende Partij aan een rechthebbende op uitkeringen een hoger bedrag heeft uitbetaald dan waarop hij recht heeft, kan dit orgaan, op de wijze en binnen de grenzen als bepaald in de door dit orgaan toegepaste wetgeving, aan het orgaan van enige andere Verdragsluitende Partij dat uitkeringen aan deze rechthebbende verschuldigd is, verzoeken het teveel betaalde bedrag in te houden op de bedragen welke het aan bedoelde rechthebbende betaalt. Laatstbedoeld orgaan houdt het bedrag in op de wijze en binnen de grenzen als voor een dergelijke verrekening is toegestaan bij de door dit orgaan toegepaste wetgeving, alsof het door dit orgaan zelf teveel betaalde bedragen betrof en maakt het aldus ingehouden bedrag over aan het orgaan dat de vordering heeft.
+If a person has received social assistance payments in the territory of a Contracting Party during a period when he was entitled to receive benefit under the legislation of another Contracting Party, the authority which provided the social assistance may, if it is entitled to recover such assistance payments from benefits due to the person concerned, request the institution of any other Contracting Party responsible for paying benefits to him, to withhold the amount of the social assistance granted during that period from the benefit payable to him. The latter institution shall withhold that amount and transfer it to the creditor authority.
 
-3. Wanneer het orgaan van een Verdragsluitende Partij voorschotten op uitkeringen heeft verleend voor een tijdvak waarover de rechthebbende recht had op overeenkomstige uitkeringen krachtens de wetgeving van een andere Verdragsluitende Partij, kan dit orgaan aan het orgaan van de andere Partij verzoeken het bedrag van deze voorschotten in te houden op de bedragen welke het voor hetzelfde tijdvak aan bedoelde rechthebbende verschuldigd is. Laatstbedoeld orgaan gaat tot deze inhouding over en maakt het aldus ingehouden bedrag over aan het orgaan dat de vordering heeft.
+##### Article 87
 
-##### Artikel 86
+1. If entitlement to benefits is not recognised by the institution stated to be the competent one, the cost of the benefits in kind provided by the institution of the place of temporary residence under the presumption in Article 20, paragraph 2, or Article 55, paragraph 2, of this Agreement shall be refunded by the first mentioned institution.
 
-Wanneer een persoon op het grondgebied van een Verdragsluitende Partij sociale bijstand heeft genoten gedurende een tijdvak waarover hij krachtens de wetgeving van een andere Verdragsluitende Partij recht op uitkeringen had, kan de instelling welke de sociale bijstand heeft verleend, indien deze een wettelijk verhaalsrecht heeft op uitkeringen welke verschuldigd zijn aan personen die sociale bijstand genieten, aan het orgaan van enige andere Verdragsluitende Partij dat uitkeringen aan de betrokken persoon verschuldigd is, verzoeken het bedrag van de over genoemd tijdvak verleende sociale bijstand in te houden op de bedragen welke het aan bedoelde persoon betaalt. Laatstbedoeld orgaan gaat tot deze inhouding over en maakt het aldus ingehouden bedrag over aan de instelling welke de vordering heeft.
+2. If the person concerned is not entitled to benefits in kind, expenditure incurred by the institution of the place of residence or temporary residence in respect of benefits in kind provided under Article 60, paragraph 1, of this Agreement shall be refunded by the institution designated by the competent authority of the Contracting Party concerned.
 
-##### Artikel 87
+3. If an institution has refunded benefits incorrectly paid, in accordance with the provisions of paragraphs 1 or 2 of this Article, it shall remain the creditor of the recipient for the amount of the benefit incorrectly paid.
 
-1. Ingeval het recht op verstrekkingen niet door het als bevoegd aangeduide orgaan wordt erkend, worden de verstrekkingen welke door het orgaan van de verblijfplaats werden verleend op grond van de in artikel 20, tweede lid of artikel 55, tweede lid van het Akkoord geopperde veronderstelling, door eerstbedoeld orgaan vergoed.
+##### Article 88
 
-2. De door het orgaan van de woonplaats of door het orgaan van de verblijfplaats verrichte uitgaven voor krachtens artikel 60, eerste lid van het Akkoord verleende verstrekkingen, terwijl de belanghebbende geen recht op verstrekkingen heeft, worden vergoed door het orgaan dat door de bevoegde autoriteit van de betrokken Verdragsluitende Partij is aangewezen.
+In the event of a dispute between the institutions or competent authorities of two or more Contracting Parties concerning either the legislation applicable under [Title II of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&titeldeel=II) or the institution which is to provide benefit, the person who would have been able to claim benefit in the absence of such a dispute shall provisionally receive the benefit prescribed by the legislation which the institution of the place of residence applies or, where the person concerned does not reside in the territory of one of the Contracting Parties concerned, by the legislation of the Contracting Party to which he was previously last subject. After settlement of the dispute, the cost of the benefits paid provisionally shall be borne by the institution declared as liable to pay the benefits.
 
-3. Het orgaan dat onverschuldigd verleende verstrekkingen heeft vergoed krachtens het eerste of tweede lid van dit artikel, behoudt op de persoon die verstrekkingen heeft genoten een schuldvordering welke gelijk is aan de waarde van de onverschuldigd verleende verstrekkingen.
+##### Article 89
 
-##### Artikel 88
+If, in order to apply its national legislation, or the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473), in specific cases, the competent institution of a Contracting Party considers it necessary to conduct an enquiry in the territory of another Contracting Party, it may appoint an investigator for that purpose, subject to the agreement of the competent authorities of the two Parties concerned. The competent authority of the Contracting Party in whose territory the enquiry is to take place shall give every assistance to the investigator and appoint a person to assist him in consulting the records and all other documents relevant to the case.
 
-Ingeval tussen de organen of de bevoegde autoriteiten van twee of meer Verdragsluitende Partijen een geschil bestaat hetzij over de wetgeving welke krachtens [Titel II van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&titeldeel=II) moet worden toegepast, hetzij over de vaststelling van het orgaan dat prestaties moet verlenen, ontvangt de belanghebbende die aanspraak op prestaties zou kunnen maken indien dit geschil niet bestond, voorlopig de prestaties welke in de door het orgaan van de woonplaats toegepaste wetgeving zijn voorzien of, indien de belanghebbende niet op het grondgebied van een der betrokken Verdragsluitende Partijen woont, de prestaties welke zijn voorzien in de wetgeving van de Verdragsluitende Partij waaraan hij tevoren en laatstelijk onderworpen is geweest. Nadat het geschil is beslecht komen de prestaties welke voorlopig zijn verleend, voor rekening van het orgaan dat bevoegd is verklaard voor het verlenen van de prestaties.
+##### Article 90
 
-##### Artikel 89
+If the legislation of a Contracting Party regards as members of the family or household of the person concerned only such persons as live with him, the institution which applies that legislation may require evidence that the members of the family who do not fulfil that condition are mainly dependent on the person concerned, by means of documents showing that he contributes substantially to their maintenance.
 
-Indien het bevoegde orgaan van een Verdragsluitende Partij het, met het oog op de toepassing van zijn wetgeving of van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473), in bepaalde gevallen noodzakelijk acht dat een onderzoek wordt ingesteld op het grondgebied van een andere Verdragsluitende Partij, kan het daartoe een met het onderzoek belaste persoon aanwijzen, nadat de bevoegde autoriteiten van de beide betrokken Verdragsluitende Partijen hierover overeenstemming hebben bereikt. De bevoegde autoriteit van de Verdragsluitende Partij op het grondgebied waarvan het onderzoek plaatsvindt, verleent zijn medewerking aan de met het onderzoek belaste persoon, in het bijzonder door iemand aan te wijzen die hem terzijde moet staan bij de raadpleging van de processenverbaal en van alle andere stukken welke op het betreffende geval betrekking hebben.
+##### Article 91
 
-##### Artikel 90
+Any agreements concluded under [Article 26, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=26), [Article 32, paragraph 3 or 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=32), [Article 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=41), [Article 42, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=42), [Article 46, paragraph 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), [Article 56, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=56), [Article 58, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=58), [Article 67, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=67), [Article 69, paragraph 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=69), or [Article 70, paragraph 2 or 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=70), or under Article 5 of this Agreement, shall be communicated to the Secretary General of the Council of Europe within three months of the date of their entry into force.
 
-Indien de wetgeving van een Verdragsluitende Partij uitsluitend als gezinsleden of huisgenoten beschouwt de personen die bij de belanghebbende inwonen, kan het orgaan dat deze wetgeving toepast, verlangen dat de omstandigheid dat deze gezinsleden of huisgenoten, wanneer zij niet aan deze voorwaarde voldoen, in hoofdzaak op kosten van de belanghebbende worden onderhouden, wordt bewezen door middel van stukken waaruit blijkt dat de belanghebbende in belangrijke mate in hun onderhoud voorziet.
+##### Article 92
 
-##### Artikel 91
+1. The Annexes referred to in Article 4 of this Agreement shall be an integral part thereof.
 
-Van overeenkomsten welke worden gesloten krachtens [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=26), [artikel 32, derde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=32), [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=41), [artikel 42, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=42), [artikel 46, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=46), [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=56), [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=58), [artikel 67, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=67), [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=69), [artikel 70, tweede of derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=70), alsmede krachtens artikel 5 van het Akkoord, wordt binnen drie maanden nadat ze in werking zijn getreden mededeling gedaan aan de Secretaris-Generaal van de Raad van Europa.
+2. Any amendment of the Annexes to this Agreement shall be notified by the Contracting Party or Parties concerned to the Secretary General of the Council of Europe.
 
-##### Artikel 92
+3. In the case of an amendment of Annex 5 to this Agreement, the procedure prescribed in [Article 73, paragraphs 2 and 3, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=73) shall apply, mutatis mutandis.
 
-1. De bijlagen bedoeld in artikel 4 van het Akkoord, zijn daarvan een wezenlijk bestanddeel.
+### TITLE VII. Transitional and final provisions
 
-2. Van elke wijziging van de bijlagen van het Akkoord zal door de belanghebbende Verdragsluitende Partij of Partijen kennisgeving worden gedaan aan de Secretaris-Generaal van de Raad van Europa.
+##### Article 93
 
-3. Ter zake van een voorstel tot wijziging van bijlage 5 van het Akkoord, is de in [artikel 73, tweede en derde lid van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=73) voorgeschreven procedure van overeenkomstige toepassing.
+The submission of a claim for invalidity, old-age or survivors' benefits to the institution of a Contracting Party after the entry into force of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003483) shall automatically entail the revision, in accordance with the provisions of the Convention, of benefits awarded for the same contingency by the institution or institutions of one or more other Contracting Parties before its entry into force.
 
-## TITEL VII. Overgangs- en slotbepalingen
+##### Article 94
 
-##### Artikel 93
+1. This Agreement shall be open to signature by the member States of the Council of Europe which have signed the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) and which may become Parties to it either by:
 
-Indien na de inwerkingtreding van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) bij het orgaan van een Verdragsluitende Partij een aanvraag om invaliditeitsuitkeringen, ouderdomsuitkeringen of uitkeringen aan nagelaten betrekkingen wordt ingediend, leidt dit, overeenkomstig het bepaalde in het Verdrag, ambtshalve tot herziening van de uitkeringen welke door het orgaan of de organen van een of meer andere Verdragsluitende Partijen vóór de inwerkingtreding van het Verdrag voor hetzelfde geval werden vastgesteld.
+- (a) signature without reservation in respect of ratification or acceptance, or
 
-##### Artikel 94
+- (b) signature with reservation in respect of ratification or acceptance, followed by ratification or acceptance.
 
-1. Het Akkoord kan worden ondertekend door de Lid-Staten van de Raad van Europa welke het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) hebben ondertekend, en deze kunnen Partij worden door:
+2. Any State which signs this Agreement without reservation in respect of ratification or acceptance or which ratifies or accepts it must, at the same time, ratify or accept the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473).
 
-- a). ondertekening zonder voorbehoud van bekrachtiging of aanvaarding;
+3. Instruments of ratification or acceptance shall be deposited with the Secretary General of the Council of Europe.
 
-- b). ondertekening onder voorbehoud van bekrachtiging of aanvaarding, gevolgd door bekrachtiging of aanvaarding.
+##### Article 95
 
-2. Elke Staat welke het Akkoord ondertekent zonder voorbehoud van bekrachtiging of aanvaarding of welke dit Akkoord bekrachtigt of aanvaardt, dient tegelijkertijd het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) te bekrachtigen of te aanvaarden.
+1. This Agreement shall enter into force on the same date as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473).
 
-3. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+2. As regards any member States which shall subsequently sign the Agreement without reservation in respect of ratification or acceptance, or which shall ratify or accept it, the Agreement shall enter into force three months after the date of such signature or after the date of deposit of the instrument of ratification or acceptance.
 
-##### Artikel 95
+##### Article 96
 
-1. Het Akkoord treedt op dezelfde datum als het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) in werking.
+1. Any State not a Member of the Council of Europe which shall accede to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) upon invitation by the Committee of Ministers of the Council of Europe in accordance with [Article 77 thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=77) must, at the same time, accede to this Agreement.
 
-2. Voor elke Lid-Staat welke het Akkoord nadien zonder voorbehoud van bekrachtiging of aanvaarding ondertekent of het bekrachtigt of aanvaardt, treedt het in werking drie maanden na de datum van ondertekening of van nederlegging van de akte van bekrachtiging of aanvaarding.
+2. Accession shall be effected by depositing with the Secretary General of the Council of Europe an instrument of accession which shall take effect three months after the date of its deposit.
 
-##### Artikel 96
+##### Article 97
 
-1. Elke Staat welke geen lid is van de Raad van Europa en op uitnodiging van het Comité van Ministers van de Raad van Europa, overeenkomstig [artikel 77 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=77), tot dit [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) toetreedt, dient tegelijkertijd tot het Akkoord toe te treden.
+1. This Agreement shall have the same duration as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473).
 
-2. Toetreding vindt plaats door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, welke van kracht wordt drie maanden na de datum van nederlegging.
+2. No Contracting Party may denounce this Agreement without denouncing, at the same time, the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) under the conditions provided for in [Article 78 thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=78).
 
-##### Artikel 97
+3. Such denunciation shall take effect six months after the date of receipt by the Secretary General of the Council of Europe of its notification.
 
-1. Het Akkoord heeft dezelfde werkingsduur als het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473).
+##### Article 98
 
-2. Geen enkele Verdragsluitende Partij kan het Akkoord opzeggen zonder tegelijkertijd het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473) op te zeggen onder de bij [artikel 78 van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003473&artikel=78) vastgestelde voorwaarden.
+The Secretary General of the Council of Europe shall, within one month, notify the Contracting Parties, signatory States and the Director General of the International Labour Office of:
 
-3. De opzegging wordt van kracht zes maanden na de datum waarop de kennisgeving daarvan door de Secretaris-Generaal van de Raad van Europa is ontvangen.
+- (a) any signature without reservation in respect of ratification or acceptance;
 
-##### Artikel 98
+- (b) any signature with reservation in respect of ratification or acceptance;
 
-De Secretaris-Generaal van de Raad van Europa zal binnen een maand aan de Verdragsluitende Partijen, de ondertekenende Staten en de Directeur-Generaal van het Internationaal Arbeidsbureau mededeling doen van:
+- (c) the deposit of any instrument of ratification, acceptance or accession;
 
-- a). elke ondertekening zonder voorbehoud van bekrachtiging of aanvaarding;
+- (d) any date of entry into force of this Agreement in accordance with Articles 95 and 96;
 
-- b). elke ondertekening onder voorbehoud van bekrachtiging of aanvaarding;
+- (e) any notification of denunciation received in pursuance of the provisions of Article 97 and the date on which denunciation takes effect;
 
-- c). de nederlegging van elke akte van bekrachtiging, aanvaarding of toetreding;
-
-- d). elke datum van inwerkingtreding van het Akkoord overeenkomstig de artikelen 95 en 96;
-
-- e). elke kennisgeving, ontvangen ingevolge artikel 97 van het Akkoord, en de datum waarop de opzegging van kracht wordt;
-
-- f). elke mededeling of kennisgeving, ontvangen ingevolge artikel 91 en artikel 92, tweede lid van het Akkoord.
+- (f) any communication or notification received in pursuance of the provisions of Article 91 and Article 92, paragraph 2, of this Agreement.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorised thereto, have signed this supplementary Agreement.
 

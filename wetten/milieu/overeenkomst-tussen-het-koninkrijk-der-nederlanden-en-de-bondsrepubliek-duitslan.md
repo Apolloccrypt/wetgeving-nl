@@ -1,60 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake het luchtverkeer"
 identifier: "BWBV0005008"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-04-28"
-last_updated: "1958-04-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005008"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004429533"
-version_id: "10004635512"
-internal_id: "C10006991021"
-label_id: "10004414374"
-dtd_version: "2.0"
-original_entry_into_force: "1958-04-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005008/1958-04-28/0"
-intitule_bron: "Trb.1956-132"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-10-11"
-intitule_in_force: "1958-04-21"
-intitule_status: "goed"
-original_publication: "Trb.1956-132"
-original_published_date: "1956-10-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-132"
-entry_into_force_date: "1958-04-28"
-jci_1_3: "jci1.3:c:BWBV0005008&z=1958-04-28&g=1958-04-28"
-jci_1_0: "1.0:c:BWBV0005008&g=1958-04-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-04-28"
+publicatiedatum: 1958-04-28
+laatste_update: 1958-04-28
+status: geldig
+toestand: 1958-04-28
+bron: "https://wetten.overheid.nl/BWBV0005008"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake het luchtverkeer
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland,
-
-geleid door de wens, het luchtverkeer tussen en via hun grondgebieden te regelen, zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, geleid door de wens, het luchtverkeer tussen en via hun grondgebieden te regelen, zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
 In de zin van deze Overeenkomst wordt verstaan, voorzover uit de tekst niet anders blijkt, onder
 
-- a). „luchtvaartautoriteit”, met betrekking tot de Bondsrepubliek Duitsland de Bondsminister voor Verkeer, met betrekking tot het Koninkrijk der Nederlanden de Directeur-Generaal van de Rijksluchtvaartdienst, of in beide gevallen iedere andere persoon of instantie, die gemachtigd is tot uitoefening van de taken die aan hen opgedragen zijn;
+- a) „luchtvaartautoriteit”, met betrekking tot de Bondsrepubliek Duitsland de Bondsminister voor Verkeer, met betrekking tot het Koninkrijk der Nederlanden de Directeur-Generaal van de Rijksluchtvaartdienst, of in beide gevallen iedere andere persoon of instantie, die gemachtigd is tot uitoefening van de taken die aan hen opgedragen zijn;
 
-- b). „grondgebied” met betrekking tot een Staat de onder de soevereiniteit, de suzereiniteit, de bescherming of het mandaat van die Staat staande grondgebieden en de daaraan grenzende territoriale wateren;
+- b) „grondgebied” met betrekking tot een Staat de onder de soevereiniteit, de suzereiniteit, de bescherming of het mandaat van die Staat staande grondgebieden en de daaraan grenzende territoriale wateren;
 
-- c). „aangewezen onderneming” een luchtvaartonderneming, die een Overeenkomstsluitende Partij aan de andere Overeenkomstsluitende Partij ingevolge artikel 3 schriftelijk heeft aangewezen als de onderneming, welke het internationale luchtverkeer op de ingevolge artikel 2, lid 2, vastgestelde luchtlijnen zal uitoefenen;
+- c) „aangewezen onderneming” een luchtvaartonderneming, die een Overeenkomstsluitende Partij aan de andere Overeenkomstsluitende Partij ingevolge artikel 3 schriftelijk heeft aangewezen als de onderneming, welke het internationale luchtverkeer op de ingevolge artikel 2, lid 2, vastgestelde luchtlijnen zal uitoefenen;
 
-- d). „luchtverkeer” elk geregeld luchtverkeer, uitgevoerd door luchtvaartuigen voor het openbare vervoer van passagiers, post en/of goederen;
+- d) „luchtverkeer” elk geregeld luchtverkeer, uitgevoerd door luchtvaartuigen voor het openbare vervoer van passagiers, post en/of goederen;
 
-- e). „internationaal luchtverkeer” een luchtverkeer, dat door het luchtruim boven het gebied van meer dan één Staat voert;
+- e) „internationaal luchtverkeer” een luchtverkeer, dat door het luchtruim boven het gebied van meer dan één Staat voert;
 
-- f). „landing voor niet-verkeersdoeleinden” een landing gemaakt voor ieder ander doel dan voor het commercieel opnemen of afzetten van passagiers, post en/of goederen.
+- f) „landing voor niet-verkeersdoeleinden” een landing gemaakt voor ieder ander doel dan voor het commercieel opnemen of afzetten van passagiers, post en/of goederen.
 
 ##### Artikel 2
 
@@ -72,9 +47,9 @@ In de zin van deze Overeenkomst wordt verstaan, voorzover uit de tekst niet ande
 
 1. Met de uitoefening van het internationale luchtverkeer op de ingevolge artikel 2, lid 2, vastgestelde lijnen kan te allen tijde worden begonnen, indien
 
-- a). de Overeenkomstsluitende Partij, aan welke de rechten zijn verleend, de onderneming of de ondernemingen schriftelijk heeft aangewezen, en
+- a) de Overeenkomstsluitende Partij, aan welke de rechten zijn verleend, de onderneming of de ondernemingen schriftelijk heeft aangewezen, en
 
-- b). de Overeenkomstsluitende Partij, die de rechten verleent, de aangewezen onderneming of de aangewezen ondernemingen de vergunning heeft verleend het luchtverkeer te openen.
+- b) de Overeenkomstsluitende Partij, die de rechten verleent, de aangewezen onderneming of de aangewezen ondernemingen de vergunning heeft verleend het luchtverkeer te openen.
 
 2. De Overeenkomstsluitende Partij, die de rechten verleent, zal behoudens het gestelde in de leden 3 en 4 en behoudens de regeling als bedoeld in artikel 9 de vergunning tot het uitoefenen van internationaal luchtverkeer onverwijld verlenen.
 
@@ -98,9 +73,9 @@ De kosten, welke in iedere Overeenkomstsluitende Partij in rekening worden gebra
 
 2. Reservedelen en gebruikelijke uitrustingstukken, welke
 
-- a). uit de in lid 1 genoemde luchtvaartuigen op het gebied van de andere Overeenkomstsluitende Partij onder douanetoezicht worden gedemonteerd of op andere wijze van boord gebracht en aldaar worden opgeslagen,
+- a) uit de in lid 1 genoemde luchtvaartuigen op het gebied van de andere Overeenkomstsluitende Partij onder douanetoezicht worden gedemonteerd of op andere wijze van boord gebracht en aldaar worden opgeslagen,
 
-- b). ten behoeve van deze luchtvaartuigen in het gebied van de andere Overeenkomstsluitende Partij onder douanetoezicht worden ingevoerd en aldaar opgeslagen,
+- b) ten behoeve van deze luchtvaartuigen in het gebied van de andere Overeenkomstsluitende Partij onder douanetoezicht worden ingevoerd en aldaar opgeslagen,
 
 blijven vrijgesteld van de in lid 1 aangegeven rechten, indien zij onder douanetoezicht in de genoemde luchtvaartuigen worden gemonteerd of op andere wijze aan boord worden genomen of uit het gebied van deze Overeenkomstsluitende Partij anders dan aan boord van de luchtvaartuigen weder worden uitgevoerd. Voor zodanige reservedelen en uitrustingstukken, welke onder douanetoezicht uit desbetreffende opslagplaatsen van andere buitenlandse luchtvaartondernemingen worden genomen en in de genoemde luchtvaartuigen worden gemonteerd of op andere wijze aan boord worden gebracht, wordt dezelfde vrijstelling van rechten verleend.
 
@@ -118,11 +93,11 @@ blijven vrijgesteld van de in lid 1 aangegeven rechten, indien zij onder douanet
 
 3. Het internationale luchtverkeer op de ingevolge artikel 2, lid 2, vastgestelde lijnen zal voor alles ten doel hebben een vervoerscapaciteit te verschaffen, welke beantwoordt aan de te verwachten vraag naar verkeer naar en van het gebied van de Overeenkomstsluitende Partij, die de onderneming heeft aangewezen. Het recht van deze onderneming, vervoer tussen de ingevolge artikel 2, lid 2, vastgestelde, in de andere Overeenkomstsluitende Partij gelegen punten van een lijn en punten in derde Staten te bewerkstelligen dient in het belang van een ordelijke ontwikkeling van het internationale luchtverkeer op een zodanige wijze te worden uitgeoefend, dat de vervoerscapaciteit aangepast is
 
-- a). aan de vraag naar vervoersgelegenheid naar en van het grondgebied van de Overeenkomstsluitende Partij, welke de onderneming heeft aangewezen,
+- a) aan de vraag naar vervoersgelegenheid naar en van het grondgebied van de Overeenkomstsluitende Partij, welke de onderneming heeft aangewezen,
 
-- b). aan de bestaande vraag naar verkeer in de gebieden waar overheen wordt gevlogen, zulks met inachtneming van de plaatselijke en regionale lijnen,
+- b) aan de bestaande vraag naar verkeer in de gebieden waar overheen wordt gevlogen, zulks met inachtneming van de plaatselijke en regionale lijnen,
 
-- c). aan de eisen, welke de economische exploitatie van doorgaande luchtlijnen stelt.
+- c) aan de eisen, welke de economische exploitatie van doorgaande luchtlijnen stelt.
 
 ##### Artikel 8
 

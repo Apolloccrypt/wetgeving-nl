@@ -1,146 +1,111 @@
 ---
 title: "Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de uitvoering van een bijzonder TD-project"
 identifier: "BWBV0004332"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-07-21"
-last_updated: "1970-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004332"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004069953"
-version_id: "10004238302"
-internal_id: "C10008335801"
-label_id: "10004054724"
-dtd_version: "2.0"
-original_entry_into_force: "1970-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004332/1970-07-21/0"
-intitule_bron: "Trb.1969-219"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-11-17"
-intitule_in_force: "1970-07-28"
-intitule_status: "goed"
-original_publication: "Trb.1969-219"
-original_published_date: "1969-11-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-219"
-entry_into_force_date: "1970-07-21"
-jci_1_3: "jci1.3:c:BWBV0004332&z=1970-07-21&g=1970-07-21"
-jci_1_0: "1.0:c:BWBV0004332&g=1970-07-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-07-21"
+publicatiedatum: 1970-07-21
+laatste_update: 1970-07-21
+status: geldig
+toestand: 1970-07-21
+bron: "https://wetten.overheid.nl/BWBV0004332"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen zekere Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek inzake de uitvoering van een bijzonder TD-project
 
-De Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden en de Zwitserse Bondsstaat (hierna te noemen „de Regeringen”), Regeringen van Staten, partij bij het Verdrag tot oprichting van een Europese Organisatie voor ruimteonderzoek, voor ondertekening opengesteld te Parijs op 14 juni 1962 (hierna te noemen „het Verdrag”)
+*The Governments of the Federal Republic of Germany, the Kingdom of Belgium, the Kingdom of Denmark, Spain, the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, the Kingdom of Sweden and the Swiss Confederation (hereinafter referred to as „the Governments”), being Governments of States parties to the Convention for the establishment of a European Space Research Organisation opened for signature in Paris on 14 June 1962 (hereinafter referred to as „the Convention”), and The European Space Research Organisation (hereinafter referred to as the „Organisation”), Considering that there is a need to design, develop, construct and place in orbit a TD satellite; Considering that such a project already initiated in the agreed programme of the Organisation cannot be continued in the same framework; Regarding the project as a Special Project within the meaning of Article VIII of the Convention; Having regard to the Declaration made by the Representatives to the Council of the Organisation of the Governments referred to above, dated 9 October 1968; Having regard to the Resolution No. ESRO/C/XXV/Res. 3.2(b) adopted by the Council of the Organisation during its 25th Session, Have agreed as follows*
 
-en
+##### Article 1
 
-de Europese Organisatie voor ruimteonderzoek (hierna te noemen „de Organisatie”),
+In accordance with Article VIII of the Convention, the Organisation shall make available to the Governments, its assistance and the use of its facilities, in the design, development, construction and placing in orbit of a TD satellite incorporating the essential features of the mission of the TD 1 satellite formerly included in the programme of the Organisation (hereinafter referred to as the „Special Project”). It is understood that the subsequent exploitation of the TD satellite in orbit shall be an integral part of the Organisation's normal programme. The Special Project shall be executed in accordance with the Programme set out in Annex A, which is an integral part of this Arrangement.
 
-Overwegende, dat het noodzakelijk is het ontwerpen, ontwikkelen, construeren en in een baan om de aarde brengen van een TD-satelliet ter hand te nemen;
+##### Article 2
 
-Overwegende, dat de uitvoering van een zodanig project, waarmede reeds een aanvang is gemaakt binnen het kader van het normale programma der Organisatie, niet in dat kader kan worden voortgezet;
+Except where otherwise provided in this Arrangement, the rules of the Organisation shall be applied *mutatis mutandis* for the execution of the Special Project.
 
-Overwegende, dat dit project moet worden beschouwd als een Bijzonder Project in de zin van artikel VIII van het Verdrag;
+##### Article 3
 
-Gelet op de Verklaring van 9 oktober 1968 van de vertegenwoordigers van de hierboven genoemde Regeringen in de Raad van de Organisatie;
+1. The cost resulting from the execution by the Organisation of its duties under this Arrangement, as defined in Annex B which is an integral part of this Arrangement (hereinafter referred to as „the reimbursable costs”), shall be refunded to the Organisation by the Governments.
 
-Gelet op de door de Raad van de Organisatie tijdens zijn 25ste zitting aanvaarde Resolutie No. ESRO/C/XXV/Res. 3.2(b);
+2. The reimbursable costs shall not exceed 196 MF (which includes a contingency margin of 44 MF).
 
-Zijn als volgt overeengekomen:
+3. The reimbursable costs incurred by the Organisation shall be charged to a special account in accordance with the detailed provisions set out in Annex B.
 
-##### Artikel 1
+4. The share of each Government in the reimbursable costs shall be determined in accordance with the basis of apportionment set out in Annex B.
 
-Overeenkomstig het bepaalde in artikel VIII van het Verdrag, verleent de Organisatie aan de Regeringen bijstand en stelt zij haar installaties ter beschikking voor het ontwerpen, ontwikkelen, construeren en in een baan om de aarde brengen van een TD-satelliet, waarin de voornaamste kenmerken zijn verwerkt van de opdracht van de TD-1 satelliet, die voordien deel uitmaakte van het programma van de Organisatie (hierna te noemen „het Bijzondere Project”). Overeengekomen wordt dat de latere exploitatie van de in een baan om de aarde gebrachte TD-satelliet een integrerend deel uitmaakt van het normale programma van de Organisatie. Het Bijzondere Project wordt uitgevoerd in overeenstemming met het programma, neergelegd in Bijlage A, die een integrerend deel uitmaakt van deze Overeenkomst.
+5. The Governments shall pay their shares of the reimbursement into the special account in amounts and at dates in accordance with the provisions of the Organisation's Financial Rules.
 
-##### Artikel 2
+6. The Director General of the Organisation shall control the use of the contingency of 44 MF referred to in paragraph 2 of this Article. Any proposal to use more than is at the discretion of the Director General, under the rules of the Organisation, shall require the approval of two-thirds of the Governments.
 
-Tenzij in deze Overeenkomst anders is bepaald, gelden de regels van de Organisatie **mutatis mutandis** voor de uitvoering van het Bijzondere Project.
+7. The Governments may, as an exceptional measure, decide:
 
-##### Artikel 3
+- a. to institute special technical and financial controls of which they will define the terms and conditions;
 
-1. De kosten verbonden aan de uitvoering van de ingevolge deze Overeenkomst aan de Organisatie toevallende taken, nader omschreven in Bijlage B, die een integrerend deel van deze Overeenkomst vormt, (hierna te noemen „de terug te betalen kosten”) zullen door de Regeringen worden terugbetaald aan de Organisatie.
+- b. to hold meetings in order to give the Director General instructions concerning the management of the Special Project.
 
-2. De terug te betalen kosten mogen een bedrag van 196 miljoen Franse franken (waarin begrepen een marge voor onvoorziene kosten van 44 miljoen Franse franken) niet te boven gaan.
+##### Article 4
 
-3. De terug te betalen kosten wegens door de Organisatie verrichte uitgaven komen ten laste van een bijzondere rekening, overeenkomstig de in Bijlage B neergelegde gedetailleerde voorschriften.
+The publication of scientific and technical information, as well as the intellectual property rights, arising out of the Special Project shall be governed by the relevant rules within the Organisation.
 
-4. Het aandeel van iedere Regering in de terug te betalen kosten wordt bepaald volgens de in Bijlage B gegeven schaal.
+##### Article 5
 
-5. De Regeringen storten hun aandeel in de terugbetaling op de bijzondere rekening in bedragen en op de data, vastgesteld overeenkomstig de bepalingen van het Financiële Reglement van de Organisatie.
+1. The Governments authorise the Organisation to conclude the necessary contracts for the execution of the Special Project in conformity with the provisions of Annexes A and B.
 
-6. De Directeur-Generaal van de Organisatie waakt over het gebruik van de in het tweede lid van dit artikel genoemde 44 miljoen Franse franken. Voorstellen voor het aanwenden van meer gelden dan die, waarover de Directeur-Generaal overeenkomstig de reglementen van de Organisatie op eigen gezag kan beschikken, vereisen de goedkeuring van twee derde van de Regeringen.
+2. In placing contracts and sub-contracts for the execution of the Special Project preference shall be given wherever possible to work being undertaken in the territories of the Governments.
 
-7. De Regeringen kunnen bij uitzondering besluiten
+##### Article 6
 
-- a. tot het instellen van bijzondere technische en financiële controlemaatregelen, waarvan zij de termen en voorwaarden vaststellen,
+The Organisation shall own the satellite.
 
-- b. tot het houden van vergaderingen ten einde de Directeur-Generaal instructies te verstrekken betreffende het beheer van het Bijzondere Project.
+##### Article 7
 
-##### Artikel 4
+1. The Governments shall indemnify the Organisation against any liability which it might incur should its international responsibility be engaged as a result of the execution of the Special Project.
 
-Verspreiding en publikatie van wetenschappelijke en technische gegevens en de daarmede verband houdende intellectuele eigendomsrechten, voortkomende uit het Bijzondere Project, worden beheerst door de daartoe strekkende regelingen van de Organisatie.
+2. Compensation received by the Organisation in respect of damage caused to the Special Project shall be credited to the special account referred to in paragraph 3 of Article 3 of this Arrangement.
 
-##### Artikel 5
+##### Article 8
 
-1. De Regeringen machtigen de Organisatie tot het sluiten van de nodige contracten voor de uitvoering van het Bijzondere Project overeenkomstig het bepaalde in de Bijlagen A en B.
+1. Any dispute which arises between two or more of the Governments, or between any of them and the Organisation, concerning the interpretation or application of this Arrangement, and which cannot be settled amicably, shall be submitted at the request of any party to the dispute to a single arbiter to be appointed by the President of the International Court of Justice. The arbiter may not be a national of a State which is a party to the dispute.
 
-2. Bij het aangaan van contracten en sub-contracten voor de uitvoering van het Bijzondere Project wordt, waar mogelijk, de voorkeur gegeven aan de uitvoering der werken binnen het grondgebied van de Regeringen.
+2. Those parties to the Arrangement which are not parties to the dispute shall have the right to join in the proceedings and the arbiter's decision shall be binding on all the Governments and the Organisation, whether or not they so join.
 
-##### Artikel 6
+##### Article 9
 
-De Organisatie is de eigenares van de satelliet.
+1. This Arrangement shall be open for signature by the Governments until 1 January 1969.
 
-##### Artikel 7
+2. The Governments shall become parties to this Arrangement:
 
-1. De Regeringen vrijwaren de Organisatie voor iedere aansprakelijkheid, die zou kunnen ontstaan indien tengevolge van de uitvoering van het Bijzondere Project de internationale verantwoordelijkheid van de Organisatie in het geding zou komen.
+- - upon signature not subject to ratification or approval;
 
-2. Vergoedingen, door de Organisatie ontvangen wegens aan het Bijzondere Project toegebrachte schade, zullen worden geboekt op de speciale rekening, bedoeld in het derde lid van artikel 3 van deze Overeenkomst.
+- - upon depositing an instrument of ratification or approval with the Government of the French Republic, if this Arrangement was signed subject to ratification or approval.
 
-##### Artikel 8
+3. This Arrangement shall come into force when it has been signed by the Organisation and when the Governments, whose shares on the scale set out in the Appendix to Annex B amount to 90 %, have become parties to this Arrangement in accordance with paragraph 2 of this Article.
 
-1. Elk geschil tussen twee of meer Regeringen of tussen bepaalde Regeringen en de Organisatie betreffende de uitlegging of de toepassing van deze Overeenkomst, dat niet in der minne kan worden geschikt, wordt, op verzoek van een der Partijen bij het geschil, voorgelegd aan een enkele arbiter, aan te wijzen door de President van het Internationale Gerechtshof. De arbiter mag geen onderdaan zijn van een Staat die partij is bij het geschil.
+4. For the purpose of paragraph 3 of this Article, the deposit of a declaration of intention to apply the Arrangement provisionally and to seek ratification or approval, as soon as possible shall be considered as the deposit of an instrument of ratification or approval.
 
-2. De Partijen bij deze Overeenkomst die geen partij zijn in het geschil, hebben het recht zich te voegen in het geding en de beslissing van de arbiter is bindend voor alle Regeringen en voor de Organisatie, ongeacht zij zich al dan niet in het geding hebben gevoegd.
+5. Any Government of a Member State of the Organisation which has not signed the Arrangement by 1 January 1969, may become a party to the Arrangement after it has come into force provided
 
-##### Artikel 9
+- a. the other Governments party to the Arrangement agree and
 
-1. De Overeenkomst staat open voor ondertekening door de Regeringen tot 1 januari 1969.
+- b. the Government in question deposits an instrument of accession with the Government of the French Republic.
 
-2. De Regeringen worden partij bij deze Overeenkomst:
+6. On becoming a party to this Arrangement after its entry into force, a Government shall contribute the amount that it would have contributed had it been a party to the Arrangement at the moment of its entry into force, and such amounts shall be credited pro rata to the other Parties in the special account.
 
-- -. door ondertekening zonder voorbehoud van bekrachtiging of goedkeuring;
+##### Article 10
 
-- -. door het nederleggen van een akte van bekrachtiging of goedkeuring bij de Regering van de Franse Republiek, ingeval zij hebben ondertekend onder voorbehoud van bekrachtiging of goedkeuring.
+1. The Organisation shall notify the Governments, after consultation with them, when the Special Project has been duly completed in accordance with the provisions of this Arrangement and this Arrangement shall expire upon receipt of such notification.
 
-3. De Overeenkomst treedt in werking nadat zij is ondertekend door de Organisatie en nadat de Regeringen, wier gezamenlijk aandeel in de schaal, opgenomen in het Aanhangsel van Bijlage B ten minste 90% bedraagt, partij zijn geworden bij deze Overeenkomst overeenkomstig het bepaalde in het tweede lid van dit artikel.
+2. In the event that, for exceptional circumstances, it should become necessary to exceed the financial ceiling specified in paragraph 2 of Article 3 in order to complete the Special Project, the Organisation shall immediately notify the Governments, who shall consult with each other with a view to deciding whether the Special Project can be continued and, if so, on what basis.
 
-4. Ter uitvoering van het derde lid van dit artikel wordt het nederleggen van een verklaring van intentie deze Overeenkomst voorlopig toe te passen en haar zo spoedig mogelijk te doen bekrachtigen of goed te keuren, beschouwd als het nederleggen van een akte van bekrachtiging of goedkeuring.
+3. This Arrangement shall expire forthwith if a decision, as to the continuation of the Special Project, cannot be reached. In this event, a Protocol shall be drawn up for the liquidation of the Special Project.
 
-5. De Regering van een Lid-Staat van de Organisatie, die deze Overeenkomst niet vóór 1 januari 1969 heeft ondertekend kan na haar inwerkingtreding partij worden bij deze Overeenkomst indien
+##### Article 11
 
-- a. de Regeringen, die partij zijn bij deze Overeenkomst, hiermede instemmen, en
+Upon the entry into force of this Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-- b. de betrokken Regering een akte van toetreding nederlegt bij de Regering van de Franse Republiek.
+##### Article 12
 
-6. Een Regering die partij wordt bij deze Overeenkomst na haar inwerkingtreding, dient een bijdrage te storten, gelijk aan het bedrag dat zij zou hebben bijgedragen indien zij partij zou zijn geworden bij de Overeenkomst op het tijdstip van haar inwerkingtreding. Voor het bedrag van deze bijdrage worden de andere Partijen naar evenredigheid gecrediteerd op de speciale rekening.
-
-##### Artikel 10
-
-1. De Organisatie doet, na met hen overleg te hebben gepleegd, aan de Regeringen mededeling van het feit van de voltooiing van het Bijzondere Project overeenkomstig de bepalingen van deze Overeenkomst. Op het tijdstip van ontvangst van een zodanige mededeling wordt de Overeenkomst geacht te zijn beëindigd.
-
-2. Indien het uit hoofde van bijzondere omstandigheden noodzakelijk zou blijken de financiële limiet, genoemd in het tweede lid van artikel 3, te verhogen ten einde het Bijzondere Project te voltooien, dient de Organisatie zulks onmiddellijk ter kennis te brengen van de Regeringen, die met elkander overleg moeten plegen om te beslissen of de uitvoering van het Bijzondere Project voortgang kan vinden en zo ja, op welke basis.
-
-3. Deze Overeenkomst dient onverwijld te worden beëindigd indien er geen besluit kan worden genomen met betrekking tot de voortzetting van het Bijzondere Project. In dat geval dient een Protocol ter liquidatie van het Bijzondere Project te worden opgesteld.
-
-##### Artikel 11
-
-Nadat deze Overeenkomst in werking is getreden, doet de Regering van de Franse Republiek haar registreren bij het Secretariaat van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-##### Artikel 12
-
-De Regering van de Franse Republiek doet de Regeringen mededeling van alle ondertekeningen, bekrachtigingen, toetredingen en van de datum van inwerkingtreding van deze Overeenkomst.
+The Government of the French Republic shall notify the Governments of all the signatures, ratifications, accessions and the date of the entry into force of this Arrangement.
 
 IN WITNESS WHEREOF the undersigned Representatives, having been duly authorised thereto, have signed this Arrangement.
 

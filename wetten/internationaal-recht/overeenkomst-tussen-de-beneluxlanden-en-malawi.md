@@ -1,108 +1,79 @@
 ---
 title: "Overeenkomst tussen de Beneluxlanden en Malawi"
 identifier: "BWBV0004467"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-01-01"
-last_updated: "1970-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004467"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004150473"
-version_id: "10004319802"
-internal_id: "C10006984521"
-label_id: "10004135664"
-dtd_version: "2.0"
-original_entry_into_force: "1970-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004467/1970-01-01/0"
-intitule_bron: "Trb.1970-22"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-01-30"
-intitule_in_force: "1970-01-30"
-intitule_status: "goed"
-original_publication: "Trb.1970-22"
-original_published_date: "1970-01-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-22"
-entry_into_force_date: "1970-01-01"
-jci_1_3: "jci1.3:c:BWBV0004467&z=1970-01-01&g=1970-01-01"
-jci_1_0: "1.0:c:BWBV0004467&g=1970-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-01-01"
+publicatiedatum: 1970-01-01
+laatste_update: 1970-01-01
+status: geldig
+toestand: 1970-01-01
+bron: "https://wetten.overheid.nl/BWBV0004467"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Beneluxlanden en Malawi
 
-De Regeringen van de Beneluxlanden, gezamenlijk optredend op grond van de op 11 april 1960 te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden betreffende de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied,
+*The Governments of the Benelux countries acting jointly under the Agreement between the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands signed at Brussels on 11 April 1960 concerning the transfer of immigration control to the outer frontiers of Benelux, and The Government of Malawi Desirous of further simplifying the travel formalities for their respective nationals and of adopting them to the situation that has arisen as a result of the transfer of immigration control to the outer frontiers of Benelux, Have agreed as follows:*
 
-en
+##### Article 1
 
-de Regering van Malawi
+In this Agreement the term “Benelux countries” shall mean: the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands;
 
-Verlangende, de formaliteiten met betrekking tot het reisverkeer van hun onderdanen te vereenvoudigen, zulks met inachtneming van de regelingen, voortvloeiende uit de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied,
+the term “Benelux territory” shall mean: the joint territories in Europe of the Kingdom of Belgium, the Grand Duchy of Luxembourg and the Kingdom of the Netherlands.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-Geschorst per 1 februari 1999 (Trb. 1999/37).
+Nationals of the Benelux countries who are holders of a valid national passport may, irrespective of the point of their departure, enter Malawi without a visa and stay for a period not exceeding three months.
 
-##### Artikel 1
+No guaranty shall be demanded, and the valid national passport shall also be the sole document required when leaving that country.
 
-In deze Overeenkomst wordt verstaan:
+##### Article 3
 
-onder „de Beneluxlanden”: het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden;
+Nationals of Malawi who are holders of a valid national passport may, irrespective of the point of their departure, enter Benelux territory without a visa and stay for a period not exceeding three months. No guaranty shall be demanded, and the valid national passport shall also be the sole document required when leaving that territory.
 
-onder „het Beneluxgebied”: de gezamenlijke grondgebieden in Europa van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden.
+The Government of Malawi shall inform the Benelux countries through diplomatic channels what documents the Government of Malawi regards as valid in the meaning of this Agreement.
 
-##### Artikel 2
+##### Article 4
 
-Onderdanen van de Beneluxlanden, die in het bezit zijn van een geldig nationaal paspoort mogen ongeacht de plaats van vertrek voor een verblijf van ten hoogste drie maanden zonder visum Malawi binnenkomen. Er wordt geen borgstelling geëist en het geldige nationale paspoort is ook voor hun vertrek uit dat land het enige vereiste document.
+For a stay exceeding three months the persons coming under the provisions of this Agreement shall before their departure obtain the required permission through the diplomatic or consular representative of the country they wish to enter.
 
-##### Artikel 3
+##### Article 5
 
-Onderdanen van Malawi, die in het bezit zijn van een geldig nationaal paspoort mogen ongeacht de plaats van vertrek voor een verblijf van ten hoogste drie maanden zonder visum het Beneluxgebied binnenkomen. Er wordt geen borgstelling geëist en het geldige nationale paspoort is ook voor hun vertrek uit dat land het enige vereiste document.
+Nationals of the Benelux countries residing in Malawi with the approval of the competent authorities of Malawi and nationals of Malawi residing in any of the Benelux countries with the approval of the competent authorities in the Benelux countries may leave their country of residence and return to it without a visa on presentation of a valid national passport. No guaranty shall be demanded.
 
-De Regering van Malawi deelt de Beneluxlanden langs diplomatieke weg mede welke documenten zij als geldig beschouwt in de zin van deze Overeenkomst.
+##### Article 6
 
-##### Artikel 4
+Each Government reserves the right to refuse to admit to its territory any person not holding the documents required for entry or lacking sufficient means of support and repatriation to their country of origin, or to refuse to admit persons regarded as undesirable aliens or whose presence in the country is regarded as prejudicial to law and order or national security.
 
-Voor een verblijf van meer dan drie maanden dienen de onder de bepalingen van deze Overeenkomst vallende personen daartoe vóór hun vertrek, door tussenkomst van de diplomatieke of consulaire vertegenwoordiger van het land waarheen zij zich willen begeven, toestemming te hebben verkregen.
+##### Article 7
 
-##### Artikel 5
+The present Agreement shall not affect the aliens regulations in force in the Benelux countries and in Malawi concerning entry, length of stay, expulsion and gainful occupation, whether or not as employees, of aliens, except in respect of the foregoing provisions.
 
-Onderdanen van de Beneluxlanden die met toestemming van de bevoegde autoriteiten van Malawi in Malawi zijn gevestigd en onderdanen van Malawi die met toestemming van de bevoegde autoriteiten van de Beneluxlanden in een der Beneluxlanden zijn gevestigd, mogen het land van vestiging verlaten en daarheen zonder visum terugkeren op vertoon van een geldig nationaal paspoort, terwijl geen borgstelling wordt vereist.
+##### Article 8
 
-##### Artikel 6
+Each Government undertakes to re-admit to its territory at any time and without formalities:
 
-Elke Regering behoudt zich het recht voor de toegang tot haar land te weigeren aan personen die niet in het bezit zijn van de voor binnenkomst vereiste documenten, niet beschikken over voldoende middelen van bestaan of voor terugkeer naar hun land van herkomst, als ongewenst zijn gesignaleerd of geacht worden de openbare rust, de openbare orde of de nationale veiligheid in gevaar te kunnen brengen.
+- a. its nationals who have entered the territory of the other party
 
-##### Artikel 7
+- b. persons who have entered its territory on presentation of a valid national passport issued by the Belgian, Luxembourg, Netherlands or the Malawi authorities, even if their nationality is doubtful.
 
-Behoudens de voorgaande bepalingen blijven de in de Beneluxlanden en in Malawi van kracht zijnde voorschriften met betrekking tot de binnenkomst, de duur van het verblijf en de verwijdering van vreemdelingen, alsmede met betrekking tot door hen al dan niet in dienstverband verrichte betaalde werkzaamheden, onverlet.
+##### Article 9
 
-##### Artikel 8
+As regards the Kingdom of the Netherlands this Agreement may be extended to Surinam and the Netherlands Antilles by a Netherlands Government notification addressed to the Government of Malawi.
 
-Elke Regering verplicht zich te allen tijde en zonder formaliteiten weder op haar grondgebied toe te laten:
+##### Article 10
 
-- a. haar onderdanen die het grondgebied van de andere Overeenkomstsluitende Partij zijn binnengekomen;
+This Agreement shall enter into force on 1 January 1970 for a period of one year. If the Agreement has not been denounced thirty days before the expiry of that period, it shall be deemed to have been renewed indefinitely. After the first period of one year each signatory Government may denounce the Agreement by giving thirty day's notice to the Belgian Government.
 
-- b. personen die dat grondgebied zijn binnengekomen op vertoon van een geldig nationaal paspoort, afgegeven door de Belgische, Luxemburgse, Nederlandse of Malawische autoriteiten, zelfs indien er twijfel bestaat omtrent hun nationaliteit.
+The Agreement shall cease to be effective if one of the signatory Governments denounces it.
 
-##### Artikel 9
+The Belgian Government shall inform the other signatory Governments of the receipt of the thirty day's notice referred to in this article.
 
-Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst worden uitgebreid tot Suriname en de Nederlandse Antillen door middel van een kennisgeving van de Nederlandse Regering aan de Regering van Malawi.
+##### Article 11
 
-##### Artikel 10
+With the exception of Article 8 the operation of this Agreement may be suspended by any Contracting Party.
 
-Deze Overeenkomst treedt in werking op 1 januari 1970 voor de duur van één jaar. Indien de Overeenkomst niet dertig dagen voor het verstrijken van die periode is opgezegd, wordt zij geacht voor onbepaalde tijd te zijn verlengd. Na de eerste periode van één jaar kan elk der ondertekenende Regeringen de Overeenkomst met inachtneming van een termijn van dertig dagen opzeggen door middel van een tot de Belgische Regering gerichte mededeling.
-
-De opzegging door één van de ondertekenende Regeringen heeft de beëindiging van de Overeenkomst tot gevolg.
-
-De Belgische Regering stelt de andere ondertekenende Regeringen in kennis van de ontvangst van de in dit artikel bedoelde mededeling.
-
-##### Artikel 11
-
-Behoudens artikel 8 kan de toepassing van deze Overeenkomst door één der Overeenkomstsluitende Partijen worden geschorst.
-
-De schorsing wordt onverwijld langs diplomatieke weg aan de Belgische Regering ter kennis gebracht. De Belgische Regering stelt de andere ondertekenende Regeringen op de hoogte van de ontvangst van deze kennisgeving. Dezelfde procedure wordt gevolgd wanneer de schorsing wordt ingetrokken.
+The Belgian Government shall be notified forthwith of such suspension through the diplomatic channel. The Belgian Government shall inform the other signatory Governments of the receipt of such notification. The same procedure shall be adopted when the suspension is lifted.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Agreement.
 

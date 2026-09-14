@@ -1,128 +1,97 @@
 ---
 title: "Langlopende Handelsovereenkomst tussen de Benelux Economische Unie en de Hongaarse Volksrepubliek, ondertekend te Boedapest op 26 april 1967"
 identifier: "BWBV0004694"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-03-11"
-last_updated: "1970-03-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004694"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004264793"
-version_id: "10004452962"
-internal_id: "C10006985991"
-label_id: "10004250384"
-dtd_version: "2.0"
-original_entry_into_force: "1968-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004694/1970-03-11/0"
-intitule_bron: "Trb.1967-118"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-09-08"
-intitule_in_force: "1969-03-05"
-intitule_status: "goed"
-original_publication: "Trb.1967-118"
-original_published_date: "1967-09-08"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-118"
-entry_into_force_date: "1968-12-12"
-jci_1_3: "jci1.3:c:BWBV0004694&z=1970-03-11&g=1970-03-11"
-jci_1_0: "1.0:c:BWBV0004694&g=1970-03-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "1968-12-12"
+publicatiedatum: 1968-12-12
+laatste_update: 1970-03-11
+status: geldig
+toestand: 1970-03-11
+bron: "https://wetten.overheid.nl/BWBV0004694"
+opgehaald: 2026-09-14
 ---
+
 # Langlopende Handelsovereenkomst tussen de Benelux Economische Unie en de Hongaarse Volksrepubliek, ondertekend te Boedapest op 26 april 1967
 
-De Regering van het Koninkrijk der Nederlanden, en
+*Le Gouvernement du Royaume des Pays-Bas, et Le Gouvernement du Royaume de Belgique, tant en son nom qu'au nom du Gouvernement du Grand-Duché de Luxembourg, en vertu d'accords existants, Ces Gouvernements agissant en commun en vertu du Traité instituant l'Union Economique Benelux, signé à La Haye, le 3 février 1958, Partie Contractante, d'une part, et Le Gouvernement de la République Populaire Hongroise, Partie Contractante d'autre part, Animés du désir de favoriser dans toute la mesure du possible les relations économiques entre leurs territoires, Sont convenus des dispositions suivantes:*
 
-De Regering van het Koninkrijk België, krachtens bestaande overeenkomsten mede uit naam van de Regering van het Groothertogdom Luxemburg,
+##### Article I
 
-Handelende tezamen krachtens het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958,
+Aux fins du présent Accord, sont considérés comme produits néerlandais, produits belges et produits luxembourgeois les produits qui sont originaires de l'Union Economique Benelux.
 
-Overeenkomstsluitende Partij enerzijds, en
+Sont considérés comme produits hongrois, les produits qui sont originaires de la République Populaire Hongroise.
 
-De Regering van de Hongaarse Volksrepubliek, Overeenkomstsluitende Partij anderzijds,
+##### Article II
 
-Bezield door de wens de economische betrekkingen tussen hun grondgebieden zo veel mogelijk te bevorderen,
+Les Autorités compétentes de l'Union Economique Benelux autorisent l'importation dans l'Union Economique Benelux, dans le cadre des réglementations en vigueur, des produits hongrois figurant à la liste „A” annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
 
-Zijn als volgt overeengekomen:
+De leur côté, les Autorités compétentes de la République Populaire Hongroise autorisent l'exportation vers l'Union Economique Benelux des dits produits au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
 
-##### Artikel I
+##### Article III
 
-In deze Overeenkomst worden als Nederlandse, Belgische en Luxemburgse produkten beschouwd de produkten van oorsprong uit de Benelux Economische Unie.
+Les Autorités compétentes de la République Populaire Hongroise autorisent l'importation en Hongrie, dans le cadre des réglementations en vigueur, des produits néerlandais, belges ou luxembourgeois figurant à la liste „B” annexée au présent Accord, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
 
-Als Hongaarse produkten worden beschouwd de produkten van oorsprong uit de Hongaarse Volksrepubliek.
+De leur côté, les Autorités compétentes de l'Union Economique Benelux autorisent l'exportation vers la République Populaire Hongroise des dits produits, au moins à concurrence des quantités ou des valeurs indiquées pour chacun d'entre eux.
 
-##### Artikel II
+##### Article IV
 
-De bevoegde autoriteiten van de Benelux Economische Unie staan, in het kader van de van kracht zijnde regelingen, de invoer in de Benelux Economische Unie toe van de Hongaarse produkten die op de aan deze Overeenkomst gehechte lijst „A” voorkomen, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
+Les Autorités compétentes de chacune des Parties Contractantes prendront les mesures nécessaires afin de permettre l'utilisation complète, harmonieuse et sans aucune discrimination des contingents prévus aux listes „A” et „B”. Elles veilleront également à ce que les licenses afférentes à l'importation soient délivrées en temps utile, surtout en ce qui concerne les produits saisonniers.
 
-De bevoegde autoriteiten van de Hongaarse Volksrepubliek staan, hunnerzijds, de uitvoer naar de Benelux Economische Unie toe van genoemde produkten, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
+Les Parties Contractantes confirment leur bonne volonté de procéder d'une façon libérale à l'exécution du présent Accord et s'accordent réciproquement un traitement aussi favorable que possible dans l'octroi des autorisations d'importation au delà des contingents des listes en vigueur, dans le cadre de leur politique d'importation et dans la mesure où la situation le permet.
 
-##### Artikel III
+##### Article V
 
-De bevoegde autoriteiten van de Hongaarse Volksrepubliek staan, in het kader van de van kracht zijnde regelingen, de invoer in Hongarije toe van de Nederlandse, Belgische, of Luxemburgse produkten die op de aan deze Overeenkomst gehechte lijst „B” voorkomen, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
+Les listes „A” et „B” annexées au présent Accord sont valables pour une période d'un an, avec effet rétroactif au 1er janvier 1967.
 
-De bevoegde autoriteiten van de Benelux Economische Unie staan, hunnerzijds, de uitvoer naar de Hongaarse Volksrepubliek toe van genoemde produkten, ten minste ten belope van de hoeveelheden of waarden als voor elk dezer produkten aangegeven.
+La Commission Mixte dont mention à l'article VI est habilitée à proposer de commun accord de nouvelles listes de marchandises pour chacune des années suivantes ou des modifications des listes existantes.
 
-##### Artikel IV
+Au cas où de nouvelles listes „A” et „B” ne seraient pas établies pour chacune des années suivantes de validité du présent Accord les listes annuelles existantes - ainsi que les lettres y afférentes - seront considérées comme renouvelées pour une période d'une an par tacite reconduction si aucune des Parties Contractantes ne les dénonce deux mois avant l'expiration de la période de validité.
 
-De bevoegde autoriteiten van elk der Overeenkomstsluitende Partijen nemen de nodige maatregelen om een volledig harmonieus en non-discriminatoir gebruik van de in de lijsten „A” en „B” voorkomende contingenten mogelijk te maken. Zij zien er eveneens op toe dat de voor de invoer noodzakelijke vergunningen tijdig worden verstrekt, met name voor seizoenprodukten.
+##### Article VI
 
-De Overeenkomstsluitende Partijen bevestigen hun goede wil om deze Overeenkomst op liberale wijze uit te voeren en verlenen, in het kader van hun invoerbeleid en voorzover de omstandigheden het mogelijk maken, elkaar wederzijds een zo gunstig mogelijke behandeling bij het afgeven van vergunningen voor invoer boven de contingenten van de geldende lijsten.
+Une Commission Mixte, composée de représentants des Gouvernements intéressés, pourra être réunie à tout moment, à la demande de l'une des Parties Contractantes, pour examiner les questions que pourrait soulever l'application du présent Accord. Elle est habilitée à présenter aux Parties Contractantes toutes propositions susceptibles de favoriser le développement harmonieux des échanges commerciaux entre leurs territoires.
 
-##### Artikel V
+##### Article VII
 
-De lijsten „A” en „B” die aan deze Overeenkomst zijn gehecht zijn geldig voor een periode van een jaar met terugwerkende kracht tot 1 januari 1967.
+En matière de prestations de services et en particulier en ce qui concerne les transports internationaux, les Parties Contractantes sont convenues de poursuivre les échanges de services traditionnels sur une base de non discrimination.
 
-De Gemengde Commissie vermeld in artikel VI is bevoegd in gemeenschappelijk overleg nieuwe goederenlijsten voor elk der volgende jaren of wijzigingen op de bestaande lijsten voor te stellen.
+##### Article VIII
 
-Indien voor elk der volgende jaren van de geldigheid van deze Overeenkomst geen nieuwe lijsten „A” en „B” worden opgesteld, worden de bestaande jaarlijsten - alsmede de daarop betrekking hebbende brieven - voor de duur van een jaar als stilzwijgend verlengd beschouwd indien geen van de Overeenkomstsluitende Partijen deze, twee maanden voor het verstrijken van de geldigheidsduur, opzegt.
+Afin de favoriser les échanges commerciaux entre les territoires des Parties Contractantes, les importations de produits destinés à la réexportation ne sont pas imputées sur les contingents, à condition que l'origine de ces produits ne soit pas modifiée et qu'il soit satisfait à la réglementation interne des Parties Contractantes.
 
-##### Artikel VI
+##### Article IX
 
-Een Gemengde Commissie bestaande uit vertegenwoordigers der betrokken Regeringen kan te allen tijde op verzoek van een der Overeenkomstsluitende Partijen worden bijeengeroepen ten einde de vraagstukken te onderzoeken, die eventueel uit de toepassing van deze Overeenkomst voortvloeien. Deze Commissie is bevoegd aan de Overeenkomstsluitende Partijen alle voorstellen te doen ter bevordering van de harmonieuze ontwikkeling van het handelsverkeer tussen hun grondgebieden.
+En ce qui concerne les échanges entre les territoires des Parties Contractantes dans le cadre de contrats concernant le travail à façon, qui seront autorisés par les Autorités compétentes des Parties Contractantes. Elles n'appliqueront pas des procédés d'octroi de licences et des formalités de dédouanement moins avantageux que ceux appliqués par Elles à de tels échanges réalisés avec d'autres pays.
 
-##### Artikel VII
+##### Article X
 
-Op het gebied van de dienstverlening en in het bijzonder wat betreft het internationale vervoer, zijn de Overeenkomstsluitende Partijen overeengekomen de traditionele wederzijdse dienstverlening voort te zetten op non-discriminatoire basis.
+Les Parties Contractantes expriment leur bonne volonté de faciliter dans le cadre du présent Accord le développement de la coopération économique, industrielle et technique entre les entreprises établies sur leurs territoires respectifs.
 
-##### Artikel VIII
+Les Parties Contractantes favoriseront l'exécution des contrats conclus et appliqueront le régime le plus favorable possible quant à l'octroi des licenses d'importation et d'exportation afférentes aux livraisons qu'ils comportent.
 
-Ter bevordering van het handelsverkeer tussen de grondgebieden der Overeenkomstsluitende Partijen, worden de voor heruitvoer bestemde ingevoerde produkten niet op de contingenten in mindering gebracht, op voorwaarde dat de oorsprong van die produkten niet wordt gewijzigd en dat wordt voldaan aan de interne voorschriften van de Overeenkomstsluitende Partijen.
+##### Article XI
 
-##### Artikel IX
+Le règlement des paiements afférents aux échanges commerciaux entre les territoires des Parties Contractantes s'effectue conformément aux dispositions de l'Accord de Paiement en vigueur entre les Pays du Benelux et la République Populaire Hongroise.
 
-Ten aanzien van het handelsverkeer tussen de grondgebieden der Overeenkomstsluitende Partijen binnen het kader van contracten de veredelingsindustrie betreffende, waarvoor toestemming wordt verleend door de bevoegde autoriteiten der Overeenkomstsluitende Partijen, passen deze bij het verlenen van vergunningen en ten aanzien van het vervullen der douaneformaliteiten geen ongunstiger behandeling toe dan die welke zij toepassen op een soortgelijk handelsverkeer met andere landen.
+##### Article XII
 
-##### Artikel X
+Le présent Accord sera ratifié. Les instruments de ratification seront échangés aussitôt que possible à Bruxelles.
 
-De Overeenkomstsluitende Partijen geven uitdrukking aan hun goede wil in het kader van deze Overeenkomst de ontwikkeling van de economische, industriële en technische samenwerking tussen de in hun onderscheiden grondgebieden gevestigde ondernemingen te bevorderen.
+##### Article XIII
 
-De Overeenkomstsluitende Partijen bevorderen de tenuitvoerlegging van de gesloten contracten en passen een zo gunstig mogelijke regeling toe bij het verlenen van de in- en uitvoervergunningen betrekking hebbend op de leveringen die krachtens deze contracten moeten geschieden.
+En ce qui concerne le Royaume des Pays-Bas, le présent Accord s'appliquera au Royaume tout entier à moins que l'instrument de ratification néerlandais n'en dispose autrement.
 
-##### Artikel XI
+##### Article XIV
 
-De afwikkeling der betalingen die voortvloeien uit het handelsverkeer tussen de grondgebieden der Overeenkomstsluitende Partijen geschiedt overeenkomstig de bepalingen van de betalingsovereenkomst die van kracht is tussen de landen van de Benelux en de Hongaarse Volksrepubliek.
+Chacune des Parties Contractantes peut proposer des négociations pour la révision de l'Accord aux fins d'y apporter toutes modifications utiles. Au cas où de telles négociations, qui devront être menées, dans l'esprit d'assurer aux deux Parties Contractantes des bénéfices égaux, n'auraient pas d'issue positive dans les douze mois à compter de la notification de révision, l'Accord sera considéré comme abrogé.
 
-##### Artikel XII
+##### Article XV
 
-Deze Overeenkomst wordt bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk te Brussel uitgewisseld.
+Le présent Accord est valable pour une durée de trois ans et entrera en vigueur le jour de l'échange des instruments de ratification, avec effet rétroactif au 1er janvier 1967.
 
-##### Artikel XIII
+Il sera considéré comme renouvelé d'année en année par tacite reconduction, après le 31 décembre 1969, si aucune des Parties Contractantes ne le dénonce par écrit trois mois avant l'expiration de la période de validité.
 
-Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het gehele Koninkrijk, tenzij in de Nederlandse akte van bekrachtiging anders wordt bepaald.
-
-##### Artikel XIV
-
-Elk der Overeenkomstsluitende Partijen kan voorstellen onderhandelingen te beginnen ter herziening van de Overeenkomst, ten einde er wenselijk geachte wijzigingen in aan te brengen. Indien zodanige onderhandelingen, die dienen te worden gevoerd in een geest die de Overeenkomstsluitende Partijen gelijke voordelen waarborgt, binnen twaalf maanden na kennisgeving van herziening geen positief resultaat zouden hebben, wordt de Overeenkomst als vervallen beschouwd.
-
-##### Artikel XV
-
-Deze Overeenkomst is geldig voor de duur van drie jaar en treedt in werking op de datum van uitwisseling van de akten van bekrachtiging, met terugwerkende kracht tot 1 januari 1967.
-
-Na 31 december 1969 wordt zij geacht stilzwijgend steeds voor een jaar te zijn verlengd, indien geen der Overeenkomstsluitende Partijen haar twee maanden voor het verstrijken van de geldigheidsduur schriftelijk opzegt.
-
-In afwachting van de inwerkingtreding van de Overeenkomst op de in dit artikel genoemde voorwaarden zijn de Overeenkomstsluitende Partijen echter overeengekomen, ten einde vertraging in de uitvoering ervan te vermijden, de Overeenkomst voorlopig toe te passen van 1 januari 1967 af en wel overeenkomstig hun onderscheiden grondwettelijke voorschriften.
+Toutefois, en attendant l'entrée en vigueur de l'Accord dans les conditions prévues par cet article les Parties Contractantes conviennent, afin d'éviter tout délai dans son exécution, de le mettre en application à titre provisoire à partir du 1er janvier 1967 et conformément à leurs règles constitutionnelles respectives.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 

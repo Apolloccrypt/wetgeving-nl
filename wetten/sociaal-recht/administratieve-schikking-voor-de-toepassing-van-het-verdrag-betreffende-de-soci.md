@@ -1,48 +1,29 @@
 ---
 title: "Administratieve Schikking voor de toepassing van het Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)"
 identifier: "BWBV0004890"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-02-23"
-last_updated: "1987-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004890"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004365793"
-version_id: "10004568872"
-internal_id: "C10006981981"
-label_id: "10004352034"
-dtd_version: "2.0"
-original_entry_into_force: "1987-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004890/2007-02-23/0"
-intitule_bron: "Trb.1988-63"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1988-06-07"
-intitule_in_force: "1988-06-07"
-intitule_status: "goed"
-original_publication: "Trb.1988-63"
-original_published_date: "1988-06-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1988-63"
-entry_into_force_date: "1987-12-01"
-jci_1_3: "jci1.3:c:BWBV0004890&z=2007-02-23&g=2007-02-23"
-jci_1_0: "1.0:c:BWBV0004890&g=2007-02-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "1987-12-01"
+publicatiedatum: 1987-12-01
+laatste_update: 2007-02-23
+status: geldig
+toestand: 2007-02-23
+bron: "https://wetten.overheid.nl/BWBV0004890"
+opgehaald: 2026-09-14
 ---
+
 # Administratieve Schikking voor de toepassing van het Verdrag betreffende de sociale zekerheid van Rijnvarenden (herzien)
 
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Definities
 
 Voor de toepassing van deze Administratieve Schikking
 
-- a). wordt onder „Verdrag” verstaan het Verdrag van 30 november 1979 betreffende de sociale zekerheid van Rijnvarenden;
+- a) wordt onder „Verdrag” verstaan het Verdrag van 30 november 1979 betreffende de sociale zekerheid van Rijnvarenden;
 
-- b). wordt onder „Schikking” verstaan de Administratieve Schikking voor de toepassing van het Verdrag van 30 november 1979 betreffende de sociale zekerheid van Rijnvarenden;
+- b) wordt onder „Schikking” verstaan de Administratieve Schikking voor de toepassing van het Verdrag van 30 november 1979 betreffende de sociale zekerheid van Rijnvarenden;
 
-- c). hebben de in artikel 1 van het Verdrag omschreven termen de hun in genoemd artikel toegekende betekenis.
+- c) hebben de in artikel 1 van het Verdrag omschreven termen de hun in genoemd artikel toegekende betekenis.
 
 ##### Artikel 2. Modelformulieren - inlichtingen over de wetgevingen - handleidingen
 
@@ -74,13 +55,13 @@ Voor de toepassing van deze Administratieve Schikking
 
 1. Deze Schikking treedt in de plaats van:
 
-- a). de akkoorden betreffende de toepassing van de verdragen inzake sociale zekerheid waarvoor het Verdrag in de plaats treedt;
+- a) de akkoorden betreffende de toepassing van de verdragen inzake sociale zekerheid waarvoor het Verdrag in de plaats treedt;
 
-- b). de bepalingen betreffende de toepassing van de in artikel 5, derde lid van het Verdrag bedoelde bepalingen van verdragen inzake sociale zekerheid, tenzij deze bepalingen in bijlage 5 worden vermeld.
+- b) de bepalingen betreffende de toepassing van de in artikel 5, derde lid van het Verdrag bedoelde bepalingen van verdragen inzake sociale zekerheid, tenzij deze bepalingen in bijlage 5 worden vermeld.
 
 2. Bijlage 5 vermeldt tevens de bepalingen die gehandhaafd blijven in de betrekkingen tussen de Lid-Staten van de Europese Economische Gemeenschap.
 
-## TITEL II. TOEPASSING VAN TITEL I VAN HET VERDRAG (ALGEMENE BEPALINGEN)
+### TITEL II. TOEPASSING VAN TITEL I VAN HET VERDRAG (ALGEMENE BEPALINGEN)
 
 #### Toepassing van artikel 8, tweede lid van het Verdrag
 
@@ -90,7 +71,7 @@ Voor de toepassing van deze Administratieve Schikking
 
 2. Wanneer samentelling van tijdvakken van verzekering moet plaatsvinden om in aanmerking te komen voor toepassing van artikel 8, tweede lid van het Verdrag is artikel 6 van deze Schikking van overeenkomstige toepassing.
 
-## TITEL III. SAMENTELLING VAN TIJDVAKKEN VAN VERZEKERING
+### TITEL III. SAMENTELLING VAN TIJDVAKKEN VAN VERZEKERING
 
 #### Toepassing van de artikelen 15, 26, 32, 50 en 55 van het Verdrag
 
@@ -98,55 +79,55 @@ Voor de toepassing van deze Administratieve Schikking
 
 1. In de gevallen, bedoeld in artikel 15, artikel 26, eerste en tweede lid, artikel 32, eerste en tweede lid, artikel 50 en artikel 55, eerste en tweede lid van het Verdrag, geschiedt de samenstelling van de tijdvakken van verzekering overeenkomstig de volgende regels:
 
-- a). bij de tijdvakken van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, worden gevoegd de tijdvakken van verzekering, vervuld krachtens de wetgeving van iedere andere Verdragsluitende Partij, voorzover het noodzakelijk is hierop een beroep te doen om de tijdvakken van verzekering, vervuld krachtens de wetgeving van eerstbedoelde Partij, aan te vullen met het oog op het verkrijgen, het behoud of het herstel van het recht op prestaties, mits deze tijdvakken elkaar niet overlappen; indien het uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) betreft welke door de organen van twee of meer Verdragsluitende Partijen moeten worden vastgesteld overeenkomstig artikel 27 of artikel 33 van het Verdrag, verricht elk der betrokken organen afzonderlijk deze samentelling, rekening houdende met het totaal der door de rijnvarende krachtens de wetgevingen van alle Verdragsluitende Partijen waaraan hij onderworpen is geweest, vervulde tijdvakken van verzekering;
+- a) bij de tijdvakken van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, worden gevoegd de tijdvakken van verzekering, vervuld krachtens de wetgeving van iedere andere Verdragsluitende Partij, voorzover het noodzakelijk is hierop een beroep te doen om de tijdvakken van verzekering, vervuld krachtens de wetgeving van eerstbedoelde Partij, aan te vullen met het oog op het verkrijgen, het behoud of het herstel van het recht op prestaties, mits deze tijdvakken elkaar niet overlappen; indien het uitkeringen bij invaliditeit, ouderdom of overlijden (pensioenen) betreft welke door de organen van twee of meer Verdragsluitende Partijen moeten worden vastgesteld overeenkomstig artikel 27 of artikel 33 van het Verdrag, verricht elk der betrokken organen afzonderlijk deze samentelling, rekening houdende met het totaal der door de rijnvarende krachtens de wetgevingen van alle Verdragsluitende Partijen waaraan hij onderworpen is geweest, vervulde tijdvakken van verzekering;
 
-- b). wanneer een tijdvak van verzekering, vervuld op grond van een verplichte verzekering krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een op grond van een vrijwillige of vrijwillig voortgezette verzekering krachtens de wetgeving van een andere Verdragsluitende Partij vervuld tijdvak van verzekering, wordt alleen het eerste tijdvak in aanmerking genomen, onverminderd het bepaalde in artikel 12, tweede lid, tweede volzin van het Verdrag;
+- b) wanneer een tijdvak van verzekering, vervuld op grond van een verplichte verzekering krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een op grond van een vrijwillige of vrijwillig voortgezette verzekering krachtens de wetgeving van een andere Verdragsluitende Partij vervuld tijdvak van verzekering, wordt alleen het eerste tijdvak in aanmerking genomen, onverminderd het bepaalde in artikel 12, tweede lid, tweede volzin van het Verdrag;
 
-- c). wanneer een effectief tijdvak van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een tijdvak dat krachtens de wetgeving van een andere Verdragsluitende Partij met een effectief tijdvak van verzekering is gelijkgesteld, wordt alleen het eerste tijdvak in aanmerking genomen;
+- c) wanneer een effectief tijdvak van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, samenvalt met een tijdvak dat krachtens de wetgeving van een andere Verdragsluitende Partij met een effectief tijdvak van verzekering is gelijkgesteld, wordt alleen het eerste tijdvak in aanmerking genomen;
 
-- d). elk tijdvak dat krachtens de wetgevingen van twee of meer Verdragsluitende Partijen met een effectief tijdvak van verzekering is gelijkgesteld, wordt slechts in aanmerking genomen door het orgaan van die van deze Partijen krachtens de wetgeving waarvan de rijnvarende laatstelijk voor dit tijdvak verplicht verzekerd is geweest; indien de rijnvarende voor genoemd tijdvak niet verplicht verzekerd is geweest krachtens de wetgeving van een van deze Partijen, wordt dit tijdvak in aanmerking genomen door het orgaan van die van genoemde Partijen krachtens de wetgeving waarvan hij na dit tijdvak voor de eerste maal verplicht verzekerd is geweest;
+- d) elk tijdvak dat krachtens de wetgevingen van twee of meer Verdragsluitende Partijen met een effectief tijdvak van verzekering is gelijkgesteld, wordt slechts in aanmerking genomen door het orgaan van die van deze Partijen krachtens de wetgeving waarvan de rijnvarende laatstelijk voor dit tijdvak verplicht verzekerd is geweest; indien de rijnvarende voor genoemd tijdvak niet verplicht verzekerd is geweest krachtens de wetgeving van een van deze Partijen, wordt dit tijdvak in aanmerking genomen door het orgaan van die van genoemde Partijen krachtens de wetgeving waarvan hij na dit tijdvak voor de eerste maal verplicht verzekerd is geweest;
 
-- e). ingeval de periode waarin bepaalde tijdvakken van verzekering krachtens de wetgeving van een Verdragsluitende Partij vervuld zijn, niet nauwkeurig kan worden vastgesteld, wordt ervan uitgegaan dat deze tijdvakken niet overlapt worden door krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken en wordt, voor zover nodig, hiermede rekening gehouden;
+- e) ingeval de periode waarin bepaalde tijdvakken van verzekering krachtens de wetgeving van een Verdragsluitende Partij vervuld zijn, niet nauwkeurig kan worden vastgesteld, wordt ervan uitgegaan dat deze tijdvakken niet overlapt worden door krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken en wordt, voor zover nodig, hiermede rekening gehouden;
 
-- f). ingeval volgens de wetgeving van een Verdragsluitende Partij bepaalde tijdvakken van verzekering slechts in aanmerking worden genomen indien zij binnen een bepaalde termijn zijn vervuld, houdt het orgaan dat deze wetgeving toepast slechts rekening met krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken indien deze binnen dezelfde termijn zijn vervuld.
+- f) ingeval volgens de wetgeving van een Verdragsluitende Partij bepaalde tijdvakken van verzekering slechts in aanmerking worden genomen indien zij binnen een bepaalde termijn zijn vervuld, houdt het orgaan dat deze wetgeving toepast slechts rekening met krachtens de wetgeving van een andere Verdragsluitende Partij vervulde tijdvakken indien deze binnen dezelfde termijn zijn vervuld.
 
 2. De tijdvakken van verzekering, vervuld krachtens een stelsel van een Verdragsluitende Partij waarop het Verdrag niet van toepassing is, maar die in aanmerking worden genomen door een stelsel van dezelfde Partij waarop het Verdrag wel van toepassing is, worden beschouwd als tijdvakken van verzekering welke voor de samentelling in aanmerking dienen te worden genomen.
 
 3. Wanneer de tijdvakken van verzekering, vervuld krachtens de wetgeving van een Verdragsluitende Partij, worden uitgedrukt in andere eenheden dan in de wetgeving van een andere Verdragsluitende Partij worden gebezigd, geschiedt de omrekening welke voor de samentelling nodig is volgens onderstaande regels:
 
-- a). indien het een rijnvarende betreft, die in loondienst is en voor wie de zesdaagse werkweek gold of indien het een rijnvarende betreft die zelfstandige is,
+- a) indien het een rijnvarende betreft, die in loondienst is en voor wie de zesdaagse werkweek gold of indien het een rijnvarende betreft die zelfstandige is,
 
-- i). geldt een dag als acht uren en omgekeerd;
+   - i) geldt een dag als acht uren en omgekeerd;
 
-- ii). gelden zes dagen als een week en omgekeerd;
+   - ii) gelden zes dagen als een week en omgekeerd;
 
-- iii). gelden zesentwintig dagen als een maand en omgekeerd;
+   - iii) gelden zesentwintig dagen als een maand en omgekeerd;
 
-- iv). gelden drie maanden of dertien weken of achtenzeventig dagen als een kwartaal en omgekeerd;
+   - iv) gelden drie maanden of dertien weken of achtenzeventig dagen als een kwartaal en omgekeerd;
 
-- v). worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
+   - v) worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
 
-- vi). mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan driehonderd en twaalf dagen of tweeënvijftig weken of twaalf maanden of vier kwartalen wordt verkregen;
+   - vi) mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan driehonderd en twaalf dagen of tweeënvijftig weken of twaalf maanden of vier kwartalen wordt verkregen;
 
-- b). indien het een rijnvarende betreft, die in loondienst is en voor wie de vijfdaagse werkweek gold,
+- b) indien het een rijnvarende betreft, die in loondienst is en voor wie de vijfdaagse werkweek gold,
 
-- i). geldt een dag als negen uur en omgekeerd;
+   - i) geldt een dag als negen uur en omgekeerd;
 
-- ii). gelden vijf dagen als een week en omgekeerd;
+   - ii) gelden vijf dagen als een week en omgekeerd;
 
-- iii). gelden tweeëntwintig dagen als een maand en omgekeerd;
+   - iii) gelden tweeëntwintig dagen als een maand en omgekeerd;
 
-- iv). gelden drie maanden of dertien weken of zesenzestig dagen als een kwartaal en omgekeerd;
+   - iv) gelden drie maanden of dertien weken of zesenzestig dagen als een kwartaal en omgekeerd;
 
-- v). worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
+   - v) worden voor de omrekening van weken tot maanden en omgekeerd, de weken en maanden in dagen omgerekend;
 
-- vi). mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan tweehonderdvierenzestig dagen of tweeënvijftig weken of twaalf maanden of vierkwartalen wordt verkregen.
+   - vi) mag toepassing van bovenstaande regels er niet toe leiden dat voor alle in de loop van een kalenderjaar vervulde tijdvakken een totaal van meer dan tweehonderdvierenzestig dagen of tweeënvijftig weken of twaalf maanden of vierkwartalen wordt verkregen.
 
 ##### Artikel 7. Het in aanmerking nemen van premies of bijdragen over tijdvakken van vrijwillige of vrijwillig voortgezette verzekering
 
 Wanneer krachtens artikel 6, eerste lid, sub b) van deze Schikking ingevolge de wetgeving van een Verdragsluitende Partij vervulde tijdvakken van verzekering op grond van een vrijwillige of vrijwillig voortgezette verzekering bij invaliditeit, ouderdom of overlijden (pensioenen) voor de samentelling niet in aanmerking worden genomen, worden de op deze tijdvakken betrekking hebbende premies of bijdragen geacht bestemd te zijn tot verhoging van de krachtens deze wetgeving verschuldigde uitkeringen.
 
-## TITEL IV. TOEPASSING VAN TITEL III VAN HET VERDRAG
+### TITEL IV. TOEPASSING VAN TITEL III VAN HET VERDRAG
 
 ### HOOFDSTUK 1. – ZIEKTE EN MOEDERSCHAP
 
@@ -312,7 +293,7 @@ Indien de in artikel 9, eerste lid, artikel 10, eerste lid, artikel 11, eerste l
 
 #### Toepassing van de artikelen 24 tot en met 39 van het Verdrag Indiening en behandeling van de aanvragen om uitkeringen
 
-### Afdeling 1. : Invaliditeit
+#### Afdeling 1. : Invaliditeit
 
 ##### Artikel 24. Aanvraag om invaliditeitsuitkeringen ingeval de aanvrager uitsluitend aan de in bijlage VI van het Verdrag vermelde wetgevingen onderworpen is geweest
 
@@ -344,7 +325,7 @@ Het orgaan van een Verdragsluitende Partij houdt voor het bepalen van de mate va
 
 Voor de toepassing van artikel 28, eerste lid van het Verdrag zijn de artikelen 29 tot en met 38 van deze Schikking van overeenkomstige toepassing.
 
-### Afdeling 2. : Ouderdom en overlijden (pensioenen)
+#### Afdeling 2. : Ouderdom en overlijden (pensioenen)
 
 ##### Artikel 29. Indiening van de aanvraag
 
@@ -356,15 +337,15 @@ Voor de toepassing van artikel 28, eerste lid van het Verdrag zijn de artikelen 
 
 Voor de indiening van de in artikel 29 van deze Schikking bedoelde aanvragen gelden de volgende regels.
 
-- a). de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld volgens de formaliteiten voorzien
+- a) de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld volgens de formaliteiten voorzien
 
-- i). hetzij in de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont, in het geval bedoeld in artikel 29, eerste lid van deze Schikking;
+   - i) hetzij in de wetgeving van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont, in het geval bedoeld in artikel 29, eerste lid van deze Schikking;
 
-- ii). hetzij in de wetgeving van de Verdragsluitende Partij waaraan de aanvrager of de overledene laatstelijk onderworpen is geweest, in het geval bedoeld in artikel 29, tweede lid van deze Schikking;
+   - ii) hetzij in de wetgeving van de Verdragsluitende Partij waaraan de aanvrager of de overledene laatstelijk onderworpen is geweest, in het geval bedoeld in artikel 29, tweede lid van deze Schikking;
 
-- b). de juistheid van de door de aanvrager verstrekte gegevens moeten worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont;
+- b) de juistheid van de door de aanvrager verstrekte gegevens moeten worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont;
 
-- c). voor zover mogelijk moet de aanvrager vermelden, ofwel het orgaan of de organen van de invaliditeits- of ouderdomsverzekering of van de verzekering bij overlijden (pensioenen) van elke Verdragsluitende Partij aan de wetgeving waarvan hijzelf of de overledene onderworpen is geweest, ofwel de werkgever of werkgevers bij wie hijzelf of de overledene werkzaam is geweest, zulks onder overlegging van de bewijzen van verrichte arbeid waarover hij mocht beschikken.
+- c) voor zover mogelijk moet de aanvrager vermelden, ofwel het orgaan of de organen van de invaliditeits- of ouderdomsverzekering of van de verzekering bij overlijden (pensioenen) van elke Verdragsluitende Partij aan de wetgeving waarvan hijzelf of de overledene onderworpen is geweest, ofwel de werkgever of werkgevers bij wie hijzelf of de overledene werkzaam is geweest, zulks onder overlegging van de bewijzen van verrichte arbeid waarover hij mocht beschikken.
 
 ##### Artikel 31. Bewijs betreffende de gezinsleden die in aanmerking moeten worden genomen
 
@@ -428,9 +409,9 @@ Bij herberekening dan wel schorsing of intrekking van de uitkering geeft het bet
 
 Ter bespoediging van de vaststelling van de uitkeringen zijn de volgende voorschriften van toepassing:
 
-- a). wanneer een persoon die voordien aan de wetgeving van een of meer Verdragsluitende Partijen onderworpen was, onderworpen is aan de wetgeving van een andere Verdragsluitende Partij, verzoekt het bevoegde orgaan van laatstbedoelde Partij aan het verbindingsorgaan van de andere Verdragsluitende Partij of Partijen om alle gegevens, betreffende de organen waarbij de belanghebbende is aangesloten geweest en, eventueel, de inschrijvingsnummers welke hem zijn toegekend;
+- a) wanneer een persoon die voordien aan de wetgeving van een of meer Verdragsluitende Partijen onderworpen was, onderworpen is aan de wetgeving van een andere Verdragsluitende Partij, verzoekt het bevoegde orgaan van laatstbedoelde Partij aan het verbindingsorgaan van de andere Verdragsluitende Partij of Partijen om alle gegevens, betreffende de organen waarbij de belanghebbende is aangesloten geweest en, eventueel, de inschrijvingsnummers welke hem zijn toegekend;
 
-- b). op verzoek van de belanghebbende of van het orgaan, waarbij hij is aangesloten, maken de betrokken organen, voor zover mogelijk, vanaf een jaar voorafgaande aan de datum waarop de belanghebbende de pensioengerechtigde leeftijd bereikt, een overzicht van zijn verzekeringsloopbaan.
+- b) op verzoek van de belanghebbende of van het orgaan, waarbij hij is aangesloten, maken de betrokken organen, voor zover mogelijk, vanaf een jaar voorafgaande aan de datum waarop de belanghebbende de pensioengerechtigde leeftijd bereikt, een overzicht van zijn verzekeringsloopbaan.
 
 #### Administratieve en medische controle
 
@@ -438,17 +419,17 @@ Ter bespoediging van de vaststelling van de uitkeringen zijn de volgende voorsch
 
 I. Wanneer een rechthebbende op
 
-- a). invaliditeitsuitkeringen,
+- a) invaliditeitsuitkeringen,
 
-- b). ouderdomsuitkeringen toegekend in geval van arbeidsongeschiktheid,
+- b) ouderdomsuitkeringen toegekend in geval van arbeidsongeschiktheid,
 
-- c). ouderdomsuitkeringen toegekend aan bejaarde werklozen,
+- c) ouderdomsuitkeringen toegekend aan bejaarde werklozen,
 
-- d). ouderdomsuitkeringen toegekend in geval van beëindiging van de beroepswerkzaamheden,
+- d) ouderdomsuitkeringen toegekend in geval van beëindiging van de beroepswerkzaamheden,
 
-- e). uitkeringen aan nagelaten betrekkingen toegekend in geval van invaliditeit of van arbeidsongeschiktheid,
+- e) uitkeringen aan nagelaten betrekkingen toegekend in geval van invaliditeit of van arbeidsongeschiktheid,
 
-- f). uitkeringen die worden toegekend op voorwaarde dat de inkomsten van rechthebbende een bepaalde grens niet overschrijden, op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont of verblijft, wordt de administratieve en medische controle op verzoek van het bevoegde orgaan uitgeoefend door het orgaan van de woon- of verblijfplaats, op de wijze als bepaald in de wettelijke regeling die door laatstgenoemd orgaan wordt toegepast. Het bevoegde orgaan blijft evenwel bevoegd de rechthebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze.
+- f) uitkeringen die worden toegekend op voorwaarde dat de inkomsten van rechthebbende een bepaalde grens niet overschrijden, op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat woont of verblijft, wordt de administratieve en medische controle op verzoek van het bevoegde orgaan uitgeoefend door het orgaan van de woon- of verblijfplaats, op de wijze als bepaald in de wettelijke regeling die door laatstgenoemd orgaan wordt toegepast. Het bevoegde orgaan blijft evenwel bevoegd de rechthebbende voor eigen rekening te doen onderzoeken door een arts van eigen keuze.
 
 2. Indien uit de in het vorige lid bedoelde controle blijkt dat de rechthebbende werkzaamheden verricht of dat hij inkomsten geniet welke de voorgeschreven grens overschrijden, is het orgaan van de woon- of verblijfplaats verplicht het bevoegde orgaan dat om controle heeft verzocht een rapport toe te zenden. Dit rapport maakt melding van de door het bevoegde orgaan gevraagde inlichtingen.
 
@@ -582,9 +563,9 @@ De rechthebbende op uitkeringen welke krachtens de wetgevingen van een of meer V
 
 3. Wanneer het orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene laatstelijk werkzaamheden heeft verricht, waardoor de betreffende beroepsziekte kon ontstaan, vaststelt dat de getroffene of zijn nagelaten betrekkingen niet voldoen aan de voorwaarden van deze wetgeving, rekening houdende met artikel 44, tweede, derde en vierde lid van het Verdrag
 
-- a). zendt bedoeld orgaan de aangifte en alle daarbij gevoegde stukken met inbegrip van de bevindingen en verslagen van het geneeskundig onderzoek dat door het eerste orgaan is verricht, alsmede een afschrift van de in de volgende alinea bedoelde beslissing, onverwijld door aan het orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene voordien werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan;
+- a) zendt bedoeld orgaan de aangifte en alle daarbij gevoegde stukken met inbegrip van de bevindingen en verslagen van het geneeskundig onderzoek dat door het eerste orgaan is verricht, alsmede een afschrift van de in de volgende alinea bedoelde beslissing, onverwijld door aan het orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene voordien werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan;
 
-- b). stelt bedoeld orgaan de belanghebbende gelijktijdig in kennis van zijn beslissing, onder vermelding van de redenen tot weigering van de uitkeringen, de rechtsmiddelen en beroepstermijnen, alsmede de datum waarop het dossier aan het in de vorige alinea bedoelde orgaan werd doorgezonden.
+- b) stelt bedoeld orgaan de belanghebbende gelijktijdig in kennis van zijn beslissing, onder vermelding van de redenen tot weigering van de uitkeringen, de rechtsmiddelen en beroepstermijnen, alsmede de datum waarop het dossier aan het in de vorige alinea bedoelde orgaan werd doorgezonden.
 
 4. Eventueel kan volgens dezelfde procedure verder worden teruggegaan tot aan het overeenkomstige orgaan van de Verdragsluitende Partij onder de wetgeving waarvan de getroffene het eerst werkzaamheden heeft verricht waardoor de betreffende beroepsziekte kon ontstaan.
 
@@ -618,9 +599,9 @@ Om in aanmerking te komen voor toepassing van artikel 46, tweede lid van het Ver
 
 1. Wanneer een rijnvarende of diens nagelaten betrekkingen, die op het grondgebied van een Verdragsluitende Partij wonen, in het genot wensen te komen van een krachtens de wetgeving van een andere Verdragsluitende Partij toe te kennen rente of uitkering ter aanvulling van een rente, richten zij hun aanvraag voorzover een dergelijke aanvraag vereist is, hetzij tot het bevoegde orgaan, hetzij tot het orgaan van de woonplaats, dat deze aan het bevoegde orgaan doorzendt. Voor het indienen van de aanvraag gelden de volgende regels:
 
-- a). de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld volgens de formaliteiten voorzien in de wetgeving van de bevoegde Staat;
+- a) de aanvraag dient vergezeld te gaan van de vereiste bewijsstukken en te zijn opgesteld volgens de formaliteiten voorzien in de wetgeving van de bevoegde Staat;
 
-- b). de juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont.
+- b) de juistheid van de door de aanvrager verstrekte gegevens moet worden aangetoond door bij de aanvraag gevoegde officiële stukken of worden bevestigd door de bevoegde instanties van de Verdragsluitende Partij op het grondgebied waarvan hij woont.
 
 2. Het bevoegde orgaan geeft de aanvrager rechtstreeks of door bemiddeling van het verbindingsorgaan van de bevoegde Staat kennis van zijn beslissing; het zendt een afschrift van deze kennisgeving aan het verbindingsorgaan van de Verdragsluitende Partij op het grondgebied waarvan de aanvrager woont.
 
@@ -736,9 +717,9 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 1. Indien de gezinsleden in de loop van een kalendermaand of kalenderkwartaal hun woonplaats overbrengen van het grondgebied van een Verdragsluitende Partij naar dat van een andere Verdragsluitende Partij, worden de gezinsbijslagen verleend volgens de volgende regels:
 
-- a). indien beide wetgevingen of indien alleen de wetgeving van de eerste Verdragsluitende Partij voorziet in toekenning van maandelijkse of driemaandelijkse bijslagen, gaat het orgaan, belast met het verlenen van bijslagen aan het begin van de maand of van het kwartaal, door met het verlenen hiervan tot het einde van de periode waarom het gaat. Het orgaan van de nieuwe woonplaats begint de gezinsbijslagen te verlenen vanaf het begin van de kalendermaand of het kalenderkwartaal daaropvolgend, naar gelang het geval;
+- a) indien beide wetgevingen of indien alleen de wetgeving van de eerste Verdragsluitende Partij voorziet in toekenning van maandelijkse of driemaandelijkse bijslagen, gaat het orgaan, belast met het verlenen van bijslagen aan het begin van de maand of van het kwartaal, door met het verlenen hiervan tot het einde van de periode waarom het gaat. Het orgaan van de nieuwe woonplaats begint de gezinsbijslagen te verlenen vanaf het begin van de kalendermaand of het kalenderkwartaal daaropvolgend, naar gelang het geval;
 
-- b). indien de wetgeving van de eerste Verdragsluitende Partij voorziet in toekenning van gezinsbijslagen per dag, worden de bijslagen achtereenvolgens verleend krachtens de wetgeving van elk van deze Verdragsluitende Partijen, naar verhouding van de duur van het wonen van deze gezinsleden op het grondgebied van de betrokken Verdragsluitende Partij gedurende de betreffende maand of het betreffende kwartaal.
+- b) indien de wetgeving van de eerste Verdragsluitende Partij voorziet in toekenning van gezinsbijslagen per dag, worden de bijslagen achtereenvolgens verleend krachtens de wetgeving van elk van deze Verdragsluitende Partijen, naar verhouding van de duur van het wonen van deze gezinsleden op het grondgebied van de betrokken Verdragsluitende Partij gedurende de betreffende maand of het betreffende kwartaal.
 
 2. Het vorige lid is van overeenkomstige toepassing op het verlenen van gezinsbijslagen aan de in artikel 62, eerste lid, sub a) van het Verdrag bedoelde gezinsleden, indien zij het vaartuig aan boord waarvan zij zich met de rijnvarende bevonden, verlaten om hun woonplaats te vestigen op het grondgebied van een andere Verdragsluitende Partij dan de bevoegde Staat.
 
@@ -748,9 +729,9 @@ Om in aanmerking te komen voor de toepassing van artikel 59, tweede lid van het 
 
 1. Indien de rijnvarende in de loop van een kalendermaand of kalenderkwartaal achtereenvolgens onderworpen is geweest aan de wetgeving van twee Verdragsluitende Partijen, wordt de toekenning van gezinsbijslagen waarop hij aanspraak kan maken krachtens de wetgeving van elk van deze Partijen volgens de volgende regels vastgesteld:
 
-- a). indien een van deze Verdragsluitende Partijen wordt vermeld in Bijlage VII, afdeling 2, van het Verdrag of indien zij, hoewel zij vermeld wordt in afdeling 1 van genoemde bijlage, de gezinsbijslagen per dag toekent worden de gezinsbijslagen die ten laste komen van het bevoegde orgaan van de andere Verdragsluitende Partij vastgesteld naar verhouding van de duur gedurende welke de rijnvarende aan de wetgeving van die Verdragsluitende Partij onderworpen is geweest ten opzichte van de door bedoelde wetgeving voorziene duur van de maandelijkse of driemaandelijkse periode;
+- a) indien een van deze Verdragsluitende Partijen wordt vermeld in Bijlage VII, afdeling 2, van het Verdrag of indien zij, hoewel zij vermeld wordt in afdeling 1 van genoemde bijlage, de gezinsbijslagen per dag toekent worden de gezinsbijslagen die ten laste komen van het bevoegde orgaan van de andere Verdragsluitende Partij vastgesteld naar verhouding van de duur gedurende welke de rijnvarende aan de wetgeving van die Verdragsluitende Partij onderworpen is geweest ten opzichte van de door bedoelde wetgeving voorziene duur van de maandelijkse of driemaandelijkse periode;
 
-- b). in alle andere gevallen blijven de gezinsbijslagen voor de duur van de maand of het kwartaal voor rekening van het bevoegde orgaan ten laste waarvan de gezinsbijslagen aan het begin van de betreffende maand of het betreffende kwartaal kwamen, naar gelang de wetgeving die door genoemd orgaan wordt toegepast voor de toekenning van gezinsbijslagen in een maandelijkse dan wel in een drie-maandelijkse periode voorziet.
+- b) in alle andere gevallen blijven de gezinsbijslagen voor de duur van de maand of het kwartaal voor rekening van het bevoegde orgaan ten laste waarvan de gezinsbijslagen aan het begin van de betreffende maand of het betreffende kwartaal kwamen, naar gelang de wetgeving die door genoemd orgaan wordt toegepast voor de toekenning van gezinsbijslagen in een maandelijkse dan wel in een drie-maandelijkse periode voorziet.
 
 2. Indien het orgaan van een Verdragsluitende Partij de gezinsbijslagen heeft verleend voor een periode, terwijl deze bijslagen voor rekening van het orgaan van een andere Verdragsluitende Partij kwamen, zullen de door het eerste orgaan ten onrechte verleende bijslagen worden vergoed.
 
@@ -780,19 +761,19 @@ De belanghebbende verstrekt, eventueel op verzoek van het bevoegde orgaan, gegev
 
 Een ieder aan wie krachtens de artikelen 66, 67 of 68 van het Verdrag bijslagen worden betaald voor de gezinsleden van een rechthebbende op een pensioen of rente of voor wezen, is verplicht het orgaan dat deze bijslagen verschuldigd is in kennis te stellen van iedere verandering in de omstandigheden van de gezinsleden of de wezen waardoor het recht op bijslagen kan worden gewijzigd.
 
-## TITEL V. FINANCIËLE BEPALINGEN
+### TITEL V. FINANCIËLE BEPALINGEN
 
 ##### Artikel 78. Vergoeding van prestaties
 
 1. Onverminderd het bepaalde in artikel 23, vierde lid, artikel 49, vierde lid en artikel 70, derde lid van het Verdrag worden de vergoedingen bedoeld in artikel 23, derde lid, artikel 49, derde lid en artikel 70, tweede lid van het Verdrag vastgesteld en vinden zij plaats krachtens de volgende bepalingen:
 
-- a). het werkelijke bedrag van de door het orgaan van de woon- of verblijfplaats verleende prestaties wordt vergoed door het bevoegde orgaan, zoals dit bedrag blijkt uit de boekhouding van het eerste orgaan;
+- a) het werkelijke bedrag van de door het orgaan van de woon- of verblijfplaats verleende prestaties wordt vergoed door het bevoegde orgaan, zoals dit bedrag blijkt uit de boekhouding van het eerste orgaan;
 
-- b). indien het werkelijke bedrag der prestaties niet blijkt uit de boekhouding van het orgaan dat deze heeft verleend, wordt het te vergoeden bedrag bepaald op basis van een vast bedrag dat wordt vastgesteld volgens berekeningswijzen die in onderlinge overeenstemming tussen de betrokken Verdragsluitende Partijen of hun bevoegde autoriteiten worden vastgesteld;
+- b) indien het werkelijke bedrag der prestaties niet blijkt uit de boekhouding van het orgaan dat deze heeft verleend, wordt het te vergoeden bedrag bepaald op basis van een vast bedrag dat wordt vastgesteld volgens berekeningswijzen die in onderlinge overeenstemming tussen de betrokken Verdragsluitende Partijen of hun bevoegde autoriteiten worden vastgesteld;
 
-- c). de vergoedingen vinden per kalender-halfjaar door tussenkomst van de verbindingsorganen plaats;
+- c) de vergoedingen vinden per kalender-halfjaar door tussenkomst van de verbindingsorganen plaats;
 
-- d). de schuldvorderingen, die op de laatste dag van het betreffende halfjaar zijn vastgesteld in de munteenheid van de Verdragsluitende Partij op het grondgebied waarvan het orgaan dat de vordering heeft zich bevindt, moeten voor het einde van het volgende kwartaal betaald worden volgens de op de dag, waarop de gelden worden overgemaakt, geldende wisselkoers.
+- d) de schuldvorderingen, die op de laatste dag van het betreffende halfjaar zijn vastgesteld in de munteenheid van de Verdragsluitende Partij op het grondgebied waarvan het orgaan dat de vordering heeft zich bevindt, moeten voor het einde van het volgende kwartaal betaald worden volgens de op de dag, waarop de gelden worden overgemaakt, geldende wisselkoers.
 
 2. Twee Verdragsluitende Partijen kunnen in onderlinge overeenstemming de toepassing van de regels betreffende vergoedingen op basis van vaste bedragen en van toepassing zijnde tussen hen op de dag voorafgaande aan de inwerkingtreding van het Verdrag, uitbreiden tot de vergoedingen op basis van vaste bedragen bedoeld in artikel 23, derde lid, artikel 49, derde lid en artikel 70, tweede lid van het Verdrag, onder kennisgeving hiervan aan het Administratief Centrum. Hetzelfde geldt voor de regels betreffende het afzien van vergoedingen.
 
@@ -812,17 +793,17 @@ Een ieder aan wie krachtens de artikelen 66, 67 of 68 van het Verdrag bijslagen 
 
 De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikelen 37, 73 en 74 van het Verdrag, en van artikel 40, tweede lid van deze Schikking alsmede voor de betaling van uitkeringen voorzien in artikel 13, achtste lid en in artikel 47, achtste lid van genoemde Schikking in aanmerking dienen te worden genomen en in de munteenheid van een andere Verdragsluitende Partij luiden, worden als volgt omgerekend:
 
-- a). door de organen van de Lid-Staten van de Europese Gemeenschappen
+- a) door de organen van de Lid-Staten van de Europese Gemeenschappen
 
-- i). wanneer het gaat om bedragen die luiden in de munteenheid van een van deze Lid-Staten volgens de regels van de Europese Gemeenschappen;
+   - i) wanneer het gaat om bedragen die luiden in de munteenheid van een van deze Lid-Staten volgens de regels van de Europese Gemeenschappen;
 
-- ii). wanneer het gaat om bedragen die luiden in de munteenheid van een andere Verdragsluitende Partij, op basis van de gemiddelde maandelijkse koers waarop deze munteenheid stond genoteerd op een valutabeurs van de betrokken Lid-Staat; de referentieperiode is in de eerste maand van het kalenderkwartaal voorafgaande aan het begin van het in aanmerking nemen;
+   - ii) wanneer het gaat om bedragen die luiden in de munteenheid van een andere Verdragsluitende Partij, op basis van de gemiddelde maandelijkse koers waarop deze munteenheid stond genoteerd op een valutabeurs van de betrokken Lid-Staat; de referentieperiode is in de eerste maand van het kalenderkwartaal voorafgaande aan het begin van het in aanmerking nemen;
 
-- b). voor de Zwitserse organen
+- b) voor de Zwitserse organen
 
-- i). onder overeenkomstige toepassing van alinea a)ii) en de koersen welke op een Zwitserse valutabeurs stonden genoteerd;
+   - i) onder overeenkomstige toepassing van alinea a)ii) en de koersen welke op een Zwitserse valutabeurs stonden genoteerd;
 
-- ii). wanneer het gaat om de betaling van uitkeringen bedoeld in artikel 13, achtste lid en in artikel 47, achtste lid van deze Schikking, op basis van de officiële wisselkoers welke geldig is op de dag waarop de betreffende uitkeringen worden betaald.
+   - ii) wanneer het gaat om de betaling van uitkeringen bedoeld in artikel 13, achtste lid en in artikel 47, achtste lid van deze Schikking, op basis van de officiële wisselkoers welke geldig is op de dag waarop de betreffende uitkeringen worden betaald.
 
 ##### Artikel 81. Kosten van administratieve en medische controle
 
@@ -832,7 +813,7 @@ De inkomsten, beloningen en uitkeringen welke voor de toepassing van de artikele
 
 3. Artikel 78, tweede lid van deze Schikking is van overeenkomstige toepassing.
 
-## TITEL VI. DIVERSE BEPALINGEN
+### TITEL VI. DIVERSE BEPALINGEN
 
 ##### Artikel 82. Communicatie tussen de organen onderling en tussen rechthebbenden en organen
 
@@ -864,9 +845,9 @@ Het orgaan van de woon- of verblijfplaats dat krachtens artikel 81 van het Verdr
 
 1. Wanneer de datum waarop de verzekerde gebeurtenis heeft plaatsgevonden voor de datum van inwerkingtreding van het Verdrag ligt en er op grond van de aanvraag om pensioen of rente voor die datum nog geen uitkering werd vastgesteld, dan moeten er voor deze aanvraag twee uitkeringen worden vastgesteld, voor zover naar aanleiding van deze verzekerde gebeurtenis uitkeringen moeten worden gedaan voor het aan laatstbedoelde datum voorafgaande tijdvak:
 
-- a). voor het aan de toepassingsdatum van het Verdrag voorafgaande tijdvak: een uitkering overeenkomstig de bepalingen van het Verdrag van 13 februari 1961 betreffende de sociale zekerheid van Rijnvarenden (herzien);
+- a) voor het aan de toepassingsdatum van het Verdrag voorafgaande tijdvak: een uitkering overeenkomstig de bepalingen van het Verdrag van 13 februari 1961 betreffende de sociale zekerheid van Rijnvarenden (herzien);
 
-- b). voor het tijdvak vanaf de toepassingsdatum van het Verdrag: een uitkering overeenkomstig de bepalingen van het Verdrag.
+- b) voor het tijdvak vanaf de toepassingsdatum van het Verdrag: een uitkering overeenkomstig de bepalingen van het Verdrag.
 
 Indien evenwel het bedrag dat is berekend krachtens de sub a) bedoelde bepalingen hoger is dan het bedrag dat is berekend krachtens de sub b) bedoelde bepalingen, blijft betrokkene in aanmerking komen voor het bedrag dat is berekend krachtens de sub a) bedoelde bepalingen.
 
@@ -884,7 +865,7 @@ Van de overeenkomsten welke worden gesloten krachtens artikel 84, derde lid en a
 
 3. Ter zake van een voorstel tot wijziging van bijlage 5, is de in artikel 88, tweede en derde lid van het Verdrag voorgeschreven procedure van overeenkomstige toepassing.
 
-## TITEL VII. SLOTBEPALINGEN
+### TITEL VII. SLOTBEPALINGEN
 
 ##### Artikel 91. Inwerkingtreding van de Schikking
 
@@ -897,25 +878,5 @@ Van de overeenkomsten welke worden gesloten krachtens artikel 84, derde lid en a
 1. De Duitse, Franse en Nederlandse teksten van deze Schikking zijn gelijkelijk authentiek. Zij worden nedergelegd in de archieven van het Internationaal Arbeidsbureau.
 
 2. De Directeur-Generaal van het Internationaal Arbeidsbureau zendt gewaarmerkte afschriften aan elk van de Verdragsluitende Partijen en aan de Centrale Commissie voor de Rijnvaart.
-
-##### I. - Van kracht gebleven internationale overeenkomsten
-
-(Artikel 3, vijfde lid van de Schikking)
-
-In de betrekkingen tussen de Bondsrepubliek Duitsland, België, Frankrijk, Luxemburg en Nederland, zijn de bepalingen van Verordening (EEG) nr. 574/72 alsmede bijlage 5 van deze verordening van toepassing voor zover zij betrekking hebben op de wijze van vergoeding van prestaties en van kosten van administratieve en medische controle, alsmede van de invordering en premies.
-
-Het Administratief Akkoord van 25 augustus 1978 met betrekking tot de wijze van toepassing van de Overeenkomst inzake sociale zekerheid van 25 februari 1964, zoals gewijzigd en aangevuld door de Aanvullende Overeenkomst van 9 september 1975.
-
-De bepalingen van de Administratieve Regeling van 30 november 1978 betreffende de wijze van toepassing van het Verdrag inzake sociale zekerheid van 24 september 1975 betreffende de invaliditeitsverzekering.
-
-De bepalingen van het Administratief Akkoord van 3 december 1976 betreffende de wijze van toepassing van het Verdrag inzake sociale zekerheid van 3 juli 1975 betreffende de invaliditeitsverzekering.
-
-De bepalingen van het Administratief Akkoord van 29 mei 1970 en van het Aanvullend Administratief Akkoord van 16 januari/9 februari 1987 met betrekking tot de wijze van toepassing van het Verdrag inzake sociale zekerheid van 27 mei 1970 betreffende de invaliditeitsverzekering.
-
-##### II. - Van kracht gebleven vroegere overeenkomsten - regels voor de betaling -
-
-(artikel 42, tweede lid en artikel 60 van de Schikking)
-
-De artikelen 17,18,19 en 21 van het eerste technische akkoord van 18 juni 1954 bij het Verdrag van 29 maart 1951 (betaling van pensioenen en renten).
 
 GEDAAN te Straatsburg, in drie exemplaren in de Duitse, de Franse en de Nederlandse taal.

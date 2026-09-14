@@ -1,164 +1,141 @@
 ---
 title: "Europese Overeenkomst betreffende het reizen van jeugdige personen op collectieve paspoorten tussen de landen die lid zijn van de Raad van Europa"
 identifier: "BWBV0004570"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-08-05"
-last_updated: "1963-08-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004570"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004195143"
-version_id: "10004371712"
-internal_id: "C10007355021"
-label_id: "10004180414"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004570/1963-08-05/0"
-intitule_bron: "Trb.1962-88"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-08-29"
-intitule_in_force: "1963-08-27"
-intitule_status: "goed"
-original_publication: "Trb.1962-88"
-original_published_date: "1962-08-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-88"
-entry_into_force_date: "1963-08-05"
-jci_1_3: "jci1.3:c:BWBV0004570&z=1963-08-05&g=1963-08-05"
-jci_1_0: "1.0:c:BWBV0004570&g=1963-08-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-05"
+publicatiedatum: 1963-08-05
+laatste_update: 1963-08-05
+status: geldig
+toestand: 1963-08-05
+bron: "https://wetten.overheid.nl/BWBV0004570"
+opgehaald: 2026-09-14
 ---
+
 # Europese Overeenkomst betreffende het reizen van jeugdige personen op collectieve paspoorten tussen de landen die lid zijn van de Raad van Europa
 
-De ondertekenende Regeringen van de Lid-Staten van de Raad van Europa,
+*The signatory Governments of the member States of the Council of Europe, Desirous of increasing facilities for travel by young persons between their countries, Have agreed upon the following Articles:*
 
-Verlangende de faciliteiten te bevorderen voor reizen van jeugdige personen tussen hun landen,
+##### Article 1
 
-Zijn het volgende overeengekomen:
+Each Contracting Party agrees to admit upon its territory parties of young persons from the territory of any other Contracting Party, on a collective travel document satisfying the conditions specified in this Agreement.
 
-##### Artikel 1
+##### Article 2
 
-Elk der Overeenkomstsluitende Partijen laat op haar gebied groepen jeugdige personen toe die komen uit het gebied van een der andere Overeenkomstsluitende Partijen en reizen op een collectief reisdocument dat beantwoordt aan de voorwaarden die zijn aangegeven in deze Overeenkomst.
+Every person included in a collective passport for young persons shall be a national of the country which issued such travel document.
 
-##### Artikel 2
+##### Article 3
 
-Een ieder die voorkomt op een collectief paspoort voor jeugdige personen moet onderdaan zijn van het land dat dit reisdocument heeft afgegeven.
+Young persons up to their 21st birthday shall be eligible for inclusion in a collective document issued under the present Agreement.
 
-##### Artikel 3
+##### Article 4
 
-Jeugdige personen kunnen tot hun 21e jaar gebruik maken van collectieve reisdocumenten die krachtens deze Overeenkomst zijn afgegeven.
+A leader, at least 21 years of age, travelling on a valid individual passport and appointed in accordance with such regulations as may be in force in the territory of the Contracting Party which issued the collective travel document, shall:
 
-##### Artikel 4
+- - retain possession of the collective travel document;
 
-De leider van een groep, die minstens 21 jaar moet zijn, houder van een geldig individueel paspoort, en aangewezen volgens de voorschriften die eventueel van kracht zijn op het gebied van de Overeenkomstsluitende Partij die het collectieve reisdocument heeft afgegeven, moet:
+- - remain in company with the party;
 
-- -. het collectieve reisdocument bewaren,
+- - be responsible for complying with formalities at the frontiers;
 
-- -. de groep begeleiden,
+- - ensure that the members of the party remain together.
 
-- -. de formaliteiten aan de grenzen vervullen,
+##### Article 5
 
-- -. erop toezien dat de leden van de groep bij elkaar blijven.
+The number of persons who may be included in a collective travel document for young persons shall be not less than five, and not more than fifty, excluding the leader.
 
-##### Artikel 5
+##### Article 6
 
-Ieder collectief reisdocument voor jeugdige personen moet minstens vijf en maximaal vijftig namen bevatten, de leider van de groep niet meegerekend.
+All the persons included in a collective document shall remain together.
 
-##### Artikel 6
+##### Article 7
 
-Alle personen die voorkomen op een collectief reisdocument moeten bij elkaar blijven.
+If, contrary to the provisions of Article 6, a member of the party travelling on a collective travel document for young persons becomes separated from the party or does not, for any reason, return with the rest of the party to the country which issued the document, the leader of the party shall immediately inform the local authorities and, if possible, the diplomatic or consular representative of the said country.
 
-##### Artikel 7
+He shall, in any case, report the fact to the frontier authorities at the place of departure from the country.
 
-Indien, in tegenstelling tot de bepalingen van artikel 6, een der leden van de groep die voorkomt op het collectieve reisdocument voor jeugdige personen gescheiden wordt van de groep of, om welke reden dan ook, niet met de andere leden van de groep terugkeert in het land dat het collectieve reisdocument heeft af gegeven moet de leider van de groep dit onverwijld melden aan de plaatselijke autoriteiten en, voor zover mogelijk, aan de diplomatieke of consulaire vertegenwoordiger van het land dat genoemd document heeft afgegeven.
+The member not leaving the country with his party shall, if required, obtain an individual travel document from the representative of his own country.
 
-Bij het verlaten van het land moet hij in ieder geval de grenspost ervan op de hoogte stellen.
+##### Article 8
 
-Het lid dat niet met zijn groep het land verlaat moet, indien dit noodzakelijk is, een individueel reisdocument aanvragen bij de vertegenwoordiger van zijn land.
+The period of stay for parties travelling on a collective travel document for young persons shall not exceed three months.
 
-##### Artikel 8
+##### Article 9
 
-De duur van het verblijf van een groep die op een collectief reisdocument voor jeugdige personen reist mag niet langer zijn dan drie maanden.
+The collective travel document for young persons shall be in the form appended hereto and shall include in every case the following particulars:
 
-##### Artikel 9
+- (a) date, place and authority who issued the document;
 
-Het collectieve reisdocument voor jeugdige personen dient, overeenkomstig het aangehechte model, in ieder geval de volgende gegevens te bevatten:
+- (b) description of the party;
 
-- a). datum en plaats van afgifte en de instantie die het document heeft afgegeven;
+- (c) country (or countries) of destination;
 
-- b). beschrijving van de groep;
+- (d) period of validity;
 
-- c). land(en) van bestemming;
+- (e) surname, first names and passport number of the leader;
 
-- d). geldigheidsduur;
+- (f) surname (in alphabetical order), first names, date and place of birth and place of residence of each member of the party.
 
-- e). naam, voornamen en nummer van het paspoort van de leider der groep;
+##### Article 10
 
-- f). namen (in alfabetische volgorde), voornamen, geboortedatum en -plaats, alsmede woonplaats, van ieder lid van de groep.
+The normal passport-issuing authorities shall issue the collective travel document in accordance with the conditions laid down in Article 9 and shall certify that all the persons included in it are nationals of the country which issued the document, as provided in Article 2.
 
-##### Artikel 10
+Any amendments or additions to a collective travel document shall be made by the authority which issued it.
 
-De instantie die normaliter belast is met de afgifte van de paspoorten geeft het collectieve reisdocument af overeenkomstig het bepaalde in artikel 9 en verklaart dat alle erop vermelde personen onderdanen zijn van het land van afgifte van het document, zoals bepaald in artikel 2.
+##### Article 11
 
-Iedere wijziging van of toevoeging aan een collectief reisdocument dient te worden verricht door de instantie die het heeft afgeleverd.
+Every collective travel document shall in principle be issued in original only.
 
-##### Artikel 11
+Each Contracting Party may, by a declaration addressed to the Secretary-General of the Council of Europe, when signing this Agreement or depositing its instrument of ratification or approval or accession, state how many additional copies it may require.
 
-Ieder collectief reisdocument wordt in beginsel slechts in een enkel origineel exemplaar afgegeven.
+##### Article 12
 
-Iedere Overeenkomstsluitende Partij kan, op het ogenblik van de ondertekening van deze Overeenkomst of van de nederlegging van haar akte van bekrachtiging of goedkeuring of toetreding, door middel van een tot de Secretaris-Generaal van de Raad van Europa gerichte verklaring mededelen, welk aantal extra exemplaren zij eventeel zou kunnen verlangen.
+Members of a party travelling on a collective passport shall be exempt from presenting a national identity card.
 
-##### Artikel 12
+They must, however, be able to prove their identity in some way, if required to do so.
 
-De leden van de groep die op een collectief paspoort reizen worden ontheven van de verplichting een nationaal identiteitsbewijs over te leggen.
+Each Contracting Party may, by a declaration addressed to the Secretary-General of the Council of Europe, when signing this Agreement or depositing its instrument of ratification or approval or accession, specify the way in which members of a party must prove their identity.
 
-Zij dienen echter, indien nodig, in staat te zijn op de een of andere manier hun identiteit te bewijzen.
+##### Article 13
 
-Iedere Overeenkomstsluitende Partij kan, op het ogenblik van de ondertekening van deze Overeenkomst of van de nederlegging van haar akte van bekrachtiging of goedkeuring of toetreding, door middel van een tot de Secretaris-Generaal van de Raad van Europa gerichte verklaring mededelen, op welke manier de leden van een groep hun identiteit dienen te bewijzen.
+Each Contracting Party may, by a declaration addressed to the Secretary-General of the Council of Europe, when signing this Agreement or depositing its instrument of ratification or approval or accession, extend, for the purpose of admission to and stay in its territory and subject to reciprocity, the provisions of this Agreement to young refugees and young stateless persons lawfully resident in the territory of another Contracting Party and whose return thereto is guaranteed. This declaration may be withdrawn at any time by notification addressed to the Secretary-General of the Council of Europe.
 
-##### Artikel 13
+##### Article 14
 
-Op het ogenblik van de ondertekening van deze Overeenkomst of van de nederlegging van haar akte van bekrachtiging of goedkeuring of toetreding, kan elk der Overeenkomstsluitende Partijen, voor de toelating tot en het verblijf op haar gebied en onder voorbehoud van wederkerigheid, door middel van een tot de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de bepalingen van deze Overeenkomst uitbreiden tot jeugdige vluchtelingen en staatlozen die op regelmatige wijze op het gebied van een andere Overeenkomstsluitende Partij gevestigd zijn en wier terugkeer naar dat gebied gewaarborgd is. Deze verklaring kan ieder ogenblik worden ingetrokken door middel van een kennisgeving, gericht tot de Secretaris-Generaal van de Raad van Europa.
+The present Agreement shall be open to the signature of Members of the Council of Europe, who may become Parties to it either by:
 
-##### Artikel 14
+- (a) signature without reservation in respect of ratification or approval, or
 
-Deze Overeenkomst staat ter ondertekening open voor de leden van de Raad van Europa, die er partij bij kunnen worden door:
+- (b) signature with reservation in respect of ratification or approval followed by ratification or approval.
 
-- a). ondertekening zonder voorbehoud van bekrachtiging of goedkeuring, of
+Instruments of ratification or approval shall be deposited with the Secretary-General of the Council of Europe.
 
-- b). ondertekening onder voorbehoud van bekrachtiging of goedkeuring, gevolgd door bekrachtiging of goedkeuring.
+##### Article 15
 
-De akten van bekrachtiging of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+The present Agreement shall enter into force one month after the date on which three Members of the Council shall, in accordance with Article 14, have signed the Agreement without reservation in respect of ratification or approval or shall have ratified or approved it.
 
-##### Artikel 15
+In the case of any Member of the Council who shall subsequently sign the Agreement without reservation in respect of ratification or approval, or who shall ratify or approve it, the Agreement shall enter into force one month after the date of such signature or the date of deposit of the instrument of ratification or approval.
 
-Deze Overeenkomst treedt in werking een maand na de datum waarop drie leden van de Raad, overeenkomstig de bepalingen van artikel 14, de Overeenkomst zonder voorbehoud van bekrachtiging of goedkeuring hebben ondertekend, of haar hebben bekrachtigd of goedgekeurd.
+##### Article 16
 
-Voor ieder lid dat de Overeenkomst later zonder voorbehoud van bekrachtiging of goedkeuring ondertekent, of bekrachtigt of goedkeurt, treedt de Overeenkomst in werking een maand na de datum van ondertekening of van de nederlegging van de akte van bekrachtiging of goedkeuring.
+After the entry into force of this Agreement, the Committee of Ministers of the Council of Europe may invite any non-member State to accede to the present Agreement. Such accession shall take effect one month after the date of deposit of the instrument of accession with the Secretary-General of the Council of Europe.
 
-##### Artikel 16
+##### Article 17
 
-Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere staat die geen lid is van de Raad uitnodigen tot deze Overeenkomst toe te treden. De toetreding wordt van kracht een maand na de datum van de nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+The Secretary-General of the Council of Europe shall notify Members of the Council and acceding States:
 
-##### Artikel 17
+- (a) of the date of entry into force of this Agreement and of the names of any Members who have signed without reservation in respect of ratification or approval or who have ratified or approved it;
 
-De Secretaris-Generaal van de Raad van Europa doet de Leden van de Raad en de toetredende staten mededeling van:
+- (b) of the deposit of any instrument of accession in accordance with Article 16;
 
-- a). de datum van inwerkingtreding van deze Overeenkomst en de namen van de Leden die haar hebben ondertekend zonder voorbehoud van bekrachtiging of goedkeuring, of die haar hebben bekrachtigd of goedgekeurd;
+- (c) of any declaration or notification received in accordance with the provisions of Articles 11, 12 and 13;
 
-- b). de nederlegging van iedere akte van toetreding, overeenkomstig het bepaalde in artikel 16;
+- (d) of any notification received in accordance with Article 18 and its effective date.
 
-- c). iedere verklaring en kennisgeving, ontvangen overeenkomstig het bepaalde in artikel 11, 12 en 13;
+##### Article 18
 
-- d). iedere mededeling ontvangen overeenkomstig het bepaalde in artikel 18 alsmede de datum waarop de mededeling van kracht wordt.
+The present Agreement shall remain in force indefinitely.
 
-##### Artikel 18
-
-Deze Overeenkomst blijft voor onbeperkte tijd van kracht.
-
-Iedere Overeenkomstsluitende Partij kan harerzijds de toepassing: van deze Overeenkomst beëindigen, door daarvan zes maanden tevoren mededeling te doen aan de Secretaris-Generaal van de Raad van Europa.
+Any Contracting Party may terminate its own application of the Agreement by giving six months' notice to that effect to the Secretary-General of the Council of Europe.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed the present Agreement.
 

@@ -1,56 +1,35 @@
 ---
 title: "Overeenkomst inzake overgangsrechten"
 identifier: "BWBV0004529"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-04-07"
-last_updated: "1964-04-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004529"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004178033"
-version_id: "10004352052"
-internal_id: "C10006999051"
-label_id: "10004163004"
-dtd_version: "2.0"
-original_entry_into_force: "1964-04-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004529/1964-04-07/0"
-intitule_bron: "Trb.1964-87"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-06-19"
-intitule_in_force: "1964-06-19"
-intitule_status: "goed"
-original_publication: "Trb.1964-87"
-original_published_date: "1964-06-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-87"
-entry_into_force_date: "1964-04-07"
-jci_1_3: "jci1.3:c:BWBV0004529&z=1964-04-07&g=1964-04-07"
-jci_1_0: "1.0:c:BWBV0004529&g=1964-04-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-04-07"
+publicatiedatum: 1964-04-07
+laatste_update: 1964-04-07
+status: geldig
+toestand: 1964-04-07
+bron: "https://wetten.overheid.nl/BWBV0004529"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake overgangsrechten
 
-De Regering van Ierland enerzijds, en de Regeringen van België, Frankrijk, de Bondsrepubliek Duitsland, Nederland, Spanje en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland anderzijds,
+*The Government of Ireland on the one hand, and the Governments of Belgium, the French Republic, the Federal Republic of Germany, the Netherlands, Spain and the United Kingdom of Great Britain and Northern Ireland on the other, Hereby agree as follows:*
 
-Zijn hierbij als volgt overeengekomen:
+##### Article 1
 
-##### Artikel 1
+The provisions of [Article 9 (1) of the Fisheries Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=9) opened for signature on 9th March, 1964, shall apply as follows:
 
-De bepalingen van [artikel 9 (1)](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=9) van het op 9 maart 1964 voor ondertekening opengestelde Visserijverdrag worden als volgt toegepast:
+- (a) Until 31st December, 1965, Belgian, British, French, German, Netherlands and Spanish fishing vessels shall continue to have the right to fish off the coasts of Ireland, up to a limit of three miles measured from the baselines of the territorial sea;
 
-- (a). Tot 31 december 1965 behouden Belgische, Britse, Franse, Duitse, Nederlandse en Spaanse vissersschepen het recht bij de kusten van Ierland te vissen tot aan een grens van 3 mijl gemeten van de basislijnen van de territoriale zee.
+- (b) Until 31st December, 1966, Belgian, British, French, German, Netherlands and Spanish fishing vessels shall also continue to have the right to fish up to a limit of three miles measured from the baselines, of the territorial sea off those parts of the coasts of Ireland where straight baselines or bay-closing lines in excess of 10 miles are drawn.
 
-- (b). Tot 31 december 1966 behouden Belgische, Britse, Franse, Duitse, Nederlandse en Spaanse vissersschepen eveneens het recht te vissen tot aan een grens van 3 mijl gemeten van de basislijnen van de territoriale zee ter hoogte van die gedeelten van de kusten van Ierland waar rechte basislijnen of afsluitingslijnen van baaien van meer dan 10 mijl zijn getrokken.
+##### Article 2
 
-##### Artikel 2
+The provisions of [Articles 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=4) and [5 of the Fisheries Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=5) shall during the transitional periods be applicable in the zones laid down in Article 1.
 
-De bepalingen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=4) en [5 van het Visserijverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004526&artikel=5) zijn gedurende de overgangstermijnen van toepassing in de in artikel 1 omschreven zones.
+##### Article 3
 
-##### Artikel 3
-
-Deze Overeenkomst staat voor ondertekening open van 9 maart 1964 tot 10 april 1964. Zij treedt in werking wanneer zij is ondertekend door de Regering van Ierland, en wel tussen die Regering en elke andere Regering die haar alsdan ondertekent of ondertekend heeft. Ten aanzien van elke Regering die deze Overeenkomst nadien ondertekent, treedt zij in werking op de datum van ondertekening door die Regering.
+The present Agreement shall be open for signature from 9th March, 1964 to 10th April, 1964. It shall enter into force, when it is signed by the Government of Ireland, as between that Government and any other Government which then signs, or has signed, it. In respect of any Government which signs the present Agreement thereafter, the date of entry into force shall be the date of signature by that Government.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed the present Agreement.
 

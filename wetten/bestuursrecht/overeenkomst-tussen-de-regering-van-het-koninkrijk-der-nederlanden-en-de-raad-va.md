@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Raad van Bestuur ingesteld bij het Statuut van de Europese School, betreffende het functioneren van de Europese School in Nederland"
 identifier: "BWBV0004220"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-10-14"
-last_updated: "1970-10-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004220"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10004007903"
-version_id: "10004168942"
-internal_id: "C10008336131"
-label_id: "10003992454"
-dtd_version: "2.0"
-original_entry_into_force: "1970-10-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004220/1970-10-14/0"
-intitule_bron: "Trb.1970-95"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-06-24"
-intitule_in_force: "1970-10-20"
-intitule_status: "goed"
-original_publication: "Trb.1970-95"
-original_published_date: "1970-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-95"
-entry_into_force_date: "1970-10-14"
-jci_1_3: "jci1.3:c:BWBV0004220&z=1970-10-14&g=1970-10-14"
-jci_1_0: "1.0:c:BWBV0004220&g=1970-10-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-10-14"
+publicatiedatum: 1970-10-14
+laatste_update: 1970-10-14
+status: geldig
+toestand: 1970-10-14
+bron: "https://wetten.overheid.nl/BWBV0004220"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Raad van Bestuur ingesteld bij het Statuut van de Europese School, betreffende het functioneren van de Europese School in Nederland
 
-De Regering van het Koninkrijk der Nederlanden (hierna te noemen: de Regering) en de Raad van Bestuur ingesteld bij het op 12 april 1957 te Luxemburg ondertekende Statuut van de Europese School (hierna te noemen: de Raad van Bestuur),
-
-Overwegende dat de Raad van Bestuur, in overeenstemming met artikel 2 van het op 13 april 1962 te Luxemburg ondertekende Protocol nopens de oprichting van Europese Scholen, op 13 en 14 april 1962 heeft besloten tot oprichting van een nieuwe Europese School (hierna te noemen: de School) en als plaats van eerste vestiging dier School Bergen (Noord-Holland) heeft aangewezen,
-
-Verlangende, overeenkomstig de doelstellingen van genoemd Statuut en genoemd Protocol, een aanvullende overeenkomst zoals bedoeld in artikel 28 van het Statuut te sluiten ter verzekering van de meest gunstige materiële en geestelijke voorwaarden voor het functioneren van de School,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden (hierna te noemen: de Regering) en de Raad van Bestuur ingesteld bij het op 12 april 1957 te Luxemburg ondertekende Statuut van de Europese School (hierna te noemen: de Raad van Bestuur), Overwegende dat de Raad van Bestuur, in overeenstemming met artikel 2 van het op 13 april 1962 te Luxemburg ondertekende Protocol nopens de oprichting van Europese Scholen, op 13 en 14 april 1962 heeft besloten tot oprichting van een nieuwe Europese School (hierna te noemen: de School) en als plaats van eerste vestiging dier School Bergen (Noord-Holland) heeft aangewezen, Verlangende, overeenkomstig de doelstellingen van genoemd Statuut en genoemd Protocol, een aanvullende overeenkomst zoals bedoeld in artikel 28 van het Statuut te sluiten ter verzekering van de meest gunstige materiële en geestelijke voorwaarden voor het functioneren van de School, Zijn als volgt overeengekomen:*
 
 ##### Artikel I
 
@@ -108,10 +83,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overe
 
 GEDAAN te 's-Gravenhage, 29 april 1970, in tweevoud.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) J. LUNS
 
-**Voor de Raad van Bestuur ingesteld bij het Statuut van de Europese School:**
+*Voor de Raad van Bestuur ingesteld bij het Statuut van de Europese School:*
 
 (w.g.) W. FUNCK

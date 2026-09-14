@@ -1,54 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen"
 identifier: "BWBV0004123"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-07-01"
-last_updated: "2010-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004123"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10003936303"
-version_id: "10004069832"
-internal_id: "C10009539461"
-label_id: "10003921324"
-dtd_version: "2.0"
-original_entry_into_force: "1969-10-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004123/2010-07-01/0"
-intitule_bron: "Trb.1968-76"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1968-05-30"
-intitule_in_force: "1969-11-17"
-intitule_status: "goed"
-original_publication: "Trb.1968-76"
-original_published_date: "1968-05-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1968-76"
-entry_into_force_date: "1969-10-20"
-jci_1_3: "jci1.3:c:BWBV0004123&z=2010-07-01&g=2010-07-01"
-jci_1_0: "1.0:c:BWBV0004123&g=2010-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1969-10-20"
+publicatiedatum: 1969-10-20
+laatste_update: 2010-07-01
+status: geldig
+toestand: 2010-07-01
+bron: "https://wetten.overheid.nl/BWBV0004123"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen
 
-Hare Majesteit de Koningin der Nederlanden
-
-en
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-De wens koesterende een verdrag te sluiten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, hebben tot hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken.
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-Zijne Excellentie de Heer Paul Reuter, Buitengewoon en Gevolmachtigd Ambassadeur.
-
-Die, na uitwisseling van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, De wens koesterende een verdrag te sluiten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, hebben tot hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken. Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Zijne Excellentie de Heer Paul Reuter, Buitengewoon en Gevolmachtigd Ambassadeur. Die, na uitwisseling van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, zijn overeengekomen als volgt:*
 
 ### HOOFDSTUK I. Reikwijdte van het Verdrag
 
@@ -64,35 +29,35 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. De bestaande belastingen waarop het Verdrag van toepassing is, zijn met name:
 
-- a). voor Nederland:
+- a) voor Nederland:
 
-- —. de inkomstenbelasting;
+   - — de inkomstenbelasting;
 
-- —. de loonbelasting;
+   - — de loonbelasting;
 
-- —. de vennootschapsbelasting;
+   - — de vennootschapsbelasting;
 
-- —. de dividendbelasting;
+   - — de dividendbelasting;
 
-- —. de commissarissenbelasting;
+   - — de commissarissenbelasting;
 
-- —. de vermogensbelasting;
+   - — de vermogensbelasting;
 
-- —. de grondbelasting;
+   - — de grondbelasting;
 
-- b). voor Luxemburg:
+- b) voor Luxemburg:
 
-- —. l'impôt sur le revenu des personnes physiques (de inkomstenbelasting van natuurlijke personen);
+   - — l'impôt sur le revenu des personnes physiques (de inkomstenbelasting van natuurlijke personen);
 
-- —. l'impôt sur le revenu des collectivités (de inkomstenbelasting van lichamen);
+   - — l'impôt sur le revenu des collectivités (de inkomstenbelasting van lichamen);
 
-- —. l'impôt spécial sur les tantièmes (de bijzondere belasting van tantièmes);
+   - — l'impôt spécial sur les tantièmes (de bijzondere belasting van tantièmes);
 
-- —. l'impôt sur la fortune (de vermogensbelasting);
+   - — l'impôt sur la fortune (de vermogensbelasting);
 
-- —. l'impôt commercial communal, y compris l'impôt sur le total des salaires (de gemeentelijke bedrijfsbelasting, daaronder begrepen de belasting naar het totaal van de lonen en salarissen);
+   - — l'impôt commercial communal, y compris l'impôt sur le total des salaires (de gemeentelijke bedrijfsbelasting, daaronder begrepen de belasting naar het totaal van de lonen en salarissen);
 
-- —. l'impôt foncier (de grondbelasting).
+   - — l'impôt foncier (de grondbelasting).
 
 4. Dit Verdrag zal ook van toepassing zijn op alle gelijke of in wezen gelijksoortige toekomstige belastingen, die naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten zullen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mededelen.
 
@@ -102,23 +67,23 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 1. In dit Verdrag, tenzij het zinsverband anders vereist:
 
-- a). betekent de uitdrukking „Staat” Nederland of Luxemburg, al naar het zinsverband vereist; betekent de uitdrukking „Staten” Nederland en Luxemburg;
+- a) betekent de uitdrukking „Staat” Nederland of Luxemburg, al naar het zinsverband vereist; betekent de uitdrukking „Staten” Nederland en Luxemburg;
 
-- b). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden, mede overeenkomstig het op 29 april 1958 te Genève gesloten Verdrag inzake het continentale plateau, soevereine rechten heeft;
+- b) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen, en het onder de Noordzee gelegen deel van de zeebodem en de ondergrond daarvan waarop het Koninkrijk der Nederlanden, mede overeenkomstig het op 29 april 1958 te Genève gesloten Verdrag inzake het continentale plateau, soevereine rechten heeft;
 
-- c). betekent de uitdrukking „Luxemburg” het Groothertogdom Luxemburg;
+- c) betekent de uitdrukking „Luxemburg” het Groothertogdom Luxemburg;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon en een lichaam;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon en een lichaam;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
+- f) betekenen de uitdrukkingen „onderneming van een van de Staten” en „onderneming van de andere Staat” onderscheidenlijk een onderneming gedreven door een inwoner van een van de Staten en een onderneming gedreven door een inwoner van de andere Staat;
 
-- g). betekent de uitdrukking „bevoegde autoriteit”:
+- g) betekent de uitdrukking „bevoegde autoriteit”:
 
-- 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - 1. in Nederland: de Minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- 2. in Luxemburg: de Minister van de Schatkist of zijn bevoegde vertegenwoordiger.
+   - 2. in Luxemburg: de Minister van de Schatkist of zijn bevoegde vertegenwoordiger.
 
 2. Voor de toepassing van het Verdrag door elk van de Staten heeft, tenzij het zinsverband anders vereist, elke niet anders omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen die het onderwerp van het Verdrag uitmaken.
 
@@ -130,13 +95,13 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 3. Indien een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, gelden de volgende regels:
 
-- a). hij wordt geacht inwoner te zijn van de Staat waarin hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht inwoner te zijn van de Staat waarin hij een duurzaam tehuis tot zijn beschikking heeft. Indien hij in beide Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarmede zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarin hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke Staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de Staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht inwoner te zijn van de Staat waarin hij gewoonlijk verblijft;
 
-- c). indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
+- c) indien hij in beide Staten of in geen van beide gewoonlijk verblijft, wordt hij geacht inwoner te zijn van de Staat waarvan hij onderdaan is;
 
-- d). indien hij onderdaan is van beide Staten of van geen van beide regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
+- d) indien hij onderdaan is van beide Staten of van geen van beide regelen de bevoegde autoriteiten van de Staten de aangelegenheid in onderlinge overeenstemming.
 
 4. Indien een andere dan een natuurlijke persoon ingevolge de bepaling van het eerste lid inwoner van beide Staten is, wordt hij geacht inwoner te zijn van de Staat waarin de plaats van zijn werkelijke leiding is gelegen.
 
@@ -146,31 +111,31 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats;
+- e) een werkplaats;
 
-- f). een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
+- f) een mijn, een steengroeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen;
 
-- g). de uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden waarvan de duur zes maanden overschrijdt.
+- g) de uitvoering van een bouwwerk of van constructie- of montagewerkzaamheden waarvan de duur zes maanden overschrijdt.
 
 3. Een vaste inrichting wordt niet aanwezig geacht, indien:
 
-- a). gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
+- a) gebruik wordt gemaakt van inrichtingen, uitsluitend voor de opslag, uitstalling of aflevering van aan de onderneming toebehorende goederen of koopwaar;
 
-- b). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
+- b) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de opslag, uitstalling of aflevering;
 
-- c). een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
+- c) een voorraad van aan de onderneming toebehorende goederen of koopwaar wordt aangehouden, uitsluitend voor de bewerking of verwerking door een andere onderneming;
 
-- d). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
+- d) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend om voor de onderneming goederen of koopwaar aan te kopen of inlichtingen in te winnen;
 
-- e). een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
+- e) een vaste bedrijfsinrichting wordt aangehouden, uitsluitend voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor soortgelijke werkzaamheden voor de onderneming die van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben.
 
 4. Een persoon die in een van de Staten voor een onderneming van de andere Staat werkzaam is - niet zijnde een onafhankelijke vertegenwoordiger in de zin van het vijfde lid - wordt als een in de eerstbedoelde Staat aanwezige vaste inrichting beschouwd, indien hij een machtiging bezit om namens de onderneming overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefent, tenzij zijn werkzaamheden beperkt blijven tot de aankoop van goederen of koopwaar voor de onderneming.
 
@@ -218,9 +183,9 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van de Staten
 
 Indien:
 
-- a). een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
+- a) een onderneming van een van de Staten onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere Staat, of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een van de Staten en een onderneming van de andere Staat,
 
 en in het ene of in het andere geval tussen de beide ondernemingen in haar handelsbetrekkingen of financiële betrekkingen voorwaarden worden aanvaard of opgelegd die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die zonder deze voorwaarden zouden zijn opgekomen aan een van de ondernemingen, maar tengevolge van die voorwaarden haar niet zijn opgekomen, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -232,9 +197,9 @@ en in het ene of in het andere geval tussen de beide ondernemingen in haar hande
 
 Het tarief van de belasting mag evenwel niet overschrijden:
 
-- a). 2½ percent van het bruto-bedrag van de dividenden, indien de genieter een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld of in vennootschappelijke rechten die door de belastingwetgeving van die andere Staat met aandelen worden gelijkgesteld, en dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt;
+- a) 2½ percent van het bruto-bedrag van de dividenden, indien de genieter een lichaam is waarvan het kapitaal geheel of gedeeltelijk in aandelen is verdeeld of in vennootschappelijke rechten die door de belastingwetgeving van die andere Staat met aandelen worden gelijkgesteld, en dat onmiddellijk ten minste 25 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt;
 
-- b). 15 percent van het bruto-bedrag van de dividenden in alle andere gevallen.
+- b) 15 percent van het bruto-bedrag van de dividenden in alle andere gevallen.
 
 3. De bevoegde autoriteiten van de Staten regelen in onderlinge overeenstemming de wijze van toepassing van het tweede lid.
 
@@ -268,11 +233,11 @@ Het tarief van de belasting mag evenwel niet overschrijden:
 
 3. De uitdrukking „royalty's”, zoals gebezigd in dit artikel, betekent betalingen van welke aard ook als vergoeding voor het gebruik van, of voor het recht van gebruik van een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap - daaronder begrepen films -, van een octrooi, een fabrieks- of handelsmerk, een ontwerp of model, een plan, een geheim recept of werkwijze, dan wel voor het gebruik van, of het recht van gebruik van nijverheids-, handels- of wetenschappelijke uitrusting, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.
 
-4. De bepaling van het eerste lid is niet van toepassing, indien de genieter van de royalty's, die inwoner is van een van de Staten, in de andere Staat waaruit de royalty's afkomstig zijn, een vaste inrichting heeft en het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort. In een zodanig geval zijn de bepalingen van artikel 7 van toepassing.
+4. De bepaling van het eerste lid is niet van toepassing, indien de genieter van de royalty's, die inwoner is van een van de Staten, in de andere Staat waaruit de royalty's afkomstig zijn, een vaste inrichting heeft en het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort. In een zodanig geval zijn de bepalingen van [artikel 7](https://wetten.overheid.nl/BWBV0004123) van toepassing.
 
 5. Indien, tengevolge van een bijzondere verhouding tussen de schuldenaar en de schuldeiser of tussen hen beiden en een derde, het bedrag van de betaalde royalty's, in aanmerking nemende het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de schuldeiser zou zijn overeengekomen, vinden de bepalingen van dit artikel slechts op het laatstbedoelde bedrag toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-##### Artikel 13. Beperking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01)
+##### Artikel 13. Beperking van de artikelen 10, 11 en 12
 
 Internationale organisaties, hun organen en functionarissen, alsmede personen die deel uitmaken van een diplomatieke of consulaire vertegenwoordiging van een derde Staat, die zich op het grondgebied van een van de Staten bevinden, hebben in de andere Staat geen recht op de verminderingen of vrijstellingen van belasting voorzien in de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=12&z=2010-07-01&g=2010-07-01), met betrekking tot uit die andere Staat afkomstige dividenden, interest en royalty's, indien die inkomsten in de eerstbedoelde Staat niet aan een belasting naar het inkomen zijn onderworpen.
 
@@ -300,11 +265,11 @@ Internationale organisaties, hun organen en functionarissen, alsmede personen di
 
 2. Niettegenstaande de bepalingen van het eerste lid is de beloning verkregen door een inwoner van een van de Staten ter zake van een in de andere Staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde Staat belastbaar, indien:
 
-- a). de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
+- a) de genieter in de andere Staat verblijft gedurende een tijdvak of tijdvakken, die in het desbetreffende belastingjaar een totaal van 183 dagen niet te boven gaan, en
 
-- b). de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
+- b) de beloning wordt betaald door of namens een werkgever die geen inwoner van de andere Staat is, en
 
-- c). de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
+- c) de beloning niet ten laste komt van een vaste inrichting die, of van een vast middelpunt dat de werkgever in de andere Staat heeft.
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel is de beloning genoten door een inwoner van een van de Staten ter zake van een dienstbetrekking, uitgeoefend aan boord van een schip of luchtvaartuig in internationaal verkeer, of aan boord van een schip dat dient voor het vervoer in de binnenwateren, slechts in die Staat belastbaar.
 
@@ -354,9 +319,9 @@ Andere bestanddelen van het inkomen van een inwoner van een van de Staten dan di
 
 Voor de bestanddelen van het inkomen die volgens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), in Luxemburg mogen worden belast en die in de in het eerste lid van dit artikel bedoelde grondslag zijn begrepen, verleent Nederland op de aldus berekende belasting een vermindering ter grootte van het laagste van de volgende bedragen:
 
-- a). het bedrag dat gelijk is aan de in Luxemburg geheven belasting;
+- a) het bedrag dat gelijk is aan de in Luxemburg geheven belasting;
 
-- b). het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid van dit artikel berekende bedrag van de Nederlandse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
+- b) het bedrag dat gelijk is aan dat gedeelte van het overeenkomstig het eerste lid van dit artikel berekende bedrag van de Nederlandse belasting, dat tot dat belastingbedrag in dezelfde verhouding staat als het bedrag van de genoemde bestanddelen van het inkomen staat tot het bedrag van het inkomen dat de in het eerste lid van dit artikel bedoelde grondslag vormt.
 
 3. Indien een inwoner van Luxemburg inkomen verkrijgt of vermogen bezit dat overeenkomstig de bepalingen van dit Verdrag in Nederland mag worden belast, stelt Luxemburg, behoudens de bepalingen van het vierde lid, dat inkomen of vermogen vrij van belasting; Luxemburg mag evenwel, bij het berekenen van de belasting over het overige inkomen of vermogen van die inwoner, het belastingtarief toepassen, dat van toepassing zou zijn geweest, indien het vrijgestelde inkomen of vermogen niet was vrijgesteld. Deze vrijstelling geldt evenwel niet voor voordelen, verkregen uit een vervreemding als bedoeld is in [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=14&z=2010-07-01&g=2010-07-01).
 
@@ -374,9 +339,9 @@ Voor de bestanddelen van het inkomen die volgens [artikel 10, tweede lid](https:
 
 2. De uitdrukking „onderdanen” betekent:
 
-- a). alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
+- a) alle natuurlijke personen die de nationaliteit van een van de Staten bezitten;
 
-- b). alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
+- b) alle rechtspersonen, vennootschappen en verenigingen die hun rechtspositie als zodanig ontlenen aan de wetgeving die in een van de Staten van kracht is.
 
 3. De belastingheffing van een vaste inrichting die een onderneming van een van de Staten in de andere Staat heeft, is in die andere Staat niet ongunstiger dan de belastingheffing van ondernemingen van die andere Staat die dezelfde werkzaamheden uitoefenen.
 
@@ -402,11 +367,11 @@ Deze bepaling mag niet aldus worden uitgelegd, dat zij een van de Staten verplic
 
 3. In geen geval worden de bepalingen van de voorgaande leden zo uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- a). bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of de bestuurlijke praktijk van die of van de andere Staat;
+- a) bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of de bestuurlijke praktijk van die of van de andere Staat;
 
-- b). inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere Staat;
+- b) inlichtingen te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere Staat;
 
-- c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+- c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
 
 4. Indien inlichtingen worden verzocht door een van de Staten in overeenstemming met dit artikel, wendt de andere Staat zijn maatregelen inzake het verzamelen van inlichtingen aan om de verlangde inlichtingen te verkrijgen, ongeacht het feit dat de andere Staat ten behoeve van zijn eigen belastingheffing niet over dergelijke inlichtingen behoeft te beschikken. Op de in de vorige zin vervatte verplichting zijn de beperkingen van het derde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een van de Staten toegestaan is, uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke inlichtingen, te weigeren inlichtingen te verstrekken.
 
@@ -443,34 +408,6 @@ Dit Verdrag vindt geen toepassing op holdingmaatschappijen (Sociétés Holding) 
 Dit Verdrag blijft van kracht totdat het door een van de Hoge Verdragsluitende Partijen is opgezegd. Elk van de Partijen kan het Verdrag langs diplomatieke weg opzeggen met inachtneming van een termijn van ten minste zes maanden voor het einde van enig kalenderjaar na het jaar 1972.
 
 In dat geval houdt het Verdrag op van toepassing te zijn met betrekking tot belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin van de opzegging kennis is gegeven.
-
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen zijn de gevolmachtigden die dit Protocol hebben ondertekend, de volgende bepalingen overeengekomen, welke een integrerend deel vormen van het Verdrag:
-
-##### I. Ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=II&artikel=4&z=2010-07-01&g=2010-07-01)
-
-Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Staten te hebben, wordt geacht inwoner te zijn van de Staat waarin het schip zijn thuishaven heeft.
-
-##### II. Ad [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=II&artikel=4&z=2010-07-01&g=2010-07-01)
-
-De bepalingen van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=II&artikel=4&z=2010-07-01&g=2010-07-01), vinden geen toepassing op honoraire consuls.
-
-##### III. Ad [Artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=12&z=2010-07-01&g=2010-07-01)
-
-Verzoeken om teruggaaf van belasting die in strijd met de bepalingen van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=10&z=2010-07-01&g=2010-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=11&z=2010-07-01&g=2010-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=12&z=2010-07-01&g=2010-07-01) is geheven, moeten bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven.
-
-##### IV. Ad [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=16&z=2010-07-01&g=2010-07-01)
-
-Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=III&artikel=16&z=2010-07-01&g=2010-07-01), worden de leden van de raad van bestuur (conseil d'administration) of van de raad van toezicht (conseil de surveillance) van een lichaam dat inwoner van Luxemburg is, zomede de bestuurders en commissarissen van een lichaam dat inwoner van Nederland is, geacht hun werkzaamheden in Luxemburg, onderscheidenlijk in Nederland te verrichten.
-
-De bepalingen van het tweede lid van dat artikel vinden geen toepassing.
-
-##### V. Ad [Artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=V&artikel=23&z=2010-07-01&g=2010-07-01)
-
-Het is wel te verstaan dat, voor wat de Nederlandse inkomstenbelasting of vennootschapsbelasting betreft, de grondslag bedoeld in [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004123&hoofdstuk=V&artikel=23&z=2010-07-01&g=2010-07-01), is het onzuivere inkomen of de winst in de zin van de Nederlandse wetten op de inkomstenbelasting, onderscheidenlijk de vennootschapsbelasting.
-
-##### VI. Ad Artikel 26
-
-Vervallen
 
 TEN BLIJKE WAARVAN de bovengenoemde gevolmachtigden dit Verdrag hebben ondertekend en er hun zegels aan hebben gehecht.
 

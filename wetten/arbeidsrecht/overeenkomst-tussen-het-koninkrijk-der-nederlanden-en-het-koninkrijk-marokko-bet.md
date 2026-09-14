@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland"
 identifier: "BWBV0004487"
-country: "nl"
-rank: "verdrag"
-publication_date: "1969-05-14"
-last_updated: "1969-05-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004487"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004160623"
-version_id: "10004330572"
-internal_id: "C10006999281"
-label_id: "10004145864"
-dtd_version: "2.0"
-original_entry_into_force: "1969-05-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004487/1969-05-14/0"
-intitule_bron: "Trb.1969-87"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-07-02"
-intitule_in_force: "1969-07-02"
-intitule_status: "goed"
-original_publication: "Trb.1969-87"
-original_published_date: "1969-07-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-87"
-entry_into_force_date: "1969-05-14"
-jci_1_3: "jci1.3:c:BWBV0004487&z=1969-05-14&g=1969-05-14"
-jci_1_0: "1.0:c:BWBV0004487&g=1969-05-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1969-05-14"
+publicatiedatum: 1969-05-14
+laatste_update: 1969-05-14
+status: geldig
+toestand: 1969-05-14
+bron: "https://wetten.overheid.nl/BWBV0004487"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko betreffende de aanwerving en de tewerkstelling van Marokkaanse werknemers in Nederland
 
-De Regering van het Koninkrijk der Nederlanden en
-
-De Regering van het Koninkrijk Marokko,
-
-Gezien de vriendschappelijke betrekkingen die tussen beide landen bestaan, alsmede hun beider belangen op het gebied van de arbeidsvoorziening,
-
-Erkennende dat het in het belang van beide landen is de tewerkstelling van Marokkaanse werknemers in Nederland te bevorderen,
-
-Verlangende de voorwaarden van aanwerving en tewerkstelling alsmede de arbeidsvoorwaarden van de Marokkaanse onderdanen in Nederland te regelen,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van het Koninkrijk Marokko, Gezien de vriendschappelijke betrekkingen die tussen beide landen bestaan, alsmede hun beider belangen op het gebied van de arbeidsvoorziening, Erkennende dat het in het belang van beide landen is de tewerkstelling van Marokkaanse werknemers in Nederland te bevorderen, Verlangende de voorwaarden van aanwerving en tewerkstelling alsmede de arbeidsvoorwaarden van de Marokkaanse onderdanen in Nederland te regelen, Zijn als volgt overeengekomen:*
 
 ### Algemene Bepalingen
 
@@ -116,11 +87,11 @@ Het Directoraat-Generaal doet zo spoedig mogelijk aan de Dienst een lijst van de
 
 1. De werknemer moet in het bezit zijn:
 
-- a). van een document dat inlichtingen bevat nopens zijn burgerlijke staat en de in leven zijnde kinderen die te zijnen laste komen. Een copie van dit document wordt aan de bevoegde Nederlandse instantie gezonden.
+- a) van een document dat inlichtingen bevat nopens zijn burgerlijke staat en de in leven zijnde kinderen die te zijnen laste komen. Een copie van dit document wordt aan de bevoegde Nederlandse instantie gezonden.
 
-- b). van een blanco uittreksel uit het strafregister, als bedoeld in artikel 5, of bij gebreke daarvan, van een officiële verklaring van goed en zedelijk gedrag;
+- b) van een blanco uittreksel uit het strafregister, als bedoeld in artikel 5, of bij gebreke daarvan, van een officiële verklaring van goed en zedelijk gedrag;
 
-- c). van een document waaruit blijkt dat hij het medische onderzoek, als bedoeld in artikel 5, met gunstig gevolg heeft ondergaan.
+- c) van een document waaruit blijkt dat hij het medische onderzoek, als bedoeld in artikel 5, met gunstig gevolg heeft ondergaan.
 
 2. Na de ontvangst van de arbeidsovereenkomst, bedoeld in artikel 8, dragen de Marokkaanse autoriteiten er zorg voor dat de werknemer in het bezit wordt gesteld van alle vereiste documenten, met name een paspoort waarvan de geldigheidsduur ten minste één jaar bedraagt.
 
@@ -232,11 +203,11 @@ De Marokkaanse Regering zal de Marokkaanse onderdanen die zich in Nederland bevi
 
 2. De Gemengde Commissie is belast met:
 
-- a). het toezicht op de uitvoering van deze Overeenkomst. Zij tracht de moeilijkheden, die uit de toepassing van deze Overeenkomst kunnen voortvloeien, uit de weg te ruimen en er een oplossing voor te vinden voorzover tussen de Dienst en het Directoraat-Generaal geen overeenstemming is bereikt. Zij kan zich bovendien bezighouden met vraagstukken van algemene aard betreffende de aanwerving en de tewerkstelling in Nederland van Marokkaanse werknemers. Zij doet aan beide Partijen voorstellen inzake de door haar in behandeling genomen aangelegenheden.
+- a) het toezicht op de uitvoering van deze Overeenkomst. Zij tracht de moeilijkheden, die uit de toepassing van deze Overeenkomst kunnen voortvloeien, uit de weg te ruimen en er een oplossing voor te vinden voorzover tussen de Dienst en het Directoraat-Generaal geen overeenstemming is bereikt. Zij kan zich bovendien bezighouden met vraagstukken van algemene aard betreffende de aanwerving en de tewerkstelling in Nederland van Marokkaanse werknemers. Zij doet aan beide Partijen voorstellen inzake de door haar in behandeling genomen aangelegenheden.
 
-- b). het voorstellen, in voorkomende gevallen, van wijzigingen van deze Overeenkomst.
+- b) het voorstellen, in voorkomende gevallen, van wijzigingen van deze Overeenkomst.
 
-- c). het doen van voorstellen nopens de aanpassing van de voorwaarden vervat in deze Overeenkomst en die welke voorkomen in de multilaterale overeenkomsten die later tussen beide Regeringen kunnen worden gesloten. De Commissie kan nuttige suggesties doen, teneinde de samenwerking tussen Marokko en Nederland op het terrein dat door deze Overeenkomst wordt bestreken te verbeteren.
+- c) het doen van voorstellen nopens de aanpassing van de voorwaarden vervat in deze Overeenkomst en die welke voorkomen in de multilaterale overeenkomsten die later tussen beide Regeringen kunnen worden gesloten. De Commissie kan nuttige suggesties doen, teneinde de samenwerking tussen Marokko en Nederland op het terrein dat door deze Overeenkomst wordt bestreken te verbeteren.
 
 3. De Gemengde Commissie stelt haar interne organisatie en haar werkwijze vast. Haar vergaderingen zullen afwisselend in Marokko en Nederland plaats vinden op verzoek van de ene of de andere Partij.
 

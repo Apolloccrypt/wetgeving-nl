@@ -1,452 +1,417 @@
 ---
 title: "Verdrag van Wenen inzake diplomatiek verkeer"
 identifier: "BWBV0004345"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-10-07"
-last_updated: "1984-10-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004345"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004074233"
-version_id: "10004242752"
-internal_id: "C10009089191"
-label_id: "10004059174"
-dtd_version: "2.0"
-original_entry_into_force: "1984-10-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004345/1984-10-07/0"
-intitule_bron: "Trb.1962-101"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-09-27"
-intitule_in_force: "1984-09-14"
-intitule_status: "goed"
-original_publication: "Trb.1962-101"
-original_published_date: "1962-09-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-101"
-entry_into_force_date: "1984-10-07"
-jci_1_3: "jci1.3:c:BWBV0004345&z=1984-10-07&g=1984-10-07"
-jci_1_0: "1.0:c:BWBV0004345&g=1984-10-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1984-10-07"
+publicatiedatum: 1984-10-07
+laatste_update: 1984-10-07
+status: geldig
+toestand: 1984-10-07
+bron: "https://wetten.overheid.nl/BWBV0004345"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag van Wenen inzake diplomatiek verkeer
 
-De Staten die Partij zijn bij dit Verdrag,
+*The States Parties to the present Convention, Recalling that peoples of all nations from ancient times have recognized the status of diplomatic agents, Having in mind the purposes and principles of the Charter of the United Nations concerning the sovereign equality of States, the maintenance of international peace and security, and the promotion of friendly relations among nations, Believing that an international convention on diplomatic intercourse, privileges and immunities would contribute to the development of friendly relations among nations, irrespective of their differing constitutional and social systems, Realizing that the purpose of such privileges and immunities is not to benefit individuals but to ensure the efficient performance of the functions of diplomatic missions as representing States, Affirming that the rules of customary international law should continue to govern questions not expressly regulated by the provisions of the present Convention, Have agreed as follows:*
 
-In herinnering brengend dat de volkeren van alle landen sedert vele eeuwen de rechtspositie van diplomatieke vertegenwoordigers erkennen,
+##### Article 1
 
-Indachtig de doelstellingen en beginselen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) betreffende de soevereine gelijkheid der staten, de handhaving van internationale vrede en veiligheid, alsmede de bevordering van vriendschappelijke betrekkingen tussen de volkeren,
+For the purpose of the present Convention, the following expressions shall have the meanings hereunder assigned to them:
 
-In de overtuiging dat een internationaal verdrag inzake diplomatiek verkeer en diplomatieke voorrechten en immuniteiten een bijdrage zou betekenen tot de ontwikkeling van vriendschappelijke betrekkingen tussen de volkeren, ongeacht de verschillen in hun grondwettelijke en maatschappelijke stelsels,
+- (a) the “head of the mission” is the person charged by the sending State with the duty of acting in that capacity;
 
-Beseffend dat het doel van deze voorrechten en immuniteiten niet is personen te bevoorrechten, doch te verzekeren dat diplomatieke zendingen als vertegenwoordigers der staten doelmatig functioneren,
+- (b) the “members of the mission” are the head of the mission and the members of the staff of the mission;
 
-Bevestigend dat de regels van het internationale gewoonterecht van toepassing dienen te blijven op aangelegenheden die door de bepalingen van dit Verdrag niet uitdrukkelijk worden geregeld,
+- (c) the “members of the staff of the mission” are the members of the diplomatic staff, of the administrative and technical staff and of the service staff of the mission;
 
-Zijn overeengekomen als volgt:
+- (d) the “members of the diplomatic staff” are the members of the staff of the mission having diplomatic rank;
 
-##### Artikel 1
+- (e) a “diplomatic agent” is the head of the mission or a member of the diplomatic staff of the mission;
 
-In dit Verdrag hebben de navolgende uitdrukkingen de hieronder aangegeven betekenissen:
+- (f) the “members of the administrative and technical staff” are the members of the staff of the mission employed in the administrative and technical service of the mission;
 
-- (a). het „hoofd van de zending”, de persoon die door de zendstaat is aangewezen om in die hoedanigheid op te treden;
+- (g) the “members of the service staff” are the members of the staff of the mission in the domestic service of the mission;
 
-- (b). de „leden van de zending”, het hoofd van de zending en de personeelsleden van de zending;
+- (h) a “private servant” is a person who is in the domestic service of a member of the mission and who is not an employee of the sending State;
 
-- (c). de „personeelsleden van de zending”, leden van het diplomatieke personeel of van het administratieve en technische personeel en van het bedienend personeel van de zending;
+- (i) the “premises of the mission” are the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used for the purposes of the mission including the residence of the head of the mission.
 
-- (d). de „leden van het diplomatieke personeel”, de leden van het personeel van de zending die een diplomatieke rang bezitten;
+##### Article 2
 
-- (e). een „diplomatiek ambtenaar”, het hoofd van de zending of een lid van het diplomatieke personeel van de zending;
+The establishment of diplomatic relations between States, and of permanent diplomatic missions, takes place by mutual consent.
 
-- (f). de „leden van het administratieve en technische personeel”, de leden van het personeel van de zending die werkzaam zijn bij de administratieve en technische dienst van de zending;
+##### Article 3
 
-- (g). de „leden van het bedienend personeel”, de leden van het personeel van de zending die werkzaam zijn bij de huishoudelijke dienst van de zending;
+1. The functions of a diplomatic mission consist *inter alia* in:
 
-- (h). een „particuliere bediende”, een persoon die in de huishoudelijke dienst van een lid van het personeel van de zending is en niet in dienst is van de zendstaat;
+- (a) representing the sending State in the receiving State;
 
-- (i). de „gebouwen van de zending”, de gebouwen of delen van gebouwen en de daarbij behorende terreinen, ongeacht wie daarvan de eigenaar is, die gebruikt worden voor de werkzaamheden van de zending, daarbij inbegrepen de ambtswoning van het hoofd van de zending.
+- (b) protecting in the receiving State the interests of the sending State and of its nationals, within the limits permitted by international law;
 
-##### Artikel 2
+- (c) negotiating with the Government of the receiving State;
 
-Het aanknopen van diplomatieke betrekkingen tussen de staten, alsmede de vestiging van diplomatieke zendingen, geschiedt met wederzijds goedvinden.
+- (d) ascertaining by all lawful means conditions and developments in the receiving State, and reporting thereon to the Government of the sending State;
 
-##### Artikel 3
+- (e) promoting friendly relations between the sending State and the receiving State, and developing their economic, cultural and scientific relations.
 
-1. De functies van een diplomatieke zending omvatten o.a.:
+2. Nothing in the present Convention shall be construed as preventing the performance of consular functions by a diplomatic mission.
 
-- (a). het vertegenwoordigen van de zendstaat in de ontvangende staat;
+##### Article 4
 
-- (b). het behartigen van de belangen van de zendstaat en van zijn onderdanen, binnen de door het volkenrecht toegestane grenzen in de ontvangende staat;
+1. The sending State must make certain that the *agrément* of the receiving State has been given for the person it proposes to accredit as head of the mission to that State.
 
-- (c). het onderhandelen met de regering van de ontvangende staat;
+2. The receiving State is not obliged to give reasons to the sending State for a refusal of *agrément.*
 
-- (d). het met alle wettige middelen nagaan van de toestanden en ontwikkelingen in de ontvangende staat en het uitbrengen van verslag daarvan aan de regering van de zendstaat;
+##### Article 5
 
-- (e). het bevorderen van vriendschappelijke betrekkingen tussen de zendstaat en de ontvangende staat en het tot ontwikkeling brengen van hun economische, culturele en wetenschappelijke betrekkingen.
+1. The sending State may, after it has given due notification to the receiving States concerned, accredit a head of mission or assign any member of the diplomatic staff, as the case may be, to more than one State, unless there is express objection by any of the receiving States.
 
-2. Niets in dit Verdrag mag zodanig worden uitgelegd dat het de uitoefening van consulaire functies door een diplomatieke zending verhindert.
+2. If the sending State accredits a head of mission to one or more other States it may establish a diplomatic mission headed by a *chargé d'affaires ad interim* in each State where the head of mission has not his permanent seat.
 
-##### Artikel 4
+3. A head of mission or any member of the diplomatic staff of the mission may act as representative of the sending State to any international organization.
 
-1. De zendstaat dient er zich van te overtuigen dat de ontvangende staat agrément heeft verleend ten aanzien van de persoon die de zendstaat voornemens is als hoofd van de zending van die staat te accrediteren.
+##### Article 6
 
-2. De ontvangende staat is niet verplicht om de zendstaat de redenen van een weigering van het agrément mede te delen.
+Two or more States may accredit the same person as head of mission to another State, unless objection is offered by the receiving State.
 
-##### Artikel 5
+##### Article 7
 
-1. De zendstaat kan, nadat hij de betrokken ontvangende staten daarvan op behoorlijke wijze mededeling heeft gedaan, een hoofd van een zending bij meer dan een staat accrediteren of een lid van het diplomatieke personeel bij meer dan een staat aanmelden, tenzij een der ontvangende staten hiertegen uitdrukkelijk bezwaar maakt.
+Subject to the provisions of Articles 5, 8, 9 and 11, the sending State may freely appoint the members of the staff of the mission. In the case of military, naval or air attaches, the receiving State may require their names to be submitted beforehand, for its approval.
 
-2. Indien de zendstaat een hoofd van een zending bij een of meer andere staten accrediteert kan deze staat in elke staat waar het hoofd van de zending niet zijn permanente zetel heeft een diplomatieke zending vestigen met een tijdelijk zaakgelastigde aan het hoofd.
+##### Article 8
 
-3. Een hoofd van een zending of elk lid van het diplomatieke personeel van de zending kan optreden als vertegenwoordiger van de zendstaat bij internationale organisaties.
+1. Members of the diplomatic staff of the mission should in principle be of the nationality of the sending State.
 
-##### Artikel 6
+2. Members of the diplomatic staff of the mission may not be appointed from among persons having the nationality of the receiving State, except with the consent of that State which may be withdrawn at any time.
 
-Twee of meer staten kunnen dezelfde persoon als hoofd van een zending bij een andere staat accrediteren, tenzij de ontvangende staat hiertegen bezwaar maakt.
+3. The receiving State may reserve the same right with regard to nationals of a third State who are not also nationals of the sending State.
 
-##### Artikel 7
+##### Article 9
 
-Met inachtneming van de bepalingen van de artikelen 5, 8, 9 en 11 is de zendstaat vrij in het aanstellen van de personeelsleden van de zending. Bij de aanstelling van militaire, marine- of luchtmachtattachés kan de ontvangende staat eisen dat hun naam van tevoren ter goedkeuring wordt medegedeeld.
+1. The receiving State may at any time and without having to explain its decision, notify the sending State that the head of the mission or any member of the diplomatic staff of the mission is *persona non grata* or that any other member of the staff of the mission is not acceptable. In any such case, the sending Stale shall, as appropriate, either recall the person concerned or terminate his functions with the mission. A person may be declared *non grata* or not acceptable before arriving in the territory of the receiving State.
 
-##### Artikel 8
+2. If the sending State refuses or fails within a reasonable period to carry out its obligations under paragraph 1 of this Article, the receiving State may refuse to recognize the person concerned as a member of the mission.
 
-1. De leden van het diplomatieke personeel van de zending dienen in beginsel de nationaliteit van de zendstaat te bezitten.
+##### Article 10
 
-2. Als leden van het diplomatieke personeel van de zending mogen niet worden benoemd personen die de nationaliteit van de ontvangende staat bezitten, behalve met toestemming van die staat, welke toestemming te allen tijde kan worden ingetrokken.
+1. The Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, shall be notified of:
 
-3. De ontvangende staat kan zich hetzelfde recht voorbehouden ten aanzien van onderdanen van een derde staat die niet tevens onderdanen van de zendstaat zijn.
+- (a) the appointment of members of the mission, their arrival and their final departure or the termination of their functions with the mission;
 
-##### Artikel 9
+- (b) the arrival and final departure of a person belonging to the family of a member of the mission and, where appropriate, the fact that a person becomes or ceases to be a member of the family of a member of the mission;
 
-1. De ontvangende staat kan te allen tijde en zonder dat hij zijn beslissing behoeft te motiveren, de zendstaat ervan verwittigen dat het hoofd van de zending of een lid van het diplomatieke personeel van de zending tot persona non grata is verklaard of dat een ander personeelslid van de zending niet aanvaardbaar is. In dergelijke gevallen roept de zendstaat de betrokken persoon terug of beëindigt zijn werkzaamheden bij de zending. Een persoon kan tot persona non grata, of onaanvaardbaar, worden verklaard voordat hij op het grondgebied van de ontvangende staat is aangekomen.
+- (c) the arrival and final departure of private servants in the employ of persons referred to in sub-paragraph (*a*) of this paragraph and, where appropriate, the fact that they are leaving the employ of such persons;
 
-2. Indien de zendstaat weigert of in gebreke blijft binnen een redelijke termijn aan zijn verplichtingen krachtens lid 1 van dit artikel te voldoen, kan de ontvangende staat weigeren de betrokken persoon als lid van de zending te erkennen.
+- (d) the engagement and discharge of persons resident in the receiving State as members of the mission or private servants entitled to privileges and immunities.
 
-##### Artikel 10
+2. Where possible, prior notification of arrival and final departure shall also be given.
 
-1. Aan het ministerie van buitenlandse zaken van de ontvangende staat of een ander overeengekomen ministerie, wordt mededeling gedaan van:
+##### Article 11
 
-- (a). de benoeming van leden van de zending, hun aankomst en hun definitief vertrek of de beëindiging van hun werkzaamheden bij de zending;
+1. In the absence of specific agreement as to the size of the mission, the receiving State may require that the size of a mission be kept within limits considered by it to be reasonable and normal, having regard to circumstances and conditions in the receiving State and to the needs of the particular mission.
 
-- (b). de aankomst en het definitieve vertrek van een persoon die tot het gezin van een lid van de zending behoort en, in daarvoor in aanmerking komende gevallen, het feit dat een persoon gezinslid wordt van een lid van de zending of ophoudt gezinslid te zijn;
+2. The receiving State may equally, within similar bounds and on a non-discriminatory basis, refuse to accept officials of a particular category.
 
-- (c). de aankomst en het definitieve vertrek van particuliere bedienden in dienst van de onder (**a**) van dit lid bedoelde personen en, in daarvoor in aanmerking komende gevallen, het feit dat zij de dienst van deze personen verlaten;
+##### Article 12
 
-- (d). het aannemen en ontslaan van ingezetenen van de ontvangende staat als leden van de zending of als particuliere bedienden die recht hebben op voorrechten en immuniteiten.
+The sending State may not without the prior express consent of the receiving State, establish offices forming part of the mission in localities other than those in which the mission itself is established.
 
-2. Indien mogelijk dient tevens van tevoren kennis te worden gegeven van aankomst en definitief vertrek.
+##### Article 13
 
-##### Artikel 11
+1. The head of the mission is considered as having taken up his functions in the receiving State either when he has presented his credentials or when he has notified his arrival and a true copy of his credentials has been presented to the Ministry for Foreign Affairs of the receiving State, or such other ministry as may be agreed, in accordance with the practice prevailing in the receiving State which shall be applied in a uniform manner.
 
-1. Indien er geen bijzondere overeenkomst bestaat ten aanzien van de omvang van de zending, kan de ontvangende staat eisen dat de omvang van de zending wordt gehouden binnen de grenzen die deze staat als redelijk en normaal beschouwt, waarbij de in de ontvangende staat heersende omstandigheden en de behoeften van de betrokken zending in aanmerking worden genomen.
+2. The order of presentation of credentials or of a true copy thereof will be determined by the date and time of the arrival of the head of the mission.
 
-2. De ontvangende staat kan eveneens, binnen soortgelijke grenzen en op niet-discriminatoire grondslag, weigeren ambtenaren van een bepaalde categorie te aanvaarden.
+##### Article 14
 
-##### Artikel 12
+1. Heads of mission are divided into three classes, namely:
 
-Zonder voorafgaande en uitdrukkelijke toestemming van de ontvangende staat mag de zendstaat kantoren die deel uitmaken van de zending niet op andere plaatsen vestigen dan waar de zending zelf is gevestigd.
+- (a) that of ambassadors or nuncios accredited to Heads of State, and other heads of mission of equivalent rank;
 
-##### Artikel 13
+- (b) that of envoys, ministers and internuncios accredited to Heads of State;
 
-1. Het hoofd van de zending wordt geacht zijn werkzaamheden in de ontvangende staat te hebben aangevangen wanneer hij zijn geloofsbrieven heeft overhandigd of wanneer hij mededeling heeft gedaan van zijn aankomst en een gewaarmerkt afschrift van zijn geloofsbrieven is aangeboden aan het ministerie van buitenlandse zaken van de ontvangende staat of een ander ter zake overeengekomen ministerie, overeenkomstig het in de ontvangende staat heersende gebruik, dat op eenvormige wijze wordt toegepast.
+- (c) that of *chargés d'affaires* accredited to Ministers for Foreign Affairs.
 
-2. De volgorde van overhandiging der geloofsbrieven of van een gewaarmerkt afschrift daarvan wordt bepaald door de datum en het tijdstip van aankomst van het hoofd van de zending.
+2. Except as concerns precedence and etiquette, there shall be no differentiation between heads of mission by reason of their class.
 
-##### Artikel 14
+##### Article 15
 
-1. De hoofden der zendingen worden in drie klassen verdeeld, n.l.:
+The class to which the heads of their missions are to be assigned shall be agreed between States.
 
-- (a). die van ambassadeur of nuntius, geaccrediteerd bij het staatshoofd, en andere hoofden van zendingen van gelijkwaardige rang;
+##### Article 16
 
-- (b). die van gezant of internuntius, geaccrediteerd bij het staatshoofd;
+1. Heads of mission shall take precedence in their respective classes in the order of the date and time of taking up their functions in accordance with Article 13.
 
-- (c). die van zaakgelastigde, geaccrediteerd bij de minister van buitenlandse zaken.
+2. Alterations in the credentials of a head of mission not involving any change of class shall not affect his precedence.
 
-2. Behalve wat betreft voorrang en etiquette bestaat er geen onderscheid tussen de hoofden van zendingen wegens hun klasse.
+3. This article is without prejudice to any practice accepted by the receiving State regarding the precedence of the representative of the Holy See.
 
-##### Artikel 15
+##### Article 17
 
-De staten regelen onderling de klasse waartoe de hoofden van hun zendingen zullen behoren.
+The precedence of the members of the diplomatic staff of the mission shall be notified by the head of the mission to the Ministry for Foreign Affairs or such other ministry as may be agreed.
 
-##### Artikel 16
+##### Article 18
 
-1. De rangorde van de hoofden van zendingen binnen hun onderscheiden klassen wordt bepaald door de datum en het tijdstip waarop zij hun werkzaamheden overeenkomstig artikel 13 aanvangen.
+The procedure to be observed in each State for the reception of heads of mission shall be uniform in respect of each class.
 
-2. Wijzigingen in de geloofsbrieven van een hoofd van een zending die geen verandering van klasse met zich medebrengen hebben geen invloed op zijn rangorde.
+##### Article 19
 
-3. Dit artikel heeft geen invloed op een door de ontvangende staat aanvaard gebruik ten aanzien van de voorrang van de vertegenwoordiger van de Heilige Stoel.
+1. If the post of head of the mission is vacant, or if the head of the mission is unable to perform his functions, a *chargé d'affaires ad interim* shall act provisionally as head of the mission. The name of the *chargé d'affaires ad interim* shall be notified, either by the head of the mission or, in case he is unable to do so, by the Ministry for Foreign Affairs of the sending State to the Ministry for Foreign Affairs of the receiving State or such other ministry as may be agreed.
 
-##### Artikel 17
+2. In cases where no member of the diplomatic staff of the mission is present in the receiving State, a member of the administrative and technical staff may, with the consent of the receiving State, be designated by the sending State to be in charge of the current administrative affairs of the mission.
 
-De rangorde van de leden van het diplomatieke personeel van de zending wordt door het hoofd van de zending medegedeeld aan het ministerie van buitenlandse zaken of aan een ander overeengekomen ministerie.
+##### Article 20
 
-##### Artikel 18
+The mission and its head shall have the right to use the flag and emblem of the sending State on the premises of the mission, including the residence of the head of the mission, and on his means of transport.
 
-De in elke staat met betrekking tot de ontvangst van hoofden van zendingen te volgen procedure is ten aanzien van elke klasse eenvormig.
+##### Article 21
 
-##### Artikel 19
+1. The receiving State shall either facilitate the acquisition on its territory, in accordance with its laws, by the sending State of premises necessary for its mission or assist the latter in obtaining accommodation in some other way.
 
-1. Indien de plaats van hoofd der zending open staat of indien het hoofd der zending niet in staat is zijn functie uit te oefenen, treedt een tijdelijk zaakgelastigde op als voorlopig hoofd van de zending. De naam van de tijdelijk zaakgelastigde wordt, hetzij door het hoofd van de zending, hetzij, indien deze daartoe niet in staat is, door het ministerie van buitenlandse zaken van de zendstaat medegedeeld aan het ministerie van buitenlandse zaken van de ontvangende staat of een ander overeengekomen ministerie.
+2. It shall also, where necessary, assist missions in obtaining suitable accommodation for their members.
 
-2. In gevallen waarin in de ontvangende staat geen lid van het diplomatieke personeel van de zending aanwezig is kan de zendstaat, met toestemming van de ontvangende staat, een lid van het administratieve en technische personeel belasten met de waarneming van de dagelijkse administratieve zaken van de zending.
+##### Article 22
 
-##### Artikel 20
+1. The premises of the mission shall be inviolable. The agents of the receiving State may not enter them, except with the consent of the head of the mission.
 
-De zending en het hoofd der zending hebben het recht de vlag en het embleem van de zendstaat te voeren op het terrein van de zending, waaronder begrepen de ambtswoning van het hoofd der zending en zijn vervoermiddelen.
+2. The receiving State is under a special duty to take all appropriate steps to protect the premises of the mission against any intrusion or damage and to prevent any disturbance of the peace of the mission or impairment of its dignity.
 
-##### Artikel 21
+3. The premises of the mission, their furnishings and other property thereon and the means of transport of the mission shall be immune from search, requisition, attachment or execution.
 
-1. De ontvangende staat is de zendstaat behulpzaam bij het op zijn grondgebied, in overeenstemming met zijn wettelijke voorschriften, verwerven van gebouwen voor de zending, of helpt de zendstaat op andere wijze bij het verkrijgen van woon- en kantoorruimte.
+##### Article 23
 
-2. De ontvangende staat is, in voorkomende gevallen, de zendingen eveneens behulpzaam bij het verkrijgen van geschikte woonruimte voor de personeelsleden der zendingen.
+1. The sending State and the head of the mission shall be exempt from all national, regional or municipal dues and taxes in respect of the premises of the mission, whether owned or leased, other than such as represent payment for specific services rendered.
 
-##### Artikel 22
+2. The exemption from taxation referred to in this Article shall not apply to such dues and taxes payable under the law of the receiving State by persons contracting with the sending State or the head of the mission.
 
-1. De gebouwen van de zending zijn onschendbaar. Vertegenwoordigers van de ontvangende staat mogen deze alleen betreden met toestemming van het hoofd van de zending
+##### Article 24
 
-2. Op de ontvangende staat rust de bijzondere verplichting alle geëigende maatregelen te nemen om de gebouwen van de zending tegen indringers en tegen het toebrengen van schade te beschermen en te verhinderen dat de rust van de zending op enigerlei wijze wordt verstoord of aan haar waardigheid afbreuk wordt gedaan.
+The archives and documents of the mission shall be inviolable at any time and wherever they may be.
 
-3. De gebouwen van de zending, het meubilair en andere daar aanwezige voorwerpen, alsmede de vervoermiddelen van de zending, zijn gevrijwaard tegen onderzoek, vordering, beslaglegging of executoriale maatregelen.
+##### Article 25
 
-##### Artikel 23
+The receiving State shall accord full facilities for the performance of the functions of the mission.
 
-1. De zendstaat en het hoofd van de zending zijn vrijgesteld van alle landelijke, gewestelijke of gemeentelijke belastingen en rechten ten aanzien van de gebouwen van die zending, ongeacht of deze eigendom zijn of zijn gehuurd, met uitzondering van belastingen en rechten die gelden als betaling voor bepaalde verleende diensten.
+##### Article 26
 
-2. De in dit artikel bedoelde vrijstelling is niet van toepassing op belastingen en rechten die krachtens de wetgeving van de ontvangende staat moeten worden betaald door personen die met de zendstaat of het hoofd van de zending verbintenissen aangaan of hebben.
+Subject to its laws and regulations concerning zones entry into which is prohibited or regulated for reasons of national security, the receiving State shall ensure to all members of the mission freedom of movement and travel in its territory.
 
-##### Artikel 24
+##### Article 27
 
-Het archief en de documenten van de zending zijn te allen tijde en waar deze zich ook mogen bevinden onschendbaar.
+1. The receiving State shall permit and protect free communication on the part of the mission for all official purposes. In communicating with the Government and the other missions and consulates of the sending State, wherever situated, the mission may employ all appropriate means, including diplomatic couriers and messages in code or cipher. However, the mission may install and use a wireless transmitter only with the consent of the receiving State.
 
-##### Artikel 25
+2. The official correspondence of the mission shall be inviolable. Official correspondence means all correspondence relating to the mission and its functions.
 
-De ontvangende staat verleent de zending alle faciliteiten ten behoeve van de uitoefening van haar werkzaamheden.
+3. The diplomatic bag shall not be opened or detained.
 
-##### Artikel 26
+4. The packages constituting the diplomatic bag must bear visible external marks of their character and may contain only diplomatic documents or articles intended for official use.
 
-Met inachtneming van de wetten en regelingen van de ontvangende staat betreffende gebieden waartoe de toegang om redenen van nationale veiligheid verboden of aan beperkingen onderhevig is, draagt de ontvangende staat er zorg voor dat alle leden van de zending zich vrijelijk op zijn grondgebied kunnen bewegen en er vrijelijk kunnen reizen.
+5. The diplomatic courier, who shall be provided with an official document indicating his status and the number of packages constituting the diplomatic bag, shall be protected by the receiving State in the performance of his functions. He shall enjoy personal inviolability and shall not be liable to any form of arrest or detention.
 
-##### Artikel 27
+6. The sending State or the mission may designate diplomatic couriers *ad hoc.* In such cases the provisions of paragraph 5 of this Article shall also apply, except that the immunities therein mentioned shall cease to apply when such a courier has delivered to the consignee the diplomatic bag in his charge.
 
-1. Door de ontvangende staat wordt aan de zending toegestaan voor alle officiële doeleinden onbelemmerd verbindingen te onderhouden; deze verbindingen worden door de ontvangende staat beschermd. Teneinde zich met de regering en met andere zendingen en consulaire posten — waar deze zich ook mogen bevinden — van de zendstaat in verbinding te stellen, mag de zending alle daarvoor in aanmerking komende middelen gebruiken, diplomatieke koeriers en codeberichten daarbij inbegrepen. De zending mag evenwel geen radiozender installeren en gebruiken zonder toestemming van de ontvangende staat.
+7. A diplomatic bag may be entrusted to the captain of a commercial aircraft scheduled to land at an authorized port of entry. He shall be provided with an official document indicating the number of packages constituting the bag but he shall not be considered to be a diplomatic courier. The mission may send one of its members to take possession of the diplomatic bag directly and freely from the captain of the aircraft.
 
-2. De officiële briefwisseling van de zending is onschendbaar. Onder officiële briefwisseling wordt verstaan alle op de zending en haar werkzaamheden betrekking hebbende briefwisseling.
+##### Article 28
 
-3. De diplomatieke tas mag niet worden geopend of vastgehouden.
+The fees and charges levied by the mission in the course of its official duties shall be exempt from all dues and taxes.
 
-4. De pakketten welke de diplomatieke tas vormen moeten aan de buitenkant duidelijk zichtbare kentekenen dragen, waaruit hun aard blijkt en mogen slechts diplomatieke documenten of voor officieel gebruik bestemde goederen bevatten.
+##### Article 29
 
-5. De diplomatieke koerier, die dient te worden voorzien van een officieel document waaruit zijn status en het aantal pakketten welke de diplomatieke tas vormen blijkt, wordt door de ontvangende staat bij de uitoefening van zijn functie beschermd. Hij geniet persoonlijke onschendbaarheid en is gevrijwaard tegen enigerlei vorm van aanhouding of vrijheidsbeneming.
+The person of a diplomatic agent shall be inviolable. He shall not be liable to any form of arrest or detention. The receiving State shall treat him with due respect and shall take all appropriate steps to prevent any attack on his person, freedom or dignity.
 
-6. De zendstaat of de zending kan diplomatieke koeriers ad hoc aanwijzen. In deze gevallen zijn de bepalingen van lid 5 van dit artikel eveneens van toepassing, met dien verstande dat de daarin bedoelde immuniteiten niet meer van toepassing zijn wanneer deze koerier de zich onder zijn hoede bevindende diplomatieke tas aan de geadresseerde heeft afgeleverd.
+##### Article 30
 
-7. Een diplomatieke tas kan worden toevertrouwd aan de gezagvoerder van een burgerluchtvaartuig dat volgens de dienstregeling landt op een officieel erkende landingsplaats. Hij dient te worden voorzien van een officieel document waaruit het aantal pakketten welke de diplomatieke tas vormen blijkt, doch hij wordt niet als diplomatiek koerier beschouwd. De zending kan één van haar leden zenden om de diplomatieke tas rechtstreeks en zonder verdere formaliteiten uit handen van de gezagvoerder van het luchtvaartuig in ontvangst te nemen.
+1. The private residence of a diplomatic agent shall enjoy the same inviolability and protection as the premises of the mission.
 
-##### Artikel 28
+2. His papers, correspondence and, except as provided in paragraph 3 of Article 31, his property, shall likewise enjoy inviolability.
 
-De door de zending in de uitoefening van haar officiële werkzaamheden geheven leges en heffingen zijn vrijgesteld van alle belastingen en rechten.
+##### Article 31
 
-##### Artikel 29
+1. A diplomatic agent shall enjoy immunity from the criminal jurisdiction of the receiving State. He shall also enjoy immunity from its civil and administrative jurisdiction, except in the case of:
 
-De persoon van de diplomatieke ambtenaar is onschendbaar. Hij is gevrijwaard tegen enigerlei vorm van aanhouding of vrijheidsbeneming. De ontvangende staat behandelt hem met al de eerbied die hem verschuldigd is en neemt alle geëigende maatregelen om te verhinderen dat zijn persoon, vrijheid of waardigheid in gevaar wordt gebracht.
+- (a) a real action relating to private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;
 
-##### Artikel 30
+- (b) an action relating to succession in which the diplomatic agent is involved as executor, administrator, heir or legatee as a private person and not on behalf of the sending State;
 
-1. De particuliere woning van de diplomatieke ambtenaar geniet dezelfde onschendbaarheid en bescherming als de gebouwen van de zending.
+- (c) an action relating to any professional or commercial activity exercised by the diplomatic agent in the receiving State outside his official functions.
 
-2. Zijn papieren, briefwisseling en, met uitzondering van de in lid 3 van artikel 31 voorziene gevallen, zijn goederen, genieten eveneens onschendbaarheid.
+2. A diplomatic agent is not obliged to give evidence as a witness.
 
-##### Artikel 31
+3. No measures of execution may be taken in respect of a diplomatic agent except in the cases coming under sub-paragraphs (*a*), (*b*) and (*c*) of paragraph 1 of this Article, and provided that the measures concerned can be taken without infringing the inviolability of his person or of his residence.
 
-1. De diplomatieke ambtenaar geniet immuniteit ten aanzien van de rechtsmacht in strafzaken van de ontvangende staat. Hij geniet eveneens immuniteit ten aanzien van de burger- en administratiefrechtelijke rechtsmacht van die staat, met uitzondering van de volgende gevallen:
+4. The immunity of a diplomatic agent from the jurisdiction of the receiving State does not exempt him from the jurisdiction of the sending State.
 
-- (a). een zakelijke actie betreffende particulier onroerend goed dat gelegen is op het grondgebied van de ontvangende staat, tenzij hij dit onroerend goed onder zich heeft ten behoeve van de zendstaat voor de werkzaamheden van de zending;
+##### Article 32
 
-- (b). een geding betreffende erfopvolging waarin de diplomatieke ambtenaar als particulier en niet ten behoeve van de zendstaat betrokken is als uitvoerder van een uiterste wilsbeschikking, bewindvoerder, erfgenaam of legataris;
+1. The immunity from jurisdiction of diplomatic agents and of persons enjoying immunity under Article 37 may be waived by the sending State.
 
-- (c). een geding betreffende een door de diplomatieke ambtenaar in de ontvangende staat buiten zijn officiële werkzaamheden om verrichte beroeps- of bedrijfsbezigheden.
+2. Waiver must always be express.
 
-2. Een diplomatieke ambtenaar is niet verplicht om als getuige op te treden.
+3. The initiation of proceedings by a diplomatic agent or by a person enjoying immunity from jurisdiction under Article 37 shall preclude him from invoking immunity from jurisdiction in respect of any counter-claim directly connected with the principal claim.
 
-3. Ten aanzien van een diplomatieke ambtenaar mogen alleen in de onder (**a**), (**b**) en (**c**) van lid 1 van dit artikel bedoelde gevallen executoriale maatregelen worden genomen en alleen dan indien de desbetreffende maatregelen kunnen worden genomen zonder inbreuk te maken op de onschendbaarheid van zijn persoon of zijn woning.
+4. Waiver of immunity from jurisdiction in respect of civil or administrative proceedings shall not be held to imply waiver of immunity in respect of the execution of the judgment, for which a separate waiver shall be necessary.
 
-4. De immuniteit van een diplomatieke ambtenaar ten aanzien van de rechtsmacht van de ontvangende staat verleent hem geen immuniteit ten aanzien van die rechtsmacht van de zendstaat.
+##### Article 33
 
-##### Artikel 32
+1. Subject to the provisions of paragraph 3 of this Article, a diplomatic agent shall with respect to services rendered for the sending State be exempt from social security provisions which may be in force in the receiving State.
 
-1. Van de immuniteit van rechtsmacht van diplomatieke ambtenaren en van personen die immuniteit genieten krachtens artikel 37 kan door de zendstaat afstand worden gedaan.
+2. The exemption provided for in paragraph 1 of this Article shall also apply to private servants who are in the sole employ of a diplomatic agent, on condition:
 
-2. Het afstand doen van immuniteit dient altijd uitdrukkelijk kenbaar te worden gemaakt.
+- (a) that they are not nationals of or permanently resident in the receiving State; and
 
-3. Indien een diplomatieke ambtenaar of een persoon die krachtens artikel 37 immuniteit van rechtsmacht geniet een rechtsgeding aanvangt kan hij zich ten aanzien van een eis in reconventie die rechtstreeks verband houdt met de eis in conventie niet beroepen op immuniteit van rechtsmacht.
+- (b) that they are covered by the social security provisions which may be in force in the sending State or a third State.
 
-4. Het afstand doen van immuniteit van rechtsmacht ten aanzien van burger- of administratiefrechtelijke procedures wordt niet geacht in te houden het afstand doen van immuniteit ten aanzien van de tenuitvoerlegging van het vonnis; hiervoor is een afzonderlijk afstand doen van immuniteit noodzakelijk.
+3. A diplomatic agent who employs persons to whom the exemption provided for in paragraph 2 of this Article does not apply shall observe the obligations which the social security provisions of the receiving State impose upon employers.
 
-##### Artikel 33
+4. The exemption provided for in paragraphs 1 and 2 of this Article shall not preclude voluntary participation in the social security system of the receiving State provided that such participation is permitted by that State.
 
-1. Met inachtneming van de bepalingen van lid 3 van dit artikel is een diplomatieke ambtenaar ten aanzien van voor de zendstaat verrichte diensten vrijgesteld van de eventueel in de ontvangende staat van kracht zijnde voorschriften op het terrein van de sociale verzekering.
+5. The provisions of this Article shall not affect bilateral or multilateral agreements concerning social security concluded previously and shall not prevent the conclusion of such agreements in the future.
 
-2. De in lid 1 van dit artikel bedoelde vrijstelling geldt ook voor particuliere bedienden die uitsluitend in dienst zijn van een diplomatieke ambtenaar, op voorwaarde:
+##### Article 34
 
-- (a). dat zij geen onderdaan zijn van, of duurzaam verblijf houden in, de ontvangende staat; en
+A diplomatic agent shall be exempt from all dues and taxes, personal or real, national, regional or municipal, except:
 
-- (b). dat op hen de voorschriften op het terrein van de sociale verzekering van toepassing zijn, die in de zendstaat of in een derde staat van kracht zijn.
+- (a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
 
-3. Een diplomatieke ambtenaar die personen in dienst heeft waarop de in lid 2 van dit artikel bedoelde vrijstelling niet van toepassing is, dient de verplichtingen in acht te nemen, die de voorschriften op het terrein van de sociale verzekering van de ontvangende staat aan werkgevers opleggen.
+- (b) dues and taxes on private immovable property situated in the territory of the receiving State, unless he holds it on behalf of the sending State for the purposes of the mission;
 
-4. De in de leden 1 en 2 van dit artikel bedoelde vrijstelling sluit vrijwillige deelneming aan het stelsel van sociale verzekering van de ontvangende staat niet uit, mits deze staat deze deelneming toestaat.
+- (c) estate, succession or inheritance duties levied by the receiving State subject to the provisions of paragraph 4 of Article 39;
 
-5. De bepalingen van dit artikel hebben geen invloed op reeds eerder gesloten bilaterale of multilaterale overeenkomsten inzake sociale verzekering en staan het sluiten van dergelijke overeenkomsten in de toekomst niet in de weg.
+- (d) dues and taxes on private income having its source in the receiving State and capital taxes on investments made in commercial undertakings in the receiving State;
 
-##### Artikel 34
+- (e) charges levied for specific services rendered;
 
-Een diplomatieke ambtenaar is vrijgesteld van alle belastingen en rechten, zowel persoonlijke als zakelijke, hetzij landelijke, gewestelijke of gemeentelijke belastingen, met uitzondering van:
+- (f) registration, court or record fees, mortgage dues and stamp duty, with respect to immovable property, subject to the provisions of Article 23.
 
-- (a). indirecte belastingen die normaal in de prijs van goederen of diensten begrepen zijn;
+##### Article 35
 
-- (b). belastingen en rechten op particulier onroerend goed dat gelegen is op het grondgebied van de ontvangende staat tenzij hij dit onroerend goed onder zich heeft ten behoeve van de zendstaat voor de werkzaamheden van de zending;
+The receiving State shall exempt diplomatic agents from all personal services, from all public service of any kind whatsoever, and from military obligations such as those connected with requisitioning, military contributions and billeting.
 
-- (c). door de ontvangende staat met inachtneming van de bepalingen van lid 4 van artikel 39 geheven successierechten en rechten van overgang;
+##### Article 36
 
-- (d). belastingen en rechten op particulier inkomen welks bron is gelegen in de ontvangende staat en vermogensbelastingen op in bedrijven in de ontvangende staat belegd vermogen;
+1. The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services, on:
 
-- (e). heffingen wegens bepaalde verleende diensten;
+- (a) articles for the official use of the mission;
 
-- (f). registratie-, griffie- en hypotheekrechten en zegelrecht met betrekking tot onroerend goed, met inachtneming van de bepalingen van artikel 23.
+- (b) articles for the personal use of a diplomatic agent or members of his family forming part of his household, including articles intended for his establishment.
 
-##### Artikel 35
+2. The personal baggage of a diplomatic agent shall be exempt from inspection, unless there are serious grounds for presuming that it contains articles not covered by the exemptions mentioned in paragraph 1 of this Article, or articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the receiving State. Such inspection shall be conducted only in the presence of the diplomatic agent or of his authorized representative.
 
-De ontvangende staat stelt diplomatieke vertegenwoordigers vrij van elk persoonlijk dienstbetoon, van elk openbaar dienstbetoon van welke aard dan ook, en van militaire verplichtingen verband houdende met vordering, militaire bijdragen en inkwartiering.
+##### Article 37
 
-##### Artikel 36
+1. The members of the family of a diplomatic agent forming part of his household shall, if they are not nationals of the receiving State, enjoy the privileges and immunities specified in Articles 29 to 36.
 
-1. De ontvangende staat laat de binnenkomst toe van:
+2. Members of the administrative and technical staff of the mission, together with members of their families forming part of their respective households, shall, if they are not nationals of or permanently resident in the receiving State, enjoy the privileges and immunities specified in Articles 29 to 35, except that the immunity from civil and administrative jurisdiction of the receiving State specified in paragraph 1 of Article 31 shall not extend to acts performed outside the course of their duties. They shall also enjoy the privileges specified in Article 36, paragraph 1, in respect of articles imported at the time of first installation.
 
-- (a). goederen voor het officiële gebruik van de zending,
+3. Members of the service staff of the mission who are not nationals of or permanently resident in the receiving State shall enjoy immunity in respect of acts performed in the course of their duties, exemption from dues and taxes on the emoluments they receive by reason of their employment and the exemption contained in Article 33.
 
-- (b). goederen voor het persoonlijke gebruik van een diplomatieke ambtenaar of van zijn inwonende gezinsleden, met inbegrip van artikelen bestemd voor zijn inrichting,
+4. Private servants of members of the mission shall, if they are not nationals of or permanently resident in the receiving State, be exempt from dues and taxes on the emoluments they receive by reason of their employment. In other respects, they may enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the mission.
 
-en verleent vrijstelling van alle douanerechten, belastingen en daarmee verband houdende heffingen, met uitzondering van heffingen voor opslag, vervoer en dergelijke diensten, ten aanzien van die goederen, een en ander in overeenstemming met eventueel door deze staat aan te nemen wetten en regelingen.
+##### Article 38
 
-2. De persoonlijke bagage van een diplomatieke ambtenaar is vrijgesteld van onderzoek, tenzij er ernstige redenen zijn om te veronderstellen dat zij goederen bevat, die niet vallen onder de in lid 1 van dit artikel bedoelde vrijstellingen of goederen waarvan de in- of uitvoer verboden is door de wet of onderworpen is aan quarantainebepalingen van de ontvangende staat.
+1. Except insofar as additional privileges and immunities may be granted by the receiving State, a diplomatic agent who is a national of or permanently resident in that State shall enjoy only immunity from jurisdiction, and inviolability, in respect of official acts performed in the exercise of his functions.
 
-Onderzoek mag slechts plaats vinden in aanwezigheid van de diplomatieke ambtenaar of van een persoon die gemachtigd is hem te vertegenwoordigen.
+2. Other members of the staff of the mission and private servants who are nationals of or permanently resident in the receiving State shall enjoy privileges and immunities only to the extent admitted by the receiving State. However, the receiving State must exercise its jurisdiction over those persons in such a manner as not to interfere unduly with the performance of the functions of the mission.
 
-##### Artikel 37
+##### Article 39
 
-1. De inwonende gezinsleden van een diplomatieke ambtenaar genieten, indien zij geen onderdaan zijn van de ontvangende staat, de in de artikelen 29 t/m 36 omschreven voorrechten en immuniteiten.
+1. Every person entitled to privileges and immunities shall enjoy them from the moment he enters the territory of the receiving State on proceeding to take up his post or, if already in its territory, from the moment when his appointment is notified to the Ministry for Foreign Affairs or such other ministry as may be agreed.
 
-2. Leden van het administratieve en technische personeel van de zending, alsmede inwonende gezinsleden, genieten, indien zij geen onderdaan zijn van, of niet duurzaam verblijf houden in, de ontvangende staat, de in de artikelen 29 t/m 35 omschreven voorrechten en immuniteiten, met dien verstande dat de immuniteit van de burger- en administratiefrechtelijke bevoegdheid van de ontvangende staat omschreven in lid 1 van artikel 31 zich niet uitstrekt tot handelingen die geen ambtshandelingen zijn. Zij genieten voorts de in artikel 36, lid 1, omschreven voorrechten met betrekking tot goederen die worden ingevoerd ten tijde dat zij zich voor het eerst inrichten.
+2. When the functions of a person enjoying privileges and immunities have come to an end, such privileges and immunities shall normally cease at the moment when he leaves the country, or on expiry of a reasonable period in which to do so, but shall subsist until that time, even in case of armed conflict. However, with respect to acts performed by such a person in the exercise of his functions as a member of the mission, immunity shall continue to subsist.
 
-3. Leden van het bedienende personeel van de zending die geen onderdaan zijn van, of niet duurzaam verblijf houden in, de ontvangende staat genieten immuniteit ten aanzien van handelingen verricht in hun dienstbetrekking, vrijstelling van belastingen en rechten op de lonen die zij ontvangen uit hoofde van hun dienstbetrekking, alsmede de in artikel 33 vervatte vrijstelling.
+3. In case of the death of a member of the mission, the members of his family shall continue to enjoy the privileges and immunities to which they are entitled until the expiry of a reasonable period in which to leave the country.
 
-4. Particuliere bedienden van leden van de zending zijn, indien zij geen onderdaan zijn van, of niet duurzaam verblijf houden in, de ontvangende staat, vrijgesteld van belastingen en rechten op de lonen die zij ontvangen uit hoofde van hun dienstbetrekking. In andere opzichten genieten zij slechts voorrechten en immuniteiten voorzover de ontvangende staat dit toestaat. De ontvangende staat moet zijn rechtsmacht over deze personen evenwel uitoefenen op een wijze die de uitoefening van de functies van de zending niet onnodig bemoeilijkt.
+4. In the event of the death of a member of the mission not a national of or permanently resident in the receiving State or a member of his family forming part of his household, the receiving State shall permit the withdrawal of the movable property of the deceased, with the exception of any property acquired in the country the export of which was prohibited at the time of his death. Estate, succession and inheritance duties shall not be levied on movable property the presence of which in the receiving State was due solely to the presence there of the deceased as a member of the mission or as a member of the family of a member of the mission.
 
-##### Artikel 38
+##### Article 40
 
-1. Behalve voorzover een ontvangende staat aanvullende voorrechten en immuniteiten verleent, geniet een diplomatieke ambtenaar die onderdaan is van, of duurzaam verblijf houdt in, die staat slechts immuniteit van rechtsmacht en onschendbaarheid ten aanzien van officiële handelingen verricht in de uitoefening van zijn functie.
+1. If a diplomatic agent passes through or is in the territory of a third State, which has granted him a passport visa if such visa was necessary, while proceeding to take up or to return to his post, or when returning to his own country, the third State shall accord him inviolability and such other immunities as may be required to ensure his transit or return. The same shall apply in the case of any members of his family enjoying privileges or immunities who are accompanying the diplomatic agent, or travelling separately to join him or to return to their country.
 
-2. Andere personeelsleden van de zending en particuliere bedienden die onderdaan zijn van, of duurzaam verblijf houden in, de ontvangende staat genieten slechts voorrechten en immuniteiten voorzover deze door de ontvangende staat zijn toegestaan. De ontvangende staat moet zijn rechtsmacht over deze personen evenwel uitoefenen op een wijze die de uitoefening van de functies van de zending niet onnodig bemoeilijkt.
+2. In circumstances similar to those specified in paragraph 1 of this Article, third States shall not hinder the passage of members of the administrative and technical or service staff of a mission, and of members of their families, through their territories.
 
-##### Artikel 39
+3. Third States shall accord to official correspondence and other official communications in transit, including messages in code or cipher, the same freedom and protection as is accorded by the receiving State. They shall accord to diplomatic couriers, who have been granted a passport visa if such visa was necessary, and diplomatic bags in transit the same inviolability and protection as the receiving State is bound to accord.
 
-1. Een ieder die recht heeft op voorrechten en immuniteiten geniet deze vanaf het ogenblik waarop hij het grondgebied van de ontvangende staat betreedt om zijn functie te aanvaarden, of, indien hij zich reeds op het grondgebied van die staat bevindt, vanaf het ogenblik waarop kennisgeving van zijn aanstelling wordt gedaan aan het ministerie van buitenlandse zaken of aan een ander overeengekomen ministerie.
+4. The obligations of third States under paragraphs 1, 2 and 3 of this Article shall also apply to the persons mentioned respectively in those paragraphs, and to official communications and diplomatic bags, whose presence in the territory of the third State is due to *force majeure.*
 
-2. Wanneer de taak van een persoon die voorrechten en immuniteiten geniet is beëindigd, houden deze voorrechten en immuniteiten als regel op te bestaan op het ogenblik waarop hij het land verlaat, of na het verstrijken van een redelijke termijn om het land te verlaten, doch zij blijven tot aan dat tijdstip van kracht, zelfs in geval van een gewapend conflict. Met betrekking tot door zulk een persoon in de uitoefening van zijn functie als lid van de zending verrichte handelingen blijft de immuniteit evenwel van kracht.
+##### Article 41
 
-3. Indien een lid van de zending overlijdt, blijven zijn gezinsleden de voorrechten en immuniteiten genieten waarop zij recht hebben, tot aan het verstrijken van een redelijke termijn om het land te verlaten.
+1. Without prejudice to their privileges and immunities, it is the duty of all persons enjoying such privileges and immunities to respect the laws and regulations of the receiving State. They also have a duty not to interfere in the internal affairs of that State.
 
-4. Indien een lid van de zending die geen onderdaan is van, of niet duurzaam verblijf houdt in, de ontvangende staat of een inwonend gezinslid overlijdt staat de ontvangende staat toe dat de roerende goederen van de overledene uit het land worden gevoerd, met uitzondering van in dat land verworven goederen waarvan de uitvoer op het tijdstip van zijn overlijden verboden is. Successierechten worden niet geheven op roerende goederen waarvan de aanwezigheid in de ontvangende staat uitsluitend het gevolg was van de aanwezigheid aldaar van de overledene als lid van de zending of als gezinslid van een lid van de zending.
+2. All official business with the receiving State entrusted to the mission by the sending State shall be conducted with or through the Ministry for Foreign Affairs of the receiving State or such other ministry as may be agreed.
 
-##### Artikel 40
+3. The premises of the mission must not be used in any manner incompatible with the functions of the mission as laid down in the present Convention or by other rules of general international law or by any special agreements in force between the sending and the receiving State.
 
-1. Indien een diplomatieke ambtenaar op doorreis is door, of zich bevindt op, het grondgebied van een derde staat, die hem een visum heeft verleend indien zulk een visum vereist was, terwijl hij op weg is om zijn werkzaamheden op zijn post te aanvaarden of om naar zijn post terug te keren, of wanneer hij naar zijn eigen land terugkeert, verleent de derde staat hem onschendbaarheid en alle overige immuniteiten die noodzakelijk zijn voor zijn doorreis of terugkeer. Hetzelfde geldt voor leden van zijn gezin die voorrechten en immuniteiten genieten en die de (diplomatieke ambtenaar vergezellen of afzonderlijk reizen om zich bij hem te voegen of naar hun land terug te keren.
+##### Article 42
 
-2. In omstandigheden die van dezelfde aard zijn als die omschreven in lid 1 van dit artikel, belemmeren derde staten niet de doorreis door hun grondgebied van leden van het administratieve en technische of het bedienende personeel van een zending, en van hun gezinsleden.
+A diplomatic agent shall not in the receiving State practise for personal profit any professional or commercial activity.
 
-3. Derde staten verlenen aan officiële briefwisseling en aan andere officiële berichten die via hun grondgebied worden geleid, waaronder begrepen codeberichten, dezelfde vrijheid en bescherming als door de ontvangende staat worden verleend. Zij verlenen de diplomatieke koeriers aan wie een visum is verleend indien zulk een visum vereist was, en diplomatieke tassen die via hun grondgebied worden geleid, dezelfde onschendbaarheid en bescherming als de ontvangende staat moet verlenen.
+##### Article 43
 
-4. De verplichtingen van derde staten krachtens de leden 1, 2 en 3 van dit artikel zijn ook van toepassing op de in deze leden onderscheidenlijk genoemde personen, alsmede op officiële berichten en diplomatieke tassen waarvan de aanwezigheid op het grondgebied van de derde staat aan overmacht te wijten is.
+The function of a diplomatic agent comes to an and, *inter alia:*
 
-##### Artikel 41
+- (a) on notification by the sending State to the receiving State that the function of the diplomatic agent has come to an end;
 
-1. Ongeacht hun voorrechten en immuniteiten is het die plicht van alle personen die deze voorrechten en immuniteiten genieten de wetten en regelingen van de ontvangende staat te eerbiedigen. Zij hebben ook de plicht zich niet in te laten met de binnenlandse aangelegenheden van die staat.
+- (b) on notification by the receiving State to the sending State that, in accordance with paragraph 2 of Article 9, it refuses to recognise the diplomatic agent as a member of the mission.
 
-2. Al het officiële verkeer dat de zending in opdracht van de zendstaat met de ontvangende staat heeft, vindt plaats met of door tussenkomst van het ministerie van buitenlandse zaken van de ontvangende staat of een ander ter zake overeengekomen ministerie.
+##### Article 44
 
-3. De gebouwen van de zending mogen niet worden gebruikt op een wijze die onverenigbaar is met de functies van de zending als omschreven in dit Verdrag of door andere regelen van algemeen internationaal recht of door bijzondere overeenkomsten die tussen de zendstaat en de ontvangende staat van kracht zijn.
+The receiving State must, even in case of armed conflict, grant facilities in order to enable persons enjoying privileges and immunities, other than nationals of the receiving State, and members of the families of such persons irrespective of their nationality, to leave at the earliest possible moment. It must, in particular, in case of need, place at their disposal the necessary means of transport for themselves and their property.
 
-##### Artikel 42
+##### Article 45
 
-Een diplomatieke ambtenaar mag in de ontvangende staat geen beroeps- of bedrijfsbezigheid uitoefenen gericht op persoonlijk gewin.
+If diplomatic relations are broken off between two States, or if a mission is permanently or temporarily recalled:
 
-##### Artikel 43
+- (a) the receiving State must, even in case of armed conflict, respect and protect the premises of the mission, together with its property and archives;
 
-De taak van een diplomatieke ambtenaar wordt onder meer beëindigd:
+- (b) the sending State may entrust the custody of the premises of the mission, together with its property and archives, to a third State acceptable to the receiving State;
 
-- (a). wanneer de zendstaat de ontvangende staat mededeelt dat de taak van de diplomatieke ambtenaar geëindigd is;
+- (c) the sending State may entrust the protection of its interests and those of its nationals to a third State acceptable to the receiving State.
 
-- (b). wanneer de ontvangende staat de zendstaat mededeelt dat hij, overeenkomstig lid 2 van artikel 9, weigert de diplomatieke ambtenaar als lid van de zending te erkennen.
+##### Article 46
 
-##### Artikel 44
+A sending State may with the prior consent of a receiving State, and at the request of a third State not represented in the receiving State, undertake the temporary protection of the interests of the third State and of its nationals.
 
-De ontvangende staat moet, zelfs in het geval van een gewapend conflict, faciliteiten verlenen teneinde personen die voorrechten en immuniteiten genieten en die geen onderdaan zijn van de ontvangende staat, alsmede de gezinsleden van die personen, ongeacht hun nationaliteit, in staat te stellen binnen de kortst mogelijke tijd te vertrekken. Met name moet de ontvangende staat hun, in geval van nood, de nodige vervoermiddelen voor henzelf zowel als voor hun goederen ter beschikking stellen.
+##### Article 47
 
-##### Artikel 45
+1. In the application of the provisions of the present Convention, the receiving State shall not discriminate as between States.
 
-Indien de diplomatieke betrekkingen tussen twee staten worden verbroken of indien een zending voorgoed of tijdelijk wordt teruggeroepen:
+2. However, discrimination shall not be regarded as taking place:
 
-- (a). dient de ontvangende staat, zelfs in het geval van een gewapend conflict, de gebouwen van de zending, alsmede de zich aldaar bevindende goederen en archieven, te eerbiedigen en te beschermen;
+- (a) where the receiving State applies any of the provisions of the present Convention restrictively because of a restrictive application of that provision to its mission in the sending State;
 
-- (b). kan de zendstaat de zorg voor de gebouwen van de zending, alsmede voor de zich aldaar bevindende goederen en archieven, toevertrouwen aan een derde staat die voor de ontvangende staat aanvaardbaar is;
+- (b) where by custom or agreement States extend to each other more favourable treatment than is required by the provisions of the present Convention.
 
-- (c). kan de zendstaat de behartiging van zijn belangen en van die van zijn onderdanen toevertrouwen aan een derde staat die voor de ontvangende staat aanvaardbaar is.
+##### Article 48
 
-##### Artikel 46
+The present Convention shall be open for signature by all States Members of the United Nations or of any of the specialised agencies or Parties to the [Statute of the International Court of Justice](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), and by any other State invited by the General Assembly of the United Nations to become a Party to the Convention, as follows: until 31 October 1961 at the Federal Ministry for Foreign Affairs of Austria and subsequently, until 31 March 1962, at the United Nations Headquarters in New York.
 
-Een zendstaat mag met de voorafgaande toestemming van een ontvangende staat en op verzoek van een derde staat die in de ontvangende staat niet vertegenwoordigd is, de tijdelijke behartiging van de belangen van die derde staat en van diens onderdanen op zich nemen.
+##### Article 49
 
-##### Artikel 47
+The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-1. Bij de toepassing van de bepalingen van dit Verdrag maakt de ontvangende staat geen onderscheid tussen de staten.
+##### Article 50
 
-2. Onderscheid wordt evenwel niet geacht te zijn gemaakt:
+The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 48. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
-- (a). indien de ontvangende staat enigerlei bepaling van dit Verdrag op beperkte wijze toepast omdat die bepaling op zijn zending in de zendstaat beperkt wordt toegepast;
+##### Article 51
 
-- (b). indien krachtens gewoonterecht of overeenkomst de staten elkaar een gunstiger behandeling toekennen dan bij dit Verdrag is voorgeschreven.
+1. The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations.
 
-##### Artikel 48
+2. For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession.
 
-Dit Verdrag staat open ter ondertekening door alle staten die lid zijn van de Verenigde Naties of van een der gespecialiseerde organisaties, dan wel partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), alsmede door elke andere staat die door de Algemene Vergadering van de Verenigde Naties wordt uitgenodigd partij bij dit Verdrag te worden Tot 31 oktober 1961 staat dit Verdrag ter ondertekening open bij het Bondsministerie van Buitenlandse Zaken van Oostenrijk en na die datum, tot 31 maart 1962, bij de Verenigde Naties te New York.
+##### Article 52
 
-##### Artikel 49
+The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 48:
 
-Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+- (a) of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 48, 49 and 50;
 
-##### Artikel 50
+- (b) of the date on which the present Convention will enter into force, in accordance with Article 51.
 
-Dit Verdrag blijft open voor toetreding door elke staat die tot een van de vier in artikel 48 bedoelde categorieën behoort. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+##### Article 53
 
-##### Artikel 51
-
-1. Dit Verdrag treedt in werking op de dertigste dag na de datum van nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
-
-2. Ten aanzien van elke staat die dit Verdrag bekrachtigt of ertoe toetreedt na nederlegging van de tweeëntwintigste akte van bekrachtiging of toetreding, treedt het Verdrag in werking op de dertigste dag na de datum waarop die staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
-
-##### Artikel 52
-
-De Secretaris-Generaal van de Verenigde Naties doet alle staten die tot een van de vier in artikel 48 bedoelde categorieën behoren, mededeling van:
-
-- (a). de ondertekeningen van dit Verdrag en van de nederlegging van akten van bekrachtiging of toetreding overeenkomstig de artikelen 48, 49 en 50;
-
-- (b). de datum waarop dit Verdrag overeenkomstig artikel 51 in werking zal treden.
-
-##### Artikel 53
-
-Het origineel van dit Verdrag, waarvan de Chinese, Engelse, Franse, Russische en Spaanse teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften ervan doet toekomen aan alle staten die behoren tot een van de vier in artikel 48 bedoelde categorieën.
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 48.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their respective Governments, have signed the present Convention.
 

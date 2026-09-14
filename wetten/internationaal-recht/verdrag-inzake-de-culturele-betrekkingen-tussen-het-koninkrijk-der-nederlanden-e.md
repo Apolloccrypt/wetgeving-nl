@@ -1,70 +1,35 @@
 ---
 title: "Verdrag inzake de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Mexico"
 identifier: "BWBV0004213"
-country: "nl"
-rank: "verdrag"
-publication_date: "1966-07-21"
-last_updated: "1966-07-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004213"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004006273"
-version_id: "10004166792"
-internal_id: "C10008335921"
-label_id: "10003990794"
-dtd_version: "2.0"
-original_entry_into_force: "1966-07-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004213/1966-07-21/0"
-intitule_bron: "Trb.1964-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-05-22"
-intitule_in_force: "1966-09-15"
-intitule_status: "goed"
-original_publication: "Trb.1964-71"
-original_published_date: "1964-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-71"
-entry_into_force_date: "1966-07-21"
-jci_1_3: "jci1.3:c:BWBV0004213&z=1966-07-21&g=1966-07-21"
-jci_1_0: "1.0:c:BWBV0004213&g=1966-07-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1966-07-21"
+publicatiedatum: 1966-07-21
+laatste_update: 1966-07-21
+status: geldig
+toestand: 1966-07-21
+bron: "https://wetten.overheid.nl/BWBV0004213"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake de culturele betrekkingen tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Mexico
 
-De Regering van het Koninkrijk der Nederlanden en
-
-De Regering van de Verenigde Staten van Mexico,
-
-Verlangend, de traditionele vriendschapsbanden die de twee volkeren verbinden nauwer aan te halen en de betrekkingen tussen de twee landen op het gebied van het onderwijs, de wetenschappen en dat der kunsten te versterken,
-
-Hebben besloten een Verdrag inzake de culturele betrekkingen te sluiten en hebben te dien einde als Gevolmachtigden benoemd:
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken; en
-
-De Regering van de Verenigde Staten van Mexico,
-
-de Heer José Gorostiza, Minister van Buitenlandse Betrekkingen,
-
-Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Verenigde Staten van Mexico, Verlangend, de traditionele vriendschapsbanden die de twee volkeren verbinden nauwer aan te halen en de betrekkingen tussen de twee landen op het gebied van het onderwijs, de wetenschappen en dat der kunsten te versterken, Hebben besloten een Verdrag inzake de culturele betrekkingen te sluiten en hebben te dien einde als Gevolmachtigden benoemd: De Regering van het Koninkrijk der Nederlanden, Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken; en De Regering van de Verenigde Staten van Mexico, de Heer José Gorostiza, Minister van Buitenlandse Betrekkingen, Die, na hun in goede vorm bevonden volmachten te hebben overgelegd, het volgende zijn overeengekomen:*
 
 ##### Artikel I
 
 Teneinde in hun respectievelijke landen een betere kennis van de cultuur van het andere land te bevorderen, zullen de Verdragsluitende Partijen elkaar, zoveel als mogelijk is, bijstaan bij:
 
-- a). de verspreiding van boeken, tijdschriften en andere publikaties;
+- a) de verspreiding van boeken, tijdschriften en andere publikaties;
 
-- b). het organiseren van conferenties, concerten en toneelvoorstellingen;
+- b) het organiseren van conferenties, concerten en toneelvoorstellingen;
 
-- c). het organiseren van tentoonstellingen op het gebied der kunst en andere tentoonstellingen met een cultureel karakter;
+- c) het organiseren van tentoonstellingen op het gebied der kunst en andere tentoonstellingen met een cultureel karakter;
 
-- d). het organiseren van radiouitzendingen, de verspreiding van grammofoonplaten en soortgelijke middelen;
+- d) het organiseren van radiouitzendingen, de verspreiding van grammofoonplaten en soortgelijke middelen;
 
-- e). het vertonen van films met een wetenschappelijk, opvoedkundig of cultureel karakter;
+- e) het vertonen van films met een wetenschappelijk, opvoedkundig of cultureel karakter;
 
-- f). het uitwisselen van copieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
+- f) het uitwisselen van copieën van in de officiële archieven en bibliotheken van elk der twee landen aanwezige documenten die van belang zijn voor het andere land, mits de wettelijke bepalingen van elk der landen zich niet tegen uitwisseling op dit gebied verzetten.
 
 ##### Artikel II
 

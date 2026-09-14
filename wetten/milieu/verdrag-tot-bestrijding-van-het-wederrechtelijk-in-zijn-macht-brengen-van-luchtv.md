@@ -1,238 +1,203 @@
 ---
 title: "Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen"
 identifier: "BWBV0004424"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-01-01"
-last_updated: "2018-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004424"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004120293"
-version_id: "10004289222"
-internal_id: "C10006984411"
-label_id: "10004105474"
-dtd_version: "2.0"
-original_entry_into_force: "1973-09-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004424/2018-01-01/0"
-intitule_bron: "Trb.1971-50"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-03-29"
-intitule_in_force: "1973-11-09"
-intitule_status: "goed"
-original_publication: "Trb.1971-50"
-original_published_date: "1971-03-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-50"
-entry_into_force_date: "1973-09-26"
-jci_1_3: "jci1.3:c:BWBV0004424&z=2018-01-01&g=2018-01-01"
-jci_1_0: "1.0:c:BWBV0004424&g=2018-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1973-09-26"
+publicatiedatum: 1973-09-26
+laatste_update: 2018-01-01
+status: geldig
+toestand: 2018-01-01
+bron: "https://wetten.overheid.nl/BWBV0004424"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen
 
-Preambule
+*Preamble The States Parties to this Convention Considering that unlawful acts of seizure or exercise of control of aircraft in flight jeopardize the safety of persons and property, seriously affect the operation of air services, and undermine the confidence of the peoples of the world in the safety of civil aviation; Considering that the occurrence of such acts is a matter of grave concern; Considering that, for the purpose of deterring such acts, there is an urgent need to provide appropriate measures for punishment of offenders; Have agreed as follows:*
 
-De Staten die Partij zijn bij dit Verdrag,
+##### Article 1
 
-Overwegende dat het wederrechtelijk in zijn macht brengen of houden van luchtvaartuigen tijdens de vlucht de veiligheid van personen en goederen in gevaar brengt, de exploitatie van luchtdiensten ernstig aantast en het vertrouwen dat de volkeren der wereld stellen in de veiligheid der burgerluchtvaart ondermijnt,
+1. Any person commits an offence if that person unlawfully and intentionally seizes or exercises control of an aircraft in service by force or threat thereof, or by coercion, or by any other form of intimidation, or by any technological means.
 
-Overwegende dat zodanige handelingen hen ernstig verontrusten,
+2. Any person also commits an offence if that person:
 
-Overwegende dat, ten einde zodanige handelingen te voorkomen, er dringende behoefte bestaat aan passende maatregelen ter bestraffing van de daders.
+- a) makes a threat to commit the offence set forth in paragraph 1 of this Article; or
 
-Zijn overeengekomen als volgt:
+- b) unlawfully and intentionally causes any person to receive such a threat,
 
-##### Artikel 1
+under circumstances which indicate that the threat is credible.
 
-1. Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk een luchtvaartuig in bedrijf in zijn macht brengt of houdt door geweld of bedreiging met geweld, of door dwang, of door elke andere vorm van intimidatie, of door enig technologisch middel.
+3. Any person also commits an offence if that person:
 
-2. Aan een strafbaar feit maakt zich eveneens schuldig hij die:
+- a) attempts to commit the offence set forth in paragraph 1 of this Article; or
 
-- a. dreigt de in het eerste lid van dit artikel bedoelde strafbare feiten te plegen; of
+- b) organizes or directs others to commit an offence set forth in paragraph 1, 2 or 3 (a) of this Article; or
 
-- b. wederrechtelijk en opzettelijk bewerkstelligt dat een persoon een dergelijke bedreiging ontvangt,
+- c) participates as an accomplice in an offence set forth in paragraph 1, 2 or 3 (a) of this Article; or
 
-onder omstandigheden die deze bedreiging geloofwaardig maken.
+- d) unlawfully and intentionally assists another person to evade investigation, prosecution or punishment, knowing that the person has committed an act that constitutes an offence set forth in paragraph 1, 2, 3 (a), 3 (b) or 3 (c) of this Article, or that the person is wanted for criminal prosecution by law enforcement authorities for such an offence or has been sentenced for such an offence.
 
-3. Aan een strafbaar feit maakt zich eveneens schuldig hij die:
+4. Each State Party shall also establish as offences, when committed intentionally, whether or not any of the offences set forth in paragraph 1 or 2 of this Article is actually committed or attempted, either or both of the following:
 
-- a. poogt de in het eerste lid van dit artikel bedoelde strafbare feiten te plegen; of
+- a) agreeing with one or more other persons to commit an offence set forth in paragraph 1 or 2 of this Article and, where required by national law, involving an act undertaken by one of the participants in furtherance of the agreement; or
 
-- b. het plegen van een strafbaar feit zoals bedoeld in het eerste, tweede of derde lid, onderdeel a, van dit artikel organiseert of anderen opdracht geeft een van deze strafbare feiten te plegen; of
+- b) contributing in any other way to the commission of one or more offences set forth in paragraph 1 or 2 of this Article by a group of persons acting with a common purpose, and such contribution shall either:
 
-- c. als medeplichtige deelneemt aan een strafbaar feit zoals bedoeld in het eerste, tweede of derde lid, onderdeel a, van dit artikel; of
+   - (i) be made with the aim of furthering the general criminal activity or purpose of the group, where such activity or purpose involves the commission of an offence set forth in paragraph 1 or 2 of this Article; or
 
-- d. een andere persoon wederrechtelijk en opzettelijk helpt onderzoek, strafrechtelijke vervolging of bestraffing te ontlopen, wetende dat deze persoon een strafbaar feit heeft gepleegd zoals bedoeld in het eerste, tweede of derde lid, onderdelen a, b of c van dit artikel of dat deze persoon gezocht wordt voor strafrechtelijke vervolging door de rechtshandhavingsautoriteiten wegens een dergelijk strafbaar feit of wegens een dergelijk strafbaar feit is veroordeeld.
+   - (ii) be made in the knowledge of the intention of the group to commit an offence set forth in paragraph 1 or 2 of this Article.
 
-4. Elke staat die partij is stelt tevens een of beide van de volgende gedragingen strafbaar indien zij opzettelijk zijn gepleegd, ongeacht of een van de in het eerste of tweede lid van dit artikel bedoelde strafbare feiten daadwerkelijk is gepleegd of daartoe daadwerkelijk een poging is gedaan:
+##### Article 2
 
-- a. met een of meer personen overeenkomen een strafbaar feit te plegen zoals bedoeld in het eerste of tweede lid van dit artikel waarbij, indien het nationale recht dit vereist, een handeling betrokken is, door een van de deelnemers ondernomen ter uitvoering van de overeenkomst; of
+Each State Party undertakes to make the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) punishable by severe penalties.
 
-- b. op enige andere wijze bijdragen aan het plegen van een of meer van de strafbare feiten zoals bedoeld in het eerste of tweede lid van dit artikel door een groep personen die optreedt met een gemeenschappelijk doel,
+##### Article 2 bis
 
-- i. hetzij met het oog op de bevordering van de criminele activiteit in het algemeen of het criminele doel van de groep, wanneer een dergelijke activiteit of het doel het plegen van een strafbaar feit inhoudt zoals bedoeld in het eerste of tweede lid van dit artikel; of
+1. Each State Party, in accordance with its national legal principles, may take the necessary measures to enable a legal entity located in its territory or organized under its laws to be held liable when a person responsible for management or control of that legal entity has, in that capacity, committed an offence set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424). Such liability may be criminal, civil or administrative.
 
-- ii. hetzij in de wetenschap van de bedoeling van de groep om een strafbaar feit zoals bedoeld in het eerste of tweede lid van dit artikel te plegen.
+2. Such liability is incurred without prejudice to the criminal liability of individuals having committed the offences.
 
-##### Artikel 2
+3. If a State Party takes the necessary measures to make a legal entity liable in accordance with paragraph 1 of this Article, it shall endeavour to ensure that the applicable criminal, civil or administrative sanctions are effective, proportionate and dissuasive. Such sanctions may include monetary sanctions.
 
-Elke staat die partij is verbindt zich ertoe zware straffen te stellen op de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten.
+##### Article 3
 
-##### Artikel 3
+1. For the purposes of this Convention, an aircraft is considered to be in service from the beginning of the pre-flight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing. In the case of a forced landing, the flight shall be deemed to continue until the competent authorities take over the responsibility for the aircraft and for persons and property on board.
 
-1. Voor de toepassing van dit Verdrag wordt een luchtvaartuig geacht in bedrijf te zijn van het begin van het aan de vlucht voorafgaande gereedmaken van het luchtvaartuig door grondpersoneel of door de bemanning voor een bepaalde vlucht tot vierentwintig uur na een landing. In geval van een noodlanding wordt de vlucht geacht voort te duren totdat de bevoegde autoriteiten de verantwoordelijkheid voor het luchtvaartuig en voor de personen en goederen aan boord overnemen.
+2. This Convention shall not apply to aircraft used in military, customs or police services.
 
-2. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
+3. This Convention shall apply only if the place of take-off or the place of actual landing of the aircraft on board which the offence is committed is situated outside the territory of the State of registry of that aircraft; it shall be immaterial whether the aircraft is engaged in an international or domestic flight.
 
-3. Dit Verdrag is slechts van toepassing indien de plaats van opstijgen of de plaats van de feitelijke landing van het luchtvaartuig aan boord waarvan het strafbare feit is gepleegd, gelegen is buiten het grondgebied van de Staat waar dat luchtvaartuig is ingeschreven, ongeacht of het luchtvaartuig een internationale dan wel een binnenlandse vlucht uitvoert.
+4. In the cases set forth in [Article 5](https://wetten.overheid.nl/BWBV0004424), this Convention shall not apply if the place of take-off and the place of actual landing of the aircraft on board which the offence is committed are situated within the territory of the same State where that State is one of those referred to in that Article.
 
-4. In de gevallen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=5&z=2018-01-01&g=2018-01-01) is dit Verdrag niet van toepassing, indien de plaats van opstijgen en de plaats van de feitelijke landing van het luchtvaartuig aan boord waarvan het strafbare feit is gepleegd, zijn gelegen op het grondgebied van een zelfde Staat, indien deze Staat een van de Staten is waarnaar in dat artikel wordt verwezen.
+5. Notwithstanding paragraphs 3 and 4 of this Article, [Articles 6](https://wetten.overheid.nl/BWBV0004424), [7](https://wetten.overheid.nl/BWBV0004424), [7 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=7bis&z=2018-01-01&g=2018-01-01), [8](https://wetten.overheid.nl/BWBV0004424), [8 bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8bis&z=2018-01-01&g=2018-01-01), [8 ter](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8ter&z=2018-01-01&g=2018-01-01) and [10](https://wetten.overheid.nl/BWBV0004424) shall apply whatever the place of take-off or the place of actual landing of the aircraft, if the offender or the alleged offender is found in the territory of a State other than the State of registry of that aircraft.
 
-5. Onverminderd het derde en vierde lid van dit artikel zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=6&z=2018-01-01&g=2018-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=7&z=2018-01-01&g=2018-01-01), [7**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=7bis&z=2018-01-01&g=2018-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8&z=2018-01-01&g=2018-01-01), [8**bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8bis&z=2018-01-01&g=2018-01-01), [8**ter**](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8ter&z=2018-01-01&g=2018-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=10&z=2018-01-01&g=2018-01-01), van toepassing ongeacht de plaats van opstijgen of de plaats van feitelijke landing van het luchtvaartuig indien de dader of de vermeende dader wordt aangetroffen op het grondgebied van een andere staat dan de staat waar het luchtvaartuig is ingeschreven.
+##### Article 3 bis
 
-##### Artikel 4
+1. Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes and principles of the [Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) and international humanitarian law.
 
-1. Elke staat die partij is neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten alsmede elke andere daad van geweld tegen passagiers of bemanning gepleegd door de vermeende dader in samenhang met de strafbare feiten, in de volgende gevallen:
+2. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law are not governed by this Convention, and the activities undertaken by military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
 
-- a. indien het strafbare feit is gepleegd op het grondgebied van die staat;
+3. The provisions of paragraph 2 of this Article shall not be interpreted as condoning or making lawful otherwise unlawful acts, or precluding prosecution under other laws.
 
-- b. indien het strafbare feit is gepleegd tegen of aan boord van een in die staat ingeschreven luchtvaartuig;
+##### Article 4
 
-- c. indien het luchtvaartuig aan boord waarvan het strafbare feit is gepleegd op zijn grondgebied landt met de vermeende dader nog aan boord;
+1. Each State Party shall take such measures as may be necessary to establish its jurisdiction over the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) and any other act of violence against passengers or crew committed by the alleged offender in connection with the offences, in the following cases:
 
-- d. indien het strafbare feit is gepleegd tegen of aan boord van een luchtvaartuig dat zonder bemanning is verhuurd aan een huurder die de hoofdzetel van zijn bedrijf, of, indien de huurder een dergelijke zetel niet heeft, zijn vaste verblijfplaats heeft in die staat;
+- a) when the offence is committed in the territory of that State;
 
-- e. indien het strafbare feit wordt gepleegd door een onderdaan van die staat.
+- b) when the offence is committed against or on board an aircraft registered in that State;
 
-2. Elke staat die partij is kan tevens in de volgende gevallen zijn rechtsmacht vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten:
+- c) when the aircraft on board which the offence is committed lands in its territory with the alleged offender still on board;
 
-- a. indien het strafbare feit wordt gepleegd tegen een onderdaan van die staat;
+- d) when the offence is committed against or on board an aircraft leased without crew to a lessee whose principal place of business or, if the lessee has no such place of business, whose permanent residence is in that State;
 
-- b. indien het strafbare feit wordt gepleegd door een staatloze die op het grondgebied van die staat zijn gewone verblijfplaats heeft.
+- e) when the offence is committed by a national of that State.
 
-3. Elke staat die partij is neemt tevens de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) vervatte strafbare feiten in gevallen waarin de vermeende dader zich op zijn grondgebied bevindt en hij deze persoon ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8&z=2018-01-01&g=2018-01-01) niet uitlevert aan een staat die partij is die met betrekking tot deze strafbare feiten zijn rechtsmacht heeft gevestigd in overeenstemming met de toepasselijke leden van dit artikel.
+2. Each State Party may also establish its jurisdiction over any such offence in the following cases:
 
-4. Dit Verdrag sluit geen rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met de nationale wetgeving.
+- a) when the offence is committed against a national of that State;
 
-##### Artikel 5
+- b) when the offence is committed by a stateless person whose habitual residence is in the territory of that State.
 
-De staten die partij zijn die voor het luchtvervoer gemeenschappelijke exploitatie-organisaties of internationale exploitatie-organisaties oprichten, die gebruikmaken van luchtvaartuigen die onderworpen zijn aan gemeenschappelijke of internationale inschrijving, kiezen op passende wijze voor elk luchtvaartuig een staat uit hun midden die de rechtsmacht uitoefent en voor de toepassing van dit Verdrag de bevoegdheden heeft behorend bij een staat waar een luchtvaartuig is ingeschreven. Zij doen daarvan mededeling aan de Secretaris-Generaal van de Internationale Burgerluchtvaartorganisatie, die alle staten die partij zijn bij dit verdrag van deze mededeling in kennis stelt.
+3. Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) in the case where the alleged offender is present in its territory and it does not extradite that person pursuant to [Article 8](https://wetten.overheid.nl/BWBV0004424) to any of the States Parties that have established their jurisdiction in accordance with the applicable paragraphs of this Article with regard to those offences.
 
-##### Artikel 6
+4. This Convention does not exclude any criminal jurisdiction exercised in accordance with national law.
 
-1. Een staat die partij is op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt neemt deze, indien hij ervan overtuigd is dat de omstandigheden zulks wettigen, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid. De inhechtenisneming en andere maatregelen dienen in overeenstemming te zijn met de wet van de betrokken Staat, doch mogen niet langer duren dan noodzakelijk is voor het instellen van een strafvervolging of uitleveringsprocedure.
+##### Article 5
 
-2. Deze Staat stelt terstond een voorlopig onderzoek in naar de feiten.
+The States Parties which establish joint air transport operating organizations or international operating agencies, which operate aircraft which are subject to joint or international registration shall, by appropriate means, designate for each aircraft the State among them which shall exercise the jurisdiction and have the attributes of the State of registry for the purpose of this Convention and shall give notice thereof to the Secretary General of the International Civil Aviation Organization who shall communicate the notice to all States Parties to this Convention.
 
-3. Een ieder die ingevolge het eerste lid van dit artikel in hechtenis is genomen, wordt de gelegenheid gegeven zich onmiddellijk in verbinding te stellen met de dichtstbijzijnde daarvoor in aanmerking komende vertegenwoordiger van de Staat waarvan hij onderdaan is.
+##### Article 6
 
-4. Wanneer een staat die partij is krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de staten die partij zijn die ingevolge [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=4&z=2018-01-01&g=2018-01-01), hun rechtsmacht hebben gevestigd en ingevolge artikel 4, tweede lid, hun rechtsmacht hebben gevestigd en de depositaris in kennis hebben gesteld, en, indien hij dit nodig acht, iedere andere belanghebbende staat, in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn detentie rechtvaardigen. De staat die partij is die het voorlopig onderzoek bedoeld in het tweede lid van dit artikel instelt, deelt zijn bevindingen onverwijld mee aan voornoemde staten die partij zijn en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
+1. Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the offender or the alleged offender is present, shall take that person into custody or take other measures to ensure that person's presence. The custody and other measures shall be as provided in the law of that State but may only be continued for such time as is necessary to enable any criminal or extradition proceedings to be instituted.
 
-##### Artikel 7
+2. Such State shall immediately make a preliminary enquire into the facts.
 
-De staat die partij is op het grondgebied waarvan de vermoedelijke dader wordt aangetroffen is, indien hij hem niet uitlevert, ongeacht of het strafbare feit gepleegd is op zijn grondgebied, in alle gevallen verplicht de zaak voor vervolging aan zijn bevoegde autoriteiten over te dragen.
+3. Any person in custody pursuant to paragraph 1 of this Article shall be assisted in communicating immediately with the nearest appropriate representative of the State of which he is a national.
 
-Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van een gewoon strafbaar feit van ernstige aard krachtens de wetgeving van die Staat.
+4. When a State Party, pursuant to this Article, has taken a person into custody, it shall immediately notify the States Parties which have established jurisdiction under [paragraph 1 of Article 4](https://wetten.overheid.nl/BWBV0004424), and established jurisdiction and notified the Depositary under paragraph 2 of Article 4 and, if it considers it advisable, any other interested States of the fact that such person is in custody and of the circumstances which warrant that person’s detention. The State Party which makes the preliminary enquiry contemplated in paragraph 2 of this Article shall promptly report its findings to the said States Parties and shall indicate whether it intends to exercise jurisdiction.
 
-##### Artikel 8
+##### Article 7
 
-1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten worden geacht als uitleveringsdelicten te zijn inbegrepen in alle bestaande uitleveringsverdragen tussen de staten die partij zijn. De staten die partij zijn verplichten zich ertoe de strafbare feiten op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
+The State Party in the territory of which the alleged offender is found shall, if it does not extradite that person, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a serious nature under the law of that State.
 
-2. Indien een staat die partij is die uitlevering afhankelijk stelt van het bestaan van een verdrag, een verzoek om uitlevering ontvangt van een andere staat die partij is waarmee hij geen uitleveringsverdrag heeft gesloten, kan hij, indien hij dit verkiest, dit Verdrag beschouwen als de rechtsgrondslag voor uitlevering wat betreft de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten. Uitlevering is onderworpen aan de overige voorwaarden waarin het recht van de aangezochte staat voorziet.
+##### Article 7 bis
 
-3. Staten die partij zijn die uitlevering niet afhankelijk stellen van het bestaan van een verdrag erkennen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten onderling als uitleveringsdelicten, onderworpen aan de voorwaarden waarin het recht van de aangezochte staat voorziet.
+Any person who is taken into custody, or regarding whom any other measures are taken or proceedings are being carried out pursuant to this Convention, shall be guaranteed fair treatment, including enjoyment of all rights and guarantees in conformity with the law of the State in the territory of which that person is present and applicable provisions of international law, including international human rights law.
 
-4. Voor uitlevering tussen staten die partij zijn wordt elk van de strafbare feiten beschouwd als niet alleen begaan op de plaats waar het is gepleegd, maar ook op het grondgebied van de staten die partij zijn die hun rechtsmacht dienen te vestigen in overeenstemming met [artikel 4, eerste lid, onderdelen b, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=4&z=2018-01-01&g=2018-01-01), en die hun rechtsmacht hebben gevestigd in overeenstemming met artikel 4, tweede lid.
+##### Article 8
 
-5. Voor uitlevering tussen staten die partij zijn worden de in [artikel 1, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01), bedoelde strafbare feiten als gelijkwaardig beschouwd.
+1. The offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include the offences as extraditable offences in every extradition treaty to be concluded between them.
 
-##### Artikel 9
+2. If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424). Extradition shall be subject to the other conditions provided by the law of the requested State.
 
-1. Indien een van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01), bedoelde feiten is gepleegd of op het punt staat te worden gepleegd, nemen de staten die partij zijn alle passende maatregelen om het luchtvaartuig weer onder het gezag van de rechtmatige gezagvoerder te brengen of onder diens gezag te houden.
+3. States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 
-2. In de gevallen bedoeld in het voorgaande lid stelt iedere staat die partij is op het grondgebied waarvan het luchtvaartuig, zijn passagiers of bemanning zich bevinden, alles in het werk om de passagiers en de bemanning hun reis zo spoedig mogelijk te kunnen laten voortzetten. Hij geeft onverwijld het luchtvaartuig en zijn lading terug aan de rechthebbenden.
+4. Each of the offences shall be treated, for the purpose of extradition between States Parties, as if it had been committed not only in the place in which it occurred but also in the territories of the States Parties required to establish their jurisdiction in accordance with [subparagraphs (b), (c), (d) and (e) of paragraph 1 of Article 4](https://wetten.overheid.nl/BWBV0004424) and who have established jurisdiction in accordance with paragraph 2 of Article 4.
 
-##### Artikel 10
+5. The offences set forth in subparagraphs (a) and (b) of [paragraph 4 of Article 1](https://wetten.overheid.nl/BWBV0004424) shall, for the purpose of extradition between States Parties, be treated as equivalent.
 
-1. De staten die partij zijn verlenen elkaar de ruimst mogelijke rechtshulp bij strafrechtelijke procedures ter zake van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten en andere feiten bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=4&z=2018-01-01&g=2018-01-01). In alle gevallen is het recht van de aangezochte staat van toepassing.
+##### Article 8 bis
 
-2. Het bepaalde in het eerste lid van dit artikel laat verplichtingen uit hoofde van een ander bilateraal of multilateraal verdrag, dat, geheel of gedeeltelijk, rechtshulp in strafzaken regelt of zal regelen, onverlet.
+None of the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) shall be regarded, for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
 
-##### Artikel 11
+##### Article 8 ter
 
-Elke staat die partij is doet overeenkomstig zijn nationale wetgeving de Raad van de Internationale Burgerluchtvaartorganisatie zo spoedig mogelijk mededeling van elke ter zake doende informatie betreffende:
+Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person’s race, religion, nationality, ethnic origin, political opinion or gender, or that compliance with the request would cause prejudice to that person’s position for any of these reasons.
 
-- a. het strafbare feit en de omstandigheden waaronder het is gepleegd;
+##### Article 9
 
-- b. de maatregelen die ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=9&z=2018-01-01&g=2018-01-01) zijn genomen;
+1. When any of the acts set forth in [paragraph 1 of Article 1](https://wetten.overheid.nl/BWBV0004424) has occurred or is about to occur, States Parties shall take all appropriate measures to restore control of the aircraft to its lawful commander or to preserve the commander’s control of the aircraft.
 
-- c. de maatregelen genomen ten aanzien van de dader of de vermoedelijke dader, en in het bijzonder de resultaten van elke uitleveringsprocedure of elke andere gerechtelijke procedure.
+2. In the cases contemplated by the preceding paragraph, any State Party in which the aircraft or its passengers or crew are present shall facilitate the continuation of the journey of the passengers and crew as soon as practicable, and shall without delay return the aircraft and its cargo to the persons lawfully entitled to possession.
 
-##### Artikel 12
+##### Article 10
 
-1. Elk geschil tussen staten die partij zijn inzake de uitleg of toepassing van dit Verdrag dat niet door onderhandelingen kan worden beslecht, wordt op verzoek van een der Partijen onderworpen aan arbitrage. Indien Partijen er binnen zes maanden na het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van deze arbitrage, kan ieder der betrokken Partijen het geschil voorleggen aan het Internationale Gerechtshof, door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
+1. States Parties shall afford one another the greatest measure of assistance in connection with criminal proceedings brought in respect of the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) and other acts set forth in [Article 4](https://wetten.overheid.nl/BWBV0004424). The law of the State requested shall apply in all cases.
 
-2. Elke Staat kan op het tijdstip van ondertekening, bekrachtiging of toetreding verklaren dat hij zich niet gebonden acht door het voorgaande lid. De andere staten die partij zijn zijn door het voorgaande lid niet gebonden tegenover een staat die partij is die zulk een voorbehoud heeft gemaakt.
+2. The provisions of paragraph 1 of this Article shall not affect obligations under any other treaty, bilateral or multilateral, which governs or will govern, in whole or in part, mutual assistance in criminal matters.
 
-3. Een staat die partij is die een voorbehoud heeft gemaakt als bedoeld in het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door daarvan mededeling te doen aan de Depotregeringen.
+##### Article 10 bis
 
-##### Artikel 13
+Any State Party having reason to believe that one of the offences set forth in [Article 1](https://wetten.overheid.nl/BWBV0004424) will be committed shall, in accordance with its national law, furnish any relevant information in its possession to those States Parties which it believes would be the States set forth in [paragraphs 1 and 2 of Article 4](https://wetten.overheid.nl/BWBV0004424).
 
-1. Dit Verdrag staat open voor ondertekening te 's-Gravenhage op 16 december 1970 door Staten die deelgenomen hebben aan de Internationale Conferentie inzake het Luchtrecht, gehouden te 's-Gravenhage van 1 tot 16 december 1970 (hierna te noemen de Haagse Conferentie). Na 31 december 1970 staat het Verdrag open voor ondertekening door alle Staten te Londen, Moskou en Washington. Elke Staat die dit Verdrag niet voor de datum van inwerkingtreding overeenkomstig het derde lid van dit artikel ondertekent, kan te allen tijde tot het Verdrag toetreden.
+##### Article 11
 
-2. Dit Verdrag dient te worden bekrachtigd door de ondertekenende Staten. De akten van bekrachtiging en de akten van toetreding worden nedergelegd bij de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Regering van de Unie van Socialistische Sowjet-Republieken en de Regering van de Verenigde Staten van Amerika, die hierbij worden aangewezen als Depotregeringen.
+Each State Party shall in accordance with its national law report to the Council of the International Civil Aviation Organization as promptly as possible any relevant information in its possession concerning:
 
-3. Dit Verdrag treedt in werking dertig dagen na de datum van nederlegging van de akten van bekrachtiging door tien Staten die dit Verdrag hebben ondertekend en hebben deelgenomen aan de Haagse Conferentie.
+- (a) the circumstances of the offence;
 
-4. Voor andere Staten zal dit Verdrag in werking treden op de datum van inwerkingtreding van dit Verdrag overeenkomstig het derde lid van dit artikel, of, zo dat tijdstip later valt, dertig dagen na de datum van nederlegging van hun akte van bekrachtiging of van toetreding.
+- (b) the action taken pursuant to [Article 9](https://wetten.overheid.nl/BWBV0004424);
 
-5. De Depotregeringen doen alle ondertekenende en toetredende Staten onverwijld mededeling van de datum van elke ondertekening, de datum van nederlegging van elke akte van bekrachtiging of van toetreding, de datum van inwerkingtreding van dit Verdrag en van andere kennisgevingen.
+- (c) the measures taken in relation to the offender or the alleged offender, and, in particular, the results of any extradition proceedings or other legal proceedings.
 
-6. Terstond nadat dit Verdrag in werking is getreden wordt het geregistreerd door de Depotregeringen ingevolge [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en ingevolge [artikel 83 van het Verdrag inzake de Burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83) (Chicago, 1944).
+##### Article 12
 
-##### Artikel 14
+1. Any dispute between two or more States Parties concerning the interpretation or application of this Convention which cannot be settled through negotiation, shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the Parties are unable to agree on the organization of the arbitration, any one of those Parties may refer the dispute to the International Court of Justice by request in conformity with the [Statute of the Court](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
-1. Elke staat die partij is kan dit Verdrag opzeggen door middel van een aan de Depotregeringen gerichte schriftelijke kennisgeving.
+2. Each State may at the time of signature or ratification of this Convention or accession thereto, declare that it does not consider itself bound by the preceding paragraph. The other States Parties shall not be bound by the preceding paragraph with respect to any State Party having made such a reservation.
 
-2. De opzegging wordt van kracht zes maanden na de datum waarop de kennisgeving is ontvangen door de Depotregeringen.
+3. Any State Party having made a reservation in accordance with the preceding paragraph may at any time withdraw this reservation by notification to the Depositary Governments.
 
-IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
+##### Article 13
 
-DONE at The Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
+1. This Convention shall be open for signature at The Hague on 16 December 1970, by States participating in the International Conference on Air Law held at The Hague from 1 to 16 December 1970 (hereinafter referred to as The Hague Conference). After 31 December 1970, the Convention shall be open to all States for signature in Moscow, London and Washington. Any State which does not sign this Convention before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
 
-##### Artikel 2bis
+2. This Convention shall be subject to ratification by the signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, which are hereby designated the Depositary Governments.
 
-1. Elke staat die partij is kan in overeenstemming met zijn nationale rechtsbeginselen de nodige maatregelen nemen om een op zijn grondgebied gevestigde of overeenkomstig zijn wetgeving opgezette rechtspersoon aansprakelijk te kunnen stellen indien een persoon belast met het beheer van of toezicht op die rechtspersoon in die hoedanigheid een strafbaar feit als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) heeft gepleegd. Deze aansprakelijkheid kan strafrechtelijk, civielrechtelijk of bestuursrechtelijk zijn.
+3. This Convention shall enter into force thirty days following the date of the deposit of instruments of ratification by ten States signatory to this Convention which participated in The Hague Conference.
 
-2. Deze aansprakelijkheid geldt onverminderd de strafrechtelijke aansprakelijkheid van de natuurlijke personen die de strafbare feiten hebben gepleegd.
+4. For other States, this Convention shall enter into force on the date of entry into force of this Convention in accordance with paragraph 3 of this Article, or thirty days following the date of deposit of their instruments of ratification or accession, whichever is later.
 
-3. Indien een staat die partij is de noodzakelijke maatregelen neemt om een rechtspersoon aansprakelijk te stellen in overeenstemming met het eerste lid van dit artikel, tracht hij er op toe te zien dat de toepasselijke strafrechtelijke, civielrechtelijke of bestuursrechtelijke sancties doeltreffend, evenredig en ontmoedigend zijn. Deze sancties kunnen geldelijke sancties omvatten.
+5. The Depositary Governments shall promptly inform all signatory and acceding States of the date of each signature, the date of deposit of each instrument of ratification or accession, the date of entry into force of this Convention, and other notices.
 
-##### Artikel 3bis
+6. As soon as this Convention comes into force, it shall be registered by the Depositary Governments pursuant to [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) and pursuant to [Article 83 of the Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83) (Chicago, 1944).
 
-1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van staten en individuen op grond van het internationaal recht, met name de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), het [Verdrag inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) en het internationaal humanitair recht.
+##### Article 14
 
-2. De handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht vallen niet onder dit Verdrag, evenmin als de handelingen ondernomen door de strijdkrachten van een staat bij de uitoefening van hun officiële taken, voor zover onderworpen aan andere bepalingen van het internationaal recht.
+1. Any State Party may denounce this Convention by written notification to the Depositary Governments.
 
-3. De bepalingen van het tweede lid van dit artikel mogen niet zodanig worden uitgelegd dat anderszins wederrechtelijke gedragingen zouden worden gebillijkt of gewettigd of dat vervolging op grond van andere wetten wordt belet.
-
-##### Artikel 7bis
-
-Iedere persoon die in hechtenis wordt genomen of tegen wie andere maatregelen worden getroffen of een procedure wordt ingesteld op grond van dit Verdrag, wordt een eerlijke behandeling verzekerd, met inbegrip van het genot van alle rechten en waarborgen in overeenstemming met het recht van de staat op het grondgebied waarvan die persoon zich bevindt en de toepasselijke bepalingen van het internationaal recht, met inbegrip van het internationaal recht inzake de rechten van de mens.
-
-##### Artikel 8bis
-
-Geen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=8&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven. Bijgevolg mag een verzoek om uitlevering of om wederzijdse rechtshulp op grond van een dergelijk strafbaar feit niet worden geweigerd uitsluitend op grond van het feit dat het een politiek delict, een met een politiek delict samenhangend strafbaar feit of een strafbaar feit ingegeven door politieke motieven betreft.
-
-##### Artikel 8ter
-
-Niets in dit Verdrag mag zo worden uitgelegd dat het een verplichting tot uitlevering of tot het verlenen van wederzijdse rechtshulp zou inhouden indien de aangezochte staat die partij is ernstige redenen heeft om aan te nemen dat het verzoek om uitlevering met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) bedoelde strafbare feiten of om wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van die persoon om een van deze redenen ongunstig zou kunnen beïnvloeden.
-
-##### Artikel 10bis
-
-Een staat die partij is die redenen heeft te veronderstellen dat een van de strafbare feiten bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=1&z=2018-01-01&g=2018-01-01) zal worden gepleegd, brengt, overeenkomstig zijn nationale recht, alle relevante informatie in zijn bezit ter kennis van die staten die partij zijn die naar zijn mening de in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004424&artikel=4&z=2018-01-01&g=2018-01-01), bedoelde staten zijn.
+2. Denunciation shall take effect six months following the date on which notification is received by the Depositary Governments.
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
 

@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland enerzijds en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden anderzijds, inzake het overnemen van personen aan de grens"
 identifier: "BWBV0004479"
-country: "nl"
-rank: "verdrag"
-publication_date: "1966-07-01"
-last_updated: "1966-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004479"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004158683"
-version_id: "10004328432"
-internal_id: "C10006999481"
-label_id: "10004143794"
-dtd_version: "2.0"
-original_entry_into_force: "1966-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004479/1966-07-01/0"
-intitule_bron: "Trb.1966-166"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-07-05"
-intitule_in_force: "1966-07-05"
-intitule_status: "goed"
-original_publication: "Trb.1966-166"
-original_published_date: "1966-07-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-166"
-entry_into_force_date: "1966-07-01"
-jci_1_3: "jci1.3:c:BWBV0004479&z=1966-07-01&g=1966-07-01"
-jci_1_0: "1.0:c:BWBV0004479&g=1966-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1966-07-01"
+publicatiedatum: 1966-07-01
+laatste_update: 1966-07-01
+status: geldig
+toestand: 1966-07-01
+bron: "https://wetten.overheid.nl/BWBV0004479"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland enerzijds en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden anderzijds, inzake het overnemen van personen aan de grens
 
-De Regering van de Bondsrepubliek Duitsland enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, gezamenlijk optredend op grond van de tussen hen gesloten [Overeenkomst van 11 april 1960, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), anderzijds,
-
-Verlangend het overnemen van personen aan de gemeenschappelijke grens te vergemakkelijken,
-
-Zijn het volgende overeengekomen:
+*De Regering van de Bondsrepubliek Duitsland enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, gezamenlijk optredend op grond van de tussen hen gesloten Overeenkomst van 11 april 1960, inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, anderzijds, Verlangend het overnemen van personen aan de gemeenschappelijke grens te vergemakkelijken, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -82,9 +59,9 @@ Voor zover volgens de bepalingen van deze Overeenkomst het bezit van de Duitse n
 
 (2). De doortocht kan geweigerd worden, indien de persoon:
 
-- a). in een ander land van doortocht of in het land van bestemming zou komen bloot te staan aan politieke vervolging, of aan strafvervolging, dan wel hem de tenuitvoerlegging van een strafrechtelijk vonnis te wachten zou staan, of
+- a) in een ander land van doortocht of in het land van bestemming zou komen bloot te staan aan politieke vervolging, of aan strafvervolging, dan wel hem de tenuitvoerlegging van een strafrechtelijk vonnis te wachten zou staan, of
 
-- b). bij de doortocht door het gebied van de Bondsrepubliek Duitsland aan strafvervolging, dan wel aan de tenuitvoerlegging van een strafrechtelijk vonnis zou zijn blootgesteld.
+- b) bij de doortocht door het gebied van de Bondsrepubliek Duitsland aan strafvervolging, dan wel aan de tenuitvoerlegging van een strafrechtelijk vonnis zou zijn blootgesteld.
 
 (3). Een doorreisvisum van de Bondsrepubliek Duitsland is niet vereist.
 
@@ -128,9 +105,9 @@ Bedoelde nationaliteit kan eveneens op andere wijze aannemelijk worden gemaakt.
 
 (2). De doortocht kan geweigerd worden, indien de persoon:
 
-- a). in een ander land van doortocht of in het land van bestemming zou komen bloot te staan aan politieke vervolging of aan strafvervolging, dan wel hem de tenuitvoerlegging van een strafrechtelijk vonnis te wachten zou staan, of
+- a) in een ander land van doortocht of in het land van bestemming zou komen bloot te staan aan politieke vervolging of aan strafvervolging, dan wel hem de tenuitvoerlegging van een strafrechtelijk vonnis te wachten zou staan, of
 
-- b). bij de doortocht door het gebied van het Beneluxland, waartoe het verzoek om doortocht te verlenen is gericht aan strafvervolging, dan wel aan de tenuitvoerlegging van een strafrechtelijk vonnis zou zijn blootgesteld.
+- b) bij de doortocht door het gebied van het Beneluxland, waartoe het verzoek om doortocht te verlenen is gericht aan strafvervolging, dan wel aan de tenuitvoerlegging van een strafrechtelijk vonnis zou zijn blootgesteld.
 
 (3). Een doorreisvisum van de Beneluxlanden is niet vereist.
 
@@ -164,11 +141,11 @@ Deze Overeenkomst geldt ook voor het „Land” Berlijn, voor zover de Regering 
 
 Deze Overeenkomst stelt buiten werking en vervangt:
 
-- a). de Overeenkomst tussen de Duitse Regering en de Belgische Regering inzake de verwijdering van buitenlanders, gesloten bij notawisseling van 17 september 1926 evenals de Overeenkomst tussen de Belgische Regering en de Regering van de Bondsrepubliek Duitsland voor de regeling van het vraagstuk der verwijdering van personen uit de Bondsrepubliek Duitsland naar België en van België naar de Bondsrepubliek Duitsland, gesloten bij notawisseling van 23 oktober 1952;
+- a) de Overeenkomst tussen de Duitse Regering en de Belgische Regering inzake de verwijdering van buitenlanders, gesloten bij notawisseling van 17 september 1926 evenals de Overeenkomst tussen de Belgische Regering en de Regering van de Bondsrepubliek Duitsland voor de regeling van het vraagstuk der verwijdering van personen uit de Bondsrepubliek Duitsland naar België en van België naar de Bondsrepubliek Duitsland, gesloten bij notawisseling van 23 oktober 1952;
 
-- b). de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Groothertogdom Luxemburg inzake het overnemen van personen aan de grens, gesloten bij notawisseling van 26 september 1957;
+- b) de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Groothertogdom Luxemburg inzake het overnemen van personen aan de grens, gesloten bij notawisseling van 26 september 1957;
 
-- c). de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden inzake de vergemakkelijking van het overnemen van personen aan de grens, gesloten bij notawisseling van 19 september/10 oktober 1958.
+- c) de Overeenkomst tussen de Regering van de Bondsrepubliek Duitsland en de Regering van het Koninkrijk der Nederlanden inzake de vergemakkelijking van het overnemen van personen aan de grens, gesloten bij notawisseling van 19 september/10 oktober 1958.
 
 ##### Artikel 17
 

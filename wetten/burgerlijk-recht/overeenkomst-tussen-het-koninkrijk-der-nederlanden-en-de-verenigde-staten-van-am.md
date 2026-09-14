@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht"
 identifier: "BWBV0004614"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-02-03"
-last_updated: "1971-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004614"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004223903"
-version_id: "10004404882"
-internal_id: "C10009638471"
-label_id: "10004209014"
-dtd_version: "2.0"
-original_entry_into_force: "1971-02-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004614/1971-02-03/0"
-intitule_bron: "Trb.1969-221"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-11-19"
-intitule_in_force: "1971-02-17"
-intitule_status: "goed"
-original_publication: "Trb.1969-221"
-original_published_date: "1969-11-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-221"
-entry_into_force_date: "1971-02-03"
-jci_1_3: "jci1.3:c:BWBV0004614&z=1971-02-03&g=1971-02-03"
-jci_1_0: "1.0:c:BWBV0004614&g=1971-02-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-02-03"
+publicatiedatum: 1971-02-03
+laatste_update: 1971-02-03
+status: geldig
+toestand: 1971-02-03
+bron: "https://wetten.overheid.nl/BWBV0004614"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika;
-
-De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht;
-
-Hebben daartoe tot hun gevolmachtigden benoemd:
-
-De Regering van het Koninkrijk der Nederlanden: Hendrik C. Maclaine Pont, Gevolmachtigd Minister van het Koninkrijk der Nederlanden, en
-
-De Regering van de Verenigde Staten van Amerika: William P. Rogers, Secretaris van Staat,
-
-die, na elkaar mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, tot overeenstemming zijn gekomen over de volgende artikelen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika; De wens koesterende een overeenkomst te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht; Hebben daartoe tot hun gevolmachtigden benoemd: De Regering van het Koninkrijk der Nederlanden: Hendrik C. Maclaine Pont, Gevolmachtigd Minister van het Koninkrijk der Nederlanden, en De Regering van de Verenigde Staten van Amerika: William P. Rogers, Secretaris van Staat, die, na elkaar mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, tot overeenstemming zijn gekomen over de volgende artikelen:*
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
@@ -54,19 +25,19 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (1). De belastingen waarop deze Overeenkomst van toepassing is, zijn:
 
-- (a). voor de Verenigde Staten: de Federal estate tax (de Federale belasting van nalatenschappen) en
+- (a) voor de Verenigde Staten: de Federal estate tax (de Federale belasting van nalatenschappen) en
 
-- (b). voor Nederland: het recht van successie en het recht van overgang bij overlijden.
+- (b) voor Nederland: het recht van successie en het recht van overgang bij overlijden.
 
 (2). Deze Overeenkomst is ook van toepassing op alle belastingen van nalatenschappen en verkrijgingen krachtens erfrecht geheven door de Staten ter zake van overlijden, die in de toekomst naast of in de plaats van de bestaande belastingen worden ingevoerd, in de vorm van:
 
-- (a). belasting over de nalatenschap in zijn geheel,
+- (a) belasting over de nalatenschap in zijn geheel,
 
-- (b). belasting over verkrijgingen krachtens erfrecht,
+- (b) belasting over verkrijgingen krachtens erfrecht,
 
-- (c). rechten van overgang, of
+- (c) rechten van overgang, of
 
-- (d). belastingen over schenkingen „mortis causa”.
+- (d) belastingen over schenkingen „mortis causa”.
 
 (3). De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheidene wetgevingen met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht zijn aangebracht, mede.
 
@@ -76,21 +47,21 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (1). In deze Overeenkomst:
 
-- (a). betekenen de uitdrukkingen „Staat” en „andere Staat” de Verenigde Staten of Nederland, al naar het zinsverband vereist;
+- (a) betekenen de uitdrukkingen „Staat” en „andere Staat” de Verenigde Staten of Nederland, al naar het zinsverband vereist;
 
-- (b). betekent de uitdrukking „Verenigde Staten” de Verenigde Staten van Amerika, en wanneer deze uitdrukking in aardrijkskundige zin wordt gebezigd, de Staten en het District Columbia;
+- (b) betekent de uitdrukking „Verenigde Staten” de Verenigde Staten van Amerika, en wanneer deze uitdrukking in aardrijkskundige zin wordt gebezigd, de Staten en het District Columbia;
 
-- (c). omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen;
+- (c) omvat de uitdrukking „Nederland” het deel van het Koninkrijk der Nederlanden dat in Europa is gelegen;
 
-- (d). betekent de uitdrukking „belasting” de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=I&artikel=2&z=1971-02-03&g=1971-02-03) omschreven belasting of belastingen die worden geheven door de Staat (of Staten) die het blijkens het zinsverband waarin de uitdrukking wordt gebezigd, betreft;
+- (d) betekent de uitdrukking „belasting” de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=I&artikel=2&z=1971-02-03&g=1971-02-03) omschreven belasting of belastingen die worden geheven door de Staat (of Staten) die het blijkens het zinsverband waarin de uitdrukking wordt gebezigd, betreft;
 
-- (e). betekent de uitdrukking „verrekening” een vermindering van belasting; en
+- (e) betekent de uitdrukking „verrekening” een vermindering van belasting; en
 
-- (f). betekent de uitdrukking „bevoegde autoriteiten”
+- (f) betekent de uitdrukking „bevoegde autoriteiten”
 
-- (i). wat de Verenigde Staten betreft, de „Secretary of the Treasury” of zijn gemachtigde, en
+   - (i) wat de Verenigde Staten betreft, de „Secretary of the Treasury” of zijn gemachtigde, en
 
-- (ii). wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
+   - (ii) wat Nederland betreft, de Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 (2). Elke in deze Overeenkomst niet anders omschreven uitdrukking heeft, tenzij het zinsverband anders vereist, de betekenis welke die uitdrukking heeft volgens de wetgeving van de Staat waarvan de belasting wordt vastgesteld.
 
@@ -100,19 +71,19 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (2). Een overledene die bij zijn overlijden staatsburger van een van de Staten was zonder staatsburger van de andere Staat te zijn, en die, ingevolge het eerste lid, geacht zou zijn bij zijn overlijden in beide Staten zijn woonplaats te hebben gehad, wordt geacht zijn woonplaats te hebben gehad in (en alleen in) de Staat waarvan hij staatsburger was, indien:
 
-- (a). hij overleed, nadat hij in de andere Staat gedurende het tijdvak van tien jaren dat bij zijn overlijden eindigde, in totaal minder dan zeven jaren zijn woonplaats had gehad; en
+- (a) hij overleed, nadat hij in de andere Staat gedurende het tijdvak van tien jaren dat bij zijn overlijden eindigde, in totaal minder dan zeven jaren zijn woonplaats had gehad; en
 
-- (b). hij zich in de andere Staat bevond voor het doen van zaken, voor beroepsdoeleinden, voor studie, voor opleiding, voor toeristische doeleinden of voor een soortgelijk doel (of in zijn hoedanigheid van de echtgenoot of een afhankelijk lid van het gezin van een persoon die zich voor zodanig doel in die andere Staat bevond) en niet een duidelijke bedoeling had om voor onbepaalde tijd in de andere Staat te blijven.
+- (b) hij zich in de andere Staat bevond voor het doen van zaken, voor beroepsdoeleinden, voor studie, voor opleiding, voor toeristische doeleinden of voor een soortgelijk doel (of in zijn hoedanigheid van de echtgenoot of een afhankelijk lid van het gezin van een persoon die zich voor zodanig doel in die andere Staat bevond) en niet een duidelijke bedoeling had om voor onbepaalde tijd in de andere Staat te blijven.
 
 (3). Indien een andere dan een overledene als bedoeld in het tweede lid, ingevolge de bepaling van het eerste lid zijn woonplaats in beide Staten had, gelden de volgende regels:
 
-- (a). hij wordt geacht zijn woonplaats te hebben gehad in de Staat waarin hij zich gedurende de onmiddellijk aan zijn overlijden voorafgaande vijf of meer jaren een duurzaam tehuis had gevestigd;
+- (a) hij wordt geacht zijn woonplaats te hebben gehad in de Staat waarin hij zich gedurende de onmiddellijk aan zijn overlijden voorafgaande vijf of meer jaren een duurzaam tehuis had gevestigd;
 
-- (b). indien hij zich in geen van de Staten voor vijf of meer jaren een duurzaam tehuis had gevestigd, wordt zijn woonplaats geacht te zijn in de Staat waarmede zijn persoonlijke betrekkingen het nauwst waren;
+- (b) indien hij zich in geen van de Staten voor vijf of meer jaren een duurzaam tehuis had gevestigd, wordt zijn woonplaats geacht te zijn in de Staat waarmede zijn persoonlijke betrekkingen het nauwst waren;
 
-- (c). indien niet kan worden bepaald met welke Staat zijn persoonlijke betrekkingen het nauwst waren, wordt zijn woonplaats geacht te zijn in de Staat waarvan hij staatsburger was; of
+- (c) indien niet kan worden bepaald met welke Staat zijn persoonlijke betrekkingen het nauwst waren, wordt zijn woonplaats geacht te zijn in de Staat waarvan hij staatsburger was; of
 
-- (d). indien hij staatsburger van beide Staten of van geen van beide was, zullen de bevoegde autoriteiten van de Staten in onderlinge overeenstemming vaststellen welke de Staat van zijn woonplaats was.
+- (d) indien hij staatsburger van beide Staten of van geen van beide was, zullen de bevoegde autoriteiten van de Staten in onderlinge overeenstemming vaststellen welke de Staat van zijn woonplaats was.
 
 (4). Voor de toepassing van het tweede lid wordt, tenzij al het bewijsmateriaal te zamen beschouwd duidelijk en overtuigend op het tegendeel wijst, aangenomen, dat de overledene niet een duidelijke bedoeling had om voor onbepaalde tijd in de Staat waarvan hij geen staatsburger was te blijven.
 
@@ -144,33 +115,33 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (3). Als vaste bedrijfsinrichtingen worden met name beschouwd:
 
-- (a). een filiaal;
+- (a) een filiaal;
 
-- (b). een kantoor;
+- (b) een kantoor;
 
-- (c). een fabriek;
+- (c) een fabriek;
 
-- (d). een werkplaats;
+- (d) een werkplaats;
 
-- (e). een verkoopgelegenheid;
+- (e) een verkoopgelegenheid;
 
-- (f). een mijn, een steengroeve, of een andere plaats van natuurlijke hulpbronnen in exploitatie; en
+- (f) een mijn, een steengroeve, of een andere plaats van natuurlijke hulpbronnen in exploitatie; en
 
-- (g). uitvoering van een bouwwerk of constructiewerkzaamheden waarvan de duur twaalf maanden overschrijdt.
+- (g) uitvoering van een bouwwerk of constructiewerkzaamheden waarvan de duur twaalf maanden overschrijdt.
 
 (4). Niettegenstaande het tweede en derde lid wordt niet als vaste inrichting beschouwd een vaste bedrijfsinrichting die uitsluitend wordt gebruikt voor een of meer van de volgende werkzaamheden:
 
-- (a). het gebruik maken van inrichtingen voor de opslag, uitstalling of aflevering van aan de overledene toebehorende goederen of koopwaar;
+- (a) het gebruik maken van inrichtingen voor de opslag, uitstalling of aflevering van aan de overledene toebehorende goederen of koopwaar;
 
-- (b). het aanhouden van een voorraad van aan de overledene toebehorende goederen of koopwaar voor de opslag, uitstalling of aflevering;
+- (b) het aanhouden van een voorraad van aan de overledene toebehorende goederen of koopwaar voor de opslag, uitstalling of aflevering;
 
-- (c). het aanhouden van een voorraad van aan de overledene toebehorende goederen of koopwaar voor de bewerking of verwerking door een ander;
+- (c) het aanhouden van een voorraad van aan de overledene toebehorende goederen of koopwaar voor de bewerking of verwerking door een ander;
 
-- (d). het aanhouden van een vaste bedrijfsinrichting voor de aankoop van goederen of koopwaar of voor de inwinning van inlichtingen voor de overledene;
+- (d) het aanhouden van een vaste bedrijfsinrichting voor de aankoop van goederen of koopwaar of voor de inwinning van inlichtingen voor de overledene;
 
-- (e). het aanhouden van een vaste bedrijfsinrichting voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor het verrichten van soortgelijke werkzaamheden voor de overledene, indien zij van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben;
+- (e) het aanhouden van een vaste bedrijfsinrichting voor reclamedoeleinden, voor het geven van inlichtingen, voor wetenschappelijk onderzoek of voor het verrichten van soortgelijke werkzaamheden voor de overledene, indien zij van voorbereidende aard zijn of het karakter van hulpwerkzaamheden hebben;
 
-- (f). het aanhouden van een vaste bedrijfsinrichting (door een andere persoon dan een handelaar) voor het beleggen of verhandelen van aandelen, effecten of waren voor eigen rekening van de overledene, hetzij rechtstreeks, hetzij door middel van een makelaar of andere vertegenwoordiger.
+- (f) het aanhouden van een vaste bedrijfsinrichting (door een andere persoon dan een handelaar) voor het beleggen of verhandelen van aandelen, effecten of waren voor eigen rekening van de overledene, hetzij rechtstreeks, hetzij door middel van een makelaar of andere vertegenwoordiger.
 
 (5). Een persoon die in een Staat voor een overledene werkzaam was – niet zijnde een vertegenwoordiger in de zin van het vierde lid (f) of van het zesde lid – wordt geacht een vaste inrichting van de overledene in die Staat te zijn geweest, indien deze persoon een machtiging bezat om namens de overledene overeenkomsten af te sluiten en dit recht in die Staat gewoonlijk uitoefende, tenzij de machtiging beperkt was tot de aankoop van goederen of waren voor de overledene.
 
@@ -196,9 +167,9 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (2). Indien een Staat uitsluitend op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) belasting mag heffen, heft die Staat geen belasting, indien de totale waarde van de in de nalatenschap begrepen vermogensbestanddelen die aan zijn belasting zijn onderworpen (nadat met alle voor aftrek in aanmerking komende schulden en lasten rekening is gehouden en nadat de bepalingen van het eerste lid zijn toegepast, maar voordat enige andere vrijstelling in aanmerking wordt genomen) $ 30.000,– niet overschrijdt. Indien de aldus vastgestelde waarde $ 30.000,– overschrijdt, bedraagt de te heffen belasting niet meer dan het laagste van de volgende bedragen:
 
-- (a). 50 percent van die waarde voor zover die $ 30.000,– overschrijdt, of
+- (a) 50 percent van die waarde voor zover die $ 30.000,– overschrijdt, of
 
-- (b). het bedrag van de belasting dat is vastgesteld overeenkomstig de bepalingen van deze Overeenkomst en met inachtneming van de vrijstellingen die in de wetgeving van die Staat zijn voorzien.
+- (b) het bedrag van de belasting dat is vastgesteld overeenkomstig de bepalingen van deze Overeenkomst en met inachtneming van de vrijstellingen die in de wetgeving van die Staat zijn voorzien.
 
 (3). Het eerste lid blijft buiten toepassing gedurende elk tijdvak waarvoor ingevolge de wetgeving van de Verenigde Staten de belasting die zij heffen met betrekking tot nalatenschappen van vreemdelingen niet-inwoners aanzienlijk minder gunstig wordt in vergelijking met de belasting die zij heffen met betrekking tot nalatenschappen van hun staatsburgers of inwoners dan het geval is op het tijdstip van de ondertekening van deze Overeenkomst.
 
@@ -210,11 +181,11 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (2). Indien beide Staten belasting heffen met betrekking tot vermogen, met uitzondering van vermogensbestanddelen die een van de Staten overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) mag belasten,
 
-- (a). verleent, indien de overledene bij zijn overlijden staatsburger van slechts een van de Staten was en hij bij zijn overlijden gedurende het tijdvak van tien jaren onmiddellijk daaraan voorafgaande in totaal zeven of meer jaren zijn woonplaats in de andere Staat heeft gehad, de Staat waarvan hij staatsburger was, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening gelijk aan de door die andere Staat geheven belasting;
+- (a) verleent, indien de overledene bij zijn overlijden staatsburger van slechts een van de Staten was en hij bij zijn overlijden gedurende het tijdvak van tien jaren onmiddellijk daaraan voorafgaande in totaal zeven of meer jaren zijn woonplaats in de andere Staat heeft gehad, de Staat waarvan hij staatsburger was, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening gelijk aan de door die andere Staat geheven belasting;
 
-- (b). verleent, indien de overledene bij zijn overlijden staatsburger van beide Staten en een inwoner van een van de Staten was, de Staat waarvan hij geen inwoner was, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening gelijk aan de door de andere Staat geheven belasting; of
+- (b) verleent, indien de overledene bij zijn overlijden staatsburger van beide Staten en een inwoner van een van de Staten was, de Staat waarvan hij geen inwoner was, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening gelijk aan de door de andere Staat geheven belasting; of
 
-- (c). verleent, indien noch letter (a) noch letter (b) van toepassing is, elk van de Staten, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening tot een bedrag, dat tot het laagste van hetzij het bedrag van zijn eigen belasting dat aan dat vermogen kan worden toegerekend, hetzij het bedrag van de belasting van de andere Staat dat aan dat zelfde vermogen kan worden toegerekend, in dezelfde verhouding staat, als het bedrag van zijn eigen belasting staat tot de som van beide belastingbedragen.
+- (c) verleent, indien noch letter (a) noch letter (b) van toepassing is, elk van de Staten, naast een verrekening die op grond van het eerste lid kan worden verleend, een verrekening tot een bedrag, dat tot het laagste van hetzij het bedrag van zijn eigen belasting dat aan dat vermogen kan worden toegerekend, hetzij het bedrag van de belasting van de andere Staat dat aan dat zelfde vermogen kan worden toegerekend, in dezelfde verhouding staat, als het bedrag van zijn eigen belasting staat tot de som van beide belastingbedragen.
 
 (3). Niettegenstaande de bepalingen van het eerste en het tweede lid overschrijdt het totale bedrag van alle verrekeningen die een Staat verleent volgens dit artikel of volgens de wetgeving of andere overeenkomsten van die Staat met betrekking tot alle vermogensbestanddelen waarvoor een verrekening kan worden verleend ingevolge het eerste lid en het tweede lid, letter (a) of (b), niet dat deel van de belasting van de Staat die de verrekening verleent, dat aan die vermogensbestanddelen kan worden toegerekend.
 
@@ -232,11 +203,11 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (1). Verzoeken om verrekening of teruggaaf van belasting gegrond op de bepalingen van deze Overeenkomst moeten worden ingediend voordat van de volgende termijnen de laatst vallende is verstreken:
 
-- (a). De termijn voor het indienen van een verzoek om teruggaaf van belasting volgens de wetgeving van de Staat bij welke het verzoek om verrekening of teruggaaf wordt ingediend;
+- (a) De termijn voor het indienen van een verzoek om teruggaaf van belasting volgens de wetgeving van de Staat bij welke het verzoek om verrekening of teruggaaf wordt ingediend;
 
-- (b). Vijf jaren te rekenen van de datum van het overlijden van de overledene met betrekking tot wiens nalatenschap het verzoek wordt ingediend; of
+- (b) Vijf jaren te rekenen van de datum van het overlijden van de overledene met betrekking tot wiens nalatenschap het verzoek wordt ingediend; of
 
-- (c). Eén jaar na de onherroepelijke vaststelling en betaling van belasting waarvoor verrekening op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=IV&artikel=11&z=1971-02-03&g=1971-02-03) wordt verzocht, mits de vaststelling en betaling binnen tien jaren na de datum van het overlijden van de overledene zijn geschied.
+- (c) Eén jaar na de onherroepelijke vaststelling en betaling van belasting waarvoor verrekening op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=IV&artikel=11&z=1971-02-03&g=1971-02-03) wordt verzocht, mits de vaststelling en betaling binnen tien jaren na de datum van het overlijden van de overledene zijn geschied.
 
 (2). Teruggaaf gegrond op de bepalingen van deze Overeenkomst vindt plaats zonder betaling van interest over het aldus teruggegeven bedrag.
 
@@ -258,11 +229,11 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (2). In geen geval worden de bepalingen van het eerste lid aldus uitgelegd dat zij een van de Staten de verplichting opleggen:
 
-- (a). maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
+- (a) maatregelen te nemen die in strijd zijn met de wetgeving of het gebruik van die of van de andere Staat;
 
-- (b). bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
+- (b) bijzonderheden te verstrekken die niet verkrijgbaar zijn volgens de wetgeving of in de normale gang van zaken in de administratie van die of van de andere Staat;
 
-- (c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
+- (c) inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
 (3). Inlichtingen worden verstrekt hetzij ambtshalve, hetzij op verzoek met betrekking tot speciale gevallen. De bevoegde autoriteiten van de Staten zullen in onderlinge overeenstemming de lijst van inlichtingen die ambtshalve worden verstrekt, vaststellen.
 
@@ -289,8 +260,6 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 ##### Artikel 18. Beëindiging
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Staten is beëindigd. Elk van de Staten kan deze Overeenkomst langs diplomatieke weg tegen het einde van ieder kalenderjaar, niet eerder vallende dan vijf jaren na de datum van haar inwerkingtreding, beëindigen, door tenminste zes maanden tevoren van zodanige beëindiging schriftelijk kennis te geven. In dat geval zal deze Overeenkomst niet van toepassing zijn op nalatenschappen van personen die na het verstrijken van het kalenderjaar aan het einde waarvan deze Overeenkomst is beëindigd, overlijden.
-
-Bij de ondertekening van de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht (hierna te noemen de Overeenkomst) zijn de vertegenwoordigers van beide Partijen, die dit Protocol ondertekend hebben, de volgende bepalingen overeengekomen:
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

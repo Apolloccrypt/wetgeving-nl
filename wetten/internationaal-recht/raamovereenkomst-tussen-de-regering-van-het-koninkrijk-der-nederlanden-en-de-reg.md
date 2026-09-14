@@ -1,46 +1,19 @@
 ---
 title: "Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië inzake technische samenwerking"
 identifier: "BWBV0004485"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-06-14"
-last_updated: "1971-06-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004485"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004160183"
-version_id: "10004329882"
-internal_id: "C10006999271"
-label_id: "10004145194"
-dtd_version: "2.0"
-original_entry_into_force: "1971-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004485/1971-06-14/0"
-intitule_bron: "Trb.1969-226"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-12-05"
-intitule_in_force: "1971-07-23"
-intitule_status: "goed"
-original_publication: "Trb.1969-226"
-original_published_date: "1969-12-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-226"
-entry_into_force_date: "1971-06-14"
-jci_1_3: "jci1.3:c:BWBV0004485&z=1971-06-14&g=1971-06-14"
-jci_1_0: "1.0:c:BWBV0004485&g=1971-06-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-06-14"
+publicatiedatum: 1971-06-14
+laatste_update: 1971-06-14
+status: geldig
+toestand: 1971-06-14
+bron: "https://wetten.overheid.nl/BWBV0004485"
+opgehaald: 2026-09-14
 ---
+
 # Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië inzake technische samenwerking
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië,
-
-Verlangende de vriendschappelijke betrekkingen tussen de twee landen te verstevigen,
-
-Overwegende dat het in het belang van beide Partijen is de technologische vooruitgang en de sociale en economische ontwikkeling in hun onderscheiden landen te bevorderen en aan te moedigen,
-
-Zich bewust van de wederzijdse voordelen die zullen voortvloeien uit een nauwere en meer gecoördineerde technische samenwerking ter verwezenlijking van de bovenbedoelde doelstellingen,
-
-Besloten hebbende, in een geest van vriendschappelijke samenwerking, een raamovereenkomst inzake technische samenwerking te sluiten, hebben hun daartoe behoorlijk gemachtigde Gevolmachtigden aangewezen, die zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Federatieve Republiek van Brazilië, Verlangende de vriendschappelijke betrekkingen tussen de twee landen te verstevigen, Overwegende dat het in het belang van beide Partijen is de technologische vooruitgang en de sociale en economische ontwikkeling in hun onderscheiden landen te bevorderen en aan te moedigen, Zich bewust van de wederzijdse voordelen die zullen voortvloeien uit een nauwere en meer gecoördineerde technische samenwerking ter verwezenlijking van de bovenbedoelde doelstellingen, Besloten hebbende, in een geest van vriendschappelijke samenwerking, een raamovereenkomst inzake technische samenwerking te sluiten, hebben hun daartoe behoorlijk gemachtigde Gevolmachtigden aangewezen, die zijn overeengekomen als volgt:*
 
 ##### Artikel I
 
@@ -106,10 +79,10 @@ TEN BLIJKE WAARVAN de Gevolmachtigden van beide Regeringen deze Overeenkomst heb
 
 GEDAAN te Rio de Janeiro, de 25ste september 1969 in tweevoud in de Nederlandse en de Portugese taal, zijnde beide teksten gelijkelijk gezaghebbend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) D. VAN DEN BRANDELER
 
-**Voor de Federatieve Republiek van Brazilië**
+*Voor de Federatieve Republiek van Brazilië*
 
 (w.g.) JOSÉ DE MAGALHÃES PINTO

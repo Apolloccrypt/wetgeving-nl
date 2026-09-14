@@ -1,82 +1,55 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Republiek van Tanzania inzake technische samenwerking"
 identifier: "BWBV0004647"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-10-30"
-last_updated: "1986-10-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004647"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004235773"
-version_id: "10004422872"
-internal_id: "C10006987381"
-label_id: "10004220774"
-dtd_version: "2.0"
-original_entry_into_force: "1967-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004647/1986-10-30/0"
-intitule_bron: "Trb.1965-74"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-06-22"
-intitule_in_force: "1967-03-29"
-intitule_status: "goed"
-original_publication: "Trb.1965-74"
-original_published_date: "1965-06-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-74"
-entry_into_force_date: "1967-02-15"
-jci_1_3: "jci1.3:c:BWBV0004647&z=1986-10-30&g=1986-10-30"
-jci_1_0: "1.0:c:BWBV0004647&g=1986-10-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-02-15"
+publicatiedatum: 1967-02-15
+laatste_update: 1986-10-30
+status: geldig
+toestand: 1986-10-30
+bron: "https://wetten.overheid.nl/BWBV0004647"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Republiek van Tanzania inzake technische samenwerking
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek van Tanzania,
+*The Government of the Kingdom of the Netherlands and the Government of the United Republic of Tanzania, Desirous of strengthening the ties of friendship existing between their nations and of promoting the good relations between their countries generally, Recognizing that it is in the interest of both Parties to promote scientific, economic and social progress in their countries to the best of their ability and that an arrangement for technical co-operation would substantially contribute to that aim, Considering that it would be useful to create a general framework within which such technical co-operation could be realized, Have agreed as follows:*
 
-Verlangende, de tussen hun volken bestaande vriendschapsbanden nauwer aan te halen en in het algemeen de goede betrekkingen tussen hun landen uit te breiden,
+##### Article 1
 
-Erkennende, dat het in beider belang is wederzijds de wetenschappelijke, economische en sociale vooruitgang naar vermogen te bevorderen en dat een regeling van de technische samenwerking daartoe een belangrijke bijdrage vormt,
+The two Governments shall promote technical co-operation between their countries as far as their financial and material possibilities and the personnel at their disposal permit.
 
-Overwegende dat hiertoe bevorderlijk kan zijn het scheppen van een algemeen kader, waarbinnen zulke technische samenwerking kan worden tot stand gebracht,
+##### Article 2
 
-Komen het volgende overeen:
+1. Technical co-operation shall comprise the transfer, in the widest sense of the term, of knowledge and experience which may or may not be accompanied by material aid.
 
-##### Artikel 1
+2. Effective co-operation as referred to in the preceding paragraph shall not be initiated before the country wishing to avail itself of the opportunities for co-operation offered by the other country has made an explicit request to that effect, nor before agreement has been reached on the facilities requisite for such co-operation.
 
-De beide Regeringen zullen wederzijds binnen de ten dienste staande financiële, personele en materiële mogelijkheden, de technische samenwerking tussen beider landen bevorderen.
+##### Article 3
 
-##### Artikel 2
+When technical co-operation as referred to in paragraph 1 of Article 2 has been decided upon and, in consequence, experts are made available, fellowships are granted or technical co-operation on a broader scale is initiated, the methods to be employed and the conditions to be observed shall, in each individual case, be decided in joint consultation by administrative arrangements, in accordance with the principles embodied in the present Agreement.
 
-1. De technische samenwerking zal bestaan uit de overdracht in de ruimste zin van kennis en ervaring, al dan niet vergezeld van materiële steun.
+##### Article 4
 
-2. Tot daadwerkelijke samenwerking als bedoeld in het vorige lid zal slechts kunnen worden overgegaan nadat hierom uitdrukkelijk is verzocht door het land dat van geboden mogelijkheden van samenwerking met het andere land gebruik wenst te maken en niet eerder dan nadat over de voor deze samenwerking vereiste zakelijke voorwaarden overeenstemming is bereikt.
+1. Experts made available by the Government of one country for advisory or executive functions in the other country shall be allowed for a period of six months after their arrival in the other country to import their luggage, personal and household effects, motor-car and other goods intended for their personal use or the personal use of members of their family, without a special import licence or certificate of foreign exchange coverage. The receiving country shall exempt such goods from customs and import duties and other similar impositions.
 
-##### Artikel 3
+2. The experts shall be allowed for a period of six months after the termination of their assignment to export the goods imported by them under conditions analogous to those laid down in paragraph 1 of this Article. The same shall hold good for personal and household effects that, within reasonable limits, have been acquired during the period of the assignment.
 
-Wanneer tot technische samenwerking als bedoeld in het eerste lid van artikel 2 wordt besloten en dientengevolge deskundigen worden beschikbaar gesteld, fellowships verleend of tot meer uitgebreide vormen van technische samenwerking wordt overgegaan, zullen, in overeenstemming met de beginselen nedergelegd in deze Overeenkomst, de wijze waarop en de voorwaarden waaronder zulks zal geschieden van geval tot geval in gemeenschappelijk overleg nader worden geregeld in administratieve akkoorden.
+3. The privileges referred to in the first paragraph of the present article shall also be granted to the above experts on the renewal of their contracts and after expiry of a period of three years from the date of their first arrival on the condition that any items to be replaced i.e.1)[Red: Lees: e.g.]motor-vehicle, airconditioner, refrigerator or deepfreezer are sold to the respective Parastatal Organisations.
 
-##### Artikel 4
+##### Article 5
 
-1. Deskundigen die door de Regering van het ene land ter beschikking worden gesteld voor adviserende of uitvoerende werkzaamheden in het andere land, kunnen gedurende zes maanden na aankomst in het andere land hun bagage, persoonlijke en huishoudelijke goederen, automobiel en andere voor hen of hun gezinsleden bestemde gebruiksartikelen invoeren zonder speciale invoervergunning of bewijs van deviezendekking. Het ontvangende land stelt de invoer vrij van douaneheffingen, invoerrechten en soortgelijke lasten.
+The provisions of Article 4 shall likewise be applicable to the importation and exportation of equipment, demonstration material and other goods required by the experts for the performance of their task or forming part of material made available in cases of technical co-operation on a broader scale, it being understood that the importation of such material into the receiving country shall at all time be permitted.
 
-2. Deskundigen kunnen gedurende zes maanden na het einde van de terbeschikkingstelling het door hen ingevoerde weder uitvoeren onder overeenkomstige toepassing van lid 1 van dit artikel. Hetzelfde geldt met betrekking tot die persoonlijke en huishoudelijke goederen welke, binnen redelijke grenzen, tijdens de terbeschikkingstelling zijn verworven.
+##### Article 6
 
-3. De in het eerste lid van dit artikel bedoelde voorrechten worden eveneens toegekend aan de bovengenoemde deskundigen bij vernieuwing van hun contract en na het verstrijken van een tijdvak van drie jaar, te rekenen van de datum van hun eerste aankomst, met dien verstande dat alle te vervangen goederen, t.w.1)[Red: Lees: zoals bijvoorbeeld.]motorvoertuig, klimaatregelingstoestel, koelkast of diepvriesinstallatie, worden verkocht aan de onderscheiden semi-overheidsorganisaties.
+As regards contingencies for which this Agreement does not provide, the two Governments shall, in each individual case, decide by administrative arrangement which facilities relating to the assignment of experts and the execution of projects which are embodied in the “Model Text of Agreement concerning Assistance from the United Nations Special Fund” that is valid at the moment the administrative arrangement is made, shall be declared operative.
 
-##### Artikel 5
+##### Article 7
 
-Voor de invoer en de uitvoer van apparatuur, demonstratiemateriaal en andere goederen, nodig voor het vervullen van de taak van de deskundigen of welke deel uitmaken van het materiaal, dat in gevallen van uitgebreide technische samenwerking beschikbaar wordt gesteld, is het in artikel 4 bepaalde eveneens van toepassing, met dien verstande dat de invoer in het ontvangende land te allen tijde kan geschieden.
+The Agreement shall enter into force on the day on which the Government of the Kingdom of the Netherlands and the Government of the United Republic of Tanzania have informed each other in writing that the procedures constitutionally required in their respective countries have been complied with.
 
-##### Artikel 6
-
-Voor de gevallen waarin deze Overeenkomst niet voorziet, zullen de beide Regeringen van geval tot geval bij administratief akkoord vaststellen welke faciliteiten, vervat in de „Model Text of Agreement concerning Assistance from the United Nations Special Fund”, geldig op het moment van het sluiten van het administratief akkoord, met betrekking tot het beschikbaar stellen van deskundigen en het uitvoeren van projecten van toepassing worden verklaard.
-
-##### Artikel 7
-
-De Overeenkomst treedt in werking op de dag waarop de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek van Tanzania elkaar schriftelijk kennis hebben gegeven, dat in hun beide landen aan de vereiste grondwettelijke procedures is voldaan.
-
-Deze Overeenkomst geldt voor een periode van vijf jaar. Zij wordt geacht stilzwijgend te zijn verlengd, telkens voor een periode van drie jaar, indien zij niet door een der Partijen schriftelijk is opgezegd uiterlijk zes maanden voor het einde van de lopende periode.
+The present Agreement shall be valid for a term of five years. Unless either of the Contracting Parties gives notice in writing not less than six months before expiry of the current period, it shall be deemed to have been tacitly extended for further terms of three years.
 
 IN WITNESS WHEREOF the undersigned have signed the present Agreement.
 

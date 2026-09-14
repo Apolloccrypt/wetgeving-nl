@@ -1,112 +1,19 @@
 ---
 title: "Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije"
 identifier: "BWBV0004702"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-03-01"
-last_updated: "1986-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004702"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004274273"
-version_id: "10004462222"
-internal_id: "C10006996161"
-label_id: "10004259234"
-dtd_version: "2.0"
-original_entry_into_force: "1973-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004702/1986-03-01/0"
-intitule_bron: "Trb.1971-70"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1971-04-21"
-intitule_in_force: "1973-03-16"
-intitule_status: "goed"
-original_publication: "Trb.1971-70"
-original_published_date: "1971-04-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1971-70"
-entry_into_force_date: "1973-01-01"
-jci_1_3: "jci1.3:c:BWBV0004702&z=1986-03-01&g=1986-03-01"
-jci_1_0: "1.0:c:BWBV0004702&g=1986-03-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1973-01-01"
+publicatiedatum: 1973-01-01
+laatste_update: 1986-03-01
+status: geldig
+toestand: 1986-03-01
+bron: "https://wetten.overheid.nl/BWBV0004702"
+opgehaald: 2026-09-14
 ---
+
 # Financieel Protocol bij de op 12 september 1963 te Ankara ondertekende Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije
 
-Zijne Majesteit de Koning der Belgen,
-
-De President van de Bondsrepubliek Duitsland,
-
-De President van de Franse Republiek,
-
-De President van de Italiaanse Republiek,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-en de Raad van de Europese Gemeenschappen, enerzijds, en
-
-de President van de Republiek Turkije, anderzijds,
-
-Verlangende de versnelde ontwikkeling van de Turkse economie te bevorderen ten einde het nastreven van de doelstellingen van de [Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](https://wetten.overheid.nl/jci1.3:c:BWBV0004316), te vergemakkelijken,
-
-Hebben als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-de heer Pierre Harmel,
-
-Minister van Buitenlandse Zaken;
-
-De President van de Bondsrepubliek Duitsland:
-
-de heer Walter Scheel,
-
-Minister van Buitenlandse Zaken;
-
-De President van de Franse Republiek:
-
-de heer Maurice Schumann,
-
-Minister van Buitenlandse Zaken;
-
-De President van de Italiaanse Republiek:
-
-de heer Mario Pedini,
-
-Staatssecretaris van Buitenlandse Zaken;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-de heer Gaston Thorn,
-
-Minister van Buitenlandse Zaken;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-de heer J. M. A. H. Luns,
-
-Minister van Buitenlandse Zaken;
-
-De Raad van de Europese Gemeenschappen:
-
-de heer Walter Scheel,
-
-Fungerend Voorzitter van de Raad van de Europese Gemeenschappen;
-
-de heer Franco Maria Malfatti,
-
-Voorzitter van de Commissie van de Europese Gemeenschappen;
-
-De President van de Republiek Turkije:
-
-de heer Ihsan Sabri Çaglayangil,
-
-Minister van Buitenlandse Zaken;
-
-Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Overeenstemming hebben bereikt omtrent de volgende bepalingen, die aan de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004316) worden gehecht,
+*Zijne Majesteit de Koning der Belgen, De President van de Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, en de Raad van de Europese Gemeenschappen, enerzijds, en de President van de Republiek Turkije, anderzijds, Verlangende de versnelde ontwikkeling van de Turkse economie te bevorderen ten einde het nastreven van de doelstellingen van de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije, te vergemakkelijken, Hebben als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Pierre Harmel, Minister van Buitenlandse Zaken; De President van de Bondsrepubliek Duitsland: de heer Walter Scheel, Minister van Buitenlandse Zaken; De President van de Franse Republiek: de heer Maurice Schumann, Minister van Buitenlandse Zaken; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Gaston Thorn, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: de heer J. M. A. H. Luns, Minister van Buitenlandse Zaken; De Raad van de Europese Gemeenschappen: de heer Walter Scheel, Fungerend Voorzitter van de Raad van de Europese Gemeenschappen; de heer Franco Maria Malfatti, Voorzitter van de Commissie van de Europese Gemeenschappen; De President van de Republiek Turkije: de heer Ihsan Sabri Çaglayangil, Minister van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Overeenstemming hebben bereikt omtrent de volgende bepalingen, die aan de Associatieovereenkomst worden gehecht,*
 
 ##### Artikel 1
 
@@ -118,17 +25,17 @@ In het kader van de Associatie tussen de Europese Economische Gemeenschap en Tur
 
 2. Voor financiering komen in aanmerking investeringsprojecten:
 
-- a). die bijdragen tot verhoging van de produktiviteit van de Turkse economie en die inzonderheid ten doel hebben, Turkije te verzekeren van een betere economische infrastructuur, een hogere opbrengst van de landbouw, en van moderne en rationeel gevoerde industriële of dienstenondernemingen, ongeacht of deze door de overheid dan wel door particulieren worden beheerd;
+- a) die bijdragen tot verhoging van de produktiviteit van de Turkse economie en die inzonderheid ten doel hebben, Turkije te verzekeren van een betere economische infrastructuur, een hogere opbrengst van de landbouw, en van moderne en rationeel gevoerde industriële of dienstenondernemingen, ongeacht of deze door de overheid dan wel door particulieren worden beheerd;
 
-- b). die de verwezenlijking van de doelstellingen van de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004316) bevorderen;
+- b) die de verwezenlijking van de doelstellingen van de [Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004316) bevorderen;
 
-- c). die een onderdeel vormen van het lopende Turkse ontwikkelingsplan.
+- c) die een onderdeel vormen van het lopende Turkse ontwikkelingsplan.
 
 3. Met betrekking tot de keuze van de investeringsprojecten kunnen in het kader van deze bepalingen:
 
-- a). slechts afzonderlijk omschreven projecten worden gefinancierd;
+- a) slechts afzonderlijk omschreven projecten worden gefinancierd;
 
-- b). in beginsel in alle sectoren van de economie investeringsprojecten worden gefinancierd die op Turks grondgebied zullen worden verwezenlijkt.
+- b) in beginsel in alle sectoren van de economie investeringsprojecten worden gefinancierd die op Turks grondgebied zullen worden verwezenlijkt.
 
 4. Bijzondere aandacht wordt besteed aan projecten die kunnen bijdragen tot verbetering van de toestand der Turkse betalingsbalans.
 
@@ -158,9 +65,9 @@ In het kader van de Associatie tussen de Europese Economische Gemeenschap en Tur
 
 3. Aan de leningen betreffende de financiering van projecten met een normale rentabiliteit, waarvan het bedrag ten minste 30% van de jaarlijks aan Turkije toegekende leningen dient uit te maken, kunnen de volgende voorwaarden worden verbonden:
 
-- a). een looptijd en aflossingsvrije periode die - binnen de in lid 2 gestelde grenzen - door de Bank worden vastgesteld op een wijze waardoor voor Turkije de dienst van deze leningen kan worden vergemakkelijkt;
+- a) een looptijd en aflossingsvrije periode die - binnen de in lid 2 gestelde grenzen - door de Bank worden vastgesteld op een wijze waardoor voor Turkije de dienst van deze leningen kan worden vergemakkelijkt;
 
-- b). een rentevoet van ten minste 4,5% per jaar.
+- b) een rentevoet van ten minste 4,5% per jaar.
 
 4. De in het vorige lid bedoelde leningen kunnen worden toegekend door bemiddeling van passende Turkse instellingen.
 

@@ -1,104 +1,73 @@
 ---
 title: "Protocol bij het Verdrag inzake de samenstelling van een Europese farmacopee"
 identifier: "BWBV0004550"
-country: "nl"
-rank: "verdrag"
-publication_date: "1992-11-01"
-last_updated: "1992-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004550"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004187843"
-version_id: "10004363372"
-internal_id: "C10006999551"
-label_id: "10004172894"
-dtd_version: "2.0"
-original_entry_into_force: "1992-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004550/1992-11-01/0"
-intitule_bron: "Trb.1990-7"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1990-01-17"
-intitule_in_force: "1992-11-05"
-intitule_status: "goed"
-original_publication: "Trb.1990-7"
-original_published_date: "1990-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1990-7"
-entry_into_force_date: "1992-11-01"
-jci_1_3: "jci1.3:c:BWBV0004550&z=1992-11-01&g=1992-11-01"
-jci_1_0: "1.0:c:BWBV0004550&g=1992-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1992-11-01"
+publicatiedatum: 1992-11-01
+laatste_update: 1992-11-01
+status: geldig
+toestand: 1992-11-01
+bron: "https://wetten.overheid.nl/BWBV0004550"
+opgehaald: 2026-09-14
 ---
+
 # Protocol bij het Verdrag inzake de samenstelling van een Europese farmacopee
 
-Preambule
+*Preamble The member States of the Council of Europe which are Parties to the Convention on the Elaboration of a European Pharmacopoeia of 22 July 1964 drawn up within the Council of Europe's Partial Agreement in the Social and Public Health Field, hereinafter called “the Convention”, Having regard to the Convention and particularly to the provisions of Article 1 thereof; Considering that the European Economic Community has adopted rules particularly in the form of directives which apply to the matters covered by the Convention and that it is competent in this field; Considering therefore that, for the purpose of implementing Article 1 of the Convention, it is necessary for the European Economic Community to be able to become a Party to the Convention; Considering that, to that end, it is necessary to amend certain provisions of the Convention, Have agreed as follows:*
 
-De Lidstaten van de Raad van Europa, Partij bij het [Verdrag inzake de samenstelling van een Europese farmacopee](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) van 22 juli 1964, opgesteld in het kader van het Partieel Akkoord van de Raad van Europa op sociaal gebied en op het gebied van de volksgezondheid, hierna te noemen „het Verdrag”,
+##### Article 1
 
-Gelet op het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) en met name de bepalingen in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004454&artikel=1);
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-Overwegende dat de Europese Economische Gemeenschap regels heeft aangenomen, in de vorm van richtlijnen, die van toepassing zijn op de onderwerpen die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) bestrijkt en dat zij terzake bevoegd is;
+##### Article 2
 
-Overwegende dat het derhalve voor de toepassing van [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454&artikel=1) van belang is dat de Europese Economische Gemeenschap Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) kan worden;
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-Overwegende dat hiertoe enkele bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) dienen te worden gewijzigd,
+##### Article 3
 
-Zijn het volgende overeengekomen:
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-##### Artikel 1
+##### Article 4
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-##### Artikel 2
+##### Article 5
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-##### Artikel 3
+##### Article 6
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+*Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.*
 
-##### Artikel 4
+##### Article 7
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+1. This Protocol shall be open for signature by the member States of the Council of Europe having signed or acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) which may express their consent to be bound by:
 
-##### Artikel 5
+- a. signature without reservation as to ratification, acceptance or approval; or
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+- b. signature subject to ratification, acceptance of approval, followed by ratification, acceptance or approval.
 
-##### Artikel 6
+2. No member State of the Council of Europe shall sign without reservation as to ratification, acceptance or approval, or deposit an instrument of ratification, acceptance or approval, unless it is already or becomes simultaneously Party to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004454).
 
-Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
+3. Any State not a member of the Council of Europe which has acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) may also accede to this Protocol.
 
-##### Artikel 7
+4. Instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary General of the Council of Europe.
 
-1. Dit Protocol staat open ter ondertekening door de Lidstaten van de Raad van Europa die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) hebben ondertekend of daartoe zijn toegetreden en die hun instemming kunnen betuigen erdoor te worden gebonden, door:
+##### Article 8
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring; of
+This Protocol shall enter into force on the first day of the month following the expiration of a period of one month after the date on which all Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) have expressed their consent to be bound by the Protocol in accordance with the provisions of Article 7.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+##### Article 9
 
-2. Een Lidstaat van de Raad van Europa kan dit Protocol niet ondertekenen zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring of zijn akte van bekrachtiging, aanvaarding of goedkeuring nederleggen, tenzij hij reeds Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) is of dat tegelijkertijd wordt.
+The Secretary General of the Council of Europe shall notify the member States of the Council, any other Contracting State to the Convention and the European Economic Community of:
 
-3. De Staten die geen lid zijn van de Raad van Europa en die tot het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) zijn toegetreden, kunnen eveneens toetreden tot dit Protocol.
+- a. any signature;
 
-4. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+- b. the deposit of any instrument of ratification, acceptance, approval or accession;
 
-##### Artikel 8
+- c. any date of entry into force of this Protocol in accordance with Article 8;
 
-Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop alle Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) hun instemming tot uitdrukking hebben gebracht door het Protocol te worden gebonden overeenkomstig de bepalingen van artikel 7.
-
-##### Artikel 9
-
-De Secretaris-Generaal van de Raad van Europa doet de Lidstaten van de Raad, de andere Verdragsluitende Staten en de Europese Economische Gemeenschap mededeling van:
-
-- a. iedere ondertekening;
-
-- b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- c. iedere datum van inwerkingtreding van dit Protocol overeenkomstig het bepaalde in artikel 8;
-
-- d. iedere andere handeling, kennisgeving of mededeling betrekking hebbend op dit Protocol.
+- d. any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

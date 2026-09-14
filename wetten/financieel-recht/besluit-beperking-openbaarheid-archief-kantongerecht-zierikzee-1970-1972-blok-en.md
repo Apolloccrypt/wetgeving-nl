@@ -8,7 +8,7 @@ laatste_update: 2026-09-11
 status: geldig
 toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0053092"
-opgehaald: 2026-09-13
+opgehaald: 2026-09-14
 ---
 
 # Besluit beperking openbaarheid archief Kantongerecht Zierikzee, 1970-1972, blok- en toegangsnummer 715, Rechtbank Zeeland – West-Brabant (inv. nrs. 2771–2857)

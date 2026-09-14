@@ -1,847 +1,795 @@
 ---
 title: "Europese Code inzake sociale zekerheid"
 identifier: "BWBV0004465"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-03-17"
-last_updated: "2008-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004465"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004147853"
-version_id: "10004319122"
-internal_id: "C10006977351"
-label_id: "10004135044"
-dtd_version: "2.0"
-original_entry_into_force: "1968-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004465/2008-03-17/0"
-intitule_bron: "Trb.1965-47"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-03-24"
-intitule_in_force: "1967-04-27"
-intitule_status: "goed"
-original_publication: "Trb.1965-47"
-original_published_date: "1965-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-47"
-entry_into_force_date: "1968-03-17"
-jci_1_3: "jci1.3:c:BWBV0004465&z=2008-03-17&g=2008-03-17"
-jci_1_0: "1.0:c:BWBV0004465&g=2008-03-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1968-03-17"
+publicatiedatum: 1968-03-17
+laatste_update: 2008-03-17
+status: geldig
+toestand: 2008-03-17
+bron: "https://wetten.overheid.nl/BWBV0004465"
+opgehaald: 2026-09-14
 ---
+
 # Europese Code inzake sociale zekerheid
 
-**Preambule**
+*Preamble The member States of the Council of Europe, signatory hereto, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members for the purpose, among others, of facilitating their social progress; Considering that one of the objects of the social programme of the Council of Europe is to encourage all Members to develop further their systems of social security; Recognising the desirability of harmonising social charges in member countries; Convinced that it is desirable to establish a European Code of Social Security at a higher level than the minimum standards embodied in International Labour Convention No. 102 concerning Minimum Standards of Social Security, Have agreed on the following provisions, which have been prepared with the collaboration of the International Labour Office:*
 
-De Regeringen die deze Code hebben ondertekend, Leden van de Raad van Europa,
+## PART I. General provisions
 
-Overwegende dat het doel van de Raad van Europa is het tot stand brengen van een grotere eenheid tussen zijn Leden, ten einde met name aldus hun sociale vooruitgang te bevorderen;
+##### Article 1
 
-Overwegende dat een van de doelstellingen van het sociale programma van de Raad van Europa is, alle Leden ertoe aan te sporen hun regelingen inzake sociale zekerheid verder tot ontwikkeling te brengen;
+1. In this Code:
 
-De wenselijkheid erkennende de sociale lasten in de Lid-Staten te harmoniseren;
+- (a) the term “the Committee of Ministers” means the Committee of Ministers of the Council of Europe;
 
-Ervan overtuigd zijnde dat het gewenst is een Europese Code inzake sociale zekerheid in te stellen, waarvan de normen op een hoger niveau liggen dan de minimumnormen neergelegd in het Internationale Arbeidsverdrag nr. 102 betreffende de minimumnormen van sociale zekerheid;
+- (b) the term “the Committee” means the Committee of Experts on Social Security of the Council of Europe or such other Committee as the Committee of Ministers may designate to carry out the duties laid down in Article 2, paragraph 3; Article 74, paragraph 4, and Article 78, paragraph 3;
 
-Zijn de volgende bepalingen, die zijn opgesteld met medewerking van het Internationale Arbeidsbureau, overeengekomen:
+- (c) the term “Secretary-General” means the Secretary-General of the Council of Europe;
 
-## DEEL I. Algemene bepalingen
+- (d) the term “prescribed” means determined by or in virtue of national laws or regulations;
 
-##### Artikel 1
+- (e) term “residence” means ordinary residence in the territory Contracting Party concerned and the term “resident” means a person ordinarily resident in the territory of the Contracting Party concerned;
 
-1. Voor de toepassing van deze Code wordt verstaan onder:
+- (f) the term “wife” means a wife who is maintained by her husband;
 
-- (a). „het Comité van Ministers”: het Comité van Ministers van de Raad van Europa;
+- (g) the term “widow” means a woman who was maintained by her husband at the time of his death;
 
-- (b). „de Commissie”: de Commissie van deskundigen op het gebied der sociale zekerheid van de Raad van Europa of elke andere commissie die het Comité van Ministers kan belasten met de uitvoering van de taken omschreven in artikel 2, lid 3, artikel 74, lid 4 en artikel 78, lid 3;
+- (h) the term "child" means:
 
-- (c). „Secretaris-Generaal”: de Secretaris-Generaal van de Raad van Europa;
+   - (i) a child under 16 years of age; or
 
-- (d). „voorgeschreven”: voorgeschreven bij of krachtens de nationale wetgeving;
+   - (ii) a child under school-leaving age or under 15 years of age, as may be prescribed, provided that in the case of a child continuing its education, apprenticed or invalid, it shall mean a child under 18 years of age;
 
-- (e). „verblijf”: het gewone verblijf op het grondgebied van de Contracterende Partij; „inwoner”: degene die gewoonlijk op het grondgebied van de Contracterende Partij verblijf houdt;
+- (i) the term “qualifying period” means a period of contribution, or a period of employment, or a period of residence, or any combination thereof, as may be prescribed.
 
-- (f). „echtgenote”: een echtgenote die ten laste van haar man is;
+2. In Articles 10, 34 and 49 the term “benefit” means either direct benefit in the form of care or indirect benefit consisting of a reimbursement of the expenses borne by the person concerned.
 
-- (g). „weduwe”: een vrouw die ten laste van haar echtgenoot was op het tijdstip van diens overlijden;
+##### Article 2
 
-- (h). „kind”:
+1. Each Contracting Party shall comply with:
 
-- (i). hetzij een kind beneden de leeftijd van 16 jaren;
+- (a) Part I;
 
-- (ii). hetzij een kind beneden de leeftijd, waarop de leerplicht een einde neemt, of jonger dan 15 jaren, naar gelang zal worden voorgeschreven. Wanneer het echter een kind betreft dat verder onderwijs geniet, onder het leerlingenstelsel valt of invalide is, wordt daaronder een kind verstaan beneden de leeftijd van 18 jaren;
+- (b) at least eight of those Parts II to X for which the member State concerned has accepted the obligations of the Code in virtue of Article 3, provided that Part II shall count as two parts and Part V as three parts;
 
-- (i). „wachttijd”: hetzij een tijdvak van premiebetaling, hetzij een tijdvak van arbeid, hetzij een tijdvak van verblijf, hetzij een combinatie van deze tijdvakken naar gelang zal worden voorgeschreven.
+- (c) the relevant provisions of Parts XI and XII; and
 
-2. Voor de toepassing van de artikelen 10, 34 en 49 wordt onder „verstrekkingen” verstaan hetzij rechtstreeks verleende verstrekkingen, hetzij indirect verleende verstrekkingen, bestaande in een vergoeding van de door de belanghebbende gedragen kosten.
+- (d) Part XIII.
 
-##### Artikel 2
+2. The terms of sub-paragraph (*b* ) of the foregoing paragraph can be regarded as fulfilled if:
 
-1. Elke Contracterende Partij moet toepassen:
+- (a) at least six of those Parts II to X for which the member State concerned has accepted the obligations of the Code in virtue of Article 3, including at least one of Parts IV, V, VI, IX and X are complied with; and
 
-- (a). deel I;
+- (b) in addition, proof is furnished that the social security legislation in force is equivalent to one of the combinations provided for in that sub-paragraph, taking into account:
 
-- (b). ten minste acht van de delen II tot en met X ten aanzien waarvan de betrokken Lid-Staat krachtens artikel 3 de verplichtingen van de Code heeft aanvaard, met dien verstande dat deel II voor twee en deel V voor drie delen telt;
+   - (i) the fact that certain branches covered by sub-paragraph (*a* ) of this paragraph exceed the standards of the Code in respect of their scope of protection or their level of benefits, or both;
 
-- (c). de desbetreffende bepalingen van de delen XI en XII; en
+   - (ii) the fact that certain branches covered by sub-paragraph (*a* ) of this paragraph exceed the standards of the Code by granting supplementary services or advantages listed in *Addendum* 2 to the Code as modified by the Protocol; and
 
-- (d). deel XIII.
+   - (iii) branches which do not attain the standards of the Code.
 
-2. Aan de voorwaarde genoemd in het voorgaande lid sub (**b** ) wordt geacht te zijn voldaan, indien:
+3. A Signatory desiring to avail itself of the provisions of paragraph 2 (*b*) of this Article shall make a request to this effect in the report to the Secretary-General submitted in accordance with the provisions of Article 78. The Committee, basing itself on the principle of equivalence of cost, shall lay down rules co-ordinating and defining the conditions for taking into account the provisions of paragraph 2 (*b*) of this Article. These provisions may only be taken into account in each case with the approval of the Committee, the decision to be taken by a two-thirds majority.
 
-- (a). er van de delen II tot en met X ten aanzien waarvan de betrokken Lid-Staat krachtens artikel 3 de verplichtingen van de Code hééft aanvaard ten minste zes, waaronder ten minste een van de delen IV, V, VI, IX of X, worden toegepast; en
+##### Article 3
 
-- (b). bovendien wordt aangetoond dat de van kracht zijnde wetgeving op het gebied der Sociale Zekerheid gelijkwaardig is aan een van de onder (**b** ) bedoelde combinaties, daarbij rekening houdende:
+Each Contracting Party shall specify in its instrument of ratification those Parts of Parts II to X in respect of which it accepts the obligations of this Code, and shall also state whether and to what extent it avails itself of the provisions of Article 2, paragraph 2.
 
-- (i). met het feit dat bepaalde takken, bedoeld onder (**a** ) van dit Lid, uitgaan boven de normen van de Code wat het toepassingsgebied, of het niveau der uitkeringen, of beide betreft;
+##### Article 4
 
-- (ii). met het feit dat bepaalde takken, bedoeld onder (**a** ) van dit lid, uitgaan boven de normen van de Code doordat zij in **addendum 2** van de Code, als bij dit Protocol gewijzigd, opgenomen extra voordelen verlenen; en
+1. Each Contracting Party may subsequently notify the Secretary-General that it accepts the obligations of the Code in respect of one or more of Parts II to X not already specified in its ratification.
 
-- (iii). met takken die beneden de normen van de Code blijven.
+2. The undertakings referred to in paragraph 1 of this Article shall be deemed to be an integral part of the ratification and to have the force of ratification as from the date of notification.
 
-3. Elke ondertekenende Staat die gebruik wil maken van het bepaalde in lid 2 onder (**b**) van dit artikel doet daartoe een verzoek in het overeenkomstig het bepaalde in artikel 78 aan de Secretaris-Generaal uit te brengen verslag. De Commissie, die daarbij uitgaat van het beginsel van de gelijkheid der kosten, stelt regels vast voor het coördineren en vaststellen van de voorwaarden waarop rekening moet worden gehouden met de in lid 2 onder (**b**) van dit artikel genoemde bepalingen. Met deze bepalingen kan in alle voorkomende gevallen slechts met goedkeuring van de Commissie rekening worden gehouden; de Commissie beslist met een meerderheid van twee derde van het aantal uitgebrachte stemmen.
+##### Article 5
 
-##### Artikel 3
+Where, for the purpose of compliance with any of the Parts II to X of this Code which are to be covered by its ratification, a Contracting Party is required to protect prescribed classes of persons constituting not less than a specified percentage of employees or residents, that Contracting Party shall satisfy itself, before undertaking to comply with any such Part, that the relevant percentage is attained.
 
-Elke Contracterende Partij geeft in haar akte van bekrachtiging aan, ten aanzien van welke van de delen II t/m X zij de uit deze Code voortvloeiende verplichtingen aanvaardt en vermeldt daarin tevens of en zo ja, in hoeverre, zij een beroep doet op de bepalingen van artikel 2, tweede lid.
+##### Article 6
 
-##### Artikel 4
+For the purpose of compliance with Parts II, III, IV, V, VIII (in so far as it relates to medical care), IX or X of this Code, a Contracting Party may take account of protection effected by means of insurance which, although not made compulsory by national laws or regulations for the persons to be protected,
 
-1. Elke Contracterende Partij kan later de Secretaris-Generaal ervan in kennis stellen dat zij de verplichtingen aanvaardt, voortvloeiende uit de Code wat betreft een of meer van de delen II t/m X waarvan zij in haar akte van bekrachtiging nog geen opgave heeft gedaan.
+- (a) is subsidised by the public authorities or, where such insurance is complementary only, is supervised by the public authorities or administered, in accordance with prescribed standards, by joint operation of employers and workers;
 
-2. De aanvaarding der verplichtingen, bedoeld in het eerste lid van dit artikel wordt geacht een integrerend deel te vormen van de bekrachtiging en heeft gelijke kracht te rekenen van de datum van de kennisgeving.
+- (b) covers a substantial part of the persons whose earnings do not exceed those of the skilled manual male employee, determined in accordance with Article 65; and
 
-##### Artikel 5
+- (c) complies, in conjunction with other forms of protection, where appropriate, with the relevant provisions of the Code.
 
-Wanneer op grond van een der delen II t/m X van deze Code, waarop de bekrachtiging van toepassing zal zijn, een Contracterende Partij gehouden is tot het beschermen van voorgeschreven groepen van personen die in totaal ten minste een bepaald percentage uitmaken van de loontrekkenden of van de inwoners, moet die Contracterende Partij, alvorens zich te binden tot het toepassen van dat deel zich ervan vergewissen, dat het bedoelde percentage is bereikt.
+## PART II. Medical care
 
-##### Artikel 6
+##### Article 7
 
-Voor de toepassing van de delen II, III, IV, V, VIII (wat betreft geneeskundige zorg), IX of X van deze Code, kan een Contracterende Partij rekening houden met de bescherming, voortvloeiende uit verzekeringen welke krachtens de nationale wetgeving niet verplicht zijn voor de betrokken personen, mits deze verzekeringen:
+Each Contracting Party for which this Part of this Code is in force shall secure to the persons protected the provision of benefit in respect of a condition requiring medical care of a preventive or curative nature in accordance with the following Articles of this Part.
 
-- (a). door de overheid worden gesubsidieerd of, wanneer deze verzekeringen slechts een aanvullend karakter hebben, onder toezicht van de overheid staan dan wel volgens voorgeschreven normen, door werkgevers en werknemers in gemeenschappelijk beheer worden uitgevoerd;
+##### Article 8
 
-- (b). zich uitstrekken tot een aanzienlijk deel der personen wier inkomsten uit arbeid die van een geschoolde mannelijke handarbeider, als vastgesteld overeenkomstig het bepaalde in artikel 65, niet te boven gaan; en
+The contingencies covered shall include any morbid condition, whatever its cause, and pregnancy and confinement and their consequences.
 
-- (c). te zamen met eventuele andere vormen van bescherming, voldoen aan de desbetreffende bepalingen van deze Code.
+##### Article 9
 
-## DEEL II. Geneeskundige zorg
+The persons protected shall comprise:
 
-##### Artikel 7
+- (a) prescribed classes of employees, constituting not less than 80 per cent of all employees, and also their wives and children; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen de voorziening van verstrekkingen waarborgen, wanneer hun toestand geneeskundige zorg van preventieve of curatieve aard vereist.
+- (b) prescribed classes of the economically active population, constituting not less than 30 per cent of all residents, and also their wives and children; or
 
-##### Artikel 8
+- (c) prescribed classes of residents, constituting not less than 65 per cent of all residents.
 
-Onder de verzekerde gevallen moeten begrepen zijn alle ziektegevallen, ongeacht de oorzaak, alsmede zwangerschap, bevalling en de gevolgen daarvan.
+##### Article 10
 
-##### Artikel 9
+1. The benefit shall include at least:
 
-Tot de beschermde personen moeten worden gerekend:
+- (a) in the case of a morbid condition:
 
-- (a). voorgeschreven groepen van loontrekkenden welke in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden, alsmede de echtgenoten en kinderen van de tot deze groepen behorende loontrekkenden, of
+   - (i) care by general practitioners, including domiciliary visiting, and care by specialists in accordance with prescribed conditions;
 
-- (b). voorgeschreven groepen van de werkende bevolking, welke in totaal ten minste 30 procent uitmaken van de gezamenlijke inwoners, alsmede de echtgenoten en kinderen van de tot deze groepen behorende personen; of
+   - (ii) hospital care including maintenance, care by general practitioners or specialists as required, nursing and all auxiliary services required;
 
-- (c). voorgeschreven groepen van inwoners, welke in totaal ten minste 65 procent uitmaken van de gezamenlijke inwoners.
+   - (iii) all necessary non-proprietary pharmaceutical supplies and proprietary preparations regarded as essential; and
 
-##### Artikel 10
+   - (iv) conservative dental care for the children protected; and
 
-1. De verstrekkingen moeten tenminste omvatten:
+- (b) in the case of pregnancy, confinement and their consequences:
 
-- (a). in geval van ziektetoestand
+   - (i) pre-natal, confinement and post-natal care either by medical practitioners or by qualified midwives;
 
-- (i). de hulp van huisartsen, met inbegrip van huisbezoeken en de hulp van specialisten overeenkomstig voorgeschreven voorwaarden:
+   - (ii) hospitalisation where necessary; and
 
-- (ii). ziekenhuisverpleging, met inbegrip van verzorging in een ziekenhuis, de hulp van huisartsen, onderscheidenlijk specialisten, verpleging en alle vereiste bijkomende hulp;
+   - (iii) pharmaceutical supplies.
 
-- (iii). de verstrekking van alle nodige geneesmiddelen op recept, en van alle als noodzakelijk beschouwde spécialités; en
+2. The beneficiary or his breadwinner may be required to share in the costs of the medical care which the beneficiary receives:
 
-- (iv). onderhoud van het gebit voor de beschermde kinderen; en
+- (a) In case of morbid condition, provided that the rules concerning such cost-sharing shall be so designed as to avoid hardship, and that the part of the cost paid by the beneficiary or breadwinner shall not exceed:
 
-- (b). in geval van zwangerschap, bevalling en de gevolgen daarvan,
+   - (i) for care by general practitioners and specialists outside hospital wards: 25 per cent;
 
-- (i). prenatale zorg, hulp bij de bevalling, postnatale zorg, hetzij van een geneeskundige, hetzij van een gediplomeerde vroedvrouw;
+   - (ii) for hospital care: 25 per cent;
 
-- (ii). opneming in een ziekenhuis, wanneer deze noodzakelijk is en
+   - (iii) for pharmaceutical supplies: 25 per cent on the average;
 
-- (iii). de verstrekking van geneesmiddelen.
+   - (iv) for conservative dental care: 33 1/3 per cent;
 
-2. De gerechtigde of zijn kostwinner kunnen ertoe gehouden worden een bijdrage te leveren in de kosten van de geneeskundige zorg, ontvangen:
+- (b) in case of pregnancy, confinement and their consequences, in respect of pharmaceutical supplies only for which the part of the cost paid by the patient or breadwinner shall not exceed 25 per cent on the average; the rules concerning such cost-sharing shall be so designed as to avoid hardship;
 
-- (a). in geval van ziektetoestand; de regels betreffende deze bijdrage in de kosten moeten echter zodanig worden vastgesteld dat zij geen te zware belasting met zich brengen en de bijdrage in de kosten door de gerechtigde of zijn kostwinner mag niet meer bedragen dan:
+- (c) where cost-sharing takes the form of a fixed sum in respect of each case or course of treatment or each prescription of pharmaceutical supplies, the total of such payments made by all persons protected in respect of any one of the types of care referred to in sub-paragraphs (*a* ) or (*b* ) shall not exceed the specified percentage of the total cost of that type of care within a given period.
 
-- (i). 25 procent voor de hulp van huisartsen en specialisten verleend buiten de zalen van het ziekenhuis;
+3. The benefit provided in accordance with this Article shall be afforded with a view to maintaining, restoring or improving the health of the person protected and his ability to work and to attend to his personal needs.
 
-- (ii). 25 procent voor verpleging in een ziekenhuis;
+4. The institutions or Government departments administering the benefit shall, by such means as may be deemed appropriate, encourage the persons protected to avail themselves of the general health services placed at their disposal by the public authorities or by other bodies recognised by the public authorities.
 
-- (iii). gemiddeld 25 procent voor de verstrekking van geneesmiddelen;
+##### Article 11
 
-- (iv). 33 1/3 procent voor het onderhoud van het gebit;
+The benefit specified in Article 10 shall, in a contingency covered, be secured at least to a person protected who has completed, or whose breadwinner has completed, such qualifying period as may be considered necessary to preclude abuse.
 
-- (b). in geval van zwangerschap, bevalling en de gevolgen daarvan uitsluitend voor de verstrekking van geneesmiddelen, waarbij de bijdrage in de kosten door de gerechtigde of haar kostwinner gemiddeld niet meer mag bedragen dan 25 procent; de regels betreffende deze bijdrage in de kosten moeten zodanig worden vastgesteld dat zij geen te zware last met zich brengen;
+##### Article 12
 
-- (c). wanneer deze bijdrage in de kosten wordt vastgesteld op een vast bedrag voor elke behandeling of voor elk geval waarin geneesmiddelen worden voorgeschreven, mag het totaal van de door alle beschermde personen verrichte betalingen met betrekking tot elk der onder (**a** ) en (**b** ) genoemde verstrekkingen het voorgeschreven percentage van de totale kosten van die verstrekkingen binnen een bepaald tijdvak niet te boven gaan.
+The benefits specified in Article 10 shall be granted throughout the contingency covered, except that hospital care may be limited to 52 weeks in each case or to 78 weeks in any consecutive period of three years.
 
-3. De verstrekkingen, verleend overeenkomstig dit artikel, moeten strekken tot instandhouding, herstel of verbetering van de gezondheid van de beschermde persoon, alsmede van diens geschiktheid om te werken en om te voorzien in zijn persoonlijke behoeften.
+## PART III. Sickness benefit
 
-4. De regeringsdepartementen of de instellingen welke de verstrekkingen verlenen, moeten de beschermde personen met alle daartoe geëigende middelen aanmoedigen om gebruik te maken van de algemene gezondheidsdiensten welke door de overheid of door andere organen, door de overheid erkend, te hunner beschikking zijn gesteld.
+##### Article 13
 
-##### Artikel 11
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of sickness benefit in accordance with the following Articles of this Part.
 
-De in artikel 10 vermelde verstrekkingen moeten in een door verzekering gedekt geval ten minste worden gewaarborgd aan een beschermde persoon die zelf of wiens kostwinner een wachttijd heeft vervuld, welke noodzakelijk kan worden geacht om misbruik te voorkomen.
+##### Article 14
 
-##### Artikel 12
+The contingency covered shall include incapacity for work resulting from a morbid condition and involving suspension of earnings, as defined by national laws or regulations.
 
-De in artikel 10 vermelde verstrekkingen moeten gedurende de gehele duur van het door verzekering gedekte geval worden verleend, behoudens dat verpleging in een ziekenhuis kan worden beperkt tot 52 weken per geval of tot 78 weken binnen een tijdvak van drie opeenvolgende jaren.
+##### Article 15
 
-## DEEL III. Uitkering van ziekengeld
+The persons protected shall comprise:
 
-##### Artikel 13
+- (a) prescribed classes of employees, constituting not less than 80 per cent of all employees; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen de uitkering van ziekengeld waarborgen.
+- (b) prescribed classes of the economically active population constituting not less than 30 per cent of all residents; or
 
-##### Artikel 14
+- (c) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67.
 
-Het door verzekering gedekte geval moet omvatten ongeschiktheid tot werken, welke voortspruit uit een ziektetoestand en welke derving van inkomsten uit arbeid met zich brengt, zoals nader geregeld bij de nationale wetgeving.
+##### Article 16
 
-##### Artikel 15
+1. Where classes of employees or classes of the economically active population are protected, the benefit shall be a periodical payment calculated in such a manner as to comply with the requirements of Article 65 or with the requirements of Article 66.
 
-Tot de beschermde personen moeten worden gerekend:
+2. Where all residents whose means during the contingency do not exceed prescribed limits are protected, the benefit shall be a periodical payment calculated in such a manner as to comply with the requirements of Article 67; provided that a prescribed benefit shall be guaranteed, without means test, to the prescribed classes of persons determined in accordance with Article 15 (*a*) or (*b*).
 
-- (a). voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden;
+##### Article 17
 
-- (b). voorgeschreven groepen van de werkende bevolking welke in totaal ten minste 30 procent uitmaken van de gezamenlijke inwoners; of
+The benefit specified in Article 16 shall, in a contingency covered, be secured at least to a person protected who has completed such qualifying period as may be considered necessary to preclude abuse.
 
-- (c). alle inwoners wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden.
+##### Article 18
 
-##### Artikel 16
+The benefit specified in Article 16 shall be granted throughout the contingency, except that it need not be paid for the first three days of suspension of earnings and may be limited to 52 weeks in each case of sickness or to 78 weeks in any consecutive period of three years.
 
-1. Wanneer groepen van loontrekkenden of groepen van de werkende bevolking worden beschermd, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66.
+## PART IV. Unemployment benefit
 
-2. Wanneer alle inwoners, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, beschermd zijn, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 67. Een voorgeschreven uitkering moet echter gewaarborgd worden aan de overeenkomstig hetzij in alinea (**a** ), hetzij in alinea (**b** ) van artikel 15 voorgeschreven groepen zonder onderzoek naar de financiële positie van de betrokkene.
+##### Article 19
 
-##### Artikel 17
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of unemployment benefit in accordance with the following Articles of this Part.
 
-De in artikel 16 vermelde uitkering moet in het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen die een wachttijd hebben vervuld, welke noodzakelijk kan worden geacht om misbruiken te voorkomen.
+##### Article 20
 
-##### Artikel 18
+The contingency covered shall include suspension of earnings, as defined by national laws or regulations, due to inability to obtain suitable employment in the case of a person protected who is capable of, and available for, work.
 
-De in artikel 16 vermelde uitkering moet gedurende de gehele duur van het door verzekering gedekte geval worden verleend, met de mogelijkheid dat zij niet behoeft te worden verleend over de eerste drie dagen van inkomstenderving en behoudens dat de duur van de uitkering kan worden beperkt tot 52 weken voor elk ziektegeval of tot 78 weken binnen een tijdvak van drie opeenvolgende jaren.
+##### Article 21
 
-## DEEL IV. Uitkering bij werkloosheid
+The persons protected shall comprise:
 
-##### Artikel 19
+- (a) prescribed classes of employees constituting not less than 55 per cent of all employees; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen uitkeringen bij werkloosheid waarborgen.
+- (b) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67.
 
-##### Artikel 20
+##### Article 22
 
-Het door verzekering gedekte geval moet omvatten het derven van inkomsten uit arbeid - zoals nader geregeld bij de nationale wetgeving - veroorzaakt door de onmogelijkheid voor een beschermde persoon die in staat is arbeid te verrichten en voor de arbeid beschikbaar is, om passend werk te verkrijgen.
+1. Where classes of employees are protected, the benefit shall be a periodical payment calculated in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66.
 
-##### Artikel 21
+2. Where all residents whose means during the contingency do not exceed prescribed limits are protected, the benefit shall be a periodical payment calculated in such a manner as to comply with the requirements of Article 67; provided that a prescribed benefit shall be guaranteed, without means test, to the prescribed classes of employees determined in accordance with Article 21 (*a*).
 
-Tot de beschermde personen moeten worden gerekend:
+##### Article 23
 
-- (a). voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 55 procent uitmaken van de gezamenlijke loontrekkenden; of
+The benefit specified in Article 22 shall, in a contingency covered, be secured at least to a person protected who has completed such qualifying period as may be considered necessary to preclude abuse.
 
-- (b). alle inwoners wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden.
+##### Article 24
 
-##### Artikel 22
+1. Where classes of employees are protected, the duration of the benefits specified in Article 22 may be limited to 21 weeks within a period of 12 months, or to 21 weeks in each case of suspension of earnings.
 
-1. Wanneer groepen van loontrekkenden worden beschermd, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen, hetzij van artikel 65, hetzij van artikel 66.
+2. Where all residents whose means during the contingency do not exceed prescribed limits are protected, the benefit specified in Article 22 shall be granted throughout the contingency. Provided that the duration of the prescribed benefit guaranteed without a means test may be limited in accordance with paragraph 1 of this Article.
 
-2. Wanneer alle inwoners wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, beschermd zijn, zal de uitkering bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 67. Een voorgeschreven uitkering moet echter gewaarborgd worden aan de voorgeschreven groepen bepaald overeenkomstig artikel 21 (**a** ) zonder onderzoek naar de financiële positie van de betrokkene.
+3. Where national laws or regulations provide that the duration of the benefit shall vary with the length of the contribution period and/or the benefit previously received within a prescribed period, the provisions of paragraph 1 shall be deemed to be fulfilled if the average duration of benefit is at least 21 weeks within a period of 12 months.
 
-##### Artikel 23
+4. The benefit need not be paid:
 
-De in artikel 22 vermelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd aan de beschermde personen die een wachttijd hebben vervuld, welke noodzakelijk kan worden geacht om misbruiken te voorkomen.
+- (a) for the first three days in each case of suspension of earnings, counting the days of unemployment before and after temporary employment lasting not more than a prescribed period as part of the same case of suspension of earnings; or
 
-##### Artikel 24
+- (b) for the first six days within a period of twelve months.
 
-1. Wanneer groepen van loontrekkenden beschermd worden kan de duur van de in artikel 22 vermelde uitkering worden beperkt tot 21 weken binnen een tijdvak van 12 maanden, of tot 21 weken per geval van inkomstenderving.
+5. In the case of seasonal workers, the duration of the benefit and the waiting period may be adapted to their conditions of employment.
 
-2. Wanneer alle inwoners beschermd worden wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, moet de in artikel 22 vermelde uitkering tijdens de gehele duur van het door verzekering gedekte geval verleend worden. De duur van de voorgeschreven uitkering, die gewaarborgd moet worden zonder onderzoek naar de financiële positie van de betrokkene, kan evenwel worden beperkt overeenkomstig het bepaalde in lid 1 van dit artikel.
+6. Measures shall be taken to maintain a high and stable level of employment in the country, and appropriate facilities shall be provided to assist unemployed persons to obtain suitable new work including placement services, vocational training courses, assistance in their transfer to another district when necessary to find suitable employment, and related services.
 
-3. Wanneer krachtens de nationale wetgeving de duur van de uitkering verband houdt, hetzij met de duur van de premiebetaling, hetzij met reeds eerder in de loop van een voorgeschreven tijdvak ontvangen uitkeringen, wordt aan de bepalingen van lid 1 geacht te zijn voldaan, indien de gemiddelde duur van de uitkering ten minste 21 weken in een tijdvak van 12 maanden bedraagt.
+## PART V. Old-age benefit
 
-4. De uitkering behoeft niet te worden verstrekt:
+##### Article 25
 
-- (a). gedurende de eerste drie dagen van elk geval van inkomstenderving, met dien verstande dat dagen van werkloosheid welke vallen vóór en na een tijdelijke tewerkstelling en welke een bepaalde voorgeschreven duur niet overschrijden, geacht worden deel uit te maken van hetzelfde geval van inkomstenderving; of
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of old-age benefit in accordance with the following Articles of this Part.
 
-- (b). gedurende de eerste zes dagen binnen een tijdvak van 12 maanden.
+##### Article 26
 
-5. Ten aanzien van seizoenarbeiders kunnen de duur van de uitkeringen en de wachttijd worden aangepast aan de arbeidsvoorwaarden.
+1. The contingency covered shall be survival beyond a prescribed age.
 
-6. Er dienen maatregelen te worden genomen voor de handhaving van een behoorlijke en stabiele werkgelegenheid in het land en mogelijkheden te worden geschapen om werklozen te helpen bij het verkrijgen van nieuwe passende arbeid, met name door arbeidsbemiddeling, vakopleiding, hulp bij verhuizing naar een andere streek indien dit nodig is om passende arbeid te vinden, alsmede door middel van andere soortgelijke diensten.
+2. The prescribed age shall be not more than 65 years or than such higher age that the number of residents having attained that age is not less than 10 per cent of the number of residents under that age but over 15 years. Provided that, where prescribed classes of employees only are protected, the prescribed age shall be not more than 65 years.
 
-## DEEL V. Ouderdomsuitkeringen
+3. National laws or regulations may provide that the benefit of a person otherwise entitled to it may be suspended if he is engaged in any prescribed gainful activity, or that the benefit, if contributory, may be reduced whenever the earnings of the beneficiary exceed a prescribed amount.
 
-##### Artikel 25
+##### Article 27
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel de betaling van ouderdomsuitkeringen aan de beschermde personen waarborgen.
+The persons protected shall comprise:
 
-##### Artikel 26
+- (a) prescribed classes of employees, constituting not less than 80 per cent of all employees; or
 
-1. Het door verzekering gedekte geval bestaat in het overschreden hebben van een voorgeschreven leeftijd.
+- (b) prescribed classes of the economically active population, constituting not less than 30 per cent of all residents; or
 
-2. De voorgeschreven leeftijd mag niet hoger worden gesteld dan 65 jaar. Nochtans mag een hogere leeftijd worden voorgeschreven, mits het aantal inwoners dat die hogere leeftijd heeft bereikt niet minder bedraagt dan 10 procent van het totale aantal inwoners dat die hogere leeftijd nog niet heeft bereikt, doch ouder is dan 15 jaar. Wanneer slechts voorgeschreven groepen van loontrekkenden beschermd worden, mag de voorgeschreven leeftijd niet hoger zijn dan 65 jaar.
+- (c) all residents whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of Article 67.
 
-3. De nationale wetgeving kan bepalen dat de uitkeringen worden geschorst indien degene die daarop recht zou hebben gehad bepaalde voorgeschreven werkzaamheden verricht; de uitkeringen, waarvoor premie is betaald, kunnen krachtens de nationale wetgeving worden verminderd, wanneer de inkomsten uit arbeid van de gerechtigde een voorgeschreven bedrag overschrijden.
+##### Article 28
 
-##### Artikel 27
+The benefit shall be a periodical payment calculated as follows:
 
-Tot de beschermde personen moeten worden gerekend:
+- (a) where classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66;
 
-- (a). voorgeschreven groepen van loontrekkenden, welke in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden; of
+- (b) where all residents whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of Article 67. Provided that a prescribed benefit shall be guaranteed without means tests to the prescribed classes of persons determined in accordance with [sub-paragraphs (*a* ) or (*b* ) of Article 27](https://wetten.overheid.nl/BWBV0004465), subject to qualifying conditions not more stringent than those specified in [paragraph 1 of Article 29](https://wetten.overheid.nl/BWBV0004465).
 
-- (b). voorgeschreven groepen van de werkende bevolking welke in totaal tenminste 30 procent uitmaken van de gezamenlijke inwoners; of
+##### Article 29
 
-- (c). alle inwoners wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden.
+1. The benefit specified in Article 28 shall, in a contingency covered, be secured at least:
 
-##### Artikel 28
+- (a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period which may be 30 years of contribution or employment, or 20 years of residence; or
 
-De uitkering zal bestaan in een periodieke betaling, als volgt:
+- (b) where, in principle, all economically active persons are protected, to a person protected who has completed a prescribed qualifying period of contribution and in respect of whom while he was of working age, the prescribed yearly average number of contributions has been paid.
 
-- (a). wanneer groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden, overeenkomstig de bepalingen, hetzij van artikel 65, hetzij van artikel 66;
+2. Where the benefit referred to in paragraph 1 of this Article is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least:
 
-- (b). wanneer alle inwoners beschermd worden, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden, overeenkomstig de bepalingen van artikel 67. Een voorgeschreven uitkering moet echter worden gewaarborgd, zonder onderzoek naar de bestaansmiddelen, aan de voorgeschreven groepen personen vastgesteld overeenkomstig de alinea's (**a** ) en (**b** ) van artikel 27, behoudens een wachttijd, waarvan de voorwaarden niet strenger mogen zijn dan die genoemd in lid 1 van artikel 29.
+- (a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period of 15 years of contribution or employment; or
 
-##### Artikel 29
+- (b) where, in principle, all economically active persons are protected, to a person protected who has completed a prescribed qualifying period of contribution and in respect of whom, while he was of working age, half the yearly average number of contributions prescribed in accordance with paragraph 1 (*b*) of this Article has been paid.
 
-1. De in artikel 28 vermelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd:
+3. The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected who has completed, in accordance with prescribed rules, ten years of contribution or employment, or five years of residence.
 
-- (a). aan een beschermd persoon die vóór het intreden van het door verzekering gedekte geval, overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan hetzij in 30 jaren van premiebetaling of arbeid, hetzij in 20 jaren van verblijf;
+4. A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the benefit corresponding to the reduced percentage exceeds ten years of contribution or employment but is less than 30 years of contribution or employment; if such qualifying period exceeds 15 years, a reduced benefit shall be payable in conformity with paragraph 2 of this Article.
 
-- (b). wanneer in beginsel alle werkende personen beschermd worden, aan een beschermd persoon die een voorgeschreven wachttijd van premiebetaling heeft vervuld en te wiens name, in de actieve periode van zijn leven, premiën zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.
+5. Where the benefit referred to in paragraphs 1, 3 or 4 of this Article is conditional upon a minimum period of contribution or employment, a reduced benefit shall be payable under prescribed conditions to a person protected who, by reason only of his advanced age when the provisions concerned in the application of this Part come into force, has not satisfied the conditions prescribed in accordance with paragraph 2 of this Article, unless a benefit in conformity with the provisions of paragraphs 1, 3 or 4 of this Article is secured to such person at an age higher than the normal age.
 
-2. Wanneer de toekenning van de in het eerste lid van dit artikel vermelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd:
+##### Article 30
 
-- (a). aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval overeenkomstig voorgeschreven regelen een wachttijd van 15 jaren van premiebetaling of arbeid heeft vervuld;
+The benefits specified in Articles 28 and 29 shall be granted throughout the contingency.
 
-- (b). wanneer in beginsel alle werkende personen beschermd worden, aan een beschermd persoon die een voorgeschreven wachttijd van premiebetaling heeft vervuld en te wiens name in de loop van de actieve periode van zijn leven de helft van het voorgeschreven gemiddelde aantal premiën per jaar is betaald, bedoeld onder (**b** ) van het eerste lid van dit artikel.
+## PART VI. Employment injury benefit
 
-3. Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig deel XI, doch naar een percentage, dat 10 eenheden minder bedraagt dan dat hetwelk in de bij dat deel gevoegde tabel voor de model-gerechtigde is aangegeven, ten minste gewaarborgd wordt aan ieder beschermd persoon, die overeenkomstig voorgeschreven regelen, hetzij tien jaren van premiebetaling of van arbeid, hetzij vijf jaren van verblijf heeft vervuld.
+##### Article 31
 
-4. Een evenredige vermindering van het percentage aangegeven in de bij deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan tien jaren van premiebetaling of van arbeid, doch minder dan 30 jaren van premiebetaling of van arbeid. Wanneer bedoelde wachttijd meer bedraagt dan 15 jaren, moet overeenkomstig lid 2 van dit artikel een verminderde uitkering worden toegekend.
+*Vervallen*
 
-5. Wanneer de toekenning van de uitkering bedoeld in de leden 1, 3 of 4 van dit artikel afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet overeenkomstig voorgeschreven regelen een verminderde uitkering worden gewaarborgd aan een beschermd persoon die enkel ten gevolge van het feit dat hij op het tijdstip waarop de regeling welke het mogelijk maakte dit deel van de Code toe te passen, van kracht is geworden, een gevorderde leeftijd had bereikt, de voorgeschreven voorwaarden van lid 2 van dit artikel niet heeft kunnen vervullen; het bepaalde in de vorige zinsneden vindt geen toepassing indien een uitkering overeenkomstig de bepalingen van de leden 1, 3 of 4 van dit artikel wordt toegekend aan een zodanig persoon op een hogere dan de normale leeftijd.
+##### Article 32
 
-##### Artikel 30
+*Vervallen*
 
-De in de artikelen 28 en 29 vermelde uitkeringen moeten worden toegekend tijdens de gehele duur van het door verzekering gedekte geval.
+##### Article 33
 
-## DEEL VI. Uitkeringen en verstrekkingen bij arbeidsongevallen en beroepsziekten
+*Vervallen*
 
-##### Artikel 31
+##### Article 34
 
-Vervallen
+*Vervallen*
 
-##### Artikel 32
+##### Article 35
 
-Vervallen
+*Vervallen*
 
-##### Artikel 33
+##### Article 36
 
-Vervallen
+*Vervallen*
 
-##### Artikel 34
+##### Article 37
 
-Vervallen
+*Vervallen*
 
-##### Artikel 35
+##### Article 38
 
-Vervallen
+*Vervallen*
 
-##### Artikel 36
+## PART VII. Family benefit
 
-Vervallen
+##### Article 39
 
-##### Artikel 37
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of family benefit in accordance with the following Articles of this Part.
 
-Vervallen
+##### Article 40
 
-##### Artikel 38
+The contingency covered shall be responsibility for the maintenance of children as prescribed.
 
-Vervallen
+##### Article 41
 
-## DEEL VII. Gezinsbijslagen
+The persons protected shall comprise, in so far as periodical payments are concerned:
 
-##### Artikel 39
+- (a) prescribed classes of employees, constituting not less than 80 per cent of all employees; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, dient overeenkomstig de volgende artikelen van dit deel aan de beschermde personen gezinsbijslagen te waarborgen.
+- (b) prescribed classes of the economically active population, constituting not less than 30 per cent of all residents.
 
-##### Artikel 40
+##### Article 42
 
-Het door verzekering gedekte geval omvat het ten laste hebben van kinderen, overeenkomstig hetgeen dienaangaande zal worden voorgeschreven.
+The benefit shall be:
 
-##### Artikel 41
+- (a) a periodical payment granted to any person protected having completed the prescribed qualifying period; or
 
-Voor zover de uitkering bestaat in een periodieke betaling, moeten tot de beschermde personen worden gerekend:
+- (b) the provision to or in respect of children of food, clothing, housing, holidays or domestic help; or
 
-- (a). voorgeschreven groepen van loontrekkenden welke in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden; of
+- (c) a combination of the benefits provided for in sub-paragraphs (*a*) and (*b*) of this Article.
 
-- (b). voorgeschreven groepen van de werkende bevolking welke in totaal ten minste 30 procent uitmaken van de gezamenlijke inwoners.
+##### Article 43
 
-##### Artikel 42
+The benefit specified in Article 42 shall be secured at least to a person protected who, within a prescribed period, has completed a qualifying period which may be one month of contribution or employment, or six months of residence, as may be prescribed.
 
-De uitkeringen en/of verstrekkingen moeten omvatten:
+##### Article 44
 
-- (a). een periodieke betaling, toegekend aan ieder beschermd persoon die de voorgeschreven wachttijd heeft vervuld; of
+The total value of the benefits granted in accordance with [Article 42](https://wetten.overheid.nl/BWBV0004465) shall be such as to represent 2 per cent of the wage of an ordinary adult male labourer as determined in accordance with the rules laid down in Article 66 multiplied by the total number of children of all residents.
 
-- (b). de verstrekking aan of ten behoeve van de kinderen van voedsel, kleding, huisvesting, vakantie of huishoudelijke hulp; of
+##### Article 45
 
-- (c). combinatie van de uitkeringen en verstrekkingen, bedoeld onder (**a** ) en (**b** ) van dit artikel.
+Where the benefit consists of a periodical payment, it shall be granted throughout the contingency.
 
-##### Artikel 43
+## PART VIII. Maternity benefit
 
-De in artikel 42 vermelde uitkeringen en verstrekkingen moeten ten minste worden gewaarborgd aan een beschermd persoon die in de loop van een voorgeschreven tijdvak een wachttijd heeft vervuld, die kan bestaan hetzij in één maand van premiebetaling of van arbeid, hetzij in een verblijf van zes maanden, naar gelang zal worden voorgeschreven.
+##### Article 46
 
-##### Artikel 44
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of maternity benefit in accordance with the following Articles of this Part.
 
-De totale waarde van de overeenkomstig artikel 42 verleende uitkeringen en/of verstrekkingen moet zodanig zijn, dat zij gelijk is aan 2 procent van het loon van een volwassen mannelijke ongeschoolde arbeider, vastgesteld overeenkomstig de in artikel 66 neergelegde regelen, vermenigvuldigd met het totale aantal kinderen van alle inwoners.
+##### Article 47
 
-##### Artikel 45
+The contingencies covered shall include pregnancy and confinement and their consequences, and suspension of earnings, as defined by national laws or regulations resulting therefrom.
 
-Wanneer de uitkeringen bestaan in een periodieke betaling, moeten zij tijdens de gehele duur van het door verzekering gedekte geval worden verleend.
+##### Article 48
 
-## DEEL VIII. Uitkeringen en verstrekkingen bij moederschap
+The persons protected shall comprise:
 
-##### Artikel 46
+- (a) all women in prescribed classes of employees, which classes constitute not less than 80 per cent of all employees, and, for maternity medical benefit, also the wives of men in these classes; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen uitkeringen en verstrekkingen bij moederschap waarborgen.
+- (b) all women in prescribed classes of the economically active population, which classes constitute not less than 30 per cent of all residents, and, for maternity medical benefit, also the wives of men in these classes.
 
-##### Artikel 47
+##### Article 49
 
-Het door verzekering gedekte geval omvat zwangerschap, bevalling en de gevolgen daarvan, alsmede daaruit voortvloeiende derving van inkomsten uit arbeid, zoals deze nader is geregeld bij de nationale wetgeving.
+1. In respect of pregnancy and confinement and their consequences, the maternity medical benefit shall be medical care as specified in paragraphs 2 and 3 of this Article.
 
-##### Artikel 48
+2. The medical care shall include at least:
 
-Tot de beschermde personen moeten worden gerekend:
+- (a) pre-natal, confinement and post-natal care, either by medical practitioners or by qualified midwives;
 
-- (a). alle vrouwen behorende tot voorgeschreven groepen van loontrekkenden, welke groepen in totaal ten minste 80 procent uitmaken n de gezamenlijke loontrekkenden, en, wat betreft de geneeskundige verstrekkingen in geval van moederschap, eveneens de echtgenoten van mannen, die tot deze groep behoren; of
+- (b) hospitalisation where necessary; and
 
-- (b). alle vrouwen behorende tot voorgeschreven groepen van de werkende bevolking, welke groepen in totaal ten minste 30 procent uitmaken van de gezamenlijke inwoners en, wat betreft de geneeskundige verstrekkingen in geval van moederschap, eveneens de echtgenoten van mannen die tot deze zelfde groepen behoren.
+- (c) pharmaceutical supplies; the patient or her breadwinner may be required to share in the cost of the pharmaceutical supplies the beneficiary receives. The rules concerning such cost-sharing shall be so designed as to avoid hardship, and the part of the cost paid by the beneficiary or breadwinner shall not exceed 25 per cent on the average. Where cost-sharing takes the form of a fixed sum in respect of each prescription, the total of such payments made by all persons protected shall not exceed 25 per cent of the total cost within a given period.
 
-##### Artikel 49
+3. The medical care specified in paragraph 2 of this Article shall be afforded with a view to maintaining, restoring or improving the health of the woman protected and her ability to work and to attend to her personal needs.
 
-1. Wat betreft zwangerschap, bevalling en de gevolgen daarvan, moeten de geneeskundige verstrekkingen de in de leden 2 en 3 van dit artikel aangegeven geneeskundige zorg omvatten.
+4. The institutions or Government departments administering the maternity medical benefit shall, by such means as may be deemed appropriate, encourage the women protected to avail themselves of the general health services placed at their disposal by the public authorities or by other bodies recognised by the public authorities.
 
-2. De geneeskundige zorg moet ten minste omvatten:
+##### Article 50
 
-- (a). prenetale zorg, hulp bij de bevalling en postnatale zorg, hetzij n een geneeskundige, hetzij van een gediplomeerde vroedvrouw;
+In respect of suspension of earnings resulting from pregnancy and from confinement and their consequences, the benefit shall be a periodical payment calculated in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66. The amount of the periodical payment may vary in the course of the contingency, subject to the average rate thereof complying with these requirements.
 
-- (b). opneming in een ziekenhuis wanneer deze noodzakelijk is;
+##### Article 51
 
-- (c). de verstrekking van geneesmiddelen, behoudens dat de gerechtigde of haar kostwinner ertoe gehouden kan worden een bijdrage te leveren in de kosten van de ontvangen geneeskundige zorg. De regels betreffende deze bijdrage in de kosten moeten zodanig worden vastgesteld dat zij geen te zware last met zich brengen, terwijl de bijdrage in de kosten door de gerechtigde of haar kostwinner gemiddeld niet meer dan 25 procent mag bedragen. Wanneer deze bijdrage in de kosten wordt vastgesteld op een vast bedrag voor elk geval waarin geneesmiddelen worden voorgeschreven, mag het totaal van de door alle beschermde personen verrichte betalingen niet meer bedragen dan 25 procent van de totale kosten binnen een bepaald tijdvak.
+The benefit specified in Articles 49 and 50 shall, in a contingency covered, be secured at least to a woman in the classes protected who has completed such qualifying period as may be considered necessary to preclude abuse, and the benefit specified in Article 49 shall also be secured to the wife of a man in the classes protected where the latter has completed such qualifying period.
 
-3. De in lid 2 van dit artikel bedoelde geneeskundige zorg moet strekken tot instandhouding, herstel of verbetering van de gezondheid van de beschermde vrouw, alsmede van haar geschiktheid om te werken en om te voorzien in haar persoonlijke behoeften.
+##### Article 52
 
-4. De regeringsdepartementen of de instellingen welke de geneeskundige verstrekkingen in geval van moederschap verlenen, moeten de beschermde vrouwen met alle daartoe geëigende middelen aanmoedigen gebruik te maken van de algemene gezondheidsdiensten welke door de overheid of door andere door de overheid erkende organen te hunner beschikking zijn gesteld.
+The benefit specified in Articles 49 and 50 shall be granted throughout the contingency, except that the periodical payment may be limited to 12 weeks, unless a longer period of abstention from work is required or authorised by national laws or regulations, in which event it may not be limited to a period less than such longer period.
 
-##### Artikel 50
+## PART IX. Invalidity benefit
 
-De uitkering ter zake van het derven van inkomsten uit arbeid als gevolg van zwangerschap, bevalling en de gevolgen daarvan, zal bestaan in een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66. Het bedrag van de periodieke betaling kan tijdens het door verzekering gedekte geval wijziging ondergaan mits het gemiddelde bedrag in overeenstemming is met bovengenoemde bepalingen.
+##### Article 53
 
-##### Artikel 51
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of invalidity benefit in accordance with the following Articles of this Part.
 
-De in de artikelen 49 en 50 bedoelde verstrekkingen moeten tijdens de gehele duur van het door verzekering gedekte geval ten minste worden gewaarborgd aan een vrouw die tot een der verzekerde groepen behoort en die een wachttijd heeft vervuld, welke noodzakelijk kan worden geacht om misbruiken te voorkomen; de in artikel 49 bedoelde verstrekkingen moeten eveneens worden gewaarborgd aan de echtgenoten van tot een der verzekerde groepen behorende mannen, wanneer dezen de voorgeschreven wachttijd hebben vervuld.
+##### Article 54
 
-##### Artikel 52
+The contingency covered shall include inability to engage in any gainful occupation to an extent prescribed, which inability is likely to be permanent or to persist after the exhaustion of sickness benefit. Provided that the prescribed extent of such inability shall not exceed two-thirds.
 
-De in de artikelen 49 en 50 bedoelde verstrekkingen moeten worden verleend tijdens de gehele duur van het door verzekering gedekte geval; nochtans kunnen de periodieke betalingen beperkt worden tot 12 weken, tenzij bij de nationale wetgeving een langere periode van onderbreking van de arbeid is voorgeschreven of toegestaan, in welk geval de betalingen niet tot een periode van kortere duur kunnen worden beperkt.
+##### Article 55
 
-## DEEL IX. Uitkeringen bij invaliditeit
+The persons protected shall comprise:
 
-##### Artikel 53
+- (a) prescribed classes of employees, constituting not less than 80 per cent of all employees; or
 
-Elke Contracterende Partij ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen uitkeringen bij invaliditeit waarborgen.
+- (b) prescribed classes of the economically active population, constituting not less than 30 per cent of all residents; or
 
-##### Artikel 54
+- (c) all residents whose means during the contingency do not exceed limits prescribed in such a way as to comply with the requirements of Article 67.
 
-Het door verzekering gedekte geval omvat de ongeschiktheid om beroepsmatige arbeid in bepaalde mate te verrichten, wanneer die ongeschiktheid waarschijnlijk blijvend zal zijn, dan wel, wanneer zij voortbestaat na de beëindiging van de uitkering van ziekengeld. De voorgeschreven mate van die ongeschiktheid mag echter niet meer dan twee derde bedragen.
+##### Article 56
 
-##### Artikel 55
+1. The benefit shall be a periodical payment calculated as follows:
 
-Tot de beschermde personen moeten worden gerekend:
+- (a) where classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of [Article 65](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=XI&artikel=65&z=2008-03-17&g=2008-03-17) or with the requirements of [Article 66](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=XI&artikel=66&z=2008-03-17&g=2008-03-17);
 
-- (a). voorgeschreven groepen van loontrekkenden welke in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden; of
+- (b) where all residents whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of Article 67. Provided that a prescribed benefit shall be guaranteed without a means test to the prescribed classes of persons determined in accordance with [sub-paragraphs (a) or (b) of Article 55](https://wetten.overheid.nl/BWBV0004465), subject to qualifying conditions not more stringent than those specified in [paragraph 1 of Article 57](https://wetten.overheid.nl/BWBV0004465).
 
-- (b). voorgeschreven groepen van de werkende bevolking welke in totaal ten minste 30 procent uitmaken van de gezamenlijke inwoners; of
+2. Measures shall be taken to provide for functional and vocational rehabilitation services, and to maintain appropriate facilities to assist handicapped persons in obtaining suitable work, including placement services, assistance in helping them transfer to another district when necessary to find suitable employment, and related services.
 
-- (c). alle inwoners wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden.
+##### Article 57
 
-##### Artikel 56
+1. The benefit specified in Article 56 shall, in a contingency covered, be secured at least:
 
-1. De uitkering zal bestaan in een periodieke betaling berekend als volgt:
+- (a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period which may be 15 years of contribution or employment, or 10 years of residence; or
 
-- (a). overeenkomstig de bepalingen, hetzij van artikel 65, hetzij van artikel 66, wanneer groepen van loontrekkenden of groepen van de werkende bevolking worden beschermd;
+- (b) where, in principle, all economically active persons are protected, to a person protected who has completed a qualifying period of three years of contribution and in respect of whom, while he was of working age, the prescribed yearly average number of contributions has been paid.
 
-- (b). overeenkomstig de bepalingen van artikel 67 wanneer de beschermde personen alle inwoners omvatten, wier inkomsten tijdens de door verzekering gedekte gevallen voorgeschreven grenzen niet overschrijden. Een voorgeschreven uitkering moet echter worden gewaarborgd, zonder onderzoek naar de bestaansmiddelen, aan de voorgeschreven groepen personen vastgesteld overeenkomstig de alinea's (**a** ) en (**b** ) van artikel 55, behoudens een wachttijd waarvan de voorwaarden niet strenger mogen zijn dan die genoemd in lid 1 van artikel 57.
+2. Where the benefit referred to in paragraph 1 of this Article is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least:
 
-2. Er dienen maatregelen te worden genomen om het verlenen van functionele en op het beroep gerichte revalidatie te verzekeren en om mogelijkheden te scheppen ten einde minder validen te helpen bij het vinden van passende arbeid, met name door arbeidsbemiddeling, hulp bij verhuizing naar een andere streek indien dit nodig is om passende arbeid te vinden, alsmede door middel van andere soortgelijke diensten.
+- (a) to a person protected who has completed, prior to the contingency, in accordance with prescribed rules, a qualifying period of five years of contribution or employment; or
 
-##### Artikel 57
+- (b) where, in principle, all economically active persons are protected, to a person protected who has completed a qualifying period of three years of contribution and in respect of whom, while he was of working age, half the yearly average number of contributions prescribed in accordance with paragraph 1 (*b*) of this Article has been paid.
 
-1. De in artikel 56 bedoelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd:
+3. The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected who has completed, in accordance with prescribed rules, five years of contribution, employment or residence.
 
-- (a). aan een beschermd persoon, die vóór het intreden van het door verzekering gedekte geval, overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan hetzij in 15 jaren van premiebetaling of van arbeid, hetzij in 10 jaren van verblijf;
+4. A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the pension corresponding to the reduced percentage exceeds five years of contribution or employment but is less than 15 years of contribution or employment; a reduced benefit shall be payable in conformity with paragraph 2 of this Article.
 
-- (b). wanneer in beginsel alle werkende personen onder de regeling vallen, aan een beschermd persoon die een wachttijd van 3 jaren van premiebetaling heeft vervuld en te wiens name, in de loop van de actieve periode van zijn leven, premies zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.
+##### Article 58
 
-2. Wanneer de toekenning van de in het eerste lid van dit artikel bedoelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd:
+The benefit specified in Articles 56 and 57 shall be granted throughout the contingency or until an old-age benefit becomes payable.
 
-- (a). aan een beschermd persoon die vóór het intreden van het door verzekering gedekte geval, overeenkomstig voorgeschreven regelen een wachttijd van 5 jaren van premiebetaling of van arbeid heeft vervuld;
+## PART X. Survivors' benefit
 
-- (b). wanneer in beginsel alle werkende personen onder de regeling vallen, aan een beschermd persoon die een wachttijd van 3 jaren van premiebetaling heeft vervuld en te wiens name, in de loop van de actieve periode van zijn leven, de helft van het voorgeschreven gemiddelde aantal premies per jaar, bedoeld onder (**b** ) van het eerste lid van dit artikel, is betaald.
+##### Article 59
 
-3. Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig deel XI, doch naar een percentage dat 10 eenheden minder bedraagt dan dat hetwelk in de bij dat deel gevoegde tabel is aangegeven voor de modelgerechtigde, ten minste wordt gewaarborgd aan ieder beschermd persoon, die overeenkomstig de voorgeschreven regelen 5 jaren van premiebetaling, van arbeid of van verblijf heeft vervuld.
+Each Contracting Party for which this Part of the Code is in force shall secure to the persons protected the provision of survivors' benefit in accordance with the following Articles of this Part.
 
-4. Een evenredige vermindering van het percentage, aangegeven in de bij deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan 5 jaren van premiebetaling of van arbeid, doch minder dan 15 jaren van premiebetaling of van arbeid. De verminderde uitkering zal worden toegekend overeenkomstig lid 2 van dit artikel.
+##### Article 60
 
-##### Artikel 58
+1. The contingency covered shall include the loss of support suffered by the widow or child as the result of the death of the breadwinner; in the case of a widow, the right to benefit may be made conditional on her being presumed, in accordance with national laws or regulations, to be incapable of self-support.
 
-De in de artikelen 56 en 57 bedoelde uitkeringen moeten worden verleend tijdens de gehele duur van het door verzekering gedekte geval, dan wel tot het tijdstip waarop zij worden vervangen door een ouderdomsuitkering.
+2. National laws or regulations may provide that the benefit of a person otherwise entitled to it may be suspended if such person is engaged in any prescribed gainful activity or that the benefit, if contributory, may be reduced where the earnings of the beneficiary exceed a prescribed amount, and, if non-contributory, may be reduced where the earnings of the beneficiary or his other means or the two taken together exceed a prescribed amount.
 
-## DEEL X. Uitkeringen aan nagelaten betrekkingen
+##### Article 61
 
-##### Artikel 59
+The persons protected shall comprise:
 
-Elke Contracterende Partij, ten aanzien waarvan dit deel van de Code van kracht is, moet overeenkomstig de navolgende bepalingen van dit deel aan de beschermde personen de uitbetaling van uitkeringen aan nagelaten betrekkingen waarborgen.
+- (a) the wives and children of breadwinners in prescribed classes of employees, which classes constitute not less than 80 per cent of all employees; or
 
-##### Artikel 60
+- (b) the wives and children of breadwinners in prescribed classes of the economically active population, which classes constitute not less than 30 per cent of all residents; or
 
-1. Het door verzekering gedekte geval moet omvatten het verlies van bestaansmiddelen door de weduwe of door de kinderen ten gevolge van het overlijden van hun kostwinner; wat betreft de weduwe kan in overeenstemming met de nationale wetgeving het recht op uitkering afhankelijk worden gesteld van het vermoeden dat zij niet in staat is in haar eigen behoeften te voorzien.
+- (c) all resident widows and resident children who have lost their breadwinner and whose means during the contingency do not exceed limits prescribed in such a manner as to comply with the requirements of [Article 67](https://wetten.overheid.nl/BWBV0004465).
 
-2. De nationale wetgeving kan bepalen, dat de uitkering wordt geschorst indien degene die daarop recht zou hebben gehad, zekere voorgeschreven betaalde werkzaamheden verricht; de uitkeringen waarvoor premie is betaald, kunnen worden verminderd, wanneer de inkomsten uit arbeid een voorgeschreven bedrag overschrijden; de uitkeringen die niet op premiebetaling zijn gebaseerd, kunnen eveneens worden verminderd, wanneer de inkomsten uit arbeid van de gerechtigde of zijn overige inkomsten, dan wel beide te zamen een voorgeschreven bedrag overschrijden.
+##### Article 62
 
-##### Artikel 61
+The benefit shall be a periodical payment calculated as follows:
 
-Tot de beschermde personen moeten worden gerekend:
+- (a) where the wives and children of breadwinners in classes of employees or classes of the economically active population are protected, in such a manner as to comply either with the requirements of Article 65 or with the requirements of Article 66;
 
-- (a). de echtgenoten en kinderen van kostwinners behorende tot voorgeschreven groepen van loontrekkenden, welke groepen in totaal ten minste 80 procent uitmaken van de gezamenlijke loontrekkenden; of
+- (b) where all resident widows and resident children whose means during the contingency do not exceed prescribed limits are protected, in such a manner as to comply with the requirements of [Article 67](https://wetten.overheid.nl/BWBV0004465). Provided that a prescribed benefit shall be guaranteed without a means test to the wives and children of breadwinners in the prescribed classes of persons determined in accordance with [sub-paragraphs (*a* ) or (*b* ) of Article 61](https://wetten.overheid.nl/BWBV0004465), subject to qualifying conditions not more stringent than those specified in [paragraph 1 of Article 63](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=X&artikel=63&z=2008-03-17&g=2008-03-17).
 
-- (b). de echtgenoten en kinderen van kostwinners behorende tot voorgeschreven groepen van de werkende bevolking, welke groepen ten minste 30 procent uitmaken van de gezamenlijke loontrekkenden; of
+##### Article 63
 
-- (c). wanneer zij de hoedanigheid van inwoner bezitten, alle weduwen en alle kinderen die hun kostwinner hebben verloren en wier inkomsten tijdens het door verzekering gedekte geval grenzen, voorgeschreven overeenkomstig de bepalingen van artikel 67, niet overschrijden.
+1. The benefit specified in Article 62 shall, in a contingency covered, be secured at least:
 
-##### Artikel 62
+- (a) to a person protected whose breadwinner has completed, in accordance with prescribed rules, a qualifying period which may be 15 years of contribution or employment, or 10 years of residence; or
 
-De uitkering zal bestaan in een periodieke betaling, berekend als volgt:
+- (b) where, in principle, the wives and children of all economically active persons are protected, to a person protected whose breadwinner has completed a qualifying period of three years of contribution and in respect of whose breadwinner, while he was of working age, the prescribed yearly average number of contributions has been paid.
 
-- (a). overeenkomstig de bepalingen hetzij van artikel 65, hetzij van artikel 66, wanneer de echtgenoten en de kinderen van kostwinners behorende tot groepen van loontrekkenden of groepen van de werkende bevolking beschermd worden;
+2. Where the benefit referred to in paragraph 1 of this Article is conditional upon a minimum period of contribution or employment, a reduced benefit shall be secured at least:
 
-- (b). overeenkomstig de bepalingen van artikel 67, wanneer alle weduwen en alle kinderen, inwoners zijnde, beschermd worden, wier inkomsten tijdens het door verzekering gedekte geval voorgeschreven grenzen niet overschrijden. Een voorgeschreven uitkering moet echter worden gewaarborgd, zonder onderzoek naar de bestaansmiddelen, aan de echtgenoten en kinderen van kostwinners behorende tot de voorgeschreven groepen personen vastgesteld overeenkomstig de alinea's (**a** ) en (**b** ) van artikel 61, behoudens een wachttijd, waarvan de voorwaarden niet strenger mogen zijn dan die genoemd in het eerste lid van artikel 63.
+- (a) to a person protected whose breadwinner has completed, in accordance with prescribed rules, a qualifying period of five years of contribution or employment; or
 
-##### Artikel 63
+- (b) where, in principle, the wives and children of all economically active persons are protected, to a person protected whose breadwinner has completed a qualifying period of three years of contribution and in respect of whose breadwinner, while he was of working age, half the yearly average number of contributions prescribed in accordance with paragraph 1 (*b*) of this Article have been paid.
 
-1. De in artikel 62 bedoelde uitkering moet tijdens het door verzekering gedekte geval ten minste worden gewaarborgd:
+3. The requirements of paragraph 1 of this Article shall be deemed to be satisfied where a benefit calculated in conformity with the requirements of Part XI but at a percentage of ten points lower than shown in the Schedule appended to that Part for the standard beneficiary concerned is secured at least to a person protected whose breadwinner has completed, in accordance with prescribed rules, five years of contribution, employment or residence.
 
-- (a). aan een beschermd persoon wiens kostwinner overeenkomstig voorgeschreven regelen een wachttijd heeft vervuld, welke kan bestaan in 15 jaren van premiebetaling of van arbeid, hetzij in 10 jaren van verblijf;
+4. A proportional reduction of the percentage indicated in the Schedule appended to Part XI may be effected where the qualifying period for the benefit corresponding to the reduced percentage exceeds five years of contribution or employment but is less than 15 years of contribution or employment; a reduced benefit shall be payable in conformity with paragraph 2 of this Article.
 
-- (b). wanneer in beginsel de vrouwen en de kinderen van alle werkende personen onder de regeling vallen, aan een beschermd persoon wiens kostwinner een wachttijd heeft vervuld van 3 jaren van premiebetaling en te wiens name, in de loop van de actieve periode van zijn leven, premiën zijn betaald, waarvan het gemiddelde aantal per jaar een voorgeschreven aantal bereikt.
+5. In order that a childless widow presumed to be incapable of self-support may be entitled to a survivor's benefit, a minimum duration of the marriage may be required.
 
-2. Wanneer de toekenning van de in het eerste lid van dit artikel bedoelde uitkering afhankelijk is gesteld van de vervulling van een minimumtijdvak van premiebetaling of van arbeid, moet ten minste een verminderde uitkering worden gewaarborgd:
+##### Article 64
 
-- (a). aan een beschermd persoon, wiens kostwinner overeenkomstig voorgeschreven regeling een wachttijd heeft vervuld van 5 jaren van premiebetaling of van arbeid;
+The benefit specified in Articles 62 and 63 shall be granted throughout the contingency.
 
-- (b). wanneer in beginsel de vrouwen en de kinderen van alle werkende personen onder de regeling vallen, aan een beschermd persoon wiens kostwinner een wachttijd heeft vervuld van 3 jaren van premiebetaling en te wiens name, in de loop van de actieve periode van zijn leven, de helft van het voorgeschreven gemiddelde aantal premiën per jaar is betaald, bedoeld in alinea (**b** ) van het eerste lid van dit artikel.
+## PART XI. Standards to be complied with by periodical payments
 
-3. Aan het bepaalde in het eerste lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend overeenkomstig deel XI, doch naar een percentage hetwelk 10 eenheden minder bedraagt dan dat hetwelk in de bij dat deel gevoegde tabel is aangegeven voor de model-gerechtigde, ten minste gewaarborgd wordt aan ieder beschermd persoon wiens kostwinner overeenkomstig voorgeschreven regelen 5 jaren van premiebetaling, van arbeid of van verblijf heeft vervuld.
+##### Article 65
 
-4. Een evenredige vermindering van het percentage, aangegeven in de bij deel XI gevoegde tabel, kan worden toegepast, wanneer de wachttijd voor de met het verminderde percentage overeenkomende uitkering meer bedraagt dan 5 jaren van premiebetaling of van arbeid, doch minder dan 15 jaren van premiebetaling of van arbeid. Een verminderde uitkering zal worden toegekend overeenkomstig het tweede lid van dit artikel.
+1. In the case of a periodical payment to which this Article applies, the rate of the benefit, increased by the amount of any family allowances payable during the contingency, shall be such as to attain, in respect of the contingency in question, for the standard beneficiary indicated in the Schedule appended to this Part, at least the percentage indicated therein of the total of the previous earnings of the beneficiary or his breadwinner and of the amount of any family allowances payable to a person protected with the same family responsibilities as the standard beneficiary.
 
-5. Opdat een weduwe zonder kinderen die niet in staat wordt geacht te voorzien in haar eigen behoeften, aanspraak kan doen gelden op een uitkering aan nagelaten betrekkingen, kan een minimumduur van het huwelijk voorgeschreven worden.
+2. The previous earnings of the beneficiary or his breadwinner shall be calculated according to prescribed rules, and, where the persons protected or their breadwinners are arranged in classes according to their earnings, their previous earnings may be calculated from the basic earnings of the classes to which they belonged.
 
-##### Artikel 64
+3. A maximum limit may be prescribed for the rate of the benefit or for earnings taken into account for the calculation of the benefit, provided that the maximum limit is fixed in such a way that the provisions of paragraph 1 of this Article are complied with, where the previous earnings of the beneficiary or his breadwinner are equal to or lower than the wage of a skilled manual male employee.
 
-De in de artikelen 62 en 63 bedoelde uitkeringen moeten worden toegekend tijdens de gehele duur van het door verzekering gedekte geval.
+4. The previous earnings of the beneficiary or his breadwinner, the wage of the skilled manual male employee, the benefit and any family allowances shall be calculated on the same time basis.
 
-## DEEL XI. Berekening van periodieke uitkeringen
+5. For the other beneficiaries, the benefit shall bear a reasonable relation to the benefit for the standard beneficiary.
 
-##### Artikel 65
+6. For the purpose of this Article, a skilled manual male employee shall be:
 
-1. Ten aanzien van elke periodieke uitkering waarop dit artikel van toepassing is, moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens het door verzekering gedekte geval verstrekte kinderbijslag, zodanig zijn, dat het voor de model-gerechtigde, bedoeld in de bij dit deel gevoegde tabel, ten minste gelijk is aan het in die tabel voor het onderhavige geval aangegeven percentage van het totaal van de vroegere inkomsten uit arbeid van de gerechtigde of van zijn kostwinner en van het bedrag van de kinderbijslag, verstrekt aan een beschermd persoon die dezelfde gezinslasten heeft als de modelgerechtigde.
+- (a) a fitter or turner in the manufacture of machinery other than electrical machinery; or
 
-2. De vroegere inkomsten uit arbeid van de gerechtigde of van zijn kostwinner moeten overeenkomstig voorgeschreven regelen worden berekend; wanneer de beschermde personen of hun kostwinners zijn ingedeeld in klassen naar hun inkomsten uit arbeid kunnen de vroegere inkomsten worden berekend naar het basisinkomen van de klasse, waartoe de betrokkenen hebben behoord.
+- (b) a person deemed typical of skilled labour selected in accordance with the provisions of paragraph 7 of this Article; or
 
-3. Het bedrag van de uitkering of het arbeidsinkomen dat als basis voor de berekening van de uitkering wordt genomen, kan aan een maximum worden gebonden, mits dit maximum zodanig wordt vastgesteld, dat voldaan wordt aan de bepalingen van het eerste lid van dit artikel wanneer het vroegere arbeidsinkomen van de gerechtigde of van zijn kostwinner minder bedraagt dan of gelijk is aan dat van een geschoolde mannelijke arbeider.
+- (c) a person whose earnings are equal to 125 per cent of the average earnings of all the persons protected.
 
-4. De vroegere inkomsten uit arbeid van de gerechtigde of van zijn kostwinner, het loon van de geschoolde mannelijke arbeider, de uitkering en elke kinderbijslag zullen worden berekend naar dezelfde tijdbasis.
+7. The person deemed typical of skilled labour for the purposes of paragraph 6 (*b* ) of this Article shall be a person employed in the major group of economic activities with the largest number of economically active male persons protected in the contingency in question, or of the breadwinners of the persons protected, as the case may be, in the division comprising the largest number of such persons or breadwinners; for this purpose, the international standard industrial classification of all economic activities, adopted by the Economic and Social Council of the United Nations at its Seventh Session on 27th August 1948, and reproduced in *Addendum* 1 to this Code, or such classification as at any time amended, shall be used.
 
-5. Voor de andere gerechtigden zullen de uitkeringen zodanig worden vastgesteld, dat zij in een redelijke verhouding staan tot die van een model-gerechtigde.
+8. Where the rate of benefit varies by region, the skilled manual male employee may be determined for each region in accordance with paragraphs 6 and 7 of this Article.
 
-6. Voor de toepassing van dit artikel zal als geschoolde mannelijke arbeider worden aangemerkt:
+9. The wage of the skilled manual male employee selected in accordance with paragraph 6 (*a*) and (*b*) of this Article shall be determined on the basis of the rates of wages for normal hours of work fixed by collective agreements, by or in pursuance of national laws or regulations, where applicable, or by custom, including cost-of-living allowances if any; where such rates differ by region but paragraph 8 of this Article is not applied, the median rate shall be taken.
 
-- (a). een bankwerker of een draaier in de mechanische industrie, met uitzondering van de vervaardiging van elektrische apparaten; of
+10. The rates of current periodical payments in respect of old age, employment injury (except in case of incapacity for work), invalidity and death of breadwinner, shall be reviewed following substantial changes in the general level of earnings where these result from substantial changes in the cost of living.
 
-- (b). een geschoolde arbeider, zoals omschreven in de bepalingen van lid 7 van dit artikel; of
+##### Article 66
 
-- (c). een persoon wiens arbeidsinkomen gelijk is aan 125 procent van het gemiddelde arbeidsinkomen van alle beschermde personen.
+1. In the case of a periodical payment to which this Article applies, the rate of the benefit, increased by the amount of any family allowances payable during the contingency, shall be such as to attain, in respect of the contingency in question, for the standard beneficiary indicated in the Schedule appended to this Part, at least the percentage indicated therein of the total of the wage of an ordinary adult male labourer and of the amount of any family allowances payable to a person protected with the same family responsibilities as the standard beneficiary.
 
-7. De geschoolde arbeider, zoals bedoeld in alinea (**b** ) van lid 6 van dit artikel, zal worden gekozen uit de klasse die het grootste aantal tegen het door verzekering gedekte geval beschermde mannelijke personen of kostwinners van beschermde personen omvat, in de bedrijfstak die het grootste aantal van deze beschermde personen of van die kostwinners telt; daarbij moet gebruik worden gemaakt van de internationale industriële standaard-classificatie van alle takken van economische bedrijvigheid, aangenomen door de Economische en Sociale Raad van de Verenigde Naties in zijn zevende zitting op 27 augustus 1948 en die als **addendum** 1 aan deze Code is toegevoegd, zulks met inachtneming van de wijzigingen welke daarin later eventueel worden aangebracht.
+2. The wage of the ordinary adult male labourer, the benefit and any family allowances shall be calculated on the same time basis.
 
-8. Wanneer de uitkeringen van streek tot streek verschillen kan voor elke streek een geschoolde mannelijke arbeider worden gekozen overeenkomstig de bepalingen van de leden 6 en 7 van dit artikel.
+3. For the other beneficiaries, the benefit shall bear a reasonable relation to the benefit for the standard beneficiary.
 
-9. Het loon van een geschoolde mannelijke arbeider, gekozen overeenkomstig de alinea's (**a** ) en (**b** ) van lid 6 van dit artikel, met inbegrip van de eventuele duurtetoeslagen, zal worden bepaald naar de grondslag van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en wanneer het achtste lid van dit artikel niet wordt toegepast, zal men het gemiddelde loon als grondslag nemen.
+4. For the purpose of this Article, the ordinary adult male labourer shall be:
 
-10. De bedragen van lopende periodieke betalingen terzake van ouderdom, arbeidsongevallen en beroepsziekten (met uitzondering van die terzake van ongeschiktheid tot werken), invaliditeit of overlijden van de kostwinner, worden herzien bij aanmerkelijke veranderingen in het algemeen loonpeil welke het gevolg zijn van aanmerkelijke veranderingen in de kosten van levensonderhoud.
+- (a) a person deemed typical of unskilled labour in the manufacture of machinery other than electrical machinery; or
 
-##### Artikel 66
+- (b) a person deemed typical of unskilled labour selected in accordance with the provisions of the following paragraph.
 
-1. Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is, moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens het door verzekering gedekte geval verstrekte kinderbijslag, zodanig zijn, dat het voor de model-gerechtigde, bedoeld in de bij dit deel gevoegde tabel, ten minste gelijk is aan het in die tabel voor het desbetreffende geval aangegeven percentage van het loon van een volwassen ongeschoolde mannelijke arbeider, vermeerderd met het bedrag van de kinderbijslag, verleend aan een beschermd persoon die dezelfde gezinslasten heeft als de modelgerechtigde.
+5. The person deemed typical of unskilled labour for the purpose of paragraph 4 *(b)* of this Article shall be a person employed in the major group of economic activities with the largest number of economically active male persons protected in the contingency in question, or of the breadwinners of the persons protected, as the case may be, in the division comprising the largest number of such persons or breadwinners; for this purpose the international standard industrial classification of all economic activities, adopted by the Economic and Social Council of the United Nations at its Seventh Session on 27th August 1948, and reproduced in *Addendum* 1 to this Code, or such classification as at any time amended, shall be used.
 
-2. Het loon van een volwassen ongeschoolde mannelijke arbeider, de uitkeringen en de kinderbijslag worden berekend naar dezelfde basis-tijdvakken.
+6. Where the rate of benefit varies by region, the ordinary adult male labourer may be determined for each region in accordance with paragraphs 4 and 5 of this Article.
 
-3. Voor de andere gerechtigden zullen de uitkeringen zodanig worden vastgesteld, dat zij in een redelijke verhouding staan tot die van de model-gerechtigde.
+7. The wage of the ordinary adult male labourer shall be determined on the basis of the rates of wages for normal hours of work fixed by collective agreements, by or in pursuance of national laws or regulations, where applicable, or by custom, including cost-of-living allowances if any; where such rates differ by region but paragraph 6 of this Article is not applied, the median rate shall be taken.
 
-4. Voor de toepassing van dit artikel zal als ongeschoolde mannelijke arbeider worden aangemerkt:
+8. The rates of current periodical payments in respect of old age, employment injury (except in case of incapacity for work), invalidity and death of breadwinner, shall be reviewed following substantial changes in the general level of earnings where these result from substantial changes in the cost of living.
 
-- (a). een ongeschoolde arbeider in de mechanische industrie, met uitzondering van de vervaardiging van elektrische apparaten; of
+##### Article 67
 
-- (b). een ongeschoolde arbeider, zoals omschreven in de bepalingen van het volgende lid.
+In the case of a periodical payment to which this Article applies:
 
-5. De ongeschoolde arbeider, bedoeld in alinea (**b** ) van lid 4 van dit artikel, zal worden gekozen uit de klasse die het grootste aantal tegen het door verzekering gedekte geval beschermde mannelijke personen of kostwinners van beschermde personen omvat, in de bedrijfstak die het grootste aantal van deze beschermde personen of van die kostwinners telt; daarbij moet gebruik worden gemaakt van de internationale industriële standaardclassificatie van alle takken van economische bedrijvigheid, aangenomen door de Economische en Sociale Raad van de Verenigde Naties in zijn zevende zitting op 27 augustus 1948 en die als **addendum** 1 aan deze Code is toegevoegd, zulks met inachtneming van de wijzigingen welke daarin later eventueel worden aangebracht.
+- (a) the rate of the benefit shall be determined according to a prescribed scale or a scale fixed by the competent public authority in conformity with prescribed rules;
 
-6. Wanneer de uitkeringen van streek tot streek verschillen kan voor elke streek een volwassen ongeschoolde mannelijke arbeider worden gekozen overeenkomstig de bepalingen van de leden 4 en 5 van dit artikel.
+- (b) such rate may be reduced only to the extent by which the other means of the family of the beneficiary exceed prescribed substantial amounts or substantial amounts fixed by the competent public authority in conformity with prescribed rules;
 
-7. Het loon van een volwassen ongeschoolde mannelijke arbeider, met inbegrip van de eventuele duurtetoeslagen, zal worden bepaald naar de grondslag van het loon voor een normaal aantal arbeidsuren, vastgesteld hetzij bij collectieve arbeidsovereenkomst, hetzij eventueel bij of krachtens de nationale wetgeving, hetzij krachtens gewoonte; wanneer de aldus vastgestelde lonen van streek tot streek verschillen en wanneer het zesde lid van dit artikel geen toepassing heeft gevonden, zal men het gemiddelde loon als grondslag nemen.
+- (c) the total of the benefit and any other means, after deduction of the substantial amounts referred to in sub-paragraph (*b* ) of this Article, shall be sufficient to maintain the family of the beneficiary in health and decency, and shall be not less than the corresponding benefit calculated in accordance with the requirements of Article 66;
 
-8. De bedragen van lopende periodieke betalingen terzake van ouderdom, arbeidsongevallen en beroepsziekten (met uitzondering van die terzake van ongeschiktheid tot werken), invaliditeit of overlijden van de kostwinner, worden herzien bij aanmerkelijke veranderingen in het algemeen loonpeil, welke het gevolg zijn van aanmerkelijke veranderingen in de kosten van levensonderhoud.
+- (d) the provisions of sub-paragraph (*c*) of this Article shall be deemed to be satisfied if the total amount of benefits paid under the Part concerned exceeds, by at least 30 per cent, the total amount of benefits which would be obtained by applying the provisions of Article 66 and the provisions of:
 
-##### Artikel 67
+   - (i) Article 15 *(b)* for Part III;
 
-Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is, gelden de volgende regelen:
+   - (ii) Article 27 *(b)* for Part V;
 
-- (a). het bedrag van de uitkering moet worden vastgesteld naar een voorgeschreven tarief of naar een tarief, vastgesteld door het bevoegde overheidsorgaan overeenkomstig voorgeschreven regelen;
+   - (iii) Article 55 *(b)* for Part IX;
 
-- (b). het bedrag van de uitkering kan slechts worden verminderd in de mate waarmede de overige inkomsten van het gezin van de gerechtigde een aanzienlijk voorgeschreven of door het bevoegde overheidsorgaan overeenkomstig voorgeschreven regelen vastgesteld bedrag overtreffen;
+   - (iv) Article 61 *(b)* for Part X.
 
-- (c). na aftrek van het aanzienlijk bedrag, bedoeld in alinea (**b** ) van dit artikel, moet het totaal van de uitkering en van de overige inkomsten voldoende zijn om aan het gezin van de gerechtigde gezonde en passende levensvoorwaarden te verzekeren en mag het niet minder bedragen dan het bedrag van de uitkering, berekend overeenkomstig de bepalingen van artikel 66;
+SCHEDULE TO PART XI
 
-- (d). aan het bepaalde in alinea (**c** ) van dit artikel wordt geacht te zijn voldaan indien het totaal bedrag van de krachtens het desbetreffende deel betaalde uitkering ten minste 30 procent meer bedraagt dan het totaal bedrag der uitkeringen, dat men zou verkrijgen bij toepassing van de bepalingen van artikel 66 en de bepalingen van:
+| Periodical payments to standard beneficiaries |  |  |  |
+| --- | --- | --- | --- |
+| PART | CONTINGENCY | STANDARD BENEFICIARY | Percentage |
+| III | Sickness | Man with wife and two children | 50 |
+| IV | Unemployment | Man with wife and two children | 50 |
+| V | Old age | Man with wife of pensionable age | 45 |
+| VI | Employment injury: |  |  |
+|  | Incapacity for work | Man with wife and two children | 50 |
+|  | Total loss of earning capacity | Man with wife and two children |  |
+|  | (a) general | (a) | 50 |
+|  | (b) if constant aid needed | (b) | 66 ⅔ |
+|  | Survivors | Widow with two children | 45 |
+| VIII | Maternity | Woman | 50 |
+| IX | Invalidity | Man with wife and two children | 50 |
+| X | Survivors | Widow with two children (or two children if widow's pension conditional on her being incapable of selfsupport) | 45 |
 
-- i). artikel 15, alinea (**b** ), wat betreft deel III;
+## PART XII. Common provisions
 
-- ii). artikel 27, alinea (**b** ), wat betreft deel V;
+##### Article 68
 
-- iii). artikel 55, alinea (**b** ), wat betreft deel IX;
+A benefit to which a person protected would otherwise be entitled in compliance with any of Parts II to X of this Code may be suspended to such extent as may be prescribed:
 
-- iv). artikel 61, alinea (**b** ), wat betreft deel X.
+- (a) as long as the person concerned is absent from the territory of the Contracting Party concerned;
 
-| **Periodieke betalingen aan de model-gerechtigden** | **Periodieke betalingen aan de model-gerechtigden** | **Periodieke betalingen aan de model-gerechtigden** | **Periodieke betalingen aan de model-gerechtigden** |   |
-| --- | --- | --- | --- | --- |
-| **Deel** | VERZEKERD GEVAL | MODEL-GERECHTIGDE | Percentage |   |
-| **III** | Ziekte | Man met vrouw en twee kinderen | 50 |   |
-| **IV** | Werkloosheid | Man met vrouw en twee kinderen | 50 |   |
-| **V** | Ouderdom | Pensioengerechtigde man met echtgenote | 45 |   |
-| **VI** | Arbeidsongevallen en beroepsziekten: Ongeschiktheid tot werken | Man met vrouw en twee kinderen | 50 |   |
-|   | Algeheel verlies van de geschiktheid om inkomsten uit arbeid te verwerven | Man met vrouw en twee kinderen |   |   |
-|   | (**a** ) algemeen | (**a** ) | 50 |   |
-|   | (**b** ) wanneer blijvende hulp nodig is | (**b** ) | 66f |   |
-|   | Nagelaten betrekkingen | Weduwe met twee kinderen | 45 |   |
-| **VIII** | Moederschap | Vrouw | 50 |   |
-| **IX** | Invaliditeit | Man met vrouw en twee kinderen .. | 50 |   |
-| **X** | Nagelaten betrekkingen | Weduwe met twee kinderen (of 2 kinderen wanneer het weduwenpensioen slechts wordt uitgekeerd wanneer de weduwe niet in staat is in haar eigen onderhoud te voorzien.) | 45 |   |
+- (b) as long as the person concerned is maintained at public expense, or at the expense of a social security institution or service, subject to a portion of the benefit being granted to the dependants of the beneficiary;
 
-## DEEL XII. Gemeenschappelijke bepalingen
+- (c) as long as the person concerned is in receipt of another social security cash benefit, other than a family benefit, and during any period in respect of which he is indemnified for the contingency by a third party, subject to the part of the benefit which is suspended not exceeding the other benefit or the indemnity by a third party;
 
-##### Artikel 68
+- (d) where the person concerned has made a fraudulent claim;
 
-Een uitkering, waarop een beschermd persoon recht zou hebben gehad op grond van een van de delen II tot en met X van deze Code, kan worden geschorst in een eventueel voor te schrijven mate:
+- (e) where the contingency has been caused by a criminal offence committed by the person concerned;
 
-- (a). zolang de belanghebbende zich niet op het grondgebied van de Contracterende Partij bevindt;
+- (f) where the contingency has been caused by the wilful misconduct of the person concerned;
 
-- (b). zolang het onderhoud van de belanghebbende ten laste van de overheid of van een instelling of dienst van sociale zekerheid komt; nochtans moet een gedeelte van de uitkering worden verstrekt aan de personen die ten laste van de gerechtigde zijn;
+- (g) in appropriate cases, where the person concerned neglects to make use of the medical or rehabilitation services placed at his disposal or fails to comply with rules prescribed for verifying the occurrence or continuance of the contingency or for the conduct of the beneficiaries;
 
-- (c). zolang de belanghebbende een andere sociale zekerheidsuitkering in geld ontvangt, met uitzondering van kinderbijslag, en gedurende enige periode, tijdens welke hij voor hetzelfde geval schadeloosstelling ontvangt van derden, met dien verstande, dat het deel van de uitkering dat wordt geschorst, de andere uitkering of de door derden betaalde schadeloosstelling niet overtreft;
+- (h) in the case of unemployment benefit, where the person concerned has failed to make use of the employment services placed at his disposal;
 
-- (d). wanneer de belanghebbende getracht heeft op bedrieglijke wijze een uitkering te verkrijgen;
+- (i) in the case of unemployment benefit, where the person concerned has lost his employment as a direct result of a stoppage of work due to a trade dispute, or has left it voluntarily without just cause; and
 
-- (e). wanneer het geval veroorzaakt is door een door de belanghebbende gepleegd misdrijf;
+- (j) in the case of survivors' benefit, as long as the widow is living with a man as his wife.
 
-- (f). wanneer het geval veroorzaakt is door opzet van de belanghebbende;
+##### Article 69
 
-- (g). in daarvoor in aanmerking komende gevallen, wanneer de belanghebbende nalaat gebruik te maken van de geneeskundige of revalidatiediensten welke te zijner beschikking staan, alsook wanneer hij de regelen niet nakomt, welke zijn voorgeschreven voor het vaststellen van het bestaan van het geval of voor de gedragingen van de gerechtigde;
+1. Every claimant shall have a right of appeal in case of refusal of the benefit or complaint as to its quality or quantity.
 
-- (h). voor wat betreft de uitkering bij werkloosheid, wanneer de belanghebbende nalaat gebruik te maken van de diensten voor arbeidsbemiddeling welke te zijner beschikking staan;
+2. Where in the application of this Code a Government department responsible to a legislature is entrusted with the administration of medical care, the right of appeal provided for in paragraph 1 of this Article may be replaced by a right to have a complaint concerning the refusal of medical care or the quality of the care received investigated by the appropriate authority.
 
-- (i). voor wat de uitkering bij werkloosheid betreft, wanneer de belanghebbende werkloos is geworden als rechtstreeks gevolg van een stilstand in de arbeid tengevolge van een arbeidsconflict, dan wel wanneer hij vrijwillig zonder rechtmatige reden zijn werk heeft neergelegd;
+3. Where a claim is settled by a special tribunal established to deal with social security questions and on which the persons protected are represented, no right of appeal shall be required.
 
-- (j). voor wat betreft de uitkeringen aan nagelaten betrekkingen, zolang de weduwe in concubinaat leeft.
+##### Article 70
 
-##### Artikel 69
+1. The cost of the benefits provided in compliance with this Code and the cost of the administration of such benefits shall be borne collectively by way of insurance contributions or taxation or both in a manner which avoids hardship to persons of small means and takes into account the economic situation of the Contracting Party concerned and of the classes of persons protected.
 
-1. Een ieder die aanspraak maakt op een uitkering, moet het recht hebben om beroep in te stellen, wanneer hem een uitkering wordt geweigerd of wanneer hij zich niet kan verenigen met de hoedanigheid of de omvang daarvan.
+2. The total of the insurance contributions borne by the employees protected shall not exceed 50 per cent of the total of the financial resources allocated to the protection of employees and their wives and children. For the purpose of ascertaining whether this condition is fulfilled, all the benefits provided by the Contracting Party concerned in compliance with this Code, except family benefit and, if provided by a special branch, employment injury benefit, may be taken together.
 
-2. Wanneer bij de toepassing van deze Code de verstrekking van de geneeskundige zorg is toevertrouwd aan een regeringsdepartement dat verantwoording schuldig is aan een parlement, kan het in het eerste lid van dit artikel bedoelde recht van beroep worden vervangen door het recht om elk bezwaar tegen weigering van geneeskundige zorg of tegen de hoedanigheid der ontvangen geneeskundige zorg te doen onderzoeken door de bevoegde autoriteit.
+3. The Contracting Party concerned shall accept general responsibility for the due provision of the benefits provided in compliance with this Code, and shall take all measures required for this purpose; it shall ensure, where appropriate, that the necessary actuarial studies and calculations concerning financial equilibrium are made periodically and, in any event, prior to any change in benefits, the rate of insurance contributions, or the taxes allocated to covering the contingencies in question.
 
-3. Wanneer verzoeken om uitkering worden behandeld door rechtscolleges welke speciaal zijn ingesteld voor de behandeling van zaken aangaande sociale zekerheid en waarin de beschermde personen vertegenwoordigd zijn, behoeft het recht van beroep niet te worden toegekend.
+##### Article 71
 
-##### Artikel 70
+1. Where the administration is not entrusted to a Government department responsible to a legislature, representatives of the persons protected shall participate in the management, or be associated therewith in a consultative capacity, under prescribed conditions; national laws or regulations may likewise decide as to the participation of representatives of employers and of the public authorities.
 
-1. De kosten van de op grond van deze Code verleende uitkeringen en de aan die uitkeringen verbonden administratiekosten moeten collectief worden gedragen door middel van premiën of belastingen of door een combinatie van beide, op een zodanige wijze, dat personen van geringe draagkracht niet te zwaar belast worden en dat rekening wordt gehouden met de economische toestand van de Contracterende Partij en van de groepen der beschermde personen.
+2. The Contracting Party concerned shall accept general responsibility for the proper administration of the institutions and services concerned in the application of this Code.
 
-2. Het totaal van de verzekeringspremiën ten laste van de beschermde loontrekkenden mag 50 procent van het totaal der inkomsten, nodig voor de bescherming van deze loontrekkenden, hun echtgenoten en kinderen, niet te boven gaan. Teneinde vast te stellen of aan deze voorwaarde is voldaan, mogen alle uitkeringen welke door de Contracterende Partij op grond van deze Code worden verleend, in hun geheel in aanmerking worden genomen, met uitzondering van de kinderbijslagen en de uitkeringen terzake van arbeidsongevallen en beroepsziekten, indien deze laatste het voorwerp uitmaken van een afzonderlijke tak der verzekering.
+## PART XIII. Miscellaneous provisions
 
-3. De Contracterende Partij moet een algemene aansprakelijkheid op zich nemen voor de verstrekking van de uitkeringen, verleend op grond van deze Code en alle nodige maatregelen treffen om dit doel te bereiken; indien daartoe aanleiding bestaat moet zij zich ervan vergewissen, dat de noodzakelijke actuariële studies en berekeningen betreffende het financiële evenwicht periodiek worden gemaakt, doch in elk geval vóór elke wijziging van de uitkeringen, van het tarief der verzekeringspremiën of der belastingen, bestemd voor de dekking van de desbetreffende gevallen.
+##### Article 72
 
-##### Artikel 71
+This Code shall not apply to:
 
-1. Wanneer de administratie niet wordt gevoerd door een regeringsdepartement dat verantwoording schuldig is aan een parlement, moeten vertegenwoordigers van de beschermde personen deel nemen aan de administratie of met raadgevende stem daarbij betrokken worden onder daartoe gestelde voorwaarden; de nationale wetgeving kan eveneens bepalingen bevatten inzake de deelneming van vertegenwoordigers van de werkgevers en van de overheid.
+- (a) contingencies which occurred before the coming into force of the relevant Part of the Code for the Contracting Party concerned;
 
-2. De Contracterende Partij moet een algemene verantwoordelijkheid aanvaarden voor een goede administratie van de instellingen en diensten die betrokken zijn bij de toepassing van deze Code.
+- (b) benefits in contingencies occurring after the coming into force of the relevant Part of the Code for the Contracting Party concerned in so far as the rights to such benefits are derived from periods preceding that date.
 
-## DEEL XIII. Verscheidene bepalingen
+##### Article 73
 
-##### Artikel 72
+The Contracting Parties shall endeavour to conclude a special instrument governing questions relating to social security for foreigners and migrants, particularly with regard to equality of treatment with their own nationals and to the maintenance of acquired rights and rights in course of acquisition.
 
-Deze Code zal niet van toepassing zijn:
+##### Article 74
 
-- (a). op gevallen die zich hebben voorgedaan voordat het desbetreffende deel van de Code in werking is getreden voor de betrokken Contracterende Partij;
+1. Each member State which has ratified the Code and this Protocol shall submit to the Secretary-General an annual report concerning the application of these Acts.
 
-- (b). op uitkeringen, toegekend voor gevallen welke zich hebben voorgedaan nadat het desbetreffende deel van de Code in werking is getreden voor de betrokken Contracterende Partij, voorzover het recht op deze uitkeringen voortvloeit uit tijdvakken, voorafgaande aan de inwerkingtreding.
+This report shall include:
 
-##### Artikel 73
+- (a) full information concerning the laws and regulations by which effect is given to the provisions of these Acts covered by the ratificin:
 
-De Contracterende Partijen streven ernaar in een afzonderlijk document de vraagstukken te regelen die betrekking hebben op de sociale zekerheid van buitenlanders en migranten, in het bijzonder met betrekking tot de gelijkstelling met de eigen onderdanen en het behoud van verworven rechten en rechten die nog verworven worden.
+- (b) evidence of compliance with the statistical conditions specified in: Such evidence shall as far as possible be presented in such general order and manner as may be suggested by the Committee.
 
-##### Artikel 74
+   - (i) Articles 9 (*a* ), (*b* ) or (*c* ); 15 (*a* ) or (*b* ); 21 (*a* ); 27 (*a*) or (*b* ); 33; 41 (*a* ) or (*b* ); 48 (*a* ) or (*b* ); 55 (*a* ) or (*b* ); 61 (*a* ) or *b* ); as regards the number of persons protected;
 
-1. Elke Lid-Staat die de Code en dit Protocol heeft bekrachtigd, legt aan de Secretaris-Generaal een jaarlijks rapport over met betrekking tot de toepassing van beide documenten. Dit rapport moet:
+   - (ii) Articles 44, 65, 66 or 67, as regards the rates of benefit;
 
-- (a). volledige inlichtingen verstrekken omtrent de wetgeving ter uitvoering van de bepalingen van de Code en dit Protocol waarop zijn bekrachtiging betrekking heeft; en
+   - (iii) Article 24, paragraph 2, as regards duration of unemployment benefit; and
 
-- (b). bewijsstukken verschaffen waaruit blijkt dat de betrokken Lid-Staat heeft voldaan aan de statistische vereisten omschreven in:
+   - (iv) Article 70, paragraph 2, as regards the proportion of the financial resources constituted by the insurance contributions of employees protected.
 
-- (i). de artikelen 9 (**a** ), (**b** ) of (**c** ); 15 (**a** ) of (**b** ); 21 (**a** ); 27 (**a** ) of (**b** ); 33; 41 (**a** ) of (**b** ); 48 (**a** ) of (**b** ); 55 (**a** ) of (**b** ); 61 (**a** ) of (**b** ) wat betreft het aantal beschermde personen;
+2. Each member State which has ratified the Code and this Protocol shall furnish to the Secretary-General, if so requested by him, further information of the manner in which it has implemented the provisions of these Acts covered by its ratification.
 
-- (ii). de artikelen 44, 65, 66 of 67, wat betreft de bedragen der uitkeringen;
+3. The Committee of Ministers may authorise the Secretary-General to transmit to the Consultative Assembly copies of the report and further information submitted in accordance with paragraphs 1 and 2 of this Article respectively.
 
-- (iii). artikel 24, lid 2, wat betreft de duur van de uitkering bij werkloosheid; en
+4. The Secretary-General shall send to the Director-General of the International Labour Office the report and further information submitted in accordance with paragraphs 1 and 2 of this Article respectively, and shall request the latter to consult the appropriate body of the International Labour Organisation with regard to the said report and further information and to transmit to the Secretary-General the conclusions reached by such body.
 
-- (iv). artikel 70, lid 2, wat betreft het aandeel in de inkomsten voortkomende uit de verzekeringspremies van de beschermde loontrekkenden.
+5. Such report and further information and the conclusions of the body of the International Labour Organisation referred to in paragraph 4 of this Article shall be examined by the Committee which shall submit to the Committee of Ministers a report containing its conclusions.
 
-Deze bewijsstukken moeten zoveel mogelijk worden verstrekt op de wijze en in de volgorde als door de commissie is aangegeven.
+##### Article 75
 
-2. Elke Lid-Staat die de Code en dit Protocol heeft bekrachtigd verstrekt de Secretaris-Generaal op diens verzoek verdere gegevens omtrent de wijze waarop hij de bepalingen van de Code en dit Protocol waarop zijn bekrachtiging betrekking heeft, uitvoert.
+1. After consulting the Consultative Assembly, if it considers it appropriate, the Committee of Ministers shall, by a two-thirds majority in accordance with [Article 20, paragraph (*d* ) of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), decide whether each member State which has ratified the Code and this Protocol has complied with the obligations of the Code and the Protocol that it has accepted.
 
-3. Het Comité van Ministers kan de Secretaris-Generaal machtigen de Raadgevende Vergadering afschriften voor te leggen van het verslag en van de verdere gegevens ingediend overeenkomstig lid 1, onderscheidenlijk 2, van dit artikel.
+2. If the Committee of Ministers considers that a member State which has ratified the Code and this Protocol is not complying with its obligations under these Acts, it shall invite the said member State to take such measures as the Committee of Ministers considers necessary to ensure such compliance.
 
-4. De Secretaris-Generaal zendt de Directeur-Generaal van het Internationale Arbeidsbureau het verslag en de verdere gegevens toe, ingediend overeenkomstig lid 1, onderscheidenlijk 2, van dit artikel en verzoekt hem over dit verslag en deze gegevens overleg te plegen met het bevoegde orgaan van de Internationale Arbeidsorganisatie, alsmede de Secretaris-Generaal in kennis te stellen van de conclusies waartoe dat orgaan is gekomen.
+##### Article 76
 
-5. Dit verslag en deze gegevens, alsmede de conclusies waartoe het in lid 4 van dit artikel genoemde orgaan van de Internationale Arbeidsorganisatie is gekomen, worden bestudeerd door de commissie, die daarna bij het Comité van Ministers een verslag dat haar conclusies bevat, indient.
+Each member State which has ratified the Code and this Protocol shall report every two years to the Secretary-General on the state of its law and practice in regard to any of [Parts II to X](https://wetten.overheid.nl/BWBR0014599) of the Code and the Protocol thereto which such Member has not specified in its ratification of the Code and the Protocol in virtue of [Article 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=I&artikel=3&z=2008-03-17&g=2008-03-17) or in a notification made subsequently in virtue of [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=I&artikel=4&z=2008-03-17&g=2008-03-17).
 
-##### Artikel 75
+## PART XIV. Final provisions
 
-1. Na overleg met de Raadgevende Vergadering, beslist het Comité van Ministers, indien het dit nodig oordeelt, met een meerderheid van twee derde van het aantal uitgebrachte stemmen overeenkomstig artikel 20 alinea (**d** ) van het Statuut van de Raad van Europa of elke Lid-Staat die de Code en dit Protocol heeft bekrachtigd, heeft voldaan aan de verplichtingen van de Code en dit Protocol welke hij heeft aanvaard.
+##### Article 77
 
-2. Indien het Comité van Ministers van oordeel is dat een Lid-Staat die de Code en dit Protocol heeft bekrachtigd niet aan zijn uit de Code en dit Protocol voortvloeiende verplichtingen voldoet, verzoekt het deze Lid-Staat de maatregelen te nemen die het Comité van Ministers noodzakelijk oordeelt ter verzekering van de naleving van die verplichtingen.
+1. This Code shall be open to signature by the member States of the Council of Europe. It shall be subject to ratification. Instruments of ratification shall be deposited with the Secretary-General, provided that the Committee of Ministers in appropriate cases has previously given an affirmative decision as provided for in Article 78, paragraph 4.
 
-##### Artikel 76
+2. This Code shall enter into force one year after the date of the deposit of the third instrument of ratification.
 
-Elke Lid-Staat die de Code en dit Protocol heeft bekrachtigd moet om de twee jaar verslag uitbrengen aan de Secretaris-Generaal omtrent de stand van zijn wetgeving en de toepassing ervan met betrekking tot de bepalingen van elk der delen II tot en met X van de Code en het Protocol, welke overeenkomstig artikel 3 niet reeds zijn vermeld in zijn akte van bekrachtiging noch in een latere kennisgeving gedaan op grond van artikel 4.
+3. As regards any Signatory ratifying subsequently, this Code shall enter into force one year after the date of deposit of its instrument of ratification.
 
-## DEEL XIV. Slotbepalingen
+##### Article 78
 
-##### Artikel 77
+1. Any Signatory wishing to avail itself of the provisions of Article 2, paragraph 2, shall, before ratification, submit to the Secretary-General a report showing to what extent its system of Social Security is in conformity with the provisions of this Code.
 
-1. Deze Code staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Hij moet worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal, mits het Comité van Ministers in daarvoor in aanmerking komende gevallen tevoren een bevestigende beslissing heeft genomen als bedoeld in lid 4 van artikel 78.
+Such report shall include a statement of:
 
-2. Deze Code treedt in werking één jaar na het tijdstip van nederlegging van de derde akte van bekrachtiging.
+- (a) the relevant laws and regulations; and
 
-3. Ten aanzien van elke ondertekenende Staat die de Code op een later tijdstip bekrachtigt, treedt deze in werking één jaar na het tijdstip van nederlegging van zijn akte van bekrachtiging.
+- (b) evidence of compliance with the statistical conditions specified in:
 
-##### Artikel 78
+   - (i) Articles 9 (*a* ), (*b*) or (*c*); 15 (*a*) or (*b*); 21 (*a*); 27 (*a*) or *b*); 33; 41 (*a*) or (*b*); 48 (*a*) or (*b*); 55 (*a*) or (*b*); 61 (*a*) or *b*), as regards the number of persons protected;
 
-1. Elke ondertekenende Staat die zich wenst te beroepen op de bepalingen van artikel 2, lid 2, legt, alvorens tot bekrachtiging over te gaan, aan de Secretaris-Generaal een verslag over, waaruit blijkt in hoeverre zijn stelsel van sociale zekerheid in overeenstemming is met de bepalingen van deze Code.
+   - (ii) Articles 44, 65, 66 or 67, as regards the rates of benefits;
 
-Dit verslag moet een verklaring bevatten aangaande:
+   - (iii) Article 24, paragraph 2, as regards duration of unemployment benefit; and
 
-- (a). de ter zake bestaande wetgeving en
+   - (iv) Article 70, paragraph 2, as regards the proportion of the financial resources constituted by the insurance contributions of employees protected; and
 
-- (b). gegevens waaruit blijkt dat is voldaan aan de statistische voorwaarden neergelegd in:
+- (c) all elements which the Signatory wishes to be taken into account, in accordance with Article 2, paragraphs 2 and 3.
 
-- (i). de artikelen 9 (**a**), (**b**) of (**c**); 15 (**a**) of (**b**); 21 (**a**); 27 (**a**) of (**b**); 33; 41 (**a** ) of (**b** ); 48 (**a**) of (**b**); 55 (**a**) of (**b**); 61 (**a**) of (**b**), wat het aantal beschermde personen betreft;
+Such evidence shall, as far as possible, be presented in such general order and manner as may be suggested by the Committee.
 
-- (ii). de artikelen 44, 65, 66 of 67, wat de bedragen der uitkeringen betreft;
+2. The Signatory shall furnish to the Secretary-General, if so requested by him, further information on the manner in which its system of Social Security is in conformity with the provisions of this Code.
 
-- (iii). artikel 24, lid 2, wat de duur van de uitkering bij werkloosheid betreft; en
+3. Such report and further information shall be examined by the Committee which shall take into account the provisions of Article 2, paragraph 3. The Committee shall submit to the Committee of Ministers a report containing its conclusions.
 
-- (iv). artikel 70, lid 2, wat betreft het aandeel in de inkomsten voortkomend uit de verzekeringspremies van de beschermde loontrekkenden; en
+4. The Committee of Ministers shall, by a two-thirds majority in accordance with [Article 20, paragraph (d) of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), decide whether the system of Social Security of such Signatory is in conformity with the requirements of this Code.
 
-- (c). alle elementen waarmede op verlangen van de ondertekenende Staat rekening moet worden gehouden, overeenkomstig de leden 2 en 3 van artikel 2.
+5. If the Committee of Ministers decides that the said Social Security scheme is not in conformity with the provisions of this Code, it shall so inform the Signatory concerned and may make recommendations as to how such conformity may be effected.
 
-Voor zover mogelijk dienen deze gegevens te worden verstrekt op de wijze en in de volgorde, aangegeven door de commissie.
+##### Article 79
 
-2. De betrokken ondertekenende Staat verstrekt de Secretaris-Generaal op diens verzoek verdere gegevens omtrent de punten waarop zijn stelsel van sociale zekerheid in overeenstemming is met de bepalingen van deze Code.
+1. After the entry into force of this Protocol, the Committee of Ministers may invite any State not being a Member of the Council of Europe to accede to the Protocol. The accession of such State shall be subject to the same conditions and procedure as laid down in the Protocol with regard to ratification.
 
-3. Genoemd verslag en deze verdere gegevens worden bestudeerd door de commissie, die daarbij de bepalingen van artikel 2, lid 3, in acht neemt. De commissie legt aan het Comité van Ministers een verslag voor waarin haar conclusies zijn vervat.
+2. A State shall accede to this Protocol by depositing an instrument of accession with the Secretary-General. This Protocol shall come into force for any State so acceding one year after the date of deposit of its instrument of accession.
 
-4. Met een meerderheid van twee derde van het aantal uitgebrachte stemmen beslist het Comité van Ministers overeenkomstig het bepaalde in [artikel 20, sub (d ) van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), of het stelsel van sociale zekerheid van de ondertekenende Staat in overeenstemming is met de bepalingen van deze Code.
+3. The obligations and rights of an acceding State shall be the same as those provided for in this Protocol for member States which have ratified the Protocol.
 
-5. Indien het Comité van Ministers van oordeel is dat het bedoelde stelsel van sociale zekerheid niet in overeenstemming is met de bepalingen van deze Code, verwittigt zij de betrokken ondertekenende Staat hiervan en kan hem aanbevelingen doen omtrent de wijze waarop zijn stelsel alsnog met deze bepalingen in overeenstemming kan worden gebracht.
+##### Article 80
 
-##### Artikel 79
+1. The Code and/or this Protocol shall apply to the metropolitan territory of each member State for which it is in force and of each acceding State. Each member State or each acceding State may, at the time of signature or of the deposit of its instrument or ratification or accession, specify, by declaration addressed to the Secretary-General, the territory which shall be considered to be its metropolitan territory for this purpose.
 
-1. Na de inwerkingtreding van dit Protocol kan het Comité van Ministers elke Staat die geen lid is van de Raad van Europa uitnodigen tot dit Protocol toe te treden. De toetreding van zulk een Staat is onderworpen aan de voorwaarden en de procedure van bekrachtiging als voorzien in dit Protocol.
+2. Each member State ratifying the Code and/or this Protocol or each acceding State may, at the time of deposit of its instrument of ratification or accession, or at any time thereafter, notify the Secretary-General that the Code and/or this Protocol shall, in whole or in part and subject to any modifications specified in the notification, extend to any part of its metropolitan territory not specified under paragraph 1 of this Article or to any of the other territories for whose international relations it is responsible. Modifications specified in such notification may be cancelled or amended by subsequent notification.
 
-2. Een Staat treedt tot dit Protocol toe door nederlegging van een akte van toetreding bij de Secretaris-Generaal. Ten aanzien van een Staat die tot dit Protocol toetreedt wordt het van kracht één jaar na het tijdstip van nederlegging van zijn akte van toetreding.
+3. Any member State for which the Code or the Code and this Protocol is in force or any acceding State may, at such time as it can denounce the Code and/or this Protocol in accordance with Article 81, notify the Secretary-General that the Code and/or the Protocol shall cease to apply to any part of its metropolitan territory or to any of the other territories to which the Code and/or the Protocol has been extended by it in accordance with paragraph 2 of this Article.
 
-3. De plichten en rechten van een toetredende Staat zijn dezelfde als die welke in dit Protocol zijn voorzien voor de Lid-Staten die het Protocol hebben bekrachtigd.
+##### Article 81
 
-##### Artikel 80
+Each member State which has ratified the Code and this Protocol and each State which has acceded to them may denounce the Code and the Protocol or only the Protocol or any one or more of [Parts II to X](https://wetten.overheid.nl/BWBR0014599) of these Acts only at the end of a period of five years from the date on which the Code and/or the Protocol thereto entered into force respectively for such a member State or acceding State, or at the end of any successive period of five years, and in each case after giving one year's notice to the Secretary-General. Such denunciation shall not affect the validity of the Code and/or of the Protocol in respect of the other member States which have ratified them or in respect of the other States which have acceded to them, provided that at all times there are not less than three such member States or acceding States Parties to the Code and not less than three such member States or acceding States Parties to the Protocol.
 
-1. De Code en/of dit Protocol is van toepassing op het moederland van elke Lid-Staat ten aanzien waarvan het van kracht is en van elke toetredende Staat. Elke Lid-Staat of elke toetredende Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging of van toetreding, door middel van een verklaring aan de Secretaris-Generaal, het grondgebied aangeven dat voor de toepassing van de Code en/of dit Protocol beschouwd moet worden als zijn moederland.
+##### Article 82
 
-2. Elke Lid-Staat die de Code en/of dit Protocol bekrachtigt of elke toetredende Staat kan, bij de nederlegging van zijn akte van bekrachtiging of van toetreding, of op elk tijdstip daarna, de Secretaris-Generaal ervan in kennis stellen dat de Code en/of dit Protocol geheel of gedeeltelijk, behoudens eventuele in de kennisgeving opgenomen wijzigingen, eveneens zal gelden voor enig niet overeenkomstig het eerste lid van dit artikel aangegeven deel van het moederland of voor een of meer van de andere gebieden voor wier internationale betrekkingen hij verantwoordelijk is. In zulk een kennisgeving aangegeven wijzigingen kunnen door middel van een latere kennisgeving worden ingetrokken of gewijzigd.
+The Secretary-General shall notify the member States of the Council, the Government of any acceding State and the Director-General of the International Labour Office:
 
-3. Elke Lid-Staat ten aanzien waarvan de Code of de Code en dit Protocol van kracht is of elke toetredende Staat kan gedurende de tijdvakken waarin hij overeenkomstig het bepaalde in artikel 81 de Code en/of dit Protocol kan opzeggen, de Secretaris-Generaal ervan in kennis stellen dat de Code en/of het Protocol ophoudt van toepassing te zijn op enig deel van het moederland of op een of meer van de andere gebieden waarop hij overeenkomstig lid 2 van dit artikel de Code en/of het Protocol van toepassing heeft verklaard.
+- (i) of the date of entry into force of this Protocol and the names of any member States who ratify it;
 
-##### Artikel 81
+- (ii) of the deposit of any instrument of accession in accordance with [Article 79](https://wetten.overheid.nl/BWBV0004465) and of such notifications as are received with it;
 
-Elke Lid-Staat die de Code en dit Protocol heeft bekrachtigd en elke Staat die daartoe is toegetreden mag eerst na het verstrijken van een tijdvak van vijf jaar, gerekend van het tijdstip waarop de Code en/of dit Protocol ten aanzien van zulk een Lid-Staat onderscheidenlijk toetredende Staat van kracht werd, of telkens na het verstrijken van elk volgend tijdvak van vijf jaar, de Code en het Protocol of alleen het Protocol of een of meer van de delen II tot en met X van deze documenten opzeggen, waarbij steeds tegenover de Secretaris-Generaal een opzeggingstermijn van één jaar in acht moet worden genomen. Zulk een opzegging tast de geldigheid van de Code en/of het Protocol ten aanzien van de andere Lid-Staten die deze hebben bekrachtigd of ten aanzien van de andere Staten die ertoe zijn toegetreden, niet aan, mits het aantal van die Lid-Staten of toegetreden Staten niet minder bedraagt dan drie voor de Code en drie voor het Protocol.
+- (iii) of any notification received in accordance with [Articles 4](https://wetten.overheid.nl/BWBV0004465) and [80](https://wetten.overheid.nl/BWBV0004465); and
 
-##### Artikel 82
+- (iv) of any notice received in accordance with [Article 81](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&deel=XIV&artikel=81&z=2008-03-17&g=2008-03-17).
 
-De Secretaris-Generaal doet aan de Lid-Staten van de Raad, de Regeringen van alle toetredende Staten en de Directeur-Generaal van het Internationale Arbeidsbureau mededeling van:
+##### Article 83
 
-- (i). de datum van inwerkingtreding van dit Protocol en de namen van de Lid-Staten die het hebben bekrachtigd;
-
-- (ii). de nederlegging overeenkomstig het bepaalde in artikel 79 van alle akten van toetreding en van alle tegelijk daarmede ontvangen kennisgevingen;
-
-- (iii). alle kennisgevingen die hij ter uitvoering van het bepaalde in de artikelen 4 en 80 heeft ontvangen; en
-
-- (iv). alle kennisgevingen van opzegging die hij overeenkomstig het bepaalde in artikel 81 heeft ontvangen.
-
-##### Artikel 83
-
-De Bijlage bij deze Code vormt daarvan een integrerend deel.
-
-##### Artikel 68 (i)
-
-Er is overeengekomen dat artikel 68 (i) van deze Code moet worden uitgelegd overeenkomstig de nationale wetgeving van elke Contracterende Partij.
-
-## DEEL II. Geneeskundige zorg
-
-## DEEL III. Uitkering van ziekengeld
-
-## DEEL IV. Uitkering bij werkloosheid
-
-## DEEL V. Ouderdomsuitkeringen
-
-## DEEL VI. Uitkeringen en verstrekkingen bij arbeidsongevallen en beroepsziekten
-
-## DEEL VIII. Uitkeringen en verstrekkingen bij moederschap
-
-## DEEL IX. Uitkeringen bij invaliditeit
-
-## DEEL X. Uitkeringen aan nagelaten betrekkingen
-
-## DELEN II, III, VI of X
-
-## DELEN II OF III
+The Annex to this Code shall form an integral part of it.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Code.
 

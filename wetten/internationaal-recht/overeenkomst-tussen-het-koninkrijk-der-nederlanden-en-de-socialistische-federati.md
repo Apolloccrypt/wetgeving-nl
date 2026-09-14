@@ -1,182 +1,159 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië betreffende het internationale wegvervoer"
 identifier: "BWBV0004646"
-country: "nl"
-rank: "verdrag"
-publication_date: "1973-11-15"
-last_updated: "1973-11-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004646"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004235213"
-version_id: "10004422612"
-internal_id: "C10006997741"
-label_id: "10004220514"
-dtd_version: "2.0"
-original_entry_into_force: "1967-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004646/1973-11-15/0"
-intitule_bron: "Trb.1966-215"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1966-09-26"
-intitule_in_force: "1967-04-28"
-intitule_status: "goed"
-original_publication: "Trb.1966-215"
-original_published_date: "1966-09-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1966-215"
-entry_into_force_date: "1967-04-04"
-jci_1_3: "jci1.3:c:BWBV0004646&z=1973-11-15&g=1973-11-15"
-jci_1_0: "1.0:c:BWBV0004646&g=1973-11-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-04-04"
+publicatiedatum: 1967-04-04
+laatste_update: 1973-11-15
+status: geldig
+toestand: 1973-11-15
+bron: "https://wetten.overheid.nl/BWBV0004646"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië betreffende het internationale wegvervoer
 
-De Regering van het Koninkrijk der Nederlanden
+*Le Gouvernement du Royaume des Pays-Bas et le Gouvernement de la République Socialiste Fédérative de Yougoslavie désireux de régler et de faciliter les transports de voyageurs et de marchandises effectués au moyen de véhicules automobiles commerciaux entre les deux pays, ainsi que le transit à travers leur territoire, inspirés par le principe de liberté de la route en matière des transports en général, sont convenus de ce qui suit:*
 
-en
+### I. Transports de voyageurs
 
-de Regering van de Socialistische Federale Republiek Zuidslavië,
+##### Article 1
 
-verlangende het vervoer van personen en goederen met bedrijfsmotorvoertuigen tussen de beide Staten, alsmede het transitovervoer over hun grondgebied, te regelen en te vergemakkelijken,
+Tous les transports routiers de voyageurs entre les deux pays sont soumis au régime de l'autorisation, sauf ceux qui sont définis à l'article 5 de l'Accord.
 
-uitgaande van het beginsel van de vrijheid van de weg wat betreft het vervoer in het algemeen, zijn het volgende overeengekomen:
+##### Article 2
 
-## I. Personenvervoer
+Les lignes régulières entre les deux pays sont fixées de commun accord par les autorités compétentes des Parties contractantes.
 
-##### Artikel 1
+##### Article 3
 
-Alle personenvervoer over de weg tussen de twee Staten is onderworpen aan een vergunningenstelsel, met uitzondering van de categorieën vervoer die in artikel 5 van deze Overeenkomst worden omschreven.
+Le service de transport des voyageurs sur les lignes régulières est établi en vertu d'une autorisation spéciale.
 
-##### Artikel 2
+L'autorisation spéciale est délivrée par les autorités compétentes des Parties contractantes, chacune d'elles pour le tronçon du parcours situé sur son territoire et sur la base de la réciprocité, sauf dans le cas d'une autre décision des autorités compétentes.
 
-De geregelde autobusdiensten tussen beide landen worden in onderlinge overeenstemming vastgesteld door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
+La durée de l'autorisation spéciale est fixée de commun accord par les autorités compétentes des Parties contractantes.
 
-##### Artikel 3
+Une autorisation spéciale est délivrée aux entreprises pour l'exécution du transport sur une ligne déterminée en vertu d'une demande présentée par celles-ci à l'autorité compétente du pays d'origine du demandeur.
 
-Het vervoer van personen door middel van geregelde autobusdiensten wordt verricht krachtens een bijzondere vergunning. De bijzondere vergunning wordt verleend door de bevoegde autoriteiten van elke Overeenkomstsluitende Partij voor het gedeelte van het traject dat op haar grondgebied is gelegen en op basis van wederkerigheid, behoudens in geval van een andere beslissing van de bevoegde autoriteiten.
+La demande doit être accompagnée de la documentation nécessaire, (projet d'horaire, de tarif et d'itinéraire, programme d'exploitation annuelle, indication de la date prévue pour le commencement du service), et d'autres indications utiles spécifiées par les autorités compétentes des deux Parties contractantes.
 
-De geldigheidsduur van de bijzondere vergunning wordt in onderlinge overeenstemming vastgesteld door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen.
+L'autorité compétente de l'une des parties contractantes communique à l'autorité compétente de l'autre Partie contractante les demandes admises, accompagnée de toutes les pièces requises, ainsi que d'une copie de l'autorisation spéciale permettant d'effectuer le transport sur le parcours sur son territoire.
 
-Aan de ondernemingen wordt een bijzondere vergunning verleend voor de uitvoering van het vervoer op een bepaalde lijn op grond van een aanvraag welke door hen wordt ingediend bij de bevoegde autoriteit van het land van herkomst van de aanvrager.
+##### Article 4
 
-De aanvraag dient vergezeld te gaan van de benodigde bescheiden (ontwerpdienstregeling, -tarief en -reisweg, plan van de jaarlijkse exploitatie, opgave van die voor de ingang van de dienst voorgestelde datum), alsmede van andere door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen gewenste inlichtingen.
+Les demandes d'autorisation doivent être présentées deux mois avant le début du service.
 
-De bevoegde autoriteit van de ene Overeenkomstsluitende Partij zendt aan de bevoegde autoriteit van de andere Overeenkomstsluitende Partij de ingewilligde aanvragen, voorzien van de vereiste bescheiden, alsmede een afschrift van de bijzondere vergunning voor het uitoefenen van het vervoer over het traject op zijn grondgebied.
+##### Article 5
 
-##### Artikel 4
+Les transports touristiques occasionnels ne sont soumis à aucune autorisation. Cette disposition s'applique chaque fois que les mêmes personnes sont transportées par le même véhicule,
 
-Aanvragen om een vergunning moeten twee maanden voor de aanvang van de dienst worden ingediend.
+- a) soit au cours des transports touristiques occasionnels en transit,
 
-##### Artikel 5
+- b) soit au cours d'un voyage circulaire commençant et devant se terminer dans le pays d'immatriculation du véhicule;
 
-Het ongeregelde toeristische vervoer is aan geen enkele vergunning onderworpen. Deze bepaling geldt telkenmale wanneer dezelfde personen worden vervoerd met hetzelfde voertuig,
+- c) soit au cours d'un voyage ayant son point de départ dans une localité du pays d'immatriculation du véhicule et son point de destination sur le territoire de l'autre Partie contractante, sous réserve que, sauf autorisation contraire, le véhicule rentre à vide dans le pays d'immatriculation.
 
-- a). hetzij tijdens ongeregeld toeristisch transitovervoer,
+##### Article 6
 
-- b). hetzij tijdens een gesloten rondrit die moet aanvangen en eindigen in het land van inschrijving van het voertuig,
+Les services de navette entre les deux pays sont soumis à une autorisation délivrée sur la base d'une demande adressée aux autorités compétentes du pays d'immatriculation du véhicule et transmis aux autorités compétentes de l'autre Partie contractante en vue d'obtenir leur assentiment.
 
-- c). hetzij tijdens een rit welke aanvangt in een plaats van het land van inschrijving van het voertuig en waarvan de plaats van bestemming is gelegen op het grondgebied van de andere Overeenkomstsluitende Partij, onder voorwaarde dat, behoudens vergunning voor het tegendeel, het voertuig ledig terugkeert naar het land van inschrijving.
+### II. Transports de marchandises
 
-##### Artikel 6
+##### Article 7
 
-Het pendelvervoer tussen de beide Staten is onderworpen aan een vergunning welke wordt verleend op grond van een aanvraag die wordt ingediend bij de bevoegde autoriteiten van het land van inschrijving van het voertuig en die aan de bevoegde autoriteiten van de andere Overeenkomstsluitende Partij wordt toegezonden ten einde hun toestemming te verkrijgen.
+Les transporteurs qui exécutent des transports de marchandises entre les deux pays ou à travers le territoire de l'autre Partie contractante doivent être en possession d'un certificat. Les transporteurs peuvent exceptionnellement effectuer des transports de marchandises sans certificat mais dans ce cas ils ne bénéficient pas de l'exemption de payement des taxes prévue à l'article 15 de l'Accord.
 
-## II. Goederenvervoer
+##### Article 7 bis
 
-##### Artikel 7
+1. Un certificat n'est pas exigé pour les transports énumérés ci-après:
 
-De vervoerders die vervoer van goederen verrichten tussen de beide landen of over het grondgebied van de andere Overeenkomstsluitende Partij moeten in het bezit zijn van een legitimatiebewijs. De vervoerders kunnen bij uitzondering goederenvervoer zonder legitimatiebewijs verrichten, maar in dat geval genieten zij niet de vrijstelling van betaling van belastingen, voorzien in artikel 15 van deze Overeenkomst.
+- a. transports occasionnels de marchandises à destination et en provenance des aéroports, en cas de déviation des services;
 
-##### Artikel 7 bis
+- b. transports de bagages par remorques adjointes aux véhicules destinés aux transports de voyageurs et transports de bagages par tous genres de véhicules à destination et en provenance des aéroports;
 
-1. Er wordt geen legitimatiebewijs vereist voor de onderstaand opgesomde soorten goederenvervoer:
+- c. transports postaux;
 
-- a. incidenteel vervoer van goederen naar en van luchthavens in geval van verlegging van de diensten;
+- d. transports de véhicules endommagés;
 
-- b. vervoer van bagage met aanhangwagens gekoppeld aan voor reizigersvervoer bestemde voertuigen, en vervoer van bagage naar en van luchthavens met voertuigen van welke aard dan ook;
+- e. transports d'abeilles et d'alevins;
 
-- c. postvervoer;
+- f. transports funéraires;
 
-- d. vervoer van beschadigde voertuigen;
+- g. transports de denrées périssables dans des engins spéciaux;
 
-- e. vervoer van bijen en pootvis;
+- h. transports de marchandises par véhicules automobiles dont le poids total en charge, y compris celui des remorques, ne dépasse pas six tonnes;
 
-- f. begrafenisvervoer;
+- i. transports d'objets et d'oeuvres d'art destinés aux expositions, aux foires ou à des fins non commerciales;
 
-- g. vervoer van aan bederf onderhevige levensmiddelen met speciale vervoermiddelen;
+- j transports d'objets et de matériel destinés exclusivement à la publicité et à l'information;
 
-- h. goederenvervoer met motorvoertuigen waarvan het totale gewicht in beladen toestand, met inbegrip van dat van de aanhangwagens, niet meer dan zes ton bedraagt;
+- k. déménagements par des entreprises spécialement équipées à cet effet, en personnel et en matériel;
 
-- i. vervoer van kunstvoorwerpen en kunstwerken bestemd voor tentoonstellingen, jaarbeurzen of andere dan handelsdoeleinden;
+- l. transports de matériel, d'accessoires et d'animaux à destination ou en provenance de manifestations théâtrales, musicales, cinématographiques, sportives, de cirques, de foires ou de kermesses, ainsi que ceux destinés aux enregistrements radiophoniques, aux prises de vues cinématographiques ou à la télévision.
 
-- j. vervoer van voorwerpen en materiaal welke uitsluitend bestemd zijn voor reclame en voorlichting.
+2. L'article 15 du présent Accord s'applique aux transports énumérés à l'alinéa 1er du présent article.
 
-- k. verhuizingen door wat personeel en materiaal betreft speciaal hiervoor uitgeruste ondernemingen;
+##### Article 8
 
-- l. vervoer van materiaal, requisieten en dieren naar of van theatervoorstellingen, muziekuitvoeringen, filmvoorstellingen, sportmanifestaties, circussen, jaarbeurzen of kermissen, alsmede van materiaal, requisieten en dieren ten behoeve van radio-, film- of televisieopnamen.
+Il est délivré un certificat distinct par voyage d'aller et retour et par véhicule, véhicule articulé ou ensemble de véhicules.
 
-2. Artikel 15 van deze Overeenkomst is van toepassing op het goederenvervoer opgesomd in het eerste lid van dit artikel.
+Le même certificat autorise le transporteur de prendre du fret de retour au départ du territoire de l'autre Partie contractante.
 
-##### Artikel 8
+##### Article 9
 
-Per heen- en terugrit en per vrachtauto, trekker met oplegger of vrachtauto met aanhangwagen wordt een afzonderlijk legitimatiebewijs afgegeven. Hetzelfde legitimatiebewijs machtigt de vervoerder retourvracht op te nemen vanuit het grondgebied van de andere Overeenkomstsluitende Partij.
+Les autorités compétentes des Parties contractantes détermineront de commun accord, sur la base de la réciprocité le nombre de certificats valables pour chaque année, en tenant compte des besoins du transport routier.
 
-##### Artikel 9
+##### Article 10
 
-De bevoegde autoriteiten van de Overeenkomstsluitende Partijen stellen in onderlinge overeenstemming op basis van wederkerigheid het aantal legitimatiebewijzen geldig voor elk jaar vast, rekening houdend met de behoeften van het wegvervoer.
+Les certificats seront délivrés par les autorités compétentes du pays d'immatriculation du véhicule conformément au modèle déterminé de commun accord entre les autorités compétentes des Parties contractantes.
 
-##### Artikel 10
+Les autorités compétentes des Parties contractantes échangent les certificats, en blanc et dûment vérifiés.
 
-De legitimatiebewijzen worden afgegeven door de bevoegde autoriteiten van het land van inschrijving van het voertuig overeenkomstig het in onderlinge overeenstemming tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen vastgestelde model.
+##### Article 11
 
-De bevoegde autoriteiten van de Overeenkomstsluitende Partijen wisselen blanco legitimatiebewijzen uit, welke behoorlijk gewaarmerkt zijn.
+Les transporteurs domiciliés sur le territoire d'une des Parties contractantes ne sont pas autorisés à effectuer des transports au départ du territoire de l'autre Partie contractante à destination d'une pays tiers sans le consentement des autorités compétentes de cette autre Partie contractante, sauf décision contraire des Parties contractantes.
 
-##### Artikel 11
+### III. Dispositions générales
 
-De vervoerders die zijn gevestigd op het grondgebied van één van die Overeenkomstsluitende Partijen zijn niet gemachtigd vervoer te verrichten vanuit het grondgebied van de andere Overeenkomstsluitende Partij met een derde land als bestemming zonder de goedkeuring van de bevoegde autoriteiten van deze andere Overeenkomstsluitende Partij, behoudens een andere beslissing terzake van de Overeenkomstsluitende Partijen.
+##### Article 12
 
-## III. Algemene bepalingen
+Les transporteurs domiciliés sur le territoire d'une Partie contractante ne sont pas autorisés à effectuer des transports de voyageurs ou de marchandises entre deux points situés sur le territoire de l'autre Partie contractante, sauf décision contraire des Parties contractantes.
 
-##### Artikel 12
+##### Article 13
 
-De vervoerders die zijn gevestigd op het grondgebied van de ene Overeenkomstsluitende Partij zijn niet gemachtigd personen- of goederenvervoer te verrichten tussen twee plaatsen gelegen op het grondgebied van de andere Overeenkomstsluitende Partij, behoudens een andere beslissing terzake van de Overeenkomstsluitende Partijen.
+Les autorités compétentes des Parties contractantes fixent d'un commun accord les modalités concernant rechange annuel des documents mentionnés dans l'article 8 du présent Accord ainsi que l'échange des données statistiques, si possible fin de décembre.
 
-##### Artikel 13
+##### Article 14
 
-De bevoegde autoriteiten van de Overeenkomstsluitende Partijen stellen in onderlinge overeenstemming de wijze vast, waarop de jaarlijkse uitwisseling van de documenten genoemd in artikel 8 van deze Overeenkomst, alsmede de uitwisseling van de statistische gegevens, zal plaatsvinden, zo mogelijk tegen het eind van de maand december.
+Sans préjudice des dispositions légales en vigueur dans les Etats contractants, les autorités compétentes du pays d'origine peuvent en cas de violation des dispositions du présent Accord, retirer le certificat à titre temporaire ou définitif.
 
-##### Artikel 14
+Les autorités qui prennent cette mesure sont tenues d'en informer les autorités de l'autre Partie contractante.
 
-Onverminderd de wettelijke bepalingen welke van kracht zijn in de Overeenkomstsluitende Staten, kunnen de bevoegde autoriteiten van het land van herkomst in geval van overtreding van de bepalingen van deze Overeenkomst het legitimatiebewijs tijdelijk of definitief intrekken.
+##### Article 15
 
-De autoriteiten die deze maatregel nemen zijn gehouden de autoriteiten van de andere Partij daarvan te verwittigen.
+Les entreprises qui effectuent au moyen de véhicules immatriculés sur le territoire de l'une des Parties contractantes, sur le territoire de l'autre Partie contractante, des transports régis par le présent Accord, sont exemptées, sur la base de la réciprocité, de tous taxes et droits relatifs aux autorisations et certificats et aux transports eux-mêmes, ainsi que de toutes taxes sur les véhicules.
 
-##### Artikel 15
+##### Article 16
 
-De ondernemingen die met voertuigen welke op het grondgebied van één van de Overeenkomstsluitende Partijen zijn ingeschreven, vervoer in het kader van deze Overeenkomst verrichten op het grondgebied van de andere Overeenkomstsluitende Partij, zijn vrijgesteld, op basis van wederkerigheid, van alle belastingen en rechten met betrekking tot vergunningen, legitimatiebewijzen en het vervoer zelf, alsmede van alle belastingen op die voertuigen.
+Chaque Partie contractante notifie à l'autre Partie contractante quelles sont les autorités compétentes autorisées à régler les questions se rapportant à l'application du présent Accord.
 
-##### Artikel 16
+##### Article 17
 
-Elke Overeenkomstsluitende Partij deelt de andere Overeenkomstsluitende Partij mede, welke die bevoegde autoriteiten zijn die zijn gemachtigd om de vraagstukken met betrekking tot de toepassing van deze Overeenkomst te behandelen.
+A la demande d'une Partie contractante., une commission mixte, comprenant les délégués des deux gouvernements, sera créée pour examiner les questions préalablement spécifiées par les autorités compétentes des deux pays et celles qui n'auraient pas été tranchées par entente directe entre lesdites autorités.
 
-##### Artikel 17
+Les conclusions de la commission mixte sont soumises à l'approbation des autorités compétentes des Parties contractantes chargées des questions relevant du transport routier.
 
-Op verzoek van één der Overeenkomstsluitende Partijen wordt een gemengde commissie, bestaande uit afgevaardigden van de beide regeringen, ingesteld ten einde de vraagstukken te bestuderen, welke tevoren door de bevoegde autoriteiten van de beide Staten zijn omschreven, alsmede die problemen waarover die autoriteiten niet rechtstreeks tot overeenstemming kunnen komen.
+##### Article 18
 
-De conclusies van de gemengde commissie worden aan de goedkeuring onderworpen van de bevoegde autoriteiten der Overeenkomstsluitende Partijen die belast zijn met de vraagstukken met betrekking tot het wegvervoer.
+La législation nationale en matière de douane et de circulation routière demeure réservée.
 
-##### Artikel 18
+##### Article 19
 
-De nationale wetgeving met betrekking tot douane- en wegverkeeraangelegenheden blijft ongewijzigd gehandhaafd.
+Le présent Accord sera approuvé conformément aux dispositions constitutionnelles en vigueur dans chacun des deux Etats et entrera en vigueur à la date de l'échange de notes par la voie diplomatique, faisant part de cette approbation.
 
-##### Artikel 19
+En ce qui concerne le Royaume des Pays-Bas le présent Accord ne s'appliquera qu'au Royaume en Europe.
 
-Deze Overeenkomst wordt goedgekeurd overeenkomstig de grondwettelijke bepalingen welke in elk van beide Staten van kracht zijn en treedt in werking op de dag van de wisseling langs diplomatieke weg van nota's waarin van deze goedkeuring melding wordt gemaakt.
-
-Wat betreft het Koninkrijk der Nederlanden is deze Overeenkomst slechts van toepassing op het Europese gebied van het Koninkrijk.
-
-Deze Overeenkomst is een jaar geldig, te rekenen van de datum van inwerkingtreding af, en wordt elk jaar stilzwijgend verlengd, behoudens opzegging door één der Overeenkomstsluitende Partijen, zes maanden voor het verstrijken van de geldigheid van de Overeenkomst.
+Il sera valable un an à partir de la date de son entrée en vigueur et sera prorogé tacitement d'année en année, sauf dénonciation par l'une des Parties contractantes, six mois avant l'expiration de sa validité.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 

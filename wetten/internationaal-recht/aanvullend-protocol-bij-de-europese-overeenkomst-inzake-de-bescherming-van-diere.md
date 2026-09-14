@@ -1,88 +1,63 @@
 ---
 title: "Aanvullend Protocol bij de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer"
 identifier: "BWBV0004568"
-country: "nl"
-rank: "verdrag"
-publication_date: "1989-11-07"
-last_updated: "1989-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004568"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004194113"
-version_id: "10004370342"
-internal_id: "C10006981911"
-label_id: "10004179124"
-dtd_version: "2.0"
-original_entry_into_force: "1989-11-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004568/1989-11-07/0"
-intitule_bron: "Trb.1980-149"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1980-09-15"
-intitule_in_force: "1989-12-15"
-intitule_status: "goed"
-original_publication: "Trb.1980-149"
-original_published_date: "1980-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1980-149"
-entry_into_force_date: "1989-11-07"
-jci_1_3: "jci1.3:c:BWBV0004568&z=1989-11-07&g=1989-11-07"
-jci_1_0: "1.0:c:BWBV0004568&g=1989-11-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1989-11-07"
+publicatiedatum: 1989-11-07
+laatste_update: 1989-11-07
+status: geldig
+toestand: 1989-11-07
+bron: "https://wetten.overheid.nl/BWBV0004568"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Protocol bij de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer
 
-De Lid-Staten van de Raad van Europa, welke dit Aanvullend Protocol hebben ondertekend,
+*The member States of the Council of Europe, signatory to this Additional Protocol, Having regard to the European Convention for the protection of animals during international transport, hereinafter called the “Convention”, which was opened to signature in Paris on 13 December 1968 by the member States of the Council of Europe and includes common provisions designed to safeguard animals in transport from suffering; Considering that in view of the competences it possesses in the matters covered by the said Convention, the European Economic Community should be able to be a Contracting Party to this instrument. Have agreed als follows:*
 
-Gelet op de [Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0004567), hierna te noemen de „Overeenkomst”, welke te Parijs op 13 december 1968 werd opengesteld voor ondertekening door de Lid-Staten van de Raad van Europa en welke gemeenschappelijke bepalingen bevat om dieren tijdens hun vervoer van lijden te vrijwaren;
+##### Article 1
 
-Overwegend dat met het oog op de bevoegdheden die zij bezit op het door de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) bestreken gebied, de Europese Economische Gemeenschap Overeenkomstsluitende Partij bij deze akte dient te kunnen worden,
+*Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.*
 
-Zijn als volgt overeengekomen:
+##### Article 2
 
-##### Artikel 1
+*Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.*
 
-Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.
+##### Article 3
 
-##### Artikel 2
+*Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.*
 
-Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.
+##### Article 4
 
-##### Artikel 3
+1. This Additional Protocol is open to signature by the member States of the Council of Europe which have signed the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004567), which may become Contracting Parties to this Additional Protocol by:
 
-Wijzigt de Europese Overeenkomst inzake de bescherming van dieren tijdens internationaal vervoer; Parijs, 13 december 1968.
+- a. signature without reservation in respect of ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-##### Artikel 4
+- b. signature with reservation in respect of ratification, acceptance or approval, followed by ratification, acceptance or approval.
 
-1. Dit Aanvullend Protocol staat open voor ondertekening door de Lid-Staten van de Raad van Europa die de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) hebben ondertekend en die overeenkomstsluitende Partij bij het Aanvullend Protocol kunnen worden door:
+2. States which have acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) may also accede to this Additional Protocol.
 
-- a. ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of
+3. Instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary General of the Council of Europe.
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring.
+##### Article 5
 
-2. Staten die tot de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) zijn toegetreden kunnen eveneens tot dit Aanvullend Protocol toetreden.
+This Additional Protocol shall enter into force as soon as all the Contracting Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) have become Parties to this Additional Protocol in accordance with Article 4.
 
-3. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 6
 
-##### Artikel 5
+From the date of its entry into force, this Additional Protocol shall form an integral part of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004567). From that date, no member State may become a Contracting Party to the Convention without at the same time becoming a Contracting Party to this Additional Protocol.
 
-Dit Aanvullend Protocol treedt in werking zodra alle Overeenkomstsluitende Partijen bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) partij zijn geworden bij het Aanvullend Protocol overeenkomstig de bepalingen van artikel 4.
+##### Article 7
 
-##### Artikel 6
+The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the other Parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) and the Commission of the European Economic Community of:
 
-Vanaf de datum van inwerkingtreding maakt dit Aanvullend Protocol wezenlijk deel uit van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567). Vanaf die datum kan geen Staat Overeenkomstsluitende Partij worden bij de Overeenkomst zonder tegelijkertijd overeenkomstsluitende Partij te worden bij het Aanvullend Protocol.
+- a. any signature without reservation in respect of ratification, acceptance or approval;
 
-##### Artikel 7
+- b. any signature with reservation in respect of ratification, acceptance or approval;
 
-De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad van Europa, de andere Partijen bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004567) en de Commissie van de Europese Economische Gemeenschap kennis van:
+- c. any deposit of an instrument of ratification, acceptance, approval or accession;
 
-- a. iedere ondertekening zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring;
-
-- b. iedere ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring;
-
-- c. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
-
-- d. de datum van inwerkingtreding van dit Aanvullend Protocol overeenkomstig artikel 5 ervan.
+- d. any date of entry into force of this Additional Protocol in accordance with Article 5 thereof.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

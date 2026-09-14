@@ -1,56 +1,37 @@
 ---
 title: "Overeenkomst inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-republieken"
 identifier: "BWBV0005025"
-country: "nl"
-rank: "verdrag"
-publication_date: "1970-03-17"
-last_updated: "1970-03-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005025"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004437133"
-version_id: "10004643532"
-internal_id: "C10006997921"
-label_id: "10004421834"
-dtd_version: "2.0"
-original_entry_into_force: "1970-03-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005025/1970-03-17/0"
-intitule_bron: "Trb.1967-115"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-08-24"
-intitule_in_force: "1970-03-19"
-intitule_status: "goed"
-original_publication: "Trb.1967-115"
-original_published_date: "1967-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-115"
-entry_into_force_date: "1970-03-17"
-jci_1_3: "jci1.3:c:BWBV0005025&z=1970-03-17&g=1970-03-17"
-jci_1_0: "1.0:c:BWBV0005025&g=1970-03-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1970-03-17"
+publicatiedatum: 1970-03-17
+laatste_update: 1970-03-17
+status: geldig
+toestand: 1970-03-17
+bron: "https://wetten.overheid.nl/BWBV0005025"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake de culturele samenwerking tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-republieken
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-republieken, de wens koesterend de ontwikkeling van de samenwerking tussen beide landen op het gebied van onderwijs, wetenschap en cultuur te bevorderen, ervan overtuigd dat deze samenwerking een beter wederzijds begrip tussen de volken van beide landen zal bevorderen, hebben besloten de onderhavige Overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-republieken, de wens koesterend de ontwikkeling van de samenwerking tussen beide landen op het gebied van onderwijs, wetenschap en cultuur te bevorderen, ervan overtuigd dat deze samenwerking een beter wederzijds begrip tussen de volken van beide landen zal bevorderen, hebben besloten de onderhavige Overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel 1
 
 Teneinde de samenwerking tussen beide landen op het gebied van wetenschap, onderwijs en opvoeding te ontwikkelen zullen de Overeenkomstsluitende Partijen bevorderen:
 
-- a). het uitwisselen van professoren van universiteiten, van wetenschappelijke medewerkers van instellingen van hoger onderwijs en van wetenschappelijk onderzoek, alsmede van vertegenwoordigers van wetenschappelijke genootschappen en andere geleerden, o.m. voor het geven van colleges, voor wetenschappelijk werk of oriëntatiebezoeken volgens overeengekomen programma's;
+- a) het uitwisselen van professoren van universiteiten, van wetenschappelijke medewerkers van instellingen van hoger onderwijs en van wetenschappelijk onderzoek, alsmede van vertegenwoordigers van wetenschappelijke genootschappen en andere geleerden, o.m. voor het geven van colleges, voor wetenschappelijk werk of oriëntatiebezoeken volgens overeengekomen programma's;
 
-- b). het uitnodigen van geleerden van het ene land voor internationale conferenties en symposia, welke in het andere land worden gehouden, daarbij rekening houdend met de belangstelling en mogelijkheden over en weer;
+- b) het uitnodigen van geleerden van het ene land voor internationale conferenties en symposia, welke in het andere land worden gehouden, daarbij rekening houdend met de belangstelling en mogelijkheden over en weer;
 
-- c). het uitwisselen van wetenschappelijke uitgaven en publikaties, studie- en leerboeken tussen wetenschappelijke instellingen en onderwijsinrichtingen;
+- c) het uitwisselen van wetenschappelijke uitgaven en publikaties, studie- en leerboeken tussen wetenschappelijke instellingen en onderwijsinrichtingen;
 
-- d). het verstrekken van studiebeurzen aan studenten of jonge wetenschappelijke werkers van een der Overeenkomstsluitende Partijen voor studie, stages of wetenschappelijk werk aan onderwijsinstellingen van de andere Overeenkomstsluitende Partij;
+- d) het verstrekken van studiebeurzen aan studenten of jonge wetenschappelijke werkers van een der Overeenkomstsluitende Partijen voor studie, stages of wetenschappelijk werk aan onderwijsinstellingen van de andere Overeenkomstsluitende Partij;
 
-- e). het uitwisselen van deskundigen op het gebied van opvoeding en middelbaar onderwijs, met inbegrip van technisch onderwijs en beroepsopleiding, alsook op het terrein van de vorming buiten schoolverband;
+- e) het uitwisselen van deskundigen op het gebied van opvoeding en middelbaar onderwijs, met inbegrip van technisch onderwijs en beroepsopleiding, alsook op het terrein van de vorming buiten schoolverband;
 
-- f). het uitwisselen van deskundigen op het gebied van de geneeskunde en de gezondheidszorg;
+- f) het uitwisselen van deskundigen op het gebied van de geneeskunde en de gezondheidszorg;
 
-- g). het uitwisselen van delegaties en individuele specialisten op wederzijds aanvaardbare technisch-wetenschappelijke gebieden.
+- g) het uitwisselen van delegaties en individuele specialisten op wederzijds aanvaardbare technisch-wetenschappelijke gebieden.
 
 Iedere Partij zal aan alle personen en delegaties die uit het andere land komen op grond van deze Overeenkomst, alle medewerking verlenen bij hun studie of wetenschappelijk onderzoek of bij het uitvoeren van de overeengekomen verblijfsprogramma's.
 
@@ -60,27 +41,27 @@ De Partijen zullen studie maken van de voorwaarden op basis waarvan zij de gelij
 
 Met het doel de betrekkingen op het gebied van cultuur en kunst te ontwikkelen zullen de Overeenkomstsluitende Partijen bevorderen:
 
-- a). het organiseren van reizen van personen uit het culturele leven en kunstenaars, zoals schrijvers, schilders, componisten, uitvoerende kunstenaars enz., alsmede van specialisten, werkzaam in cultureel-edukatieve instellingen (musea, bibliotheken enz.);
+- a) het organiseren van reizen van personen uit het culturele leven en kunstenaars, zoals schrijvers, schilders, componisten, uitvoerende kunstenaars enz., alsmede van specialisten, werkzaam in cultureel-edukatieve instellingen (musea, bibliotheken enz.);
 
-- b). de activiteiten van leerstoelen en lectoraten, alsmede het houden van lezingen over de taal en de cultuur van het andere land in de onderwijsinstellingen van het eigen land;
+- b) de activiteiten van leerstoelen en lectoraten, alsmede het houden van lezingen over de taal en de cultuur van het andere land in de onderwijsinstellingen van het eigen land;
 
-- c). het organiseren van concerten en toneelvoorstellingen, tournee's van solisten en ensembles;
+- c) het organiseren van concerten en toneelvoorstellingen, tournee's van solisten en ensembles;
 
-- d). het organiseren van kunsttentoonstellingen en andere tentoonstellingen van culturele aard;
+- d) het organiseren van kunsttentoonstellingen en andere tentoonstellingen van culturele aard;
 
-- e). het vertalen van literaire werken van het andere land;
+- e) het vertalen van literaire werken van het andere land;
 
-- f). het uitwisselen van boeken, periodieken en andere uitgaven van wetenschappelijke, technische, culturele of algemeen edukatieve aard tussen bibliotheken en andere instellingen van beide landen, zulks eveneens via commerciële kanalen;
+- f) het uitwisselen van boeken, periodieken en andere uitgaven van wetenschappelijke, technische, culturele of algemeen edukatieve aard tussen bibliotheken en andere instellingen van beide landen, zulks eveneens via commerciële kanalen;
 
-- g). het ontwikkelen van de samenwerking op het gebied van radio en televisie;
+- g) het ontwikkelen van de samenwerking op het gebied van radio en televisie;
 
-- h). het uitwisselen van wetenschappelijke en edukatieve films, films over kunst en cultuur, alsmede andere contacten op het gebied van de filmkunst:
+- h) het uitwisselen van wetenschappelijke en edukatieve films, films over kunst en cultuur, alsmede andere contacten op het gebied van de filmkunst:
 
-- i). het uitwisselen van muziekopnamen en ander materiaal dat kan bijdragen tot de kennis van de muziekcultuur van het andere land, alsmede het uitwisselen van opnamen op het gebied van taal, toneelkunst enz.;
+- i) het uitwisselen van muziekopnamen en ander materiaal dat kan bijdragen tot de kennis van de muziekcultuur van het andere land, alsmede het uitwisselen van opnamen op het gebied van taal, toneelkunst enz.;
 
-- j). het ontwikkelen van het toerisme, teneinde leven, werk en cultuur van het andere land beter te leren kennen;
+- j) het ontwikkelen van het toerisme, teneinde leven, werk en cultuur van het andere land beter te leren kennen;
 
-- k). het ontwikkelen van de uitwisseling op het gebied van de sport.
+- k) het ontwikkelen van de uitwisseling op het gebied van de sport.
 
 ##### Artikel 3
 

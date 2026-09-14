@@ -1,60 +1,19 @@
 ---
 title: "Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof"
 identifier: "BWBV0004117"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-12-01"
-last_updated: "2016-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004117"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003933353"
-version_id: "10004065262"
-internal_id: "C10008344721"
-label_id: "10003918394"
-dtd_version: "2.0"
-original_entry_into_force: "1974-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004117/2016-12-01/0"
-intitule_bron: "Trb.1965-71"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-06-16"
-intitule_in_force: "1973-12-21"
-intitule_status: "goed"
-original_publication: "Trb.1965-71"
-original_published_date: "1965-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-71"
-entry_into_force_date: "1974-01-01"
-jci_1_3: "jci1.3:c:BWBV0004117&z=2016-12-01&g=2016-12-01"
-jci_1_0: "1.0:c:BWBV0004117&g=2016-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1974-01-01"
+publicatiedatum: 1974-01-01
+laatste_update: 2016-12-01
+status: geldig
+toestand: 2016-12-01
+bron: "https://wetten.overheid.nl/BWBV0004117"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof
 
-Zijne Majesteit de Koning der Belgen,
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg,
-
-Hare Majesteit de Koningin der Nederlanden,
-
-Overwegende dat de eenheid bij de toepassing der rechtsregels, die België, Luxemburg en Nederland gemeenschappelijk hebben, bevorderd dient te worden,
-
-Hebben tot dat doel besloten over te gaan tot het sluiten van een Verdrag betreffende de instelling van een Benelux-Gerechtshof en hebben tot hun Gevolmachtigden benoemd:
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie de Heer H. Fayat, Minister, Adjunct voor Buitenlandse Zaken;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-Zijne Excellentie de Heer P. Werner, Minister van Buitenlandse Zaken;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken,
-
-die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, de volgende bepalingen zijn overeengekomen:
+*Zijne Majesteit de Koning der Belgen, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Overwegende dat de eenheid bij de toepassing der rechtsregels, die België, Luxemburg en Nederland gemeenschappelijk hebben, bevorderd dient te worden, Hebben tot dat doel besloten over te gaan tot het sluiten van een Verdrag betreffende de instelling van een Benelux-Gerechtshof en hebben tot hun Gevolmachtigden benoemd: Zijne Majesteit de Koning der Belgen: Zijne Excellentie de Heer H. Fayat, Minister, Adjunct voor Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Zijne Excellentie de Heer P. Werner, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken, die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, de volgende bepalingen zijn overeengekomen:*
 
 ### HOOFDSTUK I. Instelling, doel en zetel van het Hof
 
@@ -148,7 +107,7 @@ De Benelux Raad zal, eenmaal per jaar, op basis van een door het Hof opgesteld r
 
 4. Voor de wijze van aflegging van de eed en de mogelijkheid deze door een belofte te vervangen, geldt de nationale wet van degene die de eed moet afleggen.
 
-5. De leden van het Hof en van het Parket alsmede de waarnemend griffiers genieten generlei vaste wedde. Zij ontvangen een door het Comité van Ministers vastgestelde vergoeding voor reis- en verblijfkosten. Het statuut, de salariëring, de vergoedingen en, voor zover nodig, de pensioenregeling, alsmede de reis- en verblijfskosten van de griffier, van de substituut-griffiers, van de leden van de aan de griffie verbonden vertaaldienst en van het griffiepersoneel worden op voorstel van de algemene vergadering vastgesteld door het Comité van Ministers. De uit de bepalingen van dit lid voortvloeiende kosten komen ten laste van de in artikel 13 van het Verdrag bedoelde begroting.
+5. De leden van het Hof en van het Parket alsmede de waarnemend griffiers genieten generlei vaste wedde. Zij ontvangen een door het Comité van Ministers vastgestelde vergoeding voor reis- en verblijfkosten. Het statuut, de salariëring, de vergoedingen en, voor zover nodig, de pensioenregeling, alsmede de reis- en verblijfskosten van de griffier, van de substituut-griffiers, van de leden van de aan de griffie verbonden vertaaldienst en van het griffiepersoneel worden op voorstel van de algemene vergadering vastgesteld door het Comité van Ministers. De uit de bepalingen van dit lid voortvloeiende kosten komen ten laste van de in [artikel 13](https://wetten.overheid.nl/BWBV0004117) van het Verdrag bedoelde begroting.
 
 ##### Artikel 4bis
 
@@ -168,6 +127,18 @@ Het Hof geniet rechtspersoonlijkheid. Het Hof wordt door de President vertegenwo
 
 2. Indien, onverminderd het in lid 1 bepaalde, tegen een in dat lid bedoelde persoon een vervolging in rechte wordt ingesteld, kan hij in elk der drie Beneluxlanden slechts worden berecht door de instantie die in dat land bevoegd is tot berechting van een persoon, die overeenkomstig dit Verdrag, een vergelijkbare functie vervult in het land van berechting.
 
+##### Artikel 4quinquies
+
+1. Het Hof bestaat uit:
+
+- a. een Eerste Kamer, waarin de raadsheren en plaatsvervangende raadsheren bedoeld in [artikel 3, lid 1, onder (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben;
+
+- b. een Tweede Kamer, eventueel bestaande uit Afdelingen, waarin de rechters en plaatsvervangende rechters bedoeld in [artikel 3, lid 1, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben;
+
+- c. een Derde Kamer, waarin de raadsheren, plaatsvervangende raadsheren, rechters en plaatsvervangende rechters bedoeld in [artikel 3, lid 1, onder (a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben.
+
+2. Voor zover niet bepaald in de Aanvullende Protocollen bedoeld in [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01), bepaalt het Reglement van Orde de nadere regels van samenstelling van de Kamers.
+
 ##### Artikel 5
 
 1. Aan de zittingen van de Eerste Kamer wordt in beginsel deelgenomen door negen raadsheren, van elk land drie. In gevallen voorzien in het Reglement van Orde kan het Hof echter zitting houden met drie raadsheren, van elk land één, dan wel met vijf raadsheren. In zaken bedoeld in [hoofdstuk III, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III&paragraaf=A&z=2016-12-01&g=2016-12-01), treedt bij voorkeur de advocaat-generaal op die behoort tot het land waar het bodemgeschil aanhangig is.
@@ -178,7 +149,7 @@ Het Hof geniet rechtspersoonlijkheid. Het Hof wordt door de President vertegenwo
 
 2. Voor het overige zal bij Reglement van Orde al hetgeen betreft de samenstelling van het Hof bij zittingen, de onderlinge rangorde der leden, de vakanties, de taken en de werkwijze van de algemene vergadering, het optreden van het Parket, de wijze van stemmen, de inrichting van de rol, de vaststelling der zittingsdagen en de werkzaamheden van de griffie nader worden geregeld.
 
-- a. De leden van het Hof en van het Parket, die in welke instantie ook als lid van een nationaal rechterlijk college hebben medegewerkt aan een uitspraak gegeven in een zaak die voor het Hof wordt gebracht, onttrekken zich aan de behandeling van die zaak of kunnen aan de behandeling van die zaak worden onttrokken. Als zodanig wordt niet beschouwd de uitspraak, waarbij de nationale rechter zich ertoe heeft bepaald de uitspraak op te schorten overeenkomstig het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III&paragraaf=A&artikel=6&z=2016-12-01&g=2016-12-01) van dit Verdrag.
+3. - a. De leden van het Hof en van het Parket, die in welke instantie ook als lid van een nationaal rechterlijk college hebben medegewerkt aan een uitspraak gegeven in een zaak die voor het Hof wordt gebracht, onttrekken zich aan de behandeling van die zaak of kunnen aan de behandeling van die zaak worden onttrokken. Als zodanig wordt niet beschouwd de uitspraak, waarbij de nationale rechter zich ertoe heeft bepaald de uitspraak op te schorten overeenkomstig het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III&paragraaf=A&artikel=6&z=2016-12-01&g=2016-12-01) van dit Verdrag.
 
 - b. De rechters en de leden van het Parket die hebben medegewerkt aan een uitspraak gegeven in een zaak zoals bedoeld in artikel 9bis onttrekken zich aan de behandeling van een zaak zoals bedoeld in artikel 9ter of kunnen aan de behandeling van die zaak worden onttrokken.
 
@@ -186,7 +157,9 @@ Het Hof geniet rechtspersoonlijkheid. Het Hof wordt door de President vertegenwo
 
 5. De advocaten-generaal vervangen elkander, ongeacht het land waartoe zij behoren. Ingeval van ontstentenis van al deze functionarissen wijst het Hof een van zijn leden of plaatsvervangende leden aan om hun werkzaamheden tijdelijk te verrichten.
 
-### HOOFDSTUK III. Rechtspraak
+### HOOFDSTUK III. Bevoegdheid
+
+#### A. Vragen betreffende de uitleg van rechtsregels
 
 ##### Artikel 6
 
@@ -226,7 +199,25 @@ Het Hof kan kennis nemen van een verzoek tot uitleg, zelfs indien de beslissing 
 
 2. Het Hof is niet bevoegd om te beoordelen of de toepassing van enig voorschrift, waarnaar een krachtens [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01) aangewezen rechtsregel verwijst, in strijd is met de openbare orde.
 
-### HOOFDSTUK IV. Adviezen
+#### B. Rechtsprekende bevoegdheid
+
+##### Artikel 9bis
+
+De Tweede Kamer bedoeld in [artikel 4quinquies, lid 1, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01), neemt kennis in volle omvang van zaken die op grond van [artikel 1, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01), daartoe zijn aangewezen.
+
+##### Artikel 9ter
+
+1. Tegen de uitspraken, bedoeld in [artikel 9bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III&paragraaf=B&artikel=9bis&z=2016-12-01&g=2016-12-01), kan een tot rechtsvragen beperkte voorziening worden ingesteld bij de Eerste Kamer bedoeld in [artikel 4quinquies, lid 1, onder (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01).
+
+2. De grenzen van deze voorziening en de gevolgen daarvan worden nader bepaald in het Reglement op de procesvoering.
+
+3. Deze voorziening heeft opschortende werking.
+
+##### Artikel 9quater
+
+De Derde Kamer bedoeld in [artikel 4quinquies, lid 1, onder (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01), neemt kennis van beroepen bedoeld in [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01).
+
+#### C. Adviezen
 
 ##### Artikel 10
 
@@ -238,7 +229,7 @@ Het Hof kan kennis nemen van een verzoek tot uitleg, zelfs indien de beslissing 
 
 4. De Eerste Kamer zal bij de uitoefening van zijn adviserende bevoegdheden de op de rechtspraak betrekking hebbende bepalingen van dit Verdrag zoveel mogelijk tot richtsnoer nemen.
 
-### HOOFDSTUK V. College van Scheidsrechters
+### HOOFDSTUK IV. Rechtspleging en gerechtskosten
 
 ##### Artikel 11
 
@@ -280,8 +271,6 @@ Wanneer de voorziening is ingesteld tegen een beslissing die in een andere taal 
 
 8. Aan de griffie van het Hof is een vertaaldienst verbonden. Deze dienst verstrekt kosteloos alle hierboven bedoelde vertalingen.
 
-### HOOFDSTUK VI. Rechtspleging en gerechtskosten
-
 ##### Artikel 12
 
 1. In zaken waarin het Hof bevoegdheid uitoefent op basis van [artikel 1, lid 2, onder (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01), stelt het de kosten vast welke op de behandeling voor het Hof zijn gevallen. Deze kosten omvatten de honoraria voor de raadslieden van de partijen, voorzover zulks in overeenstemming is met de wetgeving van het land waar het bodemgeschil aanhangig is.
@@ -294,19 +283,19 @@ De instellingen die, op grond van [artikel 11, lid 4bis](https://wetten.overheid
 
 3. De schrifturen welke deel uitmaken van een voor het Hof gevoerde procedure, alsmede de beslissingen of adviezen van het Hof, zijn in de drie landen vrij van alle formaliteiten en rechten van zegel en registratie en van alle andere heffingen.
 
+### HOOFDSTUK V. Financiële bepaling
+
 ##### Artikel 13
 
 De aan de werkzaamheden van het Hof, de griffie en de vertaaldienst verbonden kosten vormen een afzonderlijke post op de begroting van het Secretariaat-Generaal van de Benelux Unie.
 
-### HOOFDSTUK VII. Financiële bepaling
+### HOOFDSTUK VI. Slotbepalingen
 
 ##### Artikel 14
 
 1. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing voor het Europese deel van Nederland.
 
 2. De Regering van het Koninkrijk der Nederlanden kan de toepassing van dit Verdrag uitbreiden tot Aruba, Curaçao, Sint Maarten en het Caribische deel van Nederland bij een daartoe strekkende verklaring, te richten tot het Secretariaat-Generaal van de Benelux Unie.
-
-### HOOFDSTUK VIII. Slotbepalingen
 
 ##### Artikel 15
 
@@ -315,60 +304,6 @@ De aan de werkzaamheden van het Hof, de griffie en de vertaaldienst verbonden ko
 2. Het Verdrag treedt in werking op de eerste dag van de maand, volgende op de datum van neerlegging van de derde akte van bekrachtiging.
 
 3. Het Verdrag blijft even lang van kracht als het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047).
-
-##### Artikel 16
-
-1. Dit Verdrag wordt bekrachtigd en de akten van bekrachtiging worden neergelegd bij het Secretariaat-Generaal van de Benelux Economische Unie.
-
-2. Het Verdrag treedt in werking op de eerste dag van de maand, volgende op de datum van neerlegging van de derde akte van bekrachtiging.
-
-3. Het Verdrag blijft even lang van kracht als het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047).
-
-TEN BLIJKE WAARVAN de gevolmachtigden dit Verdrag hebben ondertekend en voorzien van hun zegel.
-
-GEDAAN te Brussel, op 31 maart 1965, in drievoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
-
-##### Artikel 4quinquies
-
-1. Het Hof bestaat uit:
-
-- a. een Eerste Kamer, waarin de raadsheren en plaatsvervangende raadsheren bedoeld in [artikel 3, lid 1, onder (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben;
-
-- b. een Tweede Kamer, eventueel bestaande uit Afdelingen, waarin de rechters en plaatsvervangende rechters bedoeld in [artikel 3, lid 1, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben;
-
-- c. een Derde Kamer, waarin de raadsheren, plaatsvervangende raadsheren, rechters en plaatsvervangende rechters bedoeld in [artikel 3, lid 1, onder (a) en (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=3&z=2016-12-01&g=2016-12-01), zitting hebben.
-
-2. Voor zover niet bepaald in de Aanvullende Protocollen bedoeld in [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01), bepaalt het Reglement van Orde de nadere regels van samenstelling van de Kamers.
-
-### HOOFDSTUK III. Bevoegdheid
-
-#### A. Vragen betreffende de uitleg van rechtsregels
-
-#### B. Rechtsprekende bevoegdheid
-
-##### Artikel 9bis
-
-De Tweede Kamer bedoeld in [artikel 4quinquies, lid 1, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01), neemt kennis in volle omvang van zaken die op grond van [artikel 1, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01), daartoe zijn aangewezen.
-
-##### Artikel 9ter
-
-1. Tegen de uitspraken, bedoeld in [artikel 9bis](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=III&paragraaf=B&artikel=9bis&z=2016-12-01&g=2016-12-01), kan een tot rechtsvragen beperkte voorziening worden ingesteld bij de Eerste Kamer bedoeld in [artikel 4quinquies, lid 1, onder (a)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01).
-
-2. De grenzen van deze voorziening en de gevolgen daarvan worden nader bepaald in het Reglement op de procesvoering.
-
-3. Deze voorziening heeft opschortende werking.
-
-##### Artikel 9quater
-
-De Derde Kamer bedoeld in [artikel 4quinquies, lid 1, onder (c)](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=II&artikel=4quinquies&z=2016-12-01&g=2016-12-01), neemt kennis van beroepen bedoeld in [artikel 1, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&hoofdstuk=I&artikel=1&z=2016-12-01&g=2016-12-01).
-
-#### C. Adviezen
-
-### HOOFDSTUK IV. Rechtspleging en gerechtskosten
-
-### HOOFDSTUK V. Financiële bepaling
-
-### HOOFDSTUK VI. Slotbepalingen
 
 TEN BLIJKE WAARVAN de gevolmachtigden dit Verdrag hebben ondertekend en voorzien van hun zegel.
 

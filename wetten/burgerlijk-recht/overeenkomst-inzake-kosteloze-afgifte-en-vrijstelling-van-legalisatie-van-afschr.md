@@ -1,118 +1,99 @@
 ---
 title: "Overeenkomst inzake kosteloze afgifte en vrijstelling van legalisatie van afschriften en uittreksels van akten van de burgerlijke stand"
 identifier: "BWBV0004927"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-01-03"
-last_updated: "1960-01-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004927"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004391313"
-version_id: "10004594652"
-internal_id: "C10007193151"
-label_id: "10004376174"
-dtd_version: "2.0"
-original_entry_into_force: "1960-01-03"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004927/1960-01-03/0"
-intitule_bron: "Trb.1958-168"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1958-12-22"
-intitule_in_force: "1960-02-11"
-intitule_status: "goed"
-original_publication: "Trb.1958-168"
-original_published_date: "1958-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1958-168"
-entry_into_force_date: "1960-01-03"
-jci_1_3: "jci1.3:c:BWBV0004927&z=1960-01-03&g=1960-01-03"
-jci_1_0: "1.0:c:BWBV0004927&g=1960-01-03"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-01-03"
+publicatiedatum: 1960-01-03
+laatste_update: 1960-01-03
+status: geldig
+toestand: 1960-01-03
+bron: "https://wetten.overheid.nl/BWBV0004927"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake kosteloze afgifte en vrijstelling van legalisatie van afschriften en uittreksels van akten van de burgerlijke stand
 
-De Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Zwitserse Bondsstaat en de Republiek Turkije, leden van de Internationale Commissie van de Burgerlijke Stand, wensende bepaalde punten met betrekking tot de afgifte en de legalisatie van afschriften en uittreksels van akten van de burgerlijke stand in gemeenschappelijk overleg te regelen, zijn het volgende overeengekomen:
+*Les Gouvernements de la République Fédérale d'Allemagne, du Royaume de Belgique, de la République Française, du Grand-Duché de Luxembourg, du Royaume des Pays-Bas, de la Confédération Suisse et de la République Turque, membres de la Commission Internationale de l'Etat civil, désireux de régler d'un commun accord certaines questions relatives à la délivrance et à la légalisation des expéditions d'actes de l'état civil, sont convenus des dispositions suivantes:*
 
-##### Artikel 1
+##### Article 1er
 
-Onverminderd de toepassing van bilaterale Overeenkomsten, tussen twee bij deze Overeenkomst partij zijnde Staten bestaande of eventueel nog te sluiten, verbindt elke Overeenkomstsluitende Staat zich om kosteloos aan de andere Overeenkomstsluitende Staten letterlijke afschriften of uittreksels af te geven van op zijn grondgebied opgemaakte, op onderdanen van de verzoekende Regering betrekking hebbende akten van de burgerlijke stand, wanneer de aanvraag hiertoe voor administratieve doeleinden of ten behoeve van onvermogenden wordt gedaan.
+Sans préjudice de l'application de conventions bilatérales existantes ou qui viendraient à être conclues entre deux Etats parties à la présente Convention, chaque Etat contractant s'engage à délivrer sans frais aux autres Etats contractants des expéditions littérales ou des extraits des actes de l'état civil dressés sur son territoire et concernant les ressortissants du Gouvernement requérant, lorsque la demande en est faite dans un intérêt administratif ou en faveur d'indigents.
 
-##### Artikel 2
+##### Article 2
 
-De aanvrage wordt gedaan door de diplomatieke vertegenwoordiging of de consuls aan de bevoegde autoriteit, door elke Overeenkomstsluitende Staat in de bij deze Overeenkomst gevoegde Bijlage aangewezen; als reden van aanvraag wordt vermeld „voor administratieve doeleinden” of „onvermogen van de aanvrager”.
+La demande est faite par la mission diplomatique ou les consuls à l'autorité qualifiée désignée par chaque Etat contractant dans l'annexe à la présente Convention; elle spécifie sommairement le motif, „intérêt administratif” ou „indigence du requérant”.
 
-##### Artikel 3
+##### Article 3
 
-Het feit der afgifte van een afschrift van een akte van de burgerlijke stand geeft geen aanwijzing omtrent de nationaliteit van de betrokkene.
+Le fait de la délivrance d'une expédition d'un acte de l'état civil ne préjuge pas la nationalité de l'intéressé.
 
-##### Artikel 4
+##### Article 4
 
-Op het grondgebied van de Overeenkomstsluitende Staten zijn de letterlijke afschriften of de uittreksels van akten van de burgerlijke stand, voorzien van de handtekening en het zegel van de autoriteit die ze heeft afgegeven, vrijgesteld van legalisatie.
+Sont dispensés de légalisation, sur les territoires respectifs des Etats contractants, les expéditions littérales ou les extraits des actes de l'état civil revêtus de la signature et du sceau de l'autorité qui les a délivrés.
 
-##### Artikel 5
+##### Article 5
 
-Onder akten van de burgerlijke stand als bedoeld in de artikelen 1, 3 en 4 worden verstaan:
+Par actes de l'état civil au sens des articles 1, 3 et 4, il faut entendre:
 
-- —. akten van geboorten,
+- — les actes de naissance,
 
-- —. akten van aangifte van een levenloos kind,
+- — les actes de déclaration d'un enfant sans vie,
 
-- —. akten van erkenning van natuurlijke kinderen opgemaakt of overgeschreven door de ambtenaren van de burgerlijke stand,
+- — les actes de reconnaissance des enfants naturels dressés ou transcrits par les officiers de l'état civil,
 
-- —. huwelijksakten,
+- — les actes de mariages,
 
-- —. akten van overlijden,
+- — les actes de décès,
 
-- —. akten van inschrijving of van overschrijving van vonnissen of arresten van echtscheiding,
+- — les actes de divorce ou les transcriptions des jugements ou arrêts de divorce,
 
-- —. akten van inschrijving van beschikkingen of vonnissen of arresten op het gebied van de burgerlijke stand.
+- — les transcriptions des ordonnances ou jugements ou arrêts en matière d'état civil.
 
-##### Artikel 6
+##### Article 6
 
-Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd bij de Zwitserse Bondsraad.
+La présente Convention sera ratifiée et les instruments de ratification seront déposés auprès du Conseil Fédéral Suisse.
 
-Van elke nederlegging van een akte van bekrachtiging zal een proces-verbaal worden opgemaakt, waarvan een gewaarmerkt afschrift langs diplomatieke weg aan ieder der ondertekenende Staten zal worden toegezonden.
+Il sera dressé de tout dépôt d'instrument de ratification un procès-verbal, dont une copie, certifiée conforme, sera remise, par la voie diplomatique, à chacun des Etats signataires.
 
-##### Artikel 7
+##### Article 7
 
-Deze Overeenkomst treedt in werking op de dertigste dag na de datum van nederlegging van de tweede akte van bekrachtiging als bedoeld in het vorige artikel.
+La présente Convention entrera en vigueur le trentième jour suivant la date du dépôt du deuxième instrument de ratification, prévu à l'article précédent.
 
-Voor iedere ondertekenende Staat die de Overeenkomst later bekrachtigt, treedt deze in werking op de dertigste dag na de datum van nederlegging van zijn akte van bekrachtiging.
+Pour chaque Etat signataire, ratifiant postérieurement la Convention, celle-ci entrera en vigueur le trentième jour suivant la date du dépôt de son instrument de ratification.
 
-##### Artikel 8
+##### Article 8
 
-Deze Overeenkomst is van rechtswege van toepassing in het gehele moederland van elke Overeenkomstsluitende Staat.
+La présente Convention s'applique de plein droit sur toute l'étendue du territoire métropolitain de chaque Etat contractant.
 
-Elke Staat kan bij de ondertekening, de bekrachtiging of de toetreding of op ieder ander tijdstip nadien door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving verklaren, dat de bepalingen van deze Overeenkomst van toepassing zullen zijn in een of meer van zijn buiten het moederland gelegen gebieden, van de Staten of van de gebieden, waarvan hij de internationale betrekkingen behartigt. De Zwitserse Bondsraad zendt langs diplomatieke weg een gewaarmerkt afschrift van deze kennisgeving aan ieder van de Overeenkomstsluitende Staten. De bepalingen van deze Overeenkomst worden van toepassing in het gebied of de gebieden, in de kennisgeving aangewezen, op de zestigste dag na de datum waarop de Zwitserse Bondsraad bedoelde kennisgeving heeft ontvangen.
+Tout Etat pourra, lors de la signature, de la ratification ou de l'adhésion, ou à tout autre moment par la suite, déclarer par notification adressée au Conseil Fédéral Suisse que les dispositions de la présente Convention seront applicables à l'un ou plusieurs de ses territoires extra-métropolitains, des Etats ou des territoires dont les relations internationales sont assurées par lui. Le Conseil Fédéral Suisse enverra, par la voie diplomatique, une copie de cette notification certifiée conforme, à chacun des Etats contractants. Les dispositions de la présente Convention deviendront applicables dans le ou les territoires désignés dans la notification le soixantième jour suivant la date à laquelle le Conseil Fédéral Suisse aura reçu ladite notification.
 
-Iedere Staat die een verklaring heeft afgelegd overeenkomstig het bepaalde in lid 2 van dit artikel kan nadien op ieder tijdstip door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving verklaren, dat deze Overeenkomst zal ophouden van toepassing te zijn in een of meer van de Staten of gebieden, welke in de verklaring zijn aangewezen.
+Tout Etat qui a fait une déclaration, conformément aux dispositions de l'alinéa 2 du présent article, pourra, par la suite, déclarer à tout moment, par notification adressée au Conseil Fédéral Suisse, que la présente Convention cessera d'être applicable à l'un ou plusieurs des Etats ou territoires désignés dans la déclaration.
 
-De Zwitserse Bondsraad zendt langs diplomatieke weg een gewaarmerkt afschrift van deze kennisgeving aan ieder van de Overeenkomstsluitende Staten.
+Le Conseil Fédéral Suisse enverra, par la voie diplomatique, une copie certifiée conforme de la nouvelle notification à chacun des Etats contractants.
 
-De Overeenkomst houdt op van toepassing te zijn in het bedoelde gebied op de zestigste dag na de datum waarop de Zwitserse Bondsraad de voornoemde kennisgeving heeft ontvangen.
+La Convention cessera d'être applicable au territoire visé le soixantième jour suivant la date à laquelle le Conseil Fédéral Suisse aura reçu ladite notification.
 
-##### Artikel 9
+##### Article 9
 
-Iedere Staat kan tot deze Overeenkomst toetreden. De Staat die wenst toe te treden, geeft van zijn voornemen kennis door een akte die wordt nedergelegd bij de Zwitserse Bondsraad. Deze doet langs diplomatieke weg een gewaarmerkt afschrift van die akte aan ieder der Overeenkomstsluitende Staten toekomen. Voor de toetredende Staat treedt de Overeenkomst in werking op de dertigste dag na de datum van nederlegging van de akte van toetreding.
+Tout Etat pourra adhérer à la présente Convention. L'Etat désirant adhérer notifiera son intention par un acte qui sera déposé auprès du Conseil Fédéral Suisse. Celui-ci enverra, par la voie diplomatique, une copie certifiée conforme à chacun des Etats contractants. La Convention entrera en vigueur, pour l'Etat adhérant, le trentième jour suivant la date du dépôt de l'acte d'adhésion.
 
-De nederlegging van de akte van toetreding kan niet plaats hebben dan nadat deze Overeenkomst krachtens het eerste lid van artikel 7 in werking is getreden.
+Le dépôt de l'acte d'adhésion ne pourra avoir lieu qu'après l'entrée en vigueur de la présente Convention en vertu de l'article 7, alinéa 1er.
 
-##### Artikel 10
+##### Article 10
 
-Deze Overeenkomst kan worden herzien om er verbeteringen in aan te brengen.
+La présente Convention peut être soumise à des révisions en vue d'y introduire des modifications de nature à la perfectionner.
 
-Het voorstel tot herziening wordt ingediend bij de Zwitserse Bondsraad, die daarvan kennis geeft aan de andere Overeenkomstsluitende Staten, alsmede aan de Secretaris-Generaal van de Internationale Commissie van de Burgerlijke Stand.
+La proposition de révision sera introduite auprès du Conseil Fédéral Suisse qui la notifiera aux divers Etats contractants ainsi qu'au Secrétaire Général de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 11
+##### Article 11
 
-Deze Overeenkomst wordt gesloten voor een periode van tien jaar te rekenen van de in het eerste lid van artikel 7 aangegeven datum.
+La présente Convention aura une durée de dix ans à partir de la date indiquée à l'article 7, alinéa 1er.
 
-De Overeenkomst wordt, behoudens opzegging, stilzwijgend telkens voor tien jaar verlengd.
+La Convention sera renouvelée tacitement de dix ans en dix ans, sauf dénonciation.
 
-De opzegging moet ten minste zes maanden voor het verstrijken van de termijn ter kennis worden gebracht van de Zwitserse Bondsraad, die hiervan aan alle andere Overeenkomstsluitende Staten mededeling zal doen.
+La dénonciation devra, au moins six mois avant l'expiration du terme, être notifiée au Conseil Fédéral Suisse, qui en donnera connaissance à tous les autres Etats contractants.
 
-De opzegging heeft slechts gevolg ten opzichte van de Staat die haar heeft gedaan. De Overeenkomst blijft van kracht voor de andere Overeenkomstsluitende Staten.
+La dénonciation ne produira son effet qu'à l'égard de l'Etat qui l'aura notifiée. La Convention restera en vigueur pour les autres Etats contractants.
 
 En foi de quoi les représentants soussignés, dûment autorisés à cet effet ont signé la présente Convention.
 

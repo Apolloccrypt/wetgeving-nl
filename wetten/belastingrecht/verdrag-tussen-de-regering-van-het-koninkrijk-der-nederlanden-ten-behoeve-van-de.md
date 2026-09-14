@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen"
 identifier: "BWBV0004617"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-08-01"
-last_updated: "2012-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004617"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004227253"
-version_id: "10004408292"
-internal_id: "C10008041681"
-label_id: "10004212214"
-dtd_version: "2.0"
-original_entry_into_force: "2012-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004617/2012-08-01/0"
-intitule_bron: "Trb.2010-255"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-10-07"
-intitule_in_force: "2012-09-13"
-intitule_status: "goed"
-original_publication: "Trb.2010-255"
-original_published_date: "2010-10-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-255"
-entry_into_force_date: "2012-08-01"
-jci_1_3: "jci1.3:c:BWBV0004617&z=2012-08-01&g=2012-08-01"
-jci_1_0: "1.0:c:BWBV0004617&g=2012-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-08-01"
+publicatiedatum: 2012-08-01
+laatste_update: 2012-08-01
+status: geldig
+toestand: 2012-08-01
+bron: "https://wetten.overheid.nl/BWBV0004617"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen
 
-De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen,
-
-en
-
-de Regering van de Franse Republiek („de verdragsluitende partijen”),
-
-Overwegend dat de verdragsluitende partijen de voorwaarden voor de uitwisseling van informatie betreffende belastingen wensen te verbeteren en te vergemakkelijken;
-
-Zijn de verdragsluitende partijen thans overeengekomen het volgende verdrag te sluiten waarin uitsluitend de verplichtingen van de verdragsluitende partijen zijn vervat:
+*De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Franse Republiek („de verdragsluitende partijen”), Overwegend dat de verdragsluitende partijen de voorwaarden voor de uitwisseling van informatie betreffende belastingen wensen te verbeteren en te vergemakkelijken; Zijn de verdragsluitende partijen thans overeengekomen het volgende verdrag te sluiten waarin uitsluitend de verplichtingen van de verdragsluitende partijen zijn vervat:*
 
 ##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
 
@@ -74,9 +47,9 @@ Teneinde de implementatie van de bepalingen van dit Verdrag mogelijk te maken wo
 
 - c. wordt verstaan onder de uitdrukking „bevoegde autoriteit”,
 
-- i. wat Frankrijk betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - i. wat Frankrijk betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- ii. wat de Nederlandse Antillen betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - ii. wat de Nederlandse Antillen betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - d. wordt verstaan onder de uitdrukking „persoon” een natuurlijke persoon, een rechtspersoon of een lichaam of vereniging van dergelijke personen;
 
@@ -112,11 +85,11 @@ Deze informatie wordt uitgewisseld ongeacht of de aangezochte partij de informat
 
 - b.
 
-- i. informatie met betrekking tot de juridische en feitelijke eigendom van lichamen, samenwerkingsverbanden, collectieve beleggingsregelingen en andere personen;
+   - i. informatie met betrekking tot de juridische en feitelijke eigendom van lichamen, samenwerkingsverbanden, collectieve beleggingsregelingen en andere personen;
 
-- ii. in het geval van trusts informatie over instellers, trustees, begunstigden en borgen; en
+   - ii. in het geval van trusts informatie over instellers, trustees, begunstigden en borgen; en
 
-- iii. in het geval van een stichting, informatie over de stichters, leden van de stichting en begunstigden.
+   - iii. in het geval van een stichting, informatie over de stichters, leden van de stichting en begunstigden.
 
 5. De bevoegde autoriteit van de verzoekende partij verstrekt de volgende informatie aan de bevoegde autoriteit van de aangezochte partij:
 
@@ -152,7 +125,7 @@ Deze informatie wordt uitgewisseld ongeacht of de aangezochte partij de informat
 
 ##### Artikel 7. Mogelijkheid een verzoek af te wijzen
 
-1. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan of indien openbaarmaking van de verzochte informatie in strijd zou zijn met de openbare orde (**ordre public**).
+1. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan of indien openbaarmaking van de verzochte informatie in strijd zou zijn met de openbare orde (*ordre public*).
 
 2. De bepalingen van dit Verdrag verplichten een verdragsluitende partij niet informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel, of beroepsgeheim (vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger, indien deze plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies of ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures) of een handelsproces zou onthullen, met dien verstande dat de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004617&artikel=5&z=2012-08-01&g=2012-08-01), omschreven informatie niet uitsluitend op grond van dat feit als geheim of handelsproces wordt behandeld.
 
@@ -210,10 +183,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door de r
 
 GEDAAN in tweevoud te ’s-Gravenhage, op 10 september 2010, in de Nederlandse, de Franse en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen:**
+*Voor de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen:*
 
 E. DE LANNOOY
 
-**Voor de Regering van de Franse Republiek:**
+*Voor de Regering van de Franse Republiek:*
 
 J. F. BLAREL

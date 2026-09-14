@@ -1,109 +1,20 @@
 ---
 title: "Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden"
 identifier: "BWBV0004079"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-03-21"
-last_updated: "2010-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004079"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003902093"
-version_id: "10004011482"
-internal_id: "C10008430311"
-label_id: "10003887374"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004079/2010-03-21/0"
-intitule_bron: "Trb.2004-332"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-12-27"
-intitule_status: "nogniet"
-original_publication: "Trb.2004-332"
-original_published_date: "2004-12-27"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-332"
-jci_1_3: "jci1.3:c:BWBV0004079&z=2010-03-21&g=2010-03-21"
-jci_1_0: "1.0:c:BWBV0004079&g=2010-03-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "2004-12-27"
+laatste_update: 2010-03-21
+status: geldig
+toestand: 2010-03-21
+bron: "https://wetten.overheid.nl/BWBV0004079"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden
 
-De Europese Gemeenschap,
+*De Europese Gemeenschap, Het Koninkrijk België, De Republiek Tsjechië, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, Ierland, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, De Republiek Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, De Republiek Slovenië, De Republiek Slowakije, De Republiek Finland, Het Koninkrijk Zweden, Het verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland enerzijds, en De Zwitserse Bondsstaat, anderzijds, hierna de „overeenkomstsluitende partijen” genoemd, Gelet op de nauwe betrekkingen tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, Geleid door de wens fraude en andere illegale activiteiten die de financiële belangen van de overeenkomstsluitende partijen schaden doeltreffend te bestrijden, Gelet op de noodzaak om de administratieve bijstand op deze gebieden te versterken, Ervan overtuigd dat wederzijdse rechtshulp, met inbegrip van huiszoekingen en inbeslagneming van voorwerpen, moet worden verstrekt – ook voor alle gevallen van smokkel en ontduiking van indirecte belastingen, met name de belasting over de toegevoegde waarde, douanerechten en accijnzen, Erkennende het belang van de bestrijding van het witwassen van geld, Hebben besloten de volgende overeenkomst te sluiten:*
 
-Het Koninkrijk België,
-
-De Republiek Tsjechië,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-De Republiek Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-De Republiek Slovenië,
-
-De Republiek Slowakije,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-enerzijds, en
-
-De Zwitserse Bondsstaat,
-
-anderzijds,
-
-hierna de „overeenkomstsluitende partijen” genoemd,
-
-Gelet op de nauwe betrekkingen tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds,
-
-Geleid door de wens fraude en andere illegale activiteiten die de financiële belangen van de overeenkomstsluitende partijen schaden doeltreffend te bestrijden,
-
-Gelet op de noodzaak om de administratieve bijstand op deze gebieden te versterken,
-
-Ervan overtuigd dat wederzijdse rechtshulp, met inbegrip van huiszoekingen en inbeslagneming van voorwerpen, moet worden verstrekt – ook voor alle gevallen van smokkel en ontduiking van indirecte belastingen, met name de belasting over de toegevoegde waarde, douanerechten en accijnzen,
-
-Erkennende het belang van de bestrijding van het witwassen van geld,
-
-Hebben besloten de volgende overeenkomst te sluiten:
-
-De Overeenkomst wordt voorlopig toegepast in de verhouding met Zwitserland.
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Voorwerp
 
@@ -115,13 +26,13 @@ Voorwerp van deze overeenkomst is de uitbreiding van de administratieve bijstand
 
 - a. het administratief en strafrechtelijk voorkomen, opsporen, onderzoeken, vervolgen en bestraffen van fraude en andere illegale activiteiten die de financiële belangen van de overeenkomstsluitende partijen schaden, met betrekking tot:
 
-- –. goederenhandel die in strijd is met de douane- en landbouwwetgeving;
+   - – goederenhandel die in strijd is met de douane- en landbouwwetgeving;
 
-- –. handel die in strijd is met de belastingwetgeving op het gebied van de belasting over de toegevoegde waarde, bijzondere verbruiksbelastingen en accijnzen;
+   - – handel die in strijd is met de belastingwetgeving op het gebied van de belasting over de toegevoegde waarde, bijzondere verbruiksbelastingen en accijnzen;
 
-- –. het ontvangen of achterhouden van middelen – met inbegrip van het gebruik van deze middelen voor andere doelen dan die waarvoor zij oorspronkelijk zijn toegekend – afkomstig van de begroting van de overeenkomstsluitende partijen of van de door of voor hen beheerde begrotingen, zoals subsidies en restituties;
+   - – het ontvangen of achterhouden van middelen – met inbegrip van het gebruik van deze middelen voor andere doelen dan die waarvoor zij oorspronkelijk zijn toegekend – afkomstig van de begroting van de overeenkomstsluitende partijen of van de door of voor hen beheerde begrotingen, zoals subsidies en restituties;
 
-- –. procedures voor de gunning van opdrachten door de overeenkomstsluitende partijen;
+   - – procedures voor de gunning van opdrachten door de overeenkomstsluitende partijen;
 
 - b. inbeslagneming en terugvordering van verschuldigde of ten onrechte ontvangen bedragen die voortvloeien uit de onder a) vermelde illegale activiteiten.
 
@@ -159,7 +70,7 @@ Deze inlichtingen en bewijzen mogen niet worden meegedeeld aan andere personen d
 
 De verzoekende overeenkomstsluitende partij kan verlangen dat de aangezochte overeenkomstsluitende partij het verzoek en de inhoud ervan vertrouwelijk behandelt, tenzij dit de uitvoering van het verzoek belemmert. Indien de aangezochte overeenkomstsluitende partij niet kan voldoen aan het vereiste van vertrouwelijkheid, stelt zij de autoriteit van de verzoekende overeenkomstsluitende partij daarvan vooraf in kennis.
 
-## TITEL II. ADMINISTRATIEVE BIJSTAND
+### TITEL II. ADMINISTRATIEVE BIJSTAND
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -339,7 +250,7 @@ De marktdeelnemers zijn verplicht mee te werken aan de uitvoering van het verzoe
 
 5. Niettegenstaande het bepaalde in lid 1, behoeft aan de in te vorderen schuldvorderingen geen preferentiële behandeling te worden toegekend ten opzichte van vergelijkbare schuldvorderingen die zijn ontstaan in de aangezochte overeenkomstsluitende partij.
 
-## TITEL III. WEDERZIJDSE RECHTSHULP
+### TITEL III. WEDERZIJDSE RECHTSHULP
 
 ##### Artikel 25. Verband met andere overeenkomsten
 
@@ -475,7 +386,7 @@ Behalve voor doeleinden van de procedure waarvoor rechtshulp werd verleend, kunn
 
 Het verzoek om rechtshulp doet geen afbreuk aan de rechten die voor de verzoekende overeenkomstsluitende partij kunnen voortvloeien uit haar hoedanigheid van burgerlijke partij in interne strafprocedures die bij de autoriteiten van de aangezochte overeenkomstsluitende partij zijn ingeleid.
 
-## TITEL IV. SLOTBEPALINGEN
+### TITEL IV. SLOTBEPALINGEN
 
 ##### Artikel 39. Gemengd comité
 

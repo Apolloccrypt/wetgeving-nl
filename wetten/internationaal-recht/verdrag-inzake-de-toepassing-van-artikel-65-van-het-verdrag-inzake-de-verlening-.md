@@ -1,122 +1,89 @@
 ---
 title: "Verdrag inzake de toepassing van artikel 65 van het Verdrag inzake de verlening van Europese octrooien"
 identifier: "BWBV0004722"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-05-01"
-last_updated: "2008-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004722"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004281173"
-version_id: "10004472872"
-internal_id: "C10006992741"
-label_id: "10004266114"
-dtd_version: "2.0"
-original_entry_into_force: "2008-05-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004722/2008-05-01/0"
-intitule_bron: "Trb.2001-21"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2001-02-06"
-intitule_in_force: "2008-04-14"
-intitule_status: "goed"
-original_publication: "Trb.2001-21"
-original_published_date: "2001-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2001-21"
-entry_into_force_date: "2008-05-01"
-jci_1_3: "jci1.3:c:BWBV0004722&z=2008-05-01&g=2008-05-01"
-jci_1_0: "1.0:c:BWBV0004722&g=2008-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2008-05-01"
+publicatiedatum: 2008-05-01
+laatste_update: 2008-05-01
+status: geldig
+toestand: 2008-05-01
+bron: "https://wetten.overheid.nl/BWBV0004722"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake de toepassing van artikel 65 van het Verdrag inzake de verlening van Europese octrooien
 
-De Staten die Partij zijn bij dit Verdrag,
+*The States parties to this Agreement, In their capacity as Contracting States to the Convention on the Grant of European Patents (European Patent Convention) of 5 October 1973, Reaffirming their desire to strengthen co-operation between the States of Europe in respect of the protection of inventions, Having regard to Article 65 of the European Patent Convention, Recognising the importance of the objective to reduce the costs relating to the translation of European patents, Stressing the need for widespread adherence to that objective, Determined to contribute effectively to such cost reduction, Have agreed on the following provisions:*
 
-In hun hoedanigheid van Verdragsluitende Staten bij het [Verdrag inzake de verlening van Europese octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) (Europees Octrooiverdrag) van 5 oktober 1973,
+##### Article 1. Dispensation with translation requirements
 
-Opnieuw hun wens bevestigend de samenwerking tussen de Europese Staten op het gebied van de bescherming van uitvindingen te bevorderen,
+1. Any State party to this Agreement having an official language in common with one of the official languages of the European Patent Office shall dispense with the translation requirements provided for in [Article 65, paragraph 1 of the European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65).
 
-Gelet op [artikel 65 van het Europees Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65),
+2. Any State party to this Agreement having no official language in common with one of the official languages of the European Patent Office shall dispense with the translation requirements provided for in [Article 65, paragraph 1 of the European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65), if the European patent has been granted in the official language of the European Patent Office prescribed by that State, or translated into that language and supplied under the conditions provided for in Article 65, paragraph 1 of the European Patent Convention.
 
-Erkennend het belang van de doelstelling de kosten van het vertalen van Europese octrooien te verminderen,
+3. The States referred to in paragraph 2 shall continue to have the right to require that a translation of the claims into one of their official languages be supplied under the conditions provided for in [Article 65, paragraph 1 of the European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65).
 
-De noodzaak benadrukkend voor brede instemming met deze doelstelling,
+4. Nothing in this Agreement shall be construed as restricting the right of the States parties to this Agreement to dispense with any translation requirement or to apply more liberal translation requirements than those referred to in paragraphs 2 and 3.
 
-Vastbesloten daadwerkelijk tot die kostenvermindering bij te dragen,
+##### Article 2. Translations in case of dispute
 
-Zijn het volgende overeengekomen:
+Nothing in this Agreement shall be construed as restricting the right of the States parties to this Agreement to prescribe that, in the case of a dispute relating to a European patent, the patent proprietor, at his own expense,
 
-##### Artikel 1. Vrijstelling van vertaalvereisten
+- a) shall supply, at the request of an alleged infringer, a full translation into an official language of the State in which the alleged infringement took place,
 
-1. Elke Staat die Partij is bij dit Verdrag en een officiële taal heeft die tevens een van de officiële talen van het Europees Octrooibureau is, verleent vrijstelling van de vertaalvereisten voorzien in [artikel 65, eerste lid, van het Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65).
+- b) shall supply, at the request of the competent court or quasi judicial authority in the course of legal proceedings, a full translation into an official language of the State concerned.
 
-2. Elke Staat die Partij is bij dit Verdrag en geen officiële taal heeft die tevens een van de officiële talen van het Europees Octrooibureau is, ziet af van de vertaalvereisten voorzien in [artikel 65, eerste lid, van het Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65), indien het Europese octrooi is verleend in de door die Staat voorgeschreven officiële taal van het Europees Octrooibureau, of in die taal is vertaald en verstrekt overeenkomstig de in artikel 65, eerste lid, van het Europese Octrooiverdrag, genoemde voorwaarden.
+##### Article 3. Signature – Ratification
 
-3. De in het tweede lid bedoelde Staten behouden het recht te eisen dat een vertaling van de conclusies in een van hun officiële talen wordt verstrekt overeenkomstig de in [artikel 65, eerste lid, van het Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819&artikel=65) genoemde voorwaarden.
+1. This Agreement shall be open for signature by any Contracting State to the [European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) until 30 June 2001.
 
-4. Niets in dit Verdrag wordt uitgelegd als een beperking van het recht van de Staten die Partij bij dit Verdrag zijn om af te zien van vertaalvereisten of om minder strikte vertaalvereisten toe te passen dan die bedoeld in het tweede en derde lid.
+2. This Agreement shall be subject to ratification. Instruments of ratification shall be deposited with the Government of the Federal Republic of Germany.
 
-##### Artikel 2. Vertaling in geval van geschil
+##### Article 4. Accession
 
-Niets in dit Verdrag wordt uitgelegd als een beperking van het recht van de Staten die Partij zijn bij dit Verdrag om voor te schrijven dat, in geval van een geschil inzake een Europees octrooi, de houder van het octrooi, voor eigen rekening,
+This Agreement shall, on expiry of the term for signature mentioned in [Article 3, paragraph 1](https://wetten.overheid.nl/BWBV0004722), be open to accession by any Contracting State to the [European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) and any State which is entitled to accede to that Convention. Instruments of accession shall be deposited with the Government of the Federal Republic of Germany.
 
-- a. op het verzoek van een vermeende inbreukpleger een volledige vertaling verstrekt in een officiële taal van de Staat waarin de vermeende inbreuk heeft plaatsgevonden,
+##### Article 5. Prohibition of reservations
 
-- b. op het verzoek van de bevoegde rechterlijke instantie of semi-rechterlijke instantie in de loop van rechtsgedingen, een volledige vertaling verstrekt in een officiële taal van de betrokken Staat.
+No State party to this Agreement may make reservations thereto.
 
-##### Artikel 3. Ondertekening – Bekrachtiging
+##### Article 6. Entry into force
 
-1. Dit Verdrag staat open voor ondertekening door elke Verdragsluitende Staat bij het [Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) tot 30 juni 2001.
+1. This Agreement shall enter into force on the first day of the fourth month after the deposit of the last instrument of ratification or accession by eight Contracting States to the [European Patent Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003819), including the three States in which the most European patents took effect in 1999.
 
-2. Dit Verdrag dient te worden bekrachtigd. Akten van bekrachtiging dienen te worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland.
+2. Any ratification or accession after the entry into force of this Agreement shall take effect on the first day of the fourth month after the deposit of the instrument of ratification or accession.
 
-##### Artikel 4. Toetreding
+##### Article 7. Duration of the Agreement
 
-Dit Verdrag staat, na het verstrijken van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=3&z=2008-05-01&g=2008-05-01), genoemde termijn voor ondertekening, open voor toetreding door elke Verdragsluitende Staat bij het [Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819) en elke Staat die gerechtigd is toe te treden tot dat Verdrag. Akten van toetreding worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland.
+This Agreement shall be concluded for an unlimited duration.
 
-##### Artikel 5. Verbod van voorbehouden
+##### Article 8. Denunciation
 
-Geen Staat die Partij is bij dit Verdrag kan hierbij voorbehouden maken.
+Any State party to this Agreement may denounce it at any time, once it has been in force for three years. Notification of denunciation shall be given to the Government of the Federal Republic of Germany. The denunciation shall take effect one year after the date of receipt of such notification. No rights acquired pursuant to this Agreement before the denunciation took effect shall thereby be impaired.
 
-##### Artikel 6. Inwerkingtreding
+##### Article 9. Scope
 
-1. Dit Verdrag treedt in werking op de eerste dag van de vierde maand na de nederlegging van de laatste akte van bekrachtiging of toetreding door acht Verdragsluitende Staten bij het [Europese Octrooiverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003819), met inbegrip van de drie Staten waarin in 1999 de meeste Europese octrooien van kracht zijn geworden.
+This Agreement shall apply to European patents in respect of which the mention of grant was published in the European Patent Bulletin after the Agreement entered into force for the State concerned.
 
-2. Elke bekrachtiging of toetreding na de inwerkingtreding van dit Verdrag wordt van kracht op de eerste dag van de vierde maand na de nederlegging van de akte van bekrachtiging of toetreding.
+##### Article 10. Languages of the Agreement
 
-##### Artikel 7. Duur van het Verdrag
+This Agreement, drawn up in a single original in the English, French and German languages shall be deposited with the Government of the Federal Republic of Germany, the three texts being equally authentic.
 
-Dit Verdrag wordt voor onbeperkte tijd gesloten.
+##### Article 11. Transmissions and notifications
 
-##### Artikel 8. Opzegging
+1. The Government of the Federal Republic of Germany shall draw up certified true copies of this Agreement and shall transmit them to the Governments of all signatory or acceding States.
 
-Elke Staat die Partij is bij dit Verdrag kan haar te allen tijde opzeggen, zodra zij gedurende drie jaar van kracht is geweest. De opzegging wordt medegedeeld aan de Regering van de Bondsrepubliek Duitsland. De opzegging wordt van kracht een jaar na de ontvangst van deze mededeling. Krachtens dit Verdrag voorafgaand aan de opzegging verworven rechten blijven onverlet.
+2. The Government of the Federal Republic of Germany shall notify to the Governments of the States referred to in paragraph 1:
 
-##### Artikel 9. Toepassingsgebied
+- a) any signature;
 
-Dit Verdrag is van toepassing op Europese octrooien ten aanzien waarvan de vermelding van de verlening openbaar is gemaakt in het Europees Octrooiblad nadat het Verdrag voor de betrokken Staat in werking is getreden.
+- b) the deposit of any instrument of ratification or accession;
 
-##### Artikel 10. Talen van het Verdrag
+- c) the date of entry into force of this Agreement;
 
-Dit Verdrag wordt opgesteld in één exemplaar in de Duitse, de Engelse en de Franse taal, dat wordt nedergelegd bij de Regering van de Bondsrepubliek Duitsland, zijnde de drie teksten gelijkelijk authentiek.
+- d) any denunciation received pursuant to [Article 8](https://wetten.overheid.nl/BWBV0004722) and the date on which it will take effect.
 
-##### Artikel 11. Toezendingen en mededelingen
-
-1. De Regering van de Bondsrepubliek Duitsland vervaardigt van dit Verdrag voor eensluidend gewaarmerkte afschriften en zendt deze toe aan de Regeringen van alle Staten die haar hebben ondertekend of hiertoe zijn toegetreden.
-
-2. De Regering van de Bondsrepubliek Duitsland doet aan de Regeringen van de in het eerste lid bedoelde Staten mededeling van:
-
-- a. elke ondertekening;
-
-- b. de nederlegging van elke akte van bekrachtiging of toetreding;
-
-- c. de datum van inwerkingtreding van dit Verdrag;
-
-- d. elke ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004722&artikel=8&z=2008-05-01&g=2008-05-01) ontvangen opzegging en de datum waarop deze van kracht wordt.
-
-De Regering van de Bondsrepubliek Duitsland laat dit Verdrag registeren bij het Secretariaat van de Verenigde Naties.
+3. The Government of the Federal Republic of Germany shall register this Agreement with the Secretariat of the United Nations.
 
 IN WITNESS WHEREOF, the Plenipotentiaries authorised thereto, having presented their Full Powers, found to be in good and due form, have signed this Agreement.
 

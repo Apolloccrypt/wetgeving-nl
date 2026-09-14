@@ -1,35 +1,24 @@
 ---
 title: "Protocol inzake het voorleggen aan het Internationale Gerechtshof van geschillen tussen de partijen betreffende de afbakening van het continentaal plat in de Noordzee"
 identifier: "BWBV0004715"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-02-02"
-last_updated: "1967-02-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004715"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004278953"
-version_id: "10004467682"
-internal_id: "C10006986021"
-label_id: "10004263784"
-dtd_version: "2.0"
-original_entry_into_force: "1967-02-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004715/1967-02-02/0"
-intitule_bron: "Trb.1967-42"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-04-11"
-intitule_in_force: "1967-04-11"
-intitule_status: "goed"
-original_publication: "Trb.1967-42"
-original_published_date: "1967-04-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-42"
-entry_into_force_date: "1967-02-02"
-jci_1_3: "jci1.3:c:BWBV0004715&z=1967-02-02&g=1967-02-02"
-jci_1_0: "1.0:c:BWBV0004715&g=1967-02-02"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-02-02"
+publicatiedatum: 1967-02-02
+laatste_update: 1967-02-02
+status: geldig
+toestand: 1967-02-02
+bron: "https://wetten.overheid.nl/BWBV0004715"
+opgehaald: 2026-09-14
 ---
+
 # Protocol inzake het voorleggen aan het Internationale Gerechtshof van geschillen tussen de partijen betreffende de afbakening van het continentaal plat in de Noordzee
+
+At the signature of the Special Agreement of to-day's date between the Government of the Federal Republic of Germany and the Government of the Kingdom of Denmark and the Kingdom of the Netherlands respectively, on the submission to the International Court of Justice of the differences between the parties concerning the delimitation of the continental shelf in the North Sea, the three Governments wish to state their agreement on the following:
+
+- (1) The Government of the Kingdom of the Netherlands will, within a month from the signature, notify the two Special Agreements together with the present Protocol to the International Court of Justice in accordance with article 40, paragraph 1 of the Statute of the Court.
+
+- (2) After the notification in accordance with item (1) above the parties will ask the Court to join the two cases.
+
+- (3) The three Governments agree that for the purpose of appointing a judge ad hoc, the Governments of the Kingdom of Denmark and the Kingdom of the Netherlands shall be considered parties in the same interest within the meaning of article 31, paragraph 5 of the Statute of the Court.
 
 DONE at Bonn on 2 February 1967 in four copies in the English language.

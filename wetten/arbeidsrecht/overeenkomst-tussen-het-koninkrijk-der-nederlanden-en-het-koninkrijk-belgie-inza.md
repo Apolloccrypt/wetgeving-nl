@@ -1,58 +1,31 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake sociale zekerheid van hun onderdanen die overzee arbeid hebben verricht"
 identifier: "BWBV0004431"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-07-07"
-last_updated: "1982-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004431"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004122513"
-version_id: "10004291242"
-internal_id: "C10006915301"
-label_id: "10004107514"
-dtd_version: "2.0"
-original_entry_into_force: "1969-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004431/1982-07-07/0"
-intitule_bron: "Trb.1969-17"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-02-21"
-intitule_in_force: "1969-07-09"
-intitule_status: "goed"
-original_publication: "Trb.1969-17"
-original_published_date: "1969-02-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-17"
-entry_into_force_date: "1969-06-27"
-jci_1_3: "jci1.3:c:BWBV0004431&z=1982-07-07&g=1982-07-07"
-jci_1_0: "1.0:c:BWBV0004431&g=1982-07-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1969-06-27"
+publicatiedatum: 1969-06-27
+laatste_update: 1982-07-07
+status: geldig
+toestand: 1982-07-07
+bron: "https://wetten.overheid.nl/BWBV0004431"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake sociale zekerheid van hun onderdanen die overzee arbeid hebben verricht
 
-Het Koninkrijk der Nederlanden
-
-en
-
-het Koninkrijk België,
-
-Bezield door de wens om de personen van Nederlandse nationaliteit die als werknemer op het grondgebied van Belgisch-Congo of Ruanda-Urundi werkzaam geweest zijn in het genot te stellen van zekere prestaties, welke de Belgische wet van 16 juni 1960 (Belgisch Staatsblad van 30 juni 1960, no. 156) afhankelijk stelt van het sluiten van een wederkerigheidsovereenkomst,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en het Koninkrijk België, Bezield door de wens om de personen van Nederlandse nationaliteit die als werknemer op het grondgebied van Belgisch-Congo of Ruanda-Urundi werkzaam geweest zijn in het genot te stellen van zekere prestaties, welke de Belgische wet van 16 juni 1960 (Belgisch Staatsblad van 30 juni 1960, no. 156) afhankelijk stelt van het sluiten van een wederkerigheidsovereenkomst, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-De personen van Nederlandse nationaliteit, die aan de verzekeringen, ingesteld bij de Belgische wet van 17 juli 1963 betreffende de overzeese sociale zekerheid, (Belgisch Staatsblad van 8 januari 1964, no. 6) hebben deelgenomen, alsmede hun nagelaten betrekkingen van Nederlandse nationaliteit, genieten de in hoofdstuk VI van de wet voorziene aanpassing van de uitkeringen aan de ontwikkeling van de kosten van levensonderhoud, op voorwaarde, dat de verzekerde gedurende alle tijdvakken van deelneming aan de verzekering bijdragen heeft gestort, die een bestemming overeenkomstig artikel 17 of artikel 18 onder **a** van de wet ontvingen.
+De personen van Nederlandse nationaliteit, die aan de verzekeringen, ingesteld bij de Belgische wet van 17 juli 1963 betreffende de overzeese sociale zekerheid, (Belgisch Staatsblad van 8 januari 1964, no. 6) hebben deelgenomen, alsmede hun nagelaten betrekkingen van Nederlandse nationaliteit, genieten de in hoofdstuk VI van de wet voorziene aanpassing van de uitkeringen aan de ontwikkeling van de kosten van levensonderhoud, op voorwaarde, dat de verzekerde gedurende alle tijdvakken van deelneming aan de verzekering bijdragen heeft gestort, die een bestemming overeenkomstig artikel 17 of artikel 18 onder *a* van de wet ontvingen.
 
 ##### Artikel 3
 
-1. De personen van Nederlandse nationaliteit, die bijdragen hebben gestort die een bestemming overeenkomstig artikel 18, onder **b** van de Belgische wet van 17 juli 1963 ontvingen, kunnen teneinde in het genot van de voordelen, bedoeld in artikel 2 van deze Overeenkomst, te komen, hun rekening over de tijdvakken, liggende vóór 1 juli 1969, bijpassen door het storten van aanvullende bijdragen tot het Solidariteits- en perequatiefonds.
+1. De personen van Nederlandse nationaliteit, die bijdragen hebben gestort die een bestemming overeenkomstig artikel 18, onder *b* van de Belgische wet van 17 juli 1963 ontvingen, kunnen teneinde in het genot van de voordelen, bedoeld in artikel 2 van deze Overeenkomst, te komen, hun rekening over de tijdvakken, liggende vóór 1 juli 1969, bijpassen door het storten van aanvullende bijdragen tot het Solidariteits- en perequatiefonds.
 
 2. De nagelaten betrekkingen van Nederlandse nationaliteit van de hiervoren aangewezen personen, die vóór 1 juli 1969 overleden zijn, kunnen eveneens de in het eerste lid bedoelde stortingen verrichten.
 
@@ -62,9 +35,9 @@ De personen van Nederlandse nationaliteit, die aan de verzekeringen, ingesteld b
 
 1. Wanneer een persoon van Belgische nationaliteit arbeid in loondienst heeft verricht in het voormalige Nederlandsch-Indië, vóór 21 september 1962 in westelijk Nieuw-Guinea, dan wel vóór 29 december 1954 in Suriname of de Nederlandse Antillen, geniet hij, alsmede zijn nagelaten betrekkingen, ongeacht de verblijfplaats, ten laste van de bevoegde Nederlandse organen:
 
-- a). in de leeftijd van 65 jaar af een ouderdomspensioen, bedragende 2% van het volle ouderdomspensioen, voorzien in de Nederlandse wet van 31 mei 1956 inzake een algemene ouderdomsverzekering, (Staatsblad van het Koninkrijk der Nederlanden, nr. 281) per jaar tewerkstelling in de genoemde gebieden, vakanties inbegrepen;
+- a) in de leeftijd van 65 jaar af een ouderdomspensioen, bedragende 2% van het volle ouderdomspensioen, voorzien in de Nederlandse wet van 31 mei 1956 inzake een algemene ouderdomsverzekering, (Staatsblad van het Koninkrijk der Nederlanden, nr. 281) per jaar tewerkstelling in de genoemde gebieden, vakanties inbegrepen;
 
-- b). de uitkeringen, voorzien in de Nederlandse wet van 9 april 1959 inzake een algemene weduwen- en wezenverzekering (Staatsblad van het Koninkrijk der Nederlanden, nr. 139), wanneer de werknemer overleden is gedurende een tijdvak van tewerkstelling in die gebieden, gedurende een tijdvak van een daarmede in verband staande vakantie of na afloop van deze tijdvakken, doch in dit geval ten belope van **2%** van die uitkeringen per jaar tewerkstelling in de genoemde gebieden, vakantie inbegrepen.
+- b) de uitkeringen, voorzien in de Nederlandse wet van 9 april 1959 inzake een algemene weduwen- en wezenverzekering (Staatsblad van het Koninkrijk der Nederlanden, nr. 139), wanneer de werknemer overleden is gedurende een tijdvak van tewerkstelling in die gebieden, gedurende een tijdvak van een daarmede in verband staande vakantie of na afloop van deze tijdvakken, doch in dit geval ten belope van *2%* van die uitkeringen per jaar tewerkstelling in de genoemde gebieden, vakantie inbegrepen.
 
 2. De in dit artikel voorziene uitkeringen worden slechts uitbetaald, indien en voor zover zij meer bedragen dan hetgeen door of vanwege de onderneming die de werknemers in de in het eerste lid van dit artikel bedoelde gebieden tewerkgesteld heeft, als pensioen is toegezegd terzake van de in deze gebieden verrichte arbeid.
 
@@ -112,14 +85,14 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd door hun re
 
 GEDAAN te 's-Gravenhage, de 4de februari 1969 in tweevoud, in de Nederlandse en in de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
-**Pour le Royaume des Pays-Bas,**
+*Pour le Royaume des Pays-Bas,*
 
 (w.g.) J. LUNS
 
-**Voor het Koninkrijk België,**
+*Voor het Koninkrijk België,*
 
-**Pour le Royaume de Belgique,**
+*Pour le Royaume de Belgique,*
 
 (w.g.) PIERRE HARMEL

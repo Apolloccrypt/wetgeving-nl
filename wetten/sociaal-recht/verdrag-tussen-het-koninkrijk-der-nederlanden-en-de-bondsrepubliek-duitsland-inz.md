@@ -1,38 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de regeling van financiële vraagstukken en inzake uitkeringen ten gunste van Nederlandse slachtoffers van de nationaal-socialistische vervolging (Financieel Verdrag)"
 identifier: "BWBV0004815"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-08-01"
-last_updated: "1963-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004815"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004336353"
-version_id: "10004536812"
-internal_id: "C10006754571"
-label_id: "10004321834"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004815/1963-08-01/0"
-intitule_bron: "Trb.1960-70"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-07-18"
-intitule_in_force: "1963-07-31"
-intitule_status: "goed"
-original_publication: "Trb.1960-70"
-original_published_date: "1960-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-70"
-entry_into_force_date: "1963-08-01"
-jci_1_3: "jci1.3:c:BWBV0004815&z=1963-08-01&g=1963-08-01"
-jci_1_0: "1.0:c:BWBV0004815&g=1963-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-01"
+publicatiedatum: 1963-08-01
+laatste_update: 1963-08-01
+status: geldig
+toestand: 1963-08-01
+bron: "https://wetten.overheid.nl/BWBV0004815"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de regeling van financiële vraagstukken en inzake uitkeringen ten gunste van Nederlandse slachtoffers van de nationaal-socialistische vervolging (Financieel Verdrag)
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:*
 
 ##### Artikel 1
 
@@ -46,27 +27,27 @@ De in artikel 1 genoemde betaling vindt plaats met het oog op:
 
 - 1.
 
-- a). de nog resterende Nederlandse vorderingen uit hoofde van de bij notawisseling van 19 mei 1952 te 's-Gravenhage tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland gesloten overeenkomst inzake de restitutie van Duitse in Rijksmark luidende effecten;
+   - a) de nog resterende Nederlandse vorderingen uit hoofde van de bij notawisseling van 19 mei 1952 te 's-Gravenhage tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland gesloten overeenkomst inzake de restitutie van Duitse in Rijksmark luidende effecten;
 
-- b). de uitgaven welke Nederlandse publiekrechtelijke lichamen en de N.V. Nederlandsche Spoorwegen tot en met 31 maart 1960 hebben gedaan in de in artikel 4 van het heden ondertekende Grensverdrag aangegeven gebieden;
+   - b) de uitgaven welke Nederlandse publiekrechtelijke lichamen en de N.V. Nederlandsche Spoorwegen tot en met 31 maart 1960 hebben gedaan in de in artikel 4 van het heden ondertekende Grensverdrag aangegeven gebieden;
 
-- c). de bijdrage van de Bondsrepubliek Duitsland in de kosten van de voorgenomen normalisering van de Westerwoldsche Aa (§ 47 van Bijlage A bij het Grensverdrag);
+   - c) de bijdrage van de Bondsrepubliek Duitsland in de kosten van de voorgenomen normalisering van de Westerwoldsche Aa (§ 47 van Bijlage A bij het Grensverdrag);
 
 - 2. de vorderingen, naar voren gebracht ten behoeve van Nederlanders die om redenen van ras, geloof of wereldbeschouwing getroffen zijn door nationaal-socialistische vervolgingsmaatregelen;
 
 - 3. alle tijdens de heden afgesloten onderhandelingen door de Regering van het Koninkrijk der Nederlanden geldend gemaakte aanspraken inzake:
 
-- a). alle door Duitse instellingen uitgegeven effecten (met inbegrip van hiervoor uitgegeven certificaten) die tijdens de tweede wereldoorlog uit Nederland zijn weggevoerd en ten aanzien waarvan niet reeds een regeling is getroffen bij de Nederlands-Duitse notawisseling van 19 mei 1952, voor zover de uitgevende instellingen gevestigd zijn in het gebied van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn, of voor zover deze effecten onderworpen zijn aan de in dit gebied voorgeschreven „Wertpapierbereinigung”.
+   - a) alle door Duitse instellingen uitgegeven effecten (met inbegrip van hiervoor uitgegeven certificaten) die tijdens de tweede wereldoorlog uit Nederland zijn weggevoerd en ten aanzien waarvan niet reeds een regeling is getroffen bij de Nederlands-Duitse notawisseling van 19 mei 1952, voor zover de uitgevende instellingen gevestigd zijn in het gebied van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn, of voor zover deze effecten onderworpen zijn aan de in dit gebied voorgeschreven „Wertpapierbereinigung”.
 
-- b). kredieten welke verband houden met het op 11 mei 1920 te 's-Gravenhage ondertekende Verdrag tussen de Nederlandse en de Duitse Regering inzake krediet en steenkolen (Tredefina-Verdrag);
+   - b) kredieten welke verband houden met het op 11 mei 1920 te 's-Gravenhage ondertekende Verdrag tussen de Nederlandse en de Duitse Regering inzake krediet en steenkolen (Tredefina-Verdrag);
 
-- c). tegoeden welke op 8 mei 1945 bij Duitse kredietinstellingen werden aangehouden ten name van voormalige nationaalsocialistische organisaties in Nederland;
+   - c) tegoeden welke op 8 mei 1945 bij Duitse kredietinstellingen werden aangehouden ten name van voormalige nationaalsocialistische organisaties in Nederland;
 
-- d). de kredieten aan ondernemingen van de Duitse celwolindustrie, waarvoor de Reichskreditgesellschaft zich als borg heeft verbonden;
+   - d) de kredieten aan ondernemingen van de Duitse celwolindustrie, waarvoor de Reichskreditgesellschaft zich als borg heeft verbonden;
 
-- e). tegoeden en gelden welke tijdens de tweede wereldoorlog door in Nederland aangestelde „Verwalter” naar Duitsland zijn overgemaakt of weggevoerd;
+   - e) tegoeden en gelden welke tijdens de tweede wereldoorlog door in Nederland aangestelde „Verwalter” naar Duitsland zijn overgemaakt of weggevoerd;
 
-- f). de op 14 december 1950 te Niederbreisig ondertekende Nederlands-Duitse overeenkomst tot regeling van de met de restitutie van binnenschepen verband houdende vraagstukken.
+   - f) de op 14 december 1950 te Niederbreisig ondertekende Nederlands-Duitse overeenkomst tot regeling van de met de restitutie van binnenschepen verband houdende vraagstukken.
 
 ##### Artikel 3
 
@@ -132,13 +113,13 @@ Voor zover vroegere Duitse rechthebbenden of personen die naar Duits recht in hu
 
 1. Het Koninkrijk der Nederlanden zal pensioenen en soortgelijke uitkeringen die voortvloeien uit een arbeidsovereenkomst met een Nederlandse natuurlijke of rechtspersoon en die krachtens het Besluit Vijandelijk Vermogen in de beschikkingsmacht van het Koninkrijk der Nederlanden zijn overgegaan, op zijn verzoek ter beschikking stellen aan de vroegere rechthebbende, voor zover hij naar het recht van de Bondsrepubliek Duitsland de Duitse nationaliteit bezit en deze pensioenen en uitkeringen niet reeds vroeger ter beschikking zijn gesteld. Dit geldt eveneens voor uitkeringen die voortvloeien uit een verzekeringsovereenkomst gesloten in verband met een zodanige arbeidsovereenkomst of in verband met de uitoefening van een beroep in het Koninkrijk der Nederlanden of in de vroegere delen van het Koninkrijk door een persoon die de Duitse nationaliteit bezit. De vorenbedoelde pensioenen en uitkeringen worden ter beschikking gesteld met inachtneming van de volgende bepalingen:
 
-- a). personen die op 1 februari 1946 hun gewone verblijfplaats hadden binnen het tegenwoordige gebied van het Koninkrijk der Nederlanden of van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn, ontvangen de sedert 1 februari 1946 vervallen en in de toekomst vervallende bedragen;
+- a) personen die op 1 februari 1946 hun gewone verblijfplaats hadden binnen het tegenwoordige gebied van het Koninkrijk der Nederlanden of van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn, ontvangen de sedert 1 februari 1946 vervallen en in de toekomst vervallende bedragen;
 
-- b). personen die op 1 november 1952 hun gewone verblijfplaats hadden buiten het Duitse Rijk naar de toestand van 31 december 1937 en buiten het Koninkrijk der Nederlanden, ontvangen de sedert 1 november 1952 vervallen en in de toekomst vervallende bedragen;
+- b) personen die op 1 november 1952 hun gewone verblijfplaats hadden buiten het Duitse Rijk naar de toestand van 31 december 1937 en buiten het Koninkrijk der Nederlanden, ontvangen de sedert 1 november 1952 vervallen en in de toekomst vervallende bedragen;
 
-- c). personen die zich na 1 februari 1946 binnen het tegenwoordige gebied van het Koninkrijk der Nederlanden of van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn hebben gevestigd of zullen vestigen, of zich na 1 november 1952 buiten het Duitse Rijk naar de toestand van 31 december 1937 en buiten het Koninkrijk der Nederlanden hebben gevestigd of zullen vestigen, ontvangen de sedert de datum van hun vestiging vervallen en in de toekomst vervallende bedragen;
+- c) personen die zich na 1 februari 1946 binnen het tegenwoordige gebied van het Koninkrijk der Nederlanden of van de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn hebben gevestigd of zullen vestigen, of zich na 1 november 1952 buiten het Duitse Rijk naar de toestand van 31 december 1937 en buiten het Koninkrijk der Nederlanden hebben gevestigd of zullen vestigen, ontvangen de sedert de datum van hun vestiging vervallen en in de toekomst vervallende bedragen;
 
-- d). op personen die onder verschillende van de hierboven vermelde bepalingen vallen, is de voor hen gunstigste bepaling van toepassing.
+- d) op personen die onder verschillende van de hierboven vermelde bepalingen vallen, is de voor hen gunstigste bepaling van toepassing.
 
 2. Bij kapitaalverzekeringen wordt de aanspraak of het door het Nederlandse Beheersinstituut geïnde bedrag aan de vroegere rechthebbende ter beschikking gesteld. Indien het verzekerde bedrag vervallen is vóór de volgens lid 1 beslissende peildata, wordt het uit te betalen bedrag verminderd met 4% per jaar, gerekend van de vervaldatum tot de peildatum.
 
@@ -156,7 +137,7 @@ Het Koninkrijk der Nederlanden zal, op de voet van hoofdstuk 3 van het bij dit V
 
 ##### Artikel 15
 
-1. Door de in artikel 1 vermelde betaling zijn alle in artikel 2 genoemde Nederlandse vorderingen en aanspraken definitief geregeld. Het Koninkrijk der Nederlanden zal, voor zover in artikel 18 van het Slotprotocol niet anders is bepaald, de Bondsrepubliek Duitsland alsmede Duitse natuurlijke en rechtspersonen vrijwaren indien deze door derden uit hoofde van deze vorderingen en aanspraken mochten worden aangesproken. Aanspraken van Nederlandse natuurlijke en rechtspersonen op grond van de Duitse wetten inzake het herstel van nationaal-socialistisch onrecht blijven onaangetast, voor zover zij geen betrekking hebben op de in artikel 2 onder 1**a** en 3**a** genoemde effecten.
+1. Door de in artikel 1 vermelde betaling zijn alle in artikel 2 genoemde Nederlandse vorderingen en aanspraken definitief geregeld. Het Koninkrijk der Nederlanden zal, voor zover in artikel 18 van het Slotprotocol niet anders is bepaald, de Bondsrepubliek Duitsland alsmede Duitse natuurlijke en rechtspersonen vrijwaren indien deze door derden uit hoofde van deze vorderingen en aanspraken mochten worden aangesproken. Aanspraken van Nederlandse natuurlijke en rechtspersonen op grond van de Duitse wetten inzake het herstel van nationaal-socialistisch onrecht blijven onaangetast, voor zover zij geen betrekking hebben op de in artikel 2 onder 1*a* en 3*a* genoemde effecten.
 
 2. Het Koninkrijk der Nederlanden zal in de toekomst de Bondsrepubliek Duitsland niet benaderen met het verzoek tot regeling van soortgelijke vorderingen of aanspraken, alsmede van vorderingen of aanspraken die voortvloeien uit de oorlog en de bezetting van Nederland. Aanspraken van Nederlandse natuurlijke en rechtspersonen op grond van de Duitse wetten inzake de regeling van de gevolgen van de oorlog blijven onverminderd bestaan.
 
@@ -171,120 +152,6 @@ Het Koninkrijk der Nederlanden zal, op de voet van hoofdstuk 3 van het bij dit V
 1. Wat het Koninkrijk der Nederlanden betreft, geldt dit Verdrag voor Nederland, Suriname en de Nederlandse Antillen alsmede voor Nederlands Nieuw-Guinea. De toepassing op Suriname en de Nederlandse Antillen is echter afhankelijk van de goedkeuring door de Regeringen van die landen. Deze goedkeuring zal geacht worden te zijn verleend indien de Regering van het Koninkrijk niet binnen drie maanden na de inwerkingtreding van dit Verdrag de Regering van de Bondsrepubliek Duitsland mededeling doet van het tegendeel.
 
 2. De verplichtingen welke krachtens de artikelen 5 tot en met 13 van dit Verdrag en krachtens hoofdstuk 2 van het Slotprotocol op het Koninkrijk der Nederlanden rusten, hebben alleen betrekking op die vermogensbestanddelen welke zich bevinden in de delen van het Koninkrijk waarop dit Verdrag van toepassing is.
-
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de regeling van financiële vraagstukken en inzake uitkeringen ten gunste van Nederlandse slachtoffers van de nationaal-socialistische vervolging zijn de gevolmachtigden van beide Partijen over de volgende bepalingen tot overeenstemming gekomen en hebben de volgende verklaringen afgelegd:
-
-### HOOFDSTUK 1. (bij de artikelen 1 tot en met 3 van het Verdrag)
-
-##### Artikel 1
-
-Het Koninkrijk der Nederlanden staat na de inwerkingtreding van dit Verdrag aan de Bondsrepubliek Duitsland of aan de door de Bondsregering aan te wijzen instanties alle eventueel aan het Koninkrijk der Nederlanden toekomende vorderingen en aanspraken af, voor zover deze betrekking hebben op:
-
-- 1. de Nederlandse kredieten aan ondernemingen van de Duitse celwolindustrie, waarvoor de „Reichskreditgesellschaft” zich als borg heeft verbonden (artikel 2 sub 3**d** van het Verdrag);
-
-- 2. door de Regering van het Koninkrijk der Nederlanden aan de Bondsregering ter kennis gebrachte vorderingen uit hoofde van liggelden en bewakingskosten voor Duitse binnenschepen en verdere daarmede verband houdende vorderingen overeenkomstig punt 6, derde volzin, van bijlage 1 bij de Nederlands-Duitse overeenkomst van 14 december 1950 tot regeling van de met de restitutie van binnenschepen verband houdende vraagstukken (artikel 2 sub 3**f** van het Verdrag).
-
-##### Artikel 2
-
-Het Koninkrijk der Nederlanden staat aan de Bondsrepubliek Duitsland of aan de door de Bondsregering aan te wijzen instanties alle aanspraken af die het Koninkrijk toekomen uit hoofde van nog uitstaande kredieten voor de woningbouw, kredieten aan kleine zelfstandigen, alsmede kredieten ter vergoeding van oorlogsschade in de in artikel 4 van het heden ondertekende Grensverdrag aangegeven gebieden (artikel 2 sub 1**b** en artikel 3 van het Verdrag).
-
-##### Artikel 3
-
-De Regering van het Koninkrijk der Nederlanden zal ervoor zorgdragen dat de voor de uitvoering van de bovenbedoelde cessies nodige verklaringen worden afgegeven en dat de vereiste bescheiden, voorzover aanwezig, ter beschikking worden gesteld.
-
-##### Artikel 4
-
-Het Koninkrijk der Nederlanden erkent, dat rechten uit hoofde van nominaal RM 1.500.000 „Reichsschatzanweisungen”, welke voortvloeien uit de opbrengst van in Rijksmark luidende effecten die tijdens de oorlog uit Nederland naar Duitsland zijn weggevoerd en door de „Deutsche Revisions- und Treuhand AG.” bij de „Reichskreditgesellschaft AG.” zijn gedeponeerd, de Bondsrepubliek Duitsland toekomen.
-
-### HOOFDSTUK 2. (bij de artikelen 4 tot en met 13 van het Verdrag)
-
-##### Artikel 5
-
-De Regering van het Koninkrijk der Nederlanden zal ernaar streven, bij de in artikel 4 van het Verdrag overeengekomen eigendomsoverdracht het vroegere Duitse gezantschapsgebouw tevens aan de Bondsrepubliek Duitsland ten gebruike ter beschikking te stellen. Indien het de Regering van het Koninkrijk der Nederlanden om technische redenen niet mogelijk mocht zijn, het gebouw op dat tijdstip ledig over te dragen, zal zij het uiterlijk tot en met 31 december 1961 mogen blijven gebruiken, met dien verstande dat zij gedurende die tijd de op de eigenaar rustende kosten en lasten draagt
-
-##### Artikel 6
-
-De Regering van het Koninkrijk der Nederlanden zal, indien daarom door tussenkomst van de Ambassade van de Bondsrepubliek Duitsland te 's-Gravenhage wordt gevraagd, aan de vroegere eigenaars van in het Koninkrijk in beslag genomen Duitse vermogensbestanddelen met uitzondering van huisraad en grondbezit inlichtingen verstrekken inzake de omvang en de realisering van deze vermogensbestanddelen of inzake de grootte van de liquidatie-opbrengsten, voorzover dit praktisch mogelijk is en de inlichtingen noodzakelijk zijn om de uitvoering van de in het kader van de Duitse wetgeving inzake de regeling van de gevolgen van de oorlog reeds bestaande of nog uit te vaardigen wettelijke voorschriften, mogelijk te maken.
-
-##### Artikel 7
-
-Het Koninkrijk der Nederlanden zal tegen vroegere eigenaars van in beslag genomen Duits vermogen geen aanspraken geldend maken op grond van het feit dat verplichtingen van deze eigenaars uit dit vermogen of uit de opbrengst daarvan zijn betaald.
-
-### HOOFDSTUK 3. (bij artikel 14 van het Verdrag)
-
-##### Artikel 8
-
-Het Koninkrijk der Nederlanden betaalt ex gratia aan de vóór 10 mei 1940 gepensioneerde Nederlands-Indische ambtenaren van Duitse nationaliteit:
-
-- 1. over de periode van 1 mei 1956 tot en met 31 december 1957, gedurende welke de Republiek Indonesië het bedrag van hun pensioenen in rupiah's heeft betaald: het koersverschil in guldens vermeerderd met de door het Koninkrijk der Nederlanden verleende toeslagen;
-
-- 2. over de periode van 1 januari 1958 af, de datum waarop de Republiek Indonesië de betaling van pensioenen aan rechthebbenden buiten Indonesië geheel heeft gestaakt: de bedragen der pensioenen in guldens vermeerderd met de door het Koninkrijk der Nederlanden tot nu toe verleende en in de toekomst nog te verlenen toeslagen, voor zolang en voorzover de Republiek Indonesië ter zake nalatig blijft.
-
-##### Artikel 9
-
-Het Koninkrijk der Nederlanden betaalt in guldens aan de weduwen en wezen van de in artikel 8 bedoelde gepensioneerden de weduwenpensioenen en wezenonderstanden hun toekomend krachtens het reglement van het weduwen- en wezenfonds waarin de overledene deelgenoot is geweest, vermeerderd met de door het Koninkrijk der Nederlanden tot nu toe verleende of in de toekomst nog te verlenen toeslagen.
-
-##### Artikel 10
-
-1. Het Koninkrijk der Nederlanden kent ex gratia, met ingang van 1 mei 1956, onderstand bij wijze van pensioen toe aan de per 10 mei 1940 zonder het predikaat eervol ontslagen Nederlands-Indische ambtenaren van Duitse nationaliteit die op het ogenblik van hun ontslag in vaste dienst waren.
-
-2. Het bedrag van de onderstand wordt berekend op de voet van het Indisch Burgerlijk Pensioenreglement, zoals dat luidde op het ogenblik van hun ontslag.
-
-3. Het Koninkrijk der Nederlanden zal deze onderstanden uitbetalen in guldens vermeerderd met de door het Koninkrijk tot nu toe verleende en in de toekomst nog te verlenen toeslagen.
-
-##### Artikel 11
-
-Het Koninkrijk der Nederlanden betaalt aan weduwen en wezen na de dood van de krachtens artikel 10 rechthebbenden, met uitzondering echter van de periode vóór 1 mei 1956, ex gratia weduwenpensioenen en wezenonderstanden in guldens overeenkomstig het reglement van het weduwen- en wezenfonds waarbij de overledene op het ogenblik van zijn ontslag verplicht was aangesloten, vermeerderd met de door het Koninkrijk tot nu toe verleende en in de toekomst nog te verlenen toeslagen.
-
-##### Artikel 12
-
-1. Het Koninkrijk der Nederlanden kent ex gratia, met ingang van 1 mei 1956, onderstand bij wijze van pensioen toe aan de per 10 mei 1940 zonder het predikaat eervol ontslagen Nederlands-Indische ambtenaren van Duitse nationaliteit die op het ogenblik van hun ontslag in tijdelijke dienst waren, voorzover de betrokkenen kunnen aantonen dat hun dienstverband minstens tien achtereenvolgende jaren heeft geduurd.
-
-2. Aangezien de betrokkenen op het ogenblik van hun ontslag niet in vaste dienst waren en zij derhalve niet in hun pensioen hebben bijgedragen, zal deze onderstand worden gesteld op 4/5 van de onderstand die hun krachtens lid 2 van artikel 10 zou toekomen.
-
-3. Het Koninkrijk der Nederlanden zal deze onderstanden uitbetalen in guldens vermeerderd met de door het Koninkrijk tot nu toe verleende en in de toekomst nog te verlenen toeslagen.
-
-##### Artikel 13
-
-Het Koninkrijk der Nederlanden kent geen onderstand bij wijze van pensioen toe overeenkomstig de artikelen 10 en 12 aan personen van wie is gebleken dat zij het nationaal-socialisme daadwerkelijk hebben gesteund, dan wel dat zij zich vijandig jegens de belangen van het Koninkrijk hebben gedragen.
-
-##### Artikel 14
-
-1. Uitkeringen krachtens de wetgeving op grond van artikel 131 van de Grondwet van de Bondsrepubliek Duitsland worden in mindering gebracht op de uitkeringen overeenkomstig de artikelen 10 tot en met 12.
-
-2. Het Koninkrijk der Nederlanden kan ten aanzien van betalingen uit hoofde van de artikelen 8 en 10 tot en met 12 niet als vroegere „Dienstherr” of „Versorgungsträger” in de zin van artikel 77**a** van de Duitse wet tot regeling van de rechtsverhoudingen van de onder artikel 131 van de Grondwet vallende personen worden beschouwd.
-
-##### Artikel 15
-
-Het Koninkrijk der Nederlanden kan van bovenstaande regeling die personen uitsluiten, die hun woonplaats niet in de Bondsrepubliek Duitsland met inbegrip van het „Land” Berlijn hebben.
-
-##### Artikel 16
-
-Het Koninkrijk der Nederlanden kan eisen dat rechthebbenden, voorzover zij krachtens bovenstaande bepalingen uitkeringen ontvangen, hun aanspraken tegenover de Republiek Indonesië aan het Koninkrijk cederen.
-
-##### Artikel 17
-
-1. Uitkeringen overeenkomstig de bovenstaande bepalingen kunnen slechts plaatsvinden, indien de rechthebbenden zich bij het Nederlandse Ministerie van Buitenlandse Zaken aanmelden en de documenten die eventueel nodig zijn om te bewijzen dat zij recht hebben op een uitkering, overleggen.
-
-2. Rechthebbenden die zich na het verstrijken van een jaar na de inwerkingtreding van het Verdrag bij het Nederlandse Ministerie van Buitenlandse Zaken aanmelden, kunnen slechts nabetaling krijgen over een periode van 5 jaar eindigend op de eerste van de maand volgend op de datum van aanmelding.
-
-### HOOFDSTUK 4. (bij artikel 15 van het Verdrag)
-
-##### Artikel 18
-
-Het Koninkrijk der Nederlanden is niet gehouden Duitse privaatrechtelijke personen overeenkomstig de tweede zin van lid 1 van artikel 15 van het Verdrag, te vrijwaren, indien zij door Nederlanders die vanwege hun ras, geloof of wereldbeschouwing door nationaal-socialistische vervolgingsmaatregelen zijn getroffen, worden aangesproken uit hoofde van zodanige vorderingen en aanspraken die krachtens artikel 8, lid 2, van het „Bundesentschädigungsgesetz” onaangetast blijven.
-
-### HOOFDSTUK 5
-
-##### Artikel 19
-
-Het Koninkrijk der Nederlanden zal uit hoofde van de door oorlogshandelingen veroorzaakte verwoesting van het gebouw van het Koninklijke Nederlandse Gezantschap te Berlijn, Rauchstrasse 10, geen vorderingen aanhangig maken.
-
-### SLOTBEPALING
-
-##### Artikel 20
-
-De bepalingen van dit Slotprotocol maken deel uit van het Financiële Verdrag.
 
 TEN BLIJKE WAARVAN de gevolmachtigden der Verdragsluitende Partijen dit Verdrag, dat deel uitmaakt van het heden ondertekende Algemene Verdrag, hebben ondertekend.
 

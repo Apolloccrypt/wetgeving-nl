@@ -1,68 +1,29 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954"
 identifier: "BWBV0004522"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-09-10"
-last_updated: "1965-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004522"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004175323"
-version_id: "10004349512"
-internal_id: "C10006999761"
-label_id: "10004160444"
-dtd_version: "2.0"
-original_entry_into_force: "1965-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004522/1965-09-10/0"
-intitule_bron: "Trb.1964-140"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-10-05"
-intitule_in_force: "1965-08-11"
-intitule_status: "goed"
-original_publication: "Trb.1964-140"
-original_published_date: "1964-10-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-140"
-entry_into_force_date: "1965-09-10"
-jci_1_3: "jci1.3:c:BWBV0004522&z=1965-09-10&g=1965-09-10"
-jci_1_0: "1.0:c:BWBV0004522&g=1965-09-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-09-10"
+publicatiedatum: 1965-09-10
+laatste_update: 1965-09-10
+status: geldig
+toestand: 1965-09-10
+bron: "https://wetten.overheid.nl/BWBV0004522"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954
 
-Hare Majesteit de Koningin der Nederlanden
+*Hare Majesteit de Koningin der Nederlanden en de Bondspresident van de Republiek Oostenrijk, De wens koesterende om het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954 betreffende de burgerlijke rechtsvordering, tussen de beide Staten te vergemakkelijken, Hebben besloten te dien einde een verdrag te sluiten, en hebben tot Hun Gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie mr. Henri Frederik Eschauzier, Harer Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te Wenen; De Bondspresident van de Republiek Oostenrijk: De Heer Dr. Bruno Kreisky, Bondsminister van Buitenlandse Zaken, De Heer Dr. Christian Broda, Bondsminister van Justitie; Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, het volgende zijn overeengekomen:*
 
-en
-
-de Bondspresident van de Republiek Oostenrijk,
-
-De wens koesterende om het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954 betreffende de burgerlijke rechtsvordering, tussen de beide Staten te vergemakkelijken,
-
-Hebben besloten te dien einde een verdrag te sluiten, en hebben tot Hun Gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie mr. Henri Frederik Eschauzier, Harer Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te Wenen;
-
-De Bondspresident van de Republiek Oostenrijk:
-
-De Heer Dr. Bruno Kreisky, Bondsminister van Buitenlandse Zaken,
-
-De Heer Dr. Christian Broda, Bondsminister van Justitie;
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, het volgende zijn overeengekomen:
-
-## Overmaking van stukken
+### Overmaking van stukken
 
 ##### Artikel 1
 
 1. De in artikel 1, lid 1, van het Haagse Verdrag van 1 maart 1954 bedoelde gerechtelijke en buitengerechtelijke stukken worden op de voet van het bepaalde in het volgende lid rechtstreeks toegezonden.
 
-- a). Wanneer de aanvrage afkomstig is van een Nederlandse autoriteit en het over te maken stuk vergezeld gaat van een vertaling in het Duits, wordt de aanvrage gezonden aan het Bezirksgericht, in welks gebied de persoon, voor wie het stuk bestemd is, verblijft. Indien geen vertaling is bijgevoegd, geschiedt de toezending aan dit Bezirksgericht door tussenkomst van het Bundesministerium für Justiz.
+2. - a) Wanneer de aanvrage afkomstig is van een Nederlandse autoriteit en het over te maken stuk vergezeld gaat van een vertaling in het Duits, wordt de aanvrage gezonden aan het Bezirksgericht, in welks gebied de persoon, voor wie het stuk bestemd is, verblijft. Indien geen vertaling is bijgevoegd, geschiedt de toezending aan dit Bezirksgericht door tussenkomst van het Bundesministerium für Justiz.
 
-- b). Oostenrijkse gerechten zenden hun aanvragen om overmaking van stukken aan de Officier van Justitie bij de Arrondissementsrechtbank, in welker gebied de persoon, voor wie het stuk bestemd is, verblijft.
+- b) Oostenrijkse gerechten zenden hun aanvragen om overmaking van stukken aan de Officier van Justitie bij de Arrondissementsrechtbank, in welker gebied de persoon, voor wie het stuk bestemd is, verblijft.
 
 3. De aanvragen om overmaking van stukken kunnen in de taal van de verzoekende Staat worden gesteld.
 
@@ -70,17 +31,17 @@ Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 Het over te maken stuk behoeft niet in tweevoud (artikel 3, lid 1, van het Haagse Verdrag van 1 maart 1954) te worden overgemaakt.
 
-## Rogatoire commissies
+### Rogatoire commissies
 
 ##### Artikel 3
 
 1. De in artikel 8 van het Haagse Verdrag van 1 maart 1954 bedoelde rogatoire commissies behoeven niet vergezeld te gaan van een vertaling in de taal van de aangezochte Staat. Zij worden op de voet van het bepaalde in het volgende lid rechtstreeks toegezonden.
 
-- a). Wanneer de rogatoire commissie afkomstig is van een Nederlands gerecht en vergezeld gaat van een vertaling in het Duits, wordt de rogatoire commissie aan het betrokken Bezirksgericht gezonden. Indien geen vertaling is bijgevoegd, geschiedt de toezending aan dit Bezirksgericht door tussenkomst van het Bundesministerium für Justiz.
+2. - a) Wanneer de rogatoire commissie afkomstig is van een Nederlands gerecht en vergezeld gaat van een vertaling in het Duits, wordt de rogatoire commissie aan het betrokken Bezirksgericht gezonden. Indien geen vertaling is bijgevoegd, geschiedt de toezending aan dit Bezirksgericht door tussenkomst van het Bundesministerium für Justiz.
 
-- b). Oostenrijkse gerechten zenden hun rogatoire commissies door tussenkomst van de Officier van Justitie bij de Arrondissementsrechtbank aan het betrokken Kantongerecht toe.
+- b) Oostenrijkse gerechten zenden hun rogatoire commissies door tussenkomst van de Officier van Justitie bij de Arrondissementsrechtbank aan het betrokken Kantongerecht toe.
 
-## Bepalingen geldende zowel voor de overmaking van stukken als voor rogatoire commissies
+### Bepalingen geldende zowel voor de overmaking van stukken als voor rogatoire commissies
 
 ##### Artikel 4
 
@@ -96,7 +57,7 @@ Vertalingen kunnen ook voor eensluidend worden verklaard door een beëdigde vert
 
 Indien een verzoek aan een onbevoegde autoriteit is gezonden, draagt deze het verzoek ambtshalve aan de bevoegde autoriteit over en geeft zij hiervan terstond kennis aan de verzoekende autoriteit.
 
-## Uitvoerbaarverklaring (tenuitvoerlegging) van uitspraken betreffende proceskosten
+### Uitvoerbaarverklaring (tenuitvoerlegging) van uitspraken betreffende proceskosten
 
 ##### Artikel 7
 
@@ -110,7 +71,7 @@ De verklaring van de bevoegde autoriteit, dat de uitspraak betreffende de kosten
 
 De vertaling, bedoeld in artikel 19, lid 2, onder 3, van het Haagse Verdrag van 1 maart 1954, kan ook voor eensluidend worden verklaard door een beëdigde vertaler van de Staat waar de uitspraak is gegeven.
 
-## Overgangs- en slotbepalingen
+### Overgangs- en slotbepalingen
 
 ##### Artikel 10
 
@@ -142,15 +103,15 @@ TEN BLIJKE WAARVAN de wederzijdse gevolmachtigden dit Verdrag hebben ondertekend
 
 GEDAAN te Wenen, de 23ste juli 1964 in tweevoud, in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
-**Für das Königreich der Niederlande:**
+*Für das Königreich der Niederlande:*
 
 (w.g.) H. F. ESCHAUZIER
 
-**Voor de Republiek Oostenrijk:**
+*Voor de Republiek Oostenrijk:*
 
-**Für die Republik Österreich:**
+*Für die Republik Österreich:*
 
 (w.g.) KREISKY
 

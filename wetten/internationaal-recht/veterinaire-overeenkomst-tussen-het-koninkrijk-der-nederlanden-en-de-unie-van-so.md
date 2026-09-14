@@ -1,48 +1,19 @@
 ---
 title: "Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken"
 identifier: "BWBV0005026"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-06-04"
-last_updated: "1984-06-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005026"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004437283"
-version_id: "10004643702"
-internal_id: "C10006997931"
-label_id: "10004422004"
-dtd_version: "2.0"
-original_entry_into_force: "1984-06-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005026/1984-06-04/0"
-intitule_bron: "Trb.1979-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1979-03-20"
-intitule_in_force: "1984-07-09"
-intitule_status: "goed"
-original_publication: "Trb.1979-49"
-original_published_date: "1979-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1979-49"
-entry_into_force_date: "1984-06-04"
-jci_1_3: "jci1.3:c:BWBV0005026&z=1984-06-04&g=1984-06-04"
-jci_1_0: "1.0:c:BWBV0005026&g=1984-06-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1984-06-04"
+publicatiedatum: 1984-06-04
+laatste_update: 1984-06-04
+status: geldig
+toestand: 1984-06-04
+bron: "https://wetten.overheid.nl/BWBV0005026"
+opgehaald: 2026-09-14
 ---
+
 # Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Unie van Socialistische Sowjet-Republieken
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Unie van Socialistische Sowjet-Republieken
-
-Verlangende de samenwerking op het gebied der diergeneeskunde tussen hun beide landen zoveel mogelijk te vergemakkelijken;
-
-Verlangende de onderlinge handel in dieren en dierlijke produkten te ontwikkelen, met volledige veiligstelling van hun levensbelangen, in het bijzonder van de gezondheidstoestand der dieren;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Unie van Socialistische Sowjet-Republieken Verlangende de samenwerking op het gebied der diergeneeskunde tussen hun beide landen zoveel mogelijk te vergemakkelijken; Verlangende de onderlinge handel in dieren en dierlijke produkten te ontwikkelen, met volledige veiligstelling van hun levensbelangen, in het bijzonder van de gezondheidstoestand der dieren; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -64,9 +35,9 @@ De centrale veeartsenijkundige diensten der Overeenkomstsluitende Partijen zulle
 
 1. De Overeenkomstsluitende Partijen vergemakkelijken:
 
-- a). de samenwerking tussen veterinaire instellingen en instituten in hun landen en de uitwisseling van de hieruit verkregen resultaten;
+- a) de samenwerking tussen veterinaire instellingen en instituten in hun landen en de uitwisseling van de hieruit verkregen resultaten;
 
-- b). de uitwisseling van diergeneeskundige specialisten met het doel hen kennis te doen nemen van de gezondheidstoestand van de dieren en van resultaten verkregen bij werk op het gebied der veterinaire wetenschap en in de praktijk.
+- b) de uitwisseling van diergeneeskundige specialisten met het doel hen kennis te doen nemen van de gezondheidstoestand van de dieren en van resultaten verkregen bij werk op het gebied der veterinaire wetenschap en in de praktijk.
 
 2. De bevoegde centrale organen der Overeenkomstsluitende Partijen kunnen tevens gemeenschappelijk plannen uitwerken voor samenwerking gedurende een bepaalde periode.
 
@@ -98,12 +69,12 @@ Op grond van het bovenstaande hebben ondergetekenden, daartoe gemachtigd door hu
 
 GEDAAN te 's-Gravenhage, 19 februari 1979, in tweevoud, met elk exemplaar in de Nederlandse en de Russische taal, zijnde beide teksten gelijkelijk gezaghebbend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden**
+*Voor de Regering van het Koninkrijk der Nederlanden*
 
 (w.g.) C. A. VAN DER KLAAUW
 
 (w.g.) VAN DER STEE
 
-**Voor de Regering van de Unie van Socialistische Sowjet Republieken**
+*Voor de Regering van de Unie van Socialistische Sowjet Republieken*
 
 (w.g.) MESYATS

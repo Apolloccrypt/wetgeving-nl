@@ -1,44 +1,19 @@
 ---
 title: "Cultureel Verdrag tussen Nederland en Italië"
 identifier: "BWBV0004836"
-country: "nl"
-rank: "verdrag"
-publication_date: "1973-11-14"
-last_updated: "1973-11-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004836"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004343243"
-version_id: "10004543322"
-internal_id: "C10008430391"
-label_id: "10004328194"
-dtd_version: "2.0"
-original_entry_into_force: "1953-10-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004836/1973-11-14/0"
-intitule_bron: "Trb.1952-10"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-01-21"
-intitule_in_force: "1953-10-27"
-intitule_status: "goed"
-original_publication: "Trb.1952-10"
-original_published_date: "1952-01-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-10"
-entry_into_force_date: "1953-10-13"
-jci_1_3: "jci1.3:c:BWBV0004836&z=1973-11-14&g=1973-11-14"
-jci_1_0: "1.0:c:BWBV0004836&g=1973-11-14"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-10-13"
+publicatiedatum: 1953-10-13
+laatste_update: 1973-11-14
+status: geldig
+toestand: 1973-11-14
+bron: "https://wetten.overheid.nl/BWBV0004836"
+opgehaald: 2026-09-14
 ---
+
 # Cultureel Verdrag tussen Nederland en Italië
 
-De Regering van het Koninkrijk der Nederlanden en de Regering der Italiaanse Republiek;
-
-Bezield door de gelijke wens om haar betrekkingen te bevestigen en te versterken;
-
-Hebben besloten te dien einde een Verdrag te sluiten betreffende de culturele en intellectuele betrekkingen tussen beide landen en hebben tot dit doel gevolmachtigden benoemd, die, daartoe door hun Regeringen behoorlijk gemachtigd,
-
-als volgt zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering der Italiaanse Republiek; Bezield door de gelijke wens om haar betrekkingen te bevestigen en te versterken; Hebben besloten te dien einde een Verdrag te sluiten betreffende de culturele en intellectuele betrekkingen tussen beide landen en hebben tot dit doel gevolmachtigden benoemd, die, daartoe door hun Regeringen behoorlijk gemachtigd, als volgt zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -48,13 +23,13 @@ Het Verdrag heeft ten doel, door bestendig contact tussen de beide Partijen de g
 
 Met het oog op de uitvoering van dit Verdrag wordt een permanente gemengde Commissie ingesteld. Deze zal bestaan uit zes leden; ieder der Verdragsluitende Partijen wordt door drie leden vertegenwoordigd. De samenstelling en de werkzaamheden van deze Commissie worden door de volgende beginselen beheerst:
 
-- a). De leden der Commissie worden voor Nederland benoemd door de Minister van Onderwijs, Kunsten en Wetenschappen; voor Italië door de Minister van Buitenlandse Zaken, in overleg met de Minister van Openbaar Onderwijs. De lijst der leden van iedere Verdragsluitende Partij wordt langs de diplomatieke weg aan de Regering der andere Partij ter kennis gebracht.
+- a) De leden der Commissie worden voor Nederland benoemd door de Minister van Onderwijs, Kunsten en Wetenschappen; voor Italië door de Minister van Buitenlandse Zaken, in overleg met de Minister van Openbaar Onderwijs. De lijst der leden van iedere Verdragsluitende Partij wordt langs de diplomatieke weg aan de Regering der andere Partij ter kennis gebracht.
 
-- b). De gemengde Commissie vergadert in pleno telkenmale als de noodzakelijkheid daartoe gevoeld wordt en tenminste eenmaal 's jaars om beurten in Nederland en in Italië. De samenkomsten worden voorgezeten door een zevende lid en wel de Minister van Onderwijs van het ontvangende land.
+- b) De gemengde Commissie vergadert in pleno telkenmale als de noodzakelijkheid daartoe gevoeld wordt en tenminste eenmaal 's jaars om beurten in Nederland en in Italië. De samenkomsten worden voorgezeten door een zevende lid en wel de Minister van Onderwijs van het ontvangende land.
 
-- c). Indien vraagstukken van technische aard in behandeling moeten worden genomen, die een gespecialiseerde kennis van zaken vereisen, kan de gemengde Commissie er toe overgaan subcommissies in te stellen, samengesteld uit leden gekozen uit of buiten haar midden, waarin ieder der Partijen door een gelijk aantal leden vertegenwoordigd wordt. De plaats van samenkomst en het voorzitterschap van deze subcommissies worden bepaald door dezelfde beginselen als onder b) vastgesteld, met dien verstande dat het voorzitterschap daarvan kan berusten bij een persoon aan te wijzen door de Minister van het land, waar de zitting plaats vindt.
+- c) Indien vraagstukken van technische aard in behandeling moeten worden genomen, die een gespecialiseerde kennis van zaken vereisen, kan de gemengde Commissie er toe overgaan subcommissies in te stellen, samengesteld uit leden gekozen uit of buiten haar midden, waarin ieder der Partijen door een gelijk aantal leden vertegenwoordigd wordt. De plaats van samenkomst en het voorzitterschap van deze subcommissies worden bepaald door dezelfde beginselen als onder b) vastgesteld, met dien verstande dat het voorzitterschap daarvan kan berusten bij een persoon aan te wijzen door de Minister van het land, waar de zitting plaats vindt.
 
-- d). Onverminderd het bepaalde onder c) kan de gemengde Commissie deskundigen als technische adviseurs aan zich toevoegen, steeds op basis van pariteit.
+- d) Onverminderd het bepaalde onder c) kan de gemengde Commissie deskundigen als technische adviseurs aan zich toevoegen, steeds op basis van pariteit.
 
 ##### Artikel 3
 
@@ -76,11 +51,11 @@ De salarissen, welke de functionarissen van bovengenoemde instellingen in deze h
 
 De culturele instellingen die door ieder der beide landen officieel worden opgericht op het grondgebied van het andere land genieten op basis van wederkerigheid de volgende voordelen van fiscale aard, welke niet de vergoedingen omvatten, die verschuldigd zijn als beloning voor verleende diensten:
 
-- a). vrijstelling van belastingen, heffingen en vergoedingen voor de verwerving, onder bezwarende titel of om niet, van gronden en gebouwen bestemd om als zetel van genoemde instellingen te dienen;
+- a) vrijstelling van belastingen, heffingen en vergoedingen voor de verwerving, onder bezwarende titel of om niet, van gronden en gebouwen bestemd om als zetel van genoemde instellingen te dienen;
 
-- b). vrijstelling van directe belastingen en van heffingen en vergoedingen ten aanzien van gebouwen gelegen op het grondgebied van ieder der Verdragsluitende Partijen, mits genoemde gebouwen eigendom zijn van de andere Verdragsluitende Partij of van de onderscheiden culturele instellingen en bestemd zijn voor de in het Verdrag vervatte doelstellingen; de vrijstelling betreft eveneens de bijkomende belastingen, opcenten en vergoedingen gevorderd door plaatselijke publiekrechtelijke lichamen;
+- b) vrijstelling van directe belastingen en van heffingen en vergoedingen ten aanzien van gebouwen gelegen op het grondgebied van ieder der Verdragsluitende Partijen, mits genoemde gebouwen eigendom zijn van de andere Verdragsluitende Partij of van de onderscheiden culturele instellingen en bestemd zijn voor de in het Verdrag vervatte doelstellingen; de vrijstelling betreft eveneens de bijkomende belastingen, opcenten en vergoedingen gevorderd door plaatselijke publiekrechtelijke lichamen;
 
-- c). vrijstelling van de heffingen en van alle andere rechten die kunnen worden geheven bij de invoer van meubilair, onderwijsmateriaal en materiaal voor wetenschappelijk onderzoek, van boeken en publikaties nodig voor de inrichting en het functioneren van genoemde culturele instellingen.
+- c) vrijstelling van de heffingen en van alle andere rechten die kunnen worden geheven bij de invoer van meubilair, onderwijsmateriaal en materiaal voor wetenschappelijk onderzoek, van boeken en publikaties nodig voor de inrichting en het functioneren van genoemde culturele instellingen.
 
 De overeenkomstig het voorgaande lid sub c) ingevoerde goederen mogen op het grondgebied van de Verdragsluitende Partij waar zij zijn ingevoerd niet worden verkocht, uitgeleend of onder bezwarende titel dan wel om niet worden afgestaan met een ander doel dan het functioneren van de culturele lichamen, behalve op door de Regering van de betrokken Verdragsluitende Partij vastgestelde voorwaarden.
 

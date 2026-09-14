@@ -1,60 +1,19 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden"
 identifier: "BWBV0004793"
-country: "nl"
-rank: "verdrag"
-publication_date: "1994-11-01"
-last_updated: "1994-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004793"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004325083"
-version_id: "10004524522"
-internal_id: "C10008343231"
-label_id: "10004310124"
-dtd_version: "2.0"
-original_entry_into_force: "1994-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004793/1994-11-01/0"
-intitule_bron: "Trb.1992-3"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1992-01-17"
-intitule_in_force: "1994-10-25"
-intitule_status: "goed"
-original_publication: "Trb.1992-3"
-original_published_date: "1992-01-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1992-3"
-entry_into_force_date: "1994-11-01"
-jci_1_3: "jci1.3:c:BWBV0004793&z=1994-11-01&g=1994-11-01"
-jci_1_0: "1.0:c:BWBV0004793&g=1994-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1994-11-01"
+publicatiedatum: 1994-11-01
+laatste_update: 1994-11-01
+status: geldig
+toestand: 1994-11-01
+bron: "https://wetten.overheid.nl/BWBV0004793"
+opgehaald: 2026-09-14
 ---
+
 # Aanvullend Protocol bij de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden
 
-De Regering van de Bondsrepubliek Duitsland,
-
-de Regering van de Franse Republiek,
-
-de Regering van het Groothertogdom Luxemburg,
-
-de Regering van het Koninkrijk der Nederlanden en
-
-de Regering van de Zwitserse Bondsstaat,
-
-verwijzend naar de resultaten van de op 11 oktober 1988 in Bonn en op 30 november 1989 in Brussel gehouden ministersconferenties over de verontreiniging van de Rijn,
-
-verwijzend naar de [Overeenkomst van 3 december 1976 ter bescherming van de Rijn tegen verontreiniging door chloriden](https://wetten.overheid.nl/jci1.3:c:BWBV0003698), naar de briefwisselingen van 29 april, 4 en 14 mei 1983 en de verklaring van de delegatieleiders van 11 december 1986 (hierna te noemen „de Overeenkomst”),
-
-geleid door de wens de kwaliteit van het Rijnwater zodanig te verbeteren dat aan de Nederlands-Duitse grens de overschrijdingen van het gehalte van 200 mg/l chloride-ionen zowel qua omvang als qua tijdsduur worden beperkt,
-
-ernaar strevend de winning van drinkwater uit de Rijn en uit het IJsselmeer te vergemakkelijken,
-
-in de overtuiging dat behalve de reeds bereikte verminderingen en de in dit aanvullend protocol voorziene maatregelen andere maatregelen tot vermindering van de chloride-vracht van de Rijn over de gehele loop van de Rijn vanuit een ecologisch oogpunt niet noodzakelijk en op grond van technische en economische overwegingen niet gerechtvaardigd zijn,
-
-en met de bedoeling om tot een definitieve internationale regeling te komen inzake vermindering van de belasting van de Rijn door chloriden,
-
-zijn als volgt overeengekomen:
+*De Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek, de Regering van het Groothertogdom Luxemburg, de Regering van het Koninkrijk der Nederlanden en de Regering van de Zwitserse Bondsstaat, - verwijzend naar de resultaten van de op 11 oktober 1988 in Bonn en op 30 november 1989 in Brussel gehouden ministersconferenties over de verontreiniging van de Rijn, - verwijzend naar de Overeenkomst van 3 december 1976 ter bescherming van de Rijn tegen verontreiniging door chloriden, naar de briefwisselingen van 29 april, 4 en 14 mei 1983 en de verklaring van de delegatieleiders van 11 december 1986 (hierna te noemen „de Overeenkomst”), - geleid door de wens de kwaliteit van het Rijnwater zodanig te verbeteren dat aan de Nederlands-Duitse grens de overschrijdingen van het gehalte van 200 mg/l chloride-ionen zowel qua omvang als qua tijdsduur worden beperkt, - ernaar strevend de winning van drinkwater uit de Rijn en uit het IJsselmeer te vergemakkelijken, - in de overtuiging dat behalve de reeds bereikte verminderingen en de in dit aanvullend protocol voorziene maatregelen andere maatregelen tot vermindering van de chloride-vracht van de Rijn over de gehele loop van de Rijn vanuit een ecologisch oogpunt niet noodzakelijk en op grond van technische en economische overwegingen niet gerechtvaardigd zijn, - en met de bedoeling om tot een definitieve internationale regeling te komen inzake vermindering van de belasting van de Rijn door chloriden, zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -102,7 +61,7 @@ Met de duurzame vermindering van de chloride-vracht van de Rijn in Zwitserland w
 
 ##### Artikel 6
 
-Wijzigt de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden; Bonn, 3 december 1976.
+*Wijzigt de Overeenkomst inzake de bescherming van de Rijn tegen verontreiniging door chloriden; Bonn, 3 december 1976.*
 
 ##### Artikel 7
 
@@ -115,11 +74,5 @@ De [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003698) en dit aanvul
 ##### Artikel 8
 
 Dit aanvullend protocol bij de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003698), dat is opgesteld in één exemplaar, in de Duitse, de Franse en de Nederlandse taal, zijnde de drie teksten gelijkelijk authentiek, zal worden neergelegd in het archief van de Regering van de Zwitserse Bondsstaat, die daarvan een voor eensluidend gewaarmerkt afschrift zal doen toekomen aan elk van de Overeenkomstsluitende Partijen.
-
-De delegatieleiders van de regeringen die partij zijn bij de op 29 april 1963 in Bern ondertekende Overeenkomst nopens de Internationale Commissie ter bescherming van de Rijn tegen verontreiniging (ICBR),
-
-en van de regeringen die partij zijn bij de op 3 december 1976 in Bonn ondertekende [Overeenkomst ter bescherming van de Rijn tegen verontreiniging door chloriden](https://wetten.overheid.nl/jci1.3:c:BWBV0003698), alsmede bij de briefwisselingen van 29 april, 4 en 14 mei 1983 en bij de verklaring van de delegatieleiders van 11 december 1986 (hierna te noemen „de Overeenkomst”),
-
-zijn op 25 september 1991 in Brussel bijeengekomen en hebben in opdracht van hun regeringen de volgende verklaring afgelegd:
 
 GEDAAN te Brussel op 25 september 1991.

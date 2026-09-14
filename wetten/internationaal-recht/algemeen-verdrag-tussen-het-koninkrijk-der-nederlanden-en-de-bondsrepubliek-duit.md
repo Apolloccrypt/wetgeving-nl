@@ -1,58 +1,19 @@
 ---
 title: "Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van met de grens verband houdende vraagstukken en andere tussen beide landen bestaande problemen"
 identifier: "BWBV0004772"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-08-01"
-last_updated: "1963-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004772"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004310353"
-version_id: "10004509312"
-internal_id: "C10007218301"
-label_id: "10004295224"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004772/1963-08-01/0"
-intitule_bron: "Trb.1960-67"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-07-18"
-intitule_in_force: "1963-07-31"
-intitule_status: "goed"
-original_publication: "Trb.1960-67"
-original_published_date: "1960-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-67"
-entry_into_force_date: "1963-08-01"
-jci_1_3: "jci1.3:c:BWBV0004772&z=1963-08-01&g=1963-08-01"
-jci_1_0: "1.0:c:BWBV0004772&g=1963-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-01"
+publicatiedatum: 1963-08-01
+laatste_update: 1963-08-01
+status: geldig
+toestand: 1963-08-01
+bron: "https://wetten.overheid.nl/BWBV0004772"
+opgehaald: 2026-09-14
 ---
+
 # Algemeen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van met de grens verband houdende vraagstukken en andere tussen beide landen bestaande problemen
 
-Hare Majesteit de Koningin der Nederlanden en de President van de Bondsrepubliek Duitsland,
-
-Verlangend, de vriendschappelijke betrekkingen tussen de beide landen te bevorderen en zo gunstig mogelijke voorwaarden te scheppen voor de door beide staten gevolgde politiek van westelijke samenwerking en Europese integratie,
-
-Zijn overeengekomen, tussen Hun beide landen bestaande meningsverschillen binnen de door het recht geboden mogelijkheden aan een algemene verdragsregeling te onderwerpen,
-
-En hebben daartoe tot Hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken, en
-
-de Heer H. R. van Houten, Staatssecretaris van Buitenlandse Zaken,
-
-De President van de Bondsrepubliek Duitsland:
-
-de Heer Heinrich von Brentano, Bondsminister voor Buitenlandse Zaken, en
-
-de Heer Rolf Lahr, buitengewoon en gevolmachtigd Ambassadeur,
-
-Die, na uitwisseling van hun in goede en behoorlijke vorm bevonden volmachten, het volgende zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Bondsrepubliek Duitsland, Verlangend, de vriendschappelijke betrekkingen tussen de beide landen te bevorderen en zo gunstig mogelijke voorwaarden te scheppen voor de door beide staten gevolgde politiek van westelijke samenwerking en Europese integratie, Zijn overeengekomen, tussen Hun beide landen bestaande meningsverschillen binnen de door het recht geboden mogelijkheden aan een algemene verdragsregeling te onderwerpen, En hebben daartoe tot Hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: de Heer J. M. A. H. Luns, Minister van Buitenlandse Zaken, en de Heer H. R. van Houten, Staatssecretaris van Buitenlandse Zaken, De President van de Bondsrepubliek Duitsland: de Heer Heinrich von Brentano, Bondsminister voor Buitenlandse Zaken, en de Heer Rolf Lahr, buitengewoon en gevolmachtigd Ambassadeur, Die, na uitwisseling van hun in goede en behoorlijke vorm bevonden volmachten, het volgende zijn overeengekomen:*
 
 ##### Artikel 1
 

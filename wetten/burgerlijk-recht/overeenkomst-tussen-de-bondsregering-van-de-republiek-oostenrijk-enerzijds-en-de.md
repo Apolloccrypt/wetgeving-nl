@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens"
 identifier: "BWBV0004481"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-04-01"
-last_updated: "1965-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004481"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004159203"
-version_id: "10004328892"
-internal_id: "C10006999681"
-label_id: "10004144224"
-dtd_version: "2.0"
-original_entry_into_force: "1965-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004481/1965-04-01/0"
-intitule_bron: "Trb.1965-60"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-05-14"
-intitule_in_force: "1965-05-14"
-intitule_status: "goed"
-original_publication: "Trb.1965-60"
-original_published_date: "1965-05-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-60"
-entry_into_force_date: "1965-04-01"
-jci_1_3: "jci1.3:c:BWBV0004481&z=1965-04-01&g=1965-04-01"
-jci_1_0: "1.0:c:BWBV0004481&g=1965-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-04-01"
+publicatiedatum: 1965-04-01
+laatste_update: 1965-04-01
+status: geldig
+toestand: 1965-04-01
+bron: "https://wetten.overheid.nl/BWBV0004481"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen de Bondsregering van de Republiek Oostenrijk, enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, anderzijds, betreffende de overname van personen aan de grens
 
-Met het doel het wederzijds overnemen van personen aan de grens in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten [Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246), gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:
+*Met het doel het wederzijds overnemen van personen aan de grens in een geest van vriendschap te regelen, zijn de Bondsregering van de Republiek Oostenrijk enerzijds, en de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die op grond van de op 11 april 1960 tussen hen gesloten Overeenkomst inzake de verlegging van de personencontrole naar de buitengrenzen van het Benelux-gebied, gemeenschappelijk optreden, anderzijds, als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -92,9 +73,9 @@ a). De Bondsregering van de Republiek Oostenrijk enerzijds, en de Belgische, Lux
 
 b). Doorgeleiding kan worden geweigerd, indien de betrokken persoon:
 
-- 1). bij doorreis door het gebied van de Staat waaraan het verzoek is gericht bloot zou staan aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis, of
+- 1) bij doorreis door het gebied van de Staat waaraan het verzoek is gericht bloot zou staan aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis, of
 
-- 2). in een andere Staat van doorreis of in de Staat van bestemming bloot zou staan aan gevaar van vervolging om politieke redenen, danwel aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis.
+- 2) in een andere Staat van doorreis of in de Staat van bestemming bloot zou staan aan gevaar van vervolging om politieke redenen, danwel aan strafvervolging of aan de tenuitvoerlegging van een strafvonnis.
 
 c). Een verzoek tot doorgeleiding wordt door de diplomatieke vertegenwoordiging van de verzoekende Staat ingediend bij het Ministerie van Buitenlandse Zaken van de Staat waaraan het verzoek is gericht; een verzoek ten behoeve van de Luxemburgse Regering wordt door het Consulaat-Generaal van dat land in Oostenrijk gedaan.
 

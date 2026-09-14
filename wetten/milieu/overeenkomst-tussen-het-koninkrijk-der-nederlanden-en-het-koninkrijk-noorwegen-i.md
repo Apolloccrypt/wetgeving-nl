@@ -1,131 +1,112 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het vestigen en onderhouden van luchtdiensten"
 identifier: "BWBV0004386"
-country: "nl"
-rank: "verdrag"
-publication_date: "1968-12-21"
-last_updated: "1968-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004386"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004090213"
-version_id: "10004259122"
-internal_id: "C10006977261"
-label_id: "10004074944"
-dtd_version: "2.0"
-original_entry_into_force: "1963-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004386/1968-12-21/0"
-intitule_bron: "Trb.1962-148"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-12-13"
-intitule_in_force: "1963-07-16"
-intitule_status: "goed"
-original_publication: "Trb.1962-148"
-original_published_date: "1962-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-148"
-entry_into_force_date: "1963-05-28"
-jci_1_3: "jci1.3:c:BWBV0004386&z=1968-12-21&g=1968-12-21"
-jci_1_0: "1.0:c:BWBV0004386&g=1968-12-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-05-28"
+publicatiedatum: 1963-05-28
+laatste_update: 1968-12-21
+status: geldig
+toestand: 1968-12-21
+bron: "https://wetten.overheid.nl/BWBV0004386"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen inzake het vestigen en onderhouden van luchtdiensten
 
-Het Koninkrijk der Nederlanden en het Koninkrijk Noorwegen, hierna te noemen de Overeenkomstsluitende Partijen, geleid door de wens het luchtvervoer tussen en via Nederland en Noorwegen te bevorderen, sluiten hierbij de volgende Overeenkomst:
+*The Kingdom of the Netherlands and the Kingdom of Norway, hereinafter referred to as the Contracting Parties, desiring to stimulate civil air transportation between and via the Netherlands and Norway, hereby conclude the following agreement:*
 
-##### Artikel 1
+##### Article 1
 
-(1). Elke Overeenkomstsluitende Partij verleent aan de andere Overeenkomstsluitende Partij de in deze Overeenkomst omschreven rechten voor het instellen van geregelde internationale luchtdiensten op de routes die zijn omschreven in de hierbij behorende bijlage. Deze diensten en routes worden verder genoemd „overeengekomen diensten”, onderscheidenlijk „omschreven routes”.
+1. Each Contracting Party grants to the other Contracting Party the rights specified in the present Agreement, for the purpose of establishing scheduled international air services on the routes specified in the Annex hereto. Such services and routes are hereafter referred to as “agreed services” and “specified routes” respectively.
 
-(2). De door elke Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappijen genieten bij de exploitatie van een overeengekomen dienst op een omschreven route de volgende rechten:
+2. The airlines designated by each Contracting Party shall enjoy, while operating an agreed service on a specified route, the following rights:
 
-- a). om zonder te landen over het grondgebied van de andere Overeenkomstsluitende Partij te vliegen;
+- (a) to fly without landing across the territory of the other Contracting Party;
 
-- b). om op dat grondgebied te landen voor niet-verkeersdoeleinden;
+- (b) to make stops in the said territory for non-traffic purposes;
 
-- c). om op het grondgebied van de andere Overeenkomstsluitende Partij te landen voor het opnemen en afzetten van passagiers, post en vracht in internationaal verkeer.
+- (c) to make stops in the territory of the other Contracting Party for taking on and putting down passengers, mail and cargo in international traffic.
 
-##### Artikel 2
+##### Article 2
 
-(1). Elke Overeenkomstsluitende Partij heeft het recht aan de andere Overeenkomstsluitende Partij schriftelijk mededeling te doen van de aanwijzing van een of meer luchtvaartmaatschappijen voor de exploitatie van de overeengekomen diensten op de omschreven routes.
+1. Each Contracting Party shall have the right to designate in writing to the other Contracting Party one or more airlines for the purpose of operating the agreed services on the specified routes.
 
-(2). Na ontvangst van deze aanwijzing verleent de andere Overeenkomstsluitende Partij, met inachtneming van het bepaalde in de leden 3 en 4 van dit artikel, zonder uitstel de passende exploitatievergunningen aan de aangewezen luchtvaartmaatschappij of luchtvaartmaatschappijen.
+2. On receipt of such designation, the other Contracting Party shall, subject to the provisions of paragraphs 3 and 4 of this Article, without delay grant to the airline or airlines designated the appropriate operating authorizations.
 
-(3). De luchtvaartautoriteiten van een Overeenkomstsluitende Partij kunnen eisen dat de door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij aantoont dat zij in staat is te voldoen aan de voorwaarden die worden (gesteld door de wetten en voorschriften welke die autoriteiten gewoonlijk en redelijkerwijze ten aanzien van de exploitatie van internationale luchtdiensten toepassen overeenkomstig de bepalingen van het Verdrag inzake de internationale burgerluchtvaart (Chicago, 1944).
+3. The Aeronautical Authorities of one Contracting Party may require an airline designated by the other Contracting Party to satisfy them that is is qualified to fulfil the conditions prescribed under the laws and regulations normally and reasonably applied to the operation of international air services by such Authorities in conformity with the provisions of the Convention on International Civil Aviation (Chicago, 1944).
 
-(4). Elke Overeenkomstsluitende Partij heeft het recht de in lid 2 van dit artikel vermelde exploitatievergunningen niet te verlenen dan wel ten aanzien van de uitoefening door een aangewezen luchtvaartmaatschappij van de in artikel 1 omschreven rechten die voorwaarden te stellen welke haar noodzakelijk voorkomen in elk geval waarin niet ten genoegen van die Overeenkomstsluitende Partij is aangetoond dat een aanmerkelijk deel van de eigendom van en het daadwerkelijke toezicht op die luchtvaartmaatschappij berust bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij aanwijst, of bij haar onderdanen.
+4. Each Contracting Party shall have the right to refuse to grant the operating authorizations referred to in paragraph 2 of this Article, or to impose such conditions as it may deem necessary on the exercise by a designated airline of the rights specified in Article 1, in any case where the said Contracting Party is not satisfied that substantial ownership and effective control of that airline are vested in the Contracting Party designating the airline or in its nationals.
 
-(5). Wanneer een luchtvaartmaatschappij aldus is aangewezen en de vergunningen heeft verkregen, kan zij op elk tijdstip een aanvang maken met de exploitatie van de overeengekomen diensten, mits ten aanzien van die dienst een overeenkomstig de bepalingen van artikel 1 van deze Overeenkomst vastgesteld tarief van kracht is.
+5. When an airline has been so designated and authorized, it may begin at any time to operate the agreed services, provided that a tariff established in accordance with the provisions of Article 6 of the present Agreement is in force in respect of that service.
 
-##### Artikel 3
+##### Article 3
 
-(1). Elke Overeenkomstsluitende Partij heeft het recht een exploitatievergunning in te trekken of de uitoefening door een door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappij van de in artikel 1 van deze Overeenkomst omschreven rechten op te schorten of ten aanzien van de uitoefening van deze rechten de voorwaarden te stellen die zij noodzakelijk acht, wanneer
+1. Each Contracting Party shall have the right to revoke an operating authorization or to suspend the exercise of the rights specified in Article 1 of the present Agreement by an airline designated by the other Contracting Party, or to impose such conditions as it may deem necessary on the exercise of these rights:
 
-- a). niet te haren genoegen is aangetoond dat een aanmerkelijk deel van die eigendom van en het daadwerkelijk toezicht op die luchtvaartmaatschappij berust bij de Overeenkomstsluitende Partij die de luchtvaartmaatschappij aanwijst, of bij haar onderdanen, of
+- (a) in any case where it is not satisfied that substantial ownership and effective control of that airline are vested in the Contracting Party designating the airline or in nationals of such Contracting Party, or
 
-- b). die luchtvaartmaatschappij de wetten en voorschriften van de Overeenkomstsluitende Partij die de rechten verleent niet nakomt, of
+- (b) in the case of failure by that airline to comply with the laws or regulations of the Contracting Party granting these rights, or
 
-- c). die luchtvaartmaatschappij anderszins de exploitatie niet uitoefent volgens de door deze Overeenkomst gestelde voorwaarden.
+- (c) in case the airline otherwise fails to operate in accordance with the conditions prescribed under the present Agreement.
 
-(2). Tenzij onmiddellijke intrekking, opschorting of het stellen van voorwaarden als bedoeld in lid 1 van dit artikel noodzakelijk is om hernieuwde inbreuken op de wetten of voorschriften te voorkomen, wondt een zodanig recht slechts uitgeoefend na overleg met de andere Overeenkomstsluitende Partij.
+2. Unless immediate revocation, suspension or imposition of the conditions mentioned in paragraph 1 of this Article is essential to prevent further infringements of laws or regulations, such right shall be exercised only after consultation with the other Contracting Party.
 
-##### Artikel 4
+##### Article 4
 
-(1). Luchtvaartuigen die door de door een Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappijen op internationale diensten worden gebruikt, alsook hun normale uitrustingsstukken, reservedelen, voorraden motorbrandstof en smeermiddelen, proviand (met inbegrip van etenswaren, dranken en tabaksartikelen) die zich aan boord bevinden van die luchtvaartuigen zijn bij binnenkomst op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van alle douanerechten, inspectiekosten en andere rechten en heffingen, onder voorwaarde dat die uitrustingsstukken en voorraden aan boord van de luchtvaartuigen blijven totdat zij weer worden uitgevoerd.
+1. Aircraft operated on international services by the designated airlines of either Contracting Party, as well as their regular equipment, spare parts, supplies of fuels and lubricants, and aircraft stores (including food, beverages and tobacco) on board such aircraft shall be exempt from all customs duties, inspection fees and other duties or taxes on arriving in the territory of the other Contracting Party, provided such equipment and supplies remain on board the aircraft up to such time as they are re-exported.
 
-(2). Voorraden motorbrandstof, smeermiddelen, reservedelen, normale uitrustingsstukken en proviand, die in het grondgebied van een Overeenkomstsluitende Partij worden ingevoerd door of namens een aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij, of aan boord genomen worden van door die aangewezen luchtvaartmaatschappij gebruikte luchtvaartuigen en die uitsluitend bestemd zijn voor gebruik bij de exploitatie van internationale diensten, zijn vrijgesteld van alle nationale rechten en heffingen, daaronder begrepen douanerechten en inspectiekosten die worden geheven op het grondgebied van de eerste Overeenkomstsluitende Partij, zelfs wanneer die voorraden moeten worden gebruikt op de gedeelten van de route die worden afgelegd boven het grondgebied van de Overeenkomstsluitende Partij waar zij aan boord zijn genomen.
+2. Supplies of fuels, lubricants, spare parts, regular equipment and aircraft stores introduced into the territory of one Contracting Party by or on behalf of a designated airline of the other Contracting Party or taken on board the aircraft operated by such designated airline and intended solely for use in the operation of international services shall be exempt from all national duties and charges, including customs duties and inspection fees imposed in the territory of the first Contracting Party, even when these supplies are to be used on the parts of the journey performed over the territory of the Contracting Party in which they are taken on board.
 
-Verlangd kan worden dat de bovengemelde goederen onder douanetoezicht en -controle blijven.
+The materials referred to above may be required to be kept under customs supervision or control.
 
-(3). De normale boorduitrustingsstukken, reservedelen, proviand en voorraden motorbrandstof en smeermiddelen die zich aan boord bevinden van de luchtvaartuigen van een der Overeenkomstsluitende Partijen, kunnen op het grondgebied van de andere Overeenkomstsluitende Partij slechts worden uitgeladen met toestemming van de douaneautoriteiten van dat grondgebied, die kunnen eisen diat die goederen onder hun toezicht worden gesteld, totdat ze weer worden uitgevoerd of overeenkomstig de douanevoorschriften een andere bestemming hebben gekregen.
+3. The regular airborne equipment, spare parts, aircraft stores and supplies of fuels and lubricants retained on board the aircraft of either Contracting Party may be unloaded in the territory of the other Contracting Party only with the approval of the customs authorities of that Party, who may require that those materials be placed under their supervision up to such time as they are re-exported or otherwise disposed of in accordance with customs regulations.
 
-##### Artikel 5
+##### Article 5
 
-Passagiers in doorgaand verkeer op het grondgebied van een der Overeenkomstsluitende Partijen worden slechts aan een zeer vereenvoudigde controle onderworpen. Bagage en vracht in doorgaand verkeer zijn vrijgesteld van douanerechten en andere soortgelijke belastingen.
+Passengers in transit across the territory of either Contracting Party shall be subject to no more than a very simplified control. Baggage and cargo in direct transit shall be exempt from customs duties and other similar taxes.
 
-##### Artikel 6
+##### Article 6
 
-Wordt vervangen door de Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten, Parijs; 10 juli 1967.
+*Wordt vervangen door de Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten; Parijs, 10 juli 1967.*
 
-##### Artikel 7
+##### Article 7
 
-Elke Overeenkomstsluitende Partij neemt op zich aan de andere Partij het recht te verlenen om vrij, tegen de officiële wisselkoers, het batig saldo over te maken van ontvangsten en uitgaven dat op haar grondgebied is verkregen in verband met het vervoer van passagiers, bagage, postzendingen en vracht door de aangewezen luchtvaartmaatschappij van de andere Partij. Wanneer het betalingssysteem tussen die Overeenkomstsluitende Partijen onderworpen is aan een bijzondere overeenkomst, is bedoelde overeenkomst van toepassing.
+Either Contracting Party undertakes to grant the other Party free transfer, at the official rate of exchange, of the excess of receipts over expenditure achieved on its territory in connection with the carriage of passengers, baggage, mail shipments and freight by the designated airline of the other Party. Wherever the payments system between the Contracting Parties is governed by a special agreement, this agreement shall apply.
 
-##### Artikel 8
+##### Article 8
 
-In een geest van nauwe samenwerking plegen de luchtvaartautoriteiten van de Overeenkomstsluitende Partijen van tijd tot tijd overleg teneinde de toepassing en bevredigende uitvoering van de bepalingen van deze Overeenkomst en de daarbij behorende bijlage te verzekeren.
+In a spirit of close co-operation, the Aeronautical Authorities of the Contracting Parties shall consult each other from time to time with a view to ensuring the implementation of, and satisfactory compliance with, the provisions of the present Agreement and the Annex thereto.
 
-##### Artikel 9
+##### Article 9
 
-Indien een der Overeenkomstsluitende Partijen het wenselijk acht een bepaling van deze Overeenkomst te wijzigen, kan zij om overleg verzoeken met de andere Overeenkomstsluitende Partij; dit overleg, dat kan plaatsvinden tussen de luchtvaartautoriteiten en dat mondeling of schriftelijk kan geschieden, vangt aan binnen een termijn van zestig (60) dagen te rekenen van de datum van het verzoek af. Eventuele wijzigingen die aldus worden overeengekomen worden van kracht, wanneer zij zijn bevestigd door een diplomatieke notawisseling, waarin wordt vermeld dat is voldaan aan de formaliteiten die door de nationale wetgeving van elke Overeenkomstsluitende Partij worden vereist.
+If either of the Contracting Parties considers it desirable to modify any provision of the present Agreement, it may request consultation with the other Contracting Party; such consultation, which may be between the Aeronautical Authorities and which may be through discussion or by correspondence, shall begin within a period of sixty (60) days of the date of the request. Any modifications so agreed shall come into force when they have been confirmed by an exchange of diplomatic notes, which shall state that the formalities required by the national legislation of each Contracting Party have been accomplished.
 
-##### Artikel 10
+##### Article 10
 
-(1). Indien tussen de Overeenkomstsluitende Partijen een geschil ontstaat omtrent de uitlegging of toepassing van deze Overeenkomst, trachten de Overeenkomstsluitende Partijen in de eerste plaats het geschil te regelen door onderling overleg.
+1. If any dispute arises between the Contracting Parties relating to the interpretation or application of the present Agreement, the Contracting Parties shall in the first place endeavour to settle it by negotiation.
 
-(2). Indien de Overeenkomstsluitende Partijen er niet in slagen door middel van overleg een regeling te treffen kunnen zij overeenkomen het geschil ter beslissing voor te leggen aan een persoon of instantie, of kan het geschil op verzoek van een der Overeenkomstsluitende Partijen ter beslissing worden voorgelegd aan een scheidsgerecht van drie scheidsrechters, waarvan er één wondt aangewezen door elke Overeenkomstsluitende Partij en de derde wordt benoemd door de twee aldus aangewezen scheidsrechters. Elk der Overeenkomstsluitende Partijen wijst een scheidsrechter aan binnen een termijn van 60 dagen te rekenen vanaf de datum waarop een Overeenkomstsluitende Partij van de andere Partij langs diplomatieke weg een mededeling heeft ontvangen, waarin wordt verzocht om voorlegging van het geschil aan een scheidsgerecht; de derde scheidsrechter dient te zijn benoemd binnen een daarop volgende termijn van zestig dagen. Indien een der Overeenkomstsluitende Partijen in gebreke blijft binnen de bepaalde termijn een scheidsrechter aan te wijzen, of indien de derde scheidsrechter niet binnen de bepaalde termijn is benoemd, kan de Voorzitter van de Raad van de Burgerluchtvaartorganisatie door elk der Overeenkomstsluitende Partijen worden verzocht een scheidsrechter of scheidsrechters, al naar gelang noodzakelijk is, te benoemen. In dit geval dient de derde scheidsrechter onderdaan te zijn van een derde staat en dient hij op te treden als voorzitter van het scheidsgerecht.
+2. If the Contracting Parties fail to reach a settlement by negotiation, they may agree to refer the dispute for decision to some person or body, or the dispute may at the request of either Contracting Party be submitted for decision to a tribunal of three arbitrators, one to be nominated by each Contracting Party and the third to be appointed by the two so nominated. Each of the Contracting Parties shall nominate an arbitrator within a period of sixty days from the date of receipt by either Contracting Party from the other of a notice through diplomatic channels requesting arbitration of the dispute, and the third arbitrator shall be appointed within a further period of sixty days. If either of the Contracting Parties fails to nominate an arbitrator within the period specified, or if the third arbitrator is not appointed within the period specified, the President of the Council of the Civil Aviation Organization may be requested by either Contracting Party to appoint an arbitrator or arbitrators, as the case requires. In such case, the third arbitrator shall be a national of a third State and shall act as president of the arbitral body.
 
-(3). De Overeenkomstsluitende Partijen verbinden zich, zich te houden aan iedere ingevolge lid 2 van dit artikel gegeven beslissing.
+3. The Contracting Parties undertake to comply with any decision given under paragraph 2 of this Article.
 
-##### Artikel 11
+##### Article 11
 
-Elke Overeenkomstsluitende Partij kan te allen tijde aan de andere Overeenkomstsluitende Partij mededeling doen van haar besluit deze Overeenkomst te beëindigen; deze mededeling wordt tegelijkertijd gezonden aan de Internationale Burgerluchtvaartorganisatie. In dat geval loopt de Overeenkomst af twaalf (12) maanden na de datum van ontvangst van de mededeling door de andere Overeenkomstsluitende Partij, tenzij de mededeling in onderling overleg vóór het einde van deze termijn wordt ingetrokken. Indien van de andere Overeenkomstsluitende Partij geen ontvangstbevestiging wordt ontvangen, wordt de mededeling geacht te zijn ontvangen veertien (14) dagen na de ontvangst van de mededeling door de Internationale Burgerluchtvaartorganisatie.
+Either Contracting Party may at any time give notice to the other Contracting Party of its decision to terminate the present Agreement; such notice shall be simultaneously communicated to the International Civil Aviation Organization. In such case the Agreement shall terminate twelve (12) months after the date of receipt of the notice by the other Contracting Party, unless the notice to terminate is withdrawn by agreement before the expiry of this period. In the absence of acknowledgement of receipt by the other Contracting Party, notice shall be deemed to have been received fourteen (14) days after the receipt of the notice by the International Civil Aviation Organization.
 
-##### Artikel 12
+##### Article 12
 
-(1). Deze Overeenkomst wondt voorlopig toegepast van de datum van haar ondertekeninig af en treedt in werking op een datum die wordt vastgelegd in een diplomatieke notawisseling waarin wordt medegedeeld dat aan de krachtens de nationale wetgeving van elk der Overeenkomstsluitende Partijen vereiste formaliteiten is voldaan.
+1. The present Agreement shall be provisionally applicable from the date of its signature and shall come into force on a date to be laid down in an exchange of diplomatic notes, which shall state that the formalities required by the national legislation of each Contracting Party have been accomplished.
 
-(2). Wat het Koninkrijk der Nederlanden betreft is de Overeenkomst slechts van toepassing op het grondgebied in Europa.
+2. As regards the Kingdom of the Netherlands, the Agreement shall be applicable to the territory in Europe only.
 
 IN WITNESS WHEREOF the undersigned plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Agreement and have affixed thereto their seals.
 
 DONE at The Hague this 18th day of October 1962 in duplicate in the English language.
 
-**For the Kingdom of the Netherlands**
+*For the Kingdom of the Netherlands*
 
 (sd.) H. R. VAN HOUTEN.
 
-**For the Kingdom of Norway**
+*For the Kingdom of Norway*
 
 (sd.) O. J. L. KILDAL.

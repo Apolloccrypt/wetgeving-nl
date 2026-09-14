@@ -1,74 +1,19 @@
 ---
 title: "Verdrag betreffende de oprichting van het functioneel luchtruimblok „Europe Central” tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat"
 identifier: "BWBV0004999"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-06-01"
-last_updated: "2013-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004999"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004427293"
-version_id: "10004633392"
-internal_id: "C10008330811"
-label_id: "10004412414"
-dtd_version: "2.0"
-original_entry_into_force: "2013-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004999/2013-06-01/0"
-intitule_bron: "Trb.2011-27"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-02-04"
-intitule_in_force: "2013-05-31"
-intitule_status: "goed"
-original_publication: "Trb.2011-27"
-original_published_date: "2011-02-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-27"
-entry_into_force_date: "2013-06-01"
-jci_1_3: "jci1.3:c:BWBV0004999&z=2013-06-01&g=2013-06-01"
-jci_1_0: "1.0:c:BWBV0004999&g=2013-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-06-01"
+publicatiedatum: 2013-06-01
+laatste_update: 2013-06-01
+status: geldig
+toestand: 2013-06-01
+bron: "https://wetten.overheid.nl/BWBV0004999"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende de oprichting van het functioneel luchtruimblok „Europe Central” tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat
 
-De Bondsrepubliek Duitsland,
-
-het Koninkrijk België,
-
-de Republiek Frankrijk,
-
-het Groothertogdom Luxemburg,
-
-het Koninkrijk der Nederlanden
-
-en
-
-de Zwitserse Bondsstaat
-
-**De Verdragsluitende Staten**,
-
-Gelet op de Verordeningen betreffende het Gemeenschappelijk Europees Luchtruim van het Europees Parlement en de Raad van de Europese Unie, de relevante uitvoeringsbepalingen, de verklaring van de Lidstaten over militaire kwesties die verband houden met het Gemeenschappelijk Europees Luchtruim en de Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat inzake luchtvervoer;
-
-Gelet op de haalbaarheidsstudie betreffende het Functioneel Luchtruimblok „Europe Central” (**Functional Airspace Block Europe Central,** FABEC) van 18 september 2008;
-
-Gelet op de gezamenlijke intentieverklaring voor het creëren van een Functioneel Luchtruimblok „Europe Central” van 18 november 2008;
-
-Overwegende dat het luchtruim boven het grondgebied en dat onder de verantwoordelijkheid van de Verdragsluitende Staten van het FABEC behoren tot de meest complexe luchtverkeersgebieden van Europa;
-
-Overwegende dat een meer geïntegreerde aanpak van de luchtverkeersbeveiliging een belangrijke stap is om te voldoen aan de behoeften van het civiele en militaire luchtverkeer in dit gebied;
-
-Overwegende dat nauwe samenwerking tussen de verleners van luchtvaartnavigatiediensten voldoet aan de behoeften van het civiele en militaire luchtverkeer in dit gebied;
-
-Overwegende dat de oprichting van het FABEC noodzakelijkerwijs een verbeterde en toenemende grensoverschrijdende verlening van luchtvaartnavigatiediensten met zich meebrengt;
-
-Overwegende de „Just Culture” context zoals die tot uitdrukking komt in de internationale en Europese wetgeving;
-
-In aanmerking nemende dat de Verdragsluitende Staten met de oprichting van het FABEC de bedoeling hebben om, ongeacht de bestaande grenzen, een optimale capaciteit, doeltreffendheid en efficiëntie te bereiken voor het luchtverkeersbeveiligingsnetwerk en tegelijk een hoog veiligheidsniveau te behouden;
-
-Overtuigd van de toegevoegde waarde van het creëren van het FABEC voor de ecologische duurzaamheid;
-
-Zijn het volgende overeengekomen:
+*De Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat De Verdragsluitende Staten, Gelet op de Verordeningen betreffende het Gemeenschappelijk Europees Luchtruim van het Europees Parlement en de Raad van de Europese Unie, de relevante uitvoeringsbepalingen, de verklaring van de Lidstaten over militaire kwesties die verband houden met het Gemeenschappelijk Europees Luchtruim en de Overeenkomst tussen de Europese Gemeenschap en de Zwitserse Bondsstaat inzake luchtvervoer; Gelet op de haalbaarheidsstudie betreffende het Functioneel Luchtruimblok „Europe Central” (Functional Airspace Block Europe Central, FABEC) van 18 september 2008; Gelet op de gezamenlijke intentieverklaring voor het creëren van een Functioneel Luchtruimblok „Europe Central” van 18 november 2008; Overwegende dat het luchtruim boven het grondgebied en dat onder de verantwoordelijkheid van de Verdragsluitende Staten van het FABEC behoren tot de meest complexe luchtverkeersgebieden van Europa; Overwegende dat een meer geïntegreerde aanpak van de luchtverkeersbeveiliging een belangrijke stap is om te voldoen aan de behoeften van het civiele en militaire luchtverkeer in dit gebied; Overwegende dat nauwe samenwerking tussen de verleners van luchtvaartnavigatiediensten voldoet aan de behoeften van het civiele en militaire luchtverkeer in dit gebied; Overwegende dat de oprichting van het FABEC noodzakelijkerwijs een verbeterde en toenemende grensoverschrijdende verlening van luchtvaartnavigatiediensten met zich meebrengt; Overwegende de „Just Culture” context zoals die tot uitdrukking komt in de internationale en Europese wetgeving; In aanmerking nemende dat de Verdragsluitende Staten met de oprichting van het FABEC de bedoeling hebben om, ongeacht de bestaande grenzen, een optimale capaciteit, doeltreffendheid en efficiëntie te bereiken voor het luchtverkeersbeveiligingsnetwerk en tegelijk een hoog veiligheidsniveau te behouden; Overtuigd van de toegevoegde waarde van het creëren van het FABEC voor de ecologische duurzaamheid; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEGINSELEN
 
@@ -80,11 +25,11 @@ Tenzij anders bepaald, hebben de in dit Verdrag gebruikte begrippen de betekenis
 
 - b. onder „betreffende luchtruim” wordt verstaan het luchtruim boven het grondgebied van de Verdragsluitende Staten en dat onder hun verantwoordelijkheid, in overeenstemming met de regels van de Internationale Burgerluchtvaartorganisatie (ICAO), zoals bepaald in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004999&hoofdstuk=I&artikel=3&z=2013-06-01&g=2013-06-01) van dit Verdrag;
 
-- c. onder „Het Verdrag van Chicago” wordt verstaan de **Convention on International Civil Aviation**, die op 7 december 1944 in Chicago werd ondertekend, alsook:
+- c. onder „Het Verdrag van Chicago” wordt verstaan de *Convention on International Civil Aviation*, die op 7 december 1944 in Chicago werd ondertekend, alsook:
 
-- –. elke door de Verdragsluitende Staten geratificeerde wijziging die krachtens artikel 94, onderdeel a, van het Verdrag van Chicago wordt toegepast; en
+   - – elke door de Verdragsluitende Staten geratificeerde wijziging die krachtens artikel 94, onderdeel a, van het Verdrag van Chicago wordt toegepast; en
 
-- –. elke Bijlage of wijziging aangenomen krachtens artikel 90 van het Verdrag van Chicago, voor zover de internationale normen, waarnaar wordt verwezen in artikel 37 van het Verdrag van Chicago en die zijn opgenomen in die Bijlage of wijziging, van kracht zijn voor alle Verdragsluitende Staten;
+   - – elke Bijlage of wijziging aangenomen krachtens artikel 90 van het Verdrag van Chicago, voor zover de internationale normen, waarnaar wordt verwezen in artikel 37 van het Verdrag van Chicago en die zijn opgenomen in die Bijlage of wijziging, van kracht zijn voor alle Verdragsluitende Staten;
 
 - d. onder „grensoverschrijdend gebied” wordt verstaan het luchtruim boven internationale grenzen dat is gereserveerd voor het exclusieve gebruik door specifieke gebruikers tijdens een specifieke periode;
 
@@ -314,11 +259,11 @@ De Verdragsluitende Staten werken samen op het gebied van luchtvaartinlichtingen
 
 6. De Verdragsluitende Staten dienen in het bijzonder:
 
-- a). gezamenlijk de noodzakelijke verplichtingen te vervullen verbonden aan een gemeenschappelijke heffingszone voor en-route verkeer in het betreffende luchtruim;
+- a) gezamenlijk de noodzakelijke verplichtingen te vervullen verbonden aan een gemeenschappelijke heffingszone voor en-route verkeer in het betreffende luchtruim;
 
-- b). passende regelingen te treffen voor samenhang en eenvormigheid bij de toepassing van de regels en voorschriften met betrekking tot heffingen;
+- b) passende regelingen te treffen voor samenhang en eenvormigheid bij de toepassing van de regels en voorschriften met betrekking tot heffingen;
 
-- c). waar nodig, te zorgen voor de gezamenlijke coördinatie met EUROCONTROL.
+- c) waar nodig, te zorgen voor de gezamenlijke coördinatie met EUROCONTROL.
 
 ### HOOFDSTUK VII. TOEZICHT
 
@@ -606,13 +551,13 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de
 
 - a. brengt de Verdragsluitende Staten op de hoogte van:
 
-- –. elke neerlegging van een akte van bekrachtiging, samen met de datum ervan,
+   - – elke neerlegging van een akte van bekrachtiging, samen met de datum ervan,
 
-- –. de datum van inwerkingtreding van dit Verdrag en van elke wijziging ervan;
+   - – de datum van inwerkingtreding van dit Verdrag en van elke wijziging ervan;
 
-- –. elke aanvraag van een Staat om tot dit Verdrag toe te treden;
+   - – elke aanvraag van een Staat om tot dit Verdrag toe te treden;
 
-- –. elke opzegging door een Verdragsluitende Staat van dit Verdrag, de datum van opzegging en de datum van buitenwerkingtreding van dit Verdrag voor de betreffende Staat;
+   - – elke opzegging door een Verdragsluitende Staat van dit Verdrag, de datum van opzegging en de datum van buitenwerkingtreding van dit Verdrag voor de betreffende Staat;
 
 - b. laat dit Verdrag en alle latere wijzigingen registreren bij ICAO;
 
@@ -620,13 +565,13 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de
 
 - d. brengt ICAO en de Europese Commissie op de hoogte van:
 
-- –. elke toetreding tot dit Verdrag, samen met de datum ervan,
+   - – elke toetreding tot dit Verdrag, samen met de datum ervan,
 
-- –. elke opzegging van dit Verdrag, samen met de datum ervan;
+   - – elke opzegging van dit Verdrag, samen met de datum ervan;
 
-- –. elke geheel of gedeeltelijke opschorting van dit Verdrag, samen met de datum ervan;
+   - – elke geheel of gedeeltelijke opschorting van dit Verdrag, samen met de datum ervan;
 
-- –. de beëindiging van dit Verdrag, samen met de datum ervan;
+   - – de beëindiging van dit Verdrag, samen met de datum ervan;
 
 - e. bezorgt alle Verdragsluitende Staten voor eensluidend gewaarmerkte afschriften van dit Verdrag;
 

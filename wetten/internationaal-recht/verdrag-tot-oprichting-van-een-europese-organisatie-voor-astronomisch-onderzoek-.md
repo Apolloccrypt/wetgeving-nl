@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond"
 identifier: "BWBV0004585"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-01-17"
-last_updated: "1964-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004585"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004204653"
-version_id: "10004381552"
-internal_id: "C10008335941"
-label_id: "10004189774"
-dtd_version: "2.0"
-original_entry_into_force: "1964-01-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004585/1964-01-17/0"
-intitule_bron: "Trb.1962-156"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-12-14"
-intitule_in_force: "1964-03-03"
-intitule_status: "goed"
-original_publication: "Trb.1962-156"
-original_published_date: "1962-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-156"
-entry_into_force_date: "1964-01-17"
-jci_1_3: "jci1.3:c:BWBV0004585&z=1964-01-17&g=1964-01-17"
-jci_1_0: "1.0:c:BWBV0004585&g=1964-01-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-01-17"
+publicatiedatum: 1964-01-17
+laatste_update: 1964-01-17
+status: geldig
+toestand: 1964-01-17
+bron: "https://wetten.overheid.nl/BWBV0004585"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond
 
-De Regeringen van de Staten die partij zijn bij dit Verdrag:
-
-Overwegende,
-
-Dat het onderzoek van het zuidelijk deel van de sterrenhemel veel minder gevorderd is dan dat van het noordelijk deel,
-
-Dat, dientengevolge, de gegevens die de basis vormen van de kennis van ons melkwegstelsel in de verschillende gedeelten van de sterrenhemel geenszins gelijkwaardig zijn en dat het noodzakelijk is deze gegevens te verbeteren en, voor zover zij onvoldoende zijn, aan te vullen,
-
-Dat het, met name, bijzonder te betreuren is dat sterrenstelsels die in het noordelijk deel van de sterrenhemel geen equivalent hebben, voor de grootste thans in gebruik zijnde instrumenten bijna ontoegankelijk zijn,
-
-Dat hieruit blijkt dat het noodzakelijk is spoedig op het zuidelijk halfrond krachtige, met die op het noordelijk halfrond vergelijkbare instrumenten te installeren, doch dat dit voornemen slechts met succes kan worden volbracht door middel van internationale samenwerking;
-
-Verlangende gezamenlijk een sterrenwacht op het zuidelijk halfrond op te lichten, voorzien van krachtige instrumenten, en op deze wijze de samenwerking op het gebied van het astronomisch onderzoek te stimuleren en te organiseren;
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Regeringen van de Staten die partij zijn bij dit Verdrag: Overwegende, Dat het onderzoek van het zuidelijk deel van de sterrenhemel veel minder gevorderd is dan dat van het noordelijk deel, Dat, dientengevolge, de gegevens die de basis vormen van de kennis van ons melkwegstelsel in de verschillende gedeelten van de sterrenhemel geenszins gelijkwaardig zijn en dat het noodzakelijk is deze gegevens te verbeteren en, voor zover zij onvoldoende zijn, aan te vullen, Dat het, met name, bijzonder te betreuren is dat sterrenstelsels die in het noordelijk deel van de sterrenhemel geen equivalent hebben, voor de grootste thans in gebruik zijnde instrumenten bijna ontoegankelijk zijn, Dat hieruit blijkt dat het noodzakelijk is spoedig op het zuidelijk halfrond krachtige, met die op het noordelijk halfrond vergelijkbare instrumenten te installeren, doch dat dit voornemen slechts met succes kan worden volbracht door middel van internationale samenwerking; Verlangende gezamenlijk een sterrenwacht op het zuidelijk halfrond op te lichten, voorzien van krachtige instrumenten, en op deze wijze de samenwerking op het gebied van het astronomisch onderzoek te stimuleren en te organiseren; Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel I. Oprichting van de Organisatie
 
@@ -68,9 +35,9 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 - d. een meridiaankijker;
 
-- e. de hulpapparatuur nodig voor die programma's voor onderzoek die worden uitgevoerd met de instrumenten omschreven onder **a, b, c** en **d;**
+- e. de hulpapparatuur nodig voor die programma's voor onderzoek die worden uitgevoerd met de instrumenten omschreven onder *a, b, c* en *d;*
 
-- f. de gebouwen die nodig zijn om de onder **a, b, c, d** en **e** bedoelde uitrusting en het beheer van die sterrenwacht in onder te brengen, alsmede die voor de huisvesting van het personeel.
+- f. de gebouwen die nodig zijn om de onder *a, b, c, d* en *e* bedoelde uitrusting en het beheer van die sterrenwacht in onder te brengen, alsmede die voor de huisvesting van het personeel.
 
 3. Elk aanvullend programma dient aan de bij artikel IV van dit Verdrag ingestelde Raad te worden voorgelegd en door de Raad te worden goedgekeurd met twee-derde meerderheid van stemmen van alle Lid-Staten van de Organisatie. De Staten die het aanvullend programma niet hebben goedgekeurd, zijn niet verplicht bij te dragen tot de uitvoering van dat programma.
 
@@ -92,19 +59,19 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 2. De Raad
 
-- a). bepaalt het beleid van de Organisatie in wetenschappelijke, technische en administratieve aangelegenheden;
+- a) bepaalt het beleid van de Organisatie in wetenschappelijke, technische en administratieve aangelegenheden;
 
-- b). keurt de begroting met twee-derde meerderheid van stemmen van de Lid-Staten goed en stelt de financiële regelingen vast, overeenkomstig het bij dit Verdrag gevoegde Financiële Protocol;
+- b) keurt de begroting met twee-derde meerderheid van stemmen van de Lid-Staten goed en stelt de financiële regelingen vast, overeenkomstig het bij dit Verdrag gevoegde Financiële Protocol;
 
-- c). controleert de uitgaven, keurt de geverifieerde jaarrekeningen van de Organisatie goed en maakt deze laatste openbaar;
+- c) controleert de uitgaven, keurt de geverifieerde jaarrekeningen van de Organisatie goed en maakt deze laatste openbaar;
 
-- d). neemt besluiten ten aanzien van de personeelsformatie en keurt de aantrekking van het hoger personeel van de Organisatie goed;
+- d) neemt besluiten ten aanzien van de personeelsformatie en keurt de aantrekking van het hoger personeel van de Organisatie goed;
 
-- e). publiceert een jaarverslag;
+- e) publiceert een jaarverslag;
 
-- f). keurt het door de Directeur voorgestelde huishoudelijke reglement van de sterrenwacht goed;
+- f) keurt het door de Directeur voorgestelde huishoudelijke reglement van de sterrenwacht goed;
 
-- g). is bevoegd de maatregelen te nemen die nodig zijn voor het functioneren van de Organisatie.
+- g) is bevoegd de maatregelen te nemen die nodig zijn voor het functioneren van de Organisatie.
 
 3. De Raad komt minstens eenmaal per jaar bijeen en stelt zelf de plaats van bijeenkomst vast.
 
@@ -128,17 +95,17 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 ##### Artikel VI. Directeur en personeel
 
-- a). De Raad benoemt voor een vastgestelde termijn, met tweederde meerderheid van stemmen van de Lid-Staten, de Directeur, die slechts verantwoording verschuldigd is aan de Raad. Hij is met de algemene leiding van de Organisatie belast. Hij is de wettelijke vertegenwoordiger van de Organisatie. De Directeur legt een jaarlijks rapport over aan de Raad. Tenzij de Raad anders beslist, woont hij de vergaderingen van de Raad met raadgevende stem bij.
+1. - a) De Raad benoemt voor een vastgestelde termijn, met tweederde meerderheid van stemmen van de Lid-Staten, de Directeur, die slechts verantwoording verschuldigd is aan de Raad. Hij is met de algemene leiding van de Organisatie belast. Hij is de wettelijke vertegenwoordiger van de Organisatie. De Directeur legt een jaarlijks rapport over aan de Raad. Tenzij de Raad anders beslist, woont hij de vergaderingen van de Raad met raadgevende stem bij.
 
-- b). De Raad kan, met twee-derde meerderheid van stemmen van de Lid-Staten, de Directeur van zijn functie ontheffen.
+- b) De Raad kan, met twee-derde meerderheid van stemmen van de Lid-Staten, de Directeur van zijn functie ontheffen.
 
-- c). Indien de directeurszetel onbezet is, treedt de Voorzitter van de Raad op als wettelijk vertegenwoordiger van de Organisatie. De Raad kan dan, ter vervanging van de Directeur, een persoon benoemen wiens bevoegdheden en verantwoordelijkheden door de Raad worden vastgesteld.
+- c) Indien de directeurszetel onbezet is, treedt de Voorzitter van de Raad op als wettelijk vertegenwoordiger van de Organisatie. De Raad kan dan, ter vervanging van de Directeur, een persoon benoemen wiens bevoegdheden en verantwoordelijkheden door de Raad worden vastgesteld.
 
-- d). Met inachtneming van het bepaalde door de Raad, kunnen de Voorzitter en de Directeur hun ondertekeningsbevoegdheid overdragen.
+- d) Met inachtneming van het bepaalde door de Raad, kunnen de Voorzitter en de Directeur hun ondertekeningsbevoegdheid overdragen.
 
 2. De Directeur wordt bijgestaan door het wetenschappelijk, technisch en administratief personeel waarvoor de Raad zijn goedkeuring verleent.
 
-3. Behoudens de bepalingen van artikel V, lid 2 **d,** en binnen de door de begroting gestelde grenzen, wordt het personeel door de Directeur aangesteld en ontslagen. Het dienstverband wordt aangegaan en beëindigd overeenkomstig het door de Raad aangenomen statuut van het personeel.
+3. Behoudens de bepalingen van artikel V, lid 2 *d,* en binnen de door de begroting gestelde grenzen, wordt het personeel door de Directeur aangesteld en ontslagen. Het dienstverband wordt aangegaan en beëindigd overeenkomstig het door de Raad aangenomen statuut van het personeel.
 
 4. De Directeur en het personeel van de Organisatie oefenen hun functies uit in het belang van de Organisatie. Zij mogen geen instructies vragen aan, noch ontvangen van, andere dan de bevoegde organen van de Organisatie. Zij onthouden zich van iedere handeling die niet verenigbaar is met de aard van hun functies. Elke Lid-Staat verplicht zich de Directeur en het personeel van de Organisatie niet bij de uitoefening van hun functies te beïnvloeden.
 
@@ -146,13 +113,13 @@ De Organisatie bestaat uit de Raad en de Directeur.
 
 ##### Artikel VII. Financiële bijdragen
 
-- a). Elke Lid-Staat levert een bijdrage aan de investerings- en uitrustingsuitgaven, alsmede aan de lopende bedrijfskosten van de Organisatie, overeenkomstig een schaal die iedere drie jaar door de Raad wordt vastgesteld met twee-derde meerderheid van stemmen van de Lid-Staten op grond van het gemiddelde netto nationale inkomen, berekend volgens de in [artikel VII, lid 1 b, van het op 1 juli 1953 te Parijs ondertekende Verdrag tot oprichting van een Europese Organisatie voor kernfysisch onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBV0004885&artikel=VII) nedergelegde regels.
+1. - a) Elke Lid-Staat levert een bijdrage aan de investerings- en uitrustingsuitgaven, alsmede aan de lopende bedrijfskosten van de Organisatie, overeenkomstig een schaal die iedere drie jaar door de Raad wordt vastgesteld met twee-derde meerderheid van stemmen van de Lid-Staten op grond van het gemiddelde netto nationale inkomen, berekend volgens de in [artikel VII, lid 1 b, van het op 1 juli 1953 te Parijs ondertekende Verdrag tot oprichting van een Europese Organisatie voor kernfysisch onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBV0004885&artikel=VII) nedergelegde regels.
 
-- b). Deze bepalingen zijn slechts van toepassing op het in artikel II, tweede lid, genoemde basisprogramma.
+- b) Deze bepalingen zijn slechts van toepassing op het in artikel II, tweede lid, genoemde basisprogramma.
 
-- c). Geen Lid-Staat is echter verplicht jaarlijkse bijdragen te betalen die één derde van het totaal bedrag van de door de Raad vastgestelde bijdragen overschrijden. Dit maximum kan bij een met eenparigheid van stemmen genomen besluit van de Raad worden verminderd indien een Staat die niet in de Bijlage bij het Financiële Protocol is genoemd, lid van de Organisatie wordt.
+- c) Geen Lid-Staat is echter verplicht jaarlijkse bijdragen te betalen die één derde van het totaal bedrag van de door de Raad vastgestelde bijdragen overschrijden. Dit maximum kan bij een met eenparigheid van stemmen genomen besluit van de Raad worden verminderd indien een Staat die niet in de Bijlage bij het Financiële Protocol is genoemd, lid van de Organisatie wordt.
 
-2. Indien een in artikel II, derde lid, bedoeld aanvullend programma wordt vastgesteld, stelt de Raad een speciale schaal vast teneinde de bijdragen te bepalen, die de aan dat programma deelnemende Lid-Staten dienen te leveren ter bestrijding van de kosten van dat programma. Deze speciale schaal wordt vastgesteld volgens de in lid 1 van dit artikel genoemde regels, zonder dat daarbij echter met de onder **c** vermelde bepalingen rekening wordt gehouden.
+2. Indien een in artikel II, derde lid, bedoeld aanvullend programma wordt vastgesteld, stelt de Raad een speciale schaal vast teneinde de bijdragen te bepalen, die de aan dat programma deelnemende Lid-Staten dienen te leveren ter bestrijding van de kosten van dat programma. Deze speciale schaal wordt vastgesteld volgens de in lid 1 van dit artikel genoemde regels, zonder dat daarbij echter met de onder *c* vermelde bepalingen rekening wordt gehouden.
 
 3. Staten die lid worden van de Organisatie na de datum van de inwerkingtreding van dit Verdrag, zijn verplicht, behalve hun bijdrage aan de toekomstige investerings- en uitrustingsuitgaven en aan de lopende bedrijfskosten, tevens een speciale bijdrage te leveren die hun aandeel vertegenwoordigt in de reeds verrichte investerings- en uitrustingsuitgaven. De omvang van deze bijdrage wordt met tweederde meerderheid van stemmen van de Lid-Staten door de Raad vastgesteld.
 
@@ -209,64 +176,6 @@ De Organisatie kan te allen tijde bij een met twee-derde meerderheid van stemmen
 ##### Artikel XVI. Registratie
 
 Het Ministerie van Buitenlandse Zaken van de Franse Republiek doet dit Verdrag en het daaraan gehechte Financiële Protocol, zodra zij in werking zijn getreden, registreren bij de Secretaris-Generaal van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
-
-De Regeringen van de Staten die partij zijn bij het Verdrag tot oprichting van een Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond, hierna te noemen „het Verdrag”,
-
-Verlangende voorzieningen te treffen voor het financiële beheer van de Organisatie,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
-
-##### Artikel 1. Begroting
-
-1. Het boekjaar van de Organisatie loopt van 1 januari tot 31 december.
-
-2. Uiterlijk op 1 september van elk jaar legt de Directeur ter bestudering en goedkeuring gedetailleerde ramingen van de inkomsten en uitgaven voor het volgende boekjaar aan de Raad voor.
-
-3. Ramingen van inkomsten en uitgaven worden in hoofdstukken verdeeld. Overboekingen binnen de begroting zijn niet toegestaan behalve met machtiging van de Financiële Commissie bedoeld in artikel 3. De nauwkeurige vorm van de ramingen wordt bepaald door de Financiële Commissie op advies van de Directeur.
-
-##### Artikel 2. Aanvullende begroting
-
-Indien de omstandigheden zulks nodig maken kan de Raad de Directeur verzoeken een aanvullende of een herziene begroting in te dienen. Een besluit dat extra uitgaven met zich medebrengt wordt niet geacht door de Raad te zijn goedgekeurd, tenzij de Raad eveneens een door de Directeur ingediende raming van de daaruit voortvloeiende uitgaven heeft goedgekeurd.
-
-##### Artikel 3. Financiële Commissie
-
-De Raad stelt een Financiële Commissie in, bestaande uit vertegenwoordigers van alle Lid-Staten; de bevoegdheden van deze vertegenwoordigers worden bepaald in het in artikel 8 van dit Protocol bedoelde Financiële Reglement. De Directeur legt de ramingen op de begroting aan de Commissie voor, waarna ze worden doorgezonden aan de Raad met het rapport dat de Commissie daaromtrent heeft uitgebracht.
-
-##### Artikel 4. Bijdragen
-
-1. Voor het tijdvak dat eindigt op 31 december van het jaar waarin het Verdrag in werking treedt, stelt de Raad voorlopige ramingen op de begroting vast; de uitgaven worden bestreden uit de overeenkomstig de bepalingen van de Bijlage bij dit Protocol vastgestelde bijdragen.
-
-2. Van 1 januari van het daaropvolgende jaar af, worden de op de door de Raad goedgekeurde begroting voorkomende uitgaven bestreden uit de overeenkomstig de bepalingen van het eerste lid van artikel VII van het Verdrag vastgestelde bijdragen van de Lid-Staten.
-
-3. Indien een Staat lid wordt van de Organisatie na 31 december van het jaar waarin het Verdrag in werking treedt, worden de bijdragen van alle Lid-Staten herzien en wordt de nieuwe schaal toegepast van het begin van het lopende boekjaar af. Terugbetalingen geschieden voor zover deze nodig zijn om de bijdragen van alle Lid-Staten aan de nieuwe schaal aan te passen.
-
-- a). Op advies van de Directeur, bepaalt de Financiële Commissie de wijze waarop de betaling van de bijdragen geschiedt teneinde een juiste financiering van de Organisatie te verzekeren.
-
-- b). De Directeur stelt daarna de Lid-Staten in kennis van de omvang van hun bijdragen en van de data waarop de betalingen dienen plaats te vinden.
-
-##### Artikel 5. Valuta waarin de bijdragen dienen te worden betaald
-
-1. De Raad bepaalt de valuta waarin de begroting van de Organisatie wordt uitgedrukt. In overeenstemming met de op het ogenblik van betaling van kracht zijnde betalingsregelingen worden de bijdragen van de Lid-Staten in die valuta betaald.
-
-2. De Raad kan echter eisen dat de Lid-Staten een gedeelte van hun bijdragen betalen in iedere andere valuta die de Organisatie nodig heeft om haar taken te vervullen.
-
-##### Artikel 6. Werkfonds
-
-De Raad kan een werkfonds vormen.
-
-##### Artikel 7. Boekhouding en controle
-
-1. De Directeur doet alle ontvangsten en uitgaven boeken, alsmede een jaarbalans van de Organisatie opmaken.
-
-2. De Raad benoemt financiële commissarissen; de ambtstermijn van de financiële commissarissen, die herbenoembaar zijn, bedraagt drie jaar. De commissarissen zijn belast met de controle op het financiële beheer en de balans van de Organisatie, met name om na te gaan of, binnen de grenzen van het Financiële Reglement, de uitgaven overeenkomen met de ramingen op de begroting. Zij vervullen alle andere in het Financiële Reglement omschreven functies.
-
-3. De Directeur verschaft de financiële commissarissen alle inlichtingen en hulp die zij voor het vervullen van hun taak nodig hebben.
-
-##### Artikel 8. Financieel Reglement
-
-Het Financiële Reglement regelt alle bijzonderheden ten aanzien van de begroting, de boekhouding en de financiën van de Organisatie.
-
-Het Financiële Reglement wordt met eenparigheid van stemmen door de Raad goedgekeurd.
 
 TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers, daartoe behoorlijk gevolmachtigd, dit Verdrag hebben ondertekend.
 

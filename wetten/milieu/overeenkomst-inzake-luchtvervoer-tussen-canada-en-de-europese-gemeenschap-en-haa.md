@@ -1,130 +1,19 @@
 ---
 title: "Overeenkomst inzake luchtvervoer tussen Canada en de Europese Gemeenschap en haar lidstaten"
 identifier: "BWBV0004292"
-country: "nl"
-rank: "verdrag"
-publication_date: "2019-05-16"
-last_updated: "2019-05-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004292"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004039163"
-version_id: "10004206122"
-internal_id: "C10009557561"
-label_id: "10004023874"
-dtd_version: "2.0"
-original_entry_into_force: "2019-05-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004292/2019-05-16/0"
-intitule_bron: "Trb.2010-211"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-07-19"
-intitule_in_force: "2019-05-13"
-intitule_status: "goed"
-original_publication: "Trb.2010-211"
-original_published_date: "2010-07-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-211"
-entry_into_force_date: "2019-05-16"
-jci_1_3: "jci1.3:c:BWBV0004292&z=2019-05-16&g=2019-05-16"
-jci_1_0: "1.0:c:BWBV0004292&g=2019-05-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "2019-05-16"
+publicatiedatum: 2019-05-16
+laatste_update: 2019-05-16
+status: geldig
+toestand: 2019-05-16
+bron: "https://wetten.overheid.nl/BWBV0004292"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake luchtvervoer tussen Canada en de Europese Gemeenschap en haar lidstaten
 
-Overeenkomst inzake luchtvervoer tussen Canada enerzijds,
-
-en
-
-De Republiek Oostenrijk,
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Republiek Cyprus,
-
-De Republiek Tsjechië,
-
-Het Koninkrijk Denemarken,
-
-De Republiek Estland,
-
-De Republiek Finland,
-
-De Franse Republiek,
-
-De Bondsrepubliek Duitsland,
-
-De Helleense Republiek,
-
-De Republiek Hongarije,
-
-Ierland,
-
-De Italiaanse Republiek,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slowakije,
-
-De Republiek Slovenië,
-
-Het Koninkrijk Spanje,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-zijnde partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en lidstaten van de Europese Unie (hierna „de lidstaten” genoemd),
-
-en de Europese Gemeenschap, anderzijds;
-
-Canada en de lidstaten die partij zijn bij het Verdrag inzake de internationale burgerluchtvaart, dat op 7 december 1944 voor ondertekening is opengesteld in Chicago, samen met de Europese Gemeenschap;
-
-Wensende een luchtvaartstelsel te bevorderen dat gebaseerd is op mededinging tussen luchtvaartmaatschappijen met een minimum aan overheidsbemoeienis en -regulering;
-
-Wensende hun belangen op het gebied van luchtvervoer te bevorderen;
-
-Het belang erkennende van efficiënt luchtvervoer voor het bevorderen van handel, toerisme en investeringen;
-
-Wensende de luchtdiensten te verbeteren;
-
-Wensende de hoogste graad van veiligheid en beveiliging op het gebied van luchtvervoer te garanderen;
-
-Vastbesloten de mogelijke voordelen van samenwerking op het gebied van regelgeving te verwezenlijken en, voor zover praktisch haalbaar, harmonisering van regels en benaderingen tot stand te brengen;
-
-De belangrijke potentiële baten erkennende die kunnen voortvloeien uit concurrerende luchtdiensten en levensvatbare luchtdienstsectoren;
-
-Wensende een concurrerende omgeving voor luchtdiensten te bevorderen, erkennende dat potentiële voordelen niet kunnen worden verwezenlijkt zonder gelijke concurrentievoorwaarden voor luchtvaartmaatschappijen;
-
-Wensende hun luchtvaartmaatschappijen eerlijke en gelijke kansen te bieden om de in deze Overeenkomst bedoelde diensten te verlenen;
-
-Wensende de voordelen voor passagiers, expediteurs, luchtvaartmaatschappijen en luchthavens, hun werknemers en anderen die er indirect baat bij hebben, te maximaliseren;
-
-Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid;
-
-Nota nemende van het belang van het beschermen van de consument en het aanmoedigen van een passend niveau van consumentenbescherming in het kader van luchtdiensten;
-
-Nota nemende van het belang van kapitaal voor de luchtvaartsector om de verdere ontwikkeling van luchtdiensten mogelijk te maken;
-
-Wensende een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling op het vermelde Verdrag;
-
-Zijn als volgt overeengekomen:
+*Overeenkomst inzake luchtvervoer tussen Canada enerzijds, en De Republiek Oostenrijk, Het Koninkrijk België, De Republiek Bulgarije, De Republiek Cyprus, De Republiek Tsjechië, Het Koninkrijk Denemarken, De Republiek Estland, De Republiek Finland, De Franse Republiek, De Bondsrepubliek Duitsland, De Helleense Republiek, De Republiek Hongarije, Ierland, De Italiaanse Republiek, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Malta, Het Koninkrijk der Nederlanden, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slowakije, De Republiek Slovenië, Het Koninkrijk Spanje, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, zijnde partijen bij het Verdrag tot oprichting van de Europese Gemeenschap en lidstaten van de Europese Unie (hierna „de lidstaten” genoemd), en de Europese Gemeenschap, anderzijds; Canada en de lidstaten die partij zijn bij het Verdrag inzake de internationale burgerluchtvaart, dat op 7 december 1944 voor ondertekening is opengesteld in Chicago, samen met de Europese Gemeenschap; Wensende een luchtvaartstelsel te bevorderen dat gebaseerd is op mededinging tussen luchtvaartmaatschappijen met een minimum aan overheidsbemoeienis en -regulering; Wensende hun belangen op het gebied van luchtvervoer te bevorderen; Het belang erkennende van efficiënt luchtvervoer voor het bevorderen van handel, toerisme en investeringen; Wensende de luchtdiensten te verbeteren; Wensende de hoogste graad van veiligheid en beveiliging op het gebied van luchtvervoer te garanderen; Vastbesloten de mogelijke voordelen van samenwerking op het gebied van regelgeving te verwezenlijken en, voor zover praktisch haalbaar, harmonisering van regels en benaderingen tot stand te brengen; De belangrijke potentiële baten erkennende die kunnen voortvloeien uit concurrerende luchtdiensten en levensvatbare luchtdienstsectoren; Wensende een concurrerende omgeving voor luchtdiensten te bevorderen, erkennende dat potentiële voordelen niet kunnen worden verwezenlijkt zonder gelijke concurrentievoorwaarden voor luchtvaartmaatschappijen; Wensende hun luchtvaartmaatschappijen eerlijke en gelijke kansen te bieden om de in deze Overeenkomst bedoelde diensten te verlenen; Wensende de voordelen voor passagiers, expediteurs, luchtvaartmaatschappijen en luchthavens, hun werknemers en anderen die er indirect baat bij hebben, te maximaliseren; Het belang bevestigend van bescherming van het milieu bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid; Nota nemende van het belang van het beschermen van de consument en het aanmoedigen van een passend niveau van consumentenbescherming in het kader van luchtdiensten; Nota nemende van het belang van kapitaal voor de luchtvaartsector om de verdere ontwikkeling van luchtdiensten mogelijk te maken; Wensende een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling op het vermelde Verdrag; Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Titels en definities
 
@@ -144,7 +33,7 @@ Zijn als volgt overeengekomen:
 
 - f. „Verdrag”: het Verdrag inzake de internationale burgerluchtvaart, dat op 7 december 1944 voor ondertekening is opengesteld in Chicago, en alle bijlagen die krachtens artikel 90 van dat Verdrag zijn vastgesteld en alle wijzigingen van de bijlagen of het Verdrag uit hoofde van de artikelen 90 en 94 van het Verdrag, voor zover die bijlagen en wijzigingen door Canada en de lidstaten zijn goedgekeurd; en
 
-- g. „grondgebied”: voor Canada: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren, zoals vastgelegd in de binnenlandse wetgeving, inclusief het luchtruim boven deze gebieden; voor de lidstaten van de Europese Gemeenschap: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag en de daarop volgende instrumenten vastgestelde voorwaarden, inclusief het luchtruim boven deze gebieden; de toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Gemeenschap inzake de luchtvaart, die met ingang van 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Cordoba is aangenomen.
+- g „grondgebied”: voor Canada: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren, zoals vastgelegd in de binnenlandse wetgeving, inclusief het luchtruim boven deze gebieden; voor de lidstaten van de Europese Gemeenschap: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag en de daarop volgende instrumenten vastgestelde voorwaarden, inclusief het luchtruim boven deze gebieden; de toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Gemeenschap inzake de luchtvaart, die met ingang van 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Cordoba is aangenomen.
 
 ##### Artikel 2. Verlening van rechten
 
@@ -308,13 +197,17 @@ Elke partij eist de naleving van:
 
 1. Elke partij geeft de luchtvaartmaatschappijen van de andere partij eerlijke en gelijke gelegenheid om de luchtdiensten waarop deze Overeenkomst betrekking heeft, aan te bieden.
 
+Capaciteit
+
 2. Elke partij staat alle luchtvaartmaatschappijen van de andere partij toe de frequentie en capaciteit te bepalen van de luchtdiensten die zij, in het kader van deze Overeenkomst, op basis van commerciële marktoverwegingen aanbieden. Geen van beide partijen legt eenzijdig beperkingen op met betrekking tot het verkeersvolume, de frequentie of de regelmaat van de diensten of het vliegtuigtype of de vliegtuigtypes die door de luchtvaartmaatschappijen van de andere partij worden geëxploiteerd, noch eist zij dat de luchtvaartmaatschappijen van de andere partij dienstregelingen, programma's voor chartervluchten of operationele plannen moeten indienen, tenzij dit vereist is om technische, operationele of ecologische redenen (lokale luchtkwaliteit en geluidshinder), onder gelijke voorwaarden overeenkomstig artikel 15 van het verdrag.
 
-- a. Onverminderd de regelgevende voorschriften die elke partij normaal op dergelijke activiteiten toepassen, mag elke luchtvaartmaatschappij van de andere partij toetreden tot coöperatieve regelingen met het oog op:
+Codesharing
 
-- i. het verlenen van luchtdiensten op de gespecificeerde routes door het verkopen van vervoer onder eigen code met betrekking tot vluchten die worden geëxploiteerd door Canada of door lidstaten en/of door een derde land; en/of een aanbieder van oppervlakte- (land- of zee-)vervoer in een willekeurig land,
+3. - a. Onverminderd de regelgevende voorschriften die elke partij normaal op dergelijke activiteiten toepassen, mag elke luchtvaartmaatschappij van de andere partij toetreden tot coöperatieve regelingen met het oog op:
 
-- ii. het verrichten van vervoer onder de code van een andere luchtvaartmaatschappij, voor zover die andere luchtvaartmaatschappij de toestemming van de luchtvaartautoriteiten van een partij heeft gekregen om onder haar eigen code vervoer te verkopen op vluchten die door een luchtvaartmaatschappij van een partij worden geëxploiteerd.
+   - i. het verlenen van luchtdiensten op de gespecificeerde routes door het verkopen van vervoer onder eigen code met betrekking tot vluchten die worden geëxploiteerd door Canada of door lidstaten en/of door een derde land; en/of een aanbieder van oppervlakte- (land- of zee-)vervoer in een willekeurig land,
+
+   - ii. het verrichten van vervoer onder de code van een andere luchtvaartmaatschappij, voor zover die andere luchtvaartmaatschappij de toestemming van de luchtvaartautoriteiten van een partij heeft gekregen om onder haar eigen code vervoer te verkopen op vluchten die door een luchtvaartmaatschappij van een partij worden geëxploiteerd.
 
 - b. Een partij mag alle luchtvaartmaatschappijen die bij codesharingregelingen betrokken zijn, verplichten houder te zijn van de vergunning voor de onderliggende route.
 
@@ -322,13 +215,17 @@ Elke partij eist de naleving van:
 
 - d. De partijen verplichten alle luchtvaartmaatschappijen die bij codesharingregelingen zijn betrokken, om de passagiers met betrekking tot elk deel van de reis in kennis te stellen van de identiteit van de exploitant en van de vervoerswijze.
 
+Grondafhandeling
+
 4. Elke partij verleent de luchtvaartmaatschappijen van de andere partij die op haar grondgebied actief zijn toestemming om:
 
-- a. op basis van wederkerigheid zelf de grondafhandeling op haar grondgebied te verzorgen of, indien zij dit verkiezen, de grondafhandelingsdiensten volledig of gedeeltelijk te laten uitvoeren door een agent die door de bevoegde autoriteiten van de partij gemachtigd is om dergelijke diensten te verlenen; en
+- a op basis van wederkerigheid zelf de grondafhandeling op haar grondgebied te verzorgen of, indien zij dit verkiezen, de grondafhandelingsdiensten volledig of gedeeltelijk te laten uitvoeren door een agent die door de bevoegde autoriteiten van de partij gemachtigd is om dergelijke diensten te verlenen; en
 
 - b. grondafhandelingsdiensten te verzorgen voor andere luchtvaartmaatschappijen die op dezelfde luchthaven actief zijn, voor zover zij hiertoe gemachtigd zijn en dit verenigbaar is met de toepasselijke wet- en regelgeving.
 
 5. Alleen om redenen die in de eerste plaats betrekking hebben op de veiligheid of beveiliging van de luchthaven mogen fysieke of operationele beperkingen worden opgelegd aan de uitoefening van de in lid 4, onder a) en b), vermelde rechten. Deze beperkingen moeten uniform worden toegepast, onder voorwaarden die niet minder gunstig zijn dan de gunstigste voorwaarden die beschikbaar zijn voor luchtvaartmaatschappijen of landen die op het ogenblik dat de beperkingen worden opgelegd bij soortgelijke internationale luchtdiensten zijn betrokken.
+
+Vertegenwoordigers van luchtvaartmaatschappijen
 
 6. Elke partij staat toe dat:
 
@@ -344,6 +241,8 @@ Elke partij eist de naleving van:
 
 - b. moet elke partij de goedkeuring van aanvragen voor werkvergunningen van personeelsleden die gedurende hoogstens negentig (90) dagen bepaalde tijdelijke taken uitvoeren, vergemakkelijken en bespoedigen.
 
+Verkoop, plaatselijke uitgaven en transfer van fondsen
+
 8. Elke partij staat toe dat de luchtvaartmaatschappijen van de andere partij:
 
 - a. zich op haar grondgebied rechtstreeks of, naar goeddunken van de luchtvaartmaatschappijen, via hun agenten bezighouden met de verkoop van luchtvervoer in de munteenheid van haar grondgebied of, naar goeddunken van de luchtvaartmaatschappijen, in vrij inwisselbare munteenheden van andere landen; het staat iedereen vrij dit vervoer te kopen in de door die luchtvaartmaatschappijen aanvaarde munteenheden;
@@ -351,6 +250,8 @@ Elke partij eist de naleving van:
 - b. de lokale kosten, waaronder brandstofkosten, op haar grondgebied betalen in de lokale munteenheid of, naar goeddunken van de luchtvaartmaatschappijen, in vrij inwisselbare munteenheden; en
 
 - c. de bedragen die zij door de normale uitoefening van hun activiteiten verkrijgen, op verzoek omwisselen en naar het buitenland overmaken. De omwisseling en overmaking worden zonder beperkingen of vertragingen toegestaan tegen de wisselkoersen voor lopende transacties die op de markt gelden op het ogenblik dat het verzoek om overmaking wordt ingediend en mogen niet worden belast, met uitzondering van de normale heffingen die banken in rekening brengen voor dergelijke transacties.
+
+Intermodale diensten
 
 9. Elke partij staat toe dat luchtvaartmaatschappijen:
 
@@ -360,17 +261,27 @@ Elke partij eist de naleving van:
 
 - c. die intermodale diensten voor vrachtvervoer exploiteren, zowel het luchtvervoer als het land- of maritiem vervoer tegen één prijs aanbieden, voor zover de passagiers en expediteurs correcte feitelijke informatie krijgen met betrekking tot dit vervoer.
 
+Prijzen
+
 10. De partijen staan toe dat de luchtvaartmaatschappijen hun prijzen vrij vaststellen op basis van vrije en eerlijke mededinging. Geen van de partijen zal eenzijdig actie ondernemen tegen de invoering of handhaving van een prijs voor internationaal vervoer naar of vanaf haar grondgebied.
 
 11. De partijen eisen niet dat de prijzen bij de luchtvaartautoriteiten worden ingediend.
 
 12. De partijen staan de luchtvaartautoriteiten toe onderling overleg te plegen over kwesties als, maar niet beperkt tot, niet-correcte, onredelijke of discriminerende prijzen.
 
+Geautomatiseerde boekingssystemen
+
 13. De partijen passen op eerlijke en niet-discriminerende wijze hun respectieve wetten en regels toe met betrekking tot de werking van geautomatiseerde boekingssystemen op hun grondgebied.
+
+Franchising en branding
 
 14. De luchtvaartmaatschappijen van beide partijen mogen de onder deze Overeenkomst vallende luchtdiensten verlenen overeenkomstig een franchising- of brandingregeling met bedrijven, waaronder luchtvaartmaatschappijen, voor zover de luchtvaartmaatschappij die de luchtdiensten aanbiedt houder is van de passende routevergunning, aan de voorwaarden van de nationale wetten en regels is voldaan, en de luchtvaartautoriteiten daarvoor goedkeuring hebben verleend.
 
+Wet Leasing
+
 15. Met het oog op het verlenen van de onder deze Overeenkomst vallende luchtdiensten, en voor zover de luchtvaartmaatschappij die de luchtdiensten aanbiedt en de exploitant van het desbetreffende luchtvaartuig houder zijn van de passende vergunningen, mogen de luchtvaartmaatschappijen van de partijen die onder deze Overeenkomst vallende luchtdiensten aanbieden door gebruik te maken van luchtvaartuigen en bemanningen van andere luchtvaartmaatschappijen, inclusief maatschappijen uit andere landen, voor zover de luchtvaartautoriteiten daarvoor toestemming verlenen. Met het oog op de toepassing van deze alinea hoeven de luchtvaartmaatschappijen die de luchtvaartuigen exploiteren geen vergunning voor de onderliggende route te hebben.
+
+Chartervluchten/niet-geregelde vluchten
 
 16. De bepalingen die zijn uiteengezet in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=4&z=2019-05-16&g=2019-05-16) (Investeringen), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=5&z=2019-05-16&g=2019-05-16) (Toepassing van de wetgeving), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=6&z=2019-05-16&g=2019-05-16) (Veiligheid van de burgerluchtvaart), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=7&z=2019-05-16&g=2019-05-16) (Beveiliging van de burgerluchtvaart), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=8&z=2019-05-16&g=2019-05-16) (Douanerechten, -belastingen en -heffingen), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=9&z=2019-05-16&g=2019-05-16) (Statistieken), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=10&z=2019-05-16&g=2019-05-16) (Consumentenbelangen), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=11&z=2019-05-16&g=2019-05-16) (Beschikbaarheid van luchthavens en luchtvaartvoorzieningen en -diensten), [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=12&z=2019-05-16&g=2019-05-16) (Heffingen voor luchthavens en luchtvaartvoorzieningen en -diensten), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=13&z=2019-05-16&g=2019-05-16) (Commercieel kader), [14](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=14&z=2019-05-16&g=2019-05-16) (Concurrentiekader), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=15&z=2019-05-16&g=2019-05-16) (Luchtverkeersbeheer), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) (Gemengd Comité) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=18&z=2019-05-16&g=2019-05-16) (Milieu) van deze Overeenkomst, zijn eveneens van toepassing op door de ene partij geëxploiteerde chartervluchten en andere niet-geregelde vluchten naar of van het grondgebied van de andere partij.
 
@@ -505,152 +416,6 @@ Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtredin
 1. Indien de partijen partij worden bij een multilaterale overeenkomst of overgaan tot de bekrachtiging van een besluit van de Internationale Burgerluchtvaartorganisatie of een andere internationale intergouvernementele organisatie dat betrekking heeft op onder deze Overeenkomst vallende aangelegenheden, plegen zij overleg in het Gemengd Comité om te bepalen welke invloed de bepalingen van die multilaterale overeenkomst of dat multilaterale besluit hebben op de onderhavige Overeenkomst en of deze met het oog hierop moet worden herzien.
 
 2. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 23 (Inwerkingtreding en voorlopige toepassing), lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=23&z=2019-05-16&g=2019-05-16), van deze Overeenkomst worden de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&z=2019-05-16&g=2019-05-16) van deze Overeenkomst vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&z=2019-05-16&g=2019-05-16) van deze Overeenkomst. Bij inwerkingtreding overeenkomstig artikel 23, lid 1, van deze Overeenkomst, vervangt deze Overeenkomst de relevante bepalingen van de in bijlage 3 van deze overeenkomst vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in bijlage 2 van deze overeenkomst.
-
-##### Deel 1. Eigendom van en zeggenschap over de luchtvaartmaatschappijen van beide partijen
-
-1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=4&z=2019-05-16&g=2019-05-16) (Investeringen) mogen luchtvaartmaatschappijen van een partij, op basis van wederkerigheid, eigendom zijn van onderdanen van welke andere partij ook, voor zover dit is toegestaan uit hoofde van de Canadese nationale wetten en regels voor buitenlandse investeringen in luchtvaartmaatschappijen.
-
-2. Onverminderd [artikel 3 (Aanwijzing, vergunning en intrekking), lid 2, onder c)](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=3&z=2019-05-16&g=2019-05-16), en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=4&z=2019-05-16&g=2019-05-16) (Investeringen) van de Overeenkomst, is in de plaats van artikel 3 (Aanwijzing, vergunning en intrekking), lid 2, onder c), de volgende bepaling van toepassing met betrekking tot de eigendom van en zeggenschap over luchtvaartmaatschappijen, mits niet anders is bepaald in de in [deel 2, punt 2, onder c) en d), van deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&deel=2&z=2019-05-16&g=2019-05-16) vermelde wetten en regels:
-
-- „in het geval van een luchtvaartmaatschappij uit Canada, berust de eigendom en de effectieve zeggenschap over de luchtvaartmaatschappij bij onderdanen van Canada, heeft de luchtvaartmaatschappij een Canadese vergunning en is het hoofdkantoor van de luchtvaartmaatschappij in Canada gevestigd; in het geval van een luchtvaartmaatschappij uit een lidstaat, berust de eigendom en de effectieve zeggenschap over de luchtvaartmaatschappij bij onderdanen van de lidstaten, IJsland, Liechtenstein, Noorwegen of Zwitserland, heeft de luchtvaartmaatschappij een communautaire vergunning en is het hoofdkantoor van de luchtvaartmaatschappij in een lidstaat gevestigd”.
-
-##### Deel 2. Geleidelijke beschikbaarheid van verkeersrechten
-
-1. Bij het uitoefenen van de in lid 2 van dit deel vastgestelde verkeersrechten, genieten de luchtvaartmaatschappijen van de partijen de bij [bijlage 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=1&z=2019-05-16&g=2019-05-16), toegestane operationele flexibiliteit.
-
-2. Onverminderd de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=1&z=2019-05-16&g=2019-05-16) van deze Overeenkomst vastgestelde verkeersrechten:
-
-- a. gelden de volgende rechten wanneer krachtens de nationale wetten en regels van beide partijen is toegestaan dat onderdanen van de andere partij eigenaar zijn van en zeggenschap hebben over in totaal 25% van de stemgerechtigde belangen in hun luchtvaartmaatschappijen:
-
-- i. met betrekking tot gecombineerde diensten voor passagiersvervoer en goederendiensten, hebben Canadese luchtvaartmaatschappijen het recht internationaal vervoer aan te bieden tussen willekeurig welk punt in Canada en willekeurig welk punt in de lidstaten en hebben communautaire luchtvaartmaatschappijen het recht luchtdiensten aan te bieden tussen willekeurig welk punt in de lidstaten en willekeurig welk punt in Canada. Met betrekking tot gecombineerde diensten voor passagiersvervoer en voor goederendiensten, hebben luchtvaartmaatschappijen van een partij bovendien het recht internationaal vervoer aan te bieden van en naar punten in derde landen, via willekeurig welk punt op het grondgebied van die partij, met of zonder verandering van luchtvaartuig of vluchtnummer, en hebben zij het recht deze diensten aan te bieden en bij het publiek bekend te maken als doorgaande diensten;
-
-- ii. met betrekking tot goederendiensten hebben luchtvaartmaatschappijen van beide partijen het recht internationaal vervoer aan te bieden tussen het grondgebied van de andere partij en punten in derde landen, in samenhang met diensten tussen punten op hun grondgebied en punten op het grondgebied van de andere partij;
-
-- iii. met betrekking tot gecombineerde diensten voor passagiersvervoer en tot goederendiensten genieten luchtvaartmaatschappijen van beide partijen de exploitatierechten die zijn vastgelegd in bilaterale luchtvervoersovereenkomsten tussen Canada en de in [bijlage 3, deel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&deel=1&z=2019-05-16&g=2019-05-16), genoemde lidstaten, alsook de exploitatierechten die zijn vastgelegd in regelingen die tussen Canada en individuele lidstaten werden toegepast, zoals vermeld in [bijlage 3, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&deel=2&z=2019-05-16&g=2019-05-16). Wat betreft de in deze alinea gespecificeerde rechten van de vijfde vrijheid met betrekking tot verder gelegen punten, zijn andere dan geografische beperkingen, beperkingen van het aantal punten en van de vluchtfrequentie niet langer van toepassing; en
-
-- iv. teneinde de zekerheid te vergroten, zijn de onder i) en ii) hierboven vermelde rechten beschikbaar wanneer er geen bilaterale overeenkomst of regeling bestond op de datum van de voorlopige toepassing of inwerkingtreding van deze Overeenkomst, of wanneer de in een Overeenkomst vastgelegde rechten die onmiddellijk vóór de voorlopige toepassing of inwerkingtreding van deze Overeenkomst beschikbaar waren, minder ruim waren dan de onder i) en ii) hierboven vermelde rechten;
-
-- b. wanneer krachtens de nationale wetten en regels van beide partijen is toegestaan dat onderdanen van de andere partij eigenaar zijn van en zeggenschap hebben over in totaal tot 49% van de stemgerechtigde belangen in hun luchtvaartmaatschappijen, gelden bovenop het bepaalde in lid 2, onder a), de volgende rechten:
-
-- i. met betrekking tot gecombineerde diensten voor passagiersvervoer genieten de luchtvaartmaatschappijen van beide partijen rechten van de vijfde vrijheid op willekeurig welk tussenliggend punt, en, voor Canadese luchtvaartmaatschappijen, op willekeurig welk punt in de lidstaten en willekeurig welk punt in andere lidstaten, mits, in het geval van Canadese luchtvaartmaatschappijen, de diensten een punt in Canada omvatten en, in het geval van communautaire luchtvaartmaatschappijen, de diensten een punt in een lidstaat omvatten;
-
-- ii. met betrekking tot gecombineerde diensten voor passagiersvervoer genieten Canadese luchtvaartmaatschappijen rechten van de vijfde vrijheid tussen willekeurig welk punt in de lidstaten en willekeurig welk punt in Marokko, Zwitserland, de Europese Economische Ruimte en de andere leden van de Europese gemeenschappelijke luchtvaartruimte; en
-
-- iii. met betrekking tot goederendiensten hebben luchtvaartmaatschappijen van beide partijen het recht internationaal vervoer aan te bieden tussen punten op het grondgebied van de andere partij en punten in derde landen, zonder de vereiste een punt op het grondgebied van die partij te bedienen;
-
-- c. wanneer de nationale wetten en regels van beide partijen de onderdanen van de andere partij toestaan een luchtvaartmaatschappij op te richten op haar grondgebied voor binnenlandse en internationale luchtdiensten, en overeenkomstig [artikel 17 (Gemengd comité), lid 5, lid 6, onder e), en lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16), van deze Overeenkomst, gelden bovenop het bepaalde in lid 2, onder a) en b), de volgende rechten:
-
-- i. met betrekking tot gecombineerde diensten voor passagiersvervoer genieten beide partijen rechten van de vijfde vrijheid met betrekking tot alle verder gelegen punten, zonder beperkingen van de frequentie;
-
-- d. wanneer het krachtens de nationale wetten en regels van beide partijen is toegestaan dat onderdanen van de andere partij de volledige eigendom van en zeggenschap over hun luchtvaartmaatschappijen hebben, en wanneer beide partijen de volledige toepassing van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=1&z=2019-05-16&g=2019-05-16) toestaan, overeenkomstig [artikel 17 (Gemengd comité), lid 5, lid 6, onder e), en lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) van deze Overeenkomst en overeenkomstig een bevestiging van de partijen op basis van hun respectieve procedures, zijn de bepalingen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&z=2019-05-16&g=2019-05-16) niet langer van toepassing en wordt bijlage 1 van kracht.
-
-##### Deel 1
-
-Zoals bepaald in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=26&z=2019-05-16&g=2019-05-16) van deze Overeenkomst worden de volgende bilaterale overeenkomsten tussen Canada en de lidstaten opgeschort of vervangen door deze Overeenkomst:
-
-- a. De Republiek Oostenrijk: Luchtvervoersovereenkomst tussen de regering van Canada en de Oostenrijkse bondsregering, ondertekend op 22 juni 1993;
-
-- b. Het Koninkrijk België: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van België, ondertekend op 13 mei 1986;
-
-- c. De Tsjechische Republiek: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Tsjechische Republiek, ondertekend op 13 maart 1996; Uitwisseling van nota's tot wijziging van de Overeenkomst, ondertekend op 28 april 2004 en 28 juni 2004;
-
-- d. Het Koninkrijk Denemarken: Overeenkomst voor luchtdiensten tussen Canada en Denemarken, ondertekend op 13 december 1949. Uitwisseling van nota's tussen Canada en Denemarken betreffende de overeenkomst voor luchtdiensten die de twee landen ondertekend hebben in Ottawa, op 13 december 1949. Uitwisseling van nota's tussen Canada en Denemarken tot wijziging van de Overeenkomst voor luchtdiensten van 1949, ondertekend op 16 mei 1958;
-
-- e. De Republiek Finland: Overeenkomst tussen de regering van Canada en de regering van Finland voor luchtdiensten tussen hun respectieve grondgebieden en over de grenzen van deze grondgebieden heen, ondertekend op 28 mei 1990. Overeenkomst in de vorm van een uitwisseling van nota's, tot wijziging van de Overeenkomst tussen de regering van Canada en de regering van Finland inzake luchtdiensten tussen hun respectieve grondgebieden en over de grenzen van deze grondgebieden heen, gedaan te Helsinki op 28 mei 1990, ondertekend op 1 september 1999;
-
-- f. De Franse Republiek: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Franse Republiek, ondertekend op 15 juni 1976; Uitwisseling van nota's tussen de regering van Canada en de regering van de Franse Republiek tot wijziging van de op 15 juni 1976 te Parijs ondertekende Luchtvervoersovereenkomst, ondertekend op 21 december 1982;
-
-- g. De Bondsrepubliek Duitsland: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Bondsrepubliek Duitsland, ondertekend op 26 maart 1973; Uitwisseling van nota's tussen de regering van Canada en de regering van de Bondsrepubliek Duitsland tot wijziging van de op 26 maart 1973 te Ottawa ondertekende Luchtvervoersovereenkomst, ondertekend op 16 december 1982 en 20 januari 1983;
-
-- h. De Helleense Republiek: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Helleense Republiek, ondertekend op 20 augustus 1984; Overeenkomst in de vorm van een uitwisseling van nota's tussen de regering van Canada en de regering van de Helleense Republiek tot wijziging van de op 20 augustus 1984 te Toronto ondertekende Luchtvervoersovereenkomst, ondertekend op 23 juni 1995 en 19 juli 1995;
-
-- i. De Republiek Hongarije: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Republiek Hongarije, ondertekend op 7 december 1998;
-
-- j. Ierland: Overeenkomst voor luchtdiensten tussen Canada en Ierland, ondertekend op 8 augustus 1947. Uitwisseling van nota's (19 april en 31 mei 1948) tussen Canada en Ierland tot wijziging van de Overeenkomst voor luchtdiensten tussen de twee landen, ondertekend op 31 mei 1948; Overeenkomst in de vorm van een uitwisseling van nota's tussen Canada en Ierland tot wijziging van de bijlage bij de Overeenkomst voor luchtdiensten van 8 augustus 1947, ondertekend op 9 juli 1951. Uitwisseling van nota's tussen Canada en Ierland tot wijziging van de Overeenkomst voor luchtdiensten tussen de twee landen van 8 augustus 1947, ondertekend op 23 december 1957;
-
-- k. De Italiaanse Republiek: Overeenkomst voor luchtdiensten tussen Canada en Italië, ondertekend op 2 februari 1960; Overeenkomst in de vorm van een uitwisseling van nota's tussen de regering van Canada en de regering van de Republiek Italië, tot wijziging van de Overeenkomst voor luchtdiensten, zoals gespecificeerd in de overeengekomen notulen van 28 april 1972, ondertekend op 28 augustus 1972;
-
-- l. Het Koninkrijk der Nederlanden: [Overeenkomst tussen het Koninkrijk der Nederlanden en Canada inzake luchtvervoer tussen Nederland en Canada](https://wetten.overheid.nl/jci1.3:c:BWBV0003010), ondertekend op 2 juni 1989; Overeenkomst in de vorm van een uitwisseling van nota's tussen de regering van Canada en de regering van het Koninkrijk der Nederlanden betreffende het exploiteren van niet-geregelde (charter)vluchten, ondertekend op 2 juni 1989;
-
-- m. De Republiek Polen: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van de Poolse Volksrepubliek, ondertekend op 14 mei 1976; Overeenkomst in de vorm van een uitwisseling van nota's tussen de regering van Canada en de regering van de Poolse Volksrepubliek betreffende de artikelen IX, XI, XIII en XV van de op 14 mei 1976 ondertekende Luchtvervoersovereenkomst, ondertekend op dezelfde dag;
-
-- n. De Portugese Republiek: Overeenkomst tussen de regering van Canada en de regering van Portugal voor luchtdiensten tussen het Canadese en het Portugese grondgebied, ondertekend op 25 april 1947. Uitwisseling van nota's tussen de regering van Canada en de regering van Portugal tot wijziging van de punten 3 en 4 van de bijlage bij de op 25 april 1947 te Lissabon ondertekende Overeenkomst voor luchtdiensten tussen de twee landen, ondertekend op 24 en 30 april 1957. Uitwisseling van nota's tussen Canada en Portugal tot wijziging van punt 7 van de bijlage bij de Overeenkomst voor luchtdiensten tussen de twee landen, ondertekend op 5 en 31 maart 1958;
-
-- o. Roemenië: Burgerluchtvervoersovereenkomst tussen de regering van Canada en de regering van de Socialistische Republiek Roemenië, ondertekend op 27 oktober 1983;
-
-- p. Het Koninkrijk Spanje: Luchtvervoersovereenkomst tussen de regering van Canada en de regering van Spanje, ondertekend op 15 september 1988;
-
-- q. Het Koninkrijk Zweden: Overeenkomst tussen Canada en Zweden voor luchtdiensten tussen het Canadese en het Zweedse grondgebied, ondertekend op 27 juni 1947; Uitwisseling van nota's tussen Canada en Zweden tot aanvulling van de Overeenkomst voor luchtdiensten tussen het Canadese en het Zweedse grondgebied, ondertekend op 27 en 28 juni 1947. Uitwisseling van nota's tussen Canada en Zweden tot wijziging van de Overeenkomst voor luchtdiensten van 1947, ondertekend op 16 mei 1958; en
-
-- r. Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: Overeenkomst voor luchtdiensten tussen de regering van Canada en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, ondertekend op 22 juni 1988.
-
-##### Deel 2
-
-Met het oog op de toepassing van [bijlage 2, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&deel=2&z=2019-05-16&g=2019-05-16), zijn de volgende rechten beschikbaar overeenkomstig alinea 2, onder a), punt iii):
-
-Wanneer Canadese luchtvaartmaatschappijen gecombineerde diensten voor passagiersvervoer tussen Canada en individuele lidstaten of goederendiensten exploiteren, genieten zij de volgende rechten:
-
-| Lidstaat | Verkeersrechten |
-| --- | --- |
-|   |   |
-| Bulgarije | Rechten van de vijfde vrijheid zijn beschikbaar op twee nader te noemen punten die als tussenliggende punten op weg naar Sofia en/of verder dan Sofia gelegen punten mogen worden bediend. |
-|   |   |
-| Tsjechië | Canada mag hoogstens vier tussenliggende punten op weg naar Praag of verder dan Praag gelegen punten kiezen waarvoor rechten van de vijfde vrijheid gelden, en één extra punt in Tsjechië. |
-|   |   |
-| Denemarken | Rechten van de vijfde vrijheid zijn beschikbaar tussen Kopenhagen en: Amsterdam mag worden bediend als tussenliggend punt of als verder gelegen punt. Helsinki en Moskou moeten worden bediend als verder gelegen punten. |
-|   |   |
-| Duitsland | Verkeersrechten van de vijfde vrijheid mogen worden uitgeoefend tussen tussenliggende punten in Europa en punten in de Bondsrepubliek Duitsland en tussen punten in de Bondsrepubliek Duitsland en verder gelegen punten. |
-|   |   |
-| Griekenland | Rechten van de vijfde vrijheid zijn beschikbaar op tussenliggende punten op weg naar Athene en/of verder dan Athene gelegen punten en op twee extra punten in Griekenland, behalve punten in Turkije en Israël. Het totale aantal tussenliggende punten en verder gelegen punten die met rechten van de vijfde vrijheid mogen worden bediend, mag op geen enkel ogenblik hoger zijn dan vijf, waarvan hoogstens vier tussenliggende punten. |
-|   |   |
-| Ierland | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in Ierland en tussenliggende punten, en tussen punten in Ierland en verder gelegen punten. Met betrekking tot goederendiensten gelden deze rechten voor het verlenen van internationale vervoersdiensten tussen punten in Ierland en punten in derde landen, zonder de verplichting een punt in Canada te bedienen. |
-|   |   |
-| Italië | Verkeersrechten van de vijfde vrijheid zijn beschikbaar tussen twee tussenliggende punten in Europa en Rome en/of Milaan. Tussenliggende punten met rechten van de vijfde vrijheid mogen ook worden bediend als verder gelegen punten. |
-|   |   |
-| Polen | Rechten van de vijfde vrijheid zijn beschikbaar tussen Warschau en twee tussenliggende punten in Europa, die door Canada mogen worden gekozen uit de volgende lijst: Brussel, Kopenhagen, Praag, Shannon, Stockholm, Wenen, Zurich. |
-|   |   |
-| Portugal | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in Portugal en tussenliggende punten, en tussen punten in Portugal en verder gelegen punten. |
-|   |   |
-| Spanje | Rechten van de vijfde vrijheid met betrekking tot tussenliggende en verder gelegen punten zijn beschikbaar: Op geen enkel ogenblik mogen meer dan vier rechten van de vijfde vrijheid worden uitgeoefend. |
-|   |   |
-| Zweden | Rechten van de vijfde vrijheid zijn beschikbaar tussen Stockholm en: Amsterdam mag worden bediend als tussenliggend punt of als verder gelegen punt. Helsinki en Moskou moeten worden bediend als verder gelegen punten. |
-|   |   |
-| Verenigd Koninkrijk | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in het Verenigd Koninkrijk en tussenliggende punten, en tussen punten in het Verenigd Koninkrijk en verder gelegen punten. Met betrekking tot goederendiensten gelden deze rechten voor het verlenen van internationale vervoersdiensten tussen punten in het Verenigd Koninkrijk en punten in derde landen, zonder de verplichting een punt in Canada te bedienen. |
-
-Wanneer communautaire luchtvaartmaatschappijen gecombineerde diensten voor passagiersvervoer tussen individuele lidstaten en Canada of goederendiensten exploiteren, genieten zij de volgende rechten:
-
-| Lidstaat | Verkeersrechten |
-| --- | --- |
-|   |   |
-| België | Verkeersrechten van de vijfde vrijheid tussen Montreal en twee verder gelegen punten in de Verenigde Staten van Amerika, ten oosten van en in Chicago en ten noorden van en in Washington D.C. |
-|   |   |
-| Bulgarije | Rechten van de vijfde vrijheid mogen worden uitgeoefend op één verder gelegen punt in de Verenigde Staten van Amerika, ten oosten van maar niet in Chicago en ten noorden van of in Washington D.C. In het geval van co-terminalisering van Montreal en Ottawa, zijn geen rechten van de vijfde vrijheid beschikbaar. Op tussenliggende punten zijn geen rechten van de vijfde vrijheid beschikbaar. |
-|   |   |
-| Tsjechië | Rechten van de vijfde vrijheid tussen Montreal en twee verder gelegen punten in de Verenigde Staten van Amerika, ten noorden van en in Washington D.C. en ten oosten van en in Chicago. |
-|   |   |
-| Denemarken | Rechten van de vijfde vrijheid zijn beschikbaar tussen Montreal en Chicago en tussen Montreal en Seattle. Chicago mag worden bediend als tussenliggend punt of als verder gelegen punt. Seattle mag alleen als verder gelegen punt worden bediend. |
-|   |   |
-| Duitsland | Verkeersrechten van de vijfde vrijheid zijn uitsluitend beschikbaar tussen Montreal en één verder gelegen punt in Florida. Bij wijze van alternatief zijn verkeersrechten van de vijfde vrijheid beschikbaar tussen Montreal en twee verder gelegen punten in de continentale Verenigde Staten van Amerika, exclusief punten in de staten Californië, Colorado, Florida, Georgia, Oregon, Texas en Washington. |
-|   |   |
-| Griekenland | Verkeersrechten van de vijfde vrijheid zijn beschikbaar tussen Montreal en Boston of tussen Montreal en Chicago, of verder gelegen dan Toronto naar een door de Helleense Republiek te bepalen punt in de Verenigde Staten van Amerika, met uitzondering van punten in Californië, Texas en Florida. |
-|   |   |
-| Ierland | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in Canada en tussenliggende punten, en tussen punten in Canada en verder gelegen punten. Met betrekking tot goederendiensten gelden deze rechten voor het verlenen van internationale vervoersdiensten tussen punten in Canada en punten in derde landen, zonder de verplichting een punt in Ierland te bedienen. |
-|   |   |
-| Italië | Rechten van de vijfde vrijheid zijn beschikbaar tussen twee tussenliggende punten in het noordoosten van de Verenigde Staten van Amerika (ten noorden van en in Washington; ten oosten van en in Chicago) en Montreal en/of Toronto. Tussenliggende punten met rechten van de vijfde vrijheid mogen ook worden bediend als verder gelegen punten. |
-|   |   |
-| Polen | Rechten van de vijfde vrijheid zijn beschikbaar tussen Montreal en New York, als tussenliggend of verder gelegen punt. |
-|   |   |
-| Portugal | Verkeersrechten van de vijfde vrijheid zijn beschikbaar tussen punten in Canada en tussenliggende punten, en tussen punten in Canada en verder gelegen punten. |
-|   |   |
-| Spanje | Rechten van de vijfde vrijheid met betrekking tot tussenliggende en verder gelegen punten zijn beschikbaar: Op geen enkel ogenblik mogen meer dan vier rechten van de vijfde vrijheid worden uitgeoefend. |
-|   |   |
-| Zweden | Rechten van de vijfde vrijheid zijn beschikbaar tussen Montreal en Chicago en tussen Montreal en Seattle. Chicago mag worden bediend als tussenliggend punt of als verder gelegen punt. Seattle mag alleen als verder gelegen punt worden bediend. |
-|   |   |
-| Verenigd Koninkrijk | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in Canada en tussenliggende punten, en tussen punten in Canada en verder gelegen punten. Met betrekking tot goederendiensten gelden deze rechten voor het verlenen van internationale vervoersdiensten tussen punten in Canada en punten in derde landen, zonder de verplichting een punt in het Verenigd Koninkrijk te bedienen. |
-
-##### Deel 3
-
-In afwijking van [deel 1 van deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&deel=1&z=2019-05-16&g=2019-05-16) blijven de onder d) (het Koninkrijk Denemarken), f) (de Franse Republiek), l) (het Koninkrijk der Nederlanden), en r) (het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) vermelde overeenkomsten van toepassing op de gebieden die niet onder de definitie van „grondgebied” in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=1&z=2019-05-16&g=2019-05-16) van deze Overeenkomst vallen, onder de in dat artikel neergelegde voorwaarden.
 
 TEN GETUIGE WAARVAN ondergetekenden, rechtsgeldig gemachtigd door hun respectieve regeringen, deze Overeenkomst hebben ondertekend.
 

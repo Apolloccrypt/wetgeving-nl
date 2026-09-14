@@ -1,126 +1,19 @@
 ---
 title: "Samenwerkingsovereenkomst inzake satellietnavigatie tussen de Europese Unie en haar lidstaten en het Koninkrijk Noorwegen"
 identifier: "BWBV0004735"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-04-01"
-last_updated: "2010-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004735"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004285853"
-version_id: "10004483452"
-internal_id: "C10009061771"
-label_id: "10004270804"
-dtd_version: "2.0"
-original_entry_into_force: "2016-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004735/2016-04-01/0"
-intitule_bron: "Trb.2010-312"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-12-06"
-intitule_in_force: "2016-04-13"
-intitule_status: "goed"
-original_publication: "Trb.2010-312"
-original_published_date: "2010-12-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-312"
-entry_into_force_date: "2016-04-01"
-jci_1_3: "jci1.3:c:BWBV0004735&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBV0004735&g=2016-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2016-04-01"
+publicatiedatum: 2016-04-01
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBV0004735"
+opgehaald: 2026-09-14
 ---
+
 # Samenwerkingsovereenkomst inzake satellietnavigatie tussen de Europese Unie en haar lidstaten en het Koninkrijk Noorwegen
 
-De Europese Unie, hierna „de Unie” of „de EU” genoemd,
-
-alsmede
-
-het Koninkrijk België,
-
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-Malta,
-
-het Koninkrijk Der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk Van Groot-Brittannië En Noord-Ierland,
-
-de partijen bij het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd,
-
-enerzijds, alsmede
-
-het Koninkrijk Noorwegen, hierna „Noorwegen” genoemd,
-
-anderzijds,
-
-De Europese Unie, de lidstaten en Noorwegen, hierna gezamenlijk „de partijen” genoemd,
-
-erkennende de nauwe deelname van Noorwegen aan de Galileo- en EGNOS-programma's sinds de definitiefasen van die programma's,
-
-zich bewust van de ontwikkeling in het bestuur, de eigendom en de financiering van de Europese GNSS-programma's krachtens [Verordening (EG) nr. 1321/2004](32004R1321) van de Raad van 12 juli 2004 inzake de beheerstructuren van de Europese programma's voor radionavigatie per satelliet1)PB L 246 van 20.7.2004, blz. 1., de wijzigingen ervan en [Verordening (EG) nr. 683/2008](32008R0683) van het Europees Parlement en de Raad van 9 juli 2008 betreffende de voortzetting van de uitvoering van de Europese programma's voor navigatie per satelliet (EGNOS en Galileo)2)PB L 196 van 24.7.2008, blz. 1.,
-
-overwegende de voordelen van een gelijkwaardig niveau van bescherming van Europese GNSS en de diensten ervan op de grondgebieden van de partijen,
-
-erkennende het voornemen van Noorwegen om binnen zijn rechtsgebied tijdig maatregelen vast te stellen en te handhaven die voorzien in een gelijkwaardig niveau van beveiliging en veiligheid als die welke in de Europese Unie van toepassing zijn,
-
-erkennende de verplichtingen van de partijen volgens het internationaal recht,
-
-erkennende de belangstelling van Noorwegen voor alle Galileodiensten, inclusief de publiek gereguleerde dienst („public regulated service” (PRS)),
-
-erkennende de Overeenkomst tussen Noorwegen en de Europese Unie inzake beveiligingsprocedures voor de uitwisseling van gerubriceerde informatie,
-
-wensende formeel nauwe samenwerking wat alle aspecten van de Europese GNSS-programma's betreft tot stand te brengen,
-
-beschouwende de [Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) (hierna „EER-Overeenkomst” genoemd) als een geschikte wettelijke en institutionele basis om samenwerking tussen de Europese Unie en Noorwegen op het gebied van satellietnavigatie tot stand te brengen,
-
-wensende de bepalingen van de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) aan te vullen door middel van een bilaterale overeenkomst inzake satellietnavigatie in aangelegenheden die specifiek relevant zijn voor Noorwegen, de Unie en haar lidstaten,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De Europese Unie, hierna „de Unie” of „de EU” genoemd, alsmede het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, Malta, het Koninkrijk Der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk Van Groot-Brittannië En Noord-Ierland, de partijen bij het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, alsmede het Koninkrijk Noorwegen, hierna „Noorwegen” genoemd, anderzijds, De Europese Unie, de lidstaten en Noorwegen, hierna gezamenlijk „de partijen” genoemd, erkennende de nauwe deelname van Noorwegen aan de Galileo- en EGNOS-programma's sinds de definitiefasen van die programma's, zich bewust van de ontwikkeling in het bestuur, de eigendom en de financiering van de Europese GNSS-programma's krachtens Verordening (EG) nr. 1321/2004 van de Raad van 12 juli 2004 inzake de beheerstructuren van de Europese programma's voor radionavigatie per satelliet1)PB L 246 van 20.7.2004, blz. 1., de wijzigingen ervan en Verordening (EG) nr. 683/2008 van het Europees Parlement en de Raad van 9 juli 2008 betreffende de voortzetting van de uitvoering van de Europese programma's voor navigatie per satelliet (EGNOS en Galileo)2)PB L 196 van 24.7.2008, blz. 1., overwegende de voordelen van een gelijkwaardig niveau van bescherming van Europese GNSS en de diensten ervan op de grondgebieden van de partijen, erkennende het voornemen van Noorwegen om binnen zijn rechtsgebied tijdig maatregelen vast te stellen en te handhaven die voorzien in een gelijkwaardig niveau van beveiliging en veiligheid als die welke in de Europese Unie van toepassing zijn, erkennende de verplichtingen van de partijen volgens het internationaal recht, erkennende de belangstelling van Noorwegen voor alle Galileodiensten, inclusief de publiek gereguleerde dienst („public regulated service” (PRS)), erkennende de Overeenkomst tussen Noorwegen en de Europese Unie inzake beveiligingsprocedures voor de uitwisseling van gerubriceerde informatie, wensende formeel nauwe samenwerking wat alle aspecten van de Europese GNSS-programma's betreft tot stand te brengen, beschouwende de Overeenkomst betreffende de Europese Economische Ruimte (hierna „EER-Overeenkomst” genoemd) als een geschikte wettelijke en institutionele basis om samenwerking tussen de Europese Unie en Noorwegen op het gebied van satellietnavigatie tot stand te brengen, wensende de bepalingen van de EER-Overeenkomst aan te vullen door middel van een bilaterale overeenkomst inzake satellietnavigatie in aangelegenheden die specifiek relevant zijn voor Noorwegen, de Unie en haar lidstaten, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1. Doel van de overeenkomst
 
@@ -130,29 +23,29 @@ Het hoofddoel van deze overeenkomst is de samenwerking tussen de partijen verder
 
 In deze overeenkomst wordt verstaan onder:
 
-- a). „European Global navigation satellite systems (GNSS)”: onder meer het Galileo-systeem en het European Geostationary Navigation Overlay System (EGNOS);
+- a) „European Global navigation satellite systems (GNSS)”: onder meer het Galileo-systeem en het European Geostationary Navigation Overlay System (EGNOS);
 
-- b). „Augmentatie”: regionale mechanismen zoals EGNOS. Die mechanismen stellen de gebruikers van GNSS in staat een verbeterde prestatie te verkrijgen, zoals verhoogde nauwkeurigheid, beschikbaarheid, integriteit en betrouwbaarheid;
+- b) „Augmentatie”: regionale mechanismen zoals EGNOS. Die mechanismen stellen de gebruikers van GNSS in staat een verbeterde prestatie te verkrijgen, zoals verhoogde nauwkeurigheid, beschikbaarheid, integriteit en betrouwbaarheid;
 
-- c). „Galileo”: een autonoom civiel Europees mondiaal satellietnavigatie- en tijdbepalingssysteem onder civiele leiding, voor de aanbieding van GNSS-diensten die zijn ontworpen en ontwikkeld door de Unie en haar lidstaten. De exploitatie van Galileo kan aan een private partij worden overgedragen; Galileo voorziet in open diensten, commerciële diensten, diensten voor beveiliging van mensenlevens en opsporings- en reddingsdiensten naast een beveiligde publiek gereguleerde dienst („public regulated service” (PRS)) met beperkte toegang om te voldoen aan de behoeften van geautoriseerde gebruikers uit de overheidssector;
+- c) „Galileo”: een autonoom civiel Europees mondiaal satellietnavigatie- en tijdbepalingssysteem onder civiele leiding, voor de aanbieding van GNSS-diensten die zijn ontworpen en ontwikkeld door de Unie en haar lidstaten. De exploitatie van Galileo kan aan een private partij worden overgedragen; Galileo voorziet in open diensten, commerciële diensten, diensten voor beveiliging van mensenlevens en opsporings- en reddingsdiensten naast een beveiligde publiek gereguleerde dienst („public regulated service” (PRS)) met beperkte toegang om te voldoen aan de behoeften van geautoriseerde gebruikers uit de overheidssector;
 
-- d). „Regulerende maatregel”: een wet, regeling, beleid, regel, procedure, beslissing of soortgelijke administratieve handeling door een partij;
+- d) „Regulerende maatregel”: een wet, regeling, beleid, regel, procedure, beslissing of soortgelijke administratieve handeling door een partij;
 
-- e). „Gerubriceerde informatie”: informatie in welke vorm ook die bescherming vereist tegen onbevoegde openbaarmaking waardoor de wezenlijke belangen, waaronder de nationale veiligheid, van de partijen of van afzonderlijke lidstaten in verschillende mate zouden kunnen worden geschaad. De rubricering ervan wordt aangeduid met een rubriceringsmarkering. Dergelijke informatie wordt door de partijen gerubriceerd in overeenstemming met de van toepassing zijnde wet- en regelgeving en moet tegen elk verlies van vertrouwelijkheid, integriteit en beschikbaarheid worden beschermd.
+- e) „Gerubriceerde informatie”: informatie in welke vorm ook die bescherming vereist tegen onbevoegde openbaarmaking waardoor de wezenlijke belangen, waaronder de nationale veiligheid, van de partijen of van afzonderlijke lidstaten in verschillende mate zouden kunnen worden geschaad. De rubricering ervan wordt aangeduid met een rubriceringsmarkering. Dergelijke informatie wordt door de partijen gerubriceerd in overeenstemming met de van toepassing zijnde wet- en regelgeving en moet tegen elk verlies van vertrouwelijkheid, integriteit en beschikbaarheid worden beschermd.
 
 ##### Artikel 3. Beginselen van de samenwerking
 
 1. De partijen komen overeen de volgende beginselen op onder deze overeenkomst vallende samenwerkingsactiviteiten toe te passen:
 
-- a). de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) vormt de basis voor samenwerking op het gebied van satellietnavigatie tussen de partijen;
+- a) de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) vormt de basis voor samenwerking op het gebied van satellietnavigatie tussen de partijen;
 
-- b). vrijheid om satellietnavigatiediensten te verlenen op de grondgebieden van de partijen;
+- b) vrijheid om satellietnavigatiediensten te verlenen op de grondgebieden van de partijen;
 
-- c). vrijheid om alle Galileo- en EGNOS-diensten, inclusief PRS, te gebruiken, met inachtneming van de voorwaarden die op het gebruik ervan van toepassing zijn;
+- c) vrijheid om alle Galileo- en EGNOS-diensten, inclusief PRS, te gebruiken, met inachtneming van de voorwaarden die op het gebruik ervan van toepassing zijn;
 
-- d). nauwe samenwerking in GNSS-beveiligingsaangelegenheden door het nemen en handhaven van gelijkwaardige GNSS-beveiligingsmaatregelen zowel in de Unie als in Noorwegen;
+- d) nauwe samenwerking in GNSS-beveiligingsaangelegenheden door het nemen en handhaven van gelijkwaardige GNSS-beveiligingsmaatregelen zowel in de Unie als in Noorwegen;
 
-- e). passende inachtneming van de internationale verplichtingen van de partijen met betrekking tot grondfaciliteiten van Europese GNSS.
+- e) passende inachtneming van de internationale verplichtingen van de partijen met betrekking tot grondfaciliteiten van Europese GNSS.
 
 2. Deze overeenkomst is niet van invloed op de ten behoeve van de activiteiten van het Galileo-programma krachtens het recht van de Europese Unie ingestelde institutionele structuur. Deze overeenkomst is evenmin van invloed op de toepasselijke regulerende maatregelen ter uitvoering van non-proliferatieverbintenissen en exportcontrole, controles van immateriële overdrachten van technologie, noch op nationale veiligheidsmaatregelen.
 

@@ -1,52 +1,23 @@
 ---
 title: "Overeenkomst inzake het Financiële Protocol gehecht aan de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije"
 identifier: "BWBV0004549"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-11-17"
-last_updated: "1964-11-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004549"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004187623"
-version_id: "10004363072"
-internal_id: "C10006977371"
-label_id: "10004172594"
-dtd_version: "2.0"
-original_entry_into_force: "1964-11-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004549/1964-11-17/0"
-intitule_bron: "Trb.1963-185"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1963-12-24"
-intitule_in_force: "1966-09-26"
-intitule_status: "goed"
-original_publication: "Trb.1963-185"
-original_published_date: "1963-12-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1963-185"
-entry_into_force_date: "1964-11-17"
-jci_1_3: "jci1.3:c:BWBV0004549&z=1964-11-17&g=1964-11-17"
-jci_1_0: "1.0:c:BWBV0004549&g=1964-11-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-11-17"
+publicatiedatum: 1964-11-17
+laatste_update: 1964-11-17
+status: geldig
+toestand: 1964-11-17
+bron: "https://wetten.overheid.nl/BWBV0004549"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake het Financiële Protocol gehecht aan de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije
 
-De vertegenwoordigers van de Regeringen der Lid-Staten van de Europese Economische Gemeenschap, in het kader van de Raad bijeen,
-
-Gelet op het [Financiële Protocol gehecht aan de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije](onbekend), inzonderheid op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004316&artikel=2),
-
-Overwegende, dat het noodzakelijk is de wijze van financiering vast te stellen van de in dit [Financiële Protocol](onbekend) bedoelde leningen,
-
-Overwegende, dat de procedure voor de goedkeuring van de aanvragen om financiering dient te worden vastgesteld,
-
-Overwegende, dat het noodzakelijk is vast te stellen op welke wijze deze leningen zullen worden beheerd,
-
-Hebben overeenstemming bereikt over de volgende bepalingen:
+*De vertegenwoordigers van de Regeringen der Lid-Staten van de Europese Economische Gemeenschap, in het kader van de Raad bijeen, Gelet op het Financiële Protocol gehecht aan de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije, inzonderheid op artikel 2, Overwegende, dat het noodzakelijk is de wijze van financiering vast te stellen van de in dit Financiële Protocol bedoelde leningen, Overwegende, dat de procedure voor de goedkeuring van de aanvragen om financiering dient te worden vastgesteld, Overwegende, dat het noodzakelijk is vast te stellen op welke wijze deze leningen zullen worden beheerd, Hebben overeenstemming bereikt over de volgende bepalingen:*
 
 ##### Artikel 1
 
-De leningen bedoeld in het [Financiële Protocol](onbekend) worden verstrekt door de Europese Investeringsbank, die optreedt krachtens een opdracht van de Lid-Staten.
+De leningen bedoeld in het [Financiële Protocol](https://wetten.overheid.nl/BWBV0004316) worden verstrekt door de Europese Investeringsbank, die optreedt krachtens een opdracht van de Lid-Staten.
 
 ##### Artikel 2
 
@@ -56,13 +27,13 @@ De verrichtingen van de Bank die verband houden met deze opdracht, geschieden vo
 
 De financiering van de in deze Overeenkomst bedoelde leningen geschiedt:
 
-- a). hetzij door middel van gelden die met name gedurende een aanvangsperiode van twee jaar direct of indirect door de Lid-Staten ter beschikking van de Bank worden gesteld;
+- a) hetzij door middel van gelden die met name gedurende een aanvangsperiode van twee jaar direct of indirect door de Lid-Staten ter beschikking van de Bank worden gesteld;
 
-- b). hetzij door middel van gelden die de Bank bijeen kan brengen door:
+- b) hetzij door middel van gelden die de Bank bijeen kan brengen door:
 
-- 1). het geheel of gedeeltelijk mobiliseren van de leningen;
+   - 1) het geheel of gedeeltelijk mobiliseren van de leningen;
 
-- 2). het opnemen van onderhandse leningen bij overheids- of semi-overheidsinstellingen.
+   - 2) het opnemen van onderhandse leningen bij overheids- of semi-overheidsinstellingen.
 
 ##### Artikel 4
 
@@ -84,15 +55,15 @@ Wanneer een Lid-Staat zijn aandeel in rekeneenheden van de gelden nodig voor de 
 
 Wanneer een Lid-Staat de gelden nodig voor de financiering van de toegekende leningen niet verstrekt aan de Bank, totdat deze leningen worden terugbetaald, is hij verplicht de lasten te dragen voor het verschaffen van de middelen die overeenkomen met zijn aandeel in rekeneenheden. Deze verplichting kan met name de volgende vormen aannemen:
 
-- a). het verstrekken aan de Bank van de gelden nodig voor de financiering van de toegekende leningen, totdat de Bank op de in artikel 3 sub **b**), genoemde wijzen andere middelen heeft verworven;
+- a) het verstrekken aan de Bank van de gelden nodig voor de financiering van de toegekende leningen, totdat de Bank op de in artikel 3 sub *b*), genoemde wijzen andere middelen heeft verworven;
 
-- b). het verstrekken aan de Bank, bij wijze van overbrugging, van de gelden nodig om de op de in artikel 3 sub **b**), genoemde wijzen verkregen middelen terug te betalen, wanneer deze terugbetaling voor die van de toegekende leningen moet plaatsvinden;
+- b) het verstrekken aan de Bank, bij wijze van overbrugging, van de gelden nodig om de op de in artikel 3 sub *b*), genoemde wijzen verkregen middelen terug te betalen, wanneer deze terugbetaling voor die van de toegekende leningen moet plaatsvinden;
 
-- c). het verstrekken van de nodige garanties om de Bank in staat te stellen bij derden middelen te verkrijgen;
+- c) het verstrekken van de nodige garanties om de Bank in staat te stellen bij derden middelen te verkrijgen;
 
-- d). vereffening van het verschil tussen de kosten van de door de Bank gebruikte middelen en de opbrengst van de rente der toegekende leningen.
+- d) vereffening van het verschil tussen de kosten van de door de Bank gebruikte middelen en de opbrengst van de rente der toegekende leningen.
 
-Voor het bedrag en de voorwaarden van de in artikel 3 sub **b**), bedoelde verrichtingen is de voorafgaande instemming vereist van de Lid-Staat op wiens aandeel deze verrichtingen in mindering worden gebracht.
+Voor het bedrag en de voorwaarden van de in artikel 3 sub *b*), bedoelde verrichtingen is de voorafgaande instemming vereist van de Lid-Staat op wiens aandeel deze verrichtingen in mindering worden gebracht.
 
 ##### Artikel 6
 

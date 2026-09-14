@@ -1,85 +1,58 @@
 ---
 title: "Verdrag betreffende de gedeeltelijke herziening van de Verdragen aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie op haar eerste tweeëndertig zittingen, ten einde eenvormigheid te brengen in de bepalingen aangaande het opstellen van verslagen door de Raad van Beheer van het Internationaal Arbeidsbureau inzake de toepassing van Verdragen"
 identifier: "BWBV0004418"
-country: "nl"
-rank: "verdrag"
-publication_date: "1964-11-13"
-last_updated: "1964-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004418"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004115443"
-version_id: "10004284072"
-internal_id: "C10006990801"
-label_id: "10004100284"
-dtd_version: "2.0"
-original_entry_into_force: "1964-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004418/1964-11-13/0"
-intitule_bron: "Trb.1962-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-05-22"
-intitule_in_force: "1965-01-27"
-intitule_status: "goed"
-original_publication: "Trb.1962-46"
-original_published_date: "1962-05-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-46"
-entry_into_force_date: "1964-11-13"
-jci_1_3: "jci1.3:c:BWBV0004418&z=1964-11-13&g=1964-11-13"
-jci_1_0: "1.0:c:BWBV0004418&g=1964-11-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1964-11-13"
+publicatiedatum: 1964-11-13
+laatste_update: 1964-11-13
+status: geldig
+toestand: 1964-11-13
+bron: "https://wetten.overheid.nl/BWBV0004418"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag betreffende de gedeeltelijke herziening van de Verdragen aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie op haar eerste tweeëndertig zittingen, ten einde eenvormigheid te brengen in de bepalingen aangaande het opstellen van verslagen door de Raad van Beheer van het Internationaal Arbeidsbureau inzake de toepassing van Verdragen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Forty-fifth Session, on 7 June 1961, and Having decided upon the adoption of certain proposals with regard to the partial revision of the Conventions adopted by the General Conference of the International Labour Organisation at its first thirty-two sessions for the purpose of standardising the provisions regarding the preparation of reports by the Governing Body of the International Labour Office on the working of Conventions, and Considering that these proposals must take the form of an international Convention, adopts this twenty-sixth day of June of the year one thousand nine hundred and sixty-one the following Convention, which may be cited as the Final Articles Revision Convention, 1961:*
 
-Te Genève bijeengeroepen door de Raad van Beheer van het Internationaal Arbeidsbureau en bijeengekomen in haar vijfenveertigste zitting op 7 juni 1961,
+##### Article 1
 
-Besloten hebbende tot aanvaarding van bepaalde voorstellen betreffende de gedeeltelijke herziening van de Verdragen, aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie, ten einde eenvormigheid te brengen in de bepalingen aangaande het opstellen van verslagen door de Raad van Beheer van het Internationaal Arbeidsbureau inzake de toepassing van Verdragen,
+In the texts of the Conventions adopted by the International Labour Conference in the course of its first thirty-two sessions, the Final Article providing for the presentation by the Governing Body of the International Labour Office to the General Conference of a report on the working of the Convention shall be omitted and the following article shall be substituted for it:
 
-Overwegende dat deze voorstellen de vorm van een internationaal Verdrag dienen aan te nemen,
+“At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-neemt heden, de zesentwintigste juni 1961, het volgende Verdrag aan, dat kan worden aangehaald als „Verdrag tot herziening der slotartikelen, 1961”:
+##### Article 2
 
-##### Artikel 1
+Any Member of the Organisation which, after the date of the coming into force of this Convention, communicates to the Director-General of the International Labour Office its formal ratification of any Convention adopted by the Conference in the course of its first thirty-two sessions shall be deemed to have ratified that Convention as modified by this Convention.
 
-In de tekst van de Verdragen, aangenomen door de Internationale Arbeidsconferentie in de loop van haar eerste tweeëndertig zittingen, vervalt het slotartikel, hetwelk bepaalt dat de Raad van Beheer van het Internationaal Arbeidsbureau een verslag inzake de toepassing van het Verdrag dient voor te leggen aan de Algemene Conferentie; daarvoor in de plaats treedt het volgende artikel:
+##### Article 3
 
-„Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.”.
+Two copies of this Convention shall be authenticated by the signature of the President of the Conference and of the Director-General of the International Labour Office. Of these copies one shall be deposited in the archives of the International Labour Office and the other shall be communicated to the Secretary-General of the United Nations for registration in accordance with [article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102). The Director-General shall communicate a certified copy of this Convention to each of the Members of the International Labour Organisation.
 
-##### Artikel 2
+##### Article 4
 
-Ieder Lid van de Organisatie, dat na het tijdstip van inwerkingtreding van dit Verdrag aan de Directeur-Generaal van het Internationaal Arbeidsbureau officieel kennis geeft van zijn bekrachtiging van enigerlei Verdrag, dat door de Conferentie in de loop van haar eerste tweeëndertig zittingen is aangenomen, wordt geacht dat Verdrag te hebben bekrachtigd zoals het door het onderhavige Verdrag is gewijzigd.
+1. The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office.
 
-##### Artikel 3
+2. This Convention shall come into force at the date on which the ratifications of two Members of the International Labour Organisation have been received by the Director-General.
 
-Twee exemplaren van dit Verdrag worden door de handtekening van de Voorzitter van de Conferentie en van de Directeur-Generaal van het Internationaal Arbeidsbureau als authentiek gewaarmerkt. Een van deze exemplaren wordt nedergelegd in het archief van het Internationaal Arbeidsbureau, het andere wordt aan de Secretaris-Generaal der Verenigde Naties gezonden om te worden geregistreerd overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102). De Directeur-Generaal doet een gewaarmerkt afschrift van dit Verdrag toekomen aan alle Leden der Internationale Arbeidsorganisatie.
+3. On the coming into force of this Convention and on the subsequent receipt of further ratifications of the Convention, the Director-General of the International Labour Office shall so notify all the Members of the International Labour Organisation and the Secretary-General of the United Nations.
 
-##### Artikel 4
+4. Each Member of the Organisation which ratifies this Convention thereby recognises that the obligation of the Governing Body under Conventions adopted by the Conference at its first thirty-two sessions to present to the Conference at the intervals prescribed thereby a report on the working of each Convention and to examine at such intervals the desirability of placing on the agenda of the Conference the question of the revision of the Convention in whole or in part was replaced as from the first coming into force of this Convention by the provisions of the modified article set forth in Article 1 of this Convention.
 
-1. Van de officiële bekrachtigingen van dit Verdrag wordt kennis gegeven aan de Directeur-Generaal van het Internationaal Arbeidsbureau.
+##### Article 5
 
-2. Dit Verdrag treedt in werking op het tijdstip waarop kennisgeving van bekrachtiging van twee Leden van de Internationale Arbeidsorganisatie door de Directeur-Generaal is ontvangen.
+Notwithstanding anything contained in any of the Conventions adopted by the Conference in the course of its first thirty-two sessions the ratification of this Convention by a Member shall not *ipso jure* involve the denunciation of any such Convention, nor shall the entry into force of this Convention close any such Convention to further ratification.
 
-3. De Directeur-Generaal van het Internationaal Arbeidsbureau verwittigt alle Leden der Internationale Arbeidsorganisatie, alsmede de Secretaris-Generaal der Verenigde Naties, zodra dit Verdrag in werking is getreden en daarna verdere kennisgevingen van bekrachtiging van het Verdrag zijn ontvangen.
+##### Article 6
 
-4. Ieder Lid van de Organisatie, dat dit Verdrag bekrachtigt, erkent dat, met ingang van de datum waarop dit Verdrag voor het eerst in werking trad, het bepaalde in de gewijzigde tekst, vermeld in artikel 1 hierboven, in de plaats treedt van de uit hoofde van de door de Conferentie op haar eerste tweeëndertig zittingen aangenomen. Verdragen aan de Raad van Beheer opgelegde verplichting om, met tussenpozen als voorgeschreven in bedoelde Verdragen, aan de Conferentie een verslag voor te leggen inzake de toepassing van elk dier Verdragen en tegelijkertijd te overwegen of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides —
 
-##### Artikel 5
+- (a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the denunciation of this Convention if and when the new revising Convention shall have come into force;
 
-Onverminderd het bepaalde in een der Verdragen die door de Conferentie in de loop van haar eerste tweeëndertig zittingen zijn aangenomen, heeft de bekrachtiging van dit Verdrag door een Lid niet ipso jure de opzegging van een dergelijk Verdrag ten gevolge, noch sluit de inwerkingtreding van dit Verdrag de mogelijkheid uit een dergelijk Verdrag alsnog te bekrachtigen.
+- (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-##### Artikel 6
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, en mits het nieuwe Verdrag niet anders bepaalt:
+##### Article 7
 
-- a). heeft bekrachtiging door een Lid van het nieuwe Verdrag, houdende herziening, ipso jure opzegging van het onderhavige Verdrag tot gevolg, indien en zodra het nieuwe Verdrag, houdende herziening, in werking is getreden;
-
-- b). kan met ingang van het tijdstip, waarop het nieuwe Verdrag, houdende herziening, in werking treedt, het onderhavige Verdrag niet langer door de Leden worden bekrachtigd.
-
-2. Het onderhavige Verdrag blijft echter in elk geval naar huidige vorm en inhoud van kracht ten aanzien van die Leden die het hebben bekrachtigd doch het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
-
-##### Artikel 7
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
+The English and French versions of the Convention are equally authoritative.

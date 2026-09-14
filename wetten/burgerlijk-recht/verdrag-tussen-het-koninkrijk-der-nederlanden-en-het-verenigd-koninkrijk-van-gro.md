@@ -1,62 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de wederkerige erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken"
 identifier: "BWBV0004295"
-country: "nl"
-rank: "verdrag"
-publication_date: "1969-09-21"
-last_updated: "1969-09-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004295"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004039953"
-version_id: "10004207582"
-internal_id: "C10008341471"
-label_id: "10004024434"
-dtd_version: "2.0"
-original_entry_into_force: "1969-09-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004295/1969-09-21/0"
-intitule_bron: "Trb.1967-197"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-12-15"
-intitule_in_force: "1969-08-19"
-intitule_status: "goed"
-original_publication: "Trb.1967-197"
-original_published_date: "1967-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-197"
-entry_into_force_date: "1969-09-21"
-jci_1_3: "jci1.3:c:BWBV0004295&z=1969-09-21&g=1969-09-21"
-jci_1_0: "1.0:c:BWBV0004295&g=1969-09-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1969-09-21"
+publicatiedatum: 1969-09-21
+laatste_update: 1969-09-21
+status: geldig
+toestand: 1969-09-21
+bron: "https://wetten.overheid.nl/BWBV0004295"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de wederkerige erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken
 
-Hare Majesteit de Koningin der Nederlanden en
+*Hare Majesteit de Koningin der Nederlanden en Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van de Commonwealth (hierna te noemen: „Hare Britse Majesteit”); De wens koesterende om op grondslag van wederkerigheid een regeling te treffen voor de erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken, Hebben besloten te dien einde een Verdrag te sluiten en hebben tot hun gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie de Heer H. J. de Koster, Staatssecretaris van Buitenlandse Zaken; Hare Britse Majesteit: Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: Zijne Excellentie Sir Isham Peter Garran, K. C. M. G., Harer Britse Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage en De Right Honourable Lord Gardiner, Lord High Chancellor van Groot-Brittannië; Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:*
 
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en van Haar andere Rijken en Gebieden, Hoofd van de Commonwealth (hierna te noemen: „Hare Britse Majesteit”);
-
-De wens koesterende om op grondslag van wederkerigheid een regeling te treffen voor de erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken,
-
-Hebben besloten te dien einde een Verdrag te sluiten en hebben tot hun gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie de Heer H. J. de Koster, Staatssecretaris van Buitenlandse Zaken;
-
-Hare Britse Majesteit:
-
-Voor het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-Zijne Excellentie Sir Isham Peter Garran, K. C. M. G., Harer Britse Majesteits Buitengewoon en Gevolmachtigd Ambassadeur te 's-Gravenhage en
-
-De Right Honourable Lord Gardiner, Lord High Chancellor van Groot-Brittannië;
-
-Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
-
-Het onderhavige Verdrag is in de verhouding Nederland-Verenigd Koninkrijk vanaf 1 januari 1987 vervangen door het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken en onder voorbehoud van het bepaalde in artikel 54, tweede lid, en artikel 56 van het Verdrag van 1968. Het onderhavige Verdrag blijft echter volledig van kracht in de verhouding Nederland, enerzijds, en het Baljuwschap Guernsey, het Baljuwschap Jersey, het eiland Man en Hong Kong, anderzijds; het blijft eveneens van kracht tussen de Nederlandse Antillen, Aruba en het Verenigd Koninkrijk (Trb. 1987/56).
-
-### Algemene bepalingen
+#### Algemene bepalingen
 
 ##### Artikel I
 
@@ -64,9 +23,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 1. „gebied”:
 
-- a). waar het betreft het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen: „het Verenigd Koninkrijk”), Engeland en Wales, Schotland en Noord-Ierland en die gebieden, waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel X, 1e lid, onder a; en
+   - a) waar het betreft het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen: „het Verenigd Koninkrijk”), Engeland en Wales, Schotland en Noord-Ierland en die gebieden, waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel X, 1e lid, onder a; en
 
-- b). waar het betreft het Koninkrijk der Nederlanden, het Europese gedeelte van het Koninkrijk en elk ander deel van het Koninkrijk waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel X, 1e lid, onder b.
+   - b) waar het betreft het Koninkrijk der Nederlanden, het Europese gedeelte van het Koninkrijk en elk ander deel van het Koninkrijk waar dit Verdrag van kracht is uit hoofde van een uitbreiding ingevolge artikel X, 1e lid, onder b.
 
 - 2. „vonnis”: iedere beslissing van een gerecht, hoe ook genaamd (vonnis, beschikking en dergelijke), bevattende een eindbeslissing omtrent de rechten van de partijen; hieraan doet niet af, dat tegen het vonnis een rechtsmiddel is ingesteld of nog kan worden ingesteld bij de gerechten van het land van het oorspronkelijk gerecht. Een gerechtelijke minnelijke schikking zal voor de toepassing van dit Verdrag eveneens als een vonnis worden beschouwd. Zijn de ingevolge een vonnis te betalen proceskosten of interessen niet in dat vonnis zelf vastgesteld doch bij een aparte beschikking, dan wordt zulk een beschikking voor de toepassing van dit Verdrag geacht deel uit te maken van dat vonnis.
 
@@ -82,27 +41,27 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. Onverminderd het bepaalde bij het tweede en het vierde lid van dit artikel is dit Verdrag van toepassing op vonnissen in burgerlijke zaken, die na het tijdstip van inwerkingtreding van dit Verdrag zijn gewezen door de navolgende gerechten:
 
-- a). voor het Verenigd Koninkrijk: het House of Lords; voor Engeland en Wales: het Supreme Court of Judicature (Court of Appeal en High Court of Justice) en de Courts of Chancery van de Paltsgraafschappen Lancaster en Durham; voor Schotland: het Court of Session en het Sheriff Court; en voor Noord-Ierland: het Supreme Court of Judicature; en
+- a) voor het Verenigd Koninkrijk: het House of Lords; voor Engeland en Wales: het Supreme Court of Judicature (Court of Appeal en High Court of Justice) en de Courts of Chancery van de Paltsgraafschappen Lancaster en Durham; voor Schotland: het Court of Session en het Sheriff Court; en voor Noord-Ierland: het Supreme Court of Judicature; en
 
-- b). voor het Koninkrijk der Nederlanden: de Hoge Raad der Nederlanden, de gerechtshoven en de arrondissementsrechtbanken.
+- b) voor het Koninkrijk der Nederlanden: de Hoge Raad der Nederlanden, de gerechtshoven en de arrondissementsrechtbanken.
 
 2. Dit Verdrag is niet van toepassing op:
 
-- a). vonnissen, die zijn gewezen op grond van een rechtsmiddel tegen een beslissing van een niet in het eerste lid van dit artikel genoemd gerecht;
+- a) vonnissen, die zijn gewezen op grond van een rechtsmiddel tegen een beslissing van een niet in het eerste lid van dit artikel genoemd gerecht;
 
-- b). vonnissen, gewezen ter zake van rechtsvorderingen tot inning van belastingen en soortgelijke lasten of tot inning van geldboeten en andere strafrechtelijk opgelegde lasten;
+- b) vonnissen, gewezen ter zake van rechtsvorderingen tot inning van belastingen en soortgelijke lasten of tot inning van geldboeten en andere strafrechtelijk opgelegde lasten;
 
-- c). vonnissen in familierechtelijke aangelegenheden of betreffende de staat van personen, daaronder begrepen beschikkingen inzake onderhoud;
+- c) vonnissen in familierechtelijke aangelegenheden of betreffende de staat van personen, daaronder begrepen beschikkingen inzake onderhoud;
 
-- d). vonnissen in zaken van erfenis of beheer van nalatenschappen;
+- d) vonnissen in zaken van erfenis of beheer van nalatenschappen;
 
-- e). vonnissen inzake faillissement en surséance van betaling of de ontbinding en vereffening van vennootschappen.
+- e) vonnissen inzake faillissement en surséance van betaling of de ontbinding en vereffening van vennootschappen.
 
 3. Dit Verdrag sluit niet uit, dat een in het gebied van een der Hoge Verdragsluitende Partijen gewezen vonnis dat niet onder de werking van dit Verdrag valt of dat is gewezen onder omstandigheden waarin dit Verdrag de erkenning of tenuitvoerlegging niet vereist, niettemin in het gebied van de andere Hoge Verdragsluitende Partij wordt erkend en ten uitvoer gelegd op grond van de alsdan ter plaatse geldende interne rechtsregelen.
 
 4. Een Hoge Verdragsluitende Partij is niet verplicht dit Verdrag toe te passen op een vonnis, gewezen terzake van schade, welke valt onder de werking van een Verdrag inzake de wettelijke aansprakelijkheid op het gebied van de kernenergie, waarbij die Hoge Verdragsluitende Partij eveneens Verdragsluitende Partij is.
 
-### Erkenning van vonnissen
+#### Erkenning van vonnissen
 
 ##### Artikel III
 
@@ -110,17 +69,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Onverminderd het bepaalde in het derde tot vijfde lid van dit artikel worden vonnissen, die zijn gewezen in het gebied van een der Hoge Verdragsluitende Partijen, erkend in het gebied van de andere tenzij ten genoegen van het aangezochte gerecht wordt aangetoond, dat een van de hiernavolgende weigeringsgronden aanwezig is:
 
-- a). in het berechte geval wordt, naar het bepaalde in artikel IV, het oorspronkelijke gerecht niet als bevoegd erkend;
+- a) in het berechte geval wordt, naar het bepaalde in artikel IV, het oorspronkelijke gerecht niet als bevoegd erkend;
 
-- b). de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, kreeg niet tijdig genoeg kennis van het aanhangig zijn van dit geding om gelegenheid te hebben zich te verweren (ook al was hij op de door het recht van het land van het oorspronkelijke gerecht voorgeschreven wijze gedagvaard of opgeroepen) en verscheen niet;
+- b) de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, kreeg niet tijdig genoeg kennis van het aanhangig zijn van dit geding om gelegenheid te hebben zich te verweren (ook al was hij op de door het recht van het land van het oorspronkelijke gerecht voorgeschreven wijze gedagvaard of opgeroepen) en verscheen niet;
 
-- c). het vonnis werd door bedrog of arglist verkregen;
+- c) het vonnis werd door bedrog of arglist verkregen;
 
-- d). de erkenning van het vonnis zou strijdig zijn met de openbare orde van het land van het aangezochte gerecht;
+- d) de erkenning van het vonnis zou strijdig zijn met de openbare orde van het land van het aangezochte gerecht;
 
-- e). de schuldenaar, gedaagde in het oorspronkelijke geding, was een persoon die naar de regels van het volkenrecht zijn onschendbaarheid kon inroepen tegenover de gerechten van het land van het oorspronkelijke gerecht en onderwierp zich niet vrijwillig aan de rechtsmacht van dit gerecht;
+- e) de schuldenaar, gedaagde in het oorspronkelijke geding, was een persoon die naar de regels van het volkenrecht zijn onschendbaarheid kon inroepen tegenover de gerechten van het land van het oorspronkelijke gerecht en onderwierp zich niet vrijwillig aan de rechtsmacht van dit gerecht;
 
-- f). getracht wordt de tenuitvoerlegging van het vonnis te verkrijgen tegen een persoon die zich naar de regels van het volkenrecht tegenover het aangezochte gerecht op zijn onschendbaarheid kan beroepen.
+- f) getracht wordt de tenuitvoerlegging van het vonnis te verkrijgen tegen een persoon die zich naar de regels van het volkenrecht tegenover het aangezochte gerecht op zijn onschendbaarheid kan beroepen.
 
 3. Indien de schuldenaar het aangezochte gerecht aantoont, dat een rechtsmiddel is ingesteld of dat hij gerechtigd en ook voornemens is om in het land van het oorspronkelijke gerecht een rechtsmiddel tegen het vonnis aan te wenden, dan mag het aangezochte gerecht het vonnis erkennen, doch het kan ook, indien de schuldenaar zulks verzoekt, hetzij de erkenning weigeren of zijn beslissing aanhouden teneinde de schuldenaar een redelijke termijn te geven om op grond van het ingestelde rechtsmiddel tot het einde voort te procederen of om een rechtsmiddel aan te wenden.
 
@@ -132,15 +91,15 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 1. Voor de toepassing van artikel III, tweede lid, onder a, zijn, onverminderd het bepaalde in het tweede tot vierde lid van dit artikel, de gerechten van het land van het oorspronkelijke gerecht bevoegd:
 
-- a). indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, zich aan de rechtsmacht daarvan heeft onderworpen door vrijwillig te verschijnen en op de zaak zelf is ingegaan, derhalve met het verschijnen niet uitsluitend beoogd werd om in verband met de procedure in beslag genomen of met beslag bedreigde goederen te bevrijden of te beschermen of om de bevoegdheid van het gerecht te betwisten;
+- a) indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, zich aan de rechtsmacht daarvan heeft onderworpen door vrijwillig te verschijnen en op de zaak zelf is ingegaan, derhalve met het verschijnen niet uitsluitend beoogd werd om in verband met de procedure in beslag genomen of met beslag bedreigde goederen te bevrijden of te beschermen of om de bevoegdheid van het gerecht te betwisten;
 
-- b). indien de schuldenaar eiser of eiser in reconventie was in het geding voor het oorspronkelijke gerecht;
+- b) indien de schuldenaar eiser of eiser in reconventie was in het geding voor het oorspronkelijke gerecht;
 
-- c). indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, vóór de aanvang van het geding er in had toegestemd om zich met betrekking tot het te beslechten geschil te onderwerpen aan de rechtsmacht van dat gerecht of van de gerechten van het land van dat gerecht;
+- c) indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, vóór de aanvang van het geding er in had toegestemd om zich met betrekking tot het te beslechten geschil te onderwerpen aan de rechtsmacht van dat gerecht of van de gerechten van het land van dat gerecht;
 
-- d). indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, ten tijde van het instellen van de procedure zijn woonplaats of gewone verblijfplaats had of, wanneer het een rechtspersoon betreft, gevestigd was in het land van dat gerecht;
+- d) indien de schuldenaar, gedaagde in het geding voor het oorspronkelijke gerecht, ten tijde van het instellen van de procedure zijn woonplaats of gewone verblijfplaats had of, wanneer het een rechtspersoon betreft, gevestigd was in het land van dat gerecht;
 
-- e). indien de schuldenaar, gedaagde voor het oorspronkelijke gerecht, een kantoor of filiaal had in het land van dat gerecht en het geding voor dat gerecht een aangelegenheid betrof, die door of op dat kantoor of filiaal was tot stand gebracht.
+- e) indien de schuldenaar, gedaagde voor het oorspronkelijke gerecht, een kantoor of filiaal had in het land van dat gerecht en het geding voor dat gerecht een aangelegenheid betrof, die door of op dat kantoor of filiaal was tot stand gebracht.
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op vonnissen in een procedure betreffende onroerend goed, doch de bevoegdheid van het oorspronkelijke gerecht zal worden erkend, wanneer dit goed is gelegen in het land van het oorspronkelijke gerecht.
 
@@ -148,7 +107,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De bevoegdheid van het oorspronkelijke gerecht wordt niet erkend in de onder d en e van het eerste lid en in het tweede en het derde lid van dit artikel vermelde gevallen, indien het geding voor het oorspronkelijke gerecht was aanhangig gemaakt in strijd met een overeenkomst ingevolge welke het geschil op een andere wijze zou worden beslecht dan door een procedure voor de gerechten van het land van het oorspronkelijke gerecht.
 
-### Tenuitvoerlegging van vonnissen
+#### Tenuitvoerlegging van vonnissen
 
 ##### Artikel V
 
@@ -156,11 +115,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien:
 
-- a). aan het vonnis geheel is voldaan;
+- a) aan het vonnis geheel is voldaan;
 
-- b). het vonnis niet vatbaar was voor tenuitvoerlegging in het land van het oorspronkelijke gerecht, of
+- b) het vonnis niet vatbaar was voor tenuitvoerlegging in het land van het oorspronkelijke gerecht, of
 
-- c). er een grond tot weigering van de erkenning als bepaald in artikel III aanwezig is.
+- c) er een grond tot weigering van de erkenning als bepaald in artikel III aanwezig is.
 
 2. Indien de schuldenaar ten genoegen van het aangezochte gerecht aantoont, dat een rechtsmiddel is ingesteld of dat hij gerechtigd is om een rechtsmiddel aan te wenden en ook voornemens is dit te doen, dan behoeft de tenuitvoerlegging van het vonnis niet te worden toegestaan en kan het aangekochte gerecht die maatregelen treffen, die naar zijn interne wet geoorloofd zijn.
 
@@ -168,19 +127,19 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 1. Alvorens een in het gebied van het Koninkrijk der Nederlanden gewezen vonnis in het Verenigd Koninkrijk kan worden ten uitvoer gelegd, moet de schuldeiser zich op de daartoe door het aangezochte gerecht voorgeschreven wijze met een verzoek om registratie wenden:
 
-- a). in Engeland en Wales: tot het High Court of Justice;
+- a) in Engeland en Wales: tot het High Court of Justice;
 
-- b). in Schotland: tot het Court of Session;
+- b) in Schotland: tot het Court of Session;
 
-- c). in Noord-Ierland: tot het Supreme Court of Judicature.
+- c) in Noord-Ierland: tot het Supreme Court of Judicature.
 
 2. Het verzoek om registratie dient vergezeld te gaan van:
 
-- a). een gewaarmerkt afschrift van het volledige vonnis, voorzien van het stempel van het gerecht en dragende de formule „In naam der Koningin”;
+- a) een gewaarmerkt afschrift van het volledige vonnis, voorzien van het stempel van het gerecht en dragende de formule „In naam der Koningin”;
 
-- b). een beëdigde verklaring („affidavit”) omtrent de gegevens welke naar de voorschriften van het aangezochte gerecht worden verlangd;
+- b) een beëdigde verklaring („affidavit”) omtrent de gegevens welke naar de voorschriften van het aangezochte gerecht worden verlangd;
 
-- c). een vertaling in de Engelse taal van elk geschrift, dat ingevolge dit lid wordt verlangd, welke eensluidend dient te zijn verklaard door een beëdigd vertaler of een diplomatieke of consulaire ambtenaar van een van de Hoge Verdragsluitende Partijen.
+- c) een vertaling in de Engelse taal van elk geschrift, dat ingevolge dit lid wordt verlangd, welke eensluidend dient te zijn verklaard door een beëdigd vertaler of een diplomatieke of consulaire ambtenaar van een van de Hoge Verdragsluitende Partijen.
 
 3. De in het tweede lid genoemde bescheiden behoeven geen verder bewijs van echtheid.
 
@@ -192,11 +151,11 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 2. Het verzoek om verlof tot tenuitvoerlegging dient vergezeld te gaan van:
 
-- a). een gewaarmerkt afschrift van het vonnis, voorzien van het zegel van het gerecht, of, wanneer het betreft een beslissing van het Sheriff Court, voorzien van de handtekening van de Sheriff Clerk;
+- a) een gewaarmerkt afschrift van het vonnis, voorzien van het zegel van het gerecht, of, wanneer het betreft een beslissing van het Sheriff Court, voorzien van de handtekening van de Sheriff Clerk;
 
-- b). een door het oorspronkelijke gerecht verstrekt geschrift, vermeldende bijzonderheden van de procedure en een weergave van de gronden waarop de beslissing berustte;
+- b) een door het oorspronkelijke gerecht verstrekt geschrift, vermeldende bijzonderheden van de procedure en een weergave van de gronden waarop de beslissing berustte;
 
-- c). indien het aangezochte gerecht zulks verlangt: een vertaling in de Nederlandse taal van elk geschrift, dit ingevolge dit lid wordt vereist, welke vertaling dient te zijn eensluidend verklaard door een beëdigd vertaler of door een diplomatieke of consulaire ambtenaar van een der Hoge Verdragsluitende Partijen.
+- c) indien het aangezochte gerecht zulks verlangt: een vertaling in de Nederlandse taal van elk geschrift, dit ingevolge dit lid wordt vereist, welke vertaling dient te zijn eensluidend verklaard door een beëdigd vertaler of door een diplomatieke of consulaire ambtenaar van een der Hoge Verdragsluitende Partijen.
 
 3. De in het tweede lid genoemde bescheiden behoeven geen verder bewijs van echtheid.
 
@@ -220,7 +179,7 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 8. Indien registratie of tenuitvoerlegging van een vonnis is toegestaan, zal de beslissing tot op de datum van het verlof rente dragen tot de hoogte die in de beslissing zelf of in een er bij gevoegde verklaring van het oorspronkelijke gerecht is vastgesteld. Van de datum van het verlof af wordt rente toegekend tot 4 % per jaar over het gehele bedrag (hoofdsom en rente) waarvoor registratie of tenuitvoerlegging is toegestaan.
 
-### Slotbepalingen
+#### Slotbepalingen
 
 ##### Artikel IX
 
@@ -230,9 +189,9 @@ Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing va
 
 1. De Regeringen van de Hoge Verdragsluitende Partijen kunnen op elk tijdstip door Notawisseling de werking van dit Verdrag uitbreiden tot:
 
-- a). elk gebied voor welks internationale betrekkingen de Regering van Hare Majesteit de Koningin van Engeland in het Verenigd Koninkrijk verantwoordelijk is;
+- a) elk gebied voor welks internationale betrekkingen de Regering van Hare Majesteit de Koningin van Engeland in het Verenigd Koninkrijk verantwoordelijk is;
 
-- b). elk deel van het Koninkrijk der Nederlanden buiten Europa.
+- b) elk deel van het Koninkrijk der Nederlanden buiten Europa.
 
 2. In de in het vorige lid bedoelde Notawisseling wordt tevens aangegeven welke gerechten van het desbetreffende gebied of van het desbetreffende deel van het Koninkrijk zullen worden beschouwd als gerechten op welker vonnissen dit Verdrag van toepassing is en tot welke gerechten een verzoek om registratie of om verlof tot tenuitvoerlegging moet worden gericht.
 

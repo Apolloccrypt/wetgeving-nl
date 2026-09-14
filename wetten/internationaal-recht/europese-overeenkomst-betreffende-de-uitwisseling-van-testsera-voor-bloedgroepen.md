@@ -1,122 +1,95 @@
 ---
 title: "Europese Overeenkomst betreffende de uitwisseling van testsera voor bloedgroepenonderzoek"
 identifier: "BWBV0004573"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-04-07"
-last_updated: "1978-04-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004573"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004197533"
-version_id: "10004374192"
-internal_id: "C10006999891"
-label_id: "10004182884"
-dtd_version: "2.0"
-original_entry_into_force: "1965-06-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004573/1978-04-07/0"
-intitule_bron: "Trb.1965-4"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-01-15"
-intitule_in_force: "1965-06-11"
-intitule_status: "goed"
-original_publication: "Trb.1965-4"
-original_published_date: "1965-01-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-4"
-entry_into_force_date: "1965-06-21"
-jci_1_3: "jci1.3:c:BWBV0004573&z=1978-04-07&g=1978-04-07"
-jci_1_0: "1.0:c:BWBV0004573&g=1978-04-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-06-21"
+publicatiedatum: 1965-06-21
+laatste_update: 1978-04-07
+status: geldig
+toestand: 1978-04-07
+bron: "https://wetten.overheid.nl/BWBV0004573"
+opgehaald: 2026-09-14
 ---
+
 # Europese Overeenkomst betreffende de uitwisseling van testsera voor bloedgroepenonderzoek
 
-De ondertekenende Regeringen, leden van de Raad van Europa,
+*The signatory Governments of the member States of the Council of Europe, Considering that blood-grouping reagents are not available in unlimited quantities; Considering that it is most desirable that member countries, in a spirit of European solidarity, should assist one another in the supply of these blood-grouping reagents, should the need arise; Considering that such mutual assistance is only possible if the character and use of such blood-grouping reagents are subject to rules laid down jointly by the member countries and if the necessary import facilities and exemptions are granted, Have agreed as follows:*
 
-Overwegende dat testsera voor bloedgroepenonderzoek slechts in beperkte hoeveelheden beschikbaar zijn;
+##### Article 1
 
-Overwegende dat het in hoge mate wenselijk is dat de lid-staten in een geest van Europese saamhorigheid, elkaar helpen door deze testsera voor bloedgroepenonderzoek te verschaffen, indien de noodzakelijkheid zich daartoe doet gevoelen;
+For the purposes of this Agreement, the expression “blood-grouping reagents” refers to reagents of human, animal and plant and other origin, used for blood-grouping and for the detection of blood incompatibilities.
 
-Overwegende dat het in hoge mate wenselijk is dat de lid-staten, indien de eigenschappen en het gebruik van deze testsera voor bloedgroepenonderzoek onderworpen zijn aan door de lid-staten gemeenschappelijk vast te stellen regelen en indien voor de invoer van deze testsera de nodige faciliteiten en vrijstellingen worden verleend;
+Any Contracting Party may, by a declaration addressed to the Secretary-General of the Council of Europe, when signing this Agreement or depositing its instrument of ratification or approval, or accession, limit the application of this Agreement to blood-grouping reagents of human origin. This declaration may be withdrawn at any time, by notification addressed to the Secretary-General of the Council of Europe.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-##### Artikel 1
+The Contracting Parties undertake, provided that they have sufficient stocks for their own needs, to make blood-grouping reagents available to other Parties who are in urgent need of them and to charge only those costs of collection, processing and carriage of such substances and the cost (if any) of their purchase.
 
-Voor de toepassing van deze Overeenkomst wordt onder „testsera voor bloedgroepenonderzoek” verstaan sera van menselijke, dierlijke, plantaardige of andere oorsprong, bestemd voor bloedgroepenonderzoek en voor het opsporen van de onverenigbaarheid van bloedgroepen.
+##### Article 3
 
-Iedere Overeenkomstsluitende Partij kan op het tijdstip van de ondertekening van deze Overeenkomst of bij de nederlegging van haar akte van bekrachtiging, van goedkeuring of van toetreding, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de toepassing van deze Overeenkomst beperken tot testsera van menselijke oorsprong voor bloedgroepenonderzoek. Deze verklaring kan te allen tijde ingetrokken worden door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
+Blood-grouping reagents shall be made available to the other Contracting Parties subject to the condition that no profit is made on them, that they shall be used solely for medical purposes and shall be delivered only to bodies designated by the Governments concerned.
 
-##### Artikel 2
+##### Article 4
 
-De Overeenkomstsluitende Partijen verbinden zich, zo zij over een voldoende voorraad voor eigen behoeften beschikken, om testsera voor bloedgroepenonderzoek ter beschikking te stellen van andere Partijen die deze dringend nodig hebben, en dat slechts tegen betaling van de kosten van het verwerven, bereiden en verzenden van bedoelde stoffen, alsmede van de eventuele aankoopkosten.
+The Contracting Parties shall certify that the provisions as laid down in the Protocol to this Agreement have been observed.
 
-##### Artikel 3
+They shall also comply with any rules to which they have subscribed with regard to international standardisation in this field.
 
-De testsera voor bloedgroepenonderzoek worden ter beschikking van de andere Overeenkomstsluitende Partijen gesteld onder voorwaarde dat er geen winst op wordt gemaakt, dat zij alleen voor geneeskundige doeleinden worden gebruikt en dat zij slechts aan de door de betrokken Regeringen aangewezen instellingen worden afgeleverd.
+All consignments of blood-grouping reagents shall be accompanied by a certificate to the effect that they were prepared in accordance with the specifications in the Protocol. This certificate shall be based on the model to be found in the Annex to the Protocol.
 
-##### Artikel 4
+The Protocol and its Annex constitute en administrative arrangement and may be amended or supplemented by the Governments of the Parties to this Agreement.
 
-De Overeenkomstsluitende Partijen verklaren, dat aan de bepalingen vervat in het Protocol bij deze Overeenkomst, is voldaan.
+##### Article 5
 
-Zij houden zich bovendien aan de regelen die zij hebben aanvaard betreffende de internationale standaardisatie op dit gebied.
+The Contracting Parties shall take all necessary measures to exempt from all import duties the blood-grouping reagents placed at their disposal by the other Parties.
 
-Elke zending van testsera voor bloedgroepenonderzoek dient vergezeld te gaan van een verklaring dat zij zijn bereid overeenkomstig de voorschriften van het Protocol. Deze verklaring dient te zijn gebaseerd op het model vervat in de bijlage bij het Protocol.
+They shall also take all necessary measures to provide for the speedy delivery of these substances, by the most direct route, to the consignees referred to in Article 3 of this Agreement.
 
-Het Protocol en de bijbehorende Bijlage zijn bedoeld als een administratieve regeling en kunnen door de Regeringen van de Partijen bij deze Overeenkomst worden gewijzigd of aangevuld.
+##### Article 6
 
-##### Artikel 5
+The Contracting Parties shall forward to one another, through the Secretary-General of the Council of Europe, a list of the bodies empowered to issue certificates as provided in Article 4 of this Agreement.
 
-De Overeenkomstsluitende Partijen treffen alle nodige maatregelen ten einde de hun door de andere Partijen ter beschikking gestelde testsera voor bloedgroepenonderzoek vrij te stellen van alle invoerrechten.
+They shall also forward a list of bodies empowered to distribute imported blood-grouping reagents. Wherever possible these bodies should be the same as those referred to in [Article 6 of the European Agreement on the Exchange of Therapeutic Substances of Human Origin](https://wetten.overheid.nl/jci1.3:c:BWBV0005318&artikel=6).
 
-Zij treffen eveneens alle nodige maatregelen ten einde de snelle aflevering van deze stoffen, langs de meest rechtstreekse weg, aan de in artikel 3 van deze Overeenkomst bedoelde geadresseerden te bewerkstelligen.
+##### Article 7
 
-##### Artikel 6
+The present Agreement shall be open to the signature of Members of the Council of Europe, who may become Parties to it either by:
 
-De Overeenkomstsluitende Partijen zullen elkaar, door bemiddeling van de Secretaris-Generaal van de Raad van Europa, een lijst doen toekomen van de instellingen die bevoegd zijn tot het afgeven van de verklaringen als bedoeld in artikel 4 van deze Overeenkomst.
+- (a) signature without reservation in respect of ratification or approval, or
 
-Zij zullen elkaar eveneens een lijst van de tot het distribueren van ingevoerde testsera voor bloedgroepenonderzoek bevoegde instellingen toezenden. Deze instellingen dienen, voor zover mogelijk, dezelfde te zijn als die bedoeld in [artikel 6 van de Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBV0005318&artikel=6).
+- (b) signature with reservation in respect of ratification or approval, followed by ratification or approval.
 
-##### Artikel 7
+Instruments of ratification or approval shall be deposited with the Secretary-General of the Council of Europe.
 
-Deze Overeenkomst staat open voor ondertekening door de Leden van de Raad van Europa, die Partij bij de Overeenkomst kunnen worden door:
+##### Article 8
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging of van goedkeuring, of
+The present Agreement shall enter into force one month after the date on which three Members of the Council shall, in accordance with Article 7, have signed the Agreement without reservation in respect of ratification or approval or shall have ratified or approved it.
 
-- (b). ondertekening onder voorbehoud van bekrachtiging of van goedkeuring gevolgd door bekrachtiging of goedkeuring.
+In the case of any Member of the Council who shall subsequently sign the Agreement without reservation in respect of ratification or approval or who shall ratify or approve it, the Agreement shall enter into force one month after the date of such signature or the date of deposit of the instrument of ratification or approval.
 
-De akten van bekrachtiging of van goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 9
 
-##### Artikel 8
+After the entry into force of this Agreement, the Committee of Ministers of the Council of Europe may invite any non-member State to accede to the present Agreement. Such accession shall take effect one month after the date of deposit of the instrument of accession with the Secretary-General of the Council of Europe.
 
-Deze Overeenkomst treedt in werking een maand na de datum waarop drie Leden van de Raad, overeenkomstig het in artikel 7 bepaalde, deze Overeenkomst zonder voorbehoud van bekrachtiging of van goedkeuring hebben ondertekend of haar hebben bekrachtigd of goedgekeurd.
+##### Article 10
 
-Ten aanzien van ieder Lid dat de Overeenkomst op latere datum ondertekent zonder voorbehoud van bekrachtiging of van goedkeuring, of haar bekrachtigt of goedkeurt, treedt deze Overeenkomst in werking een maand na de datum van die ondertekening of van de nederlegging van de akte van bekrachtiging of van goedkeuring.
+The Secretary-General of the Council of Europe shall notify Members of the Council and acceding States:
 
-##### Artikel 9
+- (a) of the date of entry into force of this Agreement and of the names of any Members who have signed without reservation in respect of ratification or approval or who have ratified or approved it;
 
-Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere niet tot de Raad van Europa behorende Staat uitnodigen tot deze Overeenkomst toe te treden. De toetreding wordt van kracht een maand na de datum waarop de akte van toetreding is nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+- (b) of the deposit of any instrument of accession in accordance with Article 9;
 
-##### Artikel 10
+- (c) of any declaration or notification received in accordance with the provisions of Article 1, paragraph 2;
 
-De Secretaris-Generaal van de Raad van Europa geeft aan de Leden van de Raad van Europa en aan de toetredende Staten kennis van:
+- (d) of any notification received in accordance with Article 11 and its effective date;
 
-- (a). de datum van inwerkingtreding van deze Overeenkomst en de namen van de Leden die haar hebben ondertekend zonder voorbehoud van bekrachtiging of van goedkeuring, of haar hebben bekrachtigd of goedgekeurd;
+- (e) of any amendment of the Protocol and of its Annex under Article 4, paragraph 4.
 
-- (b). de nederlegging van iedere akte van toetreding overeenkomstig artikel 9;
+##### Article 11
 
-- (c). elke verklaring of kennisgeving ontvangen overeenkomstig het bepaalde in het tweede lid van artikel 1;
+The present Agreement shall remain in force indefinitely.
 
-- (d). elke overeenkomstig artikel 11 ontvangen kennisgeving en de datum waarop deze van kracht wordt;
-
-- (e). elke wijziging van het Protocol en de bijbehorende Bijlage ingevolge het bepaalde in artikel 4, vierde lid.
-
-##### Artikel 11
-
-Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
-
-Elke Overeenkomstsluitende Partij kan haar toepassing van deze Overeenkomst beëindigen met inachtneming van een opzeggingstermijn van één jaar door middel van een daartoe strekkende kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
+Any Contracting Party may terminate its own application of the Agreement by giving one year's notice to that effect to the Secretary-General of the Council of Europe.
 
 IN WITNESS WHEREOF the undersigned, duly authorised thereto by their respective Governments, have signed the present Agreement.
 

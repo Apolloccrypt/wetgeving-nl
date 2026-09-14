@@ -1,54 +1,35 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Republiek"
 identifier: "BWBV0004833"
-country: "nl"
-rank: "verdrag"
-publication_date: "1962-08-08"
-last_updated: "1962-08-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004833"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004342753"
-version_id: "10004542802"
-internal_id: "C10006694521"
-label_id: "10004327674"
-dtd_version: "2.0"
-original_entry_into_force: "1962-08-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004833/1962-08-08/0"
-intitule_bron: "Trb.1961-2"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-01-11"
-intitule_in_force: "1962-09-27"
-intitule_status: "goed"
-original_publication: "Trb.1961-2"
-original_published_date: "1961-01-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-2"
-entry_into_force_date: "1962-08-08"
-jci_1_3: "jci1.3:c:BWBV0004833&z=1962-08-08&g=1962-08-08"
-jci_1_0: "1.0:c:BWBV0004833&g=1962-08-08"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-08-08"
+publicatiedatum: 1962-08-08
+laatste_update: 1962-08-08
+status: geldig
+toestand: 1962-08-08
+bron: "https://wetten.overheid.nl/BWBV0004833"
+opgehaald: 2026-09-14
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Arabische Republiek
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Arabische Republiek, de wens koesterende de culturele banden tussen de beide Landen te versterken en een nauwe samenwerking op het gebied van het onderwijs, de wetenschappen en de kunsten te bewerkstelligen, en om de vriendschappelijke verstandhouding te bevestigen en een zo volledig mogelijk begrip tussen de beide volken te handhaven, hebben besloten een culturele overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Arabische Republiek, de wens koesterende de culturele banden tussen de beide Landen te versterken en een nauwe samenwerking op het gebied van het onderwijs, de wetenschappen en de kunsten te bewerkstelligen, en om de vriendschappelijke verstandhouding te bevestigen en een zo volledig mogelijk begrip tussen de beide volken te handhaven, hebben besloten een culturele overeenkomst te sluiten en zijn de volgende bepalingen overeengekomen:*
 
 ##### Artikel I
 
 De Overeenkomstsluitende Partijen verbinden zich de culturele, wetenschappelijke en kunstzinnige samenwerking tussen de beide Landen aan te moedigen en wel door het nemen van alle daartoe noodzakelijke maatregelen. Zij verbinden zich met name ertoe:
 
-- a). de uitwisseling te bevorderen van leden van de wetenschappelijke staf van instellingen van hoger onderwijs, van hoogleraren, geleerden en studenten tussen de instellingen van wetenschap en de universiteiten van beide Landen, en hun alle faciliteiten te verlenen met betrekking tot de binnenkomst en het verblijf, zulks overeenkomstig de in elk der beide Landen van kracht zijnde wetten;
+- a) de uitwisseling te bevorderen van leden van de wetenschappelijke staf van instellingen van hoger onderwijs, van hoogleraren, geleerden en studenten tussen de instellingen van wetenschap en de universiteiten van beide Landen, en hun alle faciliteiten te verlenen met betrekking tot de binnenkomst en het verblijf, zulks overeenkomstig de in elk der beide Landen van kracht zijnde wetten;
 
-- b). elk in Haar eigen Land studiebeurzen in te stellen teneinde studenten en afgestudeerden van het andere Land de gelegenheid te bieden aan instituten van wetenschap en instellingen van hoger onderwijs te studeren en aldaar onderzoekingen te verrichten dan wel hun technische opleiding te voltooien;
+- b) elk in Haar eigen Land studiebeurzen in te stellen teneinde studenten en afgestudeerden van het andere Land de gelegenheid te bieden aan instituten van wetenschap en instellingen van hoger onderwijs te studeren en aldaar onderzoekingen te verrichten dan wel hun technische opleiding te voltooien;
 
-- c). de organisatie van tentoonstellingen, concerten en lezingen aan te moedigen die tot een betere kennis van de cultuur van het andere Land zullen bijdragen;
+- c) de organisatie van tentoonstellingen, concerten en lezingen aan te moedigen die tot een betere kennis van de cultuur van het andere Land zullen bijdragen;
 
-- d). de samenwerking op het gebied van de cultuur, de wetenschap, de sport en het maatschappelijk leven te bevorderen tussen de in beide Landen erkende onderwijsinstellingen;
+- d) de samenwerking op het gebied van de cultuur, de wetenschap, de sport en het maatschappelijk leven te bevorderen tussen de in beide Landen erkende onderwijsinstellingen;
 
-- e). de uitwisseling te vergemakkelijken van handschriften en afschriften daarvan, van kunstvoorwerpen en van wetenschappelijk bronnenmateriaal;
+- e) de uitwisseling te vergemakkelijken van handschriften en afschriften daarvan, van kunstvoorwerpen en van wetenschappelijk bronnenmateriaal;
 
-- f). elk op Haar eigen grondgebied, en overeenkomstig de in elk der beide Landen van kracht zijnde wetten, werkzaamheden op het gebied der oudheidkunde door het andere Land ondernomen te vergemakkelijken.
+- f) elk op Haar eigen grondgebied, en overeenkomstig de in elk der beide Landen van kracht zijnde wetten, werkzaamheden op het gebied der oudheidkunde door het andere Land ondernomen te vergemakkelijken.
 
 ##### Artikel II
 
@@ -74,9 +55,9 @@ Teneinde bij te dragen tot een goede uitvoering dezer Overeenkomst in overeenste
 
 Elk der Overeenkomstsluitende Partijen zal in Haar eigen Land jegens de andere Partij alle mogelijke faciliteiten verlenen wat betreft:
 
-- I). de culturele instellingen;
+- I) de culturele instellingen;
 
-- II). de onderwijsinstellingen.
+- II) de onderwijsinstellingen.
 
 ##### Artikel VII
 
@@ -94,10 +75,10 @@ TEN BLIJKE WAARVAN de onderscheidene Gevolmachtigden de onderhavige Overeenkomst
 
 GEDAAN te 's-Gravenhage, de 8e december 1960, in tweevoud, in de Nederlandse, de Arabische en de Franse taal, zijnde de drie teksten gelijkelijk authentiek en zijnde, in geval van geschil, de Franse tekst doorslaggevend.
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) J. LUNS
 
-**Voor de Regering van de Verenigde Arabische Republiek:**
+*Voor de Regering van de Verenigde Arabische Republiek:*
 
 (w.g.) A. A. KHANDJI

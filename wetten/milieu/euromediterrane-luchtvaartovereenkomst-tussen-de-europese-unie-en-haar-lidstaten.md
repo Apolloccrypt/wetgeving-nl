@@ -1,138 +1,19 @@
 ---
 title: "Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds"
 identifier: "BWBV0005053"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-08-02"
-last_updated: "2020-08-02"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005053"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004452743"
-version_id: "10004660812"
-internal_id: "C10009712131"
-label_id: "10004437844"
-dtd_version: "2.0"
-original_entry_into_force: "2020-08-02"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005053/2020-08-02/0"
-intitule_bron: "Trb.2011-29"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-02-17"
-intitule_in_force: "2020-08-14"
-intitule_status: "goed"
-original_publication: "Trb.2011-29"
-original_published_date: "2011-02-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-29"
-entry_into_force_date: "2020-08-02"
-jci_1_3: "jci1.3:c:BWBV0005053&z=2020-08-02&g=2020-08-02"
-jci_1_0: "1.0:c:BWBV0005053&g=2020-08-02"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-08-02"
+publicatiedatum: 2020-08-02
+laatste_update: 2020-08-02
+status: geldig
+toestand: 2020-08-02
+bron: "https://wetten.overheid.nl/BWBV0005053"
+opgehaald: 2026-09-14
 ---
+
 # Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds
 
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten” genoemd, en
-
-De Europese Unie,
-
-enerzijds, en
-
-Het Hasjemitische Koninkrijk Jordanië, hierna „Jordanië” genoemd,
-
-anderzijds,
-
-De wens uitdrukkend een internationaal luchtvaartsysteem te bevorderen, dat gebaseerd is op eerlijke mededinging tussen luchtvaartmaatschappijen op een markt met een minimum aan overheidsbemoeienis en regelgeving;
-
-De wens uitdrukkend de uitbreiding van de internationale luchtvervoersmogelijkheden te vergemakkelijken, onder meer via de ontwikkeling van luchtvervoersnetwerken, teneinde tegemoet te komen aan de behoeften van passagiers en expediteurs aan passende luchtvervoersdiensten;
-
-Erkennende dat luchtvervoer belangrijk is voor het bevorderen van handel, toerisme en investeringen;
-
-De wens uitdrukkend dat luchtvaartmaatschappijen de mogelijkheid krijgen om passagiers en expediteurs concurrerende prijzen en diensten aan te bieden op open markten;
-
-Erkennende dat het op elkaar afstemmen en, voor zover praktisch mogelijk, het harmoniseren van regelgeving inzake luchtvervoer voordelen kan opleveren;
-
-De wens uitdrukkend dat alle sectoren van de luchtvervoerssector, inclusief het personeel van luchtvaartmaatschappijen, profijt kunnen trekken van een geliberaliseerd klimaat;
-
-De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het internationaal luchtvervoer te garanderen en nogmaals bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van het luchtvervoer nadelig beïnvloeden en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen;
-
-Nota nemende van het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944;
-
-Erkennende dat deze Euromediterrane luchtvaartovereenkomst binnen het toepassingsgebied valt van het Euromediterraan partnerschap dat in het vooruitzicht wordt gesteld in de verklaring van Barcelona van 28 november 1995;
-
-Nota nemende van hun gemeenschappelijk voornemen om een Euromediterrane luchtvaartruimte tot stand te brengen, op basis van de beginselen van overeenstemming van de regelgeving, regelgevende samenwerking en liberalisering van de markttoegang;
-
-Nota nemende van de gezamenlijke verklaring van de Arabische burgerluchtvaartcommissie en de Arabische organisatie van luchtvaartmaatschappijen, enerzijds, en het directoraat-generaal Energie en vervoer, anderzijds, die op 16 november 2008 in Sharm El Sheikh is ondertekend;
-
-De wens uitdrukkend een gelijk speelveld voor luchtvaartmaatschappijen te creëren, waardoor de luchtvaartmaatschappijen van beide partijen billijke en gelijke kansen genieten om de overeengekomen diensten te verlenen;
-
-Erkennende dat het belangrijk is de toewijzing van slots te regelen op basis van eerlijke en gelijke kansen voor luchtvaartmaatschappijen van beide partijen, teneinde een neutrale en niet-discriminerende behandeling van alle luchtvaartmaatschappijen te garanderen;
-
-Erkennende dat subsidies een negatief effect kunnen hebben op de mededinging tussen luchtvaartmaatschappijen en de basisdoelstellingen van deze Overeenkomst in het gedrang kunnen brengen;
-
-Bevestigend dat het belangrijk is de broeikasgasemissies van de luchtvaart te beperken en het milieu te beschermen bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid;
-
-Nota nemende van het belang van de bescherming van de consument, met inbegrip van de bescherming die wordt geboden door het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), gesloten te Montreal op 28 mei 1999, voor zover beide partijen zijn toegetreden tot dit verdrag;
-
-Voornemens voort te bouwen op het kader van de bestaande luchtvervoersovereenkomsten, teneinde aan beide zijden open markttoegang en zoveel mogelijk voordelen voor consumenten, luchtvaartmaatschappijen, personeel en de maatschappij in het algemeen tot stand te brengen;
-
-Nota nemende van het feit dat het doel van deze overeenkomst geleidelijk doch volledig moet worden verwezenlijkt en dat een geschikt mechanisme kan zorgen voor steeds grotere harmonisering van de wetgeving,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten” genoemd, en De Europese Unie, enerzijds, en Het Hasjemitische Koninkrijk Jordanië, hierna „Jordanië” genoemd, anderzijds, De wens uitdrukkend een internationaal luchtvaartsysteem te bevorderen, dat gebaseerd is op eerlijke mededinging tussen luchtvaartmaatschappijen op een markt met een minimum aan overheidsbemoeienis en regelgeving; De wens uitdrukkend de uitbreiding van de internationale luchtvervoersmogelijkheden te vergemakkelijken, onder meer via de ontwikkeling van luchtvervoersnetwerken, teneinde tegemoet te komen aan de behoeften van passagiers en expediteurs aan passende luchtvervoersdiensten; Erkennende dat luchtvervoer belangrijk is voor het bevorderen van handel, toerisme en investeringen; De wens uitdrukkend dat luchtvaartmaatschappijen de mogelijkheid krijgen om passagiers en expediteurs concurrerende prijzen en diensten aan te bieden op open markten; Erkennende dat het op elkaar afstemmen en, voor zover praktisch mogelijk, het harmoniseren van regelgeving inzake luchtvervoer voordelen kan opleveren; De wens uitdrukkend dat alle sectoren van de luchtvervoerssector, inclusief het personeel van luchtvaartmaatschappijen, profijt kunnen trekken van een geliberaliseerd klimaat; De wens uitdrukkend het hoogst mogelijke niveau van veiligheid en beveiliging van het internationaal luchtvervoer te garanderen en nogmaals bevestigend dat zij zich grote zorgen maken over daden of bedreigingen die gericht zijn tegen luchtvaartuigen en die de veiligheid van personen of goederen in gevaar brengen, de exploitatie van het luchtvervoer nadelig beïnvloeden en het vertrouwen van het publiek in de veiligheid van de burgerluchtvaart ondermijnen; Nota nemende van het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944; Erkennende dat deze Euromediterrane luchtvaartovereenkomst binnen het toepassingsgebied valt van het Euromediterraan partnerschap dat in het vooruitzicht wordt gesteld in de verklaring van Barcelona van 28 november 1995; Nota nemende van hun gemeenschappelijk voornemen om een Euromediterrane luchtvaartruimte tot stand te brengen, op basis van de beginselen van overeenstemming van de regelgeving, regelgevende samenwerking en liberalisering van de markttoegang; Nota nemende van de gezamenlijke verklaring van de Arabische burgerluchtvaartcommissie en de Arabische organisatie van luchtvaartmaatschappijen, enerzijds, en het directoraat-generaal Energie en vervoer, anderzijds, die op 16 november 2008 in Sharm El Sheikh is ondertekend; De wens uitdrukkend een gelijk speelveld voor luchtvaartmaatschappijen te creëren, waardoor de luchtvaartmaatschappijen van beide partijen billijke en gelijke kansen genieten om de overeengekomen diensten te verlenen; Erkennende dat het belangrijk is de toewijzing van slots te regelen op basis van eerlijke en gelijke kansen voor luchtvaartmaatschappijen van beide partijen, teneinde een neutrale en niet-discriminerende behandeling van alle luchtvaartmaatschappijen te garanderen; Erkennende dat subsidies een negatief effect kunnen hebben op de mededinging tussen luchtvaartmaatschappijen en de basisdoelstellingen van deze Overeenkomst in het gedrang kunnen brengen; Bevestigend dat het belangrijk is de broeikasgasemissies van de luchtvaart te beperken en het milieu te beschermen bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvaartbeleid; Nota nemende van het belang van de bescherming van de consument, met inbegrip van de bescherming die wordt geboden door het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, gesloten te Montreal op 28 mei 1999, voor zover beide partijen zijn toegetreden tot dit verdrag; Voornemens voort te bouwen op het kader van de bestaande luchtvervoersovereenkomsten, teneinde aan beide zijden open markttoegang en zoveel mogelijk voordelen voor consumenten, luchtvaartmaatschappijen, personeel en de maatschappij in het algemeen tot stand te brengen; Nota nemende van het feit dat het doel van deze overeenkomst geleidelijk doch volledig moet worden verwezenlijkt en dat een geschikt mechanisme kan zorgen voor steeds grotere harmonisering van de wetgeving, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1. Definities
 
@@ -154,9 +35,9 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - 8. „Verdrag”: het Verdrag inzake de internationale burgerluchtvaart, voor ondertekening opengesteld te Chicago op 7 december 1944, en omvattende:
 
-- a. alle wijzigingen die krachtens artikel 94, onder a), van het Verdrag van kracht zijn geworden en zijn geratificeerd door zowel Jordanië als de lidstaat of lidstaten van de Europese Unie, en
+   - a. alle wijzigingen die krachtens artikel 94, onder a), van het Verdrag van kracht zijn geworden en zijn geratificeerd door zowel Jordanië als de lidstaat of lidstaten van de Europese Unie, en
 
-- b. alle bijlagen of wijzigingen van bijlagen die krachtens artikel 90 van het Verdrag zijn goedgekeurd, voor zover die bijlage of wijziging op elk gegeven ogenblik geldt voor zowel Jordanië als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Unie;
+   - b. alle bijlagen of wijzigingen van bijlagen die krachtens artikel 90 van het Verdrag zijn goedgekeurd, voor zover die bijlage of wijziging op elk gegeven ogenblik geldt voor zowel Jordanië als de voor de desbetreffende kwestie relevante lidstaat of lidstaten van de Europese Unie;
 
 - 9. „deugdelijkheid”: het feit dat een luchtvaartmaatschappij internationale luchtdiensten kan exploiteren, d.w.z. dat ze over voldoende financiële middelen en adequate managementdeskundigheid beschikt en bereid is de wetten, regels en eisen voor het exploiteren van dergelijke diensten na te leven;
 
@@ -170,13 +51,13 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - 14. „onderdaan”: elke persoon of entiteit met Jordaanse nationaliteit, voor de Jordaanse partij, of de nationaliteit van een lidstaat voor de Europese partij, voor zover, in het geval van een juridische entiteit, de feitelijke zeggenschap over deze entiteit, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, te allen tijde berust bij personen of entiteiten met de Jordaanse nationaliteit, wat de Jordaanse partij betreft, of bij personen of entiteiten met de nationaliteit van een lidstaat of van een van de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde derde landen, wat de Europese partij betreft;
 
-- 15. „exploitatievergunningen”: exploitatievergunningen en alle andere relevante documenten of certificaten die krachtens [Verordening (EG) nr. 1008/2008](32008R1008) van het Europees Parlement en de Raad van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap of de opvolgingsinstrumenten daarvan zijn afgegeven, in het geval van de Europese Unie en haar lidstaten, en licenties/certificaten/vergunningen of vrijstellingen die uit hoofde van JCAR Part 119 zijn afgegeven, in het geval van Jordanië;
+- 15. „exploitatievergunningen”: exploitatievergunningen en alle andere relevante documenten of certificaten die krachtens Verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap of de opvolgingsinstrumenten daarvan zijn afgegeven, in het geval van de Europese Unie en haar lidstaten, en licenties/certificaten/vergunningen of vrijstellingen die uit hoofde van JCAR Part 119 zijn afgegeven, in het geval van Jordanië;
 
 - 16. „prijs”: Voor zover relevant heeft deze definitie ook betrekking op het oppervlaktevervoer in verband met internationaal luchtvervoer en de toepasselijke voorwaarden;
 
-- –. „passagierstarieven”: de prijzen die moeten worden betaald aan luchtvaartmaatschappijen of hun agenten of aan andere ticketverkopers voor het vervoer van passagiers en bagage op luchtdiensten, alsmede de voorwaarden waaronder deze prijzen gelden, met inbegrip van aan agentschappen en andere aanvullende diensten aangeboden vergoedingen en voorwaarden; en
+   - – „passagierstarieven”: de prijzen die moeten worden betaald aan luchtvaartmaatschappijen of hun agenten of aan andere ticketverkopers voor het vervoer van passagiers en bagage op luchtdiensten, alsmede de voorwaarden waaronder deze prijzen gelden, met inbegrip van aan agentschappen en andere aanvullende diensten aangeboden vergoedingen en voorwaarden; en
 
-- –. „luchttarieven”: de prijzen die moeten worden betaald voor het vervoer van vracht en de voorwaarden waaronder deze prijzen gelden, met inbegrip van aan agentschappen en andere aanvullende diensten aangeboden vergoedingen en voorwaarden.
+   - – „luchttarieven”: de prijzen die moeten worden betaald voor het vervoer van vracht en de voorwaarden waaronder deze prijzen gelden, met inbegrip van aan agentschappen en andere aanvullende diensten aangeboden vergoedingen en voorwaarden.
 
 - 17. „hoofdvestiging”: het hoofdkantoor of het geregistreerde kantoor van een luchtvaartmaatschappij in het land van de partij waar de belangrijkste financiële functies en de operationele zeggenschap over de luchtvaartmaatschappij, met inbegrip van het beheer van de blijvende luchtwaardigheid, worden uitgeoefend;
 
@@ -186,19 +67,19 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - 20. „subsidie”: alle door de overheid of door een regionale of andere overheidsorganisatie verleende financiële bijdragen waarbij: en waarbij een voordeel wordt verleend;
 
-- a. de praktijk van de overheid, een regionale instantie of een andere publiekrechtelijke organisatie rechtstreekse overdracht omvat van middelen zoals schenkingen, leningen, kapitaalinbreng, mogelijke rechtstreekse overdracht van middelen aan de onderneming of het overnemen van passiva van de onderneming, zoals leninggaranties, kapitaalinjecties, eigendom, bescherming tegen faillissement of verzekering;
+   - a. de praktijk van de overheid, een regionale instantie of een andere publiekrechtelijke organisatie rechtstreekse overdracht omvat van middelen zoals schenkingen, leningen, kapitaalinbreng, mogelijke rechtstreekse overdracht van middelen aan de onderneming of het overnemen van passiva van de onderneming, zoals leninggaranties, kapitaalinjecties, eigendom, bescherming tegen faillissement of verzekering;
 
-- b. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie afstand doet van inkomsten die haar normaal toekomen of deze niet int;
+   - b. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie afstand doet van inkomsten die haar normaal toekomen of deze niet int;
 
-- c. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie goederen levert of diensten aanbiedt, behalve algemene infrastructuur, of goederen of diensten aankoopt; of
+   - c. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie goederen levert of diensten aanbiedt, behalve algemene infrastructuur, of goederen of diensten aankoopt; of
 
-- d. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie betalingen aan een financieringsmechanisme verricht of een particulier lichaam opdraagt een of meer van de onder a, b en c, genoemde soorten functies uit te voeren, die zij normaal zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen;
+   - d. de overheid, een regionale instantie of een andere publiekrechtelijke organisatie betalingen aan een financieringsmechanisme verricht of een particulier lichaam opdraagt een of meer van de onder a, b en c, genoemde soorten functies uit te voeren, die zij normaal zelf zou vervullen en die in werkelijkheid niet afwijken van praktijken die overheidsinstanties plegen te volgen;
 
 - 21. „grondgebied”: wat Jordanië betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zee die onder de soevereiniteit of rechtsbevoegdheid van Jordanië vallen en, wat de Europese Unie betreft, het landoppervlak (vasteland en eilanden), de binnenwateren en de territoriale zee die onder het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) vallen en onderhevig zijn aan de in dat verdrag en een eventueel opvolgingsinstrument vastgestelde voorwaarden. De toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Unie inzake de luchtvaart, die per 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Córdoba is aangenomen; en
 
 - 22. „gebruikersheffing”: een aan luchtvaartmaatschappijen opgelegde heffing voor de levering van luchthaven-, luchthavenomgevings-, luchtnavigatie- of luchtvaartbeveiligingsfaciliteiten of -diensten, inclusief aanverwante diensten en faciliteiten, die – voor zover van toepassing – een weergave vormen van de milieukosten op het gebied van geluidemissies.
 
-## TITEL I. ECONOMISCHE BEPALINGEN
+### TITEL I. ECONOMISCHE BEPALINGEN
 
 ##### Artikel 2. Verkeersrechten
 
@@ -224,19 +105,19 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - a. in het geval van een luchtvaartmaatschappij uit Jordanië:
 
-- –. de hoofdvestiging van de luchtvaartmaatschappij zich in Jordanië bevindt en de luchtvaartmaatschappij houder is van een exploitatievergunning overeenkomstig de wetgeving van het Hasjemitische Koninkrijk Jordanië;
+   - – de hoofdvestiging van de luchtvaartmaatschappij zich in Jordanië bevindt en de luchtvaartmaatschappij houder is van een exploitatievergunning overeenkomstig de wetgeving van het Hasjemitische Koninkrijk Jordanië;
 
-- –. het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door het Hasjemitische Koninkrijk Jordanië; en
+   - – het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door het Hasjemitische Koninkrijk Jordanië; en
 
-- –. de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over de luchtvaartmaatschappij berusten bij Jordanië en/of onderdanen van Jordanië;
+   - – de eigendom van de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, en de feitelijke zeggenschap over de luchtvaartmaatschappij berusten bij Jordanië en/of onderdanen van Jordanië;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Unie:
 
-- –. de hoofdvestiging van de luchtvaartmaatschappij zich op het grondgebied van een lidstaat onder het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) bevindt, en de luchtvaartmaatschappij houder is van een exploitatievergunning; en
+   - – de hoofdvestiging van de luchtvaartmaatschappij zich op het grondgebied van een lidstaat onder het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) bevindt, en de luchtvaartmaatschappij houder is van een exploitatievergunning; en
 
-- –. het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het Air Operators Certificate, en de bevoegde luchtvaartautoriteit duidelijk is geïdentificeerd;
+   - – het regelgevend toezicht op de luchtvaartmaatschappij effectief wordt uitgeoefend en gehandhaafd door de lidstaat van de Europese Unie die verantwoordelijk is voor de afgifte van het Air Operators Certificate, en de bevoegde luchtvaartautoriteit duidelijk is geïdentificeerd;
 
-- –. de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is van lidstaten en/of onderdanen van lidstaten of andere in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde staten en/of onderdanen van die andere staten;
+   - – de luchtvaartmaatschappij, hetzij rechtstreeks hetzij via een meerderheidsparticipatie, eigendom is van lidstaten en/of onderdanen van lidstaten of andere in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde staten en/of onderdanen van die andere staten;
 
 - c. de luchtvaartmaatschappij beantwoordt aan de voorwaarden in de wetten en regels die normaal worden toegepast door de autoriteit die bevoegd is voor de exploitatie van het internationaal luchtvervoer; en
 
@@ -248,19 +129,19 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 - a. in het geval van een luchtvaartmaatschappij uit Jordanië:
 
-- –. de hoofdvestiging van de luchtvaartmaatschappij zich niet in Jordanië bevindt of de luchtvaartmaatschappij niet over een exploitatievergunning overeenkomstig de toepasselijke wetgeving van Jordanië beschikt;
+   - – de hoofdvestiging van de luchtvaartmaatschappij zich niet in Jordanië bevindt of de luchtvaartmaatschappij niet over een exploitatievergunning overeenkomstig de toepasselijke wetgeving van Jordanië beschikt;
 
-- –. het regelgevend toezicht op de luchtvaartmaatschappij niet daadwerkelijk wordt uitgeoefend en gehandhaafd door Jordanië; of
+   - – het regelgevend toezicht op de luchtvaartmaatschappij niet daadwerkelijk wordt uitgeoefend en gehandhaafd door Jordanië; of
 
-- –. de eigendom van de luchtvaartmaatschappij, rechtstreeks of via een meerderheidsparticipatie, en de feitelijke zeggenschap over de luchtvaartmaatschappij niet berusten bij Jordanië en/of onderdanen van Jordanië;
+   - – de eigendom van de luchtvaartmaatschappij, rechtstreeks of via een meerderheidsparticipatie, en de feitelijke zeggenschap over de luchtvaartmaatschappij niet berusten bij Jordanië en/of onderdanen van Jordanië;
 
 - b. in het geval van een luchtvaartmaatschappij uit de Europese Unie:
 
-- –. de hoofdvestiging of, voor zover van toepassing, de geregistreerde vestiging van de luchtvaartmaatschappij zich niet op het grondgebied van een lidstaat onder het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) bevindt, of de luchtvaartmaatschappij niet over een exploitatievergunning overeenkomstig het uniale recht beschikt;
+   - – de hoofdvestiging of, voor zover van toepassing, de geregistreerde vestiging van de luchtvaartmaatschappij zich niet op het grondgebied van een lidstaat onder het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) bevindt, of de luchtvaartmaatschappij niet over een exploitatievergunning overeenkomstig het uniale recht beschikt;
 
-- –. het regelgevend toezicht op de luchtvaartmaatschappij niet daadwerkelijk wordt uitgeoefend en gehandhaafd door de lidstaat die verantwoordelijk is voor de afgifte van het Air Operators Certificate, of de bevoegde luchtvaartautoriteit niet duidelijk is geïdentificeerd; of
+   - – het regelgevend toezicht op de luchtvaartmaatschappij niet daadwerkelijk wordt uitgeoefend en gehandhaafd door de lidstaat die verantwoordelijk is voor de afgifte van het Air Operators Certificate, of de bevoegde luchtvaartautoriteit niet duidelijk is geïdentificeerd; of
 
-- –. de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsparticipatie eigendom is van lidstaten en/of onderdanen van lidstaten of andere in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde staten en/of onderdanen van die staten;
+   - – de luchtvaartmaatschappij niet rechtstreeks of via een meerderheidsparticipatie eigendom is van lidstaten en/of onderdanen van lidstaten of andere in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde staten en/of onderdanen van die staten;
 
 - c. de luchtvaartmaatschappij niet voldoet aan de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=I&artikel=6&z=2020-08-02&g=2020-08-02) (Naleving van wetten en regels) van deze Overeenkomst vermelde wetten en regels; of
 
@@ -278,11 +159,11 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 3. Dit artikel heeft geen betrekking op de erkenning van vaststellingen met betrekking tot:
 
-- –. veiligheidscertificaten of -licenties;
+- – veiligheidscertificaten of -licenties;
 
-- –. beveiligingsregelingen; of
+- – beveiligingsregelingen; of
 
-- –. verzekeringsdekking.
+- – verzekeringsdekking.
 
 ##### Artikel 5. Investeringen
 
@@ -316,23 +197,31 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 ##### Artikel 8. Commerciële opportuniteiten
 
+Vertegenwoordigers van luchtvaartmaatschappijen
+
 1. De luchtvaartmaatschappijen van beide partijen hebben het recht kantoren te vestigen op het grondgebied van de andere partij met het oog op de promotie en verkoop van luchtvervoer en aanverwante activiteiten.
 
 2. De luchtvaartmaatschappijen van beide partijen hebben het recht om leidinggevend, verkoops-, technisch, operationeel en ander gespecialiseerd personeel dat nodig is om de luchtvervoersactiviteiten te ondersteunen, op het grondgebied van de andere partij binnen te brengen en er te handhaven, overeenkomstig de wetten en regels van de andere partij met betrekking tot toegang, verblijf en werk.
 
-- a. Onverminderd punt b) hieronder heeft elke luchtvaartmaatschappij met betrekking tot grondafhandeling op het grondgebied van de andere partij:
+Grondafhandeling
 
-- i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling”) of, indien zij dit verkiest,
+3. - a. Onverminderd punt b) hieronder heeft elke luchtvaartmaatschappij met betrekking tot grondafhandeling op het grondgebied van de andere partij:
 
-- ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voor zover deze leveranciers op basis van de wetten en regels van elke partij toegang hebben tot de markt en voor zover dergelijke leveranciers aanwezig zijn op de markt;
+   - i. het recht haar eigen grondafhandeling te verzorgen („zelfafhandeling”) of, indien zij dit verkiest,
+
+   - ii. het recht een selectie te maken tussen concurrerende leveranciers van volledige of gedeeltelijke grondafhandelingsdiensten, voor zover deze leveranciers op basis van de wetten en regels van elke partij toegang hebben tot de markt en voor zover dergelijke leveranciers aanwezig zijn op de markt;
 
 - b. Voor bepaalde categorieën grondafhandelingsdiensten, namelijk bagageafhandeling, platformafhandeling, brandstof- en olieafhandeling, vracht- en postafhandeling, wat de fysieke afhandeling van vracht en post tussen de luchthaventerminal en het luchtvaartuig betreft, mogen alleen fysieke of operationele beperkingen worden opgelegd aan de in punt a), onder i) en ii), vermelde rechten volgens de wetten en regels die van toepassing zijn op het grondgebied van de andere partij. Indien dit tot gevolg heeft dat zelfafhandeling onmogelijk is en indien er geen daadwerkelijke mededinging tussen leveranciers van grondafhandelingsdiensten bestaat, moeten al deze diensten op gelijke en niet-discriminerende basis ter beschikking worden gesteld van alle luchtvaartmaatschappijen; de prijzen van deze diensten mogen de volledige kosten daarvan, inclusief een redelijk rendement van het kapitaal, niet overschrijden.
+
+Verkoop, plaatselijke uitgaven en transfer van fondsen
 
 4. Elke luchtvaartmaatschappij van elke partij mag luchtvervoersdiensten verkopen op het grondgebied van de andere partij, hetzij rechtstreeks, hetzij, naar keuze van de luchtvaartmaatschappij, via verkoopagenten of andere tussenpersonen die door de luchtvaartmaatschappij zijn aangesteld, of op het internet. Elke luchtvaartmaatschappij heeft het recht dergelijk vervoer te verkopen en het staat iedereen vrij dergelijk vervoer te kopen, in de munteenheid van dat grondgebied of in vrij converteerbare valuta.
 
 5. Elke luchtvaartmaatschappij heeft het recht om, op verzoek, lokale inkomsten om te wisselen en van het grondgebied van de andere partij over te maken naar zijn eigen grondgebied en, voor zover dit niet in strijd is met de algemeen toepasselijke wet- en regelgeving, naar het land of de landen van haar keuze. De inwisseling en overmaking dient onverwijld en zonder beperkingen of belastingen daarop te worden toegestaan tegen de wisselkoers die geldt voor lopende transacties en overmakingen op de datum waarop de luchtvaartmaatschappij de eerste aanvraag tot overmaking indient.
 
 6. De luchtvaartmaatschappijen van beide partijen mogen de lokale uitgaven op het grondgebied van de andere partij, inclusief de aankoop van brandstof, in lokale munt betalen. Het staat de luchtvaartmaatschappijen ook vrij dergelijke uitgaven op het grondgebied van de andere partij te betalen in vrij converteerbare valuta, overeenkomstig de lokale valutawetgeving.
+
+Samenwerkingsregelingen
 
 7. Bij het exploiteren of aanbieden van diensten in het kader van deze Overeenkomst, mag een luchtvaartmaatschappij van een partij op het gebied van marketing (bijv. overeenkomsten inzake voorbehouden capaciteit, codesharingafspraken) samenwerken met:
 
@@ -344,17 +233,23 @@ Tenzij anders is bepaald, wordt voor de toepassing van deze Overeenkomst verstaa
 
 voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passende bevoegdheid met betrekking tot de onderliggende route beschikken en ii) de samenwerking voldoet aan de normaal voor dergelijke vormen van samenwerking geldende voorschriften inzake veiligheid en mededinging. Wanneer passagiersvervoer met codesharing wordt verkocht, moet in het verkooppunt of in elk geval alvorens aan boord te gaan aan de koper worden meegedeeld welke vervoerder elk deel van de dienst zal uitvoeren.
 
-- a. Ondernemingen die oppervlaktevervoer van passagiers verzorgen zijn niet onderworpen aan de wetten en regels inzake luchtvervoer om de enkele reden dat deze diensten door een luchtvaartmaatschappij in eigen naam worden aangeboden. De ondernemingen die oppervlaktevervoer verzorgen mogen zelf beslissen of ze toetreden tot samenwerkingsvormen. Bij het overwegen van samenwerkingsvormen kunnen aanbieders van oppervlaktevervoer onder meer rekening houden met de consumentenbelangen en met technische, economische, ruimtelijke en capaciteitsbeperkingen.
+8. - a. Ondernemingen die oppervlaktevervoer van passagiers verzorgen zijn niet onderworpen aan de wetten en regels inzake luchtvervoer om de enkele reden dat deze diensten door een luchtvaartmaatschappij in eigen naam worden aangeboden. De ondernemingen die oppervlaktevervoer verzorgen mogen zelf beslissen of ze toetreden tot samenwerkingsvormen. Bij het overwegen van samenwerkingsvormen kunnen aanbieders van oppervlaktevervoer onder meer rekening houden met de consumentenbelangen en met technische, economische, ruimtelijke en capaciteitsbeperkingen.
 
 - b. Onverminderd de overige bepalingen van deze Overeenkomst mogen luchtvaartmaatschappijen en indirecte aanbieders van vrachtvervoer van de partijen in het kader van internationaal luchtvervoer bovendien zonder beperking gebruik maken van oppervlaktevervoer van en naar alle punten op het grondgebied van Jordanië en de Europese Unie of van derde landen, inclusief vervoer van en naar alle luchthavens met douanefaciliteiten en, voor zover van toepassing, vracht onder contract vervoeren overeenkomstig de toepasselijke wetten en regels. Dergelijke vracht heeft, ongeacht of het oppervlakte- dan wel luchtvervoer betreft, toegang tot de douaneprocedures en -faciliteiten op de luchthaven. Luchtvaartmaatschappijen kunnen verkiezen hun oppervlaktevervoer zelf te verzorgen of hiervoor regelingen te treffen met andere aanbieders van oppervlaktevervoer; ze mogen bijvoorbeeld een beroep doen op andere luchtvaartmaatschappijen die vervoer over land aanbieden en op indirecte aanbieders van vrachtvervoer door de lucht. Dergelijke intermodale diensten voor vrachtvervoer kunnen worden aangeboden tegen een prijs waarin zowel het luchtvervoer als het oppervlaktevervoer is inbegrepen, voor zover de expediteurs juiste feitelijke informatie krijgen met betrekking tot dergelijk vervoer.
 
-- a. De luchtvaartmaatschappijen van elke partij zijn gerechtigd de overeengekomen diensten te verlenen met luchtvaartuigen en bemanningen die van om het even welke andere luchtvaartmaatschappij zijn geleaset, inclusief luchtvaartmaatschappijen uit derde landen, voor zover alle deelnemers aan dergelijke regelingen voldoen aan de voorwaarden van de wetten en regels die normaal door de partijen worden toegepast op dergelijke regelingen.
+Leasing
+
+9. - a. De luchtvaartmaatschappijen van elke partij zijn gerechtigd de overeengekomen diensten te verlenen met luchtvaartuigen en bemanningen die van om het even welke andere luchtvaartmaatschappij zijn geleaset, inclusief luchtvaartmaatschappijen uit derde landen, voor zover alle deelnemers aan dergelijke regelingen voldoen aan de voorwaarden van de wetten en regels die normaal door de partijen worden toegepast op dergelijke regelingen.
 
 - b. Geen van beide partijen mag van de luchtvaartmaatschappijen die hun apparatuur leasen eisen dat zij in het bezit zijn van verkeersrechten onder deze Overeenkomst.
 
 - c. Het leasen van luchtvaartuigen met bemanning (“wet leasing”) van een ander dan de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&bijlage=IV&z=2020-08-02&g=2020-08-02) vermelde derde landen door een luchtvaartmaatschappij van een van de partijen om de in deze Overeenkomst bedoelde rechten te exploiteren, mag alleen in uitzonderlijke gevallen plaatsvinden of om te voldoen aan tijdelijke behoeften. De “wet lease”-overeenkomst moet voorafgaandelijk ter goedkeuring worden voorgelegd aan de vergunningverlenende autoriteit van de luchtvaartmaatschappij die de leasing aangaat en aan de bevoegde autoriteit van de andere partij waar het geleasete luchtvaartuig zal worden ingezet.
 
+Franchising en branding
+
 10. De luchtvaartmaatschappijen van elke partij hebben het recht franchising- of brandingovereenkomsten te sluiten met ondernemingen, met inbegrip van luchtvaartmaatschappijen, van beide partijen of van derde landen, mits de luchtvaartmaatschappijen de vereiste bevoegdheid hebben en voldoen aan de voorwaarden die worden gesteld volgens de wetten en regels die gewoonlijk door de partijen op dergelijke overeenkomsten worden toegepast, met name die welke de vrijgave vereisen van de identiteit van de luchtvaartmaatschappij die de dienst exploiteert.
+
+Toewijzing van slots op luchthavens
 
 11. De toewijzing van slots op de luchthavens op het grondgebied van de partijen gebeurt op onafhankelijke, transparante en niet-discriminerende wijze. Alle luchtvaartmaatschappijen worden op eerlijke en gelijke basis behandeld. Overeenkomstig [artikel 21, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) (Gemengd Comité), mag een partij vragen om een vergadering van het Gemengd Comité teneinde problemen met de toepassing van dit lid op te lossen.
 
@@ -408,11 +303,11 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 2. De partijen werken samen in het kader van het bij [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0005053&titeldeel=III&artikel=21&z=2020-08-02&g=2020-08-02) (Gemengd Comité) van deze Overeenkomst ingestelde Gemengd Comité teneinde de onderlinge uitwisseling van statistische informatie, die nodig is om toezicht te kunnen houden op de ontwikkeling van de luchtdiensten, te vergemakkelijken.
 
-## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
+### TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
 ##### Artikel 13. Veiligheid van de luchtvaart
 
-1. De partijen zien erop toe dat minstens de in bijlage III, deel A, gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
+1. De partijen zien erop toe dat minstens de in [bijlage III, deel A,](https://wetten.overheid.nl/BWBV0005053) gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
 2. De partijen zien erop toe dat in de ene partij geregistreerde luchtvaartuigen die worden verdacht van niet naleving van de bij het Verdrag vastgestelde internationale veiligheidsnormen bij landing op luchthavens op het grondgebied van de andere partij die openstaan voor internationaal luchtverkeer, door de bevoegde autoriteiten van die andere partij worden onderworpen aan platforminspecties, zowel aan boord als rond het luchtvaartuig, teneinde de geldigheid van de documenten van het luchtvaartuig en van de bemanning en de kennelijke staat van het luchtvaartuig en de apparatuur te controleren.
 
@@ -420,11 +315,11 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 4. De bevoegde autoriteiten van een partij nemen onmiddellijk alle passende maatregelen als zij vaststellen dat een luchtvaartuig, product of activiteit:
 
-- a. niet voldoet aan de minimumnormen die zijn vastgesteld overeenkomstig het Verdrag of, de in bijlage III, deel A, van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving, naar gelang van het geval,
+- a. niet voldoet aan de minimumnormen die zijn vastgesteld overeenkomstig het Verdrag of, de in [bijlage III, deel A](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving, naar gelang van het geval,
 
-- b. naar aanleiding van een in lid 2 van dit artikel bedoelde inspectie aanleiding geeft tot ernstige vermoedens dat een luchtvaartuig of de exploitatie ervan niet voldoet aan de overeenkomstig het Verdrag, de in bijlage III, deel A, van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving vastgestelde minimumnormen, al naar gelang van het geval, of
+- b. naar aanleiding van een in lid 2 van dit artikel bedoelde inspectie aanleiding geeft tot ernstige vermoedens dat een luchtvaartuig of de exploitatie ervan niet voldoet aan de overeenkomstig het Verdrag, de in [bijlage III, deel A](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving vastgestelde minimumnormen, al naar gelang van het geval, of
 
-- c. aanleiding geeft tot ernstige vermoedens dat de overeenkomstig het Verdrag, de in bijlage III, deel A, van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving vastgestelde minimumnormen, al naar gelang van het geval, niet daadwerkelijk worden toegepast en gehandhaafd.
+- c. aanleiding geeft tot ernstige vermoedens dat de overeenkomstig het Verdrag, de in [bijlage III, deel A](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde wetgeving of de gelijkwaardige en met lid 1 van dit artikel in overeenstemming zijnde Jordaanse wetgeving vastgestelde minimumnormen, al naar gelang van het geval, niet daadwerkelijk worden toegepast en gehandhaafd.
 
 5. Wanneer de bevoegde autoriteiten van de ene partij maatregelen nemen overeenkomstig lid 4 stellen zij de bevoegde autoriteiten van de andere partij daar onmiddellijk van in kennis, met opgave van de redenen voor die maatregelen.
 
@@ -432,7 +327,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 ##### Artikel 14. Beveiliging van de luchtvaart
 
-1. De partijen zien erop toe dat minstens de in bijlage III, deel B, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
+1. De partijen zien erop toe dat minstens de in [bijlage III, deel B](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
 2. Aangezien de veiligheid van burgerluchtvaartuigen, hun passagiers en hun bemanning een fundamentele voorwaarde is voor het exploiteren van internationale luchtdiensten, bevestigen beide partijen dat hun verplichtingen tegenover elkaar ook de beveiliging van de burgerluchtvaart tegen wederrechtelijke daden omvatten, met name hun verplichtingen uit hoofde van het Verdrag van Chicago, het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend in Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend in Den Haag op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend in Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en het [Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan,](https://wetten.overheid.nl/jci1.3:c:BWBV0003003)ondertekend te Montreal op 1 maart 1991, voor zover beide partijen ook partij zijn bij deze verdragen, en alle andere verdragen en protocollen inzake de beveiliging van de burgerluchtvaart waartoe beide partijen zijn toegetreden.
 
@@ -458,7 +353,7 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 ##### Artikel 15. Luchtverkeersbeheer
 
-1. De partijen zien erop toe dat de in bijlage III, deel C, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
+1. De partijen zien erop toe dat de in [bijlage III, deel C](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen, onder de hierna vermelde voorwaarden.
 
 2. De partijen verbinden zich ertoe zoveel mogelijk samen te werken op het gebied van luchtverkeersbeheer met het doel het gemeenschappelijk Europees luchtruim uit te breiden tot Jordanië, teneinde de huidige veiligheidsnormen en de algehele efficiëntie van de algemene luchtverkeersnormen in Europa te verhogen, de capaciteit te optimaliseren en vertragingen tot een minimum te beperken. Daartoe wordt voorzien in passende deelname van Jordanië aan het Comité voor het gemeenschappelijk luchtruim. Het Gemengd Comité wordt verantwoordelijk voor het toezicht op en de vergemakkelijking van de samenwerking op het gebied van luchtverkeersbeheer.
 
@@ -476,21 +371,21 @@ voor zover i) alle deelnemers aan dergelijke samenwerkingsvormen over de passend
 
 3. Deze Overeenkomst beperkt op geen enkele wijze de bevoegdheid van de bevoegde autoriteiten van een partij om, binnen hun soevereine rechtsbevoegdheid, alle passende maatregelen te nemen om het effect van het luchtvervoer op het milieu te beperken of op een andere manier aan te pakken, voor zover dergelijke maatregelen volledig in overeenstemming zijn met de rechten en plichten van de bevoegde autoriteiten krachtens internationale wetgeving en zonder onderscheid naar nationaliteit worden toegepast.
 
-4. De partijen zien erop toe dat de in bijlage III, deel D, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
+4. De partijen zien erop toe dat de in [bijlage III, deel D](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
 
 ##### Artikel 17. Consumentenbescherming
 
-De partijen zien erop toe dat de in bijlage III, deel E, van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
+De partijen zien erop toe dat de in [bijlage III, deel E](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
 
 ##### Artikel 18. Geautomatiseerde boekingssystemen
 
-De partijen zien erop toe dat de in bijlage III, deel F, van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
+De partijen zien erop toe dat de in [bijlage III, deel F](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen in hun wetgeving zijn opgenomen.
 
 ##### Artikel 19. Sociale aspecten
 
-De partijen zien erop toe dat de in bijlage III, deel G, van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
+De partijen zien erop toe dat de in [bijlage III, deel G](https://wetten.overheid.nl/BWBV0005053), van deze Overeenkomst gespecificeerde normen inzake luchtvervoer in hun wetgeving zijn opgenomen.
 
-## TITEL III. INSTITUTIONELE BEPALINGEN
+### TITEL III. INSTITUTIONELE BEPALINGEN
 
 ##### Artikel 20. Interpretatie en handhaving
 

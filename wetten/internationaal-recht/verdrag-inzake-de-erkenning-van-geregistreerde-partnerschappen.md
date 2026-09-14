@@ -1,227 +1,204 @@
 ---
 title: "Verdrag inzake de erkenning van geregistreerde partnerschappen"
 identifier: "BWBV0004559"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-09-05"
-last_updated: "2007-09-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004559"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004189653"
-version_id: "10004365892"
-internal_id: "C10006998671"
-label_id: "10004175304"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004559/2007-09-05/0"
-intitule_bron: "Trb.2010-218"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-09-07"
-intitule_status: "nogniet"
-original_publication: "Trb.2010-218"
-original_published_date: "2010-09-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-218"
-jci_1_3: "jci1.3:c:BWBV0004559&z=2007-09-05&g=2007-09-05"
-jci_1_0: "1.0:c:BWBV0004559&g=2007-09-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-09-07"
+laatste_update: 2007-09-05
+status: geldig
+toestand: 2007-09-05
+bron: "https://wetten.overheid.nl/BWBV0004559"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag inzake de erkenning van geregistreerde partnerschappen
 
-Preambule
+*Préambule Les Etats signataires de la présente Convention, membres de la Commission Internationale de l’Etat Civil, Désireux de faciliter la reconnaissance dans un Etat contractant de la conclusion, de la dissolution ou de l’annulation d’un partenariat enregistré dans un autre Etat, Sont convenus des dispositions suivantes:*
 
-De staten die dit Verdrag hebben ondertekend, leden van de Internationale Commissie voor de Burgerlijke Stand,
+##### Article 1
 
-Geleid door de wens om de erkenning te vergemakkelijken in een verdragsluitende staat van het aangaan, de beëindiging of de nietigverklaring van een partnerschap dat in een andere staat is geregistreerd,
+Au sens de la présente Convention, un «partenariat enregistré» est un engagement de vie commune entre deux personnes de même sexe ou de sexe différent, donnant lieu à un enregistrement par une autorité publique, à l’exclusion d’un mariage.
 
-Zijn overeengekomen als volgt:
+##### Article 2
 
-##### Artikel 1
+Sous réserve de [l’article 7](https://wetten.overheid.nl/BWBV0004559), un partenariat enregistré dans un Etat est reconnu comme valide dans les Etats contractants.
 
-In de zin van dit Verdrag wordt onder „geregistreerd partnerschap” verstaan, het aangaan van een samenlevingsvorm tussen twee personen van gelijk geslacht of van verschillend geslacht, waarvan registratie plaatsvindt door een autoriteit die met openbaar gezag is bekleed, zulks met uitsluiting van het huwelijk.
+##### Article 3
 
-##### Artikel 2
+Sous réserve de [l’article 7](https://wetten.overheid.nl/BWBV0004559), les effets en matière d’état civil d’un partenariat enregistré prévus par la loi de l’Etat dans lequel il a été enregistré et mentionnés aux [articles 4 à 6](https://wetten.overheid.nl/BWBV0004559) sont reconnus dans les Etats contractants.
 
-Onder voorbehoud van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) wordt een partnerschap dat in een staat is geregistreerd, in de verdragsluitende staten erkend.
+##### Article 4
 
-##### Artikel 3
+Dans la mesure où la loi de l’Etat dans lequel il a été enregistré le prévoit, le partenariat constitue un empêchement à la conclusion par l’un ou l’autre des partenaires d’un mariage ou d’un nouveau partenariat avec une tierce personne.
 
-Onder voorbehoud van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) worden de rechtsgevolgen van een geregistreerd partnerschap voor de burgerlijke staat, bedoeld door de wet van de staat waarin het partnerschap is geregistreerd en vermeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05), in de verdragsluitende staten erkend.
+##### Article 5
 
-##### Artikel 4
+1. En cas de partenariat conclu entre personnes dont l’une au moins a la nationalité d’un Etat contractant, la déclaration faite par les partenaires sur le nom qu’ils porteront après l’enregistrement du partenariat ou par l’un d’eux sur le nom qu’il portera après l’enregistrement du partenariat est reconnue dans les Etats contractants si elle est faite dans un Etat contractant dont l’un des partenaires possède la nationalité ou dans l’Etat contractant de la résidence habituelle commune des partenaires au jour de la déclaration.
 
-Voor zover de wet van de staat waarin het partnerschap is geregistreerd hierin voorziet, vormt het partnerschap een beletsel voor het sluiten door een van beide partners van een huwelijk of voor het aangaan van een nieuw partnerschap met een derde.
+2. En cas de dissolution ou d’annulation du partenariat, la déclaration par laquelle le partenaire ou l’ex-partenaire, ressortissant d’un Etat contractant, reprend un nom qu’il portait antérieurement ou choisit de conserver le nom qu’il portait pendant le partenariat est reconnue dans les Etats contractants si elle est faite dans l’Etat contractant ou l’un des Etats contractants dont ce partenaire ou ex-partenaire a la nationalité ou dans l’Etat contractant de sa résidence habituelle au jour de la déclaration.
 
-##### Artikel 5
+##### Article 6
 
-1. Indien een partnerschap is aangegaan tussen personen waarvan er ten minste één de nationaliteit van een verdragsluitende staat heeft, wordt de verklaring die door de partners is afgelegd ten aanzien van de naam die zij zullen hebben na de registratie van het partnerschap of door een van hen ten aanzien van de naam die deze partner zal hebben na de registratie van het partnerschap, in de verdragsluitende staten erkend indien deze verklaring is afgelegd in een verdragsluitende staat waarvan een van de partners de nationaliteit bezit of in de verdragsluitende staat waar de partners op de dag van de verklaring hun gezamenlijke gewone verblijfplaats hadden.
+Lorsque les mêmes partenaires font enregistrer des partenariats dans plusieurs Etats, les effets en matière d’état civil mentionnés aux [articles 4](https://wetten.overheid.nl/BWBV0004559) et [5](https://wetten.overheid.nl/BWBV0004559) et prévus par la loi de l’un ou de plusieurs de ces Etats sont reconnus même si ces effets ne sont pas prévus par la loi de tous ces Etats.
 
-2. In geval van beëindiging of nietigverklaring van het partnerschap wordt de verklaring via welke de partner of voormalige partner, onderdaan van een verdragsluitende staat, de naam die hij eerder had, herkrijgt of ervoor kiest de naam die hij tijdens het partnerschap had te behouden, in de verdragsluitende staten erkend indien de verklaring is afgelegd in de verdragsluitende staat of in een van de verdragsluitende staten waarvan deze partner of voormalige partner de nationaliteit bezit of in de verdragsluitende staat waar hij op de dag van de verklaring zijn gewone verblijfplaats had.
+##### Article 7
 
-##### Artikel 6
+Un Etat contractant ne peut refuser de reconnaître un partenariat enregistré dans un autre Etat que pour l’un des motifs suivants:
 
-Wanneer dezelfde partners in meerdere staten partnerschappen laten registreren, worden de rechtsgevolgen voor hun burgerlijke staat vermeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=5&z=2007-09-05&g=2007-09-05) en bedoeld in de wet van één of meerdere van deze staten erkend, zelfs indien deze rechtsgevolgen niet in al deze staten bij wet geregeld zijn.
+- 1. les deux partenaires sont liés par un degré de parenté ou d’alliance qui aurait fait obstacle, selon la loi de l’Etat requis, à la conclusion entre eux d’un partenariat ou d’un mariage;
 
-##### Artikel 7
+- 2. au moment de la déclaration de volonté devant l’autorité compétente, l’un des partenaires était engagé avec une tierce personne dans les liens d’un mariage ou d’un partenariat non dissous;
 
-Een verdragsluitende staat kan een in een andere staat geregistreerd partnerschap slechts weigeren te erkennen op een van de volgende gronden:
+- 3. au moment de la déclaration de volonté devant l’autorité compétente, l’un des partenaires n’avait pas atteint l’âge minimum exigé selon la loi de l’Etat requis pour conclure un partenariat ou, si cet Etat ne connaît pas l’institution du partenariat, l’âge minimum exigé pour contracter mariage;
 
-- 1. beide partners zijn verbonden door een graad van bloedverwantschap of aanverwantschap die, volgens de wet van de aangezochte staat, een beletsel zou vormen om met elkaar een partnerschap aan te gaan of een huwelijk te sluiten;
+- 4. au moment de la déclaration de volonté devant l’autorité compétente, l’un des partenaires n’était pas mentalement capable de donner son consentement ou n’avait pas librement consenti au partenariat;
 
-- 2. op het tijdstip van de wilsverklaring ten overstaan van de bevoegde autoriteit was een van de partners met een derde verbonden door een niet beëindigd huwelijk of partnerschap;
+- 5. au moment de la déclaration de volonté devant l’autorité compétente, aucun des deux partenaires ne se rattachait, par la nationalité ou la résidence habituelle, à l’Etat du lieu de l’enregistrement;
 
-- 3. op het tijdstip van de wilsverklaring ten overstaan van de bevoegde autoriteit had een van de partners nog niet de minimumleeftijd bereikt die volgens de wet van de aangezochte staat vereist is om een partnerschap aan te gaan of, indien die staat de rechtsfiguur van het partnerschap niet kent, de minimumleeftijd om in het huwelijk te treden;
+- 6. la reconnaissance du partenariat est manifestement contraire à l’ordre public de l’Etat dans lequel il est invoqué.
 
-- 4. op het tijdstip van de wilsverklaring ten overstaan van de bevoegde autoriteit was een van de partners geestelijk niet in staat zijn instemming te geven of had niet vrijwillig met het partnerschap ingestemd;
+##### Article 8
 
-- 5. op het tijdstip van de wilsverklaring ten overstaan van de bevoegde autoriteit was geen van beide partners, door nationaliteit of gewone verblijfplaats, verbonden met de staat waar de registratie heeft plaats gevonden;
+1. Les Etats contractants reconnaissent la dissolution ou l’annulation d’un partenariat, survenue ou reconnue dans l’Etat où le partenariat avait été enregistré, dans la mesure où elle affecte les effets reconnus à ce partenariat en vertu des [articles 2 à 7](https://wetten.overheid.nl/BWBV0004559).
 
-- 6. de erkenning van het partnerschap is kennelijk in strijd met de openbare orde van de staat waarin er een beroep op wordt gedaan.
+2. La reconnaissance prévue au paragraphe précédent ne peut être refusée que si elle est manifestement contraire à l’ordre public de l’Etat dans lequel elle est invoquée.
 
-##### Artikel 8
+##### Article 9
 
-1. De verdragsluitende staten erkennen de beëindiging of de nietigverklaring van een partnerschap dat plaats gevonden heeft of erkend is in de staat waar het partnerschap werd geregistreerd, voor zover deze beëindiging of deze nietigverklaring bepalend is voor de uit hoofde van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=2&z=2007-09-05&g=2007-09-05) ten aanzien van dit partnerschap erkende rechtsgevolgen.
+1. L’Etat contractant dans lequel un partenariat est enregistré délivre à chacun des partenaires un certificat établi conformément à [l’article 13](https://wetten.overheid.nl/BWBV0004559) mentionnant l’enregistrement de ce partenariat.
 
-2. De in het voorgaande lid bedoelde erkenning kan slechts worden geweigerd indien deze kennelijk in strijd is met de openbare orde van de staat waarin om de erkenning wordt verzocht.
+2. L’Etat contractant dans lequel un partenariat enregistré est dissous ou annulé délivre à chacun des ex-partenaires un certificat établi conformément à [l’article 13](https://wetten.overheid.nl/BWBV0004559) mentionnant sa dissolution ou son annulation.
 
-##### Artikel 9
+3. L’Etat contractant dans lequel un partenariat est enregistré peut délivrer à chacun des ex-partenaires un certificat établi conformément à [l’article 13](https://wetten.overheid.nl/BWBV0004559) attestant que la dissolution ou l’annulation de ce partenariat est reconnue dans cet Etat.
 
-1. De verdragsluitende staat waarin een partnerschap is geregistreerd, geeft aan elk van de partners een verklaring af die wordt opgesteld overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05) en waarin de registratie van dit partnerschap staat vermeld.
+##### Article 10
 
-2. De verdragsluitende staat waarin een geregistreerd partnerschap is beëindigd of nietig verklaard, geeft aan elk van de voormalige partners een verklaring af die wordt opgesteld overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05) en waarin de beëindiging of de nietigverklaring is vermeld.
+1. Lorsque l’autorité d’un Etat contractant enregistre un partenariat dont l’un au moins des partenaires a la nationalité d’un autre Etat contractant ou sa résidence habituelle dans un autre Etat contractant, l’autorité qui a procédé à l’enregistrement du partenariat en informe les autorités d’un tel Etat, désignées conformément à [l’article 16, paragraphe 2 b)](https://wetten.overheid.nl/BWBV0004559), en leur adressant le certificat prévu à [l’article 9, paragraphe premier](https://wetten.overheid.nl/BWBV0004559). Elle fait de même lorsqu’elle reconnaît la dissolution ou l’annulation de ce partenariat en adressant à ces autorités le certificat prévu à l’article 9, paragraphe 3.
 
-3. De verdragsluitende staat waarin een partnerschap is geregistreerd, kan aan elk van beide voormalige partners een verklaring afgeven die is opgesteld overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05) en waarin wordt verklaard dat de beëindiging of de nietigverklaring van dat partnerschap in die staat wordt erkend.
+2. L’autorité d’un Etat contractant dans lequel un partenariat enregistré est dissous ou annulé en informe les autorités désignées conformément à [l’article 16, paragraphe 2 b)](https://wetten.overheid.nl/BWBV0004559), en leur adressant le certificat prévu à [l’article 9, paragraphe 2](https://wetten.overheid.nl/BWBV0004559). Les Etats contractants dont les autorités doivent être informées sont
 
-##### Artikel 10
+- – l’Etat dans lequel le partenariat a été enregistré;
 
-1. Wanneer de autoriteit van een verdragsluitende staat een partnerschap registreert waarbij ten minste een van de partners de nationaliteit van een andere verdragsluitende staat heeft of zijn gewone verblijfplaats in een andere verdragsluitende staat heeft, brengt de autoriteit die tot de registratie van het partnerschap is overgegaan de overeenkomstig [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=16&z=2007-09-05&g=2007-09-05), aangewezen autoriteiten van die staat hiervan op de hoogte door hun de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05), bedoelde verklaring toe te zenden. De autoriteit handelt op gelijke wijze indien zij de beëindiging of de nietigverklaring van dat partnerschap erkent, door genoemde autoriteiten de in artikel 9, derde lid, bedoelde verklaring toe te zenden.
+- – le ou les Etats dont les ex-partenaires ont la nationalité;
 
-2. De autoriteit van een verdragsluitende staat waarin een geregistreerd partnerschap is beëindigd of nietig verklaard, brengt de overeenkomstig [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=16&z=2007-09-05&g=2007-09-05), aangewezen autoriteiten hiervan op de hoogte, door hun de in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05), bedoelde verklaring toe te zenden. De verdragsluitende staten waarvan de autoriteiten op de hoogte moeten worden gebracht, zijn:
+- – le ou les Etats dans lesquels les ex-partenaires ont leur résidence habituelle.
 
-- –. de staat waarin het partnerschap werd geregistreerd;
+##### Article 11
 
-- –. de staat of staten waarvan de voormalige partners de nationaliteit bezitten;
+Si la loi de l’Etat de reconnaissance le prévoit et sans préjudice des motifs de non-reconnaissance prévus à [l’article 7](https://wetten.overheid.nl/BWBV0004559), le partenariat est inscrit dans les registres officiels pertinents de cet Etat, sans qu’il soit besoin d’aucune procédure. Les pièces à fournir pour obtenir cette inscription sont déterminées par la loi de cet Etat.
 
-- –. de staat of staten waarin de voormalige partners hun gewone verblijfplaats hebben.
+##### Article 12
 
-##### Artikel 11
+Sans préjudice de [l’article 8, paragraphe 2](https://wetten.overheid.nl/BWBV0004559), la dissolution ou l’annulation du partenariat, survenue ou reconnue dans l’Etat où il avait été enregistré, est inscrite dans les registres officiels pertinents d’un autre Etat si la loi de celui-ci le prévoit, sans qu’il soit besoin d’aucune procédure. Les pièces à fournir pour obtenir cette inscription sont déterminées par la loi de cet autre Etat.
 
-Indien de wet van de erkennende staat hierin voorziet, en onverminderd de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) voorziene gronden om erkenning te weigeren, wordt het partnerschap ingeschreven in de daartoe bestemde officiële registers van die staat, zonder dat hiervoor enige procedure vereist is. De wet van die staat bepaalt welke stukken moeten worden overgelegd om deze inschrijving te verkrijgen.
+##### Article 13
 
-##### Artikel 12
+1. Les certificats mentionnés à [l’article 9](https://wetten.overheid.nl/BWBV0004559) sont établis conformément aux modèles figurant à l’annexe 1 de la présente Convention. Les énonciations invariables figurant sur les certificats sont pourvues des codes numériques dont la liste est donnée à [l’annexe 2](https://wetten.overheid.nl/BWBV0004559) de la présente Convention. Les règles applicables aux certificats figurent à [l’annexe 3](https://wetten.overheid.nl/BWBV0004559) de la présente Convention. Les annexes 1, 2 et 3 pourront être modifiées par une résolution votée à la majorité simple par les représentants des Etats membres de la Commission Internationale de l’Etat Civil et des Etats contractants non membres. Cette résolution sera déposée auprès du Conseil fédéral suisse et prendra effet, dans les rapports entre les Etats contractants, à compter du premier jour du sixième mois suivant ce dépôt.
 
-Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05), wordt de beëindiging of de nietigverklaring van het partnerschap dat plaats gevonden heeft of erkend is in de staat waarin het partnerschap werd geregistreerd, ingeschreven in de daartoe bestemde officiële registers van een andere staat indien de wet van die staat daarin voorziet, zonder dat hiervoor enige procedure vereist is. De wet van die andere staat bepaalt welke stukken moeten worden overgelegd om deze inschrijving te verkrijgen.
+2. Lors de la ratification de la présente Convention, de l’acceptation, de l’approbation ou de l’adhésion, chaque Etat contractant devra déposer auprès du Secrétariat Général de la Commission Internationale de l’Etat Civil la traduction dans sa ou ses langues officielles des termes qui doivent figurer sur les certificats conformément à [l’annexe 3](https://wetten.overheid.nl/BWBV0004559) de la présente Convention. Cette traduction devra être approuvée par le Bureau de la Commission Internationale de l’Etat Civil. Toute modification apportée à cette traduction devra être déposée auprès du Secrétariat Général de la Commission Internationale de l’Etat Civil et approuvée par le Bureau de la Commission Internationale de l’Etat Civil.
 
-##### Artikel 13
+3. Si l’intéressé le demande, l’autorité qui délivre un certificat joint la liste des codes figurant dans le certificat et leur traduction dans la langue officielle ou l’une des langues officielles de l’Etat ou des Etats contractants où le certificat sera utilisé. Cette même autorité peut aussi procéder au décodage en traduisant le certificat dans la langue officielle ou l’une des langues officielles de l’Etat ou des Etats contractants où il sera utilisé.
 
-1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05) bedoelde verklaringen worden opgesteld overeenkomstig de modellen die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=1&z=2007-09-05&g=2007-09-05) bij dit Verdrag zijn opgenomen. De vaste vermeldingen in deze verklaringen worden voorzien van numerieke codes, waarvan de lijst is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=2&z=2007-09-05&g=2007-09-05) bij dit Verdrag. De op de verklaringen van toepassing zijnde regels zijn vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=3&z=2007-09-05&g=2007-09-05) bij dit Verdrag. De bijlagen 1, 2 en 3 kunnen worden gewijzigd door middel van een besluit waarover bij eenvoudige meerderheid door de vertegenwoordigers van de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en van de verdragsluitende staten die geen lid zijn, wordt gestemd. Dit besluit zal worden nedergelegd bij de Zwitserse Bondsraad en wordt, in de betrekkingen tussen de verdragsluitende staten, van kracht met ingang van de eerste dag van de zesde maand volgend op die nederlegging.
+4. Tout intéressé peut demander à l’autorité compétente d’un Etat contractant dans lequel un certificat est utilisé de traduire les codes dans la langue officielle ou l’une des langues officielles de cet Etat ou de procéder au décodage du certificat.
 
-2. Bij de bekrachtiging, aanvaarding, goedkeuring van of toetreding tot dit Verdrag dient elke verdragsluitende staat bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand in zijn officiële taal of talen de vertaling neder te leggen van de termen die overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=3&z=2007-09-05&g=2007-09-05) van dit Verdrag op de verklaringen dienen te worden vermeld. Deze vertaling dient te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand. Elke wijziging die in deze vertaling wordt aangebracht, dient te worden nedergelegd bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand en te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
+##### Article 14
 
-3. Indien de betrokkene daarom verzoekt, voegt de autoriteit die een verklaring afgeeft de lijst met codes toe die op de verklaring zijn vermeld en de vertaling ervan in de officiële taal of een van de officiële talen van de verdragsluitende staat of staten waar de verklaring zal worden gebruikt. Dezelfde autoriteit kan ook overgaan tot decodering door de verklaring te vertalen in de officiële taal of in een van de officiële talen van de verdragsluitende staat of staten waar de verklaring zal worden gebruikt.
+1. Pour l’application des [articles 2](https://wetten.overheid.nl/BWBV0004559), [3](https://wetten.overheid.nl/BWBV0004559), [4](https://wetten.overheid.nl/BWBV0004559), [6](https://wetten.overheid.nl/BWBV0004559), [8](https://wetten.overheid.nl/BWBV0004559) et [9](https://wetten.overheid.nl/BWBV0004559), l’enregistrement, par les autorités consulaires d’un Etat, d’un partenariat, de sa dissolution ou de son annulation est réputé être intervenu dans cet Etat.
 
-4. Elke betrokkene kan de bevoegde autoriteit van een verdragsluitende staat waarin een verklaring wordt gebruikt, verzoeken om vertaling van de codes in de officiële taal of in een van de officiële talen van die staat of om over te gaan tot decodering van de verklaring.
+2. Pour l’application de [l’article 5](https://wetten.overheid.nl/BWBV0004559), une déclaration intervenue devant les autorités consulaires d’un Etat contractant est réputée être intervenue dans cet Etat.
 
-##### Artikel 14
+3. Les paragraphes 1 et 2 ne s’appliquent que si l’autorité consulaire a compétence selon la loi de l’Etat d’envoi pour enregistrer de tels actes ou recevoir de telles déclarations, pour autant que les lois et règlements de l’Etat de résidence ne s’y opposent pas.
 
-1. Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=2&z=2007-09-05&g=2007-09-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=3&z=2007-09-05&g=2007-09-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=6&z=2007-09-05&g=2007-09-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05) wordt de registratie van een partnerschap, van de beëindiging of van de nietigverklaring daarvan door de consulaire autoriteiten van een staat beschouwd als te hebben plaatsgevonden in die staat.
+##### Article 15
 
-2. Voor de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=5&z=2007-09-05&g=2007-09-05) wordt een verklaring ten overstaan van de consulaire autoriteiten van een verdragsluitende staat beschouwd als te hebben plaatsgevonden in die staat.
+1. La validité et les effets d’état civil d’un partenariat enregistré avant l’entrée en vigueur de la Convention pour un Etat sont reconnus dans cet Etat si les conditions de reconnaissance prévues par la Convention sont remplies. Il est fait exception à cette reconnaissance dans le cas où elle remettrait en cause la validité d’actes passés antérieurement à l’entrée en vigueur de la Convention pour cet Etat.
 
-3. Het eerste en tweede lid zijn slechts van toepassing indien de consulaire autoriteit volgens de wet van de zendende staat de bevoegdheid heeft om dergelijke akten te registreren of dergelijke verklaringen in ontvangst te nemen, voor zover de wet- en regelgeving van de staat van verblijf zich hier niet tegen verzet.
+2. La dissolution ou l’annulation d’un partenariat, enregistrée avant l’entrée en vigueur de la Convention pour un Etat, est reconnue dans cet Etat conformément à [l’article 8](https://wetten.overheid.nl/BWBV0004559), si les conditions de reconnaissance prévues par la Convention sont remplies.
 
-##### Artikel 15
+##### Article 16
 
-1. De rechtsgeldigheid van en de rechtsgevolgen voor de burgerlijke staat van een partnerschap dat is geregistreerd vóór de inwerkingtreding van het Verdrag ten aanzien van een staat worden in deze staat erkend indien aan de in het Verdrag bedoelde voorwaarden voor erkenning is voldaan. Van deze erkenning wordt afgezien indien deze de rechtsgeldigheid aantast van akten die opgemaakt zijn vóór de inwerkingtreding van het Verdrag ten aanzien van die staat.
+1. Lors de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, chaque Etat désigne, s’il y a lieu, les institutions de sa législation qui correspondent à la définition de [l’article 1er](https://wetten.overheid.nl/BWBV0004559).
 
-2. De beëindiging of de nietigverklaring van een partnerschap dat is geregistreerd vóór de inwerkingtreding van het Verdrag ten aanzien van een staat, wordt in deze staat overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05) erkend indien aan de in het Verdrag bedoelde voorwaarden voor erkenning is voldaan.
+2. Lors de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, chaque Etat désigne la ou les autorités compétentes
 
-##### Artikel 16
+- a) pour délivrer les certificats mentionnés à [l’article 9](https://wetten.overheid.nl/BWBV0004559);
 
-1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding wijst elke staat, indien van toepassing, de rechtsfiguren binnen zijn wetgeving aan die onder de begripsomschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=1&z=2007-09-05&g=2007-09-05) vallen.
+- b) pour envoyer et recevoir les informations prévues à [l’article 10](https://wetten.overheid.nl/BWBV0004559);
 
-2. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding wijst elke staat de autoriteit of autoriteiten aan die bevoegd zijn:
+- c) pour traduire les codes ou procéder au décodage conformément aux dispositions du [paragraphe 4 de l’article 13](https://wetten.overheid.nl/BWBV0004559).
 
-- a. de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05) bedoelde verklaringen af te geven;
+3. Toute modification ultérieure apportée aux désignations faites conformément au paragraphe 1 sera notifiée au Conseil fédéral suisse et prendra effet à la date indiquée par l’Etat faisant la modification.
 
-- b. de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=10&z=2007-09-05&g=2007-09-05) bedoelde gegevens te verzenden en te ontvangen;
+4. Toute modification ultérieure apportée aux désignations faites conformément au paragraphe 2 sera notifiée au Conseil fédéral suisse et prendra effet à compter du premier jour du sixième mois suivant ce dépôt.
 
-- c. de codes te vertalen of over te gaan tot decodering overeenkomstig de bepalingen van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05).
+##### Article 17
 
-3. Elke later aangebrachte wijziging van de overeenkomstig het eerste lid gedane aanwijzingen wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de door de staat die de wijziging aanbrengt, aangegeven datum.
+1. La présente Convention est ouverte à la signature des Etats membres de la Commission Internationale de l’Etat Civil.
 
-4. Elke later aangebrachte wijziging van de overeenkomstig het tweede lid gedane aanwijzingen wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zesde maand volgend op deze nederlegging.
+2. La Convention sera ratifiée, acceptée ou approuvée et les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Conseil fédéral suisse.
 
-##### Artikel 17
+##### Article 18
 
-1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Internationale Commissie voor de Burgerlijke Stand.
+1. Tout autre Etat pourra adhérer à la présente Convention.
 
-2. Het Verdrag wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
+2. Les instruments d’adhésion seront déposés auprès du Conseil fédéral suisse.
 
-##### Artikel 18
+##### Article 19
 
-1. Elke andere staat kan tot dit Verdrag toetreden.
+1. La présente Convention entrera en vigueur le premier jour du quatrième mois qui suit celui du dépôt du deuxième instrument de ratification, d’acceptation ou d’approbation.
 
-2. De akten van toetreding worden nedergelegd bij de Zwitserse Bondsraad.
+2. A l’égard de l’Etat qui ratifiera, acceptera, approuvera ou adhérera après son entrée en vigueur, la Convention prendra effet le premier jour du quatrième mois qui suit celui du dépôt par cet Etat de l’instrument de ratification, d’acceptation, d’approbation ou d’adhésion.
 
-##### Artikel 19
+##### Article 20
 
-1. Dit Verdrag treedt in werking op de eerste dag van de vierde maand die volgt op de maand van de nederlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring.
+1. Lors de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion, tout Etat pourra se réserver le droit:
 
-2. Ten aanzien van een staat die het Verdrag na de inwerkingtreding ervan bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, treedt het Verdrag in werking op de eerste dag van de vierde maand die volgt op de maand van de nederlegging door die staat van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
+- a) de ne pas appliquer la Convention aux partenariats enregistrés conclus entre personnes de sexe différent;
 
-##### Artikel 20
+- b) d’exclure l’application de [l’article 2](https://wetten.overheid.nl/BWBV0004559);
 
-1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding kan elke staat zich het recht voorbehouden:
+- c) d’exclure l’application de [l’article 5](https://wetten.overheid.nl/BWBV0004559);
 
-- a. het Verdrag niet toe te passen op geregistreerde partnerschappen tussen personen van verschillend geslacht;
+- d) de ne reconnaître une déclaration visée à [l’article 5, paragraphe 1](https://wetten.overheid.nl/BWBV0004559), et affectant le nom de son ressortissant que si elle est faite dans l’Etat de la résidence habituelle commune des partenaires et si l’un des partenaires a la nationalité de ce dernier Etat.
 
-- b. de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=2&z=2007-09-05&g=2007-09-05) uit te sluiten;
+2. Aucune autre réserve ne sera admise.
 
-- c. de toepassing van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=5&z=2007-09-05&g=2007-09-05) uit te sluiten;
+3. Tout Etat pourra à tout moment retirer une réserve qu’il avait faite. Le retrait sera notifié au Conseil fédéral suisse et prendra effet le premier jour du quatrième mois qui suit celui de la réception de ladite notification.
 
-- d. een in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=5&z=2007-09-05&g=2007-09-05), bedoelde verklaring, die rechtsgevolgen heeft voor de naam van zijn onderdaan, slechts te erkennen indien de verklaring wordt afgelegd in de staat waar de gezamenlijke gewone verblijfplaats van de partners is gelegen en indien een van de partners de nationaliteit van deze laatste staat bezit.
+##### Article 21
 
-2. Geen enkel ander voorbehoud is toegestaan.
+1. Tout Etat pourra, au moment de la signature, de la ratification, de l’acceptation, de l’approbation ou de l’adhésion ou à tout autre moment par la suite, déclarer que la présente Convention s’étendra à l’ensemble des territoires dont il assure les relations sur le plan international, ou à l’un ou plusieurs d’entre eux.
 
-3. Elke staat kan te allen tijde een door hem gemaakt voorbehoud intrekken. De intrekking wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de vierde maand die volgt op de maand van ontvangst van de genoemde kennisgeving.
+2. Toute déclaration faite en application du paragraphe 1 sera notifiée au Conseil fédéral suisse. Elle prendra effet au moment de l’entrée en vigueur de la Convention pour ledit Etat ou, ultérieurement, le premier jour du quatrième mois qui suit celui de la réception de la notification.
 
-##### Artikel 21
+3. Toute déclaration faite en application du paragraphe 1 pourra être retirée par notification adressée au Conseil fédéral suisse. La Convention cessera d’être applicable au territoire désigné le premier jour du quatrième mois qui suit celui de la réception de ladite notification.
 
-1. Elke staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig ander tijdstip daarna, verklaren dat dit Verdrag zich uitstrekt tot alle grondgebieden voor welker internationale betrekkingen hij verantwoordelijk is, of tot een of meer van deze grondgebieden.
+##### Article 22
 
-2. Elke verklaring die overeenkomstig het eerste lid is gedaan, wordt ter kennis gebracht van de Zwitserse Bondsraad. De verklaring wordt van kracht op het tijdstip van de inwerkingtreding van het Verdrag ten aanzien van de genoemde staat of, naderhand, op de eerste dag van de vierde maand die volgt op de maand van ontvangst van de kennisgeving.
+1. La présente Convention demeurera en vigueur sans limitation de durée.
 
-3. Elke verklaring die overeenkomstig het eerste lid is gedaan, kan worden ingetrokken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving. Het Verdrag houdt op van toepassing te zijn in het bedoelde grondgebied op de eerste dag van de vierde maand die volgt op de maand van ontvangst van de genoemde kennisgeving.
+2. Tout Etat partie à la présente Convention aura toutefois la faculté de la dénoncer à tout moment après l’expiration d’un délai d’un an à partir de la date de l’entrée en vigueur de la Convention à son égard. La dénonciation sera notifiée au Conseil fédéral suisse et prendra effet le premier jour du quatrième mois qui suit celui de la réception de cette notification. La Convention restera en vigueur entre les autres Etats.
 
-##### Artikel 22
+##### Article 23
 
-1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
+1. Le Conseil fédéral suisse notifiera aux Etats membres de la Commission Internationale de l’Etat Civil et à tout autre Etat ayant adhéré à la présente Convention:
 
-2. Elke staat die partij is bij dit Verdrag, kan het Verdrag evenwel opzeggen te allen tijde na het verstrijken van een termijn van een jaar, te rekenen vanaf de datum waarop het Verdrag voor die staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de vierde maand die volgt op de maand van ontvangst van deze kennisgeving. Het Verdrag blijft van kracht tussen de andere staten.
+- a) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
 
-##### Artikel 23
+- b) toute date d’entrée en vigueur de la Convention;
 
-1. De Zwitserse Bondsraad stelt de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en elke andere staat die tot dit Verdrag is toegetreden in kennis van:
+- c) toute résolution prise en application de [l’article 13, paragraphe 1](https://wetten.overheid.nl/BWBV0004559), avec la date à laquelle elle prendra effet;
 
-- a. de nederlegging van elke akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- d) toute désignation faite en application de [l’article 16, paragraphes 1 et 2](https://wetten.overheid.nl/BWBV0004559), et toute modification ultérieure, avec la date à laquelle la modification prendra effet;
 
-- b. elke datum van inwerkingtreding van het Verdrag;
+- e) toute réserve faite en application de [l’article 20, paragraphe 1](https://wetten.overheid.nl/BWBV0004559), ou son retrait, avec la date à laquelle le retrait prendra effet;
 
-- c. elk besluit genomen overeenkomstig [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05), met de datum waarop het besluit van kracht wordt;
+- f) toute déclaration faite en application de [l’article 21, paragraphe 1](https://wetten.overheid.nl/BWBV0004559), ou son retrait, avec la date à laquelle la déclaration ou le retrait prendra effet;
 
-- d. elke aanwijzing gedaan overeenkomstig [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=16&z=2007-09-05&g=2007-09-05), en elke latere wijziging, met de datum waarop de wijziging van kracht wordt;
+- g) toute dénonciation de la Convention faite en application de [l’article 22, paragraphe 2](https://wetten.overheid.nl/BWBV0004559), et la date à laquelle elle prendra effet.
 
-- e. elk voorbehoud gemaakt overeenkomstig [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=20&z=2007-09-05&g=2007-09-05), of de intrekking ervan, met de datum waarop de intrekking van kracht wordt;
+2. Le Conseil fédéral suisse avisera le Secrétaire Général de la Commission Internationale de l’Etat Civil de toute notification faite en application du paragraphe 1.
 
-- f. elke verklaring afgelegd overeenkomstig [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=21&z=2007-09-05&g=2007-09-05), of de intrekking ervan, met de datum waarop de verklaring of de intrekking van kracht wordt;
-
-- g. elke opzegging van het Verdrag gedaan overeenkomstig [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=22&z=2007-09-05&g=2007-09-05), en de datum waarop deze van kracht wordt.
-
-2. De Zwitserse Bondsraad doet de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van elke kennisgeving die overeenkomstig het eerste lid is gedaan.
-
-3. Zodra dit Verdrag in werking is getreden, wordt door de Zwitserse Bondsraad een voor eensluidend gewaarmerkt afschrift gezonden aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publicatie, overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+3. Dès l’entrée en vigueur de la présente Convention, une copie certifiée conforme sera transmise par le Conseil fédéral suisse au Secrétaire Général des Nations Unies aux fins d’enregistrement et de publication, conformément à [l’article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

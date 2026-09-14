@@ -1,35 +1,26 @@
 ---
 title: "Overeenkomst betreffende tarwe van doorsnee-kwaliteit"
 identifier: "BWBV0004482"
-country: "nl"
-rank: "verdrag"
-publication_date: "1962-03-29"
-last_updated: "1962-03-29"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004482"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004159373"
-version_id: "10004328972"
-internal_id: "C10006999861"
-label_id: "10004144304"
-dtd_version: "2.0"
-original_entry_into_force: "1962-03-29"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004482/1962-03-29/0"
-intitule_bron: "Trb.1963-145"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1963-09-20"
-intitule_in_force: "1963-09-20"
-intitule_status: "goed"
-original_publication: "Trb.1963-145"
-original_published_date: "1963-09-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1963-145"
-entry_into_force_date: "1962-03-29"
-jci_1_3: "jci1.3:c:BWBV0004482&z=1962-03-29&g=1962-03-29"
-jci_1_0: "1.0:c:BWBV0004482&g=1962-03-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-03-29"
+publicatiedatum: 1962-03-29
+laatste_update: 1962-03-29
+status: geldig
+toestand: 1962-03-29
+bron: "https://wetten.overheid.nl/BWBV0004482"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst betreffende tarwe van doorsnee-kwaliteit
+
+Agreement entered into with respect to ordinary wheat (ex 10.01 of the Common External Tariff).
+
+Canada, the European Economic Community and its Member States agree as follows:
+
+- A. Until the putting into operation of the Common Agricultural Policy for ordinary wheat (application of the levy or levies), the Member States undertake not to modify their national import systems in such a way as to make them more restrictive.
+
+- B. Upon adoption of the agricultural policy for ordinary wheat, the Community undertakes to enter into negotiations with Canada on the situation of exports of these products by Canada. The negotiations provided for under this paragraph will take place on the basis of the negotiating rights which Canada held under the General Agreement for these products as of September 1, 1960.
+
+- C. The parties signatory to this agreement in no way limit their rights under GATT or on any other basis.
 
 DONE at Geneva this twenty-ninth day of March 1962, in the English and French languages, both authentic.

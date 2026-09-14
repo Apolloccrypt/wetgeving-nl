@@ -1,214 +1,159 @@
 ---
 title: "Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling"
 identifier: "BWBV0005057"
-country: "nl"
-rank: "verdrag"
-publication_date: "1961-11-13"
-last_updated: "1961-11-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005057"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004453853"
-version_id: "10004661982"
-internal_id: "C10007304531"
-label_id: "10004438804"
-dtd_version: "2.0"
-original_entry_into_force: "1961-11-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005057/1961-11-13/0"
-intitule_bron: "Trb.1961-42"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-05-04"
-intitule_in_force: "1962-04-12"
-intitule_status: "goed"
-original_publication: "Trb.1961-42"
-original_published_date: "1961-05-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-42"
-entry_into_force_date: "1961-11-13"
-jci_1_3: "jci1.3:c:BWBV0005057&z=1961-11-13&g=1961-11-13"
-jci_1_0: "1.0:c:BWBV0005057&g=1961-11-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1961-11-13"
+publicatiedatum: 1961-11-13
+laatste_update: 1961-11-13
+status: geldig
+toestand: 1961-11-13
+bron: "https://wetten.overheid.nl/BWBV0005057"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling
 
-De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, Canada, het Koninkrijk Denemarken, Spanje, de Verenigde Staten van Amerika, de Franse Republiek, het Koninkrijk Griekenland, Ierland, de Republiek IJsland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden, de Zwitserse Bondsstaat en de Turkse Republiek;
+*The Governments of the Republic of Austria, the Kingdom of Belgium, Canada, the Kingdom of Denmark, the French Republic, the Federal Republic of Germany, the Kingdom of Greece, the Republic of Iceland, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Kingdom of Norway, the Portuguese Republic, Spain, the Kingdom of Sweden, the Swiss Confederation, the Turkish Republic, the United Kingdom of Great Britain and Northern Ireland, and the United States of America; Considering that economic strength and prosperity are essential for the attainment of the purposes of the United Nations, the preservation of individual liberty and the increase of general well-being; Believing that they can further these aims most effectively by strengthening the tradition of co-operation which has evolved among them; Recognising that the economic recovery and progress of Europe to which their participation in the Organisation for European Economic Co-operation has made a major contribution, have opened new perspectives for strengthening that tradition and applying it to new tasks and broader objectives; Convinced that broader co-operation will make a vital contribution to peaceful and harmonious relations among the peoples of the world; Recognising the increasing interdependence of their economies; Determined by consultation and co-operation to use more effectively their capacities and potentialities so as to promote the highest sustainable growth of their economies and improve the economic and social well-being of their peoples; Believing that the economically more advanced nations should co-operate in assisting to the best of their ability the countries in process of economic development; Recognising that the further expansion of world trade is one of the most important factors favouring the economic development of countries and the improvement of international economic relations; and Determined to pursue these purposes in a manner consistent with their obligations in other international organisations or institutions in which they participate or under agreements to which they are a party; Have therefore agreed on the following provisions for the reconstitution of the Organisation for European Economic Co-operation as the Organisation for Economic Co-operation and Development.*
 
-Overwegende, dat economische kracht en welvaart van wezenlijk belang zijn voor het bereiken van de doeleinden van de Verenigde Naties, het behoud van de persoonlijke vrijheid en de toename van het algemeen welzijn;
+##### Article 1
 
-Van oordeel, dat zij deze doelstellingen op zeer doeltreffende wijze kunnen bevorderen door de traditie van samenwerking die tussen hen is ontstaan te versterken;
+The aims of the Organisation for Economic Co-operation and Development (hereinafter called the “Organisation”) shall be to promote policies designed:
 
-Erkennende, dat het economische herstel en de economische vooruitgang van Europa, waaraan zij door hun deelneming aan de Organisatie voor Europese Economische Samenwerking een belangrijke bijdrage hebben geleverd, nieuwe vooruitzichten hebben geopend voor een versterking van die traditie en voor de toepassing daarvan ten aanzien van nieuwe taken en meer omvattende doelstellingen;
+- (a) to achieve the highest sustainable economic growth and employment and a rising standard of living in Member countries, while maintaining financial stability, and thus to contribute to the development of the world economy;
 
-Overtuigd, dat een samenwerking op bredere basis een wezenlijke bijdrage zal vormen tot vreedzame en harmonische betrekkingen tussen de volkeren;
+- (b) to contribute to sound economic expansion in Member as well as non-member countries in the process of economic development; and
 
-Erkennende, dat hun volkshuishoudingen in toenemende mate van elkaar afhankelijk zijn;
+- (c) to contribute to the expansion of world trade on a multilateral, non-discriminatory basis in accordance with international obligations.
 
-Vastbesloten om door middel van overleg en samenwerking hun huidige en toekomstige mogelijkheden op meer doeltreffende wijze te gebruiken teneinde een optimale groei van hun volkshuishoudingen te bevorderen en het economische en sociale welzijn van hun volkeren te verbeteren;
+##### Article 2
 
-Van oordeel, dat de economisch meer ontwikkelde landen dienen samen te werken teneinde de landen die een economisch ontwikkelingsproces doormaken naar hun beste vermogen bij te staan;
+In the pursuit of these aims, the Members agree that they will, both individually and jointly:
 
-Erkennende, dat de verdere uitbreiding van de wereldhandel een van de belangrijkste factoren is die de economische ontwikkeling der verschillende landen bevorderen en de internationale economische betrekkingen verbeteren;
+- (a) promote the efficient use of their economic resources;
 
-Vastbesloten om deze doeleinden na te streven op een wijze die verenigbaar is met hun verplichtingen uit hoofde van hun lidmaatschap van andere internationale organisaties of instellingen of voortvloeiende uit overeenkomsten waarbij zij partij zijn;
+- (b) in the scientific and technological field, promote the development of their resources, encourage research and promote vocational training;
 
-Hebben overeenstemming bereikt over de navolgende bepalingen inzake de omvorming van de Organisatie voor Europese Economische Samenwerking tot de Organisatie voor Economische Samenwerking en Ontwikkeling:
+- (c) pursue policies designed to achieve economic growth and internal and external financial stability and to avoid developments which might endanger their economies or those of other countries;
 
-##### Artikel 1
+- (d) pursue their efforts to reduce or abolish obstacles to the exchange of goods and services and current payments and maintain and extend the liberalisation of capital movements; and
 
-Het doel van de Organisatie voor Economische Samenwerking en Ontwikkeling (hierna genoemd de „Organisatie”) is een beleid te bevorderen, dat er op gericht is:
+- (e) contribute to the economic development of both Member and non-member countries in the process of economic development by appropriate means and, in particular, by the flow of capital to those countries, having regard to the importance to their economies of receiving technical assistance and of securing expanding export markets.
 
-- a. in de deelnemende landen de grootst mogelijke economische groei en werkgelegenheid en een stijgende levensstandaard te bewerkstelligen onder handhaving van de financiële stabiliteit, teneinde aldus bij te dragen tot de ontwikkeling van de wereldeconomie;
+##### Article 3
 
-- b. bij te dragen tot een gezonde economische expansie zowel in de deelnemende als in de niet-deelnemende landen die een economisch ontwikkelingsproces doormaken;
+With a view to achieving the aims set out in Article 1 and to fulfilling the undertakings contained in Article 2, the Members agree that they will:
 
-- c. bij te dragen tot de uitbreiding van de wereldhandel op multilaterale en niet-discriminatoire grondslag overeenkomstig de internationale verplichtingen.
+- (a) keep each other informed and furnish the Organisation with the information necessary for the accomplishment of its tasks;
 
-##### Artikel 2
+- (b) consult together on a continuing basis, carry out studies and participate in agreed projects; and
 
-Teneinde deze doelstellingen te bereiken komen de Leden overeen zowel individueel als gezamenlijk:
+- (c) co-operate closely and where appropriate take co-ordinated action.
 
-- a. een doelmatig gebruik van hun economische hulpbronnen te bevorderen;
+##### Article 4
 
-- b. op wetenschappelijk en technisch gebied de ontwikkeling van hun hulpbronnen te verzekeren, het wetenschappelijk onderzoek aan te moedigen en de beroepsopleiding te bevorderen;
+The Contracting Parties to this Convention shall be Members of the Organisation.
 
-- c. een beleid te voeren dat is gericht op het bereiken van economische groei en van interne en externe financiële stabiliteit, en op het vermijden van ontwikkelingen die hun volkshuishouding of die van andere landen in gevaar zouden kunnen brengen;
+##### Article 5
 
-- d. zich te blijven inspannen voor een vermindering of opheffing van de belemmeringen voor het goederen- en dienstenverkeer alsmede voor het lopende betalingsverkeer, en de vrijmaking van het kapitaalverkeer te handhaven en uit te breiden;
+In order to achieve its aims, the Organisation may:
 
-- e. bij te dragen tot de economische ontwikkeling zowel van de deelnemende landen als van de niet-deelnemende landen die een economisch ontwikkelingsproces doormaken, door passende middelen en in het bijzonder door kapitaal te doen vloeien naar die landen, waarbij rekening wordt gehouden met het belang van het ontvangen van technische bijstand en van het zich verzekeren van zich uitbreidende exportmarkten voor hun volkshuishoudingen.
+- (a) take decisions which, except as otherwise provided, shall be binding on all the Members;
 
-##### Artikel 3
+- (b) make recommendations to Members; and
 
-Teneinde de in artikel 1 genoemde doelstellingen te bereiken en te voldoen aan de in artikel 2 vervatte verplichtingen komen de Leden overeen dat zij:
+- (c) enter into agreements with Members, non-member States and international organisations.
 
-- a. elkaar op de hoogte zullen houden en de Organisatie alle inlichtingen zullen verstrekken die zij voor de vervulling van haar taak nodig heeft;
+##### Article 6
 
-- b. voortdurend overleg zullen plegen, studies zullen verrichten en zullen deelnemen aan in onderling overleg aanvaarde projecten;
+1. Unless the Organisation otherwise agrees unanimously for special cases, decisions shall be taken and recommendations shall be made by mutual agreement of all the Members.
 
-- c. nauw zullen samenwerken en, in voorkomende gevallen, gecoördineerd zullen optreden.
+2. Each Member shall have one vote. If a Member abstains from voting on a decision or recommendation, such abstention shall not invalidate the decision or recommendation, which shall be applicable to the other Members but not to the abstaining Member.
 
-##### Artikel 4
+3. No decision shall be binding on any Member until it has complied with the requirements of its own constitutional procedures. The other Members may agree that such a decision shall apply provisionally to them.
 
-Leden van de Organisatie zijn de Partijen bij dit Verdrag.
+##### Article 7
 
-##### Artikel 5
+A Council composed of all the Members shall be the body from which all acts of the Organisation derive. The Council may meet in sessions of Ministers or of Permanent Representatives.
 
-Teneinde haar doelstellingen te bereiken kan de Organisatie:
+##### Article 8
 
-- a. besluiten nemen, die, tenzij anders is bepaald, voor alle Leden bindend zijn;
+The Council shall designate each year a Chairman, who shall preside at its ministerial sessions, and two Vice-Chairmen. The Chairman may be designated to serve one additional consecutive term.
 
-- b. aanbevelingen doen aan de Leden;
+##### Article 9
 
-- c. overeenkomsten aangaan met Leden, niet-leden en internationale organisaties.
+The Council may establish an Executive Committee and such subsidiary bodies as may be required for the achievement of the aims of the Organisation.
 
-##### Artikel 6
+##### Article 10
 
-1. Tenzij de Organisatie ten aanzien van bijzondere gevallen met algemene stemmen anders besluit, worden geen besluiten genomen en aanbevelingen gedaan dan met onderling goedvinden van alle Leden.
+1. A Secretary-General responsible to the Council shall be appointed by the Council for a term of five years. He shall be assisted by one or more Deputy Secretaries-General or Assistant Secretaries-General appointed by the Council on the recommendation of the Secretary-General.
 
-2. Ieder Lid heeft één stem. Indien een Lid zich onthoudt van stemming over een besluit of een aanbeveling, staat deze onthouding van stemming het nemen van het besluit of het doen van de aanbeveling niet in de weg; het besluit of de aanbeveling is in dat geval van toepassing op de andere Leden doch niet op het Lid dat zich van stemming heeft onthouden.
+2. The Secretary-General shall serve as Chairman of the Council meeting at sessions of Permanent Representatives. He shall assist the Council in all appropriate ways and may submit proposals to the Council or to any other body of the Organisation.
 
-3. Een besluit is niet bindend voor een Lid zolang het niet heeft voldaan aan zijn grondwettelijk voorgeschreven procedures. De andere Leden kunnen overeenkomen dat een dergelijk besluit voorlopig tussen hen van toepassing zal zijn.
+##### Article 11
 
-##### Artikel 7
+1. The Secretary-General shall appoint such staff as the Organisation may require in accordance with plans of organisation approved by the Council. Staff regulations shall be subject to approval by the Council.
 
-Een Raad, samengesteld uit alle Leden, is het orgaan waarvan alle handelingen van de Organisatie uitgaan. De Raad kan bijeenkomen in vergaderingen van ministers of van permanente vertegenwoordigers.
+2. Having regard to the international character of the Organisation, the Secretary-General, the Deputy or Assistant Secretaries-General and the staff shall neither seek nor receive instructions from any of the Members or from any Government or authority external to the Organisation.
 
-##### Artikel 8
+##### Article 12
 
-De Raad wijst jaarlijks een voorzitter aan, die de vergadering der ministers voorzit, alsmede twee vice-voorzitters. De voorzitter is telkens eenmaal herkiesbaar voor een tweede, aansluitende, ambtstermijn.
+Upon such terms and conditions as the Council may determine, the Organisation may:
 
-##### Artikel 9
+- (a) address communications to non-member States or organisations;
 
-De Raad kan een uitvoerend comité instellen alsmede alle hulporganen die nodig zijn ter bereiking van de doelstellingen van de Organisatie.
+- (b) establish and maintain relations with non-member States or organisations; and
 
-##### Artikel 10
+- (c) invite non-member Governments or organisations to participate in activities of the Organisation.
 
-1. De Raad benoemt voor een ambtstermijn van vijf jaar een secretaris-generaal, die aan de Raad verantwoording verschuldigd is. Hij wordt bijgestaan door een of meer plaatsvervangende secretarissen-generaal of adjunct-secretarissen-generaal, die op voorstel van de secretaris-generaal door de Raad worden benoemd.
+##### Article 13
 
-2. De secretaris-generaal treedt op als voorzitter van de Raad tijdens vergaderingen van de permanente vertegenwoordigers. Hij staat de Raad op alle daartoe in aanmerking komende wijzen ter zijde en kan aan de Raad en aan elk ander orgaan van de Organisatie voorstellen doen.
+Representation in the Organisation of the European Communities established by the Treaties of Paris and Rome of 18th April, 1951, and 25th March, 1957, shall be as defined in Supplementary Protocol No. 1 to this Convention.
 
-##### Artikel 11
+##### Article 14
 
-1. De secretaris-generaal benoemt het personeel dat de Organisatie nodig heeft in overeenstemming met door de Raad goedgekeurde organisatie-plannen. Het statuut van het personeel is onderworpen aan de goedkeuring van de Raad.
+1. This Convention shall be ratified or accepted by the Signatories in accordance with their respective constitutional requirements.
 
-2. Met het oog op het internationale karakter van de Organisatie vragen noch ontvangen de secretaris-generaal, de plaatsvervangende secretarissen-generaal, de adjunct-secretarissen-generaal en het personeel aanwijzingen van enig Lid of van enige Regering of autoriteit buiten de organisatie.
+2. Instruments of ratification or acceptance shall be deposited with the Government of the French Republic, hereby designated as depositary Government.
 
-##### Artikel 12
+3. This Convention shall come into force:
 
-Op de door de Raad vast te stellen voorwaarden kan de Organisatie:
+- (a) before 30th September, 1961, upon the deposit of instruments ratification or acceptance by all the Signatories; or
 
-- a. zich met wensen tot niet-leden of organisaties richten;
+- (b) on 30th September, 1961, if by that date fifteen Signatories or more have deposited such instruments as regards those Signatories; and thereafter as regards any other Signatory upon the deposit of its instrument of ratification or acceptance;
 
-- b. betrekkingen aanknopen en in stand houden met niet-leden of met organisaties;
+- (c) after 30th September, 1961, but not later than two years from the signature of this Convention, upon the deposit of such instruments by fifteen Signatories, as regards those Signatories; and thereafter as regards any other Signatory upon the deposit of its instrument of ratification or acceptance.
 
-- c. niet-leden of organisaties uitnodigen aan werkzaamheden van de Organisatie deel te nemen.
+4. Any Signatory which has not deposited its instrument of ratification or acceptance when the Convention comes into force may take part in the activities of the Organisation upon conditions to be determined by agreement between the Organisation and such Signatory.
 
-##### Artikel 13
+##### Article 15
 
-De vertegenwoordiging in de Organisatie van de bij de Verdragen van Parijs en Rome van 18 april 1951 en 25 maart 1957 opgerichte Europese Gemeenschappen zal zijn als bepaald in het Aanvullende Protocol Nr. 1 bij dit Verdrag.
+When this Convention comes into force the reconstitution of the Organisation for European Economic Co-operation shall take effect, and its aims, organs, powers and name shall thereupon be as provided herein. The legal personality possessed by the Organisation for European Economic Co-operation shall continue in the Organisation, but decisions, recommendations and resolutions of the Organisation for European Economic Co-operation shall require approval of the Council to be effective after the coming into force of this Convention.
 
-##### Artikel 14
+##### Article 16
 
-1. Dit Verdrag dient door de ondertekenende regeringen te worden bekrachtigd of aanvaard in overeenstemming met hun onderscheidene grondwettelijke vereisten.
+The Council may decide to invite any Government prepared to assume the obligations of membership to accede to this Convention. Such decisions shall be unanimous, provided that for any particular case the Council may unanimously decide to permit abstention, in which case, notwithstanding the provisions of Article 6, the decision shall be applicable to all the Members. Accession shall take effect upon the deposit of an instrument of accession with the depositary Government.
 
-2. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Regering van de Franse Republiek, die hierbij wordt aangewezen als depot-regering.
+##### Article 17
 
-3. Dit Verdrag treedt in werking:
+Any Contracting Party may terminate the application of this Convention to itself by giving twelve months' notice to that effect to the depositary Government.
 
-- a. hetzij vóór 30 september 1961, zodra alle ondertekenende regeringen hun akten van bekrachtiging of aanvaarding hebben nedergelegd;
+##### Article 18
 
-- b. hetzij op 30 september 1961 indien op die datum tenminste 15 ondertekenende regeringen bedoelde akten hebben nedergelegd, en wel ten aanzien van die regeringen; en vervolgens ten aanzien van iedere andere ondertekenende regering op de datum van nederlegging van haar akte van bekrachtiging of aanvaarding;
+The Headquarters of the Organisation shall be in Paris, unless the Council agrees otherwise.
 
-- c. hetzij na 30 september 1961, doch uiterlijk twee jaar na de ondertekening van dit Verdrag, zodra 15 ondertekenende regeringen bedoelde akten hebben nedergelegd, en wel ten aanzien van die ondertekenende regeringen; en vervolgens ten aanzien van iedere andere ondertekenende regering op de datum van nederlegging van haar akte van bekrachtiging of aanvaarding.
+##### Article 19
 
-4. Iedere ondertekenende regering die op het ogenblik van inwerkingtreding van het Verdrag haar akte van bekrachtiging of aanvaarding niet heeft nedergelegd kan op tussen de Organisatie en die regering bij overeenkomst vast te stellen voorwaarden aan de werkzaamheden van de Organisatie deelnemen.
+The legal capacity of the Organisation and the privileges, exemptions, and immunities of the Organisation, its officials and representatives to it of the Members shall be as provided in Supplementary Protocol No. 2 to this Convention.
 
-##### Artikel 15
+##### Article 20
 
-Op het ogenblik van inwerkingtreding van dit Verdrag wordt de omvorming van de Organisatie voor Europese Economische Samenwerking van kracht en zullen haar doelstellingen, organen, bevoegdheden en naam zijn als in dit Verdrag bepaald. De rechtspersoonlijkheid die de Organisatie voor Europese Economische Samenwerking bezit gaat over op de Organisatie, doch de besluiten, aanbevelingen en resoluties van de Organisatie voor Europese Economische Samenwerking behoeven de goedkeuring van de Raad om na de inwerkingtreding van dit Verdrag van toepassing te zijn.
+1. Each year, in accordance with Financial Regulations adopted by the Council, the Secretary-General shall present to the Council for approval an annual budget, accounts, and such subsidiary budgets as the Council shall request.
 
-##### Artikel 16
+2. General expenses of the Organisation, as agreed by the Council, shall be apportioned in accordance with a scale to be decided upon by the Council. Other expenditure shall be financed on such basis as the Council may decide.
 
-De Raad kan besluiten iedere regering die bereid is de verplichtingen van het lidmaatschap te aanvaarden, uit te nodigen tot dit Verdrag toe te treden. Een dergelijk besluit dient met algemene stemmen te worden genomen met dien verstande dat de Raad in een bepaald geval met algemene stemmen kan beslissen dat onthouding van stemming is toegestaan, in welk geval, ongeacht de bepalingen van artikel 6, het besluit voor alle Leden zal gelden. De toetreding wordt van kracht op het ogenblik van nederlegging van de akte van toetreding bij de depot-regering.
+##### Article 21
 
-##### Artikel 17
-
-Iedere Verdragsluitende Partij kan de toepassing van dit Verdrag ten aanzien van haarzelf beëindigen door daarvan twaalf maanden tevoren mededeling te doen aan de depot-regering.
-
-##### Artikel 18
-
-De zetel van de Organisatie is gevestigd te Parijs, tenzij de Raad anders overeenkomt.
-
-##### Artikel 19
-
-De rechtsbevoegdheid van de Organisatie en de voorrechten, vrijstellingen en immuniteiten van de Organisatie, haar functionarissen en de vertegenwoordigers van de Leden bij de Organisatie worden geregeld in het Aanvullende Protocol Nr. 2 bij dit Verdrag.
-
-##### Artikel 20
-
-1. Overeenkomstig een door de Raad aangenomen Financieel Reglement legt de secretaris-generaal elk jaar een jaarlijkse begroting, de jaarrekeningen alsmede alle door de Raad gevraagde aanvullende begrotingen ter goedkeuring voor aan de Raad.
-
-2. De door de Raad goedgekeurde algemene uitgaven van de Organisatie worden omgeslagen volgens een door de Raad vast te stellen schaal. De overige uitgaven worden gefinancierd op een door de Raad vastgestelde grondslag.
-
-##### Artikel 21
-
-Na ontvangst van iedere akte van bekrachtiging, aanvaarding of toetreding of iedere mededeling van beëindiging geeft de depotregering daarvan kennis aan alle Verdragsluitende Partijen en aan de secretaris-generaal van de Organisatie.
-
-De Regeringen die het Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling hebben ondertekend,
-
-Zijn overeengekomen als volgt:
-
-##### 1
-
-De vertegenwoordiging in de Organisatie voor Economische Samenwerking en Ontwikkeling van de bij de Verdragen van Parijs en Rome van 18 april 1951 en 25 maart 1957 opgerichte Europese Gemeenschappen wordt geregeld overeenkomstig de institutionele bepalingen van die Verdragen.
-
-##### 2
-
-De Commissies van de Europese Economische Gemeenschap en van de Europese Gemeenschap voor Atoomenergie, alsmede de Hoge Autoriteit van de Europese Gemeenschap voor Kolen en Staal, nemen deel aan de werkzaamheden van die Organisatie.
-
-De Regeringen die het Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling (hierna genoemd de „Organisatie”) hebben ondertekend,
-
-Zijn overeengekomen als volgt:
+Upon the receipt of any instrument of ratification, acceptance or accession, or of any notice of termination, the depositary Government shall give notice thereof to all the Contracting Parties and to the Secretary-General of the Organisation.
 
 IN WITNESS WHEREOF, the undersigned Plenipotentiaries, duly empowered, have appended their signatures to this Convention.
 

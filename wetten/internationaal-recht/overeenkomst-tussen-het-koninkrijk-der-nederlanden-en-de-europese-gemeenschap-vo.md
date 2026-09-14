@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (Euratom) betreffende de vestiging te Petten van een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het gebied van de Kernenergie"
 identifier: "BWBV0004458"
-country: "nl"
-rank: "verdrag"
-publication_date: "1962-10-30"
-last_updated: "1962-10-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004458"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004141973"
-version_id: "10004310912"
-internal_id: "C10008335931"
-label_id: "10004127124"
-dtd_version: "2.0"
-original_entry_into_force: "1962-10-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004458/1962-10-30/0"
-intitule_bron: "Trb.1961-142"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-12-14"
-intitule_in_force: "1963-02-08"
-intitule_status: "goed"
-original_publication: "Trb.1961-142"
-original_published_date: "1961-12-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-142"
-entry_into_force_date: "1962-10-30"
-jci_1_3: "jci1.3:c:BWBV0004458&z=1962-10-30&g=1962-10-30"
-jci_1_0: "1.0:c:BWBV0004458&g=1962-10-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-10-30"
+publicatiedatum: 1962-10-30
+laatste_update: 1962-10-30
+status: geldig
+toestand: 1962-10-30
+bron: "https://wetten.overheid.nl/BWBV0004458"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Gemeenschap voor Atoomenergie (Euratom) betreffende de vestiging te Petten van een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het gebied van de Kernenergie
 
-De Regering van het Koninkrijk der Nederlanden (hierna genoemd „de Regering”), handelend zowel namens haarzelf als namens het Reactor Centrum Nederland (hierna genoemd „het R.C.N.”), en de Commissie van de Europese Gemeenschap voor Atoomenergie (hierna genoemd „de Commissie”);
-
-Overwegende dat de Commissie, krachtens [artikel 8 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=8) (hierna genoemd „de Gemeenschap”) na raadpleging van het Wetenschappelijk en Technisch Comité, tot taak heeft een Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie op te richten;
-
-Overwegende dat de Regering heeft voorgesteld op haar grondgebied, te weten te Petten, een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie te vestigen, dat grenst aan het centrum van het R.C.N.;
-
-Overwegende dat de bouw door het R.C.N. van een hoge flux reactor zijn voltooiing nadert;
-
-Overwegende dat de Commissie de wens koestert te Petten een inrichting van het Gemeenschappelijk Centrum voor Onderzoek met algemene bevoegdheden op te richten en krachtig te ontwikkelen;
-
-Overwegende dat de Regering uitdrukking heeft gegeven aan de wens dat de nationale inspanning op het gebied van de kernenergie hierdoor niet zal worden verminderd en dat zij heeft bevestigd voornemens te zijn het onderzoekprogramma in Nederland te zullen opvoeren,
-
-Hebben omtrent de volgende bepalingen overeenstemming bereikt:
+*De Regering van het Koninkrijk der Nederlanden (hierna genoemd „de Regering”), handelend zowel namens haarzelf als namens het Reactor Centrum Nederland (hierna genoemd „het R.C.N.”), en de Commissie van de Europese Gemeenschap voor Atoomenergie (hierna genoemd „de Commissie”); Overwegende dat de Commissie, krachtens artikel 8 van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (hierna genoemd „de Gemeenschap”) na raadpleging van het Wetenschappelijk en Technisch Comité, tot taak heeft een Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie op te richten; Overwegende dat de Regering heeft voorgesteld op haar grondgebied, te weten te Petten, een inrichting van het Gemeenschappelijk Centrum voor Onderzoek op het Gebied van de Kernenergie te vestigen, dat grenst aan het centrum van het R.C.N.; Overwegende dat de bouw door het R.C.N. van een hoge flux reactor zijn voltooiing nadert; Overwegende dat de Commissie de wens koestert te Petten een inrichting van het Gemeenschappelijk Centrum voor Onderzoek met algemene bevoegdheden op te richten en krachtig te ontwikkelen; Overwegende dat de Regering uitdrukking heeft gegeven aan de wens dat de nationale inspanning op het gebied van de kernenergie hierdoor niet zal worden verminderd en dat zij heeft bevestigd voornemens te zijn het onderzoekprogramma in Nederland te zullen opvoeren, Hebben omtrent de volgende bepalingen overeenstemming bereikt:*
 
 ##### Artikel 1. – Doel van de overeenkomst
 

@@ -1,152 +1,21 @@
 ---
 title: "Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds"
 identifier: "BWBV0004159"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-06-01"
-last_updated: "2014-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004159"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003982353"
-version_id: "10004130002"
-internal_id: "C10008617881"
-label_id: "10003967454"
-dtd_version: "2.0"
-original_entry_into_force: "2014-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004159/2014-06-01/0"
-intitule_bron: "Trb.2010-172"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2010-06-14"
-intitule_in_force: "2014-06-13"
-intitule_status: "goed"
-original_publication: "Trb.2010-172"
-original_published_date: "2010-06-14"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2010-172"
-entry_into_force_date: "2014-06-01"
-jci_1_3: "jci1.3:c:BWBV0004159&z=2014-06-01&g=2014-06-01"
-jci_1_0: "1.0:c:BWBV0004159&g=2014-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-06-01"
+publicatiedatum: 2014-06-01
+laatste_update: 2014-06-01
+status: geldig
+toestand: 2014-06-01
+bron: "https://wetten.overheid.nl/BWBV0004159"
+opgehaald: 2026-09-14
 ---
+
 # Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds
 
-De Europese Unie, hierna „de Unie” genoemd,
+*De Europese Unie, hierna „de Unie” genoemd, en Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, De Republiek Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, verdragsluitende partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna „de lidstaten” genoemd, enerzijds, en de Republiek Korea, anderzijds, hierna gezamenlijk „de partijen” genoemd, Gelet op hun traditionele vriendschapsbanden en op de historische, politieke en economische relaties die hen binden, Herinnerend aan de kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, die op 28 oktober 1996 in Luxemburg is ondertekend en op 1 april 2001 in werking is getreden; Gezien het versnelde proces waarbij de Europese Unie een eigen identiteit op de gebieden buitenlands beleid en veiligheid en justitie aan het krijgen is; Zich bewust van de groeiende rol en verantwoordelijkheid die de Republiek Korea in de internationale gemeenschap op zich neemt; Wijzend op de alomvattende aard van hun betrekkingen en het belang van aanhoudende inspanningen om de algehele samenhang te handhaven; Bevestigend dat zij de regelmatige politieke dialoog, die op gedeelde waarden en aspiraties is gebaseerd, willen handhaven en verder uitbreiden; Uitdrukking gevend aan hun gemeenschappelijke wens hun betrekkingen op te waarderen tot een versterkt partnerschap, ook op politiek, economisch, sociaal en cultureel gebied; Vastbesloten in dit verband de betrekkingen op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau te consolideren, te verdiepen en te diversifiëren, op basis van gelijkheid, eerbiediging van de souvereiniteit, non-discriminatie en wederzijds voordeel; Opnieuw bevestigend dat zij sterk gehecht zijn aan de democratische beginselen en de rechten van de mens, vastgelegd in de Universele Verklaring van de rechten van de mens en andere toepasselijke internationale mensenrechteninstrumenten, alsmede aan de beginselen rechtsstaat en goed bestuur; Opnieuw bevestigend dat zij vastbesloten zijn ernstige misdrijven die de internationale gemeenschap aangaan te bestrijden en ervan overtuigd dat de effectieve vervolging van de ernstigste misdrijven die de internationale gemeenschap aangaan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de mondiale samenwerking te intensiveren; Overwegende dat het terrorisme een bedreiging is voor de mondiale veiligheid en wensend hun dialoog en samenwerking in de strijd tegen het terrorisme te intensiveren overeenkomstig de toepasselijke internationale instrumenten, in het bijzonder Resolutie 1373 van de Veiligheidsraad van de Verenigde Naties, en opnieuw bevestigend dat eerbiediging van de rechten van de mens en de rechtsstaat de grondslag vormen van de bestrijding van terrorisme; Van oordeel dat de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor een ernstige bedreiging voor de internationale veiligheid vormt, constaterend dat de internationale gemeenschap deze verspreiding wenst te bestrijden, zoals tot uiting is gekomen in de goedkeuring van de desbetreffende internationale overeenkomsten en resoluties van de Veiligheidsraad van de Verenigde Naties, met name Resolutie 1540, en wensend hun dialoog en samenwerking op dit gebied te versterken; Ondererkennend dat intensiever moet worden samengewerkt op het gebied van justitie, vrijheid en veiligheid; Wijzend op het feit dat de bepalingen van de overeenkomst die binnen de toepassingssfeer van deel III, titel V, van het Verdrag betreffende de werking van de Europese Unie vallen, het Verenigd Koninkrijk en Ierland binden als afzonderlijke overeenkomstsluitende partijen, en niet als deel van de Europese Unie, totdat de Europese Unie de Republiek Korea ervan in kennis stelt dat het Verenigd Koninkrijk of Ierland wat deze aangelegenheden betreft gebonden is als deel van de Europese Unie overeenkomstig het Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland dat aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie is gehecht, en dat hetzelfde geldt voor Denemarken, overeenkomstig het desbetreffende protocol dat aan deze Verdragen is gehecht; Overwegende dat zij duurzame ontwikkeling in economisch, sociaal en milieuopzicht wensen te bevorderen; Uiting gevend aan hun toezeggingen een hoog niveau van milieubescherming te waarborgen en aan hun vaste voornemen samen te werken ter bestrijding van klimaatverandering; Wijzend op hun steun voor een eerlijk globaliseringsproces en hun streven naar volledige en productieve werkgelegenheid en fatsoenlijk werk voor iedereen; Gezien het bloeiende handels- en investeringsverkeer tussen de partijen op basis van het wereldwijde op regels gebaseerde handelsstelsel onder auspiciën van de Wereldhandelsorganisatie (WTO); Wensend, tot wederzijds voordeel van de partijen, de duurzame intensivering en ontwikkeling van het handels- en investeringsverkeer tussen de partijen te bevorderen en daartoe de voorwaarden te scheppen, onder andere door een vrijhandelszone tot stand te brengen; Gezamenlijk van oordeel zijnde dat gezamenlijke inspanningen dienen te worden geleverd om wereldwijde vraagstukken aan te pakken, waaronder terrorisme, ernstige misdrijven die de internationale gemeenschap aangaan, verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor, klimaatverandering, onzekerheid van energievoorziening en hulpbronnen, armoede en de financiële crisis; Vastbesloten hun samenwerking te intensiveren op gebieden van wederzijds belang, en met name de bevordering van de democratische beginselen en eerbiediging van de mensenrechten, bestrijding van de verspreiding van massavernietigingswapens; bestrijding van de illegale handel in handvuurwapens en lichte wapens; maatregelen tegen de ernstigste misdrijven die de internationale gemeenschap aangaan; bestrijding van terrorisme; samenwerking in regionale en internationale organisaties; handel en investeringen; dialoog inzake het economisch beleid; samenwerking tussen bedrijven; belastingheffing; douane; mededingingsbeleid; informatiemaatschappij; wetenschap en technologie; energie; vervoer; beleid inzake zeevervoer; consumentenbeleid; gezondheid; werkgelegenheid en sociale zaken; milieu en natuurlijke hulpbronnen; klimaatverandering; landbouw; plattelandsontwikkeling en bosbouw; zee en visserij; ontwikkelingshulp; cultuur; informatie; communicatie; audiovisuele aangelegenheden en de media; onderwijs; rechtsstaat; juridische samenwerking; bescherming van persoonsgegevens; migratie; drugsbestrijding; bestrijding van georganiseerde misdaad en corruptie; bestrijding van witwassen van geld en financiering van terrorisme; bestrijding van computercriminaliteit; rechtshandhaving; toerisme; het maatschappelijk middenveld; het overheidsapparaat; en statistiek; Zich bewust van het belang van bevordering van de betrokkenheid bij het ontwikkelingsproces van rechtstreeks belanghebbende personen en entiteiten, met name bedrijven en organisaties die hen vertegenwoordigen; Erkennende dat het wenselijk is de rol en het profiel van beide partijen in elkaars regio’s te versterken en persoonlijke contacten tussen de partijen te bevorderen, Zijn als volgt overeengekomen:*
 
-en
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-verdragsluitende partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten” genoemd, enerzijds,
-
-en
-
-de Republiek Korea, anderzijds,
-
-hierna gezamenlijk „de partijen” genoemd,
-
-Gelet op hun traditionele vriendschapsbanden en op de historische, politieke en economische relaties die hen binden,
-
-Herinnerend aan de [kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0001374), die op 28 oktober 1996 in Luxemburg is ondertekend en op 1 april 2001 in werking is getreden;
-
-Gezien het versnelde proces waarbij de Europese Unie een eigen identiteit op de gebieden buitenlands beleid en veiligheid en justitie aan het krijgen is;
-
-Zich bewust van de groeiende rol en verantwoordelijkheid die de Republiek Korea in de internationale gemeenschap op zich neemt;
-
-Wijzend op de alomvattende aard van hun betrekkingen en het belang van aanhoudende inspanningen om de algehele samenhang te handhaven;
-
-Bevestigend dat zij de regelmatige politieke dialoog, die op gedeelde waarden en aspiraties is gebaseerd, willen handhaven en verder uitbreiden;
-
-Uitdrukking gevend aan hun gemeenschappelijke wens hun betrekkingen op te waarderen tot een versterkt partnerschap, ook op politiek, economisch, sociaal en cultureel gebied;
-
-Vastbesloten in dit verband de betrekkingen op gebieden van wederzijds belang op bilateraal, regionaal en mondiaal niveau te consolideren, te verdiepen en te diversifiëren, op basis van gelijkheid, eerbiediging van de souvereiniteit, non-discriminatie en wederzijds voordeel;
-
-Opnieuw bevestigend dat zij sterk gehecht zijn aan de democratische beginselen en de rechten van de mens, vastgelegd in de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) en andere toepasselijke internationale mensenrechteninstrumenten, alsmede aan de beginselen rechtsstaat en goed bestuur;
-
-Opnieuw bevestigend dat zij vastbesloten zijn ernstige misdrijven die de internationale gemeenschap aangaan te bestrijden en ervan overtuigd dat de effectieve vervolging van de ernstigste misdrijven die de internationale gemeenschap aangaan moet worden gewaarborgd door maatregelen op nationaal niveau te nemen en de mondiale samenwerking te intensiveren;
-
-Overwegende dat het terrorisme een bedreiging is voor de mondiale veiligheid en wensend hun dialoog en samenwerking in de strijd tegen het terrorisme te intensiveren overeenkomstig de toepasselijke internationale instrumenten, in het bijzonder Resolutie 1373 van de Veiligheidsraad van de Verenigde Naties, en opnieuw bevestigend dat eerbiediging van de rechten van de mens en de rechtsstaat de grondslag vormen van de bestrijding van terrorisme;
-
-Van oordeel dat de verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor een ernstige bedreiging voor de internationale veiligheid vormt, constaterend dat de internationale gemeenschap deze verspreiding wenst te bestrijden, zoals tot uiting is gekomen in de goedkeuring van de desbetreffende internationale overeenkomsten en resoluties van de Veiligheidsraad van de Verenigde Naties, met name Resolutie 1540, en wensend hun dialoog en samenwerking op dit gebied te versterken;
-
-Ondererkennend dat intensiever moet worden samengewerkt op het gebied van justitie, vrijheid en veiligheid;
-
-Wijzend op het feit dat de bepalingen van de overeenkomst die binnen de toepassingssfeer van [deel III, titel V, van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&titeldeel=V) vallen, het Verenigd Koninkrijk en Ierland binden als afzonderlijke overeenkomstsluitende partijen, en niet als deel van de Europese Unie, totdat de Europese Unie de Republiek Korea ervan in kennis stelt dat het Verenigd Koninkrijk of Ierland wat deze aangelegenheden betreft gebonden is als deel van de Europese Unie overeenkomstig het [Protocol betreffende de positie van het Verenigd Koninkrijk en Ierland](onbekend) dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht, en dat hetzelfde geldt voor Denemarken, overeenkomstig het desbetreffende protocol dat aan deze Verdragen is gehecht;
-
-Overwegende dat zij duurzame ontwikkeling in economisch, sociaal en milieuopzicht wensen te bevorderen;
-
-Uiting gevend aan hun toezeggingen een hoog niveau van milieubescherming te waarborgen en aan hun vaste voornemen samen te werken ter bestrijding van klimaatverandering;
-
-Wijzend op hun steun voor een eerlijk globaliseringsproces en hun streven naar volledige en productieve werkgelegenheid en fatsoenlijk werk voor iedereen;
-
-Gezien het bloeiende handels- en investeringsverkeer tussen de partijen op basis van het wereldwijde op regels gebaseerde handelsstelsel onder auspiciën van de Wereldhandelsorganisatie (WTO);
-
-Wensend, tot wederzijds voordeel van de partijen, de duurzame intensivering en ontwikkeling van het handels- en investeringsverkeer tussen de partijen te bevorderen en daartoe de voorwaarden te scheppen, onder andere door een vrijhandelszone tot stand te brengen;
-
-Gezamenlijk van oordeel zijnde dat gezamenlijke inspanningen dienen te worden geleverd om wereldwijde vraagstukken aan te pakken, waaronder terrorisme, ernstige misdrijven die de internationale gemeenschap aangaan, verspreiding van massavernietigingswapens en de overbrengingsmiddelen daarvoor, klimaatverandering, onzekerheid van energievoorziening en hulpbronnen, armoede en de financiële crisis;
-
-Vastbesloten hun samenwerking te intensiveren op gebieden van wederzijds belang, en met name de bevordering van de democratische beginselen en eerbiediging van de mensenrechten, bestrijding van de verspreiding van massavernietigingswapens; bestrijding van de illegale handel in handvuurwapens en lichte wapens; maatregelen tegen de ernstigste misdrijven die de internationale gemeenschap aangaan; bestrijding van terrorisme; samenwerking in regionale en internationale organisaties; handel en investeringen; dialoog inzake het economisch beleid; samenwerking tussen bedrijven; belastingheffing; douane; mededingingsbeleid; informatiemaatschappij; wetenschap en technologie; energie; vervoer; beleid inzake zeevervoer; consumentenbeleid; gezondheid; werkgelegenheid en sociale zaken; milieu en natuurlijke hulpbronnen; klimaatverandering; landbouw; plattelandsontwikkeling en bosbouw; zee en visserij; ontwikkelingshulp; cultuur; informatie; communicatie; audiovisuele aangelegenheden en de media; onderwijs; rechtsstaat; juridische samenwerking; bescherming van persoonsgegevens; migratie; drugsbestrijding; bestrijding van georganiseerde misdaad en corruptie; bestrijding van witwassen van geld en financiering van terrorisme; bestrijding van computercriminaliteit; rechtshandhaving; toerisme; het maatschappelijk middenveld; het overheidsapparaat; en statistiek;
-
-Zich bewust van het belang van bevordering van de betrokkenheid bij het ontwikkelingsproces van rechtstreeks belanghebbende personen en entiteiten, met name bedrijven en organisaties die hen vertegenwoordigen;
-
-Erkennende dat het wenselijk is de rol en het profiel van beide partijen in elkaars regio’s te versterken en persoonlijke contacten tussen de partijen te bevorderen,
-
-Zijn als volgt overeengekomen:
-
-## TITEL I. GRONDSLAG EN TOEPASSINGSGEBIED
+### TITEL I. GRONDSLAG EN TOEPASSINGSGEBIED
 
 ##### Artikel 1. Grondslag van de samenwerking
 
@@ -168,39 +37,39 @@ Zijn als volgt overeengekomen:
 
 1. Teneinde hun samenwerking te versterken, verbinden de partijen zich ertoe hun politieke dialoog te intensiveren en hun economische betrekkingen verder te stimuleren. Hun inspanningen richten zich met name op:
 
-- a). het bereiken van overeenstemming over een toekomstvisie voor de versterking van hun partnerschap en het ontwikkelen van gezamenlijke projecten om deze visie in praktijk te brengen;
+- a) het bereiken van overeenstemming over een toekomstvisie voor de versterking van hun partnerschap en het ontwikkelen van gezamenlijke projecten om deze visie in praktijk te brengen;
 
-- b). het voeren van regelmatige politieke dialogen;
+- b) het voeren van regelmatige politieke dialogen;
 
-- c). het bevorderen van gezamenlijke inspanningen in alle relevante regionale en internationale fora en organisaties in reactie op mondiale vraagstukken;
+- c) het bevorderen van gezamenlijke inspanningen in alle relevante regionale en internationale fora en organisaties in reactie op mondiale vraagstukken;
 
-- d). het bevorderen van economische samenwerking op gebieden van wederzijds belang, met inbegrip van wetenschappelijke en technische samenwerking, teneinde tot hun wederzijds voordeel de handel te diversifiëren;
+- d) het bevorderen van economische samenwerking op gebieden van wederzijds belang, met inbegrip van wetenschappelijke en technische samenwerking, teneinde tot hun wederzijds voordeel de handel te diversifiëren;
 
-- e). het aanmoedigen van samenwerking tussen bedrijven, door investeringen aan beide zijden te faciliteren en beter wederzijds begrip te bevorderen;
+- e) het aanmoedigen van samenwerking tussen bedrijven, door investeringen aan beide zijden te faciliteren en beter wederzijds begrip te bevorderen;
 
-- f). het versterken van de deelname van de partijen aan elkaars samenwerkingsprogramma’s, wanneer die voor de andere partij zijn opengesteld;
+- f) het versterken van de deelname van de partijen aan elkaars samenwerkingsprogramma’s, wanneer die voor de andere partij zijn opengesteld;
 
-- g). het versterken van de rol en het profiel van de partijen in de regio van de andere partij, onder andere door middel van culturele uitwisselingen, het gebruik van informatietechnologie en onderwijs;
+- g) het versterken van de rol en het profiel van de partijen in de regio van de andere partij, onder andere door middel van culturele uitwisselingen, het gebruik van informatietechnologie en onderwijs;
 
-- h). het bevorderen van interpersoonlijke contacten en wederzijds begrip.
+- h) het bevorderen van interpersoonlijke contacten en wederzijds begrip.
 
 2. De partijen komen overeen, op basis van hun hechte partnerschap en gedeelde waarden, de samenwerking en de dialoog te ontwikkelen inzake alle aangelegenheden van wederzijds belang. Hun inspanningen richten zich met name op:
 
-- a). het versterken van de politieke dialoog en de samenwerking, met name inzake mensenrechten, non-proliferatie van massavernietigingswapens, handvuurwapens en lichte wapens, bestrijding van de ernstigste misdrijven die de internationale gemeenschap aangaan en bestrijding van terrorisme;
+- a) het versterken van de politieke dialoog en de samenwerking, met name inzake mensenrechten, non-proliferatie van massavernietigingswapens, handvuurwapens en lichte wapens, bestrijding van de ernstigste misdrijven die de internationale gemeenschap aangaan en bestrijding van terrorisme;
 
-- b). het versterken van de samenwerking op alle met handel en investeringen samenhangende gebieden van wederzijds belang en het scheppen van de voorwaarden voor een duurzame toename van handel en investeringen tussen de partijen tot hun wederzijds voordeel;
+- b) het versterken van de samenwerking op alle met handel en investeringen samenhangende gebieden van wederzijds belang en het scheppen van de voorwaarden voor een duurzame toename van handel en investeringen tussen de partijen tot hun wederzijds voordeel;
 
-- c). het versterken van de samenwerking op economisch gebied, met name de dialoog inzake het economisch beleid, samenwerking tussen bedrijven, belastingheffing, douane, mededingingsbeleid, informatiemaatschappij, wetenschap en technologie; energie, vervoer, beleid inzake zeevervoer en consumentenbeleid;
+- c) het versterken van de samenwerking op economisch gebied, met name de dialoog inzake het economisch beleid, samenwerking tussen bedrijven, belastingheffing, douane, mededingingsbeleid, informatiemaatschappij, wetenschap en technologie; energie, vervoer, beleid inzake zeevervoer en consumentenbeleid;
 
-- d). het versterken van de samenwerking inzake duurzame ontwikkeling, en met name gezondheid, werkgelegenheid en sociale zaken, milieu en natuurlijke hulpbronnen, klimaatverandering, landbouw, plattelandsontwikkeling en bosbouw, zee en visserij en ontwikkelingshulp;
+- d) het versterken van de samenwerking inzake duurzame ontwikkeling, en met name gezondheid, werkgelegenheid en sociale zaken, milieu en natuurlijke hulpbronnen, klimaatverandering, landbouw, plattelandsontwikkeling en bosbouw, zee en visserij en ontwikkelingshulp;
 
-- e). het versterken van de samenwerking op het gebied van cultuur, informatie, communicatie, audiovisuele zaken en de media en het onderwijs;
+- e) het versterken van de samenwerking op het gebied van cultuur, informatie, communicatie, audiovisuele zaken en de media en het onderwijs;
 
-- f). het versterken van de samenwerking op het gebied van justitie, vrijheid en veiligheid, met name de rechtsstaat, juridische samenwerking, bescherming van persoonsgegevens, migratie, drugsbestrijding, bestrijding van georganiseerde misdaad en corruptie, bestrijding van witwassen van geld en financiering van terrorisme, bestrijding van computercriminaliteit en rechtshandhaving;
+- f) het versterken van de samenwerking op het gebied van justitie, vrijheid en veiligheid, met name de rechtsstaat, juridische samenwerking, bescherming van persoonsgegevens, migratie, drugsbestrijding, bestrijding van georganiseerde misdaad en corruptie, bestrijding van witwassen van geld en financiering van terrorisme, bestrijding van computercriminaliteit en rechtshandhaving;
 
-- g). het versterken van de samenwerking op andere gebieden van gemeenschappelijk belang, en met name toerisme, het maatschappelijk middenveld, het overheidsapparaat en statistiek.
+- g) het versterken van de samenwerking op andere gebieden van gemeenschappelijk belang, en met name toerisme, het maatschappelijk middenveld, het overheidsapparaat en statistiek.
 
-## TITEL II. POLITIEKE DIALOOG EN SAMENWERKING
+### TITEL II. POLITIEKE DIALOOG EN SAMENWERKING
 
 ##### Artikel 3. Politieke dialoog
 
@@ -208,27 +77,27 @@ Zijn als volgt overeengekomen:
 
 2. De politieke dialoog heeft tot doel:
 
-- a). het onderstrepen van de gehechtheid van de partijen aan de democratie en de eerbiediging van de rechten van de mensen en de fundamentele vrijheden;
+- a) het onderstrepen van de gehechtheid van de partijen aan de democratie en de eerbiediging van de rechten van de mensen en de fundamentele vrijheden;
 
-- b). het bevorderen van vreedzame oplossingen voor internationale of regionale conflicten en van versterking van de Verenigde Naties en andere internationale organisaties;
+- b) het bevorderen van vreedzame oplossingen voor internationale of regionale conflicten en van versterking van de Verenigde Naties en andere internationale organisaties;
 
-- c). het intensiveren van beleidsoverleg over aangelegenheden in verband met de internationale veiligheid, zoals wapenbeheersing en ontwapening, bestrijding van de verspreiding van massavernietigingswapens en de internationale overbrenging van conventionele wapens;
+- c) het intensiveren van beleidsoverleg over aangelegenheden in verband met de internationale veiligheid, zoals wapenbeheersing en ontwapening, bestrijding van de verspreiding van massavernietigingswapens en de internationale overbrenging van conventionele wapens;
 
-- d). gedachtewisseling over internationale aangelegenheden van gemeenschappelijk belang door stimulering van de uitwisseling van relevante informatie tussen de twee partijen en in internationale fora;
+- d) gedachtewisseling over internationale aangelegenheden van gemeenschappelijk belang door stimulering van de uitwisseling van relevante informatie tussen de twee partijen en in internationale fora;
 
-- e). het intensiveren van overleg over aangelegenheden van bijzonder belang voor de landen in de regio’s Azië/Stille Oceaan en Europa met het oog op de bevordering van vrede, stabiliteit en welvaart in beide gebieden.
+- e) het intensiveren van overleg over aangelegenheden van bijzonder belang voor de landen in de regio’s Azië/Stille Oceaan en Europa met het oog op de bevordering van vrede, stabiliteit en welvaart in beide gebieden.
 
 3. De dialoog tussen de partijen wordt gevoerd door middel van contacten, uitwisselingen en overleg, met name in de vorm van:
 
-- a). topontmoetingen op het niveau van staatshoofden en regeringsleiders, wanneer de partijen dat noodzakelijk achten;
+- a) topontmoetingen op het niveau van staatshoofden en regeringsleiders, wanneer de partijen dat noodzakelijk achten;
 
-- b). jaarlijks overleg op ministerieel niveau, op een door de partijen overeen te komen plaats;
+- b) jaarlijks overleg op ministerieel niveau, op een door de partijen overeen te komen plaats;
 
-- c). informatiebijeenkomsten over belangrijke buiten- en binnenlandse ontwikkelingen op het niveau van hoge ambtenaren;
+- c) informatiebijeenkomsten over belangrijke buiten- en binnenlandse ontwikkelingen op het niveau van hoge ambtenaren;
 
-- d). sectorale dialogen over aangelegenheden van gemeenschappelijk belang;
+- d) sectorale dialogen over aangelegenheden van gemeenschappelijk belang;
 
-- e). uitwisseling van delegaties tussen het Europees Parlement en de Nationale Vergadering van de Republiek Korea.
+- e) uitwisseling van delegaties tussen het Europees Parlement en de Nationale Vergadering van de Republiek Korea.
 
 ##### Artikel 4. Bestrijding van de verspreiding van massavernietigingswapens
 
@@ -238,9 +107,9 @@ Zijn als volgt overeengekomen:
 
 3. De partijen komen bovendien overeen samen te werken en bij te dragen aan de strijd tegen massavernietigingswapens en de overbrengingsmiddelen daarvoor, door:
 
-- a). maatregelen te nemen, gericht op ondertekening of bekrachtiging van of toetreding tot alle andere internationale instrumenten ter zake, naar gelang van het geval, en op de volledige toepassing daarvan;
+- a) maatregelen te nemen, gericht op ondertekening of bekrachtiging van of toetreding tot alle andere internationale instrumenten ter zake, naar gelang van het geval, en op de volledige toepassing daarvan;
 
-- b). een effectief stelsel van nationale uitvoerbeperkingen tot stand te brengen teneinde de verspreiding van massavernietigingswapens en aanverwante goederen en technologieën te voorkomen, met inbegrip van controles van de eindgebruiker en passende civielrechtelijke en strafrechtelijke sancties op overtreding van de uitvoerbeperkingen.
+- b) een effectief stelsel van nationale uitvoerbeperkingen tot stand te brengen teneinde de verspreiding van massavernietigingswapens en aanverwante goederen en technologieën te voorkomen, met inbegrip van controles van de eindgebruiker en passende civielrechtelijke en strafrechtelijke sancties op overtreding van de uitvoerbeperkingen.
 
 4. De partijen komen overeen dat hun politieke dialoog dient ter ondersteuning en consolidatie van deze elementen.
 
@@ -264,23 +133,23 @@ Zijn als volgt overeengekomen:
 
 2. De partijen doen dit in het bijzonder:
 
-- a). in het kader van de toepassing van de resoluties van de VN-Veiligheidsraad en de nakoming van hun respectieve verplichtingen op grond van andere relevante internationale verdragen en instrumenten;
+- a) in het kader van de toepassing van de resoluties van de VN-Veiligheidsraad en de nakoming van hun respectieve verplichtingen op grond van andere relevante internationale verdragen en instrumenten;
 
-- b). door informatie uit te wisselen over terroristische groeperingen en de netwerken die hen ondersteunen, overeenkomstig het nationale en internationale recht;
+- b) door informatie uit te wisselen over terroristische groeperingen en de netwerken die hen ondersteunen, overeenkomstig het nationale en internationale recht;
 
-- c). door inzichten uit te wisselen over methoden om het terrorisme te bestrijden, onder meer op technisch gebied en wat betreft opleiding, en door ervaringen uit te wisselen met betrekking tot het voorkomen van terrorisme;
+- c) door inzichten uit te wisselen over methoden om het terrorisme te bestrijden, onder meer op technisch gebied en wat betreft opleiding, en door ervaringen uit te wisselen met betrekking tot het voorkomen van terrorisme;
 
-- d). door samen te werken ter verdieping van de internationale consensus over de bestrijding van terrorisme, met inbegrip van de juridische definitie van terroristische daden, en met name door te streven naar overeenstemming over het Alomvattend Verdrag betreffende internationaal terrorisme;
+- d) door samen te werken ter verdieping van de internationale consensus over de bestrijding van terrorisme, met inbegrip van de juridische definitie van terroristische daden, en met name door te streven naar overeenstemming over het Alomvattend Verdrag betreffende internationaal terrorisme;
 
-- e). door goede praktijken uit te wisselen betreffende de bescherming van de mensenrechten in het kader van de strijd tegen het terrorisme.
+- e) door goede praktijken uit te wisselen betreffende de bescherming van de mensenrechten in het kader van de strijd tegen het terrorisme.
 
-## TITEL III. SAMENWERKING IN REGIONALE EN INTERNATIONALE ORGANISATIES
+### TITEL III. SAMENWERKING IN REGIONALE EN INTERNATIONALE ORGANISATIES
 
 ##### Artikel 8. Samenwerking in regionale en internationale organisaties
 
 De partijen werken samen en wisselen standpunten uit in regionale en internationale fora en organisaties zoals de Verenigde Naties, de Internationale Arbeidsorganisatie (ILO), de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), de WTO, de Ontmoeting Azië–Europa (ASEM) en het Regionale Forum van de ASEAN (ARF).
 
-## TITEL IV. SAMENWERKING OP HET GEBIED VAN ECONOMISCHE ONTWIKKELING
+### TITEL IV. SAMENWERKING OP HET GEBIED VAN ECONOMISCHE ONTWIKKELING
 
 ##### Artikel 9. Handel en investeringen
 
@@ -300,15 +169,15 @@ De partijen werken samen en wisselen standpunten uit in regionale en internation
 
 1. De partijen komen overeen, rekening houdend met hun respectieve economische beleidsmaatregelen en doelstellingen, de samenwerking inzake het industriële beleid te bevorderen op alle terreinen die zij passend achten met het oog op met name de verbetering van het concurrentievermogen van het midden- en kleinbedrijf (mkb), en wel door middel van onder meer:
 
-- a). het uitwisselen van gegevens over en ervaringen met het scheppen van kadervoorwaarden voor het midden- en kleinbedrijf om het concurrentievermogen te verbeteren en inzake de procedures voor het oprichten van mkb-ondernemingen;
+- a) het uitwisselen van gegevens over en ervaringen met het scheppen van kadervoorwaarden voor het midden- en kleinbedrijf om het concurrentievermogen te verbeteren en inzake de procedures voor het oprichten van mkb-ondernemingen;
 
-- b). het bevorderen van contacten tussen bedrijven, het stimuleren van gezamenlijke investeringen en het tot stand brengen van gezamenlijke ondernemingen en informatienetwerken, met name door middel van bestaande horizontale programma’s;
+- b) het bevorderen van contacten tussen bedrijven, het stimuleren van gezamenlijke investeringen en het tot stand brengen van gezamenlijke ondernemingen en informatienetwerken, met name door middel van bestaande horizontale programma’s;
 
-- c). het vergemakkelijken van de toegang tot kredieten en afzetmogelijkheden, het verstrekken van informatie en het stimuleren van innovatie;
+- c) het vergemakkelijken van de toegang tot kredieten en afzetmogelijkheden, het verstrekken van informatie en het stimuleren van innovatie;
 
-- d). het vergemakkelijken van de activiteiten van het mkb aan beide zijden;
+- d) het vergemakkelijken van de activiteiten van het mkb aan beide zijden;
 
-- e). het bevorderen van maatschappelijk verantwoord ondernemen en het aanmoedigen van verantwoordelijke zakelijke praktijken, waaronder duurzame consumptie en productie.
+- e) het bevorderen van maatschappelijk verantwoord ondernemen en het aanmoedigen van verantwoordelijke zakelijke praktijken, waaronder duurzame consumptie en productie.
 
 2. De partijen faciliteren de relevante samenwerkingsactiviteiten die door de particuliere sector van beide partijen worden ontwikkeld.
 
@@ -326,9 +195,9 @@ De partijen werken op bilaterale en multilaterale basis samen op douanegebied. D
 
 2. Bij het streven naar het in lid 1 van dit artikel genoemde doel en in overeenstemming met de Overeenkomst tussen de Europese Gemeenschap en de regering van de Republiek Korea betreffende samenwerking ter bestrijding van concurrentieverstorende activiteiten werken de partijen samen:
 
-- a). door de noodzaak van de mededingingswetgeving en de mededingingsautoriteiten te erkennen en te streven naar proactieve toepassing van de wet om een eerlijk mededingingsklimaat te scheppen;
+- a) door de noodzaak van de mededingingswetgeving en de mededingingsautoriteiten te erkennen en te streven naar proactieve toepassing van de wet om een eerlijk mededingingsklimaat te scheppen;
 
-- b). door informatie te delen en de samenwerking tussen de mededingingsautoriteiten te bevorderen.
+- b) door informatie te delen en de samenwerking tussen de mededingingsautoriteiten te bevorderen.
 
 ##### Artikel 15. Informatiemaatschappij
 
@@ -336,15 +205,15 @@ De partijen werken op bilaterale en multilaterale basis samen op douanegebied. D
 
 2. De samenwerking op dit gebied richt zich met name op:
 
-- a). uitwisseling van inzichten over de verschillende aspecten van de informatiemaatschappij, met name beleid en regelgeving voor elektronische communicatie, waaronder universele dienstverlening, vergunningen en algemene machtigingen, bescherming van de persoonlijke levenssfeer en persoonsgegevens, en onafhankelijkheid en efficiëntie van de regulator;
+- a) uitwisseling van inzichten over de verschillende aspecten van de informatiemaatschappij, met name beleid en regelgeving voor elektronische communicatie, waaronder universele dienstverlening, vergunningen en algemene machtigingen, bescherming van de persoonlijke levenssfeer en persoonsgegevens, en onafhankelijkheid en efficiëntie van de regulator;
 
-- b). koppeling en interoperabiliteit van onderzoeksnetwerken en diensten, ook in regionaal verband;
+- b) koppeling en interoperabiliteit van onderzoeksnetwerken en diensten, ook in regionaal verband;
 
-- c). normalisatie en verspreiding van nieuwe informatie- en communicatietechnologieën;
+- c) normalisatie en verspreiding van nieuwe informatie- en communicatietechnologieën;
 
-- d). stimulering van samenwerking tussen de partijen inzake onderzoek op het gebied van informatie- en communicatietechnologieën;
+- d) stimulering van samenwerking tussen de partijen inzake onderzoek op het gebied van informatie- en communicatietechnologieën;
 
-- e). beveiligingsvraagstukken en aspecten van informatie- en communicatietechnologieën, waaronder bevordering van de veiligheid online, bestrijding van computercriminaliteit en van het misbruik van informatietechnologie en alle vormen van elektronische media.
+- e) beveiligingsvraagstukken en aspecten van informatie- en communicatietechnologieën, waaronder bevordering van de veiligheid online, bestrijding van computercriminaliteit en van het misbruik van informatietechnologie en alle vormen van elektronische media.
 
 3. De samenwerking tussen bedrijven wordt aangemoedigd.
 
@@ -356,29 +225,29 @@ De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op 
 
 1. De partijen erkennen het belang van de energiesector voor economische en sociale ontwikkeling en streven ernaar, binnen de grenzen van hun respectieve bevoegdheden, de samenwerking op dit gebied te bevorderen met het oog op:
 
-- a). de diversifiëring van de energievoorziening teneinde de energiezekerheid te versterken en nieuwe, duurzame, innovatieve en hernieuwbare energievormen te ontwikkelen, zoals biobrandstoffen en biomassa, wind- en zonne-energie en waterkracht;
+- a) de diversifiëring van de energievoorziening teneinde de energiezekerheid te versterken en nieuwe, duurzame, innovatieve en hernieuwbare energievormen te ontwikkelen, zoals biobrandstoffen en biomassa, wind- en zonne-energie en waterkracht;
 
-- b). de ondersteuning van de ontwikkeling van beleid om hernieuwbare energie concurrerender te maken;
+- b) de ondersteuning van de ontwikkeling van beleid om hernieuwbare energie concurrerender te maken;
 
-- c). het komen tot een rationeel energiegebruik, met bijdragen van zowel producenten als consumenten, door energie-efficiëntie te bevorderen bij de productie, het vervoer, de distributie en het eindgebruik van energie;
+- c) het komen tot een rationeel energiegebruik, met bijdragen van zowel producenten als consumenten, door energie-efficiëntie te bevorderen bij de productie, het vervoer, de distributie en het eindgebruik van energie;
 
-- d). het bevorderen van de overdracht van technologie die op duurzame energieproductie en energie-efficiëntie is gericht;
+- d) het bevorderen van de overdracht van technologie die op duurzame energieproductie en energie-efficiëntie is gericht;
 
-- e). het bevorderen van capaciteitsopbouw en facilitering van investeringen op het gebied van energie, rekening houdende met de beginselen van transparantie, non-discriminatie en marktcompatibiliteit;
+- e) het bevorderen van capaciteitsopbouw en facilitering van investeringen op het gebied van energie, rekening houdende met de beginselen van transparantie, non-discriminatie en marktcompatibiliteit;
 
-- f). bevordering van concurrentie in de energiemarkt;
+- f) bevordering van concurrentie in de energiemarkt;
 
-- g). uitwisseling van inzichten over de mondiale energiemarkten, met inbegrip van de effecten voor ontwikkelingslanden.
+- g) uitwisseling van inzichten over de mondiale energiemarkten, met inbegrip van de effecten voor ontwikkelingslanden.
 
 2. Met dit doel voor ogen werken de partijen op passende wijze samen door onderstaande samenwerkingsactiviteiten te ondernemen, met name in bestaande regionale en internationale verbanden:
 
-- a). samenwerking inzake beleidsformulering op energiegebied en uitwisseling van informatie die voor het energiebeleid relevant is;
+- a) samenwerking inzake beleidsformulering op energiegebied en uitwisseling van informatie die voor het energiebeleid relevant is;
 
-- b). uitwisseling van informatie over status en ontwikkelingen in de energiemarkt, de industrie en de technologie;
+- b) uitwisseling van informatie over status en ontwikkelingen in de energiemarkt, de industrie en de technologie;
 
-- c). uitvoering van gemeenschappelijke studies en onderzoek;
+- c) uitvoering van gemeenschappelijke studies en onderzoek;
 
-- d). stimulering van handel en investeringen in de energiesector.
+- d) stimulering van handel en investeringen in de energiesector.
 
 ##### Artikel 18. Vervoer
 
@@ -386,15 +255,15 @@ De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op 
 
 2. De samenwerking tussen de partijen op dit gebied richt zich op bevordering van:
 
-- a). informatie-uitwisseling over hun respectieve vervoersbeleid en -praktijken, in het bijzonder over het vervoer in steden, op het platteland, over de binnenwateren, door de lucht en over zee, alsmede de logistiek daarvan, en de koppeling en interoperabiliteit van multimodale vervoersnetwerken, alsook over het beheer van wegen, spoorwegen, havens en luchthavens;
+- a) informatie-uitwisseling over hun respectieve vervoersbeleid en -praktijken, in het bijzonder over het vervoer in steden, op het platteland, over de binnenwateren, door de lucht en over zee, alsmede de logistiek daarvan, en de koppeling en interoperabiliteit van multimodale vervoersnetwerken, alsook over het beheer van wegen, spoorwegen, havens en luchthavens;
 
-- b). een dialoog en gezamenlijke activiteiten op het gebied van het luchtvervoer op gebieden van wederzijds belang, met inbegrip van de overeenkomst inzake bepaalde aspecten van luchtdiensten en het onderzoeken van mogelijkheden voor verdere ontwikkeling van de betrekkingen, alsmede samenwerking op technisch en regelgevingsgebied betreffende onder meer de veiligheid van de luchtvaart, beveiliging, milieu, luchtverkeerscontrole, de toepassing van de mededingingswetgeving en de economische regulering van het luchtvervoer, teneinde convergentie van de regelgeving te bevorderen en hindernissen voor het handelsverkeer weg te nemen. De partijen zullen op deze basis zoeken naar mogelijkheden voor bredere samenwerking op het gebied van de burgerluchtvaart;
+- b) een dialoog en gezamenlijke activiteiten op het gebied van het luchtvervoer op gebieden van wederzijds belang, met inbegrip van de overeenkomst inzake bepaalde aspecten van luchtdiensten en het onderzoeken van mogelijkheden voor verdere ontwikkeling van de betrekkingen, alsmede samenwerking op technisch en regelgevingsgebied betreffende onder meer de veiligheid van de luchtvaart, beveiliging, milieu, luchtverkeerscontrole, de toepassing van de mededingingswetgeving en de economische regulering van het luchtvervoer, teneinde convergentie van de regelgeving te bevorderen en hindernissen voor het handelsverkeer weg te nemen. De partijen zullen op deze basis zoeken naar mogelijkheden voor bredere samenwerking op het gebied van de burgerluchtvaart;
 
-- c). samenwerking ter vermindering van de uitstoot van broeikasgassen door de vervoerssector;
+- c) samenwerking ter vermindering van de uitstoot van broeikasgassen door de vervoerssector;
 
-- d). samenwerking inzake internationale vervoersfora;
+- d) samenwerking inzake internationale vervoersfora;
 
-- e). invoering van normen voor veiligheid en beveiliging en ter voorkoming van vervuiling, met name wat betreft het zeevervoer en de luchtvaart, overeenkomstig de relevante internationale overeenkomsten die op beide partijen van toepassing zijn, met inbegrip van samenwerking binnen de desbetreffende internationale fora met het oog op betere naleving van de internationale regelgeving.
+- e) invoering van normen voor veiligheid en beveiliging en ter voorkoming van vervuiling, met name wat betreft het zeevervoer en de luchtvaart, overeenkomstig de relevante internationale overeenkomsten die op beide partijen van toepassing zijn, met inbegrip van samenwerking binnen de desbetreffende internationale fora met het oog op betere naleving van de internationale regelgeving.
 
 3. Op het gebied van civiele mondiale satellietnavigatie werken de partijen samen in overeenstemming met de Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds.
 
@@ -404,13 +273,13 @@ De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op 
 
 2. De partijen verbinden zich er met het oog op de in lid 1 genoemde doelstelling toe:
 
-- a). geen bepalingen inzake vrachtverdeling op te nemen in toekomstige bilaterale overeenkomsten met derde landen die betrekking hebben op zeevervoersdiensten, met inbegrip van het handelsverkeer in droge en vloeibare bulkgoederen en van lijnvaartmaatschappijen, en dergelijke vrachtverdelingsregelingen niet toe te passen indien zij in eerdere bilaterale overeenkomsten voorkomen;
+- a) geen bepalingen inzake vrachtverdeling op te nemen in toekomstige bilaterale overeenkomsten met derde landen die betrekking hebben op zeevervoersdiensten, met inbegrip van het handelsverkeer in droge en vloeibare bulkgoederen en van lijnvaartmaatschappijen, en dergelijke vrachtverdelingsregelingen niet toe te passen indien zij in eerdere bilaterale overeenkomsten voorkomen;
 
-- b). vanaf de inwerkingtreding van deze overeenkomst af te zien van de uitvoering van administratieve, technische en juridische maatregelen die zouden kunnen leiden tot discriminatie tussen eigen onderdanen of ondernemingen en die van de andere partij bij het verrichten van diensten in het internationaal zeevervoer;
+- b) vanaf de inwerkingtreding van deze overeenkomst af te zien van de uitvoering van administratieve, technische en juridische maatregelen die zouden kunnen leiden tot discriminatie tussen eigen onderdanen of ondernemingen en die van de andere partij bij het verrichten van diensten in het internationaal zeevervoer;
 
-- c). aan schepen die door onderdanen of ondernemingen van de andere partij worden geëxploiteerd geen minder gunstige behandeling te verlenen dan aan hun eigen schepen, ten aanzien van de toegang tot voor het internationale handelsverkeer opengestelde havens, het gebruik van de infrastructuur en van de maritieme hulpdiensten van de havens en de daarmee verband houdende vergoedingen en kosten, de douanefaciliteiten en de toewijzing van aanlegplaatsen en faciliteiten voor het laden en lossen;
+- c) aan schepen die door onderdanen of ondernemingen van de andere partij worden geëxploiteerd geen minder gunstige behandeling te verlenen dan aan hun eigen schepen, ten aanzien van de toegang tot voor het internationale handelsverkeer opengestelde havens, het gebruik van de infrastructuur en van de maritieme hulpdiensten van de havens en de daarmee verband houdende vergoedingen en kosten, de douanefaciliteiten en de toewijzing van aanlegplaatsen en faciliteiten voor het laden en lossen;
 
-- d). toe te laten dat scheepvaartondernemingen van de andere partij zich op hun grondgebied vestigen voor de uitoefening van hun scheepvaartactiviteiten, onder voorwaarden voor de vestiging en de uitoefening van hun activiteiten die niet minder gunstig zijn dan die welke gelden voor hun eigen ondernemingen of voor filialen of vestigingen van ondernemingen uit derde landen, indien die gunstiger zijn.
+- d) toe te laten dat scheepvaartondernemingen van de andere partij zich op hun grondgebied vestigen voor de uitoefening van hun scheepvaartactiviteiten, onder voorwaarden voor de vestiging en de uitoefening van hun activiteiten die niet minder gunstig zijn dan die welke gelden voor hun eigen ondernemingen of voor filialen of vestigingen van ondernemingen uit derde landen, indien die gunstiger zijn.
 
 3. Voor de toepassing van dit artikel wordt onder toegang tot de internationale maritieme markt mede verstaan dat internationale maritieme vervoersondernemingen van beide partijen het recht hebben om vervoersdiensten van deur tot deur aan te bieden die ten dele over zee plaatsvinden, en dat zij daartoe rechtstreeks overeenkomsten mogen sluiten met lokale niet-maritieme vervoersondernemingen op het grondgebied van de andere partij, behoudens nationaliteitsbeperkingen betreffende het vervoer van goederen en personen met andere vervoermiddelen.
 
@@ -424,13 +293,13 @@ De partijen stimuleren, ontwikkelen en faciliteren samenwerkingsactiviteiten op 
 
 De partijen streven naar samenwerking op het gebied van het consumentenbeleid, teneinde een hoog niveau van bescherming van de consument tot stand te brengen. De partijen komen overeen dat de samenwerking op dit gebied voor zover mogelijk kan inhouden:
 
-- a). het versterken van de onderlinge compatibiliteit van de consumentenwetgeving, teneinde handelsbelemmeringen te voorkomen, waarbij tegelijk een hoog niveau van bescherming van de consument wordt gegarandeerd;
+- a) het versterken van de onderlinge compatibiliteit van de consumentenwetgeving, teneinde handelsbelemmeringen te voorkomen, waarbij tegelijk een hoog niveau van bescherming van de consument wordt gegarandeerd;
 
-- b). het bevorderen van de uitwisseling van informatie over systemen voor consumentenbescherming, met inbegrip van de consumentenwetgeving, veiligheid van consumptiegoederen, handhaving van de consumentenwetgeving, consumenteneducatie en mondigheid van de consument en verhaalmogelijkheden voor de consument.
+- b) het bevorderen van de uitwisseling van informatie over systemen voor consumentenbescherming, met inbegrip van de consumentenwetgeving, veiligheid van consumptiegoederen, handhaving van de consumentenwetgeving, consumenteneducatie en mondigheid van de consument en verhaalmogelijkheden voor de consument.
 
-- c). het bevorderen van de oprichting van onafhankelijke consumentenorganisaties en contacten tussen vertegenwoordigers van consumentenbelangen.
+- c) het bevorderen van de oprichting van onafhankelijke consumentenorganisaties en contacten tussen vertegenwoordigers van consumentenbelangen.
 
-## TITEL V. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING
+### TITEL V. SAMENWERKING OP HET GEBIED VAN DUURZAME ONTWIKKELING
 
 ##### Artikel 21. Gezondheid
 
@@ -438,19 +307,19 @@ De partijen streven naar samenwerking op het gebied van het consumentenbeleid, t
 
 2. De partijen streven ernaar onder andere de volgende vormen van informatie-uitwisseling en wederzijdse samenwerking te bevorderen:
 
-- a). informatie-uitwisseling over de bewaking van infectieziekten, waaronder pandemische influenza, en over maatregelen voor vroegtijdige waarschuwing en bestrijding;
+- a) informatie-uitwisseling over de bewaking van infectieziekten, waaronder pandemische influenza, en over maatregelen voor vroegtijdige waarschuwing en bestrijding;
 
-- b). informatie-uitwisseling over gezondheidsstrategieën en volksgezondheidsplannen;
+- b) informatie-uitwisseling over gezondheidsstrategieën en volksgezondheidsplannen;
 
-- c). informatie-uitwisseling over gezondheidsbevorderend beleid, zoals antirookcampagnes, obesitaspreventie en ziektebestrijding;
+- c) informatie-uitwisseling over gezondheidsbevorderend beleid, zoals antirookcampagnes, obesitaspreventie en ziektebestrijding;
 
-- d). informatie-uitwisseling, voor zover mogelijk, over de veiligheid en goedkeuring van geneesmiddelen;
+- d) informatie-uitwisseling, voor zover mogelijk, over de veiligheid en goedkeuring van geneesmiddelen;
 
-- e). informatie-uitwisseling, voor zover mogelijk, en gezamenlijk onderzoek op het gebied van voedselveiligheid, zoals de wet- en regelgeving inzake levensmiddelen, alarmeringsmaatregelen enz.;
+- e) informatie-uitwisseling, voor zover mogelijk, en gezamenlijk onderzoek op het gebied van voedselveiligheid, zoals de wet- en regelgeving inzake levensmiddelen, alarmeringsmaatregelen enz.;
 
-- f). samenwerking inzake aspecten van onderzoek en ontwikkeling, zoals geavanceerde therapieën en innovatieve weesgeneesmiddelen;
+- f) samenwerking inzake aspecten van onderzoek en ontwikkeling, zoals geavanceerde therapieën en innovatieve weesgeneesmiddelen;
 
-- g). informatie-uitwisseling en samenwerking inzake e-gezondheidszorgbeleid.
+- g) informatie-uitwisseling en samenwerking inzake e-gezondheidszorgbeleid.
 
 3. De partijen streven ernaar de tenuitvoerlegging van internationale overeenkomsten inzake gezondheid te bevorderen, zoals de Internationale Gezondheidsregeling en het [Kaderverdrag inzake tabaksontmoediging](https://wetten.overheid.nl/jci1.3:c:BWBV0001706).
 
@@ -470,23 +339,23 @@ De partijen streven naar samenwerking op het gebied van het consumentenbeleid, t
 
 2. De partijen streven naar voortzetting en versterking van hun samenwerking inzake de bescherming van het milieu, onder andere in regionaal verband, en met name ten aanzien van:
 
-- a). klimaatverandering en energie-efficiëntie;
+- a) klimaatverandering en energie-efficiëntie;
 
-- b). milieubewustzijn;
+- b) milieubewustzijn;
 
-- c). deelname aan en uitvoering van multilaterale milieuverdragen, onder meer op het gebied van biodiversiteit, bioveiligheid en de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten](https://wetten.overheid.nl/jci1.3:c:BWBV0003833);
+- c) deelname aan en uitvoering van multilaterale milieuverdragen, onder meer op het gebied van biodiversiteit, bioveiligheid en de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten](https://wetten.overheid.nl/jci1.3:c:BWBV0003833);
 
-- d). bevordering van milieutechnologieën, -producten en -diensten, waaronder milieubeheersystemen en milieukeursystemen;
+- d) bevordering van milieutechnologieën, -producten en -diensten, waaronder milieubeheersystemen en milieukeursystemen;
 
-- e). voorkomen van illegaal grensoverschrijdend verkeer van gevaarlijke stoffen, gevaarlijk afval en andere afvalstoffen;
+- e) voorkomen van illegaal grensoverschrijdend verkeer van gevaarlijke stoffen, gevaarlijk afval en andere afvalstoffen;
 
-- f). kust- en zeemilieu, behoud, tegengaan van vervuiling en schade;
+- f) kust- en zeemilieu, behoud, tegengaan van vervuiling en schade;
 
-- g). lokale betrokkenheid bij milieubescherming als wezenlijk onderdeel van duurzame ontwikkeling;
+- g) lokale betrokkenheid bij milieubescherming als wezenlijk onderdeel van duurzame ontwikkeling;
 
-- h). bodem- en grondbeheer;
+- h) bodem- en grondbeheer;
 
-- i). de uitwisseling van informatie, deskundigheid en praktijken.
+- i) de uitwisseling van informatie, deskundigheid en praktijken.
 
 3. Waar van toepassing wordt rekening gehouden met de resultaten van de wereldtop inzake duurzame ontwikkeling en de uitvoering van de relevante multilaterale milieuovereenkomsten.
 
@@ -494,19 +363,19 @@ De partijen streven naar samenwerking op het gebied van het consumentenbeleid, t
 
 1. De partijen erkennen de gemeenschappelijke mondiale dreiging van klimaatverandering en de noodzaak actie te ondernemen om emissies te verminderen, teneinde de concentraties van broeikasgassen in de atmosfeer te stabiliseren op een niveau waarbij gevaarlijke antropogene verstoring van het klimaatsysteem wordt voorkomen. Binnen de grenzen van hun respectieve bevoegdheden en zonder afbreuk te doen aan de besprekingen over klimaatverandering in andere fora, zoals het [kaderverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) (UNFCCC), verbinden de partijen zich ertoe de samenwerking op dit gebied te intensiveren. Deze samenwerking strekt ertoe:
 
-- a). klimaatverandering te bestrijden, met als algemeen doel snel een koolstofarme samenleving tot stand te brengen door middel van voor elk land passende schadebeperkings- en aanpassingsmaatregelen;
+- a) klimaatverandering te bestrijden, met als algemeen doel snel een koolstofarme samenleving tot stand te brengen door middel van voor elk land passende schadebeperkings- en aanpassingsmaatregelen;
 
-- b). efficiënt gebruik van hulpbronnen te stimuleren, onder meer door op brede basis gebruik te maken van de beste beschikbare en economisch haalbare koolstofarme technologieën en normen voor schadebeperking en aanpassing;
+- b) efficiënt gebruik van hulpbronnen te stimuleren, onder meer door op brede basis gebruik te maken van de beste beschikbare en economisch haalbare koolstofarme technologieën en normen voor schadebeperking en aanpassing;
 
-- c). ervaring en informatie uit te wisselen inzake de voordelen en de architectuur van handelsregelingen;
+- c) ervaring en informatie uit te wisselen inzake de voordelen en de architectuur van handelsregelingen;
 
-- d). publieke en particuliere financieringsinstrumenten te verbeteren, met inbegrip van marktmechanismen en publiek-private partnerschappen waarmee de strijd tegen klimaatverandering doeltreffend kan worden gesteund;
+- d) publieke en particuliere financieringsinstrumenten te verbeteren, met inbegrip van marktmechanismen en publiek-private partnerschappen waarmee de strijd tegen klimaatverandering doeltreffend kan worden gesteund;
 
-- e). samen te werken inzake onderzoek, ontwikkeling, verspreiding, invoering en overdracht van koolstofarme technologieën, teneinde de emissie van broeikasgassen te verminderen met instandhouding van de economische groei;
+- e) samen te werken inzake onderzoek, ontwikkeling, verspreiding, invoering en overdracht van koolstofarme technologieën, teneinde de emissie van broeikasgassen te verminderen met instandhouding van de economische groei;
 
-- f). waar nuttig ervaring en deskundigheid uit te wisselen op het gebied van toezicht op en analyse van de effecten van broeikasgassen en de ontwikkeling van schadebeperkings- en aanpassingsprogramma’s;
+- f) waar nuttig ervaring en deskundigheid uit te wisselen op het gebied van toezicht op en analyse van de effecten van broeikasgassen en de ontwikkeling van schadebeperkings- en aanpassingsprogramma’s;
 
-- g). waar nuttig schadebeperkings- en aanpassingsmaatregelen van ontwikkelingslanden te steunen, onder meer via de flexibele mechanismen van het [Kyotoprotocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001538).
+- g) waar nuttig schadebeperkings- en aanpassingsmaatregelen van ontwikkelingslanden te steunen, onder meer via de flexibele mechanismen van het [Kyotoprotocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001538).
 
 2. De partijen komen overeen met het oog hierop de dialoog en de samenwerking op politiek, technisch en beleidsniveau te intensiveren.
 
@@ -514,33 +383,33 @@ De partijen streven naar samenwerking op het gebied van het consumentenbeleid, t
 
 De partijen komen overeen samenwerking aan te moedigen op het gebied van landbouw, plattelandsontwikkeling en bosbouw. De partijen wisselen informatie uit en ontwikkelen de samenwerking op het gebied van met name:
 
-- a). het landbouw- en bosbouwbeleid en de internationale landbouw- en bosbouwvooruitzichten in het algemeen;
+- a) het landbouw- en bosbouwbeleid en de internationale landbouw- en bosbouwvooruitzichten in het algemeen;
 
-- b). de registratie en bescherming van geografische aanduidingen;
+- b) de registratie en bescherming van geografische aanduidingen;
 
-- c). biologische productie;
+- c) biologische productie;
 
-- d). onderzoek op het gebied van landbouw en bosbouw;
+- d) onderzoek op het gebied van landbouw en bosbouw;
 
-- e). ontwikkelingsbeleid voor plattelandsgebieden en met name de diversifiëring en herstructurering van landbouwsectoren;
+- e) ontwikkelingsbeleid voor plattelandsgebieden en met name de diversifiëring en herstructurering van landbouwsectoren;
 
-- f). duurzame landbouw, bosbouw en integratie van milieuvereisten in het landbouwbeleid;
+- f) duurzame landbouw, bosbouw en integratie van milieuvereisten in het landbouwbeleid;
 
-- g). koppelingen tussen landbouw, bosbouw en milieu en het beleid voor de ontwikkeling van plattelandsgebieden;
+- g) koppelingen tussen landbouw, bosbouw en milieu en het beleid voor de ontwikkeling van plattelandsgebieden;
 
-- h). promotieactiviteiten voor voedingsproducten uit de landbouw;
+- h) promotieactiviteiten voor voedingsproducten uit de landbouw;
 
-- i). duurzaam bosbeheer, ter voorkoming van ontbossing en ter aanmoediging van de aanplant van nieuwe bossen, met passende inachtneming van de belangen van de ontwikkelingslanden waaruit hout afkomstig is.
+- i) duurzaam bosbeheer, ter voorkoming van ontbossing en ter aanmoediging van de aanplant van nieuwe bossen, met passende inachtneming van de belangen van de ontwikkelingslanden waaruit hout afkomstig is.
 
 ##### Artikel 26. Zee en visserij
 
 De partijen stimuleren de samenwerking op het gebied van de zee en de visserij op bilateraal en multilateraal niveau, met name om duurzame en verantwoorde ontwikkeling en beheer van de zee en de visserij te bevorderen. De samenwerking kan onder meer omvatten:
 
-- a). de uitwisseling van informatie;
+- a) de uitwisseling van informatie;
 
-- b). steun voor duurzaam en verantwoord zee- en visserijbeleid op lange termijn, waaronder behoud en beheer van kust- en mariene hulpbronnen; en
+- b) steun voor duurzaam en verantwoord zee- en visserijbeleid op lange termijn, waaronder behoud en beheer van kust- en mariene hulpbronnen; en
 
-- c). bevordering van de inspanningen ter bestrijding van illegale, niet-gemelde en niet-gereguleerde visserijactiviteiten.
+- c) bevordering van de inspanningen ter bestrijding van illegale, niet-gemelde en niet-gereguleerde visserijactiviteiten.
 
 ##### Artikel 27. Ontwikkelingshulp
 
@@ -548,7 +417,7 @@ De partijen stimuleren de samenwerking op het gebied van de zee en de visserij o
 
 2. De partijen bevestigen opnieuw hun gehechtheid aan de Verklaring van Parijs van 2005 inzake de doeltreffendheid van hulp en komen overeen hun samenwerking te versterken om betere resultaten op het gebied van ontwikkeling te verwezenlijken.
 
-## TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERWIJS EN CULTUUR
+### TITEL VI. SAMENWERKING OP HET GEBIED VAN ONDERWIJS EN CULTUUR
 
 ##### Artikel 28. Samenwerking op het gebied van cultuur, informatie, communicatie, audiovisuele aangelegenheden en de media
 
@@ -566,15 +435,15 @@ De partijen stimuleren de samenwerking op het gebied van de zee en de visserij o
 
 2. Overeenkomstig hun wederzijdse belangen en de doelstellingen van hun respectieve onderwijsbeleid verbinden de partijen zich ertoe gezamenlijk steun te verlenen aan passende samenwerkingsactiviteiten op het gebied van onderwijs, opleiding en jeugdzaken, met bijzondere nadruk op het hoger onderwijs. De samenwerking kan onder meer de vorm aannemen van:
 
-- a). steun voor gezamenlijke samenwerkingsprojecten van onderwijs- en opleidingsinstellingen in de Europese Unie en de Republiek Korea, met als doel leerplanontwikkeling, gezamenlijke studieprogramma’s en de mobiliteit van studenten te bevorderen;
+- a) steun voor gezamenlijke samenwerkingsprojecten van onderwijs- en opleidingsinstellingen in de Europese Unie en de Republiek Korea, met als doel leerplanontwikkeling, gezamenlijke studieprogramma’s en de mobiliteit van studenten te bevorderen;
 
-- b). dialoog, studies en uitwisseling van informatie en knowhow op het gebied van het onderwijsbeleid;
+- b) dialoog, studies en uitwisseling van informatie en knowhow op het gebied van het onderwijsbeleid;
 
-- c). bevordering van de uitwisseling van studenten, academisch en administratief personeel van instellingen voor hoger onderwijs en jeugdwerkers, onder meer in het kader van het Erasmus Mundusprogramma;
+- c) bevordering van de uitwisseling van studenten, academisch en administratief personeel van instellingen voor hoger onderwijs en jeugdwerkers, onder meer in het kader van het Erasmus Mundusprogramma;
 
-- d). samenwerking in onderwijssectoren van gemeenschappelijk belang.
+- d) samenwerking in onderwijssectoren van gemeenschappelijk belang.
 
-## TITEL VII. SAMENWERKING OP HET GEBIED VAN JUSTITIE, VRIJHEID EN VEILIGHEID
+### TITEL VII. SAMENWERKING OP HET GEBIED VAN JUSTITIE, VRIJHEID EN VEILIGHEID
 
 ##### Artikel 30. Rechtsstaat
 
@@ -628,7 +497,7 @@ De partijen komen overeen samen te werken aan en bij te dragen tot de bestrijdin
 
 De partijen komen overeen samenwerking tot stand te brengen tussen autoriteiten, instanties en diensten op het gebied van wetshandhaving en bij te dragen tot het verstoren en onschadelijk maken van grensoverschrijdende misdaaddreigingen die beide partijen met elkaar gemeen hebben. De samenwerking tussen autoriteiten, instanties en diensten op het gebied van wetshandhaving kan de vorm aannemen van wederzijdse bijstand bij onderzoeken, uitwisseling van onderzoekstechnieken, gezamenlijke opleiding en bijscholing van wetshandhavingspersoneel en alle andere gezamenlijke activiteiten en bijstand, in onderling overleg tussen de partijen.
 
-## TITEL VIII. SAMENWERKING OP ANDERE GEBIEDEN
+### TITEL VIII. SAMENWERKING OP ANDERE GEBIEDEN
 
 ##### Artikel 39. Toerisme
 
@@ -636,15 +505,15 @@ De partijen verbinden zich ertoe samenwerking tot stand te brengen op het gebied
 
 De samenwerking kan onder meer de vorm aannemen van:
 
-- a). de uitwisseling van informatie over onderwerpen van wederzijds belang op het gebied van toerisme;
+- a) de uitwisseling van informatie over onderwerpen van wederzijds belang op het gebied van toerisme;
 
-- b). de organisatie van toeristische evenementen;
+- b) de organisatie van toeristische evenementen;
 
-- c). uitwisselingen op het gebied van toerisme;
+- c) uitwisselingen op het gebied van toerisme;
 
-- d). samenwerking op het gebied van de instandhouding en het beheer van cultureel erfgoed;
+- d) samenwerking op het gebied van de instandhouding en het beheer van cultureel erfgoed;
 
-- e). samenwerking op het gebied van het beheer van het toerisme.
+- e) samenwerking op het gebied van het beheer van het toerisme.
 
 ##### Artikel 40. Maatschappelijk middenveld
 
@@ -654,15 +523,15 @@ De partijen erkennen de rol en de mogelijke bijdrage van organisaties van het ma
 
 De partijen komen overeen, door middel van de uitwisseling van ervaringen en goede werkmethoden en door voort te bouwen op de bestaande inspanningen, samen te werken inzake de modernisering van het openbaar bestuur op gebieden als:
 
-- a). verbetering van de organisatorische doelmatigheid;
+- a) verbetering van de organisatorische doelmatigheid;
 
-- b). verbetering van de effectiviteit van de dienstverlening door de instellingen;
+- b) verbetering van de effectiviteit van de dienstverlening door de instellingen;
 
-- c). transparant beheer van de overheidsfinanciën en verantwoording;
+- c) transparant beheer van de overheidsfinanciën en verantwoording;
 
-- d). verbetering van het juridische en institutionele kader;
+- d) verbetering van het juridische en institutionele kader;
 
-- e). opzet en uitvoering van het beleid.
+- e) opzet en uitvoering van het beleid.
 
 ##### Artikel 42. Statistieken
 
@@ -670,17 +539,17 @@ De partijen komen overeen, door middel van de uitwisseling van ervaringen en goe
 
 De samenwerking is gericht op:
 
-- a). de geleidelijke harmonisatie van de statistische stelsels van de partijen;
+- a) de geleidelijke harmonisatie van de statistische stelsels van de partijen;
 
-- b). fijnafstemming van de gegevensuitwisseling tussen de partijen, rekening houdend met de toepassing van de internationale methodologieën ter zake;
+- b) fijnafstemming van de gegevensuitwisseling tussen de partijen, rekening houdend met de toepassing van de internationale methodologieën ter zake;
 
-- c). verbetering van de beroepsbekwaamheid van de statistici, zodat deze in staat zijn de ter zake geldende statistische normen toe te passen;
+- c) verbetering van de beroepsbekwaamheid van de statistici, zodat deze in staat zijn de ter zake geldende statistische normen toe te passen;
 
-- d). bevordering van de uitwisseling van ervaring tussen de partijen inzake de ontwikkeling van knowhow op statistisch gebied.
+- d) bevordering van de uitwisseling van ervaring tussen de partijen inzake de ontwikkeling van knowhow op statistisch gebied.
 
 2. De samenwerking kan onder meer de vorm aannemen van gezamenlijk overeen te komen specifieke programma’s en projecten, alsmede dialoog, samenwerking en initiatieven op gebieden van wederzijds belang op bilateraal of multilateraal niveau.
 
-## TITEL IX. INSTITUTIONEEL KADER
+### TITEL IX. INSTITUTIONEEL KADER
 
 ##### Artikel 43. Andere overeenkomsten
 
@@ -700,21 +569,21 @@ De samenwerking is gericht op:
 
 3. De Gemengde Commissie heeft de volgende taken:
 
-- a). zij ziet toe op de goede werking van deze overeenkomst;
+- a) zij ziet toe op de goede werking van deze overeenkomst;
 
-- b). zij houdt toezicht op de ontwikkeling van de brede betrekkingen tussen de partijen;
+- b) zij houdt toezicht op de ontwikkeling van de brede betrekkingen tussen de partijen;
 
-- c). zij verzoekt waar nodig comités en andere lichamen die bij andere van het gemeenschappelijke institutionele kader deel uitmakende overeenkomsten zijn ingesteld, om informatie en neemt door hen ingediende verslagen in overweging;
+- c) zij verzoekt waar nodig comités en andere lichamen die bij andere van het gemeenschappelijke institutionele kader deel uitmakende overeenkomsten zijn ingesteld, om informatie en neemt door hen ingediende verslagen in overweging;
 
-- d). zij zorgt voor de uitwisseling van standpunten en de formulering van voorstellen over alle aangelegenheden van gemeenschappelijk belang, waaronder in de toekomst te nemen maatregelen en de daarvoor beschikbare middelen;
+- d) zij zorgt voor de uitwisseling van standpunten en de formulering van voorstellen over alle aangelegenheden van gemeenschappelijk belang, waaronder in de toekomst te nemen maatregelen en de daarvoor beschikbare middelen;
 
-- e). zij stelt prioriteiten met betrekking tot de doelstellingen van deze overeenkomst;
+- e) zij stelt prioriteiten met betrekking tot de doelstellingen van deze overeenkomst;
 
-- f). zij zoekt naar passende middelen ter voorkoming van problemen die in de onder deze overeenkomst vallende gebieden zouden kunnen rijzen;
+- f) zij zoekt naar passende middelen ter voorkoming van problemen die in de onder deze overeenkomst vallende gebieden zouden kunnen rijzen;
 
-- g). zij beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen bij consensus, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01);
+- g) zij beslecht geschillen die zich ten aanzien van de toepassing of de interpretatie van deze overeenkomst voordoen bij consensus, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01);
 
-- h). zij onderzoekt alle door een partij ingediende informatie betreffende niet-naleving van verplichtingen en pleegt overleg met de andere partij om een oplossing te vinden die voor beide partijen aanvaardbaar is, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01).
+- h) zij onderzoekt alle door een partij ingediende informatie betreffende niet-naleving van verplichtingen en pleegt overleg met de andere partij om een oplossing te vinden die voor beide partijen aanvaardbaar is, overeenkomstig [artikel 45, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IX&artikel=45&z=2014-06-01&g=2014-06-01).
 
 4. De Gemengde Commissie komt gewoonlijk eenmaal per jaar bijeen, afwisselend in Brussel en Seoul. Speciale vergaderingen vinden plaats wanneer een van de partijen daarom verzoekt. De Gemengde Commissie wordt beurtelings door een van beide partijen voorgezeten. Zij vergadert gewoonlijk op het niveau van hoge ambtenaren.
 
@@ -734,7 +603,7 @@ De samenwerking is gericht op:
 
 2. Elke partij bij het geschil dient de maatregelen te treffen die voor de uitvoering van de beslissing van de scheidsrechters noodzakelijk zijn. De scheidsrechters doen desgevraagd aanbevelingen voor de uitvoering van hun beslissing, teneinde het evenwicht van rechten en verplichtingen in het kader van deze overeenkomst te herstellen.
 
-## TITEL X. SLOTBEPALINGEN
+### TITEL X. SLOTBEPALINGEN
 
 ##### Artikel 47. Definitie
 
@@ -767,77 +636,3 @@ Deze overeenkomst is van toepassing op de grondgebieden waarop het [Verdrag betr
 ##### Artikel 53. Authentieke teksten
 
 Deze overeenkomst is opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse taal en de Koreaanse taal, met dien verstande dat alle teksten gelijkelijk authentiek zijn.
-
-De gevolmachtigden van
-
-De Europese Unie, hierna „de Unie” genoemd
-
-en
-
-Het Koninkrijk België,
-
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-De Republiek Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten” genoemd, enerzijds,
-
-en
-
-De Republiek Korea, anderzijds,
-
-bijeengekomen te Brussel op 10 mei 2010 voor de ondertekening van de Kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, hebben de kaderovereenkomst aangenomen.
-
-De gevolmachtigden van de lidstaten en de gevolmachtigde van de Republiek Korea nemen kennis van de volgende unilaterale verklaring van de Europese Unie betreffende [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004159&titeldeel=IV&artikel=12&z=2014-06-01&g=2014-06-01):
-
-Gedaan te Brussel, de tiende mei 2010.
-
-**De Europese Unie**

@@ -1,42 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Japan betreffende luchtdiensten"
 identifier: "BWBV0005018"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-09-26"
-last_updated: "2004-02-03"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005018"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004434633"
-version_id: "10004641232"
-internal_id: "C10007132271"
-label_id: "10004419514"
-dtd_version: "2.0"
-original_entry_into_force: "1953-07-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005018/2016-09-26/0"
-intitule_bron: "Trb.1953-23"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1953-03-02"
-intitule_in_force: "1953-09-04"
-intitule_status: "goed"
-original_publication: "Trb.1953-23"
-original_published_date: "1953-03-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1953-23"
-entry_into_force_date: "1953-07-24"
-jci_1_3: "jci1.3:c:BWBV0005018&z=2016-09-26&g=2016-09-26"
-jci_1_0: "1.0:c:BWBV0005018&g=2016-09-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-07-24"
+publicatiedatum: 1953-07-24
+laatste_update: 2016-09-26
+status: geldig
+toestand: 2016-09-26
+bron: "https://wetten.overheid.nl/BWBV0005018"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Japan betreffende luchtdiensten
 
-The Government of the Kingdom of the Netherlands and the Government of Japan,
-
-Desiring to conclude an agreement for the purpose of establishing and operating air services between and beyond their respective territories,
-
-Have accordingly appointed their respective representatives for this purpose, who have agreed as follows:
+*The Government of the Kingdom of the Netherlands and the Government of Japan, Desiring to conclude an agreement for the purpose of establishing and operating air services between and beyond their respective territories, Have accordingly appointed their respective representatives for this purpose, who have agreed as follows:*
 
 ##### Article 1
 
@@ -46,19 +23,19 @@ For the purpose of the present Agreement, the provisions of the Convention on In
 
 1. For the purpose of the present Agreement, unless the text, otherwise provides:
 
-- (a). the term „aeronautical authorities” means, in the case of Japan, the Ministry of Transportation and any person or body authorised to perform any functions presently exercised by the said Ministry or similar functions, and, in the case of the Kingdom of the Netherlands, the Director-General of Civil Aviation and any person or body authorised to perform any functions presently exercised by the said Director-General or similar functions;
+- (a) the term „aeronautical authorities” means, in the case of Japan, the Ministry of Transportation and any person or body authorised to perform any functions presently exercised by the said Ministry or similar functions, and, in the case of the Kingdom of the Netherlands, the Director-General of Civil Aviation and any person or body authorised to perform any functions presently exercised by the said Director-General or similar functions;
 
-- (b). the term „designated airline” means an airline which one Contracting Party shall have designated by written notification to the other Contracting Party for the operation of air services on the routes specified in such notification, and which has the appropriate operating permission from that other Contracting Party, in accordance with the provisions of Article 4 of the present Agreement;
+- (b) the term „designated airline” means an airline which one Contracting Party shall have designated by written notification to the other Contracting Party for the operation of air services on the routes specified in such notification, and which has the appropriate operating permission from that other Contracting Party, in accordance with the provisions of Article 4 of the present Agreement;
 
-- (c). the term „air service” means any scheduled air service performed by aircraft for the public transport of passengers, cargo or mail;
+- (c) the term „air service” means any scheduled air service performed by aircraft for the public transport of passengers, cargo or mail;
 
-- (d). the term „international air service” means an air service which passes through the air space over the territory of more than one State;
+- (d) the term „international air service” means an air service which passes through the air space over the territory of more than one State;
 
-- (e). the term „airline” means any air transport enterprise offering or operating an international air service;
+- (e) the term „airline” means any air transport enterprise offering or operating an international air service;
 
-- (f). the term „stop for non-traffic purposes” means a landing for any purpose other than taking on or putting down passengers, cargo or mail;
+- (f) the term „stop for non-traffic purposes” means a landing for any purpose other than taking on or putting down passengers, cargo or mail;
 
-- (g). the term „Schedule” means the Schedule to the present Agreement or as amended in accordance with the provisions of Article 15 of the present Agreement.
+- (g) the term „Schedule” means the Schedule to the present Agreement or as amended in accordance with the provisions of Article 15 of the present Agreement.
 
 (2). The Schedule forms an integral part of the present Agreement, and all reference to the „Agreement” shall include reference to the Schedule except where otherwise provided.
 
@@ -70,9 +47,9 @@ Each Contracting Party grants to the other Contracting Party the rights specifie
 
 (1). The agreed services on any specified route may be inaugurated immediately or at a later date at the option of the Contracting Party to which the rights are granted under Article 3 of the present Agreement, but not before
 
-- (a). the Contracting Party to which the rights have been granted has designated an airline or airlines for that route, and
+- (a) the Contracting Party to which the rights have been granted has designated an airline or airlines for that route, and
 
-- (b). the Contracting Party granting the rights has given the appropriate operating permission to the airline or airlines concerned; which it shall, subject to the provisions of paragraph (2) of this Article and of paragraph (1) of Article 7, be bound to grant without delay.
+- (b) the Contracting Party granting the rights has given the appropriate operating permission to the airline or airlines concerned; which it shall, subject to the provisions of paragraph (2) of this Article and of paragraph (1) of Article 7, be bound to grant without delay.
 
 (2). Each of the airlines designated may be required to satisfy the aeronautical authorities of the other Contracting Party that it is qualified to fulfil the conditions prescribed by the laws and regulations normally and reasonably applied by those authorities to the operation of international air services.
 
@@ -80,11 +57,11 @@ Each Contracting Party grants to the other Contracting Party the rights specifie
 
 (1). Subject to the provisions of the present Agreement, the designated airlines of each Contracting Party shall enjoy, while operating an agreed service on a specified route, the following privileges:
 
-- (a). to fly without landing across the territory of the other Contracting Party;
+- (a) to fly without landing across the territory of the other Contracting Party;
 
-- (b). to make stops in the said territory for non-traffic purposes; and
+- (b) to make stops in the said territory for non-traffic purposes; and
 
-- (c). to make stops in the said territory at the points specified for that route in the Schedule for the purposes of putting down and of taking on international traffic in passengers, cargo and mail.
+- (c) to make stops in the said territory at the points specified for that route in the Schedule for the purposes of putting down and of taking on international traffic in passengers, cargo and mail.
 
 (2). Nothing in paragraph (1) of this Article shall be deemed to confer on the airlines of one Contracting Party the privilege of taking up, in the territory of the other Contracting Party, passengers, cargo or mail carried for remuneration or hire and destined for another point in the territory of that other Contracting Party.
 
@@ -114,11 +91,11 @@ In the operation by the designated airlines of either Contracting Party of the a
 
 (2). The agreed services provided by a designated airline shall retain as their primary objective the provision at a reasonable load factor of capacity adequate to current and reasonably anticipated requirements for the carriage of passengers, cargo and mail originating from or destined for the territory of the Contracting Party which has designated the airline. Provision for the carriage of passengers, cargo and mail both taken up and put down at points on the specified routes in the territories of States other than that designating the airline shall be made in accordance with the general principles that capacity shall be related to:
 
-- (a). traffic requirements to and from the territory of the Contracting Party which has designated the airline;
+- (a) traffic requirements to and from the territory of the Contracting Party which has designated the airline;
 
-- (b). the requirements of through airline operation; and
+- (b) the requirements of through airline operation; and
 
-- (c). traffic requirements of the area through which the airline passes, after taking account of local and regional services.
+- (c) traffic requirements of the area through which the airline passes, after taking account of local and regional services.
 
 ##### Article 11
 

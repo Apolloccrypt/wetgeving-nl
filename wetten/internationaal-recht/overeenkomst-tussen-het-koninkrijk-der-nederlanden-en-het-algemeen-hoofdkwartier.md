@@ -1,52 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden"
 identifier: "BWBV0004186"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-04-13"
-last_updated: "1965-04-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004186"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10003992333"
-version_id: "10004147992"
-internal_id: "C10008364811"
-label_id: "10003976964"
-dtd_version: "2.0"
-original_entry_into_force: "1965-04-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004186/1965-04-13/0"
-intitule_bron: "Trb.1964-131"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-09-18"
-intitule_in_force: "1965-06-03"
-intitule_status: "goed"
-original_publication: "Trb.1964-131"
-original_published_date: "1964-09-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-131"
-entry_into_force_date: "1965-04-13"
-jci_1_3: "jci1.3:c:BWBV0004186&z=1965-04-13&g=1965-04-13"
-jci_1_0: "1.0:c:BWBV0004186&g=1965-04-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-04-13"
+publicatiedatum: 1965-04-13
+laatste_update: 1965-04-13
+status: geldig
+toestand: 1965-04-13
+bron: "https://wetten.overheid.nl/BWBV0004186"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa inzake de bijzondere voorwaarden, die toepasselijk zijn op de vestiging en het functioneren van internationale militaire hoofdkwartieren binnen het Europese grondgebied van het Koninkrijk der Nederlanden
 
-Het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa, vertegenwoordigd door de Geallieerde Opperbevelhebber in Europa,
-
-Overwegende
-
-dat de betrekkingen tussen de Partijen bij het Noordatlantisch Verdrag en de internationale militaire hoofdkwartieren in algemene zin zijn omschreven in het op 28 augustus 1952 te Parijs ondertekende Protocol bij het op 19 juni 1951 te Londen door de Partijen bij het Noordatlantisch Verdrag gesloten Verdrag nopens de rechtspositie van hun krijgsmachten,
-
-en
-
-dat de Noordatlantische Raad, overeenkomstig artikel 14, eerste lid, van het bovengenoemde Protocol, bij een besluit van 20 februari 1963 dit Protocol van toepassing heeft verklaard op het Technisch Centrum van SHAPE,
-
-maar
-
-dat zekere bepalingen nog moeten worden uitgewerkt inzake de vestiging en het functioneren van op het Europese grondgebied van het Koninkrijk der Nederlanden opgerichte of op te richten internationale militaire hoofdkwartieren,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk der Nederlanden en het Algemeen Hoofdkwartier van de Geallieerde Mogendheden in Europa, vertegenwoordigd door de Geallieerde Opperbevelhebber in Europa, Overwegende 1. dat de betrekkingen tussen de Partijen bij het Noordatlantisch Verdrag en de internationale militaire hoofdkwartieren in algemene zin zijn omschreven in het op 28 augustus 1952 te Parijs ondertekende Protocol bij het op 19 juni 1951 te Londen door de Partijen bij het Noordatlantisch Verdrag gesloten Verdrag nopens de rechtspositie van hun krijgsmachten, en 2. dat de Noordatlantische Raad, overeenkomstig artikel 14, eerste lid, van het bovengenoemde Protocol, bij een besluit van 20 februari 1963 dit Protocol van toepassing heeft verklaard op het Technisch Centrum van SHAPE, maar 3. dat zekere bepalingen nog moeten worden uitgewerkt inzake de vestiging en het functioneren van op het Europese grondgebied van het Koninkrijk der Nederlanden opgerichte of op te richten internationale militaire hoofdkwartieren, Zijn als volgt overeengekomen:*
 
 ##### Artikel I. Omschrijvingen
 
@@ -118,9 +85,9 @@ De Nederlandse Regering kan op een desbetreffend verzoek erin toestemmen ten beh
 
 voor zover vrijstelling zou worden verleend, indien de goederen uit Nederland zouden worden uitgevoerd, ongeacht of zij in feite worden uitgevoerd dan wel in Nederland blijven.
 
-- (a). Met betrekking tot betalingen uit hoofde van met Nederlandse leveranciers gesloten en rechtstreeks door een Geallieerd Hoofdkwartier gefinancierde contracten wordt de krachtens deze Overeenkomst toegekende vrijstelling van belastingen en rechten verwezenlijkt op zodanige wijze, dat in de betalingen door een Geallieerd Hoofdkwartier de in het tweede lid genoemde rechten en belastingen niet zijn begrepen.
+(3.). - (a) Met betrekking tot betalingen uit hoofde van met Nederlandse leveranciers gesloten en rechtstreeks door een Geallieerd Hoofdkwartier gefinancierde contracten wordt de krachtens deze Overeenkomst toegekende vrijstelling van belastingen en rechten verwezenlijkt op zodanige wijze, dat in de betalingen door een Geallieerd Hoofdkwartier de in het tweede lid genoemde rechten en belastingen niet zijn begrepen.
 
-- (b). Met betrekking tot betalingen, die de Nederlandse Regering heeft gedaan in haar hoedanigheid van inkoper voor SHAPE en waarvoor zij geheel of gedeeltelijk terugbetaling ontvangt van SHAPE, bevat zodanige terugbetaling niet de in lid 2 genoemde rechten en belastingen.
+- (b) Met betrekking tot betalingen, die de Nederlandse Regering heeft gedaan in haar hoedanigheid van inkoper voor SHAPE en waarvoor zij geheel of gedeeltelijk terugbetaling ontvangt van SHAPE, bevat zodanige terugbetaling niet de in lid 2 genoemde rechten en belastingen.
 
 (4.). Indien een niet met name in deze Overeenkomst genoemde Nederlandse belasting of genoemd Nederlands recht de in deze Overeenkomst bedoelde uitgaven zou treffen, zullen de beide Partijen bijeenkomen om te beslissen over de vraag, of vrijstelling van zodanige belastingen en rechten verenigbaar zou zijn met de aan deze Overeenkomst ten grondslag liggende beginselen. Indien zulks het geval is, zullen de beide Partijen gezamenlijk een regeling treffen, die in vrijstelling van zodanige belastingen en rechten voorziet.
 

@@ -9,7 +9,7 @@ laatste_update: 2026-09-10
 status: geldig
 toestand: 2026-09-10
 bron: "https://wetten.overheid.nl/BWBR0046202"
-opgehaald: 2026-09-13
+opgehaald: 2026-09-14
 ---
 
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 december 2021, kenmerk 3296335-1021773-GMT, houdende vaststelling van beleidsregels en subsidieplafond inzake het subsidiëren van de Kickstart Medicatieoverdracht (Besluit vaststelling beleidsregel subsidiëring kickstart medicatieoverdracht)

@@ -1,42 +1,19 @@
 ---
 title: "Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland"
 identifier: "BWBV0004215"
-country: "nl"
-rank: "verdrag"
-publication_date: "1962-04-21"
-last_updated: "1962-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004215"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004006723"
-version_id: "10004167442"
-internal_id: "C10008335981"
-label_id: "10003991334"
-dtd_version: "2.0"
-original_entry_into_force: "1962-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004215/1962-04-21/0"
-intitule_bron: "Trb.1961-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-05-17"
-intitule_in_force: "1962-05-22"
-intitule_status: "goed"
-original_publication: "Trb.1961-45"
-original_published_date: "1961-05-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-45"
-entry_into_force_date: "1962-04-21"
-jci_1_3: "jci1.3:c:BWBV0004215&z=1962-04-21&g=1962-04-21"
-jci_1_0: "1.0:c:BWBV0004215&g=1962-04-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-04-21"
+publicatiedatum: 1962-04-21
+laatste_update: 1962-04-21
+status: geldig
+toestand: 1962-04-21
+bron: "https://wetten.overheid.nl/BWBV0004215"
+opgehaald: 2026-09-14
 ---
+
 # Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland,
-
-Geleid door de wens, de kennis van de cultuur en het geestelijk leven van de buurstaat in het eigen land te bevorderen door middel van uitwisseling en vriendschappelijke samenwerking, en zich ervan bewust, dat door een overeenkomst eveneens de gemeenschappelijke zaak van de Europese cultuur wordt gediend,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Geleid door de wens, de kennis van de cultuur en het geestelijk leven van de buurstaat in het eigen land te bevorderen door middel van uitwisseling en vriendschappelijke samenwerking, en zich ervan bewust, dat door een overeenkomst eveneens de gemeenschappelijke zaak van de Europese cultuur wordt gediend, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -132,10 +109,10 @@ TEN BLIJKE WAARVAN de gevolmachtigden deze Overeenkomst hebben ondertekend.
 
 GEDAAN te 's-Gravenhage, de 27ste april 1961, in twee exemplaren, elk in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 (w.g.) J. LUNS
 
-**Voor de Bondsrepubliek Duitsland:**
+*Voor de Bondsrepubliek Duitsland:*
 
 (w.g.) Dr. J. LÖNS

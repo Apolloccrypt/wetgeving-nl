@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust"
 identifier: "BWBV0004468"
-country: "nl"
-rank: "verdrag"
-publication_date: "1965-09-18"
-last_updated: "1965-09-18"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004468"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004150813"
-version_id: "10004319922"
-internal_id: "C10006987281"
-label_id: "10004135784"
-dtd_version: "2.0"
-original_entry_into_force: "1965-09-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004468/1965-09-18/0"
-intitule_bron: "Trb.1964-184"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1964-12-30"
-intitule_in_force: "1965-10-19"
-intitule_status: "goed"
-original_publication: "Trb.1964-184"
-original_published_date: "1964-12-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1964-184"
-entry_into_force_date: "1965-09-18"
-jci_1_3: "jci1.3:c:BWBV0004468&z=1965-09-18&g=1965-09-18"
-jci_1_0: "1.0:c:BWBV0004468&g=1965-09-18"
-citeertitel_status: "redactioneel"
-entry_into_force: "1965-09-18"
+publicatiedatum: 1965-09-18
+laatste_update: 1965-09-18
+status: geldig
+toestand: 1965-09-18
+bron: "https://wetten.overheid.nl/BWBV0004468"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de zijdelingse begrenzing van het continentale plat in de nabijheid van de kust
 
-Het Koninkrijk der Nederlanden
-
-en
-
-De Bondsrepubliek Duitsland
-
-Overwegende dat het dringend noodzakelijk is, de begrenzing van het aan hun grondgebied grenzende continentale plat der Noordzee voor het gebied in de nabijheid van de kust in gemeenschappelijk overleg vast te stellen en dat dat grensgedeelte dient te worden vastgesteld in aansluiting op de in de Aanvullende overeenkomst van 14 mei 1962 bij het Eems-Dollardverdrag van 8 april 1960 getroffen gemeenschappelijke regeling,
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en De Bondsrepubliek Duitsland Overwegende dat het dringend noodzakelijk is, de begrenzing van het aan hun grondgebied grenzende continentale plat der Noordzee voor het gebied in de nabijheid van de kust in gemeenschappelijk overleg vast te stellen en dat dat grensgedeelte dient te worden vastgesteld in aansluiting op de in de Aanvullende overeenkomst van 14 mei 1962 bij het Eems-Dollardverdrag van 8 april 1960 getroffen gemeenschappelijke regeling, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

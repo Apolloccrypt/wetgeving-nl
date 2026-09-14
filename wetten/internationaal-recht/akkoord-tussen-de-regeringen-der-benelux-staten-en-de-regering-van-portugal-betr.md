@@ -1,46 +1,19 @@
 ---
 title: "Akkoord tussen de Regeringen der Benelux-Staten en de Regering van Portugal betreffende het gebruik van het zeemansboekje als reisdocument"
 identifier: "BWBV0004228"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-07-01"
-last_updated: "1967-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004228"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004009883"
-version_id: "10004171212"
-internal_id: "C10008336281"
-label_id: "10003994424"
-dtd_version: "2.0"
-original_entry_into_force: "1967-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004228/1967-07-01/0"
-intitule_bron: "Trb.1967-85"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1967-07-07"
-intitule_in_force: "1967-07-07"
-intitule_status: "goed"
-original_publication: "Trb.1967-85"
-original_published_date: "1967-07-07"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1967-85"
-entry_into_force_date: "1967-07-01"
-jci_1_3: "jci1.3:c:BWBV0004228&z=1967-07-01&g=1967-07-01"
-jci_1_0: "1.0:c:BWBV0004228&g=1967-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-07-01"
+publicatiedatum: 1967-07-01
+laatste_update: 1967-07-01
+status: geldig
+toestand: 1967-07-01
+bron: "https://wetten.overheid.nl/BWBV0004228"
+opgehaald: 2026-09-14
 ---
+
 # Akkoord tussen de Regeringen der Benelux-Staten en de Regering van Portugal betreffende het gebruik van het zeemansboekje als reisdocument
 
-De Regeringen der Benelux-Staten, tezamen handelende krachtens de op 11 april 1960 te Brussel ondertekende [Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied](https://wetten.overheid.nl/jci1.3:c:BWBV0005246),
-
-en
-
-de Regering van Portugal,
-
-Verlangende het verkeer van zeelieden zoveel mogelijk te vereenvoudigen en aan te passen aan de situatie die is ontstaan door de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied,
-
-Zijn het volgende overeengekomen:
+*De Regeringen der Benelux-Staten, tezamen handelende krachtens de op 11 april 1960 te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, en de Regering van Portugal, Verlangende het verkeer van zeelieden zoveel mogelijk te vereenvoudigen en aan te passen aan de situatie die is ontstaan door de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -62,9 +35,9 @@ Onder „Portugal”: het vasteland van Portugal, de Azoren, Madeira en de Kaap-
 
 Zeelieden van Portugese nationaliteit, die in het bezit zijn van een geldig Portugees zeemansboekje, mogen het Beneluxgebied zonder visum doorreizen met het oogmerk:
 
-- a). naar hun land van herkomst terug te keren of
+- a) naar hun land van herkomst terug te keren of
 
-- b). zich aan boord te begeven van een schip dat zich in een buitenlandse haven bevindt. In het laatste geval moeten zij het doel van hun reis kunnen aantonen hetzij aan de hand van een verklaring van de betreffende rederij, hetzij op enigerlei andere wijze.
+- b) zich aan boord te begeven van een schip dat zich in een buitenlandse haven bevindt. In het laatste geval moeten zij het doel van hun reis kunnen aantonen hetzij aan de hand van een verklaring van de betreffende rederij, hetzij op enigerlei andere wijze.
 
 ##### Artikel 4
 

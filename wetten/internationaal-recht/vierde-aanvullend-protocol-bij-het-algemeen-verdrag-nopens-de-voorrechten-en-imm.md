@@ -1,64 +1,39 @@
 ---
 title: "Vierde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa"
 identifier: "BWBV0004574"
-country: "nl"
-rank: "verdrag"
-publication_date: "1961-12-16"
-last_updated: "1961-12-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004574"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004198423"
-version_id: "10004374742"
-internal_id: "C10006999901"
-label_id: "10004183364"
-dtd_version: "2.0"
-original_entry_into_force: "1961-12-16"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004574/1961-12-16/0"
-intitule_bron: "Trb.1962-56"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-06-28"
-intitule_in_force: "1962-06-28"
-intitule_status: "goed"
-original_publication: "Trb.1962-56"
-original_published_date: "1962-06-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-56"
-entry_into_force_date: "1961-12-16"
-jci_1_3: "jci1.3:c:BWBV0004574&z=1961-12-16&g=1961-12-16"
-jci_1_0: "1.0:c:BWBV0004574&g=1961-12-16"
-citeertitel_status: "redactioneel"
-entry_into_force: "1961-12-16"
+publicatiedatum: 1961-12-16
+laatste_update: 1961-12-16
+status: geldig
+toestand: 1961-12-16
+bron: "https://wetten.overheid.nl/BWBV0004574"
+opgehaald: 2026-09-14
 ---
+
 # Vierde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa
 
-The Governments signatory hereto, being Members of the Council of Europe,
-
-Considering that, under the terms of [Article 59 of the Convention for the Protection of Human Rights and Fundamental Freedoms](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=59), signed at Rome on 4th November 1950 (hereinafter referred to as “the Convention”), the members of the European Court of Human Rights (hereinafter referred to as “the Court”) are entitled, during the discharge of their functions, to the privileges and immunities provided for in [Article 40 of the Statute of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=40) and in the Agreements made thereunder;
-
-Considering that it is necessary to specify and define the said privileges and immunities in a Protocol to the [General Agreement on Privileges and Immunities of the Council of Europe](https://wetten.overheid.nl/jci1.3:c:BWBV0005781), signed at Paris on 2nd September, 1949;
-
-Have agreed as follows:
+*The Governments signatory hereto, being Members of the Council of Europe, Considering that, under the terms of Article 59 of the Convention for the Protection of Human Rights and Fundamental Freedoms, signed at Rome on 4th November 1950 (hereinafter referred to as “the Convention”), the members of the European Court of Human Rights (hereinafter referred to as “the Court”) are entitled, during the discharge of their functions, to the privileges and immunities provided for in Article 40 of the Statute of the Council of Europe and in the Agreements made thereunder; Considering that it is necessary to specify and define the said privileges and immunities in a Protocol to the General Agreement on Privileges and Immunities of the Council of Europe, signed at Paris on 2nd September, 1949; Have agreed as follows:*
 
 ##### Article 1
 
-For the purposes of this Protocol, the term “judges” means judges elected in accordance with [Article 39 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=39) as well as any **ad hoc** judge appointed by a State party concerned in pursuance of [Article 43 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=43).
+For the purposes of this Protocol, the term “judges” means judges elected in accordance with [Article 39 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=39) as well as any *ad hoc* judge appointed by a State party concerned in pursuance of [Article 43 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=43).
 
 ##### Article 2
 
 The judges shall, while exercising their functions and during journeys made in the exercise of their functions, enjoy the following privileges and immunities:
 
-- (a). immunity from personal arrest or detention and from seizure of their personal baggage, and, in respect of words spoken or written and all acts done by them in their official capacity, immunity from legal process of every kind;
+- (a) immunity from personal arrest or detention and from seizure of their personal baggage, and, in respect of words spoken or written and all acts done by them in their official capacity, immunity from legal process of every kind;
 
-- (b). exemption in respect of themselves and their spouses as regards any restrictions on their freedom of movement on exit from and return to their country of residence, and entry into and exit from the country in which they exercise their functions; and from aliens' registration in the country which they are visiting or through which they are passing in the exercise of their functions.
+- (b) exemption in respect of themselves and their spouses as regards any restrictions on their freedom of movement on exit from and return to their country of residence, and entry into and exit from the country in which they exercise their functions; and from aliens' registration in the country which they are visiting or through which they are passing in the exercise of their functions.
 
 ##### Article 3
 
 In the course of journeys undertaken in the exercise of their functions, the judges shall, in the matter of customs and exchange control, be accorded:
 
-- (a). by their own Government the same facilities as those accorded to senior Government officials travelling abroad on temporary official duty;
+- (a) by their own Government the same facilities as those accorded to senior Government officials travelling abroad on temporary official duty;
 
-- (b). by the Governments of other Members, the same facilities as those accorded to heads of diplomatic missions.
+- (b) by the Governments of other Members, the same facilities as those accorded to heads of diplomatic missions.
 
 ##### Article 4
 
@@ -92,9 +67,9 @@ Privileges and immunities are accorded to judges not for the personal benefit of
 
 This Protocol shall be open to the signature of the Members of the Council of Europe who may become parties to it either by:
 
-- (a). signature without reservation in respect of ratification, or by
+- (a) signature without reservation in respect of ratification, or by
 
-- (b). signature with reservation in respect of ratification followed by ratification.
+- (b) signature with reservation in respect of ratification followed by ratification.
 
 Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
@@ -108,9 +83,9 @@ Instruments of ratification shall be deposited with the Secretary-General of the
 
 The Secretary-General of the Council of Europe shall notify Members of the Council of:
 
-- (a). the names of signatories and the deposit of any instrument of ratification;
+- (a) the names of signatories and the deposit of any instrument of ratification;
 
-- (b). the date of entry into force of this Protocol.
+- (b) the date of entry into force of this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised to that effect, have signed the present Protocol.
 

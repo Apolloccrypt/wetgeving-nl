@@ -1,54 +1,19 @@
 ---
 title: "Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie"
 identifier: "BWBV0004462"
-country: "nl"
-rank: "verdrag"
-publication_date: "2008-11-01"
-last_updated: "2008-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004462"
+categorie: "Strafrecht"
 soort: "verdrag"
-stam_id: "10004145063"
-version_id: "10004315512"
-internal_id: "C10006984511"
-label_id: "10004131734"
-dtd_version: "2.0"
-original_entry_into_force: "1971-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004462/2008-11-01/0"
-intitule_bron: "Trb.1969-124"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1969-08-15"
-intitule_in_force: "1971-02-11"
-intitule_status: "goed"
-original_publication: "Trb.1969-124"
-original_published_date: "1969-08-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1969-124"
-entry_into_force_date: "1971-02-01"
-jci_1_3: "jci1.3:c:BWBV0004462&z=2008-11-01&g=2008-11-01"
-jci_1_0: "1.0:c:BWBV0004462&g=2008-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1971-02-01"
+publicatiedatum: 1971-02-01
+laatste_update: 2008-11-01
+status: geldig
+toestand: 2008-11-01
+bron: "https://wetten.overheid.nl/BWBV0004462"
+opgehaald: 2026-09-14
 ---
+
 # Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Bezield door de wens om, met het oog op de verwezenlijking van de doelstellingen van de Benelux Economische Unie, tussen de drie landen nauwe samenwerking op administratief en gerechtelijk gebied tot stand te brengen;
-
-Overwegende dat daartoe moet worden uitgegaan van de beginselen die ten grondslag liggen aan het Verdrag nopens de samenwerking op het stuk van douanen en van accijnzen van 5 september 1952, aan het Verdrag over de samenwerking inzake de regeling van in-, uit- en doorvoer van 16 maart 1961 en aan het Verdrag tot wederzijdse bijstand inzake de heffing van de omzetbelasting, de overdrachttaks en soortgelijke belastingen van 25 mei 1964;
-
-Van oordeel dat het, met name met het oog op de afschaffing der administratieve controles aan de Beneluxbinnengrenzen, gewenst is de mogelijkheid te scheppen om het krachtens bovengenoemde Verdragen ingestelde systeem van samenwerking uit te breiden tot alle onderwerpen die verband houden met de verwezenlijking van de doelstellingen van de Unie;
-
-Verlangende de administratieve en gerechtelijke samenwerking tussen de drie landen te regelen in één verdrag, dat bestemd is een samenhangend geheel te vormen met de regels, vervat in het [Verdrag aangaande de uitlevering en de rechtshulp in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001006) van 27 juni 1962 en in het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968;
-
-Gelet op het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) van 3 februari 1958, in het bijzonder op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=3), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=11), [76](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=76), [79](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=79) en [83](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=83);
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Bezield door de wens om, met het oog op de verwezenlijking van de doelstellingen van de Benelux Economische Unie, tussen de drie landen nauwe samenwerking op administratief en gerechtelijk gebied tot stand te brengen; Overwegende dat daartoe moet worden uitgegaan van de beginselen die ten grondslag liggen aan het Verdrag nopens de samenwerking op het stuk van douanen en van accijnzen van 5 september 1952, aan het Verdrag over de samenwerking inzake de regeling van in-, uit- en doorvoer van 16 maart 1961 en aan het Verdrag tot wederzijdse bijstand inzake de heffing van de omzetbelasting, de overdrachttaks en soortgelijke belastingen van 25 mei 1964; Van oordeel dat het, met name met het oog op de afschaffing der administratieve controles aan de Beneluxbinnengrenzen, gewenst is de mogelijkheid te scheppen om het krachtens bovengenoemde Verdragen ingestelde systeem van samenwerking uit te breiden tot alle onderwerpen die verband houden met de verwezenlijking van de doelstellingen van de Unie; Verlangende de administratieve en gerechtelijke samenwerking tussen de drie landen te regelen in één verdrag, dat bestemd is een samenhangend geheel te vormen met de regels, vervat in het Verdrag aangaande de uitlevering en de rechtshulp in strafzaken van 27 juni 1962 en in het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968; Gelet op het Verdrag tot instelling van de Benelux Economische Unie van 3 februari 1958, in het bijzonder op de artikelen 3, 11, 76, 79 en 83; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. Definities
 
@@ -166,7 +131,7 @@ Een veroordeling in een der landen heeft met betrekking tot recidive in de beide
 
 ### HOOFDSTUK VII. Wederzijdse bijstand terzake van strafbare feiten
 
-### 1. Algemeen
+#### 1. Algemeen
 
 ##### Artikel 16
 
@@ -198,7 +163,7 @@ De bevoegde autoriteiten van elk der landen verstrekken elkaar uit eigen bewegin
 
 2. Ambtenaren van een der landen mogen, mits naar behoren gemachtigd door de dienst waartoe zij behoren, voor de gerechtelijke autoriteiten van een der beide andere landen getuigenis afleggen van hetgeen zij in de uitoefening van hun functie hebben waargenomen.
 
-### 2. Bijzondere bepalingen
+#### 2. Bijzondere bepalingen
 
 ##### Artikel 21
 
@@ -291,292 +256,6 @@ De bijzondere bepalingen die uitsluitend op een bepaald terrein betrekking hebbe
 2. De Overeenkomst treedt in werking de eerste dag van de maand volgend op de datum van nederlegging van de derde akte van bekrachtiging.
 
 3. De Overeenkomst eindigt terzelfdertijd als het [Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047).
-
-De Verdragsluitende Partijen bij de heden ondertekende Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie,
-
-Overwegende, dat bijzondere bepalingen dienen te gelden op het stuk van de regeling van in-, uit- en doorvoer,
-
-Gelet op artikel 33 van genoemde Overeenkomst,
-
-Hebben besloten hiertoe een Aanvullend Protocol bij genoemde Overeenkomst te sluiten en zijn het volgende overeengekomen:
-
-##### Artikel 1
-
-Dit Protocol heeft betrekking op de toepassing van de wettelijke bepalingen die verband houden met de regeling van in-, uit- en doorvoer en die als zodanig zijn aangewezen bij beschikking van het Comité van Ministers.
-
-##### Artikel 2
-
-In de gevallen waarop dit Protocol betrekking heeft, is artikel 5 van de Overeenkomst niet van toepassing.
-
-##### Artikel 3
-
-In afwijking van artikel 11 van het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968 kan een verzoek als bedoeld in artikel 33 van dat Verdrag worden gedaan en kan de inbeslagneming geschieden door de administratieve autoriteiten, die volgens hun nationale wetgeving bevoegd zijn tot inbeslagneming over te gaan, mits zij daartoe door de bevoegde Ministers van elk land zijn aangewezen.
-
-De administratieve autoriteiten van het aangezochte land zullen de gerechtelijke autoriteiten van de plaats van inbeslagneming, aanstonds na de ontvangst van een dergelijk verzoek, daarvan op de hoogte stellen.
-
-##### Artikel 4
-
-Voor zover een verzoek tot tenuitvoerlegging betrekking heeft op boeten of verbeurdverklaringen is het bepaalde in artikel 3 van het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968 niet van toepassing.
-
-##### Artikel 5
-
-1. Rechterlijke vonnissen die in een van de drie landen zijn gewezen, en die betrekking hebben op de invordering van bedragen verschuldigd wegens een heffing, in dat land opgelegd, of wegens de onverschuldigde betaling in dat land van een restitutie op grond van wettelijke bepalingen, als bedoeld in artikel 1, worden – voor zover blijkt dat de veroordeelde partij op wettige wijze in rechte is verschenen, of dat tegen die partij, nadat zij wettig was gedagvaard of opgeroepen, verstek is verleend – in de beide andere landen uitvoerbaar verklaard overeenkomstig de procedure voorzien in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBV0002016&artikel=18) en [19 van het Haagse Rechtsvorderingsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002016&artikel=19) van 1 maart 1954.
-
-2. Dwangbevelen, strekkende tot invordering van een bedrag als bedoeld in het vorige lid, kunnen – wanneer zij zijn uitgevaardigd door een bestuursorgaan van een der landen, en zij volgens de wet van dat land uitvoerbaar en niet meer voor aantasting langs de weg van een rechtsmiddel vatbaar zijn – op verzoek van bedoeld bestuursorgaan gericht aan de voorzitter van de rechtbank, bevoegd tot kennisneming van burgerlijke zaken in het arrondissement waarin de tenuitvoerlegging wordt gevraagd, in elk van de beide andere landen uitvoerbaar worden verklaard. Deze rechterlijke autoriteit gaat na, of de partij waartegen de tenuitvoerlegging wordt gevorderd, in de gelegenheid is gesteld om gebruik te maken van de rechtsmiddelen voorzien in de wetgeving van het land waarin het bevel is afgegeven. Hij kan verlangen dat bij het dwangbevel een vertaling wordt gevoegd in de taal van de rechtszaal waarin hij zitting houdt.
-
-3. De vertaling van stukken, overgelegd ingevolge een der voorgaande bepalingen van dit artikel, wordt voor echt en getrouw verklaard door iemand die daartoe bevoegd is in een der bij de zaak betrokken landen.
-
-##### Artikel 6
-
-In afwijking van artikel 21 van de Overeenkomst wordt het bepaalde in de artikelen 22, 23 en 24 van de Overeenkomst van toepassing verklaard.
-
-##### Artikel 7
-
-Zes maanden na de inwerkingtreding van de Overeenkomst vervalt het Verdrag over de samenwerking inzake de regeling van in-, uit- en doorvoer van 16 maart 1961.
-
-De Verdragsluitende Partijen bij de heden ondertekende Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie,
-
-Overwegende, dat bijzondere bepalingen dienen te gelden op het stuk van de belastingen,
-
-Gelet op artikel 33 van genoemde Overeenkomst,
-
-Hebben besloten hiertoe een Aanvullend Protocol bij genoemde Overeenkomst te sluiten en zijn het volgende overeengekomen:
-
-##### Artikel 1
-
-1. Op het stuk van de belastingen geldt in de plaats van artikel 2 van de Overeenkomst het bepaalde in het tweede lid.
-
-2. De Overeenkomst heeft betrekking op de toepassing van:
-
-- a). de in België geldende wettelijke bepalingen inzake de douane en de accijnzen, alsmede inzake de omzetbelasting (thans genaamd: overdrachttaks, factuurtaks op de overdrachten en op de werkaannemingscontracten, taks op de roerende verhuringen en op het vervoer, weeldetaks);
-
-- b). de in Luxemburg geldende wettelijke bepalingen inzake de douane en de accijnzen, alsmede inzake de omzetbelasting (impôt sur le chiffre d'affaires);
-
-- c). de in Nederland geldende wettelijke bepalingen inzake de douane en de accijnzen, alsmede inzake de omzetbelasting.
-
-3. De verwijzingen in de artikelen 6, eerste lid, 7, eerste lid, 8, 9, eerste lid, en 16, tweede lid, van de Overeenkomst naar de krachtens artikel 2 aangewezen wettelijke bepalingen worden geacht betrekking te hebben op de in het tweede lid bedoelde wettelijke bepalingen.
-
-##### Artikel 2
-
-1. Met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen geldt, in plaats van het bepaalde in artikel 3 van de Overeenkomst, het bepaalde in de volgende leden; artikel 5 van de Overeenkomst is niet van toepassing.
-
-2. Een document, op regelmatige wijze afgegeven of geldig gemaakt in een der landen, heeft rechtsgevolg in de beide andere landen als ware het afgegeven of geldig gemaakt ingevolge de wettelijke bepalingen van die landen.
-
-3. De verklaringen welke op een document zijn aangebracht door de ambtenaren van een der landen, hebben in de beide andere landen dezelfde waarde als waren zij aangebracht door de ambtenaren van die landen.
-
-##### Artikel 3
-
-Bij goederenverkeer onder douane- of onder accijnsverband, dat aanvangt in een der landen en eindigt in een van de beide andere landen, alsook bij afgifte of geldigmaking van de desbetreffende documenten en bij het doen van aangiften ter verkrijging van die documenten, moet worden rekening gehouden met de attributen van de douanekantoren en met de losplaatsen van het land, alwaar het douane- of accijnsverband zal eindigen, zoals die zijn vastgesteld door de bevoegde autoriteit van dat land.
-
-##### Artikel 4
-
-Indien goederen onder douane- of accijnsverband van een plaats in een der landen worden vervoerd naar een plaats in een van de beide andere landen zetten de ambtenaren van eerstbedoeld land, die zijn belast met de bewaking, deze voort in het andere land, totdat zij door de ambtenaren van dat land worden afgelost. Tot dat tijdstip hebben de eerstbedoelde ambtenaren voor de uitoefening van hun taak dezelfde bevoegdheden als laatstbedoelde ambtenaren.
-
-##### Artikel 5
-
-1. Indien een document, dat is afgegeven of geldig gemaakt om in meer dan een land te dienen, niet of niet geheel wordt gezuiverd, zijn de goederen waarop het document betrekking heeft, onderworpen aan die rechten, accijnzen en andere belastingen, welke terzake van het niet of het niet geheel zuiveren van een zodanig nationaal document worden geheven in datgene van de landen waarvoor het Beneluxdocument is afgegeven of geldig gemaakt, waarin het hoogste totaal bedrag dezer belastingen wordt geheven.
-
-2. De rechten, accijnzen en andere belastingen, alsmede de terzake van het niet of niet geheel zuiveren verschuldigde boeten worden voor eigen rekening ingevorderd door het land, waar het document is afgegeven of geldig gemaakt.
-
-3. Indien komt vast te staan in welk van de drie landen de goederen in een toestand zijn gekomen als van goederen, waarvan de belasting is voldaan, worden, in afwijking van het bepaalde in het eerste lid, de goederen onderworpen aan de rechten, accijnzen en andere belastingen, welke in dat land van toepassing zijn. Indien het document niet aldaar is afgegeven of geldig gemaakt, wordt, in afwijking van het bepaalde in het tweede lid, de opbrengst van de niet geünifieerde belastingen aan dat land uitgekeerd.
-
-##### Artikel 6
-
-1. Het bepaalde bij artikel 6, derde lid, letter a, van de Overeenkomst is, met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, slechts van toepassing voor zover die bepalingen het gebied van de douane en de accijnzen betreffen.
-
-2. In afwijking van artikel 6, vierde lid, van de Overeenkomst kunnen de door de toepassing van het eerste of het derde lid van dat artikel verkregen inlichtingen eveneens worden benut met het oog op de toepassing van andere wettelijke bepalingen op het stuk van de belastingen dan die bedoeld in artikel 1, tweede lid.
-
-3. Het bepaalde bij artikel 6, vijfde lid, van de Overeenkomst is niet van toepassing met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen.
-
-##### Artikel 7
-
-Met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, zijn de feiten en handelingen, bedoeld in artikel 9, eerste en tweede lid van de Overeenkomst, niet strafbaar in gevallen waarin de dader, met betrekking tot de goederen of documenten ten aanzien waarvan de feiten of handelingen zijn begaan, heeft gehandeld in overeenstemming met de wet van het land waarin zij zijn begaan.
-
-##### Artikel 8
-
-Degene die woont of gevestigd is in een ander land dan het land waar de omzetbelasting/de belasting over de toegevoegde waarde verschuldigd is voor een levering van goederen, dienstverrichting, intracommunautaire verwerving of invoer van goederen is hoofdelijk medeaansprakelijk voor die belasting wanneer de in het land waar de belasting verschuldigd is geldende rechtsregels in deze hoofdelijke aansprakelijkheid voorzien.
-
-##### Artikel 9
-
-De processen-verbaal en andere schriftelijke verklaringen, opgemaakt door de bevoegde ambtenaren van een van de landen in de vorm en naar de eisen, door de wetgeving van hun land bepaald, hebben voor de toepassing van de wettelijke bepalingen inzake de omzetbelasting in een ander land dezelfde bewijskracht als waren zij rechtsgeldig door de bevoegde ambtenaren van dat land opgemaakt.
-
-##### Artikel 10
-
-Teneinde de administratieve samenwerking op het stuk van de belastingen te vergemakkelijken, oefenen de Ministers van Financiën, op het gebied van de wettelijke bepalingen bedoeld in artikel 1, tweede lid, gezamenlijk de bevoegdheden uit, welke in [artikel 40 van het Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=40) aan het Comité van Ministers zijn toegekend.
-
-##### Artikel 11
-
-Het bepaalde in artikel 20 van de Overeenkomst is, met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, mede van toepassing ten aanzien van het afleggen van getuigenis voor gerechtelijke autoriteiten door ambtenaren in andere dan strafzaken.
-
-##### Artikel 12
-
-1. Het bepaalde bij de artikelen 21, 28, 29 en 31 van de Overeenkomst is niet van toepassing met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen.
-
-2. Het bepaalde bij de artikelen 22, 23 en 24 van de Overeenkomst is van toepassing met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen.
-
-##### Artikel 13
-
-Met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen inzake de douane en de accijnzen kan, in afwijking van artikel 11 van het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968, een verzoek als bedoeld in artikel 33 van dit Verdrag worden gedaan en kan de inbeslagneming geschieden door de administratieve autoriteiten, die volgens hun nationale wetgeving bevoegd zijn tot inbeslagneming over te gaan, mits zij daartoe door de bevoegde Ministers van elk land zijn aangewezen.
-
-De administratieve autoriteiten van het aangezochte land zullen de gerechtelijke autoriteiten van de plaats van inbeslagneming, aanstonds na de ontvangst van een dergelijk verzoek, daarvan op de hoogte stellen.
-
-##### Artikel 14
-
-Voor zover een verzoek tot tenuitvoerlegging betrekking heeft op boeten of verbeurdverklaringen terzake van een overtreding van de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, is het bepaalde in artikel 3 van het Verdrag inzake de tenuitvoerlegging van rechterlijke beslissingen in strafzaken van 26 september 1968 niet van toepassing.
-
-##### Artikel 15
-
-Met betrekking tot de in artikel 1, tweede lid, bedoelde wettelijke bepalingen, houdt het bepaalde in de artikelen 6, 18 en 19 van de Overeenkomst niet in dat ambtenaren van een aangezocht land zouden verplicht zijn meer of andere gegevens ter kennisneming ter beschikking te stellen dan door ambtenaren van het verzoekende land in het omgekeerde geval zouden kunnen worden verstrekt.
-
-##### Artikel 16
-
-Het Verdrag nopens de samenwerking op het stuk van douanen en van accijnzen van 5 september 1952 en het Verdrag tot wederzijdse bijstand inzake de heffing van de omzetbelasting, de overdrachttaks en soortgelijke belastingen van 25 mei 1964, vervallen.
-
-De Verdragsluitende Partijen bij de heden ondertekende Overeenkomst inzake de administratieve en strafrechtelijke samenwerking op het gebied van de regelingen die verband houden met de verwezenlijking van de doelstellingen van de Benelux Economische Unie,
-
-Overwegende, dat bijzondere bepalingen dienen te gelden op het stuk van het vervoer,
-
-Gelet op artikel 33 van genoemde Overeenkomst,
-
-Hebben besloten hiertoe een Aanvullend Protocol bij genoemde Overeenkomst te sluiten en zijn het volgende overeengekomen:
-
-##### Artikel 1
-
-1. Wanneer de krachtens artikel 2 van de Overeenkomst aangewezen wettelijke bepalingen betrekking hebben op tariefvoorschriften voor het goederenvervoer over de weg is bovendien het onderhavige Protocol op deze voorschriften van toepassing.
-
-2. Wanneer de krachtens artikel 2 van de Overeenkomst aangewezen wettelijke bepalingen betrekking hebben op tariefvoorschriften voor ander vervoer dan goederenvervoer over de weg, kan het Comité van Ministers besluiten, dat de artikelen van dit Protocol eveneens, geheel of gedeeltelijk, van toepassing zijn op deze voorschriften.
-
-3. Wanneer de krachtens artikel 2 van de Overeenkomst aangewezen wettelijke bepalingen betrekking hebben op andere voorschriften dan die bedoeld in het eerste lid voor het goederenverkeer over de weg, vastgesteld ingevolge [artikel 85](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=85), [86](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=86) of [87 van het Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=87), kan:
-
-- a). het Comité van Ministers besluiten, dat artikel 2 en afdeling 1 van dit Protocol van toepassing zijn op deze voorschriften;
-
-- b). het Comité van Ministers, nadat het advies is ingewonnen van de Raadgevende Interparlementaire Raad, besluiten, dat eveneens de afdelingen 2 t/m 4 van dit Protocol van toepassing zijn, voor zover deze voorschriften ertoe strekken:
-
-- -. de houder van een vergunning tot het verrichten van vervoer te verbieden, ander vervoer te verrichten dan ingevolge de vergunning is toegestaan;
-
-- -. de houder van een vergunning tot het verrichten van vervoer de verplichting op te leggen tot naleving van voorwaarden verbonden aan de vergunning;
-
-- -. de houder van een vergunning tot het verrichten van vervoer verplichtingen op te leggen met betrekking tot door dat vervoer voorgeschreven controledocumenten.
-
-##### Artikel 2
-
-1. Op grond van [artikel 31 van het Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=31) wordt een Bijzondere Commissie ingesteld, bestaande uit vertegenwoordigers van Ministers van de drie landen die bevoegd zijn inzake vervoer. In deze Commissie beschikt ieder land over één stem.
-
-2. Het Comité van Ministers stelt het reglement van orde van deze Bijzondere Commissie vast.
-
-### Afdeling 1. - Controle
-
-##### Artikel 3
-
-De Bijzondere Commissie treedt op als gemeenschappelijk controleorgaan en heeft tot taak toezicht uit te oefenen op de naleving van de bepalingen waarop deze afdeling van toepassing is en daartoe, hetzij eigener beweging hetzij op klacht, alle vereiste controle-behandelingen te doen verrichten.
-
-##### Artikel 4
-
-De Bijzondere Commissie bepaalt, hetzij eigener beweging hetzij op verzoek van een harer leden, de modaliteiten volgens welke de controle wordt uitgeoefend.
-
-##### Artikel 5
-
-1. Voor de uitoefening van hun taak beschikken de met de controle belaste ambtenaren tenminste over de navolgende bevoegdheden:
-
-- a). aanhouding van alle vervoermiddelen met recht van toegang tot de voertuigen en verplichting voor de bestuurder de stukken over te leggen aan de hand waarvan de naleving der in artikel 3 bedoelde bepalingen kan worden gecontroleerd;
-
-- b). controle van de identiteit van de bestuurder en die van de vervoerder en verificatie van de lading van het vervoermiddel;
-
-- c). toegang tot alle voor de bedrijfsuitoefening der vervoerders, tussenpersonen en opdrachtgevers bestemde bedrijfsruimten, terreinen en vervoermiddelen, teneinde de in dit artikel bedoelde verificaties te verrichten;
-
-- d). verificatie van de boeken en andere beroepsbescheiden van de vervoerders, tussenpersonen en opdrachtgevers alsmede het nemen van afschrift van of uittreksels uit deze boeken en bescheiden;
-
-- e). het eisen van nadere uitleg aangaande de boeken en verdere beroepsbescheiden van de vervoerders, tussenpersonen en hun opdrachtgevers alsmede aangaande de naleving der in artikel 3 bedoelde bepalingen.
-
-2. De bevoegdheden, voorzien onder c), d) en e) kunnen ten aanzien van opdrachtgevers slechts worden uitgeoefend in geval van vermoeden van overtreding.
-
-##### Artikel 6
-
-Personen die aan een controle worden onderworpen zijn verplicht het de bevoegde ambtenaren, die hun functie uitoefenen overeenkomstig de artikelen 4 en 5, mogelijk te maken hun taak te vervullen. Bij weigering worden zij, bij afwezigheid van een andere sanctie, terzake voorzien door de nationale wetgeving van het land waar de vervolging moet plaatsvinden, gestraft met de straffen, door de bedoelde wetgeving voorzien voor een overtreding der tariefbepalingen voor het vervoer van goederen over de weg.
-
-##### Artikel 7
-
-1. De met controle belaste ambtenaren leggen tegenover de Bijzondere Commissie verantwoording af over de uitoefening van hun taak.
-
-2. Indien de Bijzondere Commissie of een der vertegenwoordigde landen van mening is dat er een strafbaar feit is begaan, zendt zij onverwijld het proces-verbaal van de ambtenaren, eventueel vergezeld van een rapport, door aan het Openbaar Ministerie, dat bevoegd is een rechtsvervolging in te stellen.
-
-3. De Bijzondere Commissie is verplicht alle inlichtingen te verstrekken, die haar door de gerechtelijke instanties worden gevraagd.
-
-4. De Bijzondere Commissie wordt in kennis gesteld van de resultaten van de ingestelde rechtsvervolging.
-
-### Afdeling 2. - Voorlopige gerechtelijke maatregelen
-
-##### Artikel 8
-
-1. Het Openbaar Ministerie, dat bevoegd is een rechtsvervolging in te stellen, of de rechter van instructie voor zover deze daartoe volgens de nationale wet bevoegd is, alsmede de rechtbanken en gerechtshoven waarbij de zaak aanhangig is, kunnen de vervoerder, indien hij weigert zich te onderwerpen aan de in afdeling 1 bedoelde controle of indien hij de bepalingen waarop deze afdeling van toepassing is heeft overtreden, in iedere stand van de zaak bij wijze van voorlopige maatregel de mogelijkheid tot het verrichten van vervoer ontnemen.
-
-2. Deze maatregel kan in de tijd worden beperkt. Zij kan te allen tijde worden gewijzigd of ingetrokken door de gerechtelijke autoriteit waarbij de zaak aanhangig is. Zij houdt op te gelden wanneer de vervoerder wordt vrijgesproken of wanneer een over hem uitgesproken rechterlijk vonnis kracht van gewijsde heeft verkregen.
-
-3. Tegen bedoelde maatregel kan beroep worden ingesteld in de gevallen en op de voorwaarden als bepaald in de nationale wet. Het beroep heeft geen schorsende werking.
-
-4. De Bijzondere Commissie kan met tenminste meerderheid van stemmen en met inachtneming van het bepaalde in artikel 10 aan het bevoegde Openbaar Ministerie een gemotiveerd advies uitbrengen tot het nemen van een voorlopige maatregel. Dit advies wordt in elke stand van de zaak door het Openbaar Ministerie overgemaakt aan de gerechtelijke autoriteiten waarbij de zaak aanhangig is. De Bijzondere Commissie mag indien zij dit verzoekt haar advies schriftelijk of mondeling nader toelichten. Zij moet haar advies schriftelijk of mondeling nader toelichten indien de bevoegde gerechtelijke autoriteit zulks verzoekt.
-
-5. Het Openbaar Ministerie stelt de Bijzondere Commissie onverwijld in kennis van het gevolg dat is gegeven aan haar gemotiveerd verzoek en van alle beslissingen op grond waarvan een voorlopige maatregel wordt genomen, gewijzigd of ingetrokken.
-
-### Afdeling 3. - Administratieve maatregelen
-
-##### Artikel 9
-
-De Bijzondere Commissie kan met inachtneming van het bepaalde in artikel 10 tot de bevoegde Minister van het land, waar de betrokken vervoerder gevestigd is, een gemotiveerd advies richten tot intrekking van de mogelijkheid tot het verrichten van vervoer door die vervoerder:
-
-- a). indien de vervoerder weigert zich te onderwerpen aan de in afdeling 1 bedoelde controle;
-
-- b). na een veroordeling van de vervoerder, welke kracht van gewijsde heeft verkregen, door de bevoegde gerechtelijke autoriteit terzake van weigering van de in afdeling 1 bedoelde controle of terzake van overtreding van de in artikel 8 bedoelde bepalingen.
-
-##### Artikel 10
-
-Ingeval de Bijzondere Commissie voornemens is een gemotiveerd advies uit te brengen stelt zij de belanghebbende vervoerder daarvan in kennis bij aangetekende brief, welke tenminste zeven dagen vóór het uitbrengen van het advies ter post moet zijn bezorgd. Gedurende deze termijn wordt het dossier ter beschikking van de vervoerder gehouden. De vervoerder wordt, indien hij zulks verzoekt, door de Bijzondere Commissie gehoord. Hij kan zich doen bijstaan of doen vertegenwoordigen door een advocaat of door een raadsman omtrent wiens toelating in ieder afzonderlijk geval door de Bijzondere Commissie wordt beslist.
-
-##### Artikel 11
-
-1. Het in artikel 9 bedoelde gemotiveerde advies wordt binnen acht dagen ter kennis gebracht van de Minister, die tot het nemen van een beslissing bevoegd is.
-
-2. De Minister of zijn gevolmachtigde neemt zijn beslissing binnen dertig dagen na ontvangst van het gemotiveerde advies. Indien hij besluit de mogelijkheid tot het verrichten van vervoer in te trekken, stelt hij de vervoerder daarvan onmiddellijk in kennis en is de beslissing uitvoerbaar vanaf de vijftiende dag na de datum waarop zij is genomen.
-
-3. De Minister of zijn gevolmachtigde stelt de Bijzondere Commissie binnen acht dagen na de datum waarop zijn beslissing is genomen, van deze beslissing in kennis.
-
-##### Artikel 12
-
-- a). De bevoegde Minister of zijn gevolmachtigde beslist overeenkomstig een advies als bedoeld in artikel 9, a), indien het is uitgebracht met tenminste meerderheid van stemmen.
-
-- b). De Minister of zijn gevolmachtigde kan echter van dit advies, bij een gemotiveerde beslissing, afwijken in de volgende gevallen:
-
-- 1°. indien intussen de controle heeft plaatsgehad of indien de vervoerder de bevoegde Minister in kennis heeft gesteld van zijn bereidheid zich aan genoemde controle te onderwerpen;
-
-- 2°. indien terzake van de weigering zich aan genoemde controle te onderwerpen een rechterlijke uitspraak is gedaan, welke kracht van gewijsde heeft verkregen;
-
-- 3°. in geval van misbruik van bevoegdheid of van klaarblijkelijke dwaling, overeenkomstig het advies van het bevoegde Openbaar Ministerie of eventueel van de rechter van instructie.
-
-- c). De Minister of zijn gevolmachtigde stelt het bevoegde Openbaar Ministerie onverwijld van zijn beslissing in kennis.
-
-2. De Minister of zijn gevolmachtigde beslist overeenkomstig een advies, als bedoeld in artikel 9, b), indien dit met algemene stemmen is uitgebracht. Is het advies uitgebracht met meerderheid van stemmen, dan kan de Minister of zijn gevolmachtigde vrijelijk over de intrekking beslissen, doch indien hij van het advies afwijkt, dient zijn beslissing gemotiveerd te zijn.
-
-### Afdeling 4. - Beslissingen inzake intrekking
-
-##### Artikel 13
-
-1. De gemotiveerde adviezen, de voorlopige rechterlijke beslissingen en de administratieve beslissingen kunnen betrekking hebben op gehele of gedeeltelijke intrekking van de mogelijkheid tot het verrichten van vervoer.
-
-2. Deze adviezen en beslissingen kunnen betrekking hebben op de intrekking van de mogelijkheid tot het verrichten van vervoer tussen de drie landen, tussen één der drie landen en derde landen, alsmede in een ander land dan dat waar de vervoerder gevestigd is, één en ander voor zover de vervoerders der drie landen overeenkomstig de bepalingen van het [Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) gerechtigd zijn aan zodanig vervoer deel te nemen.
-
-Het Comité van Ministers kan tevens bepalen, dat de intrekking zich kan uitstrekken tot de mogelijkheid tot het verrichten van ander vervoer, na toepassing van de [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=85), [86, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=86), en [87, eerste lid, van genoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=87).
-
-- a). De intrekking, waartoe is besloten overeenkomstig het advies, bedoeld in artikel 9, a), blijft geldig tot de dag, waarop de controle heeft plaatsgehad en uiterlijk tot de vijfde dag na die, waarop de vervoerder aan de bevoegde Minister mededeelt zich aan bedoelde controle te willen onderwerpen. De Minister of zijn gevolmachtigde heft de maatregel tot intrekking op, indien m.b.t. de weigering van de vervoerder zich aan de controle te onderwerpen een rechterlijke uitspraak is gedaan welke kracht van gewijsde heeft verkregen. De beslissing vervalt vier weken nadat zij uitvoerbaar is geworden, voor zover zij niet eerder ongeldig is geworden op grond van het in dit lid bepaalde; de duur van reeds in de zaak geëffectueerde intrekkingen wordt op deze termijn in mindering gebracht.
-
-- b). Het in artikel 9, b), bedoelde gemotiveerde advies alsmede de intrekking, waartoe overeenkomstig dat advies is besloten, kunnen betrekking hebben op een tijdvak van acht dagen tot zes maanden; de duur van reeds in de zaak geëffectueerde intrekkingen wordt op deze termijn in mindering gebracht.
-
-##### Artikel 14
-
-1. De beslissingen van de Minister of zijn gevolmachtigde, bedoeld in artikel 12, zijn vatbaar voor beroep in de gevallen en op de voorwaarden als voorzien in de nationale wet. Het beroep kan slechts betrekking hebben op de nietigverklaring van de beslissing. Het heeft geen schorsende werking behoudens andersluidende beslissing van de rechter bij wie de zaak aanhangig is.
-
-2. De Bijzondere Commissie is verplicht alle inlichtingen te verstrekken, die haar door de administratieve rechter worden gevraagd.
-
-3. De Bijzondere Commissie wordt in kennis gesteld van de beslissing op het beroep.
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend.
 

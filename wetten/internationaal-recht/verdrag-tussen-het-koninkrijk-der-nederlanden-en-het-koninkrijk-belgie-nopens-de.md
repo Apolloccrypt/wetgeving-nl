@@ -1,64 +1,27 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens de ontginning van steenkolen in evenwijdig aan de grens liggende stroken van de langs de Maas gelegen steenkolenmijnen"
 identifier: "BWBV0004379"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-03-23"
-last_updated: "1967-03-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0004379"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004088763"
-version_id: "10004257332"
-internal_id: "C10006987241"
-label_id: "10004073114"
-dtd_version: "2.0"
-original_entry_into_force: "1967-03-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0004379/1967-03-23/0"
-intitule_bron: "Trb.1965-65"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1965-06-04"
-intitule_in_force: "1967-04-12"
-intitule_status: "goed"
-original_publication: "Trb.1965-65"
-original_published_date: "1965-06-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1965-65"
-entry_into_force_date: "1967-03-23"
-jci_1_3: "jci1.3:c:BWBV0004379&z=1967-03-23&g=1967-03-23"
-jci_1_0: "1.0:c:BWBV0004379&g=1967-03-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-03-23"
+publicatiedatum: 1967-03-23
+laatste_update: 1967-03-23
+status: geldig
+toestand: 1967-03-23
+bron: "https://wetten.overheid.nl/BWBV0004379"
+opgehaald: 2026-09-14
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens de ontginning van steenkolen in evenwijdig aan de grens liggende stroken van de langs de Maas gelegen steenkolenmijnen
 
-Hare Majesteit de Koningin der Nederlanden, enerzijds,
-
-en
-
-Zijne Majesteit de Koning der Belgen, anderzijds,
-
-Geleid door de wens de ontginning van steenkolen in de steenkolenmijnen, gelegen aan beide zijden van de ontginningsgrens vastgesteld bij het op 23 oktober 1950 te Brussel tussen het Koninkrijk der Nederlanden en het Koninkrijk België gesloten verdrag, van de tegenoverliggende steenkolenmijn uit tot op 500 meter van die grens mogelijk te maken;
-
-Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken;
-
-Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie F. X. Baron van der Straten-Waillet, buitengewoon en gevolmachtigd Ambassadeur te 's-Gravenhage,
-
-die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden, enerzijds, en Zijne Majesteit de Koning der Belgen, anderzijds, Geleid door de wens de ontginning van steenkolen in de steenkolenmijnen, gelegen aan beide zijden van de ontginningsgrens vastgesteld bij het op 23 oktober 1950 te Brussel tussen het Koninkrijk der Nederlanden en het Koninkrijk België gesloten verdrag, van de tegenoverliggende steenkolenmijn uit tot op 500 meter van die grens mogelijk te maken; Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr. J. M. A. H. Luns, Minister van Buitenlandse Zaken; Zijne Majesteit de Koning der Belgen: Zijne Excellentie F. X. Baron van der Straten-Waillet, buitengewoon en gevolmachtigd Ambassadeur te 's-Gravenhage, die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 Dit verdrag is van toepassing op:
 
-- a. het deel van Staatsmijn Maurits, gelegen aan de oostzijde van de ontginningsgrens, vastgesteld bij het op 23 oktober 1950 te Brussel tussen het Koninkrijk der Nederlanden en het Koninkrijk België gesloten verdrag, welk deel op de aan dit verdrag gehechte kaart in blauw is aangegeven en dat is begrensd: **ten zuiden** door een ten opzichte van het tussen de punten 64a en 66 gelegen gedeelte van de ontginningsgrens door eerstgenoemd punt getrokken loodlijn; **ten oosten** door een lijn evenwijdig aan de ontginningsgrens op een afstand van 500 m van die grens tot waar deze lijn de noordelijke grens van het mijnveld snijdt; **ten noorden** door de noordelijke grens van het mijnveld; **ten westen** door de ontginningsgrens;
+- a. het deel van Staatsmijn Maurits, gelegen aan de oostzijde van de ontginningsgrens, vastgesteld bij het op 23 oktober 1950 te Brussel tussen het Koninkrijk der Nederlanden en het Koninkrijk België gesloten verdrag, welk deel op de aan dit verdrag gehechte kaart in blauw is aangegeven en dat is begrensd: *ten zuiden* door een ten opzichte van het tussen de punten 64a en 66 gelegen gedeelte van de ontginningsgrens door eerstgenoemd punt getrokken loodlijn; *ten oosten* door een lijn evenwijdig aan de ontginningsgrens op een afstand van 500 m van die grens tot waar deze lijn de noordelijke grens van het mijnveld snijdt; *ten noorden* door de noordelijke grens van het mijnveld; *ten westen* door de ontginningsgrens;
 
-- b. het deel van de mijn van de „Société Anonyme des Charbonnages de Limbourg Meuse”, gelegen aan de westzijde van de onder a bedoelde ontginningsgrens, welk deel op de aan dit verdrag gehechte kaart in geel is aangegeven en dat is begrensd: **ten zuiden** door een ten opzichte van het tussen de punten 64a en 66 gelegen gedeelte van de ontginningsgrens door eerstgenoemd punt getrokken loodlijn; **ten oosten** door de ontginningsgrens; **ten noorden** door een lijn getrokken door het punt 145 in het verlengde van de noordelijke grens van het mijnveld van Staatsmijn Maurits tot waar deze lijn, die onder ten westen genoemd snijdt; **ten westen** door een lijn evenwijdig aan de ontginningsgrens op een afstand van 500 m van die grens.
+- b. het deel van de mijn van de „Société Anonyme des Charbonnages de Limbourg Meuse”, gelegen aan de westzijde van de onder a bedoelde ontginningsgrens, welk deel op de aan dit verdrag gehechte kaart in geel is aangegeven en dat is begrensd: *ten zuiden* door een ten opzichte van het tussen de punten 64a en 66 gelegen gedeelte van de ontginningsgrens door eerstgenoemd punt getrokken loodlijn; *ten oosten* door de ontginningsgrens; *ten noorden* door een lijn getrokken door het punt 145 in het verlengde van de noordelijke grens van het mijnveld van Staatsmijn Maurits tot waar deze lijn, die onder ten westen genoemd snijdt; *ten westen* door een lijn evenwijdig aan de ontginningsgrens op een afstand van 500 m van die grens.
 
 ##### Artikel 2
 
