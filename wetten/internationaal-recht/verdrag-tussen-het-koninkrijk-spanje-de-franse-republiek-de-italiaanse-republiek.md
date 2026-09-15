@@ -1,68 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps EUROGENDFOR"
 identifier: "BWBV0005856"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-06-01"
-last_updated: "2012-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005856"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004897993"
-version_id: "10005210532"
-internal_id: "C10007953501"
-label_id: "10004881824"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005856/2012-06-01/0"
-intitule_bron: "Trb.2007-227"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-12-13"
-intitule_in_force: "2012-07-16"
-intitule_status: "goed"
-original_publication: "Trb.2007-227"
-original_published_date: "2007-12-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-227"
-entry_into_force_date: "2012-06-01"
-jci_1_3: "jci1.3:c:BWBV0005856&z=2012-06-01&g=2012-06-01"
-jci_1_0: "1.0:c:BWBV0005856&g=2012-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-06-01"
+publicatiedatum: 2012-06-01
+laatste_update: 2012-06-01
+status: geldig
+toestand: 2012-06-01
+bron: "https://wetten.overheid.nl/BWBV0005856"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek tot oprichting van het Europees Gendarmeriekorps EUROGENDFOR
 
-Het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Italiaanse Republiek,
-
-het Koninkrijk der Nederlanden
-
-en
-
-de Portugese Republiek,
-
-Hierna te noemen de Partijen,
-
-Gelet op de intentieverklaring inzake EUROGENDFOR, op 17 september 2004 ondertekend te Noordwijk;
-
-Gelet op het [Noord-Atlantisch Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005760), op 4 april 1949 ondertekend te Washington;
-
-Gelet op het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), op 26 juni 19462)Noot redactie: hier wordt bedoeld „1945” in plaats van „1946”. ondertekend te San Francisco;
-
-Gelet op het [Verdrag tussen de partijen bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten](https://wetten.overheid.nl/jci1.3:c:BWBV0004785), op 19 juni 1951 ondertekend te Londen;
-
-Gelet op het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) zoals gewijzigd bij het Verdrag van Nice, ondertekend op 26 februari 2001;
-
-Gelet op de Slotakte van de Conferentie voor Veiligheid en Samenwerking in Europa, op 1 augustus 1975 ondertekend te Helsinki;
-
-Gelet op het [Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten, met inbegrip van oefeningen, bedoeld in artikel 17, tweede lid, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden](https://wetten.overheid.nl/jci1.3:c:BWBV0003024), op 17 november 2003 ondertekend te Brussel;
-
-Als bijdrage aan de ontwikkeling van de Europese veiligheids- en defensie-identiteit en ter versterking van het Europese veiligheids- en defensiebeleid;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, het Koninkrijk der Nederlanden en de Portugese Republiek, Hierna te noemen de Partijen, Gelet op de intentieverklaring inzake EUROGENDFOR, op 17 september 2004 ondertekend te Noordwijk; Gelet op het Noord-Atlantisch Verdrag, op 4 april 1949 ondertekend te Washington; Gelet op het Handvest van de Verenigde Naties, op 26 juni 19462)Noot redactie: hier wordt bedoeld „1945” in plaats van „1946”. ondertekend te San Francisco; Gelet op het Verdrag tussen de partijen bij het Noord-Atlantisch Verdrag nopens de rechtspositie van hun krijgsmachten, op 19 juni 1951 ondertekend te Londen; Gelet op het Verdrag betreffende de Europese Unie zoals gewijzigd bij het Verdrag van Nice, ondertekend op 26 februari 2001; Gelet op de Slotakte van de Conferentie voor Veiligheid en Samenwerking in Europa, op 1 augustus 1975 ondertekend te Helsinki; Gelet op het Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten, met inbegrip van oefeningen, bedoeld in artikel 17, tweede lid, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden, op 17 november 2003 ondertekend te Brussel; Als bijdrage aan de ontwikkeling van de Europese veiligheids- en defensie-identiteit en ter versterking van het Europese veiligheids- en defensiebeleid; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
@@ -82,9 +33,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. „EUROGENDFOR”, de multinationale politiemacht met militaire status, bestaande uit:
 
-- i. het Permanente Hoofdkwartier;
+   - i. het Permanente Hoofdkwartier;
 
-- ii. de EGF-eenheden aangewezen door de Partijen nadat het bevel is overgedragen;
+   - ii. de EGF-eenheden aangewezen door de Partijen nadat het bevel is overgedragen;
 
 - b. „PERMANENT HOOFDKWARTIER”, het multinationale, modulaire en projecteerbare Permanente Hoofdkwartier, gevestigd te Vicenza (Italië). De rol en structuur van het Permanente Hoofdkwartier en zijn betrokkenheid bij operaties dienen te worden goedgekeurd door de CIMIN;
 
@@ -112,13 +63,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - n. „GEZINSLID(LEDEN)”,
 
-- i. de echtgenoot/echtgenote van een personeelslid van het Permanente Hoofdkwartier;
+   - i. de echtgenoot/echtgenote van een personeelslid van het Permanente Hoofdkwartier;
 
-- ii. een andere persoon die een geregistreerd partnerschap is aangegaan met een personeelslid van het Permanente Hoofdkwartier, overeenkomstig de wetgeving van de Zendstaat, mits geregistreerde partnerschappen in de wetgeving van de Gastheerstaat gelijkgesteld worden met het huwelijk en zulks in overeenstemming is met de in de daarop betrekking hebbende wetgeving van de Gastheerstaat neergelegde voorwaarden;
+   - ii. een andere persoon die een geregistreerd partnerschap is aangegaan met een personeelslid van het Permanente Hoofdkwartier, overeenkomstig de wetgeving van de Zendstaat, mits geregistreerde partnerschappen in de wetgeving van de Gastheerstaat gelijkgesteld worden met het huwelijk en zulks in overeenstemming is met de in de daarop betrekking hebbende wetgeving van de Gastheerstaat neergelegde voorwaarden;
 
-- iii. directe nakomelingen die jonger dan 21 of inkomensafhankelijk zijn en dergelijke nakomelingen van de echtgenoot/echtgenote of partner zoals omschreven onder ii;
+   - iii. directe nakomelingen die jonger dan 21 of inkomensafhankelijk zijn en dergelijke nakomelingen van de echtgenoot/echtgenote of partner zoals omschreven onder ii;
 
-- iv. inkomensafhankelijke directe verwanten in de opgaande lijn en dergelijke verwanten van de echtgenoot/echtgenote of partner zoals omschreven onder ii.
+   - iv. inkomensafhankelijke directe verwanten in de opgaande lijn en dergelijke verwanten van de echtgenoot/echtgenote of partner zoals omschreven onder ii.
 
 ### HOOFDSTUK II. MISSIES, STATIONERING EN INZET
 
@@ -180,19 +131,19 @@ EUROGENDFOR kan ter beschikking worden gesteld van de Europese Unie (EU), van de
 
 - g. besluiten over:
 
-- i. de participatie van EUROGENDFOR in missies;
+   - i. de participatie van EUROGENDFOR in missies;
 
-- ii. de participatie van Bijdragende Staten in EUROGENDFOR-missies;
+   - ii. de participatie van Bijdragende Staten in EUROGENDFOR-missies;
 
-- iii. verzoeken om medewerking van derde Staten, internationale organisaties of anderen.
+   - iii. verzoeken om medewerking van derde Staten, internationale organisaties of anderen.
 
 - h. opstellen van het kader voor door EUROGENDFOR geleide acties of op verzoek van de EU, de VN, de OVSE, de NAVO, andere internationale organisaties of een ad hoc coalitie;
 
 - i. formuleren van het kader voor elke missie, waar mogelijk in overleg met de desbetreffende internationale organisaties, te weten:
 
-- i. aanwijzen van de Commandant EGF-krachten;
+   - i. aanwijzen van de Commandant EGF-krachten;
 
-- ii. betrokkenheid van het Permanente Hoofdkwartier in de bevelsstructuur.
+   - ii. betrokkenheid van het Permanente Hoofdkwartier in de bevelsstructuur.
 
 - j. goedkeuren van de structuur van het Lokaal Hoofdkwartier;
 
@@ -364,9 +315,9 @@ Wat betreft inkomsten- en vermogensbelastingen worden de personeelsleden van het
 
 - a. de bevoegde autoriteiten van de Zendstaat hebben voorrang bij de uitoefening van rechtsmacht over militair en burgerpersoneel indien het burgerpersoneel onder de wetgeving valt die op alle of een deel van de politiemachten met militaire status van de Zendstaat, vanwege de inzet van het burgerpersoneel bij die politiemachten van toepassing is en wel ten aanzien van:
 
-- i. vergrijpen uitsluitend gericht tegen de eigendommen of veiligheid van die Staat of vergrijpen uitsluitend gericht tegen de persoon of eigendommen van militair of burgerpersoneel van die Staat of van een gezinslid;
+   - i. vergrijpen uitsluitend gericht tegen de eigendommen of veiligheid van die Staat of vergrijpen uitsluitend gericht tegen de persoon of eigendommen van militair of burgerpersoneel van die Staat of van een gezinslid;
 
-- ii. vergrijpen die voortvloeien uit een handelen of nalaten begaan in het kader van de uitoefening van officiële taken;
+   - ii. vergrijpen die voortvloeien uit een handelen of nalaten begaan in het kader van de uitoefening van officiële taken;
 
 - b. de autoriteiten van de Gastheerstaat of de Ontvangende Staat hebben voorrang bij de uitoefening van rechtsmacht ten aanzien van andere vergrijpen;
 

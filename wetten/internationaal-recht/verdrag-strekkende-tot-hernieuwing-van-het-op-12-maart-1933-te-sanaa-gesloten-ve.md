@@ -1,56 +1,19 @@
 ---
 title: "Verdrag strekkende tot hernieuwing van het op 12 maart 1933 te Sana'a gesloten Verdrag van vriendschap tussen Nederland en Jemen"
 identifier: "BWBV0005908"
-country: "nl"
-rank: "verdrag"
-publication_date: "1950-04-04"
-last_updated: "1950-04-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005908"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004943323"
-version_id: "10005260122"
-internal_id: "C10008098551"
-label_id: "10004926584"
-dtd_version: "2.0"
-original_entry_into_force: "1950-04-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005908/1950-04-04/0"
-intitule_bron: "Stb.1947-H 254"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-07-18"
-intitule_published: "1947-08-22"
-intitule_in_force: "1950-12-19"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 254"
-original_signed_date: "1947-07-18"
-original_published_date: "1947-08-22"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1950-04-04"
-jci_1_3: "jci1.3:c:BWBV0005908&z=1950-04-04&g=1950-04-04"
-jci_1_0: "1.0:c:BWBV0005908&g=1950-04-04"
-citeertitel_status: "redactioneel"
-signed_date: "1947-07-18"
-entry_into_force: "1950-04-04"
+publicatiedatum: 1950-04-04
+laatste_update: 1950-04-04
+status: geldig
+toestand: 1950-04-04
+bron: "https://wetten.overheid.nl/BWBV0005908"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag strekkende tot hernieuwing van het op 12 maart 1933 te Sana'a gesloten Verdrag van vriendschap tussen Nederland en Jemen
 
-Zijne Majesteit de Koning van Jemen IMAAM JAHJA BIN AL IMAAM MOHAMMAD BIN JAHJA HAMIED AD-DIEN
-
-en
-
-Hare Majesteit de Koningin der Nederlanden
-
-Overwegende, dat het wenschelijk is de hernieuwing te bevorderen van het verdrag van vriendschap tusschen Jemen en Nederland, gesloten te San 'â' op 12 Maart 1933, met overeenkomstige bepalingen en voor denzelfden tijd als vermeld in artikel vijf daarvan,
-
-Hebben besloten opnieuw een verdrag van vriendschap in dien zin te sluiten,
-
-En hebben daartoe tot Hunne gevolmachtigden benoemd:
-
-Zijne Majesteit de Koning van Jemen QADHI MOHAMMAD RAGHIB BIN RAFIEK, Minister van Buitenlandsche Zaken van Jemen,
-
-Hare Majesteit de Koningin der Nederlanden den Heer C. ADRIAANSE, Zaakgelastigde te Djeddah,
-
-Welke in onderlinge overeenstemming de navolgende artikelen hebben opgesteld:
+*Zijne Majesteit de Koning van Jemen IMAAM JAHJA BIN AL IMAAM MOHAMMAD BIN JAHJA HAMIED AD-DIEN en Hare Majesteit de Koningin der Nederlanden Overwegende, dat het wenschelijk is de hernieuwing te bevorderen van het verdrag van vriendschap tusschen Jemen en Nederland, gesloten te San 'â' op 12 Maart 1933, met overeenkomstige bepalingen en voor denzelfden tijd als vermeld in artikel vijf daarvan, Hebben besloten opnieuw een verdrag van vriendschap in dien zin te sluiten, En hebben daartoe tot Hunne gevolmachtigden benoemd: Zijne Majesteit de Koning van Jemen QADHI MOHAMMAD RAGHIB BIN RAFIEK, Minister van Buitenlandsche Zaken van Jemen, Hare Majesteit de Koningin der Nederlanden den Heer C. ADRIAANSE, Zaakgelastigde te Djeddah, Welke in onderlinge overeenstemming de navolgende artikelen hebben opgesteld:*
 
 ##### Artikel Een
 

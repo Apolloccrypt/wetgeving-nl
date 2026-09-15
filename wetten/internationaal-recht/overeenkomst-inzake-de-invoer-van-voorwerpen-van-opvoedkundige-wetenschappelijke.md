@@ -1,173 +1,142 @@
 ---
 title: "Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard"
 identifier: "BWBV0005577"
-country: "nl"
-rank: "verdrag"
-publication_date: "1957-10-31"
-last_updated: "1957-10-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005577"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004724433"
-version_id: "10004990552"
-internal_id: "C10007614071"
-label_id: "10004708434"
-dtd_version: "2.0"
-original_entry_into_force: "1957-10-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005577/1957-10-31/0"
-intitule_bron: "Trb.1952-42"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-03-24"
-intitule_in_force: "1957-12-17"
-intitule_status: "goed"
-original_publication: "Trb.1952-42"
-original_published_date: "1952-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-42"
-entry_into_force_date: "1957-10-31"
-jci_1_3: "jci1.3:c:BWBV0005577&z=1957-10-31&g=1957-10-31"
-jci_1_0: "1.0:c:BWBV0005577&g=1957-10-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "1957-10-31"
+publicatiedatum: 1957-10-31
+laatste_update: 1957-10-31
+status: geldig
+toestand: 1957-10-31
+bron: "https://wetten.overheid.nl/BWBV0005577"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake de invoer van voorwerpen van opvoedkundige, wetenschappelijke of culturele aard
 
-**Preambule**
+*Preamble The Contracting States, Considering that the free exchange of ideas and knowledge and, in general, the widest possible dissemination of the diverse forms of self-expression used by civilisations are vitally important both for intellectual progress and international understanding, and consequently for the maintenance of world peace; Considering that this interchange is accomplished primarily by means of books, publications and educational, scientific and cultural materials; Considering that the Constitution of the United Nations Educational, Scientific and Cultural Organisation urges co-operation between nations in all branches of intellectual activity, including “the exchange of publications, objects of artistic and scientific interest and other materials of information” and provides further that the Organisation shall “collaborate in the work of advancing the mutual knowledge and understanding of peoples, through all means of mass communication, and to that end recommend such international agreements as may be necessary to promote the free flow of ideas by word and image”; Recognise that these aims will be effectively furthered by an international agreement facilitating the free flow of books, publications and educational, scientific and cultural materials; and Have, therefore, agreed to the following provisions:—*
 
-De Overeenkomstsluitende Staten,
+##### Article I
 
-Overwegende dat de vrije uitwisseling van denkbeelden en kennis, en, in het algemeen, de verbreiding op zo ruim mogelijke schaal van de verschillende manieren waarop de beschavingen zich kenbaar maken, van het allergrootste belang zijn zowel voor de intellectuele vooruitgang als voor een goede internationale verstandhouding en mitsdien voor het handhaven van de wereldvrede;
+1. The Contracting States undertake not to apply customs duties or other charges on, or in connexion with, the importation of—
 
-Overwegende dat deze uitwisseling voornamelijk tot stand wordt gebracht door middel van boeken, publicaties en materiaal van opvoedkundige, wetenschappelijke en culturele aard;
+- (a) Books, publications and documents, listed in annex A to this Agreement;
 
-Overwegende dat het [Statuut van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur](https://wetten.overheid.nl/jci1.3:c:BWBV0003155) aandringt op de samenwerking tussen de naties op alle gebieden van intellectuele werkzaamheid met inbegrip van „de uitwisseling van publicaties, voorwerpen van belang uit artistiek en wetenschappelijk oogpunt en ander materiaal dat tot voorlichting kan dienen” en anderzijds bepaalt, dat de Organisatie zal „medewerken aan het bevorderen van de kennis en het begrip der volken onderling door alle middelen van volksvoorlichting en te dien einde iedere internationale overeenkomst aanbevelen, die dienstig kan zijn om de ongestoorde loop der denkbeelden door woord en beeld te vergemakkelijken”,
+- (b) Educational, scientific and cultural materials, listed in annexes B, C, D and E to this Agreement;
 
-Erkennen, dat een internationale overeenkomst strekkend om de ongestoorde loop van boeken, publicaties en van materiaal van opvoedkundige, wetenschappelijke en culturele aard te vergemakkelijken, een doeltreffend middel zal zijn om deze doeleinden te verwezenlijken;
+which are the products of another Contracting State, subject to the conditions laid down in those annexes.
 
-Hebben te dien einde overeenstemming bereikt t.a.v. de volgende bepalingen:
+2. The provisions of paragraph 1 of this article shall not prevent any Contracting State from levying on imported materials—
 
-##### Artikel I
+- (a) Internal taxes or any other internal charges of any kind, imposed at the time of importation or subsequently, not exceeding those applied directly or indirectly to like domestic products;
 
-1. De Overeenkomstsluitende Staten verplichten zich geen douanerechten en andere heffingen te doen gelden op of in verband met de invoer van:
+- (b) Fees and charges, other than customs duties, imposed by governmental authorities on, or in connexion with, importation, limited in amount to the approximate cost of the services rendered, and representing neither an indirect protection to domestic products nor a taxation of imports for revenue purposes.
 
-- (a). Boeken, publicaties en documenten, opgesomd in bijlage A van deze Overeenkomst;
+##### Article II
 
-- (b). Voorwerpen van opvoedkundige, wetenschappelijke en culturele aard, opgesomd in de bijlagen B, C, D en E van deze Overeenkomst,
+1. The Contracting States undertake to grant the necessary licences and/or foreign exchange for the importation of the following articles:—
 
-welke vervaardigd zijn in een andere Overeenkomstsluitende Staat, behoudens de bepalingen neergelegd in die Bijlagen.
+- (a) Books and publications consigned to public libraries and collections and to the libraries and collections of public educational, research or cultural institutions;
 
-2. Het bepaalde in het eerste lid van dit artikel zal geen enkele Overeenkomstsluitende Staat beletten op het ingevoerde materiaal te heffen:
+- (b) Official government publications, that is, official, parliamentary and administrative documents published in their country of origin;
 
-- (a). Binnenlandse belastingen of andere binnenlandse heffingen van welke aard ook, geheven bij of na de invoer, mits deze niet uitgaan boven hetgeen direct of indirect geheven wordt van soortgelijke binnenlandse voortbrengselen;
+- (c) Books and publications of the United Nations or any of its specialised agencies;
 
-- (b). Leges en heffingen, andere dan douane-rechten, geheven door overheids- of administratieve instanties bij of in verband met de invoer, mits zij beperkt zijn tot de geschatte kosten van de bewezen diensten en geen verkapte bescherming van binnenlandse voortbrengselen inhouden of fiscale invoerrechten zijn.
+- (d) Books and publications received by the United Nations Educational, Scientific and Cultural Organisation and distributed free of charge by it or under its supervision;
 
-##### Artikel II
+- (e) Publications intended to promote tourist travel outside the country of importation, sent and distributed free of charge;
 
-1. De Overeenkomstsluitende Staten verbinden zich de noodzakelijke vergunningen en/of deviezen af te geven voor de invoer van de volgende voorwerpen:
+- (f) Articles for the blind:
 
-- (a). Boeken en publicaties bestemd voor openbare bibliotheken en verzamelingen, en voor bibliotheken en verzamelingen van openbare instellingen op het gebied van opvoeding, wetenschappelijk onderzoek of cultuur;
+   - (i) Books, publications and documents of all kinds in raised characters for the blind;
 
-- (b). Officiële overheidspublicaties, d.w.z. officiële parlementaire en administratieve documenten, gepubliceerd in het land van herkomst;
+   - (ii) Other articles specially designed for the educational, scientific or cultural advancement of the blind, which are imported directly by institutions or organisations concerned with the welfare of the blind, approved by the competent authorities of the importing country for the purpose of duty-free entry of these types of articles.
 
-- (c). Boeken en publicaties van de Verenigde Naties en van haar gespecialiseerde organisaties;
+2. The Contracting States which at any time apply quantitative restrictions and exchange control measures undertake to grant, as far as possible, foreign exchange and licences necessary for the importation of other educational, scientific or cultural materials, and particularly the materials referred to in the annexes to this Agreement.
 
-- (d). Boeken en publicaties, ontvangen van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en gratis door haar of onder haar toezicht verspreid;
+##### Article III
 
-- (e). Publicaties ter aanmoediging van het vreemdelingenverkeer buiten het land van invoer, gratis verzonden en verspreid;
+1. The Contracting States undertake to give every possible facility to the importation of educational, scientific or cultural materials, which are imported exclusively for showing at a public exhibition approved by the competent authorities of the importing country and for subsequent re-exportation. These facilities shall include the granting of the necessary licences and exemption from customs duties and internal taxes and charges of all kinds payable on importation, other than fees and charges corresponding to the approximate cost of services rendered.
 
-- (f). Voorwerpen voor blinden:
+2. Nothing in this article shall prevent the authorities of an importing country from taking such steps as may be necessary to ensure that the materials in question shall be re-exported at the close of their exhibition.
 
-- (i). Alle soorten boeken, publicaties en documenten in brailleschrift;
+##### Article IV
 
-- (ii). Andere voorwerpen, speciaal vervaardigd voor de opvoedkundige, wetenschappelijke en culturele ontwikkeling van blinden, rechtstreeks ingevoerd door blinden-inrichtingen of door verenigingen tot hulp aan blinden, die toestemming hebben van de bevoegde autoriteiten in het land van invoer om deze goederen vrij van rechten in te voeren.
+The Contracting States undertake that they will as far as possible—
 
-2. De Overeenkomstsluitende Staten, welke te eniger tijd kwantitatieve beperkingen en deviezencontrôle-maatregelen toepassen, verbinden zich, zoveel mogelijk, de noodzakelijke deviezen en invoervergunningen te verstrekken voor ander materiaal van opvoedkundige, wetenschappelijke of culturele aard, en met name voor het materiaal, als bedoeld in de bijlagen van deze Overeenkomst.
+- (a) Continue their common efforts to promote by every means the free circulation of educational, scientific or cultural materials, and abolish or reduce any restrictions to that free circulation which are not referred to this Agreement;
 
-##### Artikel III
+- (b) Simplify the administrative procedure governing the importation of educational, scientific or cultural materials;
 
-1. De Overeenkomstsluitende Staten verbinden zich alle mogelijke faciliteiten te verlenen bij de invoer van materiaal van opvoedkundige, wetenschappelijke of culturele aard, dat uitsluitend wordt ingevoerd om te worden ten toon gesteld op een voor het publiek toegankelijke tentoonstelling, waarvoor de bevoegde autoriteiten in het land van invoer toestemming hebben verleend, en dat bestemd is om daarna weer te worden uitgevoerd. Deze faciliteiten zullen mede omvatten toekenning van de noodzakelijke vergunningen en de vrijstelling van douanerechten en alle soorten binnenlandse belastingen en heffingen te betalen bij de invoer, met uitzondering van leges en heffingen, welke zouden overeenkomen met de geschatte kosten van de bewezen diensten.
+- (c) Facilitate the expeditious and safe customs clearance of educational, scientific or cultural materials.
 
-2. Geen bepaling in dit artikel zal de autoriteiten van het land van invoer beletten de noodzakelijke maatregelen te nemen ten einde te verzekeren, dat het bedoelde materiaal wederom zal worden uitgevoerd na sluiting der tentoonstelling.
+##### Article V
 
-##### Artikel IV
+Nothing in this Agreement shall affect the right of Contracting States to take measures, in conformity with their legislation, to prohibit or limit the importation, or the circulation after importation, of articles on grounds relating directly to national security, public order or public morals.
 
-De Overeenkomstsluitende Staten verplichten zich zoveel mogelijk
+##### Article VI
 
-- (a). Hun gezamenlijke pogingen voort te zetten om met alle ten dienste staande middelen het vrije verkeer van materiaal van opvoedkundige, wetenschappelijke of culturele aard te bevorderen en alle beperkingen van dat vrije verkeer waarin deze Overeenkomst niet voorziet af te schaffen dan wel te verminderen;
+This Agreement shall not modify or affect the laws and regulations of any Contracting State or any of its international treaties, conventions, agreements or proclamations, with respect to copyright, trademarks or patents.
 
-- (b). De administratieve formaliteiten, verbonden aan de invoer van materiaal van opvoedkundige, wetenschappelijke of culturele aard, te vereenvoudigen;
+##### Article VII
 
-- (c). Een vlugge en met alle gewenste voorzorgsmaatregelen gepaard gaande inklaring van materiaal van opvoedkundige, wetenschappelijke en culturele aard te bevorderen.
+Subject to the provisions of any previous conventions to which the Contracting States may have subscribed for the settlement of disputes, the Contracting States undertake to have recourse to negotiations or conciliation, with a view to settlement of any disputes regarding the interpretation or the application of this Agreement.
 
-##### Artikel V
+##### Article VIII
 
-Geen bepaling der onderhavige Overeenkomst maakt inbreuk op het recht der Overeenkomstsluitende Staten om in overeenstemming met hun nationale wetgeving maatregelen te treffen met het doel de invoer, of het verkeer na invoer, te verbieden of te beperken van bepaalde voorwerpen, wanneer deze maatregelen hun grond vinden in beweegredenen welke onmiddellijk verband houden met de nationale veiligheid, de openbare orde of goede zeden van de Overeenkomstsluitende Staat.
+In case of a dispute between Contracting States relating to the educational, scientific or cultural character of imported materials, the interested Parties may, by common agreement, refer it to the Director-General of the United Nations Educational, Scientific and Cultural Organisation for an advisory opinion.
 
-##### Artikel VI
+##### Article IX
 
-Deze Overeenkomst brengt geen wijziging in, en maakt geen inbreuk op de wetten en verordeningen van een Overeenkomstsluitende Staat, of een van zijn internationale verdragen, overeenkomsten of proclamaties inzake de bescherming van het auteursrecht, handelsmerken of octrooien.
+1. This Agreement, of which the English and French texts are equally authentic, shall bear to-day's date and remain open for signature by all Member States of the United Nations Educational, Scientific and Cultural Organisation, all Member States of the United Nations and any non-member State to which an invitation may have been adressed by the Executive Board of the United Nations Educational, Scientific and Cultural Organisation.
 
-##### Artikel VII
+2. The Agreement shall be ratified on behalf of the signatory States in accordance with their respective constitutional procedure.
 
-De Overeenkomstsluitende Staten verbinden zich hun toevlucht te nemen tot onderhandelingen of verzoening ter oplossing van enig geschil ter zake van de interpretatie of de toepassing van deze Overeenkomst, onverminderd de bepalingen van vroegere verdragen, waaraan zij onderworpen zouden kunnen zijn met betrekking tot de oplossing van geschillen welke tussen hen zouden kunnen rijzen.
+3. The instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-##### Artikel VIII
+##### Article X
 
-Bij een geschil tussen Overeenkomstsluitende Staten over de opvoedkundige, wetenschappelijke of culturele aard van ingevoerd materiaal, kunnen de belanghebbende partijen in gemeen overleg het geschil voorleggen aan de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur voor advies.
+The States referred to in paragraph 1 of article IX may accept this Agreement from 22nd November, 1950. Acceptance shall become effective on the deposit of a formal instrument with the Secretary-General of the United Nations.
 
-##### Artikel IX
+##### Article XI
 
-1. Deze Overeenkomst, waarvan de Engelse en de Franse tekst gelijkelijk authentiek zijn, zal de dagtekening van heden dragen en zal openstaan ter ondertekening door alle Staten, welke Lid zijn van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, alle Staten welke Lid zijn van de Verenigde Naties en alle Staten, welke geen Lid zijn en tot welke een daartoe strekkende uitnodiging is gericht door de Uitvoerende Raad van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
+This Agreement shall come into force on the date on which the Secretary-General of the United Nations receives instruments of ratification or acceptance from ten States.
 
-2. Deze Overeenkomst zal worden bekrachtigd door de Staten, welke de Overeenkomst ondertekenen, in overeenstemming met hun onderscheidene grondwettelijke voorschriften.
+##### Article XII
 
-3. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
+1. The States Parties to this Agreement on the date of its coming into force shall each take all the necessary measures for its fully effective operation within a period of six months after that date.
 
-##### Artikel X
+2. For States which may deposit their instruments of ratification or acceptance after the date of the Agreement coming into force, these measures shall be taken within a period of three months from the date of deposit.
 
-De in lid 1 van Artikel IX bedoelde Staten kunnen deze Overeenkomst aanvaarden met ingang van 22 November 1950. De aanvaarding wordt van kracht na het nederleggen van een officiële akte bij de Secretaris-Generaal der Verenigde Naties.
+3. Within one month of the expiration of the periods mentioned in paragraphs 1 and 2 of this article, the Contracting States to this Agreement shall submit a report to the United Nations Educational, Scientific and Cultural Organisation of the measures which they have taken for such fully effective operation.
 
-##### Artikel XI
+4. The United Nations Educational, Scientific and Cultural Organisation shall transmit this report to all signatory States to this Agreement and to the International Trade Organisation (provisionally, to its Interim Commission).
 
-Deze Overeenkomst treedt in werking op de dag waarop de Secretaris-Generaal van de Verenigde Naties akten van bekrachtiging of aanvaarding heeft ontvangen van tien Staten.
+##### Article XIII
 
-##### Artikel XII
+Any Contracting State may, at the time of signature or the deposit of its instrument of ratification or acceptance, or at any time thereafter, declare by notification adressed to the Secretary-General of the United Nations that this Agreement shall extend to all or any of the territories for the conduct of whose foreign relations that Contracting State is responsible.
 
-1. De Staten, welke partij zijn bij deze Overeenkomst op de dag van haar inwerkingtreding, zullen elk alle nodige maatregelen nemen voor haar doeltreffende werking binnen een periode van zes maanden na die datum.
+##### Article XIV
 
-2. Voor Staten, welke hun akten van bekrachtiging of aanvaarding nederleggen na de datum van inwerkingtreding dezer Overeenkomst, zullen deze maatregelen genomen worden binnen een termijn van drie maanden na de datum van nederlegging.
+1. Two years after the date of the coming into force of this Agreement, any Contracting State may, on its own behalf or on behalf of any of the territories for the conduct of whose foreign relations that Contracting State is responsible, denounce this Agreement by an instrument in writing deposited with the Secretary-General of the United Nations.
 
-3. Binnen een maand na het verstrijken van de termijnen, bedoeld in het eerste en tweede lid van dit Artikel, zullen de Overeenkomstsluitende Staten een rapport zenden aan de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur over de maatregelen, welke zij hebben genomen voor een doeltreffende werking van de Overeenkomst.
+2. The denunciation shall take effect one year after the receipt of the instrument of denunciation.
 
-4. De Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zal dit rapport doen toekomen aan alle Staten, die deze Overeenkomst hebben ondertekend en aan de Internationale Handelsorganisatie (voorlopig aan haar Interim-Commissie).
+##### Article XV
 
-##### Artikel XIII
+The Secretary-General of the United Nations shall inform the States referred to in paragraph 1 of article IX, as well as the United Nations Educational, Scientific and Cultural Organisation, and the International Trade Organisation (provisionally, its Interim Commission), of the deposit of all the instruments of ratification and acceptance provided for in articles IX and X, as well as of the notifications and denunciations provided for respectively in articles XIII and XIV.
 
-Elke Overeenkomstsluitende Staat kan, ten tijde van de ondertekening, of van de nederlegging van zijn akte van bekrachtiging of aanvaarding, of te eniger tijd nadien, door een kennisgeving aan de Secretaris-Generaal der Verenigde Naties verklaren, dat deze Overeenkoms mede van toepassing zal zijn op alle of enige van de gebieden voor welker buitenlandse betrekkingen bij verantwoordelijk is.
+##### Article XVI
 
-##### Artikel XIV
+At the request of one-third of the Contracting States to this Agreement, the Director-General of the United Nations Educational, Scientific and Cultural Organisation shall place on the agenda on the next session of the General Conference of that Organisation the question of convoking a meeting for the revision of this Agreement.
 
-1. Twee jaren na de datum waarop deze Overeenkomst in werking treedt, kan elke Overeenkomstsluitende Staat, namens zichzelf of namens een van de gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is, deze Overeenkomst opzeggen, door een schriftelijke akte, nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
+##### Article XVII
 
-2. De opzegging wordt van kracht een jaar na ontvangen van de akte van opzegging.
+Annexes A, B, C, D and E, as well as the Protocol annexed to this Agreement, are hereby made an integral part of this Agreement.
 
-##### Artikel XV
+##### Article XVIII
 
-De Secretaris-Generaal der Verenigde Naties zal de Staten, bedoeld in het eerste lid van artikel IX alsmede de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en de Internationale Handelsorganisatie (voorlopig haar Interim-Commissie) verwittigen van de nederlegging van alle akten van bekrachtiging en aanvaarding vermeld in de artikelen IX en X, alsmede van de kennisgevingen en opzeggingen, vermeld in de artikelen XIII en XIV.
+1. In accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), this Agreement shall be registered by the Secretary-General of the United Nations on the date of its coming into force.
 
-##### Artikel XVI
-
-Op verzoek van een derde der Overeenkomstsluitende Staten zal de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur op de agenda voor de eerstvolgende zitting van de algemene conferentie dezer Organisatie het Verzoek plaatsen tot bijeenroepen van een vergadering voor de herziening dezer Overeenkomst.
-
-##### Artikel XVII
-
-De bijlagen A, B, C, D en E alsmede het aan deze Overeenkomst gehecht Protocol vormen een integrerend onderdeel dezer Overeenkomst.
-
-##### Artikel XVIII
-
-1. In overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), zal deze Overeenkomst worden geregistreerd bij de Secretaris-Generaal der Verenigde Naties op de datum van haar inwerkingtreding.
-
-2. Ten blijke waarvan de ondergetekenden, behoorlijk gevolmachtigd, deze Overeenkomst hebben ondertekend uit naam van hun onderscheidene Regeringen.
+2. In faith whereof the undersigned, duly authorised, have signed this Agreement on behalf of their respective Governments.
 
 Done at Lake Success, New York, this twenty-second day of November, one thousand nine hundred and fifty, in a single copy, which shall remain deposited in the archives of the United Nations and certified true copies of which shall be delivered to all the States referred to in paragraph 1 of article IX, as well as to the United Nations Educational, Scientific and Cultural Organisation and to the International Trade Organisation (provisionally, to its Interim Commission).

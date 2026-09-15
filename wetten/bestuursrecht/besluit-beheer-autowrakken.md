@@ -5,11 +5,11 @@ identifier: "BWBR0013707"
 categorie: "Internationaal recht"
 soort: "AMvB"
 publicatiedatum: 2023-04-12
-laatste_update: 2024-01-01
+laatste_update: 2026-09-12
 status: geldig
-toestand: 2024-01-01
+toestand: 2026-09-12
 bron: "https://wetten.overheid.nl/BWBR0013707"
-opgehaald: 2026-08-06
+opgehaald: 2026-09-15
 ---
 
 # Besluit van 24 mei 2002, houdende implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) (Besluit beheer autowrakken)
@@ -78,9 +78,13 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft
 
 ##### Artikel 2
 
-1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01).
+1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2026-09-12&g=2026-09-12), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2026-09-12&g=2026-09-12), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2026-09-12&g=2026-09-12), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2026-09-12&g=2026-09-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2026-09-12&g=2026-09-12), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2026-09-12&g=2026-09-12).
 
-2. Dit besluit is niet van toepassing op producten voorzover daaromtrent regels zijn gesteld in de [Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782), het [Besluit beheer batterijen of accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491) of de [Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492).
+2. Dit besluit is niet van toepassing op:
+
+- a. producten voor zover daaromtrent regels zijn gesteld in de [Regeling afgedankte elektrische en elektronische apparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0034782); en
+
+- b. batterijen als bedoeld in artikel 3 van Verordening (EU) nr. 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen, tot wijziging van Richtlijn 2008/98/EG en Verordening (EU) 2019/1020 en tot intrekking van Richtlijn 2006/66/EG.
 
 #### § 2. Preventie
 
@@ -150,13 +154,13 @@ Onze Minister bevordert dat degene die een verwerking verricht, een gecertificee
 
 ##### Artikel 10
 
-1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) van de autowrakkenrichtlijn zijn vastgesteld.
+1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2026-09-12&g=2026-09-12) van de autowrakkenrichtlijn zijn vastgesteld.
 
 2. De bij de beschikking, bedoeld in het eerste lid, vastgestelde normering gaat voor de toepassing van dit besluit gelden met ingang van het tijdstip dat door Onze Minister in de Staatscourant wordt bekendgemaakt.
 
 ##### Artikel 11
 
-1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een verwerking met een autowrak van een derde verricht, informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) te realiseren.
+1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een verwerking met een autowrak van een derde verricht, informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2026-09-12&g=2026-09-12) te realiseren.
 
 2. De informatie, bedoeld in het eerste lid, omvat gegevens met betrekking tot de verschillende materialen en onderdelen van het voertuigtype en de plaats van de daarin aanwezige gevaarlijke stoffen.
 
@@ -168,13 +172,13 @@ Onze Minister bevordert dat degene die een verwerking verricht, een gecertificee
 
 ##### Artikel 12
 
-1. Tegelijkertijd met de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), doet de producent mededeling aan Onze Minister over de wijze waarop uitvoering zal worden gegeven aan de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
+1. Tegelijkertijd met de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), doet de producent mededeling aan Onze Minister over de wijze waarop uitvoering zal worden gegeven aan de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2026-09-12&g=2026-09-12).
 
 2. De mededeling bevat een overzicht van de te nemen maatregelen ter bevordering van preventie alsmede een schatting van de daarmee te bereiken resultaten.
 
 ##### Artikel 13
 
-1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), behoeft de instemming van Onze Minister.
+1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2026-09-12&g=2026-09-12), behoeft de instemming van Onze Minister.
 
 2. [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) is van toepassing op het verzoek tot instemming.
 
@@ -184,11 +188,11 @@ Onze Minister bevordert dat degene die een verwerking verricht, een gecertificee
 
 ##### Artikel 14
 
-De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
+De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2026-09-12&g=2026-09-12), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
 
 ##### Artikel 15
 
-1. De producent zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent werkzaam was.
+1. De producent zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2026-09-12&g=2026-09-12), in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent werkzaam was.
 
 2. Het verslag bevat in ieder geval gegevens omtrent de wijze waarop bij het ontwerp van een nieuw voertuigtype het ontstaan van afvalstoffen wordt voorkomen en naar de mogelijkheid van hergebruik als product of materiaal en van nuttige toepassing van dat type voertuig wordt gestreefd.
 
@@ -196,7 +200,7 @@ De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overhe
 
 ##### Artikel 16
 
-De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), toezenden.
+De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2026-09-12&g=2026-09-12), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2026-09-12&g=2026-09-12), toezenden.
 
 #### § 6a. Uitvoering van de EU-verordening markttoezicht
 
@@ -212,9 +216,9 @@ De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eer
 
 1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+2. Een wijziging van de richtlijn, genoemd in [artikel 1, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2026-09-12&g=2026-09-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
+3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2026-09-12&g=2026-09-12), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ##### Artikel 18
 
@@ -238,7 +242,7 @@ De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eer
 
 ##### Artikel 23
 
-In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
+In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2026-09-12&g=2026-09-12), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2026-09-12&g=2026-09-12), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2026-09-12&g=2026-09-12) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2026-09-12&g=2026-09-12), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
 
 ##### Artikel 24
 

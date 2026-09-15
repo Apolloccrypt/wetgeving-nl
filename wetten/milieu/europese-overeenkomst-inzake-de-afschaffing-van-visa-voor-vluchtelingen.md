@@ -1,114 +1,91 @@
 ---
 title: "Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen"
 identifier: "BWBV0005106"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-09-04"
-last_updated: "1960-09-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005106"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004470373"
-version_id: "10004682052"
-internal_id: "C10007191371"
-label_id: "10004455284"
-dtd_version: "2.0"
-original_entry_into_force: "1960-09-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005106/1960-09-04/0"
-intitule_bron: "Trb.1959-153"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1959-10-19"
-intitule_in_force: "1960-09-12"
-intitule_status: "goed"
-original_publication: "Trb.1959-153"
-original_published_date: "1959-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1959-153"
-entry_into_force_date: "1960-09-04"
-jci_1_3: "jci1.3:c:BWBV0005106&z=1960-09-04&g=1960-09-04"
-jci_1_0: "1.0:c:BWBV0005106&g=1960-09-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-09-04"
+publicatiedatum: 1960-09-04
+laatste_update: 1960-09-04
+status: geldig
+toestand: 1960-09-04
+bron: "https://wetten.overheid.nl/BWBV0005106"
+opgehaald: 2026-09-15
 ---
+
 # Europese Overeenkomst inzake de afschaffing van visa voor vluchtelingen
 
-De ondertekenende Regeringen, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Desirous of facilitating travel for refugees residing in their territory, Have agreed as follows:*
 
-Verlangende het reizen voor vluchtelingen die op hun grondgebied verblijven, te vergemakkelijken,
+##### Article 1
 
-Zijn het volgende overeengekomen:
+1. Refugees lawfully resident in the territory of a Contracting Party shall be exempt, under the terms of this Agreement and subject to reciprocity, from the obligation to obtain visas for entering or leaving the territory of another Party by any frontier, provided that:
 
-##### Artikel 1
+- (a) they hold a valid travel document issued in accordance with the [Convention on the Status of Refugees](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) of 28th July 1951 or the [Agreement relating to the issue of a travel document to refugees](https://wetten.overheid.nl/jci1.3:c:BWBV0005693) of 15th October 1946, by the authorities of the Contracting Party in whose territory they are lawfully resident;
 
-1. Rechtmatig op het grondgebied van een Overeenkomstsluitende Partij verblijvende vluchtelingen zijn, krachtens de bepalingen van deze Overeenkomst en onder voorbehoud van wederkerigheid, vrijgesteld van de verplichting zich te voorzien van visa voor het binnenreizen of het verlaten van het grondgebied van een andere Partij, over welke grens dan ook, mits:
+- (b) their visit is of not more than three months' duration.
 
-- (a). zij in het bezit zijn van een geldig reisdocument afgegeven door de autoriteiten van de Overeenkomstsluitende Partij op wier grondgebied zij rechtmatig verblijven, overeenkomstig het [Verdrag betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951 of de [Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0005693) van 15 oktober 1946;
+2. A visa may be required for a stay of longer than three months or for the purpose of taking up gainful employment in the territory of another Contracting Party.
 
-- (b). hun bezoek niet langer duurt dan drie maanden.
+##### Article 2
 
-2. Er kan een visum worden gevorderd voor een verblijf van langer dan drie maanden of voor inreis met het oogmerk winstgevende arbeid op het grondgebied van een andere Overeenkomstsluitende Partij te gaan verrichten.
+For the purposes of the present Agreement the “territory” of a Contracting Party shall have the meaning assigned to it by this Party in a declaration addressed to the Secretary-General of the Council of Europe.
 
-##### Artikel 2
+##### Article 3
 
-Voor de toepassing van deze Overeenkomst heeft de term „grondgebied” van een Overeenkomstsluitende Partij de betekenis daaraan door deze Partij toegekend in een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring.
+To the extent that one or more Contracting Parties deem necessary, the frontier shall be crossed only at authorised points.
 
-##### Artikel 3
+##### Article 4
 
-Voor zover een of meer Overeenkomstsluitende Partijen dit noodzakelijk achten, mag de grens slechts worden overschreden langs erkende doorlaatposten.
+1. The provisions of this Agreement shall be without prejudice to the laws or regulations governing visits by aliens to the territory of any Contracting Party.
 
-##### Artikel 4
+2. Each Contracting Party reserves the right to prohibit persons it deems to be undesirable from entering or staying in its territory.
 
-1. De bepalingen van deze Overeenkomst laten onverlet de wetten en voorschriften betreffende het verblijf van vreemdelingen op het grondgebied van een Overeenkomstsluitende Partij.
+##### Article 5
 
-2. Elke Overeenkomstsluitende Partij behoudt zich het recht voor personen die zij ongewenst acht te verbieden haar grondgebied binnen te komen of aldaar te verblijven.
+Refugees who have entered the territory of a Contracting Party by virtue of the present Agreement shall be re-admitted at any time to the territory of the Contracting Party by whose authorities the travel document was issued, at the simple request of the first-mentioned Party, except where this Party has authorised the persons concerned to settle in its territory.
 
-##### Artikel 5
+##### Article 6
 
-Vluchtelingen die krachtens deze Overeenkomst het grondgebied van een Overeenkomstsluitende Partij zijn binnengekomen zullen op eerste verzoek van deze Partij te allen tijde wederom op het grondgebied van de Overeenkomstsluitende Partij wier autoriteiten het reisdocument hebben afgegeven, worden toegelaten, behalve in gevallen waarin de eerstgenoemde Partij de betrokken personen toegestaan heeft zich op haar grondgebied te vestigen.
+This Agreement shall not prejudice the provisions of any municipal law or bilateral or multilateral treaties, conventions or agreements now in force or which may hereafter enter into force, whereby more favourable terms are applied to refugees lawfully resident in the territory of a Contracting Party in respect of the crossing of frontiers.
 
-##### Artikel 6
+##### Article 7
 
-Deze Overeenkomst laat onverlet de bepalingen van de nationale wetten of van bilaterale of multilaterale verdragen, conventies of overeenkomsten die nu van kracht zijn of die hierna in werking zullen treden en die voor vluchtelingen die rechtmatig op het grondgebied van een Overeenkomstsluitende Partij verblijven, voor wat betreft het overschrijden van grenzen gunstiger bepalingen bevatten.
+1. Each Contracting Party reserves the option, for reasons of *ordre public,* security or public health, to delay the entry into force of this Agreement, or order the temporary suspension thereof in respect of all or some of the other Parties, except in so far as the provisions of Article 5 are concerned. The Secretary-General of the Council of Europe shall immediately be informed when any such measure is taken and again when it ceases to be operative.
 
-##### Artikel 7
+2. A Contracting Party which avails itself of either of the options provided for in the foregoing paragraph may not claim the application of this Agreement by another Party save in so far as it also applies it in respect of that Party.
 
-1. Iedere Overeenkomstsluitende Partij behoudt zich het recht voor, om redenen van openbare orde, veiligheid of volksgezondheid, de inwerkingtreding van deze Overeenkomst uit te stellen of de toepassing ervan met betrekking tot alle of enkele der andere Partijen tijdelijk te schorsen, behalve voor wat de bepalingen van artikel 5 betreft. De Secretaris-Generaal van de Raad van Europa zal onmiddellijk van het nemen van elke zodanige maatregel in kennis worden gesteld, alsook van het feit dat deze opgehouden heeft van kracht te zijn.
+##### Article 8
 
-2. Een Overeenkomstsluitende Partij die van een van de twee in het voorgaande lid voorziene rechten gebruik maakt, kan niet eisen, dat deze Overeenkomst door een andere Partij wordt toegepast, behalve voor zover als zij haar ook ten aanzien van die Partij toepast.
+This Agreement shall be open to the signature of Members of the Council of Europe, who may become Parties thereto either by:
 
-##### Artikel 8
+- (a) signature without reservation in respect of ratification, or
 
-Deze Overeenkomst staat ter ondertekening open voor Leden van de Raad van Europa, die er Partij bij kunnen worden door:
+- (b) signature with reservation in respect of ratification, followed by ratification.
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, of
+Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-- (b). ondertekening met voorbehoud van bekrachtiging, gevolgd door bekrachtiging.
+##### Article 9
 
-De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+1. The Agreement shall enter into force one month after the date on which three Members of the Council, in accordance with Article 8, shall have signed the Agreement without reservation in respect of ratification or shall have ratified it.
 
-##### Artikel 9
+2. In the case of any Member who shall subsequently sign the Agreement without reservation in respect of ratification, or shall ratify it, the Agreement shall enter into force one month after the date of such signature or the date of deposit of the instrument of ratification.
 
-1. De Overeenkomst treedt in werking een maand na de datum waarop drie Leden van de Raad overeenkomstig artikel 8 deze Overeenkomst zonder voorbehoud van bekrachtiging hebben ondertekend of deze hebben bekrachtigd.
+##### Article 10
 
-2. Voor wat betreft een Lid dat deze Overeenkomst nadien zonder voorbehoud van bekrachtiging ondertekent of deze bekrachtigt, zal de Overeenkomst in werking treden een maand na de datum van die ondertekening of de datum van de nederlegging van de akte van bekrachtiging.
+After this Agreement has entered into force the Committee of Ministers of the Council of Europe may, by unanimous vote, invite any Government not a Member of the Council, which is Party either to the [Convention on the Status of Refugees](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) of 28th July 1951 or to the [Agreement relating to the issue of a travel document to refugees](https://wetten.overheid.nl/jci1.3:c:BWBV0005693) of 15th October 1946, to accede to this Agreement. Such accession shall take effect one month after the date of deposit of the instrument of accession with the Secretary-General of the Council of Europe.
 
-##### Artikel 10
+##### Article 11
 
-Nadat deze Overeenkomst in werking is getreden, kan het Comité van Ministers van de Raad van Europa met eenparigheid van stemmen iedere Regering die geen Lid is van de Raad maar die Partij is bij hetzij het [Verdrag betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) van 28 juli 1951, hetzij bij de [Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0005693) van 15 oktober 1946, uitnodigen tot deze Overeenkomst toe te treden. Deze toetreding wordt van kracht een maand na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+The Secretary-General of the Council of Europe shall notify Member States of the Council and States acceding to this Agreement:
 
-##### Artikel 11
+- (a) of every signature, with any reservations in respect of ratification, of the deposit of each instrument of ratification, and of the date on which the Agreement enters into force;
 
-De Secretaris-Generaal van de Raad van Europa geeft aan Leden Staten van de Raad en aan Staten die tot deze Overeenkomst toetreden, kennis van:
+- (b) of the deposit of any instrument of accession in accordance with Article 10;
 
-- (a). elke ondertekening, eventueel met voorbehoud van bekrachtiging, de nederlegging van elke akte van bekrachtiging en de datum waarop de Overeenkomst in werking treedt;
+- (c) of any notification or declaration received in accordance with Articles 2, 7 and 12, and the date on which it takes effect.
 
-- (b). de nederlegging van elke akte van toetreding overeenkomstig artikel 10;
+##### Article 12
 
-- (c). elke ingevolge de artikelen 2, 7 en 12 gedane mededeling of afgelegde verklaring en de datum waarop deze van kracht wordt.
-
-##### Artikel 12
-
-Iedere Overeenkomstsluitende Partij kan de toepassing van deze Overeenkomst ten aanzien van die Partij beëindigen door de Secretaris-Generaal van de Raad van Europa met inachtneming van een termijn van drie maanden een daartoe strekkende mededeling te doen.
+Any Contracting Party may terminate its own application of the Agreement by giving three months' notice to that effect to the Secretary-General of the Council of Europe.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement.
 

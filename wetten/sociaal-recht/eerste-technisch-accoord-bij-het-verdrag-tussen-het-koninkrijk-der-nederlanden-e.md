@@ -1,169 +1,150 @@
 ---
 title: "Eerste Technisch Accoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering"
 identifier: "BWBV0005128"
-country: "nl"
-rank: "verdrag"
-publication_date: "2010-01-01"
-last_updated: "2010-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005128"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004479853"
-version_id: "10004777072"
-internal_id: "C10007217481"
-label_id: "10004464754"
-dtd_version: "2.0"
-original_entry_into_force: "2010-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005128/2010-01-01/0"
-intitule_bron: "Trb.2010-100"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2010-03-29"
-intitule_in_force: "2010-03-29"
-intitule_status: "vervallen"
-original_publication: "Trb.2010-100"
-original_published_date: "2010-03-29"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2010-100"
-entry_into_force_date: "2010-01-01"
-jci_1_3: "jci1.3:c:BWBV0005128&z=2010-01-01&g=2010-01-01"
-jci_1_0: "1.0:c:BWBV0005128&g=2010-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2010-01-01"
+publicatiedatum: 2010-01-01
+laatste_update: 2010-01-01
+status: geldig
+toestand: 2010-01-01
+bron: "https://wetten.overheid.nl/BWBV0005128"
+opgehaald: 2026-09-15
 ---
+
 # Eerste Technisch Accoord bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering
 
-## TITEL I. Algemene bepalingen
+### TITEL I. Algemene bepalingen
 
 ##### Artikel 1
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 2
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 3
 
-Vervallen
+*Vervallen*
 
-## TITEL II. Bijzondere bepalingen
+### TITEL II. Bijzondere bepalingen
 
 ### HOOFDSTUK 1. ZIEKTEVERZEKERING
 
 ##### Artikel 4
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 5
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 6
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 7
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 8
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ### HOOFDSTUK 2. ONGEVALLENVERZEKERING
 
 ##### Artikel 11
 
-Vervallen
+*Vervallen*
 
-### I. Uitkeringen in geld
+#### I. Uitkeringen in geld
 
 ##### Artikel 12
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 13
 
-Vervallen
+*Vervallen*
 
-### II. Verstrekkingen in natura
+#### II. Verstrekkingen in natura
 
 ##### Artikel 14
 
-Vervallen
+*Vervallen*
 
 ### HOOFDSTUK 3. RENTENVERZEKERINGEN
 
-### A. Vaststelling der uitkeringen
+#### A. Vaststelling der uitkeringen
 
 ##### Artikel 15
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 16
 
-Vervallen
+*Vervallen*
 
-### B. Betaling der uitkeringen
+#### B. Betaling der uitkeringen
 
 ##### Artikel 17
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 18
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 19
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 20
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 21
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 22
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
-Vervallen
+*Vervallen*
 
-## TITEL III. Diverse bepalingen
+### TITEL III. Diverse bepalingen
 
 ##### Artikel 25
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 26
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 27
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 28
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 29
 
-Vervallen
+*Vervallen*

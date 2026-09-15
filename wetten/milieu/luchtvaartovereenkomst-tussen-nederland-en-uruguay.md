@@ -1,45 +1,18 @@
 ---
 title: "Luchtvaartovereenkomst tussen Nederland en Uruguay"
 identifier: "BWBV0005779"
-country: "nl"
-rank: "verdrag"
-publication_date: "1947-05-12"
-last_updated: "1947-05-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005779"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004864443"
-version_id: "10005169522"
-internal_id: "C10007858581"
-label_id: "10004848114"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005779/1947-05-12/0"
-intitule_bron: "Trb.1951-151"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1951-11-28"
-intitule_status: "nogniet"
-original_publication: "Trb.1951-151"
-original_published_date: "1951-11-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-151"
-jci_1_3: "jci1.3:c:BWBV0005779&z=1947-05-12&g=1947-05-12"
-jci_1_0: "1.0:c:BWBV0005779&g=1947-05-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "1951-11-28"
+laatste_update: 1947-05-12
+status: geldig
+toestand: 1947-05-12
+bron: "https://wetten.overheid.nl/BWBV0005779"
+opgehaald: 2026-09-15
 ---
+
 # Luchtvaartovereenkomst tussen Nederland en Uruguay
 
-De Nederlandsche Regeering en de Regeering van Uruguay hebben, gelet op de resolutie van 7 December 1944 van de Internationale Burgerlijke Luchtvaart Conferentie te Chicago, Illinois, U.S.A., tot het aanvaarden van een model voor een overeenkomst inzake luchtroutes en diensten, haar gevolmachtigden als volgt benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Meester Floris Baron van Pallandt, Haren Buitengewoon Gezant en Gevolmachtigd Minister bij de Republiek Uruguay, en
-
-Zijne Excellentie de President van de Republiek Uruguay:
-
-Zijn Minister van Buitenlandsche Zaken, Señor Don Mateo Marques Castro,
-
-die, nu hun volmachten, welke in juisten en voorgeschreven vorm werden bevonden, te hebben uitgewisseld, tot overeenstemming kwamen omtrent de volgende artikelen:
+*De Nederlandsche Regeering en de Regeering van Uruguay hebben, gelet op de resolutie van 7 December 1944 van de Internationale Burgerlijke Luchtvaart Conferentie te Chicago, Illinois, U.S.A., tot het aanvaarden van een model voor een overeenkomst inzake luchtroutes en diensten, haar gevolmachtigden als volgt benoemd: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Meester Floris Baron van Pallandt, Haren Buitengewoon Gezant en Gevolmachtigd Minister bij de Republiek Uruguay, en Zijne Excellentie de President van de Republiek Uruguay: Zijn Minister van Buitenlandsche Zaken, Señor Don Mateo Marques Castro, die, nu hun volmachten, welke in juisten en voorgeschreven vorm werden bevonden, te hebben uitgewisseld, tot overeenstemming kwamen omtrent de volgende artikelen:*
 
 ##### Artikel I
 
@@ -59,13 +32,13 @@ De Overeenkomstsluitende Partijen verleenen elkaar de rechten, vermeld in de Bij
 
 Teneinde bevoorrechtende praktijken te voorkomen en gelijkheid van behandeling te verzekeren, wordt overeengekomen, dat:
 
-- (1). Elk der Overeenkomstsluitende Partijen kan opleggen of doen opleggen, billijke en redelijke kosten voor het gebruik van luchthavens en andere faciliteiten. Elk van de Overeenkomstsluitende Partijen neemt echter op zich, dat deze kosten niet hooger zullen zijn dan die, welke zouden worden betaald voor het gebruik van zoodanige luchthavens en faciliteiten door haar eigen luchtvaartuigen, gebezigd op soortgelijke internationale diensten.
+- (1) Elk der Overeenkomstsluitende Partijen kan opleggen of doen opleggen, billijke en redelijke kosten voor het gebruik van luchthavens en andere faciliteiten. Elk van de Overeenkomstsluitende Partijen neemt echter op zich, dat deze kosten niet hooger zullen zijn dan die, welke zouden worden betaald voor het gebruik van zoodanige luchthavens en faciliteiten door haar eigen luchtvaartuigen, gebezigd op soortgelijke internationale diensten.
 
-- (2). Ten aanzien van motorbrandstof, smeeroliën en reservedeelen, ingevoerd op het grondgebied van een der Overeenkomstsluitende Partijen of binnen haar grondgebied door de andere Overeenkomstsluitende Partij aan boord genomen van luchtvaartuigen, hetzij voor haar eigen rekening dan wel voor de door haar aangewezen luchtvaartmaatschappij(en), en uitsluitend bestemd om te worden gebruikt door de luchtvaartuigen van de andere Overeenkomstsluitende Partij, wordt, voor wat betreft douanerechten, inspectiekosten of andere rechten, geheven door eerstbedoelde Overeenkomstsluitende Partij een behandeling toegepast, welke niet ongunstiger is dan die, toegestaan aan de eigen luchtvaartmaatschappijen, welke zich bezig houden met internationaal luchtvervoer of aan de luchtvaartmaatschappijen van de meest begunstigde natie.
+- (2) Ten aanzien van motorbrandstof, smeeroliën en reservedeelen, ingevoerd op het grondgebied van een der Overeenkomstsluitende Partijen of binnen haar grondgebied door de andere Overeenkomstsluitende Partij aan boord genomen van luchtvaartuigen, hetzij voor haar eigen rekening dan wel voor de door haar aangewezen luchtvaartmaatschappij(en), en uitsluitend bestemd om te worden gebruikt door de luchtvaartuigen van de andere Overeenkomstsluitende Partij, wordt, voor wat betreft douanerechten, inspectiekosten of andere rechten, geheven door eerstbedoelde Overeenkomstsluitende Partij een behandeling toegepast, welke niet ongunstiger is dan die, toegestaan aan de eigen luchtvaartmaatschappijen, welke zich bezig houden met internationaal luchtvervoer of aan de luchtvaartmaatschappijen van de meest begunstigde natie.
 
-- (3). Luchtvaartuigen van een van de Overeenkomstsluitende Partijen, gebezigd bij de exploitatie van de overeengekomen diensten en voorraden aan motorbrandstof, smeerolie, reservedeelen, normale uitrustingsstukken en proviand, welke aan boord van die luchtvaartuigen blijven, zijn op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van douanerechten, inspectiekosten of soortgelijke rechten of kosten, zelfs indien zoodanige voorraden door deze luchtvaartuigen worden verbruikt bij vluchten binnen dat grondgebied.
+- (3) Luchtvaartuigen van een van de Overeenkomstsluitende Partijen, gebezigd bij de exploitatie van de overeengekomen diensten en voorraden aan motorbrandstof, smeerolie, reservedeelen, normale uitrustingsstukken en proviand, welke aan boord van die luchtvaartuigen blijven, zijn op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van douanerechten, inspectiekosten of soortgelijke rechten of kosten, zelfs indien zoodanige voorraden door deze luchtvaartuigen worden verbruikt bij vluchten binnen dat grondgebied.
 
-- (4). De onder vorenbedoelde vrijstelling vallende goederen mogen slechts worden gelost met toestemming van de douane-autoriteiten van de andere Overeenkomstsluitende Partij. De geloste goederen, die weer zullen moeten worden uitgevoerd, zullen tot aan den wederuitvoer onder toezicht van de douane blijven.
+- (4) De onder vorenbedoelde vrijstelling vallende goederen mogen slechts worden gelost met toestemming van de douane-autoriteiten van de andere Overeenkomstsluitende Partij. De geloste goederen, die weer zullen moeten worden uitgevoerd, zullen tot aan den wederuitvoer onder toezicht van de douane blijven.
 
 ##### Artikel IV
 
@@ -107,7 +80,7 @@ In deze Overeenkomst en haar Bijlage, indien niet anders bepaald,
 
 - c. wordt verstaan onder „grondgebied” hetgeen daaronder wordt verstaan in Artikel 2 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, geteekend te Chicago op 7 December 1944.
 
-- d. zullen de definities, vervat onder **a**, **b** en **d** van Artikel 96 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, geteekend te Chicago op 7 December 1944, voor deze Overeenkomst van toepassing zijn.
+- d. zullen de definities, vervat onder *a*, *b* en *d* van Artikel 96 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, geteekend te Chicago op 7 December 1944, voor deze Overeenkomst van toepassing zijn.
 
 ##### Artikel XII
 

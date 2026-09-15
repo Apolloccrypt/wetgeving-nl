@@ -1,206 +1,159 @@
 ---
 title: "Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk"
 identifier: "BWBV0005547"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-10-04"
-last_updated: "2006-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005547"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10004701393"
-version_id: "10004964302"
-internal_id: "C10010215031"
-label_id: "10004685454"
-dtd_version: "2.0"
-original_entry_into_force: "2025-10-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005547/2025-10-04/0"
-intitule_bron: "Trb.2011-229"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-11-10"
-intitule_in_force: "2025-10-09"
-intitule_status: "goed"
-original_publication: "Trb.2011-229"
-original_published_date: "2011-11-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-229"
-entry_into_force_date: "2025-10-04"
-jci_1_3: "jci1.3:c:BWBV0005547&z=2025-10-04&g=2025-10-04"
-jci_1_0: "1.0:c:BWBV0005547&g=2025-10-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "2025-10-04"
+publicatiedatum: 2025-10-04
+laatste_update: 2025-10-04
+status: geldig
+toestand: 2025-10-04
+bron: "https://wetten.overheid.nl/BWBV0005547"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organization, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Ninety-fifth Session on 31 May 2006, Recognizing the global magnitude of occupational injuries, diseases and deaths, and the need for further action to reduce them, and Recalling that the protection of workers against sickness, disease and injury arising out of employment is among the objectives of the International Labour Organization as set out in its Constitution, and Recognizing that occupational injuries, diseases and deaths have a negative effect on productivity and on economic and social development, and Noting paragraph III(g) of the Declaration of Philadelphia, which provides that the International Labour Organization has the solemn obligation to further among the nations of the world programmes which will achieve adequate protection for the life and health of workers in all occupations, and Mindful of the ILO Declaration on Fundamental Principles and Rights at Work and its Follow-Up, 1998, and Noting the Occupational Safety and Health Convention, 1981 (No. 155), the Occupational Safety and Health Recommendation, 1981 (No. 164), and other instruments of the International Labour Organization relevant to the promotional framework for occupational safety and health, and Recalling that the promotion of occupational safety and health is part of the International Labour Organization’s agenda of decent work for all, and Recalling the Conclusions concerning ILO standards-related activities in the area of occupational safety and health – a global strategy, adopted by the International Labour Conference at its 91st Session (2003), in particular relating to ensuring that priority be given to occupational safety and health in national agendas, and Stressing the importance of the continuous promotion of a national preventative safety and health culture, and Having decided upon the adoption of certain proposals with regard to occupational safety and health, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this fifteenth day of June of the year two thousand and six the following Convention, which may be cited as the Promotional Framework for Occupational Safety and Health Convention, 2006.*
 
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau en aldaar bijeengekomen in haar vijfennegentigste zitting op 31 mei 2006,
+### I. DEFINITIONS
 
-Erkennend de mondiale omvang van arbeidsgebonden letsels, ziekten en sterfgevallen, evenals de noodzaak tot terugdringing ervan, en
+##### Article 1
 
-In herinnering roepend dat het beschermen van de werknemers tegen ziekten of beroepsziekten en arbeidsongevallen een doelstelling is van de Internationale Arbeidsorganisatie, zoals vermeld in het Statuut, en
+For the purpose of this Convention:
 
-Erkennend dat arbeidsgebonden letsels, ziekten en sterfgevallen negatieve gevolgen hebben voor de productiviteit en de sociaaleconomische ontwikkeling, en
+- a) the term “national policy” refers to the national policy on occupational safety and health and the working environment developed in accordance with the principles of [Article 4 of the Occupational Safety and Health Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002487&artikel=4), 1981 (No. 155);
 
-Gelet op paragraaf III g) van de Verklaring van Philadelphia, die bepaalt dat de Internationale Arbeidsorganisatie de plechtige plicht heeft om de verschillende naties bij te staan bij de tenuitvoerlegging van programma’s voor een passende bescherming van het leven en de gezondheid van de werknemers tijdens de uitoefening van hun beroep, en
+- b) the term “national system for occupational safety and health” or “national system” refers to the infrastructure which provides the main framework for implementing the national policy and national programmes on occupational safety and health;
 
-Indachtig de Verklaring van de Internationale Arbeidsorganisatie inzake de fundamentele beginselen en rechten in verband met werk en haar follow-up, 1998, en
+- c) the term “national programme on occupational safety and health” or “national programme” refers to any national programme that includes objectives to be achieved in a predetermined time frame, priorities and means of action formulated to improve occupational safety and health, and means to assess progress;
 
-Gelet op [Verdrag nr. 155 betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu](https://wetten.overheid.nl/jci1.3:c:BWBV0002487), 1981, en Aanbeveling nr. 164 betreffende arbeidsveiligheid en gezondheid, 1981, en de andere instrumenten van de Internationale Arbeidsorganisatie voor het promotioneel kader voor de veiligheid en gezondheid op het werk, en
+- d) the term “a national preventative safety and health culture” refers to a culture in which the right to a safe and healthy working environment is respected at all levels, where government, employers and workers actively participate in securing a safe and healthy working environment through a system of defined rights, responsibilities and duties, and where the principle of prevention is accorded the highest priority.
 
-In herinnering brengend dat de bevordering van de veiligheid en gezondheid op het werk een aspect is van het IAO-programma voor waardig werk voor allen, en
+### II. OBJECTIVE
 
-In herinnering brengend de besluiten betreffende de normatieve activiteiten van de IAO op het vlak van veiligheid en gezondheid op het werk – een mondiale strategie, goedgekeurd door de Internationale Arbeidsconferentie tijdens de 91ste zitting (2003), meer bepaald wat betreft het streefdoel om van veiligheid en gezondheid een blijvende prioriteit op nationaal niveau te maken, en
+##### Article 2
 
-Het belang benadrukkend van het voortdurend bevorderen van een nationale preventiecultuur op het vlak van veiligheid en gezondheid, en
+1. Each Member which ratifies this Convention shall promote continuous improvement of occupational safety and health to prevent occupational injuries, diseases and deaths, by the development, in consultation with the most representative organizations of employers and workers, of a national policy, national system and national programme.
 
-Besloten hebbend bepaalde voorstellen met betrekking tot veiligheid en gezondheid op het werk, dat als vierde punt op de agenda van de zitting voorkomt, aan te nemen, en
+2. Each Member shall take active steps towards achieving progressively a safe and healthy working environment through a national system and national programmes on occupational safety and health by taking into account the principles set out in instruments of the International Labour Organization (ILO) relevant to the promotional framework for occupational safety and health.
 
-Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een internationaal verdrag;
+3. Each Member, in consultation with the most representative organizations of employers and workers, shall periodically consider what measures could be taken to ratify relevant occupational safety and health Conventions of the ILO.
 
-Neemt heden, de vijftiende juni van het jaar tweeduizend en zes, het volgende Verdrag aan, dat aangehaald kan worden als het Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, 2006.
+### III. NATIONAL POLICY
 
-### I. BEGRIPSOMSCHRIJVINGEN
+##### Article 3
 
-##### Artikel 1
+1. Each Member shall promote a safe and healthy working environment by formulating a national policy.
 
-Voor de toepassing van dit Verdrag:
+2. Each Member shall promote and advance, at all relevant levels, the right of workers to a safe and healthy working environment.
 
-- a. wordt onder „nationaal beleid” verstaan: het nationaal beleid inzake veiligheid en gezondheid op het werk en de werkomgeving, overeenkomstig de beginselen onder [artikel 4 van Verdrag nr.155](https://wetten.overheid.nl/jci1.3:c:BWBV0002487&artikel=4) betreffende arbeidsveiligheid gezondheid en het arbeidsmilieu, 1981;
+3. In formulating its national policy, each Member, in light of national conditions and practice and in consultation with the most representative organizations of employers and workers, shall promote basic principles such as assessing occupational risks or hazards; combating occupational risks or hazards at source; and developing a national preventative safety and health culture that includes information, consultation and training.
 
-- b. wordt onder „nationaal systeem inzake veiligheid en gezondheid” of „nationaal systeem” verstaan: de infrastructuur als primair kader voor de uitvoering van het nationaal beleid en de nationale programma’s inzake veiligheid en gezondheid op het werk;
+### IV. NATIONAL SYSTEM
 
-- c. wordt onder „nationaal programma inzake veiligheid en gezondheid op het werk” of „nationaal programma” verstaan: elk nationaal programma met doelstellingen die gerealiseerd moeten worden volgens een vooraf bepaald tijdschema, prioriteiten en actiemiddelen ter optimalisering van de veiligheid en gezondheid op het werk evenals de evaluatiemethodes met betrekking tot de vorderingen;
+##### Article 4
 
-- d. wordt onder „nationale preventiecultuur inzake veiligheid en gezondheid” verstaan: een cultuur waarin het recht op een veilige en gezonde arbeidsomgeving nageleefd wordt op alle niveaus; waarin de regering, werkgevers en werknemers zich daadwerkelijk inzetten voor een veilige en gezonde werkomgeving via een systeem van omschreven rechten, verantwoordelijkheden en plichten, en waarin preventie de hoogste prioriteit heeft.
+1. Each Member shall establish, maintain, progressively develop and periodically review a national system for occupational safety and health, in consultation with the most representative organizations of employers and workers.
 
-### II. DOEL
+2. The national system for occupational safety and health shall include among others:
 
-##### Artikel 2
+- a) laws and regulations, collective agreements where appropriate, and any other relevant instruments on occupational safety and health;
 
-1. Elk Lid dat dit Verdrag bekrachtigt bevordert de voortdurende verbetering van de veiligheid en gezondheid op het werk ter voorkoming van de arbeidsgebonden letsels, ziekten en sterfgevallen, via het stimuleren van een nationaal beleid, een nationaal systeem en een nationaal programma, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
+- b) an authority or body, or authorities or bodies, responsible for occupational safety and health, designated in accordance with national law and practice;
 
-2. Elk Lid neemt actieve maatregelen om geleidelijk tot een veilige en gezonde werkomgeving te komen via een nationaal systeem en nationale programma’s inzake veiligheid en gezondheid op het werk, rekening houdend met de beginselen die opgenomen zijn in de instrumenten van de Internationale Arbeidsorganisatie (IAO) die relevant zijn voor het promotioneel kader voor de veiligheid en gezondheid op het werk.
+- c) mechanisms for ensuring compliance with national laws and regulations, including systems of inspection; and
 
-3. Elk Lid maakt in overleg met de meest representatieve werkgevers- en werknemersorganisaties regelmatig een overzicht van de mogelijke maatregelen om de relevante IAO-verdragen inzake veiligheid en gezondheid op het werk te bekrachtigen.
+- d) arrangements to promote, at the level of the undertaking, cooperation between management, workers and their representatives as an essential element of workplace-related prevention measures.
 
-### III. NATIONAAL BELEID
+3. The national system for occupational safety and health shall include, where appropriate:
 
-##### Artikel 3
+- a) a national tripartite advisory body, or bodies, addressing occupational safety and health issues;
 
-1. Elk Lid bevordert een veilige en gezonde werkomgeving, en werkt daartoe een nationaal beleid uit.
+- b) information and advisory services on occupational safety and health;
 
-2. Elk Lid garandeert het bevorderen en stimuleren, op alle niveaus, van het recht van de werknemers op een veilige en gezonde werkomgeving.
+- c) the provision of occupational safety and health training;
 
-3. Bij de uitwerking van zijn nationaal beleid bevordert elk Lid in het licht van de nationale omstandigheden en praktijk, en in overleg met de meest representatieve werkgevers- en werknemersorganisaties, basisprincipes zoals de evaluatie van de arbeidsrisico’s of gevaren; de bestrijding bij de bron van de arbeidsrisico’s of gevaren; en de ontwikkeling van een nationale preventiecultuur inzake veiligheid en gezondheid met voorlichting, raadpleging en opleiding.
+- d) occupational health services in accordance with national law and practice;
 
-### IV. NATIONAAL SYSTEEM
+- e) research on occupational safety and health;
 
-##### Artikel 4
+- f) a mechanism for the collection and analysis of data on occupational injuries and diseases, taking into account relevant ILO instruments;
 
-1. Elk Lid staat in voor een invoering, handhaving, geleidelijke ontwikkeling en periodieke evaluatie van een nationaal systeem inzake veiligheid en gezondheid op het werk, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
+- g) provisions for collaboration with relevant insurance or social security schemes covering occupational injuries and diseases; and
 
-2. Het nationaal systeem inzake veiligheid en gezondheid op het werk omvat onder meer:
+- h) support mechanisms for a progressive improvement of occupational safety and health conditions in micro-enterprises, in small and medium-sized enterprises and in the informal economy.
 
-- a. de wet- en regelgeving en in voorkomend geval de collectieve arbeidsovereenkomsten, en elk ander relevant instrument inzake veiligheid en gezondheid op het werk;
+### V. NATIONAL PROGRAMME
 
-- b. een overheid of instantie, of overheden of instanties, verantwoordelijk voor de veiligheid en gezondheid op het werk, aangewezen overeenkomstig de nationale wetgeving en praktijk;
+##### Article 5
 
-- c. mechanismen ter naleving van de nationale wetgeving, met inbegrip van de inspectieregelingen; en
+1. Each Member shall formulate, implement, monitor, evaluate and periodically review a national programme on occupational safety and health in consultation with the most representative organizations of employers and workers.
 
-- d. maatregelen ter bevordering, op het niveau van het bedrijf, van de samenwerking tussen de directie, werknemers en hun vertegenwoordigers, als wezenlijk onderdeel van preventiemaatregelen in de arbeidsomgeving.
+2. The national programme shall:
 
-3. Het nationaal systeem inzake veiligheid en gezondheid op het werk bestaat waar van toepassing uit:
+- a) promote the development of a national preventative safety and health culture;
 
-- a. een nationaal tripartiete adviesorgaan dat bevoegd is of nationale tripartiete adviesorganen die bevoegd zijn op het vlak van veiligheid en gezondheid op het werk;
+- b) contribute to the protection of workers by eliminating or minimizing, so far as is reasonably practicable, work-related hazards and risks, in accordance with national law and practice, in order to prevent occupational injuries, diseases and deaths and promote safety and health in the workplace;
 
-- b. diensten voor informatie en advies inzake veiligheid en gezondheid op het werk;
+- c) be formulated and reviewed on the basis of analysis of the national situation regarding occupational safety and health, including analysis of the national system for occupational safety and health;
 
-- c. aanbieden van opleidingen op het gebied van veiligheid en gezondheid op het werk;
+- d) include objectives, targets and indicators of progress; and
 
-- d. bedrijfsgeneeskundige diensten overeenkomstig de nationale wetgeving en praktijk;
+- e) be supported, where possible, by other complementary national programmes and plans which will assist in achieving progressively a safe and healthy working environment.
 
-- e. onderzoek naar veiligheid en gezondheid op het werk;
+3. The national programme shall be widely publicized and, to the extent possible, endorsed and launched by the highest national authorities.
 
-- f. een mechanisme voor de inzameling en analyse van gegevens over beroepsziekten en letsels, rekening houdend met de relevante IAO-instrumenten;
+### VI. FINAL PROVISIONS
 
-- g. voorzieningen voor interactie met relevante verzekerings- of socialezekerheidsregelingen die beroepsziekten en letsels dekken;
+##### Article 6
 
-- h. ondersteuningsmechanismen voor de geleidelijke verbetering van de veiligheids- en gezondheidsvoorwaarden op het werk binnen micro-ondernemingen, kleine en middelgrote ondernemingen en de informele economie.
+This Convention does not revise any international labour Conventions or Recommendations.
 
-### V. NATIONAAL PROGRAMMA
+##### Article 7
 
-##### Artikel 5
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-1. Elk Lid staat in voor de vaststelling, uitvoering, controle, evaluatie en periodieke herziening van een nationaal programma inzake veiligheid en gezondheid op het werk, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
+##### Article 8
 
-2. Het nationaal programma:
+1. This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered with the Director-General of the International Labour Office.
 
-- a. bevordert de ontwikkeling van een nationale preventiecultuur inzake veiligheid en gezondheid;
+2. It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.
 
-- b. draagt bij aan de bescherming van de werknemers door de arbeidsrisico’s en gevaren uit te bannen of tot een minimum te beperken, voor zover redelijkerwijs haalbaar, en overeenkomstig de nationale wetgeving en praktijk met het oog op de preventie van arbeidsgebonden letsels, ziekten en sterfgevallen alsook de bevordering van de veiligheid en gezondheid op de werkvloer;
+3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification is registered.
 
-- c. wordt uitgewerkt en geëvalueerd op basis van een analyse van de nationale situatie op het vlak van veiligheid en gezondheid op het werk, met inbegrip van een analyse van het nationaal systeem inzake veiligheid en gezondheid op het werk;
+##### Article 9
 
-- d. omvat doelstellingen en voortgangsindicatoren; en
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-- e. wordt zo mogelijk ondersteund door andere aanvullende nationale programma’s en plannen om geleidelijk te komen tot een veilige en gezonde werkomgeving.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention within the first year of each new period of ten years under the terms provided for in this Article.
 
-3. Het nationaal programma wordt ruim verspreid en zoveel mogelijk gesteund en in gang gezet door de hoogste nationale overheden.
+##### Article 10
 
-### VI. SLOTBEPALINGEN
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications and denunciations that have been communicated by the Members of the Organization.
 
-##### Artikel 6
+2. When notifying the Members of the Organization of the registration of the second ratification that has been communicated, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.
 
-Dit Verdrag houdt geen herziening in van een ander internationaal arbeidsverdrag of aanbeveling.
+##### Article 11
 
-##### Artikel 7
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and denunciations that have been registered.
 
-De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
+##### Article 12
 
-##### Artikel 8
+At such times as it may consider necessary, the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision.
 
-1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
+##### Article 13
 
-2. Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention, then, unless the new Convention otherwise provides:
 
-3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+- a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of [Article 9](https://wetten.overheid.nl/BWBV0005547) above, if and when the new revising Convention shall have come into force;
 
-##### Artikel 9
+- b) as from the date when the new revising Convention comes into force, this Convention shall cease to be open to ratification by the Members.
 
-1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen binnen het eerste jaar van elke nieuwe termijn van tien jaar op de voorwaarden voorzien in dit artikel.
+##### Article 14
 
-##### Artikel 10
-
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
-
-2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
-
-##### Artikel 11
-
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ten behoeve van registratie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties, van alle bijzonderheden omtrent alle bekrachtigingen en opzeggingen die zijn geregistreerd.
-
-##### Artikel 12
-
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de herziening ervan op de agenda van de Conferentie te plaatsen.
-
-##### Artikel 13
-
-1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
-
-- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 9 hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;
-
-- b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking treedt, dit Verdrag niet langer openstaan voor bekrachtiging door de Leden.
-
-2. Dit Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 14
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
-
-De voorgaande tekst is de authentieke tekst van het Verdrag, naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar vijfennegentigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op zestien juni 2006.
+The English and French versions of the text of this Convention are equally authoritative.
 
 The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organization during its Ninety-fifth Session which was held at Geneva and declared closed the sixteenth day of June 2006.
 

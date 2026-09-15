@@ -1,109 +1,86 @@
 ---
 title: "Overeenkomst tussen de Noorse Regering en de Nederlandse Regering betreffende schadeloosstelling voor: 1. bepaalde Noorse obligaties, door Nederlandse eigenaars tijdens de Tweede Wereldoorlog verloren; 2. oorlogsschade, toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam"
 identifier: "BWBV0005113"
-country: "nl"
-rank: "verdrag"
-publication_date: "1959-08-20"
-last_updated: "1959-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005113"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004472513"
-version_id: "10004684352"
-internal_id: "C10006952201"
-label_id: "10004457354"
-dtd_version: "2.0"
-original_entry_into_force: "1959-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005113/1959-08-20/0"
-intitule_bron: "Trb.1958-156"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1958-11-25"
-intitule_in_force: "1959-10-09"
-intitule_status: "goed"
-original_publication: "Trb.1958-156"
-original_published_date: "1958-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1958-156"
-entry_into_force_date: "1959-08-20"
-jci_1_3: "jci1.3:c:BWBV0005113&z=1959-08-20&g=1959-08-20"
-jci_1_0: "1.0:c:BWBV0005113&g=1959-08-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1959-08-20"
+publicatiedatum: 1959-08-20
+laatste_update: 1959-08-20
+status: geldig
+toestand: 1959-08-20
+bron: "https://wetten.overheid.nl/BWBV0005113"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Noorse Regering en de Nederlandse Regering betreffende schadeloosstelling voor: 1. bepaalde Noorse obligaties, door Nederlandse eigenaars tijdens de Tweede Wereldoorlog verloren; 2. oorlogsschade, toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Noorwegen,
+*The Royal Netherlands Government and the Royal Norwegian Government, Desiring to settle the claims of the Netherlands Government regarding certain bonds lost by Netherlands owners during the Second World War as well as the claim for the compensation of war damage to the Scandinavian Seamen's Home in Rotterdam; Have agreed as follows:*
 
-Verlangend te komen tot een regeling van aanspraken van de Nederlandse Regering inzake bepaalde tijdens de Tweede Wereldoorlog door Nederlandse eigenaars verloren obligaties, alsmede van de aanspraak op schadeloosstelling voor oorlogsschade toegebracht aan het Scandinavisch Zeemanshuis te Rotterdam,
+##### Article I
 
-Zijn overeengekomen als volgt:
+As the Government of the Netherlands has informed the Government of Norway that Netherlands citizens domiciled in the Netherlands during the Second World War have lost certain Norwegian securities partly as a result of war operations and conditions during the occupation, and partly as a result of the fact that the securities were stolen from them by the occupying power, the Norwegian Government has arrived at the conclusion that it should compensate these Netherlands subjects for the loss, through no fault of their own, of their bonds in Norwegian state loans in accordance with the regulations contained in the present Agreement and Annex 1 hereto.
 
-##### Artikel I
+The Norwegian Government has communicated with Norges Kommunalbank (Municipal Bank), Akershus County, the Oslo Municipal Authorities, the Bergen Municipal Authorities, the Fredrikstad Municipal Authorities, Norsk Hydro-Elektrisk Kvaelstofaktieselskab and Kristiania Hypotek- og Realkreditbank, who have stated their willingness to compensate Netherlands subjects for the loss of bonds issued by these institutions, in accordance with the regulations contained in this Agreement and Annex 2 hereto.
 
-Daar de Nederlandse Regering de Noorse Regering heeft medegedeeld, dat Nederlandse onderdanen die tijdens de Tweede Wereldoorlog in Nederland gevestigd waren, bepaalde Noorse effecten hebben verloren deels ten gevolge van oorlogshandelingen en oorlogsomstandigheden tijdens de bezetting en deels ten gevolge van het feit, dat de effecten hun ontstolen zijn door de bezettende mogendheid, is de Noorse Regering tot de slotsom gekomen, dat zij deze Nederlandse onderdanen voor dit, niet door hun schuld ontstane verlies van hun obligaties van Noorse staatsleningen schadeloos dient te stellen overeenkomstig de bepalingen, vervat in deze Overeenkomst en de daarbij behorende Bijlage 1.
+Details of those bonds covered by the present Agreement are contained in Annexes 1 and 2 to the present Agreement. The Annexes shall be regarded as forming an integral part of the present Agreement.
 
-De Noorse Regering heeft zich in verbinding gesteld met Norges Kommunalbank (Gemeentelijke Bank), de Provincie Akershus, de Gemeentelijke Autoriteiten van Oslo, de Gemeentelijke Autoriteiten van Bergen, de Gemeentelijke Autoriteiten van Fredrikstad, de Norsk Hydro-Elektrisk Kvaelstofaktieselskab en de Kristiania Hypotek- og Realkreditbank, die zich bereid hebben verklaard Nederlandse onderdanen schadeloos te stellen voor het verlies van door deze instellingen uitgegeven obligaties, overeenkomstig de bepalingen van deze Overeenkomst en de daarbij behorende Bijlage 2.
+The following procedure shall be followed when applying for compensation:
 
-De bijzonderheden betreffende de onder deze Overeenkomst vallende obligaties zijn vervat in de Bijlagen 1 en 2 van deze Overeenkomst. De Bijlagen zullen worden beschouwd een integrerend deel van deze Overeenkomst te vormen.
+- 1. The owner of a lost bond shall notify the loss, through the appropriate Netherlands authorities, to the following Norwegian institutions:
 
-Bij het aanvragen van schadeloosstelling dient de volgende procedure te worden gevolgd:
+   - (a) The Ministry of Commerce, Foreign Loans Division, in the case of Norwegian state bonds issued in foreign currencies,
 
-- 1. De eigenaar van een verloren gegane obligatie doet van dit verlies, door bemiddeling van de bevoegde Nederlandse autoriteiten, mededeling aan de volgende Noorse instellingen:
+   - (b) Norges Kommunalbank, in the case of bonds issued by this bank,
 
-- (a). Het Ministerie van Handel, Afdeling Buitenlandse Leningen, indien het in vreemde valuta uitgegeven Noorse staatsobligaties betreft;
+   - (c) Akershus Elektrisitetsverk, in the case of bonds issued by Akershus Country,
 
-- (b). Norges Kommunalbank, indien het door deze bank uitgegeven obligaties betreft;
+   - (d) The Principal of the Finance Department of the Oslo Municipal Authorities, in the case of bonds issued by the Oslo Municipal Authorities,
 
-- (c). Akershus Elektrisitetsverk, indien het door de Provincie Akershus uitgegeven obligaties betreft;
+   - (e) The Municipal Treasurer of Bergen, in the case of a bond issued by the Bergen Municipal Authorities,
 
-- (d). Het Hoofd van de Financiële Afdeling van de Gemeentelijke Autoriteiten van Oslo, indien het door de Gemeentelijke Autoriteiten van Oslo uitgegeven obligaties betreft;
+   - (f) Fredrikstad og Omegns Bank A/S, in the case of bonds issued by the Fredrikstad Municipal Authorities,
 
-- (e). Het Hoofd van de Financiële Afdeling van de Gemeente Bergen, indien het een door de Gemeentelijke Autoriteiten van Bergen uitgegeven obligatie betreft;
+   - (g) Norsk Hydro-Elektrisk Kvaelstofaktieselskab, in the case of bonds issued by this company,
 
-- (f). Fredrikstad og Omegns Bank A/S, indien het door de Gemeentelijke Autoriteiten van Fredrikstad uitgegeven obligaties betreft;
+   - (h) Kristiania Hypotek- og Realkreditbank, Oslo, in the case of bonds issued by this bank.
 
-- (g). Norsk Hydro-Elektrisk Kvaelstofaktieselskab, indien het door deze maatschappij uitgegeven obligaties betreft;
+- 2. The notification shall contain information regarding: The appropriate Netherlands authority shall certify that the information contained in the notification is correct.
 
-- (h). Kristiania Hypotek- og Realkreditbank, Oslo, indien het door deze bank uitgegeven obligaties betreft.
+   - (a) the loan in question - rate of interest, year, series,
 
-- 2. De mededeling dient gegevens te bevatten ten aanzien van: De bevoegde Nederlandse autoriteit dient te verklaren, dat de in de mededeling vervatte gegevens juist zijn.
+   - (b) whether the loss relates to the actual bond, to the coupons or to both,
 
-- (a). de betreffende lening - rente, jaar, serie;
+   - (c) the bond's letter, number and face value,
 
-- (b). of de obligatie zelf, de coupons, of beide verloren zijn gegaan;
+   - (d) which coupon sheet and coupon periods are lost,
 
-- (c). letter, nummer en nominale waarde van de obligatie;
+   - (e) who the owner was as per 9th September, 1945, and his name and address. If the present owner is not the same as the owner on 9th September, 1945, the present owner's name and address shall also be stated,
 
-- (d). welk couponblad en welke coupons (gedefinieerd naar tijdvakken) verloren zijn gegaan;
+   - (f) proof of the fact that the applicant, or the person from whom he has acquired his right, was the owner of the bond when it was lost, e.g. attestation from an authority of assessment, bank, probate court notary public,
 
-- (e). wie de eigenaar was op 9 september 1945, alsmede zijn naam en adres. Indien de huidige eigenaar niet dezelfde is als de eigenaar op 9 september 1945, dienen de naam en het adres van de huidige eigenaar eveneens te worden opgegeven;
+   - (g) when and how the bond or coupons were stolen, destroyed or lost as a result of war operations or circumstances prevailing during the occupation,
 
-- (f). bewijsstukken van het feit, dat de aanvrager of de persoon van wie hij zijn recht heeft verkregen, de eigenaar van de obligatie was op het ogenblik waarop deze verloren ging, bij voorbeeld een verklaring van een belastingautoriteit, een bank, een rechterlijke autoriteit, een notaris;
+   - (h) if the bond has been registered in Norway by a Netherlands subject other than the one applying for compensation, and the bond has not already been redeemed, a declaration or a copy of the decision, whereby the person who has registered the bond has relinquished or has been deprived of any right to it, shall also be attached.
 
-- (g). wanneer en hoe de obligatie of de coupons gestolen of vernietigd zijn of verloren zijn gegaan ten gevolge van oorlogshandelingen of omstandigheden tijdens de bezetting;
+- 3. The representatives of the bond issuers (the debtors) mentioned under No. 1 shall decide in each individual case whether the information submitted gives sufficient proof that the claimant is entitled to submit the claim as the legitimate owner, and whether the bond has been lost in such a manner that the loss entitles him to compensation.
 
-- (h). indien de obligatie in Noorwegen ter registratie is aangemeld door een andere Nederlandse onderdaan dan diegene die schadevergoeding vraagt, en indien de obligatie niet reeds is afgelost, dient eveneens een verklaring of een afschrift van een beslissing te worden bijgevoegd, waarbij de persoon die de obligatie ter registratie heeft aangemeld, van zijn recht afstand heeft gedaan of van dit recht is ontheven.
+- 4. The Netherlands Government shall guarantee any loss which the Norwegian Government, Norges Kommunalbank, Akershus County, the Oslo Municipal Authorities, the Bergen Municipal Authorities, the Fredrikstad Municipal Authorities, Norsk Hydro-Elektrisk Kvaelstofaktieselskab or Kristiania Hypotek- og Realkreditbank might sustain as a result of payments of compensation without bonds and coupons being presented. Those lost bonds and coupons for which compensation is paid shall remain blocked. The Netherlands authorities shall be informed if any effort is made to present such securities for redemption, and redemption shall not take place until after the lapse of a reasonable period. If, however, the bonds and coupons presented are redeemed, either as a result of an unintentional mistake on the part of an employee or fiscal agent or because the debtor, after considering all the circumstances, finds no reason for refusing redemption, the Netherlands Government shall on demand immediately compensate the debtor for all expenses involved in the payment. The parties agree that the Netherlands Government as the guarantor shall not be entitled to make any objection to the Norwegian debtor's appraisal as to whether payment was necessary in such cases. The provisions regarding guarantee liability in cases where lost bonds and coupons are presented after compensation has been paid, shall also apply if a claim is submitted by a legitimate creditor who is unable to present the bond or coupon concerned. The abovementioned instances of guarantee liability are not intended to be exhaustive but are mentioned as examples. The Netherlands Government's guarantee shall apply until the bonds and the coupons which are covered by the present Agreement are prescribed according to the Norwegian legislation in force at any time. However, when the bonds have face values in several currencies or in a currency other than Norwegian crowns, the guarantee shall also apply until prescription has come into force in conformity with the general regulations which the debtor in question applies in relation to foreigners.
 
-- 3. De vertegenwoordigers van de onder 1 genoemde uitgevers van obligaties (de schuldenaars) beslissen in ieder afzonderlijk geval, of de verstrekte gegevens voldoende bewijs vormen, dat de eiser het recht heeft als rechtmatige eigenaar een vordering in te stellen en of de obligatie op een zodanige wijze verloren is gegaan, dat het verlies hem recht op schadeloosstelling geeft.
+##### Article II
 
-- 4. De Nederlandse Regering stelt zich garant voor ieder verlies dat eventueel geleden wordt door de Noorse Regering, Norges Kommunalbank, de Provincie Akershus, de Gemeentelijke Autoriteiten van Oslo, de Gemeentelijke Autoriteiten van Bergen, de Gemeentelijke Autoriteiten van Fredrikstad, Norsk Hydro-Elektrisk Kvaelstofaktieselskab of Kristiania Hypotek- og Realkreditbank ten gevolge van betaling van schadeloosstelling zonder overlegging van obligaties en coupons. Obligaties en coupons waarvoor schadeloosstelling is betaald, blijven geblokkeerd. Aan de Nederlandse Regering zal mededeling worden gedaan van iedere poging dergelijke effecten ter aflossing aan te bieden en de aflossing vindt eerst plaats na verloop van een redelijke termijn. Indien de aangeboden obligaties en coupons echter worden afgelost, hetzij ten gevolge van een niet opzettelijke vergissing van een employé of een betaalkantoor, hetzij doordat de schuldenaar, na alle omstandigheden te hebben onderzocht, geen termen aanwezig vindt om aflossing te weigeren, dient de Nederlandse Regering op verzoek de schuldenaar onmiddellijk schadeloos te stellen voor alle met de betaling verband houdende kosten. Partijen komen overeen, dat de Nederlandse Regering als garant niet het recht zal hebben bezwaar te maken tegen het oordeel van de Noorse schuldenaar over de vraag, of de betaling in die gevallen noodzakelijk was. De bepalingen ten aanzien van aansprakelijkheid uit hoofde van de gegeven garantie in gevallen waarin verloren gegane obligaties en coupons worden aangeboden nadat schadeloosstelling is betaald, zijn eveneens van toepassing, indien een vordering wordt ingesteld door een rechtmatige schuldeiser die niet in staat is de betreffende obligatie of coupon over te leggen. Bovengenoemde gevallen van aansprakelijkheid uit hoofde van de gegeven garantie zijn niet bedoeld als een uitputtende opsomming, doch slechts als voorbeeld. De garantie van de Nederlandse Regering is van kracht tot de obligaties en coupons die onder deze Overeenkomst vallen, verjaren krachtens de op enig ogenblik geldende Noorse wetgeving. Indien de obligaties echter een nominale waarde hebben die in verschillende valuta's is uitgedrukt of in een andere valuta dan Noorse Kronen, is de garantie eveneens van kracht tot de verjaring is ingegaan overeenkomstig de algemene voorschriften welke de betreffende schuldenaar toepast met betrekking tot vreemdelingen.
+On the basis of the Netherlands „Wet op de Materiële Oorlogsschade” the Government of the Netherlands shall pay to the Society for Scandinavian Seamen's Homes in Foreign Ports a compensation of h.fl. 92,400.- for war damage to the Scandinavian Seamen's Home in Rotterdam. To this amount there will be added 4 % interest p.a. for the period June 1, 1940 to March 1, 1950 and 3½ % interest p.a. from March 1, 1950 till February 29, 1952, inclusive.
 
-##### Artikel II
+##### Article III
 
-Op basis van de Nederlandse „Wet op de Materiële Oorlogsschade” betaalt de Nederlandse Regering aan de Vereniging voor Scandinavische Zeemanshuizen in Buitenlandse Havens een schadeloosstelling ten bedrage van f 92 400 voor oorlogsschade aan het Scandinavisch Zeemanshuis te Rotterdam. Dit bedrag wordt verhoogd met 4 % rente per jaar voor de periode van 1 juni 1940 tot 1 maart 1950 en 3½ % rente per jaar van 1 maart 1950 tot en met 29 februari 1952.
-
-##### Artikel III
-
-Deze Overeenkomst treedt in werking op de datum waarop elk der Regeringen van de andere Regering een nota heeft ontvangen waarin wordt medegedeeld, dat aan de grondwettelijke vereisten voor de inwerkingtreding van een dergelijke Overeenkomst is voldaan.
+The present Agreement shall come into force on the date on which each Government shall receive from the other Government a Note in which it is stated, that the constitutional requirements for the entry into force of such Agreement have been fulfilled.
 
 IN WITNESS WHEREOF the undersigned representatives, duly authorized to that effect, have signed the present Agreement.
 
 DONE in duplicate at Oslo, on 30th June, 1958, in the English language.
 
-**For the Government of the Kingdom of the Netherlands:**
+*For the Government of the Kingdom of the Netherlands:*
 
 (sd.) C. A. v. d. KLAAUW
 
-**For the Government of the Kingdom of Norway:**
+*For the Government of the Kingdom of Norway:*
 
 (sd.) HALVARD LANGE

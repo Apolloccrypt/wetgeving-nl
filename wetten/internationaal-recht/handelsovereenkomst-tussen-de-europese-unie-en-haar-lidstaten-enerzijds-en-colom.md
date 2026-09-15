@@ -1,142 +1,21 @@
 ---
 title: "Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds"
 identifier: "BWBV0005911"
-country: "nl"
-rank: "verdrag"
-publication_date: "2024-11-01"
-last_updated: "2024-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005911"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004943943"
-version_id: "10005264782"
-internal_id: "C10010171031"
-label_id: "10004931244"
-dtd_version: "2.0"
-original_entry_into_force: "2024-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005911/2024-11-01/0"
-intitule_bron: "Trb.2012-178"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-09-28"
-intitule_in_force: "2025-01-15"
-intitule_status: "goed"
-original_publication: "Trb.2012-178"
-original_published_date: "2012-09-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-178"
-entry_into_force_date: "2024-11-01"
-jci_1_3: "jci1.3:c:BWBV0005911&z=2024-11-01&g=2024-11-01"
-jci_1_0: "1.0:c:BWBV0005911&g=2024-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2024-11-01"
+publicatiedatum: 2024-11-01
+laatste_update: 2024-11-01
+status: geldig
+toestand: 2024-11-01
+bron: "https://wetten.overheid.nl/BWBV0005911"
+opgehaald: 2026-09-15
 ---
+
 # Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds
 
-Het Koninkrijk België,
+*Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten van de Europese Unie” genoemd, en De Europese Unie, enerzijds, en DE REPUBLIEK COLOMBIA (hierna „Colombia” genoemd), DE REPUBLIEK PERU (hierna „Peru” genoemd) en DE REPUBLIEK ECUADOR (hierna „Ecuador” genoemd), hierna „de overeenkomstsluitende Andeslanden” genoemd, anderzijds, Gezien het belang van de historische en culturele banden en de bijzondere banden van vriendschap en samenwerking tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden, en hun wens om de economische integratie tussen de partijen te bevorderen; Vastbesloten om die banden te versterken door voort te bouwen op de bestaande instrumenten die de betrekkingen tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden regelen; Opnieuw bevestigend dat zij het handvest van de Verenigde Naties en de Universele Verklaring van de rechten van de mens ten volle onderschrijven; Hiermee een bijdrage leverend aan de harmonieuze ontwikkeling en uitbreiding van de wereld- en regionale handel en een katalysator voor internationale samenwerking biedend; Geleid door de wens de algehele economische ontwikkeling te bevorderen, teneinde op hun grondgebieden de armoede te verminderen, werkgelegenheid te creëren en arbeidsomstandigheden te verbeteren, alsook er de levensstandaard te verhogen, door het liberaliseren en uitbreiden van de onderlinge handel en investeringen; Vastbesloten deze overeenkomst uit te voeren overeenkomstig de doelstelling „duurzame ontwikkeling”, welke doelstelling onder meer het bevorderen van economische vooruitgang, het in acht nemen van arbeidsrechten en het beschermen van het milieu omvat, overeenkomstig de internationale verbintenissen die de partijen zijn aangegaan; Voortbouwend op de rechten en verplichtingen die voor de partijen voortvloeien uit de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie (hierna de „WTO-overeenkomst” genoemd); Vastbesloten tot het verwijderen van verstoringen in de handel tussen de partijen en het voorkomen van onnodige handelsbelemmeringen; Vastbesloten tot het vaststellen van duidelijke, alle partijen tot voordeel strekkende handelsregels en het bevorderen van de onderlinge handel en investeringen en van een regelmatige dialoog hierover; Geleid door de wens het concurrentievermogen van hun ondernemingen op internationale markten te vergroten door die ondernemingen een voorspelbaar wetgevingskader voor hun handels- en investeringsrelaties te verschaffen; GEZIEN de verschillen in economische en sociale ontwikkeling tussen de overeenkomstsluitende Andeslanden onderling en tussen de overeenkomstsluitende Andeslanden en de Europese Unie en haar lidstaten; Bevestigend dat de partijen het recht hebben om zo veel mogelijk gebruik te maken van de flexibiliteiten in het multilaterale kader om het algemeen belang te beschermen; Zich ervan bewust dat de overeenkomstsluitende Andeslanden lid van de Andesgemeenschap zijn en volgens Besluit 598 van de Andesgemeenschap bij onderhandelingen met derde landen ervoor moeten zorgen dat het stelsel van wettelijke regels dat van toepassing is op de wederzijdse betrekkingen tussen de Andeslanden, gehandhaafd blijft; Zich bewust van het belang van de respectieve regionale integratieprocessen van de Europese Unie en de overeenkomstsluitende Andeslanden, laatstgenoemde in het kader van de Andesgemeenschap, Zijn het volgende overeengekomen:*
 
-De Republiek Bulgarije,
-
-De Tsjechische Republiek,
-
-Het Koninkrijk Denemarken,
-
-De Bondsrepubliek Duitsland,
-
-De Republiek Estland,
-
-Ierland,
-
-De Helleense Republiek,
-
-Het Koninkrijk Spanje,
-
-De Franse Republiek,
-
-De Italiaanse Republiek,
-
-De Republiek Cyprus,
-
-De Republiek Letland,
-
-De Republiek Litouwen,
-
-Het Groothertogdom Luxemburg,
-
-Hongarije,
-
-Malta,
-
-Het Koninkrijk der Nederlanden,
-
-De Republiek Oostenrijk,
-
-De Republiek Polen,
-
-De Portugese Republiek,
-
-Roemenië,
-
-De Republiek Slovenië,
-
-De Slowaakse Republiek,
-
-De Republiek Finland,
-
-Het Koninkrijk Zweden,
-
-Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-partijen bij het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna de „lidstaten van de Europese Unie” genoemd,
-
-en
-
-De Europese Unie,
-
-enerzijds, en
-
-DE REPUBLIEK COLOMBIA (hierna „Colombia” genoemd),
-
-DE REPUBLIEK PERU (hierna „Peru” genoemd)
-
-en
-
-DE REPUBLIEK ECUADOR (hierna „Ecuador” genoemd),
-
-hierna „de overeenkomstsluitende Andeslanden” genoemd,
-
-anderzijds,
-
-Gezien het belang van de historische en culturele banden en de bijzondere banden van vriendschap en samenwerking tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden, en hun wens om de economische integratie tussen de partijen te bevorderen;
-
-Vastbesloten om die banden te versterken door voort te bouwen op de bestaande instrumenten die de betrekkingen tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden regelen;
-
-Opnieuw bevestigend dat zij het [handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de [Universele Verklaring van de rechten van de mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) ten volle onderschrijven;
-
-Hiermee een bijdrage leverend aan de harmonieuze ontwikkeling en uitbreiding van de wereld- en regionale handel en een katalysator voor internationale samenwerking biedend;
-
-Geleid door de wens de algehele economische ontwikkeling te bevorderen, teneinde op hun grondgebieden de armoede te verminderen, werkgelegenheid te creëren en arbeidsomstandigheden te verbeteren, alsook er de levensstandaard te verhogen, door het liberaliseren en uitbreiden van de onderlinge handel en investeringen;
-
-Vastbesloten deze overeenkomst uit te voeren overeenkomstig de doelstelling „duurzame ontwikkeling”, welke doelstelling onder meer het bevorderen van economische vooruitgang, het in acht nemen van arbeidsrechten en het beschermen van het milieu omvat, overeenkomstig de internationale verbintenissen die de partijen zijn aangegaan;
-
-Voortbouwend op de rechten en verplichtingen die voor de partijen voortvloeien uit de [Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) (hierna de „WTO-overeenkomst” genoemd);
-
-Vastbesloten tot het verwijderen van verstoringen in de handel tussen de partijen en het voorkomen van onnodige handelsbelemmeringen;
-
-Vastbesloten tot het vaststellen van duidelijke, alle partijen tot voordeel strekkende handelsregels en het bevorderen van de onderlinge handel en investeringen en van een regelmatige dialoog hierover;
-
-Geleid door de wens het concurrentievermogen van hun ondernemingen op internationale markten te vergroten door die ondernemingen een voorspelbaar wetgevingskader voor hun handels- en investeringsrelaties te verschaffen;
-
-GEZIEN de verschillen in economische en sociale ontwikkeling tussen de overeenkomstsluitende Andeslanden onderling en tussen de overeenkomstsluitende Andeslanden en de Europese Unie en haar lidstaten;
-
-Bevestigend dat de partijen het recht hebben om zo veel mogelijk gebruik te maken van de flexibiliteiten in het multilaterale kader om het algemeen belang te beschermen;
-
-Zich ervan bewust dat de overeenkomstsluitende Andeslanden lid van de Andesgemeenschap zijn en volgens Besluit 598 van de Andesgemeenschap bij onderhandelingen met derde landen ervoor moeten zorgen dat het stelsel van wettelijke regels dat van toepassing is op de wederzijdse betrekkingen tussen de Andeslanden, gehandhaafd blijft;
-
-Zich bewust van het belang van de respectieve regionale integratieprocessen van de Europese Unie en de overeenkomstsluitende Andeslanden, laatstgenoemde in het kader van de Andesgemeenschap,
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. INLEIDENDE BEPALINGEN
+### TITEL I. INLEIDENDE BEPALINGEN
 
 ### HOOFDSTUK 1. ESSENTIËLE ELEMENTEN
 
@@ -186,7 +65,7 @@ Deze overeenkomst heeft de volgende doelstellingen:
 
 - k. ervoor zorgen dat de samenwerking op het terrein van technische bijstand en de versterking van de handelscapaciteit van de partijen bijdragen aan de uitvoering van deze overeenkomst en er ook toe bijdragen dat optimaal gebruik wordt gemaakt van de kansen die de overeenkomst biedt, met inachtneming van het bestaande wettelijke en institutionele kader.
 
-##### Artikel 5. Verband met de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160)
+##### Artikel 5. Verband met de WTO-overeenkomst
 
 De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij ingevolge de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) jegens elkaar hebben.
 
@@ -194,9 +73,9 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij in
 
 1. Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
-- –. „partij”: de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, binnen de grenzen van hun respectieve bevoegdheden zoals deze voortvloeien uit het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) (hierna „EU” genoemd), of elk van de overeenkomstsluitende Andeslanden;
+- – „partij”: de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, binnen de grenzen van hun respectieve bevoegdheden zoals deze voortvloeien uit het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) (hierna „EU” genoemd), of elk van de overeenkomstsluitende Andeslanden;
 
-- –. „partijen”: de EU, enerzijds, en elk van de overeenkomstsluitende Andeslanden, anderzijds.
+- – „partijen”: de EU, enerzijds, en elk van de overeenkomstsluitende Andeslanden, anderzijds.
 
 2. Daar waar deze overeenkomst voorziet in specifieke en afzonderlijke verbintenissen ten aanzien van een lidstaat van de Europese Unie of een van de overeenkomstsluitende Andeslanden, geldt de overeenkomst voor dat specifieke land of die specifieke landen al naargelang wat van toepassing is.
 
@@ -240,17 +119,17 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij in
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
-- –. „dagen”: kalenderdagen, inclusief weekenden en vakantiedagen;
+- – „dagen”: kalenderdagen, inclusief weekenden en vakantiedagen;
 
-- –. „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de [GATT 1994](onbekend) of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=19&z=2024-11-01&g=2024-11-01);
+- – „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de [GATT 1994](https://wetten.overheid.nl/BWBV0001160) of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=1&artikel=19&z=2024-11-01&g=2024-11-01);
 
-- –. „rechtspersoon”: elke juridische eenheid, naar toepasselijk recht opgericht of anderszins georganiseerd, met winst- of andere oogmerken, ongeacht of zij eigendom van particulieren of van de overheid is, met inbegrip van alle vennootschappen, trusts, maatschappen, joint ventures, eenmanszaken of verenigingen;
+- – „rechtspersoon”: elke juridische eenheid, naar toepasselijk recht opgericht of anderszins georganiseerd, met winst- of andere oogmerken, ongeacht of zij eigendom van particulieren of van de overheid is, met inbegrip van alle vennootschappen, trusts, maatschappen, joint ventures, eenmanszaken of verenigingen;
 
-- –. „maatregel”: een handeling of nalating van een partij, waaronder begrepen (wettelijke) voorschriften, procedures, besluiten, administratieve handelingen of praktijken, of een handeling of nalating in enige andere vorm;
+- – „maatregel”: een handeling of nalating van een partij, waaronder begrepen (wettelijke) voorschriften, procedures, besluiten, administratieve handelingen of praktijken, of een handeling of nalating in enige andere vorm;
 
-- –. „persoon”: een natuurlijke persoon(3a)In het Ecuadoraanse recht wordt een „fysieke persoon” („**persona física**”) aangeduid als een „natuurlijke persoon” („**persona natural**”). of een rechtspersoon.
+- – „persoon”: een natuurlijke persoon(3a)In het Ecuadoraanse recht wordt een „fysieke persoon” („*persona física*”) aangeduid als een „natuurlijke persoon” („*persona natural*”). of een rechtspersoon.
 
-## TITEL II. INSTITUTIONELE BEPALINGEN
+### TITEL II. INSTITUTIONELE BEPALINGEN
 
 ##### Artikel 12. Handelscomité
 
@@ -310,17 +189,17 @@ Wanneer een ander overeenkomstsluitend Andesland blijk geeft van belangstelling 
 
 - g. de verwezenlijking van de doelstellingen van deze overeenkomst bevorderen door middel van wijzigingen, waarin is voorzien in deze overeenkomst, in:
 
-- i. bijlage I (Lijsten inzake tariefafschaffing), teneinde een of meer producten toe te voegen die niet zijn opgenomen in de lijst voor tariefafschaffing van een partij;
+   - i. [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing), teneinde een of meer producten toe te voegen die niet zijn opgenomen in de lijst voor tariefafschaffing van een partij;
 
-- ii. de tijdschema’s in bijlage I (Lijsten inzake tariefafschaffing), teneinde de rechten sneller te verlagen;
+   - ii. de tijdschema’s in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing), teneinde de rechten sneller te verlagen;
 
-- iii. de specifieke oorsprongsregels in bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
+   - iii. de specifieke oorsprongsregels in [bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
 
-- iv. de lijst van aanbestedende diensten in aanhangsel 1 van bijlage XII (Overheidsopdrachten);
+   - iv. de lijst van aanbestedende diensten in [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten);
 
-- v. de lijsten van verbintenissen in de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en de voorbehouden in bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken); en
+   - v. de lijsten van verbintenissen in de [bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en de voorbehouden in bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken); en
 
-- vi. andere bepalingen die op grond van een uitdrukkelijke bepaling in deze overeenkomst door het Handelscomité kunnen worden gewijzigd.
+   - vi. andere bepalingen die op grond van een uitdrukkelijke bepaling in deze overeenkomst door het Handelscomité kunnen worden gewijzigd.
 
 Elke partij legt de in dit punt bedoelde wijzigingen in overeenstemming met haar toepasselijke wettelijke procedures ten uitvoer.
 
@@ -388,11 +267,11 @@ Elke partij legt de in dit punt bedoelde wijzigingen in overeenstemming met haar
 
 3. De coördinatoren van de overeenkomst vergaderen naar behoefte.
 
-## TITEL III. HANDEL IN GOEDEREN
+### TITEL III. HANDEL IN GOEDEREN
 
 ### HOOFDSTUK 1. MARKTTOEGANG VOOR GOEDEREN
 
-### AFDELING 1. GEMEENSCHAPPELĲKE BEPALINGEN
+#### AFDELING 1. GEMEENSCHAPPELĲKE BEPALINGEN
 
 ##### Artikel 17. Doel
 
@@ -406,15 +285,15 @@ Tenzij in deze overeenkomst anders is bepaald, is dit hoofdstuk van toepassing o
 
 Voor de toepassing van deze titel wordt verstaan onder:
 
-- –. „douanerechten”: alle rechten en heffingen, met inbegrip van alle aanvullende heffingen of belastingen, die worden opgelegd op of in verband met de invoer van goederen. Daaronder vallen niet:
+- – „douanerechten”: alle rechten en heffingen, met inbegrip van alle aanvullende heffingen of belastingen, die worden opgelegd op of in verband met de invoer van goederen. Daaronder vallen niet:
 
-- a. aan interne belastingen gelijkgestelde heffingen die in overeenstemming met artikel III van de GATT 1994 worden opgelegd;
+   - a. aan interne belastingen gelijkgestelde heffingen die in overeenstemming met artikel III van de GATT 1994 worden opgelegd;
 
-- b. antidumping-, compenserende of vrijwaringsmaatregelen die worden toegepast in overeenstemming met, voor zover relevant, de [GATT 1994](onbekend), de [WTO-overeenkomst inzake de toepassing van artikel VI van GATT 1994](onbekend), hierna de „antidumpingovereenkomst” genoemd, de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](onbekend), hierna de „subsidieovereenkomst” genoemd, en de [WTO-overeenkomst inzake vrijwaringsmaatregelen](onbekend), hierna de „vrijwaringsovereenkomst” genoemd;
+   - b. antidumping-, compenserende of vrijwaringsmaatregelen die worden toegepast in overeenstemming met, voor zover relevant, de [GATT 1994](https://wetten.overheid.nl/BWBV0001160), de [WTO-overeenkomst inzake de toepassing van artikel VI van GATT 1994](https://wetten.overheid.nl/BWBV0001160), hierna de „antidumpingovereenkomst” genoemd, de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](https://wetten.overheid.nl/BWBV0001160), hierna de „subsidieovereenkomst” genoemd, en de [WTO-overeenkomst inzake vrijwaringsmaatregelen](https://wetten.overheid.nl/BWBV0001160), hierna de „vrijwaringsovereenkomst” genoemd;
 
-- c. vergoedingen en andere heffingen die in overeenstemming met artikel VIII van de GATT 1994 worden opgelegd;
+   - c. vergoedingen en andere heffingen die in overeenstemming met artikel VIII van de GATT 1994 worden opgelegd;
 
-- –. „producten of goederen van oorsprong”: producten of goederen die beantwoorden aan de oorsprongsregels in bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking).
+- – „producten of goederen van oorsprong”: producten of goederen die beantwoorden aan de oorsprongsregels in [bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking).
 
 ##### Artikel 20. Indeling van de goederen
 
@@ -426,29 +305,29 @@ De indeling van de handelsgoederen waarop deze overeenkomst van toepassing is, g
 
 2. Voor de duidelijkheid bevestigen partijen dat onder nationale behandeling wordt verstaan, met betrekking tot overheden en autoriteiten op alle bestuursniveaus, een behandeling die niet minder gunstig is dan de behandeling die de desbetreffende overheid of autoriteit geeft aan soortgelijke, rechtstreeks concurrerende of substitueerbare binnenlandse goederen, waaronder goederen van oorsprong uit het bevoegdheidsgebied van die overheid of autoriteit6)Colombia en de EU zijn het erover eens dat deze bepaling niet in de weg staat van de instandhouding en handhaving van de alcoholmonopolies in Colombia..
 
-### AFDELING 2. AFSCHAFFING VAN DOUANERECHTEN
+#### AFDELING 2. AFSCHAFFING VAN DOUANERECHTEN
 
 ##### Artikel 22. Afschaffing van douanerechten
 
-1. Tenzij in deze overeenkomst anders is bepaald, schaft elke partij haar douanerechten op goederen van oorsprong uit een andere partij af overeenkomstig bijlage I (Lijsten inzake tariefafschaffing).
+1. Tenzij in deze overeenkomst anders is bepaald, schaft elke partij haar douanerechten op goederen van oorsprong uit een andere partij af overeenkomstig [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing).
 
-2. Voor elk product is het basisdouanerecht, waarop ingevolge lid 1 de achtereenvolgende verlagingen worden toegepast, het recht dat in bijlage I (Lijsten inzake tariefafschaffing) voor dat product is vermeld.
+2. Voor elk product is het basisdouanerecht, waarop ingevolge lid 1 de achtereenvolgende verlagingen worden toegepast, het recht dat in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) voor dat product is vermeld.
 
-3. Indien een partij na de inwerkingtreding van deze overeenkomst op enig tijdstip het door haar toegepaste meestbegunstigingsrecht verlaagt, geldt dat recht alleen als het lager is dan het overeenkomstig bijlage I (Lijsten inzake tariefafschaffing) berekende recht.
+3. Indien een partij na de inwerkingtreding van deze overeenkomst op enig tijdstip het door haar toegepaste meestbegunstigingsrecht verlaagt, geldt dat recht alleen als het lager is dan het overeenkomstig [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) berekende recht.
 
-4. Indien een partij daarom vraagt, treden de partijen in overleg om te overwegen of douanerechten eventueel sneller en in ruimere mate kunnen worden afgeschaft dan is vastgesteld in bijlage I (Lijsten inzake tariefafschaffing).
+4. Indien een partij daarom vraagt, treden de partijen in overleg om te overwegen of douanerechten eventueel sneller en in ruimere mate kunnen worden afgeschaft dan is vastgesteld in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing).
 
-5. Wanneer het Handelscomité in overeenstemming met [artikel 13, lid 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=13&z=2024-11-01&g=2024-11-01), besluit de afschaffing van douanerechten te versnellen of uit te breiden, komt dat besluit in de plaats van de douanerechten of afbouwcategorieën die overeenkomstig bijlage I (Lijsten inzake tariefafschaffing) zijn vastgesteld.
+5. Wanneer het Handelscomité in overeenstemming met [artikel 13, lid 2, onder g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=II&artikel=13&z=2024-11-01&g=2024-11-01), besluit de afschaffing van douanerechten te versnellen of uit te breiden, komt dat besluit in de plaats van de douanerechten of afbouwcategorieën die overeenkomstig [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) zijn vastgesteld.
 
-6. Tenzij in deze overeenkomst anders is bepaald, mogen de partijen douanerechten die in bijlage I (Lijsten inzake tariefafschaffing) als basisrecht zijn vastgesteld, niet verhogen en mogen zij evenmin nieuwe douanerechten vaststellen voor goederen van oorsprong uit een andere partij.
+6. Tenzij in deze overeenkomst anders is bepaald, mogen de partijen douanerechten die in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) als basisrecht zijn vastgesteld, niet verhogen en mogen zij evenmin nieuwe douanerechten vaststellen voor goederen van oorsprong uit een andere partij.
 
 7. Lid 6 belet een partij niet een douanerecht:
 
-- a. na een eenzijdige verlaging te verhogen tot het niveau dat in bijlage I (Lijsten inzake tariefafschaffing) voor het desbetreffende jaar is vastgesteld; of
+- a. na een eenzijdige verlaging te verhogen tot het niveau dat in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) voor het desbetreffende jaar is vastgesteld; of
 
 - b. te handhaven of te verhogen in overeenstemming met het [WTO-Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=2), hierna het „DSU” genoemd, of [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting).
 
-### AFDELING 3. NIET-TARIFAIRE MAATREGELEN
+#### AFDELING 3. NIET-TARIFAIRE MAATREGELEN
 
 ##### Artikel 23. Invoer- en uitvoerbeperkingen
 
@@ -468,7 +347,7 @@ Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of
 
 ##### Artikel 26. Procedures voor in- en uitvoervergunningen
 
-1. De partijen mogen geen maatregelen vaststellen of handhaven die in strijd zijn met de [WTO-overeenkomst inzake procedures op het gebied van invoervergunningen](onbekend), hierna de „overeenkomst invoervergunningen” genoemd, die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.
+1. De partijen mogen geen maatregelen vaststellen of handhaven die in strijd zijn met de [WTO-overeenkomst inzake procedures op het gebied van invoervergunningen](https://wetten.overheid.nl/BWBV0001160), hierna de „overeenkomst invoervergunningen” genoemd, die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.
 
 2. Elke partij past de in de overeenkomst invoervergunningen vervatte bepalingen mutatis mutandis toe op elke vergunningprocedure voor uitvoer naar een andere partij. De in [artikel 5 van de overeenkomst invoervergunningen](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=5) bedoelde kennisgeving wordt door de partijen ook verricht bij procedures betreffende uitvoervergunningen.
 
@@ -476,11 +355,11 @@ Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of
 
 ##### Artikel 27. Staatshandelsondernemingen
 
-1. Voor de toepassing van deze overeenkomst wordt onder „staatshandelsondernemingen” verstaan, overheids- en niet-overheidsondernemingen, ongeacht de plaats van vestiging, op centraal en lager niveau, waaronder begrepen afzetorganisaties, waaraan exclusieve of bijzondere rechten of voorrechten zijn toegekend, waaronder wettelijke of constitutionele bevoegdheden, bij de uitoefening waarvan zij door hun aan- of verkopen de hoogte of richting van de in- en uitvoer beïnvloeden8)Voor de duidelijkheid wordt opgemerkt dat de alcoholondernemingen die opereren in het kader van het in artikel 336 van de Grondwet van Colombia bedoelde **„monopolio rentístico”** onder deze definitie van staatshandelsondernemingen vallen..
+1. Voor de toepassing van deze overeenkomst wordt onder „staatshandelsondernemingen” verstaan, overheids- en niet-overheidsondernemingen, ongeacht de plaats van vestiging, op centraal en lager niveau, waaronder begrepen afzetorganisaties, waaraan exclusieve of bijzondere rechten of voorrechten zijn toegekend, waaronder wettelijke of constitutionele bevoegdheden, bij de uitoefening waarvan zij door hun aan- of verkopen de hoogte of richting van de in- en uitvoer beïnvloeden8)Voor de duidelijkheid wordt opgemerkt dat de alcoholondernemingen die opereren in het kader van het in artikel 336 van de Grondwet van Colombia bedoelde *„monopolio rentístico”* onder deze definitie van staatshandelsondernemingen vallen..
 
 2. De partijen erkennen dat staatshandelsondernemingen door hun wijze van bedrijfsvoering geen handelsbelemmeringen mogen creëren en gaan derhalve de in dit artikel neergelegde verplichtingen aan.
 
-3. De partijen bevestigen opnieuw hun bestaande rechten en verplichtingen uit hoofde van artikel XVII van GATT 1994, de aantekeningen en aanvullende bepalingen daarbij, en het [Memorandum van Overeenstemming betreffende de interpretatie van artikel XVII van de GATT 1994](onbekend), welke mutatis mutandis in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.
+3. De partijen bevestigen opnieuw hun bestaande rechten en verplichtingen uit hoofde van artikel XVII van GATT 1994, de aantekeningen en aanvullende bepalingen daarbij, en het [Memorandum van Overeenstemming betreffende de interpretatie van artikel XVII van de GATT 1994](https://wetten.overheid.nl/BWBV0001160), welke mutatis mutandis in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.
 
 4. De partijen zien er met name op toe dat staatshandelsondernemingen bij hun aan- en verkopen, en steeds wanneer zij een bevoegdheid uitoefenen, waaronder een eventuele wettelijke of constitutionele bevoegdheid, die een partij op centraal of lager niveau aan deze ondernemingen heeft gedelegeerd, voldoen aan de verplichtingen die de partijen in deze overeenkomst aangaan.
 
@@ -488,7 +367,7 @@ Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of
 
 6. In de context van de kennisgeving die de partijen ingevolge artikel XVII van de GATT 1994 verrichten, streeft een partij wie om aanvullende informatie is verzocht over het effect van staatshandelsondernemingen op de bilaterale handel, naar maximale transparantie in haar reactie op een dergelijk informatieverzoek, voor zover de verzoekende partij die informatie nodig heeft om te kunnen bepalen of de staatshandelsondernemingen voldoen aan de toepasselijke verplichtingen van deze overeenkomst, overeenkomstig de bepalingen van artikel XVII, lid 4, onder d), van de GATT 1994 betreffende vertrouwelijke informatie.
 
-### AFDELING 4. LANDBOUWPRODUCTEN
+#### AFDELING 4. LANDBOUWPRODUCTEN
 
 ##### Artikel 28. Toepassingsgebied
 
@@ -496,27 +375,27 @@ Deze afdeling is van toepassing op de maatregelen die de partijen vaststellen of
 
 ##### Artikel 29. Landbouwvrijwaringsmaatregelen
 
-1. In afwijking van het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=2&artikel=22&z=2024-11-01&g=2024-11-01) mag een partij ten aanzien van landbouwproducten van oorsprong die zijn opgenomen in haar lijst in bijlage IV (Landbouwvrijwaringsmaatregelen) een landbouwvrijwaringsmaatregel in de vorm van aanvullende invoerrechten toepassen, mits is voldaan aan de voorwaarden van dit artikel. Het tarief van een aanvullend invoerrecht of van enig ander douanerecht op bedoelde producten bedraagt ten hoogste het laagste van de volgende rechten:
+1. In afwijking van het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=1&afdeling=2&artikel=22&z=2024-11-01&g=2024-11-01) mag een partij ten aanzien van landbouwproducten van oorsprong die zijn opgenomen in haar lijst in [bijlage IV](https://wetten.overheid.nl/BWBV0005911) (Landbouwvrijwaringsmaatregelen) een landbouwvrijwaringsmaatregel in de vorm van aanvullende invoerrechten toepassen, mits is voldaan aan de voorwaarden van dit artikel. Het tarief van een aanvullend invoerrecht of van enig ander douanerecht op bedoelde producten bedraagt ten hoogste het laagste van de volgende rechten:
 
 - a. het toegepaste meestbegunstigingsrecht; of
 
-- b. het basisrecht dat staat vermeld in bijlage I (Lijsten inzake tariefafschaffing).
+- b. het basisrecht dat staat vermeld in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing).
 
-2. Een partij mag voor de duur van één kalenderjaar een op hoeveelheid gebaseerde vrijwaringsmaatregel toepassen indien bij de binnenkomst van een product van oorsprong in haar douanegebied de totale hoeveelheid die dat jaar van bedoeld product is ingevoerd, het in de lijst van de partij in bijlage IV (Landbouwvrijwaringsmaatregelen) gespecificeerde drempelvolume overstijgt.
+2. Een partij mag voor de duur van één kalenderjaar een op hoeveelheid gebaseerde vrijwaringsmaatregel toepassen indien bij de binnenkomst van een product van oorsprong in haar douanegebied de totale hoeveelheid die dat jaar van bedoeld product is ingevoerd, het in de lijst van de partij in [bijlage IV](https://wetten.overheid.nl/BWBV0005911) (Landbouwvrijwaringsmaatregelen) gespecificeerde drempelvolume overstijgt.
 
-3. Een krachtens de leden 1 en 2 toegepast aanvullend recht dient in overeenstemming te zijn met de lijst van de partij in bijlage IV (Landbouwvrijwaringsmaatregelen).
+3. Een krachtens de leden 1 en 2 toegepast aanvullend recht dient in overeenstemming te zijn met de lijst van de partij in [bijlage IV](https://wetten.overheid.nl/BWBV0005911) (Landbouwvrijwaringsmaatregelen).
 
 4. Geen van partijen mag met betrekking tot hetzelfde product tegelijkertijd een landbouwvrijwaringsmaatregel krachtens dit artikel en een van de volgende maatregelen toepassen:
 
 - a. een vrijwaringsmaatregel krachtens het bepaalde in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Handelsmaatregelen); of
 
-- b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](onbekend).
+- b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](https://wetten.overheid.nl/BWBV0001160).
 
 5. Geen van de partijen mag een landbouwvrijwaringsmaatregel vaststellen of handhaven:
 
-- a. vanaf de datum dat een product vrijstelling van invoerrechten geniet krachtens bijlage I (Lijsten inzake tariefafschaffing), behalve als onder b) anders is bepaald; of
+- a. vanaf de datum dat een product vrijstelling van invoerrechten geniet krachtens [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing), behalve als onder b) anders is bepaald; of
 
-- b. na het verstrijken van de overgangsperiode die is gespecificeerd in de lijst van de partij in bijlage IV (Landbouwvrijwaringsmaatregelen); of
+- b. na het verstrijken van de overgangsperiode die is gespecificeerd in de lijst van de partij in [bijlage IV](https://wetten.overheid.nl/BWBV0005911) (Landbouwvrijwaringsmaatregelen); of
 
 - c. die een douanerecht binnen een tariefcontingent verhoogt.
 
@@ -534,7 +413,7 @@ Tenzij in deze overeenkomst anders is bepaald,
 
 ##### Artikel 31. Invoerprijssysteem
 
-Tenzij in deze overeenkomst anders is bepaald, mag de EU het invoerprijssysteem toepassen dat is vastgesteld bij [Verordening (EG) nr. 1580/2007](32007R1580) van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de [Verordeningen (EG) nr. 2200/96](31996R2200), [(EG) nr. 2201/96](31996R2201) en [(EG) nr. 1182/2007](32007R1182) van de Raad in de sector groenten en fruit, alsmede wijzigingen daarop, dan wel latere systemen.
+Tenzij in deze overeenkomst anders is bepaald, mag de EU het invoerprijssysteem toepassen dat is vastgesteld bij Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit, alsmede wijzigingen daarop, dan wel latere systemen.
 
 ##### Artikel 32. Uitvoersubsidies en andere maatregelen van gelijke werking
 
@@ -542,29 +421,29 @@ Tenzij in deze overeenkomst anders is bepaald, mag de EU het invoerprijssysteem 
 
 2. De partijen werken in het kader van de WTO gezamenlijk aan een akkoord over de afschaffing van uitvoersubsidies en andere maatregelen van gelijke werking voor landbouwproducten.
 
-3. Vanaf de inwerkingtreding van deze overeenkomst handhaven de partijen geen, en onthouden zij zich van het invoeren of opnieuw invoeren van, uitvoersubsidies of andere maatregelen van gelijke werking voor landbouwproducten die zijn bestemd voor het grondgebied van een andere partij en die in overeenstemming met bijlage I (Lijsten inzake tariefafschaffing) volledig en onmiddellijk zijn geliberaliseerd dan wel op termijn volledig worden geliberaliseerd en waarvoor bij de inwerkingtreding van de overeenkomst een van rechten vrijgesteld contingent geldt.
+3. Vanaf de inwerkingtreding van deze overeenkomst handhaven de partijen geen, en onthouden zij zich van het invoeren of opnieuw invoeren van, uitvoersubsidies of andere maatregelen van gelijke werking voor landbouwproducten die zijn bestemd voor het grondgebied van een andere partij en die in overeenstemming met [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) volledig en onmiddellijk zijn geliberaliseerd dan wel op termijn volledig worden geliberaliseerd en waarvoor bij de inwerkingtreding van de overeenkomst een van rechten vrijgesteld contingent geldt.
 
 4. De partijen handhaven geen, en onthouden zich van het invoeren of opnieuw invoeren van, uitvoersubsidies of andere maatregelen van gelijke werking voor landbouwproducten die op termijn volledig worden geliberaliseerd en waarvoor bij de inwerkingtreding van deze overeenkomst geen van rechten vrijgesteld contingent geldt, vanaf het moment dat deze producten volledig zijn geliberaliseerd.
 
-5. Onverminderd het bepaalde in de leden 3 en 4 geldt dat wanneer een partij subsidies of andere maatregelen van gelijke werking handhaaft, invoert of opnieuw invoert met betrekking tot de uitvoer naar een andere partij van geheel of ten dele geliberaliseerde landbouwproducten, de partij van invoer, voor de duur dat de maatregel gehandhaafd blijft, een aanvullend recht kan heffen waarmee de invoerrechten van het betrokken product worden verhoogd tot maximaal het toegepaste meestbegunstigingsrecht of, indien dat lager is, het basisrecht als vermeld in bijlage I (Lijsten inzake tariefafschaffing).
+5. Onverminderd het bepaalde in de leden 3 en 4 geldt dat wanneer een partij subsidies of andere maatregelen van gelijke werking handhaaft, invoert of opnieuw invoert met betrekking tot de uitvoer naar een andere partij van geheel of ten dele geliberaliseerde landbouwproducten, de partij van invoer, voor de duur dat de maatregel gehandhaafd blijft, een aanvullend recht kan heffen waarmee de invoerrechten van het betrokken product worden verhoogd tot maximaal het toegepaste meestbegunstigingsrecht of, indien dat lager is, het basisrecht als vermeld in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing).
 
 6. Voor de afschaffing van het aanvullende recht dat overeenkomstig lid 5 wordt geheven, verstrekt de partij van uitvoer de partij van invoer gedetailleerde informatie waaruit blijkt dat aan de bepalingen van dit artikel is voldaan.
 
 ##### Artikel 33. Beheer en toepassing van tariefcontingenten
 
-1. De partijen dragen zorg voor het beheer en de toepassing van de in bijlage I (Lijsten inzake tariefafschaffing) gespecificeerde tariefcontingenten voor de invoer van landbouwproducten, overeenkomstig artikel XIII van de GATT 1994, met inbegrip van de aantekeningen daarbij, en de overeenkomst invoervergunningen.
+1. De partijen dragen zorg voor het beheer en de toepassing van de in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) gespecificeerde tariefcontingenten voor de invoer van landbouwproducten, overeenkomstig artikel XIII van de GATT 1994, met inbegrip van de aantekeningen daarbij, en de overeenkomst invoervergunningen.
 
 2. De partijen beheren de tariefcontingenten voor de invoer van landbouwproducten op basis van het beginsel dat wie het eerst komt, het eerst maalt.
 
 3. Op verzoek van een partij van uitvoer treedt een partij van invoer met de partij van uitvoer in overleg over het beheer van de tariefcontingenten van de partij van invoer. Dit overleg komt in de plaats van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01) bedoelde overleg, mits het beantwoordt aan de vereisten van lid 9 van dat artikel.
 
-### AFDELING 5. HANDELWIJZE BIJ ADMINISTRATIEVE FOUTEN
+#### AFDELING 5. HANDELWIJZE BIJ ADMINISTRATIEVE FOUTEN
 
 ##### Artikel 34. Handelwijze bij administratieve fouten
 
-Indien de bevoegde autoriteiten van een partij bij het beheer van de preferentiële uitvoerregeling een fout hebben gemaakt, met name bij de toepassing van de bepalingen van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking), en deze fout gevolgen heeft voor de invoerrechten, kan elke partij die met deze gevolgen wordt geconfronteerd, het Handelscomité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie op te lossen, nadat de betrokken partijen eerst binnen het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=68&z=2024-11-01&g=2024-11-01) beschreven subcomité Douane, handelsbevordering en oorsprongsregels, de technische aspecten van de kwestie hebben besproken. Het besluit van het Handelscomité over passende maatregelen wordt bij consensus van de betrokken partijen vastgesteld.
+Indien de bevoegde autoriteiten van een partij bij het beheer van de preferentiële uitvoerregeling een fout hebben gemaakt, met name bij de toepassing van de bepalingen van [bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking), en deze fout gevolgen heeft voor de invoerrechten, kan elke partij die met deze gevolgen wordt geconfronteerd, het Handelscomité verzoeken na te gaan of passende maatregelen kunnen worden genomen om de situatie op te lossen, nadat de betrokken partijen eerst binnen het in [artikel 68](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=3&artikel=68&z=2024-11-01&g=2024-11-01) beschreven subcomité Douane, handelsbevordering en oorsprongsregels, de technische aspecten van de kwestie hebben besproken. Het besluit van het Handelscomité over passende maatregelen wordt bij consensus van de betrokken partijen vastgesteld.
 
-### AFDELING 6. SUBCOMITÉS
+#### AFDELING 6. SUBCOMITÉS
 
 ##### Artikel 35. Subcomité Markttoegang
 
@@ -606,11 +485,11 @@ Indien de bevoegde autoriteiten van een partij bij het beheer van de preferenti�
 
 ### HOOFDSTUK 2. HANDELSMAATREGELEN
 
-### AFDELING 1. ANTIDUMPING- EN COMPENSERENDE MAATREGELEN
+#### AFDELING 1. ANTIDUMPING- EN COMPENSERENDE MAATREGELEN
 
 ##### Artikel 37. Algemene bepalingen
 
-1. De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van de [antidumpingovereenkomst](onbekend), de [subsidieovereenkomst](onbekend) en de [WTO-overeenkomst betreffende oorsprongsregels](onbekend), hierna de „overeenkomst oorsprongsregels” genoemd.
+1. De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van de [antidumpingovereenkomst](https://wetten.overheid.nl/BWBV0001160), de [subsidieovereenkomst](https://wetten.overheid.nl/BWBV0001160) en de [WTO-overeenkomst betreffende oorsprongsregels](https://wetten.overheid.nl/BWBV0001160), hierna de „overeenkomst oorsprongsregels” genoemd.
 
 2. Wanneer de autoriteit van de Andesgemeenschap namens twee of meer van haar leden een antidumping- of compenserende maatregel toepast of een prijsverbintenis aanvaardt, is de bevoegde rechterlijke instantie van de Andesgemeenschap het enige forum voor rechterlijke toetsing.
 
@@ -640,23 +519,23 @@ Niettegenstaande hun rechten uit hoofde van de antidumping- en subsidieovereenko
 
 „onderzoeksautoriteit”:
 
-- a). met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
+- a) met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
 
-- b). met betrekking tot Peru: het Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual, dan wel de opvolger daarvan;
+- b) met betrekking tot Peru: het Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual, dan wel de opvolger daarvan;
 
-- c). met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
+- c) met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
 
-- d). met betrekking tot de EU: de Europese Commissie.
+- d) met betrekking tot de EU: de Europese Commissie.
 
 ##### Artikel 42. Uitsluiting van de procedure voor geschillenbeslechting
 
 [Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is niet van toepassing op deze afdeling.
 
-### AFDELING 2. MULTILATERALE VRIJWARINGSMAATREGELEN
+#### AFDELING 2. MULTILATERALE VRIJWARINGSMAATREGELEN
 
 ##### Artikel 43. Algemene bepalingen
 
-Elke partij behoudt de rechten en verplichtingen die voortvloeien uit artikel XIX van de GATT 1994, de [vrijwaringsovereenkomst](onbekend) en de [overeenkomst oorsprongsregels](onbekend).
+Elke partij behoudt de rechten en verplichtingen die voortvloeien uit artikel XIX van de GATT 1994, de [vrijwaringsovereenkomst](https://wetten.overheid.nl/BWBV0001160) en de [overeenkomst oorsprongsregels](https://wetten.overheid.nl/BWBV0001160).
 
 ##### Artikel 44. Transparantie
 
@@ -668,25 +547,25 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 - a. een bilaterale vrijwaringsmaatregel overeenkomstig [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&z=2024-11-01&g=2024-11-01) (Bilaterale vrijwaringsmaatregelen) van dit hoofdstuk; en
 
-- b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](onbekend).
+- b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](https://wetten.overheid.nl/BWBV0001160).
 
 ##### ARTIKEL 46. Onderzoeksautoriteit
 
 „Voor de toepassing van deze afdeling wordt onder „onderzoeksautoriteit” verstaan:
 
-- a). met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
+- a) met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
 
-- b). met betrekking tot Peru: het Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual;
+- b) met betrekking tot Peru: het Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual;
 
-- c). met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
+- c) met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
 
-- d). met betrekking tot de EU: de Europese Commissie.
+- d) met betrekking tot de EU: de Europese Commissie.
 
 ##### Artikel 47. Uitsluiting van de procedure voor geschillenbeslechting
 
 [Titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) is niet van toepassing op deze afdeling, met uitzondering van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=2&artikel=45&z=2024-11-01&g=2024-11-01).
 
-### AFDELING 3. BILATERALE VRIJWARINGSMAATREGELEN
+#### AFDELING 3. BILATERALE VRIJWARINGSMAATREGELEN
 
 ##### Artikel 48. Toepassing van bilaterale vrijwaringsmaatregelen
 
@@ -710,9 +589,9 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) een bilaterale vrijwaringsmaatregel toepast, kan deze uit een of meer van de volgende maatregelen bestaan:
 
-- a. opschorting van de verdere verlaging van het douanerecht voor het betrokken product overeenkomstig de lijst van die partij in bijlage I (Lijsten inzake tariefafschaffing), of
+- a. opschorting van de verdere verlaging van het douanerecht voor het betrokken product overeenkomstig de lijst van die partij in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing), of
 
-- b. verhoging van het douanerecht op het betrokken product tot maximaal het meestbegunstigingsrecht dat op het moment van de maatregel voor dat product geldt, of, indien dat lager is, het basisrecht dat in de lijst van die partij in bijlage I (Lijsten inzake tariefafschaffing) staat vermeld.
+- b. verhoging van het douanerecht op het betrokken product tot maximaal het meestbegunstigingsrecht dat op het moment van de maatregel voor dat product geldt, of, indien dat lager is, het basisrecht dat in de lijst van die partij in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) staat vermeld.
 
 ##### Artikel 51. Onderzoeksprocedure
 
@@ -732,15 +611,15 @@ Wanneer een partij van invoer krachtens [artikel 48](https://wetten.overheid.nl/
 
 - b. de maatregel mag niet langer duren dan twee jaar, welke termijn bij uitzondering met twee jaar kan worden verlengd indien: De totale toepassingsduur van een vrijwaringsmaatregel, inclusief de aanvankelijke toepassingsduur en een eventuele verlenging, bedraagt niet meer dan vier jaar.
 
-- i. de bevoegde instanties van de partij van invoer overeenkomstig de toepasselijke procedures van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2024-11-01&g=2024-11-01) bepalen dat de maatregel noodzakelijk blijft om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) te voorkomen of te herstellen; en
+   - i. de bevoegde instanties van de partij van invoer overeenkomstig de toepasselijke procedures van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2024-11-01&g=2024-11-01) bepalen dat de maatregel noodzakelijk blijft om ernstige schade als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01) te voorkomen of te herstellen; en
 
-- ii. er bewijzen zijn voor aanpassing van de binnenlandse bedrijfstak.
+   - ii. er bewijzen zijn voor aanpassing van de binnenlandse bedrijfstak.
 
-2. Wanneer een partij een bilaterale vrijwaringsmaatregel beëindigt, is het douanerecht het recht dat volgens de lijst van die partij in bijlage I (Lijsten inzake tariefafschaffing) zonder die maatregel van toepassing zou zijn geweest.
+2. Wanneer een partij een bilaterale vrijwaringsmaatregel beëindigt, is het douanerecht het recht dat volgens de lijst van die partij in [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) zonder die maatregel van toepassing zou zijn geweest.
 
 ##### Artikel 53. Voorlopige maatregelen
 
-1. In kritieke omstandigheden, wanneer uitstel moeilijk te herstellen schade zou veroorzaken, mag een partij een voorlopige bilaterale vrijwaringsmaatregel toepassen nadat voorlopig is vastgesteld dat er duidelijke bewijzen zijn voor een toename van de invoer van een product van oorsprong uit de partij van uitvoer als gevolg van de verlaging of afschaffing van rechten krachtens bijlage I (Lijsten inzake tariefafschaffing) en dat deze invoer ernstige schade veroorzaakt of dreigt te veroorzaken als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01).
+1. In kritieke omstandigheden, wanneer uitstel moeilijk te herstellen schade zou veroorzaken, mag een partij een voorlopige bilaterale vrijwaringsmaatregel toepassen nadat voorlopig is vastgesteld dat er duidelijke bewijzen zijn voor een toename van de invoer van een product van oorsprong uit de partij van uitvoer als gevolg van de verlaging of afschaffing van rechten krachtens [bijlage I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing) en dat deze invoer ernstige schade veroorzaakt of dreigt te veroorzaken als bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=48&z=2024-11-01&g=2024-11-01).
 
 2. Een voorlopige maatregel duurt niet langer dan tweehonderd dagen, gedurende welke periode de partij die de maatregel toepast aan de voorschriften van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=49&z=2024-11-01&g=2024-11-01) en [51, leden 1, 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=2&afdeling=3&artikel=51&z=2024-11-01&g=2024-11-01), moet voldoen.
 
@@ -766,13 +645,13 @@ De invoer van een product dat al eerder aan een vrijwaringsmaatregel als bedoeld
 
 „Voor de toepassing van deze afdeling wordt onder bevoegde instantie verstaan:
 
-- a). met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
+- a) met betrekking tot Colombia: het ministerie van Handel, industrie en toerisme, dan wel de opvolger daarvan;
 
-- b). met betrekking tot Peru: het ministerie van Buitenlandse handel en toerisme, dan wel de opvolger daarvan;
+- b) met betrekking tot Peru: het ministerie van Buitenlandse handel en toerisme, dan wel de opvolger daarvan;
 
-- c). met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
+- c) met betrekking tot Ecuador: het ministerie van Buitenlandse Handel, dan wel de opvolger daarvan; en
 
-- d). met betrekking tot EU: de Europese Commissie.
+- d) met betrekking tot EU: de Europese Commissie.
 
 ### HOOFDSTUK 3. DOUANE EN HANDELSBEVORDERING
 
@@ -874,7 +753,7 @@ De partijen:
 
 ##### Artikel 65. Douanewaarde
 
-De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), hierna de „Overeenkomst inzake de douanewaarde” genoemd, regelt de voorschriften voor de vaststelling van de douanewaarde die voor de handel tussen de partijen gelden.
+De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](https://wetten.overheid.nl/BWBV0001160), hierna de „Overeenkomst inzake de douanewaarde” genoemd, regelt de voorschriften voor de vaststelling van de douanewaarde die voor de handel tussen de partijen gelden.
 
 ##### Artikel 66. Douanesamenwerking
 
@@ -884,9 +763,9 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 - a. uitwisselen van informatie over douanewetgeving, -procedures en -technieken op de volgende terreinen:
 
-- i. vereenvoudiging en modernisering van douaneprocedures;
+   - i. vereenvoudiging en modernisering van douaneprocedures;
 
-- ii. relaties met het bedrijfsleven;
+   - ii. relaties met het bedrijfsleven;
 
 - b. gezamenlijk initiatieven ontplooien op overeengekomen gebieden;
 
@@ -896,7 +775,7 @@ De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](onbekend), 
 
 ##### Artikel 67. Wederzijdse bijstand
 
-De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomstig het bepaalde in bijlage V (Wederzijdse administratieve bijstand in douanezaken).
+De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomstig het bepaalde in [bijlage V](https://wetten.overheid.nl/BWBV0005911) (Wederzijdse administratieve bijstand in douanezaken).
 
 ##### Artikel 68. Subcomité Douane, handelsbevordering en oorsprongsregels
 
@@ -904,7 +783,7 @@ De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomst
 
 2. Het subcomité heeft onder meer de volgende taken:
 
-- a. monitoren van de uitvoering en het beheer van dit hoofdstuk en van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
+- a. monitoren van de uitvoering en het beheer van dit hoofdstuk en van [bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
 
 - b. bieden van een forum voor overleg en discussie over alle douaneaangelegenheden, zoals specifieke douaneprocedures, douanewaarde, tariefstelsels, douanenomenclatuur, samenwerking tussen douanediensten en wederzijdse administratieve bijstand in douanezaken;
 
@@ -912,11 +791,11 @@ De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomst
 
 - d. versterken van de samenwerking bij de ontwikkeling, toepassing en handhaving van douaneprocedures, wederzijdse administratieve bijstand in douanezaken, oorsprongsregels en administratieve samenwerking;
 
-- e. indienen van voorstellen bij het Handelscomité voor wijzigingen van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
+- e. indienen van voorstellen bij het Handelscomité voor wijzigingen van [bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
 
-- f. bieden van een forum voor overleg en discussie over verzoeken tot oorsprongscumulatie krachtens de artikelen 3 en 4 van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
+- f. bieden van een forum voor overleg en discussie over verzoeken tot oorsprongscumulatie krachtens de [artikelen 3 en 4 van bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
 
-- g. zoeken van een wederzijds bevredigende oplossing wanneer een geschil ontstaat na een verificatieprocedure als bedoeld in artikel 31 van bijlage II (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
+- g. zoeken van een wederzijds bevredigende oplossing wanneer een geschil ontstaat na een verificatieprocedure als bedoeld in [artikel 31 van bijlage II](https://wetten.overheid.nl/BWBV0005911) (Definitie van het begrip „producten van oorsprong” en methoden van administratieve samenwerking);
 
 - h. zoeken van een wederzijds bevredigende oplossing wanneer een geschil ontstaat over de tariefindeling van goederen. Wanneer het geschil niet langs deze weg kan worden beslecht, wordt het doorverwezen naar het Comité voor het geharmoniseerd systeem van de WDO. De besluiten van dit comité zijn voor de betrokken partijen bindend.
 
@@ -950,7 +829,7 @@ De partijen verlenen elkaar administratieve bijstand in douanezaken overeenkomst
 
 De doelstellingen van dit hoofdstuk zijn:
 
-- a. vergemakkelijken en vergroten van de handel in goederen en het realiseren van daadwerkelijke markttoegang voor de partijen door een betere uitvoering van de [WTO-overeenkomst inzake technische handelsbelemmeringen](onbekend), hierna de „TBT-overeenkomst” genoemd;
+- a. vergemakkelijken en vergroten van de handel in goederen en het realiseren van daadwerkelijke markttoegang voor de partijen door een betere uitvoering van de [WTO-overeenkomst inzake technische handelsbelemmeringen](https://wetten.overheid.nl/BWBV0001160), hierna de „TBT-overeenkomst” genoemd;
 
 - b. voorkomen van het ontstaan, of het stimuleren van de afschaffing, van onnodige technische handelsbelemmeringen;
 
@@ -962,13 +841,13 @@ De doelstellingen van dit hoofdstuk zijn:
 
 2. Daarnaast gelden de volgende definities:
 
-- –. „voorzien van niet-permanente etiketten”: aanbrengen van informatie op een product door gebruik te maken van zelfklevende etiketten, hanglabels of een ander soort etiket dat kan worden verwijderd, of door de informatie bij te voegen in de verpakking;
+- – „voorzien van niet-permanente etiketten”: aanbrengen van informatie op een product door gebruik te maken van zelfklevende etiketten, hanglabels of een ander soort etiket dat kan worden verwijderd, of door de informatie bij te voegen in de verpakking;
 
-- –. „voorzien van permanente etiketten”: aanbrengen van informatie op een product door deze stevig aan het product te bevestigen door bedrukken, aannaaien, graveren of een vergelijkbaar proces.
+- – „voorzien van permanente etiketten”: aanbrengen van informatie op een product door deze stevig aan het product te bevestigen door bedrukken, aannaaien, graveren of een vergelijkbaar proces.
 
-##### Artikel 73. Relatie met de [TBT-overeenkomst](onbekend)
+##### Artikel 73. Relatie met de TBT-overeenkomst
 
-De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvloeien uit de [TBT-overeenkomst](onbekend), die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.
+De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvloeien uit de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160), die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.
 
 ##### Artikel 74. Toepassingsgebied
 
@@ -988,15 +867,15 @@ De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvl
 
 - b. het in kaart brengen, ontwikkelen en bevorderen van initiatieven om de onderlinge handel te bevorderen, met inachtneming van hun respectieve ervaringen. Mogelijke initiatieven zijn onder meer:
 
-- i. het uitwisselen van informatie, ervaringen en gegevens, wetenschappelijke en technologische samenwerking, en het toepassen van goede werkwijzen op het terrein van de regelgeving;
+   - i. het uitwisselen van informatie, ervaringen en gegevens, wetenschappelijke en technologische samenwerking, en het toepassen van goede werkwijzen op het terrein van de regelgeving;
 
-- ii. het vereenvoudigen van certificeringsprocedures en administratieve voorschriften die bij algemene of technische regelgeving zijn vastgesteld, en het afschaffen van registratie-eisen of verplichte voorafgaande vergunningen, voor zover die krachtens de [TBT-overeenkomst](onbekend) overbodig zijn;
+   - ii. het vereenvoudigen van certificeringsprocedures en administratieve voorschriften die bij algemene of technische regelgeving zijn vastgesteld, en het afschaffen van registratie-eisen of verplichte voorafgaande vergunningen, voor zover die krachtens de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) overbodig zijn;
 
-- iii. werken aan de convergentie en harmonisering van technische voorschriften en conformiteitsbeoordelingsprocedures of het vaststellen van de gelijkwaardigheid ervan. Gelijkwaardigheid brengt voor de partijen niet automatisch verplichtingen mee, tenzij uitdrukkelijk anders is overeengekomen;
+   - iii. werken aan de convergentie en harmonisering van technische voorschriften en conformiteitsbeoordelingsprocedures of het vaststellen van de gelijkwaardigheid ervan. Gelijkwaardigheid brengt voor de partijen niet automatisch verplichtingen mee, tenzij uitdrukkelijk anders is overeengekomen;
 
-- iv. het doen van onderzoek, bij een toekomstige herziening van de regelgeving, naar de mogelijkheid van accreditatie of aanwijzing als middel voor de erkenning van conformiteitsbeoordelingsinstanties die op het grondgebied van een andere partij gevestigd zijn;
+   - iv. het doen van onderzoek, bij een toekomstige herziening van de regelgeving, naar de mogelijkheid van accreditatie of aanwijzing als middel voor de erkenning van conformiteitsbeoordelingsinstanties die op het grondgebied van een andere partij gevestigd zijn;
 
-- v. het bevorderen en faciliteren van de samenwerking en informatie-uitwisseling tussen relevante openbare en particuliere organen van de partijen.
+   - v. het bevorderen en faciliteren van de samenwerking en informatie-uitwisseling tussen relevante openbare en particuliere organen van de partijen.
 
 2. Wanneer een partij goederen van oorsprong uit een andere partij in een aankomsthaven vasthoudt wegens een vermeende overtreding van technische voorschriften, stelt de partij die de goederen vasthoudt de importeur onverwijld in kennis van de reden daarvan.
 
@@ -1052,7 +931,7 @@ De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvl
 
 ##### Artikel 79. Transparantie en kennisgevingsprocedures
 
-1. Overeenkomstig de [TBT-overeenkomst](onbekend) stuurt elke partij de in [artikel 10 van die overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=10) bedoelde contactpunten langs elektronische weg, rechtstreeks dan wel via het WTO-secretariaat, de technische voorschriften en conformiteitsbeoordelingsprocedures die zij voorstelt of die zij heeft vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid. Het elektronische bericht waarin wordt kennisgegeven van een technisch voorschrift of een conformiteitsbeoordelingsprocedure bevat een link naar, of een kopie van, de volledige tekst van het document dat aanleiding gaf tot de kennisgeving.
+1. Overeenkomstig de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) stuurt elke partij de in [artikel 10 van die overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=10) bedoelde contactpunten langs elektronische weg, rechtstreeks dan wel via het WTO-secretariaat, de technische voorschriften en conformiteitsbeoordelingsprocedures die zij voorstelt of die zij heeft vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid. Het elektronische bericht waarin wordt kennisgegeven van een technisch voorschrift of een conformiteitsbeoordelingsprocedure bevat een link naar, of een kopie van, de volledige tekst van het document dat aanleiding gaf tot de kennisgeving.
 
 2. Ook (ontwerp)voorstellen voor technische voorschriften en conformiteitsbeoordelingsprocedures, en technische voorschriften of conformiteitsbeoordelingsprocedures die zijn vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid en die in overeenstemming zijn met de technische inhoud van de toepasselijke internationale normen, worden door elke partij openbaar gemaakt of langs elektronische weg verstuurd.
 
@@ -1092,29 +971,29 @@ De partijen verbinden zich:
 
 - f. tenzij dit misleidend, tegenstrijdig of verwarrend is ten opzichte van de informatie die in het land van bestemming moet worden verstrekt, staat een partij toe:
 
-- i. dat informatie in meer talen dan alleen de taal die in het land van bestemming is voorgeschreven, wordt verstrekt;
+   - i. dat informatie in meer talen dan alleen de taal die in het land van bestemming is voorgeschreven, wordt verstrekt;
 
-- ii. dat internationale nomenclaturen, pictogrammen, symbolen of grafieken worden gebruikt;
+   - ii. dat internationale nomenclaturen, pictogrammen, symbolen of grafieken worden gebruikt;
 
-- iii. dat meer informatie dan die welke in het land van bestemming is voorgeschreven, wordt verstrekt;
+   - iii. dat meer informatie dan die welke in het land van bestemming is voorgeschreven, wordt verstrekt;
 
-- g. tenzij de in de [TBT-overeenkomst](onbekend) neergelegde legitieme doelen daardoor in het gedrang komen, aanvaardt de partij dat niet-permanente of verwijderbare etiketten worden gebruikt of dat de informatie in de handleiding bij het product of op de verpakking wordt vermeld in plaats van dat zij op het product wordt gedrukt of eraan wordt bevestigd.
+- g. tenzij de in de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) neergelegde legitieme doelen daardoor in het gedrang komen, aanvaardt de partij dat niet-permanente of verwijderbare etiketten worden gebruikt of dat de informatie in de handleiding bij het product of op de verpakking wordt vermeld in plaats van dat zij op het product wordt gedrukt of eraan wordt bevestigd.
 
 2. Wanneer een partij voorschrijft dat textielproducten, kleding of schoeisel van een merkteken of etiket moeten worden voorzien:
 
 - a. mag zij alleen voor de volgende informatie voorschrijven dat deze middels een permanent merkteken of etiket moet worden vermeld:
 
-- i. in het geval van textielproducten en kleding: vezelgehalte, land van oorsprong, veiligheidsinstructies voor specifiek gebruik en wasvoorschriften;
+   - i. in het geval van textielproducten en kleding: vezelgehalte, land van oorsprong, veiligheidsinstructies voor specifiek gebruik en wasvoorschriften;
 
-- ii. in het geval van schoeisel: de belangrijkste grondstoffen van de hoofdonderdelen, veiligheidsinstructies voor specifiek gebruik en land van oorsprong;
+   - ii. in het geval van schoeisel: de belangrijkste grondstoffen van de hoofdonderdelen, veiligheidsinstructies voor specifiek gebruik en land van oorsprong;
 
 - b. stelt zij:
 
-- i. geen eisen ten aanzien van de fysieke kenmerken of het ontwerp van een etiket, onverminderd maatregelen ter bescherming van consumenten tegen misleidende reclame;
+   - i. geen eisen ten aanzien van de fysieke kenmerken of het ontwerp van een etiket, onverminderd maatregelen ter bescherming van consumenten tegen misleidende reclame;
 
-- ii. het niet verplicht om kledingstukken van een permanent etiket te voorzien wanneer dit door de grootte van de kledingstukken moeilijk is of de waarde ervan vermindert;
+   - ii. het niet verplicht om kledingstukken van een permanent etiket te voorzien wanneer dit door de grootte van de kledingstukken moeilijk is of de waarde ervan vermindert;
 
-- iii. het voor producten die als paar worden verkocht niet verplicht om beide delen van een etiket te voorzien wanneer deze qua materiaal en ontwerp gelijk zijn.
+   - iii. het voor producten die als paar worden verkocht niet verplicht om beide delen van een etiket te voorzien wanneer deze qua materiaal en ontwerp gelijk zijn.
 
 3. Partijen passen dit artikel uiterlijk één jaar na de inwerkingtreding van deze overeenkomst toe.
 
@@ -1136,15 +1015,15 @@ De partijen erkennen het belang van handelsgerelateerde technische bijstand en c
 
 - a. begeleiden en evalueren van de uitvoering, het beheer en de naleving van het bepaalde in dit hoofdstuk;
 
-- b. behandelen van kwesties die een partij aan de orde stelt in verband met dit hoofdstuk en de [TBT-overeenkomst](onbekend);
+- b. behandelen van kwesties die een partij aan de orde stelt in verband met dit hoofdstuk en de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160);
 
 - c. bijdragen aan het vaststellen van prioriteiten voor samenwerking en programma’s voor technische bijstand op het terrein van normen, technische voorschriften, conformiteitsbeoordelingsprocedures, accreditering, metrologie, grenscontroles en markttoezicht, en het onderzoeken van de voortgang en de behaalde resultaten;
 
 - d. uitwisselen van informatie over de werkzaamheden van niet-gouvernementele, regionale en multilaterale fora die betrokken zijn bij activiteiten in verband met normen, technische voorschriften en conformiteitsbeoordelingsprocedures;
 
-- e. op verzoek van een partij in overleg treden over kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](onbekend);
+- e. op verzoek van een partij in overleg treden over kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160);
 
-- f. oprichten van werkgroepen voor specifieke kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](onbekend) wanneer de doelstellingen van dit hoofdstuk dat vereisen, waarbij het werkterrein en de taken van deze werkgroepen nauwkeurig worden omschreven;
+- f. oprichten van werkgroepen voor specifieke kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) wanneer de doelstellingen van dit hoofdstuk dat vereisen, waarbij het werkterrein en de taken van deze werkgroepen nauwkeurig worden omschreven;
 
 - g. faciliteren, waar nodig, van de dialoog en samenwerking tussen regelgevers, overeenkomstig het bepaalde in dit hoofdstuk;
 
@@ -1152,11 +1031,11 @@ De partijen erkennen het belang van handelsgerelateerde technische bijstand en c
 
 - i. onderzoeken van alle andere kwesties in verband met dit hoofdstuk die kunnen bijdragen aan het toegankelijker maken van de markten van de partijen;
 
-- j. herzien van dit hoofdstuk naar aanleiding van ontwikkelingen in het kader van de [TBT-overeenkomst](onbekend) en van besluiten of aanbevelingen van de WTO-Commissie technische handelsbelemmeringen en doen van aanbevelingen voor mogelijke wijzigingen van dit hoofdstuk;
+- j. herzien van dit hoofdstuk naar aanleiding van ontwikkelingen in het kader van de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) en van besluiten of aanbevelingen van de WTO-Commissie technische handelsbelemmeringen en doen van aanbevelingen voor mogelijke wijzigingen van dit hoofdstuk;
 
 - k. het Handelscomité zo nodig informeren over de uitvoering van dit hoofdstuk;
 
-- l. nemen van andere maatregelen die volgens de partijen helpen bij de uitvoering van dit hoofdstuk en de [TBT-overeenkomst](onbekend) en die bijdragen aan het bevorderen van de handel.
+- l. nemen van andere maatregelen die volgens de partijen helpen bij de uitvoering van dit hoofdstuk en de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160) en die bijdragen aan het bevorderen van de handel.
 
 3. Ten behoeve van de uitvoering van dit hoofdstuk is de vertegenwoordiger van elke partij in het subcomité verantwoordelijk voor de coördinatie met centrale en lokale overheidsinstellingen, niet-gouvernementele instellingen en andere relevante personen op het grondgebied van die partij, en nodigt hij deze instellingen en personen op verzoek van een andere partij uit om de vergaderingen van het subcomité bij te wonen. De vertegenwoordigers van de partijen maken melding van alle kwesties die verband houden met dit hoofdstuk.
 
@@ -1180,7 +1059,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 - a. beschermen van het leven en de gezondheid van mensen, dieren en planten op het grondgebied van de partijen en tegelijkertijd vergemakkelijken van de handel tussen de partijen op het terrein van sanitaire en fytosanitaire maatregelen;
 
-- b. samenwerken voor de verdere tenuitvoerlegging van de [WTO-overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](onbekend), hierna de „SPS-overeenkomst” genoemd;
+- b. samenwerken voor de verdere tenuitvoerlegging van de [WTO-overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](https://wetten.overheid.nl/BWBV0001160), hierna de „SPS-overeenkomst” genoemd;
 
 - c. ervoor zorgen dat sanitaire en fytosanitaire maatregelen geen ongerechtvaardigde belemmeringen voor de handel tussen de partijen vormen;
 
@@ -1192,13 +1071,13 @@ De doelstellingen van dit hoofdstuk zijn:
 
 ##### Artikel 86. Rechten en verplichtingen
 
-De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor hen uit de [SPS-overeenkomst](onbekend) voortvloeien. Partijen zijn ook onderworpen aan de bepalingen van dit hoofdstuk.
+De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor hen uit de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160) voortvloeien. Partijen zijn ook onderworpen aan de bepalingen van dit hoofdstuk.
 
 ##### Artikel 87. Toepassingsgebied
 
 1. Dit hoofdstuk is van toepassing op alle sanitaire en fytosanitaire maatregelen die de handel tussen de partijen direct of indirect kunnen beïnvloeden.
 
-2. Dit hoofdstuk is niet van toepassing op de normen, technische voorschriften en conformiteitsbeoordelingsprocedures als omschreven in de [TBT-overeenkomst](onbekend), behalve als zij betrekking hebben op sanitaire en fytosanitaire maatregelen.
+2. Dit hoofdstuk is niet van toepassing op de normen, technische voorschriften en conformiteitsbeoordelingsprocedures als omschreven in de [TBT-overeenkomst](https://wetten.overheid.nl/BWBV0001160), behalve als zij betrekking hebben op sanitaire en fytosanitaire maatregelen.
 
 3. Daarnaast is dit hoofdstuk van toepassing op de samenwerking tussen de partijen op het terrein van dierenwelzijn.
 
@@ -1210,7 +1089,7 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor h
 
 ##### Artikel 89. Bevoegde instanties
 
-Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij die welke staan vermeld in de lijst in aanhangsel 1 van bijlage VI (Sanitaire en fytosanitaire maatregelen). De partijen stellen elkaar in kennis van wijzigingen in deze lijst.
+Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij die welke staan vermeld in de lijst in [aanhangsel 1 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen). De partijen stellen elkaar in kennis van wijzigingen in deze lijst.
 
 ##### Artikel 90. Algemene beginselen
 
@@ -1248,11 +1127,11 @@ Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij
 
 1. Voor de invoer van dierlijke producten verschaft de partij van uitvoer de partij van invoer een lijst van inrichtingen die voldoen aan de eisen van de partij van invoer.
 
-2. Op verzoek van de partij van uitvoer, welk verzoek vergezeld dient te gaan van passende garanties, erkent de partij van invoer de in punt 3 van aanhangsel 2 van bijlage VI (Sanitaire en fytosanitaire maatregelen) vermelde inrichtingen die zijn gevestigd op het grondgebied van de partij van uitvoer zonder voorafgaande inspectie van individuele inrichtingen. Bedoelde erkenning gebeurt overeenkomstig de voorwaarden en bepalingen van aanhangsel 2 van bijlage VI (Sanitaire en fytosanitaire maatregelen) en is beperkt tot de categorieën producten waarvoor een invoervergunning is verleend.
+2. Op verzoek van de partij van uitvoer, welk verzoek vergezeld dient te gaan van passende garanties, erkent de partij van invoer de in [punt 3 van aanhangsel 2 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen) vermelde inrichtingen die zijn gevestigd op het grondgebied van de partij van uitvoer zonder voorafgaande inspectie van individuele inrichtingen. Bedoelde erkenning gebeurt overeenkomstig de voorwaarden en bepalingen van aanhangsel 2 van bijlage VI (Sanitaire en fytosanitaire maatregelen) en is beperkt tot de categorieën producten waarvoor een invoervergunning is verleend.
 
 3. Behalve in gevallen waarin aanvullende informatie is vereist, neemt de partij van invoer, volgens de toepasselijke wettelijke procedures, de wettelijke en bestuurlijke maatregelen die nodig zijn om binnen veertig werkdagen nadat het in lid 2 bedoelde verzoek is ontvangen, de invoer van producten van de in lid 2 bedoelde inrichtingen mogelijk te maken.
 
-4. Het subcomité Sanitaire en fytosanitaire maatregelen kan wijzigingen aanbrengen in de voorschriften en bepalingen inzake de erkenning van inrichtingen voor producten van dierlijke oorsprong. De overeenkomstige wijziging van aanhangsel 2 van bijlage VI (Sanitaire en fytosanitaire maatregelen) wordt vastgesteld door het Handelscomité.
+4. Het subcomité Sanitaire en fytosanitaire maatregelen kan wijzigingen aanbrengen in de voorschriften en bepalingen inzake de erkenning van inrichtingen voor producten van dierlijke oorsprong. De overeenkomstige wijziging van [aanhangsel 2 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen) wordt vastgesteld door het Handelscomité.
 
 5. De partij van invoer doet regelmatig verslag van afgekeurde zendingen, met vermelding van de onregelmatigheden waarop de afkeuringen zijn gebaseerd.
 
@@ -1260,7 +1139,7 @@ Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij
 
 1. Om het vertrouwen in de doeltreffende tenuitvoerlegging van de bepalingen van dit hoofdstuk te bewaren, heeft elke partij, binnen de werkingssfeer van dit hoofdstuk, het recht om:
 
-- a. overeenkomstig de richtsnoeren in aanhangsel 3 van bijlage VI (Sanitaire en fytosanitaire maatregelen), het controlesysteem van de instanties van een andere partij in zijn geheel of gedeeltelijk te verifiëren. De kosten hiervan zijn voor rekening van de partij die de verificatie uitvoert;
+- a. overeenkomstig de richtsnoeren in [aanhangsel 3 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen), het controlesysteem van de instanties van een andere partij in zijn geheel of gedeeltelijk te verifiëren. De kosten hiervan zijn voor rekening van de partij die de verificatie uitvoert;
 
 - b. van de andere partijen informatie te ontvangen over hun controlesysteem en over de resultaten van controles die via dat systeem zijn uitgevoerd.
 
@@ -1270,7 +1149,7 @@ Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij
 
 ##### Artikel 94. Maatregelen in verband met de gezondheid van planten en dieren
 
-1. De partijen aanvaarden het concept van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen overeenkomstig de [SPS-overeenkomst](onbekend) en de normen, richtsnoeren en aanbevelingen van de Wereldorganisatie voor diergezondheid, hierna de „OIE” genoemd, en het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), hierna het „IPPC” genoemd.
+1. De partijen aanvaarden het concept van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen overeenkomstig de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160) en de normen, richtsnoeren en aanbevelingen van de Wereldorganisatie voor diergezondheid, hierna de „OIE” genoemd, en het [Internationaal Verdrag voor de Bescherming van Planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), hierna het „IPPC” genoemd.
 
 2. Ingevolge het bepaalde in lid 1 stelt het subcomité Sanitaire en fytosanitaire maatregelen een geschikte procedure vast voor de erkenning van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, waarbij rekening wordt gehouden met relevante internationale normen, richtsnoeren en aanbevelingen. Deze procedure wordt tevens toegepast bij uitbraken en herinfestaties.
 
@@ -1278,7 +1157,7 @@ Voor de toepassing van dit hoofdstuk zijn de bevoegde instanties van elke partij
 
 4. De partijen werken nauw samen bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, teneinde vertrouwen te krijgen in elkaars procedures voor het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen.
 
-5. Bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, en ongeacht of dit voor het eerst gebeurt of na de uitbraak van een dierenziekte of de herinfestatie met een voor planten schadelijk organisme, baseert de partij van invoer haar eigen vaststelling van de dier- of plantgezondheidsstatus van de partij van uitvoer of delen daarvan in beginsel op de door die partij overeenkomstig de normen van de [SPS-overeenkomst](onbekend) en de OIE en het [IPPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003652) verstrekte informatie, en houdt zij rekening met de vaststelling die de partij van uitvoer heeft gedaan.
+5. Bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, en ongeacht of dit voor het eerst gebeurt of na de uitbraak van een dierenziekte of de herinfestatie met een voor planten schadelijk organisme, baseert de partij van invoer haar eigen vaststelling van de dier- of plantgezondheidsstatus van de partij van uitvoer of delen daarvan in beginsel op de door die partij overeenkomstig de normen van de [SPS-overeenkomst](https://wetten.overheid.nl/BWBV0001160) en de OIE en het [IPPC](https://wetten.overheid.nl/jci1.3:c:BWBV0003652) verstrekte informatie, en houdt zij rekening met de vaststelling die de partij van uitvoer heeft gedaan.
 
 6. Ingeval een partij van invoer de gebieden waarvan een partij van uitvoer heeft vastgesteld dat het ziekte- en plagenvrije gebieden of gebieden met een lage prevalentie van ziekten en plagen zijn, niet als zodanig erkent, dan verstrekt de partij van invoer de partij van uitvoer desgevraagd de informatie op basis waarvan zij bedoelde vaststelling heeft gedaan en/of treedt zij zo spoedig mogelijk in overleg over een mogelijke oplossing.
 
@@ -1304,15 +1183,15 @@ Het subcomité Sanitaire en fytosanitaire maatregelen kan gelijkwaardigheidsbepa
 
 - e. stellen een partij desgevraagd in kennis van de stand van zaken bij de procedure voor het verkrijgen van een invoervergunning voor een specifiek product.
 
-2. De contactpunten van partijen voor de in dit artikel bedoelde informatie-uitwisseling staan vermeld in de lijst in aanhangsel 4 van bijlage VI (Sanitaire en fytosanitaire maatregelen). Informatie wordt verstuurd per post, fax of e-mail. Informatie die via e-mail wordt verstuurd, mag elektronisch worden ondertekend en mag uitsluitend tussen contactpunten worden verstuurd.
+2. De contactpunten van partijen voor de in dit artikel bedoelde informatie-uitwisseling staan vermeld in de lijst in [aanhangsel 4 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen). Informatie wordt verstuurd per post, fax of e-mail. Informatie die via e-mail wordt verstuurd, mag elektronisch worden ondertekend en mag uitsluitend tussen contactpunten worden verstuurd.
 
-3. Wanneer de in dit artikel bedoelde informatie beschikbaar is gesteld door kennisgeving aan de WTO overeenkomstig de toepasselijke voorschriften, of door plaatsing op een van de officiële, algemeen toegankelijke en gratis websites van de desbetreffende partij, die staan vermeld in de lijst in aanhangsel 4 van bijlage VI (Sanitaire en fytosanitaire maatregelen), wordt de informatie geacht te zijn verstrekt.
+3. Wanneer de in dit artikel bedoelde informatie beschikbaar is gesteld door kennisgeving aan de WTO overeenkomstig de toepasselijke voorschriften, of door plaatsing op een van de officiële, algemeen toegankelijke en gratis websites van de desbetreffende partij, die staan vermeld in de lijst in [aanhangsel 4 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen), wordt de informatie geacht te zijn verstrekt.
 
 ##### Artikel 97. Kennisgeving en overleg
 
 1. Elke partij stelt de andere partijen binnen twee werkdagen schriftelijk in kennis van ernstige of aanzienlijke gezondheidsrisico’s voor mensen, dieren of planten, waaronder begrepen noodsituaties in de levensmiddelensector.
 
-2. De in lid 1 bedoelde kennisgeving wordt gedaan aan de contactpunten die staan vermeld in de lijst in aanhangsel 4 van bijlage VI (Sanitaire en fytosanitaire maatregelen). Wanneer er wijzigingen zijn met betrekking tot het contactpunt, stellen de partijen elkaar overeenkomstig [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=96&z=2024-11-01&g=2024-11-01) daarvan in kennis. De schriftelijke kennisgeving als bedoeld in lid 1 wordt per post, fax of e-mail gedaan.
+2. De in lid 1 bedoelde kennisgeving wordt gedaan aan de contactpunten die staan vermeld in de lijst in [aanhangsel 4 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen). Wanneer er wijzigingen zijn met betrekking tot het contactpunt, stellen de partijen elkaar overeenkomstig [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&hoofdstuk=5&artikel=96&z=2024-11-01&g=2024-11-01) daarvan in kennis. De schriftelijke kennisgeving als bedoeld in lid 1 wordt per post, fax of e-mail gedaan.
 
 3. Wanneer een partij zich ernstig zorgen maakt over mogelijke gezondheidsrisico’s voor mensen, dieren en planten van producten die tussen de partijen worden verhandeld, mag een partij de partij van uitvoer verzoeken om overleg hierover. Dit overleg vindt zo spoedig mogelijk plaats. Elke partij streeft ernaar om bij dit overleg alle informatie te verstrekken die nodig is om een verstoring van de handel te voorkomen.
 
@@ -1380,7 +1259,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 ##### Artikel 104. Geschillenbeslechting
 
-1. Wanneer een partij van mening is dat een sanitaire of fytosanitaire maatregel van een andere partij in strijd is of kan zijn met verplichtingen die voortvloeien uit dit hoofdstuk, of dat een andere partij een onder dit hoofdstuk vallende verplichting met betrekking tot een sanitaire of fytosanitaire maatregel heeft geschonden, kan zij om technisch overleg in het subcomité Sanitaire en fytosanitaire maatregelen verzoeken. De in aanhangsel 1 van bijlage VI (Sanitaire en fytosanitaire maatregelen) vermelde bevoegde instanties faciliteren dit overleg.
+1. Wanneer een partij van mening is dat een sanitaire of fytosanitaire maatregel van een andere partij in strijd is of kan zijn met verplichtingen die voortvloeien uit dit hoofdstuk, of dat een andere partij een onder dit hoofdstuk vallende verplichting met betrekking tot een sanitaire of fytosanitaire maatregel heeft geschonden, kan zij om technisch overleg in het subcomité Sanitaire en fytosanitaire maatregelen verzoeken. De in [aanhangsel 1 van bijlage VI](https://wetten.overheid.nl/BWBV0005911) (Sanitaire en fytosanitaire maatregelen) vermelde bevoegde instanties faciliteren dit overleg.
 
 2. Tenzij door de partijen bij een geschil anders is overeengekomen, geldt dat wanneer een geschil overeenkomstig lid 1 onderwerp is geweest van overleg in het subcomité Sanitaire en fytosanitaire maatregelen, dat overleg in de plaats komt van het in [artikel 301](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&hoofdstuk=2&artikel=301&z=2024-11-01&g=2024-11-01) bedoelde overleg, mits het voldoet aan de voorwaarden van lid 9 van dat artikel. Overleg in het subcomité Sanitaire en fytosanitaire maatregelen wordt dertig dagen na de datum van indiening van het verzoek geacht te zijn afgesloten, tenzij de overlegvoerende partijen besluiten het overleg voort te zetten. Dit overleg kan worden gehouden via videoconferentie of via enig ander door de overlegvoerende partijen overeengekomen technologisch middel.
 
@@ -1402,9 +1281,9 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 - b. wat technische handelsbelemmeringen betreft:
 
-- i. hanteren de overeenkomstsluitende Andeslanden voor goederen van oorsprong uit de Europese Unie de geharmoniseerde normen, technische voorschriften en conformiteitsbeoordelingsprocedures die van toepassing zijn op de handel tussen de overeenkomstsluitende Andeslanden;
+   - i. hanteren de overeenkomstsluitende Andeslanden voor goederen van oorsprong uit de Europese Unie de geharmoniseerde normen, technische voorschriften en conformiteitsbeoordelingsprocedures die van toepassing zijn op de handel tussen de overeenkomstsluitende Andeslanden;
 
-- ii. bevorderen de overeenkomstsluitende Andeslanden op terreinen van belang naar beste kunnen de geleidelijke harmonisering van normen, technische voorschriften en conformiteitsbeoordelingsprocedures;
+   - ii. bevorderen de overeenkomstsluitende Andeslanden op terreinen van belang naar beste kunnen de geleidelijke harmonisering van normen, technische voorschriften en conformiteitsbeoordelingsprocedures;
 
 - c. wat sanitaire en fytosanitaire maatregelen betreft, hanteren de overeenkomstsluitende Andeslanden voor goederen van oorsprong uit de Europese Unie de geharmoniseerde procedures en voorschriften die op de handel van toepassing zijn. Het subcomité Sanitaire en fytosanitaire maatregelen onderzoekt de toepassing van deze alinea.
 
@@ -1416,7 +1295,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 ### HOOFDSTUK 7. UITZONDERINGEN
 
-##### Artikel 106. Uitzonderingen op [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2024-11-01&g=2024-11-01) (Handel in goederen)
+##### Artikel 106. Uitzonderingen op titel III (Handel in goederen)
 
 1. Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen vormen in gelijke omstandigheden, of een verkapte beperking van de handel in goederen tussen de partijen, wordt niets in deze overeenkomst uitgelegd als beletsel voor het vaststellen of handhaven door een partij van maatregelen die:
 
@@ -1442,7 +1321,7 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 2. De partijen zijn het erover eens dat een partij, wanneer zij voornemens is een in lid 1, onder i) en j), bedoelde maatregel te nemen, de andere partijen alle relevante informatie verstrekt, teneinde een voor de partijen aanvaardbare oplossing te vinden. Partijen kunnen besluiten tot elk middel dat een einde maakt aan de moeilijkheden van de partij die voornemens is de maatregel te nemen. Indien binnen dertig dagen geen overeenstemming is bereikt, kan die partij krachtens lid 1, onder i) en j), maatregelen nemen ten aanzien van de uitvoer van het betrokken product. Wanneer echter door uitzonderlijke en kritieke omstandigheden die onmiddellijke actie vereisen, voorafgaande informatieverstrekking of voorafgaand onderzoek niet mogelijk is, kan de partij die voornemens is de maatregel te nemen, dat onmiddellijk doen en stelt zij de andere partijen hiervan zo spoedig mogelijk in kennis.
 
-## TITEL IV. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
+### TITEL IV. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -1466,27 +1345,27 @@ Het subcomité Sanitaire en fytosanitaire maatregelen bevordert de samenwerking 
 
 Voor de toepassing van deze titel wordt verstaan onder:
 
-- –. „overeenkomst inzake economische integratie”: een overeenkomst waarbij de handel in diensten en het recht van vestiging uit hoofde van de WTO-voorschriften aanzienlijk worden geliberaliseerd;
+- – „overeenkomst inzake economische integratie”: een overeenkomst waarbij de handel in diensten en het recht van vestiging uit hoofde van de WTO-voorschriften aanzienlijk worden geliberaliseerd;
 
-- –. „rechtspersoon van een partij”: een rechtspersoon die overeenkomstig de wetgeving van die partij is opgericht en op haar grondgebied zijn statutaire zetel, hoofdbestuur of hoofdvestiging heeft. Wanneer een rechtspersoon alleen zijn statutaire zetel of hoofdbestuur op het grondgebied van een partij heeft, wordt hij niet beschouwd als een rechtspersoon van die partij, tenzij de werkzaamheden van die rechtspersoon daadwerkelijk en duurzaam verband houden met de economie van die partij17)Scheepvaartmaatschappijen die buiten de Europese Unie en de overeenkomstsluitende Andeslanden zijn gevestigd maar onder zeggenschap staan van onderdanen van een lidstaat van de Europese Unie of overeen¬komstsluitend Andesland, vallen onder het toepassingsgebied van deze titel wanneer hun schepen overeenkomstig de wetgeving van die lidstaat van de Europese Unie of dat overeenkomstsluitend Andesland zijn geregistreerd en onder de vlag van een lidstaat van de Europese Unie of overeenkomstsluitend Andesland varen.;
+- – „rechtspersoon van een partij”: een rechtspersoon die overeenkomstig de wetgeving van die partij is opgericht en op haar grondgebied zijn statutaire zetel, hoofdbestuur of hoofdvestiging heeft. Wanneer een rechtspersoon alleen zijn statutaire zetel of hoofdbestuur op het grondgebied van een partij heeft, wordt hij niet beschouwd als een rechtspersoon van die partij, tenzij de werkzaamheden van die rechtspersoon daadwerkelijk en duurzaam verband houden met de economie van die partij17)Scheepvaartmaatschappijen die buiten de Europese Unie en de overeenkomstsluitende Andeslanden zijn gevestigd maar onder zeggenschap staan van onderdanen van een lidstaat van de Europese Unie of overeen¬komstsluitend Andesland, vallen onder het toepassingsgebied van deze titel wanneer hun schepen overeenkomstig de wetgeving van die lidstaat van de Europese Unie of dat overeenkomstsluitend Andesland zijn geregistreerd en onder de vlag van een lidstaat van de Europese Unie of overeenkomstsluitend Andesland varen.;
 
-- –. „maatregel”: elke maatregel van een partij, in de vorm van een wet, regeling, voorschrift, procedure, besluit, administratieve handeling of enige andere vorm;
+- – „maatregel”: elke maatregel van een partij, in de vorm van een wet, regeling, voorschrift, procedure, besluit, administratieve handeling of enige andere vorm;
 
-- –. „door een partij vastgestelde of gehandhaafde maatregelen”: maatregelen die zijn vastgesteld of worden gehandhaafd door:
+- – „door een partij vastgestelde of gehandhaafde maatregelen”: maatregelen die zijn vastgesteld of worden gehandhaafd door:
 
-- a. centrale, regionale of lokale overheden of autoriteiten;
+   - a. centrale, regionale of lokale overheden of autoriteiten;
 
-- b. niet-gouvernementele organen bij de uitoefening van door centrale, regionale of lokale overheden of autoriteiten gedelegeerde bevoegdheden;
+   - b. niet-gouvernementele organen bij de uitoefening van door centrale, regionale of lokale overheden of autoriteiten gedelegeerde bevoegdheden;
 
-- –. „natuurlijke persoon van een partij”: een natuurlijke persoon die krachtens de interne wetgeving van een lidstaat van de Europese Unie of een overeenkomstsluitend Andesland de nationaliteit van die lidstaat of dat Andesland heeft18)Voor de toepassing van deze titel wordt een natuurlijke persoon van een partij die zowel de nationaliteit van een lidstaat van de Europese Unie als van een overeenkomstsluitend Andesland heeft, geacht uitsluitend de nationaliteit te hebben van de partij waar hij/zij bewijs van overheersende en feitelijke nationaliteit heeft voorgelegd. Ten behoeve hiervan wordt onder „overheersende en feitelijke nationaliteit” verstaan, de nationaliteit van de partij waarmee de natuurlijke persoon de sterkste banden heeft, waarbij wordt gekeken naar factoren als zijn/haar gebruikelijke verblijfplaats, familierelaties, plaats van belastingheffing en de plaats waar hij/zij zijn/haar politieke rechten uitoefent.;
+      - – „natuurlijke persoon van een partij”: een natuurlijke persoon die krachtens de interne wetgeving van een lidstaat van de Europese Unie of een overeenkomstsluitend Andesland de nationaliteit van die lidstaat of dat Andesland heeft18)Voor de toepassing van deze titel wordt een natuurlijke persoon van een partij die zowel de nationaliteit van een lidstaat van de Europese Unie als van een overeenkomstsluitend Andesland heeft, geacht uitsluitend de nationaliteit te hebben van de partij waar hij/zij bewijs van overheersende en feitelijke nationaliteit heeft voorgelegd. Ten behoeve hiervan wordt onder „overheersende en feitelijke nationaliteit” verstaan, de nationaliteit van de partij waarmee de natuurlijke persoon de sterkste banden heeft, waarbij wordt gekeken naar factoren als zijn/haar gebruikelijke verblijfplaats, familierelaties, plaats van belastingheffing en de plaats waar hij/zij zijn/haar politieke rechten uitoefent.;
 
-- –. „diensten”: alle diensten, ongeacht de sector, behalve diensten verleend in het kader van de uitoefening van overheidsgezag;
+      - – „diensten”: alle diensten, ongeacht de sector, behalve diensten verleend in het kader van de uitoefening van overheidsgezag;
 
-- –. „diensten verleend in het kader van de uitoefening van overheidsgezag”: alle diensten die noch op commerciële basis, noch in concurrentie met een of meer dienstverleners worden verleend;
+      - – „diensten verleend in het kader van de uitoefening van overheidsgezag”: alle diensten die noch op commerciële basis, noch in concurrentie met een of meer dienstverleners worden verleend;
 
-- –. „dienstverlener van een partij”: elke natuurlijke of rechtspersoon van een partij die een dienst wenst te verlenen of verleent;
+      - – „dienstverlener van een partij”: elke natuurlijke of rechtspersoon van een partij die een dienst wenst te verlenen of verleent;
 
-- –. „verlenen van een dienst”: de productie, distributie, marketing, verkoop en levering van een dienst.
+      - – „verlenen van een dienst”: de productie, distributie, marketing, verkoop en levering van een dienst.
 
 ##### Artikel 109. Werkgroepen
 
@@ -1514,27 +1393,27 @@ Voor zover noodzakelijk en gerechtvaardigd kan het Handelscomité een werkgroep 
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- –. „filiaal van een rechtspersoon”: een vestiging zonder rechtspersoonlijkheid die:
+- – „filiaal van een rechtspersoon”: een vestiging zonder rechtspersoonlijkheid die:
 
-- a. kennelijk een permanent karakter heeft, zoals het agentschap van een moedermaatschappij;
+   - a. kennelijk een permanent karakter heeft, zoals het agentschap van een moedermaatschappij;
 
-- b. een eigen management heeft;
+   - b. een eigen management heeft;
 
-- c. over de nodige materiële voorzieningen beschikt om zaken te doen met derden, zodat derden, hoewel zij weten dat er indien nodig een rechtsverhouding is met de moedermaatschappij waarvan het hoofdkantoor zich in het buitenland bevindt, geen rechtstreeks contact met deze moedermaatschappij hoeven te hebben, maar rechtstreeks transacties kunnen aangaan met de vestiging die de voorpost vormt;
+   - c. over de nodige materiële voorzieningen beschikt om zaken te doen met derden, zodat derden, hoewel zij weten dat er indien nodig een rechtsverhouding is met de moedermaatschappij waarvan het hoofdkantoor zich in het buitenland bevindt, geen rechtstreeks contact met deze moedermaatschappij hoeven te hebben, maar rechtstreeks transacties kunnen aangaan met de vestiging die de voorpost vormt;
 
-- –. „economische activiteit”: elke economische activiteit behalve activiteiten die worden uitgevoerd in het kader van de uitoefening van overheidsgezag, dus behalve die welke noch op commerciële grondslag, noch in concurrentie met een of meer marktdeelnemers worden uitgevoerd;
+- – „economische activiteit”: elke economische activiteit behalve activiteiten die worden uitgevoerd in het kader van de uitoefening van overheidsgezag, dus behalve die welke noch op commerciële grondslag, noch in concurrentie met een of meer marktdeelnemers worden uitgevoerd;
 
-- –. „vestiging”: elk type zakelijke of beroepsmatige vestiging19)De term „zakelijke of beroepsmatige vestiging” omvat onder meer de vestiging voor het uitoefenen van een productieve economische activiteit, met een industrieel of commercieel karakter, die betrekking heeft op de productie van goederen en het verlenen van diensten. door middel van: op het grondgebied van een partij met als doel een economische activiteit uit te oefenen;
+- – „vestiging”: elk type zakelijke of beroepsmatige vestiging19)De term „zakelijke of beroepsmatige vestiging” omvat onder meer de vestiging voor het uitoefenen van een productieve economische activiteit, met een industrieel of commercieel karakter, die betrekking heeft op de productie van goederen en het verlenen van diensten. door middel van: op het grondgebied van een partij met als doel een economische activiteit uit te oefenen;
 
-- a. de oprichting, overname of handhaving van een rechtspersoon20)Onder „oprichting” en „overname” van een rechtspersoon wordt ook verstaan deelneming in het kapitaal van een rechtspersoon met het oogmerk duurzame economische banden tot stand te brengen of te handhaven., of
+   - a. de oprichting, overname of handhaving van een rechtspersoon20)Onder „oprichting” en „overname” van een rechtspersoon wordt ook verstaan deelneming in het kapitaal van een rechtspersoon met het oogmerk duurzame economische banden tot stand te brengen of te handhaven., of
 
-- b. de oprichting of handhaving van een filiaal of vertegenwoordiging,
+   - b. de oprichting of handhaving van een filiaal of vertegenwoordiging,
 
-- –. „investeerder van een partij”: elke natuurlijke of rechtspersoon van die partij die door middel van concrete acties een economische activiteit op het grondgebied van een andere partij uitoefent, heeft uitgeoefend of tracht uit te oefenen door middel van het oprichten van een vestiging;
+- – „investeerder van een partij”: elke natuurlijke of rechtspersoon van die partij die door middel van concrete acties een economische activiteit op het grondgebied van een andere partij uitoefent, heeft uitgeoefend of tracht uit te oefenen door middel van het oprichten van een vestiging;
 
-- –. „maatregelen van een partij die gevolgen hebben voor vestiging”: maatregelen met betrekking tot alle activiteiten die onder de definitie van vestiging vallen;
+- – „maatregelen van een partij die gevolgen hebben voor vestiging”: maatregelen met betrekking tot alle activiteiten die onder de definitie van vestiging vallen;
 
-- –. „dochteronderneming van een rechtspersoon van een partij”: een rechtspersoon waarover een andere rechtspersoon van die partij feitelijke zeggenschap heeft21)Een rechtspersoon staat onder zeggenschap van een andere rechtspersoon wanneer laatstgenoemde bevoegd is een meerderheid van zijn bestuurders te benoemen of zijn handelingen anderszins te sturen..
+- – „dochteronderneming van een rechtspersoon van een partij”: een rechtspersoon waarover een andere rechtspersoon van die partij feitelijke zeggenschap heeft21)Een rechtspersoon staat onder zeggenschap van een andere rechtspersoon wanneer laatstgenoemde bevoegd is een meerderheid van zijn bestuurders te benoemen of zijn handelingen anderszins te sturen..
 
 ##### Artikel 111. Toepassingsgebied
 
@@ -1552,19 +1431,19 @@ Dit hoofdstuk is van toepassing op door de partijen vastgestelde of gehandhaafde
 
 - f. het verlenen van binnenlandse en internationale luchtvervoerdiensten, ongeacht of het gaat om lijn- of charterdiensten, en diensten die rechtstreeks verband houden met de uitoefening van verkeersrechten, andere dan:
 
-- i. reparatie en onderhoud van vliegtuigen waarbij het vliegtuig buiten dienst wordt gesteld;
+   - i. reparatie en onderhoud van vliegtuigen waarbij het vliegtuig buiten dienst wordt gesteld;
 
-- ii. verkoop en marketing van luchtvervoerdiensten;
+   - ii. verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS);
+   - iii. geautomatiseerde boekingssystemen (CRS);
 
-- iv. grondafhandelingsdiensten en exploitatie van luchthavens.
+   - iv. grondafhandelingsdiensten en exploitatie van luchthavens.
 
 ##### Artikel 112. Markttoegang
 
-1. Wat markttoegang door middel van vestiging betreft, geeft elke partij vestigingen en investeerders van andere partijen geen minder gunstige behandeling dan die waarin is voorzien in de specifieke verbintenissen van bijlage VII (Lijst van verbintenissen inzake vestiging).
+1. Wat markttoegang door middel van vestiging betreft, geeft elke partij vestigingen en investeerders van andere partijen geen minder gunstige behandeling dan die waarin is voorzien in de specifieke verbintenissen van [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging).
 
-2. Voor sectoren waarvoor verbintenissen inzake markttoegang worden aangegaan, worden de volgende maatregelen door een partij noch op basis van een regionale onderverdeling, noch voor het hele grondgebied gehandhaafd of vastgesteld, tenzij in bijlage VII (Lijst van verbintenissen inzake vestiging) anders is bepaald:
+2. Voor sectoren waarvoor verbintenissen inzake markttoegang worden aangegaan, worden de volgende maatregelen door een partij noch op basis van een regionale onderverdeling, noch voor het hele grondgebied gehandhaafd of vastgesteld, tenzij in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) anders is bepaald:
 
 - a. beperkingen van het aantal vestigingen, hetzij in de vorm van numerieke quota, monopolies of exclusieve rechten of in de vorm van vestigingseisen, zoals een onderzoek naar de economische behoefte;
 
@@ -1580,19 +1459,19 @@ Dit hoofdstuk is van toepassing op door de partijen vastgestelde of gehandhaafde
 
 ##### Artikel 113. Nationale behandeling
 
-1. Voor de sectoren waarvoor Colombia in bijlage VII (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Colombia vestigingen en investeerders van de EU niet minder gunstig dan zijn eigen soortgelijke26)Voor de duidelijkheid: de term „soortgelijke” doet geen afbreuk aan de term „soortgelijke omstandigheden” in andere internationale overeenkomsten die Colombia aangaat of is aangegaan. vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
+1. Voor de sectoren waarvoor Colombia in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Colombia vestigingen en investeerders van de EU niet minder gunstig dan zijn eigen soortgelijke26)Voor de duidelijkheid: de term „soortgelijke” doet geen afbreuk aan de term „soortgelijke omstandigheden” in andere internationale overeenkomsten die Colombia aangaat of is aangegaan. vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
 
-2. Voor de sectoren waarvoor Peru in bijlage VII (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Peru vestigingen en investeerders van de EU in soortgelijke omstandigheden niet minder gunstig dan zijn eigen vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben27)Voor de duidelijkheid: de rechten die voor diensten en dienstverleners van de EU voortvloeien uit de verplichtingen van Peru uit hoofde van de GATS, blijven volledig afdwingbaar in het kader van de WTO, in het bijzonder wat betreft de toepassing van het beginsel van „soortgelijke diensten en dienstverleners” van artikel XVII van de GATS..
+2. Voor de sectoren waarvoor Peru in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Peru vestigingen en investeerders van de EU in soortgelijke omstandigheden niet minder gunstig dan zijn eigen vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben27)Voor de duidelijkheid: de rechten die voor diensten en dienstverleners van de EU voortvloeien uit de verplichtingen van Peru uit hoofde van de GATS, blijven volledig afdwingbaar in het kader van de WTO, in het bijzonder wat betreft de toepassing van het beginsel van „soortgelijke diensten en dienstverleners” van artikel XVII van de GATS..
 
-3. Voor de sectoren waarvoor de EU in bijlage VII (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt de EU vestigingen en investeerders van de overeenkomstsluitende Andeslanden niet minder gunstig dan haar eigen soortgelijke vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
+3. Voor de sectoren waarvoor de EU in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt de EU vestigingen en investeerders van de overeenkomstsluitende Andeslanden niet minder gunstig dan haar eigen soortgelijke vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
 
-3 bis. Voor de sectoren waarvoor Ecuador in bijlage VII (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Ecuador vestigingen en investeerders van de EU niet minder gunstig dan zijn eigen soortgelijke vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
+3 bis. Voor de sectoren waarvoor Ecuador in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Ecuador vestigingen en investeerders van de EU niet minder gunstig dan zijn eigen soortgelijke vestigingen en investeerders in verband met alle maatregelen die gevolgen voor vestiging hebben.
 
 4. De op grond van dit artikel aangegane specifieke verbintenissen worden niet zodanig uitgelegd dat een partij verplicht is tot compensatie van concurrentienadelen die inherent zijn aan het buitenlandse karakter van de desbetreffende investeerders.
 
 ##### Artikel 114. Lijst van verbintenissen
 
-De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat, alsook eventuele voorbehouden of beperkingen ten aanzien van markttoegang en/of nationale behandeling die van toepassing zijn op vestigingen en investeerders van een andere partij in deze sectoren, zijn vermeld in bijlage VII (Lijst van verbintenissen inzake vestiging).
+De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat, alsook eventuele voorbehouden of beperkingen ten aanzien van markttoegang en/of nationale behandeling die van toepassing zijn op vestigingen en investeerders van een andere partij in deze sectoren, zijn vermeld in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging).
 
 ##### Artikel 115. Andere overeenkomsten
 
@@ -1612,17 +1491,17 @@ De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat,
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- –. „grensoverschrijdende dienstverlening”: het verlenen van een dienst:
+- – „grensoverschrijdende dienstverlening”: het verlenen van een dienst:
 
-- a. vanaf het grondgebied van een partij naar het grondgebied van een andere partij (vorm van dienstverlening 1), en
+   - a. vanaf het grondgebied van een partij naar het grondgebied van een andere partij (vorm van dienstverlening 1), en
 
-- b. binnen het grondgebied van een partij ten behoeve van een dienstafnemer van een andere partij (vorm van dienstverlening 2);
+   - b. binnen het grondgebied van een partij ten behoeve van een dienstafnemer van een andere partij (vorm van dienstverlening 2);
 
-- –. „maatregelen van een partij die gevolgen hebben voor grensoverschrijdende dienstverlening”: onder meer maatregelen betreffende:
+- – „maatregelen van een partij die gevolgen hebben voor grensoverschrijdende dienstverlening”: onder meer maatregelen betreffende:
 
-- a. de aankoop, de betaling of het gebruik van een dienst, en
+   - a. de aankoop, de betaling of het gebruik van een dienst, en
 
-- b. de toegang tot en het gebruik van, in verband met grensoverschrijdende dienstverlening, een dienst waarvan die partij eist dat zij algemeen aan het publiek worden aangeboden.
+   - b. de toegang tot en het gebruik van, in verband met grensoverschrijdende dienstverlening, een dienst waarvan die partij eist dat zij algemeen aan het publiek worden aangeboden.
 
 ##### Artikel 118. Toepassingsgebied
 
@@ -1634,19 +1513,19 @@ Dit hoofdstuk is van toepassing op maatregelen van de partijen die gevolgen hebb
 
 - c. binnenlandse en internationale luchtvervoerdiensten, ongeacht of het gaat om lijn- of charterdiensten, en diensten die rechtstreeks verband houden met de uitoefening van verkeersrechten, andere dan:
 
-- i. reparatie en onderhoud van vliegtuigen waarbij het vliegtuig buiten dienst wordt gesteld;
+   - i. reparatie en onderhoud van vliegtuigen waarbij het vliegtuig buiten dienst wordt gesteld;
 
-- ii. de verkoop en marketing van luchtvervoerdiensten;
+   - ii. de verkoop en marketing van luchtvervoerdiensten;
 
-- iii. geautomatiseerde boekingssystemen (CRS);
+   - iii. geautomatiseerde boekingssystemen (CRS);
 
-- iv. grondafhandelingsdiensten en exploitatie van luchthavens.
+   - iv. grondafhandelingsdiensten en exploitatie van luchthavens.
 
 ##### Artikel 119. Markttoegang
 
-1. Wat betreft markttoegang door middel van grensoverschrijdende dienstverlening, geeft elke partij diensten en dienstverleners van een andere partij geen minder gunstige behandeling dan die waarin is voorzien in de specifieke verbintenissen van bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende diensten).
+1. Wat betreft markttoegang door middel van grensoverschrijdende dienstverlening, geeft elke partij diensten en dienstverleners van een andere partij geen minder gunstige behandeling dan die waarin is voorzien in de specifieke verbintenissen van [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende diensten).
 
-2. Voor sectoren waarvoor verbintenissen inzake markttoegang worden aangegaan, worden de volgende maatregelen door een partij noch op basis van een regionale onderverdeling, noch voor het hele grondgebied gehandhaafd of vastgesteld, tenzij in bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) anders is bepaald:
+2. Voor sectoren waarvoor verbintenissen inzake markttoegang worden aangegaan, worden de volgende maatregelen door een partij noch op basis van een regionale onderverdeling, noch voor het hele grondgebied gehandhaafd of vastgesteld, tenzij in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) anders is bepaald:
 
 - a. beperkingen van het aantal dienstverleners in de vorm van numerieke quota, monopolies, exclusieve dienstverleners of de eis van een onderzoek naar de economische behoefte;
 
@@ -1656,19 +1535,19 @@ Dit hoofdstuk is van toepassing op maatregelen van de partijen die gevolgen hebb
 
 ##### Artikel 120. Nationale behandeling
 
-1. Voor de sectoren waarvoor Colombia in bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Colombia diensten en dienstverleners van de EU niet minder gunstig dan zijn eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
+1. Voor de sectoren waarvoor Colombia in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Colombia diensten en dienstverleners van de EU niet minder gunstig dan zijn eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
 
-2. Voor de sectoren waarvoor Peru in bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Peru diensten en dienstverleners van de EU in soortgelijke omstandigheden niet minder gunstig dan zijn eigen diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben30)Voor de duidelijkheid: de rechten die voor diensten en dienstverleners van de EU voortvloeien uit de verplichtingen van Peru uit hoofde van de GATS, blijven volledig afdwingbaar in het kader van de WTO, in het bijzonder wat betreft de toepassing van het beginsel van „soortgelijke diensten en dienstverleners” van artikel XVII van de GATS..
+2. Voor de sectoren waarvoor Peru in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Peru diensten en dienstverleners van de EU in soortgelijke omstandigheden niet minder gunstig dan zijn eigen diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben30)Voor de duidelijkheid: de rechten die voor diensten en dienstverleners van de EU voortvloeien uit de verplichtingen van Peru uit hoofde van de GATS, blijven volledig afdwingbaar in het kader van de WTO, in het bijzonder wat betreft de toepassing van het beginsel van „soortgelijke diensten en dienstverleners” van artikel XVII van de GATS..
 
-3. Voor de sectoren waarvoor de EU in bijlage VIII (Lijstn van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt de EU diensten en dienstverleners van de overeenkomstsluitende Andeslanden niet minder gunstig dan haar eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
+3. Voor de sectoren waarvoor de EU in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijstn van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt de EU diensten en dienstverleners van de overeenkomstsluitende Andeslanden niet minder gunstig dan haar eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
 
-3 bis. Voor de sectoren waarvoor Ecuador in bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Ecuador diensten en dienstverleners van de EU niet minder gunstig dan zijn eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
+3 bis. Voor de sectoren waarvoor Ecuador in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) verbintenissen inzake markttoegang heeft opgenomen, en behoudens de daarin vermelde voorwaarden en kwalificaties, behandelt Ecuador diensten en dienstverleners van de EU niet minder gunstig dan zijn eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die gevolgen voor grensoverschrijdende dienstverlening hebben.
 
 4. De op grond van dit artikel aangegane specifieke verbintenissen worden niet zodanig uitgelegd dat een partij verplicht is tot compensatie van concurrentienadelen die inherent zijn aan het buitenlandse karakter van de desbetreffende diensten of dienstverleners.
 
 ##### Artikel 121. Lijst van verbintenissen
 
-De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat, alsook eventuele voorbehouden of beperkingen ten aanzien van markttoegang en/of nationale behandeling die van toepassing zijn op diensten en dienstverleners van een andere partij in deze sectoren, zijn vermeld in bijlage VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening).
+De sectoren waarvoor elke partij ingevolge dit hoofdstuk verbintenissen aangaat, alsook eventuele voorbehouden of beperkingen ten aanzien van markttoegang en/of nationale behandeling die van toepassing zijn op diensten en dienstverleners van een andere partij in deze sectoren, zijn vermeld in [bijlage VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening).
 
 ### HOOFDSTUK 4. TIJDELIJKE AANWEZIGHEID VAN NATUURLIJKE PERSONEN VOOR ZAKEN
 
@@ -1680,47 +1559,47 @@ Dit hoofdstuk is van toepassing op maatregelen van een partij betreffende de toe
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
-- –. „verkopers van zakelijke diensten”: natuurlijke personen die vertegenwoordiger van een dienstverlener van een partij zijn en tijdelijke toegang tot het grondgebied van een andere partij wensen om voor die dienstverlener over de verkoop van diensten te onderhandelen of overeenkomsten voor de verkoop van diensten te sluiten. Zij verkopen niet direct aan het publiek en ontvangen geen beloning uit een bron op het grondgebied van de gastpartij;
+- – „verkopers van zakelijke diensten”: natuurlijke personen die vertegenwoordiger van een dienstverlener van een partij zijn en tijdelijke toegang tot het grondgebied van een andere partij wensen om voor die dienstverlener over de verkoop van diensten te onderhandelen of overeenkomsten voor de verkoop van diensten te sluiten. Zij verkopen niet direct aan het publiek en ontvangen geen beloning uit een bron op het grondgebied van de gastpartij;
 
-- –. „zakelijke bezoekers”: natuurlijke personen met een staffunctie die verantwoordelijk zijn voor het opzetten van een vestiging. Zij verrichten geen directe transacties met het publiek en ontvangen geen beloning uit een bron op het grondgebied van de gastpartij;
+- – „zakelijke bezoekers”: natuurlijke personen met een staffunctie die verantwoordelijk zijn voor het opzetten van een vestiging. Zij verrichten geen directe transacties met het publiek en ontvangen geen beloning uit een bron op het grondgebied van de gastpartij;
 
-- –. „dienstverleners op contractbasis”: natuurlijke personen in dienst van een rechtspersoon van een partij die geen vestiging op het grondgebied van een andere partij heeft en die met een eindgebruiker in die andere partij een bonafide contract (anders dan via een agentschap als omschreven in code 872 van de centrale productclassificatie van de Verenigde Naties, hierna de „CPC” genoemd) heeft gesloten voor de verlening van diensten waarvoor de tijdelijke aanwezigheid van zijn werknemers in die partij vereist is om aan het dienstverleningscontract te voldoen31)Het dienstverleningscontract moet in overeenstemming zijn met de wetten, regels en eisen van de partij waar het contract wordt uitgevoerd.;
+- – „dienstverleners op contractbasis”: natuurlijke personen in dienst van een rechtspersoon van een partij die geen vestiging op het grondgebied van een andere partij heeft en die met een eindgebruiker in die andere partij een bonafide contract (anders dan via een agentschap als omschreven in code 872 van de centrale productclassificatie van de Verenigde Naties, hierna de „CPC” genoemd) heeft gesloten voor de verlening van diensten waarvoor de tijdelijke aanwezigheid van zijn werknemers in die partij vereist is om aan het dienstverleningscontract te voldoen31)Het dienstverleningscontract moet in overeenstemming zijn met de wetten, regels en eisen van de partij waar het contract wordt uitgevoerd.;
 
-- –. „afgestudeerde stagiairs”: natuurlijke personen die ten minste een jaar in dienst zijn van een rechtspersoon van een partij of een filiaal van die rechtspersoon, die universitair afgestudeerd zijn en die voor hun loopbaanontwikkeling of een opleiding in bedrijfstechnieken of -methoden tijdelijk naar een vestiging van die rechtspersoon op het grondgebied van een andere partij worden overgeplaatst32)Van de ontvangende vestiging kan worden verlangd dat zij vooraf ter goedkeuring een opleidingsprogramma voor de volledige duur van het verblijf voorlegt, om aan te tonen dat het verblijf bedoeld is voor opleiding. Voor Oostenrijk, Tsjechië, Duitsland, Frankrijk, Spanje en Hongarije moet de opleiding aansluiten bij de behaalde universitaire graad.;
+- – „afgestudeerde stagiairs”: natuurlijke personen die ten minste een jaar in dienst zijn van een rechtspersoon van een partij of een filiaal van die rechtspersoon, die universitair afgestudeerd zijn en die voor hun loopbaanontwikkeling of een opleiding in bedrijfstechnieken of -methoden tijdelijk naar een vestiging van die rechtspersoon op het grondgebied van een andere partij worden overgeplaatst32)Van de ontvangende vestiging kan worden verlangd dat zij vooraf ter goedkeuring een opleidingsprogramma voor de volledige duur van het verblijf voorlegt, om aan te tonen dat het verblijf bedoeld is voor opleiding. Voor Oostenrijk, Tsjechië, Duitsland, Frankrijk, Spanje en Hongarije moet de opleiding aansluiten bij de behaalde universitaire graad.;
 
-- –. „beoefenaars van een vrij beroep”: natuurlijke personen die als zelfstandige dienstverlener op het grondgebied van een partij zijn gevestigd en geen vestiging op het grondgebied van een andere partij hebben, en die met een eindgebruiker in die andere partij een bonafide contract (anders dan via een agentschap als omschreven in code 872 van de centrale productclassificatie van de Verenigde Naties, hierna de „CPC” genoemd) hebben gesloten voor de verlening van diensten waarvoor de tijdelijke aanwezigheid in die partij vereist is om aan het dienstverleningscontract te voldoen33)Het dienstverleningscontract moet in overeenstemming zijn met de wetten, regels en eisen van de partij waar het contract wordt uitgevoerd.;
+- – „beoefenaars van een vrij beroep”: natuurlijke personen die als zelfstandige dienstverlener op het grondgebied van een partij zijn gevestigd en geen vestiging op het grondgebied van een andere partij hebben, en die met een eindgebruiker in die andere partij een bonafide contract (anders dan via een agentschap als omschreven in code 872 van de centrale productclassificatie van de Verenigde Naties, hierna de „CPC” genoemd) hebben gesloten voor de verlening van diensten waarvoor de tijdelijke aanwezigheid in die partij vereist is om aan het dienstverleningscontract te voldoen33)Het dienstverleningscontract moet in overeenstemming zijn met de wetten, regels en eisen van de partij waar het contract wordt uitgevoerd.;
 
-- –. „binnen de onderneming overgeplaatste personen”: natuurlijke personen die ten minste een jaar werknemer of partner van een rechtspersoon of van een filiaal van die rechtspersoon zijn en die tijdelijk naar een vestiging op het grondgebied van een andere partij worden overgeplaatst, welke vestiging een dochteronderneming, filiaal of bijkantoor kan zijn. De natuurlijke personen in kwestie behoren tot een van de volgende categorieën:
+- – „binnen de onderneming overgeplaatste personen”: natuurlijke personen die ten minste een jaar werknemer of partner van een rechtspersoon of van een filiaal van die rechtspersoon zijn en die tijdelijk naar een vestiging op het grondgebied van een andere partij worden overgeplaatst, welke vestiging een dochteronderneming, filiaal of bijkantoor kan zijn. De natuurlijke personen in kwestie behoren tot een van de volgende categorieën:
 
-- a. „managers”: personen die deel uitmaken van het hogere kader van een rechtspersoon, die in de eerste plaats verantwoordelijk zijn voor het management van de vestiging, onder het algemene toezicht of de leiding van de raad van bestuur of de aandeelhouders of daarmee gelijkgestelde personen, waaronder personen die: of
+   - a. „managers”: personen die deel uitmaken van het hogere kader van een rechtspersoon, die in de eerste plaats verantwoordelijk zijn voor het management van de vestiging, onder het algemene toezicht of de leiding van de raad van bestuur of de aandeelhouders of daarmee gelijkgestelde personen, waaronder personen die: of
 
-- i. leiding geven aan de vestiging of een afdeling of onderafdeling daarvan;
+      - i. leiding geven aan de vestiging of een afdeling of onderafdeling daarvan;
 
-- ii. toezicht houden en controle uitoefenen op de werkzaamheden van andere werknemers met een toezichthoudende, leidinggevende of specialistische functie;
+      - ii. toezicht houden en controle uitoefenen op de werkzaamheden van andere werknemers met een toezichthoudende, leidinggevende of specialistische functie;
 
-- iii. bevoegd zijn om op eigen initiatief werknemers in dienst te nemen en te ontslaan of indienstneming, ontslag of andere maatregelen in het kader van het personeelsbeleid aan te bevelen;
+      - iii. bevoegd zijn om op eigen initiatief werknemers in dienst te nemen en te ontslaan of indienstneming, ontslag of andere maatregelen in het kader van het personeelsbeleid aan te bevelen;
 
-- b. „specialisten”: bij een rechtspersoon werkzame personen die beschikken over bijzondere kennis die van wezenlijk belang is voor de activiteiten, de onderzoeksuitrusting, de technische werkzaamheden of het management van de vestiging. Voor de beoordeling van die kennis wordt niet alleen specifiek met de vestiging verband houdende kennis in aanmerking genomen, maar ook of de persoon in hoge mate gekwalificeerd is voor een type werk of handel waarvoor specifieke technische kennis vereist is, evenals het lidmaatschap van een erkende beroepsgroep(33a)De EU erkent dat lidmaatschap van een erkende beroepsgroep in Ecuador niet verplicht is.;
+   - b. „specialisten”: bij een rechtspersoon werkzame personen die beschikken over bijzondere kennis die van wezenlijk belang is voor de activiteiten, de onderzoeksuitrusting, de technische werkzaamheden of het management van de vestiging. Voor de beoordeling van die kennis wordt niet alleen specifiek met de vestiging verband houdende kennis in aanmerking genomen, maar ook of de persoon in hoge mate gekwalificeerd is voor een type werk of handel waarvoor specifieke technische kennis vereist is, evenals het lidmaatschap van een erkende beroepsgroep(33a)De EU erkent dat lidmaatschap van een erkende beroepsgroep in Ecuador niet verplicht is.;
 
-- –. „stafpersoneel”: natuurlijke personen die werkzaam zijn bij een rechtspersoon van een partij, niet zijnde een organisatie zonder winstoogmerk34)De beperking „niet zijnde een organisatie zonder winstoogmerk” geldt uitsluitend voor Oostenrijk, België, Cyprus, Tsjechië, Duitsland, Denemarken, Estland, Griekenland, Spanje, Finland, Frankrijk, Ierland, Italië, Litouwen, Luxemburg, Letland, Malta, Nederland, Portugal, Slovenië, het Verenigd Koninkrijk en Peru., en verantwoordelijk zijn voor het opzetten of het toezicht, het beheer en de exploitatie van een vestiging, waaronder begrepen zakelijke bezoekers die verantwoordelijk zijn voor het opzetten van een vestiging en binnen een onderneming overgeplaatste personen;
+- – „stafpersoneel”: natuurlijke personen die werkzaam zijn bij een rechtspersoon van een partij, niet zijnde een organisatie zonder winstoogmerk34)De beperking „niet zijnde een organisatie zonder winstoogmerk” geldt uitsluitend voor Oostenrijk, België, Cyprus, Tsjechië, Duitsland, Denemarken, Estland, Griekenland, Spanje, Finland, Frankrijk, Ierland, Italië, Litouwen, Luxemburg, Letland, Malta, Nederland, Portugal, Slovenië, het Verenigd Koninkrijk en Peru., en verantwoordelijk zijn voor het opzetten of het toezicht, het beheer en de exploitatie van een vestiging, waaronder begrepen zakelijke bezoekers die verantwoordelijk zijn voor het opzetten van een vestiging en binnen een onderneming overgeplaatste personen;
 
-- –. „kwalificaties”: diploma’s, certificaten en andere titels die zijn afgegeven door een bij wettelijke of bestuursrechtelijke bepalingen aangewezen autoriteit waarmee de succesvolle afsluiting van een beroepsopleiding wordt geattesteerd.
+- – „kwalificaties”: diploma’s, certificaten en andere titels die zijn afgegeven door een bij wettelijke of bestuursrechtelijke bepalingen aangewezen autoriteit waarmee de succesvolle afsluiting van een beroepsopleiding wordt geattesteerd.
 
 ##### Artikel 124. Stafpersoneel en afgestudeerde stagiairs
 
-1. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, en behoudens eventuele in bijlage VII (Lijst van verbintenissen inzake vestiging) of aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) vermelde voorbehouden, staat elke partij investeerders van een andere partij toe in hun vestiging natuurlijke personen van die andere partij te werk te stellen, mits die werknemers stafpersoneel of afgestudeerde stagiairs als gedefinieerd in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&artikel=123&z=2024-11-01&g=2024-11-01) zijn. De duur van het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs bedraagt ten hoogste drie jaar(35)Voor Colombia en Ecuador bedraagt de maximale verblijfsduur voor binnen de onderneming overgeplaatste personen twee jaar, welke termijn met een jaar kan worden verlengd. Voor Peru is de maximale duur van de arbeidsovereenkomst drie jaar. De maximale verblijfsduur voor binnen de onderneming overgeplaatste personen is echter één jaar, welke termijn kan worden verlengd als de voorwaarden waaronder de verblijfsvergunning is verstrekt nog steeds worden vervuld. voor binnen een onderneming overgeplaatste personen, ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers, en ten hoogste één jaar voor afgestudeerde stagiairs.
+1. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, en behoudens eventuele in [bijlage VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) of [aanhangsel 1 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) vermelde voorbehouden, staat elke partij investeerders van een andere partij toe in hun vestiging natuurlijke personen van die andere partij te werk te stellen, mits die werknemers stafpersoneel of afgestudeerde stagiairs als gedefinieerd in [artikel 123](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&artikel=123&z=2024-11-01&g=2024-11-01) zijn. De duur van het tijdelijke verblijf van stafpersoneel en afgestudeerde stagiairs bedraagt ten hoogste drie jaar(35)Voor Colombia en Ecuador bedraagt de maximale verblijfsduur voor binnen de onderneming overgeplaatste personen twee jaar, welke termijn met een jaar kan worden verlengd. Voor Peru is de maximale duur van de arbeidsovereenkomst drie jaar. De maximale verblijfsduur voor binnen de onderneming overgeplaatste personen is echter één jaar, welke termijn kan worden verlengd als de voorwaarden waaronder de verblijfsvergunning is verstrekt nog steeds worden vervuld. voor binnen een onderneming overgeplaatste personen, ten hoogste negentig dagen binnen een periode van twaalf maanden voor zakelijke bezoekers, en ten hoogste één jaar voor afgestudeerde stagiairs.
 
-2. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, worden de volgende maatregelen door de partijen noch op basis van een regionale onderverdeling, noch voor het gehele grondgebied gehandhaafd of vastgesteld, tenzij in aanhangsel 1 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) anders is bepaald: discriminatoire beperkingen en beperkingen van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of afgestudeerde stagiair naar een bepaalde sector mag overplaatsen, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte.
+2. Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) van deze titel verbintenissen worden aangegaan, worden de volgende maatregelen door de partijen noch op basis van een regionale onderverdeling, noch voor het gehele grondgebied gehandhaafd of vastgesteld, tenzij in [aanhangsel 1 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken) anders is bepaald: discriminatoire beperkingen en beperkingen van het totale aantal natuurlijke personen dat een investeerder als stafpersoneel of afgestudeerde stagiair naar een bepaalde sector mag overplaatsen, in de vorm van numerieke quota of de eis van een onderzoek naar de economische behoefte.
 
 ##### Artikel 125. Verkopers van zakelijke diensten
 
-Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) verbintenissen worden aangegaan, en behoudens eventuele in de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) vermelde voorbehouden, staat elke partij de toegang tot haar grondgebied en het tijdelijke verblijf aldaar van verkopers van zakelijke diensten toe voor maximaal negentig dagen binnen een periode van twaalf maanden.
+Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging) of [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) verbintenissen worden aangegaan, en behoudens eventuele in de [bijlagen VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) en [VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) vermelde voorbehouden, staat elke partij de toegang tot haar grondgebied en het tijdelijke verblijf aldaar van verkopers van zakelijke diensten toe voor maximaal negentig dagen binnen een periode van twaalf maanden.
 
 ##### Artikel 126. Dienstverleners op contractbasis
 
 1. De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van dienstverleners op contractbasis.
 
-2. Colombia en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
+2. Colombia en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
 
 - a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
@@ -1764,7 +1643,7 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - u. onderhoud en reparatie van werktuigen en transportmiddelen, met name in het kader van servicecontracten na verkoop of lease.
 
-3. Peru en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Peru door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
+3. Peru en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Peru door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
 
 - a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het recht van de Europese Unie (hierna „EU-recht” genoemd) niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
@@ -1794,43 +1673,43 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - n. aan managementconsultancy gerelateerde diensten.
 
-3 bis. Ecuador en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Ecuador door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
+3 bis. Ecuador en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Ecuador door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
 
-- a). rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
+- a) rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
-- b). accountants en boekhouders;
+- b) accountants en boekhouders;
 
-- c). architecten;
+- c) architecten;
 
-- d). stedenbouwkundigen en landschapsarchitecten;
+- d) stedenbouwkundigen en landschapsarchitecten;
 
-- e). ingenieurs;
+- e) ingenieurs;
 
-- f). ingenieurs: geïntegreerde diensten;
+- f) ingenieurs: geïntegreerde diensten;
 
-- g). artsen (psychologen daaronder begrepen) en tandartsen;
+- g) artsen (psychologen daaronder begrepen) en tandartsen;
 
-- h). dierenartsen;
+- h) dierenartsen;
 
-- i). diensten in verband met computers;
+- i) diensten in verband met computers;
 
-- j). markt- en opinieonderzoek;
+- j) markt- en opinieonderzoek;
 
-- k). advies op het gebied van bedrijfsbeheer;
+- k) advies op het gebied van bedrijfsbeheer;
 
-- l). diensten in verband met advies op het gebied van bedrijfsbeheer;
+- l) diensten in verband met advies op het gebied van bedrijfsbeheer;
 
-- m). designers;
+- m) designers;
 
-- n). chemisch ingenieurs, farmacologen en fotochemici;
+- n) chemisch ingenieurs, farmacologen en fotochemici;
 
-- o). diensten op het gebied van de cosmeticatechnologie;
+- o) diensten op het gebied van de cosmeticatechnologie;
 
-- p). gespecialiseerde diensten op het terrein van technologie, engineering, marketing en verkoop voor de automobielindustrie;
+- p) gespecialiseerde diensten op het terrein van technologie, engineering, marketing en verkoop voor de automobielindustrie;
 
-- q). commerciële design en marketing voor de mode-industrie (kleding, schoenen en andere modeartikelen); en
+- q) commerciële design en marketing voor de mode-industrie (kleding, schoenen en andere modeartikelen); en
 
-- r). onderhoud en reparatie van werktuigen en transportmiddelen, met name in het kader van servicecontracten na verkoop of lease.
+- r) onderhoud en reparatie van werktuigen en transportmiddelen, met name in het kader van servicecontracten na verkoop of lease.
 
 4. Op de door de partijen aangegane verbintenissen zijn de volgende voorwaarden van toepassing:
 
@@ -1840,9 +1719,9 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - c. de natuurlijke personen die het grondgebied van een andere partij binnenkomen, hebben:
 
-- i. een universitaire graad of een kwalificatie waarmee hun kennis op een gelijkwaardig niveau37)Wanneer de graad of kwalificatie niet is verkregen op het grondgebied van de partij waar de dienst wordt verleend, kan die partij onderzoeken of deze graad of kwalificatie gelijkwaardig is aan de op haar grondgebied vereiste graden of kwalificatie. wordt aangetoond;
+   - i. een universitaire graad of een kwalificatie waarmee hun kennis op een gelijkwaardig niveau37)Wanneer de graad of kwalificatie niet is verkregen op het grondgebied van de partij waar de dienst wordt verleend, kan die partij onderzoeken of deze graad of kwalificatie gelijkwaardig is aan de op haar grondgebied vereiste graden of kwalificatie. wordt aangetoond;
 
-- ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
+   - ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
 
 - d. de natuurlijke personen ontvangen geen andere beloning voor het verlenen van diensten dan die welke door de rechtspersoon voor wie zij gedurende hun verblijf op het grondgebied van een andere partij werken, wordt betaald;
 
@@ -1852,13 +1731,13 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - g. het aantal personen dat onder het dienstverleningscontract valt, mag niet groter zijn dan noodzakelijk is voor de uitvoering van het contract, zoals bepaald in de wet- en regelgeving van de partij waar de dienst wordt verleend;
 
-- h. andere discriminatoire beperkingen, zoals op het aantal natuurlijke personen in de vorm van een onderzoek naar de economische behoefte, die zijn gespecificeerd in aanhangsel 2 van bijlage IX (Voorbehouden betreffende tijdelijke aanwezigheid van natuurlijke personen voor zaken).
+- h. andere discriminatoire beperkingen, zoals op het aantal natuurlijke personen in de vorm van een onderzoek naar de economische behoefte, die zijn gespecificeerd in [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende tijdelijke aanwezigheid van natuurlijke personen voor zaken).
 
 ##### Artikel 127. Beoefenaars van een vrij beroep
 
 1. De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de [GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=1B) aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van beoefenaars van een vrij beroep.
 
-2. Colombia en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX („Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken”):
+2. Colombia en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) („Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken”):
 
 - a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
@@ -1880,7 +1759,7 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - j. gespecialiseerde diensten op het terrein van technologie, engineering, marketing en verkoop voor de automobielindustrie.
 
-3. Peru en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Peru door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
+3. Peru en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Peru door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
 
 - a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
@@ -1898,25 +1777,25 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - h. diensten in verband met advies op het gebied van bedrijfsbeheer.
 
-3 bis. Ecuador en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Ecuador door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
+3 bis. Ecuador en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Ecuador door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken):
 
-- a). rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
+- a) rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);
 
-- b). architecten;
+- b) architecten;
 
-- c). ingenieurs;
+- c) ingenieurs;
 
-- d). ingenieurs: geïntegreerde diensten;
+- d) ingenieurs: geïntegreerde diensten;
 
-- e). diensten in verband met computers;
+- e) diensten in verband met computers;
 
-- f). markt- en opinieonderzoek;
+- f) markt- en opinieonderzoek;
 
-- g). advies op het gebied van bedrijfsbeheer;
+- g) advies op het gebied van bedrijfsbeheer;
 
-- h). diensten in verband met advies op het gebied van bedrijfsbeheer; en
+- h) diensten in verband met advies op het gebied van bedrijfsbeheer; en
 
-- i). gespecialiseerde diensten op het terrein van technologie, engineering, marketing en verkoop voor de automobielindustrie.
+- i) gespecialiseerde diensten op het terrein van technologie, engineering, marketing en verkoop voor de automobielindustrie.
 
 4. Op de door de partijen aangegane verbintenissen zijn de volgende voorwaarden van toepassing:
 
@@ -1926,15 +1805,15 @@ Voor elke sector waarvoor overeenkomstig [hoofdstuk 2](https://wetten.overheid.n
 
 - c. de natuurlijke personen die het grondgebied van een andere partij binnenkomen, hebben:
 
-- i. een universitaire graad of een kwalificatie waarmee hun kennis op een gelijkwaardig niveau38)Wanneer de graad of kwalificatie niet is verkregen op het grondgebied van de partij waar de dienst wordt verleend, kan die partij onderzoeken of deze graad of kwalificatie gelijkwaardig is aan de op haar grondgebied vereiste graden of kwalificatie. wordt aangetoond;
+   - i. een universitaire graad of een kwalificatie waarmee hun kennis op een gelijkwaardig niveau38)Wanneer de graad of kwalificatie niet is verkregen op het grondgebied van de partij waar de dienst wordt verleend, kan die partij onderzoeken of deze graad of kwalificatie gelijkwaardig is aan de op haar grondgebied vereiste graden of kwalificatie. wordt aangetoond;
 
-- ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
+   - ii. de beroepskwalificaties die de wet- of regelgeving van de partij waar de dienst wordt verleend eventueel voorschrijft voor het uitoefenen van de desbetreffende activiteit;
 
 - d. de duur van het tijdelijke verblijf van natuurlijke personen op het grondgebied van de desbetreffende partij bedraagt over een periode van 12 maanden of, als het contract korter duurt, voor de duur van het contract, in totaal maximaal 6 maanden of, in het geval van Luxemburg, 25 weken;
 
 - e. de krachtens dit artikel verleende toegang betreft uitsluitend de dienstenactiviteit waarop het contract betrekking heeft en geeft geen recht op het voeren van de beroepstitel van de partij waar de dienst wordt verricht;
 
-- f. andere discriminatoire beperkingen, zoals op het aantal natuurlijke personen in de vorm van een onderzoek naar de economische behoefte, die zijn gespecificeerd in aanhangsel 2 van bijlage IX (Voorbehouden betreffende tijdelijke aanwezigheid van natuurlijke personen voor zaken).
+- f. andere discriminatoire beperkingen, zoals op het aantal natuurlijke personen in de vorm van een onderzoek naar de economische behoefte, die zijn gespecificeerd in [aanhangsel 2 van bijlage IX](https://wetten.overheid.nl/BWBV0005911) (Voorbehouden betreffende tijdelijke aanwezigheid van natuurlijke personen voor zaken).
 
 ##### Artikel 128. Tijdelijke bezoekers voor zaken
 
@@ -1960,7 +1839,7 @@ mits bedoelde tijdelijke bezoekers:
 
 ### HOOFDSTUK 5. REGELGEVINGSKADER
 
-### AFDELING 1. BEPALINGEN VAN ALGEMENE STREKKING
+#### AFDELING 1. BEPALINGEN VAN ALGEMENE STREKKING
 
 ##### Artikel 129. Wederzijdse erkenning
 
@@ -1980,7 +1859,7 @@ mits bedoelde tijdelijke bezoekers:
 
 - a. reageert onverwijld op alle verzoeken van een andere partij om specifieke informatie over maatregelen van algemene strekking of internationale overeenkomsten die betrekking hebben op of gevolgen hebben voor deze titel;
 
-- b. richt een of meer informatiepunten in die investeerders en dienstverleners van een andere partij op verzoek alle onder a) bedoelde informatie verstrekken. Deze informatiepunten worden vermeld in bijlage X (Informatiepunten betreffende handel in diensten, vestiging en elektronische handel). Bij informatiepunten hoeven geen wetten en regelingen te worden neergelegd.
+- b. richt een of meer informatiepunten in die investeerders en dienstverleners van een andere partij op verzoek alle onder a) bedoelde informatie verstrekken. Deze informatiepunten worden vermeld in [bijlage X](https://wetten.overheid.nl/BWBV0005911) (Informatiepunten betreffende handel in diensten, vestiging en elektronische handel). Bij informatiepunten hoeven geen wetten en regelingen te worden neergelegd.
 
 2. Niets in deze titel verplicht een partij tot verstrekking van vertrouwelijke informatie waarvan bekendmaking de rechtshandhaving zou belemmeren of die anderszins met het openbaar belang in strijd is of schadelijk is voor de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.
 
@@ -2002,7 +1881,7 @@ mits bedoelde tijdelijke bezoekers:
 
 6. Om vast te stellen of een partij heeft gehandeld conform de verplichtingen die voor haar uit lid 5 voortvloeien, wordt mede gekeken naar de internationale normen van relevante internationale organisaties40)Onder relevante internationale organisaties worden verstaan internationale organen waarvan de relevante organen van de partijen lid kunnen worden. die door die partij zijn toegepast.
 
-### AFDELING 2. DIENSTEN IN VERBAND MET COMPUTERS
+#### AFDELING 2. DIENSTEN IN VERBAND MET COMPUTERS
 
 ##### Artikel 132. Afspraak over diensten in verband met computers
 
@@ -2012,19 +1891,19 @@ Voor zover de handel in diensten in verband met computers in overeenstemming met
 
 - b. diensten in verband met computers omvatten, ook indien zij via een netwerk zoals internet worden geleverd, alle diensten op het gebied van:
 
-- i. advies, strategie, analyse, planning, specificatie, ontwerp, ontwikkeling, installatie, implementatie, integratie, testen, debuggen, updaten, ondersteuning, technische hulp of beheer van of voor computers of computersystemen;
+   - i. advies, strategie, analyse, planning, specificatie, ontwerp, ontwikkeling, installatie, implementatie, integratie, testen, debuggen, updaten, ondersteuning, technische hulp of beheer van of voor computers of computersystemen;
 
-- ii. computerprogramma’s, gedefinieerd als de instructies waardoor computers zelfstandig kunnen werken en met elkaar kunnen communiceren, plus advies, strategie, analyse, planning, specificatie, ontwerp, ontwikkeling, installatie, implementatie, integratie, testen, debuggen, updaten, aanpassen, onderhoud, ondersteuning, technische hulp, beheer of gebruik van of voor computerprogramma’s;
+   - ii. computerprogramma’s, gedefinieerd als de instructies waardoor computers zelfstandig kunnen werken en met elkaar kunnen communiceren, plus advies, strategie, analyse, planning, specificatie, ontwerp, ontwikkeling, installatie, implementatie, integratie, testen, debuggen, updaten, aanpassen, onderhoud, ondersteuning, technische hulp, beheer of gebruik van of voor computerprogramma’s;
 
-- iii. de verwerking, opslag en hosting van gegevens of diensten in verband met databanken;
+   - iii. de verwerking, opslag en hosting van gegevens of diensten in verband met databanken;
 
-- iv. onderhoud en reparatie van kantoormachines en toebehoren, met inbegrip van computers;
+   - iv. onderhoud en reparatie van kantoormachines en toebehoren, met inbegrip van computers;
 
-- v. opleidingen voor het personeel van klanten in verband met computerprogramma’s, computers of computersystemen die niet elders zijn ingedeeld;
+   - v. opleidingen voor het personeel van klanten in verband met computerprogramma’s, computers of computersystemen die niet elders zijn ingedeeld;
 
 - c. diensten in verband met computers maken andere diensten (bv. bankieren), elektronisch of anderszins, mogelijk. Er is echter een belangrijk onderscheid tussen de ondersteunende dienst (bv. webhosting of applicatiehosting) en de inhouds- of hoofddienst die elektronisch wordt geleverd (bv. bankieren). In dergelijke gevallen valt de inhouds- of hoofddienst niet onder CPC 84.
 
-### AFDELING 3. POST- EN KOERIERSDIENSTEN
+#### AFDELING 3. POST- EN KOERIERSDIENSTEN
 
 ##### Artikel 133. Toepassingsgebied
 
@@ -2034,9 +1913,9 @@ Deze afdeling bevat de beginselen van het regelgevingskader voor alle post- en k
 
 Voor de toepassing van deze afdeling en van de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) wordt verstaan onder:
 
-- –. „individuele vergunning”: een vergunning, concessie of toestemming die door een regelgevende instantie aan een individuele dienstverlener wordt gegeven en die nodig is om een bepaalde dienst te verlenen;
+- – „individuele vergunning”: een vergunning, concessie of toestemming die door een regelgevende instantie aan een individuele dienstverlener wordt gegeven en die nodig is om een bepaalde dienst te verlenen;
 
-- –. „universele dienst”: het overal op het grondgebied van een partij permanent aanbieden van een postdienst van een gespecificeerde kwaliteit tegen prijzen die voor alle gebruikers betaalbaar zijn.
+- – „universele dienst”: het overal op het grondgebied van een partij permanent aanbieden van een postdienst van een gespecificeerde kwaliteit tegen prijzen die voor alle gebruikers betaalbaar zijn.
 
 ##### Artikel 135. Voorkoming van concurrentiebeperkende praktijken bij post- en koeriersdiensten
 
@@ -2062,7 +1941,7 @@ Elke partij heeft het recht vast te stellen welk soort universeledienstverplicht
 
 Regelgevende organen zijn juridisch onafhankelijk van, en geen verantwoording verschuldigd aan, leveranciers van post- en koeriersdiensten. De besluiten die de regelgevende organen nemen en de procedures die zij toepassen, zijn voor alle marktdeelnemers gelijk.
 
-### AFDELING 4. TELECOMMUNICATIE
+#### AFDELING 4. TELECOMMUNICATIE
 
 ##### ARTIKEL 139. Toepassingsgebied
 
@@ -2072,19 +1951,19 @@ Deze afdeling bevat de beginselen van het regelgevingskader voor telecommunicati
 
 Voor de toepassing van deze afdeling wordt verstaan onder:
 
-- –. „essentiële telecommunicatiefaciliteiten”: faciliteiten van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst46)Voor de duidelijkheid: een openbare telecommunicatiedienst is een dienst als omschreven in de bijlage betreffende telecommunicatie bij de GATS. die:
+- – „essentiële telecommunicatiefaciliteiten”: faciliteiten van een openbaar telecommunicatienetwerk of een openbare telecommunicatiedienst46)Voor de duidelijkheid: een openbare telecommunicatiedienst is een dienst als omschreven in de bijlage betreffende telecommunicatie bij de GATS. die:
 
-- a. uitsluitend of voornamelijk ter beschikking worden gesteld door één leverancier of door een beperkt aantal leveranciers, en
+   - a. uitsluitend of voornamelijk ter beschikking worden gesteld door één leverancier of door een beperkt aantal leveranciers, en
 
-- b. bij het verlenen van een dienst niet op haalbare wijze economisch of technisch kunnen worden vervangen;
+   - b. bij het verlenen van een dienst niet op haalbare wijze economisch of technisch kunnen worden vervangen;
 
-- –. „interconnectie”: de koppeling met leveranciers die openbare telecommunicatienetwerken of -diensten47)Voor de duidelijkheid: een openbare telecommunicatiedienst is een dienst als omschreven in de bijlage betreffende telecommunicatie bij de GATS. aanbieden zodat gebruikers van een leverancier kunnen communiceren met gebruikers van een andere leverancier en toegang krijgen tot door een andere leverancier geleverde diensten;
+- – „interconnectie”: de koppeling met leveranciers die openbare telecommunicatienetwerken of -diensten47)Voor de duidelijkheid: een openbare telecommunicatiedienst is een dienst als omschreven in de bijlage betreffende telecommunicatie bij de GATS. aanbieden zodat gebruikers van een leverancier kunnen communiceren met gebruikers van een andere leverancier en toegang krijgen tot door een andere leverancier geleverde diensten;
 
-- –. „grote leverancier”: een leverancier in de telecommunicatiesector die ten gevolge van de controle die hij heeft over essentiële faciliteiten of door het gebruik van zijn marktpositie de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt wezenlijk kan beïnvloeden;
+- – „grote leverancier”: een leverancier in de telecommunicatiesector die ten gevolge van de controle die hij heeft over essentiële faciliteiten of door het gebruik van zijn marktpositie de voorwaarden voor deelneming (wat prijs en aanbod betreft) in de desbetreffende markt wezenlijk kan beïnvloeden;
 
-- –. „regelgevende instantie”: het orgaan of de organen die in de telecommunicatiesector belast is/zijn met de telecommunicatieregelgeving als bedoeld in deze afdeling;
+- – „regelgevende instantie”: het orgaan of de organen die in de telecommunicatiesector belast is/zijn met de telecommunicatieregelgeving als bedoeld in deze afdeling;
 
-- –. „telecommunicatiediensten”: alle diensten die bestaan uit de transmissie en ontvangst van elektromagnetische signalen, maar niet de economische activiteit die bestaat uit de levering van inhoud waarvan het transport afhankelijk is van telecommunicatie.
+- – „telecommunicatiediensten”: alle diensten die bestaan uit de transmissie en ontvangst van elektromagnetische signalen, maar niet de economische activiteit die bestaat uit de levering van inhoud waarvan het transport afhankelijk is van telecommunicatie.
 
 ##### Artikel 141. Concurrentiewaarborgen ten aanzien van grote leveranciers
 
@@ -2096,7 +1975,7 @@ Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:
 
 - c. het niet tijdig aan andere dienstverleners beschikbaar stellen van technische informatie over essentiële faciliteiten en van commercieel relevante informatie die deze dienstverleners voor het leveren van hun diensten nodig hebben.
 
-##### Artikel 142. (49) Dit artikel maakt geen deel uit van de verbintenissen die Peru en de EU krachtens deze overeenkomst jegens elkaar aangaan, onverminderd de interne wetgeving van elke partij. Voor Colombia en de EU, respectievelijk voor Ecuador en de EU, is dit artikel uitsluitend van toepassing op telecommunicatiediensten die bestaan uit de transmissie in werkelijke tijd van door de klant tussen twee of meer punten verzonden informatie zonder dat de vorm of inhoud van die informatie van eindpunt tot eindpunt wordt gewijzigd.Aanvullende verplichtingen voor grote leveranciers
+##### Artikel 142. (49) Dit artikel maakt geen deel uit van de verbintenissen die Peru en de EU krachtens deze overeenkomst jegens elkaar aangaan, onverminderd de interne wetgeving van elke partij. Voor Colombia en de EU, respectievelijk voor Ecuador en de EU, is dit artikel uitsluitend van toepassing op telecommunicatiediensten die bestaan uit de transmissie in werkelijke tijd van door de klant tussen twee of meer punten verzonden informatie zonder dat de vorm of inhoud van die informatie van eindpunt tot eindpunt wordt gewijzigd. Aanvullende verplichtingen voor grote leveranciers
 
 1. De regelgevende instantie van elke partij legt grote leveranciers overeenkomstig haar interne wetgeving en procedures de volgende aanvullende verplichtingen op, voor zover van toepassing:
 
@@ -2104,9 +1983,9 @@ Overeenkomstig de bepalingen van [titel VIII](https://wetten.overheid.nl/jci1.3:
 
 - b. verplichtingen inzake niet-discriminatie met betrekking tot interconnectie en/of toegang om ervoor te zorgen dat grote leveranciers op het grondgebied van een partij:
 
-- i. onder gelijkwaardige omstandigheden gelijkwaardige voorwaarden hanteren voor leveranciers van telecommunicatiediensten van een andere partij die gelijkwaardige diensten verlenen;
+   - i. onder gelijkwaardige omstandigheden gelijkwaardige voorwaarden hanteren voor leveranciers van telecommunicatiediensten van een andere partij die gelijkwaardige diensten verlenen;
 
-- ii. aan andere leveranciers diensten en informatie aanbieden onder dezelfde voorwaarden en van dezelfde kwaliteit als die welke zij voor hun eigen diensten of diensten van hun dochterondernemingen of partners bieden;
+   - ii. aan andere leveranciers diensten en informatie aanbieden onder dezelfde voorwaarden en van dezelfde kwaliteit als die welke zij voor hun eigen diensten of diensten van hun dochterondernemingen of partners bieden;
 
 - c. verplichtingen inzake het terugverdienen van kosten en prijscontrole, inclusief verplichtingen inzake kostenoriëntering van prijzen en kostentoerekeningssystemen voor het verlenen van specifieke interconnectie- en/of toegangtypes;
 
@@ -2208,7 +2087,7 @@ Elke partij waarborgt het vertrouwelijke karakter van het telecommunicatieverkee
 
 2. Wanneer een dergelijk geschil het grensoverschrijdend verlenen van diensten betreft, coördineren de regelgevende instanties van de betrokken partijen hun inspanningen om een oplossing van het geschil te vinden.
 
-### AFDELING 5. FINANCIËLE DIENSTEN
+#### AFDELING 5. FINANCIËLE DIENSTEN
 
 ##### Artikel 151. Toepassingsgebied
 
@@ -2218,79 +2097,79 @@ Deze afdeling bevat de beginselen van het regelgevingskader voor alle financiël
 
 Voor de toepassing van dit hoofdstuk en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
 
-- –. onder „financiële dienst” verstaan: elke dienst van financiële aard die wordt aangeboden door een financiële dienstverlener van een partij. Financiële diensten omvatten alle verzekeringen en aanverwante diensten en bankdiensten en andere financiële diensten (behalve verzekeringen). Financiële diensten omvatten de volgende activiteiten:
+- – onder „financiële dienst” verstaan: elke dienst van financiële aard die wordt aangeboden door een financiële dienstverlener van een partij. Financiële diensten omvatten alle verzekeringen en aanverwante diensten en bankdiensten en andere financiële diensten (behalve verzekeringen). Financiële diensten omvatten de volgende activiteiten:
 
-- a. verzekeringen en aanverwante diensten:
+   - a. verzekeringen en aanverwante diensten:
 
-- i. directe verzekering (met inbegrip van medeverzekering):
+      - i. directe verzekering (met inbegrip van medeverzekering):
 
-- A. levensverzekering,
+         - A. levensverzekering,
 
-- B. schadeverzekering;
+         - B. schadeverzekering;
 
-- ii. herverzekering en retrocessie;
+      - ii. herverzekering en retrocessie;
 
-- iii. verzekeringsbemiddeling, zoals makelaars en agentschappen;
+      - iii. verzekeringsbemiddeling, zoals makelaars en agentschappen;
 
-- iv. ondersteunende diensten voor verzekeringen, zoals adviseurs, actuarissen, risicobeoordeling en de regeling van schade-eisen;
+      - iv. ondersteunende diensten voor verzekeringen, zoals adviseurs, actuarissen, risicobeoordeling en de regeling van schade-eisen;
 
-- b. bankdiensten en andere financiële diensten (behalve verzekeringen):
+   - b. bankdiensten en andere financiële diensten (behalve verzekeringen):
 
-- i. aanvaarding van deposito’s en andere terugbetaalbare fondsen van het publiek;
+      - i. aanvaarding van deposito’s en andere terugbetaalbare fondsen van het publiek;
 
-- ii. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
+      - ii. alle soorten leningen, waaronder consumentenkrediet en hypotheken, factoring en financiering van commerciële transacties;
 
-- iii. financiële lease;
+      - iii. financiële lease;
 
-- iv. alle diensten in verband met betalingsverkeer en de overmaking van geld, waaronder creditcards, betaalkaarten, debetkaarten, reischeques en bankwissels;
+      - iv. alle diensten in verband met betalingsverkeer en de overmaking van geld, waaronder creditcards, betaalkaarten, debetkaarten, reischeques en bankwissels;
 
-- v. garanties en verbintenissen;
+      - v. garanties en verbintenissen;
 
-- vi. transacties voor eigen rekening of voor rekening van cliënten, op de beurs, de onderhandse markt of anderszins, ten aanzien van:
+      - vi. transacties voor eigen rekening of voor rekening van cliënten, op de beurs, de onderhandse markt of anderszins, ten aanzien van:
 
-- A. geldmarktinstrumenten (met inbegrip van cheques, effecten en depositocertificaten),
+         - A. geldmarktinstrumenten (met inbegrip van cheques, effecten en depositocertificaten),
 
-- B. deviezen,
+         - B. deviezen,
 
-- C. derivaten, met inbegrip van termijninstrumenten en opties,
+         - C. derivaten, met inbegrip van termijninstrumenten en opties,
 
-- D. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten,
+         - D. wisselkoers- en rentetariefinstrumenten, waaronder producten als swaps en rentetermijncontracten,
 
-- E. verhandelbare effecten,
+         - E. verhandelbare effecten,
 
-- F. overige verhandelbare stukken en financiële activa, met inbegrip van ongemunt goud en zilver;
+         - F. overige verhandelbare stukken en financiële activa, met inbegrip van ongemunt goud en zilver;
 
-- vii. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van diensten in verband met deze uitgiften;
+      - vii. deelneming in de uitgifte van alle soorten effecten, met inbegrip van garantieverlening en plaatsing in de hoedanigheid van agent (openbaar dan wel particulier) en verlening van diensten in verband met deze uitgiften;
 
-- viii. financiële bemiddeling;
+      - viii. financiële bemiddeling;
 
-- ix. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en fiduciaire diensten;
+      - ix. beheer van activa, zoals beheer van contanten of portefeuillebeheer, alle vormen van beheer van collectieve investeringen, beheer van pensioenfondsen, diensten aangaande bewaarneming, depositodiensten en fiduciaire diensten;
 
-- x. betalings- en compensatiediensten in verband met financiële activa, waaronder begrepen effecten, derivaten en andere verhandelbare instrumenten;
+      - x. betalings- en compensatiediensten in verband met financiële activa, waaronder begrepen effecten, derivaten en andere verhandelbare instrumenten;
 
-- xi. verstrekking en doorgifte van financiële informatie en verwerking van financiële gegevens en daarop betrekking hebbende software;
+      - xi. verstrekking en doorgifte van financiële informatie en verwerking van financiële gegevens en daarop betrekking hebbende software;
 
-- xii. advies-, bemiddelings- en andere ondersteunende financiële diensten voor alle onder i) tot en met xi) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, en advies over overnames en over bedrijfsreorganisaties en -strategieën;
+      - xii. advies-, bemiddelings- en andere ondersteunende financiële diensten voor alle onder i) tot en met xi) vermelde activiteiten, met inbegrip van kredietonderzoek en -analyse, onderzoek en advies aangaande investeringen en beleggingen, en advies over overnames en over bedrijfsreorganisaties en -strategieën;
 
-- –. wordt onder „financiële dienstverlener van een partij” verstaan: elke natuurlijke of rechtspersoon van een partij die financiële diensten wenst te verlenen of verleent, met uitzondering van openbare instanties;
+- – wordt onder „financiële dienstverlener van een partij” verstaan: elke natuurlijke of rechtspersoon van een partij die financiële diensten wenst te verlenen of verleent, met uitzondering van openbare instanties;
 
-- –. wordt onder „nieuwe financiële dienst” verstaan: een dienst van financiële aard, met inbegrip van diensten in verband met bestaande of nieuwe producten of de wijze waarop een product wordt geleverd, die niet wordt verleend door een financiële dienstverlener op het grondgebied van een partij, maar op het grondgebied van een andere partij;
+- – wordt onder „nieuwe financiële dienst” verstaan: een dienst van financiële aard, met inbegrip van diensten in verband met bestaande of nieuwe producten of de wijze waarop een product wordt geleverd, die niet wordt verleend door een financiële dienstverlener op het grondgebied van een partij, maar op het grondgebied van een andere partij;
 
-- –. wordt onder „openbare instantie” verstaan:
+- – wordt onder „openbare instantie” verstaan:
 
-- a. een overheid, centrale bank of monetaire autoriteit van een partij, of een instantie die eigendom is van een partij of onder zeggenschap staat van een partij en die zich in hoofdzaak bezighoudt met de uitvoering van overheidstaken of activiteiten voor overheidsdoeleinden, met uitzondering van instanties die zich in hoofdzaak bezighouden met het verlenen van financiële diensten op commerciële basis;
+   - a. een overheid, centrale bank of monetaire autoriteit van een partij, of een instantie die eigendom is van een partij of onder zeggenschap staat van een partij en die zich in hoofdzaak bezighoudt met de uitvoering van overheidstaken of activiteiten voor overheidsdoeleinden, met uitzondering van instanties die zich in hoofdzaak bezighouden met het verlenen van financiële diensten op commerciële basis;
 
-- b. een particuliere instantie, wanneer deze taken vervult die normaliter door een centrale bank of monetaire autoriteit worden vervuld;
+   - b. een particuliere instantie, wanneer deze taken vervult die normaliter door een centrale bank of monetaire autoriteit worden vervuld;
 
-- –. wordt onder „zelfregulerende organisatie” verstaan: elk niet-gouvernementeel orgaan, met inbegrip van effecten- of termijnbeurzen of -markten, verrekenkantoren of andere organisaties of verenigingen die eigen of aan hun gedelegeerde regelgevings- of toezichtbevoegdheden ten aanzien van verleners van financiële diensten uitoefenen; een zelfregulerende organisatie wordt niet geacht een aangewezen monopolie in de zin van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2024-11-01&g=2024-11-01) (Mededinging) te zijn;
+- – wordt onder „zelfregulerende organisatie” verstaan: elk niet-gouvernementeel orgaan, met inbegrip van effecten- of termijnbeurzen of -markten, verrekenkantoren of andere organisaties of verenigingen die eigen of aan hun gedelegeerde regelgevings- of toezichtbevoegdheden ten aanzien van verleners van financiële diensten uitoefenen; een zelfregulerende organisatie wordt niet geacht een aangewezen monopolie in de zin van [titel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&z=2024-11-01&g=2024-11-01) (Mededinging) te zijn;
 
-- –. omvatten „diensten verleend in het kader van de uitoefening van overheidsgezag”: voor de toepassing van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) ook: geldt voor de toepassing van de definitie in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) van „diensten verleend in het kader van de uitoefening van overheidsgezag” dat wanneer een partij toestaat dat een onder b) of c) genoemde activiteit door haar financiële dienstverleners in concurrentie met een openbare instantie of een financiële dienstverlener wordt verricht, deze activiteit onder de definitie van diensten in artikel 108 valt.
+- – omvatten „diensten verleend in het kader van de uitoefening van overheidsgezag”: voor de toepassing van [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) ook: geldt voor de toepassing van de definitie in [artikel 108](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=1&artikel=108&z=2024-11-01&g=2024-11-01) van „diensten verleend in het kader van de uitoefening van overheidsgezag” dat wanneer een partij toestaat dat een onder b) of c) genoemde activiteit door haar financiële dienstverleners in concurrentie met een openbare instantie of een financiële dienstverlener wordt verricht, deze activiteit onder de definitie van diensten in artikel 108 valt.
 
-- a. activiteiten van een centrale bank, monetaire autoriteit of andere openbare instantie voor de uitvoering van het monetaire of wisselkoersbeleid;
+   - a. activiteiten van een centrale bank, monetaire autoriteit of andere openbare instantie voor de uitvoering van het monetaire of wisselkoersbeleid;
 
-- b. activiteiten in het kader van een wettelijk stelsel van sociale zekerheid of een wettelijke pensioenregeling;
+   - b. activiteiten in het kader van een wettelijk stelsel van sociale zekerheid of een wettelijke pensioenregeling;
 
-- c. andere door een openbare instantie voor rekening, met garantie of met gebruikmaking van financiële middelen van de overheid ondernomen activiteiten;
+   - c. andere door een openbare instantie voor rekening, met garantie of met gebruikmaking van financiële middelen van de overheid ondernomen activiteiten;
 
 ##### Artikel 153. Betalings- en clearingsystemen
 
@@ -2358,7 +2237,7 @@ Elke partij staat op haar grondgebied gevestigde financiële dienstverleners van
 
 3. Niets in deze titel wordt uitgelegd als beletsel voor een partij, met inbegrip van haar openbare instanties, om op haar grondgebied exclusief activiteiten of diensten te verrichten of aan te bieden voor rekening, met garantie of met gebruikmaking van financiële middelen van die partij of haar openbare instanties.
 
-### AFDELING 6. INTERNATIONAAL ZEEVERVOER
+#### AFDELING 6. INTERNATIONAAL ZEEVERVOER
 
 ##### Artikel 160. Toepassingsgebied en beginselen
 
@@ -2384,27 +2263,27 @@ Elke partij staat op haar grondgebied gevestigde financiële dienstverleners van
 
 Voor de toepassing van deze afdeling en de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=2&z=2024-11-01&g=2024-11-01) (Vestiging), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=3&z=2024-11-01&g=2024-11-01) (Grensoverschrijdende dienstverlening) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=IV&hoofdstuk=4&z=2024-11-01&g=2024-11-01) (Tijdelijke aanwezigheid van natuurlijke personen voor zaken) van deze titel:
 
-- –. wordt onder „diensten in verband met de opslag van containers” verstaan: de opslag van containers op haventerreinen of verder landinwaarts, om ze te laden of te lossen, te repareren en gereed te maken voor verscheping;
+- – wordt onder „diensten in verband met de opslag van containers” verstaan: de opslag van containers op haventerreinen of verder landinwaarts, om ze te laden of te lossen, te repareren en gereed te maken voor verscheping;
 
-- –. wordt onder „in- en uitklaring” verstaan: de afhandeling van douaneformaliteiten namens een derde met betrekking tot de in-, uit- of doorvoer van vracht, ongeacht of deze dienst de hoofdactiviteit van de dienstverlener is of een gebruikelijke aanvulling op diens hoofdactiviteit;
+- – wordt onder „in- en uitklaring” verstaan: de afhandeling van douaneformaliteiten namens een derde met betrekking tot de in-, uit- of doorvoer van vracht, ongeacht of deze dienst de hoofdactiviteit van de dienstverlener is of een gebruikelijke aanvulling op diens hoofdactiviteit;
 
-- –. wordt onder „expediteursdiensten” verstaan: de activiteit waarbij namens een verzender de verscheping wordt georganiseerd en gevolgd, door vervoers- en aanverwante diensten te contracteren, documenten op te stellen en bedrijfsinformatie te verschaffen;
+- – wordt onder „expediteursdiensten” verstaan: de activiteit waarbij namens een verzender de verscheping wordt georganiseerd en gevolgd, door vervoers- en aanverwante diensten te contracteren, documenten op te stellen en bedrijfsinformatie te verschaffen;
 
-- –. omvat „internationaal zeevervoer” ook vervoer van deur tot deur en multimodaal vervoer, zijnde het vervoer van goederen met behulp van meer dan één wijze van vervoer, waaronder vervoer over zee, met een enkel vervoersdocument, en in verband daarmee ook het recht om rechtstreeks contracten te sluiten met ondernemingen op het gebied van andere wijzen van vervoer;
+- – omvat „internationaal zeevervoer” ook vervoer van deur tot deur en multimodaal vervoer, zijnde het vervoer van goederen met behulp van meer dan één wijze van vervoer, waaronder vervoer over zee, met een enkel vervoersdocument, en in verband daarmee ook het recht om rechtstreeks contracten te sluiten met ondernemingen op het gebied van andere wijzen van vervoer;
 
-- –. wordt onder „diensten van scheepsagenten” verstaan: activiteiten waarbij de zakelijke belangen van een of meer scheepvaartlijnen of scheepvaartmaatschappijen binnen een bepaald geografisch gebied door een agent worden behartigd voor de volgende doeleinden:
+- – wordt onder „diensten van scheepsagenten” verstaan: activiteiten waarbij de zakelijke belangen van een of meer scheepvaartlijnen of scheepvaartmaatschappijen binnen een bepaald geografisch gebied door een agent worden behartigd voor de volgende doeleinden:
 
-- a. marketing en verkoop van zeevervoer en aanverwante diensten, van prijsopgave tot facturering, alsmede het afgeven van vrachtbrieven namens de maatschappijen, het contracteren en weer verkopen van de nodige aanverwante diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie;
+   - a. marketing en verkoop van zeevervoer en aanverwante diensten, van prijsopgave tot facturering, alsmede het afgeven van vrachtbrieven namens de maatschappijen, het contracteren en weer verkopen van de nodige aanverwante diensten, het opstellen van documenten en het verschaffen van bedrijfsinformatie;
 
-- b. het organiseren, namens scheepvaartmaatschappijen, van de afroep van aanvragen om scheepsruimte of, indien nodig, het overnemen van vracht;
+   - b. het organiseren, namens scheepvaartmaatschappijen, van de afroep van aanvragen om scheepsruimte of, indien nodig, het overnemen van vracht;
 
-- –. wordt onder „behandeling van zeevracht” verstaan: activiteiten van stuwadoorsbedrijven en terminalexploitanten, maar zonder de activiteiten van dokwerkers, wanneer deze niet door de stuwadoorsbedrijven of terminalexploitanten zijn tewerkgesteld. De hier bedoelde activiteiten omvatten de organisatie van en het toezicht op:
+- – wordt onder „behandeling van zeevracht” verstaan: activiteiten van stuwadoorsbedrijven en terminalexploitanten, maar zonder de activiteiten van dokwerkers, wanneer deze niet door de stuwadoorsbedrijven of terminalexploitanten zijn tewerkgesteld. De hier bedoelde activiteiten omvatten de organisatie van en het toezicht op:
 
-- a. het laden en lossen van schepen,
+   - a. het laden en lossen van schepen,
 
-- b. het sjorren en losmaken van vracht,
+   - b. het sjorren en losmaken van vracht,
 
-- c. het in ontvangst nemen/afleveren en bewaken van vracht vóór verscheping of na lossing.
+   - c. het in ontvangst nemen/afleveren en bewaken van vracht vóór verscheping of na lossing.
 
 ### HOOFDSTUK 6. ELEKTRONISCHE HANDEL
 
@@ -2470,15 +2349,15 @@ De partijen streven ernaar, voor zover mogelijk en binnen hun respectieve bevoeg
 
 - e. noodzakelijk zijn voor de handhaving van wet- of regelgeving die niet in strijd is met de bepalingen van deze titel en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer)(55)Voor de duidelijkheid: in het geval van Peru en Ecuador wordt de tenuitvoerlegging van maatregelen die een geldelijke overmaking verhinderen door het op billijke en niet-discriminatoire wijze en te goeder trouw toepassen van Peruviaanse respectievelijk Ecuadoraanse wetten betreffende:a)faillissement, insolventie of de bescherming van de rechten van schuldeisers;b)de uitgifte van en de handel in effecten, futures, opties of derivaten;c)strafbare feiten;d)financiële verslaglegging of registratie van overdrachten, wanneer die registratie nodig is ter ondersteuning van met de rechtshandhaving of financiële regelgeving belaste instanties; ofe)waarborgen dat wordt voldaan aan beschikkingen of uitspraken in gerechtelijke of administratieve procedures,niet geacht in strijd te zijn met de bepalingen van deze titel en titel V (Lopende betalingen en kapitaalverkeer)., met inbegrip van wet- of regelgeving betreffende:
 
-- i. het voorkómen van misleidende of frauduleuze praktijken of middelen om de gevolgen van niet-nakoming van contracten te compenseren,
+   - i. het voorkómen van misleidende of frauduleuze praktijken of middelen om de gevolgen van niet-nakoming van contracten te compenseren,
 
-- ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
+   - ii. de bescherming van de persoonlijke levenssfeer in verband met de verwerking en verspreiding van persoonsgegevens en de bescherming van de vertrouwelijke aard van persoonlijke dossiers en rekeningen;
 
-- iii. veiligheid.
+   - iii. veiligheid.
 
-2. De bepalingen van deze titel, de bijlagen VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer) zijn niet van toepassing op de respectieve socialezekerheidsstelsels van de partijen of op activiteiten op het grondgebied van een partij die verband houden, al was het maar incidenteel, met de uitoefening van overheidsgezag.
+2. De bepalingen van deze titel, de [bijlagen VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) en [VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en [titel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=V&z=2024-11-01&g=2024-11-01) (Lopende betalingen en kapitaalverkeer) zijn niet van toepassing op de respectieve socialezekerheidsstelsels van de partijen of op activiteiten op het grondgebied van een partij die verband houden, al was het maar incidenteel, met de uitoefening van overheidsgezag.
 
-## TITEL V. LOPENDE BETALINGEN EN KAPITAALVERKEER
+### TITEL V. LOPENDE BETALINGEN EN KAPITAALVERKEER
 
 ##### Artikel 168. Lopende rekening
 
@@ -2506,59 +2385,59 @@ Wat de verrichtingen op de kapitaalrekening en financiële rekening van de betal
 
 Teneinde een stabiel en veilig klimaat voor langetermijninvesteringen te bevorderen, treden de partijen met elkaar in overleg om het onderlinge kapitaalverkeer te vergemakkelijken en in het bijzonder om de geleidelijke liberalisering van financiële en kapitaalrekeningen te bevorderen.
 
-## TITEL VI. OVERHEIDSOPDRACHTEN
+### TITEL VI. OVERHEIDSOPDRACHTEN
 
 ##### Artikel 172. Definities
 
 Voor de toepassing van deze titel wordt verstaan onder:
 
-- –. „BOT-contract en concessieovereenkomst voor openbare werken”: elke contractuele overeenkomst met als hoofddoel de aanleg of verbetering van fysieke infrastructuur, fabrieken, gebouwen, inrichtingen of andere overheidswerken waarbij de aanbestedende dienst de aannemer, als tegenprestatie voor de uitvoering van het contract, bedoelde werken voor een gespecificeerde periode in eigendom geeft of, voor de duur van het contract, de zeggenschap over en het recht op exploitatie van bedoelde werken, alsook het recht om een vergoeding te vragen voor gebruik ervan;
+- – „BOT-contract en concessieovereenkomst voor openbare werken”: elke contractuele overeenkomst met als hoofddoel de aanleg of verbetering van fysieke infrastructuur, fabrieken, gebouwen, inrichtingen of andere overheidswerken waarbij de aanbestedende dienst de aannemer, als tegenprestatie voor de uitvoering van het contract, bedoelde werken voor een gespecificeerde periode in eigendom geeft of, voor de duur van het contract, de zeggenschap over en het recht op exploitatie van bedoelde werken, alsook het recht om een vergoeding te vragen voor gebruik ervan;
 
-- –. „handelsgoederen of -diensten”: goederen of diensten die in de regel op de markt worden verkocht of te koop worden aangeboden aan, en in de regel worden aangekocht door, niet-overheidskopers voor niet-overheidsdoeleinden;
+- – „handelsgoederen of -diensten”: goederen of diensten die in de regel op de markt worden verkocht of te koop worden aangeboden aan, en in de regel worden aangekocht door, niet-overheidskopers voor niet-overheidsdoeleinden;
 
-- –. „dienst van de bouwnijverheid”: dienst die gericht is op de uitvoering, ongeacht op welke wijze, van civieltechnische of bouwkundige werken in de zin van afdeling 51 van de voorlopige centrale productclassificatie van de Verenigde Naties, hierna de „CPPC” genoemd;
+- – „dienst van de bouwnijverheid”: dienst die gericht is op de uitvoering, ongeacht op welke wijze, van civieltechnische of bouwkundige werken in de zin van afdeling 51 van de voorlopige centrale productclassificatie van de Verenigde Naties, hierna de „CPPC” genoemd;
 
-- –. „elektronische veiling”: een zich herhalend proces waarbij leveranciers langs elektronische weg nieuwe prijzen opgeven, of nieuwe waarden voor kwantificeerbare, niet op de prijs betrekking hebbende en met de evaluatiecriteria samenhangende onderdelen van de inschrijving, of beide, en waardoor een rangorde van inschrijvingen tot stand komt of die rangorde wordt gewijzigd;
+- – „elektronische veiling”: een zich herhalend proces waarbij leveranciers langs elektronische weg nieuwe prijzen opgeven, of nieuwe waarden voor kwantificeerbare, niet op de prijs betrekking hebbende en met de evaluatiecriteria samenhangende onderdelen van de inschrijving, of beide, en waardoor een rangorde van inschrijvingen tot stand komt of die rangorde wordt gewijzigd;
 
-- –. „schriftelijk”: bij wijze van een informatie-eenheid die is uitgedrukt in woorden of cijfers en die kan worden gelezen, gereproduceerd en vervolgens doorgegeven. De term kan ook betrekking hebben op elektronisch doorgegeven en opgeslagen informatie;
+- – „schriftelijk”: bij wijze van een informatie-eenheid die is uitgedrukt in woorden of cijfers en die kan worden gelezen, gereproduceerd en vervolgens doorgegeven. De term kan ook betrekking hebben op elektronisch doorgegeven en opgeslagen informatie;
 
-- –. „onderhandse aanbesteding”: methode van aanbesteding waarbij de aanbestedende dienst een leverancier of leveranciers van zijn keuze aanzoekt;
+- – „onderhandse aanbesteding”: methode van aanbesteding waarbij de aanbestedende dienst een leverancier of leveranciers van zijn keuze aanzoekt;
 
-- –. „maatregel”: een wet, voorschrift, procedure, administratieve richtsnoer of praktijk, dan wel een handeling van een aanbestedende dienst, betreffende een onder deze titel vallende overheidsopdracht;
+- – „maatregel”: een wet, voorschrift, procedure, administratieve richtsnoer of praktijk, dan wel een handeling van een aanbestedende dienst, betreffende een onder deze titel vallende overheidsopdracht;
 
-- –. „lijst voor veelvuldig gebruik”: lijst van leveranciers die volgens een aanbestedende dienst voldoen aan de voorwaarden om op die lijst te worden geplaatst en van wie de aanbestedende dienst meer dan eens gebruik denkt te maken;
+- – „lijst voor veelvuldig gebruik”: lijst van leveranciers die volgens een aanbestedende dienst voldoen aan de voorwaarden om op die lijst te worden geplaatst en van wie de aanbestedende dienst meer dan eens gebruik denkt te maken;
 
-- –. „bericht van aanbesteding”: bekendmaking van een aanbestedende dienst waarin belangstellende leveranciers worden uitgenodigd een verzoek om deelname in te dienen, in te schrijven of beide;
+- – „bericht van aanbesteding”: bekendmaking van een aanbestedende dienst waarin belangstellende leveranciers worden uitgenodigd een verzoek om deelname in te dienen, in te schrijven of beide;
 
-- –. „bijzondere voorwaarde”: voorwaarde of verbintenis die de plaatselijke ontwikkeling aanmoedigt of de betalingsbalans van een partij verbetert, bijvoorbeeld betreffende het gebruik van binnenlandse producten, het in licentie geven van technologie, investeringen, compenserende handel en vergelijkbare maatregelen of vereisten;
+- – „bijzondere voorwaarde”: voorwaarde of verbintenis die de plaatselijke ontwikkeling aanmoedigt of de betalingsbalans van een partij verbetert, bijvoorbeeld betreffende het gebruik van binnenlandse producten, het in licentie geven van technologie, investeringen, compenserende handel en vergelijkbare maatregelen of vereisten;
 
-- –. „openbare aanbesteding”: methode van aanbesteding waarbij alle belangstellende leveranciers kunnen inschrijven;
+- – „openbare aanbesteding”: methode van aanbesteding waarbij alle belangstellende leveranciers kunnen inschrijven;
 
-- –. „aanbestedende dienst”: dienst van een partij die in de lijst in aanhangsel 1 van bijlage XII (Overheidsopdrachten) staat vermeld;
+- – „aanbestedende dienst”: dienst van een partij die in de lijst in [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) staat vermeld;
 
-- –. „erkende leverancier”: leverancier die door een aanbestedende dienst is erkend als leverancier die aan de voorwaarden voor deelname voldoet;
+- – „erkende leverancier”: leverancier die door een aanbestedende dienst is erkend als leverancier die aan de voorwaarden voor deelname voldoet;
 
-- –. „aanbesteding met voorafgaande selectie”: methode van aanbesteding waarbij de aanbestedende dienst uitsluitend erkende leveranciers tot inschrijven uitnodigt;
+- – „aanbesteding met voorafgaande selectie”: methode van aanbesteding waarbij de aanbestedende dienst uitsluitend erkende leveranciers tot inschrijven uitnodigt;
 
-- –. „diensten”: alle diensten, met inbegrip van diensten van de bouwnijverheid, tenzij anders bepaald;
+- – „diensten”: alle diensten, met inbegrip van diensten van de bouwnijverheid, tenzij anders bepaald;
 
-- –. „technische specificatie”: vereiste in een aanbestedingsprocedure ten aanzien van:
+- – „technische specificatie”: vereiste in een aanbestedingsprocedure ten aanzien van:
 
-- a. de kenmerken waaraan de aan te schaffen goederen of diensten moeten voldoen, zoals kwaliteit, prestaties, veiligheid en afmetingen, of vereisten betreffende productie- of leveringsprocessen en -methoden;
+   - a. de kenmerken waaraan de aan te schaffen goederen of diensten moeten voldoen, zoals kwaliteit, prestaties, veiligheid en afmetingen, of vereisten betreffende productie- of leveringsprocessen en -methoden;
 
-- b. de terminologie en symbolen die in verband met een product of dienst moeten worden gebruikt en eventuele verpakkings-, markerings- of etiketteringeisen.
+   - b. de terminologie en symbolen die in verband met een product of dienst moeten worden gebruikt en eventuele verpakkings-, markerings- of etiketteringeisen.
 
 ##### Artikel 173. Toepassingsgebied
 
 1. Deze titel is van toepassing op alle door een partij vastgestelde maatregelen die betrekking hebben op overheidsopdrachten die onder deze titel vallen.
 
-2. Voor de toepassing van deze titel wordt verstaan onder „overheidsopdrachten die onder deze titel vallen”: de aanschaf voor overheidsdoeleinden van goederen, diensten of een combinatie daarvan, zoals voor elke partij is gespecificeerd in aanhangsel 1 van bijlage XII (Overheidsopdrachten), die aan volgende voorwaarden voldoen:
+2. Voor de toepassing van deze titel wordt verstaan onder „overheidsopdrachten die onder deze titel vallen”: de aanschaf voor overheidsdoeleinden van goederen, diensten of een combinatie daarvan, zoals voor elke partij is gespecificeerd in [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten), die aan volgende voorwaarden voldoen:
 
 - a. zij worden niet aangeschaft voor commerciële verkoop of wederverkoop of voor gebruik bij de productie of levering van goederen of diensten voor commerciële verkoop of wederverkoop;
 
 - b. zij worden door middel van een contract aangeschaft, waaronder koop-, huurkoop-, lease- of huurcontracten, met of zonder koopoptie, BOT-contracten en concessieovereenkomsten voor openbare werken;
 
-- c. zij hebben op het moment van publicatie van het bericht van aanbesteding overeenkomstig [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=176&z=2024-11-01&g=2024-11-01), een waarde die gelijk is aan of hoger is dan de toepasselijke drempelwaarde die voor elke partij in aanhangsel 1 van bijlage XII (Overheidsopdrachten) is gespecificeerd;
+- c. zij hebben op het moment van publicatie van het bericht van aanbesteding overeenkomstig [artikel 176](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=176&z=2024-11-01&g=2024-11-01), een waarde die gelijk is aan of hoger is dan de toepasselijke drempelwaarde die voor elke partij in [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) is gespecificeerd;
 
 - d. zij worden aangeschaft door een aanbestedende dienst;
 
@@ -2576,17 +2455,17 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - e. opdrachten die worden aanbesteed:
 
-- i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
+   - i. met het specifieke doel internationale bijstand, met inbegrip van ontwikkelingshulp, te verlenen;
 
-- ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende:
+   - ii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale overeenkomst betreffende:
 
-- A. de legering van strijdkrachten; of
+      - A. de legering van strijdkrachten; of
 
-- B. de gezamenlijke uitvoering van een project door de landen bij partij zijn bij die overeenkomst;
+      - B. de gezamenlijke uitvoering van een project door de landen bij partij zijn bij die overeenkomst;
 
-- iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met deze titel.
+   - iii. in het kader van een bijzondere procedure of krachtens een bijzondere voorwaarde van een internationale organisatie, of gefinancierd door een internationale subsidie, lening of andere vorm van steun, wanneer die procedure of voorwaarde niet in overeenstemming is met deze titel.
 
-4. Elke partij verstrekt in de overeenkomstige subsecties van aanhangsel 1 van bijlage XII (Overheidsopdrachten) de volgende informatie:
+4. Elke partij verstrekt in de overeenkomstige subsecties van [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) de volgende informatie:
 
 - a. in subsectie 1, de centrale-overheidsdiensten waarvan de aanbestedingen onder deze titel vallen;
 
@@ -2602,7 +2481,9 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 - g. in subsectie 7, algemene aantekeningen.
 
-5. Wanneer een aanbestedende dienst voor onder deze titel vallende overheidsopdrachten van personen die niet vallen onder aanhangsel 1 van bijlage XII (Overheidsopdrachten) van een partij, verlangt dat zij bij het plaatsen van opdrachten bepaalde voorschriften in acht nemen, is [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=175&z=2024-11-01&g=2024-11-01) van overeenkomstige toepassing op die voorschriften.
+5. Wanneer een aanbestedende dienst voor onder deze titel vallende overheidsopdrachten van personen die niet vallen onder [aanhangsel 1 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) van een partij, verlangt dat zij bij het plaatsen van opdrachten bepaalde voorschriften in acht nemen, is [artikel 175](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=175&z=2024-11-01&g=2024-11-01) van overeenkomstige toepassing op die voorschriften.
+
+Waardebepaling
 
 6. Bij het ramen van de waarde van een overheidsopdracht om te bepalen of deze onder deze titel valt, splitst een aanbestedende dienst die opdracht niet in afzonderlijke opdrachten, noch kiest of gebruikt hij een bijzondere methode van om de waarde van de opdracht te ramen, teneinde deze geheel of gedeeltelijk buiten het toepassingsgebied van deze titel te laten vallen.
 
@@ -2644,9 +2525,15 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 - b. een plaatselijk gevestigde leverancier niet discrimineert op grond van het feit dat de goederen of diensten die door die leverancier voor een bepaalde opdracht worden aangeboden, afkomstig zijn van een andere partij.
 
+Verloop van de aanbesteding
+
 3. Een aanbestedende dienst ziet erop toe dat onder deze titel vallende overheidsopdrachten op transparante en onpartijdige wijze worden aanbesteed, zodat belangenconflicten en corruptie worden voorkomen.
 
+Aanbestedingsprocedures
+
 4. In overeenstemming met het bepaalde in deze titel maakt een aanbestedende dienst gebruik van methoden als openbare aanbesteding, aanbesteding met voorafgaande selectie en onderhandse aanbesteding overeenkomstig de op hem van toepassing zijnde interne wetgeving.
+
+Gebruik van elektronische middelen
 
 5. Wanneer een onder deze titel vallende overheidsopdracht wordt aanbesteed met gebruikmaking van elektronische middelen:
 
@@ -2654,9 +2541,15 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 - b. hanteert de aanbestedende dienst mechanismen die de integriteit van verzoeken om deelname en van inschrijvingen waarborgen, onder meer door het tijdstip van ontvangst te registreren en ongeoorloofde toegang te voorkomen.
 
+Oorsprongsregels
+
 6. Geen van de partijen past, voor onder deze titel vallende overheidsopdrachten, op goederen of diensten die uit een andere partij worden ingevoerd respectievelijk verleend, andere oorsprongsregels toe dan die welke op het moment van invoer of verlening in het kader van normale handelstransacties van toepassing zijn op de invoer van dezelfde goederen of de verlening van dezelfde diensten uit dezelfde partij.
 
-7. Behoudens de bepalingen van deze titel of de bijlage erbij, onthouden de partijen zich van (pogingen tot) het opleggen of handhaven van bijzondere voorwaarden en houden zij evenmin hiermee rekening.
+Bijzondere voorwaarden
+
+7. Behoudens de bepalingen van deze titel of de [bijlage](https://wetten.overheid.nl/BWBV0005911) erbij, onthouden de partijen zich van (pogingen tot) het opleggen of handhaven van bijzondere voorwaarden en houden zij evenmin hiermee rekening.
+
+Maatregelen die niet specifiek betrekking hebben op overheidsopdrachten
 
 8. De leden 1 en 2 zijn niet van toepassing op douanerechten en heffingen van ongeacht welke aard die bij invoer of in verband met invoer worden geïnd, noch op de wijze van inning van dergelijke rechten en heffingen, noch op andere invoerregelingen en -formaliteiten, noch op maatregelen die gevolgen hebben voor de handel in diensten andere dan maatregelen betreffende onder deze titel vallende overheidsopdrachten.
 
@@ -2668,19 +2561,23 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 - b. verstrekt andere partijen desgevraagd een toelichting op deze maatregelen;
 
-- c. vermeldt in aanhangsel 2 van bijlage XII (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de onder a) gespecificeerde informatie publiceert;
+- c. vermeldt in [aanhangsel 2 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de onder a) gespecificeerde informatie publiceert;
 
-- d. vermeldt in aanhangsel 3 van bijlage XII (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de ingevolge dit artikel, [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=177&z=2024-11-01&g=2024-11-01), [artikel 180, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=180&z=2024-11-01&g=2024-11-01), en [artikel 188, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=188&z=2024-11-01&g=2024-11-01), vereiste berichten publiceert.
+- d. vermeldt in [aanhangsel 3 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) de elektronische of gedrukte media waarin zij de ingevolge dit artikel, [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=177&z=2024-11-01&g=2024-11-01), [artikel 180, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=180&z=2024-11-01&g=2024-11-01), en [artikel 188, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=188&z=2024-11-01&g=2024-11-01), vereiste berichten publiceert.
 
-2. Elke partij stelt de andere partijen onverwijld in kennis van wijzigingen van de in aanhangsel 2 en 3 van bijlage XII (Overheidsopdrachten) door haar vermelde informatie.
+2. Elke partij stelt de andere partijen onverwijld in kennis van wijzigingen van de in [aanhangsel 2 en 3 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) door haar vermelde informatie.
 
 ##### Artikel 177. Publicatie van berichten
 
-1. Voor elke onder deze titel vallende overheidsopdracht publiceert de aanbestedende dienst, behalve in de omstandigheden beschreven in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=185&z=2024-11-01&g=2024-11-01), een bericht van aanbesteding in de media daarvoor, die staan vermeld in aanhangsel 3 van bijlage XII (Overheidsopdrachten). In elk van die berichten staat de in aanhangsel 4 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. De berichten zijn langs elektronische weg kosteloos beschikbaar via één toegangspunt.
+Bericht van aanbesteding
+
+1. Voor elke onder deze titel vallende overheidsopdracht publiceert de aanbestedende dienst, behalve in de omstandigheden beschreven in [artikel 185](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=185&z=2024-11-01&g=2024-11-01), een bericht van aanbesteding in de media daarvoor, die staan vermeld in [aanhangsel 3 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten). In elk van die berichten staat de in aanhangsel 4 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. De berichten zijn langs elektronische weg kosteloos beschikbaar via één toegangspunt.
+
+Aankondiging van geplande aanbestedingen
 
 2. Elke partij moedigt haar aanbestedende diensten aan de aanbestedingsplannen zo vroeg mogelijk in het begrotingsjaar aan te kondigen. De aankondiging dient het onderwerp van de overheidsopdracht en de geplande datum van publicatie van het bericht van aanbesteding te bevatten.
 
-3. Aanbestedende diensten die vermeld zijn in subsectie 3 van aanhangsel I van bijlage XII (Overheidsopdrachten) kunnen de aankondiging van geplande aanbestedingen als bericht van aanbesteding gebruiken, mits de aankondiging zoveel mogelijk van de in aanhangsel 4 van bijlage XII gespecificeerde informatie bevat, alsmede een verklaring dat leveranciers hun belangstelling voor de opdracht bij de aanbestedende dienst bekend kunnen maken.
+3. Aanbestedende diensten die vermeld zijn in [subsectie 3 van aanhangsel I van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) kunnen de aankondiging van geplande aanbestedingen als bericht van aanbesteding gebruiken, mits de aankondiging zoveel mogelijk van de in aanhangsel 4 van bijlage XII gespecificeerde informatie bevat, alsmede een verklaring dat leveranciers hun belangstelling voor de opdracht bij de aanbestedende dienst bekend kunnen maken.
 
 ##### Artikel 178. Voorwaarden voor deelname
 
@@ -2698,9 +2595,9 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 1. Wanneer een aanbestedende dienst een opdracht wil aanbesteden met voorafgaande selectie:
 
-- a. vermeldt de dienst in het bericht van aanbesteding ten minste de in aanhangsel 4 van bijlage XII (Overheidsopdrachten), onder a), b), d), e), h) en i) gespecificeerde informatie en nodigt hij leveranciers uit een verzoek om deelname in te dienen;
+- a. vermeldt de dienst in het bericht van aanbesteding ten minste de in [aanhangsel 4 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten), onder a), b), d), e), h) en i) gespecificeerde informatie en nodigt hij leveranciers uit een verzoek om deelname in te dienen;
 
-- b. verstrekt de dienst erkende leveranciers bij aanvang van de inschrijvingstermijn ten minste de in aanhangsel 4 van bijlage XII (Overheidsopdrachten), onder c), f) en g) gespecificeerde informatie.
+- b. verstrekt de dienst erkende leveranciers bij aanvang van de inschrijvingstermijn ten minste de in [aanhangsel 4 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten), onder c), f) en g) gespecificeerde informatie.
 
 2. Aanbestedende diensten beschouwen als erkend leverancier elke binnenlandse leverancier en elke leverancier van een andere partij die aan de voorwaarden voor deelname aan een specifieke aanbestedingsprocedure voldoet, tenzij de aanbestedende dienst in het bericht van aanbesteding een beperking stelt aan het aantal leveranciers dat mag inschrijven en de criteria voor de voorselectie vermeldt.
 
@@ -2708,7 +2605,7 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 ##### Artikel 180. Lijst voor veelvuldig gebruik60)Voor Colombia geldt dat voor de toepassing van lid 3 en lid 4, onder c), van dit artikel, in het geval van „concursos de méritos” de lijsten voor veelvuldig gebruik die maximaal een jaar geldig zijn, binnen een bepaalde termijn moeten worden vastgesteld, welke termijn door de aanbestedende dienst wordt bepaald. Zodra die termijn is verstreken, worden geen nieuwe leveranciers meer toegevoegd. Alleen leveranciers die op de lijst staan, mogen een offerte doen.
 
-1. Aanbestedende diensten mogen een lijst van leveranciers voor veelvuldig gebruik opstellen of bijhouden, mits zij jaarlijks een bericht publiceren waarin belangstellende leveranciers worden uitgenodigd plaatsing op de lijst aan te vragen en dit bericht in het geval van elektronische publicatie voortdurend beschikbaar is in de media daarvoor, die staan vermeld in aanhangsel 3 van bijlage XII (Overheidsopdrachten). Dit bericht bevat de in aanhangsel 5 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie.
+1. Aanbestedende diensten mogen een lijst van leveranciers voor veelvuldig gebruik opstellen of bijhouden, mits zij jaarlijks een bericht publiceren waarin belangstellende leveranciers worden uitgenodigd plaatsing op de lijst aan te vragen en dit bericht in het geval van elektronische publicatie voortdurend beschikbaar is in de media daarvoor, die staan vermeld in [aanhangsel 3 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten). Dit bericht bevat de in aanhangsel 5 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie.
 
 2. Wanneer een lijst voor veelvuldig gebruik een geldigheidsduur van drie jaar of minder heeft, hoeft de aanbestedende dienst, in afwijking van het bepaalde in lid 1, het in dat lid bedoelde bericht slechts eenmaal, bij aanvang van de geldigheidsduur van de lijst, te publiceren, mits in het bericht de geldigheidsduur van de lijst wordt vermeld en tijdens die periode geen verdere berichten worden gepubliceerd.
 
@@ -2716,9 +2613,9 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 4. Aanbestedende diensten kunnen een bericht waarbij leveranciers worden uitgenodigd een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik in te dienen, gebruiken als bericht van aanbesteding, mits:
 
-- a. het bericht gepubliceerd wordt overeenkomstig het bepaalde in lid 1 en de uit hoofde van aanhangsel 5 van bijlage XII (Overheidsopdrachten) vereiste informatie en zoveel mogelijk van de door aanhangsel 4 van bijlage XII (Overheidsopdrachten) vereiste informatie bevat, alsmede een verklaring dat het bericht als bericht van aanbesteding geldt;
+- a. het bericht gepubliceerd wordt overeenkomstig het bepaalde in lid 1 en de uit hoofde van [aanhangsel 5 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) vereiste informatie en zoveel mogelijk van de door aanhangsel 4 van bijlage XII (Overheidsopdrachten) vereiste informatie bevat, alsmede een verklaring dat het bericht als bericht van aanbesteding geldt;
 
-- b. de aanbestedende dienst leveranciers die bij hem blijk hebben gegeven van belangstelling voor een bepaalde opdracht, onverwijld voldoende informatie verstrekt om hen in staat te stellen te beoordelen of de opdracht voor hen interessant is, alsmede alle overige uit hoofde van aanhangsel 4 van bijlage XII (Overheidsopdrachten) vereiste informatie, voor zover beschikbaar;
+- b. de aanbestedende dienst leveranciers die bij hem blijk hebben gegeven van belangstelling voor een bepaalde opdracht, onverwijld voldoende informatie verstrekt om hen in staat te stellen te beoordelen of de opdracht voor hen interessant is, alsmede alle overige uit hoofde van [aanhangsel 4 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) vereiste informatie, voor zover beschikbaar;
 
 - c. een leverancier die overeenkomstig lid 3 een aanvraag tot plaatsing op een lijst voor veelvuldig gebruik heeft ingediend, op een bepaalde aanbesteding mag inschrijven zolang de aanbestedende dienst voldoende tijd heeft om te onderzoeken of de leverancier aan de voorwaarden voor deelname voldoet.
 
@@ -2746,7 +2643,7 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 ##### Artikel 182. Aanbestedingsdossier
 
-1. Een aanbestedende dienst verstrekt leveranciers een aanbestedingsdossier met alle informatie die zij nodig hebben om een geldige inschrijving op te stellen en in te dienen. Dit dossier bevat een volledige beschrijving van de in aanhangsel 8 van bijlage XII (Overheidsopdrachten) vermelde vereisten, tenzij deze reeds in het bericht van aanbesteding zijn vermeld.
+1. Een aanbestedende dienst verstrekt leveranciers een aanbestedingsdossier met alle informatie die zij nodig hebben om een geldige inschrijving op te stellen en in te dienen. Dit dossier bevat een volledige beschrijving van de in [aanhangsel 8 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten) vermelde vereisten, tenzij deze reeds in het bericht van aanbesteding zijn vermeld.
 
 2. De aanbestedende dienst beantwoordt onverwijld elk redelijk verzoek om relevante informatie van een leverancier die aan de aanbestedingsprocedure deelneemt, mits die informatie de leverancier niet bevoordeelt ten opzichte van zijn mededingers in de procedure voor de gunning van de opdracht.
 
@@ -2758,7 +2655,7 @@ Mits maatregelen niet zodanig worden toegepast dat zij een middel tot willekeuri
 
 ##### Artikel 183. Termijnen
 
-Een aanbestedende dienst geeft, overeenkomstig zijn eigen redelijke behoeften, leveranciers voldoende tijd om verzoeken om deelname en geldige inschrijvingen op te stellen en in te dienen, waarbij rekening wordt gehouden met factoren als de aard en complexiteit van de opdracht, de omvang van de verwachte onderaanneming en de normale verzendingsduur van inschrijvingen uit het buitenland en binnen het eigen land wanneer geen gebruik wordt gemaakt van elektronische middelen. De toepasselijke termijnen zijn vermeld in aanhangsel 6 van bijlage XII (Overheidsopdrachten).
+Een aanbestedende dienst geeft, overeenkomstig zijn eigen redelijke behoeften, leveranciers voldoende tijd om verzoeken om deelname en geldige inschrijvingen op te stellen en in te dienen, waarbij rekening wordt gehouden met factoren als de aard en complexiteit van de opdracht, de omvang van de verwachte onderaanneming en de normale verzendingsduur van inschrijvingen uit het buitenland en binnen het eigen land wanneer geen gebruik wordt gemaakt van elektronische middelen. De toepasselijke termijnen zijn vermeld in [aanhangsel 6 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten).
 
 ##### Artikel 184. Onderhandelingen
 
@@ -2776,25 +2673,25 @@ Een aanbestedende dienst geeft, overeenkomstig zijn eigen redelijke behoeften, l
 
 ##### Artikel 185. Onderhandse aanbesteding
 
-Een aanbestedende dienst mag alleen in onderstaande situaties gebruikmaken van een onderhandse aanbesteding en besluiten de artikelen 177 tot en met 180, 182 tot en met 184, [186](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=186&z=2024-11-01&g=2024-11-01) en [187](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=187&z=2024-11-01&g=2024-11-01) niet toe te passen:
+Een aanbestedende dienst mag alleen in onderstaande situaties gebruikmaken van een onderhandse aanbesteding en besluiten de [artikelen 177 tot en met 180](https://wetten.overheid.nl/BWBR0011446), [182 tot en met 184](https://wetten.overheid.nl/BWBR0011446), [186](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=186&z=2024-11-01&g=2024-11-01) en [187](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=187&z=2024-11-01&g=2024-11-01) niet toe te passen:
 
 - a. wanneer mits de vereisten van het aanbestedingsdossier niet wezenlijk worden gewijzigd;
 
-- i. geen inschrijvingen zijn ingediend of geen leveranciers om deelname hebben verzocht;
+   - i. geen inschrijvingen zijn ingediend of geen leveranciers om deelname hebben verzocht;
 
-- ii. geen inschrijvingen zijn ingediend die aan de essentiële vereisten van het aanbestedingsdossier voldoen;
+   - ii. geen inschrijvingen zijn ingediend die aan de essentiële vereisten van het aanbestedingsdossier voldoen;
 
-- iii. geen leveranciers aan de voorwaarden voor deelname voldoen; of
+   - iii. geen leveranciers aan de voorwaarden voor deelname voldoen; of
 
-- iv. de ingediende inschrijvingen onderling zijn afgestemd,
+   - iv. de ingediende inschrijvingen onderling zijn afgestemd,
 
 - b. wanneer de goederen of diensten alleen door een bepaalde leverancier kunnen worden geleverd en er geen redelijk alternatief of substituut bestaat, omdat de opdracht een kunstwerk betreft, vanwege de bescherming van octrooien, auteursrechten of andere exclusieve rechten, of vanwege het ontbreken van concurrentie om technische redenen, zoals bij de aanbesteding van persoonsgebonden diensten;
 
 - c. voor aanvullende leveringen door de oorspronkelijke leverancier van goederen of diensten die niet in de oorspronkelijke opdracht waren opgenomen, wanneer verandering van leverancier voor die aanvullende goederen of diensten:
 
-- i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd;
+   - i. niet mogelijk is om economische of technische redenen, zoals wanneer de aanvullende goederen of diensten uitwisselbaar of interoperabel moeten zijn met bestaande uitrusting, software, diensten of installaties die in het kader van de oorspronkelijke opdracht zijn geleverd;
 
-- ii. tot aanzienlijk ongemak of een aanzienlijke toename van de kosten zou leiden voor de aanbestedende dienst;
+   - ii. tot aanzienlijk ongemak of een aanzienlijke toename van de kosten zou leiden voor de aanbestedende dienst;
 
 - d. in strikt noodzakelijke gevallen, wanneer de goederen of diensten om uiterst dringende redenen, wegens gebeurtenissen die door de aanbestedende dienst niet konden worden voorzien, niet tijdig kunnen worden verkregen door middel van een openbare aanbesteding of een aanbesteding met voorafgaande selectie;
 
@@ -2830,9 +2727,9 @@ Wanneer een aanbestedende dienst een onder deze titel vallende opdracht wil aanb
 
 1. Een aanbestedende dienst stelt de deelnemende leveranciers onverwijld in kennis van besluiten aangaande de gunning van een opdracht en doet dat desgevraagd schriftelijk. Behoudens het bepaalde in [artikel 189, leden 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VI&artikel=189&z=2024-11-01&g=2024-11-01), stelt een aanbestedende dienst een afgewezen leverancier op diens verzoek in kennis van de redenen voor de afwijzing en van de relatieve voordelen van de gekozen inschrijving.
 
-2. Uiterlijk 72 dagen na de gunning van een onder deze titel vallende opdracht publiceert de aanbestedende dienst in het daarvoor geschikte gedrukte of elektronische medium dat staat vermeld in aanhangsel 2 van bijlage XII (Overheidsopdrachten), een gunningsbericht met daarin ten minste de in aanhangsel 7 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. Wanneer alleen gebruik wordt gemaakt van een elektronisch medium, moet de informatie gedurende een redelijke termijn gemakkelijk toegankelijk blijven.
+2. Uiterlijk 72 dagen na de gunning van een onder deze titel vallende opdracht publiceert de aanbestedende dienst in het daarvoor geschikte gedrukte of elektronische medium dat staat vermeld in [aanhangsel 2 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten), een gunningsbericht met daarin ten minste de in aanhangsel 7 van bijlage XII (Overheidsopdrachten) gespecificeerde informatie. Wanneer alleen gebruik wordt gemaakt van een elektronisch medium, moet de informatie gedurende een redelijke termijn gemakkelijk toegankelijk blijven.
 
-3. Een aanbestedende dienst maakt verslag op van en houdt documentatie bij over de aanbestedingsprocedures voor onder deze titel vallende opdrachten, inclusief de verslagen als bedoeld in aanhangsel 7 van bijlage XII (Overheidsopdrachten), en bewaart die verslagen en documentatie gedurende ten minste drie jaar, te rekenen vanaf de datum waarop de opdracht wordt gegund.
+3. Een aanbestedende dienst maakt verslag op van en houdt documentatie bij over de aanbestedingsprocedures voor onder deze titel vallende opdrachten, inclusief de verslagen als bedoeld in [aanhangsel 7 van bijlage XII](https://wetten.overheid.nl/BWBV0005911) (Overheidsopdrachten), en bewaart die verslagen en documentatie gedurende ten minste drie jaar, te rekenen vanaf de datum waarop de opdracht wordt gegund.
 
 ##### Artikel 189. Bekendmaking van informatie
 
@@ -2948,7 +2845,7 @@ moet die andere partij binnen dertig dagen na ontvangst van de in lid 1 bedoelde
 
 3. Het subcomité Overheidsopdrachten komt op verzoek van een partij bijeen op een door de partijen overeengekomen plaats en datum en brengt schriftelijk verslag uit van zijn vergaderingen.
 
-## TITEL VII. INTELLECTUELE EIGENDOM
+### TITEL VII. INTELLECTUELE EIGENDOM
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
@@ -3054,15 +2951,15 @@ Het staat elke partij vrij om, behoudens het bepaalde in de [TRIPs-overeenkomst]
 
 ### HOOFDSTUK 3. BEPALINGEN BETREFFENDE INTELLECTUELE-EIGENDOMSRECHTEN
 
-### AFDELING 1. HANDELSMERKEN
+#### AFDELING 1. HANDELSMERKEN
 
 ##### Artikel 202. Internationale overeenkomsten
 
 1. De partijen houden zich aan de rechten en verplichtingen die voortvloeien uit het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) en de [TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC).
 
-2. De Europese Unie en Colombia treden binnen tien jaar na de ondertekening van deze overeenkomst toe tot het [Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken](https://wetten.overheid.nl/jci1.3:c:BWBV0003002) dat op 27 juni 1989 in Madrid is aangenomen, hierna het „Protocol van Madrid” genoemd. Peru en Ecuador stellen, binnen redelijke grenzen, alles in het werk om toe te treden tot het Protocol van Madrid.
+2. De Europese Unie en Colombia treden binnen tien jaar na de ondertekening van deze overeenkomst toe tot het [Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken](https://wetten.overheid.nl/jci1.3:c:BWBV0003002) dat op 27 juni 1989 in Madrid is aangenomen, hierna het „Protocol van Madrid” genoemd. Peru en Ecuador stellen, binnen redelijke grenzen, alles in het werk om toe te treden tot het Protocol van Madrid.
 
-3. De Europese Unie en Peru stellen, binnen redelijke grenzen, alles in het werk om te voldoen aan het [Verdrag inzake het merkenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0001253) dat op 27 oktober 1994 in Genève werd aangenomen, hierna het „Verdrag inzake het merkenrecht” genoemd. Colombia en Ecuador stellen, binnen redelijke grenzen, alles in het werk om toe te treden tot het Verdrag inzake het merkenrecht.
+3. De Europese Unie en Peru stellen, binnen redelijke grenzen, alles in het werk om te voldoen aan het [Verdrag inzake het merkenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0001253) dat op 27 oktober 1994 in Genève werd aangenomen, hierna het „Verdrag inzake het merkenrecht” genoemd. Colombia en Ecuador stellen, binnen redelijke grenzen, alles in het werk om toe te treden tot het Verdrag inzake het merkenrecht.
 
 ##### Artikel 203. Voorwaarden voor registratie
 
@@ -3084,7 +2981,7 @@ De partijen werken samen met het oog op een effectieve bescherming van bekende h
 
 2. Elke partij voorziet bovendien in beperkte uitzonderingen waarin het handelsmerk mag worden gebruikt wanneer dat nodig is om het beoogde doel van een product of dienst aan te geven, met name als toebehoren of reserveonderdeel, mits het handelsmerk wordt gebruikt overeenkomstig eerlijke industriële of handelspraktijken.
 
-### AFDELING 2. GEOGRAFISCHE AANDUIDINGEN
+#### AFDELING 2. GEOGRAFISCHE AANDUIDINGEN
 
 ##### Artikel 207. Toepassingsgebied van deze afdeling
 
@@ -3094,9 +2991,9 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 - b. geografische aanduidingen van een partij die door een andere partij moeten worden beschermd, vallen uitsluitend onder deze titel indien ze in het land van oorsprong als zodanig worden erkend en vermeld staan;
 
-- c. elke partij beschermt vanaf de inwerkingtreding van deze overeenkomst in overeenstemming met de in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) bedoelde procedures geografische aanduidingen voor landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen);
+- c. elke partij beschermt vanaf de inwerkingtreding van deze overeenkomst in overeenstemming met de in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) bedoelde procedures geografische aanduidingen voor landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen);
 
-- d. geografische aanduidingen voor producten andere dan landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) kunnen worden beschermd overeenkomstig de wet- en regelgeving die in elke partij van toepassing is. De partijen erkennen dat de geografische aanduidingen in aanhangsel 2 van bijlage XIII (Lijsten van geografische aanduidingen) worden beschermd als geografische aanduidingen in het land van oorsprong;
+- d. geografische aanduidingen voor producten andere dan landbouwproducten en levensmiddelen, wijnen, gedistilleerde dranken en gearomatiseerde wijnen die worden genoemd in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) kunnen worden beschermd overeenkomstig de wet- en regelgeving die in elke partij van toepassing is. De partijen erkennen dat de geografische aanduidingen in aanhangsel 2 van bijlage XIII (Lijsten van geografische aanduidingen) worden beschermd als geografische aanduidingen in het land van oorsprong;
 
 - e. het gebruik66)Voor de toepassing van dit punt wordt onder gebruik verstaan de productie en/of verwerking en/of bereiding van het door de geografische aanduiding geïdentificeerde product. van geografische aanduidingen met betrekking tot producten die van oorsprong zijn uit het grondgebied van een partij, is uitsluitend voorbehouden aan producenten, fabrikanten of ambachtslieden met productie- of fabricagevestigingen in de door die aanduiding geïdentificeerde of voor de geest geroepen plaats of regio binnen de partij;
 
@@ -3108,29 +3005,29 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 ##### Artikel 208. Vaststelling van geografische aanduidingen
 
-1. Nadat een bezwaarprocedure is afgerond en de geografische aanduidingen van de Europese Unie in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) die door de EU zijn geregistreerd, zijn onderzocht, beschermen de overeenkomstsluitende Andeslanden die geografische aanduidingen overeenkomstig het in deze afdeling vastgelegde beschermingsniveau.
+1. Nadat een bezwaarprocedure is afgerond en de geografische aanduidingen van de Europese Unie in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) die door de EU zijn geregistreerd, zijn onderzocht, beschermen de overeenkomstsluitende Andeslanden die geografische aanduidingen overeenkomstig het in deze afdeling vastgelegde beschermingsniveau.
 
-2. Nadat een bezwaarprocedure is afgerond en de geografische aanduidingen van een overeenkomstsluitend Andesland in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) die door dat overeenkomstsluitende Andesland zijn geregistreerd, zijn onderzocht, beschermt de EU die geografische aanduidingen overeenkomstig het in deze afdeling vastgelegde beschermingsniveau.
+2. Nadat een bezwaarprocedure is afgerond en de geografische aanduidingen van een overeenkomstsluitend Andesland in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) die door dat overeenkomstsluitende Andesland zijn geregistreerd, zijn onderzocht, beschermt de EU die geografische aanduidingen overeenkomstig het in deze afdeling vastgelegde beschermingsniveau.
 
 ##### Artikel 209. Toevoeging van nieuwe geografische aanduidingen
 
-1. De partijen komen overeen dat nieuwe geografische aanduidingen kunnen worden toegevoegd aan aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) nadat de bezwaarprocedure is afgerond en nadat de geografische aanduidingen zoals bedoeld in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) zijn onderzocht.
+1. De partijen komen overeen dat nieuwe geografische aanduidingen kunnen worden toegevoegd aan [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) nadat de bezwaarprocedure is afgerond en nadat de geografische aanduidingen zoals bedoeld in [artikel 208](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=208&z=2024-11-01&g=2024-11-01) zijn onderzocht.
 
-2. Een partij die een nieuwe geografische aanduiding wenst toe te voegen aan haar lijst in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) dient binnen het kader van het subcomité Intellectuele eigendom bij een andere partij een verzoek daartoe in.
+2. Een partij die een nieuwe geografische aanduiding wenst toe te voegen aan haar lijst in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) dient binnen het kader van het subcomité Intellectuele eigendom bij een andere partij een verzoek daartoe in.
 
 3. De datum van het verzoek om bescherming is de datum waarop het verzoek aan een andere partij wordt verstuurd. Deze informatie-uitwisseling geschiedt in het kader van het subcomité Intellectuele eigendom.
 
 ##### Artikel 210. Toepassingsgebied van de bescherming van geografische aanduidingen
 
-1. De geografische aanduidingen van een partij in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen), en de aanduidingen die krachtens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) zijn toegevoegd, worden door een andere partij ten minste beschermd tegen:
+1. De geografische aanduidingen van een partij in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen), en de aanduidingen die krachtens [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) zijn toegevoegd, worden door een andere partij ten minste beschermd tegen:
 
 - a. commercieel gebruik van een dergelijke beschermde geografische aanduiding:
 
-- i. voor identieke of soortgelijke producten die niet voldoen aan de productspecificatie van de geografische aanduiding; of
+   - i. voor identieke of soortgelijke producten die niet voldoen aan de productspecificatie van de geografische aanduiding; of
 
-- ii. voor zover dit gebruik de reputatie van de geografische aanduiding exploiteert;
+   - ii. voor zover dit gebruik de reputatie van de geografische aanduiding exploiteert;
 
-- b. overig niet-geautoriseerd gebruik67)De term niet-geautoriseerd gebruik kan misbruik, imitatie of evocatie omvatten. van verwarring scheppende geografische aanduidingen andere dan die voor wijnen, gearomatiseerde wijnen of gedistilleerde dranken, zelfs wanneer de naam vergezeld gaat van voor de consument verwarrende aanduidingen als stijl, type, imitatie en dergelijke; onverminderd dit punt breidt een partij, indien zij haar wetgeving wijzigt teneinde geografische aanduidingen andere dan die voor wijnen, gearomatiseerde wijnen en gedistilleerde dranken meer te beschermen dan in deze overeenkomst is vastgelegd, die bescherming uit tot de geografische aanduidingen in aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen);
+- b. overig niet-geautoriseerd gebruik67)De term niet-geautoriseerd gebruik kan misbruik, imitatie of evocatie omvatten. van verwarring scheppende geografische aanduidingen andere dan die voor wijnen, gearomatiseerde wijnen of gedistilleerde dranken, zelfs wanneer de naam vergezeld gaat van voor de consument verwarrende aanduidingen als stijl, type, imitatie en dergelijke; onverminderd dit punt breidt een partij, indien zij haar wetgeving wijzigt teneinde geografische aanduidingen andere dan die voor wijnen, gearomatiseerde wijnen en gedistilleerde dranken meer te beschermen dan in deze overeenkomst is vastgelegd, die bescherming uit tot de geografische aanduidingen in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen);
 
 - c. wat geografische aanduidingen voor wijnen, gearomatiseerde wijnen of gedistilleerde dranken betreft, ten minste, voor producten van deze soort, wederrechtelijk, imiterend of suggestief gebruik, zelfs wanneer de werkelijke oorsprong van het product wordt vermeld of wanneer de geografische aanduiding in vertaling wordt gebruikt of vergezeld gaat van een formulering waarin een woord als „soort”, „type”, „methode” „zoals geproduceerd in”, „imitatie”, „smaak”, „-achtig” en dergelijke voorkomt;
 
@@ -3150,7 +3047,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 ##### Artikel 212. Algemene bepalingen
 
-1. De partijen kunnen in het subcomité Intellectuele eigendom aanvullende informatie uitwisselen over de technische specificaties van de producten die worden beschermd door de geografische aanduidingen in aanhangsel 1 van bijlage XIII (Lijst van geografische aanduidingen). Verder kunnen de partijen de uitwisseling van informatie over de controleorganen op hun grondgebied vergemakkelijken.
+1. De partijen kunnen in het subcomité Intellectuele eigendom aanvullende informatie uitwisselen over de technische specificaties van de producten die worden beschermd door de geografische aanduidingen in [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van geografische aanduidingen). Verder kunnen de partijen de uitwisseling van informatie over de controleorganen op hun grondgebied vergemakkelijken.
 
 2. Niets in deze afdeling verplicht een partij tot bescherming van een geografische aanduiding die niet of niet meer in het land van oorsprong wordt beschermd. De partij die het oorspronkelijke grondgebied is van een geografische aanduiding stelt de andere partijen ervan in kennis wanneer die geografische aanduiding niet langer in het land van oorsprong wordt beschermd.
 
@@ -3166,7 +3063,7 @@ Met betrekking tot de erkenning en bescherming van geografische aanduidingen die
 
 Deze afdeling laat de rechten die de partijen al in vrijhandelsovereenkomsten met derde landen hebben erkend, onverlet.
 
-### AFDELING 3. AUTEURSRECHTEN EN NABURIGE RECHTEN
+#### AFDELING 3. AUTEURSRECHTEN EN NABURIGE RECHTEN
 
 ##### Artikel 215. Geboden bescherming
 
@@ -3214,9 +3111,9 @@ De partijen erkennen het belang van maatschappijen voor collectief beheer voor a
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
-- –. „uitzending”: de draadloze transmissie van geluiden of van beelden en geluiden of van de weergaven daarvan voor ontvangst door het publiek; een dergelijke transmissie via satelliet wordt ook onder „uitzending” begrepen; de transmissie van gecodeerde signalen geldt als „uitzending” wanneer de middelen voor decodering aan het publiek worden geleverd door of met toestemming van de omroeporganisatie;
+- – „uitzending”: de draadloze transmissie van geluiden of van beelden en geluiden of van de weergaven daarvan voor ontvangst door het publiek; een dergelijke transmissie via satelliet wordt ook onder „uitzending” begrepen; de transmissie van gecodeerde signalen geldt als „uitzending” wanneer de middelen voor decodering aan het publiek worden geleverd door of met toestemming van de omroeporganisatie;
 
-- –. „mededeling aan het publiek” van een uitvoering of een fonogram: de overdracht aan het publiek door elk medium anders dan door uitzending, van geluiden van een uitvoering of de op een fonogram vastgelegde geluiden of weergaven van geluiden. Voor de toepassing van lid 3 wordt onder mededeling aan het publiek ook verstaan het voor het publiek hoorbaar maken van de op een fonogram vastgelegde geluiden of weergaven van geluiden.
+- – „mededeling aan het publiek” van een uitvoering of een fonogram: de overdracht aan het publiek door elk medium anders dan door uitzending, van geluiden van een uitvoering of de op een fonogram vastgelegde geluiden of weergaven van geluiden. Voor de toepassing van lid 3 wordt onder mededeling aan het publiek ook verstaan het voor het publiek hoorbaar maken van de op een fonogram vastgelegde geluiden of weergaven van geluiden.
 
 2. Uitvoerende kunstenaars hebben met betrekking tot hun uitvoeringen het exclusieve recht om toestemming te verlenen voor:
 
@@ -3258,7 +3155,7 @@ De partijen leven het bepaalde in [artikel 12 van het WCT](https://wetten.overhe
 
 2. Het in lid 1 bedoelde recht geldt overeenkomstig de interne wetgeving voor elke wederverkoop door middel van veilingen of via kunsthandelaren, zoals veilinglokalen, kunstgalerijen of andere kunsthandelaren.
 
-### AFDELING 4. MODELLEN
+#### AFDELING 4. MODELLEN
 
 ##### Artikel 224. Internationale overeenkomsten
 
@@ -3294,11 +3191,11 @@ De duur van de bescherming van een model van nijverheid bedraagt ten minste tien
 
 Het voorwerp van bescherming door een modelrecht kan bescherming genieten krachtens de auteursrechtenwetgeving, indien aan de voorwaarden voor een dergelijke bescherming wordt voldaan. Elke partij bepaalt de mate waarin en de voorwaarden waaronder een dergelijke bescherming wordt toegekend, inclusief de vereiste mate van originaliteit.
 
-### AFDELING 5. OCTROOIEN
+#### AFDELING 5. OCTROOIEN
 
 ##### Artikel 230
 
-1. De partijen houden zich aan de [artikelen 2 tot en met 9 van het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](onbekend) van 28 april 1977, dat op 26 september 1980 is gewijzigd.
+1. De partijen houden zich aan de artikelen 2 tot en met 9 van het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening van 28 april 1977, dat op 26 september 1980 is gewijzigd.
 
 2. De Europese Unie stelt, binnen redelijke grenzen, alles in het werk om te voldoen aan het [Verdrag inzake octrooirecht](https://wetten.overheid.nl/jci1.3:c:BWBV0004818), dat op 1 juni 2000 in Genève is gesloten, hierna het „PLT” genoemd. De overeenkomstsluitende Andeslanden stellen, binnen redelijke grenzen, alles in het werk om tot het PLT toe te treden.
 
@@ -3306,7 +3203,7 @@ Het voorwerp van bescherming door een modelrecht kan bescherming genieten kracht
 
 4. Met betrekking tot onder een octrooi vallende farmaceutisch producten kan elke partij in overeenstemming met haar interne wetgeving een mechanisme beschikbaar stellen om de octrooihouder te compenseren voor onredelijke verkorting van het geldende octrooi als gevolg van de eerste vergunning voor het in de handel brengen van dat product in die partij. Een dergelijk mechanisme verleent alle exclusieve rechten van een octrooi behoudens dezelfde beperkingen en uitzonderingen die van toepassing waren op het oorspronkelijke octrooi.
 
-### AFDELING 6. BESCHERMING VAN GEGEVENS VAN BEPAALDE GEREGULEERDE PRODUCTEN
+#### AFDELING 6. BESCHERMING VAN GEGEVENS VAN BEPAALDE GEREGULEERDE PRODUCTEN
 
 ##### Artikel 231
 
@@ -3326,13 +3223,13 @@ Het voorwerp van bescherming door een modelrecht kan bescherming genieten kracht
 
 6. Overeenkomstig de bepalingen van [artikel 197, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=1&artikel=197&z=2024-11-01&g=2024-11-01), belet de in dit artikel bedoelde bescherming een partij niet om maatregelen te treffen als reactie op het misbruik van intellectuele-eigendomsrechten of praktijken die de handel onredelijk belemmeren.
 
-### AFDELING 7. KWEKERSRECHTEN
+#### AFDELING 7. KWEKERSRECHTEN
 
 ##### ARTIKEL 232
 
-De partijen werken samen om de bescherming van kwekersrechten op basis van het [Internationaal Verdrag tot bescherming van kweekproducten](https://wetten.overheid.nl/jci1.3:c:BWBV0002685), hierna het „UPOV-verdrag” genoemd, zoals herzien op 19 maart 1991(72b)Op het moment van de ondertekening van het protocol van toetreding tot deze overeenkomst, om rekening te houden met de toetreding van Ecuador, is het Internationaal Verdrag tot bescherming van kweekproducten van 2 december 1961, zoals herzien op 23 oktober 1978, van kracht in Ecuador., te bevorderen en te waarborgen, inclusief de facultatieve uitzondering op het kwekersrecht als bedoeld in [artikel 15, lid 2, van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002685&artikel=15).
+De partijen werken samen om de bescherming van kwekersrechten op basis van het [Internationaal Verdrag tot bescherming van kweekproducten](https://wetten.overheid.nl/jci1.3:c:BWBV0002685), hierna het „UPOV-verdrag” genoemd, zoals herzien op 19 maart 1991(72b)Op het moment van de ondertekening van het protocol van toetreding tot deze overeenkomst, om rekening te houden met de toetreding van Ecuador, is het Internationaal Verdrag tot bescherming van kweekproducten van 2 december 1961, zoals herzien op 23 oktober 1978, van kracht in Ecuador., te bevorderen en te waarborgen, inclusief de facultatieve uitzondering op het kwekersrecht als bedoeld in [artikel 15, lid 2, van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002685&artikel=15).
 
-### AFDELING 8. ONEERLIJKE CONCURRENTIE
+#### AFDELING 8. ONEERLIJKE CONCURRENTIE
 
 ##### Artikel 233
 
@@ -3342,7 +3239,7 @@ De partijen werken samen om de bescherming van kwekersrechten op basis van het [
 
 ### HOOFDSTUK 4. HANDHAVING VAN INTELLECTUELE-EIGENDOMSRECHTEN
 
-### AFDELING 1. ALGEMENE BEPALINGEN
+#### AFDELING 1. ALGEMENE BEPALINGEN
 
 ##### Artikel 234
 
@@ -3354,7 +3251,7 @@ De partijen werken samen om de bescherming van kwekersrechten op basis van het [
 
 4. Dit hoofdstuk schept voor de partijen geen verplichting om een rechtsstelsel in te stellen voor de handhaving van intellectuele-eigendomsrechten naast dat voor de rechtshandhaving in het algemeen, noch schept het een verplichting met betrekking tot de verdeling van middelen voor de handhaving van intellectuele-eigendomsrechten en de rechtshandhaving in het algemeen.
 
-### AFDELING 2. CIVIELE EN ADMINISTRATIEVE RECHTSMIDDELEN EN PROCEDURES
+#### AFDELING 2. CIVIELE EN ADMINISTRATIEVE RECHTSMIDDELEN EN PROCEDURES
 
 ##### Artikel 235
 
@@ -3468,7 +3365,7 @@ Voor zover een civiel rechtsmiddel kan worden gelast als gevolg van een administ
 
 3. Elk recht of elke verplichting, vastgesteld in [deel III, afdeling 4, van de TRIPs-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&titeldeel=4) met betrekking tot de importeur, is eveneens van toepassing op de exporteur of ontvanger van de goederen.
 
-### AFDELING 3. AANSPRAKELIJKHEID VAN AANBIEDERS VAN INTERMEDIAIRE DIENSTEN
+#### AFDELING 3. AANSPRAKELIJKHEID VAN AANBIEDERS VAN INTERMEDIAIRE DIENSTEN
 
 ##### Artikel 250. Gebruik van diensten van intermediairs
 
@@ -3576,29 +3473,29 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 1. De partijen richten een subcomité Intellectuele eigendom op voor het toezicht op de tenuitvoerlegging van het bepaalde in deze titel. Het subcomité komt ten minste één keer per jaar bijeen, tenzij de partijen anders overeenkomen. Deze bijeenkomsten kunnen via alle overeengekomen middelen plaatsvinden.
 
-2. Het subcomité Intellectuele eigendom neemt haar besluiten bij consensus. Het kan haar eigen reglement van orde vaststellen. Het subcomité Intellectuele eigendom is verantwoordelijk voor het beoordelen van de in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) bedoelde informatie en voor het voorstellen van wijzigingen van aanhangsel 1 van bijlage XIII (Lijsten van geografische aanduidingen) betreffende geografische aanduidingen aan het Handelscomité.
+2. Het subcomité Intellectuele eigendom neemt haar besluiten bij consensus. Het kan haar eigen reglement van orde vaststellen. Het subcomité Intellectuele eigendom is verantwoordelijk voor het beoordelen van de in [artikel 209](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VII&hoofdstuk=3&afdeling=2&artikel=209&z=2024-11-01&g=2024-11-01) bedoelde informatie en voor het voorstellen van wijzigingen van [aanhangsel 1 van bijlage XIII](https://wetten.overheid.nl/BWBV0005911) (Lijsten van geografische aanduidingen) betreffende geografische aanduidingen aan het Handelscomité.
 
-## TITEL VIII. MEDEDINGING
+### TITEL VIII. MEDEDINGING
 
 ##### Artikel 258. Definities
 
 1. Voor de toepassing van deze titel wordt verstaan onder:
 
-- –. „mededingingswetgeving”:
+- – „mededingingswetgeving”:
 
-- a). voor de EU, de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=101), [102](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=102) en [106 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=106), Verordening (EG) nr. 139/2004 van 20 januari 2004 betreffende de controle op concentraties van ondernemingen, hierna „de EU-concentratieverordening” genoemd, en de uitvoeringsverordeningen en wijzigingen daarvan;
+   - a) voor de EU, de [artikelen 101](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=101), [102](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=102) en [106 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=106), Verordening (EG) nr. 139/2004 van 20 januari 2004 betreffende de controle op concentraties van ondernemingen, hierna „de EU-concentratieverordening” genoemd, en de uitvoeringsverordeningen en wijzigingen daarvan;
 
-- b). voor Colombia, Ecuador en Peru, de volgende wetgeving, indien van toepassing:
+   - b) voor Colombia, Ecuador en Peru, de volgende wetgeving, indien van toepassing:
 
-- i). interne wetgeving inzake mededinging(76a)Voor Ecuador, artikel 336 van de Constitución de la República del Ecuador (grondwet van Ecuador), waarin de verplichting van de staat om te zorgen voor transparantie en efficiëntie op de markten en concurrentie te bevorderen, is vastgesteld, en de Ley Orgánica de Regulación y control del poder de Mercado (organieke wet betreffende de regulering van en controle op de marktkrachten). die overeenkomstig [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=260&z=2024-11-01&g=2024-11-01) wordt vastgesteld of gehandhaafd, en de uitvoeringsverordeningen en wijzigingen daarvan; en/of
+      - i) interne wetgeving inzake mededinging(76a)Voor Ecuador, artikel 336 van de Constitución de la República del Ecuador (grondwet van Ecuador), waarin de verplichting van de staat om te zorgen voor transparantie en efficiëntie op de markten en concurrentie te bevorderen, is vastgesteld, en de Ley Orgánica de Regulación y control del poder de Mercado (organieke wet betreffende de regulering van en controle op de marktkrachten). die overeenkomstig [artikel 260](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=VIII&artikel=260&z=2024-11-01&g=2024-11-01) wordt vastgesteld of gehandhaafd, en de uitvoeringsverordeningen en wijzigingen daarvan; en/of
 
-- ii). wetgeving van de Andesgemeenschap die in Colombia, Ecuador of Peru van toepassing is, en de uitvoeringsverordeningen en wijzigingen daarvan;
+      - ii) wetgeving van de Andesgemeenschap die in Colombia, Ecuador of Peru van toepassing is, en de uitvoeringsverordeningen en wijzigingen daarvan;
 
-- –. „mededingingsautoriteit” en „mededingingsautoriteiten”:
+- – „mededingingsautoriteit” en „mededingingsautoriteiten”:
 
-- a). voor de EU, de Europese Commissie; en
+   - a) voor de EU, de Europese Commissie; en
 
-- b). voor Colombia, Ecuador en Peru, hun respectieve nationale mededingingsautoriteiten.
+   - b) voor Colombia, Ecuador en Peru, hun respectieve nationale mededingingsautoriteiten.
 
 2. Niets in dit artikel doet afbreuk aan de bevoegdheden die de partijen aan hun respectieve regionale en nationale instanties hebben toegekend voor een doeltreffende en coherente tenuitvoerlegging van hun respectieve mededingingswetgeving.
 
@@ -3672,7 +3569,7 @@ De partijen erkennen dat de diensten van intermediairs door derden voor inbreuk 
 
 Geen van de partijen kan een beroep doen op de beslechting van geschillen uit hoofde van [titel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=XII&z=2024-11-01&g=2024-11-01) (Geschillenbeslechting) voor kwesties die in het kader deze titel naar voren komen.
 
-## TITEL IX. HANDEL EN DUURZAME ONTWIKKELING
+### TITEL IX. HANDEL EN DUURZAME ONTWIKKELING
 
 ##### Artikel 267. Context en doelstellingen
 
@@ -3840,7 +3737,7 @@ Elke partij verbindt zich ertoe het effect van de tenuitvoerlegging van deze ove
 
 - d. het effect van de tenuitvoerlegging van deze overeenkomst op arbeid en milieu beoordelen, wanneer het dit dienstig acht;
 
-- e. oplossen van elke aangelegenheid binnen het toepassingsgebied van deze titel, onverminderd de mechanismen van de artikelen 283 tot en met 285.
+- e. oplossen van elke aangelegenheid binnen het toepassingsgebied van deze titel, onverminderd de mechanismen van de [artikelen 283 tot en met 285](https://wetten.overheid.nl/BWBR0012016).
 
 7. Het subcomité Handel en duurzame ontwikkeling bevordert transparantie en overheidsparticipatie in haar werk. Dienovereenkomstig worden besluiten van dit subcomité, evenals door hem opgestelde verslagen over aangelegenheden met betrekking tot de tenuitvoerlegging van deze titel, openbaar gemaakt, tenzij het subcomité anders besluit. Voorts staat het subcomité open voor de inbreng, opmerkingen of standpunten van het publiek aangaande zaken met betrekking tot deze titel, en zal zij deze in overweging nemen.
 
@@ -3916,7 +3813,7 @@ Rekening houdend met de op samenwerking gebaseerde aanpak van deze titel en met 
 
 - k. activiteiten met betrekking tot handelsgerelateerde aspecten van het Programma voor fatsoenlijk werk van de ILO, inclusief de onderlinge verbanden tussen handel en productieve werkgelegenheid, fundamentele arbeidsnormen, sociale bescherming en sociale dialoog.
 
-## TITEL X. TRANSPARANTIE EN ADMINISTRATIEVE PROCEDURES
+### TITEL X. TRANSPARANTIE EN ADMINISTRATIEVE PROCEDURES
 
 ##### Artikel 287. Samenwerking om transparantie te bevorderen
 
@@ -3982,7 +3879,7 @@ Elke partij beheert alle in [artikel 288, lid 1](https://wetten.overheid.nl/jci1
 
 Deze titel geldt onverminderd specifieke regels die in andere titels van deze overeenkomst zijn vastgesteld.
 
-## TITEL XI. ALGEMENE UITZONDERINGEN
+### TITEL XI. ALGEMENE UITZONDERINGEN
 
 ##### Artikel 295. Uitzondering met betrekking tot de nationale veiligheid
 
@@ -3992,13 +3889,13 @@ Deze titel geldt onverminderd specifieke regels die in andere titels van deze ov
 
 - b. een partij belet wordt maatregelen te nemen die zij ter bescherming van haar wezenlijke veiligheidsbelangen noodzakelijk acht en die:
 
-- i. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie;
+   - i. betrekking hebben op overheidsopdrachten die onontbeerlijk zijn voor de nationale veiligheid of voor de nationale defensie;
 
-- ii. betrekking hebben op splijt- en fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
+   - ii. betrekking hebben op splijt- en fusiestoffen of op grondstoffen waaruit deze kunnen worden vervaardigd;
 
-- iii. verband houden met de productie van, overheidsopdrachten voor of de handel in wapens, munitie en oorlogsmaterieel, en betrekking hebben op de handel in andere goederen en materialen en op de levering van diensten of vestiging die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
+   - iii. verband houden met de productie van, overheidsopdrachten voor of de handel in wapens, munitie en oorlogsmaterieel, en betrekking hebben op de handel in andere goederen en materialen en op de levering van diensten of vestiging die direct of indirect de bevoorrading van een militaire inrichting ten doel hebben;
 
-- iv. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
+   - iv. in tijden van oorlog of ernstige internationale spanningen worden genomen; of
 
 - c. een partij belet wordt de nodige maatregelen te nemen om haar verplichtingen met het oog op de handhaving of het herstel van de internationale vrede en veiligheid na te komen.
 
@@ -4040,7 +3937,7 @@ Deze titel geldt onverminderd specifieke regels die in andere titels van deze ov
 
 Het overleg heeft betrekking op de verenigbaarheid van de beperkende maatregelen met de leden 2 en 3. Alle door het Internationaal Monetair Fonds verstrekte bevindingen van statistische en andere aard met betrekking tot deviezen, monetaire reserves en de betalingsbalans worden aanvaard, en de conclusies worden gebaseerd op het oordeel van het Internationaal Monetair Fonds over de betalingsbalanspositie en externe financiële positie van de partij die de maatregelen vaststelt.
 
-## TITEL XII. GESCHILLENBESLECHTING
+### TITEL XII. GESCHILLENBESLECHTING
 
 ### HOOFDSTUK 1. DOELSTELLINGEN, TOEPASSINGSGEBIED EN DEFINITIES
 
@@ -4266,7 +4163,7 @@ Het Handelscomité kan besluiten het reglement van orde en de gedragscode te wij
 
 ##### Artikel 322. Bemiddelingsmechanisme
 
-Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregelen) kan elke partij een andere partij verzoeken om aan een bemiddelingsprocedure deel te nemen met betrekking tot een niet-tarifaire maatregel van de partij tot wie het verzoek gericht is betreffende een aangelegenheid die onder [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2024-11-01&g=2024-11-01) (Handel in goederen) valt en waarvan de verzoekende partij van mening is dat deze de handel nadelig beïnvloedt.
+Overeenkomstig [bijlage XIV](https://wetten.overheid.nl/BWBV0005911) (Bemiddelingsmechanisme voor niet-tarifaire maatregelen) kan elke partij een andere partij verzoeken om aan een bemiddelingsprocedure deel te nemen met betrekking tot een niet-tarifaire maatregel van de partij tot wie het verzoek gericht is betreffende een aangelegenheid die onder [titel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&titeldeel=III&z=2024-11-01&g=2024-11-01) (Handel in goederen) valt en waarvan de verzoekende partij van mening is dat deze de handel nadelig beïnvloedt.
 
 ##### Artikel 323. Goede diensten, conciliatie en bemiddeling
 
@@ -4278,7 +4175,7 @@ Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregel
 
 4. De ingevolge dit artikel vastgestelde procedures zijn vertrouwelijk en laten de rechten van de partijen bij andere procedures onverlet.
 
-## TITEL XIII. TECHNISCHE BIJSTAND EN OPBOUW VAN HANDELSCAPACITEIT
+### TITEL XIII. TECHNISCHE BIJSTAND EN OPBOUW VAN HANDELSCAPACITEIT
 
 ##### Artikel 324. Doelstellingen
 
@@ -4310,11 +4207,11 @@ Overeenkomstig bijlage XIV (Bemiddelingsmechanisme voor niet-tarifaire maatregel
 
 3. Het Handelscomité kan aanbevelingen doen aan de bevoegde instanties van elke partij die voor het programmeren en uitvoeren van de samenwerking verantwoordelijk zijn.
 
-## TITEL XIV. SLOTBEPALINGEN
+### TITEL XIV. SLOTBEPALINGEN
 
 ##### Artikel 327. Bijlagen, aanhangsels, verklaringen en voetnoten
 
-De bijlagen, aanhangsels, verklaringen en voetnoten bij deze overeenkomst maken daarvan een integrerend deel uit.
+De [bijlagen, aanhangsels](https://wetten.overheid.nl/BWBV0005911), verklaringen en voetnoten bij deze overeenkomst maken daarvan een integrerend deel uit.
 
 ##### Artikel 328. Toetreding van nieuwe lidstaten tot de Europese Unie
 
@@ -4334,7 +4231,7 @@ De bijlagen, aanhangsels, verklaringen en voetnoten bij deze overeenkomst maken 
 
 1. Elke lidstaat van de Andesgemeenschap die geen partij is bij deze overeenkomst op de datum van inwerkingtreding ervan tussen de EU en ten minste een van de overeenkomstsluitende Andeslanden, hierna „om toetreding verzoekende Andesland” genoemd, kan krachtens de voorwaarden en procedures in dit artikel tot deze overeenkomst toetreden.
 
-2. De EU onderhandelt met het om toetreding verzoekende Andesland over de voorwaarden voor zijn toetreding tot deze overeenkomst. In het kader van deze onderhandelingen streeft de EU naar handhaving van de integriteit van deze overeenkomst, door alleen flexibiliteit toe te staan bij de onderhandeling over de lijsten van wederzijdse concessies overeenkomstig de bijlagen I (Lijsten inzake tariefafschaffing), VII (Lijst van verbintenissen inzake vestiging) en VIII (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en met betrekking tot aspecten waarvoor deze flexibiliteit nodig is om het om toetreding verzoekende Andesland te laten toetreden. De EU stelt het Handelscomité in kennis van de conclusie van deze onderhandelingen voor het in lid 3 bedoelde overleg.
+2. De EU onderhandelt met het om toetreding verzoekende Andesland over de voorwaarden voor zijn toetreding tot deze overeenkomst. In het kader van deze onderhandelingen streeft de EU naar handhaving van de integriteit van deze overeenkomst, door alleen flexibiliteit toe te staan bij de onderhandeling over de lijsten van wederzijdse concessies overeenkomstig de [bijlagen I](https://wetten.overheid.nl/BWBV0005911) (Lijsten inzake tariefafschaffing), [VII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake vestiging) en [VIII](https://wetten.overheid.nl/BWBV0005911) (Lijst van verbintenissen inzake grensoverschrijdende dienstverlening) en met betrekking tot aspecten waarvoor deze flexibiliteit nodig is om het om toetreding verzoekende Andesland te laten toetreden. De EU stelt het Handelscomité in kennis van de conclusie van deze onderhandelingen voor het in lid 3 bedoelde overleg.
 
 3. De EU overlegt met de overeenkomstsluitende Andeslanden binnen het Handelscomité over resultaten van de toetredingsonderhandelingen met een om toetreding verzoekend Andesland die van invloed kunnen zijn op de rechten of verplichtingen van de overeenkomstsluitende Andeslanden. Op verzoek van een partij beoordeelt het Handelscomité de gevolgen van de toetreding van het om toetreding verzoekende Andesland tot deze overeenkomst en besluit het over eventuele noodzakelijke verdere maatregelen.
 
@@ -4366,7 +4263,7 @@ De bijlagen, aanhangsels, verklaringen en voetnoten bij deze overeenkomst maken 
 
 De secretaris-generaal van de Raad van de Europese Unie treedt op als depositaris van deze overeenkomst.
 
-##### Artikel 333. Wijzigingen van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160)
+##### Artikel 333. Wijzigingen van de WTO-overeenkomst
 
 De partijen zijn het erover eens dat elke bepaling van de [WTO-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) die in deze overeenkomst is opgenomen, is opgenomen inclusief alle wijzigingen die op het tijdstip van toepassing van die bepaling in werking zijn getreden.
 

@@ -1,46 +1,19 @@
 ---
 title: "Handelsverdrag tussen Nederland en Guatemala"
 identifier: "BWBV0005906"
-country: "nl"
-rank: "verdrag"
-publication_date: "1928-12-17"
-last_updated: "1928-12-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005906"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004942593"
-version_id: "10005259422"
-internal_id: "C10008096671"
-label_id: "10004925884"
-dtd_version: "2.0"
-original_entry_into_force: "1928-12-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005906/1928-12-17/0"
-intitule_bron: "Stb.1929-505"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1928-12-28"
-intitule_published: "1929-01-14"
-intitule_in_force: "1929-01-14"
-intitule_status: "goed"
-original_publication: "Stb.1929-505"
-original_signed_date: "1928-12-28"
-original_published_date: "1929-01-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1928-12-17"
-jci_1_3: "jci1.3:c:BWBV0005906&z=1928-12-17&g=1928-12-17"
-jci_1_0: "1.0:c:BWBV0005906&g=1928-12-17"
-citeertitel_status: "redactioneel"
-signed_date: "1928-12-28"
-entry_into_force: "1928-12-17"
+publicatiedatum: 1928-12-17
+laatste_update: 1928-12-17
+status: geldig
+toestand: 1928-12-17
+bron: "https://wetten.overheid.nl/BWBV0005906"
+opgehaald: 2026-09-15
 ---
+
 # Handelsverdrag tussen Nederland en Guatemala
 
-Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Guatemala, bezield met den wensch, de economische betrekkingen tusschen beide landen te bevorderen, zijn overeengekomen een handelsverdrag te sluiten en hebben te dien einde tot Hunne Gevolmachtigden benoemd,
-
-Hare Majesteit de Koningin der Nederlanden: den heer RENÉ CHARLES THÉODORE ROOSMALE NEPVEU, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister bij de Regeering der Republiek Guatemala;
-
-De President der Republiek Guatemala: den heer Dr. JOSÉ MATOS, Minister van Buitenlandsche Zaken der Republiek;
-
-die, na hunne volmachten uitgewisseld en in goede orde bevonden te hebben, het volgende overeengekomen zijn:
+*Hare Majesteit de Koningin der Nederlanden en de President van de Republiek Guatemala, bezield met den wensch, de economische betrekkingen tusschen beide landen te bevorderen, zijn overeengekomen een handelsverdrag te sluiten en hebben te dien einde tot Hunne Gevolmachtigden benoemd, Hare Majesteit de Koningin der Nederlanden: den heer RENÉ CHARLES THÉODORE ROOSMALE NEPVEU, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister bij de Regeering der Republiek Guatemala; De President der Republiek Guatemala: den heer Dr. JOSÉ MATOS, Minister van Buitenlandsche Zaken der Republiek; die, na hunne volmachten uitgewisseld en in goede orde bevonden te hebben, het volgende overeengekomen zijn:*
 
 ##### Artikel I
 

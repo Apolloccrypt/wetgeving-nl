@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst tussen de Nederlandse Regering en de Regering van het Verenigd Koninkrijk betreffende Bepaalde Luchtdiensten"
 identifier: "BWBV0005720"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-07-16"
-last_updated: "1982-07-16"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005720"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004847603"
-version_id: "10005152392"
-internal_id: "C10007941551"
-label_id: "10004831554"
-dtd_version: "2.0"
-original_entry_into_force: "1946-08-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005720/1982-07-16/0"
-intitule_bron: "Stb.1947-H 77"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-03-01"
-intitule_published: "1947-04-01"
-intitule_in_force: "1965-08-25"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 77"
-original_signed_date: "1947-03-01"
-original_published_date: "1947-04-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1946-08-13"
-jci_1_3: "jci1.3:c:BWBV0005720&z=1982-07-16&g=1982-07-16"
-jci_1_0: "1.0:c:BWBV0005720&g=1982-07-16"
-citeertitel_status: "redactioneel"
-signed_date: "1947-03-01"
-entry_into_force: "1946-08-13"
+publicatiedatum: 1946-08-13
+laatste_update: 1982-07-16
+status: geldig
+toestand: 1982-07-16
+bron: "https://wetten.overheid.nl/BWBV0005720"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Nederlandse Regering en de Regering van het Verenigd Koninkrijk betreffende Bepaalde Luchtdiensten
 
-De Nederlandsche Regeering en de Regeering van het Vereenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-wenschende een Overeenkomst te sluiten met het doel, zoo spoedig mogelijk bepaalde luchtdiensten naar, in en over Britsch en Nederlandsch grondgebied in te stellen,
-
-hebben tot dat doel gevolmachtigden benoemd, die, daartoe behoorlijk gemachtigd, het volgende zijn overeengekomen:
+*De Nederlandsche Regeering en de Regeering van het Vereenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, wenschende een Overeenkomst te sluiten met het doel, zoo spoedig mogelijk bepaalde luchtdiensten naar, in en over Britsch en Nederlandsch grondgebied in te stellen, hebben tot dat doel gevolmachtigden benoemd, die, daartoe behoorlijk gemachtigd, het volgende zijn overeengekomen:*
 
 ##### Artikel 1
 

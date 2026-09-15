@@ -1,54 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot voorkoming van dubbele aanslag inzake belastingen op het kapitaal"
 identifier: "BWBV0005403"
-country: "nl"
-rank: "verdrag"
-publication_date: "1951-12-20"
-last_updated: "1951-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005403"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004616233"
-version_id: "10004870112"
-internal_id: "C10008335771"
-label_id: "10004600654"
-dtd_version: "2.0"
-original_entry_into_force: "1951-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005403/1951-12-20/0"
-intitule_bron: "Trb.1952-30"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-02-29"
-intitule_in_force: "1952-02-29"
-intitule_status: "goed"
-original_publication: "Trb.1952-30"
-original_published_date: "1952-02-29"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-30"
-entry_into_force_date: "1951-12-20"
-jci_1_3: "jci1.3:c:BWBV0005403&z=1951-12-20&g=1951-12-20"
-jci_1_0: "1.0:c:BWBV0005403&g=1951-12-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1951-12-20"
+publicatiedatum: 1951-12-20
+laatste_update: 1951-12-20
+status: geldig
+toestand: 1951-12-20
+bron: "https://wetten.overheid.nl/BWBV0005403"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot voorkoming van dubbele aanslag inzake belastingen op het kapitaal
 
-Hare Majesteit de Koningin der Nederlanden, enerzijds, en
-
-Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen, anderzijds
-
-Teneinde zoveel mogelijk te voorkomen, dat dubbele belasting wordt geheven voortvloeiende uit de heffing over dezelfde bezittingen van de belasting ingevoerd bij de Belgische wet van 17 October 1945 en van de belasting ingevoerd bij de Nederlandse wet van 11 Juli 1947,
-
-Hebben besloten te dien einde een Verdrag te sluiten tot voorkoming van dubbele aanslag inzake belastingen op het kapitaal, en hebben tot Hunne Gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Mr. D. U. Stikker, Minister van Buitenlandse Zaken, en
-
-Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie L. C. Nemry, Buitengewoon Gezant en Gevolmachtigd Ambassadeur van Zijne Majesteit de Koning der Belgen
-
-Die na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden, enerzijds, en Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen, anderzijds Teneinde zoveel mogelijk te voorkomen, dat dubbele belasting wordt geheven voortvloeiende uit de heffing over dezelfde bezittingen van de belasting ingevoerd bij de Belgische wet van 17 October 1945 en van de belasting ingevoerd bij de Nederlandse wet van 11 Juli 1947, Hebben besloten te dien einde een Verdrag te sluiten tot voorkoming van dubbele aanslag inzake belastingen op het kapitaal, en hebben tot Hunne Gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr. D. U. Stikker, Minister van Buitenlandse Zaken, en Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen: Zijne Excellentie L. C. Nemry, Buitengewoon Gezant en Gevolmachtigd Ambassadeur van Zijne Majesteit de Koning der Belgen Die na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
@@ -64,7 +29,7 @@ De hierna vermelde bezittingen, toebehorende aan natuurlijke personen of rechtsp
 
 Alle andere bezittingen, toebehorende aan bedoelde personen, worden belast in de Staat, waar deze personen hun fiscale woonplaats hebben.
 
-Onder voorbehoud van de bepalingen van artikel 1, litt. **b** en **c**, geldt dit meer bepaaldelijk ten aanzien van schuldvorderingen, openbare effecten, aandelen, obligatiën en deelbewijzen uitgegeven door vennootschappen, gemeenschappen en welke andere instellingen ook, goud in staven of in geldstukken en bankbiljetten.
+Onder voorbehoud van de bepalingen van artikel 1, litt. *b* en *c*, geldt dit meer bepaaldelijk ten aanzien van schuldvorderingen, openbare effecten, aandelen, obligatiën en deelbewijzen uitgegeven door vennootschappen, gemeenschappen en welke andere instellingen ook, goud in staven of in geldstukken en bankbiljetten.
 
 ##### Artikel 3
 

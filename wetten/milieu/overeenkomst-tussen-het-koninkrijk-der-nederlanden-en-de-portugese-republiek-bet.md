@@ -1,40 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende luchtvervoer"
 identifier: "BWBV0005771"
-country: "nl"
-rank: "verdrag"
-publication_date: "1985-06-20"
-last_updated: "1985-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005771"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004861413"
-version_id: "10005166282"
-internal_id: "C10007860951"
-label_id: "10004845114"
-dtd_version: "2.0"
-original_entry_into_force: "1946-04-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005771/1985-06-20/0"
-intitule_bron: "Stb.1947-H 82"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-03-07"
-intitule_published: "1947-04-05"
-intitule_in_force: "1969-03-20"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 82"
-original_signed_date: "1947-03-07"
-original_published_date: "1947-04-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1946-04-12"
-jci_1_3: "jci1.3:c:BWBV0005771&z=1985-06-20&g=1985-06-20"
-jci_1_0: "1.0:c:BWBV0005771&g=1985-06-20"
-citeertitel_status: "redactioneel"
-signed_date: "1947-03-07"
-entry_into_force: "1946-04-12"
+publicatiedatum: 1946-04-12
+laatste_update: 1985-06-20
+status: geldig
+toestand: 1985-06-20
+bron: "https://wetten.overheid.nl/BWBV0005771"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Portugese Republiek betreffende luchtvervoer
 
-De Regeeringen van Nederland en Portugal geleid door den wensch het burgerlijke luchtvervoer tusschen Nederlandsche en Portugeesche gebiedsdeelen te bevorderen, en gelet op de resolutie, onderteekend op 7 December 1944 op de Internationale Burgerlijke Luchtvaart Conferentie te Chicago, Illinois, U. S. A., tot aanneming van een standaardmodel van een overeenkomst voor voorloopige luchtroutes en diensten, sluiten hierbij de volgende Overeenkomst betreffende de in de bijlagen aangegeven luchtdiensten tusschen haar onderscheidenlijke grondgebieden, welke diensten aan de volgende bepalingen zullen zijn onderworpen.
+*De Regeeringen van Nederland en Portugal geleid door den wensch het burgerlijke luchtvervoer tusschen Nederlandsche en Portugeesche gebiedsdeelen te bevorderen, en gelet op de resolutie, onderteekend op 7 December 1944 op de Internationale Burgerlijke Luchtvaart Conferentie te Chicago, Illinois, U. S. A., tot aanneming van een standaardmodel van een overeenkomst voor voorloopige luchtroutes en diensten, sluiten hierbij de volgende Overeenkomst betreffende de in de bijlagen aangegeven luchtdiensten tusschen haar onderscheidenlijke grondgebieden, welke diensten aan de volgende bepalingen zullen zijn onderworpen.*
 
 ##### Artikel 1
 
@@ -54,13 +33,13 @@ Exploitatierechten, welke vroeger mochten zijn verleend door een van de overeenk
 
 Teneinde bevoorrechtende praktijken te voorkomen en gelijkheid van behandeling te verzekeren, wordt overeengekomen, dat:
 
-- a). Elk van de overeenkomstsluitende partijen kan opleggen of doen opleggen, billijke en redelijke kosten voor het gebruik van luchthavens en andere faciliteiten. Elk van de overeenkomstsluitende partijen neemt echter op zich, dat deze kosten niet hooger zullen zijn dan die, welke zouden worden betaald voor het gebruik van zoodanige luchthavens en faciliteiten door haar eigen luchtvaartuigen, gebezigd op soortgelijke internationale diensten.
+- a) Elk van de overeenkomstsluitende partijen kan opleggen of doen opleggen, billijke en redelijke kosten voor het gebruik van luchthavens en andere faciliteiten. Elk van de overeenkomstsluitende partijen neemt echter op zich, dat deze kosten niet hooger zullen zijn dan die, welke zouden worden betaald voor het gebruik van zoodanige luchthavens en faciliteiten door haar eigen luchtvaartuigen, gebezigd op soortgelijke internationale diensten.
 
-- b). Op motorbrandstof, smeeroliën en reservedeelen ingevoerd in, of aan boord genomen van luchtvaartuigen op het grondgebied van de eene overeenkomstsluitende partij door de andere overeenkomstsluitende partij of haar onderdanen, en uitsluitend bestemd voor gebruik door luchtvaartuigen van de andere overeenkomstsluitende partij, zullen ten aanzien van het heffen van invoerrechten, inspectiekosten, of andere nationale rechten of kosten door de overeenkomstsluitende partij, op wier grondgebied zij zijn ingevoerd, worden toegepast de nationale regelingen en de meestbegunstigingsclausule.
+- b) Op motorbrandstof, smeeroliën en reservedeelen ingevoerd in, of aan boord genomen van luchtvaartuigen op het grondgebied van de eene overeenkomstsluitende partij door de andere overeenkomstsluitende partij of haar onderdanen, en uitsluitend bestemd voor gebruik door luchtvaartuigen van de andere overeenkomstsluitende partij, zullen ten aanzien van het heffen van invoerrechten, inspectiekosten, of andere nationale rechten of kosten door de overeenkomstsluitende partij, op wier grondgebied zij zijn ingevoerd, worden toegepast de nationale regelingen en de meestbegunstigingsclausule.
 
-- c). Luchtvaartuigen, welke gebruikt worden op de overeengekomen luchtdiensten, voorraden van motorbrandstof, smeeroliën, reservedeelen, gewone uitrustingsstukken en proviand, welke aan boord blijven van burgerlijke luchtvaartuigen van de luchtvaartmaatschappijen van de overeenkomstsluitende partijen, welke gemachtigd zijn, de luchtlijnen en diensten te onderhouden, omschreven in de Bijlage, zullen bij aankomst op, of het vertrek uit het grondgebied van de andere overeenkomstsluitende partij, zijn vrijgesteld van douanerechten, inspectiekosten of soortgelijke rechten of kosten, zelfs wanneer zulke voorraden worden gebruikt of verbruikt door deze luchtvaartuigen bij vluchten binnen dat grondgebied.
+- c) Luchtvaartuigen, welke gebruikt worden op de overeengekomen luchtdiensten, voorraden van motorbrandstof, smeeroliën, reservedeelen, gewone uitrustingsstukken en proviand, welke aan boord blijven van burgerlijke luchtvaartuigen van de luchtvaartmaatschappijen van de overeenkomstsluitende partijen, welke gemachtigd zijn, de luchtlijnen en diensten te onderhouden, omschreven in de Bijlage, zullen bij aankomst op, of het vertrek uit het grondgebied van de andere overeenkomstsluitende partij, zijn vrijgesteld van douanerechten, inspectiekosten of soortgelijke rechten of kosten, zelfs wanneer zulke voorraden worden gebruikt of verbruikt door deze luchtvaartuigen bij vluchten binnen dat grondgebied.
 
-- d). De aldus vrijgestelde goederen mogen slechts worden gelost met goedkeuring van de douaneautoriteiten van de andere overeenkomstsluitende partij. Deze goederen, die weer moeten worden uitgevoerd, zullen tot wederuitvoer onder toezicht van de douane blijven.
+- d) De aldus vrijgestelde goederen mogen slechts worden gelost met goedkeuring van de douaneautoriteiten van de andere overeenkomstsluitende partij. Deze goederen, die weer moeten worden uitgevoerd, zullen tot wederuitvoer onder toezicht van de douane blijven.
 
 ##### Artikel 5
 
@@ -108,6 +87,6 @@ Deze Overeenkomst zal in werking treden op den dag van onderteekening.
 
 Gedaan te Lissabon op 12 April 1946 in drievoud in de Nederlandsche, Portugeesche en Engelsche taal, welke gelijkelijk authentiek zijn.
 
-Voor de Portugeesche Regeering, **A. O. Salazar.**
+Voor de Portugeesche Regeering, *A. O. Salazar.*
 
-Voor de Nederlandsche Regeering, **P. A. van Buttingha Wichers.**
+Voor de Nederlandsche Regeering, *P. A. van Buttingha Wichers.*

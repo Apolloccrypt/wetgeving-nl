@@ -1,222 +1,163 @@
 ---
 title: "Europese Interim-Overeenkomst betreffende sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden"
 identifier: "BWBV0005094"
-country: "nl"
-rank: "verdrag"
-publication_date: "1983-05-15"
-last_updated: "1983-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005094"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004463003"
-version_id: "10004674192"
-internal_id: "C10007125071"
-label_id: "10004447914"
-dtd_version: "2.0"
-original_entry_into_force: "1955-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005094/1983-05-15/0"
-intitule_bron: "Trb.1954-99"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-07-20"
-intitule_in_force: "1955-04-15"
-intitule_status: "goed"
-original_publication: "Trb.1954-99"
-original_published_date: "1954-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-99"
-entry_into_force_date: "1955-04-01"
-jci_1_3: "jci1.3:c:BWBV0005094&z=1983-05-15&g=1983-05-15"
-jci_1_0: "1.0:c:BWBV0005094&g=1983-05-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-04-01"
+publicatiedatum: 1955-04-01
+laatste_update: 1983-05-15
+status: geldig
+toestand: 1983-05-15
+bron: "https://wetten.overheid.nl/BWBV0005094"
+opgehaald: 2026-09-15
 ---
+
 # Europese Interim-Overeenkomst betreffende sociale zekerheid met uitsluiting van de regelingen voor ouderdom, invaliditeit en overlijden
 
-De Regeringen welke deze Overeenkomst hebben ondertekend, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve greater unity between its Members for the purpose, among others, of facilitating their social progress; Affirming the principle that the nationals of any one of the Contracting Parties to this Agreement should receive under the social security laws and regulations of any other Contracting Party equal treatment with the nationals of the latter, a principle sanctioned by Conventions of the International Labour Organisation; Affirming also the principle that nationals of any one of the Contracting Parties should receive the benefits of agreements on social security concluded by any two or more of the other Contracting Parties; Desirous of giving effect to these principles by means of an Interim Agreement, pending the conclusion of a general convention based on a network of bilateral agreements, Have agreed as follows:*
 
-Overwegende dat het doel van de Raad van Europa is grotere eenheid onder zijn Leden te bewerkstelligen, teneinde onder meer hun sociale vooruitgang te bevorderen,
+##### Article 1
 
-Bevestigende het beginsel van gelijkheid van behandeling van de onderdanen van alle Partijen bij deze Overeenkomst, met betrekking tot de wetten en regelingen inzake de sociale zekerheid van ieder van Haar, welk beginsel is vastgelegd in de Verdragen van de Internationale Arbeidsorganisatie,
+1. This Agreement shall apply to all social security laws and regulations which are in force at the date of signature or may subsequently come into force in any part of the territory of the Contracting Parties and which relate to:
 
-Eveneens bevestigende het beginsel, krachtens hetwelk de onderdanen van elke Overeenkomstsluitende Partij de voordelen moeten genieten van de overeenkomsten inzake de sociale zekerheid, gesloten tussen twee of meer van Haar,
+- (a) sickness, maternity and death (death grants), including medical benefits insofar as they are not subject to a needs test;
 
-Verlangende aan deze beginselen uitvoering te geven door het sluiten van een Interim-Overeenkomst, in afwachting van het sluiten van een algemeen verdrag, gegrond op een netwerk van bilaterale overeenkomsten,
+- (b) employment injury;
 
-Zijn het volgende overeengekomen:
+- (c) unemployment;
 
-Vanaf 8 mei 1977 niet meer van toepassing in de betrekkingen tussen het Koninkrijk der Nederlanden (Nederland) en de andere partijen bij het Verdrag van 1972 (Trb. 1982/148).
+- (d) family allowances.
 
-##### Artikel 1
+2. This Agreement shall apply to schemes of contributory and non-contributory benefits, including employers' obligations to compensate for employment injuries. It shall not apply to public assistance, special schemes for civil servants, or benefits paid in respect of war injuries or injuries due to foreign occupation.
 
-1. Deze Overeenkomst is van toepassing op alle wetten en regelingen inzake de sociale zekerheid, welke op het tijdstip van haar ondertekening van kracht zijn dan wel op een later tijdstip van kracht worden op enig deel van het grondgebied van de Overeenkomstsluitende Partijen en welke betrekking hebben op:
+3. For the purposes of this Agreement, the word “benefit” includes any increase in or supplement to the benefit.
 
-- (a). ziekte, moederschap en overlijden (uitkeringen bij overlijden), daaronder begrepen medische verstrekkingen, welke niet afhankelijk zijn gesteld van bewezen nooddruft;
+4. The terms “nationals” and “territory” of a Contracting Party shall have the meaning assigned to them by such a Party in a declaration addressed to the Secretary-General of the Council of Europe for communication to all other Contracting Parties.
 
-- (b). bedrijfsongevallen en beroepsziekten;
+##### Article 2
 
-- (c). werkloosheid;
+1. Subject to the provisions of Article 9, a national of any one of the Contracting Parties shall be entitled to receive the benefits of the laws and regulations of any other of the Contracting Parties under the same conditions as if he were a national of the latter:
 
-- (d). kinderbijslagen.
+- (a) in the case of benefit in respect of employment injury, provided that he resides in the territory of one of the Contracting Parties,
 
-2. Deze Overeenkomst is van toepassing op stelsels van uitkeringen met en zonder premiebetaling, daaronder begrepen de verplichtingen van de werkgever betreffende vergoeding voor bedrijfsongevallen en beroepsziekten. Zij is niet van toepassing op bijstand van overheidswege, op bijzondere stelsels voor overheidsdienaren en op uitkeringen aan slachtoffers van oorlog of bezetting.
+- (b) in the case of any benefit other than benefit in respect of employment injury, provided that he is ordinarily resident in the territory of the latter Contracting Party,
 
-3. Voor de toepassing van deze Overeenkomst worden onder „uitkeringen” mede verstaan alle aanvullingen of bijslagen.
+- (c) in the case of benefit claimed in respect of sickness, maternity or unemployment, provided that he had become ordinarily resident in the territory of the latter Contracting Party before the first medical certification of the sickness, the presumed date of conception or the beginning of the unemployment, as the case may be,
 
-4. De termen „onderdanen” en „grondgebied” van een Overeenkomstsluitende Partij hebben de betekenis, welke die Partij daaraan heeft toegekend in een tot de Secretaris-Generaal van de Raad van Europa gerichte verklaring, die daarvan mededeling doet aan alle overige Overeenkomstsluitende Partijen.
+- (d) in the case of a benefit provided under a non-contributory scheme, other than a benefit in respect of employment injury, provided that he has been resident for six months in the territory of the latter Contracting Party.
 
-##### Artikel 2
+2. In any case where the laws and regulations of any one of the Contracting Parties impose a restriction on the rights of a national of that Party who was not born in its territory, a national of any other of the Contracting Parties born in the territory of the latter shall be treated as if he were a national of the former Contracting Party born in its territory.
 
-1. Met inachtneming van het bepaalde in artikel 9 genieten de onderdanen van een der Overeenkomstsluitende Partijen de voordelen van de wetten en regelingen van elke andere Partij, onder dezelfde voorwaarden als de onderdanen van laatstgenoemde:
+3. In any case where in determining a right to benefit the laws and regulations of any one of the Contracting Parties make any distinction which depends on the nationality of a child, a child who is a national of any other of the Contracting Parties shall be treated as if he were a national of the former Contracting Party.
 
-- (a). ten aanzien van de uitkeringen terzake van bedrijfsongevallen of beroepsziekten, mits zij verblijf houden binnen het grondgebied van een der Overeenkomstsluitende Partijen;
+##### Article 3
 
-- (b). ten aanzien van elke andere uitkering dan de uitkeringen op grond van bedrijfsongevallen of beroepsziekten, mits zij verblijf houden binnen het grondgebied van laatstgenoemde Overeenkomstsluitende Partij;
+1. Any agreement relating to the laws and regulations referred to in Article 1 which has been or may be concluded by any two or more of the Contracting Parties shall, subject to the provisions of Article 9, apply to a national of any other of the Contracting Parties as if he were a national of one of the former Parties insofar as it provides, in relation to those laws and regulations:
 
-- (c). ten aanzien van de uitkeringen bij ziekte, moederschap of werkloosheid, mits zij hun gewone verblijfplaats hadden gevestigd binnen het grondgebied van laatstgenoemde Overeenkomstsluitende Partij onderscheidenlijk voordat de ziekte voor de eerste maal medisch is vastgesteld, vóór de vermoedelijke datum van de conceptie of vóór de aanvang van de werkloosheid;
+- (a) for determining under which laws and regulations a person should be insured;
 
-- (d). ten aanzien van de uitkeringen, welke niet op premiebetaling berusten, met uitzondering van de uitkeringen op grond van bedrijfsongevallen of beroepsziekten, mits zij sedert zes maanden verblijf houden binnen het grondgebied van laatstgenoemde Overeenkomstsluitende Partij.
+- (b) for maintaining acquired rights and rights in course of acquisition and, in particular, for adding together insurance periods and equivalent periods for the purpose of establishing the right to receice benefit and calculating the amount of benefit due;
 
-2. In alle gevallen, waarin de wetten en regelingen van één der Overeenkomstsluitende Partijen de rechten van een onderdaan van die Partij, die niet binnen haar grondgebied is geboren, aan beperkingen onderwerpen, wordt een onderdaan van elke andere Partij, geboren binnen het grondgebied van deze laatste, gelijkgesteld met een onderdaan van eerstgenoemde Partij, die binnen haar grondgebied is geboren.
+- (c) for paying benefit to persons residing in the territory of any one of the Parties to such agreement;
 
-3. In alle gevallen, waarin de wetten en regelingen van één der Overeenkomstsluitende Partijen voor de beoordeling van het recht op een uitkering onderscheid maken naar de nationaliteit van de kinderen, worden de kinderen die onderdanen zijn van andere Overeenkomstsluitende Partijen gelijkgesteld met kinderen die onderdanen zijn van eerstgenoemde Partij.
+- (d) for supplementing and administering the provisions of such agreement referred to in this paragraph.
 
-##### Artikel 3
+2. The provisions of paragraph 1 of this Article shall not apply to any provision of the said agreement which concerns benefits provided under a non-contributory scheme unless the national concerned has resided for six months in the territory of the Contracting Party under whose laws and regulations he claims benefit.
 
-1. Elke overeenkomst met betrekking tot de wetten en regelingen, bedoeld in artikel 1, welke gesloten is of gesloten zal worden tussen twee of meer Overeenkomstsluitende Partijen, is met inachtneming van het bepaalde in artikel 9 van toepassing op een onderdaan van elke andere Overeenkomstsluitende Partij alsof hij onderdaan was van één van eerstgenoemde Partijen, voor zover bedoelde overeenkomst ten aanzien van die wetten en regelingen bepalingen bevat ten aanzien van:
+##### Article 4
 
-- (a). de aanwijzing van de toepasselijke nationale wetten en regelingen;
+Subject to the provisions of any relevant bilateral and multilateral agreements, benefits which in the absence of this Agreement have not been awarded or have been suspended shall be awarded or reinstated from the date of the entry into force of this Agreement for all the Contracting Parties concerned with the claim in question, provided that the claim thereto is presented within one year after such date or within such longer period as may be determined by the Contracting Party under whose laws and regulations the benefit is claimed. If the claim is not presented within such period, the benefit shall be awarded or reinstated from the date of the claim or such earlier date as may be determined by the latter Contracting Party.
 
-- (b). het behoud van verkregen rechten en van toekomstige aanspraken, in het bijzonder met betrekking tot de regelen inzake de samentelling van verzekeringstijdvakken en van daarmede gelijkgestelde tijdvakken voor de vaststelling van het recht op en het behoud van uitkering en voor de berekening van de uitkeringen;
+##### Article 5
 
-- (c). de uitbetaling van uitkeringen aan personen, die verblijf houden binnen het grondgebied van één der Partijen bij die overeenkomst;
+The provisions of this Agreement shall not limit the provisions of any national laws or regulations, international conventions, or bilateral or multilateral agreements which are more favourable for the beneficiary.
 
-- (d). de aanvullende regelingen en de uitvoeringsvoorschriften met betrekking tot de in dit lid bedoelde bepalingen van die overeenkomst.
+##### Article 6
 
-2. Het bepaalde in het eerste lid van dit artikel is slechts van toepassing op enigerlei bepaling van genoemde overeenkomst betreffende uitkeringen, welke niet gegrond zijn op premiebetaling, indien de betrokken onderdaan sedert zes maanden verblijf houdt binnen het grondgebied van de Overeenkomstsluitende Partij, aan wier wetten en regelingen hij aanspraken wil ontlenen.
+This Agreement shall not affect those provisions of national laws or regulations which relate to the participation of insured persons, and of other categories of persons, concerned in the management of social security.
 
-##### Artikel 4
+##### Article 7
 
-Behoudens het bepaalde in de toepasselijke bilaterale of multilaterale overeenkomsten worden de uitkeringen, welke bij het ontbreken van deze Overeenkomst niet konden worden toegekend of zijn geschorst, op een desbetreffende aanvrage toegekend of hervat met ingang van de dag van inwerkingtreding van deze Overeenkomst voor alle betrokken Overeenkomstsluitende Partijen, mits de aanvrage wordt ingediend binnen een termijn van een jaar, te rekenen van die dag, of binnen een langere termijn, welke kan worden vastgesteld door de Overeenkomstsluitende Partij, aan wier wetten en regelingen een aanspraak wordt ontleend. Indien de aanvrage niet binnen een zodanige termijn is ingediend, worden de uitkeringen toegekend of hervat uiterlijk met ingang van de dag van indiening der aanvrage.
+1. Annex I to this Agreement sets out in relation to each Contracting Party the social security schemes to which Article 1 applies which are in force in any part of its territory at the date of signature of this Agreement.
 
-##### Artikel 5
+2. Each Contracting Party shall notify the Secretary-General of the Council of Europe of every new law or regulation of a type not included in Annex I in relation to that Party. Such notifications shall be made by each Contracting Party within three months of the date of publication of the new law or regulation, or if such law or regulation is published before the date of ratification of this Agreement by the Contracting Party concerned, at that date of ratification.
 
-De bepalingen van deze Overeenkomst laten onverlet de bepalingen van nationale wetten en regelingen, van internationale verdragen of van bilaterale of multilaterale overeenkomsten, welke voor de rechthebbende gunstiger zijn.
+##### Article 8
 
-##### Artikel 6
+1. Annex II to this Agreement sets out in relation to each Contracting Party the agreements concluded by it to which Article 3 applies which are in force at the date of signature of this Agreement.
 
-Deze Overeenkomst laat onverlet de bepalingen van de nationale wetten en regelingen inzake de deelneming van verzekerden of van andere groepen van belanghebbenden aan de uitvoering van de sociale zekerheid.
+2. Each Contracting Party shall notify the Secretary-General of the Council of Europe of every new agreement concluded by it to which Article 3 applies. Such notification shall be made by each Contracting Party within three months of the date of coming into force of the agreement, or if such new agreement has come into force before the date of ratification of this Agreement, at that date of ratification.
 
-##### Artikel 7
+##### Article 9
 
-1. Ten aanzien van elke Overeenkomstsluitende Partij geeft Bijlage I van deze Overeenkomst de stelsels van sociale zekerheid aan, waarop artikel 1 van toepassing is en welke van kracht zijn op enig deel van haar grondgebied op het tijdstip van de ondertekening van deze Overeenkomst.
+1. Annex III to this Agreement sets out the reservations hereto made at the date of signature.
 
-2. Elke Overeenkomstsluitende Partij doet aan de Secretaris-Generaal van de Raad van Europa mededeling van elke nieuwe wet of regeling, welke voor zoveel deze Partij betreft nog niet in Bijlage I is opgenomen. Deze mededeling wordt door elke Overeenkomstsluitende Partij gedaan binnen een termijn van drie maanden, te rekenen van de dag van bekendmaking van die wet of die regeling, of, indien die wet of die regeling reeds is bekendgemaakt vóór de bekrachtiging van deze Overeenkomst door de betrokken Overeenkomstsluitende Partij, van de dag der bekrachtiging.
+2. Any Contracting Party may, at the time of making a notification in accordance with Article 7 or Article 8, make a reservation in respect of the application of this Agreement to any law, regulation or agreement which is referred to in such notification. A statement of any such reservation shall accompany the notification concerned; it will take effect from the date of entry into force of the law, regulation or agreement.
 
-##### Artikel 8
+3. Any Contracting Party may withdraw either in whole or in part any reservation made by it by a notification to that effect adressed to the Secretary-General of the Council of Europe. Such notification shall take effect on the first day of the month following the month in which it is received and this Agreement shall apply accordingly.
 
-1. Ten aanzien van elke Overeenkomstsluitende Partij geeft Bijlage II van deze Overeenkomst aan de door Haar gesloten overeenkomsten, waarop artikel 3 van toepassing is en welke van kracht zijn op het tijdstip van ondertekening van deze Overeenkomst.
+##### Article 10
 
-2. Elke Overeenkomstsluitende Partij doet aan de Secretaris-Generaal van de Raad van Europa mededeling van elke nieuwe door Haar gesloten overeenkomst, waarop artikel 3 van toepassing is. Deze mededeling wordt door elke Overeenkomstsluitende Partij gedaan binnen een termijn van drie maanden, te rekenen van de dag van inwerkingtreding van die overeenkomst, of, indien de nieuwe overeenkomst in werking is getreden vóór de bekrachtiging van deze Overeenkomst, van de dag der bekrachtiging.
+The Annexes to this Agreement shall constitute an integral part of this Agreement.
 
-##### Artikel 9
+##### Article 11
 
-1. Bijlage III van deze Overeenkomst bevat de voorbehouden, welke ten tijde van haar ondertekening zijn gemaakt.
+1. Arrangements where necessary between the competent authorities of the Contracting Parties shall determine the methods of implementation of this Agreement.
 
-2. Elke Overeenkomstsluitende Partij kan bij het doen van een mededeling overeenkomstig de bepalingen van de artikelen 7 of 8 een voorbehoud maken betreffende de toepassing van deze Overeenkomst ten aanzien van elke in die mededeling vermelde wet, regeling of overeenkomst. Van elk zodanig voorbehoud wordt bij die mededeling kennis gegeven; het voorbehoud wordt van kracht op het tijdstip van inwerkingtreding van de nieuwe wet, de nieuwe regeling of de nieuwe overeenkomst.
+2. The competent authorities of the Contracting Parties concerned shall endeavour to resolve by negotiation any dispute relating to the interpretation or application of this Agreement.
 
-3. Elke Overeenkomstsluitende Partij kan een door Haar gemaakt voorbehoud geheel of gedeeltelijk intrekken door middel van een desbetreffende kennisgeving aan de Secretaris-Generaal van de Raad van Europa. Deze kennisgeving wordt van kracht op de eerste dag van de maand, volgende op die in de loop waarvan zij is ontvangen, zonder afbreuk te doen aan het bepaalde in deze Overeenkomst.
+3. If any such dispute has not been resolved by negotiation within a period of three months, the dispute shall be submitted to arbitration by an arbitral body whose composition and procedure shall be agreed upon by the Contracting Parties concerned, or, in default of such agreement, within a further period of three months, by an arbitrator chosen at the request of any of the Contracting Parties concerned by the President of the International Court of Justice. Should the latter be a national of one of the Parties to the dispute, this task shall be entrusted to the Vice-President of the Court or to the next judge in order of seniority not a national of one of the Parties to the dispute.
 
-##### Artikel 10
+4. The decision of the arbitral body, or arbitrator, as the case may be, shall be made in accordance with the principles and spirit of this Agreement and shall be final and binding.
 
-De in de vorige artikelen bedoelde Bijlagen vormen een onverbrekelijk geheel met deze Overeenkomst.
+##### Article 12
 
-##### Artikel 11
+In the event of the denunciation of this Agreement by any of the Contracting Parties,
 
-1. In voorkomend geval worden bij overeenkomsten tussen de bevoegde autoriteiten van de Overeenkomstsluitende Partijen de voor de toepassing van deze Overeenkomst nodige maatregelen getroffen.
+- (a) any right acquired by a person in accordance with its provisions shall be maintained and, in particular, if he has, in accordance with its provisions, acquired the right to receive any benefit under the laws and regulations of one of the Contracting Parties while he is resident in the territory of another, he shall continue to enjoy that right;
 
-2. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen trachten ieder geschil ten aanzien van de uitlegging of toepassing van deze Overeenkomst op te lossen door onderhandelingen.
+- (b) subject to any conditions which may be laid down by supplementary agreements concluded by the Contracting Parties concerned for the settlement of any rights then in course of acquisition, the provisions of this Agreement shall continue to apply to insurance periods and equivalent periods completed before the date when the denunciation becomes effective.
 
-3. Indien een dergelijk geschil niet binnen drie maanden door onderhandelingen is opgelost, wordt het geschil ter arbitrage voorgelegd aan een scheidsrechterlijk orgaan, welks samenstelling en werkwijze door de Overeenkomstsluitende Partijen in gemeen overleg worden geregeld, of bij gebreke van een dergelijke regeling in gemeen overleg binnen een volgend tijdvak van drie maanden, aan een scheidsman, op verzoek van de meest gerede der betrokken Overeenkomstsluitende Partijen gekozen door de President van het Internationaal Gerechtshof. Indien de laatstgenoemde een onderdaan van een der Partijen in het geschil zou zijn, wordt deze taak toevertrouwd aan de Vice-President van het Hof of aan de in anciënniteit volgende rechter, die geen onderdaan van een der Partijen in het geschil is.
+##### Article 13
 
-4. De beslissing van het scheidsrechterlijk orgaan of van de scheidsman wordt gegeven in overeenstemming met de beginselen en de geest van de onderhavige Overeenkomst en is zonder beroep en bindend.
+1. This Agreement shall be open to the signature of the Members of the Council of Europe. It shall be ratified. Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-##### Artikel 12
+2. This Agreement shall come into force on the first day of the month following the date of deposit of the second instrument of ratification.
 
-In geval van opzegging van deze Overeenkomst door een der Overeenkomstsluitende Partijen
+3. As regards any Signatory ratifying subsequently, the Agreement shall come into force on the first day of the month following the date of the deposit of its instrument of ratification.
 
-- (a). blijven de rechten, verkregen op grond van de bepalingen van deze Overeenkomst, gehandhaafd; in het bijzonder behoudt een belanghebbende, die op grond van deze bepalingen recht heeft verkregen op een uitkering ingevolge de wetgeving van een Overeenkomstsluitende Partij, terwijl hij verblijf houdt binnen het grondgebied van een andere Partij, het genot van dat recht;
+##### Article 14
 
-- (b). blijven de bepalingen van deze Overeenkomst van toepassing op tijdvakken van verzekering en op de daarmede gelijkgestelde tijdvakken, welke zijn vervuld vóór het tijdstip, waarop de opzegging van kracht is geworden, behoudens de voorwaarden, welke eventueel met het oog op de regeling van toekomstige aanspraken op uitkering worden gesteld bij aanvullende overeenkomsten, gesloten tussen de betrokken Overeenkomstsluitende Partijen.
+1. The Committee of Ministers of the Council of Europe may invite any State not a member of the Council of Europe to accede to this Agreement.
 
-##### Artikel 13
+2. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the Council of Europe, which shall take effect on the first day of the month following the date of deposit.
 
-1. Deze Overeenkomst staat open voor ondertekening door de Leden van de Raad van Europa. Zij dient te worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+3. Any instrument of accession deposited in accordance with this Article shall be accompanied by a notification of such information as would be contained in the Annexes I and II to this Agreement if the Government of the State concerned were, on the date of accession, a Signatory hereto.
 
-2. Deze Overeenkomst treedt in werking op de eerste dag van de maand, volgende op de nederlegging van de tweede akte van bekrachtiging.
+4. For the purposes of this Agreement any information notified in accordance with paragraph 3 of this Article shall be deemed to be part of the Annex in which it would have been recorded if the Government of the State concerned were a Signatory hereto.
 
-3. Ten aanzien van iedere Staat, welke de Overeenkomst op een later tijdstip bekrachtigt, treedt de Overeenkomst in werking op de eerste dag van de maand, volgende op de nederlegging van zijn akte van bekrachtiging.
+##### Article 15
 
-##### Artikel 14
+The Secretary-General of the Council of Europe shall notify:
 
-1. Het Comité van Ministers van de Raad van Europa kan elke Staat, die geen Lid van de Raad is, uitnodigen om tot deze Overeenkomst toe te treden.
+- (a) the Members of the Council and the Director-General of the International Labour Office
 
-2. Toetreding vindt plaats door het nederleggen van een akte van toetreding bij de Secretaris-Generaal van de Raad van Europa, welke op de eerste dag van de volgende maand van kracht wordt.
+   - (i) of the date of entry into force of this Agreement and the names of any Members who ratify it,
 
-3. Elke akte van toetreding, nedergelegd in overeenstemming met dit artikel, wordt vergezeld van een mededeling van die inlichtingen, welke in de Bijlagen I en II van deze Overeenkomst zouden zijn opnomen indien de Regering van de betrokken Staat op het tijdstip van de toetreding ondertekenaar van de Overeenkomst ware geweest.
+   - (ii) of the deposit of any instrument of accession in accordance with Article 14 and of such notifications as are received with it,
 
-4. Voor de toepassing van deze Overeenkomst wordt iedere inlichting, medegedeeld overeenkomstig het derde lid van dit artikel, geacht deel uit te maken van de Bijlage, waarin de inlichting zou zijn opgenomen indien de Regering van de betrokken Staat ondertekenaar ware.
+   - (iii) of any notification received in accordance with Article 16 and its effective date;
 
-##### Artikel 15
+- (b) the Contracting Parties and the Director-General of the International Labour Office
 
-De Secretaris-Generaal van de Raad van Europa verwittigt:
+   - (i) of any notifications received in accordance with Articles 7 and 8,
 
-- (a). de Leden van de Raad en de Directeur-Generaal van het Internationaal Arbeidsbureau:
+   - (ii) of any reservation made in accordance with paragraph 2 of Article 9,
 
-- (i). van het tijdstip van inwerkingtreding van deze Overeenkomst en van de namen der Leden, die haar bekrachtigen;
+   - (iii) of the withdrawal of any reservation in accordance with paragraph 3 of Article 9.
 
-- (ii). van de nederlegging van elke akte van toetreding in overeenstemming met artikel 14 en van de begeleidende mededelingen;
+##### Article 16
 
-- (iii). van elke mededeling, ontvangen overeenkomstig artikel 16, en van het tijdstip van inwerkingtreding daarvan;
-
-- (b). de Overeenkomstsluitende Partijen en de Directeur-Generaal van het Internationaal Arbeidsbureau:
-
-- (i). van elke mededeling, ontvangen in overeenstemming met de artikelen 7 en 8;
-
-- (ii). van elk voorbehoud, gemaakt in overeenstemming met artikel 9, lid 2;
-
-- (iii). van het intrekken van enig voorbehoud in overeenstemming met artikel 9, lid 3.
-
-##### Artikel 16
-
-Deze Overeenkomst is gesloten voor de duur van twee jaren, te rekenen van het tijdstip van inwerkingtreding overeenkomstig artikel 13, lid 2. Daarna blijft zij van jaar tot jaar van kracht voor alle Overeenkomstsluitende Partijen die haar niet hebben opgezegd door middel van een daartoe strekkende mededeling aan de Secretaris-Generaal van de Raad van Europa ten minste zes maanden vóór het verstrijken van hetzij het aanvangstijdvak van twee jaren, hetzij van een volgend tijdvak van een jaar. Zodanige mededeling wordt van kracht aan het einde van het tijdvak, waarop zij betrekking heeft.
-
-##### 1
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 2
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 3
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 4
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 5
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 6
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 7
-
-De tekst van de vertaling is niet beschikbaar.
+This Agreement shall remain in force for a period of two years from the date of its entry into force in accordance with paragraph 2 of Article 13. Thereafter it shall remain in force from year to year for such Contracting Parties as have not denounced it by a notification to that effect addressed to the Secretary-General of the Council of Europe at least six months before the expiry either of the preliminary two-year period, or of any subsequent yearly period. Such notification shall take effect at the end of the period to which it relates.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Agreement.
 

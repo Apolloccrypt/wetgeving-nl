@@ -1,52 +1,19 @@
 ---
 title: "Verdrag inzake ontwikkelingssamenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Vietnam"
 identifier: "BWBV0006005"
-country: "nl"
-rank: "verdrag"
-publication_date: "2001-07-01"
-last_updated: "2001-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006005"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004979833"
-version_id: "10005298102"
-internal_id: "C10008157161"
-label_id: "10004962964"
-dtd_version: "2.0"
-original_entry_into_force: "2001-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006005/2001-07-01/0"
-intitule_bron: "Trb.2000-126"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2000-12-04"
-intitule_in_force: "2001-05-10"
-intitule_status: "goed"
-original_publication: "Trb.2000-126"
-original_published_date: "2000-12-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-126"
-entry_into_force_date: "2001-07-01"
-jci_1_3: "jci1.3:c:BWBV0006005&z=2001-07-01&g=2001-07-01"
-jci_1_0: "1.0:c:BWBV0006005&g=2001-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2001-07-01"
+publicatiedatum: 2001-07-01
+laatste_update: 2001-07-01
+status: geldig
+toestand: 2001-07-01
+bron: "https://wetten.overheid.nl/BWBV0006005"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag inzake ontwikkelingssamenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Socialistische Republiek Vietnam
 
-De Regering van het Koninkrijk der Nederlanden (hierna te noemen „Nederland”)
-
-en
-
-de Regering van de Socialistische Republiek Vietnam (hierna te noemen „Vietnam”);
-
-Opnieuw de vriendschappelijke betrekkingen bevestigend die tussen beide Staten en hun volken bestaan;
-
-Ter naleving van de bilaterale verdragen die onlangs tussen de twee Staten zijn gesloten;
-
-In het besef dat inachtneming van democratische beginselen, algemene internationale rechtsbeginselen, alsmede mensenrechten, nationale soevereiniteit en de gelijkheid tussen naties belangrijke beginselen zijn in de betrekkingen tussen de twee landen;
-
-Geleid door de wens samen te werken met het doel om ontwikkelingsprocessen te ondersteunen door middel van projecten en programma's en hiertoe, in aanvulling op de inspanningen die Vietnam levert, het juridische en administratieve kader te scheppen voor de tewerkstelling van personeelsleden en de invoer van middelen vanuit Nederland in Vietnam;
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden (hierna te noemen „Nederland”) en de Regering van de Socialistische Republiek Vietnam (hierna te noemen „Vietnam”); Opnieuw de vriendschappelijke betrekkingen bevestigend die tussen beide Staten en hun volken bestaan; Ter naleving van de bilaterale verdragen die onlangs tussen de twee Staten zijn gesloten; In het besef dat inachtneming van democratische beginselen, algemene internationale rechtsbeginselen, alsmede mensenrechten, nationale soevereiniteit en de gelijkheid tussen naties belangrijke beginselen zijn in de betrekkingen tussen de twee landen; Geleid door de wens samen te werken met het doel om ontwikkelingsprocessen te ondersteunen door middel van projecten en programma's en hiertoe, in aanvulling op de inspanningen die Vietnam levert, het juridische en administratieve kader te scheppen voor de tewerkstelling van personeelsleden en de invoer van middelen vanuit Nederland in Vietnam; Zijn het volgende overeengekomen:*
 
 ##### Artikel I. Begripsbepalingen
 
@@ -54,21 +21,21 @@ In dit Verdrag wordt, tenzij uit de context anders blijkt:
 
 - 1. onder „personeelsleden” verstaan personen die geen staatsburgers en geen ingezetene zijn van Vietnam en die: ten aanzien van wie Nederland voorstellen heeft gedaan ter zake van tewerkstelling in het kader van projecten en programma's, welke voorstellen door Vietnam zijn aanvaard;
 
-- a. in dienst zijn van Nederland; of
+   - a. in dienst zijn van Nederland; of
 
-- b. in dienst zijn van bedrijven of instellingen waarmee Nederland of Vietnam een overeenkomst inzake de uitvoering van projecten en programma's heeft gesloten; of
+   - b. in dienst zijn van bedrijven of instellingen waarmee Nederland of Vietnam een overeenkomst inzake de uitvoering van projecten en programma's heeft gesloten; of
 
-- c. in dienst zijn van Vietnam als suppletie-deskundigen;
+   - c. in dienst zijn van Vietnam als suppletie-deskundigen;
 
 - 2. onder „gezinsleden” verstaan de echtgenoot of echtgenote en kinderen onder de leeftijd van 18 jaar die voor hun levensonderhoud van personeelsleden afhankelijk zijn;
 
 - 3. onder „projecten en programma's” verstaan ontwikkelingswerkzaamheden in Vietnam waarvoor Nederland onder meer de volgende onderdelen geheel of gedeeltelijk financiert uit de Nederlandse begroting voor ontwikkelingssamenwerking:
 
-- a. tewerkstelling van personeelsleden;
+   - a. tewerkstelling van personeelsleden;
 
-- b. materiële middelen zoals goederen, grondstoffen, machines en uitrusting;
+   - b. materiële middelen zoals goederen, grondstoffen, machines en uitrusting;
 
-- c. financiële middelen of immateriële diensten.
+   - c. financiële middelen of immateriële diensten.
 
 ##### Artikel II. Administratieve procedures
 
@@ -154,7 +121,7 @@ In geval van terugroeping stelt Nederland alles in het werk om, indien Vietnam z
 
 - b. zorgdragen voor spoedige en veilige inontvangstneming, voor het spoedig en veilig afmeren, behandelen, inklaren, verzenden alsmede de opslag en het verdere transport binnen het rechtsgebied van Vietnam;
 
-- c. alle passende maatregelen en alle eventuele noodzakelijke gerechtelijke stappen nemen in het kader van aanspraken wegens verlies of beschadiging, geheel dan wel gedeeltelijk, van een zending middelen en Nederland onmiddellijk daarna hiervan in kennis stellen;
+- c alle passende maatregelen en alle eventuele noodzakelijke gerechtelijke stappen nemen in het kader van aanspraken wegens verlies of beschadiging, geheel dan wel gedeeltelijk, van een zending middelen en Nederland onmiddellijk daarna hiervan in kennis stellen;
 
 - d. de registratie van motorvoertuigen die Vietnam binnengebracht worden, vergemakkelijken.
 
@@ -184,7 +151,7 @@ In geval van terugroeping stelt Nederland alles in het werk om, indien Vietnam z
 
 GEDAAN in tweevoud te Hanoi op 24 oktober 2000, in de Nederlandse, de Vietnamese en de Engelse taal, zijnde de drie teksten gelijkelijk authentiek. In geval van verschillen in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor en namens de Regering van het Koninkrijk der Nederlanden,**
+*Voor en namens de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) M. P. A. FRANK
 
@@ -192,7 +159,7 @@ M. P. A. Frank
 
 Ambassadeur
 
-**Voor en namens de Regering van de Socialistische Republiek Vietnam,**
+*Voor en namens de Regering van de Socialistische Republiek Vietnam,*
 
 (w.g.) VO HONG PHUC
 

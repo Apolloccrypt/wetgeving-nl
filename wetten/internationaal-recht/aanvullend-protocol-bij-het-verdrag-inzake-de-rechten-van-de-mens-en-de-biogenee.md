@@ -1,61 +1,18 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag inzake de rechten van de mens en de biogeneeskunde inzake transplantatie van organen en weefsel van menselijke herkomst"
 identifier: "BWBV0005628"
-country: "nl"
-rank: "verdrag"
-publication_date: "2002-01-24"
-last_updated: "2002-01-24"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005628"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004792663"
-version_id: "10005090762"
-internal_id: "C10007704261"
-label_id: "10004776844"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005628/2002-01-24/0"
-intitule_bron: "Trb.2002-67"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2002-03-25"
-intitule_status: "nogniet"
-original_publication: "Trb.2002-67"
-original_published_date: "2002-03-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2002-67"
-jci_1_3: "jci1.3:c:BWBV0005628&z=2002-01-24&g=2002-01-24"
-jci_1_0: "1.0:c:BWBV0005628&g=2002-01-24"
-citeertitel_status: "redactioneel"
-entry_into_force: "2002-03-25"
+laatste_update: 2002-01-24
+status: geldig
+toestand: 2002-01-24
+bron: "https://wetten.overheid.nl/BWBV0005628"
+opgehaald: 2026-09-15
 ---
+
 # Aanvullend Protocol bij het Verdrag inzake de rechten van de mens en de biogeneeskunde inzake transplantatie van organen en weefsel van menselijke herkomst
 
-**Preamble**
-
-The member States of the Council of Europe, the other States and the European Community signatories to this Additional Protocol to the [Convention for the Protection of Human Rights and Dignity of the Human Being with regard to the Application of Biology and Medicine](https://wetten.overheid.nl/jci1.3:c:BWBV0005627) (hereinafter referred to as “Convention on Human Rights and Biomedicine”),
-
-Considering that the aim of the Council of Europe is the achievement of greater unity between its members and that one of the methods by which this aim is pursued is the maintenance and further realisation of human rights and fundamental freedoms;
-
-Considering that the aim of the [Convention on Human Rights and Biomedicine](https://wetten.overheid.nl/jci1.3:c:BWBV0005627), as defined in [Article 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005627&artikel=1), is to protect the dignity and identity of all human beings and guarantee everyone, without discrimination, respect for their integrity and other rights and fundamental freedoms with regard to the application of biology and medicine;
-
-Considering that progress in medical science, in particular in the field of organ and tissue transplantation, contributes to saving lives or greatly improving their quality;
-
-Considering that transplantation of organs and tissues is an established part of the health services offered to the population;
-
-Considering that, in view of the shortage of organs and tissues, appropriate action should be taken to increase organ and tissue donation, in particular by informing the public of the importance of organ and tissue transplantation and by promoting European co-operation in this field;
-
-Considering moreover the ethical, psychological and socio-cultural problems inherent in the transplantation of organs and tissues;
-
-Considering that the misuse of organ and tissue transplantation may lead to acts endangering human life, well being or dignity;
-
-Considering that organ and tissue transplantation should take place under conditions protecting the rights and freedoms of donors, potential donors and recipients of organs and tissues and that institutions must be instrumental in ensuring such conditions;
-
-Recognising that, in facilitating the transplantation of organs and tissues in the interest of patients in Europe, there is a need to protect individual rights and freedoms and to prevent the commercialisation of parts of the human body involved in organ and tissue procurement, exchange and allocation activities;
-
-Taking into account previous work of the Committee of Ministers and the Parliamentary Assembly of the Council of Europe in this field;
-
-Resolving to take such measures as are necessary to safeguard human dignity and the rights and fundamental freedoms of the individual with regard to organ and tissue transplantation,
-
-Have agreed as follows:
+*Preamble The member States of the Council of Europe, the other States and the European Community signatories to this Additional Protocol to the Convention for the Protection of Human Rights and Dignity of the Human Being with regard to the Application of Biology and Medicine (hereinafter referred to as “Convention on Human Rights and Biomedicine”), Considering that the aim of the Council of Europe is the achievement of greater unity between its members and that one of the methods by which this aim is pursued is the maintenance and further realisation of human rights and fundamental freedoms; Considering that the aim of the Convention on Human Rights and Biomedicine, as defined in Article 1, is to protect the dignity and identity of all human beings and guarantee everyone, without discrimination, respect for their integrity and other rights and fundamental freedoms with regard to the application of biology and medicine; Considering that progress in medical science, in particular in the field of organ and tissue transplantation, contributes to saving lives or greatly improving their quality; Considering that transplantation of organs and tissues is an established part of the health services offered to the population; Considering that, in view of the shortage of organs and tissues, appropriate action should be taken to increase organ and tissue donation, in particular by informing the public of the importance of organ and tissue transplantation and by promoting European co-operation in this field; Considering moreover the ethical, psychological and socio-cultural problems inherent in the transplantation of organs and tissues; Considering that the misuse of organ and tissue transplantation may lead to acts endangering human life, well being or dignity; Considering that organ and tissue transplantation should take place under conditions protecting the rights and freedoms of donors, potential donors and recipients of organs and tissues and that institutions must be instrumental in ensuring such conditions; Recognising that, in facilitating the transplantation of organs and tissues in the interest of patients in Europe, there is a need to protect individual rights and freedoms and to prevent the commercialisation of parts of the human body involved in organ and tissue procurement, exchange and allocation activities; Taking into account previous work of the Committee of Ministers and the Parliamentary Assembly of the Council of Europe in this field; Resolving to take such measures as are necessary to safeguard human dignity and the rights and fundamental freedoms of the individual with regard to organ and tissue transplantation, Have agreed as follows:*
 
 ### CHAPTER I. OBJECT AND SCOPE
 
@@ -71,17 +28,17 @@ Parties to this Protocol shall protect the dignity and identity of everyone and 
 
 3. The Protocol does not apply:
 
-- a). to reproductive organs and tissue;
+- a) to reproductive organs and tissue;
 
-- b). to embryonic or foetal organs and tissues;
+- b) to embryonic or foetal organs and tissues;
 
-- c). to blood and blood derivatives.
+- c) to blood and blood derivatives.
 
 4. For the purposes of this Protocol:
 
-- –. the term “transplantation” covers the complete process of removal of an organ or tissue from one person and implantation of that organ or tissue into another person, including all procedures for preparation, preservation and storage;
+- – the term “transplantation” covers the complete process of removal of an organ or tissue from one person and implantation of that organ or tissue into another person, including all procedures for preparation, preservation and storage;
 
-- –. subject to the provisions of [Article 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=V&artikel=20&z=2002-01-24&g=2002-01-24), the term “removal” refers to removal for the purposes of implantation.
+- – subject to the provisions of [Article 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=V&artikel=20&z=2002-01-24&g=2002-01-24), the term “removal” refers to removal for the purposes of implantation.
 
 ### CHAPTER II. GENERAL PROVISIONS
 
@@ -149,15 +106,15 @@ The person concerned may freely withdraw consent at any time.
 
 2. Exceptionally, and under the protective conditions prescribed by law, the removal of regenerative tissue from a person who does not have the capacity to consent may be authorised provided the following conditions are met:
 
-- (i). there is no compatible donor available who has the capacity to consent;
+- (i) there is no compatible donor available who has the capacity to consent;
 
-- (ii). the recipient is a brother or sister of the donor;
+- (ii) the recipient is a brother or sister of the donor;
 
-- (iii). the donation has the potential to be life-saving for the recipient;
+- (iii) the donation has the potential to be life-saving for the recipient;
 
-- (iv). the authorisation of his or her representative or an authority or a person or body provided for by law has been given specifically and in writing and with the approval of the competent body;
+- (iv) the authorisation of his or her representative or an authority or a person or body provided for by law has been given specifically and in writing and with the approval of the competent body;
 
-- (v). the potential donor concerned does not object.
+- (v) the potential donor concerned does not object.
 
 ##### Article 15. Cell removal from a living donor
 
@@ -201,11 +158,11 @@ Parties shall take all appropriate measures to promote the donation of organs an
 
 The aforementioned provision shall not prevent payments which do not constitute a financial gain or a comparable advantage, in particular:
 
-- –. compensation of living donors for loss of earnings and any other justifiable expenses caused by the removal or by the related medical examinations;
+- – compensation of living donors for loss of earnings and any other justifiable expenses caused by the removal or by the related medical examinations;
 
-- –. payment of a justifiable fee for legitimate medical or related technical services rendered in connection with transplantation;
+- – payment of a justifiable fee for legitimate medical or related technical services rendered in connection with transplantation;
 
-- –. compensation in case of undue damage resulting from the removal of organs or tissues from living persons.
+- – compensation in case of undue damage resulting from the removal of organs or tissues from living persons.
 
 2. Advertising the need for, or availability of, organs or tissues, with a view to offering or seeking financial gain or comparable advantage, shall be prohibited.
 
@@ -281,13 +238,13 @@ This Protocol shall be open for signature by Signatories to the [Convention](htt
 
 The Secretary General of the Council of Europe shall notify the member States of the Council of Europe, the European Community, any Signatory, any Party and any other State which has been invited to accede to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005627) of:
 
-- a). any signature;
+- a) any signature;
 
-- b). the deposit of any instrument of ratification, acceptance, approval or accession;
+- b) the deposit of any instrument of ratification, acceptance, approval or accession;
 
-- c). any date of entry into force of this Protocol in accordance with [Articles 31](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=XI&artikel=31&z=2002-01-24&g=2002-01-24) and [32](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=XI&artikel=32&z=2002-01-24&g=2002-01-24);
+- c) any date of entry into force of this Protocol in accordance with [Articles 31](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=XI&artikel=31&z=2002-01-24&g=2002-01-24) and [32](https://wetten.overheid.nl/jci1.3:c:BWBV0005628&hoofdstuk=XI&artikel=32&z=2002-01-24&g=2002-01-24);
 
-- d). any other act, notification or communication relating to this Protocol.
+- d) any other act, notification or communication relating to this Protocol.
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

@@ -1,66 +1,43 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Franse Republiek betreffende wederzijdse vergoeding van schade, toegebracht aan schepen tijdens de oorlog van 1939-1945"
 identifier: "BWBV0005165"
-country: "nl"
-rank: "verdrag"
-publication_date: "1954-09-17"
-last_updated: "1954-09-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005165"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004493083"
-version_id: "10004707532"
-internal_id: "C10007192761"
-label_id: "10004477754"
-dtd_version: "2.0"
-original_entry_into_force: "1954-09-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005165/1954-09-17/0"
-intitule_bron: "Trb.1954-14"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-02-09"
-intitule_in_force: "1954-10-20"
-intitule_status: "goed"
-original_publication: "Trb.1954-14"
-original_published_date: "1954-02-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-14"
-entry_into_force_date: "1954-09-17"
-jci_1_3: "jci1.3:c:BWBV0005165&z=1954-09-17&g=1954-09-17"
-jci_1_0: "1.0:c:BWBV0005165&g=1954-09-17"
-citeertitel_status: "redactioneel"
-entry_into_force: "1954-09-17"
+publicatiedatum: 1954-09-17
+laatste_update: 1954-09-17
+status: geldig
+toestand: 1954-09-17
+bron: "https://wetten.overheid.nl/BWBV0005165"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Franse Republiek betreffende wederzijdse vergoeding van schade, toegebracht aan schepen tijdens de oorlog van 1939-1945
 
-Hare Majesteit de Koningin der Nederlanden en de President van de Franse Republiek, besloten hebbende de geschilpunten in verband met de zeevaart, welke wederzijds zijn naar voren gebracht en welke zijn voortgekomen uit de oorlogshandelingen van de oorlog 1939—1945, te regelen, hebben besloten te dien einde een overeenkomst te sluiten en hebben bijgevolg tot hun gevolmachtigden benoemd:
+*Sa Majesté la Reine des Pays-Bas et le Président de la République Française ayant décidé de régler les questions contentieuses d'ordre maritime présentées de part et d'autre et qui ont leur origine dans des événements de la guerre de 1939 à 1945 ont résolu de conclure à cette fin un accord et ont, en conséquence, nommé pour leurs plénipotentiaires, savoir: Sa Majesté la Reine des Pays-Bas: S.E. le Baron W. van BOETZELAER, Ambassadeur Extraordinaire et Plénipotentiaire; et le Président de la République Française: M. Pierre CHARPENTIER, Ministre Plénipotentiaire, Lesquels, après s'être communiqué leurs pleins pouvoirs, sont convenus des dispositions suivantes:*
 
-Hare Majesteit de Koningin der Nederlanden: Z.E. W. Baron van BOETZELAER, Buitengewoon en Gevolmachtigd Ambassadeur; en de President van de Franse Republiek: de Heer Pierre CHARPENTIER, Gevolmachtigd Minister,
+##### Article 1er
 
-Die, na elkaar mededeling te hebben gedaan van hun volmachten, het volgende zijn overeengekomen:
+Le Gouvernement néerlandais et le Gouvernement français, après avoir examiné les réclamations d'ordre maritime présentées de part et d'autre et ayant leur origine dans des événements de la guerre de 1939 à 1945, ont fixé d'un commun accord, après compensation des créances réciproques énumérées à l'article 2, à la somme de Livres sterling 8.000.- l'indemnité à verser par le Gouvernement néerlandais au Gouvernement français.
 
-##### Artikel 1
+Ce versement sera effectué en florins, un mois après l'échange des instruments de ratification du présent accord, au profit du Trésor français, sur la base de la parité officielle de cette devise par rapport à la livre au jour du versement(1)Le versement de cette indemnité sera effectué au compte courant du Trésor public à la Banque de France au nom de l'Agent comptable des avoirs du Trésor à l'étranger, comptable assignataire..
 
-De Nederlandse Regering en de Franse Regering, na de vorderingen in verband met de zeevaart te hebben onderzocht, welke wederzijds zijn ingediend en welke zijn voortgekomen uit de oorlogshandelingen van de oorlog 1939 - 1945, hebben na compensatie van de wederzijdse schuldvorderingen opgesomd in artikel 2, het bedrag van de schadeloosstelling welke door de Nederlandse Regering aan de Franse Regering zal worden betaald, vastgesteld op 8000 Engelse ponden.
+##### Article 2
 
-Deze betaling wordt gedaan in guldens, één maand na de uitwisseling van de akten van bekrachtiging van deze Overeenkomst, ten behoeve van de Franse schatkist, op basis van de officiële koers van dat betaalmiddel ten opzichte van het pond sterling op de dag van overmaking(1)Deze schadeloosstelling wordt gestort op de rekening-courant van de schatkist bij de Banque de France ten name van de Agent comptable des avoirs du Trésor a l'étranger, betaalmeester..
+Ce versement constituera un règlement complet et définitif de toutes les réclamations formulées par le Gouvernement français au titre des navires „Dupleix”, „Baltic”, „Midas” et de toutes celles formulées par le Gouvernement néerlandais ou par la Commission néerlandaise maritime et commerciale, au titre des navires „Rhea”, „Pluto”, „Export”, „Salomé”, „Simone-Marie” et des bateaux de pêche BRU 87 et YE 94, ainsi qu'au titre de toutes les cargaisons néerlandaises déchargées en France ou dans l'Union française pendant la durée des hostilités.
 
-##### Artikel 2
+##### Article 3
 
-Deze storting vormt een volledige en definitieve afdoening van alle door de Franse Regering ingestelde vorderingen met betrekking tot de schepen „Dupleix”, „Baltic”, „Midas” en alle door de Nederlandse Regering of door de Nederlandse Scheepvaart- en Handelscommissie ingestelde vorderingen met betrekking tot de schepen „Rhea”, „Pluto”, „Export”, „Salomé”, „Simone-Marie” en de vissersvaartuigen BRU 87 en YE 94, alsmede met betrekking tot alle in Frankrijk of in de Franse Unie tijdens de vijandelijkheden geloste Nederlandse ladingen.
+Le Gouvernement néerlandais et le Gouvernement français renoncent à toute réclamation ultérieure concernant les navires et cargaisons visés à l'article 2 du présent accord et ils s'engagent à faire leur affaire de toute réclamation y relative présentée par leurs nationaux.
 
-##### Artikel 3
+En outre, les deux Gouvernements renoncent à toute autre réclamation d'ordre gouvernemental et de même nature que celles définies à l'article 1, par. 1, et s'engagent à ne soutenir, en aucune manière, les réclamations présentées par leurs ressortissants à l'autre Gouvernement.
 
-De Nederlandse Regering en de Franse Regering doen afstand van elke verdere vordering betreffende de in artikel 2 van deze Overeenkomst vermelde schepen en ladingen en zij verbinden zich om zich te belasten met elke door hun onderdanen terzake ingediende vordering.
+##### Article 4
 
-Bovendien doen beide Regeringen afstand van elke andere vordering van Regeringswege of van dezelfde aard als die welke in artikel 1, lid 1 zijn omschreven en verbinden zich om op generlei wijze de vorderingen te ondersteunen, door hun onderdanen bij de andere Regering ingediend.
+Le présent accord rend sans objet la procédure relative au „Dupleix” qui a été intentée devant le Tribunal des Prises de Batavia. Il rend également inopposable au Gouvernement français tout jugement éventuel de ce Tribunal concernant cette affaire.
 
-##### Artikel 4
+##### Article 5
 
-Deze Overeenkomst maakt het proces dat met betrekking tot de „Dupleix” aanhangig gemaakt is bij het Prijzengerecht te Batavia, overbodig. Ook kan, ingevolge deze Overeenkomst, elke eventuele uitspraak van dit Prijzengerecht betreffende deze aangelegenheid niet aan de Franse Regering worden tegengeworpen.
-
-##### Artikel 5
-
-Deze Overeenkomst treedt in werking zodra de akten van bekrachtiging zijn uitgewisseld.
+La présente convention entrera en vigueur dès l'échange des instruments de ratification.
 
 En foi de quoi, les plénipotentiaires respectifs ont signé la présente convention qu'ils ont revêtue de leur cachet.
 

@@ -1,48 +1,21 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering"
 identifier: "BWBV0005728"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-06-15"
-last_updated: "1960-06-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005728"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004850463"
-version_id: "10005155432"
-internal_id: "C10007828421"
-label_id: "10004834434"
-dtd_version: "2.0"
-original_entry_into_force: "1960-06-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005728/1960-06-15/0"
-intitule_bron: "Trb.1960-82"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-08-06"
-intitule_in_force: "1960-08-06"
-intitule_status: "goed"
-original_publication: "Trb.1960-82"
-original_published_date: "1960-08-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-82"
-entry_into_force_date: "1960-06-15"
-jci_1_3: "jci1.3:c:BWBV0005728&z=1960-06-15&g=1960-06-15"
-jci_1_0: "1.0:c:BWBV0005728&g=1960-06-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-06-15"
+publicatiedatum: 1960-06-15
+laatste_update: 1960-06-15
+status: geldig
+toestand: 1960-06-15
+bron: "https://wetten.overheid.nl/BWBV0005728"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België betreffende de toepassing der wederzijdse wetgeving op het punt der sociale verzekering
 
-Hare Majesteit de Koningin der Nederlanden en Zijne Koninklijke Hoogheid de Prins-Regent der Belgen, in naam van zijne Majesteit de Koning der Belgen, gelijkelijk bezield door de wens elkanders onderdanen gelijk te stellen voor de toepassing der wederzijdse wetgeving op het punt der sociale verzekering en om de gevolgen te regelen voor elkanders onderdanen van het naast elkaar werken dier wetgevingen, hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd, te weten:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Koninklijke Hoogheid de Prins-Regent der Belgen, in naam van zijne Majesteit de Koning der Belgen, gelijkelijk bezield door de wens elkanders onderdanen gelijk te stellen voor de toepassing der wederzijdse wetgeving op het punt der sociale verzekering en om de gevolgen te regelen voor elkanders onderdanen van het naast elkaar werken dier wetgevingen, hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Willem Drees, Hoogstderzelver Minister van Sociale Zaken; Zijne Koninklijke Hoogheid de Prins-Regent der Belgen, in naam van Zijne Majesteit de Koning der Belgen: Léon-Eli Troclet, Hoogstdeszelfs Minister van Arbeid en Sociale Voorzorg, die, daartoe behoorlijk gemachtigd, omtrent de volgende bepalingen zijn overeengekomen:*
 
-Hare Majesteit de Koningin der Nederlanden: Willem Drees, Hoogstderzelver Minister van Sociale Zaken;
-
-Zijne Koninklijke Hoogheid de Prins-Regent der Belgen, in naam van Zijne Majesteit de Koning der Belgen: Léon-Eli Troclet, Hoogstdeszelfs Minister van Arbeid en Sociale Voorzorg,
-
-die, daartoe behoorlijk gemachtigd, omtrent de volgende bepalingen zijn overeengekomen:
-
-De Nederlandse tekst van het Verdrag is oorspronkelijk gepubliceerd in Stb. 1949/J 435. Het Verdrag is in werking getreden op 1 oktober 1949, zie Trb. 1951/13. Het Verdrag is gewijzigd door Trb. 1958/1.
-
-### AFDELING I. Beginselen
+#### AFDELING I. Beginselen
 
 ##### Artikel 1
 
@@ -92,7 +65,7 @@ Ten aanzien van de toepassing van de wetten en voorschriften, bedoeld in het eer
 
 Ten aanzien van de onderdanen van elk der verdragsluitende landen, die achtereenvolgens of om beurten onderworpen geweest zijn aan de wetten en voorschriften der beide landen, wordt bij het berekenen van de wachttijd of van het aantal premiën, vereist om recht te hebben op de wettelijke voordelen, in aanmerking gebracht de gezamenlijke duur van de tijdvakken, gedurende welke zij in beide landen verplicht verzekerd zijn geweest of het totale aantal van de in beide landen betaalde premiën.
 
-### AFDELING II. Bijzondere bepalingen betreffende de verzekering tegen de geldelijke gevolgen van ouderdom en vroegtijdige dood
+#### AFDELING II. Bijzondere bepalingen betreffende de verzekering tegen de geldelijke gevolgen van ouderdom en vroegtijdige dood
 
 ##### Artikel 6
 
@@ -100,9 +73,9 @@ Ten aanzien van de onderdanen van elk der verdragsluitende landen, die achtereen
 
 2. De in België wonende echtgenote, beneden de 65-jarige leeftijd, van een verzekerde ingevolge de Nederlandse wetgeving inzake de algemene ouderdomsverzekering is eveneens verzekerd, behoudens, al naar gelang het geval, over het tijdvak:
 
-- -. gedurende hetwelk zij tevens tijdvakken van verzekering of van bijdragebetaling of daarmede gelijkgestelde tijdvakken heeft vervuld krachtens een Belgische regeling van verplichte ouderdomsverzekering;
+- - gedurende hetwelk zij tevens tijdvakken van verzekering of van bijdragebetaling of daarmede gelijkgestelde tijdvakken heeft vervuld krachtens een Belgische regeling van verplichte ouderdomsverzekering;
 
-- -. gedurende hetwelk zij op grond van een zodanige regeling een ouderdomspensioen geniet.
+- - gedurende hetwelk zij op grond van een zodanige regeling een ouderdomspensioen geniet.
 
 ##### Artikel 7
 
@@ -116,33 +89,33 @@ Ten aanzien van de onderdanen van elk der verdragsluitende landen, die achtereen
 
 1. Personen van Belgische nationaliteit die in Nederland of in België wonen, en personen van Nederlandse nationaliteit die in België wonen, genieten de voordelen ingevolge de Nederlandse wetgeving inzake de algemene ouderdomsverzekering, welke niet steunen op tijdvakken van premiebetaling, indien zij gedurende de 6 aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren onafgebroken in Nederland hebben gewoond.
 
-- A. Loonarbeiders en met dezen gelijkgestelden van Belgische en Nederlandse nationaliteit, die in het tijdvak van 15 aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren gedurende tenminste 12 jaar in Nederland werkzaam zijn geweest, genieten de voordelen ingevolge de Nederlandse wetgeving inzake de algemene ouderdomsverzekering, welke niet steunen op tijdvakken van premiebetaling. Het tijdvak van werken dat moet worden aangetoond, dient het gehele hierbovenbedoelde tijdvak van 15 jaar te omvatten, indien zij de 65-jarige leeftijd bereiken na 31 december 1959; aan dit tijdvak wordt telkens een jaar toegevoegd, wanneer de 65-jarige leeftijd wordt bereikt te rekenen van 1970 af.
+2. - A. Loonarbeiders en met dezen gelijkgestelden van Belgische en Nederlandse nationaliteit, die in het tijdvak van 15 aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren gedurende tenminste 12 jaar in Nederland werkzaam zijn geweest, genieten de voordelen ingevolge de Nederlandse wetgeving inzake de algemene ouderdomsverzekering, welke niet steunen op tijdvakken van premiebetaling. Het tijdvak van werken dat moet worden aangetoond, dient het gehele hierbovenbedoelde tijdvak van 15 jaar te omvatten, indien zij de 65-jarige leeftijd bereiken na 31 december 1959; aan dit tijdvak wordt telkens een jaar toegevoegd, wanneer de 65-jarige leeftijd wordt bereikt te rekenen van 1970 af.
 
 - B.
 
-- a. Loonarbeiders en met dezen gelijkgestelden van Nederlandse of Belgische nationaliteit, die bewijzen, dat zij in het tijdvak van 15 aan het bereiken van de 65-jarige (60-jarige voor vrouwen) leeftijd onmiddellijk voorafgaande jaren gedurende tenminste 12 jaar in België werkzaam zijn geweest, genieten de voordelen van de Belgische wetgeving, welke niet steunen op tijdvakken van bijdragebetaling. Het tijdvak van werken dat moet worden bewezen, dient, voorzoveel het arbeiders betreft, het gehele hierbovenbedoelde tijdvak van 15 jaar te omvatten, indien zij de pensioengerechtigde leeftijd bereiken na 31 december 1959; aan dit tijdvak wordt telkens een jaar toegevoegd, wanneer de pensioengerechtigde leeftijd wordt bereikt te rekenen van 1970 af.
+   - a. Loonarbeiders en met dezen gelijkgestelden van Nederlandse of Belgische nationaliteit, die bewijzen, dat zij in het tijdvak van 15 aan het bereiken van de 65-jarige (60-jarige voor vrouwen) leeftijd onmiddellijk voorafgaande jaren gedurende tenminste 12 jaar in België werkzaam zijn geweest, genieten de voordelen van de Belgische wetgeving, welke niet steunen op tijdvakken van bijdragebetaling. Het tijdvak van werken dat moet worden bewezen, dient, voorzoveel het arbeiders betreft, het gehele hierbovenbedoelde tijdvak van 15 jaar te omvatten, indien zij de pensioengerechtigde leeftijd bereiken na 31 december 1959; aan dit tijdvak wordt telkens een jaar toegevoegd, wanneer de pensioengerechtigde leeftijd wordt bereikt te rekenen van 1970 af.
 
-- b. Loonarbeiders en met dezen gelijkgestelden van Nederlandse of Belgische nationaliteit genieten de voordelen van het Belgisch pensioenstelsel van de zeelieden ter koopvaardij, welke niet steunen op tijdvakken van bijdragebetaling, indien zij bewijzen, dat zij zonder onderbreking aan dit stelsel onderworpen zijn geweest:
+   - b. Loonarbeiders en met dezen gelijkgestelden van Nederlandse of Belgische nationaliteit genieten de voordelen van het Belgisch pensioenstelsel van de zeelieden ter koopvaardij, welke niet steunen op tijdvakken van bijdragebetaling, indien zij bewijzen, dat zij zonder onderbreking aan dit stelsel onderworpen zijn geweest:
 
-- -. gedurende het tijdvak van 12 aan het bereiken van de pensioengerechtigde leeftijd (60 jaar) onmiddellijk voorafgaande jaren, wanneer deze leeftijd wordt bereikt vóór 1 januari 1961,
+      - - gedurende het tijdvak van 12 aan het bereiken van de pensioengerechtigde leeftijd (60 jaar) onmiddellijk voorafgaande jaren, wanneer deze leeftijd wordt bereikt vóór 1 januari 1961,
 
-- -. gedurende het tijdvak van 15 aan het bereiken van de pensioengerechtigde leeftijd onmiddellijk voorafgaande jaren, wanneer deze leeftijd wordt bereikt na 31 december 1960 maar vóór 1 januari 1971,
+      - - gedurende het tijdvak van 15 aan het bereiken van de pensioengerechtigde leeftijd onmiddellijk voorafgaande jaren, wanneer deze leeftijd wordt bereikt na 31 december 1960 maar vóór 1 januari 1971,
 
-- -. sedert 1 januari 1956, wanneer de pensioengerechtigde leeftijd wordt bereikt na 31 december 1970.
+      - - sedert 1 januari 1956, wanneer de pensioengerechtigde leeftijd wordt bereikt na 31 december 1970.
 
-- c. Voor de bedienden kunnen bij een akkoord op grond van artikel 16 aanvullende voorzieningen worden getroffen.
+   - c. Voor de bedienden kunnen bij een akkoord op grond van artikel 16 aanvullende voorzieningen worden getroffen.
 
-- d. Wat de zelfstandigen betreft die de pensioengerechtigde leeftijd vóór 1 januari 1956 hebben bereikt, wordt het basis-pensioen toegekend aan personen van Nederlandse nationaliteit die bewijzen, dat zij tussen hun 35ste en hun 65ste of 60ste verjaardag, al naar gelang het een man of een vrouw betreft, gedurende 30 of 25 jaren in België werkzaam zijn geweest. Zij worden eveneens in het genot gesteld van de in de Belgische wetgeving bedoelde aanvullingen op grond van de leeftijd of op grond van stortingen verricht ingevolge de vrije verzekering.
+   - d. Wat de zelfstandigen betreft die de pensioengerechtigde leeftijd vóór 1 januari 1956 hebben bereikt, wordt het basis-pensioen toegekend aan personen van Nederlandse nationaliteit die bewijzen, dat zij tussen hun 35ste en hun 65ste of 60ste verjaardag, al naar gelang het een man of een vrouw betreft, gedurende 30 of 25 jaren in België werkzaam zijn geweest. Zij worden eveneens in het genot gesteld van de in de Belgische wetgeving bedoelde aanvullingen op grond van de leeftijd of op grond van stortingen verricht ingevolge de vrije verzekering.
 
-- A. Personen van Belgische of Nederlandse nationaliteit, die niet aantonen, al naar gelang het geval, het gedurende 6 jaar wonen overeenkomstig het eerste lid en evenmin het vereiste aantal jaren werken overeenkomstig het tweede lid, onder A, kunnen, mits zij gedurende de 6 aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren beurtelings of achtereenvolgens in Nederland en in België of uitsluitend in België hebben gewoond, de voordelen genieten van de Nederlandse wetgeving inzake de algemene ouderdomsverzekering, welke niet steunen op tijdvakken van premiebetaling. Deze voordelen worden vastgesteld door toepassing van een breuk waarvan de teller bevat de jaren van loonarbeid of daarmede gelijkgestelde arbeid in Nederland, of van verblijf in Nederland gedurende een voorafgaand tijdvak van 30 jaar, dat nader wordt vastgesteld bij een akkoord op grond van artikel 16, en waarvan de noemer ten hoogste het getal 30 bevat; een tijdvak van werken in België in de zin van dit Verdrag kan niet gelijktijdig worden beschouwd als een tijdvak van verblijf in Nederland.
+3. - A. Personen van Belgische of Nederlandse nationaliteit, die niet aantonen, al naar gelang het geval, het gedurende 6 jaar wonen overeenkomstig het eerste lid en evenmin het vereiste aantal jaren werken overeenkomstig het tweede lid, onder A, kunnen, mits zij gedurende de 6 aan het bereiken van de 65-jarige leeftijd onmiddellijk voorafgaande jaren beurtelings of achtereenvolgens in Nederland en in België of uitsluitend in België hebben gewoond, de voordelen genieten van de Nederlandse wetgeving inzake de algemene ouderdomsverzekering, welke niet steunen op tijdvakken van premiebetaling. Deze voordelen worden vastgesteld door toepassing van een breuk waarvan de teller bevat de jaren van loonarbeid of daarmede gelijkgestelde arbeid in Nederland, of van verblijf in Nederland gedurende een voorafgaand tijdvak van 30 jaar, dat nader wordt vastgesteld bij een akkoord op grond van artikel 16, en waarvan de noemer ten hoogste het getal 30 bevat; een tijdvak van werken in België in de zin van dit Verdrag kan niet gelijktijdig worden beschouwd als een tijdvak van verblijf in Nederland.
 
 - B.
 
-- a. Personen van Nederlandse of Belgische nationaliteit, die jaren van loonarbeid of van zelfstandige arbeid bewijzen door samentelling van werkelijke of gelijkgestelde tijdvakken, vervuld in Nederland en België, kunnen de voordelen genieten van de Belgische wetgevingen betreffende de ouderdomsverzekering voor arbeiders, voor bedienden en voor zeelieden ter koopvaardij, evenals de voordelen van de wetgeving betreffende het pensioen der zelfstandigen, die niet steunen op tijdvakken van bijdragebetaling. Deze voordelen worden vastgesteld door toepassing van een breuk waarvan de teller bevat de jaren van loonarbeid of van zelfstandige arbeid, vervuld in België, gedurende een voorafgaand tijdvak van 30 jaar, dat voor de verschillende groepen van arbeiders nader wordt vastgesteld bij een akkoord op grond van artikel 16, en waarvan de noemer ten hoogste het getal 30 bevat.
+   - a. Personen van Nederlandse of Belgische nationaliteit, die jaren van loonarbeid of van zelfstandige arbeid bewijzen door samentelling van werkelijke of gelijkgestelde tijdvakken, vervuld in Nederland en België, kunnen de voordelen genieten van de Belgische wetgevingen betreffende de ouderdomsverzekering voor arbeiders, voor bedienden en voor zeelieden ter koopvaardij, evenals de voordelen van de wetgeving betreffende het pensioen der zelfstandigen, die niet steunen op tijdvakken van bijdragebetaling. Deze voordelen worden vastgesteld door toepassing van een breuk waarvan de teller bevat de jaren van loonarbeid of van zelfstandige arbeid, vervuld in België, gedurende een voorafgaand tijdvak van 30 jaar, dat voor de verschillende groepen van arbeiders nader wordt vastgesteld bij een akkoord op grond van artikel 16, en waarvan de noemer ten hoogste het getal 30 bevat.
 
-- b. De tijdvakken van vrije verzekering, vervuld in Nederland tussen 1 januari 1926 en 1 januari 1956 worden, voor de toepassing van de Belgische wet betreffende het ouderdomspensioen der zelfstandigen, in België beschouwd als tijdvakken van verzekering ingevolge de samengeordende wetten.
+   - b. De tijdvakken van vrije verzekering, vervuld in Nederland tussen 1 januari 1926 en 1 januari 1956 worden, voor de toepassing van de Belgische wet betreffende het ouderdomspensioen der zelfstandigen, in België beschouwd als tijdvakken van verzekering ingevolge de samengeordende wetten.
 
-- c. De voordelen, bedoeld in lid 3, onder B (**a**), van dit artikel worden aan niet-loonarbeiders van Nederlandse of Belgische nationaliteit toegekend, indien zij in staat van behoefte verkeren. De staat van behoefte wordt vastgesteld overeenkomstig de in de Belgische wet bepaalde voorwaarden; ten aanzien van personen van Nederlandse nationaliteit wordt evenwel het prorata-pensioen, toegekend ingevolge de Nederlandse wetgeving, niet als inkomen aangerekend.
+   - c. De voordelen, bedoeld in lid 3, onder B (*a*), van dit artikel worden aan niet-loonarbeiders van Nederlandse of Belgische nationaliteit toegekend, indien zij in staat van behoefte verkeren. De staat van behoefte wordt vastgesteld overeenkomstig de in de Belgische wet bepaalde voorwaarden; ten aanzien van personen van Nederlandse nationaliteit wordt evenwel het prorata-pensioen, toegekend ingevolge de Nederlandse wetgeving, niet als inkomen aangerekend.
 
 ##### Artikel 9
 
@@ -156,7 +129,7 @@ Ten aanzien van de onderdanen van elk der verdragsluitende landen, die achtereen
 
 2. In het geval bedoeld in het vorige lid, is ten aanzien van de verzekerde die nimmer verplicht verzekerd is geweest krachtens de Nederlandse Invaliditeitswet en die de 35-jarige leeftijd heeft overschreden, artikel 372 van de Nederlandse Invaliditeitswet niet van toepassing en wordt voor de toepassing van artikel 75 dier wet de verplichte verzekering geacht te zijn aangevangen van de 35-jarige leeftijd af.
 
-### AFDELING III. Bijzondere bepalingen betreffende de geneeskundige verzorging
+#### AFDELING III. Bijzondere bepalingen betreffende de geneeskundige verzorging
 
 ##### Artikel 11
 
@@ -166,7 +139,7 @@ De geneeskundige verzorging wordt aan de verzekerde en aan de leden van zijn gez
 
 De bevoegde autoriteiten van elk der verdragsluitende landen zullen de wijze van uitvoering van het bepaalde in artikel 11 in gemeen overleg vastleggen en met name het bedrag van de vergoedingen bepalen, die onderscheidenlijk door de Belgische en Nederlandse organen verschuldigd zijn als tegenwaarde voor de geneeskundige verzorging, verstrekt aan de onderdanen van het ene en het andere land.
 
-### AFDELING IV. Bijzondere bepalingen betreffende de onvrijwillige werkloosheid
+#### AFDELING IV. Bijzondere bepalingen betreffende de onvrijwillige werkloosheid
 
 ##### Artikel 13
 
@@ -174,19 +147,19 @@ De bevoegde autoriteiten van elk der verdragsluitende landen zullen de wijze van
 
 2. De verdragsluitende landen verbinden zich aan de arbeiders, die hun verblijf niet hebben op het grondgebied van het land, waar zij werkzaam waren en die dientengevolge de voordelen van de wetten en voorschriften in zake de werkloosheid van dat land niet kunnen genieten, in geval van werkloosheid uitkering te verstrekken op de voet van de bepalingen der eigen wetgeving.
 
-### AFDELING V. Bijzondere bepalingen betreffende het stelsel der gezinsvergoedingen en het geboortegeld
+#### AFDELING V. Bijzondere bepalingen betreffende het stelsel der gezinsvergoedingen en het geboortegeld
 
 ##### Artikel 14
 
 De gezinsvergoedingen en het geboortegeld worden toegekend, onverschillig in welk der beide landen de kinderen geboren zijn of worden opgevoed.
 
-### AFDELING VI. Bijzondere bepalingen betreffende het stelsel van de pensioenen der mijnwerkers en der met dezen gelijkgestelden
+#### AFDELING VI. Bijzondere bepalingen betreffende het stelsel van de pensioenen der mijnwerkers en der met dezen gelijkgestelden
 
 ##### Artikel 15
 
 De uitvoeringsmaatregelen betreffende de toepassing van het pensioenstelsel der mijnwerkers en der met dezen gelijkgestelden zullen door de bevoegde autoriteiten van beide landen in gemeen overleg worden vastgesteld overeenkomstig de beginselen en de geest van dit verdrag.
 
-### AFDELING VII. Slotbepalingen
+#### AFDELING VII. Slotbepalingen
 
 ##### Artikel 16
 

@@ -1,44 +1,19 @@
 ---
 title: "Luchtvaartovereenkomst tussen het Koninkrijk der Nederlanden en Ierland"
 identifier: "BWBV0005681"
-country: "nl"
-rank: "verdrag"
-publication_date: "1971-06-14"
-last_updated: "1971-06-14"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005681"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004812313"
-version_id: "10005116222"
-internal_id: "C10007779361"
-label_id: "10004796144"
-dtd_version: "2.0"
-original_entry_into_force: "1948-05-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005681/1971-06-14/0"
-intitule_bron: "Stb.1949-I 417"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-09-15"
-intitule_published: "1949-04-14"
-intitule_in_force: "1957-12-12"
-intitule_status: "goed"
-original_publication: "Stb.1949-I 417"
-original_signed_date: "1948-09-15"
-original_published_date: "1949-04-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-05-10"
-jci_1_3: "jci1.3:c:BWBV0005681&z=1971-06-14&g=1971-06-14"
-jci_1_0: "1.0:c:BWBV0005681&g=1971-06-14"
-citeertitel_status: "redactioneel"
-signed_date: "1948-09-15"
-entry_into_force: "1948-05-10"
+publicatiedatum: 1948-05-10
+laatste_update: 1971-06-14
+status: geldig
+toestand: 1971-06-14
+bron: "https://wetten.overheid.nl/BWBV0005681"
+opgehaald: 2026-09-15
 ---
+
 # Luchtvaartovereenkomst tussen het Koninkrijk der Nederlanden en Ierland
 
-De Regering van Nederland en de Regering van Ierland,
-
-Wensende een Overeenkomst te sluiten met het doel luchtdiensten tussen Nederland en Ierland in te stellen.
-
-Hebben dienovereenkomstig tot dat doel gevolmachtigden benoemd, die, daartoe behoorlijk gemachtigd, het volgende zijn overeengekomen:
+*De Regering van Nederland en de Regering van Ierland, Wensende een Overeenkomst te sluiten met het doel luchtdiensten tussen Nederland en Ierland in te stellen. Hebben dienovereenkomstig tot dat doel gevolmachtigden benoemd, die, daartoe behoorlijk gemachtigd, het volgende zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -94,10 +69,10 @@ Elk der Overeenkomstsluitende Partijen kan te allen tijde aan de andere mededeli
 
 Gedaan te Dublin, in tweevoud, de tiende Mei 1948, in de Nederlandse en Engelse taal, welke beide teksten gelijkelijk authentiek zullen zijn.
 
-**Voor de Ierse Regering:**
+*Voor de Ierse Regering:*
 
 S. MACBRIDE.
 
-**Voor de Nederlandse Regering:**
+*Voor de Nederlandse Regering:*
 
 W. VAN TETS.

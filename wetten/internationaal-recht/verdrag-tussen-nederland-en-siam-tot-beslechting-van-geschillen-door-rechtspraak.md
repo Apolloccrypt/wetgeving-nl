@@ -1,82 +1,49 @@
 ---
 title: "Verdrag tussen Nederland en Siam tot beslechting van geschillen door rechtspraak en verzoening"
 identifier: "BWBV0005966"
-country: "nl"
-rank: "verdrag"
-publication_date: "1929-06-28"
-last_updated: "1929-06-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005966"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004963313"
-version_id: "10005280612"
-internal_id: "C10008122991"
-label_id: "10004946424"
-dtd_version: "2.0"
-original_entry_into_force: "1929-06-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005966/1929-06-28/0"
-intitule_bron: "Stb.1929-403"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1929-07-26"
-intitule_published: "1929-08-06"
-intitule_in_force: "1929-08-06"
-intitule_status: "goed"
-original_publication: "Stb.1929-403"
-original_signed_date: "1929-07-26"
-original_published_date: "1929-08-06"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1929-06-28"
-jci_1_3: "jci1.3:c:BWBV0005966&z=1929-06-28&g=1929-06-28"
-jci_1_0: "1.0:c:BWBV0005966&g=1929-06-28"
-citeertitel_status: "redactioneel"
-signed_date: "1929-07-26"
-entry_into_force: "1929-06-28"
+publicatiedatum: 1929-06-28
+laatste_update: 1929-06-28
+status: geldig
+toestand: 1929-06-28
+bron: "https://wetten.overheid.nl/BWBV0005966"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen Nederland en Siam tot beslechting van geschillen door rechtspraak en verzoening
 
-HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN
+*SA MAJESTÉ LA REINE DES PAYS-BAS et SA MAJESTÉ LE ROI DE SIAM, désirant resserrer les liens d'amitié qui unissent le Siam et les Pays-Bas et favoriser le règlement pacifique des différends qui pourraient naître entre les deux Pays, conformément à l'esprit du pacte de la Société des Nations, ont résolu de conclure, à cet effet, un traité de règlement judiciaire et de conciliation, et ont nommé pour Leurs Plénipotentiaires, savoir: Sa Majesté la Reine des Pays-Bas: Jonkheer FRANS BEELAERTS VAN BLOKLAND, Son Ministre des Affaires Etrangères; Sa Majesté le Roi de Siam: Son Altesse Sérénissime le Prince VARNVAIDYA, Son Envoyé Extraordinaire et Ministre Plénipotentiaire près Sa Majesté la Reine des Pays-Bas; lesquels, après s'être communiqué leurs pleins pouvoirs respectifs, trouvés en bonne et due forme, sont convenus des dispositions suivantes:*
 
-en
+##### Article Premier
 
-ZIJNE MAJESTEIT DE KONING VAN SIAM,
+Les Hautes Parties contractantes s'engagent réciproquement à ne rechercher, dans aucun cas, autrement que par voie pacifique le règlement des litiges ou conflits qui viendraient à s'élever entre elles.
 
-verlangende de vriendschapsbanden, die Siam en Nederland verbinden, nauwer aan te halen en overeenkomstig den geest van het Volkenbondsverdrag de vreedzame beslechting te bevorderen van geschillen, die tusschen beide landen mochten rijzen, hebben besloten te dien einde een verdrag te sluiten tot beslechting van geschillen door rechtspraak en verzoening en hebben tot Hunne Gevolmachtigden benoemd, te weten:
+##### Article 2
 
-Hare Majesteit de Koningin der Nederlanden: Jonkheer FRANS BEELAERTS VAK BLOKLAND, HoogstDerzelver Minister van Buitenlandsche Zaken;
+Sauf accord des Parties sur une autre manière de régler un différend, les Hautes Parties contractantes reconnaissent comme obligatoire pour la durée du présent traité, la juridiction de la Cour Permanente de Justice Internationale, selon le Statut de la Cour pour tous différends d'ordre juridique s'élevant entre elles et qui n'auraient pu être résolus par la voie diplomatique dans un délai raisonnable, et notamment tous différends ayant pour objet:
 
-Zijne Majesteit de Koning van Siam: Zijne Doorluchtige Hoogheid Prins VARNVAIDYA, HoogstDeszelfs Buitengewoon Gezant en Gevolmachtigd Minister bij Hare Majesteit de Koningin der Nederlanden;
+- a) l'interprétation d'un traité;
 
-die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, omtrent de volgende bepalingen zijn overeengekomen:
+- b) tout point de droit international;
 
-##### Artikel 1
+- c) la réalité de tout fait, qui, s'il était établi, constituerait la violation d'un engagement international;
 
-De Hooge verdragsluitende Partijen verbinden zich wederkeerig om in geen enkel geval anders dan langs vreedzamen weg de oplossing te zoeken van de geschillen of conflicten, die tusschen haar mochten rijzen.
+- d) la nature ou l'étendue de la réparation due pour la rupture d'un engagement international.
 
-##### Artikel 2
+En cas de contestation sur le point de savoir si la Cour est compétente pour la solution du différend conformément aux dispositions du paragraphe précédent la Cour décidera de cette question.
 
-Behalve, indien Partijen zijn overeengekomen een geschil op andere wijze tot oplossing te brengen, erkennen de Hooge verdragsluitende Partijen als verplicht, voor den duur van dit verdrag, de rechtspraak van het Permanente Hof van Internationale Justitie volgens het Statuut van het Hof voor alle rechtsgeschillen, die tusschen haar mochten rijzen en die niet langs diplomatieken weg binnen redelijken tijd opgelost mochten kunnen zijn en in het bijzonder alle geschillen, welke tot onderwerp hebben:
+Chaque Partie est tenue d'exécuter le plus rapidement possible la sentence rendue par la Cour.
 
-- a). de uitlegging van een verdrag;
+Toutes questions sur lesquelles les Hautes Parties contractantes seraient divisées sans pouvoir les résoudre à l'amiable par les procédés diplomatiques ordinaires, questions dont la solution ne pourrait être recherchée par un jugement ainsi qu'il est prévu par l'alinéa premier du présent article et pour la solution desquelles une autre procédure n'a pas été prévue, seront soumises à une procédure de conciliation à instituer par un accord des Parties pour chaque cas particulier.
 
-- b). ieder punt van internationaal recht;
+##### Article 3
 
-- c). het bestaan van ieder feit, dat, wanneer het werd vastgesteld, de schending zou inhouden van eene internationale verbintenis;
+Le présent traité sera ratifié. Les instruments de ratification en seront échangés à La Haye dans le plus bref délai possible.
 
-- d). den aard of den omvang van de vergoeding, verschuldigd voor de schending van eene internationale verbintenis.
+Le traité est conclu pour la durée de cinq ans à compter de la date de l'échange des ratifications. S'il n'est pas dénoncé six mois au moins avant l'expiration de ce terme, il demeure en vigueur pour une nouvelle période de cinq ans et ainsi de suite.
 
-In geval van verschil van meening over de vraag of het Hof bevoegd is tot oplossing van het geschil overeenkomstig de bepalingen van de voorafgaande paragraaf, zal het Hof over deze vraag beslissen.
-
-Elke Partij is gehouden zoo spoedig mogelijk het door het Hof gewezen vonnis ten uitvoer te leggen.
-
-Alle geschilpunten, waarover de Hooge verdragsluitende Partijen verdeeld mochten zijn zonder daarvoor eene minnelijke oplossing langs de gewone diplomatieke wegen te kunnen vinden en waarvan de oplossing niet mocht kunnen worden gezocht door een uitspraak, zooals in de eerste alinea van dit artikel is voorzien en voor de oplossing waarvan eene andere procedure niet is voorzien, zullen worden onderworpen aan de procedure van verzoening, welke in elk geval afzonderlijk zal worden ingesteld bij eene overeenkomst tusschen de Partijen.
-
-##### Artikel 3
-
-Dit verdrag zal worden bekrachtigd. De bekrachtigingsoorkonden zullen binnen den kortst mogelijken tijd te 's-Gravenhage worden uitgewisseld.
-
-Het verdrag is gesloten voor den duur van vijf jaren, te rekenen van den dag van uitwisseling der bekrachtigingsoorkonden. Indien het niet ten minste zes maanden voor den afloop van dezen termijn is opgezegd, blijft het van kracht voor een nieuw tijdvak van vijf jaren en zoo vervolgens.
-
-Wanneer eene procedure voor het Permanente Hof van Internationale Justitie hangende is op het oogenblik van het afloopen van dit verdrag, zullen de bepalingen daarvan van toepassing blijven.
+Si une procédure devant la Cour Permanente de Justice Internationale est pendante lors de l'expiration du présent traité, les dispositions de celui-ci resteront applicables.
 
 En foi de quoi, les Plénipotentiaires susnommés ont signé le présent traité, et y ont apposé leurs cachets.
 

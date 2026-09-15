@@ -1,136 +1,113 @@
 ---
 title: "Overeenkomst inzake het internationale luchtvervoer"
 identifier: "BWBV0005517"
-country: "nl"
-rank: "verdrag"
-publication_date: "1945-02-08"
-last_updated: "1945-02-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005517"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004675953"
-version_id: "10004936792"
-internal_id: "C10007423881"
-label_id: "10004660054"
-dtd_version: "2.0"
-original_entry_into_force: "1945-02-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005517/1945-02-08/0"
-intitule_bron: "Stb.1946-G 252"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1946-09-13"
-intitule_published: "1946-10-11"
-intitule_in_force: "1954-02-20"
-intitule_status: "goed"
-original_publication: "Stb.1946-G 252"
-original_signed_date: "1946-09-13"
-original_published_date: "1946-10-11"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1945-02-08"
-jci_1_3: "jci1.3:c:BWBV0005517&z=1945-02-08&g=1945-02-08"
-jci_1_0: "1.0:c:BWBV0005517&g=1945-02-08"
-citeertitel_status: "officieel"
-signed_date: "1946-09-13"
-entry_into_force: "1945-02-08"
+publicatiedatum: 1945-02-08
+laatste_update: 1945-02-08
+status: geldig
+toestand: 1945-02-08
+bron: "https://wetten.overheid.nl/BWBV0005517"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake het internationale luchtvervoer
 
-De Staten, die, lid zijnde van de Internationale Burgerlijke Luchtvaart Organisatie, deze Overeenkomst inzake het Internationale Luchtvervoer onderteekenen en aanvaarden, verklaren het volgende:
+*The States which sign and accept this International Air Transport Agreement being members of the International Civil Aviation Organization declare as follows:*
 
-##### Artikel I
+##### Article I
 
-**Sectie 1.**
+*Section 1.*
 
-Elke overeenkomstsluitende Staat kent met betrekking tot geregelde internationale luchtdiensten aan de andere overeenkomstsluitende Staten toe de volgende vrijheden van de lucht:
+Each contracting State grants to the other contracting States the following freedoms of the air in respect of scheduled international air services:
 
-- (1) Het recht om over zijn grondgebied te vliegen zonder tusschenlandingen;
+- (1) The privilege to fly across its territory without landing;
 
-- (2) het recht om te landen voor andere dan verkeersdoeleinden;
+- (2) The privilege to land for non-traffic purposes;
 
-- (3) het recht om passagiers, post en goederen af te zetten, aan boord genomen binnen het grondgebied van den Staat welks nationaliteit het luchtvaartuig bezit;
+- (3) The privilege to put down passengers, mail and cargo taken on in the territory of the State whose nationality the aircraft possesses;
 
-- (4) het recht om passagiers, post en goederen aan boord te nemen, bestemd voor het grondgebied van den Staat, welks nationaliteit het luchtvaartuig bezit;
+- (4) The privilege to take on passengers, mail and cargo destined for the territory of the State whose nationality the aircraft possesses;
 
-- (5) het recht om passagiers, post en goederen aan boord te nemen, bestemd voor het grondgebied van een willekeurigen anderen overeenkomstsluitenden Staat en het recht passagiers, post en goederen, afkomstig van het grondgebied van een zoodanigen Staat, af te zetten.
+- (5) The privilege to take on passengers, mail and cargo destined for the territory of any other contracting State and the privilege to put down passengers, mail and cargo coming from any such territory.
 
-Voor wat de rechten, vermeld onder de punten (3), (4) en (5) van deze Sectie betreft, heeft de verbintenis van elken overeenkomstsluitenden Staat enkel betrekking op doorgaande diensten, welke routes volgen, die een redelijk rechtstreeksche lijn vormen met het eigen gebied van den Staat, welks nationaliteit het luchtvaartuig bezit, als begin of eindpunt.
+With respect to the privileges specified under paragraphs (3), (4) and (5) of this section, the undertaking of each contracting State relates only to through services on a route constituting a reasonably direct line out from and back to the homeland of the State whose nationality the aircraft possesses.
 
-De rechten, vervat in deze Sectie zijn niet van toepassing op luchthavens, welke met uitsluiting van alle geregelde nationale luchtdiensten gebruikt worden voor militaire doeleinden. In gebieden waar daadwerkelijke vijandelijkheden plaats hebben of welke militair bezet zijn, en, in tijd van oorlog, langs de toevoerwegen naar zulke gebieden, zal de uitoefening van deze rechten onderworpen zijn aan de goedkeuring van de bevoegde militaire autoriteiten.
+The privileges of this section shall not be applicable with respect to airports utilized for military purpose to the exclusion of any scheduled international air services. In areas of active hostilities or of military occupation, and in time of war along the supply routes leading to such areas, the exercise of such privileges shall be subject to the approval of the competent military authorities.
 
-**Sectie 2.**
+*Section 2.*
 
-De uitoefening van bovengenoemde rechten zal geschieden overeenkomstig de bepalingen van de op 7 December 1944 te Chicago opgestelde Tijdelijke Overeenkomst inzake de Internationale Burgerlijke Luchtvaart en van het eveneens op 7 December 1944 te Chicago opgestelde [Verdrag inzake de Internationale Burgerlijke Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), wanneer dit Verdrag van kracht wordt.
+The exercise of the foregoing privileges shall be in accordance with the provisions of the Interim Agreement on International Civil Aviation and, when it comes into force, with the provisions of the [Convention on International Civil Aviation](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), both drawn up at Chicago on December 7, 1944.
 
-**Sectie 3.**
+*Section 3.*
 
-Een overeenkomstsluitende Staat, welke aan de luchtvaartmaatschappijen van een anderen overeenkomstsluitenden Staat het recht verleent om te landen voor andere dan verkeersdoeleinden, zal den eisch mogen stellen, dat zoodanige luchtvaartmaatschappijen op de plaatsen waar deze tusschenlandingen worden gemaakt redelijke commercieele diensten bieden.
+A contracting State granting to the airlines of another contracting State the privilege to stop for non-traffic purposes may require such airlines to offer reasonable commercial service at the points at which such stops are made.
 
-Een zoodanige eisch zal niet tengevolge mogen hebben eenig verschil in behandeling tusschen luchtvaartmaatschappijen, welke dezelfde route vliegen; hij zal rekening moeten houden met het laadvermogen van de luchtvaartuigen en hij zal worden toegepast op zoodanige wijze, dat de normale uitoefening van de betrokken internationale luchtdiensten of de rechten en verplichtingen van een overeenkomstsluitenden Staat niet worden geschaad.
+Such requirement shall not involve any discrimination between airlines operating on the same route, shall take into account the capacity of the aircraft, and shall be exercised in such a manner as not to prejudice the normal operations of the international air services concerned or the rights and obligations of any contracting State.
 
-**Sectie 4.**
+*Section 4.*
 
-Elke overeenkomstsluitende Staat zal het recht hebben, aan de luchtvaartuigen van andere overeenkomstsluitende Staten vergunning te weigeren om binnen zijn grondgebied op te nemen passagiers, post en goederen, vervoerd tegen vergoeding of belooning, bestemd voor een ander punt binnen zijn grondgebied. Elke overeenkomstsluitende Staat neemt op zich geen regelingen aan te gaan, welke, met uitsluiting van de andere, aan een bepaalden Staat of aan een luchtvaartmaatschappij van een anderen Staat een zoodanig recht uitdrukkelijk toekent, noch van een anderen Staat geen zoodanig alleenrecht te verkrijgen.
+Each contracting State shall have the right to refuse permission to the aircraft of other contracting States to take on in its territory passengers, mail and cargo carried for remuneration or hire and destined for another point within its territory. Each contracting State undertakes not to enter into any arrangements which specifically grant any such privilege on an exclusive basis to any other State or an airline of any other State, and not to obtain any such exclusive privilege from any other State.
 
-**Sectie 5.**
+*Section 5.*
 
-Elke overeenkomstsluitende Staat kan, met inachtneming van de bepalingen van deze Overeenkomst:
+Each contracting State may, subject to the provisions of this Agreement,
 
-- (1) aanwijzen de route, welke binnen zijn grondgebied door internationale luchtdiensten moet worden gevolgd, en de luchthavens, welke zoodanige diensten mogen gebruiken;
+- (1) Designate the route to be followed within its territory by any international air service and the airports which any such service may use;
 
-- (2) zoodanigen diensten billijke een redelijke kosten opleggen of doen opleggen voor het gebruik van zoodanige luchthavens en andere faciliteiten; deze kosten zullen niet hooger zijn dan die, welke zouden worden betaald voor het gebruik van zoodanige luchthavens en faciliteiten door zijn eigen luchtvaartuigen, indien deze op gelijksoortige internationale diensten zouden worden gebezigd, met dien verstande, dat op verzoek van een belanghebbenden overeenkomstsluitenden Staat, de kosten opgelegd voor het gebruik van luchthavens en andere faciliteiten, onderworpen zullen worden aan een onderzoek door den Raad van de bij [bovenbedoeld Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507) ingestelde Internationale Burgerlijke Luchtvaart Organisatie, welke daarover verslag zal uitbrengen en aanbevelingen terzake zal doen ter overweging van den Staat of van de Staten, daarbij betrokken.
+- (2) Impose or permit to be imposed on any such service just and reasonable charges for the use of such airports and other facilities; these charges shall not be higher than would be paid for the use of such airports and facilities by its national aircraft engaged in similar international services: provided that, upon representation by an interested contracting State, the charges imposed for the use of airports and other facilities shall be subject to review by the Council of the International Civil Aviation Organization established under the [above-mentioned Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), which shall report and make recommendations thereon for the consideration of the State or States concerned.
 
-**Sectie 6.**
+*Section 6.*
 
-Elke overeenkomstsluitende Staat behoudt zich het recht voor, een luchtvervoersonderneming van een anderen Staat een bewijs of vergunning te onthouden of deze te herroepen, in elk geval, dat niet tot zijn genoegen is gebleken, dat het wezenlijke eigendomsrecht en het daadwerkelijke toezicht berusten bij onderdanen van een overeenkomstsluitenden Staat, dan wel in geval een zoodanige luchtvervoersonderneming in gebreke blijft de wetten van den Staat, over welks grondgebied zij luchtdiensten uitoefent, na te komen of aan haar verplichtingen ingevolge deze Overeenkomst te voldoen.
+Each contracting State reserves the right to withhold or revoke a certificate or permit to an air transport enterprise of another State in any case where it is not satisfied that substantial ownership and effective control are vested in nationals of a contracting State, or in case of failure of such air transport enterprise to comply with the laws of the State over which it operates, or to perform its obligations under this Agreement.
 
-##### Artikel II
+##### Article II
 
-**Sectie 1.**
+*Section 1.*
 
-De overeenkomstsluitende Staten aanvaarden deze Overeenkomst als opheffende alle tusschen hen bestaande verplichtingen en afspraken, welke onvereenigbaar zijn met haar bepalingen en nemen op zich, zoodanige verplichtingen en afspraken niet aan te gaan. Een overeenkomstsluitende Staat, welke eenige andere verplichting heeft aangegaan, welke onvereenigbaar is met deze Overeenkomst, zal onmiddellijk stappen doen om van zijn verplichtingen te worden ontslagen. Indien een luchtvaartmaatschappij van een overeenkomstsluitenden Staat zoodanige onvereenigbare verplichtingen heeft aangegaan, zal de Staat, welks nationaliteit zij bezit, zijn beste krachten aanwenden om de onverwijlde beëindiging ervan te verzekeren en zal in ieder geval zorgdragen, dat zij worden beëindigd zoo spoedig als zulks op wettige wijze na de inwerkingtreding van deze Overeenkomst kan geschieden.
+The contracting States accept this Agreement as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which has undertaken any other obligations inconsistent with this Agreement shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Agreement.
 
-**Sectie 2.**
+*Section 2.*
 
-Met inachtneming van de bepalingen, vervat in de voorgaande Sectie, kan een overeenkomstsluitende Staat regelingen treffen met betrekking tot internationale luchtdiensten, welke niet onvereenigbaar zijn met deze Overeenkomst. Elke zoodanige regeling zal onverwijld worden geregistreerd bij den Raad, die deze zoo spoedig mogelijk openbaar zal maken.
+Subject to the provisions of the preceding section, any contracting State may make arrangements concerning international air services not inconsistent with this Agreement. Any such arrangement shall be forthwith registered with the Council, which shall make it public as soon as possible.
 
-##### Artikel III
+##### Article III
 
-Elke overeenkomstsluitende Staat neemt op zich, dat bij het instellen en uitoefenen van doorgaande diensten behoorlijk rekening zal worden gehouden met de belangen van de andere overeenkomstsluitende Staten, door niet onnoodig hun locale diensten te hinderen of de ontwikkeling van hun doorgaande diensten te bemoeilijken.
+Each contracting State undertakes that in the establishment and operation of through services due consideration shall be given to the interests of the other contracting States so as not to interfere unduly with their regional services or to hamper the development of their through services.
 
-##### Artikel IV
+##### Article IV
 
-**Sectie 1**
+*Section 1.*
 
-Elke overeenkomstsluitende Staat, kan door middel van een voorbehoud, gehecht aan deze Overeenkomst, op het oogenblik van onderteekening of aanvaarding verkiezen om de rechten en verplichtingen, bedoeld in Artikel I, Sectie 1, lid (5), niet te verleenen en te aanvaarden, en kan te allen tijde na de aanvaarding zich met een opzeggingstermijn van zes maanden door een mededeeling aan den Raad aan deze rechten en verplichtingen onttrekken. Zoodanige overeenkomstsluitende Staat kan door middel van een mededeeling aan den Raad met een termijn van zes maanden deze rechten en verplichtingen naar gelang van den aard van het geval op zich nemen of weder op zich nemen.
+Any contracting State may by reservation attached to this Agreement at the time of signature or acceptance elect not to grant and receive the rights and obligations of Article I, Section 1, paragraph (5), and may at any time after acceptance, on six months' notice, given by it to the Council, withdraw itself from such rights and obligations. Such contracting State may on six months' notice to the Council assume or resume, as the case may be, such rights and obligations. No contracting State shall be obliged to grant any rights under the said paragraph to any contracting State not bound thereby.
 
-Geen overeenkomstsluitende Staat zal verplicht zijn rechten, als bedoeld in meergenoemd lid, toe te kennen aan een overeenkomstsluitenden Staat, welke deze rechten niet aanvaard heeft.
+*Section 2.*
 
-**Sectie 2.**
+A contracting State which deems that action by another contracting State under this Agreement in causing injustice or hardship to it, may request the Council to examine the situation. The Council shall thereupon inquire into the matter, and shall call the States concerned into consultation. Should such consultation fail to resolve the difficulty, the Council may make appropriate findings and recommendations to the contracting States concerned. If thereafter a contracting State concerned shall in the opinion of the Council unreasonably fail to take suitable corrective action, the Council may recommend to the Assembly of the above-mentioned Organization that such contracting State be suspended from its rights and privileges under this Agreement until such action has been taken. The Assembly by a two-thirds vote may so suspend such contracting State for such period of time as it may deem proper or until the Council shall find that corrective action has been taken by such State.
 
-Een overeenkomstsluitende Staat, welke meent, dat een bepaalde daad van een anderen overeenkomstsluitenden Staat in het bestek van deze Overeenkomst hem onrecht of overlast veroorzaakt, kan de Raad vragen, de aangelegenheid te onderzoeken. De Raad zal daarop de aangelegenheid in onderzoek nemen en de betrokken Staten tot het plegen van overleg bijeenroepen. In geval een zoodanig overleg de moeilijkheid niet zou oplossen, zal de Raad aan de betrokken Staten zijn meening terzake kenbaar maken en aanbevelingen doen. Indien daarna een der betrokken overeenkomstsluitende Staten naar de meening van den Raad zou nalaten de noodige maatregelen tot verbetering van den toestand te nemen, kan de Raad de Vergadering van bovengenoemde Organisatie in overweging geven, dat aan zoodanigen overeenkomstsluitenden Staat zijn rechten en voorrechten, voortvloeiende uit deze Overeenkomst, worden ontzegd, totdat die maatregelen zijn genomen. De Vergadering kan dan bij een meerderheid van twee derden der stemmen zoodanigen overeenkomstsluitenden Staat uitsluiten voor een tijdvak als haar goeddunkt of totdat de Raad van Oordeel is, dat zoodanige Staat de maatregelen tot verbetering van den toestand heeft genomen.
+*Section 3.*
 
-**Sectie 3.**
+If any disagreement between two or more contracting States relating to the interpretation or application of this Agreement cannot be settled by negotiation, the provisions of [Chapter XVIII of the above-mentioned Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&hoofdstuk=XVIII) shall be applicable in the same manner as provided therein with reference to any disagreement relating to the interpretation or application of the [above-mentioned Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507).
 
-Indien eenige oneenigheid tusschen twee of meer overeenkomstsluitende Staten met betrekking tot de uitlegging of toepassing van deze Overeenkomst niet opgelost kan worden door onderhandelingen, zullen de bepalingen van [Hoofdstuk XVIII van bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&hoofdstuk=XVIII), geldende voor gevallen van oneenigheid met betrekking tot de uitlegging of toepassing daarvan, van overeenkomstige toepassing zijn.
+##### Article V
 
-##### Artikel V
+This agreement shall remain in force as long as the above-mentioned Convention; provided, however, that any contracting State, a party to the present Agreement, may denounce it on one year's notice given by it to the Government of the United States of America, which shall at once inform all other contracting States of such notice and withdrawal.
 
-Deze Overeenkomst blijft even lang van kracht als bovengenoemd Verdrag, met dien verstande evenwel, dat een overeenkomstsluitende Staat, welke partij is bij deze Overeenkomst, haar kan opzeggen met een opzeggingstermijn van een jaar door middel van een mededeeling aan de Regeering van de Vereenigde Staten van Amerika, die onverwijld alle andere overeenkomstsluitende Staten kennis zal geven van zoodanige mededeeling en opzegging.
+##### Article VI
 
-##### Artikel VI
+Pending the coming into force of the above-mentioned Convention, all references to it herein other than those contained in Article IV, Section 3, and Article VII shall be deemed to be references to the Interim Agreement on International Civil Aviation drawn up at Chicago on December 7, 1944; and references to the International Civil Aviation Organization, the Assembly, and the Council shall be deemed to be references to the Provisional International Civil Aviation Organization, the Interim Assembly, and the Interim Council, respectively.
 
-Hangende het van kracht worden van bovengenoemd Verdrag, zullen alle verwijzingen naar dat Verdrag, welke in deze Overeenkomst voorkomen, met uitzondering van die, vervat in Artikel IV, Sectie 3, en in Artikel VII, geacht worden verwijzingen te zijn naar de Tijdelijke Overeenkomst inzake de Internationale Burgerlijke Luchtvaart, opgesteld te Chicago op 7 December 1944; verwijzingen naar de Internationale Burgerlijke Luchtvaart Organisatie, de Vergadering en den Raad zullen worden geacht verwijzingen te zijn onderscheidenlijk naar de Voorloopige Internationale Burgerlijke Luchtvaart Organisatie, de Voorloopige Vergadering en den Voorloopigen Raad.
+##### Article VII
 
-##### Artikel VII
+For the purposes of this Agreement, „territory” shall be defined as in [Article 2 of the above-mentioned Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=2).
 
-In deze Overeenkomst zal onder „grondgebied” worden verstaan, hetgeen daaronder wordt verstaan in [Artikel 2 van bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=2).
+##### Article VIII. Signatures and Acceptances of Agreement.
 
-##### Artikel VIII. Onderteekeningen en Aanvaardingen van deze Overeenkomst.
+The undersigned delegates to the International Civil Aviation Conference, convened in Chicago on November 1, 1944, have affixed their signatures to this Agreement with the understanding that the Government of the United States of America shall be informed at the earliest possible date by each of the governments on whose behalf the Agreement has been signed whether signature on its behalf shall constitute an acceptance of the Agreement by that government and an obligation binding upon it.
 
-De ondergeteekende gedelegeerden ter Internationale Burgerlijke Luchtvaart Conferentie, bijeengeroepen te Chicago op 1 November 1944, hebben hun handteekening onder deze Overeenkomst geplaatst, met dien verstande, dat aan de Regeering van de Vereenigde Staten van Amerika ten spoedigste door elk der Regeeringen, in wier naam de Overeenkomst is onderteekend, zal worden medegedeeld, of onderteekening uit haar naam beteekent de aanvaarding door die Regeering van de Overeenkomst en een verplichting welke haar bindt.
+Any State a member of the International Civil Aviation Organization may accept the present Agreement as an obligation binding upon it by notification of its acceptance to the Government of the United States, and such acceptance shall become effective upon the date of the receipt of such notification by that Government.
 
-Elke Staat, welke lid is van de Internationale Burgerlijke Luchtvaart Organisatie, kan deze Overeenkomst aanvaarden als een hem bindende verplichting door middel van een kennisgeving nopens haar aanvaarding, gericht tot de Regeering van de Vereenigde Staten, en zoodanige aanvaarding zal van kracht worden met ingang van het tijdstip van de ontvangst van de kennisgeving door die Regeering.
-
-Deze Overeenkomst wordt tusschen de overeenkomstsluitende Staten van kracht door de aanvaarding door elk van hen. Daarna zal zij bindend worden voor elken anderen Staat welke van haar aanvaarding kennis geeft aan de Regeering van de Vereenigde Staten, met ingang van den dag van ontvangst van de aanvaarding door die Regeering. De Regeering van de Vereenigde Staten zal alle Staten, welke de Overeenkomst hebben onderteekend en aanvaard, inlichten omtrent het tijdstip waarop zij door de verschillende Staten is aanvaard, alsook omtrent het tijdstip waarop zij voor iederen Staat, welke haar aanvaardt, van kracht wordt.
+This Agreement shall come into force as between contracting States upon its acceptance by each of them. Thereafter it shall become binding as to each other State indicating its acceptance to the Government of the United States on the date of the receipt of the acceptance by that Government. The Government of the United States shall inform all signatory and accepting States of the date of all acceptances of the Agreement and of the date on which it comes into force for each accepting State.
 
 In witness whereof, the undersigned, having been duly authorized, sign this Agreement on behalf of their respective governments on the date appearing opposite their respective signatures.
 

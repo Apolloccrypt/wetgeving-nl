@@ -1,318 +1,299 @@
 ---
 title: "Overeenkomst tot oprichting van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee"
 identifier: "BWBV0005073"
-country: "nl"
-rank: "verdrag"
-publication_date: "1999-09-15"
-last_updated: "1999-09-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005073"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004457253"
-version_id: "10004668882"
-internal_id: "C10007304071"
-label_id: "10004442524"
-dtd_version: "2.0"
-original_entry_into_force: "1951-04-18"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005073/1999-09-15/0"
-intitule_bron: "Trb.1952-62"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-04-24"
-intitule_in_force: "1952-04-24"
-intitule_status: "goed"
-original_publication: "Trb.1952-62"
-original_published_date: "1952-04-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-62"
-entry_into_force_date: "1951-04-18"
-jci_1_3: "jci1.3:c:BWBV0005073&z=1999-09-15&g=1999-09-15"
-jci_1_0: "1.0:c:BWBV0005073&g=1999-09-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1951-04-18"
+publicatiedatum: 1951-04-18
+laatste_update: 1999-09-15
+status: geldig
+toestand: 1999-09-15
+bron: "https://wetten.overheid.nl/BWBV0005073"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tot oprichting van de Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee
 
-##### Artikel I. Doelstellingen
+##### Article I. Aims
 
-Er wordt een Plantenbeschermingsorganisatie voor Europa en het gebied van de Middellandse Zee (hierna te noemen de Organisatie) opgericht, als erkende regionale organisatie voor de bescherming van planten in het kader van het [Internationaal Verdrag voor de bescherming van planten](https://wetten.overheid.nl/jci1.3:c:BWBV0003652), die is opgericht door de Voedsel- en Landbouworganisatie van de Verenigde Naties (FAO)2)Artikel VIII van het Internationaal Verdrag voor de bescherming van planten van 06-12-1951; Artikel IX van de nieuwe herziene tekst van het Internationaal Verdrag voor de bescherming van planten zoals aangenomen bij Resolutie 12/97 door de FAO-Conferentie tijdens de negenentwintigste zitting in november 1997.. De doelstellingen van de Organisatie zijn:
+There shall be established a European and Mediterranean Plant Protection Organization (hereinafter referred to as the Organization), as a recognized regional plant protection organization under the [International Plant Protection Convention](https://wetten.overheid.nl/BWBV0003652), established by the Food and Agriculture Organization of the United Nations (FAO)2)Article VIII of the International Plant Protection Convention of 1951-12-06; Article IX of the new revised text of the International Plant Protection Convention as approved by Resolution 12/97 of the Twenty-Ninth Session of the FAO Conference in 1997-11.. The aims of the Organization are:
 
-- a. de regeringen die lid zijn te ondersteunen in hun streven om de gezondheid van planten te waarborgen en tegelijkertijd de gezondheid van mens en dier en het milieu te beschermen;
+- a) to support the Member Governments in their aim of assuring plant health, while preserving human and animal health and the environment;
 
-- b. het nastreven en ontwikkelen, door middel van samenwerking tussen de regeringen die lid zijn, van de bescherming van planten en plantaardige producten tegen ziekten en plagen en het voorkomen van hun internationale verspreiding en in het bijzonder hun introductie in bedreigde gebieden;
+- b) to pursue and develop, by cooperation between the Member Governments, the protection of plants and plant products against pests and the prevention of their international spread and especially their introduction into endangered areas;
 
-- c. het ontwikkelen van internationaal geharmoniseerde fytosanitaire en andere officiële gewasbeschermingsmaatregelen en, waar nodig, het opstellen van standaarden die dat bewerkstelligen;
+- c) to develop internationally harmonized phytosanitary and other official plant protection measures and, as appropriate, to elaborate standards to that effect;
 
-- d. de collectieve standpunten van de regeringen die lid zijn, in voorkomend geval, voor te leggen aan de FAO, de WTO, andere regionale organisaties ter bescherming van planten en andere organen met daarmee verband houdende verantwoordelijkheden.
+- d) to present the collective views of the Member Governments, as appropriate, to FAO, WTO, other regional plant protection organizations and any other bodies with related responsibilities.
 
-##### Artikel II. Begripsomschrijvingen
+##### Article II. Definitions
 
-Ten behoeve van deze Overeenkomst worden de navolgende termen als volgt gedefinieerd:
+For the purposes of the present Convention, the following terms shall have the meanings hereunder assigned to them:
 
-„Kwetsbaar gebied”: een gebied waarin ecologische factoren gunstig zijn voor de vestiging van een ziekte of plaag waarvan de aanwezigheid in het gebied zal leiden tot aanzienlijke economische schade;
+“Endangered area” – an area where ecological factors favour the establishment of a pest whose presence in the area will result in economically important loss;
 
-„Internationale standaarden”: de in overeenstemming met het [Internationaal Verdrag voor de bescherming van planten, vastgestelde internationale standaarden](onbekend);
+“International standards” – international standards established in accordance with the [International Plant Protection Convention](https://wetten.overheid.nl/BWBV0003652);
 
-„Introductie”: het binnenkomen van een ziekte of plaag, resulterend in vestiging daarvan;
+“Introduction” – the entry of a pest resulting in its establishment;
 
-„Ziekte of plaag”: elke soort, stam of biotype van plantaardige of dierlijke vorm of ieder ziekteverwekkend agens die schadelijk is voor planten of plantaardige producten;
+“Pest” – any species, strain or biotype of plant, animal or pathogenic agent injurious to plants or plant products;
 
-„Risicoanalyse van ziekten of plagen”: het proces van het evalueren van biologisch of ander wetenschappelijk en economisch bewijs teneinde vast te stellen of een ziekte of plaag gereguleerd dient te worden en teneinde de zwaarte van de te nemen fytosanitaire maatregelen tegen deze ziekte of plaag te bepalen;
+“Pest risk analysis” – the process of evaluating biological or other scientific and economic evidence to determine whether a pest should be regulated and the strength of any phytosanitary measures to be taken against it;
 
-„Fytosanitaire maatregel”: alle wetgeving, regelgeving of officiële procedures die ten doel hebben de introductie of de verspreiding van ziekten en plagen te voorkomen;
+“Phytosanitary measure” – any legislation, regulation or official procedure having the purpose to prevent the introduction or spread of pests;
 
-„Plantaardige producten”: onbewerkte grondstoffen van plantaardige oorsprong (met inbegrip van graan) alsmede de bewerkte producten die door hun aard of de aard van hun bewerking een risico kunnen vormen voor de introductie en de verspreiding van ziekten en plagen;
+“Plant products” – unmanufactured material of plant origin (including grain) and those manufactured products that, by their nature or that of their processing, may create a risk for the introduction or spread of pests;
 
-„Planten”: levende planten en delen daarvan, met inbegrip van zaden en genetisch materiaal;
+“Plants” – living plants and parts thereof, including seeds and germplasm;
 
-„Quarantaineziekte of -plaag”: een ziekte of plaag die mogelijk van economische betekenis kan zijn voor het gebied dat daardoor wordt bedreigd en waar deze ziekte of plaag òf nog niet voorkomt òf wel voorkomt, maar niet wijdverspreid is en officieel wordt bestreden;
+“Quarantine pest” – a pest of potential economic importance to the area endangered thereby and not yet present there, or present but not widely distributed and being officially controlled;
 
-„Regionale standaarden”: standaarden vastgesteld door een regionale organisatie voor de bescherming van planten als richtsnoer voor de leden van die organisatie;
+“Regional standards” – standards established by a regional plant protection organization for the guidance of the members of that organization;
 
-„Gereguleerde niet-quarantaineziekte of -plaag”: een niet-quarantaineziekte of niet-quarantaine plaag waarvan de aanwezigheid in voor opplant bestemde planten onaanvaardbare economische consequenties heeft voor het beoogde gebruik van deze planten en die derhalve gereguleerd is op het grondgebied van het importerende land;
+“Regulated non-quarantine pest” – a non-quarantine pest whose presence in plants for planting affects the intended use of those plants with an economically unacceptable impact and which is therefore regulated within the territory of the importing country;
 
-„Gereguleerde ziekte of plaag”: een quarantaineziekte of quarantaineplaag of een gereguleerde niet-quarantaineziekte of niet-quarantaine plaag;
+“Regulated pest” – a quarantine pest or a regulated non-quarantine pest.
 
-##### Artikel III. Lidmaatschap
+##### Article III. Membership
 
-a. Het lidmaatschap van de Organisatie, dat wordt verkregen door aanvaarding van deze Overeenkomst volgens de bepalingen van [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XX&z=1999-09-15&g=1999-09-15), staat open voor:
+a. Membership of the Organization shall be open to the following by adherence to the present Convention according to the provisions of [Article XX](https://wetten.overheid.nl/BWBV0005073):
 
-- 1. de regeringen van de landen genoemd in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=II&z=1999-09-15&g=1999-09-15);
+- 1) the Governments of the countries in [Schedule II](https://wetten.overheid.nl/BWBV0005073);
 
-- 2. de regering van elk ander land die krachtens een besluit van de Raad van de Organisatie wordt uitgenodigd tot het lidmaatschap.
+- 2) the Government of any other country which the Council of the Organization may decide to invite to become a Member.
 
-b. De regering van ieder gebied waaromtrent een verklaring is afgelegd overeenkomstig de bepalingen van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XXI&z=1999-09-15&g=1999-09-15), kan door de Raad van de Organisatie tot het lidmaatschap worden toegelaten, doch alleen op voorstel van het lid dat die verklaring heeft afgelegd. Voor een zodanige beslissing is een meerderheid van twee derden van de uitgebrachte stemmen vereist. De gebieden die aldus worden toegelaten, moeten naar het oordeel van de Raad in staat zijn om een duidelijke en welomschreven bijdrage te leveren aan het werk van de Organisatie.
+b. The Government of any territory about which a declaration has been made under the terms of [Article XXI](https://wetten.overheid.nl/BWBV0005073) may be admitted to membership by the Council of the Organization, but only on the proposal of the Member who made the declaration. Any such decision shall require a two-thirds majority of the votes cast. Territories so admitted shall be such as can in the opinion of the Council make a definite and individual contribution to the work of the Organization.
 
-##### Artikel IV. Zetel
+##### Article IV. Seat
 
-a. De zetel van de Organisatie is gevestigd te Parijs.
+a. The seat of the Organization shall be in Paris.
 
-b. De vergaderingen van de Organisatie zullen in de regel worden gehouden ter plaatse waar haar zetel gevestigd is.
+b. The administrative meetings of the Organization shall normally take place at its seat.
 
-##### Artikel V. Taak
+##### Article V. Functions
 
-De Organisatie heeft tot taak:
+The functions of the Organization shall be:
 
-- a. het ontwikkelen van
+- a) to develop
 
-- 1. beginselen van goede praktijken voor de toepassing van fytosanitaire maatregelen en bij de bescherming van planten in het algemeen;
+   - 1) principles of good practice in the application of phytosanitary measures and in plant protection generally;
 
-- 2. regionale standaarden;
+   - 2) regional standards;
 
-- b. het bevorderen van
+- b) to promote
 
-- 1. de harmonisatie van de fytosanitaire maatregelen en andere officiële gewasbeschermingsmaatregelen;
+   - 1) the harmonization of phytosanitary and other official plant protection measures;
 
-- 2. de vereenvoudiging en eenmaking van de fytosanitaire voorschriften en certificaten;
+   - 2) the simplification and unification of phytosanitary regulations and certificates;
 
-- c. de regeringen die lid zijn te adviseren over
+- c) to advise Member Governments on
 
-- 1. technische maatregelen die nodig zijn om het binnenbrengen en de verspreiding van gereguleerde ziekten of plagen te voorkomen, met name maatregelen voor inspectie en toetsing, certificering, behandeling, onderzoek en uitroeiing;
+   - 1) technical measures necessary to prevent the introduction and spread of regulated pests, particularly measures for inspection and testing, certification, treatment, survey and eradication;
 
-- 2. de administratieve en wettelijke maatregelen die nodig zijn om het binnenbrengen en de verspreiding van gereguleerde ziekten of plagen te voorkomen, met inbegrip van met name de risicoanalyse van ziekten of plagen en het opstellen en bijwerken van lijsten van gereguleerde ziekten of plagen;
+   - 2) the administrative and legislative measures necessary to prevent the introduction and spread of regulated pests, including in particular pest risk analysis and the establishment and updating of lists of regulated pests;
 
-- 3. de maatregelen die nodig zijn om gewasbeschermingsmiddelen te registreren of toe te laten en ter controle van het op de markt brengen en het gebruik ervan op hun grondgebied, met inachtneming van de beginselen van goede gewasbeschermingspraktijken en, waar mogelijk, de beginselen van geïntegreerde bestrijding;
+   - 3) the measures necessary to register or authorize plant protection products, and to control their marketing and use on their territories, in compliance with the principles of good plant protection practice as well as, whenever possible, the principles of integrated control;
 
-- d. waar mogelijk, internationale campagnes tussen de regeringen die lid zijn tegen ziekten of plagen te coördineren en te stimuleren;
+- d) where practicable, to coordinate and stimulate international campaigns between Member Governments against pests;
 
-- e. het vergemakkelijken van de samenwerking bij het onderzoek naar ziekten of plagen en bestrijdingsmethoden en bij de uitwisseling van relevante wetenschappelijke informatie;
+- e) to facilitate cooperation in research on pests and the methods of control and in the exchange of relevant scientific information;
 
-- f. informatie te verspreiden door
+- f) to disseminate information by
 
-- 1. het inwinnen van informatie bij de regeringen die lid zijn over het bestaan, de uitbraak of de verspreiding van ziekten of plagen, en het doorgeven van dergelijke informatie aan de regeringen die lid zijn;
+   - 1) obtaining information from Member Governments on the existence, outbreak or spread of pests, and conveying such information to Member Governments;
 
-- 2. de uitwisseling van informatie over de nationale fytosanitaire wetgeving, lijsten van gereguleerde ziekten of plagen of andere maatregelen die van invloed zijn op het vrije verkeer van planten en plantaardige producten;
+   - 2) providing for the exchange of information on national phytosanitary legislation, lists of regulated pests, or other measures affecting the free movement of plants and plant products;
 
-- 3. de oprichting van een documentatie- en informatiedienst en publicatie in een geschikte vorm van materiaal voor de technische of wetenschappelijke vooruitgang;
+   - 3) establishing a documentation and information service and publishing in an appropriate form material for technical or scientific advancement;
 
-- g. in het algemeen alle noodzakelijke en passende maatregelen te nemen voor het verwezenlijken van de doelstellingen van de Organisatie.
+- g) generally to take all necessary and appropriate action to achieve the aims of the Organization.
 
-##### Artikel VI. Verplichtingen van regeringen die lid zijn
+##### Article VI. Obligations of Member Governments
 
-a. De regeringen die lid zijn verschaffen de Organisatie zoveel mogelijk de informatie die zij redelijkerwijs nodig kan hebben om haar taak te vervullen, waaronder in het bijzonder de informatie bedoeld in [Artikel V f1 en V f2](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=V&z=1999-09-15&g=1999-09-15).
+a. Member Governments shall furnish to the Organization so far as is practicable such information as the Organization may reasonably require in order to carry out its functions, including in particular the information referred to in [Article V f1 and V f2](https://wetten.overheid.nl/BWBV0005073).
 
-b. De regeringen die lid zijn trachten de aanbevelingen van de Raad van de Organisatie te implementeren, waaronder in het bijzonder de regionale standaarden.
+b. Member Governments shall endeavour to implement the recommendations made by the Council of the Organization, including in particular the regional standards.
 
-##### Artikel VII. Betrekkingen met andere organisaties
+##### Article VII. Relationship with Other Organizations
 
-De Organisatie werkt om de doelstellingen van deze Overeenkomst te verwezenlijken samen met de FAO en andere regionale plantenbeschermingsorganisaties en kan samenwerken met de WTO en andere organen die een gelijksoortige taak hebben, bij relevante activiteiten. Deze omvatten de ontwikkeling van standaarden voor fytosanitaire en andere officiële plantbeschermingsmaatregelen en het overwegen of regionale standaarden van de Organisatie in aanmerking komen als internationale standaarden. Zij doet al het mogelijke om te voorkomen dat werkzaamheden dubbel worden verricht.
+The Organization shall cooperate, in achieving the objectives of this Convention, with FAO and the other regional plant protection organizations, and may cooperate with WTO and other bodies with related responsibilities, in appropriate activities. These include the development of standards for phytosanitary and other official plant protection measures, and the consideration of regional standards of the Organization as candidates for international standards. It shall use its best endeavours to prevent overlapping of activities.
 
-##### Artikel VIII. Opbouw van de Organisatie
+##### Article VIII. Structure of the Organization
 
-De Organisatie omvat:
+The Organization shall consist of:
 
-- a. de Raad;
+- a) the Council;
 
-- b. het bestuur, te weten het Dagelijks Bestuur, de Directeur-Generaal en het personeel;
+- b) the administration, comprising the Executive Committee, the Director-General and the staff;
 
-- c. de Kascommissie;
+- c) the Accounts Verification Panel;
 
-- d. Andere organen die de Raad overeenkomstig [Artikel XIII a.5](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XIII&z=1999-09-15&g=1999-09-15) wenst op te richten.
+- d) such bodies as Council may decide to set up under [Article XIII a.5](https://wetten.overheid.nl/BWBV0005073).
 
-##### Artikel IX. De Raad
+##### Article IX. The Council
 
-a. De Raad van de Organisatie bestaat uit vertegenwoordigers van de regeringen die lid zijn.
+a. The Council of the Organization shall consist of representatives of Member Governments.
 
-**Elke regering die lid is heeft het recht één vertegenwoordiger te benoemen in de Raad, alsmede één plaatsvervangend vertegenwoordiger.**
+Each Member Government shall be entitled to appoint one representative to the Council and one alternate.
 
-**Vertegenwoordigers en plaatsvervangend vertegenwoordigers, die worden benoemd door de regeringen die lid zijn, mogen worden vergezeld door medewerkers en adviseurs.**
+Representatives and alternates appointed by Member Governments may be accompanied by associates and advisers.
 
-b. Iedere regering die lid is heeft één stem in de Raad.
+b. Each Member Government shall have one vote in the Council.
 
-##### Artikel X. Zittingen van de Raad
+##### Article X. Sessions of the Council
 
-a. In de regel komt de Raad eenmaal per jaar in gewone zitting bijeen.
+a. The Council shall ordinarily meet in regular session once in each year.
 
-b. Buitengewone zittingen van de Raad worden belegd wanneer ten minste een derde van de regeringen die lid zijn een schriftelijk verzoek daartoe heeft gericht tot de voorzitter.
+b. Extraordinary sessions of the Council shall be called at any time when the Chairman is so requested in writing by at least one third of the Member Governments.
 
-##### Artikel XI. Reglementen
+##### Article XI. Rules
 
-De Raad stelt het huishoudelijk reglement en het financiële reglement van de Organisatie vast.
+Council shall establish the Rules of Procedure of the Organization and the Financial Rules of the Organization.
 
-##### Artikel XII. Waarnemers
+##### Article XII. Observers
 
-Met toestemming van de Raad kan iedere regering die geen lid is van de Organisatie, en iedere internationale organisatie die een taak heeft die verband houdt met de taak van de Organisatie, zich op elke zitting van de Raad doen vertegenwoordigen door een of meer waarnemers die geen stemrecht hebben.
+With the consent of the Council, any non-member Government and any intergovernmental body whose responsibilities are related to those of the Organization may be represented at any session of the Council by one or more observers without the right to vote.
 
-##### Artikel XIII. Taak van de Raad
+##### Article XIII. Functions of Council
 
-De Raad:
+The Council shall:
 
-- a. beoordeelt en besluit over:
+- a) consider and decide upon:
 
-- 1. het voortgangsrapport van de Directeur-Generaal over de werkzaamheden van de Organisatie sedert de laatste gewone zitting van de Raad;
+   - 1) the progress report of the Director-General on the work of the Organization since the preceding regular session of the Council;
 
-- 2. het beleid en het programma van werkzaamheden;
+   - 2) the policies and programme of activity of the Organization;
 
-- 3. de begroting;
+   - 3) the budget;
 
-- 4. de jaarrekening en de jaarlijkse balans;
+   - 4) the annual accounts and balance sheet;
 
-- 5. de oprichting en ontbinding van de ad hoc of permanente organen van de Organisatie om de werkzaamheden van de Organisatie uit te voeren;
+   - 5) the setting up and dissolution of *ad hoc* or permanent bodies to pursue the work of the Organization;
 
-- 6. de rapportages van deze organen;
+   - 6) the reports of such bodies;
 
-- 7. alle voorstellen die door het Comité aan de Raad worden gedaan;
+   - 7) any proposals submitted by the Executive Committee;
 
-- b. houdt de statutair voorgeschreven verkiezingen;
+- b) hold the statutory elections;
 
-- c. benoemt de Directeur-Generaal en stelt de voorwaarden van zijn dienstverband vast.
+- c) appoint the Director-General on such terms as it may determine.
 
-##### Artikel XIV. Voorzitter en vicevoorzitter
+##### Article XIV. Chairman and Vice-Chairman
 
-a. De Raad kiest uit de vertegenwoordigers van de regeringen die lid zijn een voorzitter en een vicevoorzitter.
+a. The Council shall elect a Chairman and a Vice-Chairman from amongst representatives of Member Governments.
 
-b. De voorzitter en de vicevoorzitter worden gekozen voor een periode van drie jaar en zijn opnieuw verkiesbaar voor één nieuwe ambtstermijn.
+b. The Chairman and Vice-Chairman shall be elected for a period of three years and be re-eligible for one further term of office.
 
-c. De voorzitter en de vicevoorzitter vervullen dezelfde functie zowel in de Raad als in het Dagelijks Bestuur.
+c. The Chairman and Vice-Chairman shall serve in the same capacity within both the Council and the Executive Committee.
 
-d. Zodra zij zijn verkozen vertegenwoordigen de voorzitter en de vicevoorzitter hun land niet meer.
+d. The Chairman and Vice-Chairman shall cease to represent their countries on election.
 
-##### Artikel XV. Het Dagelijks Bestuur
+##### Article XV. The Executive Committee
 
-a. Het Dagelijks Bestuur bestaat uit de voorzitter en vicevoorzitter en zeven, door de Raad verkozen vertegenwoordigers van de regeringen die lid zijn.
+a. The Executive Committee shall be composed of the Chairman and Vice-Chairman and of seven representatives of Member Governments elected by the Council.
 
-b. Leden van het Dagelijks Bestuur worden normaliter voor een termijn van drie jaar verkozen en kunnen daarna in aanmerking komen voor herverkiezing.
+b. Members of the Executive Committee shall normally hold office for three years and be eligible for re-election.
 
-c. In geval er een vacature ontstaat in het Dagelijks Bestuur vóór het aflopen van de zittingstermijn, zal het Dagelijks Bestuur een regering die lid is verzoeken een vertegenwoordiger aan te wijzen ter vervulling van de vacature voor het resterende gedeelte van de zittingstermijn.
+c. If a vacancy occurs in the Executive Committee before the expiration of the term of appointment, the Executive Committee shall ask a Member Government to appoint a representative to fill the vacancy for the remainder of the term.
 
-d. Het Dagelijks Bestuur komt ten minste eenmaal per jaar bijeen.
+d. The Executive Committee shall meet at least once a year.
 
-##### Artikel XVI. Taak van het Dagelijks Bestuur
+##### Article XVI. Functions of the Executive Committee
 
-Het Dagelijks Bestuur:
+The Executive Committee shall:
 
-- a. doet aan de Raad voorstellen inzake het beleid en het programma van werkzaamheden van de Organisatie;
+- a) submit proposals for the Organization’s policies and programme of activity to the Council;
 
-- b. beoordeelt aanbevelingen gedaan door andere Organisaties zoals bepaald in Artikel VII en doet passende voorstellen aan de Raad;
+- b) consider recommendations made by other Organizations as specified in Article VII and make appropriate proposals to the Council;
 
-- c. ziet erop toe dat de werkzaamheden van de Organisatie geschieden in overeenstemming met de besluiten van de Raad;
+- c) ensure that the activity of the Organization conforms with the decisions of the Council;
 
-- d. legt aan de Raad de ontwerp-begroting voor, alsmede de jaarrekening en de jaarlijkse balans; het Dagelijks Bestuur kan een voorlopige begroting goedkeuren, die geldt totdat de besluitvorming door de Raad is voltooid;
+- d) submit the draft budget and the annual accounts and balance sheet to the Council; the Executive Committee may approve a provisional budget pending its consideration by the Council;
 
-- e. voert alle andere taken uit die krachtens deze Overeenkomst aan het Dagelijks Bestuur worden opgedragen of door de Raad aan het Dagelijks Bestuur worden toevertrouwd;
+- e) undertake such other tasks as may be assigned to it under this Convention or entrusted to it by the Council;
 
-- f. stelt zijn eigen huishoudelijk reglement vast.
+- f) adopt its own procedure.
 
-##### Artikel XVII. De Directeur-Generaal
+##### Article XVII. The Director-General
 
-De Directeur-Generaal:
+The Director-General shall:
 
-- a. leidt het secretariaat van de Organisatie, dat werkt onder zijn verantwoordelijkheid;
+- a) be the head of the secretariat of the Organization, which functions under his responsibility;
 
-- b. voert het programma uit, dat de Raad heeft goedgekeurd, alsmede de taken die hem door het Dagelijks Bestuur kunnen worden toevertrouwd;
+- b) carry out the programme approved by the Council and such tasks as may be entrusted to him by the Executive Committee;
 
-- c. doet op iedere gewone zitting van de Raad verslag van de werkzaamheden van de Organisatie en van de financiële toestand.
+- c) report at each regular session of the Council on the activity of the Organization and the financial position.
 
-##### Artikel XVIII. Financiën
+##### Article XVIII. Finance
 
-a. De uitgaven van de Organisatie worden gedekt door jaarlijkse bijdragen van de regeringen die lid zijn, alsmede door andere door de Raad of door het Dagelijks Bestuur goed te keuren inkomsten.
+a. The expenditure of the Organization shall be met by annual contributions from Member Governments and by such other receipts as may be approved by the Council or the Executive Committee.
 
-b. Het bedrag van de jaarlijkse bijdragen van elke regering die lid is wordt bepaald op basis van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=I&z=1999-09-15&g=1999-09-15) opgenomen schaal van bijdragen.
+b. The amount of the annual contribution of each Member Government shall be based on the scale of contributions as specified in [Schedule I](https://wetten.overheid.nl/BWBV0005073).
 
-c. Regeringen die toetreden tot de Overeenkomst en lid zijn van de FAO, vallen in de overeenkomstige categorie op de schaal vermeld in Bijlage I. Voor regeringen die geen lid zijn van de FAO wordt de categorie bepaald door de Raad. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=I&z=1999-09-15&g=1999-09-15), en de categorie van regeringen die lid zijn op de schaal in Bijlage I, kan uitsluitend door een besluit van de Raad worden gewijzigd, met een tweederdemeerderheid van de regeringen die lid zijn.
+c. Governments newly adhering to the Convention, if members of FAO, enter the appropriate category on the scale in [Schedule I](https://wetten.overheid.nl/BWBV0005073) and, if not members, the category decided by the Council. Schedule I, and the category of Member Governments on the scale in Schedule I, shall only be changed by decision of the Council, by a majority of two thirds of Member Governments.
 
-d. Op aanbeveling van het Dagelijks Bestuur kan de Raad besluiten op de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=I&z=1999-09-15&g=1999-09-15) aangegeven basisbijdragen een coëfficiënt toe te passen, teneinde de bijdragen aan te passen aan de activiteiten van de Organisatie of aan de bestaande economische situatie. Het besluit wordt genomen met een meerderheid van twee derden van de aanwezige en hun stem uitbrengende regeringen die lid zijn.
+d. On the recommendation of the Executive Committee, the Council may decide to apply a coefficient to the basic contribution laid down in [Schedule I](https://wetten.overheid.nl/BWBV0005073), in order to adjust it to the activities of the Organization or to the economic situation of the moment. The decision is taken by a two-thirds majority of the Member Governments present and voting.
 
-e. De jaarlijkse bijdragen zijn verschuldigd bij aanvang van het boekjaar van de Organisatie.
+e. Annual contributions shall be payable at the beginning of the Organization’s financial year.
 
-f. Het Dagelijks Bestuur bepaalt de valuta waarin de bijdragen van de regeringen die lid zijn worden betaald, onder voorbehoud van de instemming van de betrokken regering.
+f. The contributions of Member Governments shall be paid in currencies to be determined by the Executive Committee with the approval of the contributing Government concerned.
 
-g. De eerste jaarlijkse bijdrage van een regering die tot de Overeenkomst toetreedt, is verschuldigd voor het boekjaar van de Organisatie waarin aan het bepaalde in [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XX&z=1999-09-15&g=1999-09-15) is voldaan.
+g. The first annual contribution of a Government newly adhering to the Convention shall be payable for the financial year of the Organization during which the provisions of [Article XX](https://wetten.overheid.nl/BWBV0005073) are fulfilled.
 
-h. Aanvullende bijdragen kunnen worden betaald door een afzonderlijke regering of door een groep regeringen ten behoeve waarvan de Organisatie speciale projecten of bijzondere bestrijdingsprogramma’s uitvoert.
+h. Supplementary contributions may be paid by an individual Government or group of Governments towards special schemes or campaigns of control, which the Organization may carry out in the interest of that Government or group of Governments.
 
-i. Een Kascommissie, bestaande uit vertegenwoordigers van drie regeringen die lid zijn, wordt door de Raad verkozen. De leden van de Kascommissie worden voor drie jaar verkozen en komen de volgende drie jaar niet in aanmerking voor herverkiezing.
+i. An Accounts Verification Panel composed of representatives of three Member Governments shall be elected by the Council. Members of the Panel shall be elected for three years and shall not be eligible for re-election during the next three years.
 
-j. Het Dagelijks Bestuur benoemt, met goedkeuring van de Raad, een accountant om jaarlijks de boeken van de Organisatie te controleren.
+j. The Executive Committee shall, with the approval of the Council, appoint an auditor to audit the accounts of the Organization each year.
 
-k. De Kascommissie controleert jaarlijks, met de accountant, de rekeningen en het bestuur van de Organisatie en brengt verslag uit aan de Raad.
+k. The Accounts Verification Panel shall each year examine, with the auditor, the accounts and management of the Organization and report to the Council.
 
-##### Artikel XIX. Wijzigingen
+##### Article XIX. Amendments
 
-a. De tekst van voorstellen tot wijziging van deze Overeenkomst en tot wijziging van Bijlage I wordt door de Directeur-Generaal aan de regeringen die lid zijn medegedeeld ten minste drie maanden voordat de bedoelde voorstellen in de Raad zullen worden behandeld.
+a. Texts of proposed amendments to the present Convention and to [Schedule I](https://wetten.overheid.nl/BWBV0005073) thereto shall be communicated by the Director-General to Member Governments at least three months in advance of their consideration by the Council.
 
-b. Wijzigingen van de Overeenkomst worden van kracht, wanneer zij in de Raad zijn aangenomen met een meerderheid van twee derden van de aanwezige leden die hun stem uitbrengen, met dien verstande echter dat wijzigingen die nieuwe verplichtingen voor de regeringen die lid zijn meebrengen – met uitzondering van de wijzigingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=I&z=1999-09-15&g=1999-09-15) bedoeld in lid c hieronder – voor ieder van hen eerst van kracht worden nadat zij door de betrokken regering zijn aanvaard.
+b. Amendments to the Convention shall come into effect when adopted by a two-thirds majority of the members of the Council present and voting, provided that amendments involving new obligations for Member Governments – with the exception of the amendments to [Schedule I](https://wetten.overheid.nl/BWBV0005073) referred to in paragraph c. below – shall come into force in respect of each such Government only on acceptance by it.
 
-c. Wijzigingen van [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&bijlage=I&z=1999-09-15&g=1999-09-15) worden door de Raad aangenomen met tweederdemeerderheid van de regeringen die lid zijn.
+c. Amendments to [Schedule I](https://wetten.overheid.nl/BWBV0005073) shall be adopted by the Council by a majority of two-thirds of the Member Governments.
 
-d. De aanvaarding van wijzigingen wordt ter kennis gebracht van de Franse Regering, die alle regeringen die lid zijn mededeling doet van de ontvangst van de kennisgevingen van aanvaarding en van de inwerkingtreding van de wijzigingen.
+d. Acceptance of amendments shall be deposited with the French Government who shall inform all Member Governments of the receipt of acceptances and the entry into force of amendments.
 
-##### Artikel XX. Ondertekening en aanvaarding
+##### Article XX. Signature and Acceptance
 
-a. Deze Overeenkomst zal opengesteld blijven voor ondertekening of toetreding en de regeringen die, ingevolge het in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=III&z=1999-09-15&g=1999-09-15) bepaalde, lid kunnen worden van de Organisatie, kunnen partij worden bij deze Overeenkomst door:
+a. The present Convention shall remain open for signature or for accession, by those Governments which become parties to it, in accordance with the provisions of [Article III](https://wetten.overheid.nl/BWBV0005073), in the following circumstances:
 
-- 1. ondertekening zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring;
+- 1) by signature without reservation as to ratification, acceptance or approval;
 
-- 2. ondertekening gevolgd door bekrachtiging, aanvaarding of goedkeuring;
+- 2) by signature followed by ratification, acceptance or approval;
 
-- 3. toetreding.
+- 3) by accession.
 
-b. De akten van bekrachtiging, aanvaarding of goedkeuring, of toetreding worden nedergelegd bij de Franse Regering. De depositaris stelt alle regeringen die lid zijn in kennis van de datum waarop ieder van hen de Overeenkomst heeft ondertekend of een akte heeft nedergelegd.
+b. Instruments of ratification, acceptance or approval, or of accession, shall be deposited with the French Government. The depositary shall inform all Member Governments of the date on which each has signed or deposited an instrument.
 
-##### Artikel XXI. Toepassing op bepaalde gebieden
+##### Article XXI. Territorial Application
 
-a. Iedere regering kan te allen tijde verklaren dat haar deelname aan deze Overeenkomst tevens alle of enkele van de gebieden omvat voor welke internationale betrekkingen zij verantwoordelijk is. Deze verklaring zal bij de Franse Regering worden nedergelegd.
+a. Any Government may at any time declare that its participation in the Convention includes all or any of the territories for whose international relations it is responsible. Such declaration shall be deposited with the French Government.
 
-b. Een verklaring, uit hoofde van het voorgaande lid van dit artikel door een regering die lid is afgelegd, zal in werking treden op de dertigste dag nadat zij door de Franse Regering is ontvangen.
+b. Any declaration made by a Member Government under the preceding paragraph shall take effect on the thirtieth day following its receipt by the French Government.
 
-c. De Franse Regering doet aan alle regeringen die lid zijn onmiddellijk mededeling van verklaringen die ingevolge dit artikel bij haar worden nedergelegd.
+c. The French Government shall immediately inform all Governments parties to the Convention of declarations made under this Article.
 
-##### Artikel XXII. Opzegging
+##### Article XXII. Withdrawal
 
-a. Iedere regering die lid is kan deze Overeenkomst te allen tijde nadat twee jaar zijn verlopen sinds de dag waarop de Overeenkomst voor die regering in werking is getreden, opzeggen door schriftelijke kennisgeving aan de Franse Regering. De opzegging treedt in werking één jaar na de dag van ontvangst van deze kennisgeving.
+a. Any Member Government may at any time after two years of membership withdraw from this Convention by giving written notice of withdrawal to the French Government. The withdrawal shall take effect one year from the date of receipt of the notification.
 
-b. Wanneer twee achtereenvolgende jaarlijkse bijdragen niet zijn betaald, zal dit onder normale omstandigheden worden beschouwd als opzegging van de Overeenkomst door de regering die lid is die aldus in gebreke is gebleven.
+b. The non-payment of two consecutive annual contributions shall under normal conditions imply the withdrawal from the Convention of the defaulting Member Government.
 
-c. De toepassing van de Overeenkomst op een gebied of gebieden uit hoofde van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XXI&z=1999-09-15&g=1999-09-15) kan worden beëindigd door een schriftelijke kennisgeving aan de Franse Regering door de deelnemende regering die voor de internationale betrekkingen van dat gebied of die gebieden verantwoordelijk is. De kennisgeving treedt in werking één jaar na de dag van haar ontvangst.
+c. The application of the Convention to a territory or territories under [Article XXI](https://wetten.overheid.nl/BWBV0005073) may be terminated by written notification to the French Government by the participating Government responsible for the international relations of such territory or territories. The notification shall take effect one year from the date of its receipt.
 
-d. De Franse Regering stelt alle deelnemende regeringen onmiddellijk op de hoogte van overeenkomstig dit artikel gedane kennisgevingen.
+d. The French Government shall immediately inform all participating Governments of notifications given under this Article.
 
-##### Artikel XXIII. Inwerkingtreding
+##### Article XXIII. Entry into Force
 
-a. Deze Overeenkomst treedt in werking op de dag waarop vijf regeringen er partij bij zijn geworden overeenkomstig de bepalingen van [artikel XX](https://wetten.overheid.nl/jci1.3:c:BWBV0005073&artikel=XX&z=1999-09-15&g=1999-09-15).
+a. The present Convention shall enter into force on the date on which five Governments have become parties thereto in accordance with the provisions of [Article XX](https://wetten.overheid.nl/BWBV0005073).
 
-b. De Franse Regering zal alle regeringen die de Overeenkomst hebben ondertekend of zijn toegetreden, onmiddellijk in kennis stellen van de dag waarop de Overeenkomst in werking treedt.
+b. The French Government shall immediately inform all Governments which have signed or accepted the Convention of the date of entry into force of the Convention.
 
-c. Voor elke regering die een akte van bekrachtiging, aanvaarding of goedkeuring, of van toetreding heeft nedergelegd nadat de Overeenkomst overeenkomstig lid a van dit artikel in werking is getreden, treedt de Overeenkomst in werking vanaf de datum waarop deze regering haar akte van bekrachtiging, aanvaarding of goedkeuring, of van toetreding heeft nedergelegd.
+c. For each Government which has deposited instruments of ratification, acceptance or approval, or of accession, after the Convention has entered into force according to paragraph a. of the present Article, the Convention shall enter into force from the date on which this Government has deposited its instruments of ratification, acceptance or approval, or of accession.
 
 IN FAITH WHEREOF the undersigned, duly authorized by their Governments, have signed the present Convention and the Schedules thereto.
 

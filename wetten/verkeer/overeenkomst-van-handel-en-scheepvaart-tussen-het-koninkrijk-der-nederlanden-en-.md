@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst van handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica"
 identifier: "BWBV0005208"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-12-09"
-last_updated: "1958-12-09"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005208"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004515773"
-version_id: "10004732522"
-internal_id: "C10007221231"
-label_id: "10004500344"
-dtd_version: "2.0"
-original_entry_into_force: "1958-12-09"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005208/1958-12-09/0"
-intitule_bron: "Trb.1957-135"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-09-19"
-intitule_in_force: "1959-01-07"
-intitule_status: "goed"
-original_publication: "Trb.1957-135"
-original_published_date: "1957-09-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-135"
-entry_into_force_date: "1958-12-09"
-jci_1_3: "jci1.3:c:BWBV0005208&z=1958-12-09&g=1958-12-09"
-jci_1_0: "1.0:c:BWBV0005208&g=1958-12-09"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-12-09"
+publicatiedatum: 1958-12-09
+laatste_update: 1958-12-09
+status: geldig
+toestand: 1958-12-09
+bron: "https://wetten.overheid.nl/BWBV0005208"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst van handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Costa Rica, bezield met de wens de traditionele vriendschapsbanden tussen de beide landen nauwer aan te halen door middel van de handhaving van het beginsel van wederzijdse behandeling als meestbegunstigde natie in onvoorwaardelijke en onbeperkte vorm als grondslag voor de handels- en scheepvaartbetrekkingen, hebben hun Gevolmachtigden benoemd, die, na de uitwisseling van hun respectieve volmachten welke in goede en behoorlijke staat werden bevonden, de volgende artikelen zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Costa Rica, bezield met de wens de traditionele vriendschapsbanden tussen de beide landen nauwer aan te halen door middel van de handhaving van het beginsel van wederzijdse behandeling als meestbegunstigde natie in onvoorwaardelijke en onbeperkte vorm als grondslag voor de handels- en scheepvaartbetrekkingen, hebben hun Gevolmachtigden benoemd, die, na de uitwisseling van hun respectieve volmachten welke in goede en behoorlijke staat werden bevonden, de volgende artikelen zijn overeengekomen:*
 
 ##### Artikel I
 
@@ -54,25 +35,25 @@ Alle gunsten, voorrechten, tegemoetkomingen of vrijstellingen, welke ten aanzien
 
 De Regering van de Republiek Costa Rica stemt ermede in, dat van de verplichtingen, waarop betrekking hebben de artikelen 1, 2, 3 en 4 worden uitgezonderd:
 
-- a). De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, verleend of in de toekomst te verlenen aan landen waarmede Nederland een Staatkundige Unie vormt of heeft gevormd dan wel uit hoofde van deelneming aan een Douane Unie, een Economische Unie of krachtens een samenwerking, overeengekomen tussen Nederland en verscheidene landen ter gemeenschappelijke organisatie van een of meer sectoren der produktie, handel of diensten.
+- a) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, verleend of in de toekomst te verlenen aan landen waarmede Nederland een Staatkundige Unie vormt of heeft gevormd dan wel uit hoofde van deelneming aan een Douane Unie, een Economische Unie of krachtens een samenwerking, overeengekomen tussen Nederland en verscheidene landen ter gemeenschappelijke organisatie van een of meer sectoren der produktie, handel of diensten.
 
-- b). De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, door Nederland verleend of in de toekomst te verlenen aan aangrenzende landen, met betrekking tot het grensverkeer, zij het over land of over de binnenwateren.
+- b) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, door Nederland verleend of in de toekomst te verlenen aan aangrenzende landen, met betrekking tot het grensverkeer, zij het over land of over de binnenwateren.
 
 ##### Artikel VI
 
 De Regering van het Koninkrijk der Nederlanden stemt ermede in, dat van de verplichtingen, waarop betrekking hebben de artikelen 1, 2, 3 en 4 worden uitgezonderd:
 
-- a). De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, verleend of in de toekomst te verlenen aan landen waarmede Costa Rica een Staatkundige Unie vormt of heeft gevormd dan wel uit hoofde van deelneming aan een Douane Unie, een Economische Unie of krachtens bijzondere voorrechten welke Costa Rica verleent of zal verlenen aan andere landen van Centraal Amerika, afzonderlijk of gezamenlijk, evenals krachtens een samenwerking, overeengekomen tussen Costa Rica en andere landen ter gemeenschappelijke organisatie van een of meer sectoren der produktie, handel of diensten.
+- a) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, verleend of in de toekomst te verlenen aan landen waarmede Costa Rica een Staatkundige Unie vormt of heeft gevormd dan wel uit hoofde van deelneming aan een Douane Unie, een Economische Unie of krachtens bijzondere voorrechten welke Costa Rica verleent of zal verlenen aan andere landen van Centraal Amerika, afzonderlijk of gezamenlijk, evenals krachtens een samenwerking, overeengekomen tussen Costa Rica en andere landen ter gemeenschappelijke organisatie van een of meer sectoren der produktie, handel of diensten.
 
-- b). De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, door Costa Rica verleend of in de toekomst te verlenen aan aangrenzende landen, met betrekking tot het grensverkeer, zij het over land of over de binnenwateren.
+- b) De gunsten, voorrechten, tegemoetkomingen of vrijstellingen, door Costa Rica verleend of in de toekomst te verlenen aan aangrenzende landen, met betrekking tot het grensverkeer, zij het over land of over de binnenwateren.
 
 ##### Artikel VII
 
 Elk van de Overeenkomstsluitende Partijen zal kunnen eisen, dat goederen ingevoerd uit het gebied van de andere Partij vergezeld gaan van:
 
-- a). Certificaten van oorsprong of van commerciële of consulaire facturen of beide soort documenten, van een visum voorzien door de consulaire autoriteit van het betreffende land van invoer.
+- a) Certificaten van oorsprong of van commerciële of consulaire facturen of beide soort documenten, van een visum voorzien door de consulaire autoriteit van het betreffende land van invoer.
 
-- b). De certificaten van gezondheid, vereist door de internationale wetgevingen en door de nationale wetgevingen welke in het land van invoer van kracht zijn.
+- b) De certificaten van gezondheid, vereist door de internationale wetgevingen en door de nationale wetgevingen welke in het land van invoer van kracht zijn.
 
 De kosten berekend voor de consulaire werkzaamheden zullen in redelijke verhouding staan tot de verrichte formaliteiten en niet het karakter krijgen van een heffing op in- of uitvoeren.
 

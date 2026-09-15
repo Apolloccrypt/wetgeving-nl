@@ -1,40 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Spanje regelende de burgerlijke luchtlijnen"
 identifier: "BWBV0005769"
-country: "nl"
-rank: "verdrag"
-publication_date: "1968-12-21"
-last_updated: "1968-12-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005769"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004861123"
-version_id: "10005165982"
-internal_id: "C10007899071"
-label_id: "10004844814"
-dtd_version: "2.0"
-original_entry_into_force: "1950-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005769/1968-12-21/0"
-intitule_bron: "Stb.1951-K 530"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-11-29"
-intitule_published: "1951-01-05"
-intitule_in_force: "1953-10-29"
-intitule_status: "goed"
-original_publication: "Stb.1951-K 530"
-original_signed_date: "1950-11-29"
-original_published_date: "1951-01-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1950-06-20"
-jci_1_3: "jci1.3:c:BWBV0005769&z=1968-12-21&g=1968-12-21"
-jci_1_0: "1.0:c:BWBV0005769&g=1968-12-21"
-citeertitel_status: "redactioneel"
-signed_date: "1950-11-29"
-entry_into_force: "1950-06-20"
+publicatiedatum: 1950-06-20
+laatste_update: 1968-12-21
+status: geldig
+toestand: 1968-12-21
+bron: "https://wetten.overheid.nl/BWBV0005769"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Spanje regelende de burgerlijke luchtlijnen
 
-De Regering van het Koninkrijk der Nederlanden en de Spaanse Regering, geleid door de wens het burgerlijk luchtvervoer tussen Nederland en Spanje te bevorderen, sluiten hierbij de navolgende Overeenkomst betreffende de exploitatie van geregelde luchtvervoersdiensten tussen hare landen:
+*De Regering van het Koninkrijk der Nederlanden en de Spaanse Regering, geleid door de wens het burgerlijk luchtvervoer tussen Nederland en Spanje te bevorderen, sluiten hierbij de navolgende Overeenkomst betreffende de exploitatie van geregelde luchtvervoersdiensten tussen hare landen:*
 
 ##### Artikel I
 
@@ -48,13 +27,13 @@ Elk van de luchtdiensten, genoemd in de Bijlage, heeft het recht in werking te t
 
 Teneinde elke bevoorrechting te voorkomen en gelijkheid van behandeling te verzekeren, wordt overeengekomen dat:
 
-- a). elk der Overeenkomstsluitende Partijen voor het gebruik van luchthavens en andere faciliteiten billijke en redelijke tarieven kan opleggen of toestemming kan geven tot het opleggen daarvan. Elk der Overeenkomstsluitende Partijen neemt echter op zich, dat deze tarieven niet hoger zullen zijn dan die, welke zouden worden betaald voor het gebruik van bedoelde luchthavens en faciliteiten door haar eigen luchtvaartuigen gebezigd op soortgelijke internationale diensten;
+- a) elk der Overeenkomstsluitende Partijen voor het gebruik van luchthavens en andere faciliteiten billijke en redelijke tarieven kan opleggen of toestemming kan geven tot het opleggen daarvan. Elk der Overeenkomstsluitende Partijen neemt echter op zich, dat deze tarieven niet hoger zullen zijn dan die, welke zouden worden betaald voor het gebruik van bedoelde luchthavens en faciliteiten door haar eigen luchtvaartuigen gebezigd op soortgelijke internationale diensten;
 
-- b). op motorbrandstoffen en smeeroliën, aan boord genomen van de luchtvaartuigen van een Overeenkomstsluitende Partij, en op reservedelen, motoren, uitrustingsstukken en in het algemeen het materieel, ingevoerd in het grondgebied van een Overeenkomstsluitende Partij of op dat grondgebied door de andere Overeenkomstsluitende Partij of haar onderdanen aan boord genomen van een luchtvaartuig en uitsluitend bestemd voor gebruik door luchtvaartuigen van deze laatste, door de Overeenkomstsluitende Partij, op wier grondgebied het luchtvaartuig zal zijn binnengekomen, de nationale regeling betreffende het heffen van douanerechten, inspectiekosten en andere nationale rechten zal worden toegepast;
+- b) op motorbrandstoffen en smeeroliën, aan boord genomen van de luchtvaartuigen van een Overeenkomstsluitende Partij, en op reservedelen, motoren, uitrustingsstukken en in het algemeen het materieel, ingevoerd in het grondgebied van een Overeenkomstsluitende Partij of op dat grondgebied door de andere Overeenkomstsluitende Partij of haar onderdanen aan boord genomen van een luchtvaartuig en uitsluitend bestemd voor gebruik door luchtvaartuigen van deze laatste, door de Overeenkomstsluitende Partij, op wier grondgebied het luchtvaartuig zal zijn binnengekomen, de nationale regeling betreffende het heffen van douanerechten, inspectiekosten en andere nationale rechten zal worden toegepast;
 
-- c). de luchtvaartuigen, welke gebruikt worden op de overeengekomen diensten, de voorraden van motorbrandstoffen, smeeroliën, reservedelen, gewone uitrustingstukken en proviand, welke aan boord blijven van de burgerlijke luchtvaartuigen van de luchtvaartonderneming van de Overeenkomstsluitende Partijen, welke gemachtigd zijn de routes en diensten, opgesomd in de Bijlage, te exploiteren, bij hun aankomst op het grondgebied van de andere Overeenkomstsluitende Partij of bij hun vertrek daaruit vrijgesteld zullen zijn van douanerechten, inspectiekosten of soortgelijke andere rechten en tarieven, zelfs wanneer deze voorraden zouden worden gebruikt of verbruikt door deze luchtvaartuigen bij vluchten boven dat grondgebied;
+- c) de luchtvaartuigen, welke gebruikt worden op de overeengekomen diensten, de voorraden van motorbrandstoffen, smeeroliën, reservedelen, gewone uitrustingstukken en proviand, welke aan boord blijven van de burgerlijke luchtvaartuigen van de luchtvaartonderneming van de Overeenkomstsluitende Partijen, welke gemachtigd zijn de routes en diensten, opgesomd in de Bijlage, te exploiteren, bij hun aankomst op het grondgebied van de andere Overeenkomstsluitende Partij of bij hun vertrek daaruit vrijgesteld zullen zijn van douanerechten, inspectiekosten of soortgelijke andere rechten en tarieven, zelfs wanneer deze voorraden zouden worden gebruikt of verbruikt door deze luchtvaartuigen bij vluchten boven dat grondgebied;
 
-- d). de aldus vrijgestelde goederen slechts zullen mogen worden gelost met goedkeuring van de douaneautoriteiten van de andere Overeenkomstsluitende Partij. Deze goederen, die weer moeten worden uitgevoerd, zullen tot wederuitvoer onder toezicht van de douane blijven.
+- d) de aldus vrijgestelde goederen slechts zullen mogen worden gelost met goedkeuring van de douaneautoriteiten van de andere Overeenkomstsluitende Partij. Deze goederen, die weer moeten worden uitgevoerd, zullen tot wederuitvoer onder toezicht van de douane blijven.
 
 ##### Artikel IV
 
@@ -82,7 +61,7 @@ De luchtvaartautoriteiten van de beide Overeenkomstsluitende Partijen zullen elk
 
 ##### Artikel IX
 
-Wordt vervangen door de Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten; Parijs, 10 juli 1967.
+*Wordt vervangen door de Internationale Overeenkomst inzake de procedure voor de vaststelling van tarieven voor geregelde luchtdiensten; Parijs, 10 juli 1967.*
 
 ##### Artikel X
 

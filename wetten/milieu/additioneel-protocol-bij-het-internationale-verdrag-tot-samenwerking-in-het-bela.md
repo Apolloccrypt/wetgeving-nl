@@ -1,40 +1,19 @@
 ---
-title: "Additioneel Protocol bij het Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart \"EUROCONTROL\""
+title: "Additioneel Protocol bij het Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart 'EUROCONTROL'"
 identifier: "BWBV0005301"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-01-01"
-last_updated: "1986-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005301"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004553353"
-version_id: "10004779532"
-internal_id: "C10009781711"
-label_id: "10004537894"
-dtd_version: "2.0"
-original_entry_into_force: "1972-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005301/1986-01-01/0"
-intitule_bron: "Trb.1970-156"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1970-09-16"
-intitule_in_force: "1972-09-05"
-intitule_status: "goed"
-original_publication: "Trb.1970-156"
-original_published_date: "1970-09-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1970-156"
-entry_into_force_date: "1972-08-01"
-jci_1_3: "jci1.3:c:BWBV0005301&z=1986-01-01&g=1986-01-01"
-jci_1_0: "1.0:c:BWBV0005301&g=1986-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1972-08-01"
+publicatiedatum: 1972-08-01
+laatste_update: 1986-01-01
+status: geldig
+toestand: 1986-01-01
+bron: "https://wetten.overheid.nl/BWBV0005301"
+opgehaald: 2026-09-15
 ---
+
 # Additioneel Protocol bij het Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart "EUROCONTROL"
 
-De Staten welke partij zijn bij het op 13 december 1960 te Brussel ondertekende Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL”, hierna genoemd „het Verdrag”, waarbij de Europese Organisatie voor de veiligheid van de luchtvaart „EUROCONTROL”, hierna genoemd „de Organisatie” is opgericht,
-
-Zijn overeengekomen als volgt:
+*De Staten welke partij zijn bij het op 13 december 1960 te Brussel ondertekende Internationale Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL”, hierna genoemd „het Verdrag”, waarbij de Europese Organisatie voor de veiligheid van de luchtvaart „EUROCONTROL”, hierna genoemd „de Organisatie” is opgericht, Zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 

@@ -1,56 +1,19 @@
 ---
 title: "Aanvullend Protocol bij het op 8 april 1960 ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) tot regeling van de samenwerking met betrekking tot het waterbeheer en het natuurbeheer in de Eemsmonding (Eems-Dollardmilieuprotocol)"
 identifier: "BWBV0005276"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-07-01"
-last_updated: "1998-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005276"
+categorie: "Milieu"
 soort: "verdrag"
-stam_id: "10004547913"
-version_id: "10004769692"
-internal_id: "C10007244111"
-label_id: "10004532414"
-dtd_version: "2.0"
-original_entry_into_force: "1998-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005276/1998-07-01/0"
-intitule_bron: "Trb.1996-258"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1996-10-01"
-intitule_in_force: "1998-06-17"
-intitule_status: "goed"
-original_publication: "Trb.1996-258"
-original_published_date: "1996-10-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1996-258"
-entry_into_force_date: "1998-07-01"
-jci_1_3: "jci1.3:c:BWBV0005276&z=1998-07-01&g=1998-07-01"
-jci_1_0: "1.0:c:BWBV0005276&g=1998-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1998-07-01"
+publicatiedatum: 1998-07-01
+laatste_update: 1998-07-01
+status: geldig
+toestand: 1998-07-01
+bron: "https://wetten.overheid.nl/BWBV0005276"
+opgehaald: 2026-09-15
 ---
+
 # Aanvullend Protocol bij het op 8 april 1960 ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) tot regeling van de samenwerking met betrekking tot het waterbeheer en het natuurbeheer in de Eemsmonding (Eems-Dollardmilieuprotocol)
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland
-
-In aanmerking nemende dat er een nauwe samenwerking tussen beide landen bestaat op grond van het op 8 april 1960 ondertekende Grensverdrag, van het op dezelfde dag ondertekende Eems-Dollardverdrag, van de Aanvullende Overeenkomst van 14 mei 1962 alsmede van de Overeenkomst van 17 november 1975 tot wijziging van het Eems-Dollardverdrag;
-
-Voorts in aanmerking nemende de samenwerking tussen beide landen in de Nederlands-Duitse Commissie voor de Ruimtelijke Ordening en tussen de provincie Groningen en het Land Nedersaksen met betrekking tot het milieu- en natuurbeheer in het kader van de Overeenkomst Nieuwe Hanze-Interregio van 20 maart 1991;
-
-Gelet op de besluiten tot samenwerking inzake de Noordzee en de Waddenzee;
-
-Met referte aan de richtlijnen van de Europese Economische Gemeenschap inzake milieu-effectrapportage en inzake water- en natuurbeheer;
-
-Onder verwijzing naar het in het kader van de Economische Commissie voor Europa van de Verenigde Naties opgestelde en door beide landen op 18 maart 1992 in Helsinki ondertekende Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren;
-
-Met het oog op het waterbeheer in de Eemsmonding en het behoud van de natuur;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland In aanmerking nemende dat er een nauwe samenwerking tussen beide landen bestaat op grond van het op 8 april 1960 ondertekende Grensverdrag, van het op dezelfde dag ondertekende Eems-Dollardverdrag, van de Aanvullende Overeenkomst van 14 mei 1962 alsmede van de Overeenkomst van 17 november 1975 tot wijziging van het Eems-Dollardverdrag; Voorts in aanmerking nemende de samenwerking tussen beide landen in de Nederlands-Duitse Commissie voor de Ruimtelijke Ordening en tussen de provincie Groningen en het Land Nedersaksen met betrekking tot het milieu- en natuurbeheer in het kader van de Overeenkomst Nieuwe Hanze-Interregio van 20 maart 1991; Gelet op de besluiten tot samenwerking inzake de Noordzee en de Waddenzee; Met referte aan de richtlijnen van de Europese Economische Gemeenschap inzake milieu-effectrapportage en inzake water- en natuurbeheer; Onder verwijzing naar het in het kader van de Economische Commissie voor Europa van de Verenigde Naties opgestelde en door beide landen op 18 maart 1992 in Helsinki ondertekende Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren; Met het oog op het waterbeheer in de Eemsmonding en het behoud van de natuur; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -58,21 +21,21 @@ Zijn het volgende overeengekomen:
 
 2. De Verdragsluitende Partijen laten zich daarbij leiden door de volgende beginselen:
 
-- –. het principe van goed nabuurschap
+- – het principe van goed nabuurschap
 
-- –. het principe van voorzorg
+- – het principe van voorzorg
 
-- –. het principe van preventie
+- – het principe van preventie
 
-- –. het principe „de vervuiler betaalt”
+- – het principe „de vervuiler betaalt”
 
-- –. het „standstill”-principe
+- – het „standstill”-principe
 
-- –. de zorg voor duurzame ontwikkeling
+- – de zorg voor duurzame ontwikkeling
 
-- –. het toepassen van beste bestaande technieken en van de beste milieupraktijk binnen het kader van het alsdan geldende recht van de Europese Unie
+- – het toepassen van beste bestaande technieken en van de beste milieupraktijk binnen het kader van het alsdan geldende recht van de Europese Unie
 
-- –. het principe van het niet verschuiven van milieubelasting naar andere milieucompartimenten.
+- – het principe van het niet verschuiven van milieubelasting naar andere milieucompartimenten.
 
 ##### Artikel 2
 
@@ -168,11 +131,11 @@ Dit Aanvullend Protocol vormt een bestanddeel van het Eems-Dollardverdrag. Het t
 
 GEDAAN aan boord van „MS Warsteiner Admiral” in de Eemsmonding ter hoogte van Delfzijl, op 22 augustus 1996, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 (w.g.) M. PATIJN
 
-**Voor de Bondsrepubliek Duitsland**
+*Voor de Bondsrepubliek Duitsland*
 
 (w.g.) K. J. DRÖGE
 

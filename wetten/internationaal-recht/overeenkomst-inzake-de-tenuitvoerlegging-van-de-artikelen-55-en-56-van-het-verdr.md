@@ -1,50 +1,19 @@
 ---
 title: "Overeenkomst inzake de tenuitvoerlegging van de artikelen 55 en 56 van het Verdrag tot instelling van de Benelux Economische Unie"
 identifier: "BWBV0005296"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-10-01"
-last_updated: "1963-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005296"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004552403"
-version_id: "10004778562"
-internal_id: "C10007259861"
-label_id: "10004536944"
-dtd_version: "2.0"
-original_entry_into_force: "1963-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005296/1963-10-01/0"
-intitule_bron: "Trb.1960-135"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-10-26"
-intitule_in_force: "1963-10-23"
-intitule_status: "goed"
-original_publication: "Trb.1960-135"
-original_published_date: "1960-10-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-135"
-entry_into_force_date: "1963-10-01"
-jci_1_3: "jci1.3:c:BWBV0005296&z=1963-10-01&g=1963-10-01"
-jci_1_0: "1.0:c:BWBV0005296&g=1963-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-10-01"
+publicatiedatum: 1963-10-01
+laatste_update: 1963-10-01
+status: geldig
+toestand: 1963-10-01
+bron: "https://wetten.overheid.nl/BWBV0005296"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake de tenuitvoerlegging van de artikelen 55 en 56 van het Verdrag tot instelling van de Benelux Economische Unie
 
-De Regering van het Koninkrijk België,
-
-De Regering van het Groothertogdom Luxemburg,
-
-De Regering van het Koninkrijk der Nederlanden,
-
-Gelet op het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047), ondertekend te 's-Gravenhage op 3 februari 1958 en met name de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=2), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=55) en [56](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=56) daarvan,
-
-Overwegende, dat zij op grond van [artikel 55 van genoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=55) verplicht zijn bij overeenkomst de voorwaarden te bepalen, waaraan het binnenkomen, het verlaten, de bewegingsvrijheid, het verblijf, de vestiging en de verwijdering van de onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij kunnen worden onderworpen op grond van overwegingen, die verband houden met de openbare orde, de openbare veiligheid, de volksgezondheid of de goede zeden,
-
-Overwegende, dat zij krachtens [artikel 56 van bedoeld Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=56) voorts moeten onderzoeken in hoeverre de behandeling van de onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij dient te worden neergelegd in nader vast te leggen voorschriften aangaande die wettelijke en gerechtelijke bescherming van hun persoon, hun rechten en hun belangen,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk België, De Regering van het Groothertogdom Luxemburg, De Regering van het Koninkrijk der Nederlanden, Gelet op het Verdrag tot instelling van de Benelux Economische Unie, ondertekend te 's-Gravenhage op 3 februari 1958 en met name de artikelen 2, 55 en 56 daarvan, Overwegende, dat zij op grond van artikel 55 van genoemd Verdrag verplicht zijn bij overeenkomst de voorwaarden te bepalen, waaraan het binnenkomen, het verlaten, de bewegingsvrijheid, het verblijf, de vestiging en de verwijdering van de onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij kunnen worden onderworpen op grond van overwegingen, die verband houden met de openbare orde, de openbare veiligheid, de volksgezondheid of de goede zeden, Overwegende, dat zij krachtens artikel 56 van bedoeld Verdrag voorts moeten onderzoeken in hoeverre de behandeling van de onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij dient te worden neergelegd in nader vast te leggen voorschriften aangaande die wettelijke en gerechtelijke bescherming van hun persoon, hun rechten en hun belangen, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 

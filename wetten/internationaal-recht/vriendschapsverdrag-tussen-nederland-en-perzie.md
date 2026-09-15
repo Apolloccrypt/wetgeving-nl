@@ -1,93 +1,60 @@
 ---
 title: "Vriendschapsverdrag tussen Nederland en Perzië"
 identifier: "BWBV0006001"
-country: "nl"
-rank: "verdrag"
-publication_date: "1931-01-17"
-last_updated: "1931-01-17"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006001"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004978083"
-version_id: "10005296432"
-internal_id: "C10008153251"
-label_id: "10004961294"
-dtd_version: "2.0"
-original_entry_into_force: "1931-01-17"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006001/1931-01-17/0"
-intitule_bron: "Stb.1931-5"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1931-01-05"
-intitule_published: "1931-01-20"
-intitule_in_force: "1931-01-20"
-intitule_status: "goed"
-original_publication: "Stb.1931-5"
-original_signed_date: "1931-01-05"
-original_published_date: "1931-01-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1931-01-17"
-jci_1_3: "jci1.3:c:BWBV0006001&z=1931-01-17&g=1931-01-17"
-jci_1_0: "1.0:c:BWBV0006001&g=1931-01-17"
-citeertitel_status: "redactioneel"
-signed_date: "1931-01-05"
-entry_into_force: "1931-01-17"
+publicatiedatum: 1931-01-17
+laatste_update: 1931-01-17
+status: geldig
+toestand: 1931-01-17
+bron: "https://wetten.overheid.nl/BWBV0006001"
+opgehaald: 2026-09-15
 ---
+
 # Vriendschapsverdrag tussen Nederland en Perzië
 
-Hare Majesteit de Koningin der Nederlanden eenerzijds
+*Sa Majesté la Reine des Pays-Bas d'une part et Sa Majesté Impériale le Schah de Perse d'autre part, Egalement animés du désir de consolider les rapports d'amitié traditionnels entre les deux Etats, ont résolu de conclure un Traité d'amitié et ont nommé à cet effet pour leurs Plénipotentiaires: Sa Majesté la Reine des Pays-Bas: Monsieur LEENDERT PIETER JOHAN DE DECKER, Chargé d'Affaires des Pays-Bas à Téhéran; Sa Majesté Impériale le Schah de Perse: Son Excellence M. MOHAMED ALI KHAN FARZINE, Ministre des Affaires Etrangères; lesquels, après s'être communiqué leurs pleins pouvoirs respectifs, trouvés en bonne et due forme, ont convenu des dispositions suivantes:*
 
-en
+##### Article 1
 
-Zijne Keizerlijke Majesteit de Shah van Perzië anderzijds
+Il y aura paix inviolable et amitié sincère et perpétuelle entre l'Empire de Perse et le Royaume des Pays-Bas, ainsi qu'entre les ressortissants des deux Etats.
 
-in gelijke mate bezield met den wensch om de aloude vriendschapsbetrekkingen tusschen de beide landen te versterken, hebben besloten een vriendschapsverdrag te sluiten en hebben daartoe tot Hun gevolmachtigden benoemd:
+##### Article 2
 
-Hare Majesteit de Koningin der Nederlanden:
+Les Hautes Parties Contractantes sont d'accord pour continuer leurs relations diplomatiques conformément aux principes et à la pratique du droit commun international. Elles conviennent que les représentants diplomatiques de chacune d'Elles recevront, sur le territoire de l'Autre, à charge de réciprocité, le traitement consacré par les principes et la pratique du droit commun international, traitement qui ne pourra, en aucun cas, être moins favorable que celui accordé aux représentants diplomatiques de la nation la plus favorisée.
 
-den heer LEENDERT PIETER JOHAN DE DECKER, zaakgelastigde der Nederlanden te Teheran;
+##### Article 3
 
-Zijne Keizerlijke Majesteit de Shah van Perzië:
+Les Hautes Parties Contractantes conviennent de soumettre à l'arbitrage tous les différends qui surgiraient entre Elles à propos de l'application ou de l'interprétation des stipulations de tous les traités et conventions conclus ou à conclure, y compris l'article 2 du présent Traité et qui n'auraient pu être réglés à l'amiable dans un délai raisonnable par les procédés diplomatiques ordinaires.
 
-Zijne Excellentie M. MOHAMAD ALI KHAN FARZINE, Minister van Buitenlandsche Zaken;
+Cette disposition s'appliquera également le cas échéant à la question préalable de savoir si le différend se rapporte à l'interprétation ou à l'application desdits traités et conventions.
 
-die na elkaar mededeeling te hebben gedaan van hun wederzijdsche volmachten, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende bepalingen zijn overeengekomen:
+La décision du tribunal arbitral obligera les Parties.
 
-##### Artikel 1
+Pour chaque litige le tribunal sera formé sur la demande d'une des Hautes Parties Contractantes et de la façon suivante: dans le délai de trois mois à dater du dépôt de la demande chacun des deux Etats désignera un arbitre, qui pourra être choisi parmi ses ressortissants ou parmi les ressortissants d'un Etat tiers.
 
-Er zal een onschendbare vrede en oprechte en voortdurende vriendschap bestaan tusschen het Keizerrijk Perzië en het Koninkrijk der Nederlanden, evenals tusschen de onderdanen der twee Staten.
+Si à l'expiration du susdit délai de trois mois, l'Etat défendeur n'a désigné l'arbitre, le choix en sera fait, à la demande de l'Etat demandeur, par le Président de la Cour de Justice Internationale parmi les ressortissants de l'Etat défendeur.
 
-##### Artikel 2
+Dans un nouveau délai de deux mois, les Parties se mettront d'accord sur les termes du compromis, saisissant le tribunal arbitral du différend, déterminant sa compétence, énonçant les points en litige et fixant la procédure à suivre pour leur donner une solution. Au cas où le délai de deux mois écoulé, les deux Etats ne se seraient pas entendus sur le compromis, le soin de l'établir serait confiè au tribunal arbitral saisi par l'Etat demandeur.
 
-De Hooge Verdragsluitende Partijen komen overeen om Hun diplomatieke betrekkingen voort te zetten in overeenstemming met de grondbeginselen en de practijk van het algemeene internationale recht. Zij komen overeen, dat de diplomatieke vertegenwoordigers van elk Harer op het grondgebied van de andere, onder voorwaarde van wederkeerigheid, de door de grondbeginselen en de practijk van het algemeene internationale recht bevestigde behandeling zullen genieten, een behandeling, die in geen enkel geval, minder gunstig kan zijn, dan die wordt toegekend aan de diplomatieke vertegenwoordigers van de meest begunstigde natie.
+Si les deux arbitres ne parviennent pas à se mettre d'accord sur l'établissement d'un compromis dans le délai de deux mois à partir du moment où ce soin aurait été confié au tribunal arbitral ou si les deux arbitres ne parviennent pas à régler le différend dans un délai raisonnable, qui devra d'ailleurs être fixé dans le règlement de procédure, les Hautes Parties Contractantes choisiront d'un commun accord encore trois arbitres, à moins qu'Elles ne soient tombées d'accord de ne nommer ensemble qu'un seul tiers arbitre. Ces arbitres devront être ressortissants d'un ou de plusieurs Etats tiers. Si les Etats ne tombent pas d'accord sur le choix des arbitres ou de l'arbitre susvisés, dans le délai de deux mois à dater du moment où aura été formulée la demande de la nomination de ces arbitres ou du tiers arbitre, ils prieront en commun ou, faute d'avoir introduit cette requête commune dans un nouveau délai de deux mois, le plus diligent d'entre Eux priera le Président de la Cour Permanente de Justice Internationale de nommer les trois arbitres ou le tiers arbitre, parmi les ressortissants des Etats tiers. Du commun accord des Parties, il pourra lui être remis une liste Etats tiers auxquels son choix devra se restreindre. Elles se réservent de s'entendre à l'avance pour une période déterminée sur la désignation des trois arbitres ou du tiers arbitre.
 
-##### Artikel 3
+Au cas où il aurait fallu procéder à la désignation des trois arbitres ou du tiers arbitre, et à défaut d'un compromis entre les deux Etats contractants ayant déterminé la procédure à suivre à partir de cette désignation, les trois arbitres se joindront ou le tiers arbitre se joindra aux deux premiers arbitres, et le tribunal ainsi formé déterminera sa procédure et réglera le différend.
 
-De Hooge Verdragsluitende Partijen komen overeen om aan arbitrage te onderwerpen alle geschillen, die tusschen Haar mochten rijzen naar aanleiding van de toepassing of de uitlegging der bepalingen van alle verdragen en overeenkomsten, die tusschen Haar zijn of zullen worden gesloten, artikel 2 van dit Verdrag daaronder begrepen, en welke niet binnen redelijken tijd op vriendschappelijke wijze zouden kunnen worden opgelost langs den gewonen diplomatieken weg.
+Toutes les décisions du tribunal arbitral seront rendues à la majorité.
 
-Deze bepaling zal, als het geval zich voordoet, ook toepasselijk zijn op de voorafgaande vraag of het geschil betrekking heeft op de uitlegging of op de toepassing van genoemde verdragen en overeenkomsten. De beslissing van het arbitrale scheidsgerecht zal voor de Partijen verbindend zijn. Voor elk geschil zal het scheidsgerecht worden samengesteld op verzoek van een der Hooge Verdragsluitende Partijen en wel op de volgende wijze:
+Pour tout différend autre que ceux relatifs à l'application ou à l'interprétation de traités ou conventions et qui n'auraient pu être réglés de façon satisfaisante par les procédés diplomatiques ordinaires, les Hautes Parties Contractantes, respectueuses de leurs obligations en tant que membres de la Société des Nations, conviennent de ne recourir qu'à des procédures de règlement pacifique. Elles détermineront dans chaque cas par compromis spécial la procédure qui leur paraîtra la mieux appropriée.
 
-Binnen drie maanden na het neerleggen van het verzoek zal elk der twee Staten een scheidsrechter aanwijzen, die gekozen zal kunnen worden onder Zijn eigen onderdanen of onder de onderdanen van een derden Staat. Wanneer bij het verstrijken van bedoeld tijdsverloop van drie maanden de verweerende Staat geen scheidsrechter heeft aangewezen, zal de keuze, op verzoek van den eischenden Staat, worden gedaan door den Voorzitter van het Hof van Internationale Justitie onder de onderdanen van den verweerenden Staat.
+Les Hautes Parties Contractantes conviennent au surplus que, au cas où elles viendraient toutes deux à adhèrer à l'acte général d'arbitrage du 26 septembre 1928 ou au protocole relatif à la compétence obligatoire de la Cour Permanente de Justice Internationale du 16 décembre 1920, les stipulations de ces actes se trouveraient éventuellement d'application, nonobstant les dispositions du présent article.
 
-Binnen een nieuw tijdsverloop van twee maanden zullen de Partijen overeenkomen omtrent de bewoordingen van het compromis, waarin het geschil aanhangig gemaakt wordt bij het scheidsgerecht, de competentie van het scheidsgerecht wordt omschreven, de punten, waarover het geschil loopt, worden gesteld en de procedure, die gevolgd zal moeten worden om tot een oplossing te komen, zal worden vastgesteld.
+##### Article 4
 
-Voor het geval dat, nadat het tijdsverloop van twee maanden is verstreken, de twee Staten het niet eens zouden zijn geworden over het compromis, zal de zorg om het op te stellen worden toevertrouwd aan het scheidsgerecht, dat daartoe zal overgaan op verzoek van den eischenden Staat.
-
-Wanneer de twee scheidsrechters het niet eens worden over het vaststellen van een compromis binnen het tijdsverloop van twee maanden gerekend vanaf het oogenblik waarop die zorg aan het scheidsgerecht is toevertrouwd, of wanneer die twee scheidsrechters er niet in slagen het geschil te regelen binnen een redelijken tijd, die overigens in de regeling van de procedure zal moeten zijn vastgesteld, dan zullen de Hooge Verdragsluitende Partijen gezamenlijk nog drie scheidsrechters kiezen, tenzij zij zijn overeengekomen slechts een enkelen derden scheidsrechter te benoemen. Die scheidsrechters zullen onderdanen moeten zijn van een of meer derde Staten. Wanneer de Staten het, binnen een tijdsverloop van twee maanden te rekenen van het oogenblik waarop het verzoek tot benoeming van die scheidrechters of van een derden scheidsrechter zal zijn gedaan, niet eens worden over de keuze van de bovenbedoelde scheidsrechters of den scheidsrechter, dan zullen zij gezamenlijk of — wanneer het gezamenlijk verzoek niet mocht zijn gedaan binnen een nieuw tijdsverloop van twee maanden — de meest gereede van hen den President van het Permanente Hof van Internationale Justitie verzoeken de drie scheidsrechters of den derden scheidsrechter ouder de onderdanen van derde Staten te benoemen. In gemeen overleg der Partijen zal hem een lijst van derde Staten kunnen worden overhandigd, waartoe hij zich bij zijn keuze zal moeten beperken. De Partijen behouden zich het recht voor om voor een bepaald tijdperk zich van te voren te verstaan omtrent de aanwijzing van de drie scheidsrechters of den derden scheidsrechter.
-
-In geval het noodig is geweest over te gaan tot de aanwijzing van de drie scheidsrechters of van den derden scheidsrechter, en bij gebreke van een compromis tusschen de twee verdragsluitende Staten waarin de, vanaf het oogenblik van die aanwijzing, te volgen procedure is vastgelegd, zullen de drie scheidsrechters of zal de derde scheidsrechter zich voegen bij de twee eerste scheidsrechters, en het zoo gevormde scheidsgerecht zal zijn procedure vaststellen en het geschil regelen. Alle beslissingen van het scheidsgerecht zullen bij meerderheid van stemmen genomen worden.
-
-Ten aanzien van elk ander geschil dan die, welke betrekking hebben op de toepassing of uitlegging van verdragen en overeenkomsten, en dat niet op bevredigende wijze langs den gewonen diplomatieken weg mocht kunnen zijn opgelost, komen de Hooge Verdragsluitende Partijen, haar verplichtingen als leden van den Volkenbond hooghoudende, overeen slechts tot vreedzame wijze van oplossing hare toevlucht te zullen nemen. Zij zullen in elk geval door een speciaal compromis de procedure, die haar het meest geëigend voorkomt, vaststellen.
-
-De Hooge Verdragsluitende Partijen komen bovendien overeen, dat, voor het geval zij verder mochten toetreden tot de Algemeene Akte van Arbitrage van 26 September 1928 of tot het protocol nopens de verplichte aanvaarding van de bevoegdheid van het Permanente Hof van Internationale Justitie van 16 December 1920, de bepalingen van die overeenkomsten eventueel zullen worden toegepast, niettegenstaande de bepalingen van dit artikel.
-
-##### Artikel 4
-
-Dit verdrag zal bekrachtigd worden en de bekrachtigingsoorkonden zullen zoo spoedig mogelijk worden uitgewisseld. Het zal van kracht worden een maand na de uitwisseling der bekrachtigingsoorkonden.
+Le présent Traité sera ratifié et les ratifications seront échangées le plus tôt que faire se pourra. Il entrera en vigueur un mois à dater de l'échange des instruments de ratification.
 
 En foi de quoi, les Plénipotentiaires respectifs ont signé le présent Traité et y ont apposé leurs sceaux.
 
 Fait à Téhéran, le 12 mars 1930. (21 esfand mah 1308 Solaire).
 
-(**L.S.**) L. P. J. DE DECKER.
+(*L.S.*) L. P. J. DE DECKER.
 
-(**L.S.**) M. FARZINE.
+(*L.S.*) M. FARZINE.

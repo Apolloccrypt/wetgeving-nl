@@ -9,7 +9,7 @@ laatste_update: 2026-07-11
 status: geldig
 toestand: 2026-07-11
 bron: "https://wetten.overheid.nl/BWBR0051170"
-opgehaald: 2026-09-08
+opgehaald: 2026-09-15
 ---
 
 # Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00951, houdende vaststelling van het examenreglement staatsexamens vo (Regeling examenreglement staatsexamens vo)

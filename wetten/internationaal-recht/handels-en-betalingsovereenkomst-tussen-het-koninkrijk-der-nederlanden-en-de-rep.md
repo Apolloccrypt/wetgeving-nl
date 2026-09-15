@@ -1,41 +1,18 @@
 ---
 title: "Handels- en Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Argentinië"
 identifier: "BWBV0005235"
-country: "nl"
-rank: "verdrag"
-publication_date: "1957-11-26"
-last_updated: "1957-11-26"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005235"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004527923"
-version_id: "10004745802"
-internal_id: "C10007029881"
-label_id: "10004512924"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005235/1957-11-26/0"
-intitule_bron: "Trb.1958-11"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1958-01-24"
-intitule_status: "nogniet"
-original_publication: "Trb.1958-11"
-original_published_date: "1958-01-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1958-11"
-jci_1_3: "jci1.3:c:BWBV0005235&z=1957-11-26&g=1957-11-26"
-jci_1_0: "1.0:c:BWBV0005235&g=1957-11-26"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-01-24"
+laatste_update: 1957-11-26
+status: geldig
+toestand: 1957-11-26
+bron: "https://wetten.overheid.nl/BWBV0005235"
+opgehaald: 2026-09-15
 ---
+
 # Handels- en Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Argentinië
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Argentinië,
-
-trouw aan de geest van samenwerking, die hen bezielt, verlangend de banden, welke hun onderscheiden landen verbinden, nauwer aan te halen, de economische betrekkingen tussen hen te verruimen en in het bijzonder het handelsverkeer te bevorderen,
-
-in aanmerking nemend de beginselen van het multilaterale stelsel van handel en betalingen, zoals die zijn neergelegd in de „Note de Paris” dd 30 mei 1956,
-
-hebben besloten een Handels- en Betalingsovereenkomst te sluiten, met welk doel de aangewezen Gevolmachtigden, daartoe voldoende bevoegd, het volgende zijn overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Argentinië, trouw aan de geest van samenwerking, die hen bezielt, verlangend de banden, welke hun onderscheiden landen verbinden, nauwer aan te halen, de economische betrekkingen tussen hen te verruimen en in het bijzonder het handelsverkeer te bevorderen, in aanmerking nemend de beginselen van het multilaterale stelsel van handel en betalingen, zoals die zijn neergelegd in de „Note de Paris” dd 30 mei 1956, hebben besloten een Handels- en Betalingsovereenkomst te sluiten, met welk doel de aangewezen Gevolmachtigden, daartoe voldoende bevoegd, het volgende zijn overeengekomen:*
 
 ##### Artikel 1
 
@@ -153,7 +130,7 @@ Deze Overeenkomst is gesloten voor de tijdsduur van één jaar, gerekend vanaf d
 
 Ten blijke waarvan de Gevolmachtigden van beide Overeenkomstsluitende Partijen deze Overeenkomst hebben ondertekend in vier exemplaren, twee in de Nederlandse taal en twee in de Spaanse taal, zijnde de twee teksten gelijkelijk authentiek, te Buenos Aires, 25 november negentienhonderd zevenenvijftig.
 
-**Voor de Regering van de Republiek Argentinië:**
+*Voor de Regering van de Republiek Argentinië:*
 
 (w.g.) ALF. DE LAFERRERE
 
@@ -167,7 +144,7 @@ Minister van Financiën
 
 Minister van Handel en Industrie
 
-**Voor de Regering van het Koninkrijk der Nederlanden:**
+*Voor de Regering van het Koninkrijk der Nederlanden:*
 
 (w.g.) W. G. ZEYLSTRA
 

@@ -1,40 +1,19 @@
 ---
 title: "Statuut van de Internationale Rijst Commissie"
 identifier: "BWBV0005694"
-country: "nl"
-rank: "verdrag"
-publication_date: "1973-11-30"
-last_updated: "1973-11-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005694"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004816203"
-version_id: "10005120332"
-internal_id: "C10008549021"
-label_id: "10004800124"
-dtd_version: "2.0"
-original_entry_into_force: "1949-01-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005694/1973-11-30/0"
-intitule_bron: "Trb.1957-200"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-10-17"
-intitule_in_force: "1957-10-17"
-intitule_status: "goed"
-original_publication: "Trb.1957-200"
-original_published_date: "1957-10-17"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-200"
-entry_into_force_date: "1949-01-04"
-jci_1_3: "jci1.3:c:BWBV0005694&z=1973-11-30&g=1973-11-30"
-jci_1_0: "1.0:c:BWBV0005694&g=1973-11-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "1949-01-04"
+publicatiedatum: 1949-01-04
+laatste_update: 1973-11-30
+status: geldig
+toestand: 1973-11-30
+bron: "https://wetten.overheid.nl/BWBV0005694"
+opgehaald: 2026-09-15
 ---
+
 # Statuut van de Internationale Rijst Commissie
 
-Preamble
-
-The Fourth Session of the Conference of the Food and Agriculture Organization of the United Nations (hereinafter referred to as “the Organization”), having considered the recommendations of the Rice Meeting held in Baguio, Philippines, in March 1948, as approved in principle by the Council of the Organization at its meeting in April 1948, approved the establishment of an International Rice Commission (hereinafter referred to as “the Commission”) in accordance with the provisions of the Draft Constitution drawn up at the Rice Meeting at Baguio.
+*Preamble The Fourth Session of the Conference of the Food and Agriculture Organization of the United Nations (hereinafter referred to as “the Organization”), having considered the recommendations of the Rice Meeting held in Baguio, Philippines, in March 1948, as approved in principle by the Council of the Organization at its meeting in April 1948, approved the establishment of an International Rice Commission (hereinafter referred to as “the Commission”) in accordance with the provisions of the Draft Constitution drawn up at the Rice Meeting at Baguio.*
 
 ##### Article I. Object
 
@@ -106,7 +85,7 @@ The Commission shall have the functions of:
 
 3. The expenses of the Secretariat of the Commission, and any expenses incurred by the Chairman of the Commission in performing duties connected with its work in intervals between sessions of the Commission, shall be determined and paid by the Organization within the limits of the budget of the Organization prepared and approved by the Conference of the Organization in accordance with the General Rules and Financial Regulations of the Organization for the time being in force.
 
-4. Expenses for co-operative projects by Members as authorized in Article IV (**c**), unless they are met by the Organization or from any other source, shall be determined and paid by Members in such manner and proportions as they may mutually agree. Co-operative projects shall be submitted to the Council of the Organization prior to implementation. Contributions for co-operative projects shall be paid into a trust fund to be established by the Organization and administered by the Organization in accordance with the Financial Regulations of the Organization.
+4. Expenses for co-operative projects by Members as authorized in Article IV (*c*), unless they are met by the Organization or from any other source, shall be determined and paid by Members in such manner and proportions as they may mutually agree. Co-operative projects shall be submitted to the Council of the Organization prior to implementation. Contributions for co-operative projects shall be paid into a trust fund to be established by the Organization and administered by the Organization in accordance with the Financial Regulations of the Organization.
 
 ##### Article VIII. Acceptance
 

@@ -1,46 +1,19 @@
 ---
 title: "Algemene Overeenkomst inzake technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika"
 identifier: "BWBV0005153"
-country: "nl"
-rank: "verdrag"
-publication_date: "1954-04-21"
-last_updated: "1954-04-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005153"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004487483"
-version_id: "10004700592"
-internal_id: "C10007029311"
-label_id: "10004472074"
-dtd_version: "2.0"
-original_entry_into_force: "1954-04-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005153/1954-04-21/0"
-intitule_bron: "Trb.1954-10"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-02-01"
-intitule_in_force: "1954-05-11"
-intitule_status: "goed"
-original_publication: "Trb.1954-10"
-original_published_date: "1954-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-10"
-entry_into_force_date: "1954-04-21"
-jci_1_3: "jci1.3:c:BWBV0005153&z=1954-04-21&g=1954-04-21"
-jci_1_0: "1.0:c:BWBV0005153&g=1954-04-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1954-04-21"
+publicatiedatum: 1954-04-21
+laatste_update: 1954-04-21
+status: geldig
+toestand: 1954-04-21
+bron: "https://wetten.overheid.nl/BWBV0005153"
+opgehaald: 2026-09-15
 ---
+
 # Algemene Overeenkomst inzake technische samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika,
-
-Overwegende, dat de volkeren van de gebieden van het Koninkrijk der Nederlanden en van de Verenigde Staten van Amerika een gemeenschappelijk belang hebben bij de economische en sociale vooruitgang, en dat de gezamenlijke pogingen tot uitwisseling van technische kennis en bekwaamheid ertoe zullen bijdragen dat dit doel wordt bereikt, en
-
-Overwegende, dat de uitwisseling van technische kennis en bekwaamheid de wederzijdse veiligheid van beide volkeren zal versterken en hun hulpbronnen zal ontwikkelen in het belang van het handhaven van hun veiligheid, en
-
-Overwegende, dat de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika zijn overeengekomen mede te werken tot het bevorderen van het internationaal begrip en een goede internationale verstandhouding en tot het handhaven van de wereldvrede, en die stappen te nemen welke zij onderling kunnen overeenkomen teneinde de oorzaken van internationale spanning weg te nemen,
-
-Zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika, Overwegende, dat de volkeren van de gebieden van het Koninkrijk der Nederlanden en van de Verenigde Staten van Amerika een gemeenschappelijk belang hebben bij de economische en sociale vooruitgang, en dat de gezamenlijke pogingen tot uitwisseling van technische kennis en bekwaamheid ertoe zullen bijdragen dat dit doel wordt bereikt, en Overwegende, dat de uitwisseling van technische kennis en bekwaamheid de wederzijdse veiligheid van beide volkeren zal versterken en hun hulpbronnen zal ontwikkelen in het belang van het handhaven van hun veiligheid, en Overwegende, dat de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika zijn overeengekomen mede te werken tot het bevorderen van het internationaal begrip en een goede internationale verstandhouding en tot het handhaven van de wereldvrede, en die stappen te nemen welke zij onderling kunnen overeenkomen teneinde de oorzaken van internationale spanning weg te nemen, Zijn overeengekomen als volgt:*
 
 ##### Artikel I. Toepassing
 

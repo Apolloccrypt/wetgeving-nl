@@ -1,242 +1,219 @@
 ---
 title: "Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer"
 identifier: "BWBV0005182"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-06-06"
-last_updated: "1967-06-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005182"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004498263"
-version_id: "10004713672"
-internal_id: "C10007189361"
-label_id: "10004483294"
-dtd_version: "2.0"
-original_entry_into_force: "1958-06-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005182/1967-06-06/0"
-intitule_bron: "Trb.1955-122"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1955-08-20"
-intitule_in_force: "1958-07-26"
-intitule_status: "goed"
-original_publication: "Trb.1955-122"
-original_published_date: "1955-08-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-122"
-entry_into_force_date: "1958-06-05"
-jci_1_3: "jci1.3:c:BWBV0005182&z=1967-06-06&g=1967-06-06"
-jci_1_0: "1.0:c:BWBV0005182&g=1967-06-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-06-05"
+publicatiedatum: 1958-06-05
+laatste_update: 1967-06-06
+status: geldig
+toestand: 1967-06-06
+bron: "https://wetten.overheid.nl/BWBV0005182"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer
 
-DE VERDRAGSLUITENDE STATEN,
+*THE CONTRACTING STATES, Desiring to facilitate the development of international touring, Have decided to conclude a Convention and have agreed as follows:*
 
-**Bezield door de wens** de ontwikkeling van het internationale toeristenverkeer te bevorderen,
+##### Article 1
 
-**Hebben besloten** een Verdrag te sluiten en zijn het volgende overeengekomen:
+For the purpose of this Convention:
 
-##### Artikel 1
+- (a) The term “import duties and import taxes” shall mean not only Customs duties but also all duties and taxes whatever chargeable by reason of importation;
 
-Voor de toepassing van dit Verdrag wordt verstaan:
+- (b) The term “tourist” shall mean any person without distinction as to race, sex, language or religion, who enters the territory of a Contracting State other than that in which that person normally resides and remains there for not less than twenty-four hours and not more than six months in the course of any twelve-month period, for legitimate non-immigrant purposes, such as touring, recreation, sports, health, family reasons, study, religious pilgrimages or business;
 
-- a). onder „rechten en heffingen ter zake van de invoer” niet alleen de invoerrechten, doch tevens alle rechten en heffingen, hoe ook genaamd, welke ter zake van de invoer worden geheven;
+- (c) The term “temporary importation permit” shall mean the Customs document testifying to the guarantee or deposit of import duties and import taxes chargeable in the event of failure to re-export the article temporarily imported.
 
-- b). onder „toerist” iedere persoon, zonder onderscheid van ras, geslacht, taal of godsdienst, die het gebied van een der andere Verdragsluitende Staten dan dat waar hij gewoonlijk verblijf houdt, binnenkomt en daar gedurende ten minste vierentwintig uren en ten hoogste zes maanden in de loop van enig tijdvak van twaalf maanden vertoeft op grond van rechtmatige beweegredenen - niet zijnde immigratie -, zoals toerisme, ontspanning, sport, gezondheid, familieomstandigheden, studie, pelgrimstochten of zaken;
+##### Article 2
 
-- c). onder „Bewijs van tijdelijke invoer” het douanedocument blijkens hetwelk zekerheid is gesteld dan wel consignatie heeft plaatsgevonden voor de rechten en heffingen ter zake van de invoer welke verschuldigd zijn indien wordt nagelaten de tijdelijk ingevoerde goederen weder uit te voeren.
+1. Subject to the other conditions laid down in this Convention, each of the Contracting States shall admit temporarily free of import duties and import taxes the personal effects imported by a tourist, provided they are for the personal use of the tourist, that they are carried on the person of or in the luggage accompanying the tourist, that there is no reason to fear abuse, and that these personal effects will be re-exported by the tourist on leaving the country.
 
-##### Artikel 2
+2. The term “personal effects” shall mean all clothing and other articles new or used which a tourist may personally and reasonably require, taking into consideration all the circumstances of his visit, but excluding all merchandise imported for commercial purposes.
 
-1. Behoudens de andere bepalingen van dit Verdrag zal elke Verdragsluitende Staat met tijdelijke vrijstelling van rechten en heffingen ter zake van de invoer toelaten de persoonlijke goederen die door een toerist worden ingevoerd, mits deze goederen bestemd zijn voor diens persoonlijk gebruik en hij de goederen zelf of in zijn reisbagage medevoert, mits er geen vrees voor misbruik bestaat en mits deze persoonlijke goederen door de toerist weder zullen worden uitgevoerd wanneer hij het land verlaat.
+3. Personal effects shall include among other articles the following, provided that they can be considered as being in use:
 
-2. Onder „persoonlijke goederen” worden verstaan alle kledingstukken en alle andere nieuwe of gebruikte goederen, welke een toerist redelijkerwijze en voor zich persoonlijk nodig kan hebben, rekening houdende met alle omstandigheden van zijn reis, doch met uitzondering van alle goederen welke voor handelsdoeleinden worden ingevoerd.
+- personal jewellery;
 
-3. Onder persoonlijke goederen zijn onder andere de volgende voorwerpen begrepen, mits kan worden aangenomen dat zij in gebruik zijn:
+- one camera with twelve plates or five rolls of film;
 
-- persoonlijke sieraden;
+- one miniature cinematograph camera with two reels of film;
 
-- een fototoestel met twaalf platen of vijf rolfilms;
+- one pair of binoculars;
 
-- een smalfilmopneemapparaat met twee filmrollen;
+- one portable musical instrument;
 
-- een verrekijker;
+- one portable gramophone with ten records;
 
-- een draagbaar muziekinstrument;
+- one portable sound-recording apparatus;
 
-- een draagbare grammofoon met tien platen;
+- one portable wireless receiving set;
 
-- een draagbaar geluidsopneemapparaat;
+- one portable television set;
 
-- een draagbaar radio-ontvangtoestel;
+- one portable typewriter;
 
-- een draagbaar televisie-ontvangapparaat;
+- one perambulator;
 
-- een draagbare schrijfmachine;
+- one tent and other camping equipment;
 
-- een kinderwagen;
+- sports equipment (one fishing outfit, one sporting firearm with fifty cartridges, one non-powered bicycle, one canoe or kayac less than 5½ metres long, one pair of skis, two tennis racquets, and other similar articles).
 
-- een tent en verdere kampeeruitrusting;
+##### Article 3
 
-- sportartikelen (een vissersuitrusting, een jachtgeweer met vijftig patronen, een rijwiel zonder motor, een kano of kajak met een lengte van niet meer dan 5,50 m, een paar ski's, twee tennisrackets en andere soortgelijke artikelen).
+Subject to the other conditions laid down in this Convention each of the Contracting States shall admit free of import duties and import taxes the following articles imported by a tourist for his personal use, provided that these articles are carried on the person of or in the hand luggage accompanying the tourist, and provided that there is no reason to fear abuse:
 
-##### Artikel 3
+- (a) 200 cigarettes or 50 cigars or 250 grammes of tobacco, or an assortment of these products, provided that the total weight does not exceed 250 grammes;
 
-Behoudens de andere bepalingen van dit Verdrag zal elke Verdragsluitende Staat met vrijstelling van rechten en heffingen ter zake van de invoer toelaten de volgende goederen, welke door een toerist voor zijn persoonlijk gebruik worden ingevoerd, mits hij de goederen zelf of in zijn handbagage medevoert en mits er geen vrees voor misbruik bestaat:
+- (b) one regular-size bottle of wine and one-quarter litre of spirits;
 
-- a). 200 sigaretten of 50 sigaren of 250 gram tabak, of een evenredige hoeveelheid van deze producten tezamen tot een gewicht van 250 gram;
+- (c) one-quarter litre of toilet water and a small quantity of perfume.
 
-- b). een fles wijn van normale inhoud en een kwart liter gedistilleerde dranken;
+##### Article 4
 
-- c). een kwart liter toiletwater en een kleine hoeveelheid parfum.
+Subject to the other conditions laid down in this Convention each of the Contracting States shall grant to the tourist, provided that there is no reason to fear abuse:
 
-##### Artikel 4
+- (a) authorization to import in transit and without a temporary importation permit, travel souvenirs for a total value not exceeding 50 U.S.A. dollars, provided that such souvenirs are carried on the person of or in the luggage accompanying the tourist and that they are not intended for commercial purposes;
 
-Behoudens de andere bepalingen van dit Verdrag en mits er geen vrees voor misbruik bestaat, verleent elke Verdragsluitende Staat aan een toerist:
+- (b) authorization to export, without the formalities applying to currency controls and free of export duties, travel souvenirs which the tourist has bought in the country for a total value not exceeding 100 U.S.A. dollars, provided that they are carried on the person of or in the luggage accompanying the tourist and that such souvenirs are not intended for commercial purposes.
 
-- a). machtiging om zonder Bewijs van tijdelijke invoer reissouvenirs door te voeren tot een totale waarde van niet meer dan 50 Amerikaanse dollars, mits hij deze souvenirs zelf of in zijn reisbagage medevoert en mits deze souvenirs niet bestemd zijn voor handelsdoeleinden;
+##### Article 5
 
-- b). machtiging om, onder ontheffing van formaliteiten met betrekking tot de deviezencontrole en met vrijstelling van uitvoerrechten, reissouvenirs welke de toerist in het land heeft gekocht, uit te voeren tot een totale waarde van niet meer dan 100 Amerikaanse dollars, mits hij de souvenirs zelf of in zijn reisbagage medevoert en mits deze souvenirs niet bestemd zijn voor handelsdoeleinden.
+Each of the Contracting States may require a temporary importation permit in respect of articles of a high value covered by article 2.
 
-##### Artikel 5
+##### Article 6
 
-Elke Verdragsluitende Staat kan eisen, dat de in artikel 2 bedoelde voorwerpen, indien zij een hoge waarde hebben, gedekt zijn door een Bewijs van tijdelijke invoer.
+The Contracting States shall endeavour not to introduce Customs procedures which might have the effect of impeding the development of international touring.
 
-##### Artikel 6
+##### Article 7
 
-De Verdragsluitende Staten zullen ernaar streven geen douaneformaliteiten in te stellen die de ontwikkeling van het internationale toeristenverkeer zouden kunnen belemmeren.
+In order to expedite Customs procedures, contiguous Contracting States shall endeavour to place their respective Customs posts close together and to keep them open during the same hours.
 
-##### Artikel 7
+##### Article 8
 
-Ten einde de vervulling van de douaneformaliteiten te bespoedigen, zullen aangrenzende Verdragsluitende Staten ernaar streven hun douanekantoren in elkaars onmiddellijke nabijheid te plaatsen en de tegenover elkaar gelegen douanekantoren tijdens dezelfde uren open te stellen.
+The provisions of this Convention shall not prejudice in any way the application of police or other regulations concerning the importation, possession and carrying of arms and ammunition.
 
-##### Artikel 8
+##### Article 9
 
-De bepalingen van dit Verdrag doen in geen enkel opzicht afbreuk aan de toepassing van politie- en andere reglementen betreffende de invoer, het bezit en het dragen van wapenen en munitie.
+Each of the Contracting States recognizes that any prohibitions which that State imposes on the importation or exportation of articles which benefit under this Convention shall apply only in so far as they are based on considerations other than economic in character, for example, of public morality, public security, public health, hygiene, veterinary or phyto-pathological considerations.
 
-##### Artikel 9
+##### Article 10
 
-Elke Verdragsluitende Staat erkent dat verboden die hij uitvaardigt met betrekking tot de invoer of de uitvoer van in dit Verdrag bedoelde goederen, slechts van toepassing zijn, voor zover die verboden gegrond zijn op overwegingen welke niet van economische aard zijn, zoals overwegingen van openbare zedelijkheid, openbare veiligheid of volksgezondheid, of wel hygiënische, veterinaire of fytopathologische overwegingen.
+The exemptions and facilities provided by this Convention shall not apply to frontier traffic.
 
-##### Artikel 10
+Nor shall the applications of these exemptions and facilities be considered as automatic:
 
-De vrijstellingen en andere faciliteiten welke zijn neergelegd in dit Verdrag zijn niet van toepassing op het grensverkeer.
+- (a) when the total quantity of a commodity to be imported by a tourist exceeds substantially the limit laid down in this Convention;
 
-Evenmin zullen deze vrijstellingen en faciliteiten zonder meer worden toegepast:
+- (b) in case of a tourist who enters the country of import more than once a month;
 
-- a). indien de totale hoeveelheid van een goed, die door een toerist wordt ingevoerd, de in dit Verdrag gestelde grenzen belangrijk te boven gaat;
+- (c) in case of a tourist under 17 years of age.
 
-- b). ten aanzien van toeristen die het land van invoer meer dan eenmaal per maand binnenkomen;
+##### Article 11
 
-- c). ten aanzien van toeristen beneden de leeftijd van 17 jaar.
+In the event of fraud, contravention or abuse the Contracting States shall be free to take proceedings for the recovery of the corresponding import duties and import taxes and also for the imposition of any penalties to which the persons who have been granted exemptions or other facilities may have rendered themselves liable.
 
-##### Artikel 11
+##### Article 12
 
-In geval van fraude, overtreding of misbruik hebben de Verdragsluitende Staten het recht vervolging in te stellen tot invordering van de eventueel verschuldigde rechten en heffingen ter zake van de invoer, alsmede voor het opleggen van straffen waaraan de personen aan wie vrijstellingen of andere faciliteiten zijn verleend, zich hebben blootgesteld.
+Any breach of the provisions of this Convention, any substitution, false declaration or act having the effect of causing a person or an article improperly to benefit from the system of importation laid down in this Convention, may render the offender liable in the country where the offense was committed to the penalties prescribed by the laws of that country.
 
-##### Artikel 12
+##### Article 13
 
-Elke inbreuk op de bepalingen van dit Verdrag, elke verwisseling, valse verklaring of handeling, die tot gevolg heeft dat ten aanzien van een persoon of een voorwerp de in dit Verdrag neergelegde bepalingen met betrekking tot de tijdelijke invoer ten onrechte worden toegepast, stelt de overtreder in het land waar de overtreding is begaan, bloot aan de straffen welke zijn voorzien in de wetgeving van dat land.
+Nothing in this Convention shall prevent Contracting States which form a Customs or economic union from enacting special provisions applicable to residents of the States forming that union.
 
-##### Artikel 13
+##### Article 14
 
-Geen enkele bepaling van dit Verdrag zal de Verdragsluitende Staten die een douane-unie of een economische unie vormen, kunnen beletten bijzondere bepalingen vast te stellen, welke van toepassing zijn op personen die hun normale verblijf hebben in de landen die deel uitmaken van die unie.
+1. This Convention shall be open for signature until 31 December 1954 on behalf of any State Member of the United Nations and any other State invited to attend the United Nations Conference on Customs Formalities for the Temporary Importation of Private Road Motor Vehicles and for Tourism held in New York in May and June 1954, hereinafter referred to as the Conference.
 
-##### Artikel 14
+2. This Convention shall be subject to ratification and the instruments of ratification shall be deposited with the Secretary-General of the United Nations.
 
-1. Dit Verdrag staat tot en met 31 december 1954 open voor ondertekening namens iedere Staat die lid is van de Organisatie van de Verenigde Naties en namens elke andere Staat die is uitgenodigd deel te nemen aan de Conferentie van de Verenigde Naties nopens douaneformaliteiten met betrekking tot de tijdelijke invoer van voertuigen gebezigd in het toeristenverkeer en met betrekking tot het toeristenverkeer, welke Conferentie in mei en juni 1954 te New York is gehouden en die hierna zal worden aangeduid als „de Conferentie”.
+##### Article 15
 
-2. Dit Verdrag is onderworpen aan bekrachtiging en de akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
+1. From 1 January 1955 this Convention shall be open for accession by any State referred to in paragraph 1 of article 14 and any other State so invited by the Economic and Social Council of the United Nations. It shall also be open for accession on behalf of any Trust Territory of which the United Nations is the Administering Authority.
 
-##### Artikel 15
+2. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-1. Van 1 januari 1955 af kan elke Staat, bedoeld in het eerste lid van artikel 14, en elke andere Staat, die hiertoe wordt uitgenodigd door de Economische en Sociale Raad van de Verenigde Naties, tot dit Verdrag toetreden. Toetreding zal eveneens mogelijk zijn namens elk trustgebied waarvoor de Organisatie van de Verenigde Naties de beherende Autoriteit is.
+##### Article 16
 
-2. De toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
+1. This Convention shall enter into force on the ninetieth day following the date of the deposit of the fifteenth instrument of ratification or accession either without reservation or with reservations accepted in accordance with article 20.
 
-##### Artikel 16
+2. For each State ratifying or acceding to the Convention after the date of the deposit of the fifteenth instrument of ratification or accession in accordance with the preceding paragraph, the Convention shall enter into force on the ninetieth day following the date of the deposit by such State of its instrument of ratification or accession either without reservation or with reservations accepted in accordance with article 20.
 
-1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftiende akte van bekrachtiging of van toetreding, hetzij zonder voorbehoud, hetzij onder voorbehoud dat overeenkomstig de bepalingen van artikel 20 is aanvaard.
+##### Article 17
 
-2. Met betrekking tot elke Staat die dit Verdrag heeft bekrachtigd of die daartoe is toegetreden na de datum van nederlegging van de vijftiende akte van bekrachtiging of van toetreding, als bedoeld in het vorige lid, treedt dit Verdrag in werking op de negentigste dag na de datum van nederlegging van zijn akte van bekrachtiging of van toetreding, hetzij zonder voorbehoud, hetzij onder voorbehoud dat overeenkomstig de bepalingen van artikel 20 is aanvaard.
+1. After this Convention has been in force for three years, any Contracting State may denounce it by so notifying the Secretary-General of the United Nations.
 
-##### Artikel 17
+2. Denunciation shall take effect fifteen months after the date of receipt by the Secretary-General of the United Nations of the notification of denunciation.
 
-1. Nadat dit Verdrag gedurende drie jaren in werking zal zijn geweest, kan het door elke Verdragsluitende Staat worden opgezegd door een daartoe strekkende, aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
+##### Article 18
 
-2. De opzegging zal van kracht worden vijftien maanden na de datum van ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal van de Verenigde Naties.
+This Convention shall cease to have effect if, for any period of twelve consecutive months after its entry into force, the number of Contracting States is less than eight.
 
-##### Artikel 18
+##### Article 19
 
-Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwerkingtreding het aantal Verdragsluitende Staten minder is dan acht gedurende een tijdvak van twaalf opeenvolgende maanden.
+1. Any State may, at the time of the deposit of its instrument of ratification or accession or at any time thereafter, declare by notification addressed to the Secretary-General of the United Nations that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. The Convention shall extend to the territories named in the notification as from the ninetieth day after its receipt by the Secretary-General if the notification is not accompanied by a reservation, or from the ninetieth day after the notification has taken effect in accordance with article 20, or on the date on which the Convention enters into force for the State concerned, whichever is the later.
 
-##### Artikel 19
+2. Any State which has made a declaration under the preceding paragraph extending this Convention to any territory for whose international relations it is responsible may denounce the Convention separately in respect of that territory in accordance with the provisions of article 17.
 
-1. Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging of van toetreding of te eniger tijd daarna door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat dit Verdrag van toepassing zal zijn ten aanzien van alle of een deel van de gebieden welker internationale betrekkingen hij behartigt. Het Verdrag zal van toepassing zijn ten aanzien van de in de kennisgeving genoemde gebieden met ingang van de negentigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal, indien de kennisgeving is gedaan zonder voorbehoud, of met ingang van de negentigste dag nadat de kennisgeving ingevolge artikel 20 van kracht zal zijn geworden, dan wel op de datum waarop het Verdrag ten aanzien van de desbetreffende Staat in werking treedt, zijnde de laatste van deze tijdstippen beslissend.
+##### Article 20
 
-2. Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor dit Verdrag van toepassing wordt ten aanzien van een gebied welks internationale betrekkingen hij behartigt, kan dit Verdrag overeenkomstig de bepalingen van artikel 17 met betrekking tot dit gebied afzonderlijk opzeggen.
+1. Reservations to this Convention made before the signing of the Final Act shall be admissible if they have been accepted by a majority of the members of the Conference and recorded in the Final Act.
 
-##### Artikel 20
+2. Reservations made after the signing of the Final Act shall not be admitted if objection is expressed by one-third of the Signatory States or of the Contracting States as hereinafter provided.
 
-1. Een voorbehoud met betrekking tot dit Verdrag, gemaakt vóór de ondertekening van de Slotakte, wordt toegelaten indien het door de Conferentie bij meerderheid van stemmen is aanvaard en in de Slotakte is neergelegd.
+3. The text of any reservation submitted to the Secretary-General of the United Nations by a State at the time of the signature, the deposit of an instrument of ratification or accession or of any notification under article 19 shall be circulated by the Secretary-General to all States which have at that time signed, ratified or acceded to the Convention. If one-third of these States expresses an objection within ninety days from the date of circulation, the reservation shall not be accepted. The Secretary-General shall notify all States referred to in this paragraph of any objection received by him as well as of the acceptance or rejection of the reservation.
 
-2. Een voorbehoud met betrekking tot dit Verdrag, gemaakt na de ondertekening van de Slotakte, wordt niet toegelaten indien een derde van de ondertekenende of Verdragsluitende Staten daartegen met inachtneming van de hiernavolgende bepalingen bezwaar maakt.
+4. An objection by a State which has signed but not ratified the Convention shall cease to have effect if, within a period of nine months from the date of making its objection, the objecting State has not ratified the Convention. If, as the result of an objection ceasing to have effect, a reservation is accepted by application of the preceding paragraph, the Secretary-General shall so inform the States referred to in that paragraph. The text of any reservation shall not be circulated to any signatory State under the preceding paragraph if that State has not ratified the Convention within three years following the date of signature on its behalf.
 
-3. De tekst van ieder voorbehoud, dat door een Staat bij de Secretaris-Generaal van de Verenigde Naties wordt ingediend bij de ondertekening, bij de nederlegging van zijn akte van bekrachtiging of van toetreding of bij enige kennisgeving als bedoeld in artikel 19, zal door de Secretaris-Generaal ter kennis worden gebracht van alle Staten die het Verdrag hebben ondertekend of bekrachtigd of die tot het Verdrag zijn toegetreden. Het voorbehoud zal niet worden aanvaard indien binnen negentig dagen na de datum van kennisgeving een derde van deze Staten daartegen bezwaar maakt. De Secretaris-Generaal zal alle in dit lid bedoelde Staten in kennis stellen van elk bezwaar dat hem zal worden medegedeeld, alsmede van de aanvaarding of de verwerping van het voorbehoud.
+5. The State submitting the reservation may, within a period of twelve months from the date of the notification by the Secretary-General referred to in paragraph 3 that a reservation has been rejected in accordance with the procedure provided for in that paragraph, withdraw the reservation, in which case the instrument of ratification or accession or the notification under article 19 as the case may be shall take effect with respect to such State as from the date of withdrawal. Pending such withdrawal, the instrument or the notification as the case may be, shall not have effect, unless, by application of the provisions of paragraph 4, the reservation is subsequently accepted.
 
-4. Elk bezwaar, gemaakt door een Staat die het Verdrag heeft ondertekend maar nog niet heeft bekrachtigd, zal ophouden van kracht te zijn indien deze Staat het Verdrag niet binnen negen maanden na de datum van indiening van dat bezwaar zal hebben bekrachtigd. Indien het feit dat een bezwaar niet langer van kracht is, tot gevolg heeft dat het voorbehoud met toepassing van het vorige lid wordt aanvaard, zal de Secretaris-Generaal de in dat lid bedoelde Staten daarvan in kennis stellen. Niettegenstaande de bepalingen van het vorige lid zal de tekst van een voorbehoud niet ter kennis worden gebracht van een Staat, die het Verdrag heeft ondertekend maar niet binnen drie jaren na de datum van ondertekening heeft bekrachtigd.
+6. Reservations accepted in accordance with this article may be withdrawn at any time by notification to the Secretary-General.
 
-5. De Staat die het voorbehoud indient, zal dat voorbehoud kunnen intrekken binnen twaalf maanden na de datum van de in lid 3 bedoelde kennisgeving van de Secretaris-Generaal, inhoudende dat het voorbehoud overeenkomstig de bepalingen van dat lid is verworpen. In dat geval zal de akte van bekrachtiging of van toetreding of, in voorkomend geval, de in artikel 19 bedoelde kennisgeving ook voor die Staat van kracht worden met ingang van de datum van intrekking. In afwachting van een zodanige intrekking zal de akte of, in voorkomend geval, de kennisgeving niet van kracht zijn, tenzij het voorbehoud met toepassing van de bepalingen van lid 4 later is aanvaard.
+7. No Contracting State shall be required to extend to a State making a reservation the benefit of the provisions to which such reservation applies. Any State availing itself of this right shall notify the Secretary-General accordingly and the latter shall communicate this decision to all signatory and Contracting States.
 
-6. Een voorbehoud dat overeenkomstig dit artikel is aanvaard, kan te allen tijde worden ingetrokken door een daartoe strekkende, aan de Secretaris-Generaal gerichte kennisgeving.
+##### Article 21
 
-7. De Verdragsluitende Staten zijn niet verplicht aan een Staat die een voorbehoud heeft gemaakt de voorrechten toe te kennen, welke voortvloeien uit de bepalingen van het Verdrag ten aanzien waarvan het voorbehoud is gemaakt. Elke Staat die van deze bevoegdheid gebruik maakt, dient de Secretaris-Generaal daarvan in kennis te stellen, en deze zal hiervan mededeling doen aan de ondertekenende en Verdragsluitende Staten.
+1. Any dispute between two or more Contracting States concerning the interpretation or application of this Convention shall so far as possible be settled by negotiation between them.
 
-##### Artikel 21
+2. Any dispute which is not settled by negotiation shall be submitted to arbitration if any one of the Contracting States in dispute so requests and shall be referred accordingly to one or more arbitrators selected by agreement between the States in dispute. If within three months from the date of the request for arbitration the States in dispute are unable to agree on the selection of an arbitrator or arbitrators, any of those States may request the President of the International Court of Justice to nominate a single arbitrator to whom the dispute shall be referred for decision.
 
-1. Elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag zal voor zoveel mogelijk worden beslecht door middel van onderhandelingen tussen de Staten waartussen geschil is gerezen.
+3. The decision of the arbitrator or arbitrators appointed under the preceding paragraph shall be binding on the Contracting States concerned.
 
-2. Elk geschil dat niet is beslecht door onderhandelingen, zal aan een scheidsrechterlijke uitspraak worden onderworpen indien een der Verdragsluitende Staten waartussen geschil is gerezen zulks verzoekt, en zal dienovereenkomstig worden verwezen naar een of meer scheidsrechters die door de Staten waartussen geschil is gerezen in gemeen overleg zijn gekozen. Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijke uitspraak de Staten waartussen geschil is gerezen niet tot overeenstemming zijn gekomen omtrent de keuze van een of meer scheidsrechters, kan een van die Staten de President van het Internationale Gerechtshof verzoeken één scheidsrechter aan te wijzen naar wie het geschil ter beslechting zal worden verwezen.
+##### Article 22
 
-3. De uitspraak van de overeenkomstig het vorige lid aangewezen scheidsrechter of scheidsrechters zal bindend zijn voor de betrokken Verdragsluitende Staten.
+1. After this Convention has been in force for three years, any Contracting State may, by notification to the Secretary-General of the United Nations, request that a conference be convened for the purpose of reviewing the Convention. The Secretary-General shall notify all Contracting States of the request and a review conference shall be convened by the Secretary-General if, within a period of four months following the date of notification by the Secretary-General, not less than one-half of the Contracting States notify him of their concurrence with the request.
 
-##### Artikel 22
+2. If a conference is convened in accordance with the preceding paragraph, the Secretary-General shall notify all Contracting States and invite them to submit within a period of three months such proposals as they may wish the conference to consider. The Secretary-General shall circulate to all Contracting States the provisional agenda for the conference together with the texts of such proposals at least three months before the date on which the conference is to meet.
 
-1. Nadat dit Verdrag gedurende drie jaren in werking zal zijn geweest, kan elke Verdragsluitende Staat door een kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties de bijeenroeping van een conferentie verzoeken, ten einde dit Verdrag te herzien. De Secretaris-Generaal zal van dit verzoek mededeling doen aan alle Verdragsluitende Staten en zal een conferentie ter herziening van dit Verdrag bijeenroepen, indien binnen vier maanden na de datum van de door hem gedane mededeling ten minste de helft van de Verdragsluitende Staten hem hun instemming met dit verzoek hebben kenbaar gemaakt.
+3. The Secretary-General shall invite to any conference convened in accordance with this article all Contracting States and all other States Members of the United Nations or of any of the specialized agencies.
 
-2. Indien een conferentie overeenkomstig het vorige lid wordt bijeengeroepen, zal de Secretaris-Generaal alle Verdragsluitende Staten daarvan in kennis stellen en hen uitnodigen binnen drie maanden voorstellen in te dienen waarvan zij behandeling door de conferentie wensen. De Secretaris-Generaal zal uiterlijk drie maanden vóór de aanvang van de conferentie aan alle Verdragsluitende Staten mededeling doen van de voorlopige agenda voor de conferentie, alsmede van de tekst van de ingediende voorstellen.
+##### Article 23
 
-3. De Secretaris-Generaal zal alle Verdragsluitende Staten en alle andere Staten die lid zijn van de Organisatie van de Verenigde Naties of van een van de gespecialiseerde organisaties uitnodigen tot bijwoning van een conferentie welke overeenkomstig dit artikel wordt bijeengeroepen.
+1. Any Contracting State may propose one or more amendments to this Convention. The text of any proposed amendment shall be transmitted to the Secretary-General of the United Nations who shall circulate it to all Contracting States.
 
-##### Artikel 23
+2. Any proposed amendment circulated in accordance with the preceding paragraph shall be deemed to be accepted if no Contracting State expresses an objection within a period of six months following the date of circulation of the proposed amendment by the Secretary-General.
 
-1. Elke Verdragsluitende Staat kan een of meer wijzigingen van dit Verdrag voorstellen. De tekst van elke voorgestelde wijziging zal worden ingediend bij de Secretaris-Generaal van de Verenigde Naties, die deze tekst zal doen toekomen aan alle Verdragsluitende Staten.
+3. The Secretary-General shall notify as soon as possible all Contracting States whether an objection to the proposed amendment has been expressed, and if no such objection has been expressed, the amendment shall enter into force for all Contracting States three months after the expiration of the period of six months referred to in the preceding paragraph.
 
-2. Elke voorgestelde wijziging welke overeenkomstig het vorige lid zal zijn toegezonden, wordt geacht te zijn aanvaard, indien binnen zes maanden na de datum waarop de Secretaris-Generaal de voorgestelde wijziging heeft toegezonden geen der Verdragsluitende Staten daartegen bezwaar heeft gemaakt.
+##### Article 24
 
-3. De Secretaris-Generaal zal alle Verdragsluitende Staten zo spoedig mogelijk ervan in kennis stellen, indien bezwaren tegen de voorgestelde wijziging zijn gemaakt. Indien geen bezwaar wordt gemaakt, zal de wijziging voor alle Verdragsluitende Staten in werking treden drie maanden na het verstrijken van de termijn van zes maanden, als is bedoeld in het vorige lid.
+The Secretary-General of the United Nations shall notify all Member States of the United Nations and all other States invited to attend the Conference of the following:
 
-##### Artikel 24
+- (a) Signatures, ratifications and accessions, received in accordance with articles 14 and 15;
 
-De Secretaris-Generaal van de Verenigde Naties zal aan alle Staten die lid zijn van de Organisatie van de Verenigde Naties en aan alle andere Staten die zijn uitgenodigd aan de Conferentie deel te nemen, mededeling doen van:
+- (b) The date upon which this Convention shall enter into force in accordance with article 16;
 
-- a). Ondertekeningen, bekrachtigingen en toetredingen welke zijn ontvangen overeenkomstig de artikelen 14 en 15;
+- (c) Denunciations received in accordance with article 17;
 
-- b). De datum waarop dit Verdrag overeenkomstig artikel 16 in werking zal treden;
+- (d) The abrogation of this Convention in accordance with article 18;
 
-- c). Opzeggingen welke zijn ontvangen overeenkomstig artikel 17;
+- (e) Notifications received under article 19;
 
-- d). De intrekking van dit Verdrag overeenkomstig artikel 18;
+- (f) Entry into force of any amendment in accordance with article 23.
 
-- e). Kennisgevingen welke zijn ontvangen overeenkomstig artikel 19;
+##### Article 25
 
-- f). De inwerkingtreding van elke wijziging overeenkomstig artikel 23.
-
-##### Artikel 25
-
-Het origineel van dit Verdrag zal worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan alle leden van de Organisatie van de Verenigde Naties en aan alle andere Staten die zijn uitgenodigd aan de Conferentie deel te nemen, gewaarmerkte afschriften daarvan zal doen toekomen.
+The original of this Convention shall be deposited with the Secretary-General of the United Nations who shall transmit certified copies thereof to all Members of the United Nations and all other States invited to the Conference.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Convention.
 

@@ -1,42 +1,19 @@
 ---
 title: "Verdrag nopens het vaststellen van een maaswijdte van visnetten en van minimum-maten op sommige vissoorten"
 identifier: "BWBV0006009"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-06-01"
-last_updated: "1963-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006009"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004980593"
-version_id: "10005299172"
-internal_id: "C10008171381"
-label_id: "10004963914"
-dtd_version: "2.0"
-original_entry_into_force: "1962-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006009/1963-06-01/0"
-intitule_bron: "Trb.1962-116"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1962-10-19"
-intitule_in_force: "1962-10-19"
-intitule_status: "goed"
-original_publication: "Trb.1962-116"
-original_published_date: "1962-10-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1962-116"
-entry_into_force_date: "1962-05-11"
-jci_1_3: "jci1.3:c:BWBV0006009&z=1963-06-01&g=1963-06-01"
-jci_1_0: "1.0:c:BWBV0006009&g=1963-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1962-05-11"
+publicatiedatum: 1962-05-11
+laatste_update: 1963-06-01
+status: geldig
+toestand: 1963-06-01
+bron: "https://wetten.overheid.nl/BWBV0006009"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag nopens het vaststellen van een maaswijdte van visnetten en van minimum-maten op sommige vissoorten
 
-**Preamble**
-
-The Governments of Belgium, Denmark, Eire, France, Iceland, the Netherlands, Norway, Poland, Portugal, Spain, Sweden and the United Kingdom of Great Britain and Northern Ireland, desiring to conclude a Convention for the Regulation of the Meshes of Fishing Nets and the Size Limits of Fish, have agreed as follows:
-
-De Engelse tekst van het Verdrag is oorspronkelijk gepubliceerd in Stb. 1947/192. De vertaling is gepubliceerd in Trb. 1953/105. Het Verdrag is in werking getreden op 5 april 1953. Het Verdrag is gewijzigd door Trb. 1954/37, Trb. 1955/50, Trb. 1957/12 en Trb. 1957/236.
+*Preamble The Governments of Belgium, Denmark, Eire, France, Iceland, the Netherlands, Norway, Poland, Portugal, Spain, Sweden and the United Kingdom of Great Britain and Northern Ireland, desiring to conclude a Convention for the Regulation of the Meshes of Fishing Nets and the Size Limits of Fish, have agreed as follows:*
 
 ## Part I. Extent of the Convention.
 
@@ -64,11 +41,11 @@ No vessel shall carry on board or use any trawl, seine or other net towed or hau
 
 ##### Article 6
 
-Notwithstanding the provisions of Article 5, vessels fishing for mackerel, clupeoid fishes, sand eels (**Ammodytes** ), Norway pout (**Gadus esmarkii** ), smelts, eels, great weevers (**Trachinus draco** ), shrimps, prawns, nephrops or molluscs, may carry on board and use nets having meshes of dimensions less than those so specified: provided that (**a** ) any fishing instruments used by such vessels for the capture of any of the fish described in this Article shall not be used for the purpose of capturing other kinds of fish; and (**b** ) any fish in excess of the percentages set out in Annex III to this Convention, of the species set out in Annex II to this Convention, which may be captured by such instruments and which are of less than the minimum sizes prescribed in Annex II to this Convention shall be returned to the sea immediately after capture; and (**c** ) provided that in the period from 1st June, 1963 to 1st June, 1966, no nets having in the cod-end meshes of dimensions between 50 mm (irrespective of material used) and the minimum sizes specified in Annex I shall be carried or used by vessels in the waters of that part of the Convention area defined in that paragraph, except -
+Notwithstanding the provisions of Article 5, vessels fishing for mackerel, clupeoid fishes, sand eels (*Ammodytes* ), Norway pout (*Gadus esmarkii* ), smelts, eels, great weevers (*Trachinus draco* ), shrimps, prawns, nephrops or molluscs, may carry on board and use nets having meshes of dimensions less than those so specified: provided that (*a* ) any fishing instruments used by such vessels for the capture of any of the fish described in this Article shall not be used for the purpose of capturing other kinds of fish; and (*b* ) any fish in excess of the percentages set out in Annex III to this Convention, of the species set out in Annex II to this Convention, which may be captured by such instruments and which are of less than the minimum sizes prescribed in Annex II to this Convention shall be returned to the sea immediately after capture; and (*c* ) provided that in the period from 1st June, 1963 to 1st June, 1966, no nets having in the cod-end meshes of dimensions between 50 mm (irrespective of material used) and the minimum sizes specified in Annex I shall be carried or used by vessels in the waters of that part of the Convention area defined in that paragraph, except -
 
-- (i). those waters to the south and west of the following lines: a line drawn due west from the Mull of Galloway along 54° 38' north latitude, and a line drawn from France to England along 2° west longitude;
+- (i) those waters to the south and west of the following lines: a line drawn due west from the Mull of Galloway along 54° 38' north latitude, and a line drawn from France to England along 2° west longitude;
 
-- (ii). those waters east of a line drawn from Hanstholm to Lindesnes.
+- (ii) those waters east of a line drawn from Hanstholm to Lindesnes.
 
 ##### Article 7
 
@@ -76,15 +53,15 @@ Notwithstanding the provisions of Article 5, vessels fishing for mackerel, clupe
 
 (2). Notwithstanding the provisions of the foregoing paragraph it shall not be deemed unlawful:
 
-- (i). to attach to the underside of the cod-end of a trawl net any canvas, netting, or other material, for the purpose of preventing or reducing wear or tear; and as from 1st January, 1959, and until 1ste June, 1965, and only for trawl nets with a mesh of 100 mm. or more:
+- (i) to attach to the underside of the cod-end of a trawl net any canvas, netting, or other material, for the purpose of preventing or reducing wear or tear; and as from 1st January, 1959, and until 1ste June, 1965, and only for trawl nets with a mesh of 100 mm. or more:
 
-- (ii). to attach a rectangular piece of netting to the upper side of the cod-end of a trawl net to reduce and prevent damage so long as such netting conforms to the following conditions:
+- (ii) to attach a rectangular piece of netting to the upper side of the cod-end of a trawl net to reduce and prevent damage so long as such netting conforms to the following conditions:
 
-- (a). this netting shall not have a mesh size less than that specified for the net itself;
+   - (a) this netting shall not have a mesh size less than that specified for the net itself;
 
-- (b). the netting may be fastened to the cod-end only along the forward and lateral edges of the netting and at no other place in it, and shall be fastened in such a manner that it extends forward of the splitting strop no more than four meshes and ends not less than four meshes in front of the cod-line mesh; where a splitting strop is not used the netting shall not extend to more than one-third of the cod-end measured from not less than four meshes in front of the cod-line mesh;
+   - (b) the netting may be fastened to the cod-end only along the forward and lateral edges of the netting and at no other place in it, and shall be fastened in such a manner that it extends forward of the splitting strop no more than four meshes and ends not less than four meshes in front of the cod-line mesh; where a splitting strop is not used the netting shall not extend to more than one-third of the cod-end measured from not less than four meshes in front of the cod-line mesh;
 
-- (c). the number of meshes in the width of the netting shall be at least one and a half times the number of meshes in the width of that part of the cod-end which is covered, both widths being taken at right angles to the long axis of the cod-end.
+   - (c) the number of meshes in the width of the netting shall be at least one and a half times the number of meshes in the width of that part of the cod-end which is covered, both widths being taken at right angles to the long axis of the cod-end.
 
 ##### Article 8
 
@@ -130,19 +107,19 @@ The Contracting Governments agree to take, in their territories and in regard to
 
 (1). For the purposes of this Convention the expression “vessel” means
 
-- (a). any vessel or boat employed in fishing for sea fish or in the treatment of sea fish; or
+- (a) any vessel or boat employed in fishing for sea fish or in the treatment of sea fish; or
 
-- (b). any vessel or boat used partly or wholly for the purpose of the transport of sea fish
+- (b) any vessel or boat used partly or wholly for the purpose of the transport of sea fish
 
 registered or owned in the territories of any Contracting Government.
 
 (2). The expression “territories” denotes in relation to any Contracting Government
 
-- (a). its metropolitan territory;
+- (a) its metropolitan territory;
 
-- (b). any territory in respect of which action has been taken by the Contracting Government under Article 16; and
+- (b) any territory in respect of which action has been taken by the Contracting Government under Article 16; and
 
-- (c). the waters where the Contracting Government has exclusive jurisdiction over fisheries.
+- (c) the waters where the Contracting Government has exclusive jurisdiction over fisheries.
 
 ##### Article 14
 

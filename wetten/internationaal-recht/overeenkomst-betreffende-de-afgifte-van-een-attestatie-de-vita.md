@@ -1,170 +1,147 @@
 ---
 title: "Overeenkomst betreffende de afgifte van een attestatie de vita"
 identifier: "BWBV0005514"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-04-01"
-last_updated: "2016-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005514"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004673633"
-version_id: "10004932762"
-internal_id: "C10008341741"
-label_id: "10004658054"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005514/2016-04-01/0"
-intitule_bron: "Trb.2004-283"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-11-30"
-intitule_in_force: "2011-10-24"
-intitule_status: "goed"
-original_publication: "Trb.2004-283"
-original_published_date: "2004-11-30"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-283"
-entry_into_force_date: "2011-12-01"
-jci_1_3: "jci1.3:c:BWBV0005514&z=2016-04-01&g=2016-04-01"
-jci_1_0: "1.0:c:BWBV0005514&g=2016-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-12-01"
+publicatiedatum: 2011-12-01
+laatste_update: 2016-04-01
+status: geldig
+toestand: 2016-04-01
+bron: "https://wetten.overheid.nl/BWBV0005514"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst betreffende de afgifte van een attestatie de vita
 
-De Staten die deze Overeenkomst hebben ondertekend en die lid zijn van de Internationale Commissie voor de Burgerlijke Stand,
+*Les Etats signataires de la présente Convention, membres de la Commission Internationale de l'Etat Civil, Désireux de faciliter la preuve de la vie des personnes qui ne résident pas sur le territoire de l'Etat contractant où la preuve doit être fournie, Sont convenus des dispositions suivantes:*
 
-Verlangend het bewijs van in leven zijn van personen die niet verblijven op het grondgebied van de Overeenkomstsluitende Staat waar het bewijs moet worden geleverd, te vergemakkelijken,
+##### Article 1er
 
-Zijn als volgt overeengekomen:
+1. Les Etats contractants s'engagent à délivrer un certificat de vie quand l'existence d'une personne doit être prouvée dans un Etat contractant, autre que celui où réside cette personne.
 
-##### Artikel 1
+2. Le certificat est délivré par l'autorité compétente de l'Etat de résidence du demandeur, quelle que soit sa nationalité.
 
-1. Staten die Partij zijn bij deze Overeenkomst verplichten zich een attestatie de vita af te geven wanneer het in leven zijn van een persoon moet worden bewezen in een andere Staat die Partij is bij deze Overeenkomst, dan de Staat waarin deze persoon zijn verblijfplaats heeft.
+##### Article 2
 
-2. De attestatie wordt afgegeven door de bevoegde autoriteit van de Staat van de verblijfplaats van de aanvrager, ongeacht diens nationaliteit.
+1. Les certificats établis conformément à la présente Convention sont reconnus dans tous les Etats contractants.
 
-##### Artikel 2
+2. Ils doivent être acceptés lorsqu'ils sont présentés dans les délais prévus par la loi ou les usages en vigueur dans le pays où ils sont utilisés.
 
-1. De attestaties zoals vastgesteld op grond van deze Overeenkomst worden in alle Overeenkomstsluitende Staten die partij zijn bij deze Overeenkomst erkend.
+3. Ils font foi jusqu'à preuve du contraire.
 
-2. De attestaties moeten worden aanvaard wanneer deze binnen de daarvoor in het land waar zij worden gebruikt krachtens de wet of gewoonte geldende termijnen worden overgelegd.
+##### Article 3
 
-3. De attestaties gelden als bewijs behoudens tegenbewijs.
+L'autorité compétente délivre le certificat de vie conformément aux dispositions de sa loi interne.
 
-##### Artikel 3
+##### Article 4
 
-De bevoegde autoriteit geeft de attestatie de vita af overeenkomstig de bepalingen van haar nationale wet.
+1. Lors de la signature, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion, chaque Etat devra désigner les autorités compétentes pour délivrer le certificat prévu par la présente Convention.
 
-##### Artikel 4
+2. Toute modification apportée ultérieurement à cette désignation sera notifiée au Conseil Fédéral Suisse.
 
-1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot de Overeenkomst wijst elke Staat de autoriteiten aan die bevoegd zijn tot de afgifte van de in deze Overeenkomst voorziene attestatie.
+3. Les autorités diplomatiques ou consulaires sont aussi compétentes pour délivrer un certificat de vie à leurs ressortissants qui résident dans l'Etat où ces autorités exercent leurs fonctions. Elles sont également compétentes, quelle que soit la nationalité de l'intéressé, si la loi de l'Etat de leur résidence ne s'y oppose pas et si le certificat doit être utilisé dans le territoire de l'Etat dont elles dépendent.
 
-2. Elke wijziging die daarna wordt aangebracht in deze aanwijzing wordt ter kennis gebracht van de Zwitserse Bondsraad.
+##### Article 5
 
-3. De diplomatieke of consulaire autoriteiten zijn eveneens bevoegd een attestatie de vita af te geven aan de onderdanen van hun Staat die verblijf houden in de Staat waar deze autoriteiten hun functie uitoefenen. Zij zijn tevens bevoegd, ongeacht de nationaliteit van de betrokkene, indien de wet van de Staat waar zij hun verblijfplaats hebben zich daar niet tegen verzet en indien de attestatie gebruikt dient te worden op het grondgebied van de Staat waaronder zij ressorteren.
+1. Le certificat est établi conformément au modèle figurant à [l'annexe I](https://wetten.overheid.nl/BWBV0005514) de la présente Convention. II est rédigé dans la langue de l'autorité qui le délivre et dans la langue française.
 
-##### Artikel 5
+2. Toutes les inscriptions à porter sur le certificat sont écrites en caractères latins d'imprimerie; elles peuvent en outre être écrites dans les caractères de la langue de l'autorité qui le délivre.
 
-1. De attestatie wordt opgemaakt overeenkomstig het model zoals weergegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst. De attestatie wordt opgesteld in de taal van de autoriteit die deze afgeeft en in de Franse taal.
+3. Les dates sont inscrites en chiffres arabes indiquant successivement, sous les symboles Jo, Mo et An, le jour, le mois et l'année. Le jour et le mois sont indiqués par deux chiffres, l'année par quatre chiffres. Les neuf premiers jours du mois et les neuf premiers mois de l'année sont indiqués par des chiffres allant de 01 à 09.
 
-2. Alle op de attestatie aan te brengen vermeldingen worden geschreven in Latijnse drukletters; zij kunnen bovendien geschreven worden in de lettertekens van de taal van de autoriteit die de attestatie afgeeft.
+4. Le nom de tout lieu mentionné dans le certificat est suivi du nom de l'Etat où ce lieu est situé.
 
-3. De data worden geschreven in Arabische cijfers, die achtereenvolgens onder de symbolen **Jo**, **Mo** en **An**, de dag, de maand en het jaar aangeven. De dag en de maand worden door twee cijfers aangegeven, het jaar door vier cijfers. De eerste negen dagen van de maand en de eerste negen maanden van het jaar worden aangegeven door de cijfers 01 tot en met 09.
+##### Article 6
 
-4. Elke plaatsnaam die in de attestatie vermeld staat, wordt gevolgd door de naam van de Staat waarin die plaats is gelegen.
+Au verso de chaque certificat doivent figurer:
 
-##### Artikel 6
+- a) une référence à la Convention, au moins dans la langue ou l'une des langues officielles de chacun des Etats qui, au moment de la signature de la présente Convention, sont membres de la Commission Internationale de l'Etat Civil,
 
-Op de achterzijde van elke attestatie dient het volgende te worden vermeld:
+- b) un résumé des [articles 1](https://wetten.overheid.nl/BWBV0005514), [2](https://wetten.overheid.nl/BWBV0005514), [4](https://wetten.overheid.nl/BWBV0005514), [5](https://wetten.overheid.nl/BWBV0005514) et [10](https://wetten.overheid.nl/BWBV0005514) de la Convention au moins dans la langue de l'autorité qui délivre le certificat.
 
-- a. Een verwijzing naar de Overeenkomst, ten minste gesteld in de taal of een van de officiële talen van elke Staat die, op het tijdstip van ondertekening van deze Overeenkomst, lid is van de Internationale Commissie voor de Burgerlijke Stand.
+##### Article 7
 
-- b. Een samenvatting van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=1&z=2016-04-01&g=2016-04-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=2&z=2016-04-01&g=2016-04-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2016-04-01&g=2016-04-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=5&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2016-04-01&g=2016-04-01) van de Overeenkomst, ten minste gesteld in de taal van de autoriteit die de attestatie afgeeft.
+Les énonciations invariables figurant au recto du certificat seront pourvues des codes numériques dont la liste est prévue à [l'annexe 2](https://wetten.overheid.nl/BWBV0005514) de la présente Convention.
 
-##### Artikel 7
+##### Article 8
 
-De vaste vermeldingen op de achterzijde van de attestatie worden voorzien van nummercoderingen, waarvan een lijst voorzien is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst.
+1. Lors de la ratification de la présente Convention, de l'acceptation, de l'approbation ou de l'adhésion, chaque Etat contractant devra déposer auprès du Secrétariat Général de la Commission Internationale de l'Etat Civil la traduction dans sa ou ses langues officielles des termes inclus dans la liste figurant à [l'annexe 2](https://wetten.overheid.nl/BWBV0005514) de la présente Convention. Cette traduction devra être approuvée par le Bureau de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 8
+2. Toute modification apportée à cette traduction devra être déposée auprès du Secrétariat Général de la Commission Internationale de l'Etat Civil et approuvée par le Bureau de la Commission Internationale de l'Etat Civil.
 
-1. Bij de bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst of de toetreding ertoe zal elke Overeenkomstsluitende Staat bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand de vertaling in zijn officiële taal of in zijn officiële talen nederleggen van de aanduidingen die zijn opgenomen in de lijst in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) bij deze Overeenkomst. Deze vertaling dient te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
+##### Article 9
 
-2. Elke wijziging die in deze vertaling wordt aangebracht, dient te worden nedergelegd bij het Secretariaat-Generaal van de Internationale Commissie voor de Burgerlijke Stand en te worden goedgekeurd door het Bureau van de Internationale Commissie voor de Burgerlijke Stand.
+1. Le codage des énonciations contenues dans le certificat figurant à [l'annexe 1](https://wetten.overheid.nl/BWBV0005514) et la liste des codes prévus à [l'annexe 2](https://wetten.overheid.nl/BWBV0005514) pourront être modifiés par une résolution votée à la majorité simple par les représentants des Etats membres de la Commission Internationale de l'Etat Civil et des Etats contractants non membres. Toute modification doit tenir compte des codes utilisés dans les autres Conventions de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 9
+2. La résolution visée au premier alinéa sera déposée auprès du Conseil Fédéral Suisse.
 
-1. De codering van de vermeldingen op de attestatie zoals weergeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=1&z=2016-04-01&g=2016-04-01) en de lijst met coderingen zoals vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&bijlage=2&z=2016-04-01&g=2016-04-01) kunnen worden gewijzigd door een besluit dat bij gewone meerderheid van stemmen wordt genomen door de vertegenwoordigers van de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en vertegenwoordigers van de Overeenkomstsluitende Staten die geen lid zijn. Bij elke wijziging dient rekening te worden gehouden met de coderingen die gebruikt worden in andere Overeenkomsten van de Internationale Commissie voor de Burgerlijke Stand.
+##### Article 10
 
-2. Het in het eerste lid bedoelde besluit wordt nedergelegd bij de Zwitserse Bondsraad.
+1. Si le requérant le demande, l'autorité qui délivre le certificat joint la liste des codes figurant dans le certificat et leur traduction dans la langue officielle ou l'une des langues officielIes de l'Etat où le certificat sera utilisé, ou dans les langues officielles des Etats contractants. Cette même autorité peut aussi procéder au décodage en traduisant le certificat dans la langue officielle ou l'une des langues officielles de l'Etat où il sera utilisé.
 
-##### Artikel 10
+2. Tout intéressé peut demander à l'autorité compétente de l'Etat dans lequel le certificat est utilisé de traduire les codes dans la langue officielle ou l'une des langues officielles de cet Etat ou de procéder au décodage du certificat.
 
-1. Indien de betrokkene hierom verzoekt, voegt de autoriteit die de attestatie afgeeft de lijst bij van de coderingen die in de attestatie voorkomen, alsmede de vertaling ervan in de officiële taal of in één van de officiële talen van de Staat waar de attestatie zal worden gebruikt, of in de officiële talen van de Overeenkomstsluitende Staten. Deze autoriteit kan de attestatie ook decoderen door deze te vertalen in de officiële taal of in één van de officiële talen van de Staat waar deze zal worden gebruikt.
+3. Lors de la signature de la présente Convention, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion, chaque Etat contractant désigne les autorités compétentes pour traduire les codes ou procéder au décodage conformément aux dispositions de l'alinéa 2. Toute modification ultérieure de ces autorités sera notifiée au Conseil Fédéral Suisse.
 
-2. Elke belanghebbende kan de bevoegde autoriteit in het land waar de attestatie zal worden gebruikt verzoeken om de coderingen te vertalen in de officiële taal of in één van de officiële talen van die Staat of om de attestatie te decoderen.
+##### Article 11
 
-3. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot de Overeenkomst wijst elke Overeenkomstsluitende Staat de autoriteiten aan die bevoegd zijn om de coderingen te vertalen of over te gaan tot hun decodering overeenkomstig de bepalingen in het tweede lid. Elke latere aangebrachte wijziging van deze autoriteiten wordt ter kennis gebracht van de Zwitserse Bondsraad.
+I. Les certificats indiquent le nom et la qualité de celui qui les a délivrés. Ils sont datés et revêtus de la signature et du sceau requis.
 
-##### Artikel 11
+2. lIs sont dispensés de traduction, de légalisation ou de toute formalité équivalente sur le territoire des Etats contractants. Toutefois l'autorité ou l'organisme auxquels ils sont présentés peut, en cas de doute grave portant soit sur la véracité de la signature, soit sur l'identité du sceau ou du timbre, soit sur la qualité du signataire, les faire vérifier par l'autorité qui a délivré le certificat, selon la procédure prévue par la [Convention portant dispense de légalisation pour certains actes et documents](https://wetten.overheid.nl/BWBV0003768), signée à Athènes le 15 septembre 1977.
 
-1. Op de attestaties staan de naam en hoedanigheid vermeld van diegene die deze heeft afgegeven. De attestaties zijn gedateerd en voorzien van de vereiste handtekening en het vereiste stempel.
+##### Article 12
 
-2. De attestaties zijn vrijgesteld van vertaling, legalisatie of enige soortgelijke formaliteit op het grondgebied van de Overeenkomstsluitende Staten. De autoriteit of het orgaan waaraan de attestatie wordt aangeboden kan evenwel in geval van ernstige twijfel ten aanzien van de echtheid van de handtekening, of de juistheid van het stempel of het zegel, dan wel de hoedanigheid van degene die heeft ondertekend, de desbetreffende attestatie doen onderzoeken door de autoriteit die deze heeft afgegeven, overeenkomstig de procedure zoals voorzien in de [Overeenkomst tot vrijstelling van legalisatie voor bepaalde akten en documenten](onbekend), ondertekend te Athene op 15 september 1977.
+Les instruments de ratification, d'acceptation ou d'approbation de la présente Convention seront déposés auprès du Conseil Fédéral Suisse.
 
-##### Artikel 12
+##### Article 13
 
-De akten van bekrachtiging, aanvaarding of goedkeuring van dit Verdrag worden nedergelegd bij de Zwitserse Bondsraad.
+Tout Etat membre de la Commission Internationale de l'Etat Civil, de l'Union Européenne ou du Conseil de l'Europe pourra adhérer à la présente Convention. l'instrument d'adhésion sera déposé auprès du Conseil Fédéral Suisse.
 
-##### Artikel 13
+##### Article 14
 
-Elke lidstaat van de Internationale Commissie voor de Burgerlijke Stand, van de Europese Unie of van de Raad van Europa kan tot deze Overeenkomst toetreden. De akte van toetreding wordt nedergelegd bij de Zwitserse Bondsraad.
+1. La présente Convention entrera en vigueur le premier jour du quatrième mois qui suit celui du dépôt du deuxième instrument de ratification, d'acceptation, d'approbation ou d'adhésion par deux Etats membres de la Commission Internationale de l'Etat Civil.
 
-##### Artikel 14
+2. A l'égard de l'Etat qui la ratifiera, l'acceptera, l'approuvera ou y adhérera après son entrée en vigueur, la Convention prendra effet le premier jour du quatrième mois qui suit celui du dépôt par cet Etat de l'instrument de ratification, d'acceptation, d'approbation ou d'adhésion.
 
-1. Deze Overeenkomst treedt in werking op de eerste dag van de vierde maand volgend op de maand waarin de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd door twee lidstaten van de Internationale Commissie voor de Burgerlijke Stand.
+3. La résolution visée à [l'article 9](https://wetten.overheid.nl/BWBV0005514) prendra effet, dans les rapports entre les Etats contractants, à compter du premier jour du quatrième mois suivant son dépôt.
 
-2. Ten aanzien van de Staat die deze Overeenkomst na haar inwerkingtreding bekrachtigt, aanvaardt of goedkeurt of tot haar toetreedt, treedt de Overeenkomst in werking op de eerste dag van de vierde maand volgend op de maand waarin die Staat de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
+##### Article 15
 
-3. Het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2016-04-01&g=2016-04-01) bedoelde besluit treedt in werking, in de betrekkingen tussen de Staten die Partij zijn bij de Overeenkomst, te rekenen vanaf de eerste dag van de vierde maand na de nederlegging ervan.
+Aucune réserve à la présente Convention n'est admise.
 
-##### Artikel 15
+##### Article 16
 
-Geen enkel voorbehoud ten aanzien van deze Overeenkomst is toegestaan.
+1. Tout Etat, au moment de la signature, de la ratification, de l'acceptation, de l'approbation ou de l'adhésion ou à tout autre moment par la suite, pourra déclarer que la présente Convention s'étendra à l'ensemble des territoires dont il assure les relations sur le plan international, ou à l'un ou plusieurs d'entre eux.
 
-##### Artikel 16
+2. Cette déclaration sera notifiée au Conseil Fédéral Suisse et l'extension prendra effet au moment de l'entrée en vigueur de la Convention pour ledit Etat ou, ultérieurement, le premier jour du quatrième mois qui suit celui de la réception de la notification.
 
-1. Elke Staat kan bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring van of toetreding tot de Overeenkomst of op enig ander tijdstip daarna, verklaren dat deze Overeenkomst zich uitstrekt tot alle grondgebieden voor welker internationale betrekkingen hij verantwoordelijk is, dan wel tot een of meer van deze grondgebieden.
+3. Toute déclaration d'extension pourra être retirée par notification adressée au Conseil Fédéral Suisse et la Convention cessera d'être applicable au territoire désigné le premier jour du quatrième mois qui suit celui de la réception de ladite notification.
 
-2. Deze verklaring wordt ter kennis gebracht van de Zwitserse Bondsraad en de uitbreiding wordt van kracht op het tijdstip waarop de Overeenkomst voor de desbetreffende Staat in werking treedt, of indien de kennisgeving later plaatsvindt, op de eerste dag van de vierde maand volgend op de maand waarin de kennisgeving is ontvangen.
+##### Article 17
 
-3. Elke verklaring inzake uitbreiding kan worden ingetrokken door middel van een kennisgeving gericht aan de Zwitserse Bondsraad en de Overeenkomst houdt op van toepassing te zijn in het bedoelde grondgebied op de eerste dag van de vierde maand volgend op de maand waarin genoemde kennisgeving is ontvangen.
+1. La présente Convention demeurera en vigueur sans limitation de durée.
 
-##### Artikel 17
+2. Tout Etat partie à la présente Convention aura toutefois la faculté de la dénoncer à tout moment après l'expiration d'un délai d'un an à partir de la date d'entrée en vigueur de la Convention à son égard. La dénonciation sera notifiée au Conseil Fédéral Suisse et prendra effet le premier jour du sixième mois qui suit celui de la réception de cette notification.
 
-1. Deze Overeenkomst is voor onbepaalde tijd van kracht.
+##### Article 18
 
-2. Elke Staat die Partij is bij deze Overeenkomst heeft evenwel de bevoegdheid haar op te zeggen ten allen tijde na het verstrijken van een termijn van een jaar te rekenen vanaf de datum waarop de Overeenkomst voor deze Staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerst dag van de zesde maand volgend op de maand waarin de kennisgeving is ontvangen.
+1. Le Conseil Fédéral Suisse notifiera aux Etats membres de la Commission Internationale de l'Etat Civil et à tout autre Etat ayant adhéré à la présente Convention:
 
-##### Artikel 18
+- a) le dépôt de tout instrument de ratification, d'acceptation, d'approbation ou d'adhésion;
 
-1. De Zwitserse Bondsraad stelt de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en elke andere Staat die tot deze Overeenkomst is toegetreden in kennis van:
+- b) toute date d'entrée en vigueur de la Convention;
 
-- a. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding;
+- c) toute déclaration concernant l'extension territoriale de la Convention ou son retrait, avec la date à laquelle elle prendra effet;
 
-- b. iedere datum van inwerkingtreding van de Overeenkomst;
+- d) toute dénonciation de la Convention et la date à laquelle elle prendra effet;
 
-- c. iedere verklaring betreffende de territoriale uitbreiding van de Overeenkomst of de intrekking van die verklaring, met de datum waarop deze van kracht wordt;
+- e) toute déclaration faite en vertu des [articles 4](https://wetten.overheid.nl/BWBV0005514) et [10](https://wetten.overheid.nl/BWBV0005514);
 
-- d. iedere opzegging van de Overeenkomst en de datum waarop deze van kracht wordt;
+- f) toute résolution prise en application de [l'article 9](https://wetten.overheid.nl/BWBV0005514) avec la date à laquelle elle prendra effet.
 
-- e. iedere verklaring op grond van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=4&z=2016-04-01&g=2016-04-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=10&z=2016-04-01&g=2016-04-01);
+2. Le Conseil Fédéral Suisse avisera le Secrétaire Général de la Commission Internationale de l'Etat Civil de toute notification faite en application du paragraphe 1.
 
-- f. ieder besluit dat krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005514&artikel=9&z=2016-04-01&g=2016-04-01) is genomen en de datum waarop dit van kracht wordt.
-
-2. De Zwitserse Bondsraad doet de Secretaris-Generaal van de Internationale Commissie voor de Burgerlijke Stand mededeling van elke overeenkomstig het eerste lid gedane kennisgeving.
-
-3. Zodra deze Overeenkomst in werking is getreden wordt door de Zwitserse Bondsraad een voor eensluidend gewaarmerkt afschrift toegezonden aan de Secretaris-Generaal van de Verenigde Naties voor van registratie en publicatie, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+3. Dès l'entrée en vigueur de la présente Convention, une copie certifiée conforme sera transmise par le Conseil Fédéral Suisse au Secrétaire Général des Nations Unies aux fins d'enregistrement et de publication, conformément à [l'article 102 de la Charte des Nations Unies](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 EN FOI DE QUOI les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
 

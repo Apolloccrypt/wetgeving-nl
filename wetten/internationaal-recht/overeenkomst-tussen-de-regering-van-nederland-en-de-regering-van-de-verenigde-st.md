@@ -1,38 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van Nederland en de Regering van de Verenigde Staten van Amerika betreffende het deelnemen van de Nederlandse strijdkrachten aan de actie van de Verenigde Naties in Korea"
 identifier: "BWBV0005174"
-country: "nl"
-rank: "verdrag"
-publication_date: "1952-05-15"
-last_updated: "1952-05-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005174"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004494693"
-version_id: "10004709092"
-internal_id: "C10006953351"
-label_id: "10004479314"
-dtd_version: "2.0"
-original_entry_into_force: "1952-05-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005174/1952-05-15/0"
-intitule_bron: "Trb.1952-81"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-06-12"
-intitule_in_force: "1952-06-12"
-intitule_status: "goed"
-original_publication: "Trb.1952-81"
-original_published_date: "1952-06-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-81"
-entry_into_force_date: "1952-05-15"
-jci_1_3: "jci1.3:c:BWBV0005174&z=1952-05-15&g=1952-05-15"
-jci_1_0: "1.0:c:BWBV0005174&g=1952-05-15"
-citeertitel_status: "redactioneel"
-entry_into_force: "1952-05-15"
+publicatiedatum: 1952-05-15
+laatste_update: 1952-05-15
+status: geldig
+toestand: 1952-05-15
+bron: "https://wetten.overheid.nl/BWBV0005174"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Regering van Nederland en de Regering van de Verenigde Staten van Amerika betreffende het deelnemen van de Nederlandse strijdkrachten aan de actie van de Verenigde Naties in Korea
 
-This agreement between the Government of the Netherlands and the Government of the United States of America (the executive agent of the United Nations Forces in Korea) shall govern relationships in matters specified herein for forces furnished by the Government of the Netherlands for the operations under the Commanding General of the Armed Forces of the Member States of the United Nations in Korea (hereinafter referred to as „Commander”) designated by the Government of the United States of America pursuant to resolutions of United Nations Security Council of June 25, 1950, June 27, 1950 and July 7, 1950.
+*This agreement between the Government of the Netherlands and the Government of the United States of America (the executive agent of the United Nations Forces in Korea) shall govern relationships in matters specified herein for forces furnished by the Government of the Netherlands for the operations under the Commanding General of the Armed Forces of the Member States of the United Nations in Korea (hereinafter referred to as „Commander”) designated by the Government of the United States of America pursuant to resolutions of United Nations Security Council of June 25, 1950, June 27, 1950 and July 7, 1950.*
 
 ##### Article 1
 

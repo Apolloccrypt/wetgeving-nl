@@ -1,66 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen en haar Uitvoeringsprotocol"
 identifier: "BWBV0005360"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-04-01"
-last_updated: "2014-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005360"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004585473"
-version_id: "10004825202"
-internal_id: "C10009083661"
-label_id: "10004570374"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005360/2014-04-01/0"
-intitule_bron: "Trb.2011-127"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-07-22"
-intitule_in_force: "2014-07-30"
-intitule_status: "goed"
-original_publication: "Trb.2011-127"
-original_published_date: "2011-07-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-127"
-entry_into_force_date: "2014-04-01"
-jci_1_3: "jci1.3:c:BWBV0005360&z=2014-04-01&g=2014-04-01"
-jci_1_0: "1.0:c:BWBV0005360&g=2014-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-04-01"
+publicatiedatum: 2014-04-01
+laatste_update: 2014-04-01
+status: geldig
+toestand: 2014-04-01
+bron: "https://wetten.overheid.nl/BWBV0005360"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de Benelux-staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen en haar Uitvoeringsprotocol
 
-Het Koninkrijk België,
-
-het Groothertogdom Luxemburg
-
-en
-
-het Koninkrijk der Nederlanden,
-
-die krachtens de bepalingen van de op 11 april 1960 gesloten Benelux-Overeenkomst gemeenschappelijk optreden (de BENELUX-Staten),
-
-en
-
-de Republiek Kosovo,
-
-hierna genoemd „de Partijen”,
-
-Ernaar strevend de samenwerking tussen de Partijen te bevorderen en de onderlinge communicatie te verbeteren teneinde beter uitvoering te geven aan de wetgeving en regelgeving inzake het personenverkeer,
-
-Ernaar strevend hun gezamenlijke wens strekkende tot het efficiënt bestrijden van de illegale immigratie van Benelux-onderdanen of Kosovaarse staatsburgers alsmede van de onderdanen van een derde Staat te herbevestigen,
-
-Ernaar strevend de internationaalrechtelijke verplichting tot terugname van eigen onderdanen ten uitvoer te brengen, en met name [artikel 12, lid 4, van het internationale Verdrag van 19 december 1966 inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017&artikel=12),
-
-Ernaar strevend een verplichting tot overname van de onderdanen van een derde Staat tussen de Partijen tot stand te brengen, onder de voorwaarden in deze Overeenkomst genoemd,
-
-Ernaar strevend, op basis van wederkerigheid, de terug- en overname van personen die onregelmatig op het grondgebied van een andere Partij zijn binnengekomen en/of verblijven, en de doorgeleiding van te verwijderen personen te vergemakkelijken,
-
-Bezorgd dat deze terug- en overname snel en veilig moet plaatsvinden, volgens procedures die de menselijke waardigheid waarborgen;
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, die krachtens de bepalingen van de op 11 april 1960 gesloten Benelux-Overeenkomst gemeenschappelijk optreden (de BENELUX-Staten), en de Republiek Kosovo, hierna genoemd „de Partijen”, Ernaar strevend de samenwerking tussen de Partijen te bevorderen en de onderlinge communicatie te verbeteren teneinde beter uitvoering te geven aan de wetgeving en regelgeving inzake het personenverkeer, Ernaar strevend hun gezamenlijke wens strekkende tot het efficiënt bestrijden van de illegale immigratie van Benelux-onderdanen of Kosovaarse staatsburgers alsmede van de onderdanen van een derde Staat te herbevestigen, Ernaar strevend de internationaalrechtelijke verplichting tot terugname van eigen onderdanen ten uitvoer te brengen, en met name artikel 12, lid 4, van het internationale Verdrag van 19 december 1966 inzake burgerrechten en politieke rechten, Ernaar strevend een verplichting tot overname van de onderdanen van een derde Staat tussen de Partijen tot stand te brengen, onder de voorwaarden in deze Overeenkomst genoemd, Ernaar strevend, op basis van wederkerigheid, de terug- en overname van personen die onregelmatig op het grondgebied van een andere Partij zijn binnengekomen en/of verblijven, en de doorgeleiding van te verwijderen personen te vergemakkelijken, Bezorgd dat deze terug- en overname snel en veilig moet plaatsvinden, volgens procedures die de menselijke waardigheid waarborgen; Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Definities en werkingssfeer
 
@@ -68,9 +21,9 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - 1. „grondgebied”:
 
-- –. voor de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
+   - – voor de Benelux-Staten: het gezamenlijke grondgebied in Europa van het Koninkrijk België, van het Groothertogdom Luxemburg en van het Koninkrijk der Nederlanden;
 
-- –. voor de Republiek Kosovo: het grondgebied van de Republiek Kosovo;
+   - – voor de Republiek Kosovo: het grondgebied van de Republiek Kosovo;
 
 - 2. „onregelmatig binnengekomen en/of verblijvende persoon”: eenieder die niet of niet meer voldoet aan de geldende voorwaarden voor binnenkomst of verblijf;
 
@@ -78,9 +31,9 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - 4. „eigen onderdaan of staatsburger”:
 
-- 1. eenieder die de nationaliteit heeft van één der Benelux-Staten;
+   - 1. eenieder die de nationaliteit heeft van één der Benelux-Staten;
 
-- 2. eenieder die het staatsburgerschap heeft of in aanmerking komt voor het staatsburgerschap van de Republiek Kosovo overeenkomstig artikel 29 van de wet op het staatsburgerschap van Kosovo.;
+   - 2. eenieder die het staatsburgerschap heeft of in aanmerking komt voor het staatsburgerschap van de Republiek Kosovo overeenkomstig artikel 29 van de wet op het staatsburgerschap van Kosovo.;
 
 - 5. „derde Staat”: elke Staat die geen Benelux-Staat en niet de Republiek Kosovo is;
 
@@ -118,7 +71,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 2. De in lid (1) bedoelde overnameplicht is niet van toepassing wanneer de verzoekende Partij aan de onderdaan van een derde Staat, vóór of na binnenkomst op het grondgebied van de verzoekende Partij, een visum, anders dan een transitvisum, of verblijfstitel heeft afgegeven met een langere geldigheidsduur dan die van het visum of de verblijfstitel die door de aangezochte Partij is afgegeven.
 
-3. De aangezochte Partij verplicht zich tegenover de over te nemen onderdaan van een derde Staat de bepalingen van [artikel 33 van het Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=33), als gewijzigd bij het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend), alsmede de bepalingen van [artikel 3 van het Verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=3), dan wel de bepalingen van [artikel 7 van het Internationale Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017&artikel=7) van 19 december 1966, als ook de bepalingen van [artikel 3 van het Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of vernederende behandeling of bestraffing](https://wetten.overheid.nl/jci1.3:c:BWBV0002507&artikel=3), na te leven, ook indien zij geen partij is bij deze Verdragen.
+3. De aangezochte Partij verplicht zich tegenover de over te nemen onderdaan van een derde Staat de bepalingen van [artikel 33 van het Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=33), als gewijzigd bij het Protocol van 31 januari 1967 betreffende de status van vluchtelingen, alsmede de bepalingen van [artikel 3 van het Verdrag van 4 november 1950 tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000&artikel=3), dan wel de bepalingen van [artikel 7 van het Internationale Verdrag inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017&artikel=7) van 19 december 1966, als ook de bepalingen van [artikel 3 van het Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of vernederende behandeling of bestraffing](https://wetten.overheid.nl/jci1.3:c:BWBV0002507&artikel=3), na te leven, ook indien zij geen partij is bij deze Verdragen.
 
 ##### Artikel 4. Indiening van het verzoek om terug- of overname
 
@@ -292,7 +245,7 @@ Onverminderd het recht van de bevoegde autoriteiten om de aan de terug- of overn
 
 ##### Artikel 12. Gegevensbescherming
 
-Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoerlegging van deze Overeenkomst door de bevoegde autoriteiten van de Partijen. De verwerking en behandeling van persoonsgegevens in een bepaald geval zijn onderworpen aan de wetgeving van de Republiek Kosovo en, wanneer de behandeling door een bevoegde autoriteit van een Benelux-Staat wordt uitgevoerd, aan de bepalingen van [Richtlijn 95/46/EG](31995L0046) van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de uit hoofde van deze Richtlijn vastgestelde nationale wetgeving. Daarnaast zijn de volgende beginselen van toepassing:
+Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoerlegging van deze Overeenkomst door de bevoegde autoriteiten van de Partijen. De verwerking en behandeling van persoonsgegevens in een bepaald geval zijn onderworpen aan de wetgeving van de Republiek Kosovo en, wanneer de behandeling door een bevoegde autoriteit van een Benelux-Staat wordt uitgevoerd, aan de bepalingen van Richtlijn 95/46/EG van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens, en de uit hoofde van deze Richtlijn vastgestelde nationale wetgeving. Daarnaast zijn de volgende beginselen van toepassing:
 
 - 1. persoonsgegevens moeten redelijk en rechtmatig worden verwerkt;
 
@@ -300,13 +253,13 @@ Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoer
 
 - 3. persoonsgegevens moeten passend, relevant en niet bovenmatig zijn, uitgaande van de doeleinden waarvoor zij worden verzameld en/of vervolgens worden verwerkt; de verstrekte persoonsgegevens mogen met name uitsluitend betrekking hebben op:
 
-- –. de personalia van de over te dragen persoon (naam, voornaam, eventuele vroegere namen, bijnamen of pseudoniemen, geboortedatum en -plaats, geslacht, huidige en vorige nationaliteit of staatsburgerschap);
+   - – de personalia van de over te dragen persoon (naam, voornaam, eventuele vroegere namen, bijnamen of pseudoniemen, geboortedatum en -plaats, geslacht, huidige en vorige nationaliteit of staatsburgerschap);
 
-- –. identiteitsbewijs of paspoort (serienummer, geldigheidsduur, datum van afgifte, afgevende autoriteit, plaats van afgifte);
+   - – identiteitsbewijs of paspoort (serienummer, geldigheidsduur, datum van afgifte, afgevende autoriteit, plaats van afgifte);
 
-- –. verblijfplaatsen en reisroutes;
+   - – verblijfplaatsen en reisroutes;
 
-- –. andere voor identificatie van de over te dragen persoon of voor het onderzoek van de terug- of overnamevereisten uit hoofde van deze Overeenkomst dienstige gegevens;
+   - – andere voor identificatie van de over te dragen persoon of voor het onderzoek van de terug- of overnamevereisten uit hoofde van deze Overeenkomst dienstige gegevens;
 
 - 4. persoonsgegevens moeten nauwkeurig zijn en moeten zo nodig worden bijgewerkt;
 
@@ -324,7 +277,7 @@ Persoonsgegevens worden alleen verstrekt wanneer dit nodig is voor de tenuitvoer
 
 Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
-- 1. het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het [Protocol van 31 januari 1967 betreffende de status van vluchtelingen](onbekend) en het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003);
+- 1. het [Verdrag van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), als gewijzigd bij het Protocol van 31 januari 1967 betreffende de status van vluchtelingen en het [Verdrag van 28 september 1954 betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003);
 
 - 2. verdragen inzake uitlevering en doorgeleiding;
 
@@ -338,7 +291,7 @@ Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
 - 7. het Europese gemeenschapsrecht waaronder het op 14 juni 1985 te Schengen gesloten Akkoord betreffende de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen en de op 19 juni 1990 gesloten Overeenkomst ter uitvoering van genoemd Akkoord van Schengen;
 
-- 8. internationale asielovereenkomsten, met name de [Verordening (EG) Nr 343/2003](32003R0343) van de Raad van 18 februari 2003 tot vaststelling van de criteria en instrumenten om te bepalen welke Lidstaat verantwoordelijk is voor de behandeling van een asielverzoek dat door een onderdaan van een derde land bij één van de Lidstaten wordt ingediend;
+- 8. internationale asielovereenkomsten, met name de Verordening (EG) Nr 343/2003 van de Raad van 18 februari 2003 tot vaststelling van de criteria en instrumenten om te bepalen welke Lidstaat verantwoordelijk is voor de behandeling van een asielverzoek dat door een onderdaan van een derde land bij één van de Lidstaten wordt ingediend;
 
 - 9. internationale conventies en overeenkomsten betreffende de overname van vreemde onderdanen. In het bijzonder geldt dit voor de Annex 9 bij het Verdrag van Chicago van 7 december 1944.
 
@@ -362,7 +315,7 @@ Deze Overeenkomst doet geen afbreuk aan de verplichtingen die voortvloeien uit:
 
 ##### Artikel 15. Uitvoeringsprotocol
 
-Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het Uitvoeringsprotocol vastgelegd. In het Uitvoeringsprotocol wordt onder andere geregeld:
+Alle nodige praktische bepalingen voor de uitvoering van deze Overeenkomst worden in het [Uitvoeringsprotocol](https://wetten.overheid.nl/BWBV0005360) vastgelegd. In het Uitvoeringsprotocol wordt onder andere geregeld:
 
 - 1. de aanwijzing van de bevoegde autoriteiten van de Partijen;
 
@@ -397,120 +350,6 @@ Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenko
 ##### Artikel 19. Depositaris
 
 De Regering van het Koninkrijk België is depositaris van deze Overeenkomst.
-
-Het Koninkrijk België,
-
-het Groothertogdom Luxemburg
-
-en
-
-het Koninkrijk der Nederlanden,
-
-en
-
-de Republiek Kosovo,
-
-hierna genoemd „de Partijen”,
-
-Op grond van [artikel 15, van de op 12 mei te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden (de BENELUX-Staten) en de Republiek Kosovo betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01),
-
-hierna genoemd „de Overeenkomst”,
-
-Zijn het volgende overeengekomen:
-
-##### Artikel 1. Definities
-
-Voor de toepassing van dit Uitvoeringsprotocol wordt verstaan onder:
-
-- 1. diplomatieke vertegenwoordiging: de diplomatieke vertegenwoordiging van de aangezochte Partij op het grondgebied van de verzoekende Partij;
-
-- 2. begeleider(s): de door de verzoekende Partij aangewezen persoon (of personen), belast met de begeleiding van de terug of over te nemen of door te geleiden persoon.
-
-##### Artikel 2. Verzoek om terug- of overname
-
-1. Een verzoek om terug- of overname dat de inlichtingen bevat als bedoeld in [artikel 4, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2014-04-01&g=2014-04-01), wordt per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij.
-
-2. Voor de indiening van het verzoek om terugname van een eigen onderdaan of staatsburger wordt gebruik gemaakt van het formulier dat als [bijlage 1 A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht. Voor de indiening van het verzoek om overname van een onderdaan van een derde Staat wordt gebruik gemaakt van het formulier dat als [bijlage 1 B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-3. Indien is voldaan aan de voorwaarden genoemd in [artikel 4, lid (4), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=4&z=2014-04-01&g=2014-04-01), volstaat een schriftelijke mededeling door middel van het formulier dat als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=3&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-4. De verzoekende Partij wendt zich voor het verstrekken alsmede voor het verkrijgen van nadere inlichtingen met betrekking tot het ingediende verzoek om terug- of overname tot de bevoegde autoriteit van de aangezochte Partij.
-
-5. Het antwoord op een verzoek om terug- of overname wordt per telefax of via elektronische weg overgemaakt aan de bevoegde autoriteit van de verzoekende Partij door middel van het formulier dat als [bijlage 1A](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1A&z=2014-04-01&g=2014-04-01) of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=1B&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-##### Artikel 3. Reisdocumenten
-
-1. Ingeval van een positief antwoord op het verzoek om terug- of overname, worden de voor terugkeer noodzakelijke reisdocumenten overeenkomstig [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), op naam van de over te dragen persoon gesteld en door de diplomatieke vertegenwoordiging aan de bevoegde autoriteiten van de verzoekende Partij overhandigd.
-
-2. Op grond van [artikel 7, lid (6), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01), wordt de aangezochte Partij, indien de diplomatieke vertegenwoordiging het gevraagde reisdocument niet binnen drie werkdagen na de datum van ontvangst van het verzoek daartoe kan verstrekken, geacht in te stemmen met het gebruik van een door de verzoekende Partij verstrekt reisdocument. De documenten die de Partijen voor dit doel zullen gebruiken zijn als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=4&z=2014-04-01&g=2014-04-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=5&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol gehecht.
-
-##### Artikel 4. Overdracht
-
-1. De bevoegde autoriteit van de verzoekende Partij stelt de bevoegde autoriteit van de aangezochte Partij, per telefax of via elektronische weg, minimaal twee werkdagen vóór de geplande overdracht in kennis van haar voornemen daartoe over te gaan. Daartoe wordt gebruik gemaakt van het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-2. Indien de overdracht van de terug- of over te nemen persoon binnen de in [artikel 7, lid (5), van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=7&z=2014-04-01&g=2014-04-01) genoemde termijn van drie maanden niet kan plaatsvinden stelt de verzoekende Partij de bevoegde autoriteit van de aangezochte Partij, daarvan onverwijld in kennis.
-
-3. Indien medische redenen vervoer over de weg of over zee rechtvaardigen, maken de bevoegde autoriteiten van de verzoekende Partij daarvan afzonderlijk melding op het formulier dat als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=2&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-##### Artikel 5. Procedure met het oog op de doorgeleiding van onderdanen van een derde Staat en staatlozen
-
-1. Een verzoek om doorgeleiding wordt minimaal twee dagen voor de geplande doorgeleiding per telefax of via elektronische weg ingediend bij de bevoegde autoriteit van de aangezochte Partij. Voor de indiening van het verzoek wordt gebruik gemaakt van het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-2. De bevoegde autoriteit van de aangezochte Partij bericht onverwijld, per telefax of via elektronische weg, of zij instemt met de doorgeleiding en het hiervoor geplande tijdstip, de plaats waar de grens wordt overschreden, de wijze van vervoer en het gebruik van begeleiders. Daartoe wordt gebruik gemaakt van het in lid 1, van dit artikel, bedoelde formulier.
-
-3. Doorgeleiding geschiedt in beginsel door de lucht.
-
-##### Artikel 6. Ondersteuning van de doorgeleiding
-
-1. Indien de verzoekende Partij ondersteuning van de doorgeleiding door de autoriteiten van de aangezochte Partij noodzakelijk acht, geeft zij dit verzoek aan in het formulier dat als [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&bijlage=6&z=2014-04-01&g=2014-04-01) aan dit Uitvoeringsprotocol is gehecht.
-
-2. Bij gelegenheid van het antwoord op het verzoek om doorgeleiding bericht de aangezochte Partij of zij kan voorzien in de gevraagde ondersteuning. De Partijen treden zo nodig nader met elkaar in overleg.
-
-3. Indien de betrokkene wordt begeleid, geschieden de bewaking en het aan boord brengen onder het gezag van de aangezochte Partij.
-
-##### Artikel 7. Verplichtingen van de begeleiders
-
-1. Bij de uitvoering van de doorgeleiding zijn de bevoegdheden van de begeleiders beperkt tot zelfverdediging. Daarnaast kunnen de begeleiders, bij afwezigheid van terzake bevoegde ambtenaren van de aangezochte Partij of ter ondersteuning van deze ambtenaren, in reactie op een onmiddellijke en ernstige dreiging op redelijke en evenredige wijze optreden om te voorkomen dat de betrokkene vlucht, zichzelf of derden letsel toebrengt dan wel schade aan goederen veroorzaakt.
-
-2. De begeleiders moeten in alle omstandigheden het recht van de aangezochte Partij naleven.
-
-3. Begeleiders voeren hun taak ongewapend en in burgerkledij uit. Zij dienen te zijn voorzien van een document waaruit blijkt dat toestemming is verleend voor de terug- of overname of de doorgeleiding en dienen te allen tijde in staat te zijn hun identiteit en dienstopdracht aan te tonen.
-
-4. De autoriteiten van de aangezochte Partij verlenen de begeleiders bij de uitoefening van hun taken in het kader van de Overeenkomst dezelfde bescherming en bijstand als aan de eigen terzake bevoegde ambtenaren.
-
-##### Artikel 8. Aanwijzing bevoegde autoriteiten
-
-Overeenkomstig [artikel 15, onder 1, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) wisselen de Partijen uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk een lijst van de voor de uitvoering van de Overeenkomst bevoegde autoriteiten uit. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
-
-##### Artikel 9. Aanwijzing plaatsen grensoverschrijding
-
-Overeenkomstig [artikel 15, onder 2, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=15&z=2014-04-01&g=2014-04-01) delen de Partijen elkaar uiterlijk 30 dagen na de sluiting van dit Uitvoeringsprotocol schriftelijk mede via welke grensovergangen personen daadwerkelijk worden overgedragen en toegelaten. Iedere wijziging in deze lijst delen zij elkaar onverwijld mede.
-
-##### Artikel 10. Kosten
-
-Door de aangezochte Partij gemaakte kosten in verband met terug- of overname en doorgeleiding welke op grond van [artikel 11, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=11&z=2014-04-01&g=2014-04-01) ten laste van de verzoekende Partij komen, worden door de verzoekende Partij na overlegging van een factuur vergoed.
-
-##### Artikel 11. Comité van deskundigen
-
-De Partijen stellen elkaar binnen de dertig dagen na de inwerkingtreding van de Overeenkomst in kennis van de samenstelling van hun delegatie in het krachtens [artikel 14, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=14&z=2014-04-01&g=2014-04-01) ingestelde Comité van deskundigen. Iedere wijziging in hun delegatie delen zij elkaar onverwijld mede.
-
-##### Artikel 12. Taal
-
-Partijen communiceren met elkaar in de Engelse taal.
-
-##### Artikel 13. Wijziging van de bijlagen
-
-1. De bijlagen 1 tot en met 6 vormen een integrerend onderdeel van het Uitvoeringsprotocol.
-
-2. Elke wijziging van de bijlagen bij dit Uitvoeringsprotocol wordt schriftelijk overeengekomen tussen de Partijen en wordt van kracht op een door de Partijen te bepalen datum.
-
-##### Artikel 14. Inwerkingtreding en opzegging
-
-Dit Uitvoeringsprotocol wordt overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=17&z=2014-04-01&g=2014-04-01) en [18, van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005360&artikel=18&z=2014-04-01&g=2014-04-01) toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
-
-##### Artikel 15. Depositaris
-
-Het Koninkrijk België is depositaris van dit Uitvoeringsprotocol. De depositaris zal alle Partijen een voor eensluidend verklaard afschrift daarvan overmaken.
 
 TEN BLIJKE waarvan de vertegenwoordigers van de Partijen, daartoe naar behoren gemachtigd, deze Overeenkomst hebben ondertekend.
 

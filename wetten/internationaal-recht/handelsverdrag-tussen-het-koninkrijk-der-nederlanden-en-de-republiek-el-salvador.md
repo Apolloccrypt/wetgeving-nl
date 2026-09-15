@@ -1,38 +1,19 @@
 ---
 title: "Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador"
 identifier: "BWBV0005204"
-country: "nl"
-rank: "verdrag"
-publication_date: "1956-06-27"
-last_updated: "1956-06-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005204"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004514753"
-version_id: "10004731542"
-internal_id: "C10007001801"
-label_id: "10004499344"
-dtd_version: "2.0"
-original_entry_into_force: "1956-06-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005204/1956-06-27/0"
-intitule_bron: "Trb.1956-70"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-07-11"
-intitule_in_force: "1956-07-11"
-intitule_status: "goed"
-original_publication: "Trb.1956-70"
-original_published_date: "1956-07-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-70"
-entry_into_force_date: "1956-06-27"
-jci_1_3: "jci1.3:c:BWBV0005204&z=1956-06-27&g=1956-06-27"
-jci_1_0: "1.0:c:BWBV0005204&g=1956-06-27"
-citeertitel_status: "redactioneel"
-entry_into_force: "1956-06-27"
+publicatiedatum: 1956-06-27
+laatste_update: 1956-06-27
+status: geldig
+toestand: 1956-06-27
+bron: "https://wetten.overheid.nl/BWBV0005204"
+opgehaald: 2026-09-15
 ---
+
 # Handelsverdrag tussen het Koninkrijk der Nederlanden en de Republiek El Salvador
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek El Salvador, bezield met de wens de traditionele vriendschapsbanden tussen de beide landen nauwer aan te halen door middel van de handhaving van het beginsel van wederzijdse behandeling als meestbegunstigde natie in onvoorwaardelijke en onbeperkte vorm als grondslag voor haar handelsbetrekkingen, zijn het navolgende overeengekomen.
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek El Salvador, bezield met de wens de traditionele vriendschapsbanden tussen de beide landen nauwer aan te halen door middel van de handhaving van het beginsel van wederzijdse behandeling als meestbegunstigde natie in onvoorwaardelijke en onbeperkte vorm als grondslag voor haar handelsbetrekkingen, zijn het navolgende overeengekomen.*
 
 ##### Artikel 1
 
@@ -58,15 +39,15 @@ De produkten van oorsprong van een van de Hoge Contracterende Partijen, welke wo
 
 De meestbegunstigingsclausule, waarop de artikelen 1, 2, 3, 4 en 5 van dit Verdrag betrekking hebben, zal zich niet uitstrekken:
 
-- a). tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die Nederland en de Overzeese Rijksdelen, welke een integrerend deel uitmaken van het Koninkrijk der Nederlanden, elkander hebben verleend of zullen verlenen voor de invoer van goederen van oorsprong uit deze landen.
+- a) tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die Nederland en de Overzeese Rijksdelen, welke een integrerend deel uitmaken van het Koninkrijk der Nederlanden, elkander hebben verleend of zullen verlenen voor de invoer van goederen van oorsprong uit deze landen.
 
-- b). tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die het gevolg zijn van de Douane-Unie, die bestaat tussen Nederland, België en het Groothertogdom Luxemburg.
+- b) tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die het gevolg zijn van de Douane-Unie, die bestaat tussen Nederland, België en het Groothertogdom Luxemburg.
 
-- c). tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die het Koninkrijk der Nederlanden verleent of zal verlenen aan derde landen krachtens het Verdrag nopens Europese Economische Samenwerking, het Verdrag van de Europese Kolen- en Staal Gemeenschap, evenals ten aanzien van enige andere economische organisatie met een regionaal karakter, waaraan het Koninkrijk der Nederlanden zal deelnemen.
+- c) tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die het Koninkrijk der Nederlanden verleent of zal verlenen aan derde landen krachtens het Verdrag nopens Europese Economische Samenwerking, het Verdrag van de Europese Kolen- en Staal Gemeenschap, evenals ten aanzien van enige andere economische organisatie met een regionaal karakter, waaraan het Koninkrijk der Nederlanden zal deelnemen.
 
-- d). tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die de Republiek El Salvador verleent of zal kunnen verlenen krachtens verdragen of overeenkomsten of op unilaterale wijze, ten aanzien van goederen van oorsprong uit de Republieken van de Centraal-Amerikaanse landengte.
+- d) tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die de Republiek El Salvador verleent of zal kunnen verlenen krachtens verdragen of overeenkomsten of op unilaterale wijze, ten aanzien van goederen van oorsprong uit de Republieken van de Centraal-Amerikaanse landengte.
 
-- e). tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die een der Hoge Contracterende Partijen verleent of zal verlenen aan aangrenzende landen met betrekking tot het grensverkeer.
+- e) tot de gunsten, voorrechten, tegemoetkomingen of vrijstellingen, die een der Hoge Contracterende Partijen verleent of zal verlenen aan aangrenzende landen met betrekking tot het grensverkeer.
 
 ##### Artikel 7
 

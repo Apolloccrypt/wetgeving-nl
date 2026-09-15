@@ -1,150 +1,125 @@
 ---
 title: "Internationale Overeenkomst nopens het gebruik van de aanduidingen van herkomst en van de benamingen van kaassoorten"
 identifier: "BWBV0005348"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-11-28"
-last_updated: "1953-11-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005348"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004579713"
-version_id: "10004810492"
-internal_id: "C10007171151"
-label_id: "10004564404"
-dtd_version: "2.0"
-original_entry_into_force: "1953-11-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005348/1953-11-28/0"
-intitule_bron: "Trb.1952-61"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-04-23"
-intitule_in_force: "1953-12-31"
-intitule_status: "goed"
-original_publication: "Trb.1952-61"
-original_published_date: "1952-04-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-61"
-entry_into_force_date: "1953-11-28"
-jci_1_3: "jci1.3:c:BWBV0005348&z=1953-11-28&g=1953-11-28"
-jci_1_0: "1.0:c:BWBV0005348&g=1953-11-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-11-28"
+publicatiedatum: 1953-11-28
+laatste_update: 1953-11-28
+status: geldig
+toestand: 1953-11-28
+bron: "https://wetten.overheid.nl/BWBV0005348"
+opgehaald: 2026-09-15
 ---
+
 # Internationale Overeenkomst nopens het gebruik van de aanduidingen van herkomst en van de benamingen van kaassoorten
 
-De Overeenkomstsluitende Partijen,
+*Les Parties Contractantes, ayant reconnu l'utilité d'une réglementation et d'une coopération internationales assurant l'emploi loyal des appellations d'origine et dénominations de fromages, et, considérant qu'il importe, dès lors, de définir ces appellations d'origine et dénominations en les accompagnant des caractéristiques des fromages auxquels elles se réfèrent, de façon à en protéger l'originalité ainsi que l'emploi et à permettre l'orientation des acheteurs, sont convenues de ce qui suit:*
 
-Het nut erkend hebbende van een internationale regeling en samenwerking om het rechtmatig gebruik van de aanduidingen van herkomst en van de benamingen van kaas te waarborgen,
+##### Article 1
 
-Overwegende, dat het van belang is, in den vervolge deze aanduidingen van herkomst en deze benamingen te definiëren, zulks onder vermelding van de onderscheidene kenmerkende eigenschappen van de kaas, teneinde de oorspronkelijkheid en het gebruik ervan te beschermen en de voorlichting der afnemers mogelijk te maken,
+Les Parties Contractantes s'engagent à prendre toutes les mesures qui, dans la forme requise par leur législation intérieure, assurent l'application des principes et dispositions fixés par les articles 2 à 9 ci-après.
 
-Zijn het volgende overeengekomen:
+Elles s'engagent notamment à prohiber et réprimer sur leur territoire l'emploi, dans les langues du pays ou dans une langue étrangère, des appellations d'origine, dénominations et désignations de fromages contraires à ces principes.
 
-##### Artikel 1
+Cet engagement vise toutes mentions constituant de fausses indications sur l'origine, l'espèce, la nature ou les qualités spécifiques des fromages, apposées sur ceux-ci ou sur des produits pouvant prêter à confusion avec le fromage, qu'ils soient mis en circulation, importés, entreposés, offerts ou vendus, tant à l'intérieur qu'à l'exportation; il vise aussi les mentions utilisées sur les emballages, factures, lettres de voiture et papiers de commerce, ainsi que dans la publicité, les marques, noms, inscriptions et illustrations.
 
-De Overeenkomstsluitende Partijen verbinden zich alle maatregelen te nemen welke, in de door haar binnenlandse wetgeving vereiste vorm, de toepassing verzekeren van de beginselen en maatregelen, vastgesteld in de hieronder volgende artikelen 2 tot en met 9.
+Les dispositions de cet article ne s'appliquent pas aux marchandises en transit.
 
-Zij verbinden zich met name, op haar grondgebied te verbieden en te onderdrukken het gebruik, in de talen van het land zelf of in een vreemde taal, van aanduidingen van herkomst, benamingen en aanduidingen van kaas, welke in strijd zijn met deze beginselen.
+##### Article 2
 
-Deze verbintenis betreft alle vermeldingen houdende onjuiste aanduidingen omtrent herkomst, soort, aard of specifieke eigenschappen van de kaas, aangebracht op deze kaas of op producten die voor kaas zouden kunnen worden gehouden en in de handel gebracht, ingevoerd, in opslag gehouden, aangeboden of verkocht worden, onverschillig of deze voor het land zelf of voor uitvoer bestemd zijn; zij betreft ook de vermeldingen, gebezigd op verpakkingen, facturen, vrachtbrieven en handelsdocumenten alsmede in reclame, merken, namen, opschriften en afbeeldingen.
+Le mot „fromage” est réservé au produit fermenté ou non, obtenu par égouttage après coagulation du lait, de la crème, du lait partiellement ou totalement écrémé, ou de leur mélange, ainsi qu'au produit obtenu par concentration partielle du lactosérum ou du babeurre, à l'exclusion, dans tous les cas, de toute addition de matière grasse étrangère au lait.
 
-De bepalingen van dit artikel zijn niet van toepassing op goederen in transito.
+Les Parties Contractantes s'engagent à supprimer sur leur territoire, dans un délai maximum de deux ans à partir de la ratification de la présente convention, au besoin par la législation, tout emploi du mot „fromage”, seul ou combiné avec d'autres mots, qui n'est pas en conformité du présent article.
 
-##### Artikel 2
+##### Article 3
 
-Het woord „kaas” wordt slechts gebruikt voor het al of niet gerijpte product dat, na de stremming van de melk, de room, de geheel of gedeeltelijk afgeroomde melk of een mengsel hiervan, door aflopen van de wei verkregen wordt, alsmede voor het product, verkregen door gedeeltelijke concentratie van melkserum of karnemelk, in ieder geval zonder toevoeging van enig vet dat aan melk vreemd is.
+Les „appellations d'origine” qui font l'objet d'une réglementation nationale de la part des pouvoirs publics réservant leur emploi, sur le territoire d'une Partie Contractante, aux fromages fabriqués ou affinés dans les régions traditionnelles, en vertu d'usages locaux, loyaux et constants, sont énumérées, par pays, dans l'Annexe *A*; elles sont réservées à titre exclusif à ces fromages, employées seules ou accompagnées soit d'un qualificatif, soit même d'un correctif tel que „type”, „genre”, „façon”, ou autre.
 
-De Overeenkomstsluitende Partijen verbinden zich, binnen een tijdperk van ten hoogste twee jaren na de bekrachtiging van deze Overeenkomst, voorzover nodig door middel van wettelijke maatregelen, op haar grondgebied ieder gebruik van het woord „kaas”, alleen of tezamen met andere woorden, dat niet in overeenstemming is met dit artikel, te verbieden.
+##### Article 4
 
-##### Artikel 3
+Les „dénominations” qui font l'objet d'une réglementation nationale de la part des pouvoirs publics sur le territoire de la Partie Contractante les ayant utilisées la première et dont l'emploi est réservé pour des fromages de caractéristiques définies, sont énumerées par Pays, dans l'Annexe *B.*
 
-De „aanduidingen van herkomst” die het onderwerp vormen van door officiële instanties te treffen nationale regelingen en waarvan het gebruik binnen het eigen grondgebied van de Overeenkomstsluitende Partijen is beperkt tot kaassoorten, vervaardigd of gerijpt in de traditionele gebieden volgens plaatselijk, rechtmatig en constant gebruik, zijn voor ieder land afzonderlijk in Bijlage A opgenomen. Zij worden uitsluitend voor deze kazen gebruikt, alleen of tezamen met een nadere aanduiding, of gecorrigeerd door toevoegingen als: „type”, „soort”, „model” enz.
+Les caractéristiques des fromages auxquelles s'appliquent ces dénominations sont définies par la Partie Contractante considérée, et doivent porter principalement sur la forme, le poids, les dimensions, le genre et la couleur de la croûte ainsi que de la pâte, de même que sur la teneur en matière grasse du fromage.
 
-##### Artikel 4
+Les dénominations de fromages portées à l'Annexe *B* ne peuvent être transférées à l'Annexe *A*; elles peuvent être employées par les autres Parties Contractantes pour désigner exclusivement des fromages fabriqués sur leur territoire et répondant aux caractéristiques définies à l'Annexe *B*, à condition que la dénomination soit accompagnée de l'indication du Pays de fabrication en caractères identiques, dans leurs types, dimensions et couleurs, à ceux utilisés pour la dénomination.
 
-De „benamingen”, waarvoor wettelijke regelingen zijn getroffen op het grondgebied van die Overeenkomstsluitende Partij welke als eerste deze benamingen heeft gebruikt en deze uitsluitend gebruikt voor die kaassoorten welke specifieke kenmerken hebben, worden in Bijlage B voor ieder land afzonderlijk genoemd.
+##### Article 5
 
-De kenmerken van de kazen, waarop deze benamingen betrekking hebben, worden omschreven door de betreffende Overeenkomstsluitende Partij en zullen hoofdzakelijk betrekking hebben op het model, het gewicht, de omvang, het type en de kleur van korst en zuivel, evenals op het vetgehalte van de kaas.
+Chacune des Parties Contractantes peut demander l'inscription d'une appellation d'origine ou dénomination de fromage aux Annexes *A* et *B* ainsi que tout complément ultérieur auxdites Annexes.
 
-De kaas-benamingen, opgenomen in Bijlage B, mogen niet worden overgebracht naar Bijlage A; zij mogen door de andere Overeenkomstsluitende Partijen uitsluitend worden gebruikt voor het aanduiden van kaassoorten welke op hun grondgebied worden vervaardigd en de kenmerken vertonen, omschreven in Bijlage B, mits de benamingen vergezeld gaan van een aanduiding van het land waar zij vervaardigd worden; deze dient te worden aangebracht in letters waarvan het type, de grootte en de kleur gelijk zijn aan die welke zijn gebruikt voor de benaming.
+A cet effet, elle notifiera sa requête au Gouvernement de la République Italienne, dépositaire de la présente convention, lequel informera de cette notification tous les membres du Conseil Permanent mentionné ci-après.
 
-##### Artikel 5
+La requête et les documents devant l'accompagner seront établis en autant d'exemplaires qu'il existe de Parties Contractantes.
 
-Iedere Overeenkomstsluitende Partij mag een verzoek indienen tot het opnemen in Bijlage A of B van een „aanduiding van herkomst” of benaming van een kaassoort of van toevoegingen aan deze bijlagen.
+Elle sera accompagnée:
 
-Te dien einde brengt zij haar verzoek ter kennis van de Regering der Italiaanse Republiek, bij wie deze Overeenkomst is nedergelegd, en die aan alle leden van de hierna genoemde Permanente Raad van dit verzoek mededeling zal doen.
+- a) pour toute demande d'inscription en Annexe *B*, du texte dont l'incorporation à ladite Annexe est demandée, d'un mémoire justificatif et de l'avis consultatif de la Fédération Internationale de Laiterie que la Partie Contractante requérante aura préalablement obtenu;
 
-Zowel het verzoek als de begeleidende documenten dienen te worden ingezonden in zoveel exemplaren als er Overeenkomstsluitende Partijen zijn.
+- b) pour toute demande d'inscription en Annexe *A*, de ces mêmes documents et en outre, non seulement du texte de la réglementation nationale mentionnée à l'art. 3 ci-dessus, mais encore de tous documents permettant d'établir que l'appellation d'origine en cause a été employée sur le territoire ou une partie du territoire de la Partie Contractante requérante pour désigner, en vertu d'usages locaux, loyaux et constants, des fromages provenant d'une région délimitée dont ils tirent leurs caractéristiques typiques.
 
-Alle verzoeken tot opneming
+A l'effet d'examiner ces requêtes, il est constitué un Conseil Permanent comprenant un Représentant de chacune des Parties Contractantes, lequel établit ses propres statuts ainsi que ses règles de procédure.
 
-- a). in Bijlage B dienen vergezeld te gaan van de in de Bijlage op te nemen tekst, een omschrijving van de aanleiding tot het verzoek en het advies van de Internationale Zuivelbond, dat de Overeenkomstsluitende Partij van te voren heeft ingewonnen;
+Les inscriptions à l'Annexe *A* requièrent une majorité des trois quarts de l'ensemble des membres du Conseil Permanent et celles relatives à l'Annexe *B* la majorité simple.
 
-- b). in Bijlage A dienen vergezeld te gaan van dezelfde documenten, en daarenboven zowel van de tekst der binnenlandse wettelijke bepalingen genoemd in artikel 3, als van alle documenten waaruit blijkt, dat de betreffende „aanduiding van herkomst” op een deel van of op het gehele grondgebied van de Overeenkomstsluitende Partij, volgens plaatselijk, rechtmatig en constant gebruik wordt gebezigd om kazen, afkomstig uit een bepaalde streek en met specifieke, oorspronkelijke kenmerken van die streek, aan te duiden.
+Le Conseil Permanent statue sur les demandes d'inscription dans un délai maximum de six mois à compter du jour où le Gouvernement Italien a reçu la notification de la Partie Contractante requérante et le Gouvernement de la République Italienne notifie la décision à chacune des Parties Contractantes.
 
-Voor het onderzoeken van deze aanvragen wordt een Permanente Raad ingesteld, welke zal bestaan uit één vertegenwoordiger van elk der Overeenkomstsluitende Partijen. Deze Permanente Raad zal zelf zijn Statuten en Huishoudelijk Reglement vaststellen.
+Pour leur marché intérieur, un délai maximum de deux ans à compter de l'inscription nouvelle est accordé aux Parties Contractantes pour leur permettre de se conformer aux obligations nouvelles qui en résultent; celle des Parties Contractantes qui désire se mettre au bénéfice de cette disposition notifie sa décision au Gouvernement de la République Italienne qui en informe les Membres du Conseil Permanent.
 
-Alle opnemingen in Bijlage A vereisen een meerderheid van drie vierden van alle leden van de Permanente Raad en die in Bijlage B een volstrekte meerderheid.
+##### Article 6
 
-De Permanente Raad beslist over een verzoek tot opneming uiterlijk binnen een periode van zes maanden na de datum waarop de Italiaanse Regering zulk een verzoek van de betreffende Overeenkomstsluitende Partij heeft ontvangen. De Regering van de Italiaanse Republiek zal elk der Overeenkomstsluitende Partijen van de beslissing in kennis stellen.
+Les fromages destinés à l'exportation doivent porter les mentions ci-après:
 
-Wat betreft haar binnenlandse afzetmarkten zal een maximum periode van 2 jaar, met ingang van de dag der nieuwe opneming, aan de Overeenkomstsluitende Partijen worden toegestaan, ten einde haar gelegenheid te geven zich in te stellen op de nieuwe verplichtingen welke uit deze opneming voortvloeien. De Overeenkomstsluitende Partij die wenst gebruik te maken van deze bepaling, stelt hiervan de Regering der Italiaanse Republiek in kennis; deze doet daarvan mededeling aan de Leden van de Permanente Raad.
+- a) l'indication du pays de fabrication;
 
-##### Artikel 6
+- b) le pourcentage minimum de matière grasse sur sec, étant entendu que pour les fromages contenant au moins 45 % de matière grasse sur sec, l'indication de pourcentage pourra être remplacée par la mention „gras”;
 
-Op voor export bestemde kazen moet het volgende worden vermeld:
+Pour les fromages vendus emballés, ces mentions, lorsqu'elles ne peuvent être apposées sur le fromage même, le seront sur l'emballage du fromage dans l'état où celui-ci est présenté au consommateur.
 
-- a). het land van fabricage;
+En outre, les documents se rapportant aux fromages doivent porter la dénomination du fromage.
 
-- b). het minimum gegarandeerde vetgehalte in de droge stof. Voor kazen welke ten minste 45 % vet in de droge stof bevatten, kan de aanduiding van het percentage vervangen worden door het woord „volvet”.
+##### Article 7
 
-Bij verpakte kaas moeten deze gegevens, voor zover zij niet op de kaas zelf kunnen worden aangebracht, vermeld staan op de verpakking van de kaas, zoals deze aan de consument wordt afgeleverd.
+Le mot „fromage” de même que toute appellation d'origine ou dénomination de fromage employée pour désigner le produit de la fonte du fromage doivent être accompagnés du qualificatif „fondu”.
 
-Bovendien moet op de documenten welke op de kaas betrekking hebben, de naam van de kaas vermeld staan.
+L'expression „fromage fondu” est réservée au produit de la fonte d'un fromage ou d'un mélange de fromages avec addition éventuelle d'autres produits laitiers, y compris lait en poudre, caséine ou concentré de petit-lait avec ou sans adjonction de sels minéraux, épices et aromates ou encore, lorsqu'elle est autorisée par la législation nationale, avec adjonction éventuelle de vitamines; enfin, peuvent être ajoutés des sels dissolvants et émulsionnants, dans une proportion ne pouvant dépasser 3 % du poids total.
 
-##### Artikel 7
+L'adjonction de jambon maigre au fromage fondu est autorisée, à condition que le fromage soit clairement dénommé „fromage fondu au jambon”.
 
-Aan het woord „kaas” alsmede aan iedere aanduiding van herkomst en aan iedere benaming van kaas, gebruikt om het product dat verkregen wordt door het smelten van kaas aan te duiden, moet het woord „gesmolten” worden toegevoegd.
+L'emploi d'une appellation d'origine mentionnée à l'art. 3 ci-dessus est autorisé pour un fromage fondu à condition que celui-ci soit obtenu par la fonte du seul fromage naturel dont l'appellation d'origine est utilisée.
 
-De term „gesmolten kaas” wordt uitsluitend gebruikt voor het product dat verkregen wordt door het smelten van één enkele kaassoort of van een mengsel van kaassoorten, eventueel onder toevoeging van andere zuivelproducten, met inbegrip van melkpoeder, caseïne of ingedikte wei met of zonder minerale zouten, kruiden en aromatische stoffen, of eventueel onder toevoeging van vitaminen, indien zulks door de wettelijke bepalingen van het betreffende land is toegestaan. Verder kunnen worden toegevoegd oplossing bevorderende en emulgerende zouten tot een percentage van ten hoogste 3 % van het totale gewicht.
+L'emploi d'une dénomination mentionnée à l'art. 4 ci-dessus est autorisé pour un fromage fondu dans lequel 75 % au minimum du fromage employé est constitué par celui dont la dénomination est utilisée, tout fromage de complément devant être de qualité similaire.
 
-Toevoeging van magere ham aan de gesmolten kaas is slechts dan toegestaan, wanneer de kaas duidelijk aangeduid wordt met de naam „gesmolten kaas met ham”.
+Les fromages fondus ne doivent pas présenter les formes et, en même temps, les caractéristiques extérieures des fromages visés par la présente Convention; cette réserve ne s'applique pas à la forme rectangulaire qui peut être donnée aux fromages fondus qui ne présentent pas les caractéristiques extérieures des fromages naturels.
 
-Het gebruik van een aanduiding van herkomst als bedoeld in artikel 3 is slechts dan voor gesmolten kaas toegestaan, indien deze uitsluitend is verkregen door het smelten van slechts één natuurkaas, waarvan de aanduiding van herkomst gebruikt wordt.
+##### Article 8
 
-Het gebruik van een benaming als bedoeld in artikel 4 is slechts dan voor gesmolten kaas toegestaan, wanneer deze voor tenminste 75 % bestaat uit de kaas waarvan de benaming wordt gebruikt, terwijl alle andere daarin verwerkte kaassoorten van soortgelijke kwaliteit moeten zijn.
+Les mentions devant figurer sur l'emballage de fromages fondus, outre celles prévues à l'art. 6 ci-dessus, sont la date de fabrication (sous forme de code ou non) et l'indication du poids net minimum du fromage départ usine sans aucun emballage.
 
-Gesmolten kaas mag niet het model en tegelijkertijd de uiterlijke kenmerken van de door deze Overeenkomst bedoelde kaassoorten vertonen; dit geldt echter niet voor het rechthoekige model dat gegeven wordt aan de gesmolten kaassoorten, die niet de uiterlijke kenmerken van de natuurkaas vertonen.
+Sur les emballages contenant plusieurs petites unités ou portions, le poids total et les autres mentions requises peuvent être apposées sur ces emballages seulement.
 
-##### Artikel 8
+##### Article 9
 
-Behalve de in artikel 6 genoemde gegevens dient op de verpakking van de gesmolten kaas bovendien nog te worden vermeld: de datum van de fabricage (al dan niet in codevorm) en het minimum nettogewicht van de kaas bij het verlaten van de fabriek zonder verpakking.
+Toute contestation portant sur l'interprétation des clauses de la présente Convention ou sur des difficultés d'application qui n'aurait pu être résolue par voie de négociations directes, sera portée devant le Conseil Permanent dont il est question à l'art. 5 ci-dessus.
 
-Wanneer verpakkingen een aantal kleine eenheden of porties bevatten, mogen het totale gewicht en alle overige vereiste gegevens worden aangegeven op deze verpakkingen alleen.
+Le Conseil, après consultation de la Fédération Internationale de Laiterie et tenant compte de tous documents et éléments probatoires utiles, procédera à un essai de conciliation; en cas d'insuccès et après avoir épuisé tous moyens d'entente, les Parties Contractantes intéressées conservent le droit de recourir en dernière instance à la Cour Internationale de Justice.
 
-##### Artikel 9
+Les Gouvernements intéressés s'engagent à supporter en commun les frais de la procédure.
 
-Ieder geschil met betrekking tot de uitlegging van de bepalingen van deze Overeenkomst of tot moeilijkheden, voortvloeiende uit de toepassing daarvan, dat niet door rechtstreekse onderhandelingen zou kunnen worden opgelost, zal voor de in artikel 5 genoemde Permanente Raad worden gebracht.
+##### Article 10
 
-De Raad zal, na overleg met de Internationale Zuivelbond, en rekening houdend met alle desbetreffende documenten en ter zake dienende gegevens, pogen een vergelijk te treffen. Wanneer de Raad niets onbeproefd heeft gelaten om tot een verzoening te geraken en daar nochtans niet in slaagt, behouden de belanghebbende Overeenkomstsluitende Partijen zich het recht voor, deze kwestie in laatste instantie aanhangig te maken bij het Internationale Gerechtshof.
+Le présente Convention sera ratifiée et les instruments de ratification seront déposés dès que possible auprès du Gouvernement de la République Italienne, qui notifiera la date de ces dépôts à chaque Gouvernement signataire.
 
-De betrokken Regeringen verbinden zich gemeenschappelijk de kosten van het proces te dragen.
+La présente Convention entrera en vigueur trente jours après le dépôt effectué, par quatre Etats signataires, de leurs instruments de ratification. Elle entrera en vigueur pour chacun des autres Etats signataires trente jours après le dépôt de son instrument de ratification.
 
-##### Artikel 10
+Après son entrée en vigueur, la présente Convention sera ouverte à tout Etat. L'adhésion deviendra effective par le dépôt d'un instrument d'adhésion auprès du Gouvernement de la République Italienne, qui notifiera à chaque signataire et à l'Etat adhérant la date du dépôt dont il s'agit. La présente Convention entrera en vigueur, au regard de tout Etat au nom duquel un instrument d'adhésion sera déposé, trente jours après la date du dépôt de cet instrument.
 
-Deze Overeenkomst zal worden bekrachtigd, en de akten van bekrachtiging zullen zo spoedig mogelijk worden nedergelegd bij de Regering van de Italiaanse Republiek, die elk der ondertekenende Regeringen van de datum van deze nederleggingen in kennis zal stellen.
+##### Article 11
 
-Deze Overeenkomst zal in werking treden dertig dagen nadat de akten van bekrachtiging van vier ondertekenende Staten zijn nedergelegd. Voor elk der andere ondertekenende Staten zal zij in werking treden dertig dagen nadat deze hun akte van bekrachtiging hebben nedergelegd.
+La présente Convention pourra être dénoncée par chaque Partie Contractante après l'expiration d'un délai de trois ans à partir de la date de son entrée en vigueur.
 
-Na de inwerkingtreding staat deze Overeenkomst voor iedere Staat ter toetreding open. De toetreding wordt van kracht wanneer de akte van toetreding is nedergelegd bij de Regering van de Italiaanse Republiek, die iedere ondertekenende en toetredende Staat van de datum waarop de betreffende akte is nedergelegd, in kennis stelt. Deze Overeenkomst zal, voor de Staat in wiens naam een akte van toetreding zal worden nedergelegd, in werking treden dertig dagen na de dag waarop deze akte wordt nedergelegd.
+La dénonciation de la Convention par une Partie Contractante se fera par notification écrite adressée par cette Partie au Gouvernement de la République Italienne, qui informera toutes les autres Parties Contractantes de cette notification et de la date de sa réception.
 
-##### Artikel 11
-
-Deze Overeenkomst kan door iedere Overeenkomstsluitende Partij na afloop van een termijn van drie jaren na de dag van haar inwerkingtreding worden opgezegd.
-
-De opzegging van de Overeenkomst door een Overeenkomstsluitende Partij geschiedt bij schriftelijke kennisgeving, door deze Partij gericht tot de Regering van de Italiaanse Republiek, die aan alle andere Overeenkomstsluitende Partijen van deze kennisgeving en van de datum van ontvangst daarvan mededeling doet.
-
-De opzegging gaat in één jaar na ontvangst van de kennisgeving door de Regering van de Italiaanse Republiek. Na afloop van deze termijn van één jaar, is de Overeenkomst voor de Partij die de Overeenkomst heeft opgezegd niet langer van kracht, maar zij blijft van kracht tussen de andere Overeenkomstsluitende Partijen.
+La dénonciation aura effet un an après réception de sa notification par le Gouvernement de la République Italienne. Après l'expiration de cette période d'un an, la Convention cessera d'être en vigueur pour la Partie qui l'aura dénoncée, mais restera en vigueur entre les autres Parties Contractantes.
 
 EN FOI DE QUOI les soussignés, dûment autorisés par leur Gouvernement respectif, ont signé la présente Convention.
 

@@ -1,42 +1,35 @@
 ---
 title: "Protocol 3, gehecht aan de Universele Auteursrecht-Conventie, inzake voorwaardelijke bekrachtiging, aanvaarding of toetreding"
 identifier: "BWBV0005289"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-03-22"
-last_updated: "1967-03-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005289"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004550863"
-version_id: "10004774972"
-internal_id: "C10007259941"
-label_id: "10004535304"
-dtd_version: "2.0"
-original_entry_into_force: "1967-03-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005289/1967-03-22/0"
-intitule_bron: "Trb.1955-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1955-04-26"
-intitule_in_force: "1967-12-28"
-intitule_status: "goed"
-original_publication: "Trb.1955-46"
-original_published_date: "1955-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-46"
-entry_into_force_date: "1967-03-22"
-jci_1_3: "jci1.3:c:BWBV0005289&z=1967-03-22&g=1967-03-22"
-jci_1_0: "1.0:c:BWBV0005289&g=1967-03-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-03-22"
+publicatiedatum: 1967-03-22
+laatste_update: 1967-03-22
+status: geldig
+toestand: 1967-03-22
+bron: "https://wetten.overheid.nl/BWBV0005289"
+opgehaald: 2026-09-15
 ---
+
 # Protocol 3, gehecht aan de Universele Auteursrecht-Conventie, inzake voorwaardelijke bekrachtiging, aanvaarding of toetreding
 
-De Staten, die partij zijn bij dit Protocol,
+*States parties hereto, Recognizing that the application of the Universal Copyright Convention (hereinafter referred to as the “Convention”) to States participating in all the international copyright systems already in force will contribute greatly to the value of the Convention; Have agreed as follows:*
 
-Overwegende, dat de toepassing van de [Universele Auteursrecht-Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0005162) (hierna te noemen de „Conventie”) op de Staten, die bij de verschillende bestaande stelsels van internationale auteursrechtbescherming partij zijn, de waarde dier Conventie belangrijk zou verhogen,
+- 1. Any State party hereto may, on depositing its instrument of ratification or acceptance of or accession to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162), notify the Director-General of the United Nations Educational, Scientific and Cultural Organization (hereinafter referred to as “Director-General”) that that instrument shall not take effect for the purposes of [Article IX of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162&artikel=IX) until any other State named in such notification shall have deposited its instrument.
 
-Zijn het volgende overeengekomen:
+- 2. The notification referred to in paragraph 1 above shall accompany the instrument to which it relates.
+
+- 3. The Director-General shall inform all States signatory or which have then acceded to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162) of any notifications received in accordance with this Protocol.
+
+- 4. This Protocol shall bear the same date and shall remain open for signature for the same period as the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162).
+
+- 5. It shall be subject to ratification or acceptance by the signatory States. Any State which has not signed this Protocol may accede thereto.
+
+- 6.
+
+   - a) Ratification or acceptance or accession shall be effected by the deposit of an instrument to that effect with the Director-General.
+
+   - b) This Protocol shall enter into force on the date of deposit of not less than four instruments of ratification or acceptance or accession. The Director-General shall inform all interested States of this date. Instruments deposited after such date shall take effect on the date of their deposit.
 
 IN FAITH WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

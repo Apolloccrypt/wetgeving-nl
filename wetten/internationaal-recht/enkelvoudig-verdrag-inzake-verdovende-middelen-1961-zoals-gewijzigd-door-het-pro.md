@@ -4,11 +4,11 @@ identifier: "BWBV0001004"
 categorie: "Internationaal recht"
 soort: "verdrag"
 publicatiedatum: 1987-06-28
-laatste_update: 2025-06-09
+laatste_update: 2026-05-29
 status: geldig
-toestand: 2025-06-09
+toestand: 2026-05-29
 bron: "https://wetten.overheid.nl/BWBV0001004"
-opgehaald: 2026-09-11
+opgehaald: 2026-09-15
 ---
 
 # Enkelvoudig Verdrag inzake verdovende middelen, 1961, zoals gewijzigd door het Protocol tot wijziging van het Enkelvoudige Verdrag inzake verdovende middelen, 1961

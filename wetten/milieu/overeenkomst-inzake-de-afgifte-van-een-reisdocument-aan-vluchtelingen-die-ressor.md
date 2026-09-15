@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen die ressorteren onder het Intergouvernementele Comité voor vluchtelingen"
 identifier: "BWBV0005693"
-country: "nl"
-rank: "verdrag"
-publication_date: "1947-01-13"
-last_updated: "1947-01-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005693"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004815853"
-version_id: "10005120032"
-internal_id: "C10007782361"
-label_id: "10004799824"
-dtd_version: "2.0"
-original_entry_into_force: "1947-01-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005693/1947-01-13/0"
-intitule_bron: "Trb.1952-36"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-03-11"
-intitule_in_force: "1952-03-11"
-intitule_status: "goed"
-original_publication: "Trb.1952-36"
-original_published_date: "1952-03-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-36"
-entry_into_force_date: "1947-01-13"
-jci_1_3: "jci1.3:c:BWBV0005693&z=1947-01-13&g=1947-01-13"
-jci_1_0: "1.0:c:BWBV0005693&g=1947-01-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1947-01-13"
+publicatiedatum: 1947-01-13
+laatste_update: 1947-01-13
+status: geldig
+toestand: 1947-01-13
+bron: "https://wetten.overheid.nl/BWBV0005693"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen die ressorteren onder het Intergouvernementele Comité voor vluchtelingen
 
-The Contracting Governments,
-
-Having examined a Resolution adopted by the Intergovernmental Committee on Refugees at its Plenary Session on 17th August, 1944, relating to the establishment of an identity and travel document for refugees who are the concern of the Intergovernmental Committee on Refugees,
-
-Having regard to the international measures previously taken in the matter of travel documents for certain categories of refugees,
-
-Convinced of the necessity of taking similar measures on behalf of the refugees referred to in the above-mentioned Resolution, with a view, in particular, to facilitating the movement of these refugees,
-
-Considering that the making of arrangements for the emigration of refugees who cannot be absorbed in the countries in which they have taken refuge is an essential part of the work undertaken for the benefit of the said refugees,
-
-Have agreed as follows:
+*The Contracting Governments, Having examined a Resolution adopted by the Intergovernmental Committee on Refugees at its Plenary Session on 17th August, 1944, relating to the establishment of an identity and travel document for refugees who are the concern of the Intergovernmental Committee on Refugees, Having regard to the international measures previously taken in the matter of travel documents for certain categories of refugees, Convinced of the necessity of taking similar measures on behalf of the refugees referred to in the above-mentioned Resolution, with a view, in particular, to facilitating the movement of these refugees, Considering that the making of arrangements for the emigration of refugees who cannot be absorbed in the countries in which they have taken refuge is an essential part of the work undertaken for the benefit of the said refugees, Have agreed as follows:*
 
 ##### Article 1
 

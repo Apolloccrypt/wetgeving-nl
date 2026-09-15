@@ -1,80 +1,47 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland"
 identifier: "BWBV0005699"
-country: "nl"
-rank: "verdrag"
-publication_date: "2012-06-01"
-last_updated: "2012-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005699"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004817673"
-version_id: "10005122322"
-internal_id: "C10007924581"
-label_id: "10004801564"
-dtd_version: "2.0"
-original_entry_into_force: "2012-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005699/2012-06-01/0"
-intitule_bron: "Trb.2012-73"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-04-19"
-intitule_in_force: "2012-06-21"
-intitule_status: "goed"
-original_publication: "Trb.2012-73"
-original_published_date: "2012-04-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-73"
-entry_into_force_date: "2012-06-01"
-jci_1_3: "jci1.3:c:BWBV0005699&z=2012-06-01&g=2012-06-01"
-jci_1_0: "1.0:c:BWBV0005699&g=2012-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2012-06-01"
+publicatiedatum: 2012-06-01
+laatste_update: 2012-06-01
+status: geldig
+toestand: 2012-06-01
+bron: "https://wetten.overheid.nl/BWBV0005699"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Migratie inzake de juridische status, de privileges en immuniteiten van de Organisatie en haar medewerkers in Nederland
 
-The Kingdom of the Netherlands,
-
-and
-
-The International Organization for Migration, hereinafter called the Organization,
-
-Recalling the [Agreement between the Kingdom of the Netherlands and the International Organization for Migration on the Legal Status, the Privileges and Immunities of the Organization in the Netherlands](https://wetten.overheid.nl/jci1.3:c:BWBV0002918) concluded on 1 May 1990,
-
-Considering that the Kingdom of the Netherlands is a founding member of the Organization,
-
-Desirous of further strengthening and developing the friendly relations and cooperation between the Kingdom of the Netherlands and the Organization,
-
-Considering that the purpose and functions of the Organization and the activities carried out by the Organization and its staff warrant the granting in the Kingdom of the Netherlands to the Organization and its staff of privileges and immunities substantially identical to those accorded to other intergovernmental organizations in the Netherlands and their staff,
-
-Have agreed as follows:
+*The Kingdom of the Netherlands, and The International Organization for Migration, hereinafter called the Organization, Recalling the Agreement between the Kingdom of the Netherlands and the International Organization for Migration on the Legal Status, the Privileges and Immunities of the Organization in the Netherlands concluded on 1 May 1990, Considering that the Kingdom of the Netherlands is a founding member of the Organization, Desirous of further strengthening and developing the friendly relations and cooperation between the Kingdom of the Netherlands and the Organization, Considering that the purpose and functions of the Organization and the activities carried out by the Organization and its staff warrant the granting in the Kingdom of the Netherlands to the Organization and its staff of privileges and immunities substantially identical to those accorded to other intergovernmental organizations in the Netherlands and their staff, Have agreed as follows:*
 
 ##### Article 1. Definitions
 
 In this Agreement:
 
-- a). „Constitution” means the [Constitution of the International Organization for Migration](https://wetten.overheid.nl/jci1.3:c:BWBV0004992);
+- a) „Constitution” means the [Constitution of the International Organization for Migration](https://wetten.overheid.nl/jci1.3:c:BWBV0004992);
 
-- b). „Organization” means the International Organization for Migration;
+- b) „Organization” means the International Organization for Migration;
 
-- c). „Chief of Mission” means the Chief of Mission of the Organization in the Netherlands;
+- c) „Chief of Mission” means the Chief of Mission of the Organization in the Netherlands;
 
-- d). „staff member” means any person appointed or recruited for employment with the Organization in the Netherlands to carry out its official activities and subject to IOM staff regulations and rules, except those who are locally recruited and remunerated on an hourly basis;
+- d) „staff member” means any person appointed or recruited for employment with the Organization in the Netherlands to carry out its official activities and subject to IOM staff regulations and rules, except those who are locally recruited and remunerated on an hourly basis;
 
-- e). „members of the family forming part of a Staff member’s household” has the meaning specified in [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=11&z=2012-06-01&g=2012-06-01) of this Agreement;
+- e) „members of the family forming part of a Staff member’s household” has the meaning specified in [Article 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005699&artikel=11&z=2012-06-01&g=2012-06-01) of this Agreement;
 
-- f). „Office of the Organization” means the Office of the International Organization for Migration in the Netherlands;
+- f) „Office of the Organization” means the Office of the International Organization for Migration in the Netherlands;
 
-- g). „premises” means the buildings, parts of buildings and land or facilities ancillary thereto, including installations and facilities made available to, or maintained, occupied or used by, the Organization in the Netherlands for the performance of its official activities;
+- g) „premises” means the buildings, parts of buildings and land or facilities ancillary thereto, including installations and facilities made available to, or maintained, occupied or used by, the Organization in the Netherlands for the performance of its official activities;
 
-- h). „archives of the Organization” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings and any other material belonging to or held by the Organization or any of its staff members in an official function;
+- h) „archives of the Organization” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings and any other material belonging to or held by the Organization or any of its staff members in an official function;
 
-- i). „host State” means the Kingdom of the Netherlands;
+- i) „host State” means the Kingdom of the Netherlands;
 
-- j). „Government” means the Government of the Kingdom of the Netherlands;
+- j) „Government” means the Government of the Kingdom of the Netherlands;
 
-- k). „the competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
+- k) „the competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State;
 
-- l). „The Vienna Convention” means the [Vienna Convention on Diplomatic Relations of 18 April 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- l) „The Vienna Convention” means the [Vienna Convention on Diplomatic Relations of 18 April 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 ##### Article 2. Legal personality
 
@@ -128,25 +95,25 @@ c). To the extent necessary to carry out the functions of the Organization, fund
 
 2. Within the scope of its official activities, the Organization shall be exempt from:
 
-- a). motor vehicle tax (**motorrijtuigenbelasting**);
+- a) motor vehicle tax (*motorrijtuigenbelasting*);
 
-- b). tax on passenger motor vehicles and motorcycles (**BPM**);
+- b) tax on passenger motor vehicles and motorcycles (*BPM*);
 
-- c). value-added tax paid on all goods and services supplied on a recurring basis or involving considerable expenditure (**omzetbelasting**);
+- c) value-added tax paid on all goods and services supplied on a recurring basis or involving considerable expenditure (*omzetbelasting*);
 
-- d). excise duty (**accijns**) included in the price of alcoholic beverages and hydrocarbons;
+- d) excise duty (*accijns*) included in the price of alcoholic beverages and hydrocarbons;
 
-- e). import and export taxes and duties (**belastingen bij invoer en uitvoer**);
+- e) import and export taxes and duties (*belastingen bij invoer en uitvoer*);
 
-- f). insurance tax (**assurantiebelasting**);
+- f) insurance tax (*assurantiebelasting*);
 
-- g). real property transfer tax (**overdrachtsbelasting**);
+- g) real property transfer tax (*overdrachtsbelasting*);
 
-- h). any other taxes and duties of a substantially similar character to the taxes and duties provided for in this paragraph, imposed by the host State subsequent to the date of signature of this Agreement.
+- h) any other taxes and duties of a substantially similar character to the taxes and duties provided for in this paragraph, imposed by the host State subsequent to the date of signature of this Agreement.
 
 3. The value added tax paid in respect of goods supplied or services rendered to the Organization shall be refunded to the Organization on application.
 
-4. The tax on hydrocarbons such as fuel oil and motor fuels which the Organization requires for official purposes shall be refunded to the Agency on application. The Organization shall be exempted in advance from excise duties on goods supplied and required for official purposes, purchased from a “**accijnsgoederenplaats**”, if a permit thereto is acquired from the national tax Authority.
+4. The tax on hydrocarbons such as fuel oil and motor fuels which the Organization requires for official purposes shall be refunded to the Agency on application. The Organization shall be exempted in advance from excise duties on goods supplied and required for official purposes, purchased from a “*accijnsgoederenplaats*”, if a permit thereto is acquired from the national tax Authority.
 
 5. The Organization shall submit applications for reimbursement within three months after the quarter during which payment was made for goods supplied or services rendered and shall send the relevant documents together with the applications.
 
@@ -166,35 +133,35 @@ The Organization may receive and hold any kind of funds, currency, cash or secur
 
 1. The staff members of the Organization shall enjoy such privileges, immunities and facilities as are necessary for the independent performance of their functions.They shall be accorded:
 
-- a). immunity from personal arrest or detention or any other restriction of their liberty, and from seizure of their personal baggage;
+- a) immunity from personal arrest or detention or any other restriction of their liberty, and from seizure of their personal baggage;
 
-- b). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity;
+- b) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in their official capacity;
 
-- c). inviolability of all official papers, documents in whatever form and materials;
+- c) inviolability of all official papers, documents in whatever form and materials;
 
-- d). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Organization;
+- d) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Organization;
 
-- e). exemption from national service obligations;
+- e) exemption from national service obligations;
 
-- f). together with members of their family forming part of their household, exemption from immigration restrictions or alien registration;
+- f) together with members of their family forming part of their household, exemption from immigration restrictions or alien registration;
 
-- g). exemption from inspection of their personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the staff member concerned;
+- g) exemption from inspection of their personal baggage, unless there are serious grounds for believing that the baggage contains articles the import or export of which is prohibited by the law or controlled by the quarantine regulations of the host State; an inspection in such a case shall be conducted in the presence of the staff member concerned;
 
-- h). the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
+- h) the same privileges in respect of currency and exchange facilities as are accorded to the officials of comparable rank of diplomatic missions established in the host State;
 
-- i). together with members of their family forming part of their household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- i) together with members of their family forming part of their household, the same repatriation facilities in time of international crisis as are accorded to diplomatic agents under the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- j). within the existing legal framework, the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of permanent residence.
+- j) within the existing legal framework, the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State, and to re-export their furniture and effects free of duties and taxes to their country of permanent residence.
 
 2. In addition to the privileges and immunities specified in paragraph 1 of this Article:
 
-- a). The Chief of Mission, together with members of the family forming part of the household who are not nationals or permanent residents of the host State, shall enjoy the same privileges and immunities as the host State accords to heads of diplomatic missions accredited to the host State in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
+- a) The Chief of Mission, together with members of the family forming part of the household who are not nationals or permanent residents of the host State, shall enjoy the same privileges and immunities as the host State accords to heads of diplomatic missions accredited to the host State in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345);
 
-- b). The highest ranking staff, together with members of their family forming part of their household who are not nationals or permanent residents of the host State, shall be accorded the same privileges, immunities and facilities as the host State accords to diplomatic agents of comparable rank of the diplomatic missions established in the host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), provided that the immunity from criminal jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official duties;
+- b) The highest ranking staff, together with members of their family forming part of their household who are not nationals or permanent residents of the host State, shall be accorded the same privileges, immunities and facilities as the host State accords to diplomatic agents of comparable rank of the diplomatic missions established in the host State in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), provided that the immunity from criminal jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official duties;
 
-- c). Administrative and technical staff shall be accorded the same privileges, immunities and facilities as the host State accords to members of the administrative and technical staff of diplomatic missions established in the host State, in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), provided that the immunity from criminal jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official duties;
+- c) Administrative and technical staff shall be accorded the same privileges, immunities and facilities as the host State accords to members of the administrative and technical staff of diplomatic missions established in the host State, in conformity with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345), provided that the immunity from criminal jurisdiction and personal inviolability shall not extend to acts performed outside the course of their official duties;
 
-- d). Service staff of the Organization shall enjoy the same privileges and immunities as the host State accords to service staff of the diplomatic missions established in the host State in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
+- d) Service staff of the Organization shall enjoy the same privileges and immunities as the host State accords to service staff of the diplomatic missions established in the host State in accordance with the [Vienna Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 3. The host State shall, in consultation with the Organization, determine which categories of personnel will be covered by each of the four groups referred to in paragraph 2 of this Article.
 
@@ -202,13 +169,13 @@ The Organization may receive and hold any kind of funds, currency, cash or secur
 
 5. Persons referred to in this Article who are nationals or permanent residents of the host State shall enjoy only the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions:
 
-- a). immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions for the Organization;
+- a) immunity from legal process of every kind in respect of words spoken or written and all acts performed by them in the performance of their functions for the Organization;
 
-- b). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Organization;
+- b) inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Organization;
 
-- c). exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Organization.
+- c) exemption from taxation on salaries, emoluments and allowances paid to them in respect of their employment with the Organization.
 
-- d). within the existing legal framework, the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
+- d) within the existing legal framework, the right to import free of duties and taxes, except payments for services, their furniture and effects at the time of first taking up their post in the host State.
 
 6. Immunity from jurisdiction shall not apply in the case of a civil action brought by a third party for damage resulting from a motor traffic offence.
 
@@ -218,15 +185,15 @@ The Organization may receive and hold any kind of funds, currency, cash or secur
 
 The following persons shall be considered members of the family forming part of the household of a staff member of the Organization:
 
-- a). the spouses or registered partners of staff members of the Organization;
+- a) the spouses or registered partners of staff members of the Organization;
 
-- b). children of staff members of the Organization who are under the age of 18;
+- b) children of staff members of the Organization who are under the age of 18;
 
-- c). children of the staff members of the Organization aged 18 or over, but not older than 27, provided that they formed part of the household prior to their first entry into the host State and still form part of this household, and that they are unmarried, financially dependent on the staff member of the Organization and are attending fulltime education in the host State;
+- c) children of the staff members of the Organization aged 18 or over, but not older than 27, provided that they formed part of the household prior to their first entry into the host State and still form part of this household, and that they are unmarried, financially dependent on the staff member of the Organization and are attending fulltime education in the host State;
 
-- d). children of staff members of the Organization who are aged 18 or over, but not older than 23, shall also be recognised as members of the family forming part of the household if they are not studying, as long as they are unmarried and financially dependent on the staff member of the Organization;
+- d) children of staff members of the Organization who are aged 18 or over, but not older than 23, shall also be recognised as members of the family forming part of the household if they are not studying, as long as they are unmarried and financially dependent on the staff member of the Organization;
 
-- e). any other persons who, in exceptional cases or for humanitarian reasons, the Organization and the host State agree to treat as members of the family forming part of the household.
+- e) any other persons who, in exceptional cases or for humanitarian reasons, the Organization and the host State agree to treat as members of the family forming part of the household.
 
 ##### Article 12. Employment of family members forming part of the household
 
@@ -242,11 +209,11 @@ The following persons shall be considered members of the family forming part of 
 
 1. The Organization shall promptly notify the Government of:
 
-- a). the appointment of the Chief of Mission, the Deputy Chief of Mission and other staff members of the Organization, their arrival and their final departure, or the termination of their functions with the Organization;
+- a) the appointment of the Chief of Mission, the Deputy Chief of Mission and other staff members of the Organization, their arrival and their final departure, or the termination of their functions with the Organization;
 
-- b). the arrival and final departure of members of the families forming part of the households of the persons referred to in subparagraph 1(a) of this Article and, where appropriate, the fact that a person has ceased to form part of the household.
+- b) the arrival and final departure of members of the families forming part of the households of the persons referred to in subparagraph 1(a) of this Article and, where appropriate, the fact that a person has ceased to form part of the household.
 
-- c). The arrival and final departure of private or domestic servants of persons referred to in subparagraph 1(a) of this Article and, where appropriate, the fact that they are leaving the employment of such person.
+- c) The arrival and final departure of private or domestic servants of persons referred to in subparagraph 1(a) of this Article and, where appropriate, the fact that they are leaving the employment of such person.
 
 2. The Government shall - in accordance with the policy of the Ministry - issue to the Chief of Mission, the Deputy Chief of Mission and other staff members of the Organization and members of their families who form part of their household and to private or domestic servants an identity card bearing the photograph of the holder. This card shall serve to identify the holder in relation to all authorities of the Kingdom of the Netherlands.
 
@@ -314,13 +281,13 @@ The Organization shall submit to an international arbitration tribunal any dispu
 
 DONE at The Hague on 28 March 2012 in two originals in the English language, each text being equally authentic.
 
-**For the Kingdom of the Netherlands:**
+*For the Kingdom of the Netherlands:*
 
 E. KRONENBURG
 
 Secretary General of the Ministry of Foreign Affairs
 
-**For the International Organization for Migration:**
+*For the International Organization for Migration:*
 
 L. THOMPSON
 

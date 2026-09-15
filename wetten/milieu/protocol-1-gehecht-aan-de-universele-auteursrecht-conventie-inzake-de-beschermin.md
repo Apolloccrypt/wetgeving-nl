@@ -1,40 +1,27 @@
 ---
 title: "Protocol 1 gehecht aan de Universele Auteursrecht-Conventie, inzake de bescherming van werken van staatlozen en vluchtelingen"
 identifier: "BWBV0005287"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-06-22"
-last_updated: "1967-06-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005287"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004550683"
-version_id: "10004774792"
-internal_id: "C10007268361"
-label_id: "10004535124"
-dtd_version: "2.0"
-original_entry_into_force: "1967-06-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005287/1967-06-22/0"
-intitule_bron: "Trb.1955-46"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1955-04-26"
-intitule_in_force: "1967-12-28"
-intitule_status: "goed"
-original_publication: "Trb.1955-46"
-original_published_date: "1955-04-26"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-46"
-entry_into_force_date: "1967-06-22"
-jci_1_3: "jci1.3:c:BWBV0005287&z=1967-06-22&g=1967-06-22"
-jci_1_0: "1.0:c:BWBV0005287&g=1967-06-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1967-06-22"
+publicatiedatum: 1967-06-22
+laatste_update: 1967-06-22
+status: geldig
+toestand: 1967-06-22
+bron: "https://wetten.overheid.nl/BWBV0005287"
+opgehaald: 2026-09-15
 ---
+
 # Protocol 1 gehecht aan de Universele Auteursrecht-Conventie, inzake de bescherming van werken van staatlozen en vluchtelingen
 
-De Staten, die partij zijn bij de [Universele Auteursrecht-Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0005162) (hierna te noemen de „Conventie”) en ook partij zijn bij dit Protocol,
+*The States parties hereto, being also parties to the Universal Copyright Convention (hereinafter referred to as the “Convention”), Have accepted the following provisions:*
 
-Zijn het volgende overeengekomen:
+- 1. Stateless persons and refugees who have their habitual residence in a State party to this Protocol shall, for the purposes of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162), be assimilated to the nationals of that State.
+
+- 2.
+
+   - a) This Protocol shall be signed and shall be subject to ratification or acceptance, or may be acceded to, as if the provisions of [article VIII of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162&artikel=VIII) applied hereto.
+
+   - b) This Protocol shall enter into force in respect of each State, on the date of deposit of the instrument of ratification, acceptance or accession of the State concerned or on the date of entry into force of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005162) with respect to such State, whichever is the later.
 
 IN FAITH WHEREOF the undersigned, being duly authorised thereto, have signed this Protocol.
 

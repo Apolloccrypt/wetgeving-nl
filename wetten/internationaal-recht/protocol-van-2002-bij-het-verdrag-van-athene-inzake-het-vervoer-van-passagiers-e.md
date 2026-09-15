@@ -1,258 +1,231 @@
 ---
 title: "Protocol van 2002 bij het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974"
 identifier: "BWBV0005350"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-04-23"
-last_updated: "2014-04-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005350"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004581003"
-version_id: "10004813462"
-internal_id: "C10008326861"
-label_id: "10004565974"
-dtd_version: "2.0"
-original_entry_into_force: "2014-04-23"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005350/2014-04-23/0"
-intitule_bron: "Trb.2011-110"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-06-24"
-intitule_in_force: "2013-05-30"
-intitule_status: "goed"
-original_publication: "Trb.2011-110"
-original_published_date: "2011-06-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-110"
-entry_into_force_date: "2014-04-23"
-jci_1_3: "jci1.3:c:BWBV0005350&z=2014-04-23&g=2014-04-23"
-jci_1_0: "1.0:c:BWBV0005350&g=2014-04-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-04-23"
+publicatiedatum: 2014-04-23
+laatste_update: 2014-04-23
+status: geldig
+toestand: 2014-04-23
+bron: "https://wetten.overheid.nl/BWBV0005350"
+opgehaald: 2026-09-15
 ---
+
 # Protocol van 2002 bij het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974
 
-De staten die partij zijn bij dit Protocol,
+*The States Parties to this Protocol, Considering that it is desirable to revise the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, done at Athens on 13 December 1974, to provide for enhanced compensation, to introduce strict liability, to establish a simplified procedure for updating the limitation amounts, and to ensure compulsory insurance for the benefit of passengers, Recalling that the 1976 Protocol to the Convention introduces the Special Drawing Right as the Unit of Account in place of the gold franc, Having noted that the 1990 Protocol to the Convention, which provides for enhanced compensation and a simplified procedure for updating the limitation amounts, has not entered into force, Have agreed as follows:*
 
-Overwegend dat het wenselijk is het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, gedaan te Athene op 13 december 1974, te herzien, teneinde te kunnen voorzien in een betere schadeloosstelling, risicoaansprakelijkheid in te voeren, een vereenvoudigde procedure vast te stellen voor de actualisering van de aansprakelijkheidsbedragen, en ten behoeve van de passagiers in een verplichte verzekering te voorzien,
+##### Article 1
 
-Eraan herinnerend dat in het Protocol van 1976 bij het Verdrag het Bijzondere Trekkingsrecht als rekeneenheid wordt geïntroduceerd ter vervanging van de goudfrank,
+For the purposes of this Protocol:
 
-Gelet op het feit dat het Protocol van 1990 bij het Verdrag, dat voorziet in een betere schadeloosstelling en een vereenvoudigde procedure voor de actualisering van de aansprakelijkheidsbedragen, niet in werking is getreden,
+- 1. “Convention” means the text of the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 1974.
 
-Zijn het volgende overeengekomen:
+- 2. “Organization” means the International Maritime Organization.
 
-##### Artikel 1
+- 3. “Secretary-General” means the Secretary-General of the Organization.
 
-Voor de toepassing van dit Protocol wordt verstaan onder:
+##### Article 2
 
-- 1. „Verdrag”, de tekst van het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-- 2. „Organisatie”, de Internationale Maritieme Organisatie.
+##### Article 3
 
-- 3. „Secretaris-Generaal”, de Secretaris-Generaal van de Organisatie.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 2
+##### Article 4
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 3
+##### Article 5
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
-
-##### Artikel 4
-
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
-
-##### Artikel 5
-
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
 ##### Article 6
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 7
+##### Article 7
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 8
+##### Article 8
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 9
+##### Article 9
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 10
+##### Article 10
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 11
+##### Article 11
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 12
+##### Article 12
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 13
+##### Article 13
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 14
+##### Article 14
 
-1. Het als bijlage bij dit Protocol gevoegde modelcertificaat wordt als bijlage bij het Verdrag opgenomen.
+1. The model certificate set out in the [annex](https://wetten.overheid.nl/BWBV0005350) to this Protocol shall be incorporated as an annex to the Convention.
 
-2. Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+2. *Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-##### Artikel 15. Interpretatie en toepassing
+##### Article 15. Interpretation and application
 
-1. Het Verdrag en dit Protocol dienen, tussen de partijen bij dit Protocol, tezamen te worden gelezen en geïnterpreteerd als een enkel instrument.
+1. The Convention and this Protocol shall, as between the Parties to this Protocol, be read and interpreted together as one single instrument.
 
-2. Het Verdrag, zoals herzien bij dit Protocol, is enkel van toepassing op vorderingen naar aanleiding van gebeurtenissen die plaatsvinden nadat dit Protocol voor iedere staat in werking is getreden.
+2. The Convention as revised by this Protocol shall apply only to claims arising out of occurrences which take place after the entry into force for each State of this Protocol.
 
-3. De artikelen 1 tot en met 22 van het Verdrag zoals herzien bij dit Protocol, tezamen met de [artikelen 17 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=17&z=2014-04-23&g=2014-04-23) van dit Protocol en de Bijlage daarbij vormen tezamen het [Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002](https://wetten.overheid.nl/jci1.3:c:BWBV0005349), en worden als zodanig aangeduid.
+3. Articles 1 to 22 of the Convention, as revised by this Protocol, together with [Articles 17 to 25](https://wetten.overheid.nl/BWBV0005350) of this Protocol and the [annex](https://wetten.overheid.nl/BWBV0005350) thereto, shall constitute and be called the [Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, 2002](https://wetten.overheid.nl/jci1.3:c:BWBV0005349).
 
-##### Artikel 16
+##### Article 16
 
-Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.
+*Wijzigt het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974; Athene, 13 december 1974.*
 
-### SLOTBEPALINGEN
+### FINAL CLAUSES
 
-##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Article 17. Signature, ratification, acceptance, approval and accession
 
-1. Dit Protocol staat van 1 mei 2003 tot en met 30 april 2004 open voor ondertekening op het hoofdkwartier van de Organisatie en blijft daarna open voor toetreding.
+1. This Protocol shall be open for signature at the Headquarters of the Organization from 1 May 2003 until 30 April 2004 and shall thereafter remain open for accession.
 
-2. Staten kunnen hun instemming door dit Protocol te worden gebonden tot uitdrukking brengen door:
+2. States may express their consent to be bound by this Protocol by:
 
-- a. ondertekening zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring; of
+- a) signature without reservation as to ratification, acceptance or approval; or
 
-- b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, gevolgd door bekrachtiging, aanvaarding of goedkeuring; of
+- b) signature subject to ratification, acceptance or approval followed by ratification, acceptance or approval; or
 
-- c. toetreding.
+- c) accession.
 
-3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
+3. Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
-4. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding die zijn nedergelegd nadat een wijziging van dit Protocol in werking is getreden ten aanzien van alle staten die partij zijn, of nadat alle maatregelen vereist voor de inwerkingtreding van de wijziging ten aanzien van die staten die partij zijn voltooid zijn, worden geacht van toepassing te zijn op dit Protocol, zoals gewijzigd bij bedoelde wijziging.
+4. Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to this Protocol with respect to all existing States Parties, or after the completion of all measures required for the entry into force of the amendment with respect to those States Parties shall be deemed to apply to this Protocol as modified by the amendment.
 
-5. Een staat dient zijn instemming door dit Protocol te worden gebonden niet tot uitdrukking te brengen, tenzij hij, indien hij hierbij partij is, de volgende instrumenten opzegt:
+5. A State shall not express its consent to be bound by this Protocol unless, if Party thereto, it denounces:
 
-- a. het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, gedaan te Athene op 13 december 1974;
+- a) the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, done at Athens on 13 December 1974;
 
-- b. het Protocol bij het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, gedaan te Londen op 19 november 1976; en
+- b) the Protocol to the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, done at London on 19 November 1976; and
 
-- c. het Protocol van 1990 tot wijziging van het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, gedaan te Londen op 29 maart 1990,
+- c) the Protocol of 1990 to amend the Athens Convention relating to the Carriage of Passengers and their Luggage by Sea, done at London on 29 March 1990,
 
-met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt in overeenstemming met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2014-04-23&g=2014-04-23).
+with effect from the time that this Protocol will enter into force for that State in accordance with [Article 20](https://wetten.overheid.nl/BWBV0005350).
 
-##### Artikel 18. Staten met meer dan een rechtsstelsel
+##### Article 18. States with more than one system of law
 
-1. Indien een staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Protocol geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Protocol op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring in te dienen.
+1. If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Protocol, it may at the time of signature, ratification, acceptance, approval or accession declare that this Protocol shall extend to all its territorial units or only to one or more of them, and may modify this declaration by submitting another declaration at any time.
 
-2. Van elke verklaring wordt de Secretaris-Generaal in kennis gesteld en daarin worden uitdrukkelijk de territoriale eenheden vermeld waarop dit Protocol van toepassing is.
+2. Any such declaration shall be notified to the Secretary-General and shall state expressly the territorial units to which this Protocol applies.
 
-3. Met betrekking tot een staat die partij is die een dergelijke verklaring aflegt, geldt het volgende:
+3. In relation to a State Party which has made such a declaration:
 
-- a. verwijzingen naar de staat van registratie van een schip en, in het geval van een certificaat van verplichte verzekering, naar de staat van afgifte of waarmerking, worden uitgelegd als verwijzingen naar de territoriale eenheid waarin het schip is geregistreerd, respectievelijk waarin het certificaat wordt afgegeven of gewaarmerkt;
+- a) references to the State of a ship’s registry and, in relation to a compulsory insurance certificate, to the issuing or certifying State, shall be construed as referring to the territorial unit respectively in which the ship is registered and which issues or certifies the certificate;
 
-- b. verwijzingen naar de vereisten van het nationaal recht, de nationale aansprakelijkheidsgrens en de nationale munteenheid worden uitgelegd als verwijzingen naar respectievelijk de vereisten van het recht, de aansprakelijkheidsgrens en de munteenheid van de territoriale eenheid in kwestie; en
+- b) references to the requirements of national law, national limit of liability and national currency shall be construed respectively as references to the requirements of the law, the limit of liability and the currency of the relevant territorial unit; and
 
-- c. verwijzingen naar rechters, en naar uitspraken die in de Staten die Partij zijn dienen te worden erkend, worden uitgelegd als verwijzingen naar respectievelijk rechters van, en uitspraken die dienen te worden erkend in, de territoriale eenheid in kwestie.
+- c) references to courts, and to judgments which must be recognised in States Parties, shall be construed as references respectively to courts of, and to judgments which must be recognised in, the relevant territorial unit.
 
-##### Artikel 19. Organisaties voor regionale economische integratie
+##### Article 19. Regional Economic Integration Organizations
 
-1. Een organisatie voor regionale economische integratie samengesteld uit soevereine Staten die bevoegdheden inzake bepaalde aangelegenheden die door dit Protocol worden geregeld aan die organisatie hebben overgedragen, kan dit Protocol ondertekenen, bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden. Een organisatie voor regionale economische integratie die partij is bij dit Protocol heeft de rechten en verplichtingen van een staat die partij is, voor zover deze organisatie bevoegd is ten aanzien van aangelegenheden die door dit Protocol worden geregeld.
+1. A Regional Economic Integration Organization, which is constituted by sovereign States that have transferred competence over certain matters governed by this Protocol to that Organization, may sign, ratify, accept, approve or accede to this Protocol. A Regional Economic Integration Organization which is a Party to this Protocol shall have the rights and obligations of a State Party, to the extent that the Regional Economic Integration Organization has competence over matters governed by this Protocol.
 
-2. Indien een organisatie voor regionale economische integratie haar stemrecht uitoefent in aangelegenheden ten aanzien waarvan zij bevoegd is, krijgt zij een aantal stemmen dat gelijk is aan het aantal van haar lidstaten die partij zijn bij dit Protocol en die bevoegdheid ten aanzien van de aangelegenheid in kwestie aan haar hebben overgedragen. Een organisatie voor regionale economische integratie oefent haar stemrecht niet uit indien haar lidstaten hun stemrecht uitoefenen en vice versa.
+2. Where a Regional Economic Integration Organization exercises its right of vote in matters over which it has competence, it shall have a number of votes equal to the number of its Member States which are Parties to this Protocol and which have transferred competence to it over the matter in question. A Regional Economic Integration Organization shall not exercise its right to vote if its Member States exercise theirs, and vice versa.
 
-3. Indien het aantal staten die partij zijn relevant is in dit Protocol, met inbegrip van maar niet beperkt tot de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=20&z=2014-04-23&g=2014-04-23) en [23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23) van dit Protocol, telt de organisatie voor regionale economische integratie niet als een staat die partij is naast haar lidstaten die partij zijn.
+3. Where the number of States Parties is relevant in this Protocol, including but not limited to [Articles 20](https://wetten.overheid.nl/BWBV0005350) and [23](https://wetten.overheid.nl/BWBV0005350) of this Protocol, the Regional Economic Integration Organization shall not count as a State Party in addition to its Member States which are States Parties.
 
-4. Op het tijdstip van de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding legt de organisatie voor regionale economische integratie een verklaring af aan de Secretaris-Generaal ter aanduiding van de bij dit Protocol geregelde aangelegenheden ten aanzien waarvan bevoegdheden door haar lidstaten die ondertekenaar van of partij zijn bij dit Protocol zijn overgedragen aan die organisatie en van andere relevante beperkingen ten aanzien van de reikwijdte van die bevoegdheden. De organisatie voor regionale economische integratie stelt de Secretaris-Generaal onverwijld in kennis van veranderingen in de verdeling van bevoegdheden, met inbegrip van nieuwe overdrachten van bevoegdheden, als aangeduid in de in dit lid bedoelde verklaring. Dergelijke verklaringen worden, krachtens [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=24&z=2014-04-23&g=2014-04-23) van dit Protocol, door de Secretaris-Generaal ter beschikking gesteld.
+4. At the time of signature, ratification, acceptance, approval or accession the Regional Economic Integration Organization shall make a declaration to the Secretary-General specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organization by its Member States which are signatories or Parties to this Protocol and any other relevant restrictions as to the scope of that competence. The Regional Economic Integration Organization shall promptly notify the Secretary-General of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph. Any such declarations shall be made available by the Secretary-General pursuant to [Article 24](https://wetten.overheid.nl/BWBV0005350) of this Protocol.
 
-5. Staten die partij zijn en die lidstaat zijn van een organisatie voor regionale economische integratie die zelf partij is bij dit Protocol, worden geacht bevoegd te zijn ten aanzien van alle bij dit Protocol geregelde aangelegenheden ten aanzien waarvan de overdracht van bevoegdheden aan de organisatie niet uitdrukkelijk overeenkomstig het vierde lid zijn aangeduid of medegedeeld.
+5. States Parties which are Member States of a Regional Economic Integration Organization which is a Party to this Protocol shall be presumed to have competence over all matters governed by this Protocol in respect of which transfers of competence to the Organization have not been specifically declared or notified under paragraph 4.
 
-##### Artikel 20. Inwerkingtreding
+##### Article 20. Entry into force
 
-1. Dit Protocol treedt in werking twaalf maanden na de datum waarop tien staten het hebben ondertekend zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal.
+1. This Protocol shall enter into force twelve months following the date on which 10 States have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General.
 
-2. Voor iedere Staat die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat is voldaan aan de voorwaarden voor inwerkingtreding in het eerste lid, treedt dit Protocol in werking drie maanden na de datum van nederlegging door deze Staat van de desbetreffende akte, evenwel niet eerder dan de datum waarop dit Protocol in werking is getreden in overeenstemming met het eerste lid.
+2. For any State which ratifies, accepts, approves or accedes to this Protocol after the conditions in paragraph 1 for entry into force have been met, this Protocol shall enter into force three months after the date of deposit by such State of the appropriate instrument, but not before this Protocol has entered into force in agreement with paragraph 1.
 
-##### Artikel 21. Opzegging
+##### Article 21. Denunciation
 
-1. Dit Protocol kan te allen tijde worden opgezegd door een staat die partij is na de datum waarop het voor die staat in werking is getreden.
+1. This Protocol may be denounced by any State Party at any time after the date on which this Protocol comes into force for that State.
 
-2. Opzegging geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
+2. Denunciation shall be effected by the deposit of an instrument to that effect with the Secretary-General.
 
-3. Een opzegging wordt van kracht twaalf maanden na nederlegging van de akte van opzegging bij de Secretaris-Generaal of na een langere termijn wanneer zulks in die akte is bepaald.
+3. A denunciation shall take effect twelve months, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General.
 
-4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=25&z=2014-04-23&g=2014-04-23) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
+4. As between the States Parties to this Protocol, denunciation by any of them of the Convention in accordance with [Article 25](https://wetten.overheid.nl/BWBV0005350) thereof shall not be construed in any way as a denunciation of the Convention as revised by this Protocol.
 
-##### Artikel 22. Herziening en wijziging
+##### Article 22. Revision and Amendment
 
-1. De Organisatie kan een conferentie tot herziening of wijziging van dit Protocol bijeenroepen.
+1. A Conference for the purpose of revising or amending this Protocol may be convened by the Organization.
 
-2. De Organisatie roept een conferentie van de Partijen bij dit Protocol bijeen ter herziening of wijziging ervan, op verzoek van ten minste een derde van de Staten die Partij zijn.
+2. The Organization shall convene a Conference of States Parties to this Protocol for revising or amending this Protocol at the request of not less than one-third of the States Parties.
 
-##### Artikel 23. Wijziging van de aansprakelijkheidsgrenzen
+##### Article 23. Amendment of limits
 
-1. Onverminderd het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=22&z=2014-04-23&g=2014-04-23) is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in artikel 3, eerste lid, artikel 4**bis**, eerste lid, artikel 7, eerste lid en artikel 8 van het Verdrag zoals herzien bij dit Protocol.
+1. Without prejudice to the provisions of [Article 22](https://wetten.overheid.nl/BWBV0005350), the special procedure in this Article shall apply solely for the purposes of amending the limits set out in Article 3, paragraph 1, Article 4*bis*, paragraph 1, Article 7, paragraph 1 and Article 8 of the Convention as revised by this Protocol.
 
-2. Op verzoek van ten minste de helft, maar in geen geval minder dan zes van de staten die partij zijn bij dit Protocol wordt een voorstel tot wijziging van de aansprakelijkheidsgrenzen, met inbegrip van de aftrekbare bedragen, zoals aangeduid in artikel 3, eerste lid, artikel 4**bis**, eerste lid, artikel 7, eerste lid, en artikel 8 van het Verdrag zoals herzien bij dit Protocol, door de Secretaris-Generaal onder alle leden van de Organisatie en alle staten die partij zijn verspreid.
+2. Upon the request of at least one half, but in no case less than six, of the States Parties to this Protocol, any proposal to amend the limits, including the deductibles, specified in Article 3, paragraph 1, Article 4*bis*, paragraph 1, Article 7, paragraph 1, and Article 8 of the Convention as revised by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all States Parties.
 
-3. Elke ingevolge de bovenstaande procedure voorgestelde en verspreide wijziging wordt ter overweging voorgelegd aan de Juridische Commissie van de Organisatie (hierna te noemen „de Juridische Commissie”) op een datum ten minste zes maanden na de datum van toezending.
+3. Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization (hereinafter referred to as “the Legal Committee”) for consideration at a date at least six months after the date of its circulation.
 
-4. Alle staten die partij zijn bij het Verdrag zoals herzien bij dit Protocol, ongeacht of zij lid van de Organisatie zijn, zijn gerechtigd deel te nemen aan de werkzaamheden van de Juridische Commissie ter overweging en aanneming van wijzigingen.
+4. All States Parties to the Convention as revised by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
 
-5. Wijzigingen worden aangenomen met een meerderheid van twee derde van de staten die partij zijn bij het Verdrag zoals herzien bij dit Protocol die aanwezig zijn en hun stem uitbrengen in de Juridische Commissie, welke is uitgebreid zoals bepaald in het vierde lid, mits ten minste de helft van de staten die partij zijn bij het Verdrag zoals herzien bij dit Protocol aanwezig is op het tijdstip van de stemming.
+5. Amendments shall be adopted by a two-thirds majority of the States Parties to the Convention as revised by this Protocol present and voting in the Legal Committee expanded as provided for in paragraph 4, on condition that at least one half of the States Parties to the Convention as revised by this Protocol shall be present at the time of voting.
 
-6. Wanneer zij een voorstel tot wijziging van de aansprakelijkheidsgrenzen bespreekt, houdt de Juridische Commissie rekening met de ervaring opgedaan met incidenten en in het bijzonder met het bedrag van de daaruit voortvloeiende schade alsmede met wijzigingen in geldswaarden en met het effect van de voorgestelde wijziging op de verzekeringskosten.
+6. When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and, in particular, the amount of damage resulting therefrom, changes in the monetary values and the effect of the proposed amendment on the cost of insurance.
 
-- a. Geen enkele wijziging van de aansprakelijkheidsgrenzen ingevolge dit artikel mag in overweging worden genomen vóór het verstrijken van een termijn van vijf jaar te rekenen vanaf de datum waarop dit Protocol voor ondertekening werd opengesteld, noch vóór het verstrijken van een termijn van vijf jaar te rekenen vanaf de datum waarop een eerdere ingevolge dit artikel aangenomen wijziging van kracht is geworden.
+7. - a) No amendment of the limits under this Article may be considered less than five years from the date on which this Protocol was opened for signature nor less than five years from the date of entry into force of a previous amendment under this Article.
 
-- b. Geen enkele aansprakelijkheidsgrens mag worden verhoogd tot boven een bedrag dat overeenkomt met de grens die is vervat in het Verdrag zoals herzien bij dit Protocol, verhoogd met zes procent per jaar, berekend op samengestelde basis vanaf de datum waarop dit Protocol voor ondertekening werd opengesteld.
+- b) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the Convention as revised by this Protocol increased by six per cent per year calculated on a compound basis from the date on which this Protocol was opened for signature.
 
-- c. Geen enkele aansprakelijkheidsgrens mag zodanig worden verhoogd dat deze een bedrag overschrijdt dat overeenkomt met de grens vervat in het Verdrag zoals herzien bij dit Protocol vermenigvuldigd met drie.
+- c) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the Convention as revised by this Protocol multiplied by three.
 
-8. Elke wijziging aangenomen overeenkomstig het vijfde lid wordt door de Organisatie ter kennis gebracht van alle staten die partij zijn. De wijziging wordt geacht te zijn aanvaard aan het einde van een tijdvak van achttien maanden na de datum van kennisgeving, tenzij binnen dat tijdvak niet minder dan een vierde van de staten die partij waren op het tijdstip van aanneming van de wijziging de Secretaris-Generaal hebben medegedeeld dat zij de wijziging niet aanvaarden, in welk geval de wijziging is verworpen en niet van kracht wordt.
+8. Any amendment adopted in accordance with paragraph 5 shall be notified by the Organization to all States Parties. The amendment shall be deemed to have been accepted at the end of a period of eighteen months after the date of notification, unless within that period not less than one fourth of the States that were States Parties at the time of the adoption of the amendment have communicated to the Secretary-General that they do not accept the amendment, in which case the amendment is rejected and shall have no effect.
 
-9. Een wijziging die geacht wordt te zijn aanvaard overeenkomstig het achtste lid, treedt in werking achttien maanden na aanvaarding ervan.
+9. An amendment deemed to have been accepted in accordance with paragraph 8 shall enter into force eighteen months after its acceptance.
 
-10. Alle staten die partij zijn worden gebonden door de wijziging, tenzij zij ten minste zes maanden voordat de wijziging in werking treedt dit Protocol opzeggen overeenkomstig [artikel 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=21&z=2014-04-23&g=2014-04-23). Een dergelijke opzegging wordt van kracht wanneer de wijziging in werking treedt.
+10. All States Parties shall be bound by the amendment, unless they denounce this Protocol in accordance with [Article 21, paragraphs 1 and 2](https://wetten.overheid.nl/BWBV0005350) at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
 
-11. Wanneer een wijziging is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een staat die gedurende dat tijdvak partij wordt, door de wijziging gebonden indien deze in werking treedt. Een staat die na dat tijdvak Partij wordt, is gebonden door een wijziging die overeenkomstig het achtste lid is aanvaard. In de gevallen bedoeld in dit lid wordt een staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die staat in werking treedt, indien deze datum later valt.
+11. When an amendment has been adopted but the eighteen-month period for its acceptance has not yet expired, a State which becomes a State Party during that period shall be bound by the amendment if it enters into force. A State which becomes a State Party after that period shall be bound by an amendment which has been accepted in accordance with paragraph 8. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
 
-##### Artikel 24. Depositaris
+##### Article 24. Depositary
 
-1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
+1. This Protocol and any amendments adopted under [Article 23](https://wetten.overheid.nl/BWBV0005350) shall be deposited with the Secretary-General.
 
-2. De Secretaris-Generaal:
+2. The Secretary-General shall:
 
-- a. stelt alle staten die dit Protocol hebben ondertekend of ertoe zijn toegetreden in kennis van:
+- a) inform all States which have signed or acceded to this Protocol of:
 
-- i. iedere nieuwe ondertekening of nederlegging van een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede de datum ervan;
+   - (i) each new signature or deposit of an instrument of ratification, acceptance, approval or accession together with the date thereof;
 
-- ii. iedere verklaring en mededeling overeenkomstig artikel 9, tweede en derde lid, artikel 18, eerste lid, en artikel 19, vierde lid, van het Verdrag zoals herzien bij dit Protocol;
+   - (ii) each declaration and communication under Article 9, paragraphs 2 and 3, Article 18, paragraph 1 and Article 19, paragraph 4 of the Convention as revised by this Protocol;
 
-- iii. de datum van inwerkingtreding van dit Protocol;
+   - (iii) the date of entry into force of this Protocol;
 
-- iv. ieder voorstel tot wijziging van de aansprakelijkheidsgrenzen in overeenstemming met [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol;
+   - (iv) any proposal to amend the limits which has been made in accordance with [Article 23, paragraph 2](https://wetten.overheid.nl/BWBV0005350) of this Protocol;
 
-- v. iedere wijziging die is aangenomen overeenkomstig [artikel 23, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol;
+   - (v) any amendment which has been adopted in accordance with [Article 23, paragraph 5](https://wetten.overheid.nl/BWBV0005350) of this Protocol;
 
-- vi. iedere wijziging die ingevolge [artikel 23, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005350&artikel=23&z=2014-04-23&g=2014-04-23), van dit Protocol wordt geacht te zijn aanvaard, alsmede de datum waarop die wijziging in werking treedt overeenkomstig het negende en tiende lid van dat artikel;
+   - (vi) any amendment deemed to have been accepted under [Article 23, paragraph 8](https://wetten.overheid.nl/BWBV0005350) of this Protocol, together with the date on which that amendment shall enter into force in accordance with paragraphs 9 and 10 of that Article;
 
-- vii. de nederlegging van iedere akte van opzegging van dit Protocol, de datum van nederlegging en de datum waarop deze van kracht wordt;
+   - (vii) the deposit of any instrument of denunciation of this Protocol together with the date of the deposit and the date on which it takes effect;
 
-- viii. iedere mededeling die ingevolge een artikel van dit Protocol vereist is;
+   - (viii) any communication called for by any Article of this Protocol;
 
-- b. doet alle Staten die dit Protocol hebben ondertekend of ertoe zijn toegetreden voor eensluidend gewaarmerkte afschriften van dit Protocol toekomen.
+- b) transmit certified true copies of this protocol to all States which have signed or acceded to this Protocol.
 
-3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
+3. As soon as this Protocol comes into force, the text shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-##### Artikel 25. Talen
+##### Article 25. Languages
 
-Dit Protocol is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
+This Protocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 DONE at London this first day of November two thousand and two.
 

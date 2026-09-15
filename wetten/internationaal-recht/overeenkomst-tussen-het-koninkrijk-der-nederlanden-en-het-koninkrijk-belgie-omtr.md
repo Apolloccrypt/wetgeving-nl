@@ -1,58 +1,19 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België omtrent de grensscheiding tussen de beide Rijken in het Zwin"
 identifier: "BWBV0006025"
-country: "nl"
-rank: "verdrag"
-publication_date: "1869-08-31"
-last_updated: "1869-08-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006025"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004989863"
-version_id: "10005309472"
-internal_id: "C10008179331"
-label_id: "10004972844"
-dtd_version: "2.0"
-original_entry_into_force: "1869-08-31"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006025/1869-08-31/0"
-intitule_bron: "Stb.1869-150"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1869-09-04"
-intitule_published: "1869-09-14"
-intitule_in_force: "1869-09-14"
-intitule_status: "goed"
-original_publication: "Stb.1869-150"
-original_signed_date: "1869-09-04"
-original_published_date: "1869-09-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1869-08-31"
-jci_1_3: "jci1.3:c:BWBV0006025&z=1869-08-31&g=1869-08-31"
-jci_1_0: "1.0:c:BWBV0006025&g=1869-08-31"
-citeertitel_status: "redactioneel"
-signed_date: "1869-09-04"
-entry_into_force: "1869-08-31"
+publicatiedatum: 1869-08-31
+laatste_update: 1869-08-31
+status: geldig
+toestand: 1869-08-31
+bron: "https://wetten.overheid.nl/BWBV0006025"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België omtrent de grensscheiding tussen de beide Rijken in het Zwin
 
-Ten jare achttien honderd negen en zestig, den vijftienden van de maand Maart,
-
-tegenwoordig:
-
-de Commissarissen, benoemd krachtens besluit van Zijne Majesteit den Koning der Nederlanden van den 8sten September 1868, n°. 29, en het besluit van Zijne Majesteit den Koning der Belgen van den 1sten November 1868, om een voorstel te ontwerpen tot eene nieuwe regeling der grensscheiding tusschen Nederland en Belgie in het Zwin, wijl de scheidingslijn tusschen de beide koningrijken vastgesteld in het omschrijvend proces-verbaal, gehecht aan de grensovereenkomst, gesloten te Maastricht den 8sten Augustus 1843, en die geene andere is dan de Thalweg van het Zwin, door de toenemende verzanding van dien zeearm onherkenbaar geworden is:
-
-voor Nederland,
-
-de heeren JACOBUS MARIA HENNEQUIN, ridder der orde van de Eikenkroon en lid der Provinciale Staten van Zeeland, wonende te Sluis, en
-
-ABRAHAM STEIJAARD, gepensioneerd landmeter van het kadaster, wonende te Middelburg:
-
-voor Belgie,
-
-de heeren CHARLES BREYDEL DE BROCK, lid van den Provincialen Raad van West-Vlaanderen, en
-
-EUGENE PIENS, ingenieur der bruggen en wegen in het arrondissement Brugge, beiden wonende te Brugge.
-
-Die, na elkander hunne wederzijdsche geloofsbrieven te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, hebben nagezien en aan elkander conform bevonden de exemplaren in dubbeld van de zeven hiernevens gevoegde kaarten, opgemaakt op de schaal van één vijf en twintig honderdste en bevattende de gansche grensscheiding in het Zwin, en na zich overtuigd te hebben dat de scheidingslijn op volmaakt gelijke wijze gebragt is op de beide exemplaren van gemelde kaarten zoo als zij omschreven is in het tegenwoordig proces-verbaal, ten einde uitvoering te geven aan voorschreven Koninklijke besluiten, en behoudens nadere goedkeuring hunner wederzijdsche Regeringen, bepaaldelijk de grens tusschen Nederland en Belgie in het Zwin hebben vastgesteld als volgt:
+*Ten jare achttien honderd negen en zestig, den vijftienden van de maand Maart, tegenwoordig: de Commissarissen, benoemd krachtens besluit van Zijne Majesteit den Koning der Nederlanden van den 8sten September 1868, n°. 29, en het besluit van Zijne Majesteit den Koning der Belgen van den 1sten November 1868, om een voorstel te ontwerpen tot eene nieuwe regeling der grensscheiding tusschen Nederland en Belgie in het Zwin, wijl de scheidingslijn tusschen de beide koningrijken vastgesteld in het omschrijvend proces-verbaal, gehecht aan de grensovereenkomst, gesloten te Maastricht den 8sten Augustus 1843, en die geene andere is dan de Thalweg van het Zwin, door de toenemende verzanding van dien zeearm onherkenbaar geworden is: voor Nederland, de heeren JACOBUS MARIA HENNEQUIN, ridder der orde van de Eikenkroon en lid der Provinciale Staten van Zeeland, wonende te Sluis, en ABRAHAM STEIJAARD, gepensioneerd landmeter van het kadaster, wonende te Middelburg: voor Belgie, de heeren CHARLES BREYDEL DE BROCK, lid van den Provincialen Raad van West-Vlaanderen, en EUGENE PIENS, ingenieur der bruggen en wegen in het arrondissement Brugge, beiden wonende te Brugge. Die, na elkander hunne wederzijdsche geloofsbrieven te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, hebben nagezien en aan elkander conform bevonden de exemplaren in dubbeld van de zeven hiernevens gevoegde kaarten, opgemaakt op de schaal van één vijf en twintig honderdste en bevattende de gansche grensscheiding in het Zwin, en na zich overtuigd te hebben dat de scheidingslijn op volmaakt gelijke wijze gebragt is op de beide exemplaren van gemelde kaarten zoo als zij omschreven is in het tegenwoordig proces-verbaal, ten einde uitvoering te geven aan voorschreven Koninklijke besluiten, en behoudens nadere goedkeuring hunner wederzijdsche Regeringen, bepaaldelijk de grens tusschen Nederland en Belgie in het Zwin hebben vastgesteld als volgt:*
 
 ##### Artikel 1
 
@@ -72,7 +33,7 @@ De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd e
 
 § 2. In het punt B vereenigen zich de grenzen der gemeenten Retranchement (Nederland) en Westcappelle en Knocke (Belgie).
 
-§ 3. Op de grenslijn der gemeenten Westcappelle en Knocke (Belgie) zal een extra ijzeren paal, gemerkt met numero 364**a**, geplaatst worden op een afstand van 135.50 el, gemeten uit punt B, terwijl een gelijke extra ijzeren paal, gemerkt met numero 364**b**, zal geplaatst worden aan de Nederlandsche zijde ter standplaats van den te verwijderen paal numero 365, welke standplaats mede op 135.50 el van punt B gelegen is.
+§ 3. Op de grenslijn der gemeenten Westcappelle en Knocke (Belgie) zal een extra ijzeren paal, gemerkt met numero 364*a*, geplaatst worden op een afstand van 135.50 el, gemeten uit punt B, terwijl een gelijke extra ijzeren paal, gemerkt met numero 364*b*, zal geplaatst worden aan de Nederlandsche zijde ter standplaats van den te verwijderen paal numero 365, welke standplaats mede op 135.50 el van punt B gelegen is.
 
 ##### Artikel 4. Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Knocke (Belgie).
 

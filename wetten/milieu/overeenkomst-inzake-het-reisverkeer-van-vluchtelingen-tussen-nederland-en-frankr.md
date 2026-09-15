@@ -1,72 +1,53 @@
 ---
 title: "Overeenkomst inzake het reisverkeer van vluchtelingen tussen Nederland en Frankrijk"
 identifier: "BWBV0005084"
-country: "nl"
-rank: "verdrag"
-publication_date: "1957-05-28"
-last_updated: "1957-05-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005084"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004460783"
-version_id: "10004671882"
-internal_id: "C10007151271"
-label_id: "10004445594"
-dtd_version: "2.0"
-original_entry_into_force: "1957-05-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005084/1957-05-28/0"
-intitule_bron: "Trb.1957-34"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-02-25"
-intitule_in_force: "1957-07-12"
-intitule_status: "goed"
-original_publication: "Trb.1957-34"
-original_published_date: "1957-02-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-34"
-entry_into_force_date: "1957-05-28"
-jci_1_3: "jci1.3:c:BWBV0005084&z=1957-05-28&g=1957-05-28"
-jci_1_0: "1.0:c:BWBV0005084&g=1957-05-28"
-citeertitel_status: "redactioneel"
-entry_into_force: "1957-05-28"
+publicatiedatum: 1957-05-28
+laatste_update: 1957-05-28
+status: geldig
+toestand: 1957-05-28
+bron: "https://wetten.overheid.nl/BWBV0005084"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake het reisverkeer van vluchtelingen tussen Nederland en Frankrijk
 
-Met het doel het reizen van de op hun grondgebied gevestigde vluchtelingen te vergemakkelijken zijn de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek overeengekomen de volgende bepalingen aan te nemen:
+*Dans le but de faciliter les déplacements des réfugiés établis sur leur territoire, les Gouvernements du Royaume des Pays-Bas et de la République Française sont convenus d'adopter les dispositions suivantes:*
 
-##### Artikel 1
+##### Article 1
 
-Vluchtelingen, die op regelmatige wijze in Nederland of in Frankrijk zijn gevestigd, zijn op basis van wederkerigheid vrijgesteld van het visumvereiste voor reizen van Nederland naar Frankrijk of omgekeerd, mits zij in het bezit zijn van een niet verlopen reisdocument voor vluchtelingen, afgegeven door de Nederlandse of de Franse autoriteiten overeenkomstig de bepalingen van het Verdrag van Genève van 28 juli 1951.
+Les réfugiés qui sont établis régulièrement aux Pays-Bas ou en France seront dispensés, sur la base de la réciprocité, de la formalité du visa pour circuler entre les Pays-Bas et la France, à condition qu'ils soient titulaires d'un titre de voyage pour réfugiés, en cours de validité, délivré par les autorités néerlandaises ou françaises, conformément aux dispositions de la Convention de Genève du 28 juillet 1951.
 
-De bepalingen van deze overeenkomst kunnen niettemin eveneens ten voordeel strekken van vluchtelingen, die in het bezit zijn van een reisdocument, opgemaakt overeenkomstig de te Londen op 15 oktober 1946 ondertekende „Overeenkomst inzake de afgifte van een reisdocument aan vluchtelingen die ressorteren onder het Intergouvernementele Comité voor Vluchtelingen”, tot aan de afloop van de geldigheid van hun desbetreffend reisdocument.
+Toutefois, les réfugiés porteurs d'un titre de voyage établi conformément à l'„Accord concernant la délivrance d'un titre de voyage aux réfugiés relevant de la compétence du Comité Intergouvernemental pour les réfugiés” signé à Londres le 15 octobre 1946, pourront bénéficier des dispositions du présent accord jusqu'à expiration de leur titre de voyage.
 
-##### Artikel 2
+##### Article 2
 
-Deze faciliteiten worden slechts genoten voor een verblijf van niet langer dan drie maanden in Nederland of in Frankrijk. Het visum blijft vereist voor ieder verblijf van langere duur.
+Ces facilités ne joueront que pour des séjours inférieurs ou égaux à trois mois aux Pays-Bas ou en France. Le visa demeure nécessaire pour tous les séjours d'une durée supérieure.
 
-In het reisdocument wordt door de Nederlandse of de Franse autoriteiten, al naar het geval zich voordoet, de volgende aantekening gesteld: „Houder dezes is ingevolge de op 15 februari 1957 gesloten overeenkomst vrijgesteld van de visumverplichting voor tijdvakken van verblijf van drie maanden in Nederland of in Frankrijk”.
+Les autorités néerlandaises ou françaises, selon le cas, inscriront dans le titre de voyage la mention ci-après: „Le titulaire du présent titre de voyage est dispensé de l'obligation du visa pour effectuer des séjours de trois mois aux Pays-Bas ou en France en vertu de l'accord conclu le 15 février 1957”.
 
-##### Artikel 3
+##### Article 3
 
-De in artikel 1 vermelde vluchtelingen zijn gedurende hun verblijf op Nederlands of Frans grondgebied, al naar het geval zich voordoet, onderworpen aan de aldaar geldende bepalingen betreffende vreemdelingen.
+Les réfugiés mentionnés à l'article 1 seront soumis pendant leur séjour sur le territoire néerlandais ou français, selon le cas, aux dispositions qui y sont en vigueur à l'égard des étrangers.
 
-Elke Regering behoudt zich het recht voor, de binnenkomst of het verblijf in haar gebied te weigeren aan personen die zij als ongewenst beschouwt.
+Chaque Gouvernement se réserve le droit de refuser l'entrée ou le séjour sur son territoire aux personnes qu'il considère comme indésirables.
 
-##### Artikel 4
+##### Article 4
 
-Vluchtelingen, die de voordelen van de onderhavige overeenkomst genieten, zullen op ieder ogenblik wederom worden toegelaten in de Staat die hun een reisdocument heeft verstrekt, op eenvoudig verzoek van de andere Staat, wanneer tenminste laatstgenoemde Staat de betrokkenen niet heeft toegestaan zich op zijn grondgebied te vestigen.
+Les réfugiés qui bénéficieront des avantages du présent accord seront réadmis à tout moment dans l'Etat qui leur a délivré un titre de voyage, sur simple demande de l'autre Etat, à moins que celui-ci n'ait autorisé les intéressés à s'établir sur son territoire.
 
-##### Artikel 5
+##### Article 5
 
-Deze overeenkomst treedt in werking, zodra de Nederlandse Regering mededeling zal hebben gedaan van de goedkeuring door de Staten-Generaal van het Koninkrijk.
+Le présent accord entrera en vigueur dès que le Gouvernement néerlandais aura notifié l'approbation par les Etats Généraux du Royaume.
 
-##### Artikel 6
+##### Article 6
 
-Elke Regering kan deze overeenkomst tijdelijk buiten werking stelten om ernstige redenen van openbare orde en veiligheid. De buitenwerkingstelling dient onmiddellijk aan de andere Partij te worden bekendgemaakt langs diplomatieke weg.
+Chaque Gouvernement pourra suspendre l'application du présent accord pour des motifs graves touchant l'ordre et la sécurité publics. La suspension devra être notifiée immédiatement à l'autre Partie, par la voie diplomatique.
 
-##### Artikel 7
+##### Article 7
 
-Elke Regering kan deze overeenkomst opzeggen met een termijn van drie maanden.
+Chaque Gouvernement pourra dénoncer le présent accord en donnant un préavis de trois mois.
 
 Fait à Paris, le 15 février 1957.
 

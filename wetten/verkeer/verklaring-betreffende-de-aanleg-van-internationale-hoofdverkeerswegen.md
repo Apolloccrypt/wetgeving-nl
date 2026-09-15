@@ -1,71 +1,34 @@
 ---
 title: "Verklaring betreffende de aanleg van internationale hoofdverkeerswegen"
 identifier: "BWBV0005605"
-country: "nl"
-rank: "verdrag"
-publication_date: "1967-11-07"
-last_updated: "1967-11-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005605"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004758373"
-version_id: "10005034742"
-internal_id: "C10007604631"
-label_id: "10004742394"
-dtd_version: "2.0"
-original_entry_into_force: "1952-12-04"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005605/1967-11-07/0"
-intitule_bron: "Trb.1954-123"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-10-02"
-intitule_in_force: "1954-10-02"
-intitule_status: "goed"
-original_publication: "Trb.1954-123"
-original_published_date: "1954-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-123"
-entry_into_force_date: "1952-12-04"
-jci_1_3: "jci1.3:c:BWBV0005605&z=1967-11-07&g=1967-11-07"
-jci_1_0: "1.0:c:BWBV0005605&g=1967-11-07"
-citeertitel_status: "redactioneel"
-entry_into_force: "1952-12-04"
+publicatiedatum: 1952-12-04
+laatste_update: 1967-11-07
+status: geldig
+toestand: 1967-11-07
+bron: "https://wetten.overheid.nl/BWBV0005605"
+opgehaald: 2026-09-15
 ---
+
 # Verklaring betreffende de aanleg van internationale hoofdverkeerswegen
 
-De ondergetekenden, behoorlijk gemachtigd,
+*The undersigned, duly authorized, Meeting under the auspices of the Economic Commission for Europe, Conscious of the need to develop international road traffic in Europe, Considering that it is essential, in order to establish closer relations between European countries, to lay down a co-ordinated plan for the construction or reconstruction of roads suitable for international traffic,*
 
-Vergaderd onder de auspiciën van de Economische Commissie voor Europa,
+- 1. Declare that they adopt the proposed road network described in annex I hereto as a concerted plan for construction and reconstruction of roads of international importance, which they intend to undertake, within the framework of their national programmes for public works or within the possibilities of international financing.
 
-Zich bewust van de noodzakelijkheid het internationale wegverkeer in Europa te ontwikkelen,
+- 2. The undersigned further declare that the construction or reconstruction of the roads mentioned in annex I shall be carried out in accordance with the characteristics set out in chapter A of annex II hereto. The undersigned further undertake to see that the roads mentioned in annex I shall be equipped with the ancillary services provided for in annex II, chapter B, the help of private enterprises being utilized where possible.
 
-Overwegende, dat het voor het nauwer aanhalen van de betrekkingen tussen de Europese landen van groot belang is een gecoördineerd plan op te stellen voor de aanleg of verbetering van wegen, die aan de eisen van het internationale verkeer zijn aangepast,
+- 3. The roads mentioned in annex I hereto shall be identified by means of the special sign described in annex III.
 
-#### A. NORMEN VOOR DE INTERNATIONALE HOOFDVERKEERSWEGEN
+- 4. This declaration shall be open for signature until 30 June 1951 and, after that date, for accession by all countries participating in the work of the Economic Commission for Europe.
 
-##### I. Algemeen
+- 5. The instruments of accession shall be deposited with the Secretary-General of the United Nations, who shall notify each of the countries mentioned in paragraph 4 above of such deposit.
 
-De tekst van de vertaling is niet beschikbaar.
+- 6. This Declaration shall enter into force on the date of its signature.
 
-##### II. Wegen
+- 7. The original of this Declaration shall be deposited with the Secretary-General of the United Nations, who shall deliver a certified true copy of the Declaration to each of the countries mentioned in paragraph 4 above.
 
-De tekst van de vertaling is niet beschikbaar.
-
-##### III. Aansluitpunten en kruispunten
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### IV. Omleggingen om steden en dorpen en lintbebouwing
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### V. Bruggen, tunnels, galerijen, enz.
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### VI. Landschapszorg
-
-De tekst van de vertaling is niet beschikbaar.
-
-#### B. HULPDIENSTEN
+- 8. In the event of one of the signatory or acceding countries being desirous of amending one of the annexes hereto, the said country shall request that a meeting of all signatory or acceding countries be convened, under the auspices of the Economic Commission for Europe or of such other body as may replace the latter.
 
 DONE at Geneva, on the sixteenth day of September, nineteen hundred and fifty, in a single copy, in the English and French languages, the two texts being equally authentic.

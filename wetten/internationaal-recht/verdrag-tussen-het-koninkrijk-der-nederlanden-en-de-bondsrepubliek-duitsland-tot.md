@@ -1,38 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)"
 identifier: "BWBV0005343"
-country: "nl"
-rank: "verdrag"
-publication_date: "1978-07-01"
-last_updated: "1978-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005343"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004574483"
-version_id: "10004804622"
-internal_id: "C10008335611"
-label_id: "10004559724"
-dtd_version: "2.0"
-original_entry_into_force: "1963-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005343/1978-07-01/0"
-intitule_bron: "Trb.1960-69"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1960-07-18"
-intitule_in_force: "1963-07-31"
-intitule_status: "goed"
-original_publication: "Trb.1960-69"
-original_published_date: "1960-07-18"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1960-69"
-entry_into_force_date: "1963-08-01"
-jci_1_3: "jci1.3:c:BWBV0005343&z=1978-07-01&g=1978-07-01"
-jci_1_0: "1.0:c:BWBV0005343&g=1978-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-08-01"
+publicatiedatum: 1963-08-01
+laatste_update: 1978-07-01
+status: geldig
+toestand: 1978-07-01
+bron: "https://wetten.overheid.nl/BWBV0005343"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag)
 
-Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:*
 
 ### HOOFDSTUK 1. Algemeen
 
@@ -148,11 +129,11 @@ Indien bij de werkzaamheden volgens artikel 4 de Bondsrepubliek Duitsland ten be
 
 1. Het Koninkrijk der Nederlanden belast zich met de waterstaatszorg, voor zover deze zorg betrekking heeft op
 
-- a). de Bocht van Watum alsmede de noordelijke en de zuidelijke toegang van het hoofdvaarwater tot de Bocht van Watum,
+- a) de Bocht van Watum alsmede de noordelijke en de zuidelijke toegang van het hoofdvaarwater tot de Bocht van Watum,
 
-- b). de door het Koninkrijk der Nederlanden uitgevoerde nieuwe werken,
+- b) de door het Koninkrijk der Nederlanden uitgevoerde nieuwe werken,
 
-- c). het gebied ten zuiden van de Geisedam.
+- c) het gebied ten zuiden van de Geisedam.
 
 2. In het overige deel van de Eemsmonding wordt de waterstaatszorg behartigd door de Bondsrepubliek Duitsland.
 
@@ -162,23 +143,23 @@ Indien bij de werkzaamheden volgens artikel 4 de Bondsrepubliek Duitsland ten be
 
 2. Deze zorg strekt zich in het bijzonder uit tot
 
-- a). de bewaking en bescherming van waterbouwkundige werken alsmede van waterbouwkundige werkzaamheden in de zin van hoofdstuk 2,
+- a) de bewaking en bescherming van waterbouwkundige werken alsmede van waterbouwkundige werkzaamheden in de zin van hoofdstuk 2,
 
-- b). de bewaking en de bescherming van de bebakening in de zin van hoofdstuk 3,
+- b) de bewaking en de bescherming van de bebakening in de zin van hoofdstuk 3,
 
-- c). landaanwinnings- en indijkingswerken in de zin van artikel 5,
+- c) landaanwinnings- en indijkingswerken in de zin van artikel 5,
 
-- d). maatregelen tot het opsporen, aanduiden en opruimen van wrakken,
+- d) maatregelen tot het opsporen, aanduiden en opruimen van wrakken,
 
-- e). maatregelen tot het bijeenbrengen en het uit de weg ruimen van schroot, mijnen, munitie of andere gevaarlijke voorwerpen,
+- e) maatregelen tot het bijeenbrengen en het uit de weg ruimen van schroot, mijnen, munitie of andere gevaarlijke voorwerpen,
 
-- f). maatregelen tot het uit de weg ruimen van andere storingen voor de scheepvaart,
+- f) maatregelen tot het uit de weg ruimen van andere storingen voor de scheepvaart,
 
-- g). installaties welke de Eemsmonding kruisen,
+- g) installaties welke de Eemsmonding kruisen,
 
-- h). installaties aangelegd door derden, voor zover die installaties in de Eemsmonding liggen of in de Eemsmonding uitsteken of van invloed kunnen zijn op het water of de ondergrond van de Eemsmonding,
+- h) installaties aangelegd door derden, voor zover die installaties in de Eemsmonding liggen of in de Eemsmonding uitsteken of van invloed kunnen zijn op het water of de ondergrond van de Eemsmonding,
 
-- i). de winning van zand, grint en schelpen.
+- i) de winning van zand, grint en schelpen.
 
 3. Tot de waterstaatszorg behoort niet het toezicht op de scheepvaart, de visserij en de jacht.
 
@@ -250,23 +231,23 @@ De resultaten van de opmetingen, peilingen en hydrologische onderzoekingen diene
 
 De taak van de Eemscommissie omvat:
 
-- a). beraadslagingen over vraagstukken op het gebied van de waterbouw, de bebakening, de waterstaatszorg, de opmetingen, peilingen en hydrologische onderzoekingen, de landaanwinning, de indijking, de kustverdediging en de winning van zand, grint en schelpen,
+- a) beraadslagingen over vraagstukken op het gebied van de waterbouw, de bebakening, de waterstaatszorg, de opmetingen, peilingen en hydrologische onderzoekingen, de landaanwinning, de indijking, de kustverdediging en de winning van zand, grint en schelpen,
 
-- b). de inspectie van de vaarwateren en de bebakening,
+- b) de inspectie van de vaarwateren en de bebakening,
 
-- c). het uitbrengen van verslag over de resultaten van de inspecties aan de Regeringen,
+- c) het uitbrengen van verslag over de resultaten van de inspecties aan de Regeringen,
 
-- d). het voorleggen van aanbevelingen aan de Regeringen,
+- d) het voorleggen van aanbevelingen aan de Regeringen,
 
-- e). het geven van advies over alle vraagstukken die de Regeringen haar voorleggen,
+- e) het geven van advies over alle vraagstukken die de Regeringen haar voorleggen,
 
-- f). het in ontvangst nemen van mededelingen uit hoofde van artikel 22,
+- f) het in ontvangst nemen van mededelingen uit hoofde van artikel 22,
 
-- g). het onderzoek van de uit hoofde van artikel 23 ingediende bezwaren en de uit hoofde van artikel 24 geldend gemaakte aanspraken.
+- g) het onderzoek van de uit hoofde van artikel 23 ingediende bezwaren en de uit hoofde van artikel 24 geldend gemaakte aanspraken.
 
 ##### Artikel 31
 
-1. In de gevallen bedoeld onder letter **g** van artikel 30 zal de Eemscommissie er naar streven aan de Regeringen der Verdragsluitende Partijen aanbevelingen voor te leggen.
+1. In de gevallen bedoeld onder letter *g* van artikel 30 zal de Eemscommissie er naar streven aan de Regeringen der Verdragsluitende Partijen aanbevelingen voor te leggen.
 
 2. Indien in de Eemscommissie in de gevallen bedoeld in lid 1 geen overeenstemming wordt bereikt over een aanbeveling, of indien een Regering de andere mededeelt dat het overleg naar haar mening een stadium heeft bereikt waarin van een voortzetting geen resultaat kan worden verwacht, zullen de Regeringen der Verdragsluitende Partijen er naar streven tot overeenstemming te komen.
 
@@ -282,11 +263,11 @@ Duitse vaartuigen worden beschouwd zich te bevinden binnen het gebied der Bondsr
 
 vaartuigen van een derde land worden beschouwd zich te bevinden binnen het gebied van de staat
 
-- a). waarin de eerste haven van bestemming is gelegen, indien zij van zee komen,
+- a) waarin de eerste haven van bestemming is gelegen, indien zij van zee komen,
 
-- b). waarin de haven die zij het laatst hebben aangedaan is gelegen, indien zij naar zee varen,
+- b) waarin de haven die zij het laatst hebben aangedaan is gelegen, indien zij naar zee varen,
 
-- c). waarin de haven van bestemming is gelegen, indien zij tussen een haven aan de Eemsmonding en een andere haven aan of bovenstrooms van de Eemsmonding varen.
+- c) waarin de haven van bestemming is gelegen, indien zij tussen een haven aan de Eemsmonding en een andere haven aan of bovenstrooms van de Eemsmonding varen.
 
 2. De in lid 1 vervatte regeling geldt ook voor de zich aan boord bevindende personen en zaken.
 
@@ -298,13 +279,13 @@ vaartuigen van een derde land worden beschouwd zich te bevinden binnen het gebie
 
 3. De opsporingsambtenaren van de niet-bevoegde Verdragsluitende Partij zijn ter afwending van een duidelijk onmiddellijk dreigend gevaar of op verzoek van de autoriteiten van de bevoegde Verdragsluitende Partij belast met toezicht op de naleving der wettelijke voorschriften, bevoegdmet inachtneming van de voorschriften van hun staat in de plaats van de opsporingsambtenaren van de bevoegde Partij
 
-- a). de nodige maatregelen te treffen die geen uitstel gedogen,
+- a) de nodige maatregelen te treffen die geen uitstel gedogen,
 
-- b). legitimaties en andere documenten te onderzoeken,
+- b) legitimaties en andere documenten te onderzoeken,
 
-- c). kentekenen van schepen te identificeren en
+- c) kentekenen van schepen te identificeren en
 
-- d). bewijsmiddelen veilig te stellen.
+- d) bewijsmiddelen veilig te stellen.
 
 De opsporingsambtenaren zijn verplicht de autoriteiten van de bevoegde Verdragsluitende Partij belast met toezicht op de naleving der wettelijke voorschriften onverwijld mededeling te doen van hun bevindingen alsmede hun eventuele processen-verbaal en andere bewijsstukken over te leggen. De volgens de voorschriften opgemaakte processen-verbaal hebben dezelfde rechtskracht als de door de overeenkomstige ambtenaren van de andere Verdragsluitende Partij opgemaakte processen-verbaal.
 
@@ -332,17 +313,17 @@ De opsporingsambtenaren zijn verplicht de autoriteiten van de bevoegde Verdragsl
 
 1. De grensbewaking in de Eemsmonding wordt in overeenstemming met het nationale recht uitgeoefend:
 
-- a). indien een vaartuig van zee komt, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de eerste haven van bestemming van het vaartuig is gelegen,
+- a) indien een vaartuig van zee komt, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de eerste haven van bestemming van het vaartuig is gelegen,
 
-- b). indien een vaartuig naar zee vaart, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de laatste haven die het schip heeft aangedaan, is gelegen,
+- b) indien een vaartuig naar zee vaart, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de laatste haven die het schip heeft aangedaan, is gelegen,
 
-- c). indien een vaartuig tussen een haven aan de Eemsmonding en een andere haven aan of bovenstrooms van de Eemsmonding vaart, tot op een afstand van twee zeemijlen van de laatst aangelopen haven, of, indien de laatst aangelopen haven niet aan de Eemsmonding ligt, van de plaats waar het schip de Eemsmonding binnenvaart, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de haven van vertrek is gelegen; voor het overige door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de haven van bestemming is gelegen.
+- c) indien een vaartuig tussen een haven aan de Eemsmonding en een andere haven aan of bovenstrooms van de Eemsmonding vaart, tot op een afstand van twee zeemijlen van de laatst aangelopen haven, of, indien de laatst aangelopen haven niet aan de Eemsmonding ligt, van de plaats waar het schip de Eemsmonding binnenvaart, door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de haven van vertrek is gelegen; voor het overige door de grensbewakingsautoriteiten van de Verdragsluitende Partij op wier grondgebied de haven van bestemming is gelegen.
 
 2. De Verdragsluitende Partijen hebben bovendien het recht in de Eemsmonding alle vaartuigen in zoverre door hun grensbewakingsautoriteiten te doen controleren als noodzakelijk is voor het vaststellen van de haven van bestemming of de haven van vertrek van het vaartuig. De grensbewakingsautoriteiten voeren een zodanige controle alleen uit indien er een verdenking van misbruik bestaat, in het bijzonder indien er verdenking bestaat dat de door een schip gevoerde vlag niet overeenstemt met de werkelijke haven van bestemming of van vertrek.
 
 3. Ter bevordering van de bestrijding van de smokkelhandel in de Eemsmonding verlenen de douaneautoriteiten van de twee Verdragsluitende Partijen elkaar bijstand bij de uitvoering van hun grensbewakingstaak volgens de leden 1 en 2. Zij doen elkaar daartoe zo snel mogelijk, uit eigen beweging of op verzoek, mededeling van die gegevens die voor de uitoefening van hun dienst van belang zijn. De nationale voorschriften volgens welke voor het verstrekken van mededelingen een machtiging van andere autoriteiten vereist is, blijven onverminderd van kracht.
 
-4. De regeling vervat in de leden 1 tot en met 3 geldt niet voor de Boven Eems, waar uitsluitend de Duitse grensbewakingsautoriteiten bevoegd zijn. Het binnenvaren in de Eemsmonding in de zin van letter **c** van lid 1 wordt in dit geval gerekend van de westelijke en zuidelijke begrenzing van de Boven Eems af.
+4. De regeling vervat in de leden 1 tot en met 3 geldt niet voor de Boven Eems, waar uitsluitend de Duitse grensbewakingsautoriteiten bevoegd zijn. Het binnenvaren in de Eemsmonding in de zin van letter *c* van lid 1 wordt in dit geval gerekend van de westelijke en zuidelijke begrenzing van de Boven Eems af.
 
 5. Lid 2 en lid 6 van artikel 33 zijn van overeenkomstige toepassing.
 
@@ -380,15 +361,15 @@ door de Nederlandse Regering indien de schepen een Nederlandse haven aanlopen of
 
 3. Het in het gemeenschappelijke visserij gebied over en weer toegestane recht van bevissing omvat iedere soort visserij. De mosselvisserij ten oosten van de oostelijke grens van het hoofdvaarwater blijft echter aan de Duitse vissers voorbehouden.
 
-- a). Binnen het gemeenschappelijke visserij gebied is voor de uitoefening van de visserij ten zuidoosten van de verbindingslijn tussen de grote lichttoren van Borkum en de Grote Kaap van Rottumeroog een schriftelijke toestemming nodig. Aan de zeezijde van deze lijn kan de visserij zonder schriftelijke toestemming worden uitgeoefend.
+4. - a) Binnen het gemeenschappelijke visserij gebied is voor de uitoefening van de visserij ten zuidoosten van de verbindingslijn tussen de grote lichttoren van Borkum en de Grote Kaap van Rottumeroog een schriftelijke toestemming nodig. Aan de zeezijde van deze lijn kan de visserij zonder schriftelijke toestemming worden uitgeoefend.
 
-- b). De schriftelijke toestemming wordt verstrekt aan alle vissers die reeds minstens een jaar hun woonplaats hebben aan de Eems van Norddeich tot Uskwerd voor de duur van de tijd dat zij in dit gebied hun vaste woonplaats hebben.
+- b) De schriftelijke toestemming wordt verstrekt aan alle vissers die reeds minstens een jaar hun woonplaats hebben aan de Eems van Norddeich tot Uskwerd voor de duur van de tijd dat zij in dit gebied hun vaste woonplaats hebben.
 
-- c). In bijzonder gemotiveerde uitzonderingsgevallen kunnen schriftelijke toestemmingen van korte duur (bijzondere toestemmingen) ook aan die Duitse en Nederlandse vissers worden verleend die niet hun vaste woonplaats hebben aan de Eems van Norddeich tot Uskwerd.
+- c) In bijzonder gemotiveerde uitzonderingsgevallen kunnen schriftelijke toestemmingen van korte duur (bijzondere toestemmingen) ook aan die Duitse en Nederlandse vissers worden verleend die niet hun vaste woonplaats hebben aan de Eems van Norddeich tot Uskwerd.
 
-- d). De toestemmingen en bijzondere toestemmingen worden voor de Duitse vissers afgegeven door het „Staatliche Fischereiamt” in Bremerhaven, voor de Nederlandse vissers door de Visserijinspectie te Amsterdam.
+- d) De toestemmingen en bijzondere toestemmingen worden voor de Duitse vissers afgegeven door het „Staatliche Fischereiamt” in Bremerhaven, voor de Nederlandse vissers door de Visserijinspectie te Amsterdam.
 
-- e). De lijsten met de toestemmingen en bijzondere toestemmingen dienen regelmatig tussen de bevoegde Duitse en Nederlandse instanties te worden uitgewisseld.
+- e) De lijsten met de toestemmingen en bijzondere toestemmingen dienen regelmatig tussen de bevoegde Duitse en Nederlandse instanties te worden uitgewisseld.
 
 5. De Verdragsluitende Partijen zullen na de inwerkingtreding van dit Verdrag de uitoefening van de visserij in het gemeenschappelijke visserijgebied in wederzijds overleg regelen, in het bijzonder wat betreft de aanpassing van de gesloten tijden. De eerste van deze regelingen dient binnen zes maanden na de inwerkingtreding van dit Verdrag te worden gesloten.
 
@@ -400,11 +381,11 @@ door de Nederlandse Regering indien de schepen een Nederlandse haven aanlopen of
 
 3. In wederzijdse overeenstemming wordt ieder jaar een regeling getroffen omtrent
 
-- a). het afschotquotum,
+- a) het afschotquotum,
 
-- b). het maximum aantal jagers,
+- b) het maximum aantal jagers,
 
-- c). de jachttijd en de uitoefening van de jacht overeenkomstig de jachtwetten van beide Verdragsluitende Partijen.
+- c) de jachttijd en de uitoefening van de jacht overeenkomstig de jachtwetten van beide Verdragsluitende Partijen.
 
 4. Het afschotquotum en het maximum aantal jagers zijn voor beide Verdragsluitende Partijen gelijk.
 
@@ -497,32 +478,6 @@ Voor het beslissen van alle geschillen tussen de Verdragsluitende Partijen betre
 ##### Artikel 54
 
 De kosten voor de voorzitter van het Scheidsgerecht, voor diens plaatsvervanger en voor de twee assessoren die de nationaliteit bezitten van een derde staat, worden door de Verdragsluitende Partijen ieder voor de helft gedragen. Iedere Verdragsluitende Partij draagt de kosten voor de door haar benoemde tweede assessor, voor de door haar benoemde secretaris, alsmede voor haar vertegenwoordiging bij de procedure voor het Scheidsgerecht. De overige kosten van het Scheidsgerecht worden door de Verdragsluitende Partijen ieder voor de helft gedragen.
-
-Bij de ondertekening van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding zijn de gevolmachtigden van beide Partijen over de volgende bepalingen tot overeenstemming gekomen en hebben zij de volgende verklaringen afgelegd:
-
-##### Artikel 1
-
-Ten aanzien van artikel 2 van het Verdrag bestaat overeenstemming dat het Koninkrijk der Nederlanden met het oog op de beveiliging van het hoofdvaarwater in de noordelijke toegang van het hoofdvaarwater tot de Bocht van Watum geen grotere diepte dan 4,5 meter bij het gemiddelde laagwater-springtij tot stand brengt. Artikel 4 van het Verdrag blijft onverlet.
-
-##### Artikel 2
-
-Het is het Koninkrijk der Nederlanden bekend dat de Bondsrepubliek Duitsland in volle zee voor de Eemsmonding bebakening verzorgt en onderhoudt; het brengt hiertegen geen bezwaren in.
-
-##### Artikel 3
-
-Iedere Verdragsluitende Partij zal bij het vervullen van haar taak uit hoofde van hoofdstuk 5 van het Verdrag verzoeken van de andere Partij om toestemming tot het winnen van zand, kiezel of schelpen of tot het storten van opgebaggerde grond in welwillende overweging nemen. Particulieren die zodanige verzoeken doen worden, wat hun nationaliteit betreft, op gelijke wijze behandeld.
-
-##### Artikel 4
-
-Het is het Koninkrijk der Nederlanden bekend dat de Bondsrepubliek Duitsland het voornemen heeft het Emder Vaarwater uit te diepen tot 8 meter bij het gemiddelde laagwater-springtij en met de hiervoor noodzakelijke waterbouwkundige werkzaamheden een aanvang heeft gemaakt. Het Koninkrijk der Nederlanden dient hiertegen geen bezwaren in, doch behoudt zich het recht voor aanspraken overeenkomstig artikel 24 van het Verdrag geldend te maken indien later mocht blijken dat deze werkzaamheden nadelige gevolgen hebben.
-
-##### Artikel 5
-
-Voor de toepassing van lid 4 van artikel 33 van het Verdrag worden personen die volgens het Duitse recht wettelijk gelijkgesteld zijn met Duitse onderdanen, als Duitse onderdanen behandeld.
-
-##### Artikel 6
-
-De bepalingen van dit Slotprotocol maken deel uit van het Eems-Dollardverdrag.
 
 TEN BLIJKE WAARVAN de gevolmachtigden der Verdragsluitende Partijen dit Verdrag, dat deel uitmaakt van het heden ondertekende Algemene Verdrag, hebben ondertekend.
 

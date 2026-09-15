@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0005862"
-country: "nl"
-rank: "verdrag"
-publication_date: "2025-12-31"
-last_updated: "2025-12-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005862"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004902473"
-version_id: "10005215392"
-internal_id: "C10009607211"
-label_id: "10004886594"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005862/2025-12-31/0"
-intitule_bron: "Trb.2012-123"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-07-23"
-intitule_in_force: "2015-11-04"
-intitule_status: "goed"
-original_publication: "Trb.2012-123"
-original_published_date: "2012-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-123"
-entry_into_force_date: "2015-12-01"
-jci_1_3: "jci1.3:c:BWBV0005862&z=2025-12-31&g=2025-12-31"
-jci_1_0: "1.0:c:BWBV0005862&g=2025-12-31"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2025-12-31
+status: geldig
+toestand: 2025-12-31
+bron: "https://wetten.overheid.nl/BWBV0005862"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland,
-
-Geleid door de wens hun economische betrekkingen verder te ontwikkelen, hun samenwerking op het gebied van belastingzaken te verbeteren en een doeltreffende en juiste belastingheffing te waarborgen,
-
-Voornemens hun respectieve heffingsbevoegdheden zodanig toe te wijzen dat zowel dubbele heffing als niet-heffing of verminderde heffing van belasting door middel van het vermijden of ontgaan van belastingen wordt vermeden,
-
-Zijn het volgende overeengekomen:
-
-Is van toepassing: a.in de Bondsrepubliek Duitsland:aa.in het geval van belastingen geheven aan de bron, ter zake van bedragen betaald op of na 1 januari 2017;bb.in het geval van overige belastingen, ter zake van belastingen geheven over tijdvakken beginnend op of na 1 januari 2017.b.in Nederland:voor belastingjaren en tijdvakken beginnend op of na 1 januari 2017.
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland, Geleid door de wens hun economische betrekkingen verder te ontwikkelen, hun samenwerking op het gebied van belastingzaken te verbeteren en een doeltreffende en juiste belastingheffing te waarborgen, Voornemens hun respectieve heffingsbevoegdheden zodanig toe te wijzen dat zowel dubbele heffing als niet-heffing of verminderde heffing van belasting door middel van het vermijden of ontgaan van belastingen wordt vermeden, Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
@@ -60,23 +29,23 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 3. De bestaande belastingen waarop het Verdrag van toepassing is, zijn met name:
 
-- a). in de Bondsrepubliek Duitsland: met inbegrip van de daarover geheven toeslagen (hierna te noemen: “Duitse belasting”);
+- a) in de Bondsrepubliek Duitsland: met inbegrip van de daarover geheven toeslagen (hierna te noemen: “Duitse belasting”);
 
-- aa). de inkomstenbelasting („Einkommensteuer”);
+   - aa) de inkomstenbelasting („Einkommensteuer”);
 
-- bb). de vennootschapsbelasting („Körperschaftsteuer”); en
+   - bb) de vennootschapsbelasting („Körperschaftsteuer”); en
 
-- cc). de ondernemingsbelasting („Gewerbesteuer”);
+   - cc) de ondernemingsbelasting („Gewerbesteuer”);
 
-- b). in het Koninkrijk der Nederlanden: (hierna te noemen: „Nederlandse belasting”).
+- b) in het Koninkrijk der Nederlanden: (hierna te noemen: „Nederlandse belasting”).
 
-- aa). de inkomstenbelasting;
+   - aa) de inkomstenbelasting;
 
-- bb). de loonbelasting;
+   - bb) de loonbelasting;
 
-- cc). de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet; en
+   - cc) de vennootschapsbelasting, daaronder begrepen het aandeel van de regering in de nettowinsten behaald met de exploitatie van natuurlijke rijkdommen geheven krachtens de Mijnbouwwet; en
 
-- dd). de dividendbelasting;
+   - dd) de dividendbelasting;
 
 4. Het Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende staten doen elkaar mededeling van alle wezenlijke wijzigingen die in hun belastingwetgeving zijn aangebracht.
 
@@ -86,45 +55,45 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
-- a). betekenen de uitdrukkingen „een verdragsluitende staat” en „de andere verdragsluitende staat” de Bondsrepubliek Duitsland of het Koninkrijk der Nederlanden (Nederland), al naargelang de context vereist;
+- a) betekenen de uitdrukkingen „een verdragsluitende staat” en „de andere verdragsluitende staat” de Bondsrepubliek Duitsland of het Koninkrijk der Nederlanden (Nederland), al naargelang de context vereist;
 
-- b). betekent de uitdrukking „Duitsland” de Bondsrepubliek Duitsland en, wanneer zij in aardrijkskundige zin wordt gebezigd, omvat zij het grondgebied van de Bondsrepubliek Duitsland alsmede de zeebodem, de ondergrond daarvan en de daarboven gelegen wateren die grenzen aan de territoriale zee, waar de Bondsrepubliek Duitsland soevereine rechten of rechtsmacht uitoefent in overeenstemming met het internationale recht en haar nationale wetgeving ten behoeve van de exploratie, exploitatie, het behoud en beheer van levende en niet-levende natuurlijke rijkdommen of voor de opwekking van energie uit hernieuwbare bronnen;
+- b) betekent de uitdrukking „Duitsland” de Bondsrepubliek Duitsland en, wanneer zij in aardrijkskundige zin wordt gebezigd, omvat zij het grondgebied van de Bondsrepubliek Duitsland alsmede de zeebodem, de ondergrond daarvan en de daarboven gelegen wateren die grenzen aan de territoriale zee, waar de Bondsrepubliek Duitsland soevereine rechten of rechtsmacht uitoefent in overeenstemming met het internationale recht en haar nationale wetgeving ten behoeve van de exploratie, exploitatie, het behoud en beheer van levende en niet-levende natuurlijke rijkdommen of voor de opwekking van energie uit hernieuwbare bronnen;
 
-- c). betekent de uitdrukking „Nederland” het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen Nederland, in overeenstemming met het internationale recht en zijn nationale wetgeving, rechtsmacht of soevereine rechten uitoefent ten behoeve van de exploratie, exploitatie, het behoud en beheer van levende en niet-levende natuurlijke rijkdommen of voor de opwekking van energie uit hernieuwbare bronnen;
+- c) betekent de uitdrukking „Nederland” het Europese deel van Nederland, met inbegrip van zijn territoriale zee en elk gebied buiten en grenzend aan de territoriale zee waarbinnen Nederland, in overeenstemming met het internationale recht en zijn nationale wetgeving, rechtsmacht of soevereine rechten uitoefent ten behoeve van de exploratie, exploitatie, het behoud en beheer van levende en niet-levende natuurlijke rijkdommen of voor de opwekking van energie uit hernieuwbare bronnen;
 
-- d). omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
+- d) omvat de uitdrukking „persoon” een natuurlijke persoon, een lichaam en elke andere vereniging van personen;
 
-- e). betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
+- e) betekent de uitdrukking „lichaam” elke rechtspersoon of elke eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld;
 
-- f). heeft de uitdrukking „onderneming” betrekking op het uitoefenen van een bedrijf;
+- f) heeft de uitdrukking „onderneming” betrekking op het uitoefenen van een bedrijf;
 
-- g). omvat de uitdrukking „bedrijfsuitoefening” mede de uitoefening van een vrij beroep en van andere werkzaamheden van zelfstandige aard;
+- g) omvat de uitdrukking „bedrijfsuitoefening” mede de uitoefening van een vrij beroep en van andere werkzaamheden van zelfstandige aard;
 
-- h). betekenen de uitdrukkingen „onderneming van een verdragsluitende staat” en „onderneming van de andere verdragsluitende staat” onderscheidenlijk een onderneming gedreven door een inwoner van een verdragsluitende staat en een onderneming gedreven door een inwoner van de andere verdragsluitende staat;
+- h) betekenen de uitdrukkingen „onderneming van een verdragsluitende staat” en „onderneming van de andere verdragsluitende staat” onderscheidenlijk een onderneming gedreven door een inwoner van een verdragsluitende staat en een onderneming gedreven door een inwoner van de andere verdragsluitende staat;
 
-- i). betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een verdragsluitende staat is gelegen, behalve wanneer het schip of luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere verdragsluitende staat zijn gelegen;
+- i) betekent de uitdrukking „internationaal verkeer” alle vervoer met een schip of luchtvaartuig, geëxploiteerd door een onderneming waarvan de plaats van de werkelijke leiding in een verdragsluitende staat is gelegen, behalve wanneer het schip of luchtvaartuig uitsluitend wordt geëxploiteerd tussen plaatsen die in de andere verdragsluitende staat zijn gelegen;
 
-- j). betekent de uitdrukking „grensoverschrijdend bedrijventerrein” een ruimtelijk besloten gebied, dat zich zowel op Nederlands als op Duits grondgebied uitstrekt en waar de gemeenschappelijke grens tussen beide verdragsluitende staten doorheen loopt, voor zover de verdragsluitende staten het gebied in onderling overleg tot grensoverschrijdend bedrijventerrein hebben bestempeld;
+- j) betekent de uitdrukking „grensoverschrijdend bedrijventerrein” een ruimtelijk besloten gebied, dat zich zowel op Nederlands als op Duits grondgebied uitstrekt en waar de gemeenschappelijke grens tussen beide verdragsluitende staten doorheen loopt, voor zover de verdragsluitende staten het gebied in onderling overleg tot grensoverschrijdend bedrijventerrein hebben bestempeld;
 
-- k). betekent de uitdrukking „onderdaan”:
+- k) betekent de uitdrukking „onderdaan”:
 
-- aa). wat de Bondsrepubliek Duitsland betreft elke Duitser in de zin van de grondwet van de Bondsrepubliek Duitsland en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in de Bondsrepubliek Duitsland van kracht is;
+   - aa) wat de Bondsrepubliek Duitsland betreft elke Duitser in de zin van de grondwet van de Bondsrepubliek Duitsland en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in de Bondsrepubliek Duitsland van kracht is;
 
-- bb). wat Nederland betreft, elke natuurlijke persoon die de Nederlandse nationaliteit bezit en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
+   - bb) wat Nederland betreft, elke natuurlijke persoon die de Nederlandse nationaliteit bezit en elke rechtspersoon die, elk samenwerkingsverband dat of elke vereniging die zijn rechtspositie als zodanig ontleent aan de wetgeving die in Nederland van kracht is;
 
-- l). betekent de uitdrukking „bevoegde autoriteit”:
+- l) betekent de uitdrukking „bevoegde autoriteit”:
 
-- aa). wat de Bondsrepubliek Duitsland betreft het Federale Ministerie van Financiën of het orgaan waaraan het zijn bevoegdheden heeft gedelegeerd;
+   - aa) wat de Bondsrepubliek Duitsland betreft het Federale Ministerie van Financiën of het orgaan waaraan het zijn bevoegdheden heeft gedelegeerd;
 
-- bb). wat Nederland betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - bb) wat Nederland betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
 - m. betekent de uitdrukking „instelling voor collectieve belegging”:
 
-- aa. in het geval van de Bondsrepubliek Duitsland, een investeringsfonds („Investmentfonds”) en een bijzonder investeringsfonds („Spezial-Investmentfonds”) in de zin van de Wet inzake belasting op investeringen (Investmentsteuergesetz), anders dan een vehikel dat is opgericht als een samenwerkingsverband;
+   - aa. in het geval van de Bondsrepubliek Duitsland, een investeringsfonds („Investmentfonds”) en een bijzonder investeringsfonds („Spezial-Investmentfonds”) in de zin van de Wet inzake belasting op investeringen (Investmentsteuergesetz), anders dan een vehikel dat is opgericht als een samenwerkingsverband;
 
-- bb. in het geval van Nederland, een fiscale beleggingsinstelling voor de toepassing van de Nederlandse vennootschapsbelasting;
+   - bb. in het geval van Nederland, een fiscale beleggingsinstelling voor de toepassing van de Nederlandse vennootschapsbelasting;
 
-- cc. elk ander vehikel zoals door de bevoegde autoriteiten van de verdragsluitende staten kan worden overeengekomen.
+   - cc. elk ander vehikel zoals door de bevoegde autoriteiten van de verdragsluitende staten kan worden overeengekomen.
 
 2. Voor de toepassing van het Verdrag door een verdragsluitende staat op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.
 
@@ -134,17 +103,17 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 2. Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide verdragsluitende staten is, wordt zijn positie als volgt bepaald:
 
-- a). hij wordt geacht slechts inwoner te zijn van de staat waarin hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide verdragsluitende staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht slechts inwoner te zijn van de staat waarmee zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
+- a) hij wordt geacht slechts inwoner te zijn van de staat waarin hij een duurzaam tehuis tot zijn beschikking heeft; indien hij in beide verdragsluitende staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht slechts inwoner te zijn van de staat waarmee zijn persoonlijke en economische betrekkingen het nauwst zijn (middelpunt van de levensbelangen);
 
-- b). indien niet kan worden bepaald in welke staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht slechts inwoner te zijn van de staat waarin hij gewoonlijk verblijft;
+- b) indien niet kan worden bepaald in welke staat hij het middelpunt van zijn levensbelangen heeft, of indien hij in geen van de staten een duurzaam tehuis tot zijn beschikking heeft, wordt hij geacht slechts inwoner te zijn van de staat waarin hij gewoonlijk verblijft;
 
-- c). indien hij in beide staten of in geen van beide gewoonlijk verblijft, wordt hij geacht slechts inwoner te zijn van de staat waarvan hij onderdaan is;
+- c) indien hij in beide staten of in geen van beide gewoonlijk verblijft, wordt hij geacht slechts inwoner te zijn van de staat waarvan hij onderdaan is;
 
-- d). indien hij onderdaan is van beide staten of van geen van beide, regelen de bevoegde autoriteiten van de verdragsluitende staten de aangelegenheid in onderling overleg.
+- d) indien hij onderdaan is van beide staten of van geen van beide, regelen de bevoegde autoriteiten van de verdragsluitende staten de aangelegenheid in onderling overleg.
 
 3. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide verdragsluitende staten is, wordt hij geacht inwoner te zijn van de staat waarin de plaats van zijn werkelijke leiding is gelegen.
 
-4. Indien de plaats van de werkelijke leiding van een rechtspersoon zich bevindt op een grensoverschrijdend bedrijventerrein en de gemeenschappelijke grens tussen de beide verdragsluitende staten loopt door de vaste bedrijfsinrichting waarin de plaats van de werkelijke leiding zich bevindt en niet eenduidig kan worden vastgesteld in welke van de verdragsluitende staten de rechtspersoon haar plaats van de werkelijke leiding heeft, dan wordt zij geacht uitsluitend inwoner te zijn van de staat waarin het grootste deel van de door de onderneming gebruikte oppervlakte van het gebouw waarin de werkelijke leiding van de onderneming wordt uitgeoefend, zich bevindt. Nadere regelingen voor de vaststelling in welk van de verdragsluitende staten de rechtspersoon wordt geacht inwoner te zijn, zijn neergelegd in de Bijlage bij dit Verdrag.
+4. Indien de plaats van de werkelijke leiding van een rechtspersoon zich bevindt op een grensoverschrijdend bedrijventerrein en de gemeenschappelijke grens tussen de beide verdragsluitende staten loopt door de vaste bedrijfsinrichting waarin de plaats van de werkelijke leiding zich bevindt en niet eenduidig kan worden vastgesteld in welke van de verdragsluitende staten de rechtspersoon haar plaats van de werkelijke leiding heeft, dan wordt zij geacht uitsluitend inwoner te zijn van de staat waarin het grootste deel van de door de onderneming gebruikte oppervlakte van het gebouw waarin de werkelijke leiding van de onderneming wordt uitgeoefend, zich bevindt. Nadere regelingen voor de vaststelling in welk van de verdragsluitende staten de rechtspersoon wordt geacht inwoner te zijn, zijn neergelegd in de [Bijlage](https://wetten.overheid.nl/BWBV0005862) bij dit Verdrag.
 
 ##### Artikel 5. Vaste inrichting
 
@@ -152,17 +121,17 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 2. De uitdrukking „vaste inrichting” omvat in het bijzonder:
 
-- a). een plaats waar leiding wordt gegeven;
+- a) een plaats waar leiding wordt gegeven;
 
-- b). een filiaal;
+- b) een filiaal;
 
-- c). een kantoor;
+- c) een kantoor;
 
-- d). een fabriek;
+- d) een fabriek;
 
-- e). een werkplaats, en
+- e) een werkplaats, en
 
-- f). een mijn, een olie- of gasbron, een (steen)groeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
+- f) een mijn, een olie- of gasbron, een (steen)groeve of een andere plaats waar natuurlijke rijkdommen worden gewonnen.
 
 3. Een plaats van uitvoering van een bouwwerk of van constructie- of installatiewerkzaamheden vormt alleen een vaste inrichting indien de duur ervan twaalf maanden overschrijdt.
 
@@ -170,11 +139,11 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 5. Voor de toepassing van het vierde lid van dit artikel wordt de uitdrukking „werkzaamheden buitengaats” evenwel geacht niet te omvatten:
 
-- a). een van de activiteiten of een combinatie daarvan als genoemd in het zevende lid;
+- a) een van de activiteiten of een combinatie daarvan als genoemd in het zevende lid;
 
-- b). sleep- of ankerwerkzaamheden door schepen die in de eerste plaats voor dat doel zijn ontworpen alsmede andere door zulke schepen verrichte activiteiten;
+- b) sleep- of ankerwerkzaamheden door schepen die in de eerste plaats voor dat doel zijn ontworpen alsmede andere door zulke schepen verrichte activiteiten;
 
-- c). het vervoer van voorraden of personeel door schepen of luchtvaartuigen in internationaal verkeer.
+- c) het vervoer van voorraden of personeel door schepen of luchtvaartuigen in internationaal verkeer.
 
 6. Teneinde de duur van de werkzaamheden buitengaats ingevolge het vierde lid juncto het vijfde lid vast te stellen indien een onderneming die in de andere verdragsluitende staat werkzaamheden buitengaats verricht en is gelieerd aan een andere onderneming, welke andere onderneming als onderdeel van hetzelfde project dezelfde werkzaamheden buitengaats voortzet die worden of werden uitgevoerd door de eerstbedoelde onderneming, en de hiervoor bedoelde door beide ondernemingen verrichte werkzaamheden omvatten bij elkaar opgeteld een tijdvak van ten minste 30 dagen, wordt iedere onderneming geacht haar werkzaamheden te verrichten gedurende een tijdvak van ten minste 30 dagen in een tijdvak van twaalf maanden. Een onderneming wordt geacht gelieerd te zijn aan een andere onderneming indien de ene onderneming onmiddellijk of middellijk ten minste een derde deel van het kapitaal van de andere onderneming bezit of indien een persoon onmiddellijk of middellijk ten minste een derde deel van het kapitaal van beide ondernemingen bezit.
 
@@ -248,9 +217,9 @@ mits het charteren, gebruik of de verhuur bijkomstig is aan de exploitatie van s
 
 1. Indien
 
-- a). een onderneming van een verdragsluitende staat onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere verdragsluitende staat; of
+- a) een onderneming van een verdragsluitende staat onmiddellijk of middellijk deelneemt aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van de andere verdragsluitende staat; of
 
-- b). dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een verdragsluitende staat en een onderneming van de andere verdragsluitende staat;
+- b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aan het toezicht op dan wel in het kapitaal van een onderneming van een verdragsluitende staat en een onderneming van de andere verdragsluitende staat;
 
 en in het ene of in het andere geval tussen de beide ondernemingen in hun handelsbetrekkingen of financiële betrekkingen voorwaarden worden overeengekomen of opgelegd, die afwijken van die welke zouden worden overeengekomen tussen onafhankelijke ondernemingen, mogen alle voordelen die een van de ondernemingen zonder deze voorwaarden zou hebben behaald, maar ten gevolge van die voorwaarden niet heeft behaald, worden begrepen in de voordelen van die onderneming en dienovereenkomstig worden belast.
 
@@ -262,11 +231,11 @@ en in het ene of in het andere geval tussen de beide ondernemingen in hun handel
 
 2. Deze dividenden mogen echter ook in de verdragsluitende staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die staat, worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van de andere verdragsluitende staat is, mag de aldus geheven belasting niet overschrijden:
 
-- a). 5 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een lichaam is dat onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt gedurende een periode van 365 dagen waarin de dag valt waarop de dividenden betaald worden (voor het berekenen van die periode wordt geen rekening gehouden met veranderingen van eigendom die rechtstreeks voortvloeien uit een bedrijfsreorganisatie, zoals een fusie of een splitsing, van het lichaam dat de aandelen bezit of de dividenden betaalt);
+- a) 5 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een lichaam is dat onmiddellijk ten minste 10 percent bezit van het kapitaal van het lichaam dat de dividenden betaalt gedurende een periode van 365 dagen waarin de dag valt waarop de dividenden betaald worden (voor het berekenen van die periode wordt geen rekening gehouden met veranderingen van eigendom die rechtstreeks voortvloeien uit een bedrijfsreorganisatie, zoals een fusie of een splitsing, van het lichaam dat de aandelen bezit of de dividenden betaalt);
 
-- b). 10 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een pensioenfonds is dat inwoner is van Nederland;
+- b) 10 percent van het brutobedrag van de dividenden, indien de uiteindelijk gerechtigde een pensioenfonds is dat inwoner is van Nederland;
 
-- c). 15 percent van het brutobedrag van de dividenden in alle overige gevallen.
+- c) 15 percent van het brutobedrag van de dividenden in alle overige gevallen.
 
 In het geval van dividenden die betaald worden door een Duitse „REIT-Aktiengesellschaft” in de zin van de Wet inzake Duitse Real Estate Investment Trust Corporations („REIT-Gesetz”) of een lichaam dat aan de Nederlandse wetgeving onderworpen is en voor de belastingheffing in wezen overeenkomt met een Duits REIT-Aktiengesellschaft, of dividenden die worden betaald aan of door een instelling voor collectieve belegging, is uitsluitend onderdeel c van toepassing.
 
@@ -374,13 +343,13 @@ Deze bepaling laat onverlet de belastingheffing van het lichaam ter zake van de 
 
 ##### Artikel 18. Overheidsfuncties
 
-- a. Salarissen, lonen en andere soortgelijke beloningen, betaald door een verdragsluitende staat, deelstaat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, aan een natuurlijke persoon ter zake van diensten verleend aan die staat, deelstaat of dat staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, zijn slechts in die staat belastbaar.
+1. - a. Salarissen, lonen en andere soortgelijke beloningen, betaald door een verdragsluitende staat, deelstaat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, aan een natuurlijke persoon ter zake van diensten verleend aan die staat, deelstaat of dat staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, zijn slechts in die staat belastbaar.
 
 - b. Deze salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere verdragsluitende staat belastbaar, indien de diensten in die staat worden verleend en de natuurlijke persoon een inwoner is van die staat die: Deze salarissen, lonen en andere soortgelijke beloningen zijn eveneens slechts in die andere verdragsluitende staat belastbaar voor een heel kalenderjaar, indien de natuurlijke persoon de diensten verleent buiten die staat gedurende minder dan 35 werkdagen in een kalenderjaar.
 
-- aa. onderdaan is van die staat, of
+   - aa. onderdaan is van die staat, of
 
-- bb. niet uitsluitend voor het verlenen van de diensten inwoner van die staat werd.
+   - bb. niet uitsluitend voor het verlenen van de diensten inwoner van die staat werd.
 
 - c. De bepalingen van onderdeel a zijn van toepassing in plaats van de bepalingen van onderdeel b, indien de natuurlijke persoon de diensten verleent in die andere verdragsluitende staat gedurende minder dan 35 werkdagen in een kalenderjaar.
 
@@ -412,39 +381,39 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 1. In het geval van een inwoner van de Bondsrepubliek Duitsland wordt de belasting als volgt vastgesteld:
 
-- a). Van de belastinggrondslag voor de Duitse belasting wordt vrijgesteld elk bestanddeel van het inkomen dat afkomstig is uit Nederland dat, volgens dit Verdrag, werkelijk wordt belast in Nederland en niet wordt behandeld in onderdeel b. Wat betreft bestanddelen van het inkomen uit dividenden, is de voorgaande bepaling uitsluitend van toepassing op dividenden die worden betaald aan een lichaam dat inwoner is van de Bondsrepubliek Duitsland door een lichaam dat inwoner is van Nederland, waarvan ten minste 10 percent van het kapitaal onmiddellijk in het bezit is van het Duitse lichaam en die niet in aftrek zijn gebracht bij het vaststellen van de winst van het lichaam dat deze dividenden uitdeelt.
+- a) Van de belastinggrondslag voor de Duitse belasting wordt vrijgesteld elk bestanddeel van het inkomen dat afkomstig is uit Nederland dat, volgens dit Verdrag, werkelijk wordt belast in Nederland en niet wordt behandeld in onderdeel b. Wat betreft bestanddelen van het inkomen uit dividenden, is de voorgaande bepaling uitsluitend van toepassing op dividenden die worden betaald aan een lichaam dat inwoner is van de Bondsrepubliek Duitsland door een lichaam dat inwoner is van Nederland, waarvan ten minste 10 percent van het kapitaal onmiddellijk in het bezit is van het Duitse lichaam en die niet in aftrek zijn gebracht bij het vaststellen van de winst van het lichaam dat deze dividenden uitdeelt.
 
-- b). Met inachtneming van de bepalingen van het Duitse belastingrecht ter zake van de verrekening van buitenlandse belasting, kan de verschuldigde Duitse belasting ter zake van de volgende bestanddelen van het inkomen worden verrekend met de ingevolge het Nederlandse belastingrecht betaalde Nederlandse belasting en in overeenstemming met dit Verdrag:
+- b) Met inachtneming van de bepalingen van het Duitse belastingrecht ter zake van de verrekening van buitenlandse belasting, kan de verschuldigde Duitse belasting ter zake van de volgende bestanddelen van het inkomen worden verrekend met de ingevolge het Nederlandse belastingrecht betaalde Nederlandse belasting en in overeenstemming met dit Verdrag:
 
-- aa). dividenden die niet worden behandeld in onderdeel a;
+   - aa) dividenden die niet worden behandeld in onderdeel a;
 
-- bb). bestanddelen van het inkomen die in overeenstemming met [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=13&z=2025-12-31&g=2025-12-31), (Vermogenswinsten) in Nederland mogen worden belast;
+   - bb) bestanddelen van het inkomen die in overeenstemming met [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=13&z=2025-12-31&g=2025-12-31), (Vermogenswinsten) in Nederland mogen worden belast;
 
-- cc). directeursbeloningen;
+   - cc) directeursbeloningen;
 
-- dd). bestanddelen van het inkomen die in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=16&z=2025-12-31&g=2025-12-31) (Artiesten en sportbeoefenaars) in Nederland mogen worden belast;
+   - dd) bestanddelen van het inkomen die in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=16&z=2025-12-31&g=2025-12-31) (Artiesten en sportbeoefenaars) in Nederland mogen worden belast;
 
-- ee). bestanddelen van het inkomen die in overeenstemming met [artikel 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31), (Pensioenen, lijfrenten en socialezekerheidsuitkeringen) in Nederland mogen worden belast.
+   - ee) bestanddelen van het inkomen die in overeenstemming met [artikel 17, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31), (Pensioenen, lijfrenten en socialezekerheidsuitkeringen) in Nederland mogen worden belast.
 
-- c). Op de bestanddelen van het inkomen omschreven in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31) en op de vermogensbestanddelen waaruit deze bestanddelen van het inkomen voortvloeien zijn de bepalingen van onderdeel b van toepassing in plaats van de bepalingen van onderdeel a indien de inwoner van de Bondsrepubliek Duitsland niet aantoont dat de bruto inkomsten van de vaste inrichting in het zakelijk jaar waarin de voordelen zijn behaald of van het lichaam dat inwoner was van Nederland in het zakelijk jaar ter zake waarvan de dividenden zijn betaald, uitsluitend of nagenoeg uitsluitend afkomstig zijn uit werkzaamheden in de zin van artikel 8, eerste lid, van de Duitse Wet op de Externe Belastingrelaties („Außensteuergesetz”); hetzelfde geldt voor onroerende zaken die door een dergelijke vaste inrichting worden gebruikt en voor inkomsten uit deze onroerende zaken van de vaste inrichting (artikel 6, vierde lid) en voor voordelen uit de vervreemding van deze onroerende zaken ([artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31)) en van de roerende zaken die deel uitmaken van het bedrijfsvermogen van de vaste inrichting (artikel 13, derde lid).
+- c) Op de bestanddelen van het inkomen omschreven in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31) en op de vermogensbestanddelen waaruit deze bestanddelen van het inkomen voortvloeien zijn de bepalingen van onderdeel b van toepassing in plaats van de bepalingen van onderdeel a indien de inwoner van de Bondsrepubliek Duitsland niet aantoont dat de bruto inkomsten van de vaste inrichting in het zakelijk jaar waarin de voordelen zijn behaald of van het lichaam dat inwoner was van Nederland in het zakelijk jaar ter zake waarvan de dividenden zijn betaald, uitsluitend of nagenoeg uitsluitend afkomstig zijn uit werkzaamheden in de zin van artikel 8, eerste lid, van de Duitse Wet op de Externe Belastingrelaties („Außensteuergesetz”); hetzelfde geldt voor onroerende zaken die door een dergelijke vaste inrichting worden gebruikt en voor inkomsten uit deze onroerende zaken van de vaste inrichting (artikel 6, vierde lid) en voor voordelen uit de vervreemding van deze onroerende zaken ([artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31)) en van de roerende zaken die deel uitmaken van het bedrijfsvermogen van de vaste inrichting (artikel 13, derde lid).
 
-- d). De Bondsrepubliek Duitsland behoudt evenwel het recht bij het vaststellen van zijn belastingtarief de bestanddelen van het inkomen in aanmerking te nemen die uit hoofde van de bepalingen van dit Verdrag zijn vrijgesteld van Duitse belasting.
+- d) De Bondsrepubliek Duitsland behoudt evenwel het recht bij het vaststellen van zijn belastingtarief de bestanddelen van het inkomen in aanmerking te nemen die uit hoofde van de bepalingen van dit Verdrag zijn vrijgesteld van Duitse belasting.
 
-- e). Niettegenstaande de bepalingen van onderdeel a, wordt dubbele belasting vermeden door verrekening toe te staan zoals omschreven in onderdeel b
+- e) Niettegenstaande de bepalingen van onderdeel a, wordt dubbele belasting vermeden door verrekening toe te staan zoals omschreven in onderdeel b
 
-- aa). indien bestanddelen van het inkomen in de verdragsluitende staten worden geplaatst onder uiteenlopende bepalingen van dit Verdrag of worden toegerekend aan uiteenlopende personen (behalve ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=9&z=2025-12-31&g=2025-12-31)) en dit verschil niet kan worden geregeld via een procedure in overeenstemming met [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), en indien het bestanddeel van het inkomen als gevolg van dit verschil in plaatsing of toerekening onbelast zou blijven of onder een lager tarief zou vallen dan zonder dit verschil, of
+   - aa) indien bestanddelen van het inkomen in de verdragsluitende staten worden geplaatst onder uiteenlopende bepalingen van dit Verdrag of worden toegerekend aan uiteenlopende personen (behalve ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=9&z=2025-12-31&g=2025-12-31)) en dit verschil niet kan worden geregeld via een procedure in overeenstemming met [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), en indien het bestanddeel van het inkomen als gevolg van dit verschil in plaatsing of toerekening onbelast zou blijven of onder een lager tarief zou vallen dan zonder dit verschil, of
 
-- bb). indien de Bondsrepubliek Duitsland, na adequate consultatie van de bevoegde autoriteit van Nederland, Nederland langs diplomatieke weg in kennis stelt van andere bestanddelen van het inkomen waarop het beoogt de bepalingen van onderdeel b toe te passen. Dubbele belasting voor het inkomen waarop de kennisgeving betrekking heeft wordt in dat geval voorkomen door een belastingverrekening toe te staan vanaf de eerste dag van het kalenderjaar volgend op dat waarin de kennisgeving werd gedaan en waarbij wordt voldaan aan de wettelijke vereisten van het Duitse recht.
+   - bb) indien de Bondsrepubliek Duitsland, na adequate consultatie van de bevoegde autoriteit van Nederland, Nederland langs diplomatieke weg in kennis stelt van andere bestanddelen van het inkomen waarop het beoogt de bepalingen van onderdeel b toe te passen. Dubbele belasting voor het inkomen waarop de kennisgeving betrekking heeft wordt in dat geval voorkomen door een belastingverrekening toe te staan vanaf de eerste dag van het kalenderjaar volgend op dat waarin de kennisgeving werd gedaan en waarbij wordt voldaan aan de wettelijke vereisten van het Duitse recht.
 
-- a). Nederland is bevoegd, bij het heffen van belasting van zijn inwoners, in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen (met uitzondering van invaliditeitspensioenen („Verletztenrenten”) en andere uitkeringen ter zake van invaliditeit krachtens de socialezekerheidswetgeving van de Bondsrepubliek Duitsland, die worden betaald aan een natuurlijke persoon die inwoner is van Nederland en die tijdens de Tweede Wereldoorlog als dwangarbeider tewerkgesteld was) die overeenkomstig de bepalingen van dit Verdrag in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast.
+2. - a) Nederland is bevoegd, bij het heffen van belasting van zijn inwoners, in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen (met uitzondering van invaliditeitspensioenen („Verletztenrenten”) en andere uitkeringen ter zake van invaliditeit krachtens de socialezekerheidswetgeving van de Bondsrepubliek Duitsland, die worden betaald aan een natuurlijke persoon die inwoner is van Nederland en die tijdens de Tweede Wereldoorlog als dwangarbeider tewerkgesteld was) die overeenkomstig de bepalingen van dit Verdrag in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast.
 
-- b). Indien echter een inwoner van Nederland bestanddelen van het inkomen verkrijgt die volgens [artikel 6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=6&z=2025-12-31&g=2025-12-31), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31), [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=8&z=2025-12-31&g=2025-12-31), [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=11&z=2025-12-31&g=2025-12-31), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=12&z=2025-12-31&g=2025-12-31), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31), [artikel 14, eerste lid, lid 1a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=14&z=2025-12-31&g=2025-12-31), [artikel 17, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31), [artikel 18, eerste lid en de eerste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=18&z=2025-12-31&g=2025-12-31), en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=21&z=2025-12-31&g=2025-12-31), van dit Verdrag ook in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast en die in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen, stelt Nederland deze bestanddelen van het inkomen vrij door een vermindering van zijn belasting toe te staan. Deze vermindering wordt berekend overeenkomstig de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting. Te dien einde worden bedoelde bestanddelen van het inkomen geacht te zijn begrepen in het bedrag van de bestanddelen van het inkomen die ingevolge die bepalingen van Nederlandse belasting zijn vrijgesteld.
+- b) Indien echter een inwoner van Nederland bestanddelen van het inkomen verkrijgt die volgens [artikel 6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=6&z=2025-12-31&g=2025-12-31), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31), [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=8&z=2025-12-31&g=2025-12-31), [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=11&z=2025-12-31&g=2025-12-31), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=12&z=2025-12-31&g=2025-12-31), [artikel 13, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31), [artikel 14, eerste lid, lid 1a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=14&z=2025-12-31&g=2025-12-31), [artikel 17, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31), [artikel 18, eerste lid en de eerste volzin van het tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=18&z=2025-12-31&g=2025-12-31), en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=21&z=2025-12-31&g=2025-12-31), van dit Verdrag ook in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast en die in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen, stelt Nederland deze bestanddelen van het inkomen vrij door een vermindering van zijn belasting toe te staan. Deze vermindering wordt berekend overeenkomstig de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting. Te dien einde worden bedoelde bestanddelen van het inkomen geacht te zijn begrepen in het bedrag van de bestanddelen van het inkomen die ingevolge die bepalingen van Nederlandse belasting zijn vrijgesteld.
 
-- c). Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor de bestanddelen van het inkomen die volgens [artikel 10, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31), [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=15&z=2025-12-31&g=2025-12-31), [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=16&z=2025-12-31&g=2025-12-31), en [artikel 17, vierde lid, van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31) in de Bondsrepubliek Duitsland mogen worden belast, in zoverre deze bestanddelen in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in de Bondsrepubliek Duitsland over deze bestanddelen van het inkomen betaalde belasting, maar bedraagt, indien de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting daarin voorzien, niet meer dan het bedrag van de aftrek die zou zijn verleend indien de aldus in het inkomen begrepen bestanddelen van het inkomen de enige bestanddelen van het inkomen zouden zijn geweest. Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting niet beperken, echter uitsluitend voor zover het de berekening van het bedrag van de aftrek van de Nederlandse belasting betreft met betrekking tot de som van inkomsten afkomstig uit meer dan een land en de voortwenteling van de belasting betaald in de Bondsrepubliek Duitsland op bedoelde bestanddelen van het inkomen naar de volgende jaren.
+- c) Nederland verleent voorts een aftrek op de aldus berekende Nederlandse belasting voor de bestanddelen van het inkomen die volgens [artikel 10, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=13&z=2025-12-31&g=2025-12-31), [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=15&z=2025-12-31&g=2025-12-31), [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=16&z=2025-12-31&g=2025-12-31), en [artikel 17, vierde lid, van dit Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=17&z=2025-12-31&g=2025-12-31) in de Bondsrepubliek Duitsland mogen worden belast, in zoverre deze bestanddelen in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen. Het bedrag van deze aftrek is gelijk aan de in de Bondsrepubliek Duitsland over deze bestanddelen van het inkomen betaalde belasting, maar bedraagt, indien de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting daarin voorzien, niet meer dan het bedrag van de aftrek die zou zijn verleend indien de aldus in het inkomen begrepen bestanddelen van het inkomen de enige bestanddelen van het inkomen zouden zijn geweest. Dit lid zal een tegemoetkoming nu of in de toekomst verleend uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting niet beperken, echter uitsluitend voor zover het de berekening van het bedrag van de aftrek van de Nederlandse belasting betreft met betrekking tot de som van inkomsten afkomstig uit meer dan een land en de voortwenteling van de belasting betaald in de Bondsrepubliek Duitsland op bedoelde bestanddelen van het inkomen naar de volgende jaren.
 
-- d). Niettegenstaande de bepalingen van het tweede lid, onderdeel b, verleent Nederland een aftrek op de Nederlandse belasting voor de in de Bondsrepubliek Duitsland betaalde belasting op bestanddelen van het inkomen die volgens [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31), [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=11&z=2025-12-31&g=2025-12-31), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=12&z=2025-12-31&g=2025-12-31), en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=21&z=2025-12-31&g=2025-12-31), van dit Verdrag in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast, voor zover deze bestanddelen in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen, en voor zover Nederland uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting een vermindering verleent op de Nederlandse belasting voor de in een ander land over die bestanddelen van het inkomen geheven belasting. Voor de berekening van deze aftrek zijn de bepalingen van het tweede lid, onderdeel c, van dit artikel van overeenkomstige toepassing.
+- d) Niettegenstaande de bepalingen van het tweede lid, onderdeel b, verleent Nederland een aftrek op de Nederlandse belasting voor de in de Bondsrepubliek Duitsland betaalde belasting op bestanddelen van het inkomen die volgens [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=7&z=2025-12-31&g=2025-12-31), [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=11&z=2025-12-31&g=2025-12-31), [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=12&z=2025-12-31&g=2025-12-31), en [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=21&z=2025-12-31&g=2025-12-31), van dit Verdrag in de Bondsrepubliek Duitsland mogen worden belast of uitsluitend in de Bondsrepubliek Duitsland mogen worden belast, voor zover deze bestanddelen in de in het tweede lid, onderdeel a, bedoelde grondslag zijn begrepen, en voor zover Nederland uit hoofde van de bepalingen in de Nederlandse wetgeving tot het vermijden van dubbele belasting een vermindering verleent op de Nederlandse belasting voor de in een ander land over die bestanddelen van het inkomen geheven belasting. Voor de berekening van deze aftrek zijn de bepalingen van het tweede lid, onderdeel c, van dit artikel van overeenkomstige toepassing.
 
-- e). De bepalingen van onderdeel b zijn niet van toepassing op bestanddelen van het inkomen verkregen door een inwoner van Nederland wanneer de Bondsrepubliek Duitsland de bepalingen van dit Verdrag toepast om deze bestanddelen van het inkomen vrij te stellen van belasting of de bepalingen van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), op deze bestanddelen van het inkomen toepast. In dat geval zijn de bepalingen van onderdeel c van overeenkomstige toepassing.
+- e) De bepalingen van onderdeel b zijn niet van toepassing op bestanddelen van het inkomen verkregen door een inwoner van Nederland wanneer de Bondsrepubliek Duitsland de bepalingen van dit Verdrag toepast om deze bestanddelen van het inkomen vrij te stellen van belasting of de bepalingen van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=III&artikel=10&z=2025-12-31&g=2025-12-31), op deze bestanddelen van het inkomen toepast. In dat geval zijn de bepalingen van onderdeel c van overeenkomstige toepassing.
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
@@ -482,9 +451,9 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 6. Bijdragen die door of namens een natuurlijke persoon die een dienstbetrekking uitoefent of als zelfstandige werkzaam is in een verdragsluitende staat, zijn betaald aan een voor de belastingheffing in de andere verdragsluitende staat erkende pensioenregeling, worden voor de belastingheffing in de eerstbedoelde staat op dezelfde wijze behandeld als een bijdrage betaald aan een in die eerstbedoelde staat voor de belastingheffing erkende pensioenregeling, mits:
 
-- a). die natuurlijke persoon reeds bijdroeg aan de pensioenregeling voordat hij een dienstbetrekking ging uitoefenen of als zelfstandige werkzaam werd in de eerstbedoelde staat; en
+- a) die natuurlijke persoon reeds bijdroeg aan de pensioenregeling voordat hij een dienstbetrekking ging uitoefenen of als zelfstandige werkzaam werd in de eerstbedoelde staat; en
 
-- b). de bevoegde autoriteit van de eerstbedoelde staat ermee instemt dat de pensioenregeling over het algemeen gelijkwaardig is aan een door die staat voor de belastingheffing erkende pensioenregeling. Voor de toepassing van dit lid omvat „pensioenregeling” mede een pensioenregeling die in het leven is geroepen uit hoofde van een publiekrechtelijk socialezekerheidsstelsel.
+- b) de bevoegde autoriteit van de eerstbedoelde staat ermee instemt dat de pensioenregeling over het algemeen gelijkwaardig is aan een door die staat voor de belastingheffing erkende pensioenregeling. Voor de toepassing van dit lid omvat „pensioenregeling” mede een pensioenregeling die in het leven is geroepen uit hoofde van een publiekrechtelijk socialezekerheidsstelsel.
 
 7. De bepalingen van dit artikel zijn, niettegenstaande de bepalingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=I&artikel=2&z=2025-12-31&g=2025-12-31), van toepassing op belastingen van elke soort en benaming.
 
@@ -500,9 +469,9 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 5. Indien
 
-- a). een persoon uit hoofde van het eerste lid een geval heeft voorgelegd aan de bevoegde autoriteit van een verdragsluitende staat omdat de maatregelen van een of van beide verdragsluitende staten ertoe hebben geleid dat de belastingheffing voor die persoon niet in overeenstemming is met de bepalingen van dit Verdrag, en
+- a) een persoon uit hoofde van het eerste lid een geval heeft voorgelegd aan de bevoegde autoriteit van een verdragsluitende staat omdat de maatregelen van een of van beide verdragsluitende staten ertoe hebben geleid dat de belastingheffing voor die persoon niet in overeenstemming is met de bepalingen van dit Verdrag, en
 
-- b). de bevoegde autoriteiten er niet in slagen om binnen twee jaar nadat het geval is voorgelegd aan de bevoegde autoriteit van de andere verdragsluitende staat, overeenstemming te bereiken om het geval op te lossen overeenkomstig het tweede lid, worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de persoon voorgelegd voor arbitrage. De arbitrale uitspraak is bindend voor beide verdragsluitende staten en wordt ten uitvoer gelegd ongeacht eventuele termijnen in de nationale wetgeving van deze staten, tenzij de rechtstreeks betrokken persoon de wederzijdse overeenstemming voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt. De verdragsluitende staten regelen in onderling overleg de wijze van toepassing van dit lid.
+- b) de bevoegde autoriteiten er niet in slagen om binnen twee jaar nadat het geval is voorgelegd aan de bevoegde autoriteit van de andere verdragsluitende staat, overeenstemming te bereiken om het geval op te lossen overeenkomstig het tweede lid, worden onopgeloste kwesties die voortvloeien uit het geval op verzoek van de persoon voorgelegd voor arbitrage. De arbitrale uitspraak is bindend voor beide verdragsluitende staten en wordt ten uitvoer gelegd ongeacht eventuele termijnen in de nationale wetgeving van deze staten, tenzij de rechtstreeks betrokken persoon de wederzijdse overeenstemming voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt. De verdragsluitende staten regelen in onderling overleg de wijze van toepassing van dit lid.
 
 ##### Artikel 26. Boekenonderzoeken op grensoverschrijdende bedrijventerreinen
 
@@ -510,15 +479,15 @@ zijn de voordelen van dit Verdrag niet van toepassing op enig bestanddeel van he
 
 2. De verdragsluitende staat op het grondgebied waarvan de uitvoering van een boekenonderzoek als bedoeld in het eerste lid is voorzien, moet daarvan ten minste twee weken voor de geplande aanvang van het voorgenomen onderzoek door de andere verdragsluitende staat in kennis worden gesteld. In de kennisgeving dient mededeling te worden gedaan van:
 
-- a). de autoriteit of instantie, van wie het door de hoogste belastingautoriteit voorgestelde onderzoek uitgaat;
+- a) de autoriteit of instantie, van wie het door de hoogste belastingautoriteit voorgestelde onderzoek uitgaat;
 
-- b). de autoriteit of instantie, die met de uitvoering van het onderzoek belast is;
+- b) de autoriteit of instantie, die met de uitvoering van het onderzoek belast is;
 
-- c). naam, adres en andere ter zake dienende gegevens voor de vaststelling van de identiteit van de te onderzoeken onderneming;
+- c) naam, adres en andere ter zake dienende gegevens voor de vaststelling van de identiteit van de te onderzoeken onderneming;
 
-- d). de geplande aanvang van het onderzoek;
+- d) de geplande aanvang van het onderzoek;
 
-- e). welke belastingmiddelen en tijdvakken het onderzoek omvat.
+- e) welke belastingmiddelen en tijdvakken het onderzoek omvat.
 
 Na afsluiting van het onderzoek stelt de verdragsluitende staat die het onderzoek verricht de andere staat in kennis van het tijdstip waarop het onderzoek is beëindigd.
 
@@ -538,11 +507,11 @@ Na afsluiting van het onderzoek stelt de verdragsluitende staat die het onderzoe
 
 4. In geen geval worden de bepalingen van de voorgaande leden zo uitgelegd dat zij een verdragsluitende staat de verplichting opleggen:
 
-- a). bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere verdragsluitende staat;
+- a) bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere verdragsluitende staat;
 
-- b). informatie te verstrekken die niet verkrijgbaar is volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere verdragsluitende staat;
+- b) informatie te verstrekken die niet verkrijgbaar is volgens de wetgeving of in de normale gang van zaken in het bestuur van die of van de andere verdragsluitende staat;
 
-- c). informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of een handelsproces zou onthullen, dan wel informatie waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
+- c) informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim of een handelsproces zou onthullen, dan wel informatie waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
 
 5. Indien informatie wordt verzocht door een verdragsluitende staat in overeenstemming met dit artikel, wendt de andere verdragsluitende staat zijn maatregelen inzake het verzamelen van informatie aan om de verzochte informatie te verkrijgen, ongeacht het feit dat de andere staat ten behoeve van zijn eigen belastingheffing niet over dergelijke informatie behoeft te beschikken. Op de in de vorige volzin vervatte verplichting zijn de beperkingen van het vierde lid van toepassing, maar deze beperkingen mogen in geen geval zodanig worden uitgelegd dat het een verdragsluitende staat toegestaan is uitsluitend op grond van het feit dat hij geen nationaal belang heeft bij dergelijke informatie te weigeren informatie te verstrekken.
 
@@ -564,21 +533,21 @@ Na afsluiting van het onderzoek stelt de verdragsluitende staat die het onderzoe
 
 7. Indien te eniger tijd nadat uit hoofde van het derde of vierde lid een verzoek is gedaan door een verdragsluitende staat en voordat de andere verdragsluitende staat de desbetreffende belastingvordering heeft ingevorderd en overgemaakt aan de eerstbedoelde staat, de desbetreffende belastingvordering:
 
-- a). in het geval van een verzoek ingevolge het derde lid, ophoudt een belastingvordering van de eerstbedoelde staat te zijn die invorderbaar is uit hoofde van de wetgeving van die staat en die verschuldigd is door een persoon die, op dat tijdstip, uit hoofde van de wetgeving van die staat de invordering ervan niet kan beletten; of
+- a) in het geval van een verzoek ingevolge het derde lid, ophoudt een belastingvordering van de eerstbedoelde staat te zijn die invorderbaar is uit hoofde van de wetgeving van die staat en die verschuldigd is door een persoon die, op dat tijdstip, uit hoofde van de wetgeving van die staat de invordering ervan niet kan beletten; of
 
-- b). in het geval van een verzoek uit hoofde van het vierde lid, ophoudt een belastingvordering van de eerstbedoelde staat te zijn ter zake waarvan die staat uit hoofde van zijn wetgeving conservatoire maatregelen kan treffen teneinde de invordering ervan te waarborgen,
+- b) in het geval van een verzoek uit hoofde van het vierde lid, ophoudt een belastingvordering van de eerstbedoelde staat te zijn ter zake waarvan die staat uit hoofde van zijn wetgeving conservatoire maatregelen kan treffen teneinde de invordering ervan te waarborgen,
 
 stelt de bevoegde autoriteit van de eerstbedoelde staat de bevoegde autoriteit van de andere staat onverwijld daarvan in kennis en wordt, naar keuze van de andere staat, het verzoek door de eerstbedoelde staat uitgesteld of ingetrokken.
 
 8. In geen geval worden de bepalingen van dit artikel zo uitgelegd dat zij een verdragsluitende staat de verplichting opleggen:
 
-- a). bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere verdragsluitende staat;
+- a) bestuurlijke maatregelen te nemen die in strijd zijn met de wetgeving of bestuurlijke praktijk van die of van de andere verdragsluitende staat;
 
-- b). maatregelen te nemen die in strijd zouden zijn met de openbare orde (ordre public);
+- b) maatregelen te nemen die in strijd zouden zijn met de openbare orde (ordre public);
 
-- c). bijstand te verlenen indien de andere verdragsluitende staat niet alle redelijke invorderings- of conservatoire maatregelen heeft aangewend die hem naargelang van het geval uit hoofde van zijn wetgeving of bestuurlijke praktijk, ter beschikking staan;
+- c) bijstand te verlenen indien de andere verdragsluitende staat niet alle redelijke invorderings- of conservatoire maatregelen heeft aangewend die hem naargelang van het geval uit hoofde van zijn wetgeving of bestuurlijke praktijk, ter beschikking staan;
 
-- d). bijstand te verlenen in gevallen waarin de administratieve last voor die staat duidelijk in verhouding onevenredig is met het voordeel te behalen door de andere verdragsluitende staat.
+- d) bijstand te verlenen in gevallen waarin de administratieve last voor die staat duidelijk in verhouding onevenredig is met het voordeel te behalen door de andere verdragsluitende staat.
 
 ##### Artikel 29. Procedures voor belastingheffing aan de bron
 
@@ -594,7 +563,7 @@ Elke verdragsluitende staat voorziet in vrijstelling van belastingheffing aan de
 
 ##### Artikel 31. Bijlage en Protocol
 
-De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst tot regeling van de wijze van toepassing van de arbitrageprocedure maken een integrerend onderdeel uit van dit Verdrag.
+De [Bijlage](https://wetten.overheid.nl/BWBV0005862), het aan dit Verdrag gehechte [Protocol](https://wetten.overheid.nl/BWBV0005862) en de [Onderlinge Overeenkomst](https://wetten.overheid.nl/BWBV0005862) tot regeling van de wijze van toepassing van de arbitrageprocedure maken een integrerend onderdeel uit van dit Verdrag.
 
 ##### Artikel 32. Uitbreiding tot andere gebieden
 
@@ -610,13 +579,13 @@ De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst 
 
 2. Het Verdrag treedt in werking op de eerste dag van de tweede maand na de uitwisseling van de akten van bekrachtiging en wordt van toepassing:
 
-- a). in de Bondsrepubliek Duitsland:
+- a) in de Bondsrepubliek Duitsland:
 
-- aa). in het geval van belastingen geheven aan de bron, ter zake van bedragen betaald op of na 1 januari van het kalenderjaar volgend op het jaar waarin het Verdrag in werking is getreden;
+   - aa) in het geval van belastingen geheven aan de bron, ter zake van bedragen betaald op of na 1 januari van het kalenderjaar volgend op het jaar waarin het Verdrag in werking is getreden;
 
-- bb). in het geval van overige belastingen, ter zake van belastingen geheven over tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.
+   - bb) in het geval van overige belastingen, ter zake van belastingen geheven over tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.
 
-- b). in Nederland: voor belastingjaren en -tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.
+- b) in Nederland: voor belastingjaren en -tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.
 
 3. Na de inwerkingtreding van het Verdrag houdt de [Overeenkomst tussen de Bondsrepubliek Duitsland en Nederland van 16 juni 1959 tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied in de versie gewijzigd bij het Aanvullende Protocol van 13 maart 1980, het Tweede Aanvullende Protocol van 21 mei 1991, alsmede het derde aanvullende protocol van 4 juni 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0004851) (hierna: „de Overeenkomst van 1959”) op van toepassing te zijn.
 
@@ -634,134 +603,12 @@ In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en 
 
 Kennisgeving van beëindiging wordt geacht door een verdragsluitende staat te zijn gedaan op de datum van ontvangst van de kennisgeving door de andere verdragsluitende partij.
 
-Op zaken die worden voorgelegd uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen naar het inkomen, ondertekend te Berlijn op 12 april 2012 („het Verdrag”), zijn de volgende regels en procedures van toepassing. De bevoegde autoriteiten van Nederland en Duitsland kunnen deze overeenkomst wijzigen of aanvullen door middel van een onderlinge notawisseling.
-
-##### 1. Verzoek om voorlegging van een zaak voor arbitrage
-
-Een verzoek uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) (het „verzoek om arbitrage”) om voorlegging voor arbitrage van onopgeloste kwesties voortvloeiend uit een onderlinge overlegprocedure wordt schriftelijk gedaan en gezonden aan een van de bevoegde autoriteiten. Het verzoek bevat voldoende gegevens ter aanduiding van de zaak. Het verzoek gaat tevens vergezeld van een schriftelijke verklaring van elk van de personen die hetzij het verzoek hebben ingediend, hetzij rechtstreeks bij de zaak betrokken zijn, dat in dezelfde kwesties niet reeds uitspraak is gedaan door een rechterlijke instantie of bestuursrechtelijk lichaam van een van de verdragsluitende staten. Binnen 10 dagen na ontvangst van het verzoek zendt de bevoegde autoriteit die het heeft ontvangen een afschrift van het verzoek en de begeleidende verklaringen toe aan de andere bevoegde autoriteit.
-
-##### 2. Termijn voor voorlegging van een zaak voor arbitrage
-
-Een verzoek om arbitrage kan na twee jaar na de datum waarop een zaak ingevolge [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), is voorgelegd aan de bevoegde autoriteit van een verdragsluitende staat slechts worden ingediend indien de zaak ook is voorgelegd aan de bevoegde autoriteit van de andere staat. Daartoe wordt een zaak uitsluitend geacht te zijn voorgelegd aan een bevoegde autoriteit indien deze bevoegde autoriteit de informatie heeft ontvangen die nodig is voor een materiële behandeling ten behoeve van onderling overleg.
-
-Deze informatie kan omvatten:
-
-- a. de identiteit (zoals naam, adres, belastingnummer) van de persoon die het verzoek indient en van personen die rechtstreeks bij de zaak betrokken zijn (bijvoorbeeld verwante personen of gelieerde ondernemingen);
-
-- b. gegevens omtrent de relevante feiten en omstandigheden van de zaak (waaronder gegevens omtrent de relatie tussen de persoon die het verzoek indient en de personen die rechtstreeks bij de zaak betrokken zijn);
-
-- c. aanduiding van de desbetreffende belastingtijdvakken;
-
-- d. afschriften van de desbetreffende belastingaanslagen, rapporten van belastingcontroles of daarmee vergelijkbare documenten die leiden tot de belastingheffing die niet in overeenstemming zou zijn met het Verdrag;
-
-- e. gegevens omtrent in Duitsland of Nederland ingestelde beroepsprocedures en gerechtelijke procedures door de persoon die het verzoek indient of een persoon die rechtstreeks bij de zaak betrokken is en van eventuele uitspraken over de zaak;
-
-- f. gegevens van eventuele in Duitsland of Nederland geïnitieerde unilaterale Advance Pricing Agreements (APA) door de persoon die het verzoek indient of een persoon die rechtstreeks bij de zaak betrokken is;
-
-- g. een toelichting op de reden waarom de persoon die het verzoek indient meent dat de maatregelen van een of beide verdragsluitende staten leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met het Verdrag;
-
-- h. de aard van de in Duitsland en/of Nederland geïnitieerde maatregelen;
-
-- i. alle specifieke aanvullende informatie waar een bevoegde autoriteit binnen drie maanden na ontvangst van het verzoek door die bevoegde autoriteit om heeft verzocht.
-
-##### 3. Terms of reference
-
-Binnen drie maanden nadat het verzoek om arbitrage door beide bevoegde autoriteiten is ontvangen, komen de bevoegde autoriteiten overeen welke kwesties door de arbitrage-instantie moeten worden opgelost en delen deze schriftelijk mede aan de persoon die het verzoek om arbitrage heeft ingediend. Dit zijn de „Terms of reference” voor de zaak. Niettegenstaande de volgende paragrafen, kunnen de bevoegde autoriteiten in de Terms of reference ook procedureregels opnemen die de regels in de paragrafen van deze overeenkomst aanvullen of ervan afwijken en indien nodig, andere aangelegenheden betreffen.
-
-##### 4. Uitblijven van mededeling van de Terms of reference
-
-Indien de Terms of reference niet binnen de termijn bedoeld in de voorgaande [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=3&z=2025-12-31&g=2025-12-31) zijn medegedeeld aan de persoon die het verzoek om arbitrage heeft ingediend, kunnen die persoon en elke bevoegde autoriteit binnen een maand na afloop van die termijn elkaar schriftelijk een lijst van de door arbitrage op te lossen kwesties toezenden. Alle gedurende die termijn aldus toegezonden lijsten vormen de voorlopige Terms of reference. Binnen een maand nadat alle arbiters zijn benoemd als voorzien in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) hierna, zenden de arbiters de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend een op basis van de aldus toegezonden lijsten herziene versie van de voorlopige Terms of reference toe. Binnen een maand nadat zij beide de herziene versie hebben ontvangen, kunnen de bevoegde autoriteiten andere Terms of reference overeenkomen en deze schriftelijk toezenden aan de arbiters en de persoon die het verzoek om arbitrage heeft ingediend. Indien zij dat binnen die termijn doen, vormen deze andere Terms of reference de Terms of reference voor de zaak. Indien de bevoegde autoriteiten binnen die termijn geen andere Terms of reference overeenkomen en toezenden, vormt de herziene versie van de voorlopige Terms of reference opgesteld door de arbiters de Terms of reference voor de zaak.
-
-##### 5. Keuze van arbiters
-
-Binnen drie maanden nadat de Terms of reference door de persoon die het verzoek om arbitrage heeft ingediend zijn ontvangen, of, indien paragraaf 4 van toepassing is, binnen vier maanden nadat het verzoek om arbitrage is ontvangen door beide bevoegde autoriteiten, benoemen de bevoegde autoriteiten elk een arbiter. Binnen twee maanden nadat de laatste benoeming heeft plaatsgevonden, benoemen de aldus benoemde arbiters een derde arbiter die als voorzitter zal optreden. Indien een benoeming niet binnen de vereiste termijn geschiedt, wordt (worden) de ontbrekende arbiter(s) binnen vijftien dagen na ontvangst van een verzoek daartoe van de persoon die het verzoek om arbitrage heeft ingediend benoemd door de hoogstgeplaatste functionaris van het Secretariaat van het Centre for Tax Policy and Administration van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die geen onderdaan is van een van de verdragsluitende staten. Dezelfde procedure is met de noodzakelijke aanpassingen van toepassing indien het na aanvang van de arbitrageprocedure noodzakelijk blijkt een arbiter te vervangen, ongeacht de redenen daarvoor. Tenzij de Terms of reference anders voorzien, is de wijze van beloning gelijk aan de methode gehanteerd in de Gedragscode bij het EG-arbitrageverdrag.
-
-##### 6. Gestroomlijnde arbitrageprocedure
-
-Indien de bevoegde autoriteiten dat aangeven in de Terms of reference (op voorwaarde dat deze niet zijn overeengekomen na de aanwijzing van de arbiters ingevolge [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=4&z=2025-12-31&g=2025-12-31) hierboven), zijn onverminderd de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=11&z=2025-12-31&g=2025-12-31), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=15&z=2025-12-31&g=2025-12-31), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=16&z=2025-12-31&g=2025-12-31), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=17&z=2025-12-31&g=2025-12-31) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=19&z=2025-12-31&g=2025-12-31), de volgende regels van toepassing:
-
-- a. binnen een maand na ontvangst van de Terms of reference door de persoon die het verzoek om arbitrage heeft ingediend, benoemen de twee bevoegde autoriteiten met wederzijdse instemming een arbiter. Indien na afloop van die termijn geen arbiter is benoemd, wordt de arbiter binnen 15 dagen na ontvangst van een verzoek daartoe van de persoon die het in [paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=1&z=2025-12-31&g=2025-12-31) bedoelde verzoek heeft ingediend benoemd door de hoogstgeplaatste functionaris van het Secretariaat van het Centre for Tax Policy and Administration van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die geen onderdaan is van een van de verdragsluitende staten. Tenzij de Terms of reference anders voorzien, is de wijze van beloning gelijk aan de methode gehanteerd in de Gedragscode bij het EG-arbitrageverdrag.
-
-- b. Binnen twee maanden na de benoeming van de arbiter dient elke bevoegde autoriteit schriftelijk haar eigen antwoord op de in de Terms of reference vervatte vragen in bij de arbiter.
-
-- c. Binnen een maand na ontvangst van het laatste van de antwoorden van de bevoegde autoriteiten beslist de arbiter over elke vraag vervat in de Terms of reference overeenkomstig een van de twee antwoorden ontvangen van de bevoegde autoriteiten naar aanleiding van die vraag en stelt de bevoegde autoriteiten en elke persoon die direct bij de zaak betrokken is in kennis van de keuze, tezamen met een korte toelichting op die keuze. De uitspraken worden ten uitvoer gelegd zoals voorzien in [paragraaf 19](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=19&z=2025-12-31&g=2025-12-31).
-
-##### 7. Voorwaarden voor en benoeming van arbiters
-
-Een ieder, met inbegrip van ambtenaren van een verdragsluitende staat, kan worden benoemd als arbiter, tenzij die persoon in eerdere fasen betrokken is geweest bij de zaak die aanleiding is voor de arbitrageprocedure. Een arbiter wordt geacht te zijn benoemd wanneer een brief ter bevestiging van die benoeming is ondertekend door zowel de persoon of personen die bevoegd is of zijn tot benoeming van die arbiter als door de arbiter zelf.
-
-##### 8. Verstrekking van informatie en vertrouwelijkheid
-
-Uitsluitend voor de toepassing van de bepalingen van de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) en [27](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=27&z=2025-12-31&g=2025-12-31) en van de nationale wetgeving van de verdragsluitende staten inzake de verzending en vertrouwelijkheid van de informatie betreffende de zaak die tot de arbitrageprocedure leidt, wordt elke arbiter benoemd als gevolmachtigd vertegenwoordiger van de bevoegde autoriteit die die arbiter heeft benoemd of, indien die arbiter niet uitsluitend door een bevoegde autoriteit is benoemd, van de bevoegde autoriteit waaraan de zaak die tot de arbitrageprocedure leidt oorspronkelijk was voorgelegd. Derhalve zijn de arbiters onderworpen aan dezelfde strikte vereisten omtrent vertrouwelijkheid die gelden ten aanzien van de informatie met betrekking tot de zaak die op de bevoegde autoriteiten zelf van toepassing zijn.
-
-##### 9. Verzuim tijdig informatie te verstrekken
-
-Niettegenstaande de [paragrafen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=6&z=2025-12-31&g=2025-12-31), indien beide bevoegde autoriteiten overeenkomen dat het verzuim een kwestie binnen de in [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), voorziene termijn van twee jaar op te lossen vooral te wijten is aan het nalaten van een persoon die rechtstreeks wordt getroffen door de zaak tijdig relevante informatie te verstrekken, kunnen de bevoegde autoriteiten de benoeming van de arbiter uitstellen gedurende een tijdvak dat overeenkomt met de vertraging bij het verstrekken van die informatie.
-
-##### 10. Regels omtrent procedure en bewijsvoering
-
-Met inachtneming van deze overeenkomst en de Terms of reference nemen de arbiters de regels omtrent procedure en bewijsvoering aan die zij nodig achten ter beantwoording van de vragen vervat in de Terms of reference. Zij hebben toegang tot alle informatie, met inbegrip van vertrouwelijke informatie, die nodig is om over de voor arbitrage voorgelegde kwesties te beslissen. Tenzij de bevoegde autoriteiten anders overeenkomen, wordt informatie die niet aan beide bevoegde autoriteiten ter beschikking stond voordat het verzoek om arbitrage door beide was ontvangen niet in aanmerking genomen ten behoeve van de uitspraak.
-
-##### 11. Deelname door de persoon die om de arbitrage heeft verzocht
-
-De persoon die het verzoek om arbitrage heeft ingediend kan zijn standpunt, hetzij rechtstreeks, hetzij via zijn vertegenwoordigers, op dezelfde wijze schriftelijk voorleggen aan de arbiters als bij de regeling voor onderling overleg. Daarnaast kan deze persoon met toestemming van de arbiters zijn standpunt tijdens de arbitrageprocedure mondeling presenteren.
-
-##### 12. Logistieke maatregelen
-
-Tenzij anders overeengekomen door de bevoegde autoriteiten, is de bevoegde autoriteit waaraan de zaak die tot de arbitrage leidt oorspronkelijk was voorgelegd verantwoordelijk voor de logistieke maatregelen voor de bijeenkomsten van de arbiters en stelt zij het nodige administratieve personeel voor de uitvoering van het arbitrageproces ter beschikking. Het aldus ter beschikking gestelde personeel rapporteert over elke daarmee verband houdende aangelegenheid uitsluitend aan de voorzitter van de arbiters.
-
-##### 13. Kosten
-
-Tenzij anders overeengekomen door de bevoegde autoriteiten:
-
-- a. draagt elke bevoegde autoriteit en de persoon die om de arbitrage heeft verzocht de kosten die verband houden met haar of zijn deelname aan de arbitrageprocedure (met inbegrip van reiskosten en kosten die verband houden met de voorbereiding en presentatie van haar of zijn standpunten);
-
-- b. draagt elke bevoegde autoriteit de kosten van de beloning van de uitsluitend door die bevoegde autoriteit benoemde arbiter, of, indien die bevoegde autoriteit verzuimd heeft een arbiter te benoemen, de door de hoogstgeplaatste functionaris van het Secretariaat van het Centre for Tax Policy and Administration van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die geen onderdaan is van een van de verdragsluitende staten benoemde arbiter, alsmede de door die arbiter gemaakte reis- en telecommunicatiekosten en secretariële kosten;
-
-- c. worden de beloning van de voorzitter en van de arbiter benoemd via de gestroomlijnde arbitrageprocedure en hun reis- en telecommunicatiekosten en secretariële kosten gelijkelijk gedragen door de twee verdragsluitende staten;
-
-- d. worden kosten die verband houden met de vergaderingen van de arbiters en met het administratief personeel dat nodig is voor de uitvoering van de arbitrageprocedure gedragen door de bevoegde autoriteit waaraan de zaak die aanleiding was voor de arbitrage oorspronkelijk was voorgelegd; en
-
-- e. worden alle overige kosten (met inbegrip van vertaalkosten en van het vastleggen van de procedure) die verband houden met kosten waarover beide bevoegde autoriteiten overeenstemming hebben bereikt, gelijkelijk gedragen door beide verdragsluitende staten.
-
-##### 14. Toepasselijke rechtsbeginselen
-
-De arbiters beslissen over de kwesties die voor arbitrage zijn voorgelegd in overeenstemming met de van toepassing zijnde bepalingen van het Verdrag en, onder voorbehoud van deze bepalingen, met die van het nationale recht van de verdragsluitende staten. Over kwesties omtrent verdragsinterpretatie beslissen de arbiters in het licht van de interpretatiebeginselen vervat in de [artikelen 31 tot en met 33 van het Verdrag van Wenen inzake het verdragenrecht](onbekend), waarbij de commentaren van het OESO-modelverdrag inzake belastingen, als van tijd tot tijd gewijzigd, zoals uitgelegd in de paragrafen 28 tot en met 36.1 van de inleiding tot het OESO-modelverdrag inzake belastingen in aanmerking worden genomen. Over kwesties omtrent de toepassing van het arm’s length-beginsel dient op vergelijkbare wijze te worden besloten, daarbij de OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (OESO-richtlijnen voor verrekenprijzen voor multinationale ondernemingen en belastingdiensten) in aanmerking nemend. De arbiters bestuderen ook eventuele andere bronnen die de bevoegde autoriteiten uitdrukkelijk kunnen noemen in de Terms of reference.
-
-##### 15. Arbitrale uitspraak
-
-Indien meer dan een arbiter is benoemd, wordt de uitspraak genomen bij een eenvoudige meerderheid van de arbiters. Tenzij anders voorzien in de Terms of reference, wordt de uitspraak van de arbiters schriftelijk gegeven, waarbij de rechtsbronnen die aan de uitspraak ten grondslag liggen alsmede de motivering worden vermeld. Na toestemming van de persoon die om de arbitrage heeft verzocht en van beide bevoegde autoriteiten, mag de uitspraak in geredigeerde vorm worden gepubliceerd zonder de namen van de betrokken partijen en zonder gegevens waarmee hun identiteit zou kunnen worden herleid en met dien verstande dat de uitspraak geen formele precedentwerking heeft.
-
-##### 16. Termijn voor mededelen van de arbitrale uitspraak
-
-De arbitrale uitspraak moet binnen zes maanden nadat de voorzitter de bevoegde autoriteiten en elke persoon die rechtstreeks betrokken is bij de zaak er schriftelijk van in kennis heeft gesteld dat hij alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen, worden medegedeeld aan de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend. Indien, niettegenstaande het eerste deel van deze paragraaf, de voorzitter op enig tijdstip binnen twee maanden na de datum waarop de laatste arbiter is benoemd met instemming van een van de bevoegde autoriteiten de andere bevoegde autoriteit en de persoon die het verzoek om arbitrage heeft ingediend ervan in kennis stelt dat hij niet alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen,
-
-- a. en de voorzitter de nodige informatie ontvangt binnen twee maanden na de datum waarop die kennisgeving is verzonden, dient de arbitrale uitspraak aan de bevoegde autoriteiten en elke persoon die rechtstreeks betrokken is bij de zaak te worden medegedeeld binnen zes maanden na de datum waarop de informatie door de voorzitter is ontvangen,
-
-- b. en de voorzitter de nodige informatie niet heeft ontvangen binnen twee maanden na de datum waarop die kennisgeving is verzonden, dient de arbitrale uitspraak, tenzij de bevoegde autoriteiten anders overeenkomen, te worden gedaan zonder die informatie, ook wanneer de voorzitter deze later ontvangt, en dient de uitspraak aan de bevoegde autoriteiten en elke persoon die rechtstreeks bij de zaak betrokken is te worden medegedeeld binnen acht maanden na de datum waarop de kennisgeving is verzonden.
-
-##### 17. Verzuim de uitspraak binnen de vereiste termijn mede te delen
-
-Indien de uitspraak niet binnen de in de [paragrafen 6c](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=6&z=2025-12-31&g=2025-12-31) of [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=16&z=2025-12-31&g=2025-12-31) voorziene termijn aan de bevoegde autoriteiten is medegedeeld, kunnen de bevoegde autoriteiten overeenkomen die termijn te verlengen met een tijdvak van ten hoogste zes maanden, of, indien zij zulks nalaten binnen een maand na afloop van de termijn voorzien in de paragrafen 6c of 16, benoemen zij in overeenstemming met [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=5&z=2025-12-31&g=2025-12-31) of 6a een of meer nieuwe arbiters, al naargelang van het geval.
-
-##### 18. Definitieve uitspraak
-
-De arbitrale uitspraak is definitief, tenzij de rechters van een van de verdragsluitende staten de uitspraak niet uitvoerbaar achten in verband met een schending van [artikel 25, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31), of van een procedureregel vervat in de Terms of reference of in deze overeenkomst die redelijkerwijs van toepassing had kunnen zijn op de uitspraak. Indien een uitspraak op een van deze gronden onuitvoerbaar wordt geacht, wordt de arbitrageprocedure geacht niet hebben plaatsgevonden (tenzij voor de toepassing van [paragraaf 8 „Verstrekking van informatie en vertrouwelijkheid”](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=8&z=2025-12-31&g=2025-12-31) en [13 „Kosten”](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&artikel=13&z=2025-12-31&g=2025-12-31)).
-
-##### 19. Tenuitvoerlegging van de arbitrale uitspraak
-
-De bevoegde autoriteiten leggen de arbitrale uitspraak binnen zes maanden na mededeling aan hen van de uitspraak ten uitvoer door middel van een onderlinge overeenkomst over de zaak die tot de arbitrage heeft geleid.
-
-##### 20. Indien geen arbitrale uitspraak wordt gedaan
-
-Indien op enig tijdstip nadat een verzoek om arbitrage is ingediend en voordat de arbiters een uitspraak aan de bevoegde autoriteiten en de persoon die het verzoek arbitrage heeft ingediend hebben doen toekomen, de bevoegde autoriteiten de arbiters en die persoon er schriftelijk van in kennis stellen dat zij alle onopgeloste kwesties omschreven in de Terms of reference hebben opgelost, wordt de zaak beschouwd als opgelost krachtens de onderlinge overlegprocedure en wordt geen arbitrale uitspraak gedaan. Deze regeling is van toepassing op elk verzoek om arbitrage gedaan uit hoofde van [artikel 25, vijfde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005862&hoofdstuk=V&artikel=25&z=2025-12-31&g=2025-12-31) nadat die bepaling van kracht is geworden.
-
 GEDAAN te Berlijn op 12 april 2012, in tweevoud, in de Nederlandse en de Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 F. WEEKERS
 
-**Voor de Duitse Bondsrepubliek,**
+*Voor de Duitse Bondsrepubliek,*
 
 EMILY HABER

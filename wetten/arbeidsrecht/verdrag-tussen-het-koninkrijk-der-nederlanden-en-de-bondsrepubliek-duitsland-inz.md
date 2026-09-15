@@ -1,56 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake samenwerking bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede met niet-aangemelde werkzaamheden en illegaal grensoverschrijdend uitzendwerk (Nederlands-Duits Verdrag tot bestrijding van grensoverschrijdende zwarte arbeid)"
 identifier: "BWBV0005663"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-10-01"
-last_updated: "2013-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005663"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004805123"
-version_id: "10005107832"
-internal_id: "C10008501801"
-label_id: "10004788934"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005663/2013-10-01/0"
-intitule_bron: "Trb.2012-45"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-03-09"
-intitule_in_force: "2013-11-15"
-intitule_status: "goed"
-original_publication: "Trb.2012-45"
-original_published_date: "2012-03-09"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-45"
-entry_into_force_date: "2013-10-01"
-jci_1_3: "jci1.3:c:BWBV0005663&z=2013-10-01&g=2013-10-01"
-jci_1_0: "1.0:c:BWBV0005663&g=2013-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-10-01"
+publicatiedatum: 2013-10-01
+laatste_update: 2013-10-01
+status: geldig
+toestand: 2013-10-01
+bron: "https://wetten.overheid.nl/BWBV0005663"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake samenwerking bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede met niet-aangemelde werkzaamheden en illegaal grensoverschrijdend uitzendwerk (Nederlands-Duits Verdrag tot bestrijding van grensoverschrijdende zwarte arbeid)
 
-Het Koninkrijk der Nederlanden
-
-en
-
-de Bondsrepubliek Duitsland
-
-(hierna te noemen „de Verdragsluitende Partijen”) –
-
-Gelet op de Resolutie 1999/C 125/01 van de Raad van de Europese Unie en de in de Raad verenigde vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie van 22 april 1999 over een gedragscode ter verbetering van de samenwerking tussen de autoriteiten van de lidstaten bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies, alsmede met niet-aangemelde werkzaamheden en grensoverschrijdend uitzendwerk,
-
-Gelet op de bepalingen inzake wederzijdse rechtshulp en de samenwerking tussen de bevoegde instanties en instellingen van beide Verdragsluitende Partijen die reeds zijn voorzien in [Verordening (EG) nr. 1408/71](31971R1408) van de Raad van 14 juni 1971 tot toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (in de versie van 30 januari 1997), (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels, en in [Richtlijn 96/71/EG](31996L0071) van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (met inbegrip van controle op relevante arbeidsvoorwaarden en -omstandigheden);
-
-Gelet op [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens;
-
-Van mening dat het voor de implementatie van voornoemde bepalingen van belang is de grensoverschrijdende samenwerking te intensiveren en daartoe de bevoegde instanties, niveaus en samenwerkingsvormen te benoemen;
-
-Zich ervan bewust dat er verschillende nationale benaderingen en begripsomschrijvingen ten behoeve van de bestrijding van fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede niet-aangemelde werkzaamheden en met illegaal grensoverschrijdend uitzendwerk bestaan –
-
-Zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland (hierna te noemen „de Verdragsluitende Partijen”) – Gelet op de Resolutie 1999/C 125/01 van de Raad van de Europese Unie en de in de Raad verenigde vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie van 22 april 1999 over een gedragscode ter verbetering van de samenwerking tussen de autoriteiten van de lidstaten bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies, alsmede met niet-aangemelde werkzaamheden en grensoverschrijdend uitzendwerk, Gelet op de bepalingen inzake wederzijdse rechtshulp en de samenwerking tussen de bevoegde instanties en instellingen van beide Verdragsluitende Partijen die reeds zijn voorzien in Verordening (EG) nr. 1408/71 van de Raad van 14 juni 1971 tot toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen (in de versie van 30 januari 1997), (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels, en in Richtlijn 96/71/EG van het Europees Parlement en de Raad van 16 december 1996 betreffende de terbeschikkingstelling van werknemers met het oog op het verrichten van diensten (met inbegrip van controle op relevante arbeidsvoorwaarden en -omstandigheden); Gelet op Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens; Van mening dat het voor de implementatie van voornoemde bepalingen van belang is de grensoverschrijdende samenwerking te intensiveren en daartoe de bevoegde instanties, niveaus en samenwerkingsvormen te benoemen; Zich ervan bewust dat er verschillende nationale benaderingen en begripsomschrijvingen ten behoeve van de bestrijding van fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede niet-aangemelde werkzaamheden en met illegaal grensoverschrijdend uitzendwerk bestaan – Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Doelstelling van het verdrag
 
@@ -180,10 +143,10 @@ Dit verdrag wordt voor onbepaalde duur gesloten. Het kan door elk van de Verdrag
 
 GEDAAN te Den Haag, op 12 januari 2012, in tweevoud, in de Nederlandse en Duitse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 KAMP
 
-**Voor de Bondsrepubliek Duitsland,**
+*Voor de Bondsrepubliek Duitsland,*
 
 HEINZ-PETER BEHR

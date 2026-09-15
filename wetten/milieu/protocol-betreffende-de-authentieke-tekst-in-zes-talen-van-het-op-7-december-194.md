@@ -1,51 +1,18 @@
 ---
 title: "Protocol betreffende de authentieke tekst in zes talen van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart"
 identifier: "BWBV0005419"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-10-01"
-last_updated: "1998-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005419"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004625333"
-version_id: "10004879842"
-internal_id: "C10007328021"
-label_id: "10004609744"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005419/1998-10-01/0"
-intitule_bron: "Trb.1999-48"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1999-03-24"
-intitule_status: "nogniet"
-original_publication: "Trb.1999-48"
-original_published_date: "1999-03-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1999-48"
-jci_1_3: "jci1.3:c:BWBV0005419&z=1998-10-01&g=1998-10-01"
-jci_1_0: "1.0:c:BWBV0005419&g=1998-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1999-03-24"
+laatste_update: 1998-10-01
+status: geldig
+toestand: 1998-10-01
+bron: "https://wetten.overheid.nl/BWBV0005419"
+opgehaald: 2026-09-15
 ---
+
 # Protocol betreffende de authentieke tekst in zes talen van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart
 
-The undersigned Governments
-
-Considering that the 31st Session of the Assembly, in Resolution A31-16, requested **inter alia**, the Council and the Secretary General to take the necessary measures to intensify the progressive use of the Chinese language in the International Civil Aviation Organization (ICAO) and to closely monitor these measures with the objective of achieving the utilization of the Chinese language in ICAO on the same level as the other languages in the Organization;
-
-Considering that the English text of the Convention on International Civil Aviation (hereinafter called the Convention) was opened for signature at Chicago on 7 December 1944;
-
-Considering that, pursuant to the Protocol signed at Buenos Aires on 24 September 1968 on the Authentic Trilingual Text of the Convention on International Civil Aviation done at Chicago, 7 December 1944, the text of the Convention was adopted in the French and Spanish languages and, together with the text of the Convention in the English language, constitutes the text equally authentic in the three languages as provided for in the final clause of the Convention;
-
-Considering that a Protocol Relating to an Amendment to the Convention on International Civil Aviation and a Protocol on the Authentic Quadrilingual Text of the Convention on International Civil Aviation (Chicago, 1944) were adopted on 30 September 1977, providing for the authenticity of the text of the Convention and amendments thereto in the Russian language;
-
-Considering that a Protocol Relating to an Amendment to the Convention on International Civil Aviation and a Protocol on the Authentic Quinquelingual Text of the Convention on International Civil Aviation (Chicago, 1944) were adopted on 29 September 1995, providing for the authenticity of the text of the Convention and amendments thereto in the Arabic language;
-
-Considering accordingly, that it is appropriate to make the necessary provision for the text of the Convention to exist in the Chinese language;
-
-Considering that in making such provision account must be taken of the existing amendments to the Convention in the English, Arabic, French, Russian and Spanish languages, the texts of which are equally authentic and that, according to Article 94(a) of the Convention, any amendment can come into force only in respect of any State which has ratified it;
-
-Have agreed as follows:
+*The undersigned Governments Considering that the 31st Session of the Assembly, in Resolution A31-16, requested inter alia, the Council and the Secretary General to take the necessary measures to intensify the progressive use of the Chinese language in the International Civil Aviation Organization (ICAO) and to closely monitor these measures with the objective of achieving the utilization of the Chinese language in ICAO on the same level as the other languages in the Organization; Considering that the English text of the Convention on International Civil Aviation (hereinafter called the Convention) was opened for signature at Chicago on 7 December 1944; Considering that, pursuant to the Protocol signed at Buenos Aires on 24 September 1968 on the Authentic Trilingual Text of the Convention on International Civil Aviation done at Chicago, 7 December 1944, the text of the Convention was adopted in the French and Spanish languages and, together with the text of the Convention in the English language, constitutes the text equally authentic in the three languages as provided for in the final clause of the Convention; Considering that a Protocol Relating to an Amendment to the Convention on International Civil Aviation and a Protocol on the Authentic Quadrilingual Text of the Convention on International Civil Aviation (Chicago, 1944) were adopted on 30 September 1977, providing for the authenticity of the text of the Convention and amendments thereto in the Russian language; Considering that a Protocol Relating to an Amendment to the Convention on International Civil Aviation and a Protocol on the Authentic Quinquelingual Text of the Convention on International Civil Aviation (Chicago, 1944) were adopted on 29 September 1995, providing for the authenticity of the text of the Convention and amendments thereto in the Arabic language; Considering accordingly, that it is appropriate to make the necessary provision for the text of the Convention to exist in the Chinese language; Considering that in making such provision account must be taken of the existing amendments to the Convention in the English, Arabic, French, Russian and Spanish languages, the texts of which are equally authentic and that, according to Article 94(a) of the Convention, any amendment can come into force only in respect of any State which has ratified it; Have agreed as follows:*
 
 ##### Article I
 
@@ -59,11 +26,11 @@ If a State party to this Protocol has ratified or in the future ratifies any ame
 
 1. The States members of the International Civil Aviation Organization may become parties to the present Protocol either by:
 
-- a). signature without reservation as to acceptance, or
+- a) signature without reservation as to acceptance, or
 
-- b). signature with reservation as to acceptance followed by acceptance, or
+- b) signature with reservation as to acceptance followed by acceptance, or
 
-- c). acceptance.
+- c) acceptance.
 
 2. This Protocol shall remain open for signature at Montreal until 16 October 1998 and thereafter at Washington, D.C.
 
@@ -99,11 +66,11 @@ As soon as this Protocol comes into force, it shall be registered with the Unite
 
 The Government of the United States of America shall give notice to all States members of the International Civil Aviation Organization and to the Organization itself:
 
-- a). of any signature of this Protocol and the date thereof, with an indication whether the signature is with or without reservation as to acceptance;
+- a) of any signature of this Protocol and the date thereof, with an indication whether the signature is with or without reservation as to acceptance;
 
-- b). of the deposit of any instrument of acceptance and the date thereof;
+- b) of the deposit of any instrument of acceptance and the date thereof;
 
-- c). of the date on which this Protocol comes into force in accordance with the provisions of Article IV, paragraph 1.
+- c) of the date on which this Protocol comes into force in accordance with the provisions of Article IV, paragraph 1.
 
 ##### Article X
 

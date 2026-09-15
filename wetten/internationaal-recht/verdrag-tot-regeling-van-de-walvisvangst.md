@@ -1,188 +1,123 @@
 ---
 title: "Verdrag tot regeling van de walvisvangst"
 identifier: "BWBV0005482"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-12-29"
-last_updated: "1994-12-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005482"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004645273"
-version_id: "10005038882"
-internal_id: "C10008336271"
-label_id: "10004629484"
-dtd_version: "2.0"
-original_entry_into_force: "1977-06-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005482/2018-12-29/0"
-intitule_bron: "Trb.1977-102"
-intitule_effect: "wijziging"
-intitule_published: "1977-07-27"
-intitule_in_force: "1977-07-27"
-intitule_status: "goed"
-original_publication: "Trb.1977-102"
-original_published_date: "1977-07-27"
-original_effect: "structuurwijziging"
-original_url_id: "trb-1977-102"
-entry_into_force_date: "1977-06-14"
-jci_1_3: "jci1.3:c:BWBV0005482&z=2018-12-29&g=2018-12-29"
-jci_1_0: "1.0:c:BWBV0005482&g=2018-12-29"
-citeertitel_status: "redactioneel"
-entry_into_force: "1977-06-14"
+publicatiedatum: 1977-06-14
+laatste_update: 2018-12-29
+status: geldig
+toestand: 2018-12-29
+bron: "https://wetten.overheid.nl/BWBV0005482"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tot regeling van de walvisvangst
 
-De regeringen wier gemachtigde vertegenwoordigers hun instemming hiermede hebben betuigd;
+*Washington, 2nd December, 1946 The Governments whose duly authorized representatives have subscribed hereto, Recognizing the interest of the nations of the world in safeguarding for future generations the great natural resources represented by the whale stocks; Considering that the history of whaling has seen over-fishing of one area after another and of one species of whale after another to such a degree that it is essential to protect all species of whales from further over-fishing; Recognizing that the whale stocks are susceptible of natural increases if whaling is properly regulated, and that increases in the size of whale stocks will permit increases in the numbers of whales which may be captured without endangering these natural resources; Recognizing that it is in the common interest to achieve the optimum level of whale stocks as rapidly as possible without causing wide-spread economic and nutritional distress; Recognizing that in the course of achieving these objectives, whaling operations should be confined to those species best able to sustain exploitation in order to give an interval for recovery to certain species of whales now depleted in numbers; Desiring to establish a system of international regulation for the whale fisheries to ensure proper and effective conservation and development of whale stocks on the basis of the principles embodied in the provisions of the International Agreement for the Regulation of Whaling, signed in London on 8th June, 1937, and the protocols to that Agreement signed in London on 24th June, 1938 and 26th November, 1945; and Having decided to conclude a convention to provide for the proper conservation of whale stocks and thus make possible the orderly development of the whaling industry; Have agreed as follows:—*
 
-Erkennende het belang, dat de volkeren der wereld er bij hebben om de grote natuurlijke bronnen, vertegenwoordigd door de walvisstand voor toekomstige generaties veilig te stellen;
+##### Article I
 
-In aanmerking nemende, dat in de geschiedenis van de walvisvangst een te intensieve vangst in het ene gebied na het andere is voorgekomen en op de ene soort walvis na de andere te sterk werd gejaagd, in zulke mate, dat het noodzakelijk is alle soorten walvissen te beschermen tegen verdere te sterke vangst;
+1. This Convention includes the Schedule attached thereto which forms an integral part thereof. All references to „Convention” shall be understood as including the said Schedule either in its present terms or as amended in accordance with the provisions of Article V.
 
-Erkennende, dat de walvisstand op natuurlijke wijze kan toenemen als de walvisvangst behoorlijk wordt geregeld, en dat een toename van de grootte van de walvisstand een toename van het aantal walvissen ten gevolge zal hebben, dat gevangen kan worden zonder deze natuurlijke hulpbronnen in gevaar te brengen;
+2. This Convention applies to factory ships, land stations, and whale catchers under the jurisdiction of the Contracting Governments and to all waters in which whaling is prosecuted by such factory ships, land stations, and whale catchers.
 
-Erkennende, dat het van algemeen belang is, dat de walvisstand zo snel mogelijk op een optimaal peil wordt gebracht, zonder een algemene noodtoestand op het gebied van economie en voeding te veroorzaken;
+##### Article II
 
-Erkennende, dat zolang deze doelstellingen nog niet zijn bereikt, de walvisvangst behoort te worden beperkt tot die soorten, welke het best tegen exploitatie bestand zijn ten einde bepaalde soorten walvissen, wier aantal sterk verminderd is, tijd te geven zich te herstellen.
+As used in this Convention—
 
-Er naar strevend de walvisvaart internationaal te regelen tot waarborging van een behoorlijke en doeltreffende instandhouding en ontwikkeling van de walvisstand volgens de beginselen, welke zijn neergelegd in de bepalingen van de Internationale Overeenkomst tot Regeling van de Walvisvangst, getekend te Londen op 8 Juni 1937 en de bij die Overeenkomst behorende Protocollen, getekend te Londen op 24 Juni 1938 en 26 November 1945; voorts
+- 1. „Factory ship” means a ship in which or on which whales are treated whether wholly or in part;
 
-Besloten hebbend een Verdrag te sluiten om te voorzien in een behoorlijke instandhouding van de walvisstand om op deze wijze een geregelde ontwikkeling van het walvisbedrijf mogelijk te maken,
+- 2. „Land station” means a factory on the land at which whales are treated whether wholly or in part;
 
-Zijn het volgende overeengekomen:
+- 3. ‘whale catcher’ means a helicopter, or other aircraft, or a ship, used for the purpose of hunting, taking, killing, towing, holding on to, or scouting for whales;
 
-##### Artikel I
+- 4. „Contracting Government” means any Government which has deposited an instrument of ratification or has given notice of adherence to this Convention.
 
-1. Tot dit Verdrag behoort het hieraan toegevoegde Reglement. Alle verwijzingen naar het Verdrag zullen tevens als verwijzing naar het Reglement worden beschouwd, hetzij in zijn tegenwoordige bewoordingen of zoals gewijzigd in overeenstemming met de bepalingen van artikel V.
+##### Article III
 
-2. Dit Verdrag is van toepassing op fabrieksschepen, landstations en jagers, die onder de rechtsbevoegdheid van de Verdragsluitende Regeringen vallen, alsmede op alle wateren, waar de walvisvangst wordt uitgeoefend door zulke fabrieksschepen, landstations en jagers.
+1. The Contracting Governments agree to establish an International Whaling Commission, hereinafter referred to as the Commission, to be composed of one member from each Contracting Government. Each member shall have one vote and may be accompanied by one or more experts and advisers.
 
-##### Artikel II
+2. The Commission shall elect from its own members a Chairman and Vice-Chairman and shall determine its own Rules of Procedure. Decisions of the Commission shall be taken by a simple majority of those members voting except that a three-fourths majority of those members voting shall be required for action in pursuance of Article V. The Rules of Procedure may provide for decisions otherwise than at meetings of the Commission.
 
-In dit Verdrag wordt verstaan onder:
+3. The Commission may appoint its own Secretary and staff.
 
-- 1. „fabrieksschip”: een schip, waarin of waarop walvissen geheel of gedeeltelijk verwerkt worden;
+4. The Commission may set up, from among its own members and experts or advisers, such committees as it considers desirable to perform such functions as it may authorize.
 
-- 2. „landstation”: een bedrijf op het land, waar walvissen geheel of gedeeltelijk verwerkt worden;
+5. The expenses of each member of the Commission and of his experts and advisers shall be determined and paid by his own Government.
 
-- 3. „jager”: een hefschroefvliegtuig of een ander luchtvaartuig of een schip, dat gebruikt wordt voor het jagen, vangen, doden, slepen, achtervolgen of opsporen van walvissen;
+6. Recognizing that specialized agencies related to the United Nations will be concerned with the conservation and development of whale fisheries and the products arising therefrom and desiring to avoid duplication of functions, the Contracting Governments will consult among themselves within two years after the coming into force of this Convention to decide whether the Commission shall be brought within the framework of a specialized agency related to the United Nations.
 
-- 4. „verdragsluitende Regering”: elke regering, die haar acte van ratificatie heeft neergelegd of van haar toetreding tot dit Verdrag heeft kennis gegeven.
+7. In the meantime the Government of the United Kingdom of Great Britain and Northern Ireland shall arrange, in consultation with the other Contracting Governments, to convene the first meeting of the Commission, and shall initiate the consultation referred to in paragraph 6 above.
 
-##### Artikel III
+8. Subsequent meetings of the Commission shall be convened as the Commission may determine.
 
-1. De verdragsluitende Regeringen komen overeen een Internationale Walvis Commissie in te stellen, hierna te noemen de Commissie, die zal zijn samengesteld uit een lid van iedere verdragsluitende Regering. Elk lid heeft een stem en mag vergezeld worden door één of meer deskundigen en adviseurs.
+##### Article IV
 
-2. De Commissie kiest uit haar eigen leden een voorzitter en een vice-voorzitter en stelt haar eigen huishoudelijk reglement vast. Besluiten van de Commissie worden genomen bij gewone meerderheid van de door haar leden uitgebrachte stemmen, behoudens dat een 3/4 meerderheid van de door haar leden uitgebrachte stemmen vereist wordt voor handelingen volgens artikel V. Het huishoudelijk reglement kan voorzien in beslissingen buiten de vergaderingen van de Commissie.
+1. The Commission may either in collaboration with or through independent agencies of the Contracting Governments or other public or private agencies, establishments, or organizations, or independently
 
-3. De Commissie kan haar eigen secretaris en personeel benoemen.
+- (a) encourage, recommend, or if necessary, organize studies and investigations relating to whales and whaling;
 
-4. De Commissie kan uit haar eigen leden en deskundigen of adviseurs speciale commissies samenstellen.
+- (b) collect and analyze statistical information concerning the current condition and trend of the whale stocks and the effects of whaling activities thereon;
 
-5. De uitgaven van elk lid van de Commissie en zijn deskundigen en adviseurs worden vastgesteld en betaald door zijn eigen Regering.
+- (c) study, appraise, and disseminate information concerning methods of maintaining and increasing the populations of whale stocks.
 
-6. Aannemende, dat gespecialiseerde organisaties, die in betrekking staan tot de Verenigde Naties, zich zullen bezig houden met de instandhouding en ontwikkeling van de walvisvangst en met de producten, welke daaruit verkregen worden en dat het wenselijk is het waarnemen van dubbele functies te vermijden, zullen de verdragsluitende Regeringen, binnen twee jaar na het van kracht worden van dit Verdrag onderling overleg plegen over de vraag of de Commissie ondergebracht zal worden bij een gespecialiseerde organisatie, die in betrekking staat tot de Verenigde Naties.
+2. The Commission shall arrange for the publication of reports of its activities, and it may publish independently or in collaboration with the International Bureau for Whaling Statistics at Sandefjord in Norway and other organizations and agencies such reports as it deems appropriate, as well as statistical, scientific, and other pertinent information relating to whales and whaling.
 
-7. Intussen treft de Regering van Groot-Brittannië en Noord-Ierland, in overleg met de andere verdragsluitende Regeringen, maatregelen om de eerste vergadering van de Commissie bijeen te roepen en maakt zij een aanvang met het hierboven in lid 6 bedoelde onderlinge overleg.
+##### Article V
 
-8. Daarna volgende vergaderingen van de Commissie worden bijeengeroepen, wanneer de Commissie zulks bepaalt.
+1. The Commission may amend from time to time the provisions of the Schedule by adopting regulations with respect to the conservation and utilization of whale resources, fixing (*a*) protected and unprotected species; (*b*) open and closed seasons; (*c*) open and closed waters, including the designation of sanctuary areas; (*d*) size limits for each species; (*e*) time, methods, and intensity of whaling (including the maximum catch of whales to be taken in any one season); (*f*) types and specifications of gear and apparatus and appliances which may be used; (*g*) methods of measurement; (*h*) catch returns and other statistical and biological records; and (*i*) methods of inspection.
 
-##### Artikel IV
+2. These amendments of the Schedule (*a*) shall be such as are necessary to carry out the objectives and purposes of this Convention and to provide for the conservation, development, and optimum utilization of the whale resources; (*b*) shall be based on scientific findings; (*c*) shall not involve restrictions on the number or nationality of factory ships or land stations, nor allocate specific quotas to any factory ship or land station or to any group of factory ships or land stations; and (*d*) shall take into consideration the interests of the consumers of whale products and the whaling industry.
 
-1. De Commissie kan in samenwerking met of door middel van onafhankelijke instanties van de verdragsluitende Regeringen of andere publieke of particuliere instanties, instellingen of organisaties, dan wel zelfstandig:
+3. Each of such amendments shall become effective with respect to the Contracting Governments ninety days following notification of the amendment by the Commission to each of the Contracting Governments, except that (*a*) if any Government presents to the Commission objection to any amendment prior to the expiration of this ninety-day period, the amendment shall not become effective with respect to any of the Governments for an additional ninety days; (*b*) thereupon, any other Contracting Government may present objection to the amendment at any time prior to the expiration of the additional ninety-day period, or before the expiration of thirty days from the date of receipt of the last objection received during such additional ninetyday period, whichever date shall be the later; and (*c*) thereafter, the amendment shall become effective with respect to all Contracting Governments which have not presented objection but shall not become effective with respect to any Government which has so objected until such date as the objection is withdrawn. The Commission shall notify each Contracting Government immediately upon receipt of each objection and withdrawal and each Contracting Government shall acknowledge receipt of all notifications of amendments, objections, and withdrawals.
 
-- (a). studies en onderzoekingen met betrekking tot walvissen en de walvisvangst aanmoedigen, aanbevelen of, indien nodig, organiseren;
+4. No amendments shall become effective before 1st July, 1949.
 
-- (b). statistische gegevens betreffende de positie en het verloop van de walvisstand en de invloed van de walvisvangst daarop verzamelen en analyseren;
+##### Article VI
 
-- (c). mededelingen betreffende de methoden voor de instandhouding en vermeerdering van het aantal walvissen bestuderen, controleren en verspreiden.
+The Commission may from time to time make recommendations to any or all Contracting Governments on any matters which relate to whales or whaling and to the objectives and purposes of this Convention.
 
-2. De Commissie treft regelingen voor de publicatie van rapporten over haar werkzaamheden en kan zelfstandig of in samenwerking met het „International Bureau for Whaling Statistics” te Sandefjord in Noorwegen en andere organisaties en bureaux rapporten publiceren, die verband houden met walvissen en de walvisvangst.
+##### Article VII
 
-##### Artikel V
+The Contracting Governments shall ensure prompt transmission to the International Bureau for Whaling Statistics at Sandefjord in Norway, or to such other body as the Commission may designate, of notifications and statistical and other information required by this Convention in such form and manner as may be prescribed by the Commission.
 
-1. De Commissie kan van tijd tot tijd de bepalingen van het Reglement wijzigen door regelingen te treffen met betrekking tot de instandhouding en exploitatie van de walvisvoorraden, waarbij zij vaststelt:
+##### Article VIII
 
-- (a). beschermde en onbeschermde soorten;
+1. Notwithstanding anything contained in this Convention, any Contracting Government may grant to any of its nationals a special permit authorizing that national to kill, take, and treat whales for purposes of scientific research subject to such restrictions as to number and subject to such other conditions as the Contracting Government thinks fit, and the killing, taking, and treating of whales in accordance with the provisions of this Article shall be exempt from the operation of this Convention. Each Contracting Government shall report at once to the Commission all such authorizations which it has granted. Each Contracting Government may at any time revoke any such special permit which it has granted.
 
-- (b). open en gesloten seizoenen;
+2. Any whales taken under these special permits shall so far as practicable be processed and the proceeds shall be dealt with in accordance with directions issued by the Government by which the permit was granted.
 
-- (c). open en gesloten wateren met inbegrip van reservaten;
+3. Each Contracting Government shall transmit to such body as may be designated by the Commission, insofar as practicable, and at intervals of not more than one year, scientific information available to that Government with respect to whales and whaling, including the results of research conducted pursuant to paragraph 1 of this Article and to Article IV.
 
-- (d). minimum en maximum maten voor elke soort;
+4. Recognizing that continuous collection and analysis of biological data in connection with the operations of factory ships and land stations are indispensable to sound and constructive management of the whale fisheries, the Contracting Governments will take all practicable measures to obtain such data.
 
-- (e). tijd, methoden en intensiteit van de walvisvangst (met inbegrip van maximum-vangsten van walvissen in elk seizoen);
+##### Article IX
 
-- (f). type en specificatie van gereedschappen en apparaten en toestellen, die mogen worden gebruikt;
+1. Each Contracting Government shall take appropriate measures to ensure the application of the provisions of this Convention and the punishment of infractions against the said provisions in operations carried out by persons or by vessels under its jurisdiction.
 
-- (g). meetmethoden;
+2. No bonus or other remuneration calculated with relation to the results of their work shall be paid to the gunners and crews of whale catchers in respect of any whales the taking of which is forbidden by this Convention.
 
-- (h). opgaven van de vangst en andere statistische en biologische gegevens te verstrekken; en
+3. Prosecution for infractions against or contraventions of this Convention shall be instituted by the Government having jurisdiction over the offence.
 
-- (i). methoden van toezicht.
+4. Each Contracting Government shall transmit to the Commission full details of each infraction of the provisions of this Convention by persons or vessels under the jurisdiction of that Government as reported by its inspectors. This information shall include a statement of measures taken for dealing with the infraction and of penalties imposed.
 
-2. Deze wijzigingen van het Reglement:
+##### Article X
 
-- (a). zullen zijn die, welke nodig zijn om de doelstellingen van dit Verdrag uit te voeren en de instandhouding, de ontwikkeling en de optimale benutting van de walvisvoorraden te waarborgen;
+1. This Convention shall be ratified and the instruments of ratification shall be deposited with the Government of the United States of America.
 
-- (b). zullen gebaseerd zijn op wetenschappelijke bevindingen;
+2. Any Government which has not signed this Convention may adhere thereto after it enters into force by a notification in writing to the Government of the United States of America.
 
-- (c). zullen geen beperkingen inhouden ten aanzien van het aantal of de nationaliteit van fabrieksschepen of landstations, noch speciale quota toekennen aan een fabrieksschip of landstation of aan een groep van fabrieksschepen of landstations;
+3. The Government of the United States of America shall inform all other signatory Governments and all adhering Governments of all ratifications deposited and adherences received.
 
-- (d). zullen rekening houden met de belangen van de consumenten van walvisproducten en de walvisindustrie.
+4. This Convention shall, when instruments of ratification have been deposited by at least six signatory Governments, which shall include the Governments of the Netherlands, Norway, the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, enter into force with respect to those Governments and shall enter into force with respect to each Government which subsequently ratifies or adheres on the date of the deposit of its instrument of ratification or the receipt of its notification of adherence.
 
-3. Een wijziging als bovenbedoeld wordt voor de verdragsluitende Regeringen van kracht negentig dagen nadat de Commissie de verdragsluitende Regeringen van die wijziging mededeling heeft gedaan, met dien verstande, dat:
+5. The provisions of the Schedule shall not apply prior to 1st July, 1948. Amendments to the Schedule adopted pursuant to Article V shall not apply prior to 1st July, 1949.
 
-- (a). wanneer een Regering aan de Commissie bezwaar te kennen geeft ten aanzien van enige wijziging alvorens deze negentig dagen zijn verstreken, de wijziging voor geen enkele Regering van kracht wordt alvorens wederom negentig dagen zijn verstreken;
+##### Article XI
 
-- (b). elke andere Regering daarna van haar bezwaar tegen de wijziging kennis geven kan op een willekeurig tijdstip vóór het verstrijken van de extra termijn van negentig dagen, of wel vóór het verstrijken van dertig dagen vanaf de datum van ontvangst van het jongste bezwaarschrift, ontvangen gedurende die extra termijn van negentig dagen, onverschillig op welke datum dit gebeurd is, en
+Any Contracting Government may withdraw from this Convention on 30th June, of any year by giving notice on or before 1st January, of the same year to the depository Government, which upon receipt of such a notice shall at once communicate it to the other Contracting Governments. Any other Contracting Government may, in like manner, within one month of the receipt of a copy of such a notice from the depository Government, give notice of withdrawal, so that the Convention shall cease to be in force on 30th June, of the same year with respect to the Government giving such notice of withdrawal.
 
-- (c). de wijziging vervolgens van kracht wordt voor alle verdragsluitende Regeringen, die geen bezwaren hebben ingediend, doch voor een Regering, die op voornoemde wijze bezwaar maakte, niet van kracht wordt vóór de datum waarop het bezwaarschrift wordt ingetrokken. Onmiddellijk na ontvangst van elk bezwaarschrift en elk bericht van intrekking, doet de Commissie daarvan aan iedere verdragsluitende Regering mededeling, die de ontvangst van alle berichten van wijziging, bezwaarschriften en berichten van intrekking bevestigt.
-
-4. Geen wijzigingen worden van kracht vóór 1 Juli 1949.
-
-##### Artikel VI
-
-De Commissie kan van tijd tot tijd aan alle of een der verdragsluitende Regeringen aanbevelingen zenden betreffende alle aangelegenheden, die in verband staan met walvissen of de walvisvangst en met de doelstellingen van dit Verdrag.
-
-##### Artikel VII
-
-De verdragsluitende Regeringen zorgen voor prompte toezending aan het International Bureau for Whaling Statistics te Sandefjord in Noorwegen, of aan die instelling die de Commissie zal aanwijzen, van kennisgevingen alsmede van statistische en andere gegevens, die op grond van dit Verdrag vereist worden en wel in zodanige vorm en op zodanige wijze als de Commissie voorschrijft.
-
-##### Artikel VIII
-
-1. In afwijking van de bepalingen vervat in dit Verdrag, kan iedere verdragsluitende Regering aan haar landgenoten een speciale vergunning verlenen, op grond waarvan zij walvissen voor wetenschappelijke doeleinden mogen doden, vangen en verwerken met inachtneming van de beperkingen betreffende het aantal en van de overige voorwaarden, die de verdragsluitende Regering noodzakelijk acht, terwijl de voorschriften van dit Verdrag niet van toepassing zijn op het doden, vangen en verwerken van walvissen in overeenstemming met de bepalingen van dit artikel. Iedere verdragsluitende Regering is gehouden de Commissie van een zodanige door haar verleende machtiging onverwijld in kennis te stellen. Iedere verdragsluitende Regering is bevoegd te allen tijde een door haar op grond van dit artikel verleende speciale vergunning in te trekken.
-
-2. Alle krachtens genoemde vergunning gevangen walvissen moeten zo volledig mogelijk verwerkt worden en de verkregen producten dienen overeenkomstig de aanwijzingen van de Regering, die de vergunning verleend heeft, te worden aangewend.
-
-3. Elke verdragsluitende Regering zal aan een door de Commissie aan te wijzen instantie, binnen de grenzen van het mogelijke en met tussenpozen van niet langer dan een jaar, alle wetenschappelijke gegevens verstrekken, waarover zij met betrekking tot walvissen en de walvisvangst beschikt, alsmede de resultaten van de op grond van de bepalingen van lid 1 van uit artikel en van de bepalingen van artikel IV gedane onderzoekingen.
-
-4. In aanmerking nemende, dat het geregeld verzamelen en analyseren van biologische gegevens, in verband met de werkzaamheden der fabrieksschepen en landstations, onontbeerlijk is voor een goede en verstandige uitoefening der walvisvangst, nemen de verdragsluitende Regeringen alle mogelijke maatregelen ter verkrijging van die gegevens.
-
-##### Artikel IX
-
-1. Iedere verdragsluitende Regering neemt de geëigende maatregelen om de toepassing van de bepalingen van dit Verdrag en de bestraffing van overtredingen van genoemde bepalingen te waarborgen gedurende de werkzaamheden, verricht door personen of schepen, die onder haar rechtsbevoegdheid vallen.
-
-2. Er mag geen premie of andere beloning, berekend naar de resultaten van hun werk, betaald worden aan harpoeniers of bemanningen van de jagers, voor walvissen, die op grond van dit Verdrag niet mogen worden gevangen.
-
-3. Bij inbreuk op of overtreding van dit Verdrag, wordt gerechtelijke vervolging ingesteld door de Regering, die hierover rechtsbevoegdheid heeft.
-
-4. Elke verdragsluitende Regering verstrekt aan de Commissie volledige bijzonderheden overeenkomstig de rapporten van haar inspecteurs omtrent iedere inbreuk op de bepalingen van dit Verdrag, gepleegd door personen of schepen, die onder de rechtsbevoegdheid van de betrokken Regering vallen. Deze gegevens moeten een verklaring inhouden betreffende de ten aanzien van de gepleegde inbreuk genomen maatregelen, alsmede de opgelegde straffen.
-
-##### Artikel X
-
-1. Dit Verdrag wordt bekrachtigd en de bekrachtigingsoorkonden worden gedeponeerd bij de Regering van de Verenigde Staten van Amerika.
-
-2. Elke Regering, die dit Verdrag niet heeft getekend, kan, nadat het van kracht geworden is, toetreden. Dit geschiedt door een schriftelijke mededeling aan de Regering van de Verenigde Staten van Amerika.
-
-3. De Regering van de Verenigde Staten van Amerika zal alle Regeringen, die dit Verdrag getekend hebben of zijn toegetreden, op de hoogte houden van alle ontvangen bekrachtigingsoorkonden en berichten van toetreding.
-
-4. Nadat de betreffende bekrachtigingsoorkonden door ten minste zes van de ondertekenende Regeringen, waaronder de Regeringen van Nederland, Noorwegen, de Unie van Socialistische Sovjet Republieken, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika, zijn gedeponeerd, wordt dit Verdrag van kracht ten aanzien van genoemde Regeringen en wordt het ten aanzien van iedere andere Regering, die het bekrachtigt of op een later tijdstip toetreedt, van kracht vanaf de dag, waarop deze haar bekrachtigingsoorkonde deponeert of waarop haar bericht van toetreding ontvangen wordt.
-
-5. De bepalingen van het Reglement zijn niet vóór 1 Juli 1948 van toepassing. De wijzigingen van het Reglement, die op grond van artikel V zijn aangenomen, zijn niet vóór 1 Juli 1949 van toepassing.
-
-##### Artikel XI
-
-Elke verdragsluitende Regering kan elk jaar op 30 Juni het Verdrag opzeggen, door op of vóór 1 Januari van datzelfde jaar aan de Regering van de Verenigde Staten van Amerika haar opzegging mede te delen, die op haar beurt, na ontvangst van deze opzegging, hiervan onverwijld aan de andere verdragsluitende Regeringen kennis geeft. Elke andere verdragsluitende Regering kan eveneens binnen één maand na ontvangst van een afschrift van een zodanige door de Regering van de Verenigde Staten van Amerika verzonden mededeling, opzeggen, zodat het Verdrag voor de betreffende Regering op 30 Juni van hetzelfde jaar ophoudt van kracht te zijn. Het Verdrag draagt als datum de dag, waarop het ter ondertekening wordt neergelegd en wordt gedurende een periode van 14 dagen daarna ter ondertekening neergelegd.
+This Convention shall bear the date on which it is opened for signature and shall remain open for signature for a period of fourteen days thereafter.
 
 In witness whereof the undersigned, being duly authorized, have signed this Convention.
 

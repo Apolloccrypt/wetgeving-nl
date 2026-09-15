@@ -1,208 +1,181 @@
 ---
 title: "Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa"
 identifier: "BWBV0005781"
-country: "nl"
-rank: "verdrag"
-publication_date: "1952-09-10"
-last_updated: "1952-09-10"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005781"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004864763"
-version_id: "10005170342"
-internal_id: "C10007908631"
-label_id: "10004848884"
-dtd_version: "2.0"
-original_entry_into_force: "1952-09-10"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005781/1952-09-10/0"
-intitule_bron: "Trb.1951-19"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1951-03-16"
-intitule_in_force: "1953-02-10"
-intitule_status: "goed"
-original_publication: "Trb.1951-19"
-original_published_date: "1951-03-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-19"
-entry_into_force_date: "1952-09-10"
-jci_1_3: "jci1.3:c:BWBV0005781&z=1952-09-10&g=1952-09-10"
-jci_1_0: "1.0:c:BWBV0005781&g=1952-09-10"
-citeertitel_status: "redactioneel"
-entry_into_force: "1952-09-10"
+publicatiedatum: 1952-09-10
+laatste_update: 1952-09-10
+status: geldig
+toestand: 1952-09-10
+bron: "https://wetten.overheid.nl/BWBV0005781"
+opgehaald: 2026-09-15
 ---
+
 # Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa
 
-De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Franse Republiek, het Koninkrijk Griekenland, de Ierse Republiek, de Italiaanse Republiek, het Groot-Hertogdom Luxemburg, het Koninkrijk der Nederlanden, het Koninkrijk Noorwegen, het Koninkrijk Zweden, de Turkse Republiek en het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland;
+*The Governments of the Kingdom of Belgium, the Kingdom of Denmark, the French Republic, the Kingdom of Greece, the Irish Republic, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Kingdom of Norway, the Kingdom of Sweden, the Turkish Republic and the United Kingdom of Great Britain and Northern Ireland; Whereas under the provisions of Article 40, paragraph (a) of the Statute, the Council of Europe, representatives of Members and the Secretariat shall enjoy in the territories of its Members such privileges and immunities as are necessary for the exercise of their duties; Whereas under the provisions of paragraph (b) of the above-mentioned Article, the Members of the Council have undertaken to enter into an agreement for the purpose of fulfilling the provisions of the said paragraph; Whereas in pursuance of the above-mentioned paragraph (b), the Committee of Ministers has recommended to Member Governments the acceptance of the following provisions: Have agreed as follows:*
 
-Aangezien de Raad van Europa, de vertegenwoordigers van de Leden en het Secretariaat op het grondgebied van de Leden, krachtens artikel 40, lid (**a**) van het Statuut van de Raad van Europa, die voorrechten en immuniteiten genieten welke nodig zijn voor de uitoefening van hun functies;
+## PART I. Personality - Capacity
 
-Aangezien krachtens de bepalingen van lid (**b**) van vorengenoemd Artikel, de Leden van de Raad zich hebben verbonden, een overeenkomst te sluiten ten einde de bepalingen van genoemd lid ten uitvoer te leggen;
+##### Article 1
 
-Aangezien overeenkomstig het vorengenoemde lid (**b**), het Comité van Ministers de Regeringen der Leden heeft aanbevolen onderstaande bepalingen aan te nemen;
+The Council of Europe shall possess juridical personality. It shall have the capacity to conclude contracts, to acquire and dispose of movable and immovable property and to institute legal proceedings.
 
-Komen overeen als volgt:
+In these matters the Secretary General shall act on behalf of the Council of Europe.
 
-## TITEL I. Persoonlijkheid, bevoegdheid
+##### Article 2
 
-##### Artikel 1
+The Secretary General shall co-operate at all times with the competent authorities of the Members to facilitate the proper administration of justice, secure the observance of police regulations and prevent the occurrence of any abuse in connection with the privileges, immunities, exemptions and facilities enumerated in the present Agreement.
 
-De Raad van Europa bezit rechtspersoonlijkheid. Hij heeft de bevoegdheid overeenkomsten aan te gaan, roerende en onroerende goederen te verwerven en te vervreemden en in rechte te verschijnen.
+## PART II. Property, Funds and Assets
 
-In deze aangelegenheden zal de Secretaris-Generaal optreden namens de Raad van Europa.
+##### Article 3
 
-##### Artikel 2
+The Council, its property and assets, wheresoever located and by whomsoever held, shall enjoy immuntiy from every form of legal process except in so far as in any particular case, the Committee of Ministers has expressly authorized the waiver of this immunity. It is, however, understood that no waiver of immunity shall extend to any measure of execution or detention of property.
 
-De Secretaris-Generaal werkt te allen tijde samen met de bevoegde autoriteiten van de Leden ten einde een goede rechtsbediening te bevorderen, de inachtneming van de politie-reglementen te verzekeren en elk misbruik van de voorrechten, immuniteiten, vrijdommen en faciliteiten, welke in dit Verdrag zijn genoemd, te voorkomen.
+##### Article 4
 
-## TITEL II. Eigendommen, Fondsen en Bezittingen
+The buildings and premises of the Council shall be inviolable. Its property and assets, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of interference whether by administrative, judicial or legislative action.
 
-##### Artikel 3
+##### Article 5
 
-De Raad, zijn eigendommen en bezittingen, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van rechtsvervolging, behoudens wanneer het Comité van Ministers in een bijzonder geval uitdrukkelijk afstand heeft gedaan van zijn immuniteit. Het spreekt echter vanzelf, dat afstand van immuniteit zich niet uitstrekt tot maatregelen van tenuitvoerlegging of detentie.
+The archives of the Council, and in general all documents belonging to it or held by it, shall be inviolable wheresoever located.
 
-##### Artikel 4
+##### Article 6
 
-De gebouwen en terreinen van de Raad zijn onschendbaar. Zijn eigendommen en bezittingen, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van onderzoek, vordering, confiscatie, onteigening of van iedere andere vorm van ingrijpen, hetzij door optreden van administratieve, rechterlijke of wetgevende aard.
+Without being restricted by financial controls, regulations or financial moratoria of any kind:
 
-##### Artikel 5
+- (a) the Council may hold currency of any kind and operate accounts in any currency;
 
-Het archief van de Raad en in het algemeen alle documenten, welke hem toebehoren of die hij onder zich heeft, zijn onschendbaar, waar deze zich ook bevinden.
+- (b) the Council may freely transfer its funds from one country to another or within any country and convert any currency held by it into any other currency;
 
-##### Artikel 6
+- (c) In exercising its rights under sub-paragraphs (*a*) and (*b*) above, the Council of Europe shall pay due regard to any representations made by the Government of a Member and shall give effect to such representations in so far as it considers this can be done without detriment to the interests of the Council.
 
-Zonder beperkt te worden door financiële voorschriften, regelen of moratoria van enigerlei aard:
+##### Article 7
 
-- (a). mag de Raad valuta's van enigerlei aard bezitten en in iedere geldsoort rekeningen hebben;
+The Council, its assets, income and other property shall be exempt:
 
-- (b). mag de Raad zijn fondsen vrij van het ene land naar het andere of binnen een bepaald land overmaken en elke soort valuta, die hij bezit, omzetten in enige andere valuta;
+- (a) from all direct taxes; the Council will not, however, claim exemption from rates, taxes or dues which are no more than charges for public utility services;
 
-- (c). zal de Raad van Europa, bij de uitoefening van de rechten welke hem zijn verleend krachtens de hier bovengenoemde punten (**a**), en (**b**), de nodige aandacht schenken aan vertogen van de Regering van een Lid en zal aan zodanige vertogen gevolg geven voor zover de Raad van oordeel is, dat dit kan geschieden zonder de belangen van de Raad te schaden.
+- (b) from all customs duties and prohibitions and restrictions on imports and exports in respect of articles required by the Council for its official use; articles imported under such exemption will not be sold in the country into which they are imported, except under conditions approved by the Government of that country;
 
-##### Artikel 7
+- (c) from all customs duties, and prohibitions and restrictions on imports and exports in respect of its publications.
 
-De Raad, zijn bezittingen, inkomsten en andere eigendommen zullen zijn vrijgesteld:
+## PART III. Communications
 
-- (a). van alle directe belastingen; de Raad zal echter geen vrijstelling eisen van die belastingen, heffingen of rechten, welke niet anders zijn dan retributies voor algemene overheidsdiensten;
+##### Article 8
 
-- (b). van alle douanerechten en verboden en beperkingen van in- en uitvoer met betrekking tot artikelen welke de Raad voor officieel gebruik nodig heeft; artikelen welke met een dergelijke vrijstelling zijn ingevoerd, zullen niet verkocht worden in het land waarin zij zijn ingevoerd, anders dan op voorwaarden waaraan de Regering van dat land haar goedkeuring heeft gehecht;
+The Committee of Ministers and the Secretary General shall enjoy in the territory of each Member, for their official communications, treatment at least as favourable as that accorded by that Member to the diplomatic missions of any other Government.
 
-- (c). van alle douanerechten en verbodsbepalingen en beperkingen van in- en uitvoer met betrekking tot zijn publicaties.
+No censorship shall be applied to the official correspondence and other official communications of the Committee of Ministers and of the Secretariat.
 
-## TITEL III. Communicatiemiddelen
+## PART IV. Representatives of Members to the Committee of Ministers
 
-##### Artikel 8
+##### Article 9
 
-Het Comité van Ministers en de Secretaris-Generaal genieten op het grondgebied van elk Lid, voor hun officiële communicatiemiddelen, een behandeling welke ten minste even gunstig is als die welke door dit Lid wordt toegestaan aan de diplomatieke missies van elke andere regering.
+Representatives at the Committee of Ministers shall, while exercising their functions and during their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
-Geen censuur zal worden toegepast op de officiële correspondentie en andere officiële mededelingen van het Comité van Ministers en van het Secretariaat.
+- (a) Immunity from personal arrest or detention and from seizure of their personal baggage, and, in respect of words spoken or written and all acts done by them in their official capacity, immunity from legal process of every kind.
 
-## TITEL IV. Vertegenwoordigers der Leden in het Comité van Ministers
+- (b) Inviolability for all papers and documents.
 
-##### Artikel 9
+- (c) The right to use codes and to receive papers or correspondence by courier or in sealed bags.
 
-De vertegenwoordigers in het Comité van Ministers zullen, tijdens de uitoefening van hun functies en tijdens hun reizen naar en van de plaats van samenkomst, de volgende voorrechten en immuniteiten genieten:
+- (d) Exemption in respect of themselves and their spouses from immigration restrictions or aliens registration in the State which they are visiting or through which they are passing in the exercise of their functions.
 
-- (a). immuniteit van persoonlijke arrestatie of gevangenhouding en van inbeslagneming van hun persoonlijke bagage en, met betrekking tot in hun officiële hoedanigheid gesproken of geschreven woorden of verrichte handelingen, vrijstelling van gerechtelijke vervolging van welke aard ook.
+- (e) The same facilities in respect of currency or exchange restrictions as are accorded to representatives of comparable rank of diplomatic missions.
 
-- (b). Onschendbaarheid van alle papieren en stukken.
+- (f) The same immunities and facilities in respect of their personal baggage as are accorded to members of comparable rank of diplomatic missions.
 
-- (c). Het recht codes te gebruiken en papieren en correspondentie te ontvangen per koerier of in verzegelde zakken.
+##### Article 10
 
-- (d). Vrijstelling met betrekking tot henzelf en hun echtgenoten van alle beperkingen betreffende immigratie of vreemdelingenregistratie in het land, dat zij bezoeken of waar zij doorreizen in de uitoefening van hun functie.
+In order to secure for the representatives at the Committee of Ministers complete freedom of speech and complete independence in the discharge of their duties, the immunity from legal process in respect of words spoken or written and all acts done by them in discharging their duties shall continue to be accorded, notwithstanding that the persons concerned are no longer engaged in the discharge of such duties.
 
-- (e). Dezelfde faciliteiten met betrekking tot valuta en deviezenrestricties als verleend worden aan leden van diplomatieke vertegenwoordigers van overeenkomstige rang.
+##### Article 11
 
-- (f). Dezelfde immuniteiten en faciliteiten met betrekking tot hun persoonlijke bagage als worden toegestaan aan leden van diplomatieke missies van overeenkomstige rang.
+Privileges and immunities are accorded to the representatives of Members, not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the Committee of Ministers. Consequently, a Member not only has the right, but is under a duty to waive the immunity of its representatives in any case where, in the opinion of the Member, the immunity would impede the course of justice, and where it can be waived without prejudice to the purpose for which the immunity is accorded.
 
-##### Artikel 10
+##### Article 12
 
-Teneinde de vertegenwoordigers in het Comité van Ministers volledige vrijheid van woord en onafhankelijkheid bij de uitoefening van hun taak te verzekeren, zal de immuniteit van rechtsvervolging met betrekking tot door hen gesproken of geschreven woorden en alle door hen in de uitoefening van hun functie verrichte handelingen, van kracht blijven, ook wanneer het mandaat van de betreffende personen beëindigd is.
+(a). The provisions of articles 9, 10 and 11 are not applicable in relation to the authorities of a State of which the person is a national or of which he is or has been a representative.
 
-##### Artikel 11
+(b). In articles 9, 10, 11 and 12 (*a*) above, the expression ”representatives” shall be deemed to include all representatives, alternate representatives, advisers, technical experts and secretaries of delegations.
 
-Voorrechten en immuniteiten worden aan de vertegenwoordigers der Leden niet toegekend voor het persoonlijk voordeel van deze individuele vertegenwoordigers, doch ten einde de onafhankelijke uitoefening van hun functie in verband met het Comité van Ministers te verzekeren. Derhalve heeft een Lid niet alleen het recht, maar tevens de plicht afstand te doen van de immuniteit van zijn vertegenwoordiger, telkens wanneer naar het oordeel van het Lid de immuniteit de loop der gerechtigheid in de weg zou staan, en van de immuniteit afstand kan worden gedaan, zonder dat inbreuk wordt gemaakt op het doel, waarvoor de immuniteit wordt toegekend.
+## PART V. Representatives to the Consultative Assembly
 
-##### Artikel 12
+##### Article 13
 
-(a). De bepalingen van de artikelen 9, 10 en 11 gelden niet voor de autoriteiten van een staat waarvan de persoon onderdaan is, of waarvan hij vertegenwoordiger is of is geweest.
+No administrative or other restriction shall be imposed on the free movement to and from the place of meeting of representatives to the Consultative Assembly and their substitutes.
 
-(b). In de artikelen 9, 10, 11 en 12 (**a**) hierboven, zal de term „vertegenwoordiger” geacht worden te omvatten alle vertegenwoordigers, plaatsvervangende vertegenwoordigers, adviseurs, technische deskundigen en secretarissen van delegaties.
+Representatives and their substitutes shall, in the matter of customs and exchange control, be accorded:
 
-## TITEL V. Vertegenwoordigers bij de Raadgevende Vergadering
+- (a) by their own government, the same facilities as those accorded to senior officials travelling abroad on temporary official duty;
 
-##### Artikel 13
+- (b) by the governments of other Members, the same facilities as those accorded to representatives of foreign governments on temporary official duty.
 
-Geen administratieve of andere beperking zal worden toegepast op de bewegingsvrijheid van de vertegenwoordigers bij de Raadgevende Vergadering en hun vervangers, die zich begeven naar of terugkeren van de plaats van samenkomst van de Vergadering.
+##### Article 14
 
-Aan de Vertegenwoordigers en hun plaatsvervangers zullen, wat betreft douane- en deviezen-regelingen, worden toegekend:
+Representatives to the Consultative Assembly and their substitutes shall be immune from all official interrogation and from arrest and all legal proceedings in respect of words spoken or votes cast by them in the exercise of their functions.
 
-- (a). door hun eigen regering, dezelfde faciliteiten als die, welke worden toegekend aan hoge ambtenaren die met een tijdelijke, officiële opdracht naar het buitenland reizen;
+##### Article 15
 
-- (b). door de regeringen van de andere Leden, dezelfde faciliteiten als die, welke worden toegekend aan de vertegenwoordigers van buitenlandse regeringen met een tijdelijke, officiële opdracht.
+During the sessions of the Consultative Assembly, the representatives to the Assembly and their substitutes, whether they be Members of Parliament or not, shall enjoy:
 
-##### Artikel 14
+- (a) on their national territory, the immunities accorded in those countries to Members of Parliament;
 
-Vertegenwoordigers bij de Raadgevende Vergadering en hun plaatsvervangers zullen vrijgesteld zijn van alle officiële ondervragingen en van arrestatie en gerechtelijke vervolging naar aanleiding van door hen gesproken woorden of door hen uitgebrachte stemmen in de uitoefening van hun functie.
+- (b) on the territory of all other Member States, exemption from arrest and prosecution.
 
-##### Artikel 15
+This immunity also applies when they are travelling to and from the place of meeting of the Consultative Assembly. It does not, however, apply when representatives and their substitutes are found committing, attempting to commit, or just having committed an offence, nor in cases where the Assembly has waived the immunity.
 
-Tijdens de duur der zittingen van de Raadgevende Vergadering genieten de vertegenwoordigers bij de Vergadering en haar plaatsvervangers, of zij parlementsleden zijn of niet:
+## PART VI. Officials of the Council
 
-- (a). op hun eigen grondgebied, de immuniteiten die worden toegekend aan leden van de volksvertegenwoordiging van dat land;
+##### Article 16
 
-- (b). op het grondgebied van alle andere staten, die lid zijn van de Vergadering, vrijwaring voor arrestatie en vervolging.
+In addition to the immunities and privileges specifed in Article 18 below, the Secretary General and Deputy Secretary General shall be accorded in respect of themselves, their spouses and minor children the privileges and immunities, exemptions and facilities accorded to diplomatic envoys in accordance with International Law.
 
-Deze immuniteit geldt ook wanneer zij op weg zijn van of naar de plaats van samenkomst van de Raadgevende Vergadering. Dit geldt echter niet wanneer van de vertegenwoordigers en hun plaatsvervangers ontdekt wordt, dat zij een overtreding begaan, proberen te begaan of juist begaan hebben, evenmin in gevallen waarin de Vergadering de immuniteit heeft opgeheven.
+##### Article 17
 
-## TITEL VI. Functionarissen van de Raad
+The Secretary General will specify the categories of officials to which the provisions of Article 18 below shall apply. He shall communicate them to the Governments of all Members. The names of the officials included in these categories shall from time to time be made known to the above mentioned Governments.
 
-##### Artikel 16
+##### Article 18
 
-Behalve de immuniteiten en de voorrechten aangegeven in het hieronder genoemde artikel 18, zullen aan de Secretaris-Generaal en de Plaatsvervangende Secretaris-Generaal, met betrekking tot henzelven, hun echtgenoten en minderjarige kinderen, de voorrechten en immuniteiten, vrijstellingen en faciliteiten worden verleend, welke worden toegekend aan hen, die met een diplomatieke zending zijn belast in overeenstemming met het Internationale Recht.
+Officials of the Council of Europe shall:
 
-##### Artikel 17
+- (a) be immune from legal process in respect of words spoken or written and all acts performed by them in their official capacity and within the limit of their authority;
 
-De Secretaris-Generaal geeft nader aan op welke categorieën functionarissen de bepalingen van artikel 18 hieronder van toepassing zullen zijn. Hij doet hiervan mededeling aan de regeringen van alle Leden. De namen van de functionarissen, die in deze categorieën begrepen zijn, zullen van tijd tot tijd ter kennis van de hierboven genoemde Regeringen worden gebracht.
+- (b) be exempt from taxation on the salaries and emoluments paid to them by the Council of Europe;
 
-##### Artikel 18
+- (c) be immune, together with their spouses and relatives dependent on them, from immigration restrictions and aliens' registration;
 
-Functionarissen van de Raad van Europa zullen:
+- (d) be accorded the same privileges in respect of exchange facilities as are accorded to officials of comparable rank forming part of diplomatic missions to the Government concerned;
 
-- (a). immuniteit genieten van rechtsvervolging met betrekking tot door hen gesproken of geschreven woorden en alle handelingen door hen verricht in hun officiële hoedanigheid en binnen de grenzen van hun bevoegdheid;
+- (e) be given, together with their spouses and relatives dependent on them, the same repatriation facilities in time of international crisis as diplomatic envoys;
 
-- (b). vrijgesteld zijn van belasting op de salarissen en emolumenten welke aan hen worden betaald door de Raad van Europa;
+- (f) have the right to import free of duty their furniture and effects at the time of first taking up their post in the country in question, and to re-export the same free of duty to their country of domicile.
 
-- (c). tezamen met hun echtgenoten en van hen afhankelijke familieleden, vrijgesteld zijn van immigratie-beperkingen en vreemdelingenregistratie;
+##### Article 19
 
-- (d). dezelfde voorrechten genieten nopens het wisselen van geld als die welke worden verleend aan functionarissen van vergelijkbare rang die deel uitmaken van diplomatieke zendingen bij de betreffende Regering;
+Privileges and immunities are granted to officials in the interests of the Council of Europe and not for the personal benefit of the individuals themselves. The Secretary General shall have the right and the duty to waive the immunity of any official in any case where, in his opinion, the immunity would impede the course of justice and can be waived without prejudice to the interests of the Council of Europe. In the case of the Secretary General and of the Deputy Secretary General, the Committee of Ministers shall have the right to waive immunity.
 
-- (e). tezamen met hun echtgenoten en van hen afhankelijke bloedverwanten, dezelfde repatriëringsfaciliteiten ontvangen in tijden van internationale crisis, als personen die met een diplomatieke zending zijn belast;
+## PART VII. Supplementary Agreements
 
-- (f). het recht hebben hun huisraad en goederen vrij van rechten in te voeren de eerste maal, dat zij hun post in het betreffende land aanvaarden, en om dit huisraad en deze goederen weer vrij uit te voeren naar het land waar zij domicilie hebben.
+##### Article 20
 
-##### Artikel 19
+The Council may conclude with any Member or Members supplementary agreements modifying the provisions of this General Agreement, so far as that Member or those Members are concerned.
 
-Voorrechten en immuniteiten worden aan de functionarissen slechts verleend in het belang van de Raad van Europa en niet tot het persoonlijk voordeel van deze individuele functionarissen. De Secretaris-Generaal zal het recht en de plicht hebben, de immuniteit van een functionaris op te heffen telkens wanneer naar zijn oordeel de immuniteit aan de loop van de gerechtigheid in de weg zou staan en afstand van de immuniteit kan worden gedaan, zonder dat inbreuk wordt gemaakt op de belangen van de Raad van Europa. In geval het de Secretaris-Generaal en de Plaatsvervangend Secretaris-Generaal betreft heeft het Comité van Ministers het recht de immuniteit op te heffen.
+## PART VIII. Disputes
 
-## TITEL VII. Aanvullende overeenkomsten
+##### Article 21
 
-##### Artikel 20
+Any dispute between the Council and private persons regarding supplies furnished, services rendered or immovable property purchased on behalf of the Council, shall be submitted to arbitration, as provided in an administrative order issued by the Secretary General with the approval of the Committee of Ministers.
 
-De Raad kan met elk Lid of meerdere Leden aanvullende overeenkomsten sluiten, waarbij de bepalingen van dit Algemeen Verdrag, voor zover zij dat Lid of die Leden betreffen, worden gewijzigd.
+## PART IX. Final Provisions
 
-## TITEL VIII. Geschillen
+##### Article 22
 
-##### Artikel 21
+The present Agreement shall be ratified. Instruments of ratification shall be deposited with the Secretary General. The Agreement shall come into force as soon as seven signatories have deposited their instruments of ratification.
 
-Elk geschil tussen de Raad en particuliere personen betreffende geleverde voorraden, verrichte diensten of onroerende goederen welke namens de Raad zijn aangekocht, zal worden onderworpen aan arbitrage, zoals daarin wordt voorzien door een administratief besluit van de Secretaris-Generaal met toestemming van het Comité van Ministers.
-
-## TITEL IX. Slotbepalingen
-
-##### Artikel 22
-
-Dit Verdrag zal worden bekrachtigd. De bekrachtigingsoorkonden zullen worden nedergelegd bij de Secretaris-Generaal. Het Verdrag treedt in werking zodra zeven der ondertekenaars hun bekrachtigingsoorkonde hebben nedergelegd.
-
-Ten einde elke vertraging van een doeltreffende werking van de Raad te voorkomen, komen de ondertekenaars echter overeen, hangende de inwerkingtreding van het Verdrag in overeenstemming met het bepaalde in het vorige lid, dit Verdrag voorlopig toe te passen met ingang van de datum van ondertekening, voor zover dat mogelijk is onder hun respectieve grondwettelijke bepalingen.
+Nevertheless, pending the entry into force of the Agreement in accordance with the provisions of the preceding paragraph, the signatories agree, in order to avoid any delay in the efficient working of the Council, to apply it provisionally from the date of signature, so far as it is possible to do so under their respective constitutional systems.
 
 In witness whereof the undersigned plenipotentiaries being duly authorised to that effect, have signed the present General Agreement.
 

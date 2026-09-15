@@ -1,56 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de verwerking in Frankrijk van Nederlandse bestraalde splijtstofelementen"
 identifier: "BWBV0005835"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-01-01"
-last_updated: "2014-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005835"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004890353"
-version_id: "10005196622"
-internal_id: "C10008520581"
-label_id: "10004873734"
-dtd_version: "2.0"
-original_entry_into_force: "2014-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005835/2014-01-01/0"
-intitule_bron: "Trb.2012-93"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-06-05"
-intitule_in_force: "2014-01-30"
-intitule_status: "goed"
-original_publication: "Trb.2012-93"
-original_published_date: "2012-06-05"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-93"
-entry_into_force_date: "2014-01-01"
-jci_1_3: "jci1.3:c:BWBV0005835&z=2014-01-01&g=2014-01-01"
-jci_1_0: "1.0:c:BWBV0005835&g=2014-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-01-01"
+publicatiedatum: 2014-01-01
+laatste_update: 2014-01-01
+status: geldig
+toestand: 2014-01-01
+bron: "https://wetten.overheid.nl/BWBV0005835"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de verwerking in Frankrijk van Nederlandse bestraalde splijtstofelementen
 
-De Regering van het Koninkrijk der Nederlanden, enerzijds,
-
-en
-
-De Regering van de Franse Republiek, anderzijds,
-
-Gelet op:
-
-De overeenkomst in de vorm van de op 29 mei 1979 te Parijs ondertekende briefwisselingen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de verwerking in Frankrijk van bestraalde splijtstofelementen (tezamen een [wijzigingsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003133), ondertekend te Parijs op 9 februari 2009);
-
-Het op 20 december 2011 tussen N.V. ELEKTRICITEITS-PRODUKTIEMAATSCHAPPIJ ZUID-NEDERLAND (hierna te noemen EPZ) en AREVA NC ondertekende contract voor de verwerking van alle gebruikte splijtstoffen afkomstig van de reactor te Borssele, gelegen in de provincie Zeeland in Nederland, en waarvan de inwerkingtreding afhangt van de inwerkingtreding van deze Overeenkomst;
-
-Artikel L.542-2 van het Franse wetboek inzake milieuaangelegenheden, voortvloeiend uit de Franse wet nr. 2006-739 van 28 juni 2006 inzake het duurzaam beheer van radioactieve stoffen en radioactief afval, dat als volgt bepaalt: „De opslag in Frankrijk van uit het buitenland afkomstig radioactief afval alsmede de opslag van radioactief afval afkomstig van de verwerking van uit het buitenland afkomstige gebruikte splijtstoffen en radioactief afval is verboden”;
-
-Artikel L.542-2-1-I van het Franse wetboek inzake milieuaangelegenheden, voortvloeiend uit de Franse wet nr. 2006-739 van 28 juni 2006 inzake het duurzaam beheer van radioactieve stoffen en radioactief afval, dat als volgt bepaalt. „Gebruikte splijtstoffen of radioactief afval mogen slechts op het nationale grondgebied worden binnengebracht ten behoeve van de verwerking ervan, voor onderzoek of voor doorvoer tussen buitenlandse Staten.
-
-Het op het grondgebied binnenbrengen voor verwerkingsdoeleinden kan uitsluitend worden toegestaan in het kader van intergouvernementele overeenkomsten en onder de voorwaarde dat het na de verwerking van deze stoffen overblijvend radioactief afval niet langer in Frankrijk opgeslagen zal blijven dan tot een in die overeenkomsten vastgestelde datum. In de overeenkomst worden de voorziene tijdvakken voor de inontvangstname en verwerking van deze stoffen vermeld alsmede, in voorkomend geval, het beoogde latere gebruik van de tijdens de verwerking afgescheiden radioactieve stoffen.”
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden, enerzijds, en De Regering van de Franse Republiek, anderzijds, Gelet op: De overeenkomst in de vorm van de op 29 mei 1979 te Parijs ondertekende briefwisselingen tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek inzake de verwerking in Frankrijk van bestraalde splijtstofelementen (tezamen een wijzigingsovereenkomst, ondertekend te Parijs op 9 februari 2009); Het op 20 december 2011 tussen N.V. ELEKTRICITEITS-PRODUKTIEMAATSCHAPPIJ ZUID-NEDERLAND (hierna te noemen EPZ) en AREVA NC ondertekende contract voor de verwerking van alle gebruikte splijtstoffen afkomstig van de reactor te Borssele, gelegen in de provincie Zeeland in Nederland, en waarvan de inwerkingtreding afhangt van de inwerkingtreding van deze Overeenkomst; Artikel L.542-2 van het Franse wetboek inzake milieuaangelegenheden, voortvloeiend uit de Franse wet nr. 2006-739 van 28 juni 2006 inzake het duurzaam beheer van radioactieve stoffen en radioactief afval, dat als volgt bepaalt: „De opslag in Frankrijk van uit het buitenland afkomstig radioactief afval alsmede de opslag van radioactief afval afkomstig van de verwerking van uit het buitenland afkomstige gebruikte splijtstoffen en radioactief afval is verboden”; Artikel L.542-2-1-I van het Franse wetboek inzake milieuaangelegenheden, voortvloeiend uit de Franse wet nr. 2006-739 van 28 juni 2006 inzake het duurzaam beheer van radioactieve stoffen en radioactief afval, dat als volgt bepaalt. „Gebruikte splijtstoffen of radioactief afval mogen slechts op het nationale grondgebied worden binnengebracht ten behoeve van de verwerking ervan, voor onderzoek of voor doorvoer tussen buitenlandse Staten. Het op het grondgebied binnenbrengen voor verwerkingsdoeleinden kan uitsluitend worden toegestaan in het kader van intergouvernementele overeenkomsten en onder de voorwaarde dat het na de verwerking van deze stoffen overblijvend radioactief afval niet langer in Frankrijk opgeslagen zal blijven dan tot een in die overeenkomsten vastgestelde datum. In de overeenkomst worden de voorziene tijdvakken voor de inontvangstname en verwerking van deze stoffen vermeld alsmede, in voorkomend geval, het beoogde latere gebruik van de tijdens de verwerking afgescheiden radioactieve stoffen.” Zijn het volgende overeengekomen:*
 
 ##### Artikel 1
 
@@ -110,10 +73,10 @@ TEN BLIJKE WAARVAN de vertegenwoordigers van beide Regeringen, daartoe naar beho
 
 GEDAAN te ’s-Gravenhage, op 20 april 2012, in tweevoud, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de regering van het Koninkrijk der Nederlanden,**
+*Voor de regering van het Koninkrijk der Nederlanden,*
 
 M. VERHAGEN
 
-**Voor de regering van de Franse Republiek,**
+*Voor de regering van de Franse Republiek,*
 
 P. MÉNAT

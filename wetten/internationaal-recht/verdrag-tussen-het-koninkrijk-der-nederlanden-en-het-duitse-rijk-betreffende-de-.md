@@ -1,52 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk betreffende de ophoging van de Oude Rijnmond bij Lobith"
 identifier: "BWBV0006051"
-country: "nl"
-rank: "verdrag"
-publication_date: "1922-08-28"
-last_updated: "1922-08-28"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0006051"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10005003273"
-version_id: "10005323542"
-internal_id: "C10008199631"
-label_id: "10004986274"
-dtd_version: "2.0"
-original_entry_into_force: "1922-08-28"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0006051/1922-08-28/0"
-intitule_bron: "Stb.1922-522"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1922-09-04"
-intitule_published: "1922-09-26"
-intitule_in_force: "1922-09-26"
-intitule_status: "goed"
-original_publication: "Stb.1922-522"
-original_signed_date: "1922-09-04"
-original_published_date: "1922-09-26"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1922-08-28"
-jci_1_3: "jci1.3:c:BWBV0006051&z=1922-08-28&g=1922-08-28"
-jci_1_0: "1.0:c:BWBV0006051&g=1922-08-28"
-citeertitel_status: "redactioneel"
-signed_date: "1922-09-04"
-entry_into_force: "1922-08-28"
+publicatiedatum: 1922-08-28
+laatste_update: 1922-08-28
+status: geldig
+toestand: 1922-08-28
+bron: "https://wetten.overheid.nl/BWBV0006051"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Duitse Rijk betreffende de ophoging van de Oude Rijnmond bij Lobith
 
-Hare Majesteit de Koningin der Nederlanden eenerzijds en Zijne Majesteit de Duitsche Keizer, Koning van Pruisen, namens het Duitsche Rijk, dat ten deze het Koninkrijk Pruisen ingevolge deszelfs opdracht vertegenwoordigt, anderzijds, geleid door den wensch om de afstrooming van den Rijn te verbeteren, zijn overeengekomen de in het Grenstractaat van 7 October 1816 voorkomende bepalingen over den Ouden Rijnmond bij Lobith te wijzigen, en hebben te dien einde tot gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-den Heer W. A. F. Baron Gevers, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister te Berlijn,
-
-en
-
-Zijne Majesteit de Duitsche Keizer, Koning van Pruisen:
-
-den heer Paul von Hintze, Hoogst Deszelfs Staatssecretaris van het Ministerie van Buitenlandsche Zaken,
-
-die na wederkeerige overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent de navolgende bepalingen zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden eenerzijds en Zijne Majesteit de Duitsche Keizer, Koning van Pruisen, namens het Duitsche Rijk, dat ten deze het Koninkrijk Pruisen ingevolge deszelfs opdracht vertegenwoordigt, anderzijds, geleid door den wensch om de afstrooming van den Rijn te verbeteren, zijn overeengekomen de in het Grenstractaat van 7 October 1816 voorkomende bepalingen over den Ouden Rijnmond bij Lobith te wijzigen, en hebben te dien einde tot gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: den Heer W. A. F. Baron Gevers, Hoogst Derzelver Buitengewoon Gezant en Gevolmachtigd Minister te Berlijn, en Zijne Majesteit de Duitsche Keizer, Koning van Pruisen: den heer Paul von Hintze, Hoogst Deszelfs Staatssecretaris van het Ministerie van Buitenlandsche Zaken, die na wederkeerige overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent de navolgende bepalingen zijn overeengekomen:*
 
 ##### Par. 1
 
@@ -82,6 +49,6 @@ Ter oorkonde waarvan de gevolmachtigden dit verdrag hebben onderteekend en van h
 
 Aldus gedaan, in tweevoud, te Berlijn, den 29 Augustus 1918.
 
-**(L .S.)** GEVERS.
+*(L .S.)* GEVERS.
 
-**(L .S.)** V. HINTZE.
+*(L .S.)* V. HINTZE.

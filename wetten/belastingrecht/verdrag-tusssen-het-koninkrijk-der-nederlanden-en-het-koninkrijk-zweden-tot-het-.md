@@ -1,64 +1,27 @@
 ---
 title: "Verdrag tusssen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen"
 identifier: "BWBV0005322"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-02-05"
-last_updated: "1953-02-05"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005322"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004559983"
-version_id: "10004787852"
-internal_id: "C10008335511"
-label_id: "10004544634"
-dtd_version: "2.0"
-original_entry_into_force: "1953-02-05"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005322/1953-02-05/0"
-intitule_bron: "Trb.1952-89"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-07-10"
-intitule_in_force: "1953-02-20"
-intitule_status: "goed"
-original_publication: "Trb.1952-89"
-original_published_date: "1952-07-10"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-89"
-entry_into_force_date: "1953-02-05"
-jci_1_3: "jci1.3:c:BWBV0005322&z=1953-02-05&g=1953-02-05"
-jci_1_0: "1.0:c:BWBV0005322&g=1953-02-05"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-02-05"
+publicatiedatum: 1953-02-05
+laatste_update: 1953-02-05
+status: geldig
+toestand: 1953-02-05
+bron: "https://wetten.overheid.nl/BWBV0005322"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tusssen het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot het vermijden van dubbele belasting en het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen
 
-Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning van Zweden,
-
-Bezield door de wens, zoveel mogelijk dubbele belasting te vermijden en regels voor wederzijdse administratieve hulp vast te stellen met betrekking tot rechten terzake van nalatenschappen,
-
-Hebben besloten te dien einde een Verdrag te sluiten,
-
-En hebben tot Hun gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden
-
-De Heer W. A. A. M. Daniels, Hoogstderzelver buitengewoon Gezant en gevolmachtigd Minister te Stockholm,
-
-Zijne Majesteit de Koning van Zweden
-
-Zijn Minister van Buitenlandse Zaken
-
-Zijne Excellentie Östen Undén,
-
-Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Majesteit de Koning van Zweden, Bezield door de wens, zoveel mogelijk dubbele belasting te vermijden en regels voor wederzijdse administratieve hulp vast te stellen met betrekking tot rechten terzake van nalatenschappen, Hebben besloten te dien einde een Verdrag te sluiten, En hebben tot Hun gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden De Heer W. A. A. M. Daniels, Hoogstderzelver buitengewoon Gezant en gevolmachtigd Minister te Stockholm, Zijne Majesteit de Koning van Zweden Zijn Minister van Buitenlandse Zaken Zijne Excellentie Östen Undén, Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
 § 1. De rechten, welke het onderwerp van dit Verdrag vormen, zijn
 
-- (a). in Zweden: het successierecht en het nalatenschapsrecht bij overlijden;
+- (a) in Zweden: het successierecht en het nalatenschapsrecht bij overlijden;
 
-- (b). in Nederland: het successierecht en het recht van overgang bij overlijden.
+- (b) in Nederland: het successierecht en het recht van overgang bij overlijden.
 
 § 2. Dit Verdrag zal ook van toepassing zijn op alle andere rechten terzake van overlijden, geheven in Zweden of Nederland, na de tekening van dit Verdrag, wegens overgang van vermogen door overlijden, onverschillig of zulke rechten worden geheven over de gehele nalatenschap dan wel over het deel, dat aan iedere erfgenaam of legataris opkomt.
 
@@ -78,9 +41,9 @@ Onroerende zaken (daaronder begrepen hun toebehoren en roerende zaken, welke er 
 
 In dit verband zal:
 
-- 1). een natuurlijk persoon, die zijn woonplaats heeft in een van de Verdragsluitende Staten niet geacht worden een vaste inrichting te hebben in de andere Verdragsluitende Staat enkel op grond van het feit, dat hij in die andere Verdragsluitende Staat bedrijfshandelingen verricht door middel van een **bona fide** makelaar of commissionnair, handelende in de normale uitoefening van zijn bedrijf als zodanig;
+- 1) een natuurlijk persoon, die zijn woonplaats heeft in een van de Verdragsluitende Staten niet geacht worden een vaste inrichting te hebben in de andere Verdragsluitende Staat enkel op grond van het feit, dat hij in die andere Verdragsluitende Staat bedrijfshandelingen verricht door middel van een *bona fide* makelaar of commissionnair, handelende in de normale uitoefening van zijn bedrijf als zodanig;
 
-- 2). het feit, dat een natuurlijk persoon, die zijn woonplaats heeft in een van de Verdragsluitende Staten in de andere Verdragsluitende Staat een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van waren of andere koopmansgoederen op zich zelf die vaste inrichting niet stempelen tot een vaste inrichting van die natuurlijke persoon.
+- 2) het feit, dat een natuurlijk persoon, die zijn woonplaats heeft in een van de Verdragsluitende Staten in de andere Verdragsluitende Staat een vaste bedrijfsinrichting aanhoudt uitsluitend voor het aankopen van waren of andere koopmansgoederen op zich zelf die vaste inrichting niet stempelen tot een vaste inrichting van die natuurlijke persoon.
 
 ##### Artikel 4
 
@@ -110,9 +73,9 @@ Rechten, in een van de Verdragsluitende Staten geheven over de gehele nalatensch
 
 § 2. Ongeacht enige andere bepaling van dit Verdrag, is Nederland bevoegd bij het heffen van zijn recht over de nalatenschap van een persoon, die ten tijde van zijn overlijden zijn woonplaats in Nederland had, in de grondslag waarnaar dit recht wordt geheven, de gehele nalatenschap te begrijpen, maar zal Nederland een vermindering van zijn recht toestaan, gelijk aan het laagste van de volgende bedragen
 
-- (a). het bedrag van het recht, in Zweden geheven met betrekking tot zaken, welke volgens de bepalingen van dit Verdrag aan Zweeds recht zijn onderworpen;
+- (a) het bedrag van het recht, in Zweden geheven met betrekking tot zaken, welke volgens de bepalingen van dit Verdrag aan Zweeds recht zijn onderworpen;
 
-- (b). een zodanig deel van het Nederlandse recht, als het deel van het netto bedrag van de zaken, welke aan Zweeds recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
+- (b) een zodanig deel van het Nederlandse recht, als het deel van het netto bedrag van de zaken, welke aan Zweeds recht zijn onderworpen, staat tot het netto bedrag van de gehele nalatenschap van de overledene.
 
 ##### Artikel 9
 
@@ -132,9 +95,9 @@ De bevoegde autoriteiten van de Verdragsluitende Staten zullen zodanige inlichti
 
 § 1. In geen geval zullen de bepalingen van artikel 9 en artikel 10 van dit Verdrag dusdanig worden uitgelegd, dat zij een der Verdragsluitende Staten de verplichting opleggen
 
-- (a). administratieve maatregelen te nemen, welke in strijd zijn met de voorschriften en het gebruik van een van de beide Verdragsluitende Staten, of
+- (a) administratieve maatregelen te nemen, welke in strijd zijn met de voorschriften en het gebruik van een van de beide Verdragsluitende Staten, of
 
-- (b). bijzonderheden te verstrekken, welke niet verkrijgbaar zijn volgens zijn eigen wetgeving of die van de verzoekende Staat.
+- (b) bijzonderheden te verstrekken, welke niet verkrijgbaar zijn volgens zijn eigen wetgeving of die van de verzoekende Staat.
 
 § 2. De Staat, aan welke een verzoek om inlichtingen of bijstand is gedaan, zal zo spoedig mogelijk aan het gedane verzoek gevolg geven. Nochtans kan de bedoelde Staat weigeren aan een dergelijk verzoek te voldoen om redenen van openbaar beleid. In een dergelijk geval zal deze Staat de verzoekende Staat zo spoedig mogelijk inlichten.
 
@@ -173,8 +136,6 @@ De uitdrukking: „bevoegde autoriteit” betekent, voor zoveel betreft Zweden, 
 ##### Artikel 18
 
 Dit Verdrag zal voor onbepaalde tijd van kracht blijven, maar elk van de Verdragsluitende Staten kan, op of voor de 30ste Juni van elk kalenderjaar niet vroeger dan het jaar 1956, aan de andere Verdragsluitende Staat langs diplomatieke weg een schriftelijke kennisgeving van beëindiging doen toekomen, en in zulk geval zal dit Verdrag ophouden van kracht te zijn aan het einde van dat kalenderjaar, maar het zal van toepassing zijn in alle gevallen, waarin het overlijden van de erflater heeft plaats gevonden voor het einde van het kalenderjaar.
-
-Bij gelegenheid van de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het vaststellen van regels voor wederzijdse administratieve hulp met betrekking tot rechten terzake van nalatenschappen, heden tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden gesloten, zijn de ondergetekende Gevolmachtigden overeengekomen, dat de volgende bepalingen een integrerend deel van het Verdrag zullen uitmaken:
 
 Ten blijke waarvan de bovengenoemde Gevolmachtigden dit Verdrag hebben ondertekend en van hun zegel voorzien.
 

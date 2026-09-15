@@ -1,58 +1,41 @@
 ---
 title: "Notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof"
 identifier: "BWBV0005454"
-country: "nl"
-rank: "verdrag"
-publication_date: "1946-12-11"
-last_updated: "1946-12-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005454"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004637763"
-version_id: "10004893982"
-internal_id: "C10008335991"
-label_id: "10004622084"
-dtd_version: "2.0"
-original_entry_into_force: "1946-12-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005454/1946-12-11/0"
-intitule_bron: "Stb.1947-H 79"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1947-03-04"
-intitule_published: "1947-04-05"
-intitule_in_force: "1947-04-05"
-intitule_status: "goed"
-original_publication: "Stb.1947-H 79"
-original_signed_date: "1947-03-04"
-original_published_date: "1947-04-05"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1946-12-11"
-jci_1_3: "jci1.3:c:BWBV0005454&z=1946-12-11&g=1946-12-11"
-jci_1_0: "1.0:c:BWBV0005454&g=1946-12-11"
-citeertitel_status: "redactioneel"
-signed_date: "1947-03-04"
-entry_into_force: "1946-12-11"
+publicatiedatum: 1946-12-11
+laatste_update: 1946-12-11
+status: geldig
+toestand: 1946-12-11
+bron: "https://wetten.overheid.nl/BWBV0005454"
+opgehaald: 2026-09-15
 ---
+
 # Notawisseling nopens de voorrechten en immuniteiten van het Internationale Gerechtshof
 
-'s-Gravenhage, den 26sten Juni 1946.
+La Haye, le 26 juin 1946.
 
-Mijnheer de President,
+Monsieur le Ministre,
 
-Ik heb de eer de ontvangst te bevestigen van het schrijven van Uwe Excellentie d.d. 26 Juni, waarin Zij wel mijn aandacht heeft willen vestigen op de door de Zesde Commissie van de Vergadering der Vereenigde Naties opgestelde resolutie betreffende de aan het Internationale Gerechtshof te verleenen voorrechten en immuniteiten.
+Comme le sait Votre Excellence, l'Assemblée générale des Nations Unies a, le 19 janvier 1946, chargé sa Sixième Commission d'examiner la question des privilèges, immunités et facilités à accorder à l'Organisation des Nations Unies. S'acquittant de cette tâche, la Sixième Commission a élaboré un certain nombre de projets de résolutions. L'un d'eux vise l'adoption d'une Convention générale, qui comporte un article V où sont déterminés les privilèges, immunités, exemptions et facilités dont devront jouir d'une façon générale les fonctionnaires de l'Organisation.
 
-Ik heb met genoegen vastgesteld, dat Uwe Excellentie wel heeft willen vermelden, dat de besprekingen, welke hebben plaatsgevonden tusschen vertegenwoordigers van het Hof en vertegenwoordigers van mijn Ministerie, waren beheerscht door de uitstekende betrekkingen, die van oudsher hebben bestaan tusschen de internationaalrechtelijke organen eenerzijds en Harer Majesteit's Regeering anderzijds, en ik geef Uwer Excellentie de stellige verzekering, dat ook Harer Majesteit’s Regeering een aangename herinnering bewaart aan de betrekkingen, welke tusschen haar en het Permanente Hof van Internationale Justitie hebben bestaan.
+En ce qui concerne la Cour internationale de Justice, la Sixième Commission lui a consacré une résolution spéciale. Ayant examiné la question des privilèges et immunités à accorder aux Membres de la Cour, au Greffier et fonctionnaires de la Cour ainsi qu'aux agents, conseils et avocats des parties, elle a recommandé que la Cour elle-même soit invitée, en vue de s'assurer le bénéfice des privilèges, immunités et facilités nécessaires à l'exercice de ses fonctions et à l'accomplissement de sa tâche, soit dans le pays où son siège sera établi, soit dans tout autre pays, à formuler des recommandations qui seraient communiquées au Secrétaire général.
 
-Ik stel er prijs op om ingevolge Uwer Excellentie's verzoek te bevestigen, dat de bijlage, gevoegd bij Haar bovengenoemden brief, geheel in overeenstemming is met de tijdens die besprekingen tot stand gebrachte overeenkomst en dat zij volledig de zienswijze van Harer Majesteit's Regeering in dezen weergeeft.
+La raison pour laquelle l'Assemblée générale a traité séparément le cas de la Cour internationale de Justice et s'en remet à elle des propositions à formuler, est que le Statut de la Cour, annexé à la Charte dont il fait partie intégrante, prescrit déjà dans son article 19 que les Membres de la Cour jouissent, dans l'exercice de leurs fonctions, des privilèges et immunités diplomatiques; et, dans son article 42, que les agents, conseils et avocats des parties devant la Cour jouiront des privilèges et immunités nécessaires à l'exercice indépendant de leurs fonctions. C'est sans doute aussi que la Cour est un organisme dont les Membres, assistés d'un personnel restreint, exercent des fonctions de caractère tout particulier, et dont, par suite, les besoins sont différents de ceux des autres organes des Nations Unies.
 
-Ik waardeer het ten zeerste, dat in het rapport, waarin het Hof zijn aanbevelingen doet met betrekking tot de voorrechten en immuniteiten en waarin het den Secretaris-Generaal der Vereenigde Naties uitnoodigt de Algemeene Vergadering te verzoeken om de tusschen de Nederlandsche Regeering en het Hof tot stand gebrachte regeling goed te keuren, uitdrukkelijk gewag wordt gemaakt van de vrijgevigheid der Nederlandsche tradities in dit opzicht.
+Quoi qu'il en soit, en vue de donner au mieux effet, en ce qui concerne le territoire néerlandais, à la Résolution de l'Assemblée mentionnée plus haut, des entretiens ont eu lieu entre des représentants du Ministère des Affaires étrangères néerlandais et des représentants de la Cour. Ces entretiens, tenant compte des excellentes relations traditionnelles entre les organismes judiciaires internationaux et le Gouvernement des Pays-Bas, ont abouti à une entente sur les principes généraux qui devraient régir la matière.
 
-Onder verwijzing naar de laatste alinea van Uwer Excellentie's meergenoemd schrijven, moge ik bij dezen bevestigen, dat overeengekomen wordt, dat de kwestie van voorrang, die destijds werd behandeld sub paragraaf IV van de Algemeene Beginselen, als bijlage gevoegd bij de briefwisseling tusschen den President van het Permanente Hof van Internationale Justitie en den Nederlandschen Minister van Buitenlandsche Zaken van 27 Mei 1928, buiten het bestek van het onderhavige accoord blijft.
+Les principes généraux dont il s'agit sont formulés dans l'annexe à la présente note. En communiquant ce document à Votre Excellence, j'ai l'honneur de La prier de me confirmer, que sa teneur correspond bien à l'entente intervenue.
 
-Ik maak van deze gelegenheid gebruik, Mijnheer de President, om aan Uwe Excellentie de verzekering mijner meeste hoogachting te hernieuwen.
+Je voudrais ajouter ce qui suit. Dans le rapport où la Cour, en transmettant ses recommandations relatives aux privilèges et immunités, invite le Secrétaire général des Nations Unies à prier l'Assemblée générale de déclarer satisfaisante l'entente intervenue entre le Gouvernement des Pays-Bas et la Cour, il est fait spécialement mention de la libéralité des traditions néerlandaises en la matière.
+
+D'autre part, j'espère que vous voudrez bien constater avec moi que la question de la préséance traitée autrefois sous le par. IV des Principes généraux, annexés aux lettres échangées entre le Président de la Cour permanente de Justice internationale et le Ministre des Affaires étrangères des Pays-Bas, le 27 mai 1928, reste en dehors du présent accord. Je vous serais reconnaissant de bien vouloir me confirmer aussi votre accord sur ce point.
+
+Je saisis cette occasion, Monsieur le Ministre, pour renouveler à Votre Excellence les assurances de ma très haute considération.
 
 (w.g.) J. G. GUERRERO,
 
-**Président de la Cour internationale de Justice.**
+*Président de la Cour internationale de Justice.*
 
 Son Excellence Monsieur J. H. van Roijen,
 

@@ -5,11 +5,12 @@ identifier: "BWBR0051965"
 categorie: "Overig"
 soort: "ministeriele-regeling"
 publicatiedatum: 2025-12-16
-laatste_update: 2025-12-16
-status: geldig
-toestand: 2025-12-16
+laatste_update: 2026-02-23
+status: vervallen
+vervallen_op: 2026-09-14
+toestand: 2026-02-23
 bron: "https://wetten.overheid.nl/BWBR0051965"
-opgehaald: 2026-09-09
+opgehaald: 2026-09-15
 ---
 
 # Besluit van de Minister van Justitie en Veiligheid van 10 december 2025, kenmerk 6997890/25/DP&O, houdende bekendmaking van de taak waarmee de Staatssecretaris van Justitie en Veiligheid in het bijzonder is belast

@@ -1,171 +1,132 @@
 ---
 title: "Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (herzien), 1949"
 identifier: "BWBV0005515"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-08-20"
-last_updated: "2013-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005515"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004674973"
-version_id: "10005735342"
-internal_id: "C10008996041"
-label_id: "10004659184"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005515/2013-08-20/0"
-intitule_bron: "Trb.2015-163"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2015-09-23"
-intitule_in_force: "2015-09-23"
-intitule_status: "vervallen"
-original_publication: "Trb.2015-163"
-original_published_date: "2015-09-23"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2015-163"
-entry_into_force_date: "2013-08-20"
-jci_1_3: "jci1.3:c:BWBV0005515&z=2013-08-20&g=2013-08-20"
-jci_1_0: "1.0:c:BWBV0005515&g=2013-08-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-08-20"
+publicatiedatum: 2013-08-20
+laatste_update: 2013-08-20
+status: geldig
+toestand: 2013-08-20
+bron: "https://wetten.overheid.nl/BWBV0005515"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (herzien), 1949
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+## PART I. General Provisions
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen in haar twee en dertigste zitting op 8 Juni 1949,
+##### Article 1
 
-Besloten hebbende verschillende voorstellen aan te nemen met betrekking tot de gedeeltelijke herziening van het Verdrag betreffende de huisvesting van de bemanning aan boord van schepen, 1946, aangenomen door de Conferentie in haar acht en twintigste zitting, welk onderwerp begrepen is in het twaalfde punt op de agenda der zitting,
+*Vervallen*
 
-Overwegende, dat deze voorstellen de vorm moeten aannemen van een internationaal verdrag,
+##### Article 2
 
-neemt heden, de achttiende Juni negentienhonderd negen en veertig, het volgende verdrag aan, hetwelk kan worden aangehaald onder de titel „Verdrag betreffende de huisvesting van de bemanning aan boord van schepen (herzien), 1949”:
+*Vervallen*
 
-## DEEL I. Algemeen
+##### Article 3
 
-##### Artikel 1
+*Vervallen*
 
-Vervallen
+## PART II. Planning and Control of Crew Accommodation
 
-##### Artikel 2
+##### Article 4
 
-Vervallen
+*Vervallen*
 
-##### Artikel 3
+##### Article 5
 
-Vervallen
+*Vervallen*
 
-## DEEL II. Ontwerpen van en toezicht op de verblijven van de bemanning
+## PART III. Crew Accommodation Requirements
 
-##### Artikel 4
+##### Article 6
 
-Vervallen
+*Vervallen*
 
-##### Artikel 5
+##### Article 7
 
-Vervallen
+*Vervallen*
 
-## DEEL III. Voorschriften betreffende de verblijven van de bemanning
+##### Article 8
 
-##### Artikel 6
+*Vervallen*
 
-Vervallen
+##### Article 9
 
-##### Artikel 7
+*Vervallen*
 
-Vervallen
+##### Article 10
 
-##### Artikel 8
+*Vervallen*
 
-Vervallen
+##### Article 11
 
-##### Artikel 9
+*Vervallen*
 
-Vervallen
+##### Article 12
 
-##### Artikel 10
+*Vervallen*
 
-Vervallen
+##### Article 13
 
-##### Artikel 11
+*Vervallen*
 
-Vervallen
+##### Article 14
 
-##### Artikel 12
+*Vervallen*
 
-Vervallen
+##### Article 15
 
-##### Artikel 13
+*Vervallen*
 
-Vervallen
+##### Article 16
 
-##### Artikel 14
+*Vervallen*
 
-Vervallen
+##### Article 17
 
-##### Artikel 15
+*Vervallen*
 
-Vervallen
+## PART IV. Application of Convention to Existing Ships
 
-##### Artikel 16
+##### Article 18
 
-Vervallen
+*Vervallen*
 
-##### Artikel 17
+## PART V. Final Provisions
 
-Vervallen
+##### Article 19
 
-## DEEL IV. Toepassing van het Verdrag op bestaande schepen.
+*Vervallen*
 
-##### Artikel 18
+##### Article 20
 
-Vervallen
+*Vervallen*
 
-## DEEL V. Slotbepalingen
+##### Article 21
 
-##### Artikel 19
+*Vervallen*
 
-Vervallen
+##### Article 22
 
-##### Artikel 20
+*Vervallen*
 
-Vervallen
+##### Article 23
 
-##### Artikel 21
+*Vervallen*
 
-Vervallen
+##### Article 24
 
-##### Artikel 22
+*Vervallen*
 
-Vervallen
+##### Article 25
 
-##### Artikel 23
+*Vervallen*
 
-Vervallen
+##### Article 26
 
-##### Artikel 24
+*Vervallen*
 
-Vervallen
+##### Article 27
 
-##### Artikel 25
-
-Vervallen
-
-##### Artikel 26
-
-Vervallen
-
-##### Artikel 27
-
-Vervallen
-
-## DEEL I. Algemeen
-
-## DEEL II. Ontwerpen van en toezicht op de verblijven van de bemanning
-
-## DEEL III. Voorschriften betreffende de verblijven van de bemanning
-
-## DEEL IV. Toepassing van het Verdrag op bestaande schepen.
-
-## DEEL V. Slotbepalingen
+*Vervallen*

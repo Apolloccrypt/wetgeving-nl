@@ -1,629 +1,572 @@
 ---
 title: "Verdrag betreffende werk in de visserijsector"
 identifier: "BWBV0005397"
-country: "nl"
-rank: "verdrag"
-publication_date: "2020-12-19"
-last_updated: "2020-12-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005397"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004613823"
-version_id: "10004867532"
-internal_id: "C10009674031"
-label_id: "10004599034"
-dtd_version: "2.0"
-original_entry_into_force: "2020-12-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005397/2020-12-19/0"
-intitule_bron: "Trb.2011-152"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-08-24"
-intitule_in_force: "2020-02-04"
-intitule_status: "goed"
-original_publication: "Trb.2011-152"
-original_published_date: "2011-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-152"
-entry_into_force_date: "2020-12-19"
-jci_1_3: "jci1.3:c:BWBV0005397&z=2020-12-19&g=2020-12-19"
-jci_1_0: "1.0:c:BWBV0005397&g=2020-12-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "2020-12-19"
+publicatiedatum: 2020-12-19
+laatste_update: 2020-12-19
+status: geldig
+toestand: 2020-12-19
+bron: "https://wetten.overheid.nl/BWBV0005397"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag betreffende werk in de visserijsector
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+*The General Conference of the International Labour Organization, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its ninety-sixth Session on 30 May 2007, and Recognizing that globalization has a profound impact on the fishing sector, and Noting the ILO Declaration on Fundamental Principles and Rights at Work, 1998, and Taking into consideration the fundamental rights to be found in the following international labour Conventions: the Forced Labour Convention, 1930 (No. 29), the Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), the Right to Organise and Collective Bargaining Convention, 1949 (No. 98), the Equal Remuneration Convention, 1951 (No. 100), the Abolition of Forced Labour Convention, 1957 (No. 105), the Discrimination (Employment and Occupation) Convention, 1958 (No. 111), the Minimum Age Convention, 1973 (No. 138), and the Worst Forms of Child Labour Convention, 1999 (No. 182), and Noting the relevant instruments of the International Labour Organization, in particular the Occupational Safety and Health Convention (No. 155) and Recommendation (No. 164), 1981, and the Occupational Health Services Convention (No. 161) and Recommendation (No. 171), 1985, and Noting, in addition, the Social Security (Minimum Standards) Convention, 1952 (No. 102), and considering that the provisions of Article 77 of that Convention should not be an obstacle to protection extended by Members to fishers under social security schemes, and Recognizing that the International Labour Organization considers fishing as a hazardous occupation when compared to other occupations, and Noting also Article 1, paragraph 3, of the Seafarers’ Identity Documents Convention (Revised), 2003 (No. 185), and Mindful of the core mandate of the Organization, which is to promote decent conditions of work, and Mindful of the need to protect and promote the rights of fishers in this regard, and Recalling the United Nations Convention on the Law of the Sea, 1982, and Taking into account the need to revise the following international Conventions adopted by the International Labour Conference specifically concerning the fishing sector, namely the Minimum Age (Fishermen) Convention, 1959 (No. 112), the Medical Examination (Fishermen) Convention, 1959 (No. 113), the Fishermen’s Articles of Agreement Convention, 1959 (No. 114), and the Accommodation of Crews (Fishermen) Convention, 1966 (No. 126), to bring them up to date and to reach a greater number of the world’s fishers, particularly those working on board smaller vessels, and Noting that the objective of this Convention is to ensure that fishers have decent conditions of work on board fishing vessels with regard to minimum requirements for work on board; conditions of service; accommodation and food; occupational safety and health protection; medical care and social security, and Having decided upon the adoption of certain proposals with regard to work in the fishing sector, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this fourteenth day of June of the year two thousand and seven the following Convention, which may be cited as the Work in Fishing Convention, 2007.*
 
-Bijeengeroepen te Genève door de Raad van Beheer van het Internationaal Arbeidsbureau en aldaar bijeengekomen in haar zesennegentigste zitting op 30 mei 2007, en
+## PART I. DEFINITIONS AND SCOPE
 
-Erkennend dat de globalisering grote gevolgen heeft voor de visserijsector, en
+##### Article 1. Definitions
 
-Gelet op de Verklaring van de Internationale Arbeidsorganisatie inzake de fundamentele beginselen en rechten in verband met werk, 1998, en
+For the purposes of the Convention:
 
-Gelet op de fundamentele rechten vervat in de volgende internationale verdragen op het gebied van arbeid: het [Verdrag betreffende de gedwongen of verplichte arbeid](https://wetten.overheid.nl/jci1.3:c:BWBV0006218), 1930 (nr. 29), het [Verdrag betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545), 1948 (nr. 87), het [Verdrag betreffende de toepassing van de beginselen van het recht zich te organiseren en collectief te onderhandelen](https://wetten.overheid.nl/jci1.3:c:BWBV0005525), 1949 (nr. 98), [Verdrag betreffende gelijke beloning](https://wetten.overheid.nl/jci1.3:c:BWBV0004933), 1951 (nr. 100), het [Verdrag betreffende afschaffing van gedwongen arbeid](https://wetten.overheid.nl/jci1.3:c:BWBV0004945), 1957 (nr. 105), het [Verdrag betreffende discriminatie in arbeid en beroep](https://wetten.overheid.nl/jci1.3:c:BWBV0004947), 1958 (nr. 111), het [Verdrag betreffende de minimumleeftijd voor toelating tot het arbeidsproces](https://wetten.overheid.nl/jci1.3:c:BWBV0003701), 1973 (nr. 138) en het [Verdrag betreffende het verbod op en de onmiddellijke actie voor de uitbanning van de ergste vormen van kinderarbeid](https://wetten.overheid.nl/jci1.3:c:BWBV0001522), 1999 (nr. 182), en
+- a) “commercial fishing” means all fishing operations, including fishing operations on rivers, lakes or canals, with the exception of subsistence fishing and recreational fishing;
 
-Gelet op de desbetreffende instrumenten van de Internationale Arbeidsorganisatie, met name het [Verdrag betreffende arbeidsveiligheid, gezondheid en het arbeidsmilieu](https://wetten.overheid.nl/jci1.3:c:BWBV0002487) (nr. 155) en Aanbeveling (nr. 164), 1981, en het Verdrag betreffende beroepsgezondheidsdiensten (nr. 161) en Aanbeveling (nr. 171), 1985, en
+- b) “competent authority” means the minister, government department or other authority having power to issue and enforce regulations, orders or other instructions having the force of law in respect of the subject matter of the provision concerned;
 
-Voorts gelet op het [Verdrag betreffende minimum-normen van sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0004942), 1952 (nr. 102) en overwegend dat de bepalingen van [artikel 77 van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=77) geen beletsel mogen vormen voor de bescherming van vissers door Leden op grond van socialezekerheidsstelsels, en
+- c) “consultation” means consultation by the competent authority with the representative organizations of employers and workers concerned, and in particular the representative organizations of fishing vessel owners and fishers, where they exist;
 
-Erkennend dat de Internationale Arbeidsorganisatie de visserij als een gevaarlijke beroepssector aanmerkt in vergelijking met andere beroepen, en
+- d) “fishing vessel owner” means the owner of the fishing vessel or any other organization or person, such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the vessel from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on fishing vessel owners in accordance with the Convention, regardless of whether any other organization or person fulfils certain of the duties or responsibilities on behalf of the fishing vessel owner;
 
-Voorts gelet op artikel 1, derde lid, van het Verdrag Identiteitsbewijzen Zeevarenden (herzien), 2003 (nr. 185), en
+- e) “fisher” means every person employed or engaged in any capacity or carrying out an occupation on board any fishing vessel, including persons working on board who are paid on the basis of a share of the catch but excluding pilots, naval personnel, other persons in the permanent service of a government, shore-based persons carrying out work aboard a fishing vessel and fisheries observers;
 
-Tevens indachtig het kernmandaat van de Organisatie, dat bestaat uit het bevorderen van fatsoenlijke voorwaarden voor werk, en
+- f) “fisher’s work agreement” means a contract of employment, articles of agreement or other similar arrangements, or any other contract governing a fisher’s living and working conditions on board a vessel;
 
-Indachtig de noodzaak de rechten van vissers in dit verband te beschermen en te bevorderen, en
+- g) “fishing vessel or vessel” means any ship or boat, of any nature whatsoever, irrespective of the form of ownership, used or intended to be used for the purpose of commercial fishing;
 
-In herinnering roepend het [Verdrag van de Verenigde Naties inzake het recht van de zee](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), 1982, en
+- h) “gross tonnage” means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in [Annex I to the International Convention on Tonnage Measurement of Ships, 1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I), or any instrument amending or replacing it;
 
-De noodzaak in aanmerking nemend de volgende door de Conferentie van de Internationale Arbeidsorganisatie aangenomen verdragen die in het bijzonder betrekking hebben op de visserijsector te herzien, namelijk het Verdrag betreffende de minimumleeftijd voor toelating tot de tewerkstelling als visser, 1959 (nr. 112), het [Verdrag betreffende het geneeskundig onderzoek van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004948), 1959 (nr. 113), het [Verdrag betreffende de arbeidsovereenkomst van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004949), 1959 (nr. 114), het [Verdrag betreffende de accommodatie aan boord van vissersschepen](https://wetten.overheid.nl/jci1.3:c:BWBV0004669), 1966 (nr. 126), teneinde deze te actualiseren en meer van ’s werelds vissers te bereiken, in het bijzonder hen die aan boord van kleinere vaartuigen werken, en
+- i) “length” (L) shall be taken as 96 per cent of the total length on a waterline at 85 per cent of the least moulded depth measured from the keel line, or as the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In vessels designed with rake of keel, the waterline on which this length is measured shall be parallel to the designed waterline;
 
-Overwegend dat de doelstelling van dit Verdrag is te waarborgen dat er voor vissers fatsoenlijke voorwaarden voor werk gelden voor werk aan boord van vissersvaartuigen, gebaseerd op minimumeisen voor werk aan boord; voorwaarden voor het verrichten van werk; accommodatie en voeding; bescherming door arbeidsomstandighedenbeleid; medische zorg; en sociale zekerheid, en
+- j) “length overall” (LOA) shall be taken as the distance in a straight line parallel to the designed waterline between the foremost point of the bow and the aftermost point of the stern;
 
-Besloten hebbend tot het aannemen van bepaalde voorstellen met betrekking tot werk in de visserijsector, welk onderwerp als vierde punt op de agenda van de zitting voorkomt, en
+- k) “recruitment and placement service” means any person, company, institution, agency or other organization, in the public or the private sector, which is engaged in recruiting fishers on behalf of, or placing fishers with, fishing vessel owners;
 
-Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een internationaal verdrag;
+- l) “skipper” means the fisher having command of a fishing vessel.
 
-Neemt heden, 14 juni 2007, het volgende verdrag aan, dat kan worden aangehaald als het Verdrag betreffende werk in de visserij, 2007.
+##### Article 2. Scope
 
-## DEEL I. BEGRIPSOMSCHRIJVINGEN EN REIKWIJDTE
+1. Except as otherwise provided herein, this Convention applies to all fishers and all fishing vessels engaged in commercial fishing operations.
 
-##### Artikel 1. Begripsomschrijvingen
+2. In the event of doubt as to whether a vessel is engaged in commercial fishing, the question shall be determined by the competent authority after consultation.
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+3. Any Member, after consultation, may extend, in whole or in part, to fishers working on smaller vessels the protection provided in this Convention for fishers working on vessels of 24 metres in length and over.
 
-- a. **„commerciële visserij”,** alle visserijactiviteiten, met inbegrip van visserijactiviteiten op rivieren, meren of kanalen, met uitzondering van visserij voor direct levensonderhoud en recreatieve visserij;
+##### Article 3
 
-- b. **„bevoegde autoriteit”,** de minister die, het ministerie dat of een andere autoriteit die bevoegd is voorschriften, reglementen of andere instructies met kracht van wet uit te vaardigen en te handhaven met betrekking tot het onderwerp van de desbetreffende bepaling;
+1. Where the application of the Convention raises special problems of a substantial nature in the light of the particular conditions of service of the fishers or of the fishing vessels’ operations concerned, a Member may, after consultation, exclude from the requirements of this Convention, or from certain of its provisions:
 
-- c. **„overleg”,** overleg tussen de bevoegde autoriteit en de representatieve organisaties van de betrokken werkgevers en werknemers en in het bijzonder de representatieve organisaties van scheepsbeheerders van vissersvaartuigen en vissers, waar deze bestaan;
+- a) fishing vessels engaged in fishing operations in rivers, lakes or canals;
 
-- d. **„scheepsbeheerder van een vissersvaartuig”,** de eigenaar van het vissersvaartuig of een andere organisatie of persoon, zoals de manager, de agent of de rompbevrachter, die de verantwoordelijkheid voor de exploitatie van het vaartuig van de eigenaar heeft overgenomen en die, door het aanvaarden van die verantwoordelijkheid, ermee heeft ingestemd de taken en verantwoordelijkheden die in overeenstemming met het Verdrag aan scheepsbeheerders van vissersvaartuigen worden opgelegd, te aanvaarden ongeacht het feit of andere organisaties of personen bepaalde taken of verantwoordelijkheden namens de scheepsbeheerder van het vissersvaartuig vervullen;
+- b) limited categories of fishers or fishing vessels.
 
-- e. **„visser”,** eenieder die, in enige hoedanigheid, hetzij in dienst is genomen, hetzij op andere wijze is gecontracteerd, hetzij een beroep uitoefent aan boord van een vissersvaartuig, met inbegrip van personen die aan boord werkzaam zijn en daarvoor een aandeel in de besomming ontvangen, maar met uitzondering van loodsen, marinepersoneel, andere personen in vaste dienst van een overheid, aan de wal gestationeerde personen die aan boord van een vissersvaartuig werk verrichten en visserijwaarnemers;
+2. In case of exclusions under the preceding paragraph, and where practicable, the competent authority shall take measures, as appropriate, to extend progressively the requirements under this Convention to the categories of fishers and fishing vessels concerned.
 
-- f. **„overeenkomst tot het verrichten van werk door vissers”,** een arbeidsovereenkomst of elke andere overeenkomst, op grond waarvan een visser aan boord van een vissersvaartuig werkt en die diens leef- en werkomstandigheden aan boord regelt;
+3. Each Member which ratifies this Convention shall:
 
-- g. **„vissersvaartuig of vaartuig”,** elk schip of elke boot, ongeacht zijn aard en ongeacht de eigendomsvorm, dat of die wordt gebruikt of beoogd wordt voor gebruik bij de commerciële visserij;
+- a) in its first report on the application of this Convention submitted under [article 22 of the Constitution of the International Labour Organisation](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22):
 
-- h. **„brutotonnage”,** de brutotonnage berekend in overeenstemming met de voorschriften inzake tonnagemetingen vervat in [Bijlage I bij het Internationaal Verdrag betreffende de meting van schepen,1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003245&bijlage=I), of elk instrument tot wijziging of vervanging van dat verdrag;
+   - (i) list any categories of fishers or fishing vessels excluded under paragraph 1;
 
-- i. **„lengte”** (L), 96% van de totale lengte op een waterlijn op 85% van de kleinste holte naar de mal gemeten vanaf de kiellijn, of de lengte van de voorzijde van de voorsteven tot aan de hartlijn van de roerkoning op die waterlijn, indien deze laatste lengte groter is. Bij vaartuigen die met stuurlast zijn ontworpen, moet de waterlijn waarop deze lengte gemeten wordt evenwijdig aan de ontwerplastlijn worden genomen;
+   - (ii) give the reasons for any such exclusions, stating the respective positions of the representative organizations of employers and workers concerned, in particular the representative organizations of fishing vessel owners and fishers, where they exist; and
 
-- j. **„lengte over alles”** (LOA), de afstand in een rechte lijn evenwijdig aan de ontwerplastlijn tussen het voorste punt van de boeg en het achterste punt van de achtersteven;
+   - (iii) describe any measures taken to provide equivalent protection to the excluded categories; and
 
-- k. **„wervings- en arbeidsbemiddelingsdienst”,** personen, bedrijven, instellingen, bureaus of andere organisaties in de publieke of private sector, die zich bezighouden met de werving van vissers namens scheepsbeheerders van vissersvaartuigen of de plaatsing van vissers bij scheepsbeheerders van vissersvaartuigen;
+- b) in subsequent reports on the application of the Convention, describe any measures taken in accordance with paragraph 2.
 
-- l. **„schipper”,** de visser die het gezag voert over een vissersvaartuig.
+##### Article 4
 
-##### Artikel 2. Reikwijdte
+1. Where it is not immediately possible for a Member to implement all of the measures provided for in this Convention owing to special problems of a substantial nature in the light of insufficiently developed infrastructure or institutions, the Member may, in accordance with a plan drawn up in consultation, progressively implement all or some of the following provisions:
 
-1. Tenzij hierin anders wordt bepaald, is dit Verdrag van toepassing op alle vissers en alle vissersvaartuigen die betrokken zijn bij commerciële visserijactiviteiten.
+- a) [Article 10, paragraph 1](https://wetten.overheid.nl/BWBV0005397);
 
-2. Indien twijfel bestaat omtrent de vraag of een vaartuig zich bezig houdt met commerciële visserij, beslist de bevoegde autoriteit na overleg.
+- b) [Article 10, paragraph 3](https://wetten.overheid.nl/BWBV0005397), in so far as it applies to vessels remaining at sea for more than three days;
 
-3. Elk Lid kan de bescherming in dit Verdrag voorzien voor vissers werkzaam op vaartuigen met een lengte van 24 meter of meer na overleg geheel of gedeeltelijk uitbreiden tot vissers werkzaam op kleinere vaartuigen.
+- c) [Article 15](https://wetten.overheid.nl/BWBV0005397);
 
-##### Artikel 3
+- d) [Article 20](https://wetten.overheid.nl/BWBV0005397);
 
-1. Indien de toepassing van het Verdrag leidt tot wezenlijke problemen vanwege de specifieke voorwaarden waaronder werk van de vissers wordt verricht of de activiteiten van de desbetreffende vissersvaartuigen, kan een Lid na overleg de vereisten van dit Verdrag dan wel een of meer bepalingen daarvan uitsluiten:
+- e) [Article 33](https://wetten.overheid.nl/BWBV0005397); and
 
-- a. vissersvaartuigen betrokken bij visserijactiviteiten op rivieren, meren of kanalen;
+- f) [Article 38](https://wetten.overheid.nl/BWBV0005397).
 
-- b. beperkte categorieën vissers of vissersvaartuigen.
+2. Paragraph 1 does not apply to fishing vessels which:
 
-2. In het geval van uitsluiting uit hoofde van het voorgaande lid en waar praktisch uitvoerbaar, treft de bevoegde autoriteit waar nodig maatregelen teneinde de vereisten uit hoofde van dit Verdrag geleidelijk uit te breiden tot de desbetreffende categorieën van vissers en vissersvaartuigen.
+- a) are 24 metres in length and over; or
 
-3. Elk Lid dat dit Verdrag bekrachtigt:
+- b) remain at sea for more than seven days; or
 
-- a. zal in zijn eerste rapport over de toepassing van dit Verdrag dat wordt ingediend ingevolge [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22):
+- c) normally navigate at a distance exceeding 200 nautical miles from the coastline of the flag State or navigate beyond the outer edge of its continental shelf, whichever distance from the coastline is greater; or
 
-- i. de categorieën vissers of vissersvaartuigen vermelden die ingevolge het eerste lid zijn uitgesloten;
+- d) are subject to port State control as provided for in [Article 43](https://wetten.overheid.nl/BWBV0005397) of this Convention, except where port State control arises through a situation of force majeure,
 
-- ii. de redenen voor deze uitsluitingen vermelden, evenals de onderscheiden posities van de representatieve organisaties van de betrokken werkgevers en werknemers en in het bijzonder de representatieve organisaties van scheepsbeheerders van vissersvaartuigen en vissers, waar deze bestaan; en
+nor to fishers working on such vessels.
 
-- iii. de maatregelen beschrijven die eventueel genomen zijn om de uitgesloten categorieën gelijkwaardige bescherming te bieden; en
+3. Each Member which avails itself of the possibility afforded in paragraph 1 shall:
 
-- b. in volgende rapporten over de toepassing van het Verdrag de maatregelen beschrijven die eventueel zijn genomen in overeenstemming met het tweede lid.
+- a) in its first report on the application of this Convention submitted under [article 22 of the Constitution of the International Labour Organisation](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22):
 
-##### Artikel 4
+   - (i) indicate the provisions of the Convention to be progressively implemented;
 
-1. Indien een Lid niet onmiddellijk in staat is alle in dit Verdrag voorziene maatregelen te implementeren vanwege wezenlijke, bijzondere problemen ten gevolge van onvoldoende ontwikkelde infrastructuur of instellingen, kan het Lid, in overeenstemming met een in overleg opgesteld plan, een deel of alle van de volgende bepalingen geleidelijk implementeren:
+   - (ii) explain the reasons and state the respective positions of representative organizations of employers and workers concerned, and in particular the representative organizations of fishing vessel owners and fishers, where they exist; and
 
-- a. [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19);
+   - (iii) describe the plan for progressive implementation; and
 
-- b. [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19), voor zover het van toepassing is op vaartuigen die gedurende langer dan drie dagen op zee blijven;
+- b) in subsequent reports on the application of this Convention, describe measures taken with a view to giving effect to all of the provisions of the Convention.
 
-- c. [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=15&z=2020-12-19&g=2020-12-19);
+##### Article 5
 
-- d. [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=20&z=2020-12-19&g=2020-12-19);
+1. For the purpose of this Convention, the competent authority, after consultation, may decide to use length overall (LOA) in place of length (L) as the basis for measurement, in accordance with the equivalence set out in [Annex I](https://wetten.overheid.nl/BWBV0005397). In addition, for the purpose of the paragraphs specified in Annex III of this Convention, the competent authority, after consultation, may decide to use gross tonnage in place of length (L) or length overall (LOA) as the basis for measurement in accordance with the equivalence set out in [Annex III](https://wetten.overheid.nl/BWBV0005397).
 
-- e. [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=33&z=2020-12-19&g=2020-12-19); en
+2. In the reports submitted under article 22 of the Constitution, the Member shall communicate the reasons for the decision taken under this Article and any comments arising from the consultation.
 
-- f. [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=38&z=2020-12-19&g=2020-12-19).
+## PART II. GENERAL PRINCIPLES
 
-2. Het eerste lid is niet van toepassing op vissersvaartuigen:
+##### Article 6. Implementation
 
-- a. met een lengte van 24 meter of meer; of
+1. Each Member shall implement and enforce laws, regulations or other measures that it has adopted to fulfil its commitments under this Convention with respect to fishers and fishing vessels under its jurisdiction. Other measures may include collective agreements, court decisions, arbitration awards, or other means consistent with national law and practice.
 
-- b. die langer dan zeven dagen op zee blijven; of
+2. Nothing in this Convention shall affect any law, award or custom, or any agreement between fishing vessel owners and fishers, which ensures more favourable conditions than those provided for in this Convention.
 
-- c. die normaliter meer dan 200 zeemijlen uit de kustlijn van de vlaggenstaat of buiten de buitengrens van zijn continentaal plat varen, naargelang welke afstand van de kustlijn het grootst is; of
+##### Article 7. Competent authority and coordination
 
-- d. die aan havenstaatcontroles als voorzien in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=43&z=2020-12-19&g=2020-12-19) van dit Verdrag worden onderworpen, behalve wanneer havenstaatcontrole plaatsvindt na een situatie van overmacht, en evenmin op vissers die op dergelijke vaartuigen werken.
+Each Member shall:
 
-3. Elk Lid dat gebruikmaakt van de in het eerste lid geboden mogelijkheid:
+- a) designate the competent authority or authorities; and
 
-- a. zal in zijn eerste rapport over de toepassing van dit Verdrag dat wordt ingediend op grond van [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22):
+- b) establish mechanisms for coordination among relevant authorities for the fishing sector at the national and local levels, as appropriate, and define their functions and responsibilities, taking into account their complementarities and national conditions and practice.
 
-- i. de bepalingen van het Verdrag vermelden die geleidelijk zullen worden geïmplementeerd;
+##### Article 8. Responsibilities of fishing vessel owners, skippers and fishers
 
-- ii. de redenen vermelden, evenals de onderscheiden posities van de representatieve organisaties van de betrokken werkgevers en werknemers en in het bijzonder de representatieve organisaties van scheepsbeheerders van vissersvaartuigen en vissers, waar deze bestaan; en
+1. The fishing vessel owner has the overall responsibility to ensure that the skipper is provided with the necessary resources and facilities to comply with the obligations of this Convention.
 
-- iii. de plannen voor de geleidelijke implementatie beschrijven; en
+2. The skipper has the responsibility for the safety of the fishers on board and the safe operation of the vessel, including but not limited to the following areas:
 
-- b. zal in de volgende rapporten over de toepassing van dit Verdrag de maatregelen beschrijven die zijn genomen teneinde gevolg te geven aan alle bepalingen van het Verdrag.
+- a) providing such supervision as will ensure that, as far as possible, fishers perform their work in the best conditions of safety and health;
 
-##### Artikel 5
+- b) managing the fishers in a manner which respects safety and health, including prevention of fatigue;
 
-1. Voor de toepassing van dit Verdrag kan de bevoegde autoriteit na overleg beslissen de lengte over alles (LOA) in plaats van de lengte (L) te hanteren als basis voor de meting in overeenstemming met de gelijkwaardigheid bij meting, vervat in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19). Voor de toepassing van de in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) bij dit Verdrag genoemde paragrafen kan de bevoegde autoriteit na overleg beslissen als basis voor de meting de brutotonnage met inachtneming van de gelijkwaardigheid bij meting vervat in Bijlage III te hanteren in plaats van de lengte (L) of de lengte over alles (LOA).
+- c) facilitating on-board occupational safety and health awareness training; and
 
-2. In de op grond van [artikel 22 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) ingediende rapporten vermeldt het Lid de redenen voor de ingevolge dit artikel genomen beslissing en eventuele uit het overleg voortvloeiende opmerkingen.
+- d) ensuring compliance with safety of navigation, watchkeeping and associated good seamanship standards.
 
-## DEEL II. ALGEMENE BEGINSELEN
+3. The skipper shall not be constrained by the fishing vessel owner from taking any decision which, in the professional judgement of the skipper, is necessary for the safety of the vessel and its safe navigation and safe operation, or the safety of the fishers on board.
 
-##### Artikel 6. Implementatie
+4. Fishers shall comply with the lawful orders of the skipper and applicable safety and health measures.
 
-1. Elk Lid implementeert en handhaaft wet- en regelgeving of andere maatregelen die het heeft aangenomen ter nakoming van de verplichtingen op grond van dit Verdrag ten aanzien van vissers en vissersvaartuigen die onder zijn rechtsbevoegdheid vallen. Andere maatregelen kunnen bestaan uit collectieve overeenkomsten, gerechtelijke beslissingen, scheidsrechterlijke uitspraken of andere maatregelen die verenigbaar zijn met de nationale wetgeving en praktijk.
+## PART III. MINIMUM REQUIREMENTS FOR WORK ON BOARD FISHING VESSELS
 
-2. Niets in dit Verdrag tast wetten, uitspraken, gewoonten of overeenkomsten tussen scheepsbeheerders van vissersvaartuigen en vissers aan die gunstiger voorwaarden waarborgen dan de voorwaarden voorzien in dit Verdrag.
+##### Article 9. Minimum age
 
-##### Artikel 7. Bevoegde autoriteit en coördinatie
+1. The minimum age for work on board a fishing vessel shall be 16 years. However, the competent authority may authorize a minimum age of 15 for persons who are no longer subject to compulsory schooling as provided by national legislation, and who are engaged in vocational training in fishing.
 
-Elk Lid:
+2. The competent authority, in accordance with national laws and practice, may authorize persons of the age of 15 to perform light work during school holidays. In such cases, it shall determine, after consultation, the kinds of work permitted and shall prescribe the conditions in which such work shall be undertaken and the periods of rest required.
 
-- a. wijst de bevoegde autoriteit of autoriteiten aan; en
+3. The minimum age for assignment to activities on board fishing vessels, which by their nature or the circumstances in which they are carried out are likely to jeopardize the health, safety or morals of young persons, shall not be less than 18 years.
 
-- b. stelt naargelang het geval regelingen vast voor de coördinatie tussen de desbetreffende autoriteiten voor de visserijsector op nationaal en lokaal niveau en omschrijft hun taken en verantwoordelijkheden, daarbij rekening houdend met hun complementariteit, nationale omstandigheden en praktijk.
+4. The types of activities to which paragraph 3 of this Article applies shall be determined by national laws or regulations, or by the competent authority, after consultation, taking into account the risks concerned and the applicable international standards.
 
-##### Artikel 8. Verantwoordelijkheden van scheepsbeheerders van vissersvaartuigen, schippers en vissers
+5. The performance of the activities referred to in paragraph 3 of this Article as from the age of 16 may be authorized by national laws or regulations, or by decision of the competent authority, after consultation, on condition that the health, safety and morals of the young persons concerned are fully protected and that the young persons concerned have received adequate specific instruction or vocational training and have completed basic pre-sea safety training.
 
-1. De scheepsbeheerder van vissersvaartuigen draagt de algehele verantwoordelijkheid om te waarborgen dat de schipper beschikt over de nodige middelen en voorzieningen om te voldoen aan de verplichtingen uit dit Verdrag.
+6. The engagement of fishers under the age of 18 for work at night shall be prohibited. For the purpose of this Article, “night” shall be defined in accordance with national law and practice. It shall cover a period of at least nine hours starting no later than midnight and ending no earlier than 5 a.m. An exception to strict compliance with the night work restriction may be made by the competent authority when:
 
-2. De schipper is verantwoordelijk voor de veiligheid van de vissers aan boord en de veilige exploitatie van het vaartuig, met inbegrip van maar niet beperkt tot het volgende:
+- a) the effective training of the fishers concerned, in accordance with established programmes and schedules, would be impaired; or
 
-- a. het zodanig houden van toezicht dat zoveel mogelijk gewaarborgd wordt dat de vissers hun werk onder de voor hun veiligheid en gezondheid beste omstandigheden kunnen verrichten;
+- b) the specific nature of the duty or a recognized training programme requires that fishers covered by the exception perform duties at night and the authority determines, after consultation, that the work will not have a detrimental impact on their health or well-being.
 
-- b. het zodanig geven van leiding aan de vissers dat hun veiligheid en gezondheid worden gerespecteerd, met inbegrip van het voorkomen van vermoeidheid;
+7. Nothing in this Article shall affect any obligations assumed by the Member arising from the ratification of any other international labour Convention.
 
-- c. het faciliteren van bewustwordingstrainingen aan boord met betrekking tot arbeidsomstandigheden; en
+##### Article 10. Medical examination
 
-- d. het erop toezien dat wordt voldaan aan de maatstaven voor veilige navigatie, wachtdiensten en het bijbehorende goed zeemanschap.
+1. No fishers shall work on board a fishing vessel without a valid medical certificate attesting to fitness to perform their duties.
 
-3. De scheepsbeheerder van het vissersvaartuig mag de schipper niet beletten beslissingen te nemen die naar het deskundig oordeel van de schipper nodig zijn voor de veiligheid van het vaartuig, de veilige navigatie en de veilige exploitatie of de veiligheid van de vissers aan boord.
+2. The competent authority, after consultation, may grant exemptions from the application of paragraph 1 of this Article, taking into account the safety and health of fishers, size of the vessel, availability of medical assistance and evacuation, duration of the voyage, area of operation, and type of fishing operation.
 
-4. De vissers moeten gehoor geven aan de rechtmatige orders van de schipper en voldoen aan de van toepassing zijnde veiligheids- en gezondheidsmaatregelen.
+3. The exemptions in paragraph 2 of this Article shall not apply to a fisher working on a fishing vessel of 24 metres in length and over or which normally remains at sea for more than three days. In urgent cases, the competent authority may permit a fisher to work on such a vessel for a period of a limited and specified duration until a medical certificate can be obtained, provided that the fisher is in possession of an expired medical certificate of a recent date.
 
-## DEEL III. MINIMUMEISEN VOOR HET WERKEN AAN BOORD VAN VISSERSVAARTUIGEN
+##### Article 11
 
-##### Artikel 9. Minimumleeftijd
+Each Member shall adopt laws, regulations or other measures providing for:
 
-1. De minimumleeftijd voor werk aan boord van vissersvaartuigen is 16 jaar. De bevoegde autoriteit kan evenwel een minimumleeftijd van 15 jaar toestaan voor personen die niet langer leerplichtig zijn zoals voorzien in de nationale wetgeving en die een beroepsopleiding volgen in de visserij.
+- a) the nature of medical examinations;
 
-2. De bevoegde autoriteit kan in overeenstemming met de nationale wetgeving en praktijk personen van 15 jaar toestemming verlenen gedurende schoolvakanties licht werk te verrichten. In dergelijke gevallen bepaalt de autoriteit na overleg welk werk toegestaan is alsmede de omstandigheden waaronder dat werk verricht mag worden en welke rusttijden vereist zijn.
+- b) the form and content of medical certificates;
 
-3. De minimumleeftijd waarop werkzaamheden aan boord van vissersvaartuigen, die vanwege hun aard of de omstandigheden waaronder zij moeten worden verricht de gezondheid, veiligheid of de goede zeden van jongeren zouden kunnen schaden, mogen worden opgedragen, mag niet lager zijn dan 18 jaar.
+- c) the issue of a medical certificate by a duly qualified medical practitioner or, in the case of a certificate solely concerning eyesight, by a person recognized by the competent authority as qualified to issue such a certificate; these persons shall enjoy full independence in exercising their professional judgement;
 
-4. De soorten werkzaamheden waarop het derde lid van dit artikel van toepassing is worden vastgesteld aan de hand van de nationale wet- en regelgeving of na overleg door de bevoegde autoriteit, waarbij de desbetreffende risico’s en de toepasselijke internationale maatstaven in aanmerking worden genomen.
+- d) the frequency of medical examinations and the period of validity of medical certificates;
 
-5. Voor het verrichten van de werkzaamheden, bedoeld in het derde lid van dit artikel, vanaf de leeftijd van 16 jaar kan krachtens de nationale wet- of regelgeving of na overleg bij besluit van de bevoegde autoriteit, toestemming worden verleend op voorwaarde dat de gezondheid, veiligheid en goede zeden van de betrokken jongeren volledig worden beschermd en dat de betrokken jongeren voldoende specifieke instructie of vakopleiding hebben genoten en een basis veiligheidstraining hebben voltooid voordat zij naar zee gaan.
+- e) the right to a further examination by a second independent medical practitioner in the event that a person has been refused a certificate or has had limitations imposed on the work he or she may perform; and
 
-6. Het aanstellen van vissers jonger dan 18 jaar voor werkzaamheden ’s nachts is verboden. Voor de toepassing van dit artikel wordt „nacht” omschreven in overeenstemming met de nationale wetgeving en praktijk. De nacht omvat een periode van ten minste 9 uur die uiterlijk om middernacht aanvangt en niet eerder dan 05.00 uur ’s ochtends eindigt. Op de strikte naleving van de beperking ten aanzien van nachtwerk kan door de bevoegde autoriteit een uitzondering worden gemaakt wanneer:
+- f) other relevant requirements.
 
-- a. de effectieve opleiding van de betrokken vissers, in overeenstemming met vastgestelde programma’s en schema’s in het gedrang zou komen; of
+##### Article 12
 
-- b. de specifieke aard van de taak of een erkend opleidingsprogramma met zich meebrengt dat de vissers op wie de uitzondering van toepassing is ’s nachts taken verrichten en de autoriteit na overleg vaststelt dat het werk niet nadelig voor hun gezondheid of welzijn zal zijn.
+In addition to the requirements set out in [Article 10](https://wetten.overheid.nl/BWBV0005397) and [Article 11](https://wetten.overheid.nl/BWBV0005397), on a fishing vessel of 24 metres in length and over, or on a vessel which normally remains at sea for more than three days:
 
-7. Niets in dit artikel tast de verplichtingen aan die Leden hebben aanvaard bij het bekrachtigen van een ander internationaal arbeidsverdrag.
+- 1. The medical certificate of a fisher shall state, at a minimum, that:
 
-##### Artikel 10. Geneeskundig onderzoek
+   - a) the hearing and sight of the fisher concerned are satisfactory for the fisher’s duties on the vessel; and
 
-1. Vissers werken niet aan boord van vissersvaartuigen zonder een geldige geneeskundige verklaring waaruit blijkt dat zij medisch gezien in staat zijn hun taken te verrichten.
+   - b) the fisher is not suffering from any medical condition likely to be aggravated by service at sea or to render the fisher unfit for such service or to endanger the safety or health of other persons on board.
 
-2. De bevoegde autoriteit kan na overleg vrijstelling verlenen van de toepassing van het eerste lid van dit artikel, daarbij rekening houdend met de veiligheid en gezondheid van vissers, de lengte van het vaartuig, de beschikbaarheid van medische hulp en evacuatie, de duur van de reis, het vaargebied en het soort visserijactiviteiten.
+- 2. The medical certificate shall be valid for a maximum period of two years unless the fisher is under the age of 18, in which case the maximum period of validity shall be one year.
 
-3. De vrijstellingen, bedoeld in het tweede lid van dit artikel, zijn niet van toepassing op vissers die werkzaam zijn op vissersvaartuigen met een lengte van 24 meter of meer of die gewoonlijk langer dan drie dagen op zee blijven. In urgente gevallen kan de bevoegde autoriteit toestaan dat een visser op een dergelijk vaartuig werkt gedurende een omschreven beperkte periode totdat een geneeskundige verklaring kan worden verkregen, op voorwaarde dat de visser beschikt over een verlopen geneeskundige verklaring van recente datum.
+- 3. If the period of validity of a certificate expires in the course of a voyage, the certificate shall remain in force until the end of that voyage.
 
-##### Artikel 11
+## PART IV. CONDITIONS OF SERVICE
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan inzake:
+##### Article 13. Manning and hours of rest
 
-- a. de aard van geneeskundige onderzoeken;
+Each Member shall adopt laws, regulations or other measures requiring that owners of fishing vessels flying its flag ensure that:
 
-- b. de vorm en inhoud van geneeskundige verklaringen;
+- a) their vessels are sufficiently and safely manned for the safe navigation and operation of the vessel and under the control of a competent skipper; and
 
-- c. de afgifte van de geneeskundige verklaring door een bevoegde arts of, in het geval van een verklaring die uitsluitend op het gezichtsvermogen betrekking heeft, door een persoon die door de bevoegde autoriteit wordt erkend als zijnde bevoegd tot afgifte van een dergelijke verklaring; deze personen moeten wat betreft hun professioneel oordeel volledig onafhankelijk zijn;
+- b) fishers are given regular periods of rest of sufficient length to ensure safety and health.
 
-- d. de frequentie van geneeskundige onderzoeken en de geldigheidsduur van geneeskundige verklaringen;
+##### Article 14
 
-- e. het recht op nader onderzoek door een tweede onafhankelijke arts indien een geneeskundige verklaring geweigerd is of er beperkingen zijn opgelegd ten aanzien van het werk dat iemand mag verrichten; en
+1. In addition to the requirements set out in [Article 13](https://wetten.overheid.nl/BWBV0005397), the competent authority shall:
 
-- f. andere relevante vereisten.
+- a) for vessels of 24 metres in length and over, establish a minimum level of manning for the safe navigation of the vessel, specifying the number and the qualifications of the fishers required;
 
-##### Artikel 12
+- b) for fishing vessels regardless of size remaining at sea for more than three days, after consultation and for the purpose of limiting fatigue, establish the minimum hours of rest to be provided to fishers. Minimum hours of rest shall not be less than:
 
-In aanvulling op de vereisten vervat in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=10&z=2020-12-19&g=2020-12-19) en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=III&artikel=11&z=2020-12-19&g=2020-12-19) geldt voor vissersvaartuigen met een lengte van 24 meter of meer of vissersvaartuigen die gewoonlijk langer dan drie dagen op zee blijven het volgende:
+   - (i) ten hours in any 24-hour period; and
 
-- 1. In de geneeskundige verklaring van een visser wordt ten minste vermeld dat:
+   - (ii) 77 hours in any seven-day period.
 
-- a. het gehoor- en gezichtsvermogen van de desbetreffende visser voldoende zijn voor diens taken op het vaartuig; en
+2. The competent authority may permit, for limited and specified reasons, temporary exceptions to the limits established in paragraph 1(b) of this Article. However, in such circumstances, it shall require that fishers shall receive compensatory periods of rest as soon as practicable.
 
-- b. de visser niet lijdt aan een medische aandoening die mogelijk wordt verergerd door werk op zee of de visser mogelijk ongeschikt maakt voor dergelijk werk of de veiligheid of gezondheid van andere opvarenden in gevaar kan brengen.
+3. The competent authority, after consultation, may establish alternative requirements to those in paragraphs 1 and 2 of this Article. However, such alternative requirements shall be substantially equivalent and shall not jeopardize the safety and health of the fishers.
 
-- 2. De geneeskundige verklaring geldt voor een tijdvak van ten hoogste twee jaar, tenzij de visser jonger is dan 18 jaar, in welk geval de geldigheidsduur ten hoogste een jaar bedraagt.
+4. Nothing in this Article shall be deemed to impair the right of the skipper of a vessel to require a fisher to perform any hours of work necessary for the immediate safety of the vessel, the persons on board or the catch, or for the purpose of giving assistance to other boats or ships or persons in distress at sea. Accordingly, the skipper may suspend the schedule of hours of rest and require a fisher to perform any hours of work necessary until the normal situation has been restored. As soon as practicable after the normal situation has been restored, the skipper shall ensure that any fishers who have performed work in a scheduled rest period are provided with an adequate period of rest.
 
-- 3. Indien de geldigheidsduur van een verklaring verstrijkt tijdens een reis, blijft deze geldig tot het eind van die reis.
+##### Article 15. Crew list
 
-## DEEL IV. VOORWAARDEN WAARONDER WERK WORDT VERRICHT
+Every fishing vessel shall carry a crew list, a copy of which shall be provided to authorized persons ashore prior to departure of the vessel, or communicated ashore immediately after departure of the vessel. The competent authority shall determine to whom and when such information shall be provided and for what purpose or purposes.
 
-##### Artikel 13. Bemanning en rusttijden
+##### Article 16. Fisher’s work agreement
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan die scheepsbeheerders van vissersvaartuigen die onder zijn vlag varen verplichten om te waarborgen dat:
+Each Member shall adopt laws, regulations or other measures:
 
-- a. hun vaartuigen voldoende en veilig zijn bemand voor de veilige navigatie en exploitatie van het vaartuig en onder het gezag staan van een vakbekwame schipper; en
+- a) requiring that fishers working on vessels flying its flag have the protection of a fisher’s work agreement that is comprehensible to them and is consistent with the provisions of this Convention; and
 
-- b. vissers regelmatig voldoende lange rustperioden krijgen om hun veiligheid en gezondheid te waarborgen.
+- b) specifying the minimum particulars to be included in fishers’ work agreements in accordance with the provisions contained in [Annex II](https://wetten.overheid.nl/BWBV0005397).
 
-##### Artikel 14
+##### Article 17
 
-1. In aanvulling op de vereisten vervat in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IV&artikel=13&z=2020-12-19&g=2020-12-19) moet de bevoegde autoriteit:
+Each Member shall adopt laws, regulations or other measures regarding:
 
-- a. voor vaartuigen met een lengte van 24 meter of meer een minimum bemanningssterkte vaststellen voor de veilige navigatie van het vaartuig en daarbij het vereiste aantal vissers met hun kwalificaties vermelden;
+- a) procedures for ensuring that a fisher has an opportunity to review and seek advice on the terms of the fisher’s work agreement before it is concluded;
 
-- b. na overleg voor vissersvaartuigen ongeacht hun grootte die langer dan drie dagen op zee blijven het minimumaantal uren rust voor vissers vaststellen teneinde vermoeidheid te beperken. Het minimumaantal uren rust mag niet minder zijn dan:
+- b) where applicable, the maintenance of records concerning the fisher’s work under such an agreement; and
 
-- i. tien uur in elke periode van 24 uur; en
+- c) the means of settling disputes in connection with a fisher’s work agreement.
 
-- ii. 77 uur in elke periode van zeven dagen.
+##### Article 18
 
-2. De bevoegde autoriteit kan, om een beperkt aantal en omschreven redenen, tijdelijk uitzonderingen toestaan op de in het eerste lid, onderdeel b, van dit artikel vastgestelde grenzen. In dergelijke gevallen dient zij echter te eisen dat de vissers, zo spoedig als uitvoerbaar is, rusttijd ter compensatie krijgen.
+The fisher’s work agreement, a copy of which shall be provided to the fisher, shall be carried on board and be available to the fisher and, in accordance with national law and practice, to other concerned parties on request.
 
-3. De bevoegde autoriteit kan na overleg alternatieve eisen vaststellen voor die van het eerste en tweede lid van dit artikel. Dergelijke alternatieve eisen moeten echter in wezenlijke mate gelijkwaardig zijn en mogen de veiligheid en gezondheid van de vissers niet in gevaar brengen.
+##### Article 19
 
-4. Niets in dit artikel wordt geacht het recht van de schipper van een vaartuig aan te tasten van een visser te verlangen dat hij de nodige uren werk verricht ten behoeve van de onmiddellijke veiligheid van het vaartuig, van de opvarenden of van de vangst, of voor het verlenen van hulp aan op zee in nood verkerende schepen of personen. Dienovereenkomstig kan de schipper het normale schema van rusttijden opschorten en van een visser verlangen dat hij de nodige uren werk verricht totdat de normale situatie is hersteld. Zodra de normale situatie is hersteld, draagt de schipper er zorg voor dat de vissers die tijdens een ingeroosterde rustperiode werk hebben verricht een toereikende rustperiode krijgen.
+Articles 16 to 18 and [Annex II](https://wetten.overheid.nl/BWBV0005397) do not apply to a fishing vessel owner who is also single-handedly operating the vessel.
 
-##### Artikel 15. Bemanningslijst
+##### Article 20
 
-Elk vissersvaartuig heeft een bemanningslijst aan boord waarvan een afschrift hetzij voor vertrek van het vaartuig wordt verstrekt aan bevoegde personen aan de wal, hetzij onmiddellijk na vertrek van het vaartuig naar de wal wordt gestuurd. De bevoegde autoriteit bepaalt aan wie en wanneer dergelijke informatie wordt verschaft en voor welk doel, dan wel welke doelen.
+It shall be the responsibility of the fishing vessel owner to ensure that each fisher has a written fisher’s work agreement signed by both the fisher and the fishing vessel owner or by an authorized representative of the fishing vessel owner (or, where fishers are not employed or engaged by the fishing vessel owner, the fishing vessel owner shall have evidence of contractual or similar arrangements) providing decent work and living conditions on board the vessel as required by this Convention.
 
-##### Artikel 16. Overeenkomst tot het verrichten van werk door vissers
+##### Article 21. Repatriation
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan:
+1. Members shall ensure that fishers on a fishing vessel that flies their flag and that enters a foreign port are entitled to repatriation in the event that the fisher’s work agreement has expired or has been terminated for justified reasons by the fisher or by the fishing vessel owner, or the fisher is no longer able to carry out the duties required under the work agreement or cannot be expected to carry them out in the specific circumstances. This also applies to fishers from that vessel who are transferred for the same reasons from the vessel to the foreign port.
 
-- a. die vereisen dat vissers die werken op vaartuigen die onder zijn vlag varen de bescherming genieten van een overeenkomst tot het verrichten van werk door vissers die voor hen begrijpelijk is en strookt met de bepalingen van dit Verdrag; en
+2. The cost of the repatriation referred to in paragraph 1 of this Article shall be borne by the fishing vessel owner, except where the fisher has been found, in accordance with national laws, regulations or other measures, to be in serious default of his or her work agreement obligations.
 
-- b. die omschrijven welke bijzonderheden minimaal in de overeenkomsten tot het verrichten van werk door vissers moeten worden opgenomen in overeenstemming met de bepalingen vervat in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19).
+3. Members shall prescribe, by means of laws, regulations or other measures, the precise circumstances entitling a fisher covered by paragraph 1 of this Article to repatriation, the maximum duration of service periods on board following which a fisher is entitled to repatriation, and the destinations to which fishers may be repatriated.
 
-##### Artikel 17
+4. If a fishing vessel owner fails to provide for the repatriation referred to in this Article, the Member whose flag the vessel flies shall arrange for the repatriation of the fisher concerned and shall be entitled to recover the cost from the fishing vessel owner.
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan betreffende:
+5. National laws and regulations shall not prejudice any right of the fishing vessel owner to recover the cost of repatriation under third party contractual agreements.
 
-- a. procedures om te waarborgen dat vissers in de gelegenheid zijn hun overeenkomst tot het verrichten van werk door vissers in te zien en er advies over in te winnen voordat deze wordt gesloten;
+##### Article 22. Recruitment and placement
 
-- b. indien van toepassing het bijhouden van het dossier betreffende het werk van de visser krachtens een dergelijke overeenkomst; en
+Recruitment and placement of fishers
 
-- c. de middelen voor de beslechting van geschillen ter zake van een overeenkomst tot het verrichten van werk door vissers.
+1. Each Member that operates a public service providing recruitment and placement for fishers shall ensure that the service forms part of, or is coordinated with, a public employment service for all workers and employers.
 
-##### Artikel 18
+2. Any private service providing recruitment and placement for fishers which operates in the territory of a Member shall do so in conformity with a standardized system of licensing or certification or other form of regulation, which shall be established, maintained or modified only after consultation.
 
-De overeenkomst tot het verrichten van werk door vissers, waarvan een afschrift aan de visser wordt verstrekt, blijft aan boord en moet voor inzage beschikbaar zijn voor de visser en in overeenstemming met de nationale wetgeving en praktijk op verzoek voor andere belanghebbenden.
+3. Each Member shall, by means of laws, regulations or other measures:
 
-##### Artikel 19
+- a) prohibit recruitment and placement services from using means, mechanisms or lists intended to prevent or deter fishers from engaging for work;
 
-De artikelen 16 tot en met 18 en [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) zijn niet van toepassing op een scheepsbeheerder van een vissersvaartuig die zijn vaartuig zelf en alleen vaart.
+- b) require that no fees or other charges for recruitment or placement of fishers be borne directly or indirectly, in whole or in part, by the fisher; and
 
-##### Artikel 20
+- c) determine the conditions under which any licence, certificate or similar authorization of a private recruitment or placement service may be suspended or withdrawn in case of violation of relevant laws or regulations; and specify the conditions under which private recruitment and placement services can operate.
 
-De scheepsbeheerder van een vissersvaartuig is ervoor verantwoordelijk dat elke visser beschikt over een schriftelijke overeenkomst tot het verrichten van werk door vissers die is ondertekend door zowel de visser als de scheepsbeheerder van het vissersvaartuig of door een bevoegde vertegenwoordiger van de scheepsbeheerder van het vissersvaartuig (of, indien de vissers niet zijn tewerkgesteld of gecontracteerd door de scheepsbeheerder van het vissersvaartuig, moet de scheepsbeheerder van het vissersvaartuig bewijs kunnen overleggen van contractuele of soortgelijke regelingen) die voorzien in fatsoenlijke werk- en leefomstandigheden aan boord van het vaartuig zoals vereist uit hoofde van dit Verdrag.
+Private employment agencies
 
-##### Artikel 21. Repatriëring
+4. A Member which has ratified the [Private Employment Agencies Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001411), 1997 (No. 181), may allocate certain responsibilities under this Convention to private employment agencies that provide the services referred to in [paragraph 1(b) of Article 1 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001411&artikel=1). The respective responsibilities of any such private employment agencies and of the fishing vessel owners, who shall be the “user enterprise” for the purpose of that Convention, shall be determined and allocated, as provided for in [Article 12 of that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001411&artikel=12). Such a Member shall adopt laws, regulations or other measures to ensure that no allocation of the respective responsibilities or obligations to the private emloyment1)[Red: kennelijk dient hier het woord „employment” gelezen te worden.]agencies providing the service and to the “user enterprise” pursuant to this Convention shall preclude the fisher from asserting a right to a lien arising against the fishing vessel.
 
-1. De Leden moeten waarborgen dat de vissers op vissersvaartuigen die onder hun vlag varen en buitenlandse havens aandoen recht hebben op repatriëring indien hun overeenkomst tot het verrichten van werk door vissers is verstreken of op geldige gronden is beëindigd door de visser of de scheepsbeheerder van het vissersvaartuig, of indien de visser niet langer in staat is de taken te verrichten krachtens de overeenkomst tot het verrichten van werk door vissers of indien niet van hem verlangd kan worden die onder de desbetreffende omstandigheden te verrichten. Dit geldt ook voor vissers van dat vaartuig die op dezelfde gronden van het vaartuig naar de buitenlandse haven worden overgebracht.
+5. Notwithstanding the provisions of paragraph 4, the fishing vessel owner shall be liable in the event that the private employment agency defaults on its obligations to a fisher for whom, in the context of the [Private Employment Agencies Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001411), 1997 (No. 181), the fishing vessel owner is the “user enterprise”.
 
-2. De kosten van de repatriëring, bedoeld in het eerste lid van dit artikel, worden gedragen door de scheepsbeheerder van het vissersvaartuig, tenzij vastgesteld is dat de visser overeenkomstig de nationale wet- en regelgeving of andere maatregelen ernstig in gebreke was ten aanzien van de verplichtingen uit zijn of haar overeenkomst tot het verrichten van werk door vissers.
+6. Nothing in this Convention shall be deemed to impose on a Member the obligation to allow the operation in its fishing sector of private employment agencies as referred to in paragraph 4 of this Article.
 
-3. De Leden schrijven middels wet- en regelgeving of andere maatregelen de precieze omstandigheden voor waaronder vissers op wie het eerste lid van dit artikel van toepassing is recht hebben op repatriëring, de maximumduur van de periodes van dienst aan boord, waarna vissers recht hebben op repatriëring en de bestemmingen waarnaar zij mogen worden gerepatrieerd.
+##### Article 23. Payment of fishers
 
-4. Indien een scheepsbeheerder van een vissersvaartuig verzuimt zorg te dragen voor de in dit artikel bedoelde repatriëring, moet het Lid onder wiens vlag het vaartuig vaart de repatriëring van de betrokken visser regelen en is het Lid gemachtigd de kosten te verhalen op de scheepsbeheerder van het vissersvaartuig.
+Each Member, after consultation, shall adopt laws, regulations or other measures providing that fishers who are paid a wage are ensured a monthly or other regular payment.
 
-5. De nationale wet- en regelgeving laat onverlet het recht van de scheepsbeheerder van het vissersvaartuig de kosten van repatriëring op grond van contractuele regelingen te verhalen op derden.
+##### Article 24
 
-##### Artikel 22. Werving en arbeidsbemiddeling
+Each Member shall require that all fishers working on board fishing vessels shall be given a means to transmit all or part of their payments received, including advances, to their families at no cost.
 
-1. Elk Lid dat een publieke wervings- en arbeidsbemiddelingsdienst voor vissers exploiteert, waarborgt dat de dienstverlening deel uitmaakt van of wordt afgestemd met een publieke werkgelegenheidsinstantie voor alle werknemers en werkgevers.
+## PART V. ACCOMMODATION AND FOOD
 
-2. Particuliere wervings- en arbeidsbemiddelingsdiensten voor vissers, die actief zijn op het grondgebied van een Lid, doen dat in overeenstemming met een gestandaardiseerd systeem van vergunningen of certificering of andere vorm van regulering, dat slechts na overleg wordt ingesteld, gehandhaafd of aangepast.
+##### Article 25
 
-3. Elk Lid neemt wet- en regelgeving of andere maatregelen aan:
+Each Member shall adopt laws, regulations or other measures for fishing vessels that fly its flag with respect to accommodation, food and potable water on board.
 
-- a. die wervings- en arbeidsbemiddelingsdiensten verbieden middelen, procedures of lijsten te gebruiken die zijn bedoeld om vissers te verhinderen of te ontmoedigen werk aan te nemen;
+##### Article 26
 
-- b. die bepalen dat kosten of andere heffingen voor de werving of bemiddeling van vissers direct of indirect, geheel of gedeeltelijk niet voor rekening van de vissers mogen komen; en
+Each Member shall adopt laws, regulations or other measures requiring that accommodation on board fishing vessels that fly its flag shall be of sufficient size and quality and appropriately equipped for the service of the vessel and the length of time fishers live on board. In particular, such measures shall address, as appropriate, the following issues:
 
-- c. waarin de voorwaarden worden vastgesteld waaronder de vergunning, de certificering of een andere machtiging van een particuliere wervings- en arbeidsbemiddelingsdienst kan worden opgeschort of ingetrokken bij inbreuken op de desbetreffende wet- of regelgeving; en de voorwaarden worden omschreven waaronder particuliere wervings- en arbeidsbemiddelingsdiensten kunnen opereren.
+- a) approval of plans for the construction or modification of fishing vessels in respect of accommodation;
 
-4. Een Lid dat het [Verdrag betreffende particuliere bureaus voor arbeidsbemiddeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001411), 1997 (nr. 181) heeft bekrachtigd, kan bepaalde verantwoordelijkheden die voortvloeien uit dit Verdrag toekennen aan particuliere uitzendbureaus die de in [artikel 1, eerste lid, onderdeel b, van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001411&artikel=1) bedoelde diensten verlenen. De onderscheiden verantwoordelijkheden van dergelijke particuliere uitzendbureaus en van de scheepsbeheerders van vissersvaartuigen, die optreden als „inlener” voor de toepassing van dat verdrag worden vastgesteld en toegekend zoals voorzien in [artikel 12 van dat verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001411&artikel=12). Deze Leden nemen wet- en regelgeving of andere maatregelen aan om te waarborgen dat de toekenning van de onderscheiden verantwoordelijkheden of verplichtingen uit hoofde van dit verdrag aan de particuliere uitzendbureaus die deze diensten verlenen en aan de „inlener” uit hoofde van dit Verdrag vissers niet belet een retentierecht op het vissersvaartuig uit te oefenen.
+- b) maintenance of accommodation and galley spaces with due regard to hygiene and overall safe, healthy and comfortable conditions;
 
-5. Onverminderd de bepalingen van het vierde lid is de scheepsbeheerder van het vissersvaartuig aansprakelijk indien het particuliere uitzendbureau verzuimt zijn verplichtingen jegens een visser na te komen, voor wie in het kader van het [Verdrag betreffende particuliere bureaus voor arbeidsbemiddeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001411), 1997 (nr. 181) de scheepsbeheerder van het vissersvaartuig de „inlener” is.
+- c) ventilation, heating, cooling and lighting;
 
-6. Niets in dit Verdrag wordt geacht een Lid de verplichting op te leggen de exploitatie van particuliere uitzendbureaus, als bedoeld in het vierde lid van dit artikel, voor zijn visserij toe te staan.
+- d) mitigation of excessive noise and vibration;
 
-##### Artikel 23. Betaling aan vissers
+- e) location, size, construction materials, furnishing and equipping of sleeping rooms, mess rooms and other accommodation spaces;
 
-Elk Lid neemt na overleg wet- en regelgeving of andere maatregelen aan waarin bepaald wordt dat vissers die loon ontvangen verzekerd moeten zijn van een maandelijkse of andere periodieke betaling.
+- f) sanitary facilities, including toilets and washing facilities, and supply of sufficient hot and cold water; and
 
-##### Artikel 24
+- g) procedures for responding to complaints concerning accommodation that does not meet the requirements of this Convention.
 
-Elk Lid vereist dat aan alle vissers werkzaam aan boord van vissersvaartuigen de mogelijkheid moet worden geboden om de ontvangen betalingen, met inbegrip van voorschotten, zonder kosten geheel of gedeeltelijk naar hun familie over te maken.
+##### Article 27
 
-## DEEL V. ACCOMMODATIE EN VOEDING
+Each Member shall adopt laws, regulations or other measures requiring that:
 
-##### Artikel 25
+- a) the food carried and served on board be of a sufficient nutritional value, quality and quantity;
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan voor vissersvaartuigen die onder zijn vlag varen ter zake van accommodatie, voeding en drinkwater aan boord.
+- b) potable water be of sufficient quality and quantity; and
 
-##### Artikel 26
+- c) the food and water shall be provided by the fishing vessel owner at no cost to the fisher. However, in accordance with national laws and regulations, the cost can be recovered as an operational cost if the collective agreement governing a share system or a fisher’s work agreement so provides.
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat de accommodatie aan boord van vissersvaartuigen die onder zijn vlag varen van voldoende afmeting en kwaliteit moet zijn en voldoende zijn toegerust voor de activiteiten van het vaartuig en de tijd die vissers aan boord verblijven. Dergelijke maatregelen betreffen, indien toepasselijk, de volgende kwesties:
+##### Article 28
 
-- a. goedkeuring van plannen voor de bouw of aanpassing van vissersvaartuigen ten aanzien van de accommodatie;
+1. The laws, regulations or other measures to be adopted by the Member in accordance with Articles 25 to 27 shall give full effect to [Annex III](https://wetten.overheid.nl/BWBV0005397) concerning fishing vessel accommodation. Annex III may be amended in the manner provided for in [Article 45](https://wetten.overheid.nl/BWBV0005397).
 
-- b. onderhoud van accommodatie en kombuizen waarbij naar behoren rekening gehouden wordt met hygiënische en in het algemeen veilige, gezonde en comfortabele omstandigheden;
+2. A Member which is not in a position to implement the provisions of [Annex III](https://wetten.overheid.nl/BWBV0005397) may, after consultation, adopt provisions in its laws and regulations or other measures which are substantially equivalent to the provisions set out in Annex III, with the exception of provisions related to [Article 27](https://wetten.overheid.nl/BWBV0005397).
 
-- c. ventilatie, verwarming, koeling en verlichting;
+## PART VI. MEDICAL CARE, HEALTH PROTECTION AND SOCIAL SECURITY
 
-- d. matiging van lawaai en overmatige trillingen;
+##### Article 29. Medical care
 
-- e. locatie, afmetingen, constructiemateriaal, inrichting en uitrusting van slaapvertrekken, eetvertrekken en andere accommodatieruimten;
+Each Member shall adopt laws, regulations or other measures requiring that:
 
-- f. sanitaire voorzieningen, met inbegrip van toiletten en wasfaciliteiten, en levering van voldoende warm en koud water; en
+- a) fishing vessels carry appropriate medical equipment and medical supplies for the service of the vessel, taking into account the number of fishers on board, the area of operation and the length of the voyage;
 
-- g. procedures voor reacties op klachten over accommodatie die niet voldoet aan de vereisten van dit Verdrag.
+- b) fishing vessels have at least one fisher on board who is qualified or trained in first aid and other forms of medical care and who has the necessary knowledge to use the medical equipment and supplies for the vessel concerned, taking into account the number of fishers on board, the area of operation and the length of the voyage;
 
-##### Artikel 27
+- c) medical equipment and supplies carried on board be accompanied by instructions or other information in a language and format understood by the fisher or fishers referred to in subparagraph (b);
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat:
+- d) fishing vessels be equipped for radio or satellite communication with persons or services ashore that can provide medical advice, taking into account the area of operation and the length of the voyage; and
 
-- a. de voedingswaarde, kwaliteit en kwantiteit van de aan boord aanwezige en aangeboden voeding voldoende moeten zijn;
+- e) fishers have the right to medical treatment ashore and the right to be taken ashore in a timely manner for treatment in the event of serious injury or illness.
 
-- b. de kwaliteit en kwantiteit van het drinkwater voldoende moeten zijn; en
+##### Article 30
 
-- c. de scheepsbeheerder van het vissersvaartuig voeding en water kosteloos aan de vissers moet verstrekken. In overeenstemming met de nationale wet- en regelgeving kunnen de kosten evenwel als exploitatiekosten worden ingehouden, indien de collectieve overeenkomst die op een deelloonsysteem van toepassing is of de overeenkomst tot het verrichten van werk door vissers daarin voorziet.
+For fishing vessels of 24 metres in length and over, taking into account the number of fishers on board, the area of operation and the duration of the voyage, each Member shall adopt laws, regulations or other measures requiring that:
 
-##### Artikel 28
+- a) the competent authority prescribe the medical equipment and medical supplies to be carried on board;
 
-1. De wet- en regelgeving of andere door het Lid in overeenstemming met de artikelen 25 tot en met 27 aan te nemen maatregelen moeten volledig uitvoering geven aan [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) betreffende de accommodatie op vissersvaartuigen. Bijlage III kan worden gewijzigd op de wijze voorzien in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
+- b) the medical equipment and medical supplies carried on board be properly maintained and inspected at regular intervals established by the competent authority by responsible persons designated or approved by the competent authority;
 
-2. Een Lid dat niet in de gelegenheid is de bepalingen van [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) te implementeren, kan na overleg in zijn wet- en regelgeving of andere maatregelen bepalingen opnemen die in wezenlijke mate gelijkwaardig zijn aan de bepalingen vervat in Bijlage III, met uitzondering van de bepalingen die betrekking hebben op [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=V&artikel=27&z=2020-12-19&g=2020-12-19).
+- c) the vessels carry a medical guide adopted or approved by the competent authority, or the latest edition of the *International Medical Guide for Ships*;
 
-## DEEL VI. MEDISCHE ZORG, BESCHERMING VAN DE GEZONDHEID EN SOCIALE ZEKERHEID
+- d) the vessels have access to a prearranged system of medical advice to vessels at sea by radio or satellite communication, including specialist advice, which shall be available at all times;
 
-##### Artikel 29. Medische zorg
+- e) the vessels carry on board a list of radio or satellite stations through which medical advice can be obtained; and
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan die voorschrijven dat:
+- f) to the extent consistent with the Member’s national law and practice, medical care while the fisher is on board or landed in a foreign port be provided free of charge to the fisher.
 
-- a. vissersvaartuigen moeten zijn voorzien van geschikte medische apparatuur en medische voorraad voor de activiteiten van het vaartuig, en rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis;
+##### Article 31. Occupational safety and health and accident prevention
 
-- b. vissersvaartuigen ten minste één visser aan boord moeten hebben die is gekwalificeerd of is opgeleid voor het verlenen van eerste hulp en andere vormen van medische zorg en beschikt over de benodigde kennis om de medische apparatuur en uitrusting op het desbetreffende vaartuig te gebruiken, rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis;
+Each Member shall adopt laws, regulations or other measures concerning:
 
-- c. de medische apparatuur en voorraad aan boord vergezeld moeten zijn van instructies of andere informatie in een voor de in onderdeel b. bedoelde visser of vissers begrijpelijke taal en vorm;
+- a) the prevention of occupational accidents, occupational diseases and work-related risks on board fishing vessels, including risk evaluation and management, training and on-board instruction of fishers;
 
-- d. de vissersvaartuigen moeten zijn voorzien van middelen voor radio- of satellietcommunicatie met personen of diensten aan de wal die medisch advies kunnen verstrekken, daarbij rekening houdend met het vaargebied en de duur van de reis; en
+- b) training for fishers in the handling of types of fishing gear they will use and in the knowledge of the fishing operations in which they will be engaged;
 
-- e. vissers recht hebben op medische verzorging aan de wal en het recht hebben bij ernstige verwondingen of ziekte tijdig naar de wal te worden gebracht voor behandeling.
+- c) the obligations of fishing vessel owners, fishers and others concerned, due account being taken of the safety and health of fishers under the age of 18;
 
-##### Artikel 30
+- d) the reporting and investigation of accidents on board fishing vessels flying its flag; and
 
-Voor vissersvaartuigen met een lengte van 24 meter of meer, rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis, neemt elk Lid wet- en regelgeving of andere maatregelen aan, die voorschrijven dat:
+- e) the setting up of joint committees on occupational safety and health or, after consultation, of other appropriate bodies.
 
-- a. de bevoegde autoriteit voorschrijft welke medische apparatuur en medische voorraad aan boord moeten zijn;
+##### Article 32
 
-- b. de medische apparatuur en medische voorraad aan boord naar behoren moeten worden onderhouden en aangevuld en met regelmatige door de bevoegde autoriteit vastgestelde tussenpozen naar behoren moeten worden geïnspecteerd door verantwoordelijke personen die daarvoor door de bevoegde autoriteit zijn aangewezen of goedgekeurd;
+1. The requirements of this Article shall apply to fishing vessels of 24 metres in length and over normally remaining at sea for more than three days and, after consultation, to other vessels, taking into account the number of fishers on board, the area of operation, and the duration of the voyage.
 
-- c. de vaartuigen een door de bevoegde autoriteit aangenomen of goedgekeurd medisch handboek of de meest recente editie van de International Medical Guide for Ships (**Internationale medische handleiding voor schepen)** aan boord moeten hebben;
+2. The competent authority shall:
 
-- d. de vaartuigen toegang moeten hebben tot een vooraf opgezet systeem voor medisch advies voor schepen op zee via radio- of satellietcommunicatie, met inbegrip van advies van specialisten, dat te allen tijde beschikbaar is;
+- a) after consultation, require that the fishing vessel owner, in accordance with national laws, regulations, collective bargaining agreements and practice, establish on-board procedures for the prevention of occupational accidents, injuries and diseases, taking into account the specific hazards and risks on the fishing vessel concerned; and
 
-- e. de vaartuigen een overzicht van radio- of satellietstations aan boord moeten hebben via welke medisch advies kan worden ingewonnen; en
+- b) require that fishing vessel owners, skippers, fishers and other relevant persons be provided with sufficient and suitable guidance, training material, or other appropriate information on how to evaluate and manage risks to safety and health on board fishing vessels.
 
-- f. voor zover in overeenstemming met de nationale wetgeving en praktijk van het Lid, kosteloos medische zorg aan de visser wordt verleend terwijl deze zich aan boord van het vaartuig of in een buitenlandse haven bevindt.
+3. Fishing vessel owners shall:
 
-##### Artikel 31. Arbeidsomstandigheden en ongevallenpreventie aan boord
+- a) ensure that every fisher on board is provided with appropriate personal protective clothing and equipment;
 
-Elk Lid neemt wet- en regelgeving of andere maatregelen aan met betrekking tot:
+- b) ensure that every fisher on board has received basic safety training approved by the competent authority; the competent authority may grant written exemptions from this requirement for fishers who have demonstrated equivalent knowledge and experience; and
 
-- a. de preventie van arbeidsongevallen, beroepsziekten en werkgerelateerde risico’s aan boord van vissersvaartuigen, met inbegrip van risicobeoordeling en -beheersing, training en instructie aan boord van vissers;
+- c) ensure that fishers are sufficiently and reasonably familiarized with equipment and its methods of operation, including relevant safety measures, prior to using the equipment or participating in the operations concerned.
 
-- b. de training voor vissers in het hanteren van de soorten vistuig die zij zullen gebruiken en in de kennis van de visserijactiviteiten waarbij zij betrokken zullen zijn;
+##### Article 33
 
-- c. de verplichtingen van scheepsbeheerders van vissersvaartuigen, vissers en andere belanghebbenden, waarbij naar behoren rekening wordt gehouden met de veiligheid en gezondheid van vissers jonger dan 18 jaar;
+Risk evaluation in relation to fishing shall be conducted, as appropriate, with the participation of fishers or their representatives.
 
-- d. het melden en onderzoeken van ongevallen aan boord van vissersvaartuigen die onder zijn vlag varen; en
+##### Article 34. Social security
 
-- e. het opzetten van gezamenlijke comités inzake arbeidsomstandigheden, of na overleg, van andere geschikte gremia.
+Each Member shall ensure that fishers ordinarily resident in its territory, and their dependants to the extent provided in national law, are entitled to benefit from social security protection under conditions no less favourable than those applicable to other workers, including employed and self-employed persons, ordinarily resident in its territory.
 
-##### Artikel 32
+##### Article 35
 
-1. De vereisten van dit artikel zijn van toepassing op vissersvaartuigen met een lengte van 24 meter of meer die gewoonlijk langer dan drie dagen op zee blijven en na overleg op andere vaartuigen, rekening houdend met het aantal vissers aan boord, het vaargebied en de duur van de reis.
+Each Member shall undertake to take steps, according to national circumstances, to achieve progressively comprehensive social security protection for all fishers who are ordinarily resident in its territory.
 
-2. De bevoegde autoriteit:
+##### Article 36
 
-- a. vereist na overleg dat de scheepsbeheerder van het vissersvaartuig in overeenstemming met de nationale wet- en regelgeving, collectieve arbeidsovereenkomsten en de praktijk, boordprocedures vaststelt voor de preventie van arbeidsongevallen, werkgerelateerd letsel en beroepsziekten, rekening houdend met de specifieke gevaren en risico’s op het desbetreffende vissersvaartuig; en
+Members shall cooperate through bilateral or multilateral agreements or other arrangements, in accordance with national laws, regulations or practice:
 
-- b. vereist dat scheepsbeheerders van vissersvaartuigen, schippers, vissers en andere belanghebbenden voldoende en passende begeleiding, trainingsmateriaal of andere relevante informatie ontvangen ten behoeve van het beoordelen en beheersen van risico’s voor de veiligheid en gezondheid aan boord van vissersvaartuigen.
+- a) to achieve progressively comprehensive social security protection for fishers, taking into account the principle of equality of treatment irrespective of nationality; and
 
-3. Scheepsbeheerders van vissersvaartuigen:
+- b) to ensure the maintenance of social security rights which have been acquired or are in the course of acquisition by all fishers regardless of residence.
 
-- a. waarborgen dat elke visser aan boord geschikte persoonlijke beschermende kleding en uitrusting ontvangt;
+##### Article 37
 
-- b. waarborgen dat elke visser aan boord een door de bevoegde autoriteit goedgekeurde basisveiligheidstraining heeft gevolgd; de bevoegde autoriteit kan schriftelijk vrijstelling van dit vereiste verlenen aan vissers die hebben aangetoond over gelijkwaardige kennis en ervaring te beschikken; en
+Notwithstanding the attribution of responsibilities in [Articles 34](https://wetten.overheid.nl/BWBV0005397), [35](https://wetten.overheid.nl/BWBV0005397) and [36](https://wetten.overheid.nl/BWBV0005397), Members may determine, through bilateral and multilateral agreements and through provisions adopted in the framework of regional economic integration organizations, other rules concerning the social security legislation to which fishers are subject.
 
-- c. waarborgen dat vissers voldoende en redelijk bekend zijn gemaakt met de uitrusting en de bediening ervan, met inbegrip van de relevante veiligheidsmaatregelen voordat zij de uitrusting gaan gebruiken of deelnemen aan de desbetreffende activiteiten.
+##### Article 38. Protection in the case of work-related sickness, injury or death
 
-##### Artikel 33
+1. Each Member shall take measures to provide fishers with protection, in accordance with national laws, regulations or practice, for work-related sickness, injury or death.
 
-De risico’s in verband met de visserij moeten worden beoordeeld, afhankelijk van het geval, met medewerking van de vissers of hun vertegenwoordigers.
+2. In the event of injury due to occupational accident or disease, the fisher shall have access to:
 
-##### Artikel 34. Sociale zekerheid
+- a) appropriate medical care; and
 
-Elk Lid waarborgt dat vissers die gewoonlijk op zijn grondgebied wonen en, voor zover voorzien in zijn nationale wetgeving, hun gezinsleden recht hebben op socialezekerheidsbescherming onder voorwaarden die niet minder gunstig zijn dan de voorwaarden die van toepassing zijn op andere werkenden, met inbegrip van werknemers en zelfstandigen die gewoonlijk wonen op zijn grondgebied.
+- b) the corresponding compensation in accordance with national laws and regulations.
 
-##### Artikel 35
+3. Taking into account the characteristics within the fishing sector, the protection referred to in paragraph 1 of this Article may be ensured through:
 
-Elk Lid verplicht zich overeenkomstig zijn nationale omstandigheden maatregelen te nemen om geleidelijk volledige socialezekerheidsbescherming te bewerkstelligen voor alle vissers die gewoonlijk wonen op zijn grondgebied.
+- a) a system for fishing vessel owners’ liability; or
 
-##### Artikel 36
+- b) compulsory insurance, workers’ compensation or other schemes.
 
-De Leden werken door middel van bilaterale of multilaterale overeenkomsten of andere regelingen in overeenstemming met hun nationale wet- en regelgeving of praktijk samen:
+##### Article 39
 
-- a. om geleidelijk volledige socialezekerheidsbescherming voor vissers te bewerkstelligen, daarbij rekening houdend met het beginsel van gelijke behandeling ongeacht nationaliteit; en
+1. In the absence of national provisions for fishers, each Member shall adopt laws, regulations or other measures to ensure that fishing vessel owners are responsible for the provision to fishers on vessels flying its flag, of health protection and medical care while employed or engaged or working on a vessel at sea or in a foreign port. Such laws, regulations or other measures shall ensure that fishing vessel owners are responsible for defraying the expenses of medical care, including related material assistance and support, during medical treatment in a foreign country, until the fisher has been repatriated.
 
-- b. om de instandhouding van socialezekerheidsrechten te waarborgen die door alle vissers zijn of worden verworven, ongeacht hun woonplaats.
+2. National laws or regulations may permit the exclusion of the liability of the fishing vessel owner if the injury occurred otherwise than in the service of the vessel or the sickness or infirmity was concealed during engagement, or the injury or sickness was due to wilful misconduct of the fisher.
 
-##### Artikel 37
+## PART VII. COMPLIANCE AND ENFORCEMENT
 
-Onverminderd de toewijzing van verantwoordelijkheden in de [artikelen 34](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=34&z=2020-12-19&g=2020-12-19), [35](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=35&z=2020-12-19&g=2020-12-19) en [36](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VI&artikel=36&z=2020-12-19&g=2020-12-19), mogen Leden, door middel van bilaterale en multilaterale overeenkomsten en door middel van bepalingen, aangenomen in het kader van regionale organisaties voor economische integratie, andere regels aannemen inzake de socialezekerheidswetgeving die op vissers van toepassing is.
+##### Article 40
 
-##### Artikel 38. Bescherming in geval van werkgerelateerd(e) ziekte, letsel of overlijden
+Each Member shall effectively exercise its jurisdiction and control over vessels that fly its flag by establishing a system for ensuring compliance with the requirements of this Convention including, as appropriate, inspections, reporting, monitoring, complaint procedures, appropriate penalties and corrective measures, in accordance with national laws or regulations.
 
-1. Elk Lid treft in overeenstemming met zijn nationale wet- en regelgeving of praktijk maatregelen voor dekking van vissers in geval van werkgerelateerd(e) ziekte, letsel of overlijden.
+##### Article 41
 
-2. Bij letsel ten gevolge van een arbeidsongeval of beroepsziekte dient de visser toegang te hebben tot:
+1. Members shall require that fishing vessels remaining at sea for more than three days, which:
 
-- a. geschikte medische zorg; en
+- a) are 24 metres in length and over; or
 
-- b. de bijbehorende schadeloosstelling in overeenstemming met de nationale wet- en regelgeving.
+- b) normally navigate at a distance exceeding 200 nautical miles from the coastline of the flag State or navigate beyond the outer edge of its continental shelf, whichever distance from the coastline is greater,
 
-3. Rekening houdend met de kenmerken van de visserij kan de bescherming bedoeld in het eerste lid van dit artikel worden gewaarborgd door middel van:
+carry a valid document issued by the competent authority stating that the vessel has been inspected by the competent authority or on its behalf, for compliance with the provisions of this Convention concerning living and working conditions.
 
-- a. een systeem voor de aansprakelijkheid van scheepsbeheerders van vissersvaartuigen; of
+2. The period of validity of such document may coincide with the period of validity of a national or an international fishing vessel safety certificate, but in no case shall such period of validity exceed five years.
 
-- b. verplichte verzekering, regelingen voor schadeloosstelling van werknemers of andere regelingen.
+##### Article 42
 
-##### Artikel 39
+1. The competent authority shall appoint a sufficient number of qualified inspectors to fulfil its responsibilities under [Article 41](https://wetten.overheid.nl/BWBV0005397).
 
-1. Bij het ontbreken van nationale regelingen voor vissers neemt elk Lid wet- en regelgeving aan of andere maatregelen ter waarborging van de verantwoordelijkheid van scheepsbeheerders van vissersvaartuigen om te voorzien in de bescherming van de gezondheid van en de medische zorg aan vissers op vissersvaartuigen die onder zijn vlag varen terwijl zij op grond van een overeenkomst tot het verrichten van werk door vissers werkzaam zijn aan boord van een vaartuig op zee of in een buitenlandse haven. Met deze wet- en regelgeving of andere maatregelen wordt gewaarborgd dat scheepsbeheerders van vissersvaartuigen de kosten van medische zorg, met inbegrip van de bijbehorende materiële hulp en ondersteuning, moeten dragen gedurende de medische behandeling in het buitenland tot de visser is gerepatrieerd.
+2. In establishing an effective system for the inspection of living and working conditions on board fishing vessels, a Member, where appropriate, may authorize public institutions or other organizations that it recognizes as competent and independent to carry out inspections and issue documents. In all cases, the Member shall remain fully responsible for the inspection and issuance of the related documents concerning the living and working conditions of the fishers on fishing vessels that fly its flag.
 
-2. Nationale wet- of regelgeving kan toestaan dat de aansprakelijkheid van de scheepsbeheerder van een vissersvaartuig wordt uitgesloten indien het letsel is ontstaan anders dan tijdens het werkverband met het vaartuig of indien de ziekte of aandoening door de visser verzwegen werd bij het aangaan van de overeenkomst tot het verrichten van werk of het letsel of de ziekte te wijten is aan opzettelijk wangedrag van de visser.
+##### Article 43
 
-## DEEL VII. NALEVING EN HANDHAVING
+1. A Member which receives a complaint or obtains evidence that a fishing vessel that flies its flag does not conform to the requirements of this Convention shall take the steps necessary to investigate the matter and ensure that action is taken to remedy any deficiencies found.
 
-##### Artikel 40
+2. If a Member, in whose port a fishing vessel calls in the normal course of its business or for operational reasons, receives a complaint or obtains evidence that such vessel does not conform to the requirements of this Convention, it may prepare a report addressed to the government of the flag State of the vessel, with a copy to the Director-General of the International Labour Office, and may take measures necessary to rectify any conditions on board which are clearly hazardous to safety or health.
 
-Elk Lid oefent daadwerkelijk zijn rechtsmacht en toezicht uit ten aanzien van vaartuigen die onder zijn vlag varen door instelling van een systeem ter waarborging van de naleving van de vereisten van dit Verdrag, met inbegrip van, afhankelijk van het geval, inspecties, verslaglegging, toezicht houden, klachtenprocedures, passende sancties en corrigerende maatregelen in overeenstemming met zijn nationale wet- of regelgeving.
+3. In taking the measures referred to in paragraph 2 of this Article, the Member shall notify forthwith the nearest representative of the flag State and, if possible, shall have such representative present. The Member shall not unreasonably detain or delay the vessel.
 
-##### Artikel 41
+4. For the purpose of this Article, the complaint may be submitted by a fisher, a professional body, an association, a trade union or, generally, any person with an interest in the safety of the vessel, including an interest in safety or health hazards to the fishers on board.
 
-1. De Leden moeten verlangen dat vissersvaartuigen die langer dan drie dagen op zee blijven en die:
+5. This Article does not apply to complaints which a Member considers to be manifestly unfounded.
 
-- a. een lengte hebben van 24 meter of meer; of
+##### Article 44
 
-- b. normaliter meer dan 200 zeemijlen uit de kustlijn van de vlaggenstaat of buiten de buitengrens van zijn continentaal plat varen, naargelang welke afstand van de kustlijn het grootst is;
+Each Member shall apply this Convention in such a way as to ensure that the fishing vessels flying the flag of any State that has not ratified this Convention do not receive more favourable treatment than fishing vessels that fly the flag of any Member that has ratified it.
 
-een geldig document aan boord hebben afgegeven door de bevoegde autoriteit waarin verklaard wordt dat het vaartuig door of namens de bevoegde autoriteit is geïnspecteerd ten behoeve van de naleving van de bepalingen van dit Verdrag inzake leef- en werkomstandigheden.
+## PART VIII. AMENDMENT OF ANNEXES I, II AND III
 
-2. De geldigheidsduur van een dergelijk document kan samenvallen met de geldigheid van een nationaal of een internationaal veiligheidscertificaat voor vissersvaartuigen, maar de geldigheidsduur mag in geen geval langer zijn dan vijf jaar.
+##### Article 45
 
-##### Artikel 42
+1. Subject to the relevant provisions of this Convention, the International Labour Conference may amend [Annexes I](https://wetten.overheid.nl/BWBV0005397), [II](https://wetten.overheid.nl/BWBV0005397) and [III](https://wetten.overheid.nl/BWBV0005397). The Governing Body of the International Labour Office may place an item on the agenda of the Conference regarding proposals for such amendments established by a tripartite meeting of experts. The decision to adopt the proposals shall require a majority of two-thirds of the votes cast by the delegates present at the Conference, including at least half the Members that have ratified this Convention.
 
-1. De bevoegde autoriteit moet een toereikend aantal gekwalificeerde inspecteurs aanwijzen ter nakoming van haar verantwoordelijkheden uit hoofde van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VII&artikel=41&z=2020-12-19&g=2020-12-19).
+2. Any amendment adopted in accordance with paragraph 1 of this Article shall enter into force six months after the date of its adoption for any Member that has ratified this Convention, unless such Member has given written notice to the Director-General of the International Labour Office that it shall not enter into force for that Member, or shall only enter into force at a later date upon subsequent written notification.
 
-2. Bij het opzetten van een effectief inspectiesysteem voor leef- en werkomstandigheden aan boord van vissersvaartuigen kan een Lid, indien van toepassing, openbare instellingen of andere door hem als bevoegd en onafhankelijk erkende organisaties machtigen inspecties uit te voeren en documenten af te geven. In alle gevallen blijft het Lid volledig verantwoordelijk voor de inspectie en afgifte van de desbetreffende documenten inzake de leef- en werkomstandigheden van de vissers op vissersvaartuigen die onder zijn vlag varen.
+## PART IX. FINAL PROVISIONS
 
-##### Artikel 43
+##### Article 46
 
-1. Een Lid dat een klacht ontvangt of het bewijs verkrijgt dat een vissersvaartuig dat onder zijn vlag vaart niet voldoet aan de vereisten van dit Verdrag neemt de noodzakelijke maatregelen om de zaak te onderzoeken en ervoor zorg te dragen dat maatregelen worden genomen om de eventueel geconstateerde tekortkomingen weg te nemen.
+This Convention revises the Minimum Age (Fishermen) Convention, 1959 (No. 112), the [Medical Examination (Fishermen) Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004948), 1959 (No. 113), the [Fishermen’s Articles of Agreement Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004949), 1959 (No. 114), and the [Accommodation of Crews (Fishermen) Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004669), 1966 (No. 126).
 
-2. Indien een vissersvaartuig tijdens zijn normale gang van zaken of om operationele redenen een haven van een Lid aandoet en dat Lid een klacht ontvangt of bewijs verkrijgt dat dit vaartuig niet voldoet aan de vereisten van dit Verdrag, kan het een rapport gericht aan de regering van de vlaggenstaat van het vaartuig opstellen met een afschrift aan de Directeur-Generaal van het Internationaal Arbeidsbureau en de noodzakelijke maatregelen nemen om alle omstandigheden aan boord die kennelijk gevaarlijk zijn voor de veiligheid of gezondheid te verbeteren.
+##### Article 47
 
-3. Bij het nemen van de in het tweede lid van dit artikel bedoelde maatregelen, stelt het Lid de dichtstbijzijnde vertegenwoordiger van de vlaggenstaat onverwijld in kennis en verlangt dat deze vertegenwoordiger, indien mogelijk, aanwezig is. Het Lid mag het vaartuig niet onredelijk aanhouden of vertragen.
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-4. Voor de toepassing van dit artikel kan de klacht worden ingediend door een visser, een vereniging van beroepsbeoefenaren, een vereniging, een vakbond of, in het algemeen, eenieder die belang heeft bij de veiligheid van het vaartuig, mede waar het gevaren voor de veiligheid of gezondheid van de vissers aan boord betreft.
+##### Article 48
 
-5. Dit artikel is niet van toepassing op klachten die een Lid kennelijk ongegrond acht.
+1. This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered with the Director-General of the International Labour Office.
 
-##### Artikel 44
+2. It shall come into force 12 months after the date on which the ratifications of ten Members, eight of which are coastal States, have been registered with the Director-General.
 
-Elk Lid past dit Verdrag op zodanige wijze toe dat gewaarborgd wordt dat de vissersvaartuigen die onder de vlag varen van een Staat die dit Verdrag niet heeft bekrachtigd geen gunstiger behandeling ontvangen dan de vissersvaartuigen die onder de vlag varen van een Lid dat het wel heeft bekrachtigd.
+3. Thereafter, this Convention shall come into force for any Member 12 months after the date on which its ratification is registered.
 
-## DEEL VIII. WIJZIGING VAN DE [BIJLAGEN I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) EN [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19)
+##### Article 49
 
-##### Artikel 45
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
-1. De Conferentie van de Internationale Arbeidsorganisatie kan de [Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=I&z=2020-12-19&g=2020-12-19), [II](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=II&z=2020-12-19&g=2020-12-19) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&bijlage=III&z=2020-12-19&g=2020-12-19) in overeenstemming met de desbetreffende bepalingen van dit Verdrag wijzigen. De Raad van Beheer van het Internationaal Arbeidsbureau kan een punt op de agenda van de Conferentie zetten betreffende voorstellen voor wijzigingen die door een tripartiete vergadering van deskundigen zijn vastgesteld. Voor de beslissing de voorstellen aan te nemen is een meerderheid vereist van twee derde van de stemmen die door de bij de Conferentie aanwezige afgevaardigden zijn uitgebracht, met inbegrip van ten minste de helft van de Leden die dit Verdrag hebben bekrachtigd.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention within the first year of each new period of ten years under the terms provided for in this Article.
 
-2. Een in overeenstemming met het eerste lid van dit artikel aangenomen wijziging treedt in werking zes maanden na de datum van de aanneming ervan voor elk Lid dat dit Verdrag heeft bekrachtigd, tenzij dit Lid de Directeur-Generaal van het Internationaal Arbeidsbureau er schriftelijk van in kennis heeft gesteld dat deze voor dat Lid niet in werking treedt of pas op een latere datum na schriftelijke kennisgeving.
+##### Article 50
 
-## DEEL IX. SLOTBEPALINGEN
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications, declarations and denunciations that have been communicated by the Members of the Organization.
 
-##### Artikel 46
+2. When notifying the Members of the Organization of the registration of the last of the ratifications required to bring the Convention into force, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.
 
-Dit Verdrag herziet het Verdrag betreffende de minimumleeftijd voor toelating tot de tewerkstelling als visser, 1959 (nr. 112), het [Verdrag betreffende het geneeskundig onderzoek van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004948), 1959 (nr. 113), het [Verdrag betreffende de arbeidsovereenkomst van vissers](https://wetten.overheid.nl/jci1.3:c:BWBV0004949), 1959 (nr. 114) en het [Verdrag betreffende de accommodatie aan boord van vissersschepen](https://wetten.overheid.nl/jci1.3:c:BWBV0004669), 1966 (nr. 126).
+##### Article 51
 
-##### Artikel 47
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications, declarations and denunciations registered by the Director-General.
 
-De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
+##### Article 52
 
-##### Artikel 48
+At such times as it may consider necessary, the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part, taking into account also the provisions of [Article 45](https://wetten.overheid.nl/BWBV0005397).
 
-1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
+##### Article 53
 
-2. Het treedt in werking 12 maanden na de datum waarop de bekrachtigingen van tien Leden, waarvan er acht kuststaten zijn, door de Directeur-Generaal zijn geregistreerd.
+1. Should the Conference adopt a new Convention revising this Convention, then, unless the new Convention otherwise provides:
 
-3. Vervolgens treedt dit Verdrag voor elk Lid in werking 12 maanden na de datum waarop zijn bekrachtiging is geregistreerd.
+- a) the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of [Article 49](https://wetten.overheid.nl/BWBV0005397) above, if and when the new revising Convention shall have come into force;
 
-##### Artikel 49
+- b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 
-1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen binnen het eerste jaar van elke nieuwe termijn van tien jaar op de voorwaarden voorzien in dit artikel.
+##### Article 54
 
-##### Artikel 50
-
-1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, verklaringen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
-
-2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de laatste bekrachtiging die vereist is om het Verdrag in werking te doen treden, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking zal treden.
-
-##### Artikel 51
-
-De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van alle bijzonderheden omtrent alle bekrachtigingen, verklaringen en opzeggingen die door de Directeur-Generaal zijn geregistreerd.
-
-##### Artikel 52
-
-De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen, tevens rekening houdend met de bepalingen van [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=VIII&artikel=45&z=2020-12-19&g=2020-12-19).
-
-##### Artikel 53
-
-1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
-
-- a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBV0005397&deel=IX&artikel=49&z=2020-12-19&g=2020-12-19) hierboven, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;
-
-- b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking treedt, dit Verdrag niet langer openstaat voor bekrachtiging door de Leden.
-
-2. Dit Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
-
-##### Artikel 54
-
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
-
-The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organization during its Ninety-sixth Session which was held at Geneva and declared closed the fifteenth day of June 2007.
-
-IN FAITH WHEREOF we have appended our signatures this fifteenth day of June 2007.
-
-**The President of the Conference,**
-
-KASTRIOT SULKA
-
-**The Director-General of the International Labour Office,**
-
-JUAN SOMAVIA
+The English and French versions of the text of this Convention are equally authoritative.

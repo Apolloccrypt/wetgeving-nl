@@ -1,40 +1,21 @@
 ---
 title: "Overeenkomst inzake het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk"
 identifier: "BWBV0005220"
-country: "nl"
-rank: "verdrag"
-publication_date: "1960-01-01"
-last_updated: "1960-01-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005220"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004519673"
-version_id: "10004736762"
-internal_id: "C10007273421"
-label_id: "10004504284"
-dtd_version: "2.0"
-original_entry_into_force: "1960-01-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005220/1960-01-01/0"
-intitule_bron: "Trb.1959-74"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1959-06-16"
-intitule_in_force: "1960-01-29"
-intitule_status: "goed"
-original_publication: "Trb.1959-74"
-original_published_date: "1959-06-16"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1959-74"
-entry_into_force_date: "1960-01-01"
-jci_1_3: "jci1.3:c:BWBV0005220&z=1960-01-01&g=1960-01-01"
-jci_1_0: "1.0:c:BWBV0005220&g=1960-01-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1960-01-01"
+publicatiedatum: 1960-01-01
+laatste_update: 1960-01-01
+status: geldig
+toestand: 1960-01-01
+bron: "https://wetten.overheid.nl/BWBV0005220"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk
 
-Het Koninkrijk der Nederlanden en de Republiek Oostenrijk, geleid door de wens het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk te bevorderen en te verbeteren, zijn het volgende overeengekomen:
+*Het Koninkrijk der Nederlanden en de Republiek Oostenrijk, geleid door de wens het beroepsvervoer en het eigen vervoer over de weg tussen Nederland en Oostenrijk te bevorderen en te verbeteren, zijn het volgende overeengekomen:*
 
-## I. Ongeregeld vervoer door middel van autobussen
+### I. Ongeregeld vervoer door middel van autobussen
 
 ##### Artikel 1
 
@@ -44,7 +25,7 @@ b. Bij ritten naar of door het gebied van de andere Verdragsstaat moeten worden 
 
 c. De lijst moet bevatten de naam (firmanaam) en de zetel van de ondernemer, aanvangs- en eindpunt van de rit, de met de boeking overeenstemmende reisroute met inbegrip van de grensovergangen, alsmede de namen van de passagiers. Ieder der Overeenkomstsluitende Partijen kan verlangen, dat een exemplaar van deze lijst aan de grenspost van binnenkomst ter afstempeling wordt aangeboden.
 
-## II. Goederenvervoer
+### II. Goederenvervoer
 
 ##### Artikel 2
 
@@ -64,7 +45,7 @@ Een legitimatiebewijs is niet vereist voor:
 
 - e. vervoer van apparatuur voor radio, televisie en filmopnamen.
 
-De onder **b** tot **e** opgesomde uitzonderingen gelden echter alleen indien de betreffende goederen ook weer worden teruggebracht.
+De onder *b* tot *e* opgesomde uitzonderingen gelden echter alleen indien de betreffende goederen ook weer worden teruggebracht.
 
 ##### Artikel 4
 
@@ -102,9 +83,9 @@ b. Het legitimatiebewijs moet de volgende gegevens bevatten:
 
 c. De af te geven legitimatiebewijzen zijn hetzij:
 
-- 1. **doorlopend,** met een geldigheidsduur van twaalf maanden, hetzij
+- 1. *doorlopend,* met een geldigheidsduur van twaalf maanden, hetzij
 
-- 2. **beperkt,** voor een of meer ritten binnen een vastgestelde tijdruimte.
+- 2. *beperkt,* voor een of meer ritten binnen een vastgestelde tijdruimte.
 
 d. In geval van opzegging van deze Overeenkomst verliezen de legitimatiebewijzen hun geldigheid in ieder geval op het tijdstip waarop de opzeggingstermijn is verlopen.
 
@@ -142,7 +123,7 @@ het nummer en de geldigheidsduur van de legitimatiebewijzen, de naam en het adre
 
 Onverminderd de in de Verdragsstaten geldende wettelijke bepalingen kan het legitimatiebewijs, in geval van misbruik, door de bevoegde autoriteiten van de eigen Staat tijdelijk of definitief worden ingetrokken.
 
-## III. Gemeenschappelijke bepalingen
+### III. Gemeenschappelijke bepalingen
 
 ##### Artikel 13
 

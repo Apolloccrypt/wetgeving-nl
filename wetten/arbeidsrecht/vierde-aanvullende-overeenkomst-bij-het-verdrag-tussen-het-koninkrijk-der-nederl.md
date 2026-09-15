@@ -1,38 +1,19 @@
 ---
 title: "Vierde Aanvullende Overeenkomst bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering van 29 maart 1951 betreffende de regeling van aanspraken, die door Nederlandse werknemers tussen 13 mei 1940 en 1 september 1945 op grond van de Duitse sociale verzekering zijn verkregen"
 identifier: "BWBV0005256"
-country: "nl"
-rank: "verdrag"
-publication_date: "1959-05-11"
-last_updated: "1952-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005256"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004537373"
-version_id: "10004755922"
-internal_id: "C10007273951"
-label_id: "10004521874"
-dtd_version: "2.0"
-original_entry_into_force: "1959-05-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005256/1959-05-11/0"
-intitule_bron: "Trb.1957-18"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-02-06"
-intitule_in_force: "1959-06-12"
-intitule_status: "goed"
-original_publication: "Trb.1957-18"
-original_published_date: "1957-02-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-18"
-entry_into_force_date: "1959-05-11"
-jci_1_3: "jci1.3:c:BWBV0005256&z=1959-05-11&g=1959-05-11"
-jci_1_0: "1.0:c:BWBV0005256&g=1959-05-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "1959-05-11"
+publicatiedatum: 1959-05-11
+laatste_update: 1959-05-11
+status: geldig
+toestand: 1959-05-11
+bron: "https://wetten.overheid.nl/BWBV0005256"
+opgehaald: 2026-09-15
 ---
+
 # Vierde Aanvullende Overeenkomst bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering van 29 maart 1951 betreffende de regeling van aanspraken, die door Nederlandse werknemers tussen 13 mei 1940 en 1 september 1945 op grond van de Duitse sociale verzekering zijn verkregen
 
-Gelet op artikel 29, eerste lid, van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering van 29 maart 1951 wordt betreffende de aanspraken ingevolge de sociale verzekering van de Nederlandse werknemers, die in de periode tussen 13 mei 1940 en 1 september 1945 in Duitsland werkzaam zijn geweest, de volgende Aanvullende Overeenkomst gesloten:
+*Gelet op artikel 29, eerste lid, van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake sociale verzekering van 29 maart 1951 wordt betreffende de aanspraken ingevolge de sociale verzekering van de Nederlandse werknemers, die in de periode tussen 13 mei 1940 en 1 september 1945 in Duitsland werkzaam zijn geweest, de volgende Aanvullende Overeenkomst gesloten:*
 
 ##### Artikel 1
 
@@ -48,7 +29,7 @@ Het Verdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden
 
 ##### Artikel 3
 
-De organen van de in artikel 2 genoemde Duitse rentenverzekeringen betalen aan de Sociale Verzekeringsbank ter vergoeding van de verplichtingen, die ingevolge artikel 2 ontstaan, binnen zes maanden na de uitwisseling van de bekrachtigingsoorkonden van deze Overeenkomst een som ineens ter grootte van de tegenwaarde in Duitse marken van 20 miljoen gulden. Dit bedrag is vastgesteld met inachtneming van de bepalingen van artikel 20, derde lid, letter **b** en artikel 21 van het Verdrag.
+De organen van de in artikel 2 genoemde Duitse rentenverzekeringen betalen aan de Sociale Verzekeringsbank ter vergoeding van de verplichtingen, die ingevolge artikel 2 ontstaan, binnen zes maanden na de uitwisseling van de bekrachtigingsoorkonden van deze Overeenkomst een som ineens ter grootte van de tegenwaarde in Duitse marken van 20 miljoen gulden. Dit bedrag is vastgesteld met inachtneming van de bepalingen van artikel 20, derde lid, letter *b* en artikel 21 van het Verdrag.
 
 ##### Artikel 4
 

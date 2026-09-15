@@ -1,114 +1,33 @@
 ---
 title: "Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon"
 identifier: "BWBV0005868"
-country: "nl"
-rank: "verdrag"
-publication_date: "2014-12-01"
-last_updated: "2012-06-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005868"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004905673"
-version_id: "10005218802"
-internal_id: "C10008761721"
-label_id: "10004889014"
-dtd_version: "2.0"
-original_entry_into_force: "2014-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005868/2014-12-01/0"
-intitule_bron: "Trb.2012-146"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-08-13"
-intitule_in_force: "2015-01-12"
-intitule_status: "goed"
-original_publication: "Trb.2012-146"
-original_published_date: "2012-08-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-146"
-entry_into_force_date: "2014-12-01"
-jci_1_3: "jci1.3:c:BWBV0005868&z=2014-12-01&g=2014-12-01"
-jci_1_0: "1.0:c:BWBV0005868&g=2014-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2014-12-01"
+publicatiedatum: 2014-12-01
+laatste_update: 2014-12-01
+status: geldig
+toestand: 2014-12-01
+bron: "https://wetten.overheid.nl/BWBV0005868"
+opgehaald: 2026-09-15
 ---
+
 # Protocol over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon
 
-het Koninkrijk België,
+*het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna de “hoge verdragsluitende partijen” genoemd, Herinnerend aan het besluit van de staatshoofden en regeringsleiders van de 27 lidstaten van de Europese Unie, in het kader van de Europese Raad bijeen op 18-19 juni 2009, over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon; Herinnerend aan de verklaring van de staatshoofden en regeringsleiders, in het kader van de Europese Raad bijeen op 18-19 juni 2009, dat zij, wanneer het volgende toetredingsverdrag wordt gesloten, de bepalingen van dat besluit in een protocol zouden opnemen, dat overeenkomstig de respectieve constitutionele voorschriften van hun staten aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie zal worden gehecht; Gezien de ondertekening door de hoge verdragsluitende partijen van het Verdrag tussen de hoge verdragsluitende partijen en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie; Hebben overeenstemming bereikt over de volgende bepalingen, welke aan het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie worden gehecht:*
 
-de Republiek Bulgarije,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-Ierland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-Hongarije,
-
-Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-Roemenië,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-hierna de “hoge verdragsluitende partijen” genoemd,
-
-Herinnerend aan het besluit van de staatshoofden en regeringsleiders van de 27 lidstaten van de Europese Unie, in het kader van de Europese Raad bijeen op 18-19 juni 2009, over de bezwaren van het Ierse volk ten aanzien van het Verdrag van Lissabon;
-
-Herinnerend aan de verklaring van de staatshoofden en regeringsleiders, in het kader van de Europese Raad bijeen op 18-19 juni 2009, dat zij, wanneer het volgende toetredingsverdrag wordt gesloten, de bepalingen van dat besluit in een protocol zouden opnemen, dat overeenkomstig de respectieve constitutionele voorschriften van hun staten aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) zal worden gehecht;
-
-Gezien de ondertekening door de hoge verdragsluitende partijen van het Verdrag tussen de hoge verdragsluitende partijen en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie;
-
-Hebben overeenstemming bereikt over de volgende bepalingen, welke aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) worden gehecht:
-
-## TITEL I. RECHT OP LEVEN, GEZIN EN ONDERWIJS
+### TITEL I. RECHT OP LEVEN, GEZIN EN ONDERWIJS
 
 ##### Artikel 1
 
-Geen enkele bepaling van het Verdrag van Lissabon waarbij een juridische status wordt toegekend aan het [Handvest van de grondrechten van de Europese Unie](onbekend), en geen enkele bepaling van dat verdrag op het gebied van vrijheid, veiligheid en recht doet afbreuk aan de reikwijdte of toepasbaarheid van de bescherming van het recht op leven in artikel 40, lid 3, eerste, tweede en derde alinea, de bescherming van het gezin in artikel 41 en de bescherming van de rechten met betrekking tot onderwijs in artikel 42 en artikel 44, lid 2, vierde en vijfde alinea, als vervat in de Ierse grondwet.
+Geen enkele bepaling van het Verdrag van Lissabon waarbij een juridische status wordt toegekend aan het [Handvest van de grondrechten van de Europese Unie](https://wetten.overheid.nl/BWBV0001507), en geen enkele bepaling van dat verdrag op het gebied van vrijheid, veiligheid en recht doet afbreuk aan de reikwijdte of toepasbaarheid van de bescherming van het recht op leven in artikel 40, lid 3, eerste, tweede en derde alinea, de bescherming van het gezin in artikel 41 en de bescherming van de rechten met betrekking tot onderwijs in artikel 42 en artikel 44, lid 2, vierde en vijfde alinea, als vervat in de Ierse grondwet.
 
-## TITEL II. FISCALE AANGELEGENHEDEN
+### TITEL II. FISCALE AANGELEGENHEDEN
 
 ##### Artikel 2
 
 Geen bepaling van het Verdrag van Lissabon verandert, op welke wijze en voor welke lidstaat ook, iets aan de reikwijdte of werking van de bevoegdheden van de Europese Unie met betrekking tot belastingen.
 
-## TITEL III. VEILIGHEID EN DEFENSIE
+### TITEL III. VEILIGHEID EN DEFENSIE
 
 ##### Artikel 3
 
@@ -134,7 +53,7 @@ Het Verdrag laat het recht van Ierland of iedere andere lidstaat om de aard en d
 
 Het is aan Ierland of iedere andere lidstaat om conform eventuele interne rechtsvoorschriften te besluiten om al dan niet aan een militaire operatie deel te nemen.
 
-## TITEL IV. SLOTBEPALINGEN
+### TITEL IV. SLOTBEPALINGEN
 
 ##### Artikel 4
 

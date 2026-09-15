@@ -1,106 +1,21 @@
 ---
 title: "Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie"
 identifier: "BWBV0005093"
-country: "nl"
-rank: "verdrag"
-publication_date: "1986-11-01"
-last_updated: "1986-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005093"
+categorie: "Burgerlijk recht"
 soort: "verdrag"
-stam_id: "10004462453"
-version_id: "10004673832"
-internal_id: "C10006909361"
-label_id: "10004447554"
-dtd_version: "2.0"
-original_entry_into_force: "1986-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005093/1986-11-01/0"
-intitule_bron: "Trb.1978-175"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1978-12-12"
-intitule_in_force: "1986-10-22"
-intitule_status: "goed"
-original_publication: "Trb.1978-175"
-original_published_date: "1978-12-12"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1978-175"
-entry_into_force_date: "1986-11-01"
-jci_1_3: "jci1.3:c:BWBV0005093&z=1986-11-01&g=1986-11-01"
-jci_1_0: "1.0:c:BWBV0005093&g=1986-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1986-11-01"
+publicatiedatum: 1986-11-01
+laatste_update: 1986-11-01
+status: geldig
+toestand: 1986-11-01
+bron: "https://wetten.overheid.nl/BWBV0005093"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag inzake de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, alsmede tot het Protocol betreffende de uitlegging daarvan door het Hof van Justitie
 
-De Hoge Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506),
+*De Hoge Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, Overwegende dat het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland door lid te worden van de Gemeenschap zich verplicht hebben om toe te treden tot het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke, en handelszaken en tot het Protocol betreffende de uitlegging van dat Verdrag door het Hof van Justitie en te dien einde onderhandelingen met de oorspronkelijke Lid-Staten van de Gemeenschap te beginnen om daarin de noodzakelijke aanpassingen aan te brengen, Hebben besloten om dit Verdrag te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: Renaat van Elslande, Minister van Justitie; Hare Majesteit de Koningin van Denemarken: Nathalie Lind Minister van Justitie; de President van de Bondsrepubliek Duitsland: Dr. Hans-Jochen Vogel, Bondsminister van Justitie; de President van de Franse Republiek: Alain Peyrefitte, Zegelbewaarder, Minister van Justitie; de President van Ierland: Gerard Collins, Minister van Justitie; de President van de Italiaanse Republiek: Paolo Bonifacio, Minister van Justitie; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: Robert Krieps, Minister van Onderwijs, Minister van Justitie; Hare Majesteit de Koningin der Nederlanden: Prof. Mr. J. de Ruiter, Minister van Justitie; Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: The Right Honourable the Lord Elwyn-Jones, C.H., Lord High Chancellor of Great Britain; Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, Omtrent de volgende bepalingen overeenstemming hebben bereikt:*
 
-Overwegende dat het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland door lid te worden van de Gemeenschap zich verplicht hebben om toe te treden tot het [Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke, en handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en tot het [Protocol betreffende de uitlegging van dat Verdrag door het Hof van Justitie](https://wetten.overheid.nl/jci1.3:c:BWBV0003476) en te dien einde onderhandelingen met de oorspronkelijke Lid-Staten van de Gemeenschap te beginnen om daarin de noodzakelijke aanpassingen aan te brengen,
-
-Hebben besloten om dit Verdrag te sluiten en hebben te dien einde als hun gevolmachtigden aangewezen:
-
-Zijne Majesteit de Koning der Belgen:
-
-Renaat van Elslande,
-
-Minister van Justitie;
-
-Hare Majesteit de Koningin van Denemarken:
-
-Nathalie Lind
-
-Minister van Justitie;
-
-de President van de Bondsrepubliek Duitsland:
-
-Dr. Hans-Jochen Vogel,
-
-Bondsminister van Justitie;
-
-de President van de Franse Republiek:
-
-Alain Peyrefitte,
-
-Zegelbewaarder,
-
-Minister van Justitie;
-
-de President van Ierland:
-
-Gerard Collins,
-
-Minister van Justitie;
-
-de President van de Italiaanse Republiek:
-
-Paolo Bonifacio,
-
-Minister van Justitie;
-
-Zijne Koninklijke Hoogheid de Groothertog van Luxemburg:
-
-Robert Krieps,
-
-Minister van Onderwijs,
-
-Minister van Justitie;
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Prof. Mr. J. de Ruiter,
-
-Minister van Justitie;
-
-Hare Majesteit de Koningin van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland:
-
-The Right Honourable the Lord Elwyn-Jones, C.H.,
-
-Lord High Chancellor of Great Britain;
-
-Die, in het kader van de Raad bijeen, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
-
-Omtrent de volgende bepalingen overeenstemming hebben bereikt:
-
-## TITEL I. Algemene bepalingen
+### TITEL I. Algemene bepalingen
 
 ##### Artikel 1
 
@@ -110,137 +25,137 @@ Het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittann
 
 De aanpassingen van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476) zijn opgenomen in de titels II tot en met IV van dit Verdrag.
 
-## TITEL II. Aanpassingen van het Verdrag van 1968
+### TITEL II. Aanpassingen van het Verdrag van 1968
 
 ##### Artikel 3
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 4
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 5
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 6
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 7
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 8
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 9
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 10
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 11
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 12
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 13
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 14
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 15
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 16
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 17
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 18
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 19
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 20
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszakenl; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszakenl; Brussel, 27 september 1968.*
 
 ##### Artikel 21
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 22
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 23
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 24
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 25
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 26
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 27
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
 ##### Artikel 28
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
-## TITEL III. Aanpassingen van het Protocol bij het Verdrag van 1968
+### TITEL III. Aanpassingen van het Protocol bij het Verdrag van 1968
 
 ##### Artikel 29
 
-Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.
+*Wijzigt het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Brussel, 27 september 1968.*
 
-## TITEL IV. Aanpassingen van het Protocol van 1971
+### TITEL IV. Aanpassingen van het Protocol van 1971
 
 ##### Artikel 30
 
-Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
+*Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.*
 
 ##### Artikel 31
 
-Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
+*Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.*
 
 ##### Artikel 32
 
-Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
+*Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.*
 
 ##### Artikel 33
 
-Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.
+*Wijzigt het Protocol betreffende de uitlegging door het Hof van Justitie van het Verdrag van 27 september 1968 betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken; Luxemburg, 3 juni 1971.*
 
-## TITEL V. Overgangsbepalingen
+### TITEL V. Overgangsbepalingen
 
 ##### Artikel 34
 
@@ -260,17 +175,17 @@ Gedurende drie jaar na de inwerkingtreding van het [Verdrag van 1968](https://we
 
 - 1. Hij die zijn woonplaats heeft in een verdragsluitende Staat kan in de volgende gevallen voor de gerechten van één van de hierboven genoemde Staten worden gedaagd ter zake van een zeerechtelijke vordering, wanneer op het schip waarop de vordering betrekking heeft of op enig ander schip waarvan hij eigenaar is, op het grondgebied van laatstgenoemde Staat gerechtelijk beslag is gelegd als zekerheid voor de vordering, of wanneer aldaar beslag had kunnen worden gelegd, maar er borgtocht dan wel enige andere zekerheid is gesteld:
 
-- a). indien de eiser zijn woonplaats in die Staat heeft;
+   - a) indien de eiser zijn woonplaats in die Staat heeft;
 
-- b). indien de vordering in die Staat is ontstaan;
+   - b) indien de vordering in die Staat is ontstaan;
 
-- c). indien de vordering is ontstaan op een reis tijdens welke het beslag is gelegd of had kunnen worden gelegd;
+   - c) indien de vordering is ontstaan op een reis tijdens welke het beslag is gelegd of had kunnen worden gelegd;
 
-- d). indien de vordering voortspruit uit een aanvaring of schade die, hetzij door het uitvoeren of nalaten van een manoeuvre, hetzij door niet-naleving der reglementen, een schip heeft toegebracht aan een ander schip dan wel aan de zich aan boord van een deze schepen bevindende zaken of personen;
+   - d) indien de vordering voortspruit uit een aanvaring of schade die, hetzij door het uitvoeren of nalaten van een manoeuvre, hetzij door niet-naleving der reglementen, een schip heeft toegebracht aan een ander schip dan wel aan de zich aan boord van een deze schepen bevindende zaken of personen;
 
-- e). indien de vordering is ontstaan uit hulp of berging;
+   - e) indien de vordering is ontstaan uit hulp of berging;
 
-- f). indien voor de vordering zekerheid is gesteld in de vorm van een scheepshypotheek of andere onderzetting die rust op het schip waarop beslag is gelegd.
+   - f) indien voor de vordering zekerheid is gesteld in de vorm van een scheepshypotheek of andere onderzetting die rust op het schip waarop beslag is gelegd.
 
 - 2. Beslag kan worden gelegd op elk schip waarop de zeerechtelijke vordering betrekking heeft of op elk ander schip dat toebehoort aan degene die op het tijdstip van het ontstaan van de vordering eigenaar was van het schip waarop deze vordering betrekking heeft. Ter zake van de in punt 5, onder o), p) of q), bedoelde vorderingen kan evenwel alleen beslag worden gelegd op het schip waarop de vordering betrekking heeft.
 
@@ -280,49 +195,49 @@ Gedurende drie jaar na de inwerkingtreding van het [Verdrag van 1968](https://we
 
 - 5. Onder „zeerechtelijke vordering” wordt verstaan een vordering voortvloeiend uit:
 
-- a). schade veroorzaakt door een schip door aanvaring of anderszins;
+   - a) schade veroorzaakt door een schip door aanvaring of anderszins;
 
-- b). dood of persoonlijk letsel veroorzaakt door een schip of voortspruitend uit de exploitatie van een schip;
+   - b) dood of persoonlijk letsel veroorzaakt door een schip of voortspruitend uit de exploitatie van een schip;
 
-- c). hulp en berging;
+   - c) hulp en berging;
 
-- d). overeenkomsten betreffende het gebruik of de huur van een schip bij wijze van bevrachting of anderszins;
+   - d) overeenkomsten betreffende het gebruik of de huur van een schip bij wijze van bevrachting of anderszins;
 
-- e). overeenkomsten betreffende goederenvervoer per schip bij wijze van bevrachting, cognossement of anderszins;
+   - e) overeenkomsten betreffende goederenvervoer per schip bij wijze van bevrachting, cognossement of anderszins;
 
-- f). verlies van of schade aan goederen, met inbegrip van de bagage, vervoerd per schip;
+   - f) verlies van of schade aan goederen, met inbegrip van de bagage, vervoerd per schip;
 
-- g). averij-grosse;
+   - g) averij-grosse;
 
-- h). bodemerij;
+   - h) bodemerij;
 
-- i). slepen;
+   - i) slepen;
 
-- j). loodsen;
+   - j) loodsen;
 
-- k). aan een schip geleverde goederen of materiaal ten behoeve van de exploitatie of het onderhoud van het schip, ongeacht de plaats van de levering;
+   - k) aan een schip geleverde goederen of materiaal ten behoeve van de exploitatie of het onderhoud van het schip, ongeacht de plaats van de levering;
 
-- l). bouw, herstelling of uitrusting van een schip, of havengelden;
+   - l) bouw, herstelling of uitrusting van een schip, of havengelden;
 
-- m). de lonen van kapitein, officieren of bemanning;
+   - m) de lonen van kapitein, officieren of bemanning;
 
-- n). uitgaven van de kapitein, met inbegrip van uitgaven gedaan door verschepers, bevrachters, of agenten voor rekening van het schip of zijn eigenaar;
+   - n) uitgaven van de kapitein, met inbegrip van uitgaven gedaan door verschepers, bevrachters, of agenten voor rekening van het schip of zijn eigenaar;
 
-- o). geschillen over de eigendom van een schip;
+   - o) geschillen over de eigendom van een schip;
 
-- p). geschillen tussen medeëigenaars van een schip over eigendom, bezit, exploitatie of opbrengsten van dat schip;
+   - p) geschillen tussen medeëigenaars van een schip over eigendom, bezit, exploitatie of opbrengsten van dat schip;
 
-- q). elke scheepshypotheek of andere onderzetting die op een schip rust.
+   - q) elke scheepshypotheek of andere onderzetting die op een schip rust.
 
 - 6. In Denemarken dekt de uitdrukking „beslag”, voor wat de onder o) en p) bedoelde zeerechtelijke vorderingen betreft, ook de „forbud”, voor zover ingevolge de artikelen 646 tot en met 653 van de Wet op de burgerlijke rechtsvordering (Lov om rettens pleje) alleen deze procedure ter zake is toegelaten.
 
-## TITEL VI. Slotbepalingen
+### TITEL VI. Slotbepalingen
 
 ##### Artikel 37
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen zendt aan de Regeringen van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland een voor eensluidend gewaarmerkt afschrift in de Duitse, de Franse, de Italiaanse en de Nederlandse taal toe van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476).
 
-De teksten van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476) die zijn opgesteld in de Deense, de Engelse en de Ierse taal, worden aan dit Verdrag gehecht1)[Red: Deze teksten zijn niet opgenomen.][Red: De Engelse tekst van het Verdrag van 1968 en van het Protocol van 1971 zal binnenkort in het **Tractatenblad** worden bekendgemaakt.]. De teksten die zijn opgesteld in de Deense, de Engelse en de Ierse taal, zijn op gelijke wijze authentiek als de oorspronkelijke teksten van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476).
+De teksten van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476) die zijn opgesteld in de Deense, de Engelse en de Ierse taal, worden aan dit Verdrag gehecht1)[Red: Deze teksten zijn niet opgenomen.][Red: De Engelse tekst van het Verdrag van 1968 en van het Protocol van 1971 zal binnenkort in het *Tractatenblad* worden bekendgemaakt.]. De teksten die zijn opgesteld in de Deense, de Engelse en de Ierse taal, zijn op gelijke wijze authentiek als de oorspronkelijke teksten van het [Verdrag van 1968](https://wetten.overheid.nl/jci1.3:c:BWBV0004663) en van het [Protocol van 1971](https://wetten.overheid.nl/jci1.3:c:BWBV0003476).
 
 ##### Artikel 38
 
@@ -338,9 +253,9 @@ Voor elke nieuwe Lid-Staat die het Verdrag later bekrachtigt, treedt het in werk
 
 De Secretaris-Generaal van de Raad der Europese Gemeenschappen stelt de ondertekenende Staat in kennis van:
 
-- a). het nederleggen van iedere akte van bekrachtiging;
+- a) het nederleggen van iedere akte van bekrachtiging;
 
-- b). de data van inwerkingtreding van dit Verdrag voor de verdragsluitende Staten.
+- b) de data van inwerkingtreding van dit Verdrag voor de verdragsluitende Staten.
 
 ##### Artikel 41
 

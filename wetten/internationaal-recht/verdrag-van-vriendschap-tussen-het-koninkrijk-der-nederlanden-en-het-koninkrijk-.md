@@ -1,77 +1,40 @@
 ---
 title: "Verdrag van vriendschap tussen het Koninkrijk der Nederlanden en het Koninkrijk Afghanistan"
 identifier: "BWBV0005953"
-country: "nl"
-rank: "verdrag"
-publication_date: "1948-11-27"
-last_updated: "1948-11-27"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005953"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004956723"
-version_id: "10005274042"
-internal_id: "C10008116001"
-label_id: "10004939854"
-dtd_version: "2.0"
-original_entry_into_force: "1948-11-27"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005953/1948-11-27/0"
-intitule_bron: "Stb.1949-J 57"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-02-04"
-intitule_published: "1949-03-01"
-intitule_in_force: "1949-03-01"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 57"
-original_signed_date: "1949-02-04"
-original_published_date: "1949-03-01"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-11-27"
-jci_1_3: "jci1.3:c:BWBV0005953&z=1948-11-27&g=1948-11-27"
-jci_1_0: "1.0:c:BWBV0005953&g=1948-11-27"
-citeertitel_status: "redactioneel"
-signed_date: "1949-02-04"
-entry_into_force: "1948-11-27"
+publicatiedatum: 1948-11-27
+laatste_update: 1948-11-27
+status: geldig
+toestand: 1948-11-27
+bron: "https://wetten.overheid.nl/BWBV0005953"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag van vriendschap tussen het Koninkrijk der Nederlanden en het Koninkrijk Afghanistan
 
-Hare Majesteit de Koningin der Nederlanden enerzijds
+*Sa Majesté la Reine des Pays-Bas d'une part et Sa Majesté le Roi d'Afghanistan d'autre part, également animés du désir de consolider les rapports d'amitié entre les deux Etats, ont résolu de conclure un traité d'amitié et ont nommé à cet effet pous Leurs Plénipotentiaires: Sa Majesté la Reine des Pays-Bas: Son Excellence Monsieur PHILIP CHRISTIAAN VISSER, Son Envoyé Extraordinaire et Ministre Plénipotentiaire à Ankara, Sa Majesté le Roi d'Afghanistan: Son Excellence FAIZ MOHAMED KHAN, Son Ambassadeur Extraordinaire et Plénipotentiaire à Ankara, lesquels après s'être communiqué leurs pleins pouvoirs, trouvés en bonne et due forme, sont convenus des dispositions suivantes:*
 
-en
+##### Article 1er
 
-Zijne Majesteit de Koning van Afghanistan anderzijds,
+Il y aura paix inviolable et amitié sincère et perpétuelle entre le Royaume des Pays-Bas et le Royaume d'Afghanistan, ainsi qu'entre les ressortissants des deux Etats.
 
-gelijkelijk geleid door de wens, de betrekkingen van vriendschap tussen de beide Staten nauwer aan te halen, hebben besloten, een verdrag van vriendschap te sluiten en hebben te dien einde tot Hunne gevolmachtigden benoemd:
+##### Article 2
 
-Hare Majesteit de Koningin der Nederlanden:
+Les Hautes Parties contractantes auront mutuellement le droit d'envoyer des agents diplomatiques dûment accrédités qui jouiront, à charge de réciprocité, dans le pays de leur résidence, du traitement consacré par les principes et la pratique du droit commun international.
 
-Zijne Excellentie Dr. PHILIP CHRISTIAAN VISSER, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister te Ankara;
+##### Article 3
 
-Zijne Majesteit de Koning van Afghanistan:
+Les Hautes Parties contractantes sont d'accord pour développer autant que possible les relations commerciales entre les deux pays et rechercheront les modalités par lesquelles ces relations pourraient être réglées ultérieurement.
 
-Zijne Excellentie FAIZ MOHAMED KHAN, Hoogstdeszelfs Buitengewoon en Gevolmachtigd Ambassadeur te Ankara,
+##### Article 4
 
-welke, na elkander mededeling te hebben gedaan van hun volmachten, welke in goede en behoorlijke vorm werden bevonden, over de volgende bepalingen tot overeenstemming zijn gekomen:
-
-##### Artikel 1
-
-Er zal onschendbare vrede en oprechte en bestendige vriendschap bestaan tussen het Koninkrijk der Nederlanden en het Koninkrijk Afghanistan alsmede tussen de onderdanen der beide Staten.
-
-##### Artikel 2
-
-De Hoge Verdragsluitende Partijen zullen wederkerig het recht hebben, behoorlijk geaccrediteerd diplomatieke vertegenwoordigers uit te zenden welke, op voorwaarde van wederkerigheid, in het land hunner vestiging de behandeling zullen genieten erkend door de beginselen en de praktijk van het algemene internationale recht.
-
-##### Artikel 3
-
-De Hoge Verdragsluitende Partijen zijn overeengekomen de handelsbetrekkingen tussen de beide landen zoveel mogelijk te bevorderen en zullen een onderzoek instellen naar de wijze, waarop deze betrekkingen nader zouden kunnen worden geregeld.
-
-##### Artikel 4
-
-Dit verdrag zal worden bekrachtigd en de bekrachtigingsoorkonden zullen zo spoedig mogelijk te Ankara worden uitgewisseld.
+Le présent traité sera ratifié et les ratifications seront échangées le plus tôt possible à Ankara. Il entrera en vigueur immédiatement après l'échange des ratifications.
 
 En foi de quoi les Plénipotentiaires respectifs ont signé le présent Traité et y ont opposé leurs sceaux.
 
 Fait en double exemplaire à Istanboul, le 26 juillet 1939 le 2 Assed 1318.
 
-(**L.S.**) VISSER.
+(*L.S.*) VISSER.
 
-(**L.S.**) FAIZ MD.
+(*L.S.*) FAIZ MD.

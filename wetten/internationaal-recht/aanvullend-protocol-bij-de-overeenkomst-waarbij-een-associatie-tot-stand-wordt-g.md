@@ -1,105 +1,18 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije naar aanleiding van de uitbreiding van de Europese Unie"
 identifier: "BWBV0005453"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-05-01"
-last_updated: "2004-05-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005453"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004637463"
-version_id: "10004893802"
-internal_id: "C10008335971"
-label_id: "10004621904"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005453/2004-05-01/0"
-intitule_bron: "Trb.2007-160"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2007-08-24"
-intitule_status: "nogniet"
-original_publication: "Trb.2007-160"
-original_published_date: "2007-08-24"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2007-160"
-jci_1_3: "jci1.3:c:BWBV0005453&z=2004-05-01&g=2004-05-01"
-jci_1_0: "1.0:c:BWBV0005453&g=2004-05-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2007-08-24"
+laatste_update: 2004-05-01
+status: geldig
+toestand: 2004-05-01
+bron: "https://wetten.overheid.nl/BWBV0005453"
+opgehaald: 2026-09-15
 ---
+
 # Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en Turkije naar aanleiding van de uitbreiding van de Europese Unie
 
-Het Koninkrijk België,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-hierna „de lidstaten” genoemd, vertegenwoordigd door de Raad van de Europese Unie, en
-
-de Europese Gemeenschap, vertegenwoordigd door de Raad van de Europese Unie,
-
-enerzijds,
-
-en de Republiek Turkije, hierna „Turkije” genoemd,
-
-anderzijds,
-
-Overwegende hetgeen volgt:
-
-De Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (hierna „overeenkomst van Ankara” genoemd)1)PB 217 van 29.12.1964, blz. 3687. is op 12 september 1963 te Ankara ondertekend en op 1 december 1964 in werking getreden; deze overeenkomst is gewijzigd bij een op 30 juni 1973 ondertekend complementair protocol1)PB L 361 van 31.12.1977, blz. 2. waarbij de overeenkomst van toepassing wordt op Denemarken, Ierland en het verenigd Koninkrijk;
-
-De overeenkomst van Ankara is, zoals gewijzigd, van toepassing geworden op de Helleense Republiek, het Koninkrijk Spanje, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland en het Koninkrijk Zweden na de toetreding van deze landen tot de Europese Gemeenschap;
-
-De overeenkomst van Ankara is van toepassing op Turkije en alle lidstaten van de Europese Unie, zoals die is uitgebreid bij het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie (hierna „toetredingsverdrag” genoemd)2)PB L 236 van 23.9.2003, blz. 17., dat op 16 april 2003 te Athene is ondertekend en op 1 mei 2004 in werking is getreden;
-
-Vastbesloten tot verdere ontwikkeling van de associatie in de context van de uitgebreide Unie,
-
-Zijn als volgt overeengekomen:
+*Het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna „de lidstaten” genoemd, vertegenwoordigd door de Raad van de Europese Unie, en de Europese Gemeenschap, vertegenwoordigd door de Raad van de Europese Unie, enerzijds, en de Republiek Turkije, hierna „Turkije” genoemd, anderzijds, Overwegende hetgeen volgt: 1. De Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije (hierna „overeenkomst van Ankara” genoemd)1)PB 217 van 29.12.1964, blz. 3687. is op 12 september 1963 te Ankara ondertekend en op 1 december 1964 in werking getreden; deze overeenkomst is gewijzigd bij een op 30 juni 1973 ondertekend complementair protocol1)PB L 361 van 31.12.1977, blz. 2. waarbij de overeenkomst van toepassing wordt op Denemarken, Ierland en het verenigd Koninkrijk; 2. De overeenkomst van Ankara is, zoals gewijzigd, van toepassing geworden op de Helleense Republiek, het Koninkrijk Spanje, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Finland en het Koninkrijk Zweden na de toetreding van deze landen tot de Europese Gemeenschap; 3. De overeenkomst van Ankara is van toepassing op Turkije en alle lidstaten van de Europese Unie, zoals die is uitgebreid bij het Verdrag betreffende de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie (hierna „toetredingsverdrag” genoemd)2)PB L 236 van 23.9.2003, blz. 17., dat op 16 april 2003 te Athene is ondertekend en op 1 mei 2004 in werking is getreden; Vastbesloten tot verdere ontwikkeling van de associatie in de context van de uitgebreide Unie, Zijn als volgt overeengekomen:*
 
 ### PARTIJEN EN GRONDGEBIED WAAR DE OVEREENKOMST WORDT TOEGEPAST
 
@@ -109,7 +22,7 @@ Zijn als volgt overeengekomen:
 
 2. De uitdrukking „Europese Economische Gemeenschap”, dan wel, in verkorte vorm, „Gemeenschap”, wordt in alle in het vorige lid bedoelde teksten vervangen door „Europese Gemeenschap”.
 
-3. Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.
+3. *Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.*
 
 ### VERSTRIJKEN VAN HET EGKS-VERDRAG EN EGKS-PRODUCTEN
 
@@ -119,13 +32,13 @@ Teneinde rekening te houden met de recente institutionele ontwikkelingen binnen 
 
 ##### Artikel 3. Oorsprongsregels
 
-Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.
+*Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije; Ankara, 12 september 1963.*
 
 ### LANDBOUWPRODUCTEN
 
 ##### Artikel 4. Oorsprongsregels
 
-Wijzigt Protocol nr. 3 bij Besluit nr. 1/98 van de Associatieraad EG–Turkije van 25 februari 1998 betreffende de handelsregeling voor landbouwproducten.
+*Wijzigt Protocol nr. 3 bij Besluit nr. 1/98 van de Associatieraad EG–Turkije van 25 februari 1998 betreffende de handelsregeling voor landbouwproducten.*
 
 ##### Artikel 5. Aanpassing van tariefcontingenten voor landbouwproducten
 

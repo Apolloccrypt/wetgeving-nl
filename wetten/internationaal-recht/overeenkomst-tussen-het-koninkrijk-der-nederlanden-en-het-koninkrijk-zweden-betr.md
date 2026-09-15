@@ -1,102 +1,79 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden betreffende het wegvervoer"
 identifier: "BWBV0005221"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-05-06"
-last_updated: "1958-05-06"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005221"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004519953"
-version_id: "10004737202"
-internal_id: "C10007273831"
-label_id: "10004504724"
-dtd_version: "2.0"
-original_entry_into_force: "1958-05-06"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005221/1958-05-06/0"
-intitule_bron: "Trb.1957-216"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1957-11-11"
-intitule_in_force: "1958-06-04"
-intitule_status: "goed"
-original_publication: "Trb.1957-216"
-original_published_date: "1957-11-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1957-216"
-entry_into_force_date: "1958-05-06"
-jci_1_3: "jci1.3:c:BWBV0005221&z=1958-05-06&g=1958-05-06"
-jci_1_0: "1.0:c:BWBV0005221&g=1958-05-06"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-05-06"
+publicatiedatum: 1958-05-06
+laatste_update: 1958-05-06
+status: geldig
+toestand: 1958-05-06
+bron: "https://wetten.overheid.nl/BWBV0005221"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Zweden betreffende het wegvervoer
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van het Koninkrijk Zweden,
+*Le Gouvernement du Royaume des Pays-Bas et le Gouvernement du Royaume de Suède, souhaitant confirmer les accords de Genève relatifs à la suppression des restrictions à la liberté de la circulation routière, établis sous l'égide de la Commission Economique pour l'Europe des Nations Unies, désireux de favoriser dans le cadre de leurs relations économiques et culturelles le développement des transports routiers de leurs ressortissants, ayant décidé de conclure entre eux un accord ayant pour objet de confirmer et d'étendre les facilités déjà existantes, sont convenus de ce qui suit:*
 
-verlangende de akkoorden van Genève betreffende de opheffing van de beperkingen van de vrijheid van het wegverkeer, opgesteld onder auspiciën van de Economische Commissie voor Europa van de Verenigde Naties, te bevestigen,
+#### Transports de voyageurs
 
-verlangende de ontwikkeling van het wegvervoer van hun onderdanen in het kader van hun economische en culturele betrekkingen te bevorderen,
+##### Article premier
 
-besloten hebbende onderling een overeenkomst te sluiten met het doel de reeds bestaande faciliteiten te bevestigen en uit te breiden, zijn het volgende overeengekomen:
+Chacune des Parties Contractantes accorde aux entreprises de transport routier domiciliées sur le territoire de l'autre Partie Contractante la liberté d'exploiter sans aucune autorisation et sans
 
-#### Vervoer van personen
+aucune formalité préalable les catégories suivantes de transports par route:
 
-##### Artikel 1
+- a) transports internationaux circulaires de voyageurs, partant et devant se terminer dans le même pays;
 
-Elk der Overeenkomstsluitende Partijen verleent aan de wegvervoerondernemingen, gevestigd op het grondgebied van de andere Overeenkomstsluitende Partij, de vrijheid om zonder enige vergunning en zonder enige voorafgaande formaliteit de volgende soorten van wegvervoer te verrichten:
+- b) transports internationaux de voyageurs groupés dans le même véhicule, au cours d'un voyage partant d'un port maritime, d'un aéroport ou d'une localité quelconque à destination d'un port maritime, d'un aéroport ou d'une localité quelconque situé sur son territoire, sous réserve toutefois que le véhicule quitte ce territoire à vide, sauf autorisation spéciale;
 
-- a). internationaal vervoer van personen in gesloten rondritten welke vertrekken en eindigen in hetzelfde land;
+- c) transports en transit de voyageurs — comprenant le trafic de ligne en transit — traversant son territoire sans que des voyageurs y soient pris ou déposés.
 
-- b). internationaal vervoer van personen als groep in eenzelfde voertuig, gedurende een reis welke in een zeehaven, een luchthaven of een willekeurige plaats begint en welke een zeehaven, een luchthaven of een willekeurige plaats, gelegen op haar grondgebied, tot bestemming heeft, mits het voertuig dit grondgebied leeg verlaat, behoudens bijzondere vergunning;
+##### Article 2
 
-- c). transito-personenvervoer — met inbegrip van het vervoer in transito met lijndiensten — dat haar grondgebied doorkruist zonder dat er personen worden opgenomen of afgezet.
+1. Les autorités compétentes de chacune des deux Parties Contractantes appliquent avec libéralité la procédure d'autorisation à laquelle sont soumis les transports internationaux par route suivants:
 
-##### Artikel 2
+- a) entrée à vide sur son territoire d'autocars de l'autre Partie Contractante afin d'y prendre des voyageurs se rendant dans un autre pays;
 
-1. De bevoegde autoriteiten van elk der beide Overeenkomstsluitende Partijen zullen de vergunningverlening waaraan de volgende soorten van internationaal wegvervoer zijn onderworpen liberaal toepassen:
+- b) services de navette, pour des séjours d'une semaine au minimum;
 
-- a). lege binnenkomst op haar grondgebied van autobussen van de andere Overeenkomstsluitende Partij met het doel er personen op te nemen, die zich naar een ander land begeven;
+- c) transports de voyageurs qui ne relèvent pas des alinéas *a*) et *b*).
 
-- b). pendelvervoer voor een verblijf van tenminste één week;
+2. Pour l'application du présent Accord il est entendu par „service de navette” un service international de transport de voyageurs organisé pour transporter, d'un même lieu de départ à un même lieu de séjour de vacances ou d'intérêt touristique, des voyageurs préalablement constitués en groupes selon la durée de séjour prévue et pour ramener chaque groupe au point de départ au cours d'un voyage ultérieur, à l'expiration de la période prévue. Tous les voyageurs qui ont accompli ensemble un voyage aller doivent voyager ensemble au retour. Le premier voyage de retour et le dernier voyage aller de la série de navette auront lieu à vide. Seuls les voyages d'aller et de retour font partie des services de navette. Sauf autorisation des autorités compétentes du pays de destination aucun transport autre que les voyages de retour ne pourra être effectué au départ du lieu de destination.
 
-- c). vervoer van personen, dat niet valt onder de alinea's **a)** en **b)**.
+##### Article 3
 
-2. Voor de toepassing van deze Overeenkomst wordt onder „pendelvervoer” verstaan het internationale vervoer, bestemd om personen, die tevoren naar gelang van de duur van het voorgenomen verblijf in groepen zijn samengebracht, van eenzelfde punt van vertrek naar eenzelfde vakantieoord of plaats van toeristische betekenis te vervoeren en om iedere groep in de loop van een later plaats vindende reis aan het eind van het voorgenomen verblijf naar het punt van vertrek terug te brengen. Alle personen die gezamenlijk de heenreis hebben gemaakt moeten gezamenlijk terugreizen. De eerste terugreis en de laatste heenreis van de reeks pendelritten vinden leeg plaats. Alleen de heen- en terugreizen maken deel uit van het pendelvervoer. Behoudens vergunning van de bevoegde autoriteiten van het land van bestemming mogen vanuit de plaats van bestemming slechts de terugreizen worden ondernomen.
+Les services internationaux de ligne à l'exception du trafic de transit seront subordonnés à l'octroi d'une autorisation conformément aux dispositions légales de chacune des deux Parties Contractantes.
 
-##### Artikel 3
+##### Article 4
 
-Met uitzondering van het transitovervoer zijn de internationale lijndiensten onderworpen aan vergunningverlening overeenkomstig de wettelijke bepalingen van elk der beide Overeenkomstsluitende Partijen.
+La Partie Contractante ayant l'intention de ne pas prolonger ou de modifier une autorisation déjà accordée à un transporteur de l'autre Partie, doit auparavant se mettre en rapport avec cette Partie en vue d'établir des pourparlers.
 
-##### Artikel 4
+#### Transports de marchandises
 
-De Overeenkomstsluitende Partij welke een reeds aan een vervoerder van de andere Partij verleende vergunning niet wil verlengen of deze wil wijzigen dient zich tevoren met deze Partij in verbinding te stellen voor het houden van besprekingen.
+##### Article 5
 
-#### Vervoer van goederen
+Chacune des Parties Contractantes accorde aux entreprises de transport routier domiciliées sur le territoire de l'autre Partie Contractante la liberté d'exploiter sans aucune autorisation et sans aucune formalité préalable les catégories suivantes de transports par route:
 
-##### Artikel 5
+- a) les transports internationaux de marchandises;
 
-Elk der Overeenkomstsluitende Partijen verleent aan wegvervoerondernemingen, gevestigd op het grondgebied van de andere Overeenkomstsluitende Partij, de vrijheid om zonder enige vergunning en zonder enige voorafgaande formaliteit de volgende soorten van wegvervoer te verrichten:
+- b) les transports de marchandises en transit.
 
-- a. internationaal vervoer van goederen;
+#### Dispositions générales
 
-- b. transitovervoer van goederen.
+##### Article 6
 
-#### Algemene bepalingen
+Les transporteurs sont tenus d'observer les dispositions légales et réglementaires sur la police du roulage et la circulation ainsi que sur la durée de travail et la durée maximum de conduite, en vigueur dans l'Etat parcouru.
 
-##### Artikel 6
+##### Article 7
 
-De vervoerders zijn gehouden de wettelijke en uitvoerende voorschriften betreffende de controle en het verkeer, alsmede betreffende de werktijd en de maximum-rijtijd, welke in de door te rijden Staat van kracht zijn, in acht te nemen.
+En ce qui concerne le Royaume des Pays-Bas le présent Accord ne s'applique qu'au territoire européen du Royaume.
 
-##### Artikel 7
+##### Article 8
 
-Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts op het Europese grondgebied van het Koninkrijk van toepassing.
+Le présent Accord entrera en vigueur le jour où les Parties Contractantes se sont notifiées réciproquement son applicabilité selon les dispositions constitutionnelles.
 
-##### Artikel 8
-
-Deze Overeenkomst treedt in werking op de dag waarop de Overeenkomstsluitende Partijen elkaar wederkerig hebben kennis gegeven van haar toepasbaarheid overeenkomstig de grondwettelijke bepalingen.
-
-Na een jaar kan de Overeenkomst door één der beide Overeenkomstsluitende Partijen worden opgezegd. De opzegging wordt van kracht zes maanden na de kennisgeving daarvan aan de andere Overeenkomstsluitende Partij.
+Après une année, il pourra être dénoncé par l'une ou l'autre des Parties Contractantes. La dénonciation prend effet six mois après sa notification à l'autre Partie Contractante.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 

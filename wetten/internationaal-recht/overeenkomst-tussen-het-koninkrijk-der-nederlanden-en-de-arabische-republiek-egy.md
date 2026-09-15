@@ -1,127 +1,103 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake het Nederlands Instituut voor Archeologie en Arabische Studien te Kairo"
 identifier: "BWBV0005151"
-country: "nl"
-rank: "verdrag"
-publication_date: "1984-02-01"
-last_updated: "1984-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005151"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004486943"
-version_id: "10004700352"
-internal_id: "C10006942361"
-label_id: "10004471854"
-dtd_version: "2.0"
-original_entry_into_force: "1983-05-25"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005151/1984-02-01/0"
-intitule_bron: "Trb.1983-119"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1983-05-25"
-intitule_published: "1983-07-13"
-intitule_in_force: "1983-07-13"
-intitule_status: "goed"
-original_publication: "Trb.1983-119"
-original_signed_date: "1983-05-25"
-original_published_date: "1983-07-13"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1983-119"
-entry_into_force_date: "1983-05-25"
-jci_1_3: "jci1.3:c:BWBV0005151&z=1984-02-01&g=1984-02-01"
-jci_1_0: "1.0:c:BWBV0005151&g=1984-02-01"
-citeertitel_status: "officieel"
-signed_date: "1983-05-25"
-entry_into_force: "1983-05-25"
+publicatiedatum: 1983-05-25
+laatste_update: 1984-02-01
+status: geldig
+toestand: 1984-02-01
+bron: "https://wetten.overheid.nl/BWBV0005151"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte inzake het Nederlands Instituut voor Archeologie en Arabische Studien te Kairo
 
-Het Koninkrijk der Nederlanden en de Arabische Republiek Egypte, verlangend de samenwerking, vastgelegd in de op 8 december 1960 te 's-Gravenhage tussen beide Partijen tot stand gekomen Culturele Overeenkomst, verder te versterken:
+*The Kingdom of the Netherlands and the Arab Republic of Egypt; Desiring to further strengthen the cooperation between their respective countries provided for under the Cultural Agreement which was concluded by both parties in The Hague on 8 December 1960; Have agreed as follows:*
 
-Zijn overeengekomen als volgt:
+##### Article 1
 
-##### Artikel 1
+The Netherlands Institute of Archaeology and Arabic Studies, hereinafter referred to as "the Institute", shall be an institution that has legal personality under Egyptian law and is established in Cairo by the University of Leiden.
 
-Het Nederlandse Instituut voor Archeologie en Arabische studiën, hierna te noemen „het Instituut”, is een instelling met rechtspersoonlijkheid volgens Egyptisch recht, opgericht te Kairo door de Rijksuniversiteit te Leiden.
+##### Article 2
 
-##### Artikel 2
+The object of the Institute shall be to promote Egyptology, archaeology, papyrology and Hellenistic and Coptic studies as well as Arabic studies in the broadest sense.
 
-Het Instituut heeft ten doel de bevordering van de egyptologie, de archeologie, de papyrologie, de hellenistiek, en de koptologie alsmede de Arabische studiën in de ruimste zin.
+##### Article 3
 
-##### Artikel 3
+In order to achieve this aim the Institute:
 
-Ter verwerkelijking van deze doelstelling verricht het Instituut het volgende:
+- a) shall regularly issue publications on subjects related to the scientific studies referred to in Article 2;
 
-- a. het doet regelmatig publicaties betreffende de in artikel 2 vermelde wetenschapsgebieden verschijnen.
+- b) shall administer a library for the study of these scientific topics;
 
-- b. het beheert een bibliotheek ten behoeve van de studie dezer wetenschappen.
+- c) shall offer hospitality and where possible provide assistance to Netherlands citizens who are staying in the Arab Republic of Egypt for the purposes of study or research, or both, and may similarly offer hospitality and where possible provide assistance to persons other than those of Netherlands nationality who are staying in the Arab Republic of Egypt for the purposes of conducting scientific research on behalf of or in cooperation with Netherlands institutes for scientific research;
 
-- c. het biedt gastvrijheid en waar mogelijk assistentie aan Nederlanders, die voor studie en/of wetenschappelijk onderzoek in de Arabische Republiek Egypte verblijven. Eveneens kan het Instituut gastvrijheid en waar mogelijk assistentie bieden aan personen van andere dan de Nederlandse nationaliteit, die voor wetenschappelijk onderzoek, dat wordt verricht in opdracht van of in samenwerking met Nederlandse instellingenvan wetenschappelijk onderzoek, in de Arabische Republiek Egypte verblijven.
+- d) shall cooperate with Netherlands archaeological expeditions, the Institute's building acting as base;
 
-- d. het verleent medewerking aan Nederlandse archeologische expedities. Het gebouw van het Instituut kan deze tot basis dienen.
+- e) shall in general make its facilities available for the purposes of disseminating information on Netherlands science and culture.
 
-- e. het stelt in het algemeen zijn faciliteiten ten dienste van het bekendmaken van de Nederlandse wetenschap en cultuur.
+##### Article 4
 
-##### Artikel 4
+The general management of the Institute and the management of research conducted in it shall be the responsibility of a Board of Governors consisting of not more than nine members. The following persons shall be members of the Board:
 
-De algemene en wetenschappelijke leiding van het Instituut berust bij een bestuur, dat uit ten hoogste negen leden bestaat. In het bestuur hebben zitting:
+- a) a professor of Arabic from the University of Leiden;
 
-- a. een hoogleraar Arabisch van de Rijksuniversiteit te Leiden
+- b) another professor from the University of Leiden;
 
-- b. een andere hoogleraar van de Rijksuniversiteit te Leiden.
+- c) a representative of the National Museum of Antiquities in Leiden;
 
-- c. een vertegenwoordiger van het Rijksmuseum van Oudheden te Leiden
+- d) members of the research staff of Netherlands universities.
 
-- d. leden van het wetenschappelijk corps van Nederlandse universiteiten.
+##### Article 5
 
-##### Artikel 5
+The day-to-day management of the Institute shall be the responsibility of the Director of the Institute.
 
-De dagelijkse leiding van het Instituut berust bij de Directeur van het Instituut.
+##### Article 6
 
-##### Artikel 6
+The Government of the Arab Republic of Egypt shall grant the Director and the Netherlands staff of the Institute as well as members of their families all facilities related to their entry into and stay in Egyptian territory, in accordance with the legislation of the Arab Republic of Egypt, notably with respect to the provision of residence and work permits free of charge to the above-mentioned persons of Netherlands nationality.
 
-De Regering van de Arabische Republiek Egypte verleent aan de Directeur en het Nederlandse personeel van het Instituut en aan hun gezinsleden alle faciliteiten met betrekking tot de binnenkomst en het verblijf op haar grondgebied, overeenkomstig de wetgeving van de Arabische Republiek Egypte, met name wat betreft de kosteloze verschaffing van verblijfs- en werkvergunningen voor genoemde Nederlandse personen.
+##### Article 7
 
-##### Artikel 7
+The Government of the Arab Republic of Egypt shall exempt the Director and the Netherlands staff of the Institute and the members of their families from customs duties and other import taxes or duties on new or used household effects and personal belongings imported into Egypt within six months of their arrival, provided that such goods are re-exported from Egypt at the time of departure or within such period thereafter as may be acceptable to the Government of the Arab Republic of Egypt.
 
-De Regering van de Arabische Republiek Egypte verleent aan de Directeur en het Nederlandse personeel van het Instituut en aan hun gezinsleden vrijstelling van douanerechten en andere belastingen of heffingen met betrekking tot de invoer van nieuwe of gebruikte huishoudelijke artikelen en persoonlijke bezittingen, ingevoerd in Egypte binnen zes maanden na hun aankomst, mits zodanige goederen weer uit Egypte worden uitgevoerd bij vertrek of binnen een termijn die voor de Regering van de Arabische Republiek Egypte aanvaardbaar zal zijn.
+##### Article 8
 
-##### Artikel 8
+The Government of the Arab Republic of Egypt shall make provision for the duty-free importation or purchase from bond by the Institute of one motor-vehicle, provided that such vehicle, if sold to a person not likewise privileged, shall be subject to customs duties according to Egyptian law.
 
-De Regering van de Arabische Republiek Egypte regelt de invoer, vrij van rechten, of de aankoop uit entrepot, van één motorvoertuig door het Instituut, mits over dit voertuig, indien het wordt verkocht aan iemand die niet dezelfde voorrechten geniet, invoerrechten worden betaald volgens de Egyptische wet.
+The Government of the Arab Republic of Egypt shall make provision for the duty-free importation or purchase from bond by the Director or the Netherlands staff of the Institute of a motor-vehicle within six months of first arrival in Egypt, provided that such vehicle, if sold to a person not likewise privileged, shall be subject to customs duties according to Egyptian law.
 
-De Regering van de Arabische Republiek Egypte regelt de invoer, vrij van rechten, of de aankoop uit entrepot door de Directeur en andere Nederlandse personeelsleden van het Instituut van een motorvoertuig binnen zes maanden na eerste aankomst in Egypte, mits over dit voertuig, indien het wordt verkocht aan iemand die niet dezelfde voorrechten geniet, invoerrechten worden betaald volgens de Egyptische wet.
+##### Article 9
 
-##### Artikel 9
+The Institute shall enjoy the following fiscal privileges, which do not include the amounts payable for services rendered:
 
-Het Instituut geniet de volgende voordelen van fiscale aard, welke niet de vergoedingen omvatten die verschuldigd zijn als beloning voor verleende diensten:
+- a) exception from all taxes, charges and payments for acquisition, whether or not there is any valuable consideration, and use of land and buildings intended to serve as the seat of the Institute;
 
-- a. vrijstelling van alle belastingen, heffingen en vergoedingen voor de verwerving, onder bezwarende titel of om niet, en voor het gebruik van gronden en gebouwen bestemd om als zetel van het Instituut te dienen;
+- b) exemption from import duties and all other charges on the import of furniture, teaching and research material, and books and publications needed for the setting up and functioning of the institute.
 
-- b. vrijstelling van invoerrechten en van alle andere heffingen bij de invoer van meubilair, onderwijsmateriaal en materiaal voor wetenschappelijk onderzoek, van boeken en publicaties nodig voor de inrichting en het functioneren van het Instituut.
+##### Article 10
 
-##### Artikel 10
+The Egyptian authorities shall provide all administrative facilities required for the distribution outside Egypt of publications produced under the responsibility of the Institute.
 
-De Egyptische autoriteiten verlenen alle administratieve faciliteiten voor verspreiding buiten Egypte van publikaties die onder verantwoordelijkheid van het Instituut tot stand komen.
+##### Article 11
 
-##### Artikel 11
+This Agreement shall enter into force on the first day of the second month after the date on which both Governments have informed each other in writing that the procedures constitutionally required therefore in their respective countries have been complied with.
 
-Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand, volgend op de datum waarop de beide Regeringen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.
+##### Article 12
 
-##### Artikel 12
+With respect to the Kingdom of the Netherlands, this Agreement shall apply solely to the part of the Kingdom in Europe.
 
-Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst slechts voor het Rijk in Europa.
+##### Article 13
 
-##### Artikel 13
+This Agreement shall remain in force for an initial period of three years. If it has not been denounced three months before the date of its termination, it shall be tacitly renewed for periods of two years at a time.
 
-Deze Overeenkomst blijft van kracht voor een aanvangsperiode van drie jaar. Indien zij niet drie maanden voorafgaand aan de datum van beëindiging is opgezegd, wordt zij stilzwijgend verlengd voor achtereenvolgende tijdvakken van twee jaar.
-
-Elk van beide Regeringen heeft dan het recht de Overeenkomst te allen tijde op te zeggen; zij stelt de andere Regering drie maanden van tevoren hiervan in kennis.
+Each Government shall then have the right to denounce the Agreement at any time by giving three months' notice to the other Government.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized thereto by their respective Governments, have signed this Agreement.
 
 DONE in duplicate in the English language at Cairo on May 25, 1983.
 
-**For the Kingdom of the Netherlands:**
+*For the Kingdom of the Netherlands:*
 
 Mr. P. Buwalda
 
@@ -129,7 +105,7 @@ Ambassador Extraordinary and Plenipotentiary of Her Majesty the Queen of the Net
 
 (Sd.) P. BUWALDA
 
-**For the Arab Republic of Egypt:**
+*For the Arab Republic of Egypt:*
 
 Ambassador Aly Shawky El Hadidy
 

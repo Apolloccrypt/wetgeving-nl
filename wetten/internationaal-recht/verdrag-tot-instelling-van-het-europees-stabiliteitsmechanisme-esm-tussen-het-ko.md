@@ -1,69 +1,18 @@
 ---
 title: "Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM) tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland"
 identifier: "BWBV0005616"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-07-11"
-last_updated: "2011-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005616"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004764163"
-version_id: "10005055012"
-internal_id: "C10008384151"
-label_id: "10004748364"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005616/2011-07-11/0"
-intitule_bron: "Trb.2011-157"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-09-01"
-intitule_status: "nogniet"
-original_publication: "Trb.2011-157"
-original_published_date: "2011-09-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-157"
-jci_1_3: "jci1.3:c:BWBV0005616&z=2011-07-11&g=2011-07-11"
-jci_1_0: "1.0:c:BWBV0005616&g=2011-07-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-09-01"
+laatste_update: 2011-07-11
+status: geldig
+toestand: 2011-07-11
+bron: "https://wetten.overheid.nl/BWBV0005616"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM) tussen het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland
 
-De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”);
-
-vastbesloten de financiële stabiliteit van de eurozone te waarborgen;
-
-herinnerend aan de op 25 maart 2011 aangenomen conclusies van de Europese Raad betreffende de instelling van een Europees stabiliteitsmechanisme;
-
-overwegende hetgeen volgt:
-
-De Europese Raad is op 17 december 2010 overeengekomen dat de lidstaten van de eurozone een permanent stabiliteitsmechanisme moeten instellen. Dit Europees Stabiliteitsmechanisme zal de taken overnemen die momenteel door de Europese Faciliteit voor financiële stabiliteit („EFSF”) en het Europees financieel stabilisatiemechanisme („EFSM”) worden vervuld bij het verstrekken, indien nodig, van financiële bijstand aan lidstaten van de eurozone na juni 2013.
-
-Op 25 maart 2011 heeft de Europese Raad Besluit 2011/199/EU tot wijziging van [artikel 136 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=136) met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben1)PB L 91 van 6.4.2011, blz. 1.vastgesteld waarbij aan artikel 136 het volgende lid wordt toegevoegd: „De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn”.
-
-De strikte inachtneming van het kader van de Europese Unie, het geïntegreerde macro-economische toezicht, en met name het stabiliteits- en groeipact, het kader voor macro-economische onevenwichtigheden en de regels inzake de economische governance van de Europese Unie, moet de eerste verdedigingslinie blijven tegen vertrouwenscrises die de stabiliteit van de eurozone als geheel aantasten.
-
-Indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel te waarborgen, zal toegang tot financiële bijstand van het ESM worden verleend op basis van stringente economische beleidsvoorwaarden in het kader van een macro-economisch aanpassingsprogramma, en een rigoureuze analyse van de houdbaarheid van de overheidsschuld. Het aanvankelijke maximale leningvolume van het ESM na de volledige opheffing van de EFSF is vastgesteld op 500 000 miljoen EUR.
-
-Alle lidstaten van de eurozone worden ESM-leden. Wanneer een lidstaat van de Europese Unie toetreedt tot de eurozone, dient hij een ESM-lid te worden, met alle rechten en verplichtingen welke met die van de Verdragsluitende partijen overeenstemmen.
-
-Het ESM zal bij het verstrekken van financiële bijstand zeer nauw met het Internationaal Monetair Fonds („IMF”) samenwerken. Onder alle omstandigheden zal naar actieve deelname van het IMF worden gestreefd, zowel op technisch als op financieel niveau. Van een lidstaat van de eurozone die om financiële bijstand van het ESM verzoekt, wordt verwacht dat hij een soortgelijk verzoek tot het IMF richt.
-
-Lidstaten van de Europese Unie die niet de euro als munt hebben („lidstaten buiten de eurozone”) die, naast het ESM, op ad-hocbasis aan operaties voor financiële bijstand aan lidstaten van de eurozone deelnemen, zullen als waarnemers worden uitgenodigd op de ESM-vergaderingen waarop deze financiële bijstand en het monitoren ervan worden besproken. Zij krijgen tijdig inzage in alle informatie en worden op passende wijze geraadpleegd.
-
-Op 20 juni 2011 hebben de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie de Verdragsluitende partijen gemachtigd de Europese Commissie en de Europese Centrale Bank („ECB”) te verzoeken de in dit Verdrag vastgestelde taken te vervullen.
-
-In zijn verklaring van 28 november 2010 heeft de Eurogroep gesteld dat in de voorwaarden van alle nieuwe overheidsobligaties van de eurozone vanaf juli 2013 gestandaardiseerde en identieke collectieve-actieclausules („CAC's”) worden opgenomen, zodat de marktliquiditeit gevrijwaard blijft. Bovendien staat in de Nota inzake voorwaarden betreffende het ESM, zoals deze op 25 maart 2011 door de Europese Raad is onderschreven, dat de nadere wettelijke regelingen voor het opnemen van CAC's in overheidsobligaties van de eurozone eind 2011 hun definitieve vorm moeten hebben gekregen.
-
-Net als het IMF zal het ESM financiële bijstand verlenen aan ESM-lidstaten waarvoor reguliere toegang tot marktfinanciering verstoord is. De staatshoofden dan wel regeringsleiders hebben derhalve verklaard dat het ESM, naar analogie van het IMF, de status van bevoorrechte crediteur zal genieten, met dien verstande dat het IMF als bevoorrechte crediteur een hogere status heeft dan het ESM. Deze status wordt van toepassing vanaf 1 juli 2013. In het onwaarschijnlijke geval dat financiële bijstand door het ESM volgt op een op het tijdstip van de ondertekening van dit Verdrag bestaand Europees programma voor het verlenen van financiële bijstand, zal het ESM dezelfde anciënniteit genieten als alle andere leningen en verplichtingen van het ESM-lid dat bijstand ontvangt, met uitzondering van de IMF-leningen.
-
-De lidstaten van de eurozone steunen gelijkwaardigheid in crediteurenstatus voor het ESM en andere lidstaten van de Europese Unie die, naast het ESM, leningen verstrekken op bilateraal niveau.
-
-Geschillen tussen de Verdragsluitende partijen onderling of tussen de Verdragsluitende partijen en het ESM in verband met de uitlegging en de toepassing van dit Verdrag, dienen overeenkomstig [artikel 273 van het Verdragbetreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273) („VWEU”) aan de rechtsmacht van het Hof van Justitie van de Europese Unie te worden onderworpen.
-
-Het post-programmatoezicht zal worden uitgeoefend door de Europese Commissie en de Raad van de Europese Unie binnen het kader dat in de [artikelen 121](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=121) en [136 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=136) is vastgelegd,
-
-zijn overeengekomen hetgeen volgt:
+*De verdragsluitende partijen, het Koninkrijk België, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, het Groothertogdom Luxemburg, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland (de „lidstaten van de eurozone” of „ESM-leden”); vastbesloten de financiële stabiliteit van de eurozone te waarborgen; herinnerend aan de op 25 maart 2011 aangenomen conclusies van de Europese Raad betreffende de instelling van een Europees stabiliteitsmechanisme; overwegende hetgeen volgt: 1. De Europese Raad is op 17 december 2010 overeengekomen dat de lidstaten van de eurozone een permanent stabiliteitsmechanisme moeten instellen. Dit Europees Stabiliteitsmechanisme zal de taken overnemen die momenteel door de Europese Faciliteit voor financiële stabiliteit („EFSF”) en het Europees financieel stabilisatiemechanisme („EFSM”) worden vervuld bij het verstrekken, indien nodig, van financiële bijstand aan lidstaten van de eurozone na juni 2013. 2. Op 25 maart 2011 heeft de Europese Raad Besluit 2011/199/EU tot wijziging van artikel 136 van het Verdrag betreffende de werking van de Europese Unie met betrekking tot een stabiliteitsmechanisme voor de lidstaten die de euro als munt hebben1)PB L 91 van 6.4.2011, blz. 1.vastgesteld waarbij aan artikel 136 het volgende lid wordt toegevoegd: „De lidstaten die de euro als munt hebben kunnen een stabiliteitsmechanisme instellen dat geactiveerd wordt indien dat onontbeerlijk is om de stabiliteit van de eurozone in haar geheel te waarborgen. De verlening van financiële steun, indien vereist, uit hoofde van het mechanisme zal aan stringente voorwaarden gebonden zijn”. 3. De strikte inachtneming van het kader van de Europese Unie, het geïntegreerde macro-economische toezicht, en met name het stabiliteits- en groeipact, het kader voor macro-economische onevenwichtigheden en de regels inzake de economische governance van de Europese Unie, moet de eerste verdedigingslinie blijven tegen vertrouwenscrises die de stabiliteit van de eurozone als geheel aantasten. 4. Indien zulks onontbeerlijk is om de financiële stabiliteit van de eurozone als geheel te waarborgen, zal toegang tot financiële bijstand van het ESM worden verleend op basis van stringente economische beleidsvoorwaarden in het kader van een macro-economisch aanpassingsprogramma, en een rigoureuze analyse van de houdbaarheid van de overheidsschuld. Het aanvankelijke maximale leningvolume van het ESM na de volledige opheffing van de EFSF is vastgesteld op 500 000 miljoen EUR. 5. Alle lidstaten van de eurozone worden ESM-leden. Wanneer een lidstaat van de Europese Unie toetreedt tot de eurozone, dient hij een ESM-lid te worden, met alle rechten en verplichtingen welke met die van de Verdragsluitende partijen overeenstemmen. 6. Het ESM zal bij het verstrekken van financiële bijstand zeer nauw met het Internationaal Monetair Fonds („IMF”) samenwerken. Onder alle omstandigheden zal naar actieve deelname van het IMF worden gestreefd, zowel op technisch als op financieel niveau. Van een lidstaat van de eurozone die om financiële bijstand van het ESM verzoekt, wordt verwacht dat hij een soortgelijk verzoek tot het IMF richt. 7. Lidstaten van de Europese Unie die niet de euro als munt hebben („lidstaten buiten de eurozone”) die, naast het ESM, op ad-hocbasis aan operaties voor financiële bijstand aan lidstaten van de eurozone deelnemen, zullen als waarnemers worden uitgenodigd op de ESM-vergaderingen waarop deze financiële bijstand en het monitoren ervan worden besproken. Zij krijgen tijdig inzage in alle informatie en worden op passende wijze geraadpleegd. 8. Op 20 juni 2011 hebben de vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie de Verdragsluitende partijen gemachtigd de Europese Commissie en de Europese Centrale Bank („ECB”) te verzoeken de in dit Verdrag vastgestelde taken te vervullen. 9. In zijn verklaring van 28 november 2010 heeft de Eurogroep gesteld dat in de voorwaarden van alle nieuwe overheidsobligaties van de eurozone vanaf juli 2013 gestandaardiseerde en identieke collectieve-actieclausules („CAC's”) worden opgenomen, zodat de marktliquiditeit gevrijwaard blijft. Bovendien staat in de Nota inzake voorwaarden betreffende het ESM, zoals deze op 25 maart 2011 door de Europese Raad is onderschreven, dat de nadere wettelijke regelingen voor het opnemen van CAC's in overheidsobligaties van de eurozone eind 2011 hun definitieve vorm moeten hebben gekregen. 10. Net als het IMF zal het ESM financiële bijstand verlenen aan ESM-lidstaten waarvoor reguliere toegang tot marktfinanciering verstoord is. De staatshoofden dan wel regeringsleiders hebben derhalve verklaard dat het ESM, naar analogie van het IMF, de status van bevoorrechte crediteur zal genieten, met dien verstande dat het IMF als bevoorrechte crediteur een hogere status heeft dan het ESM. Deze status wordt van toepassing vanaf 1 juli 2013. In het onwaarschijnlijke geval dat financiële bijstand door het ESM volgt op een op het tijdstip van de ondertekening van dit Verdrag bestaand Europees programma voor het verlenen van financiële bijstand, zal het ESM dezelfde anciënniteit genieten als alle andere leningen en verplichtingen van het ESM-lid dat bijstand ontvangt, met uitzondering van de IMF-leningen. 11. De lidstaten van de eurozone steunen gelijkwaardigheid in crediteurenstatus voor het ESM en andere lidstaten van de Europese Unie die, naast het ESM, leningen verstrekken op bilateraal niveau. 12. Geschillen tussen de Verdragsluitende partijen onderling of tussen de Verdragsluitende partijen en het ESM in verband met de uitlegging en de toepassing van dit Verdrag, dienen overeenkomstig artikel 273 van het Verdragbetreffende de werking van de Europese Unie („VWEU”) aan de rechtsmacht van het Hof van Justitie van de Europese Unie te worden onderworpen. 13. Het post-programmatoezicht zal worden uitgeoefend door de Europese Commissie en de Raad van de Europese Unie binnen het kader dat in de artikelen 121 en 136 VWEU is vastgelegd, zijn overeengekomen hetgeen volgt:*
 
 ### HOOFDSTUK 1. LIDMAATSCHAP EN DOEL
 
@@ -107,7 +56,7 @@ Het doel van het ESM is het vrijmaken van middelen en het verstrekken van financ
 
 1. Elk ESM-lid benoemt een gouverneur en een plaatsvervangend gouverneur. Deze benoemingen zijn te allen tijde herroepbaar. De gouverneur is een lid van de regering van dit ESM-lid en draagt verantwoordelijkheid voor financiën. De plaatsvervangend gouverneur is volledig bevoegd om namens de gouverneur op te treden wanneer deze niet aanwezig is.
 
-2. De Raad van gouverneurs besluit ofwel te worden voorgezeten door de voorzitter van de Eurogroep, als bedoeld in [Protocol (nr. 14) betreffende de Eurogroep](onbekend) dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en aan het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht, ofwel om uit zijn leden een voorzitter en een vicevoorzitter te kiezen voor een periode van twee jaar. De voorzitter en de vicevoorzitter kunnen worden herverkozen. Er wordt onverwijld een nieuwe verkiezing georganiseerd indien de zittende voorzitter of vicevoorzitter niet langer de vereiste functie bekleedt om als gouverneur te worden aangewezen.
+2. De Raad van gouverneurs besluit ofwel te worden voorgezeten door de voorzitter van de Eurogroep, als bedoeld in [Protocol (nr. 14) betreffende de Eurogroep](https://wetten.overheid.nl/BWBV0001507) dat aan het [Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en aan het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) is gehecht, ofwel om uit zijn leden een voorzitter en een vicevoorzitter te kiezen voor een periode van twee jaar. De voorzitter en de vicevoorzitter kunnen worden herverkozen. Er wordt onverwijld een nieuwe verkiezing georganiseerd indien de zittende voorzitter of vicevoorzitter niet langer de vereiste functie bekleedt om als gouverneur te worden aangewezen.
 
 3. Het lid van de Europese Commissie belast met economische en monetaire zaken en de president van de ECB, alsook de voorzitter van de Eurogroep, (indien hij niet de voorzitter van de Raad van gouverneurs of een gouverneur is) mogen aan de vergaderingen van de Raad van gouverneurs deelnemen als waarnemers.
 

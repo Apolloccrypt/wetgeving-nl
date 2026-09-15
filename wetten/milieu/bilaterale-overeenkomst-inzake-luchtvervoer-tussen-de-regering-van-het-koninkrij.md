@@ -1,38 +1,19 @@
 ---
 title: "Bilaterale Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru"
 identifier: "BWBV0005609"
-country: "nl"
-rank: "verdrag"
-publication_date: "1968-04-19"
-last_updated: "1968-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005609"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004759753"
-version_id: "10005036512"
-internal_id: "C10008343481"
-label_id: "10004743684"
-dtd_version: "2.0"
-original_entry_into_force: "1956-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005609/1968-04-19/0"
-intitule_bron: "Trb.1953-60"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1953-07-21"
-intitule_in_force: "1956-07-11"
-intitule_status: "goed"
-original_publication: "Trb.1953-60"
-original_published_date: "1953-07-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1953-60"
-entry_into_force_date: "1956-06-01"
-jci_1_3: "jci1.3:c:BWBV0005609&z=1968-04-19&g=1968-04-19"
-jci_1_0: "1.0:c:BWBV0005609&g=1968-04-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1956-06-01"
+publicatiedatum: 1956-06-01
+laatste_update: 1968-04-19
+status: geldig
+toestand: 1968-04-19
+bron: "https://wetten.overheid.nl/BWBV0005609"
+opgehaald: 2026-09-15
 ---
+
 # Bilaterale Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru, bezield door de wens het burgerlijke en commerciële luchtvervoer tussen haar onderscheiden grondgebieden te bevorderen, en gelet op de aanbeveling, uitgesproken door de Internationale Burgerlijke Luchtvaart Conferentie, in vergadering bijeen te Chicago van 1 November tot 7 December 1944, welke aanbeveling is vervat in resolutie VIII van 7 December 1944 en welke aanbeveelt om de grootst mogelijke eenvormigheid te verkrijgen tussen de Overeenkomsten inzake de luchtdiensten, welke de Staten overkomen, hebben besloten de volgende bilaterale Overeenkomst inzake luchtvervoer te sluiten, welke de geregelde luchtdiensten omvat, welke in het hiernavolgende zijn omschreven, en welke door de volgende bepalingen zal worden beheerst:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru, bezield door de wens het burgerlijke en commerciële luchtvervoer tussen haar onderscheiden grondgebieden te bevorderen, en gelet op de aanbeveling, uitgesproken door de Internationale Burgerlijke Luchtvaart Conferentie, in vergadering bijeen te Chicago van 1 November tot 7 December 1944, welke aanbeveling is vervat in resolutie VIII van 7 December 1944 en welke aanbeveelt om de grootst mogelijke eenvormigheid te verkrijgen tussen de Overeenkomsten inzake de luchtdiensten, welke de Staten overkomen, hebben besloten de volgende bilaterale Overeenkomst inzake luchtvervoer te sluiten, welke de geregelde luchtdiensten omvat, welke in het hiernavolgende zijn omschreven, en welke door de volgende bepalingen zal worden beheerst:*
 
 ##### Artikel I. Definities
 
@@ -44,7 +25,7 @@ Met betrekking tot deze Overeenkomst zullen de uitdrukkingen, welke hieronder wo
 
 - c. De uitdrukking „grondgebied” zal de betekenis hebben, welke daar aan gegeven wordt in Artikel 2 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart, getekend te Chicago op 7 December 1944.
 
-- d. De definities vervat in de leden **a, b** en **d** van Artikel 96 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart op 7 December 1944 te Chicago gesloten, zullen op deze Overeenkomst van toepassing zijn.
+- d. De definities vervat in de leden *a, b* en *d* van Artikel 96 van het Verdrag inzake de Internationale Burgerlijke Luchtvaart op 7 December 1944 te Chicago gesloten, zullen op deze Overeenkomst van toepassing zijn.
 
 - e. De uitdrukking „verkeersbehoeften” zal betekenen de vraag naar vervoer van passagiers, vracht en/of post tussen punten op de route of routes, verleend aan elke Overeenkomstsluitende Partij.
 
@@ -119,46 +100,6 @@ Elk van de Overeenkomstsluitende Partijen zal te allen tijde, wanneer zij deze O
 ##### Artikel XII
 
 Deze Overeenkomst zal voorlopig in werking treden zodra zij zal zijn ondertekend en definitief van kracht worden wanneer zij zal zijn goedgekeurd en bekrachtigd overeenkomstig de binnenlandse wetgeving van elk van beide Overeenkomstsluitende Partijen.1)Bij nadere notawisseling tussen de Nederlandse en de Peruaanse Regering is overeengekomen, dat, waar deze Overeenkomst krachtens de Nederlandse binnenlandse wetgeving geen goedkeuring en bekrachtiging behoeft, de definitieve inwerkingtreding geacht wordt afhankelijk te zijn van een latere notawisseling nadat zal zijn voldaan aan de voorschriften van de Peruaanse binnenlandse wetgeving.
-
-##### 1
-
-De Regering van de Republiek Peru verleent aan de Regering van het Koninkrijk der Nederlanden het recht een luchtvervoersdienst in en over haar grondgebied in te stellen door middel van een luchtvaartmaatschappij van Nederlandse nationaliteit, welke door de Regering van het Koninkrijk der Nederlanden zal worden aangewezen, volgens de routes, omschreven in Tabel I.
-
-##### 2
-
-De Regering van het Koninkrijk der Nederlanden verleent aan de Regering van de Republiek Peru het recht een luchtvervoersdienst in en over haar grondgbied in te stellen door middel van een luchtvaartmaatschappij van Peruviaanse nationaliteit, welke door de Regering van de Republiek Peru zal worden aangewezen, volgend de routes, omschreven in Tabel II.
-
-##### 3
-
-De luchtvaartmaatschappij, aangewezen door een Overeenkomstsluitende Partij, overeenkomstig de bepalingen, vervat in de Overeenkomst, zal op het grondgebied van de andere Overeenkomstsluitende Partij het recht genieten om over te vliegen, om technische landigen te verrichten en om passagiers, post en vracht in internationaal verkeer op te nemen en af te zetten op elk van de routes, aangegeven in de onderscheidene Tabellen, uitgezonderd het recht tot cabotage of commercieel binnenlands verkeer.
-
-##### 4
-
-Bij de exploitatie door de aangewezen luchtvaartmaatschappijen, zal op de gemeenschappelijke gedeelten van de in deze Bijlage omschreven routes rekening gehouden worden met de belangen van de luchtvaartmaatschappij van d andere Overeenkomstsluitende Partij, teneinde hun wederzijdse diensten niet onredelijk te beïnvloeden en hun wederzijdse belangen te beschermen.
-
-##### 5
-
-De luchtvervoersdiensten, welke de luchtvaartmaatschappijen van beide landen onderhouden, moeten nauw verband houden met de behoeften van het publiek aan en de vraag naar die diensten.
-
-##### 6
-
-De luchtvaartmaatschappijen, overeenkomstig de Overeenkomst en de Bijlage aangewezen, zullen er naar streven, dat het eerste doel van hun diensten zal zijn het verschaffen van een capaciteit, voldoende voor de verkeersbehoefte tussen het grondgebied van het land, waartoe de luchtvaartmaatschappij behoort en het grondgebied van het land, waarvoor het verkeer is bestemd.
-
-##### 7
-
-Het recht van een door een van beide landen aangewezen luchtvaartmaatschappij om op punten van het grondgebied van het andere land passagiers, vracht en post van internationale aard, bestemd voor derde landen of daarvan afkomstig, op te nemen of af te zetten op een of meerdere punten van de in de aangehechte Routetabellen vermelde punten, zal worden uitgeoefend overeenkomstig de algemene beginselen van luchtverkeer, welke beide Regeringen erkennen, toegepast op een voortuitstrevende wijze en zal onderworpen zijn aan het algemene beginsel, dat de luchtvaartmaatschappijen ernaar moeten streven, dat hun capaciteit verband houdt met:
-
-- 1. de verkeersbehoeften tussen het land van oorsprong en de landen van bestemming;
-
-- 2. de eisen, welke de exploitatie van doorgaande luchtlijnen stelt;
-
-- 3. de verkeersbehoeften van het gebied, waarover de luchtlijn voert, nadat rekening gehouden is met locale en regionale diensten.
-
-##### 8
-
-De te heffen tarieven op elk van de overeengekomen diensten zullen op redelijke hoogten worden vastgesteld, waarbij rekening gehouden zal worden met terzake dienende factoren, zoals economische exploitatie, redelijke winst, verschillen in de hoedanigheden van de dienst en met de tarieven, welke door andere luchtvaartmaatschappijen op enig deel van de route worden berekend. Deze tarieven zullen overeenkomstig de volgende bepalingen worden vastgesteld. De tarieven zullen, indien mogelijk, voor iedere route worden overeengekomen door de aangewezen luchtvaartmaatschappijen. Een zodanige overeenkomst zal gebaseerd zijn op het tarievensysteem van de Internationale Luchtvervoer Vereniging. Van de aldus overeengekomen tarieven moet kennis gegeven worden aan de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen. Wanneer de luchtvaartmaatschappijen geen overeenstemming omtrent de tarieven kunnen bereiken of indien de luchtvaartautoriteiten van een der Overeenkomstsluitende Partijen daartegen bezwaar hebben, zullen de luchtvaartautoriteiten van de Republiek Peru en van het Koninkrijk der Nederlanden trachten deze in onderlinge overeenstemming vast te stellen.
-
-Indien de Overeenkomstsluitende Partijen niet tot overeenstemming komen, zal de aangelegenheid, overeenkomstig het bepaalde in Artikel X van deze Overeenkomst, aan een scheidsrechterlijke uitspraak worden onderworpen.
 
 Ten blijke waarvan de ondergetekende Gevolmachtigden, behoorlijk gemachtigd door hun onderscheiden Regeringen, deze Overeenkomst hebben ondertekend en van hun zegel voorzien.
 

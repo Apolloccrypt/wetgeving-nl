@@ -1,58 +1,19 @@
 ---
 title: "Nederlandsch-Duitsch Arbitrage- en Verzoeningsverdrag"
 identifier: "BWBV0005912"
-country: "nl"
-rank: "verdrag"
-publication_date: "1952-01-31"
-last_updated: "1952-01-31"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005912"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004948123"
-version_id: "10005265102"
-internal_id: "C10008111761"
-label_id: "10004931564"
-dtd_version: "2.0"
-original_entry_into_force: "1927-08-14"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005912/1952-01-31/0"
-intitule_bron: "Stb.1927-279"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1927-07-27"
-intitule_published: "1927-08-24"
-intitule_in_force: "1927-08-24"
-intitule_status: "goed"
-original_publication: "Stb.1927-279"
-original_signed_date: "1927-07-27"
-original_published_date: "1927-08-24"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1927-08-14"
-jci_1_3: "jci1.3:c:BWBV0005912&z=1952-01-31&g=1952-01-31"
-jci_1_0: "1.0:c:BWBV0005912&g=1952-01-31"
-citeertitel_status: "redactioneel"
-signed_date: "1927-07-27"
-entry_into_force: "1927-08-14"
+publicatiedatum: 1927-08-14
+laatste_update: 1952-01-31
+status: geldig
+toestand: 1952-01-31
+bron: "https://wetten.overheid.nl/BWBV0005912"
+opgehaald: 2026-09-15
 ---
+
 # Nederlandsch-Duitsch Arbitrage- en Verzoeningsverdrag
 
-HET KONINKRIJK DER NEDERLANDEN
-
-EN
-
-HET DUITSCHE RIJK,
-
-vervuld van den wensch, de ontwikkeling van de procedure van vreedzame beslechting van internationale geschillen te bevorderen, zijn overeengekomen een algemeen Arbitrage- en Verzoeningsverdrag te sluiten.
-
-Te dien einde hebben tot gevolmachtigden benoemd:
-
-HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN:
-
-Zijne Excellentie Jonkheer **H. A. van Karnebeek**, Hoogstderzelver Minister van Buitenlandsche Zaken;
-
-DE DUITSCHE RIJKSPRESIDENT:
-
-Freiherr **H. Lucius von Stoedten**, Buitengewoon Gezant en Gevolmachtigd Minister van het Duitsche Rijk te 's-Gravenhage,
-
-die, nadat zij hunne volmachten onderzocht en in goeden en behoorlijken vorm hebben bevonden, omtrent de volgende bepalingen zijn overeengekomen:
+*HET KONINKRIJK DER NEDERLANDEN EN HET DUITSCHE RIJK, vervuld van den wensch, de ontwikkeling van de procedure van vreedzame beslechting van internationale geschillen te bevorderen, zijn overeengekomen een algemeen Arbitrage- en Verzoeningsverdrag te sluiten. Te dien einde hebben tot gevolmachtigden benoemd: HARE MAJESTEIT DE KONINGIN DER NEDERLANDEN: Zijne Excellentie Jonkheer H. A. van Karnebeek, Hoogstderzelver Minister van Buitenlandsche Zaken; DE DUITSCHE RIJKSPRESIDENT: Freiherr H. Lucius von Stoedten, Buitengewoon Gezant en Gevolmachtigd Minister van het Duitsche Rijk te 's-Gravenhage, die, nadat zij hunne volmachten onderzocht en in goeden en behoorlijken vorm hebben bevonden, omtrent de volgende bepalingen zijn overeengekomen:*
 
 ##### Artikel 1
 

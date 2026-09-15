@@ -1,62 +1,19 @@
 ---
 title: "Verdrag tussen Nederland en België inzake de uitoefening der veeartsenijkunst in de grensgemeenten"
 identifier: "BWBV0005761"
-country: "nl"
-rank: "verdrag"
-publication_date: "1949-09-20"
-last_updated: "1949-09-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005761"
+categorie: "Bestuursrecht"
 soort: "verdrag"
-stam_id: "10004859083"
-version_id: "10005163872"
-internal_id: "C10007843451"
-label_id: "10004842704"
-dtd_version: "2.0"
-original_entry_into_force: "1949-09-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005761/1949-09-20/0"
-intitule_bron: "Stb.1949-J 438"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-09-20"
-intitule_published: "1949-10-14"
-intitule_in_force: "1949-10-14"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 438"
-original_signed_date: "1949-09-20"
-original_published_date: "1949-10-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1949-09-20"
-jci_1_3: "jci1.3:c:BWBV0005761&z=1949-09-20&g=1949-09-20"
-jci_1_0: "1.0:c:BWBV0005761&g=1949-09-20"
-citeertitel_status: "redactioneel"
-signed_date: "1949-09-20"
-entry_into_force: "1949-09-20"
+publicatiedatum: 1949-09-20
+laatste_update: 1949-09-20
+status: geldig
+toestand: 1949-09-20
+bron: "https://wetten.overheid.nl/BWBV0005761"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen Nederland en België inzake de uitoefening der veeartsenijkunst in de grensgemeenten
 
-Hare Majesteit de Koningin
-
-der Nederlanden
-
-en
-
-Zijne Koninklijke Hoogheid
-
-de Prins-Regent van België,
-
-het wenschelijk geoordeeld hebbende de op 5 Maart 1884 te 's-Gravenhage tusschen**Nederland** en **België** gesloten Verklaring inzake de uitoefening der veeartsenijkunst in de wederzijdsche grensgemeenten te herzien, hebben tot Hunne gevolmachtigden benoemd:
-
-Hare Majesteit de Koningin
-
-der Nederlanden:
-
-Z.E. den Heer Baron Binnert Philip van Harinxma thoe Slooten, Buitengewoon en Gevolmachtigd Ambassadeur,
-
-Zijne Koninklijke Hoogheid
-
-de Prins-Regent van België:
-
-den Heer Paul-Henri Spaak, Eerste Minister, Minister van Buitenlandsche Zaken, die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, nopens de navolgende artikelen zijn overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden en Zijne Koninklijke Hoogheid de Prins-Regent van België, het wenschelijk geoordeeld hebbende de op 5 Maart 1884 te 's-Gravenhage tusschenNederland en België gesloten Verklaring inzake de uitoefening der veeartsenijkunst in de wederzijdsche grensgemeenten te herzien, hebben tot Hunne gevolmachtigden benoemd: Hare Majesteit de Koningin der Nederlanden: Z.E. den Heer Baron Binnert Philip van Harinxma thoe Slooten, Buitengewoon en Gevolmachtigd Ambassadeur, Zijne Koninklijke Hoogheid de Prins-Regent van België: den Heer Paul-Henri Spaak, Eerste Minister, Minister van Buitenlandsche Zaken, die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te hebben medegedeeld, nopens de navolgende artikelen zijn overeengekomen:*
 
 ##### Artikel 1
 

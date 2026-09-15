@@ -1,138 +1,101 @@
 ---
 title: "Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)"
 identifier: "BWBV0005620"
-country: "nl"
-rank: "verdrag"
-publication_date: "2006-07-01"
-last_updated: "2006-07-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005620"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004776203"
-version_id: "10005070102"
-internal_id: "C10007692411"
-label_id: "10004763264"
-dtd_version: "2.0"
-original_entry_into_force: "2006-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005620/2006-07-01/0"
-intitule_bron: "Trb.2000-70"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2000-07-28"
-intitule_in_force: "2006-08-11"
-intitule_status: "goed"
-original_publication: "Trb.2000-70"
-original_published_date: "2000-07-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2000-70"
-entry_into_force_date: "2006-07-01"
-jci_1_3: "jci1.3:c:BWBV0005620&z=2006-07-01&g=2006-07-01"
-jci_1_0: "1.0:c:BWBV0005620&g=2006-07-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2006-07-01"
+publicatiedatum: 2006-07-01
+laatste_update: 2006-07-01
+status: geldig
+toestand: 2006-07-01
+bron: "https://wetten.overheid.nl/BWBV0005620"
+opgehaald: 2026-09-15
 ---
+
 # Protocol van 3 juni 1999 houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980 (Protocol 1999)
 
-Met toepassing van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6) en [19, § 2 van het Verdrag betreffende het internationale spoorwegvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19), ondertekend te Bern op 9 mei 1980, hierna te noemen „COTIF 1980”, heeft van 26 mei tot en met 3 juni 1999 te Vilnius de vijfde Algemene Vergadering van de Intergouvernementele organisatie voor het internationale spoorwegvervoer (OTIF) plaatsgevonden.
+*En application des articles 6 et 19, § 2 de la Convention relative aux transports internationaux ferroviaires, signée à Berne, le 9 mai 1980, ci-après appelée « COTIF 1980», la cinquième Assemblée générale de l'Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF) s'est tenue à Vilnius du 26 mai au 3 juin 1999. – Convaincue de la nécessité et de l'utilité d'une organisation intergouvernementale qui traite dans la mesure du possible de tous les aspects du transport international ferroviaire à l'échelon des Etats, – considérant qu'à cet effet et compte tenu de l'application de la COTIF 1980 par 39 Etats en Europe, en Asie et en Afrique ainsi que par les entreprises ferroviaires dans ces Etats, l'OTIF est l'Organisation la plus appropriée, – considérant la nécessité de développer la COTIF 1980, notamment les Règles uniformes CIV et les Règles uniformes CIM, pour l'adapter aux besoins nouveaux des transports internationaux ferroviaires, – considérant que la sécurité lors du transport de marchandises dangereuses en trafic international ferroviaire nécessite de transformer le RID en un régime de droit public, dont l'application ne dépend plus de la conclusion d'un contrat de transport soumis aux Règles uniformes CIM, – considérant que, depuis la signature de la Convention, le 9 mai 1980, les changements politiques, économiques et juridiques intervenus dans un grand nombre des Etats membres impliquent d'établir et de développer des prescriptions uniformes couvrant d'autres domaines de droit qui sont importants pour le trafic international ferroviaire, – considérant que les Etats devraient prendre, en tenant compte d'intérêts publics particuliers, des mesures plus efficaces pour éliminer les obstacles qui persistent lors du franchissement des frontières en trafic international ferroviaire, – considérant que dans l'intérêt des transports internationaux ferroviaires, il importe d'actualiser les conventions et les accords internationaux multilatéraux existants dans le domaine ferroviaire et, le cas échéant, de les intégrer dans la Convention, l'Assemblée générale a décidé ce qui suit:*
 
-Overtuigd van de noodzaak en het nut van een intergouvernementele organisatie die zich voorzover mogelijk met alle aspecten van het internationale spoorwegvervoer op het niveau van de Staten bezighoudt,
+##### Article premier. Nouvelle teneur de la Convention
 
-overwegende dat met het oog daarop en rekening houdende met de toepassing van de [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) door 39 staten in Europa, Azië en Afrika, alsook door de spoorwegondernemingen in deze Staten, de OTIF hiervoor de meest aangewezen organisatie is,
+La [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) est modifiée selon la teneur figurant en annexe qui fait partie intégrante du présent Protocole.
 
-gelet op de noodzaak de [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155), met name de [Uniforme Regelen CIV](onbekend) en de [Uniforme Regelen CIM](onbekend), aan te passen aan de nieuwe behoeften van het internationale spoorwegvervoer,
+##### Article 2. Dépositaire provisoire
 
-overwegende dat de veiligheid bij het vervoer van gevaarlijke goederen in het internationale spoorwegvervoer vereist het RID om te zetten in een publiekrechtelijk stelsel, waarvan de toepassing niet meer afhankelijk is van het sluiten van een vervoerovereenkomst, onderworpen aan de [Uniforme Regelen CIM](onbekend),
+§ 1. Les fonctions du Gouvernement dépositaire, prévues aux [articles 22 à 26 de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=22), sont assumées par l'OTIF, comme Dépositaire provisoire, dès l'ouverture à la signature du présent Protocole et jusqu'à la date de son entrée en vigueur.
 
-overwegende dat sinds de ondertekening van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) op 9 mei 1980 de politieke, economische en juridische veranderingen die in een groot aantal Lidstaten hebben plaatsgevonden, nopen tot het opstellen en ontwikkelen van uniforme voorschriften die zich uitstrekken tot andere rechtsgebieden die voor het internationale spoorwegverkeer van belang zijn,
+§ 2. Le Dépositaire provisoire avise les Etats membres:
 
-overwegende dat de Staten, door rekening te houden met bijzondere openbare belangen, meer doeltreffende maatregelen zouden moeten nemen voor het wegnemen van de belemmeringen die thans nog bestaan bij de grensoverschrijding in het internationale spoorwegverkeer,
+- a) des signatures du présent Protocole, et du dépôt des instruments de ratification, d'acceptation, d'approbation ou d'adhésion,
 
-overwegende dat in het belang van het internationale spoorwegvervoer het belangrijk is de op spoorweggebied bestaande multilaterale internationale verdragen en overeenkomsten te moderniseren en deze, in voorkomend geval, in het Verdrag op te nemen,
+- b) de la date à laquelle le présent Protocole entre en vigueur en application de son [article 4](https://wetten.overheid.nl/BWBV0005620),
 
-heeft de Algemene Vergadering het volgende besloten:
+et assume les autres fonctions de Dépositaire telles qu'elles sont énoncées dans la [Partie VII de la Convention de Vienne du 23 mai 1969 sur le droit des traités](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
-##### Artikel 1. Nieuwe versie van het Verdrag
+##### Article 3. Signature. Ratification. Acceptation. Approbation. Adhésion
 
-De [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) wordt gewijzigd volgens de in de bijlage opgenomen versie, die een integrerend deel vormt van dit Protocol.
+§ 1. Le présent Protocole demeure ouvert à la signature des Etats membres jusqu'au 31 décembre 1999. Cette signature s'effectue à Berne, auprès du Dépositaire provisoire.
 
-##### Artikel 2. Voorlopige depositaris
+§ 2. Conformément à [l'article 20, § 1 de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20), le présent Protocole est soumis à ratification, acceptation ou approbation. Les instruments de ratification, d'acceptation ou d'approbation sont déposés le plus tôt possible auprès du Dépositaire provisoire.
 
-§ 1. De in de [artikelen 22 tot en met 26 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=22) genoemde taken van de depositaris worden, vanaf de openstelling ter ondertekening van dit Protocol tot aan de datum van inwerkingtreding hiervan, door de OTIF als voorlopige depositaris vervuld.
+§ 3. Les Etats membres qui n'ont pas signé le présent Protocole dans le délai prévu au § 1, ainsi que les Etats dont la demande d'adhésion à la [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) a été admise de plein droit conformément à son [article 23, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=23), peuvent, avant l'entrée en vigueur du présent Protocole, y adhérer en déposant un instrument d'adhésion auprès du Dépositaire provisoire.
 
-§ 2. De voorlopige depositaris geeft de Lidstaten kennis:
+§ 4. L'adhésion d'un Etat à la [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) conformément à son [article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=23), dont la demande a été faite après l'ouverture à la signature du présent Protocole mais avant son entrée en vigueur, vaut tant pour la COTIF 1980 que pour la Convention dans la teneur de l'Annexe au présent Protocole.
 
-- a. van de ondertekeningen van dit Protocol en van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding,
+##### Article 4. Entrée en vigueur
 
-- b. van de datum waarop dit Protocol ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=4&z=2006-07-01&g=2006-07-01) in werking treedt,
+§ 1. Le présent Protocole entre en vigueur le premier jour du troisième mois suivant celui au cours duquel le Dépositaire provisoire aura notifié aux Etats membres le dépôt de l'instrument par lequel sont remplies les conditions de [l'article 20, § 2 de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20). Sont considérés comme Etats membres au sens de cet article 20, § 2 les Etats, qui, au moment de la décision de la cinquième Assemblée générale, étaient des Etats membres et qui l'étaient encore au moment où les conditions pour l'entrée en vigueur du présent Protocole sont satisfaites.
 
-en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
+§ 2. Toutefois, [l'article 3](https://wetten.overheid.nl/BWBV0005620) s'applique dès l'ouverture à la signature du présent Protocole.
 
-##### Artikel 3. Ondertekening. Bekrachtiging. Aanvaarding. Goedkeuring. Toetreding
+##### Article 5. Déclarations et réserves
 
-§ 1. Dit Protocol blijft tot en met 31 december 1999 openstaan voor ondertekening door de Lidstaten. Deze ondertekening vindt plaats te Bern bij de voorlopige depositaris.
+Les déclarations et réserves, prévues à [l'article 42, § 1 de la Convention](https://wetten.overheid.nl/BWBV0005620) dans la teneur de l'Annexe au présent Protocole, peuvent être faites ou émises à tout moment, même avant l'entrée en vigueur du présent Protocole. Elles prennent effet au moment de l'entrée en vigueur du présent Protocole.
 
-§ 2. Overeenkomstig [artikel 20, § 1 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20), dient dit Protocol te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden zo snel mogelijk bij de voorlopige depositaris nedergelegd.
+##### Article 6. Dispositions transitoires
 
-§ 3. De Lidstaten die het Protocol niet binnen de in § 1 bedoelde termijn hebben ondertekend, alsook de Lidstaten wier verzoek tot toetreding tot de [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155), overeenkomstig [artikel 23, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=23) daarvan, van rechtswege is ingewilligd, kunnen voor de inwerkingtreding van dit Protocol hiertoe toetreden door middel van nederlegging van een akte van toetreding bij de voorlopige depositaris.
+§ 1. Au plus tard six mois après l'entrée en vigueur du présent Protocole, le Secrétaire général de l'OTIF convoque l'Assemblée générale afin:
 
-§ 4. De toetreding van een Staat tot de [COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155) overeenkomstig [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=23) daarvan, waarvoor het verzoek is gedaan na de openstelling ter ondertekening van dit Protocol maar voor de inwerkingtreding hiervan, geldt zowel voor de COTIF 1980 als voor het Verdrag in de versie van de Bijlage bij dit Protocol.
+- a) de désigner les membres du Comité administratif pour la prochaine période (article 14, § 2, lettre b) de la COTIF dans la teneur de l'Annexe au présent Protocole) et, le cas échéant, de décider de la fin du mandat du Comité administratif en fonction,
 
-##### Artikel 4. Inwerkingtreding
+- b) de fixer, par période de six ans, le montant maximal que peuvent atteindre les dépenses de l'Organisation durant chaque période budgétaire (article 14, § 2, lettre e) de la COTIF dans la teneur de l'Annexe au présent Protocole), et
 
-§ 1. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de voorlopige depositaris de Lidstaten kennis heeft gegeven van de nederlegging van de akte waardoor de voorwaarden van [artikel 20, § 2 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=20) zijn vervuld. Als Lidstaten in de zin van dit artikel 20, § 2 worden de Staten aangemerkt, die ten tijde van het besluit van de vijfde Algemene Vergadering Lidstaten waren en dit nog steeds zijn op het tijdstip waarop de voorwaarden voor de inwerkingtreding van dit Protocol zijn vervuld.
+- c) de procéder, le cas échéant, à l'élection du Secrétaire général (article 14, § 2, lettre c) de la COTIF dans la teneur de l'Annexe au présent Protocole).
 
-§ 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005620&artikel=3&z=2006-07-01&g=2006-07-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
+§ 2. Au plus tard trois mois après l'entrée en vigueur du présent Protocole, le Secrétaire général de l'OTIF convoque la Commission d'experts techniques.
 
-##### Artikel 5. Verklaringen en voorbehouden
+§ 3. Après l'entrée en vigueur du présent Protocole, le mandat du Comité administratif, déterminé conformément à [l'article 6, § 2, lettre b) de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6), prend fin à la date fixée par l'Assemblée générale, laquelle doit coïncider avec le début du mandat des membres et membres suppléants du Comité administratif désignés par elle (article 14, § 2, lettre b) de la COTIF dans la teneur de l'Annexe au présent Protocole).
 
-De in artikel 42, § 1 van het Verdrag in de versie van de Bijlage bij dit Protocol bedoelde verklaringen en voorbehouden kunnen op elk tijdstip worden afgelegd of gemaakt, zelfs voor de inwerkingtreding van dit Protocol. Deze verklaringen en voorbehouden worden van kracht op het tijdstip van inwerkingtreding van dit Protocol.
+§ 4. Le mandat du Directeur général de l'Office central, en fonction au moment de l'entrée en vigueur du présent Protocole, prend fin à l'expiration de la période pour laquelle il a été nommé conformément à [l'article 7, § 2, lettre d) de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=7). A partir du moment de l'entrée en vigueur du présent Protocole, il exerce les fonctions de Secrétaire général.
 
-##### Artikel 6. Overgangsbepalingen
+§ 5. Même après l'entrée en vigueur du présent Protocole, les dispositions pertinentes des [articles 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=7) et [11 de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=11) restent applicables en ce qui concerne:
 
-§ 1. Uiterlijk zes maanden na de inwerkingtreding van dit Protocol roept de Secretaris-Generaal van de OTIF de Algemene Vergadering bijeen teneinde:
+- a) la vérification des comptes et l'approbation des comptes annuels de l'Organisation,
 
-- a. de leden van het Comité van Beheer voor de komende periode aan te wijzen (artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol) en, in voorkomend geval, tot de beëindiging van het mandaat van het zittende Comité van Beheer te besluiten,
+- b) la fixation des contributions définitives des Etats membres aux dépenses de l'Organisation,
 
-- b. het maximale bedrag, per tijdvak van zes jaar, vast te stellen voor de uitgaven van de Organisatie in iedere begrotingsperiode (artikel 14, § 2, onder e van de COTIF in de versie van de Bijlage bij dit Protocol), en
+- c) le paiement des contributions,
 
-- c. in voorkomend geval over te gaan tot de verkiezing van de Secretaris-Generaal (artikel 14, § 2, onder c van de COTIF in de versie van de Bijlage bij dit Protocol).
+- d) le montant maximal que peuvent atteindre les dépenses de l'Organisation au cours d'une période quinquennale, fixé avant l'entrée en vigueur du présent Protocole. Les lettres a) à c) se réfèrent à l'année au cours de laquelle le présent Protocole entre en vigueur ainsi qu'à celle qui précède cette année.
 
-§ 2. Uiterlijk drie maanden na de inwerkingtreding van dit Protocol, roept de Secretaris-Generaal van de OTIF de Commissie van technisch deskundigen bijeen.
+§ 6. Les contributions définitives des Etats membres, dues pour l'année au cours de laquelle le présent Protocole entre en vigueur, sont calculées sur la base de [l'article 11, § 1 de la COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=11).
 
-§ 3. Na de inwerkingtreding van dit Protocol vervalt het overeenkomstig [artikel 6, § 2, onder b van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6) vastgestelde mandaat van het Comité van Beheer op de door de Algemene Vergadering vastgestelde datum; deze datum valt samen met de aanvang van het mandaat van de door de Algemene Vergadering aangewezen leden en plaatsvervangende leden van het Comité van Beheer (artikel 14, § 2, onder b van de COTIF in de versie van de Bijlage bij dit Protocol).
+§ 7. Sur demande de l'Etat membre dont la contribution calculée en vertu de [l'article 26](https://wetten.overheid.nl/BWBV0005620) de la Convention dans la teneur de l'Annexe au présent Protocole est supérieure à celle due pour l'année 1999, l'Assemblée générale peut fixer la contribution de cet Etat pour les trois années qui suivent l'année de l'entrée en vigueur du présent Protocole, en tenant compte des principes suivants:
 
-§ 4. Het mandaat van de Directeur-Generaal van het Centraal Bureau, die in functie is op het tijdstip van inwerkingtreding van dit Protocol, vervalt aan het einde van de periode waarvoor hij overeenkomstig [artikel 7, § 2, onder d van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=7) is benoemd. Vanaf het tijdstip van inwerkingtreding van dit Protocol oefent hij de functie van Secretaris-Generaal uit.
+- a) la base de fixation de la contribution transitoire est la contribution minimale visée à [l'article 26, § 3](https://wetten.overheid.nl/BWBV0005620) susvisé ou la contribution due pour l'année 1999 si celle-ci est supérieure à la contribution minimale;
 
-§ 5. Zelfs na de inwerkingtreding van dit Protocol blijven de relevante bepalingen van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=7) en [11 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=11) van toepassing met betrekking tot:
+- b) la contribution est adaptée progressivement en trois étapes au maximum pour arriver au montant de la contribution définitive calculée en vertu de l'article 26 susvisé.
 
-- a. de controle van de boekhouding en de goedkeuring van de jaarrekening van de Organisatie,
+Cette disposition ne s'applique pas aux Etats membres qui sont redevables de la contribution minimale qui, en tout état de cause, reste due.
 
-- b. de vaststelling van de definitieve bijdragen van de Lidstaten aan de uitgaven van de Organisatie,
+§ 8. Les contrats de transport des voyageurs ou des marchandises en trafic international entre les Etats membres, conclus en vertu des [Règles uniformes CIV 1980](https://wetten.overheid.nl/BWBV0004155) ou des [Règles uniformes CIM 1980](https://wetten.overheid.nl/BWBV0004155), restent soumis aux Règles uniformes en vigueur au moment de la conclusion du contrat même après l'entrée en vigueur du présent Protocole.
 
-- c. de betaling van de bijdragen,
+§ 9. Les dispositions contraignantes des [Règles uniformes CUV](https://wetten.overheid.nl/BWBV0005620) et des [Règles uniformes CUI](https://wetten.overheid.nl/BWBV0005620) s'appliquent aux contrats conclus avant l'entrée en vigueur du présent Protocole un an après son entrée en vigueur.
 
-- d. het maximale bedrag van de uitgaven van de Organisatie gedurende een periode van vijf jaar, dat voor de inwerkingtreding van dit Protocol wordt vastgesteld.
+##### Article 7. Textes du Protocole
 
-De onderdelen a tot en met c hebben betrekking op het jaar waarin dit Protocol in werking treedt alsook op het daaraan voorafgaande jaar.
+§ 1. Le présent Protocole est conclu et signé en langues française, allemande et anglaise. En cas de divergence, seul le texte français fait foi.
 
-§ 6. De definitieve bijdragen van de Lidstaten, die verschuldigd zijn voor het jaar waarin dit Protocol in werking treedt, worden berekend op basis van [artikel 11, § 1 van de COTIF 1980](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=11).
-
-§ 7. Op verzoek van de Lidstaat waarvan de krachtens artikel 26 van het Verdrag in de versie van de Bijlage bij dit Protocol berekende bijdrage hoger is dan die welke voor het jaar 1999 verschuldigd is, kan de Algemene Vergadering de bijdrage van deze Lidstaat voor de drie jaren die volgen op het jaar van de inwerkingtreding van dit Protocol vaststellen met inachtneming van de volgende beginselen:
-
-- a. de overgangsbijdrage wordt vastgesteld op basis van de in bovengenoemd artikel 26, § 3 bedoelde minimale bijdrage of van de voor het jaar 1999 verschuldigde bijdrage, indien deze hoger is dan de minimale bijdrage;
-
-- b. de bijdrage wordt geleidelijk in maximaal drie stappen aangepast tot het niveau van de krachtens bovengenoemd artikel 26 berekende definitieve bijdrage.
-
-Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage verschuldigd zijn, die in elk geval verschuldigd blijft.
-
-§ 8. De overeenkomsten tot het vervoer van reizigers of goederen in het internationale verkeer tussen de Lidstaten, gesloten krachtens de [Uniforme Regelen CIV 1980](onbekend) of de [Uniforme Regelen CIM 1980](onbekend), blijven onderworpen aan de Uniforme Regelen die op het moment van het sluiten van de overeenkomst van kracht waren, zelfs na de inwerkingtreding van dit Protocol.
-
-§ 9. De dwingende bepalingen van de Uniforme Regelen CUV en de Uniforme Regelen CUI zijn een jaar na de inwerkingtreding van dit Protocol van toepassing op de overeenkomsten die zijn gesloten voor de inwerkingtreding van dit Protocol.
-
-##### Artikel 7. Teksten van het Protocol
-
-§ 1. Dit Protocol is gesloten en ondertekend in de Duitse, de Engelse en de Franse taal. In geval van verschillen is de Franse tekst doorslaggevend.
-
-§ 2. Op voorstel van een van de betrokken Lidstaten publiceert de Organisatie officiële vertalingen van dit Protocol in andere talen, voorzover een van deze talen een officiële taal is op het grondgebied van ten minste twee Lidstaten. Deze vertalingen worden verzorgd in samenwerking met de bevoegde diensten van de betrokken Lidstaten.
+§ 2. Sur proposition de l'un des Etats membres concernés, l'Organisation publie des traductions officielles du présent Protocole dans d'autres langues, dans la mesure où l'une de ces langues est une langue officielle sur le territoire d'au moins deux Etats membres. Ces traductions sont élaborées en coopération avec les services compétents des Etats membres concernés.
 
 EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs Gouvernements respectifs ont signé le présent Protocole.
 

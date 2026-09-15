@@ -1,64 +1,19 @@
 ---
 title: "Cultureel-akkoord tussen Nederland en Frankrijk"
 identifier: "BWBV0005463"
-country: "nl"
-rank: "verdrag"
-publication_date: "1948-07-07"
-last_updated: "1948-07-07"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005463"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004640723"
-version_id: "10004897222"
-internal_id: "C10007361461"
-label_id: "10004625104"
-dtd_version: "2.0"
-original_entry_into_force: "1948-07-07"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005463/1948-07-07/0"
-intitule_bron: "Stb.1948-I 367"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1948-08-11"
-intitule_published: "1948-09-14"
-intitule_in_force: "1948-09-14"
-intitule_status: "goed"
-original_publication: "Stb.1948-I 367"
-original_signed_date: "1948-08-11"
-original_published_date: "1948-09-14"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-07-07"
-jci_1_3: "jci1.3:c:BWBV0005463&z=1948-07-07&g=1948-07-07"
-jci_1_0: "1.0:c:BWBV0005463&g=1948-07-07"
-citeertitel_status: "redactioneel"
-signed_date: "1948-08-11"
-entry_into_force: "1948-07-07"
+publicatiedatum: 1948-07-07
+laatste_update: 1948-07-07
+status: geldig
+toestand: 1948-07-07
+bron: "https://wetten.overheid.nl/BWBV0005463"
+opgehaald: 2026-09-15
 ---
+
 # Cultureel-akkoord tussen Nederland en Frankrijk
 
-De Regeering van Hare Majesteit de Koningin der Nederlanden,
-
-ter eenre, en
-
-De Voorloopige Regeering der Fransche Republiek
-
-ter andere;
-
-Bezield door den gelijken wensch om hare betrekkingen op het gebied van onderwijs, wetenschap en kunst te versterken;
-
-Hebben besloten te dien einde een Verdrag te sluiten betreffende de cultureele en intellectueele betrekkingen tusschen beide landen en hebben tot hare gevolmachtigden benoemd, te weten:
-
-De Regeering van Hare Majesteit de Koningin der Nederlanden:
-
-Dr. J. J. Gielen, Minister van Onderwijs, Kunsten en Wetenschappen,
-
-Mr. E. Star Busmann, Tijdelijk Zaakgelastigde te Parijs;
-
-De Voorloopige Regeering der Fransche Republiek:
-
-den Heer Georges Bidault, President der Voorloopige Regeering en Minister van Buitenlandsche Zaken,
-
-den Heer Naegelen, Minister der Nationale Opvoeding,
-
-Die het volgende zijn overeengekomen:
+*De Regeering van Hare Majesteit de Koningin der Nederlanden, ter eenre, en De Voorloopige Regeering der Fransche Republiek ter andere; Bezield door den gelijken wensch om hare betrekkingen op het gebied van onderwijs, wetenschap en kunst te versterken; Hebben besloten te dien einde een Verdrag te sluiten betreffende de cultureele en intellectueele betrekkingen tusschen beide landen en hebben tot hare gevolmachtigden benoemd, te weten: De Regeering van Hare Majesteit de Koningin der Nederlanden: Dr. J. J. Gielen, Minister van Onderwijs, Kunsten en Wetenschappen, Mr. E. Star Busmann, Tijdelijk Zaakgelastigde te Parijs; De Voorloopige Regeering der Fransche Republiek: den Heer Georges Bidault, President der Voorloopige Regeering en Minister van Buitenlandsche Zaken, den Heer Naegelen, Minister der Nationale Opvoeding, Die het volgende zijn overeengekomen:*
 
 ##### Artikel 1
 

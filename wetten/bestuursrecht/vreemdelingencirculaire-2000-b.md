@@ -4,11 +4,11 @@ identifier: "BWBR0012289"
 categorie: "Overig"
 soort: "circulaire"
 publicatiedatum: 2019-03-14
-laatste_update: 2026-08-07
+laatste_update: 2026-09-11
 status: geldig
-toestand: 2026-08-07
+toestand: 2026-09-11
 bron: "https://wetten.overheid.nl/BWBR0012289"
-opgehaald: 2026-08-14
+opgehaald: 2026-09-15
 ---
 
 # Vreemdelingencirculaire 2000 (B)
@@ -5412,7 +5412,7 @@ Ad 1. De bedenktijd
 
 Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van [artikel 8, aanhef en onder k, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) een bedenktijd van maximaal drie maanden gegund, waarbinnen zij een beslissing moeten nemen of zij aangifte willen doen van mensenhandel of op andere wijze medewerking willen verlenen aan een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van een verdachte van mensenhandel, of dat zij hiervan afzien.
 
-Op vorenstaande regel geldt een uitzondering voor de vreemdelingen op wie de Asiel- en migratiebeheerverordeningvan toepassing is en aan wie bedenktijd is verleend na 18 mei 2023. Aan hen wordt op grond van [artikel 8, aanhef en onder k, Vw](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) een bedenktijd van dertig dagen gegund.
+Op vorenstaande regel geldt een uitzondering voor de vreemdelingen op wie de Asiel- en migratiebeheerverordeningvan toepassing is en aan wie bedenktijd is verleend na 18 mei 2023. Aan hen wordt op grond van artikel 8, aanhef en onder k, Vw een bedenktijd van dertig dagen gegund.
 
 Aan vreemdelingen op wie de Asiel- en migratiebeheerverordening van toepassing is en aan wie bedenktijd is verleend voor 18 mei 2023 wordt een bedenktijd van maximaal drie maanden gegund.
 
@@ -5448,7 +5448,7 @@ Als de bedenktijd eindigt, heft de IND de opschorting van het vertrek op.
 
 Ad 2. en 3. De verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel
 
-De IND merkt de kennisgeving van aangifte of het verlenen van medewerking aan het strafproces mensenhandel ([Model M55](https://wetten.overheid.nl/jci1.3:c:BWBR0012287&bijlage=M55)) ambtshalve aan als een aanvraag tot het verlenen van een verblijfsvergunning, zodra deze door de politie of KMar is doorgestuurd naar de IND.
+De IND merkt de kennisgeving van aangifte of het verlenen van medewerking aan het strafproces mensenhandel (Model M55) ambtshalve aan als een aanvraag tot het verlenen van een verblijfsvergunning, zodra deze door de politie of KMar is doorgestuurd naar de IND.
 
 In aanvulling op [artikel 3.48, derde lid, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) wijst de IND de aanvraag tot het verlenen van de verblijfsvergunning niet af als de vreemdeling:
 
@@ -5456,11 +5456,11 @@ In aanvulling op [artikel 3.48, derde lid, Vb](https://wetten.overheid.nl/jci1.3
 
 - • niet beschikt over een geldig document voor grensoverschrijding.
 
-De IND beslist op een aanvraag van een vermoedelijk slachtoffer van mensenhandel op wie de Dublinverordening niet van toepassing is binnen een streeftermijn van 24 uur nadat de kennisgeving van een aangifte mensenhandel door een vreemdeling door de politie of KMar aan de IND is verzonden.
+De IND beslist op een aanvraag van een vermoedelijk slachtoffer van mensenhandel op wie de Asiel- en migratiebeheerverordening niet van toepassing is binnen een streeftermijn van 24 uur nadat de kennisgeving van een aangifte mensenhandel door een vreemdeling door de politie of KMar aan de IND is verzonden.
 
 Vreemdelingen op wie de Asiel- en migratiebeheerverordening van toepassing is
 
-De IND verleent aan een vreemdeling op wie de Asiel- en migratiebeheerverordening van toepassing is op grond van [artikel 3.48, eerste lid, aanhef en onder a, c of g, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) enkel een verblijfsvergunning regulier voor bepaalde tijd als slachtoffer van mensenhandel dan wel als getuige-aangever, nadat het OM heeft bericht dat de aanwezigheid van de vreemdeling noodzakelijk wordt geacht in het belang van de opsporing en vervolging van mensenhandel.
+De IND verleent aan een vreemdeling op wie de Asiel- en migratiebeheerverordening van toepassing is op grond van [artikel 3.48, eerste lid, aanhef en onder a, b c of g, Vb](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.48) enkel een verblijfsvergunning regulier voor bepaalde tijd als slachtoffer van mensenhandel dan wel als getuige-aangever, nadat het OM heeft bericht dat de aanwezigheid van de vreemdeling noodzakelijk wordt geacht in het belang van de opsporing en vervolging van mensenhandel.
 
 De IND beslist op een aanvraag ingediend door een vreemdeling op wie de Asiel- en migratiebeheerverordening van toepassing is:
 

@@ -1,52 +1,19 @@
 ---
 title: "Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, de Republiek Indonesië en de Verenigde Staten van Amerika"
 identifier: "BWBV0005065"
-country: "nl"
-rank: "verdrag"
-publication_date: "1952-02-11"
-last_updated: "1952-02-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005065"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004456033"
-version_id: "10004664002"
-internal_id: "C10006893991"
-label_id: "10004440804"
-dtd_version: "2.0"
-original_entry_into_force: "1952-02-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005065/1952-02-11/0"
-intitule_bron: "Trb.1952-49"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1952-04-04"
-intitule_in_force: "1952-04-04"
-intitule_status: "goed"
-original_publication: "Trb.1952-49"
-original_published_date: "1952-04-04"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1952-49"
-entry_into_force_date: "1952-02-11"
-jci_1_3: "jci1.3:c:BWBV0005065&z=1952-02-11&g=1952-02-11"
-jci_1_0: "1.0:c:BWBV0005065&g=1952-02-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "1952-02-11"
+publicatiedatum: 1952-02-11
+laatste_update: 1952-02-11
+status: geldig
+toestand: 1952-02-11
+bron: "https://wetten.overheid.nl/BWBV0005065"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, de Republiek Indonesië en de Verenigde Staten van Amerika
 
-The Governments of the Kingdom of the Netherlands, the Republic of Indonesia, and the United States of America:
-
-Considering that the Governments of the Kingdom of the Netherlands and the United States of America concluded an Economic Cooperation Agreement on the second day of July, 1948, and that the Government of the United States of America has furnished economic assistance to the Government of the Kingdom of the Netherlands under such agreement, and amendments thereto;
-
-Considering that a portion of the aforementioned assistance was furnished for the benefit of the area now constituting the Republic of Indonesia; that under the aforementioned Economic Cooperation Agreement, the Government of the Kingdom of the Netherlands assumed certain responsibilities and obligations with respect to such assistance, and that as to such assistance furnished on a grant basis the Government of the Kingdom of the Netherlands was given rights and powers in connection with a portion of the local currency counterpart deposited therefor pursuant to Article IV of such Agreement;
-
-Considering further that with respect to a portion of the assistance furnished for the benefit of the area now constituting the Republic of Indonesia, the Government of the Kingdom of the Netherlands undertook an obligation to make repayment in the amount of $ 17,200,000 to the Government of the United States of America under promissory notes executed October 28, 1948 and December 22, 1949;
-
-Recognizing that on December 27, 1949, pursuant to the Charter of Transfer of Sovereignty as provided by the Round Table Conference Agreements, sovereignty over Indonesia was transferred to the Government of the Republic of the United States of Indonesia by the Government of the Kingdom of the Netherlands, and that the Governments of the Kingdom of the Netherlands and of the Republic of Indonesia have jointly proposed to the Government of the United States of America that the Government of the Republic of Indonesia formally assume all obligations hereinafter specified with respect to the aforementioned economic assistance furnished for the benefit of the area now constituting the Republic of Indonesia, that the Kingdom of the Netherlands be relieved of all such obligations, and that the Kingdom of the Netherlands transfer all rights in connection therewith to the Government of the Republic of Indonesia;
-
-Recognizing that, pursuant to an exchange of notes between the Government of the United States of America and the Government of the Republic of the United States of Indonesia, concluded March 24, 1950, the Government of the Republic of Indonesia has already assumed certain obligations with respect to the aforementioned economic assistance;
-
-Recognizing further the desire of the Government of the United States of America to conform its arrangements with respect to the aforementioned economic assistance so that they may be consistent with the change in status of the area now constituting the Republic of Indonesia;
-
-Have agreed as follows:
+*The Governments of the Kingdom of the Netherlands, the Republic of Indonesia, and the United States of America: Considering that the Governments of the Kingdom of the Netherlands and the United States of America concluded an Economic Cooperation Agreement on the second day of July, 1948, and that the Government of the United States of America has furnished economic assistance to the Government of the Kingdom of the Netherlands under such agreement, and amendments thereto; Considering that a portion of the aforementioned assistance was furnished for the benefit of the area now constituting the Republic of Indonesia; that under the aforementioned Economic Cooperation Agreement, the Government of the Kingdom of the Netherlands assumed certain responsibilities and obligations with respect to such assistance, and that as to such assistance furnished on a grant basis the Government of the Kingdom of the Netherlands was given rights and powers in connection with a portion of the local currency counterpart deposited therefor pursuant to Article IV of such Agreement; Considering further that with respect to a portion of the assistance furnished for the benefit of the area now constituting the Republic of Indonesia, the Government of the Kingdom of the Netherlands undertook an obligation to make repayment in the amount of $ 17,200,000 to the Government of the United States of America under promissory notes executed October 28, 1948 and December 22, 1949; Recognizing that on December 27, 1949, pursuant to the Charter of Transfer of Sovereignty as provided by the Round Table Conference Agreements, sovereignty over Indonesia was transferred to the Government of the Republic of the United States of Indonesia by the Government of the Kingdom of the Netherlands, and that the Governments of the Kingdom of the Netherlands and of the Republic of Indonesia have jointly proposed to the Government of the United States of America that the Government of the Republic of Indonesia formally assume all obligations hereinafter specified with respect to the aforementioned economic assistance furnished for the benefit of the area now constituting the Republic of Indonesia, that the Kingdom of the Netherlands be relieved of all such obligations, and that the Kingdom of the Netherlands transfer all rights in connection therewith to the Government of the Republic of Indonesia; Recognizing that, pursuant to an exchange of notes between the Government of the United States of America and the Government of the Republic of the United States of Indonesia, concluded March 24, 1950, the Government of the Republic of Indonesia has already assumed certain obligations with respect to the aforementioned economic assistance; Recognizing further the desire of the Government of the United States of America to conform its arrangements with respect to the aforementioned economic assistance so that they may be consistent with the change in status of the area now constituting the Republic of Indonesia; Have agreed as follows:*
 
 ##### Article I
 

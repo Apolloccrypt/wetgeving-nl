@@ -1,212 +1,185 @@
 ---
 title: "Europees Verdrag betreffende sociale en medische bijstand"
 identifier: "BWBV0005096"
-country: "nl"
-rank: "verdrag"
-publication_date: "2016-02-22"
-last_updated: "2000-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005096"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004463893"
-version_id: "10004675222"
-internal_id: "C10007082471"
-label_id: "10004448944"
-dtd_version: "2.0"
-original_entry_into_force: "1955-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005096/2016-02-22/0"
-intitule_bron: "Trb.1954-100"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-07-20"
-intitule_in_force: "1955-08-05"
-intitule_status: "goed"
-original_publication: "Trb.1954-100"
-original_published_date: "1954-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-100"
-entry_into_force_date: "1955-08-01"
-jci_1_3: "jci1.3:c:BWBV0005096&z=2016-02-22&g=2016-02-22"
-jci_1_0: "1.0:c:BWBV0005096&g=2016-02-22"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-08-01"
+publicatiedatum: 1955-08-01
+laatste_update: 2016-02-22
+status: geldig
+toestand: 2016-02-22
+bron: "https://wetten.overheid.nl/BWBV0005096"
+opgehaald: 2026-09-15
 ---
+
 # Europees Verdrag betreffende sociale en medische bijstand
 
-De Regeringen welke dit Verdrag hebben ondertekend, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Considering that the aim of the Council of Europe is to achieve a greater unity between its Members for the purpose, among others, of facilitating their social progress; Being resolved, in accordance with this purpose, to extend their co-operation in the social field by establishing the principle of equal treatment for the nationals of each of them in the application of legislation providing for social and medical assistance; and Desiring to conclude a Convention to this end, Have agreed as follows:*
 
-Overwegende dat het doel van de Raad van Europa is grotere eenheid onder zijn Leden te bewerkstelligen, teneinde onder meer hun sociale vooruitgang te bevorderen;
+#### SECTION I. GENERAL PROVISIONS
 
-Besloten hebbende in overeenstemming met deze doelstelling hun samenwerking op sociaal gebied uit te breiden door aanvaarding van het beginsel van gelijke behandeling van elkanders onderdanen bij de toepassing van de wetgeving inzake sociale en medische bijstand; en
+##### Article 1
 
-Verlangende te dien einde een Verdrag te sluiten,
+Each of the Contracting Parties undertakes to ensure that nationals of the other Contracting Parties who are lawfully present in any part of its territory to which this Convention applies, and who are without sufficient resources, shall be entitled equally with its own nationals and on the same conditions to social and medical assistance (hereinafter referred to as “assistance”) provided by the legislation in force from time to time in that part of its territory.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-## TITEL I. ALGEMENE BEPALINGEN
+(a). For the purposes of this Convention the terms “assistance”, “nationals”, “territory” and “country of origin” shall have the following meanings, that is to say:
 
-##### Artikel 1
+- (i) “Assistance” means in relation to each Contracting Party all assistance granted under the laws and regulations in force in any part of its territory under which persons without sufficient resources are granted means of subsistence and the care necessitated by their condition, other than non-contributory pensions and benefits paid in respect of war injuries or injuries due to foreign occupation,
 
-Ieder der Verdragsluitende Partijen verbindt zich te waarborgen, dat onderdanen van de andere Verdragsluitende Partijen, die zich rechtmatig ophouden in enig deel van haar grondgebied, waarop dit Verdrag van toepassing is, en niet beschikken over voldoende middelen, gelijkelijk en onder dezelfde voorwaarden als haar eigen onderdanen recht kunnen doen gelden op sociale en medische bijstand (hierna aangeduid als „bijstand”), zoals deze is geregeld door de geldende wetgeving in dat deel van haar grondgebied.
+- (ii) The terms “nationals” and “territory” of a Contracting Party shall have the meaning assigned to them by such a Party in a declaration addressed to the Secretary-General of the Council of Europe for communication to all other Contracting Parties, provided that a person who has lost his nationality otherwise than by deprivation and has thereby become stateless shall, until he has acquired another nationality, continue to be treated as a national.
 
-##### Artikel 2
+- (iii) “Country of origin” means the country of which a person covered by the provisions of the present Convention is a national.
 
-(a). Voor de toepassing van dit Verdrag hebben de woorden „bijstand”, „onderdanen”, „grondgebied” en „land van herkomst” de volgende betekenis:
+(b). The laws and regulations in force in the territories of the Contracting Parties and to which the present Convention applies, and the reservations formulated by Contracting Parties, are set forth in Annex I and Annex II respectively.
 
-- (i). „Bijstand” betekent met betrekking tot iedere Verdragsluitende Partij iedere bijstand, verleend krachtens de in enig deel van haar grondgebied geldende wetten en regelingen, op grond waarvan middelen van bestaan en de voor hun toestand noodzakelijke verzorging worden verschaft aan personen zonder voldoende middelen, met uitzondering van premievrije pensioenen en uitkeringen aan slachtoffers van oorlog of bezetting;
+##### Article 3
 
-- (ii). De termen „onderdanen” en „grondgebied” van een Verdragsluitende Partij hebben de betekenis, welke die Partij daaraan heeft toegekend in een tot de Secretaris-Generaal van de Raad van Europa gerichte verklaring, die daarvan mededeling doet aan alle overige Verdragsluitende Partijen, met dien verstande dat een persoon, die zijn nationaliteit heeft verloren zonder hiervan vervallen te zijn verklaard en daardoor staatloos is geworden, als onderdaan behandeld zal blijven worden, totdat hij een andere nationaliteit heeft verworven;
+Proof of the nationality of the person concerned shall be provided in accordance with the regulations governing such matters under the legislation of the country of origin.
 
-- (iii). „Land van herkomst” betekent het land, waarvan een persoon, die onder de bepalingen van dit Verdrag valt, onderdaan is.
+##### Article 4
 
-(b). De wetten en regelingen, welke op het grondgebied van de Verdragsluitende Partijen van kracht zijn en waarop dit Verdrag van toepassing is, alsmede de door de Verdragsluitende Partijen gemaakte voorbehouden, zijn onderscheidenlijk opgenomen in de Bijlagen I en II.
+The cost of assistance to a national of any of the Contracting Parties shall be borne by the Contracting Party which has granted the assistance.
 
-##### Artikel 3
+##### Article 5
 
-Het bewijs van de nationaliteit van de betrokken persoon wordt geleverd volgens de wettelijke voorschriften, welke in het land van herkomst van kracht zijn.
+The Contracting Parties undertake, so far as their laws and regulations permit, to help each other to recover the full cost of assistance as far as possible either from third parties under financial obligation to the assisted person or from persons who are liable to contribute to the cost of maintenance of the person concerned.
 
-##### Artikel 4
+#### SECTION II. REPATRIATION
 
-De kosten van bijstand aan een onderdaan van een der Verdragsluitende Partijen worden gedragen door de Verdragsluitende Partij, die de bijstand heeft verleend.
+##### Article 6
 
-##### Artikel 5
+(a). A Contracting Party in whose territory a national of another Contracting Party is lawfully resident shall not repatriate that national on the sole ground that he is in need of assistance.
 
-De Verdragsluitende Partijen verbinden zich om, voorzover hun wetten en regelingen zulks toelaten, elkander bij te staan teneinde zo veel mogelijk verhaal van de volledige kosten van bijstand te verkrijgen op derden, die financiële verplichtingen hebben jegens de persoon die bijstand heeft genoten, of op personen, die verplicht zijn om bij te dragen in de kosten van levensonderhoud van de betrokken persoon.
+(b). Nothing in this Convention shall prejudice the right to deport on any ground other than the sole ground mentioned in the previous paragraph.
 
-## TITEL II. REPATRIËRING
+##### Article 7
 
-##### Artikel 6
+(a). The provisions of Article 6 *(a)* notwithstanding, a Contracting Party may repatriate a national of another Contracting Party resident in its territory on the sole ground mentioned in Article 6 *(a)* if the following conditions are fulfilled:
 
-(a). Een Verdragsluitende Partij, op wier grondgebied een onderdaan van een andere Verdragsluitende Partij rechtmatig verblijft, repatrieert die onderdaan niet om de enkele reden, dat hij bijstand behoeft.
+- (i) the person concerned has not been continuously resident in the territory of that Contracting Party for at least five years if he entered it before attaining the age of 55 years, or for at least ten years if he entered it after attaining that age;
 
-(b). Niets in dit Verdrag doet afbreuk aan het recht tot verwijdering om andere redenen dan de enkele reden, genoemd in het vorige lid.
+- (ii) he is in a fit state of health to be transported; and
 
-##### Artikel 7
+- (iii) has no close ties in the territory in which he is resident.
 
-(a). Niettegenstaande het bepaalde in artikel 6 **(a)** kan een Verdragsluitende Partij, op wier grondgebied een onderdaan van een andere Verdragsluitende Partij verblijft, die onderdaan repatriëren om de enkele reden, genoemd in artikel 6 **(a)**, indien aan de volgende voorwaarden is voldaan:
+(b). The Contracting Parties agree not to have recourse to repatriation except in the greatest moderation and then only where there is no objection on humanitarian grounds.
 
-- (i). de betrokken persoon heeft niet voortdurend gedurende ten minste vijf jaren verblijf gehouden op het grondgebied van die Verdragsluitende Partij ingeval hij dat grondgebied heeft betreden vóór het bereiken van de leeftijd van vijf en vijftig jaar, of gedurende ten minste tien jaren ingeval hij dat grondgebied heeft betreden na het bereiken van die leeftijd;
+(c). In the same spirit, the Contracting Parties agree that, if they repatriate an assisted person, facilities should be offered to the spouse and children, if any, to accompany the person concerned.
 
-- (ii). hij verkeert in een staat van gezondheid, die vervoer toelaat; en
+##### Article 8
 
-- (iii). hij heeft geen nauwe banden met het land waar hij verblijf houdt.
+(a). The Contracting Party repatriating any national in accordance with the provisions of Article 7 shall bear the cost of repatriation as far as the frontier of the territory to which the national is being repatriated.
 
-(b). De Verdragsluitende Partijen komen overeen slechts met de grootste gematigdheid over te gaan tot repatriëring, en dan nog slechts wanneer er geen bezwaar op grond van humanitaire overwegingen bestaat.
+(b). Each Contracting Party undertakes to receive any of its nationals repatriated in accordance with the provisions of Article 7.
 
-(c). In dezelfde geest komen de Verdragsluitende Partijen overeen om in geval van repatriëring van een persoon, die bijstand geniet, faciliteiten te verlenen aan zijn echtgenoot en kinderen om hem te vergezellen.
+(c). Each Contracting Party undertakes to facilitate the transit across its territory of any persons repatriated in accordance with Article 7.
 
-##### Artikel 8
+##### Article 9
 
-(a). De Verdragsluitende Partij, die een onderdaan van een andere Verdragsluitende Partij repatrieert overeenkomstig het bepaalde in artikel 7, draagt de kosten van de repatriëring tot de grens van het grondgebied, waarheen die onderdaan wordt gerepatrieerd.
+If the country of which the assisted person claims to be a national does not recognise him as such, the grounds of the disclaimer must be forwarded to the country of residence within thirty days or as soon as possible thereafter.
 
-(b). Iedere Verdragsluitende Partij verbindt zich elk harer onderdanen, gerepatrieerd overeenkomstig het bepaalde in artikel 7, op te nemen.
+##### Article 10
 
-(c). Iedere Verdragsluitende Partij verbindt zich de doorreis van personen, gerepatrieerd overeenkomstig artikel 7, over haar grondgebied te vergemakkelijken.
+(a). When repatriation is decided upon, the diplomatic or consular authorities of the country of origin shall be advised (if possible, three weeks in advance) of the repatriation of their national.
 
-##### Artikel 9
+(b). The authorities of the country of origin shall duly inform the authorities of any country or countries of transit.
 
-Indien het land, waarvan de persoon, die bijstand heeft genoten, beweert een onderdaan te zijn, hem niet als zodanig erkent, worden de gronden voor deze afwijzing binnen dertig dagen of zo spoedig mogelijk nadien aan het land van verblijf medegedeeld.
+(c). The places for handing over such persons shall be decided by arrangement between the competent authorities of the country of residence and the country of origin.
 
-##### Artikel 10
+#### SECTION III. RESIDENCE
 
-(a). Wanneer tot repatriëring is besloten, worden de diplomatieke of consulaire autoriteiten van het land van herkomst (zo mogelijk drie weken van tevoren) verwittigd van het voornemen tot repatriëring van hun onderdaan.
+##### Article 11
 
-(b). De autoriteiten van het land van herkomst lichten de autoriteiten van het land of de landen van doorreis naar behoren in.
+(a). Residence by an alien in the territory of any of the Contracting Parties shall be considered lawful within the meaning of this Convention so long as there is in force in his case a permit or such other permission as is required by the laws and regulations of the country concerned to reside therein. Failure to renew any such permit, if due solely to the inadvertence of the person concerned, shall not cause him to cease to be entitled to assistance.
 
-(c). De plaatsen, waar dergelijke personen worden overgegeven, worden vastgesteld bij overeenkomsten tussen de bevoegde autoriteiten van het land van verblijf en van het land van herkomst.
+(b). Lawful residence shall become unlawful from the date of any deportation order made out against the person concerned, unless a stay of execution is granted.
 
-## TITEL III. VERBLIJF
+##### Article 12
 
-##### Artikel 11
+The commencing date of the period of residence laid down in Article 7 shall in each country be established, in the absence of evidence to the contrary, on the basis of evidence supplied by official investigation or by the documents listed in Annex III or any documents recognised by the laws and regulations of the country as affording proof of residence.
 
-(a). Het verblijf van een vreemdeling op het grondgebied van een der Verdragsluitende Partijen wordt als rechtmatig in de zin van dit Verdrag beschouwd zolang te zijnen aanzien een verblijfs- of andere soortgelijke vergunning van kracht is, welke op grond van de wetten en regelingen van het betrokken land vereist is voor het verblijf in dat land. Verzuim om een dergelijke vergunning te doen verlengen brengt voor de betrokken persoon geen verval van het recht op bijstand teweeg, indien het verzuim uitsluitend aan zijn achteloosheid te wijten is.
+##### Article 13
 
-(b). Rechtmatig verblijf wordt onrechtmatig op het ogenblik, waarop een bevel tot verwijdering tegen de betrokken persoon is uitgevaardigd, tenzij schorsing van de uitvoering wordt verleend.
+(a). Proof of continuity of residence may be shown by the production of any evidence acceptable in the country of residence, such as proof of occupational activity or the production of rent receipts.
 
-##### Artikel 12
+(b). - (i) Residence shall be regarded as continuous notwithstanding periods of absence of less than three months, provided that the absence is not caused by repatriation of deportation.
 
-Behoudens bewijs van het tegendeel wordt het aanvangstijdstip van het tijdvak van verblijf, vermeld in artikel 7, vastgesteld aan de hand van bewijsmateriaal verkregen door officieel onderzoek of van de in Bijlage III vermelde bewijsstukken of van alle bewijsstukken, die door de wetten en regelingen van het land worden erkend als bewijs van verblijf.
+- (ii) Periods of absence of six months or more shall be held to interrupt the continuity of residence.
 
-##### Artikel 13
+- (iii) In order to determine whether a period of absence of between three and six months shall interrupt the continuity of residence, regard shall be had to the intention or otherwise of the person concerned to return to the country of residence and to the extent to which he has preserved his connection therewith during the period of his absence.
 
-(a). De voortduring van het verblijf kan worden bewezen door overlegging van elk in het land van verblijf aanvaardbaar bewijsstuk, zoals een bewijs van beroepswerkzaamheden of overlegging van huurkwitanties.
+- (iv) Service in ships registered in the country of residence shall not be held to interrupt the continuity of residence. Service in other ships shall be treated in accordance with the provisions of sub-paragraphs (i) to (iii) above.
 
-- (i). Het verblijf wordt als voortdurend beschouwd ondanks tijdvakken van afwezigheid van minder dan drie maanden, mits de afwezigheid niet wordt veroorzaakt door repatriëring of verwijdering.
+##### Article 14
 
-- (ii). Tijdvakken van afwezigheid van zes maanden of langer worden beschouwd de voortduring van het verblijf te onderbreken.
+There shall be excluded in the calculation of length of residence those periods during which the person concerned has been in receipt of assistance from public monies as laid down in the legislative measures mentioned in Annex I, except in the case of medical treatment for acute illness or short-term medical treatment.
 
-- (iii). Teneinde te bepalen of een tijdvak van afwezigheid van meer dan drie en minder dan zes maanden de voortduring van het verblijf onderbreekt, wordt rekening gehouden met het voornemen van de betrokken persoon om naar het land van verblijf terug te keren en met de mate, waarin hij de banden met dat land heeft aangehouden gedurende het tijdvak zijner afwezigheid.
+#### SECTION IV. MISCELLANEOUS PROVISIONS
 
-- (iv). Het dienst doen op schepen, geregistreerd in het land van verblijf, wordt niet geacht de voortduring van het verblijf te onderbreken. Het dienst doen op andere schepen wordt behandeld in overeenstemming met de bepalingen van de alinea's (i) tot en met (iii) hierboven.
+##### Article 15
 
-##### Artikel 14
+The administrative, diplomatic and consular authorities of the Contracting Parties shall afford to one another all possible assistance in the implementation of this Convention.
 
-Het tijdvak, gedurende hetwelk de betrokken persoon bijstand heeft genoten uit publieke fondsen ingevolge wettelijke maatregelen, genoemd in Bijlage I, blijft bij de berekening van de duur van het verblijf buiten beschouwing, behalve ingeval van medische behandeling voor acute ziekten of medische behandeling van korte duur.
+##### Article 16
 
-## TITEL IV. DIVERSE BEPALINGEN
+(a). The Contracting Parties shall notify the Secretary-General of the Council of Europe of any subsequent amendment of their laws and regulations which may affect Annexes I and III.
 
-##### Artikel 15
+(b). Each Contracting Party shall notify to the Secretary-General of the Council of Europe any new law or regulation not already included in Annex I. At the time of making such notification a Contracting Party may make a reservation in respect of the application of this new law or regulation to the nationals of other Contracting Parties.
 
-De administratieve, diplomatieke en consulaire autoriteiten van de Verdragsluitende Partijen verlenen elkander alle mogelijke steun bij de uitvoering van dit Verdrag.
+(c). The Secretary-General of the Council of Europe shall communicate to the other Contracting Parties any information notified to him in accordance with paragraphs *(a)* and *(b).*
 
-##### Artikel 16
+##### Article 17
 
-(a). De Verdragsluitende Partijen verwittigen de Secretaris-Generaal van de Raad van Europa van iedere volgende wijziging van hun wetten en regelingen, welke de Bijlagen I en III raakt.
+The Contracting Parties may, by bilateral arrangement, take interim measures to deal with cases in which assistance was granted prior to the entry into force of this Convention.
 
-(b). Iedere Verdragsluitende Partij verwittigt de Secretaris-Generaal van de Raad van Europa van elke nieuwe wet of regeling, voorzover die nog niet in Bijlage I is opgenomen. Bij het doen van een dergelijke kennisgeving kan de Verdragsluitende Partij een voorbehoud maken met betrekking tot de toepassing van deze nieuwe wet of regeling op onderdanen van andere Verdragsluitende Partijen.
+##### Article 18
 
-(c). De Secretaris-Generaal van de Raad van Europa stelt de andere Verdragsluitende Partijen in kennis van elke inlichting, hem verstrekt ingevolge de leden **(a)** en **(b)**.
+The provisions of this Convention shall not limit the provisions of any national laws or regulations, international conventions or bilateral or multilateral agreements which are more favourable for the beneficiary.
 
-##### Artikel 17
+##### Article 19
 
-De Verdragsluitende Partijen kunnen bij bilaterale overeenkomst overgangsmaatregelen treffen voor de gevallen, waarin bijstand werd verleend vóór het in werking treden van dit Verdrag.
+Annexes I, II and III shall constitute an integral part of this Convention.
 
-##### Artikel 18
+##### Article 20
 
-De bepalingen van dit Verdrag hebben geen beperkende invloed op de bepalingen van nationale wetten of regelingen, van internationale verdragen of van bilaterale of multilaterale overeenkomsten, welke gunstiger zijn voor de rechthebbende.
+(a). The competent authorities of the Contracting Parties shall endeavour to resolve by negotiation any dispute relating to the interpretation or application of this Convention.
 
-##### Artikel 19
+(b). If any such dispute has not been resolved by negotiation within a period of three months, the dispute shall be submitted to arbitration by an arbitral body whose composition and procedure shall be agreed upon by the Contracting Parties concerned or, in default of such agreement within a further period of three months, by an arbitrator chosen at the request of any of the Contracting Parties concerned by the President of the International Court of Justice. Should the latter be a national of one of the Parties to the dispute, this task shall be entrusted to the Vice-President of the Court or to the next judge in order of seniority not a national of one of the Parties to the dispute.
 
-De Bijlagen I, II en III vormen een onverbrekelijk geheel met dit Verdrag.
+(c). The decision of the arbitral body or arbitrator, as the case may be, shall be made in accordance with the principles and spirit of this Convention and shall be final and binding.
 
-##### Artikel 20
+##### Article 21
 
-(a). De bevoegde autoriteiten van de Verdragsluitende Partijen trachten ieder geschil ten aanzien van de uitlegging of toepassing van dit Verdrag op te lossen door onderhandelingen.
+(a). This Convention shall be open to the signature of the Members of the Council of Europe. It shall be ratified. Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-(b). Indien een dergelijk geschil niet binnen drie maanden door onderhandelingen is opgelost, wordt het geschil ter arbitrage voorgelegd aan een scheidsrechterlijk orgaan, welks samenstelling en werkwijze door de Verdragsluitende Partijen in gemeen overleg worden geregeld, of bij gebreke van een dergelijke regeling in gemeen overleg binnen een volgend tijdvak van drie maanden, aan een scheidsman, op verzoek van de meest gerede der betrokken Verdragsluitende Partijen gekozen door de President van het Internationaal Gerechtshof. Indien de laatstgenoemde een onderdaan van een der Partijen in het geschil zou zijn, wordt deze taak toevertrouwd aan de Vice-President van het Hof of aan de in anciënniteit volgende rechter, die geen onderdaan van een der Partijen in het geschil is.
+(b). This Convention shall come into force on the first day of the month following the date of deposit of the second instrument of ratification.
 
-(c). De beslissing van het scheidsrechterlijk orgaan of van de scheidsman wordt gegeven in overeenstemming met de beginselen en de geest van het onderhavige Verdrag en is zonder beroep en bindend.
+(c). As regards any Signatory ratifying subsequently, the Convention shall come into force on the first day of the month following the date of the deposit of its instrument of ratification.
 
-##### Artikel 21
+##### Article 22
 
-(a). Dit Verdrag staat open voor ondertekening door de Leden van de Raad van Europa. Het dient te worden bekrachtigd. De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+(a). The Committee of Ministers of the Council of Europe may invite any State not a Member of the Council to accede to this Convention.
 
-(b). Dit Verdrag treedt in werking op de eerste dag van de maand, volgende op de nederlegging van de tweede akte van bekrachtiging.
+(b). Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the Council of Europe, which shall take effect on the first day of the month following the date of deposit.
 
-(c). Ten aanzien van iedere Staat, welke het Verdrag op een later tijdstip bekrachtigt, treedt het Verdrag in werking op de eerste dag van de maand, volgende op de nederlegging van zijn akte van bekrachtiging.
+(c). Any instrument of accession deposited in accordance with this Article shall be accompanied by a notification of such information as would be contained in the Annexes I and III to this Convention if the Government of the State concerned were, on the date of accession, a signatory hereto.
 
-##### Artikel 22
+(d). For the purposes of this Convention any information notified in accordance with paragraph *(c)* of this Article shall be deemed to be part of the Annex in which it would have been recorded if the Government of the State concerned were a signatory hereto.
 
-(a). Het Comité van Ministers van de Raad van Europa kan elke Staat, die geen Lid van de Raad ïs, uitnodigen om tot dit Verdrag toe te treden.
+##### Article 23
 
-(b). Toetreding vindt plaats door het nederleggen van een akte van toetreding bij de Secretaris-Generaal van de Raad van Europa, welke op de eerste dag van de volgende maand van kracht wordt.
+The Secretary-General of the Council of Europe shall notify the Members of the Council:
 
-(c). Elke akte van toetreding, nedergelegd in overeenstemming met dit artikel, wordt vergezeld van een mededeling van die inlichtingen, welke in de Bijlagen I en III van dit Verdrag zouden zijn opgenomen indien de Regering van de betrokken Staat op het tijdstip van de toetreding ondertekenaar van het Verdrag ware geweest.
+- (a) of the date of entry into force of this Convention and the names of any Members who ratify it;
 
-(d). Voor de toepassing van dit Verdrag wordt iedere inlichting, medegedeeld overeenkomstig lid **(c)** van dit artikel, geacht deel uit te maken van de Bijlage, waarin de inlichting zou zijn opgenomen indien de Regering van de betrokken Staat ondertekenaar ware.
+- (b) of the deposit of any instrument of accession in accordance with Article 22 and of such notifications as are received with it;
 
-##### Artikel 23
+- (c) of any notification received in accordance with Article 24 and its effective date.
 
-De Secretaris-Generaal van de Raad van Europa stelt de Leden van de Raad in kennis:
+##### Article 24
 
-- (a). van het tijdstip van inwerkingtreding van dit Verdrag en van de namen der Leden, die het bekrachtigen;
-
-- (b). van de nederlegging van elke akte van toetreding in overeenstemming met artikel 22 en van de begeleidende mededelingen;
-
-- (c). van elke mededeling, ontvangen overeenkomstig artikel 24, en van het tijdstip van inwerkingtreding daarvan.
-
-##### Artikel 24
-
-Dit Verdrag is gesloten voor de duur van twee jaren, te rekenen van het tijdstip van inwerkingtreding overeenkomstig artikel 21 **(b)**. Daarna blijft het van jaar tot jaar van kracht voor alle Verdragsluitende Partijen die het niet hebben opgezegd door middel van een daartoe strekkende mededeling aan de Secretaris-Generaal van de Raad van Europa ten minste zes maanden vóór het verstrijken van hetzij het aanvangstijdvak van twee jaren, hetzij van een volgend tijdvak van een jaar. Zodanige mededeling wordt van kracht aan het einde van het tijdvak waarop zij betrekking heeft.
+This Convention shall remain in force for a period of two years from the date of its entry into force in accordance with paragraph *(b)* of Article 21. Thereafter it shall remain in force from year to year for such Contracting Parties as have not denounced it by a notification to that effect addressed to the Secretary-General of the Council of Europe at least six months before the expiry either of the preliminary two-year period or of any subsequent yearly period. Such notification shall take effect at the end of the period to which it relates.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed the present Convention.
 

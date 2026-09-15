@@ -1,195 +1,148 @@
 ---
 title: "Verdrag nopens de rechtspositie van de Westeuropese Unie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf"
 identifier: "BWBV0005223"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-06-30"
-last_updated: "2011-06-30"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005223"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004521253"
-version_id: "10005020652"
-internal_id: "C10007574371"
-label_id: "10004506484"
-dtd_version: "2.0"
-original_entry_into_force: "2011-06-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005223/2011-06-30/0"
-intitule_bron: "Trb.2011-186"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2011-10-04"
-intitule_in_force: "2011-10-04"
-intitule_status: "vervallen"
-original_publication: "Trb.2011-186"
-original_published_date: "2011-10-04"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2011-186"
-entry_into_force_date: "2011-06-30"
-jci_1_3: "jci1.3:c:BWBV0005223&z=2011-06-30&g=2011-06-30"
-jci_1_0: "1.0:c:BWBV0005223&g=2011-06-30"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-06-30"
+publicatiedatum: 2011-06-30
+laatste_update: 2011-06-30
+status: geldig
+toestand: 2011-06-30
+bron: "https://wetten.overheid.nl/BWBV0005223"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag nopens de rechtspositie van de Westeuropese Unie, van de nationale vertegenwoordigers bij haar organen en van haar internationale staf
 
-De Staten die dit Verdrag ondertekenen,
+## PART I. — GENERAL
 
-Overwegende dat het voor de Westeuropese Unie, haar internationale staf en de vertegenwoordigers van Staten-Leden, die vergaderingen bijwonen van de Westeuropese Unie, noodzakelijk is een status te hebben welke de uitoefening van hun functies en de vervulling van hun zending vergemakkelijkt,
+##### Article 1
 
-Zijn overeengekomen als volgt:
+*Vervallen*
 
-## TITEL I. — ALGEMEEN
+##### Article 2
 
-##### Artikel 1
+*Vervallen*
 
-Vervallen
+## PART II. — THE ORGANISATION
 
-##### Artikel 2
+##### Article 3
 
-Vervallen
+*Vervallen*
 
-## TITEL II. — DE ORGANISATIE
+##### Article 4
 
-##### Artikel 3
+*Vervallen*
 
-Vervallen
+##### Article 5
 
-##### Artikel 4
+*Vervallen*
 
-Vervallen
+##### Article 6
 
-##### Artikel 5
+*Vervallen*
 
-Vervallen
+##### Article 7
 
-##### Artikel 6
+*Vervallen*
 
-Vervallen
+##### Article 8
 
-##### Artikel 7
+*Vervallen*
 
-Vervallen
+##### Article 9
 
-##### Artikel 8
+*Vervallen*
 
-Vervallen
+##### Article 10
 
-##### Artikel 9
+*Vervallen*
 
-Vervallen
+## PART III. — PERMANENT REPRESENTATIVES TO THE ORGANISATION
 
-##### Artikel 10
+##### Article 11
 
-Vervallen
+*Vervallen*
 
-## TITEL III. — PERMANENTE VERTEGENWOORDIGERS BIJ DE ORGANISATIE
+## PART IV. — REPRESENTATIVES TO THE COUNCIL AND ITS SUBSIDIARY BODIES
 
-##### Artikel 11
+##### Article 12
 
-Vervallen
+*Vervallen*
 
-## TITEL IV. — VERTEGENWOORDIGERS BIJ DE RAAD EN BIJ ZIJN HULPORGANEN
+##### Article 13
 
-##### Artikel 12
+*Vervallen*
 
-Vervallen
+##### Article 14
 
-##### Artikel 13
+*Vervallen*
 
-Vervallen
+##### Article 15
 
-##### Artikel 14
+*Vervallen*
 
-Vervallen
+## PART V. — REPRESENTATIVES TO THE ASSEMBLY
 
-##### Artikel 15
+##### Article 16
 
-Vervallen
+*Vervallen*
 
-## TITEL V. — VERTEGENWOORDIGERS BIJ DE VERGADERING
+##### Article 17
 
-##### Artikel 16
+*Vervallen*
 
-Vervallen
+##### Article 18
 
-##### Artikel 17
+*Vervallen*
 
-Vervallen
+## PART VI. — INTERNATIONAL STAFF AND EXPERTS ON MISSIONS FOR THE ORGANISATION
 
-##### Artikel 18
+##### Article 19
 
-Vervallen
+*Vervallen*
 
-## TITEL VI. — INTERNATIONALE STAF EN DESKUNDIGEN UITGEZONDEN VOOR DE ORGANISATIE
+##### Article 20
 
-##### Artikel 19
+*Vervallen*
 
-Vervallen
+##### Article 21
 
-##### Artikel 20
+*Vervallen*
 
-Vervallen
+##### Article 22
 
-##### Artikel 21
+*Vervallen*
 
-Vervallen
+##### Article 23
 
-##### Artikel 22
+*Vervallen*
 
-Vervallen
+##### Article 24
 
-##### Artikel 23
+*Vervallen*
 
-Vervallen
+##### Article 25
 
-##### Artikel 24
+*Vervallen*
 
-Vervallen
+## PART VII. — SETTLEMENT OF DISPUTES
 
-##### Artikel 25
+##### Article 26
 
-Vervallen
+*Vervallen*
 
-## TITEL VII. — BESLECHTING VAN GESCHILLEN
+## PART VIII. — SUPPLEMENTARY AGREEMENTS
 
-##### Artikel 26
+##### Article 27
 
-Vervallen
+*Vervallen*
 
-## TITEL VIII. — AANVULLENDE VERDRAGEN
+## PART IX. — FINAL PROVISIONS
 
-##### Artikel 27
+##### Article 28
 
-Vervallen
+*Vervallen*
 
-## TITEL IX. — SLOTBEPALINGEN
+##### Article 29
 
-##### Artikel 28
-
-Vervallen
-
-##### Artikel 29
-
-Vervallen
-
-In witness whereof the undersigned plenipotentiaries have signed the present Agreement.
-
-Done in Paris this 11th day of May, 1955, in French and in English, both texts being equally authoritative, in a single copy which shall be deposited in the Archives of the Government of Belgium which will transmit a certified copy to each of the signatory States.
-
-## TITEL I. — ALGEMEEN
-
-## TITEL II. — DE ORGANISATIE
-
-## TITEL III. — PERMANENTE VERTEGENWOORDIGERS BIJ DE ORGANISATIE
-
-## TITEL IV. — VERTEGENWOORDIGERS BIJ DE RAAD EN BIJ ZIJN HULPORGANEN
-
-## TITEL V. — VERTEGENWOORDIGERS BIJ DE VERGADERING
-
-## TITEL VI. — INTERNATIONALE STAF EN DESKUNDIGEN UITGEZONDEN VOOR DE ORGANISATIE
-
-## TITEL VII. — BESLECHTING VAN GESCHILLEN
-
-## TITEL VIII. — AANVULLENDE VERDRAGEN
-
-## TITEL IX. — SLOTBEPALINGEN
+*Vervallen*

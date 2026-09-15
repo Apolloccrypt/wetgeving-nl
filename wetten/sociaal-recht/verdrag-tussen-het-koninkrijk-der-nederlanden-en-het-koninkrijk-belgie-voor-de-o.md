@@ -1,78 +1,29 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid"
 identifier: "BWBV0005135"
-country: "nl"
-rank: "verdrag"
-publication_date: "2015-10-01"
-last_updated: "2015-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005135"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004482853"
-version_id: "10004695982"
-internal_id: "C10008928271"
-label_id: "10004467664"
-dtd_version: "2.0"
-original_entry_into_force: "2015-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005135/2015-10-01/0"
-intitule_bron: "Trb.2011-50"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-03-21"
-intitule_in_force: "2015-08-12"
-intitule_status: "goed"
-original_publication: "Trb.2011-50"
-original_published_date: "2011-03-21"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-50"
-entry_into_force_date: "2015-10-01"
-jci_1_3: "jci1.3:c:BWBV0005135&z=2015-10-01&g=2015-10-01"
-jci_1_0: "1.0:c:BWBV0005135&g=2015-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-10-01"
+publicatiedatum: 2015-10-01
+laatste_update: 2015-10-01
+status: geldig
+toestand: 2015-10-01
+bron: "https://wetten.overheid.nl/BWBV0005135"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid
 
-Het Koninkrijk der Nederlanden
+*Het Koninkrijk der Nederlanden en Het Koninkrijk België Hierna te noemen „de verdragsluitende partijen”; Wensende een diepgaande samenwerking te ontwikkelen tussen de voor de sociale zekerheid bevoegde autoriteiten en organen, voornamelijk met het oog op een betere toepassing en nadere uitwerking van de communautaire regels, meer in het bijzonder de bepalingen van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels; Om het vrije verkeer en de rechten van de sociaal verzekerden te waarborgen, en de houdbaarheid van de socialezekerheidsstelsels te verzekeren; Wensende tevens nadere afspraken te maken met het oog op de rechtmatige uitvoering van regelingen voor sociale bijstand en voor de wettelijke niet-contributieve inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend; De wil hebbende de functionele samenwerking te versterken en uit te breiden; Strevend naar een modernisering en een stroomlijning van de uitwisseling van gegevens, gelet op de ontwikkeling van technologieën en databases in het kader van het beheer van de sociale zekerheid; De wens hebbende de risico’s op fraude en onjuistheden te voorkomen en zich ervan te vergewissen dat de juiste personen de uitkeringen waarop ze daadwerkelijk recht hebben, op het gepaste tijdstip ontvangen; Hierbij steunend op een geïntegreerde aanpak gebaseerd op preventie, verificatie, controle, inspectie en een correcte afhandeling; Gebruik makend van de mogelijkheid geboden door de bepalingen van artikel 8, tweede lid, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels en van artikel 8, tweede lid, van Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels, die bepalen dat twee lidstaten van de Europese Unie onderling, voor zover daaraan behoefte bestaat, overeenkomsten kunnen sluiten welke op de beginselen en de geest van deze Verordening berusten; De wens hebbende bovendien de Resolutie 1999/C 125/01 van de Raad van de Europese Unie en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad van 22 april 1999 bijeen. over een gedragscode ter verbetering van de samenwerking tussen de autoriteiten van de lidstaten bij de bestrijding van grensoverschrijdende uitkerings- en premiefraude in de sociale zekerheid en zwartwerk, en met betrekking tot de grensoverschrijdende terbeschikkingstelling van werknemers, uit te voeren; De wens hebbende om, met het oog op een effectievere invordering en een soepeler werking van de coördinatieregels, de procedures inzake de wederzijdse bijstand tussen de organen bij de invordering van schuldvorderingen op het gebied van de sociale zekerheid te versterken. Effectieve invordering is tevens een middel om misbruik en fraude te voorkomen en aan te pakken en een manier om de houdbaarheid van de socialezekerheidsregelingen te verzekeren; Gelet op Richtlijn 95/46/EG van het Europees Parlement en van de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens; Zijn het volgende overeengekomen:*
 
-en
-
-Het Koninkrijk België
-
-Hierna te noemen „de verdragsluitende partijen”;
-
-Wensende een diepgaande samenwerking te ontwikkelen tussen de voor de sociale zekerheid bevoegde autoriteiten en organen, voornamelijk met het oog op een betere toepassing en nadere uitwerking van de communautaire regels, meer in het bijzonder de bepalingen van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;
-
-Om het vrije verkeer en de rechten van de sociaal verzekerden te waarborgen, en de houdbaarheid van de socialezekerheidsstelsels te verzekeren;
-
-Wensende tevens nadere afspraken te maken met het oog op de rechtmatige uitvoering van regelingen voor sociale bijstand en voor de wettelijke niet-contributieve inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend;
-
-De wil hebbende de functionele samenwerking te versterken en uit te breiden;
-
-Strevend naar een modernisering en een stroomlijning van de uitwisseling van gegevens, gelet op de ontwikkeling van technologieën en databases in het kader van het beheer van de sociale zekerheid;
-
-De wens hebbende de risico’s op fraude en onjuistheden te voorkomen en zich ervan te vergewissen dat de juiste personen de uitkeringen waarop ze daadwerkelijk recht hebben, op het gepaste tijdstip ontvangen;
-
-Hierbij steunend op een geïntegreerde aanpak gebaseerd op preventie, verificatie, controle, inspectie en een correcte afhandeling;
-
-Gebruik makend van de mogelijkheid geboden door de bepalingen van artikel 8, tweede lid, van [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels en van artikel 8, tweede lid, van [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels, die bepalen dat twee lidstaten van de Europese Unie onderling, voor zover daaraan behoefte bestaat, overeenkomsten kunnen sluiten welke op de beginselen en de geest van deze Verordening berusten;
-
-De wens hebbende bovendien de Resolutie 1999/C 125/01 van de Raad van de Europese Unie en de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad van 22 april 1999 bijeen. over een gedragscode ter verbetering van de samenwerking tussen de autoriteiten van de lidstaten bij de bestrijding van grensoverschrijdende uitkerings- en premiefraude in de sociale zekerheid en zwartwerk, en met betrekking tot de grensoverschrijdende terbeschikkingstelling van werknemers, uit te voeren;
-
-De wens hebbende om, met het oog op een effectievere invordering en een soepeler werking van de coördinatieregels, de procedures inzake de wederzijdse bijstand tussen de organen bij de invordering van schuldvorderingen op het gebied van de sociale zekerheid te versterken. Effectieve invordering is tevens een middel om misbruik en fraude te voorkomen en aan te pakken en een manier om de houdbaarheid van de socialezekerheidsregelingen te verzekeren;
-
-Gelet op [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en van de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens;
-
-Zijn het volgende overeengekomen:
-
-## TITEL I. ALGEMENE BEPALINGEN
+### TITEL I. ALGEMENE BEPALINGEN
 
 ##### Artikel 1. Definities
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
-- a. „Verordening”: [Verordening (EG) nr. 883/2004](32004R0883) van het Europees Parlement en van de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;
+- a. „Verordening”: Verordening (EG) nr. 883/2004 van het Europees Parlement en van de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels;
 
-- b. „Toepassingsverordening”: [Verordening (EG) nr. 987/2009](32009R0987) van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van [Verordening (EG) nr. 883/2004](32004R0883) betreffende de coördinatie van de socialezekerheidsstelsels;
+- b. „Toepassingsverordening”: Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels;
 
 - c. „bevoegde autoriteit”: de Ministers die, ieder wat hem betreft, belast zijn met de uitvoering van de wetgeving bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag;
 
@@ -100,11 +51,11 @@ Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele 
 
 Het territoriale toepassingsgebied van dit Verdrag is:
 
-- –. wat het Koninkrijk België betreft, het grondgebied van België;
+- – wat het Koninkrijk België betreft, het grondgebied van België;
 
-- –. wat het Koninkrijk der Nederlanden betreft, het grondgebied in Europa.
+- – wat het Koninkrijk der Nederlanden betreft, het grondgebied in Europa.
 
-## TITEL II. ALGEMENE PRINCIPES VAN DE SAMENWERKING
+### TITEL II. ALGEMENE PRINCIPES VAN DE SAMENWERKING
 
 ##### Artikel 5. Informatie over de ontwikkelingen van de wet- en regelgeving
 
@@ -132,7 +83,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 3. Deze gegevens worden uitsluitend gebruikt voor de toepassing van de respectievelijke wetgevingen van de Verdragsluitende Partijen, met name voor de regels betreffende het bepalen van de toepasbare wetgeving en voor de regels betreffende het verifiëren, voor zover nodig, van het recht van de betrokken personen op de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag bedoelde uitkeringen.
 
-4. Voor de verstrekte inlichtingen en documenten geldt de regeling voor de bescherming van gegevens van toepassing op het grondgebied van iedere Verdragsluitende Partij, krachtens de nationale, internationale en communautaire normen en in het bijzonder [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
+4. Voor de verstrekte inlichtingen en documenten geldt de regeling voor de bescherming van gegevens van toepassing op het grondgebied van iedere Verdragsluitende Partij, krachtens de nationale, internationale en communautaire normen en in het bijzonder Richtlijn 95/46/EG van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
 
 ##### Artikel 9. Wijze van overdracht en in verband brengen van bestanden
 
@@ -144,7 +95,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 4. Het bevoegde orgaan waaraan de aanvraag bedoeld in het tweede lid van dit artikel wordt gericht, bezorgt de gevraagde bestanden op de datum of volgens de periodiciteit die de bevoegde organen zijn overeengekomen in de samenwerkingsovereenkomsten als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
-## TITEL III. SAMENWERKING BETREFFENDE DE UITKERINGEN
+### TITEL III. SAMENWERKING BETREFFENDE DE UITKERINGEN
 
 ##### Artikel 10. Verificatie en cumulatie
 
@@ -164,13 +115,13 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 Op basis van de in dit Verdrag vermelde inlichtingen en controles, kan een bevoegd orgaan van een Verdragsluitende Partij een prestatie weigeren, schorsen of stopzetten.
 
-## TITEL IV. INVORDERING VAN BIJDRAGEN EN HEFFINGEN
+### TITEL IV. INVORDERING VAN BIJDRAGEN EN HEFFINGEN
 
 ##### Artikel 12. Procedure voor invordering en terugvordering
 
 De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toepassingsverordening door in de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag een procedure uit te werken voor de invordering van bijdragen en heffingen en de terugvordering van niet verschuldigde bedragen.
 
-## TITEL V. SAMENWERKING BETREFFENDE DE CONTROLES
+### TITEL V. SAMENWERKING BETREFFENDE DE CONTROLES
 
 ##### Artikel 13. De samenwerking betreffende de controles
 
@@ -190,7 +141,7 @@ De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ond
 
 2. In geval van geschil geven de Verdragsluitende Partijen uitvoering aan de beslissing nr. A1 van 12 juni 2009 van de Administratieve Commissie voor de coördinatie van de socialezekerheidsstelsels betreffende de instelling van een dialoog- en bemiddelingsprocedure met betrekking tot de geldigheid van documenten, het bepalen van de toepasselijke wetgeving en het verlenen van prestaties uit hoofde van de Verordening of aan eventuele beslissingen die de voornoemde beslissing zouden vervangen.
 
-## TITEL VI. NADERE UITVOERINGSREGELS
+### TITEL VI. NADERE UITVOERINGSREGELS
 
 ##### Artikel 16. Administratieve schikking
 
@@ -204,19 +155,19 @@ De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen d
 
 1. Een Gemengde Commissie wordt opgericht voor de opvolging van en de beslechting van geschillen betreffende de toepassing van dit Verdrag. De Gemengde Commissie zal uit de volgende leden zijn samengesteld:
 
-- –. voor het Koninkrijk België,
+- – voor het Koninkrijk België,
 
-- a. voor de bevoegde autoriteiten: de Voorzitter van het Directiecomité van de FOD Sociale Zekerheid of één of meerdere door hem aangeduide vertegenwoordigers;
+   - a. voor de bevoegde autoriteiten: de Voorzitter van het Directiecomité van de FOD Sociale Zekerheid of één of meerdere door hem aangeduide vertegenwoordigers;
 
-- b. voor de openbare instellingen van sociale zekerheid: één of meerdere vertegenwoordigers aangeduid door het College van Administrateurs-generaal;
+   - b. voor de openbare instellingen van sociale zekerheid: één of meerdere vertegenwoordigers aangeduid door het College van Administrateurs-generaal;
 
-- –. voor het Koninkrijk der Nederlanden,
+- – voor het Koninkrijk der Nederlanden,
 
-- c. één of meerdere door de Minister van Sociale Zaken en Werkgelegenheid aangewezen vertegenwoordigers.
+   - c. één of meerdere door de Minister van Sociale Zaken en Werkgelegenheid aangewezen vertegenwoordigers.
 
 2. De administratieve schikking, zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag, bepaalt de nadere regels voor de organisatie en werking van de Gemengde Commissie.
 
-## TITEL VII. OVERGANGS- EN SLOTBEPALINGEN
+### TITEL VII. OVERGANGS- EN SLOTBEPALINGEN
 
 ##### Artikel 19. Aanpassingsclausule
 
@@ -234,10 +185,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Brussel, op 6 december 2010, in tweevoud, in de Franse en de Nederlandse taal, zijnde beide gelijkelijk authentiek.
 
-**Voor het Koninkrijk der Nederlanden:**
+*Voor het Koninkrijk der Nederlanden:*
 
 KAMP
 
-**Voor het Koninkrijk België:**
+*Voor het Koninkrijk België:*
 
 L. ONKELIN

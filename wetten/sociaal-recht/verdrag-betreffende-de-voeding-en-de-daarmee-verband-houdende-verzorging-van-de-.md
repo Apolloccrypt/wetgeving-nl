@@ -1,127 +1,98 @@
 ---
 title: "Verdrag betreffende de voeding en de daarmee verband houdende verzorging van de bemanning aan boord van schepen"
 identifier: "BWBV0005438"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-08-20"
-last_updated: "2013-08-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005438"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004630223"
-version_id: "10005733432"
-internal_id: "C10008992611"
-label_id: "10004614724"
-dtd_version: "2.0"
-original_entry_into_force: "2013-08-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005438/2013-08-20/0"
-intitule_bron: "Trb.2015-159"
-intitule_effect: "intrekking-regeling"
-intitule_published: "2015-09-22"
-intitule_in_force: "2015-09-22"
-intitule_status: "vervallen"
-original_publication: "Trb.2015-159"
-original_published_date: "2015-09-22"
-original_effect: "intrekking-regeling"
-original_url_id: "trb-2015-159"
-entry_into_force_date: "2013-08-20"
-jci_1_3: "jci1.3:c:BWBV0005438&z=2013-08-20&g=2013-08-20"
-jci_1_0: "1.0:c:BWBV0005438&g=2013-08-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-08-20"
+publicatiedatum: 2013-08-20
+laatste_update: 2013-08-20
+status: geldig
+toestand: 2013-08-20
+bron: "https://wetten.overheid.nl/BWBV0005438"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag betreffende de voeding en de daarmee verband houdende verzorging van de bemanning aan boord van schepen
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie,
+##### Article 1
 
-Door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Seattle en aldaar bijeengekomen op 6 juni 1946 in haar achtentwintigste zitting,
+*Vervallen*
 
-Besloten hebbende, verschillende voorstellen aan te nemen betreffende de voeding en de daarmede verband houdende verzorging van de bemanning aan boord van schepen, welk onderwerp het vierde punt van de agenda der zitting vormt,
+##### Article 2
 
-Besloten hebbende, dat deze voorstellen de vorm zullen aannemen van een internationaal Verdrag,
+*Vervallen*
 
-Neemt heden, de 27ste juni 1946, het volgende Verdrag aan, hetwelk kan worden aangehaald als het „Verdrag betreffende de voeding en de daarmede verband houdende verzorging (bemanning van schepen), 1946”:
+##### Article 3
 
-##### Artikel 1
+*Vervallen*
 
-Vervallen
+##### Article 4
 
-##### Artikel 2
+*Vervallen*
 
-Vervallen
+##### Article 5
 
-##### Artikel 3
+*Vervallen*
 
-Vervallen
+##### Article 6
 
-##### Artikel 4
+*Vervallen*
 
-Vervallen
+##### Article 7
 
-##### Artikel 5
+*Vervallen*
 
-Vervallen
+##### Article 8
 
-##### Artikel 6
+*Vervallen*
 
-Vervallen
+##### Article 9
 
-##### Artikel 7
+*Vervallen*
 
-Vervallen
+##### Article 10
 
-##### Artikel 8
+*Vervallen*
 
-Vervallen
+##### Article 11
 
-##### Artikel 9
+*Vervallen*
 
-Vervallen
+##### Article 12
 
-##### Artikel 10
+*Vervallen*
 
-Vervallen
+##### Article 13
 
-##### Artikel 11
+*Vervallen*
 
-Vervallen
+##### Article 14
 
-##### Artikel 12
+*Vervallen*
 
-Vervallen
+##### Article 15
 
-##### Artikel 13
+*Vervallen*
 
-Vervallen
+##### Article 16
 
-##### Artikel 14
+*Vervallen*
 
-Vervallen
+##### Article 17
 
-##### Artikel 15
+*Vervallen*
 
-Vervallen
+##### Article 18
 
-##### Artikel 16
+*Vervallen*
 
-Vervallen
+##### Article 19
 
-##### Artikel 17
+*Vervallen*
 
-Vervallen
+##### Article 20
 
-##### Artikel 18
+*Vervallen*
 
-Vervallen
+##### Article 21
 
-##### Artikel 19
-
-Vervallen
-
-##### Artikel 20
-
-Vervallen
-
-##### Artikel 21
-
-Vervallen
+*Vervallen*

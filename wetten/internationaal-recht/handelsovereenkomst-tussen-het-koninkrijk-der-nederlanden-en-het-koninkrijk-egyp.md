@@ -1,38 +1,19 @@
 ---
 title: "Handelsovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Egypte"
 identifier: "BWBV0005203"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-03-21"
-last_updated: "1953-03-21"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005203"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004514593"
-version_id: "10004730672"
-internal_id: "C10007000931"
-label_id: "10004499094"
-dtd_version: "2.0"
-original_entry_into_force: "1953-03-21"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005203/1953-03-21/0"
-intitule_bron: "Trb.1953-43"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1953-05-28"
-intitule_in_force: "1953-05-28"
-intitule_status: "goed"
-original_publication: "Trb.1953-43"
-original_published_date: "1953-05-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1953-43"
-entry_into_force_date: "1953-03-21"
-jci_1_3: "jci1.3:c:BWBV0005203&z=1953-03-21&g=1953-03-21"
-jci_1_0: "1.0:c:BWBV0005203&g=1953-03-21"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-03-21"
+publicatiedatum: 1953-03-21
+laatste_update: 1953-03-21
+status: geldig
+toestand: 1953-03-21
+bron: "https://wetten.overheid.nl/BWBV0005203"
+opgehaald: 2026-09-15
 ---
+
 # Handelsovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Egypte
 
-Moved by the desire to promote and develop economic relations between their respective countries to the greatest possible extent, bearing in mind the exchange of notes of March 17th, 1930, concerning “most favoured nation” treatment, the Government of the Kingdom of Egypt and the Government of the Kingdom of the Netherlands have agreed upon the following provisions.
+*Moved by the desire to promote and develop economic relations between their respective countries to the greatest possible extent, bearing in mind the exchange of notes of March 17th, 1930, concerning “most favoured nation” treatment, the Government of the Kingdom of Egypt and the Government of the Kingdom of the Netherlands have agreed upon the following provisions.*
 
 ##### Article 1
 

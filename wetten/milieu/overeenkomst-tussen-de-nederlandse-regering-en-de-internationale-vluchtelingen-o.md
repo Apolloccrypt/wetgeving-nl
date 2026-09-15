@@ -1,62 +1,41 @@
 ---
 title: "Overeenkomst tussen de Nederlandse Regering en de Internationale Vluchtelingen Organisatie"
 identifier: "BWBV0005744"
-country: "nl"
-rank: "verdrag"
-publication_date: "1950-06-20"
-last_updated: "1950-06-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005744"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004854973"
-version_id: "10005159772"
-internal_id: "C10007834601"
-label_id: "10004838664"
-dtd_version: "2.0"
-original_entry_into_force: "1950-06-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005744/1950-06-20/0"
-intitule_bron: "Stb.1950-K 397"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-09-08"
-intitule_published: "1950-10-20"
-intitule_in_force: "1950-10-20"
-intitule_status: "goed"
-original_publication: "Stb.1950-K 397"
-original_signed_date: "1950-09-08"
-original_published_date: "1950-10-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1950-06-20"
-jci_1_3: "jci1.3:c:BWBV0005744&z=1950-06-20&g=1950-06-20"
-jci_1_0: "1.0:c:BWBV0005744&g=1950-06-20"
-citeertitel_status: "redactioneel"
-signed_date: "1950-09-08"
-entry_into_force: "1950-06-20"
+publicatiedatum: 1950-06-20
+laatste_update: 1950-06-20
+status: geldig
+toestand: 1950-06-20
+bron: "https://wetten.overheid.nl/BWBV0005744"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de Nederlandse Regering en de Internationale Vluchtelingen Organisatie
 
-##### Artikel 1
+##### Article 1
 
-De Nederlandse Regering en de Internationale Vluchtelingen Organisatie, wensende regelingen te treffen voor haar ondersteuning van bejaarde vluchtelingen onder mandaat van de Internationale Vluchtelingen Organisatie en aan hun gezinsleden, komen het volgende overeen inzake de voortdurende zorg en financiële onderstand van de dertig bejaarde vluchtelingen en hun tien gezinsleden, die begunstigden zijn krachtens de aangehechte lijfrente-verzekeringspolissen, uitgegeven door de Levensverzekeringmaatschappij van de Nederlandse Verzekering Maatschappij.
+The Netherlands Government and the International Refugee Organization, desiring to conclude arrangements for their assistance to aged refugees under the mandate of the International Refugee Organization, and to their dependents, agree as follows concerning the permanent care and financial support of the thirty aged refugees and their ten dependents, who are beneficiaries under the attached annuity insurance policies issued by the Life Assurance Company of the Netherlands Insurance Company.
 
-##### Artikel 2
+##### Article 2
 
-De Nederlandse Regering:
+The Netherlands Government:
 
-- (a). keurt de aanvaarding goed van dit schema van lijfrenten teneinde een aanvullende ondersteuning voor het leven te verlenen aan de veertig vluchtelingen, genoemd in artikel 1.
+- (a) Approves the adoption of this annuity scheme to provide supplementary assistance, on a life-time basis, to the forty refugees referred to in Article 1.
 
-- (b). gaat ermede accoord deze vluchtelingen als vaste ingezetenen van Nederland te aanvaarden, waaronder te verstaan: als vreemdelingen, aan wie toestemming tot verblijf in Nederland voor onbepaalde duur is verleend en die niet onderworpen zijn aan maatregelen van uitzetting uitsluitend op grond van armlastigheid.
+- (b) Agrees to accept these refugees as permanent residents of the Netherlands, that is to say, as aliens who have been granted a permit of residence in the Netherlands for an indefinite period and who are not subject to measures of expulsion, exclusively on the ground of indigency.
 
-- (c). gaat ermede accoord deze vluchtelingen zover mogelijk (in het bijzonder wat betreft onderstand van overheidswege en sociale zekerheid) een rechtspositie te verlenen, zoals beoogd binnen het kader van het Verdrag betreffende de Status van Vluchtelingen, opgesteld door de Verenigde Naties.
+- (c) Agrees to grant these refugees as far as possible (especially with respect to public relief and assistance and social security) a legal status as envisaged within the framework of the Convention Relating to the Status of Refugees as prepared by the United Nations.
 
-- (d). gaat ermede accoord uitkeringen tot ondersteuning van overheidswege zoals door deze groep benodigd, toe te staan, zonder aftrek te eisen van de aanvullende bedragen afkomstig van de lijfrenten krachtens deze polis.
+- (d) Agrees to permit grants of public assistance, as needed by this group, without requiring deductions of the supplementary amounts provided by the annuities under this policy.
 
-- (e). gaat accoord met het beginsel van rechtstreekse betaling van de lijfrenten aan de betrokken vluchtelingen.
+- (e) Agrees to the principle of direct payment of the annuities to the refugees concerned.
 
-##### Artikel 3
+##### Article 3
 
-De Internationale Vluchtelingen Organisatie:
+The International Refugee Organization:
 
-- (a). gaat ermede accoord de totale kosten van de premie, te weten 110.415 (een honderd en tien duizend vier honderd en vijftien) Nederlandse guldens te betalen voor de lijfrenten voor het leven ten behoeve van de betrokken vluchtelingen.
+- (a) Agrees to pay the total cost of the premium, or Dutch guilders 110,415 (hundred and ten thousand four hundred fifteen) for lifetime annuities for the refugees concerned.
 
 Done in duplicate at The Hague, June 20, 1950.
 
@@ -64,10 +43,10 @@ For the Netherlands Government:
 
 (s.) STIKKER
 
-**Minister of Foreign Affairs.**
+*Minister of Foreign Affairs.*
 
 For the International Refugee Organization
 
 (s.) H. M. L. H. SARK.
 
-**Netherlands Representative.**
+*Netherlands Representative.*

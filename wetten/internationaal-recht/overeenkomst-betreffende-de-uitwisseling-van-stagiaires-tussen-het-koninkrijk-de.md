@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst betreffende de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk"
 identifier: "BWBV0005140"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-06-01"
-last_updated: "1955-06-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005140"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004484533"
-version_id: "10004697532"
-internal_id: "C10007040321"
-label_id: "10004469174"
-dtd_version: "2.0"
-original_entry_into_force: "1955-06-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005140/1955-06-01/0"
-intitule_bron: "Trb.1955-12"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1955-02-01"
-intitule_in_force: "1955-05-09"
-intitule_status: "goed"
-original_publication: "Trb.1955-12"
-original_published_date: "1955-02-01"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-12"
-entry_into_force_date: "1955-06-01"
-jci_1_3: "jci1.3:c:BWBV0005140&z=1955-06-01&g=1955-06-01"
-jci_1_0: "1.0:c:BWBV0005140&g=1955-06-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-06-01"
+publicatiedatum: 1955-06-01
+laatste_update: 1955-06-01
+status: geldig
+toestand: 1955-06-01
+bron: "https://wetten.overheid.nl/BWBV0005140"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst betreffende de uitwisseling van stagiaires tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Oostenrijk,
-
-strevende naar een nauwere samenwerking op sociaal gebied en
-
-uitgaande van de overweging, dat het van belang is, de uitwisseling van stagiaires tussen hun landen te bevorderen ter verkrijging van een grotere kennis van de taal en van een verdere vakopleiding,
-
-hebben omtrent de volgende bepalingen overeenstemming bereikt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Oostenrijk, strevende naar een nauwere samenwerking op sociaal gebied en uitgaande van de overweging, dat het van belang is, de uitwisseling van stagiaires tussen hun landen te bevorderen ter verkrijging van een grotere kennis van de taal en van een verdere vakopleiding, hebben omtrent de volgende bepalingen overeenstemming bereikt:*
 
 ##### Artikel 1
 

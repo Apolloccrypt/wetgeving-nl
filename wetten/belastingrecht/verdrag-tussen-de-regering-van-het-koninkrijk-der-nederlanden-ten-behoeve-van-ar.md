@@ -1,40 +1,19 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen"
 identifier: "BWBV0005610"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-04-01"
-last_updated: "2013-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005610"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004760083"
-version_id: "10005036732"
-internal_id: "C10008271961"
-label_id: "10004743904"
-dtd_version: "2.0"
-original_entry_into_force: "2013-04-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005610/2013-04-01/0"
-intitule_bron: "Trb.2011-254"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-12-15"
-intitule_in_force: "2013-03-22"
-intitule_status: "goed"
-original_publication: "Trb.2011-254"
-original_published_date: "2011-12-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-254"
-entry_into_force_date: "2013-04-01"
-jci_1_3: "jci1.3:c:BWBV0005610&z=2013-04-01&g=2013-04-01"
-jci_1_0: "1.0:c:BWBV0005610&g=2013-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-04-01"
+publicatiedatum: 2013-04-01
+laatste_update: 2013-04-01
+status: geldig
+toestand: 2013-04-01
+bron: "https://wetten.overheid.nl/BWBV0005610"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Franse Republiek inzake de uitwisseling van informatie betreffende belastingen
 
-Overwegend dat de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Franse Republiek („de verdragsluitende partijen”) de voorwaarden voor de uitwisseling van informatie betreffende belastingen wensen te verbeteren en te vergemakkelijken;
-
-Zijn de verdragsluitende partijen thans overeengekomen het volgende verdrag te sluiten waarin uitsluitend de verplichtingen van de verdragsluitende partijen zijn vervat:
+*Overwegend dat de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba, en de Regering van de Franse Republiek („de verdragsluitende partijen”) de voorwaarden voor de uitwisseling van informatie betreffende belastingen wensen te verbeteren en te vergemakkelijken; Zijn de verdragsluitende partijen thans overeengekomen het volgende verdrag te sluiten waarin uitsluitend de verplichtingen van de verdragsluitende partijen zijn vervat:*
 
 ##### Artikel 1. Doelstelling en reikwijdte van het Verdrag
 
@@ -68,9 +47,9 @@ Teneinde de implementatie van de bepalingen van dit Verdrag mogelijk te maken wo
 
 - c. wordt verstaan onder de uitdrukking „bevoegde autoriteit”:
 
-- i. wat Frankrijk betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
+   - i. wat Frankrijk betreft, de minister van Financiën of zijn bevoegde vertegenwoordiger;
 
-- ii. wat Aruba betreft, de minister belast met Financiën of zijn bevoegde vertegenwoordiger;
+   - ii. wat Aruba betreft, de minister belast met Financiën of zijn bevoegde vertegenwoordiger;
 
 - d. wordt verstaan onder de uitdrukking „persoon” een natuurlijke persoon, een rechtspersoon of een lichaam of vereniging van dergelijke personen;
 
@@ -104,11 +83,11 @@ Teneinde de implementatie van de bepalingen van dit Verdrag mogelijk te maken wo
 
 - b.
 
-- i. informatie met betrekking tot de juridische en feitelijke eigendom van lichamen, samenwerkingsverbanden, collectieve beleggingsregelingen en andere personen;
+   - i. informatie met betrekking tot de juridische en feitelijke eigendom van lichamen, samenwerkingsverbanden, collectieve beleggingsregelingen en andere personen;
 
-- ii. in het geval van trusts informatie over instellers, trustees, begunstigden en borgen; en
+   - ii. in het geval van trusts informatie over instellers, trustees, begunstigden en borgen; en
 
-- iii. in het geval van een stichting, informatie over de stichters, leden van het bestuur van de stichting en begunstigden.
+   - iii. in het geval van een stichting, informatie over de stichters, leden van het bestuur van de stichting en begunstigden.
 
 5. De bevoegde autoriteit van de verzoekende partij verstrekt de volgende informatie aan de bevoegde autoriteit van de aangezochte partij:
 
@@ -148,7 +127,7 @@ De verdragsluitende partijen kunnen elkaar zonder voorafgaand verzoek informatie
 
 ##### Artikel 8. Mogelijkheid een verzoek af te wijzen
 
-1. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan of indien openbaarmaking van de verzochte informatie in strijd zou zijn met de openbare orde (**ordre public**).
+1. De bevoegde autoriteit van de aangezochte partij kan weigeren bijstand te verlenen indien het verzoek niet in overeenstemming met dit Verdrag is gedaan of indien openbaarmaking van de verzochte informatie in strijd zou zijn met de openbare orde (*ordre public*).
 
 2. De bepalingen van dit Verdrag verplichten een verdragsluitende partij niet informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel, commercieel of beroepsgeheim (vertrouwelijke communicatie tussen een cliënt en een advocaat of een andere erkende juridische vertegenwoordiger, indien deze plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch advies of ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures) of een handelsproces zou onthullen, met dien verstande dat de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005610&artikel=5&z=2013-04-01&g=2013-04-01), omschreven informatie niet uitsluitend op grond van dat feit als geheim of handelsproces wordt behandeld.
 
@@ -206,10 +185,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN in tweevoud te Den Haag op 14 november 2011, in de Nederlandse en de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba,**
+*Voor de Regering van het Koninkrijk der Nederlanden, ten behoeve van Aruba,*
 
 E. ABATH
 
-**Voor de Regering van de Franse Republiek,**
+*Voor de Regering van de Franse Republiek,*
 
 P. MENAT

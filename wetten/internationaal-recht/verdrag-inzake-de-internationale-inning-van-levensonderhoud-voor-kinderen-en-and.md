@@ -1,871 +1,834 @@
 ---
 title: "Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden"
 identifier: "BWBV0005392"
-country: "nl"
-rank: "verdrag"
-publication_date: "2007-11-23"
-last_updated: "2007-11-23"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005392"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004609493"
-version_id: "10004860262"
-internal_id: "C10007290731"
-label_id: "10004595424"
-dtd_version: "2.0"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005392/2007-11-23/0"
-intitule_bron: "Trb.2011-144"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-08-19"
-intitule_status: "nogniet"
-original_publication: "Trb.2011-144"
-original_published_date: "2011-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-144"
-jci_1_3: "jci1.3:c:BWBV0005392&z=2007-11-23&g=2007-11-23"
-jci_1_0: "1.0:c:BWBV0005392&g=2007-11-23"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-08-19"
+laatste_update: 2007-11-23
+status: geldig
+toestand: 2007-11-23
+bron: "https://wetten.overheid.nl/BWBV0005392"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag inzake de internationale inning van levensonderhoud voor kinderen en andere familieleden
 
-De staten die dit Verdrag hebben ondertekend,
+*PREAMBLE The States signatory to the present Convention, Desiring to improve co-operation among States for the international recovery of child support and other forms of family maintenance, Aware of the need for procedures which produce results and are accessible, prompt, efficient, cost-effective, responsive and fair Wishing to build upon the best features of existing Hague Conventions and other international instruments, in particular the United Nations Convention on the Recovery Abroad of Maintenance of 20 June 1956, Seeking to take advantage of advances in technologies and to create a flexible system which can continue to evolve as needs change and further advances in technology create new opportunities, Recalling that, in accordance with Articles 3 and 27 of the United Nations Convention on the Rights of the Child of 20 November 1989, – in all actions concerning children the best interests of the child shall be a primary consideration, – every child has a right to a standard of living adequate for the child’s physical, mental, spiritual, moral and social development, – the parent(s) or others responsible for the child have the primary responsibility to secure, within their abilities and financial capacities, the conditions of living necessary for the child’s development, and – States Parties should take all appropriate measures, including the conclusion of international agreements, to secure the recovery of maintenance for the child from the parent(s) or other responsible persons, in particular where such persons live in a State different from that of the child, Have resolved to conclude this Convention and have agreed upon the following provisions –*
 
-Geleid door de wens de samenwerking tussen staten ten behoeve van de internationale inning van levensonderhoud voor kinderen en andere familieleden te verbeteren,
+### CHAPTER I. OBJECT, SCOPE AND DEFINITIONS
 
-Zich bewust van de noodzaak van resultaatgerichte procedures die toegankelijk, snel, efficiënt, kosteneffectief en rechtvaardig zijn en tegemoetkomen aan de behoeften,
+##### Article 1. Object
 
-Geleid door de wens voort te bouwen op de sterke punten van bestaande Haagse verdragen en andere internationale instrumenten, met name het [Verdrag van de Verenigde Naties inzake het verhaal in het buitenland van uitkeringen tot onderhoud](https://wetten.overheid.nl/jci1.3:c:BWBV0005233) van 20 juni 1956,
+The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by –
 
-Ernaar strevend gebruik te maken van de technologische vooruitgang en een flexibel systeem te creëren dat verder kan worden ontwikkeld naarmate de behoeften veranderen en kan worden aangepast aan verdere ontwikkelingen op technologisch gebied die nieuwe mogelijkheden creëren,
+- a) establishing a comprehensive system of co-operation between the authorities of the Contracting States;
 
-Eraan herinnerend dat op grond van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0002508&artikel=3) en [27 van het Verdrag van de Verenigde Naties inzake de rechten van het kind](https://wetten.overheid.nl/jci1.3:c:BWBV0002508&artikel=27) van 20 november 1989,
+- b) making available applications for the establishment of maintenance decisions;
 
-bij alle maatregelen betreffende kinderen het belang van het kind een eerste overweging vormt,
+- c) providing for the recognition and enforcement of maintenance decisions; and
 
-elk kind recht heeft op een levensstandaard die toereikend is voor zijn lichamelijke, geestelijke, intellectuele, morele en maatschappelijke ontwikkeling,
+- d) requiring effective measures for the prompt enforcement of maintenance decisions.
 
-de ouder(s) of anderen die verantwoordelijk zijn voor het kind, de primaire verantwoordelijkheid hebben voor het waarborgen, naar vermogen en binnen de grenzen van hun financiële mogelijkheden, van de levensomstandigheden die nodig zijn voor de ontwikkeling van het kind, en
+##### Article 2. Scope
 
-de staten die partij zijn alle passende maatregelen nemen, met inbegrip van het sluiten van internationale overeenkomsten, om de inning te waarborgen van het levensonderhoud van het kind bij de ouder(s) of andere personen die de verantwoordelijkheid voor het kind dragen, met name wanneer deze personen in een andere staat wonen dan het kind,
+1. This Convention shall apply –
 
-Hebben besloten dit Verdrag te sluiten en hebben overeenstemming bereikt omtrent de volgende bepalingen:
+- a) to maintenance obligations arising from a parent-child relationship towards a person under the age of 21 years;
 
-### HOOFDSTUK I. DOELSTELLING, TOEPASSINGSGEBIED EN BEGRIPSOMSCHIJVINGEN
+- b) to recognition and enforcement or enforcement of a decision for spousal support when the application is made with a claim within the scope of sub-paragraph a); and
 
-##### Artikel 1. Doelstelling
+- c) with the exception of [Chapters II](https://wetten.overheid.nl/BWBV0005392) and [III](https://wetten.overheid.nl/BWBV0005392), to spousal support.
 
-Doelstelling van dit Verdrag is de effectieve internationale inning van levensonderhoud voor kinderen en andere familieleden te waarborgen, in het bijzonder door:
+2. Any Contracting State may reserve, in accordance with [Article 62](https://wetten.overheid.nl/BWBV0005392), the right to limit the application of the Convention under sub-paragraph 1 a), to persons who have not attained the age of 18 years. A Contracting State which makes this reservation shall not be entitled to claim the application of the Convention to persons of the age excluded by its reservation.
 
-- a. een allesomvattend systeem van samenwerking tussen de autoriteiten van de verdragsluitende staten in te stellen;
+3. Any Contracting State may declare in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392) that it will extend the application of the whole or any part of the Convention to any maintenance obligation arising from a family relationship, parentage, marriage or affinity, including in particular obligations in respect of vulnerable persons. Any such declaration shall give rise to obligations between two Contracting States only in so far as their declarations cover the same maintenance obligations and parts of the Convention.
 
-- b. verzoeken met het oog op de vaststelling van beslissingen inzake levensonderhoud mogelijk te maken;
+4. The provisions of this Convention shall apply to children regardless of the marital status of the parents.
 
-- c. te zorgen voor de erkenning en tenuitvoerlegging van beslissingen inzake levensonderhoud; en
+##### Article 3. Definitions
 
-- d. effectieve maatregelen te eisen voor de snelle tenuitvoerlegging van beslissingen inzake levensonderhoud.
+For the purposes of this Convention –
 
-##### Artikel 2. Toepassingsgebied
+- a) “creditor” means an individual to whom maintenance is owed or is alleged to be owed;
 
-1. Dit Verdrag is van toepassing op:
+- b) “debtor” means an individual who owes or who is alleged to owe maintenance;
 
-- a. onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een persoon jonger dan 21 jaar;
+- c) “legal assistance” means the assistance necessary to enable applicants to know and assert their rights and to ensure that applications are fully and effectively dealt with in the requested State. The means of providing such assistance may include as necessary legal advice, assistance in bringing a case before an authority, legal representation and exemption from costs of proceedings;
 
-- b. de erkenning en tenuitvoerlegging dan wel de tenuitvoerlegging van een beslissing inzake onderhoudsverplichtingen tussen echtgenoten en ex-echtgenoten wanneer het verzoek wordt ingediend samen met een vordering die valt binnen het toepassingsgebied van onderdeel a; en
+- d) “agreement in writing” means an agreement recorded in any medium, the information contained in which is accessible so as to be usable for subsequent reference;
 
-- c. met uitzondering van de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&z=2007-11-23&g=2007-11-23) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23), op onderhoudsverplichtingen tussen echtgenoten en ex-echtgenoten.
+- e) “maintenance arrangement” means an agreement in writing relating to the payment of maintenance which – and may be the subject of review and modification by a competent authority;
 
-2. Elke verdragsluitende staat kan zich in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) het recht voorbehouden de toepassing van het Verdrag, wat het eerste lid, onderdeel a), betreft, te beperken tot personen die de leeftijd van 18 jaar nog niet hebben bereikt. Een verdragsluitende staat die een dergelijk voorbehoud maakt, heeft niet het recht de toepassing te verlangen van het Verdrag op personen die vanwege hun leeftijd door zijn voorbehoud zijn uitgesloten.
+   - (i) has been formally drawn up or registered as an authentic instrument by a competent authority; or
 
-3. Elke verdragsluitende staat kan in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat hij de toepassing van het gehele Verdrag of een deel ervan uitbreidt tot andere onderhoudsverplichtingen die voortvloeien uit familiebetrekkingen, bloedverwantschap, huwelijk of aanverwantschap, waaronder in het bijzonder verplichtingen jegens kwetsbare personen. Een dergelijke verklaring doet alleen verplichtingen ontstaan tussen twee verdragsluitende staten indien hun verklaringen betrekking hebben op dezelfde onderhoudsverplichtingen en dezelfde delen van het Verdrag.
+   - (ii) has been authenticated by, or concluded, registered or filed with a competent authority,
 
-4. De bepalingen van dit Verdrag zijn van toepassing op kinderen ongeacht de burgerlijke staat van de ouders.
+- f) “vulnerable person” means a person who, by reason of an impairment or insufficiency of his or her personal faculties, is not able to support him or herself.
 
-##### Artikel 3. Begripsomschrijvingen
+### CHAPTER II. ADMINISTRATIVE CO-OPERATION
 
-Voor de toepassing van dit Verdrag wordt verstaan onder:
+##### Article 4. Designation of Central Authorities
 
-- a. „onderhoudsgerechtigde”: een persoon aan wie levensonderhoud is verschuldigd of van wie wordt gesteld dat levensonderhoud aan hem is verschuldigd;
+1. A Contracting State shall designate a Central Authority to discharge the duties that are imposed by the Convention on such an authority.
 
-- b. „onderhoudsplichtige”: een persoon die levensonderhoud is verschuldigd of ten aanzien van wie wordt gesteld dat hij levensonderhoud is verschuldigd;
+2. Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
 
-- c. „rechtsbijstand”: de bijstand die verzoekers nodig hebben om hun rechten te kennen en te doen gelden en om te waarborgen dat verzoeken volledig en effectief worden behandeld in de aangezochte staat. Deze bijstand kan in voorkomend geval worden verleend in de vorm van juridisch advies, bijstand om een zaak bij een autoriteit aanhangig te maken, vertegenwoordiging in rechte en vrijstelling van proceskosten;
+3. The designation of the Central Authority or Central Authorities, their contact details, and where appropriate the extent of their functions as specified in paragraph 2, shall be communicated by a Contracting State to the Permanent Bureau of the Hague Conference on Private International Law at the time when the instrument of ratification or accession is deposited or when a declaration is submitted in accordance with [Article 61](https://wetten.overheid.nl/BWBV0005392). Contracting States shall promptly inform the Permanent Bureau of any changes.
 
-- d. „schriftelijke overeenkomst”: een overeenkomst die is vastgelegd in een gegevensdrager, waarvan de inhoud toegankelijk en bruikbaar is voor inzage op een later tijdstip;
+##### Article 5. General functions of Central Authorities
 
-- e. „regeling inzake levensonderhoud”: een schriftelijke overeenkomst met betrekking tot de betaling van levensonderhoud die: en door een bevoegde autoriteit kan worden getoetst en gewijzigd;
+Central Authorities shall –
 
-- i. als authentieke akte formeel is verleden of geregistreerd door een bevoegde autoriteit; of
+- a) co-operate with each other and promote co-operation amongst the competent authorities in their States to achieve the purposes of the Convention;
 
-- ii. authentiek is verklaard of is geregistreerd door, of gesloten, met of nedergelegd bij een bevoegde autoriteit;
+- b) seek as far as possible solutions to difficulties which arise in the application of the Convention.
 
-- f. „kwetsbare persoon”: een persoon die vanwege een aantasting of ontoereikendheid van zijn persoonlijke vermogens niet in staat is zichzelf te onderhouden.
+##### Article 6. Specific functions of Central Authorities
 
-### HOOFDSTUK II. ADMINISTRATIEVE SAMENWERKING
+1. Central Authorities shall provide assistance in relation to applications under [Chapter III](https://wetten.overheid.nl/BWBV0005392). In particular they shall –
 
-##### Artikel 4. Aanwijzing van centrale autoriteiten
+- a) transmit and receive such applications;
 
-1. Elke verdragsluitende staat wijst een centrale autoriteit aan die is belast met de haar door dit Verdrag oplegde taken.
+- b) initiate or facilitate the institution of proceedings in respect of such applications.
 
-2. Federale staten, staten met meer dan één rechtsstelsel of staten die autonome territoriale eenheden omvatten, staat het vrij meer dan één centrale autoriteit aan te wijzen, en de territoriale of personele reikwijdte van hun taken aan te geven. Een staat die meer dan één centrale autoriteit heeft aangewezen, wijst de centrale autoriteit aan waaraan alle mededelingen kunnen worden gericht met het oog op doorgeleiding daarvan aan de bevoegde centrale autoriteit binnen deze staat.
+2. In relation to such applications they shall take all appropriate measures –
 
-3. De verdragsluitende staat stelt het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht in kennis van de aanwijzing van de centrale autoriteit of centrale autoriteiten, hun contactgegevens en, indien van toepassing, de reikwijdte van hun taken zoals omschreven in het tweede lid, op het tijdstip waarop de akte van bekrachtiging of toetreding wordt nedergelegd of wanneer een verklaring in overeenstemming met [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) wordt afgelegd. De verdragsluitende staten stellen het Permanent Bureau onverwijld in kennis van eventuele wijzigingen.
+- a) where the circumstances require, to provide or facilitate the provision of legal assistance;
 
-##### Artikel 5. Algemene taken van de centrale autoriteiten
+- b) to help locate the debtor or the creditor;
 
-De centrale autoriteiten:
+- c) to help obtain relevant information concerning the income and, if necessary, other financial circumstances of the debtor or creditor, including the location of assets;
 
-- a. werken onderling samen en bevorderen de samenwerking tussen de bevoegde autoriteiten in hun staten teneinde de doelstellingen van het Verdrag te verwezenlijken;
+- d) to encourage amicable solutions with a view to obtaining voluntary payment of maintenance, where suitable by use of mediation, conciliation or similar processes;
 
-- b. zoeken zoveel mogelijk naar oplossingen voor moeilijkheden die zich voordoen bij de toepassing van het Verdrag.
+- e) to facilitate the ongoing enforcement of maintenance decisions, including any arrears;
 
-##### Artikel 6. Specifieke taken van de centrale autoriteiten
+- f) to facilitate the collection and expeditious transfer of maintenance payments;
 
-1. De centrale autoriteiten verlenen bijstand met betrekking tot verzoeken in de zin van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23). In het bijzonder door:
+- g) to facilitate the obtaining of documentary or other evidence;
 
-- a. dergelijke verzoeken te verzenden en te ontvangen;
+- h) to provide assistance in establishing parentage where necessary for the recovery of maintenance;
 
-- b. procedures in verband met dergelijke verzoeken in te stellen of het instellen ervan te vergemakkelijken.
+- i) to initiate or facilitate the institution of proceedings to obtain any necessary provisional measures that are territorial in nature and the purpose of which is to secure the outcome of a pending maintenance application;
 
-2. Met betrekking tot deze verzoeken nemen zij alle passende maatregelen om:
+- j) to facilitate service of documents.
 
-- a. wanneer de omstandigheden het vereisen, rechtsbijstand te verlenen of de verkrijging van rechtsbijstand te vergemakkelijken;
+3. The functions of the Central Authority under this Article may, to the extent permitted under the law of its State, be performed by public bodies, or other bodies subject to the supervision of the competent authorities of that State. The designation of any such public bodies or other bodies, as well as their contact details and the extent of their functions, shall be communicated by a Contracting State to the Permanent Bureau of the Hague Conference on Private International Law. Contracting States shall promptly inform the Permanent.
 
-- b. de onderhoudsplichtige of onderhoudsgerechtigde te helpen lokaliseren;
+4. Nothing in this Article or [Article 7](https://wetten.overheid.nl/BWBV0005392) shall be interpreted as imposing an obligation on a Central Authority to exercise powers that can be exercised only by judicial authorities under the law of the requested State.
 
-- c. de verkrijging van relevante informatie over het inkomen en, indien nodig, andere financiële omstandigheden van de onderhoudsplichtige of de onderhoudsgerechtigde te vergemakkelijken, met inbegrip van het lokaliseren van vermogensbestanddelen;
+##### Article 7. Requests for specific measures
 
-- d. indien passend door de gebruikmaking van bemiddeling, verzoening of soortgelijke methoden een minnelijke schikking te bevorderen met het oog op het bewerkstelligen van vrijwillige betaling van levensonderhoud;
+1. A Central Authority may make a request, supported by reasons, to another Central Authority to take appropriate specific measures under [Article 6(2) b), c), g), h), i) and j)](https://wetten.overheid.nl/BWBV0005392) when no application under [Article 10](https://wetten.overheid.nl/BWBV0005392) is pending. The requested Central Authority shall take such measures as are appropriate if satisfied that they are necessary to assist a potential applicant in making an application under Article 10 or in determining whether such an application should be initiated.
 
-- e. de doorlopende tenuitvoerlegging van beslissingen inzake levensonderhoud, met inbegrip van achterstallige bedragen, te vergemakkelijken;
+2. A Central Authority may also take specific measures on the request of another Central Authority in relation to a case having an international element concerning the recovery of maintenance pending in the requesting State.
 
-- f. de inning en snelle overmaking van betalingen van levensonderhoud te vergemakkelijken;
+##### Article 8. Central Authority costs
 
-- g. de verkrijging van bewijsstukken of ander bewijs te vergemakkelijken;
+1. Each Central Authority shall bear its own costs in applying this Convention.
 
-- h. bijstand te verlenen bij de vaststelling van de afstamming wanneer dat noodzakelijk is voor de inning van levensonderhoud;
+2. Central Authorities may not impose any charge on an applicant for the provision of their services under the Convention save for exceptional costs arising from a request for a specific measure under [Article 7](https://wetten.overheid.nl/BWBV0005392).
 
-- i. procedures in te stellen of het instellen ervan te vergemakkelijken, ter verkrijging van voorlopige maatregelen van territoriale aard die ten doel hebben de uitkomst van een aanhangig verzoek inzake levensonderhoud zeker te stellen;
+3. The requested Central Authority may not recover the costs of the services referred to in paragraph 2 without the prior consent of the applicant to the provision of those services at such cost.
 
-- j. de betekening en de kennisgeving van stukken te vergemakkelijken.
+### CHAPTER III. APPLICATIONS THROUGH CENTRAL AUTHORITIES
 
-3. De taken van de centrale autoriteit krachtens dit artikel kunnen, voor zover het recht van de betrokken staat dit toestaat, worden uitgeoefend door overheidslichamen of andere lichamen die onder toezicht staan van de bevoegde autoriteiten van die staat. De verdragsluitende staat stelt het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht in kennis van de aanwijzing van dergelijke overheidslichamen of andere lichamen, van hun contactgevens alsmede van de reikwijdte van hun taken. De verdragsluitende staten stellen het Permanent Bureau onverwijld in kennis van eventuele wijzigingen.
+##### Article 9. Application through Central Authorities
 
-4. Niets in dit artikel of in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=7&z=2007-11-23&g=2007-11-23) mag aldus worden uitgelegd, dat een centrale autoriteit de verplichting wordt opgelegd bevoegdheden uit te oefenen die krachtens het recht van de aangezochte staat slechts door gerechtelijke autoriteiten kunnen worden uitgeoefend.
+An application under this Chapter shall be made through the Central Authority of the Contracting State in which the applicant resides to the Central Authority of the requested State. For the purpose of this provision, residence excludes mere presence.
 
-##### Artikel 7. Verzoeken om specifieke maatregelen
+##### Article 10. Available applications
 
-1. Indien geen verzoek op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) aanhangig is, kan een centrale autoriteit aan een andere centrale autoriteit een met redenen omkleed verzoek richten om passende specifieke maatregelen te treffen in de zin van [artikel 6, tweede lid, onderdeel b), c), g), h), i) en j)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=6&z=2007-11-23&g=2007-11-23). De aangezochte centrale autoriteit treft passende maatregelen indien zij deze noodzakelijk acht om een mogelijke verzoeker bij te staan bij het indienen van een in artikel 10 bedoeld verzoek of bij het bepalen of een dergelijk verzoek moet worden ingediend.
+1. The following categories of application shall be available to a creditor in a requesting State seeking to recover maintenance under this Convention –
 
-2. Een centrale autoriteit kan op verzoek van een andere centrale autoriteit tevens specifieke maatregelen treffen in verband met een in de verzoekende staat aanhangige zaak met een internationaal aspect die betrekking heeft op de inning van levensonderhoud.
+- a) recognition or recognition and enforcement of a decision;
 
-##### Artikel 8. Kosten van de centrale autoriteit
+- b) enforcement of a decision made or recognised in the requested State;
 
-1. Elke centrale autoriteit draagt haar eigen kosten voor de toepassing van dit Verdrag.
+- c) establishment of a decision in the requested State where there is no existing decision, including where necessary the establishment of parentage;
 
-2. Centrale autoriteiten mogen de verzoeker voor de krachtens dit Verdrag verleende diensten geen kosten in rekening brengen, afgezien van uitzonderlijke kosten die voortvloeien uit een verzoek om specifieke maatregelen in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=7&z=2007-11-23&g=2007-11-23).
+- d) establishment of a decision in the requested State where recognition and enforcement of a decision is not possible, or is refused, because of the lack of a basis for recognition and enforcement under [Article 20](https://wetten.overheid.nl/BWBV0005392), or on the grounds specified in [Article 22 *b)* or *e)*](https://wetten.overheid.nl/BWBV0005392);
 
-3. De aangezochte centrale autoriteit mag zich de kosten van de in het tweede lid bedoelde dientsverlening niet doen vergoeden zonder dat de verzoeker heeft ingestemd met die dienstverlening tegen zodanige kosten.
+- e) modification of a decision made in the requested State;
 
-### HOOFDSTUK III. VERZOEKEN VIA CENTRALE AUTORITEITEN
+- f) modification of a decision made in a State other than the requested State.
 
-##### Artikel 9. Verzoek via centrale autoriteiten
+2. The following categories of application shall be available to a debtor in a requesting State against whom there is an existing maintenance decision –
 
-Een verzoek in de zin van dit hoofdstuk wordt via de centrale autoriteit van de verdragsluitende staat waar de verzoeker verblijft, ingediend bij de centrale autoriteit van de aangezochte staat. Voor de toepassing van deze bepaling wordt onder verblijf niet de enkele aanwezigheid verstaan.
+- a) recognition of a decision, or an equivalent procedure leading to the suspension, or limiting the enforcement, of a previous decision in the requested State;
 
-##### Artikel 10. Beschikbare verzoeken
+- b) modification of a decision made in the requested State;
 
-1. Een onderhoudsgerechtigde die op grond van dit Verdrag levensonderhoud wil innen, kan in een verzoekende staat de volgende soorten verzoeken indienen:
+- c) modification of a decision made in a State other than the requested State.
 
-- a. erkenning dan wel erkenning en tenuitvoerlegging van een beslissing;
+3. Save as otherwise provided in this Convention, the applications in paragraphs 1 and 2 shall be determined under the law of the requested State, and applications in paragraphs 1 c) to f) and 2 b) and c) shall be subject to the jurisdictional rules applicable in the requested State.
 
-- b. tenuitvoerlegging van een in de aangezochte staat gegeven of erkende beslissing;
+##### Article 11. Application contents
 
-- c. vaststelling van een beslissing in de aangezochte staat, indien er nog geen beslissing voorhanden is, zo nodig met inbegrip van de vaststelling van de afstamming;
+1. All applications under [Article 10](https://wetten.overheid.nl/BWBV0005392) shall as a minimum include –
 
-- d. vaststelling van een beslissing in de aangezochte staat indien erkenning en tenuitvoerlegging van een beslissing niet mogelijk is, dan wel wordt geweigerd vanwege het ontbreken van een in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23) vermelde grondslag voor erkenning en tenuitvoerlegging of om de in [artikel 22, onderdeel b) of e)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), vermelde redenen;
+- a) a statement of the nature of the application or applications;
 
-- e. wijziging van een in de aangezochte staat gegeven beslissing;
+- b) the name and contact details, including the address and date of birth of the applicant;
 
-- f. wijziging van een in een andere dan de aangezochte staat gegeven beslissing.
+- c) the name and, if known, address and date of birth of the respondent;
 
-2. Een onderhoudsplichtige tegen wie een beslissing inzake levensonderhoud is gegeven, kan in een verzoekende staat de volgende soorten verzoeken indienen:
+- d) the name and date of birth of any person for whom maintenance is sought;
 
-- a. erkenning van een beslissing of een vergelijkbare procedure die leidt tot opschorting of beperking van de tenuitvoerlegging van een eerdere beslissing in de aangezochte staat;
+- e) the grounds upon which the application is based;
 
-- b. wijziging van een in de aangezochte staat gegeven beslissing;
+- f) in an application by a creditor, information concerning where the maintenance payment should be sent or electronically transmitted;
 
-- c. wijziging van een in een andere dan de aangezochte staat gegeven beslissing.
+- g) save in an application under [Article 10(1) *a)* and (2) *a)*](https://wetten.overheid.nl/BWBV0005392), any information or document specified by declaration in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392) by the requested State;
 
-3. Tenzij anders is bepaald in dit Verdrag, worden de in het eerste en tweede lid bedoelde verzoeken behandeld overeenkomstig het recht van de aangezochte staat en worden de in het eerste lid, onderdeel c) tot en met f), en tweede lid, onderdeel b) en c), bedoelde verzoeken onderworpen aan de bevoegdheidsregels die van toepassing zijn in de aangezochte staat.
+- h) the name and contact details of the person or unit from the Central Authority of the requesting State responsible for processing the application.
 
-##### Artikel 11. Inhoud van het verzoek
+2. As appropriate, and to the extent known, the application shall in addition in particular include –
 
-1. Alle verzoeken in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) bevatten ten minste:
+- a) the financial circumstances of the creditor;
 
-- a. een verklaring omtrent de aard van het verzoek of de verzoeken;
+- b) the financial circumstances of the debtor, including the name and address of the employer of the debtor and the nature and location of the assets of the debtor;
 
-- b. de naam en contactgegevens, met inbegrip van het adres en de geboortedatum van de verzoeker;
+- c) any other information that may assist with the location of the respondent.
 
-- c. de naam en, indien bekend, het adres en de geboortedatum van de verweerder;
+3. The application shall be accompanied by any necessary supporting information or documentation including documentation concerning the entitlement of the applicant to free legal assistance. In the case of applications under [Article 10(1) *a)* and (2) *a)*](https://wetten.overheid.nl/BWBV0005392), the application shall be accompanied only by the documents listed in [Article 25](https://wetten.overheid.nl/BWBV0005392).
 
-- d. de naam en geboortedatum van de persoon voor wie om levensonderhoud wordt verzocht;
+4. An application under [Article 10](https://wetten.overheid.nl/BWBV0005392) may be made in the form recommended and published by the Hague Conference on Private International Law.
 
-- e. de gronden waarop het verzoek berust;
+##### Article 12. Transmission, receipt and processing of applications and cases through Central Authorities
 
-- f. indien het verzoek afkomstig is van de onderhoudsgerechtigde, gegevens over de plaats waar de betalingen moeten worden gedaan of elektronisch moeten worden overgemaakt;
+1. The Central Authority of the requesting State shall assist the applicant in ensuring that the application is accompanied by all the information and documents known by it to be necessary for consideration of the application.
 
-- g. behalve bij het verzoek in de zin van [artikel 10, eerste lid, onderdeel a), en tweede lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), alle informatie of stukken die zijn vermeld in een door de aangezochte staat in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) afgelegde verklaring;
+2. The Central Authority of the requesting State shall, when satisfied that the application complies with the requirements of the Convention, transmit the application on behalf of and with the consent of the applicant to the Central Authority of the requested State. The application shall be accompanied by the transmittal form set out in [Annex 1](https://wetten.overheid.nl/BWBV0005392). The Central Authority of the requesting State shall, when requested by the Central Authority of the requested State, provide a complete copy certified by the competent authority in the State of origin of any document specified under [Articles 16(3)](https://wetten.overheid.nl/BWBV0005392), [25(1) *a), b)*, and*d)*, (3) *b)*](https://wetten.overheid.nl/BWBV0005392) and [30(3)](https://wetten.overheid.nl/BWBV0005392).
 
-- h. de naam en contactgegevens van de persoon of de afdeling van de centrale autoriteit van de verzoekende staat die verantwoordelijk is voor de behandeling van het verzoek.
+3. The requested Central Authority shall, within six weeks from the date of receipt of the application, acknowledge receipt in the form set out in [Annex 2](https://wetten.overheid.nl/BWBV0005392), and inform the Central Authority of the requesting State what initial steps have been or will be taken to deal with the application, and may request any further necessary documents and information. Within the same six-week period, the requested Central Authority shall provide to the requesting Central Authority the name and contact details of the person or unit responsible for responding to inquiries regarding the progress of the application.
 
-2. Zo nodig en voor zover bekend bevat het verzoek tevens:
+4. Within three months after the acknowledgement, the requested Central Authority shall inform the requesting Central Authority of the status of the application.
 
-- a. gegevens over de financiële omstandigheden van de onderhoudsgerechtigde;
+5. Requesting and requested Central Authorities shall keep each other informed of –
 
-- b. gegevens over de financiële omstandigheden van de onderhoudsplichtige, met inbegrip van de naam en het adres van zijn werkgever, alsmede de aard en locatie van de vermogensbestanddelen van de onderhoudsplichtige;
+- a) the person or unit responsible for a particular case;
 
-- c. alle andere informatie die van nut kan zijn bij het lokaliseren van de verweerder.
+- b) the progress of the case,
 
-3. Het verzoek gaat vergezeld van alle noodzakelijke ondersteunende informatie of documenten, waaronder stukken waaruit blijkt dat de verzoeker recht heeft op kosteloze rechtsbijstand. Verzoeken in de zin van [artikel 10, eerste lid 1, onderdeel a), en tweede lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), gaan alleen vergezeld van de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23) vermelde stukken.
+and shall provide timely responses to enquiries.
 
-4. Verzoeken in de zin van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23) kunnen worden gedaan middels het door de Haagse Conferentie voor Internationaal Privaatrecht aanbevolen en bekendgemaakte formulier.
+6. Central Authorities shall process a case as quickly as a proper consideration of the issues will allow.
 
-##### Artikel 12. Verzending, ontvangst en behandeling van verzoeken en zaken door centrale autoriteiten
+7. Central Authorities shall employ the most rapid and efficient means of communication at their disposal.
 
-1. De centrale autoriteit van de verzoekende staat staat de verzoeker bij teneinde te verzekeren dat het verzoek vergezeld gaat van alle informatie en stukken die, voor zover haar bekend, voor de behandeling van het verzoek noodzakelijk zijn.
+8. A requested Central Authority may refuse to process an application only if it is manifest that the requirements of the Convention are not fulfilled. In such case, that Central Authority shall promptly inform the requesting Central Authority of its reasons for refusal.
 
-2. Na zich ervan te hebben vergewist dat het verzoek voldoet aan de vereisten van het Verdrag, verzendt de centrale autoriteit van de verzoekende staat het verzoek namens en met instemming van de verzoeker aan de centrale autoriteit van de aangezochte staat. Het verzoek gaat vergezeld van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&bijlage=1&z=2007-11-23&g=2007-11-23) opgenomen verzendformulier. Op verzoek van de centrale autoriteit van de aangezochte staat verstrekt de centrale autoriteit van de verzoekende staat een volledig afschrift, gewaarmerkt door de bevoegde autoriteit van de staat van herkomst, van elk stuk in de zin van [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23), [artikel 25, eerste lid, onderdeel a), b) en d), en derde lid, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23), en [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23).
+9. The requested Central Authority may not reject an application solely on the basis that additional documents or information are needed. However, the requested Central Authority may ask the requesting Central Authority to provide these additional documents or information. If the requesting Central Authority does not do so within three months or a longer period specified by the requested Central Authority, the requested Central Authority may decide that it will no longer process the application. In this case, it shall inform the requesting Central Authority of this decision.
 
-3. De aangezochte centrale autoriteit bevestigt de ontvangst binnen zes weken na de datum van ontvangst van het verzoek met behulp van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&bijlage=2&z=2007-11-23&g=2007-11-23) opgenomen formulier en stelt de centrale autoriteit van de verzoekende staat in kennis van de eerste stappen die zijn of zullen worden genomen voor de behandeling van het verzoek, en kan verdere stukken en informatie opvragen die zij noodzakelijk acht. Binnen deze termijn van zes weken verstrekt de aangezochte centrale autoriteit de verzoekende centrale autoriteit de naam en contactgegevens van de persoon of afdeling die is belast met de beantwoording van vragen met betrekking tot de voortgang van het verzoek.
+##### Article 13. Means of communication
 
-4. Binnen drie maanden na de ontvangstbevestiging stelt de aangezochte centrale autoriteit de verzoekende centrale autoriteit in kennis van de stand van zaken omtrent het verzoek.
+Any application made through Central Authorities of the Contracting States in accordance with this Chapter, and any document or information appended thereto or provided by a Central Authority, may not be challenged by the respondent by reason only of the medium or means of communication employed between the Central Authorities concerned.
 
-5. De verzoekende en de aangezochte centrale autoriteit stellen elkaar in kennis van:
+##### Article 14. Effective access to procedures
 
-- a. de persoon of afdeling die verantwoordelijk is voor een bepaalde zaak;
+1. The requested State shall provide applicants with effective access to procedures, including enforcement and appeal procedures, arising from applications under this Chapter.
 
-- b. de voortgang van de zaak,
+2. To provide such effective access, the requested State shall provide free legal assistance in accordance with [Articles 14 to 17](https://wetten.overheid.nl/BWBV0005392) unless paragraph 3 applies.
 
-en zij antwoorden tijdig op verzoeken om inlichtingen.
+3. The requested State shall not be obliged to provide such free legal assistance if and to the extent that the procedures of that State enable the applicant to make the case without the need for such assistance, and the Central Authority provides such services as are necessary free of charge.
 
-6. De centrale autoriteiten behandelen een zaak zo spoedig als een gedegen onderzoek van de inhoud ervan het toelaat.
+4. Entitlements to free legal assistance shall not be less than those available in equivalent domestic cases.
 
-7. De centrale autoriteiten maken gebruik van de snelste en meest efficiënte communicatiemiddelen waarover zij beschikken.
+5. No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in proceedings under the Convention.
 
-8. Een aangezochte centrale autoriteit kan de behandeling van een verzoek alleen weigeren als kennelijk niet aan de vereisten van het Verdrag is voldaan. In dat geval stelt de centrale autoriteit de verzoekende centrale autoriteit onverwijld in kennis van de redenen voor haar weigering.
+##### Article 15. Free legal assistance for child support applications
 
-9. De aangezochte centrale autoriteit kan een verzoek niet weigeren op de enkele grond dat aanvullende stukken of informatie nodig zijn. De aangezochte centrale autoriteit kan de verzoekende centrale autoriteit evenwel verzoeken deze aanvullende stukken of informatie te verstrekken. Indien de verzoekende centrale autoriteit hierop niet binnen drie maanden of binnen een langere door de aangezochte centrale autoriteit vermelde termijn ingaat, kan de aangezochte centrale autoriteit beslissen het verzoek niet verder te behandelen. In dat geval stelt zij de verzoekende centrale autoriteit in kennis van deze beslissing.
+1. The requested State shall provide free legal assistance in respect of all applications by a creditor under this Chapter concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21 years.
 
-##### Artikel 13. Communicatiemiddelen
+2. Notwithstanding paragraph 1, the requested State may, in relation to applications other than those under [Article 10(1) *a)* and *b)*](https://wetten.overheid.nl/BWBV0005392) and the cases covered by [Article 20(4)](https://wetten.overheid.nl/BWBV0005392), refuse free legal assistance if it considers that, on the merits, the application or any appeal is manifestly unfounded.
 
-Een verzoek via de centrale autoriteiten van de verdragsluitende staten in overeenstemming met dit hoofdstuk en elk daarbij gevoegd of door een centrale autoriteit verstrekt stuk of informatie, kan door de verweerder niet op de enkele grond van het tussen de betrokken centrale autoriteiten gebruikte communicatiemedium of -middel worden betwist.
+##### Article 16. Declaration to permit use of child-centred means test
 
-##### Artikel 14. Effectieve toegang tot procedures
+1. Notwithstanding [Article 15(1)](https://wetten.overheid.nl/BWBV0005392), a State may declare, in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392), that it will provide free legal assistance in respect of applications other than under [Article 10(1) *a)* and *b)*](https://wetten.overheid.nl/BWBV0005392) and the cases covered by [Article 20(4)](https://wetten.overheid.nl/BWBV0005392), subject to a test based on an assessment of the means of the child.
 
-1. De aangezochte staat verstrekt verzoekers effectieve toegang tot procedures, waaronder tenuitvoerleggings- en beroepsprocedures, die voortvloeien uit verzoeken op grond van dit hoofdstuk.
+2. A State shall, at the time of making such a declaration, provide information to the Permanent Bureau of the Hague Conference on Private International Law concerning the manner in which the assessment of the child’s means will be carried out, including the financial criteria which would need to be met to satisfy the test.
 
-2. Tenzij het derde lid van toepassing is, verleent de aangezochte staat ten behoeve van deze effectieve toegang, kosteloze rechtsbijstand in overeenstemming met de [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=14&z=2007-11-23&g=2007-11-23).
+3. An application referred to in paragraph 1, addressed to a State which has made the declaration referred to in that paragraph, shall include a formal attestation by the applicant stating that the child’s means meet the criteria referred to in paragraph 2. The requested State may only request further evidence of the child’s means if it has reasonable grounds to believe that the information provided by the applicant is inaccurate.
 
-3. De aangezochte staat is niet verplicht deze kosteloze rechtsbijstand te verlenen indien en voor zover de procedures van die staat de verzoeker in staat stellen de zaak aanhangig te maken zonder dergelijke bijstand en de centrale autoriteit kosteloos de noodzakelijke diensten verleent.
+4. If the most favourable legal assistance provided for by the law of the requested State in respect of applications under this Chapter concerning maintenance obligations arising from a parent-child relationship towards a child is more favourable than that provided for under paragraphs 1 to 3, the most favourable legal assistance shall be provided.
 
-4. De voorwaarden voor verkrijging van kosteloze rechtsbijstand mogen niet restrictiever zijn dan de voorwaarden gesteld in soortgelijke binnenlandse zaken.
+##### Article 17. Applications not qualifying under Article 15 or Article 16
 
-5. Geen zekerheid, borgtocht of depot, ongeacht de omschrijving, kan worden vereisr om de betaling van de kosten en uitgaven in verband met procedures op grond van het Verdrag te verzekeren.
+In the case of all applications under this Convention other than those under [Article 15](https://wetten.overheid.nl/BWBV0005392) or [Article 16](https://wetten.overheid.nl/BWBV0005392) –
 
-##### Artikel 15. Kosteloze rechtsbijstand voor verzoeken om levensonderhoud voor kinderen
+- a) the provision of free legal assistance may be made subject to a means or a merits test;
 
-1. De aangezochte staat verleent kosteloze rechtsbijstand voor elk door een onderhoudsgerechtigde op grond van dit hoofdstuk ingediend verzoek betreffende onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een persoon jonger dan 21 jaar.
+- b) an applicant, who in the State of origin has benefited from free legal assistance, shall be entitled, in any proceedings for recognition or enforcement, to benefit, at least to the same extent, from free legal assistance as provided for by the law of the State addressed under the same circumstances.
 
-2. In afwijking van het eerste lid kan de aangezochte staat met betrekking tot andere verzoeken dan de in [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), bedoelde verzoeken en met betrekking tot de onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, de verlening van kosteloze rechtsbijstand weigeren indien hij van oordeel is dat het verzoek of enig beroep kennelijk ongegrond is.
+### CHAPTER IV. RESTRICTIONS ON BRINGING PROCEEDINGS
 
-##### Artikel 16. Verklaring houdende toestemming voor het gebruik van een op het kind gerichte toetsing van de middelen
+##### Article 18. Limit on proceedings
 
-1. In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23), kan een staat in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat hij met betrekking tot andere verzoeken dan de in [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), bedoelde verzoeken en met betrekking tot de onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, kosteloze rechtsbijstand verleent op voorwaarde van een toetsing gebaseerd op een raming van de middelen van het kind.
+1. Where a decision is made in a Contracting State where the creditor is habitually resident, proceedings to modify the decision or to make a new decision cannot be brought by the debtor in any other Contracting State as long as the creditor remains habitually resident in the State where the decision was made.
 
-2. Op het ogenblik van het afleggen van een dergelijke verklaring, verstrekken staten het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht informatie over de wijze waarop de raming van de middelen van het kind zal worden verricht, met inbegrip van de financiële criteria waaraan moet worden voldaan.
+2. Paragraph 1 shall not apply –
 
-3. Een verzoek als bedoeld in het eerste lid, gericht aan een staat die de in dat lid bedoelde verklaring heeft afgelegd, dient een formele verklaring van de verzoeker te omvatten waarin wordt vermeld dat de middelen van het kind voldoen aan de in het tweede lid bedoelde criteria. De aangezochte staat kan alleen om nader bewijs van de middelen van het kind verzoeken indien hij redelijke gronden heeft om aan te nemen dat de door de verzoeker verstrekte informatie onjuist is.
+- a) where, except in disputes relating to maintenance obligations in respect of children, there is agreement in writing between the parties to the jurisdiction of that other Contracting State;
 
-4. Indien de gunstigste rechtsbijstand die is vastgesteld in het recht van de aangezochte staat voor op grond van dit hoofdstuk ingediende verzoeken betreffende onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een kind, gunstiger is dan die welke wordt vastgesteld in overeenstemming met het eerste tot en met derde lid, dient de gunstigste rechtsbijstand te worden verleend.
+- b) where the creditor submits to the jurisdiction of that other Contracting State either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity;
 
-##### Artikel 17. Niet onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23) vallende verzoeken
+- c) where the competent authority in the State of origin cannot, or refuses to, exercise jurisdiction to modify the decision or make a new decision; or
 
-Voor de verzoeken op grond van dit Verdrag die niet onder [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=15&z=2007-11-23&g=2007-11-23) of [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23) vallen:
+- d) where the decision made in the State of origin cannot be recognised or declared enforceable in the Contracting State where proceedings to modify the decision or make a new decision are contemplated.
 
-- a. kan de verlening van kosteloze rechtsbijstand afhankelijk worden gesteld van een draagkrachttoets of een onderzoek naar de gegrondheid van het verzoek;
+### CHAPTER V. RECOGNITION AND ENFORCEMENT
 
-- b. een verzoeker die in de staat van herkomst kosteloze rechtsbijstand heeft genoten, heeft in alle erkenning- of tenuitvoerleggingsprocedures recht op kosteloze rechtsbijstand in ten minste dezelfde mate als vastgesteld in het recht van de aangezochte staat in dezelfde omstandigheden.
+##### Article 19. Scope of the Chapter
 
-### HOOFDSTUK IV. BEPERKINGEN TEN AANZIEN VAN HET INSTELLEN VAN PROCEDURES
+1. This Chapter shall apply to a decision rendered by a judicial or administrative authority in respect of a maintenance obligation. The term “decision” also includes a settlement or agreement concluded before or approved by such an authority. A decision may include automatic adjustment by indexation and a requirement to pay arrears, retroactive maintenance or interest and a determination of costs or expenses.
 
-##### Artikel 18. Beperking ten aanzien van procedures
+2. If a decision does not relate solely to a maintenance obligation, the effect of this Chapter is limited to the parts of the decision which concern maintenance obligations.
 
-1. Indien een beslissing is gegeven in een verdragsluitende staat waar de onderhoudsgerechtigde zijn gewone verblijfplaats heeft, kan de onderhoudsplichtige in een andere verdragsluitende staat geen procedure instellen tot wijziging van de beslissing of tot het geven van een nieuwe beslissing zolang de onderhoudsgerechtigde zijn gewone verblijfplaats heeft in de staat waar de beslissing is gegeven.
+3. For the purpose of paragraph 1, “administrative authority” means a public body whose decisions, under the law of the State where it is established –
 
-2. Het eerste lid is niet van toepassing indien:
+- a) may be made the subject of an appeal to or review by a judicial authority; and
 
-- a. de partijen schriftelijk overeenstemming hebben bereikt over de bevoegdheid van die andere verdragsluitende staat, evenwel met uitzondering van geschillen inzake onderhoudsverplichtingen jegens kinderen;
+- b) have a similar force and effect to a decision of a judicial authority on the same matter.
 
-- b. de onderhoudsgerechtigde zich onderwerpt aan de bevoegdheid van die andere verdragsluitende staat, hetzij uitdrukkelijk hetzij door zich ten gronde te verweren zonder zich bij de eerste gelegenheid te verzetten tegen die bevoegdheid;
+4. This Chapter also applies to maintenance arrangements in accordance with [Article 30](https://wetten.overheid.nl/BWBV0005392).
 
-- c. de bevoegde autoriteit in de staat van herkomst haar bevoegdheid tot wijziging van de beslissing of tot het geven van een nieuwe beslissing niet kan uitoefenen of weigert deze uit te oefenen; of
+5. The provisions of this Chapter shall apply to a request for recognition and enforcement made directly to a competent authority of the State addressed in accordance with [Article 37](https://wetten.overheid.nl/BWBV0005392).
 
-- d. de in de staat van herkomst gegeven beslissing niet kan worden erkend of niet uitvoerbaar kan worden verklaard in de verdragsluitende staat waar procedures tot wijziging van de beslissing of tot het geven van een nieuwe beslissing worden overwogen.
+##### Article 20. Bases for recognition and enforcement
 
-### HOOFDSTUK V. ERKENNING EN TENUITVOERLEGGING
+1. A decision made in one Contracting State (“the State of origin”) shall be recognised and enforced in other Contracting States if –
 
-##### Artikel 19. Toepassingsgebied van het hoofdstuk
+- a) the respondent was habitually resident in the State of origin at the time proceedings were instituted;
 
-1. Dit hoofdstuk is van toepassing op beslissingen met betrekking tot onderhoudsverplichtingen die zijn gegeven door gerechtelijke of administratieve autoriteiten. Onder de term „beslissing” wordt mede verstaan een schikking of overeenkomst gesloten ten overstaan van of goedgekeurd door een dergelijke autoriteit. Een beslissing kan automatische indexering omvatten en de verplichting achterstallige bedragen, levensonderhoud met terugwerkende kracht of interest te betalen, alsook de vaststelling van kosten of uitgaven.
+- b) the respondent has submitted to the jurisdiction either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity;
 
-2. Indien een beslissing niet alleen betrekking heeft op een onderhoudsverplichting, beperkt de werking van dit hoofdstuk zich tot de delen van de beslissing die betrekking hebben op onderhoudsverplichtingen.
+- c) the creditor was habitually resident in the State of origin at the time proceedings were instituted;
 
-3. Voor de toepassing van het eerste lid wordt verstaan onder „administratieve autoriteit” een overheidslichaam waarvan de beslissingen krachtens het recht van de staat waar het is gevestigd:
+- d) the child for whom maintenance was ordered was habitually resident in the State of origin at the time proceedings were instituted, provided that the respondent has lived with the child in that State or has resided in that State and provided support for the child there;
 
-- a. onderworpen kunnen worden aan een beroep bij of toetsing door een gerechtelijke autoriteit; en
+- e) except in disputes relating to maintenance obligations in respect of children, there has been agreement to the jurisdiction in writing by the parties; or
 
-- b. dezelfde kracht en uitwerking hebben als een beslissing van een gerechtelijke autoriteit over dezelfde aangelegenheid.
+- f) the decision was made by an authority exercising jurisdiction on a matter of personal status or parental responsibility, unless that jurisdiction was based solely on the nationality of one of the parties.
 
-4. Dit hoofdstuk is eveneens van toepassing op regelingen inzake levensonderhoud in overeenstemming met [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23).
+2. A Contracting State may make a reservation, in accordance with [Article 62](https://wetten.overheid.nl/BWBV0005392), in respect of paragraph 1 c), e) or f).
 
-5. De bepalingen van dit hoofdstuk zijn van toepassing op verzoeken om erkenning en tenuitvoerlegging die in overeenstemming met [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=37&z=2007-11-23&g=2007-11-23) rechtstreeks worden gedaan aan een bevoegde autoriteit van de aangezochte staat.
+3. A Contracting State making a reservation under paragraph 2 shall recognise and enforce a decision if its law would in similar factual circumstances confer or would have conferred jurisdiction on its authorities to make such a decision.
 
-##### Artikel 20. Gronden voor erkenning en tenuitvoerlegging
+4. A Contracting State shall, if recognition of a decision is not possible as a result of a reservation under paragraph 2, and if the debtor is habitually resident in that State, take all appropriate measures to establish a decision for the benefit of the creditor. The preceding sentence shall not apply to direct requests for recognition and enforcement under [Article 19(5)](https://wetten.overheid.nl/BWBV0005392) or to claims for support referred to in [Article 2(1) b)](https://wetten.overheid.nl/BWBV0005392).
 
-1. Een beslissing gegeven in een verdragsluitende staat („de staat van herkomst”) wordt in de andere verdragsluitende staten erkend en ten uitvoer gelegd indien:
+5. A decision in favour of a child under the age of 18 years which cannot be recognised by virtue only of a reservation in respect of paragraph 1 c), e) or f) shall be accepted as establishing the eligibility of that child for maintenance in the State addressed.
 
-- a. de verweerder zijn gewone verblijfplaats had in de staat van herkomst op het tijdstip waarop de procedure werd ingesteld;
+6. A decision shall be recognised only if it has effect in the State of origin, and shall be enforced only if it is enforceable in the State of origin.
 
-- b. de verweerder zich heeft onderworpen aan de bevoegdheid, hetzij uitdrukkelijk hetzij door zich ten gronde te verweren zonder zich bij de eerste gelegenheid te verzetten tegen de bevoegdheid;
+##### Article 21. Severability and partial recognition and enforcement
 
-- c. de onderhoudsgerechtigde zijn gewone verblijfplaats had in de staat van herkomst op het tijdstip waarop de procedure werd ingesteld;
+1. If the State addressed is unable to recognise or enforce the whole of the decision, it shall recognise or enforce any severable part of the decision which can be so recognised or enforced.
 
-- d. het kind voor wie levensonderhoud is toegekend zijn gewone verblijfplaats had in de staat van herkomst op het tijdstip waarop de procedure werd ingesteld, mits de verweerder met het kind in die staat heeft gewoond of in die staat heeft verbleven en aldaar voorzag in het levensonderhoud van het kind;
+2. Partial recognition or enforcement of a decision can always be applied for.
 
-- e. de partijen schriftelijk overeenstemming hebben bereikt over de bevoegdheid, met uitzondering van geschillen inzake onderhoudsverplichtingen jegens kinderen; of
+##### Article 22. Grounds for refusing recognition and enforcement
 
-- f. de beslissing is gegeven door een autoriteit die bevoegd is inzake een kwestie van de persoonlijke staat of van ouderlijke verantwoordelijkheid, tenzij deze bevoegdheid alleen was gebaseerd op de nationaliteit van een van de partijen.
+Recognition and enforcement of a decision may be refused if –
 
-2. Een verdragsluitende staat kan in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) ten aanzien van het eerste lid, onderdeel c), e) of f), een voorbehoud maken.
+- a) recognition and enforcement of the decision is manifestly incompatible with the public policy (“*ordre public*”) of the State addressed;
 
-3. Een verdragsluitende staat die een voorbehoud maakt krachtens het tweede lid zorgt voor de erkenning en tenuitvoerlegging van een beslissing, indien zijn autoriteiten krachtens zijn recht in soortgelijke feitelijke omstandigheden bevoegd zijn of zouden zijn om een dergelijke beslissing te geven.
+- b) the decision was obtained by fraud in connection with a matter of procedure;
 
-4. Indien erkenning van een beslissing onmogelijk is ten gevolge van een voorbehoud krachtens het tweede lid, en de onderhoudsplichtige zijn gewone verblijfplaats in een verdragsluitende staat heeft, neemt deze staat alle passende maatregelen teneinde ten behoeve van de onderhoudsgerechtigde een beslissing vast te stellen. De voorgaande volzin is niet van toepassing op rechtstreekse verzoeken om erkenning en tenuitvoerlegging krachtens [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=19&z=2007-11-23&g=2007-11-23), en evenmin op de in [artikel 2, eerste lid, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), bedoelde vorderingen tot levensonderhoud.
+- c) proceedings between the same parties and having the same purpose are pending before an authority of the State addressed and those proceedings were the first to be instituted;
 
-5. Beslissingen ten gunste van een kind jonger dan 18 jaar die niet kunnen worden erkend alleen vanwege een voorbehoud ten aanzien van het eerste lid, onderdeel c), e) of f), worden aanvaard als vaststelling dat het kind in aanmerking komt voor levensonderhoud in de aangezochte staat.
+- d) the decision is incompatible with a decision rendered between the same parties and having the same purpose, either in the State addressed or in another State, provided that this latter decision fulfils the conditions necessary for its recognition and enforcement in the State addressed;
 
-6. Een beslissing wordt alleen erkend wanneer zij in de staat van herkomst effect sorteert, en wordt alleen ten uitvoer gelegd wanneer zij in de staat van herkomst voor tenuitvoerlegging vatbaar is.
+- e) in a case where the respondent has neither appeared nor was represented in proceedings in the State of origin –
 
-##### Artikel 21. Deelbaarheid en gedeeltelijke erkenning en tenuitvoerlegging
+   - (i) when the law of the State of origin provides for notice of proceedings, the respondent did not have proper notice of the proceedings and an opportunity to be heard; or
 
-1. Indien de aangezochte staat een beslissing niet volledig kan erkennen of ten uitvoer leggen, gaat hij over tot erkenning of tenuitvoerlegging van de delen van de beslissing die wel kunnen worden erkend of ten uitvoer gelegd.
+   - (ii) when the law of the State of origin does not provide for notice of the proceedings, the respondent did not have proper notice of the decision and an opportunity to challenge or appeal it on fact and law; or
 
-2. Te allen tijde kan worden verzocht om gedeeltelijke erkenning of tenuitvoerlegging van een beslissing.
+- f) the decision was made in violation of [Article 18](https://wetten.overheid.nl/BWBV0005392).
 
-##### Artikel 22. Gronden voor weigering van erkenning en tenuitvoerlegging
+##### Article 23. Procedure on an application for recognition and enforcement
 
-Erkenning en tenuitvoerlegging van een beslissing kunnen worden geweigerd indien:
+1. Subject to the provisions of the Convention, the procedures for recognition and enforcement shall be governed by the law of the State addressed.
 
-- a. erkenning en tenuitvoerlegging van de beslissing kennelijk onverenigbaar zijn met de openbare orde („ordre public”) van de aangezochte staat;
+2. Where an application for recognition and enforcement of a decision has been made through Central Authorities in accordance with [Chapter III](https://wetten.overheid.nl/BWBV0005392), the requested Central Authority shall promptly either –
 
-- b. de beslissing is verkregen door middel van bedrog begaan in de procedure;
+- a) refer the application to the competent authority which shall without delay declare the decision enforceable or register the decision for enforcement; or
 
-- c. een procedure tussen dezelfde partijen en met hetzelfde doel aanhangig is bij een autoriteit van de aangezochte staat en deze procedure als eerste aanhangig is gemaakt;
+- b) if it is the competent authority take such steps itself.
 
-- d. de beslissing onverenigbaar is met een beslissing die tussen dezelfde partijen met hetzelfde doel is gegeven hetzij in de aangezochte staat hetzij in een andere staat, mits de laatstbedoelde beslissing voldoet aan de vereisten voor erkenning en tenuitvoerlegging in de aangezochte staat;
+3. Where the request is made directly to a competent authority in the State addressed in accordance with [Article 19(5)](https://wetten.overheid.nl/BWBV0005392), that authority shall without delay declare the decision enforceable or register the decision for enforcement.
 
-- e. in een zaak waarin de verweeder niet is verschenen en niet werd vertegenwoordigd in procedures in de staat van herkomst:
+4. A declaration or registration may be refused only on the ground set out in [Article 22 a)](https://wetten.overheid.nl/BWBV0005392). At this stage neither the applicant nor the respondent is entitled to make any submissions.
 
-- i. indien het recht van de staat van herkomst voorziet in inkennisstelling van procedures en de verweerder niet naar behoren in kennis is gesteld en niet in de gelegenheid is gesteld te worden gehoord; of
+5. The applicant and the respondent shall be promptly notified of the declaration or registration, made under paragraphs 2 and 3, or the refusal thereof in accordance with paragraph 4, and may bring a challenge or appeal on fact and on a point of law.
 
-- ii. indien het recht van de staat van herkomst niet voorziet in een inkennisstelling van procedures en de verweerder niet naar behoren in kennis is gesteld van de beslissing en niet de mogelijkheid heeft gehad om daartegen bezwaar aan te tekenen of ertegen beroep in te stellen op grond van de feiten of het recht; of
+6. A challenge or an appeal is to be lodged within 30 days of notification under paragraph 5. If the contesting party is not resident in the Contracting State in which the declaration or registration was made or refused, the challenge or appeal shall be lodged within 60 days of notification.
 
-- f. de beslissing is gegeven in strijd met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IV&artikel=18&z=2007-11-23&g=2007-11-23).
+7. A challenge or appeal may be founded only on the following –
 
-##### Artikel 23. Procedure voor verzoeken om erkenning en tenuitvoerlegging
+- a) the grounds for refusing recognition and enforcement set out in [Article 22](https://wetten.overheid.nl/BWBV0005392);
 
-1. Onder voorbehoud van de bepalingen van het Verdrag is het recht van de aangezochte staat van toepassing op erkennings- en tenuitvoerleggingsprocedures.
+- b) the bases for recognition and enforcement under [Article 20](https://wetten.overheid.nl/BWBV0005392);
 
-2. Indien een verzoek om erkenning en tenuitvoerlegging van een beslissing via de centrale autoriteiten in overeenstemming met [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23) is gedaan, zal de aangezochte centrale autoriteit onverwijld:
+- c) the authenticity or integrity of any document transmitted in accordance with [Article 25(1) a), b) or d) or (3) b)](https://wetten.overheid.nl/BWBV0005392).
 
-- a. het verzoek doorzenden naar de bevoegde autoriteit die de beslissing onverwijld uitvoerbaar verklaart of voor tenuitvoerlegging registreert; of
+8. A challenge or an appeal by a respondent may also be founded on the fulfilment of the debt to the extent that the recognition and enforcement relates to payments that fell due in the past.
 
-- b. deze maatregelen zelf nemen, indien zij zelf de bevoegde autoriteit is.
+9. The applicant and the respondent shall be promptly notified of the decision following the challenge or the appeal.
 
-3. Indien het verzoek rechtstreeks aan een bevoegde autoriteit in de aangezochte staat is gericht in overeenstemming met [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=19&z=2007-11-23&g=2007-11-23), verklaart deze autoriteit de beslissing onverwijld uitvoerbaar of registreert zij de beslissing voor tenuitvoerlegging.
+10. A further appeal, if permitted by the law of the State addressed, shall not have the effect of staying the enforcement of the decision unless there are exceptional circumstances.
 
-4. Een verklaring of registratie kan alleen worden geweigerd op de in [artikel 22, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), vermelde grond. In dit stadium kan noch de verzoeker noch de verweerder bezwaar aantekenen.
+11. In taking any decision on recognition and enforcement, including any appeal, the competent authority shall act expeditiously.
 
-5. De verzoeker en de verweerder worden onverwijld in kennis gesteld van de verklaring of registratie op grond van het tweede en derde lid, of de weigering daarvan in overeenstemming met het vierde lid, en kunnen daartegen bezwaar aantekenen of beroep instellen op feitelijke of rechtsgronden.
+##### Article 24. Alternative procedure on an application for recognition and enforcement
 
-6. Bezwaar of beroep dient binnen 30 dagen na de kennisgeving krachtens het vijfde lid te worden aangetekend. Indien de partij die bezwaar of beroep aantekent niet in de verdragsluitende staat verblijft waar de verklaring of registratie is gedaan of is geweigerd, dient het bezwaar of beroep binnen 60 dagen na de kennisgeving te worden aangetekend.
+1. Notwithstanding [Article 23(2) to (11)](https://wetten.overheid.nl/BWBV0005392), a State may declare, in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392), that it will apply the procedure for recognition and enforcement set out in this Article.
 
-7. Een bezwaar of beroep kan alleen worden gebaseerd op:
+2. Where an application for recognition and enforcement of a decision has been made through Central Authorities in accordance with [Chapter III](https://wetten.overheid.nl/BWBV0005392), the requested Central Authority shall promptly either –
 
-- a. de in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23) vermelde gronden voor het weigeren van erkenning en tenuitvoerlegging;
+- a) refer the application to the competent authority which shall decide on the application for recognition and enforcement; or
 
-- b. de gronden voor erkenning en tenuitvoerlegging in de zin van van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23);
+- b) if it is the competent authority, take such a decision itself.
 
-- c. de authenticiteit of integriteit van een in overeenstemming met [artikel 25, eerste lid, onderdeel a), b), of d), of derde lid, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23), verzonden stuk.
+3. A decision on recognition and enforcement shall be given by the competent authority after the respondent has been duly and promptly notified of the proceedings and both parties have been given an adequate opportunity to be heard.
 
-8. Een bezwaar of beroep van een verweerder kan ook worden gebaseerd op voldoening van de schuld indien de erkenning en tenuitvoerlegging betrekking hebben op vervallen termijnen van betalingen.
+4. The competent authority may review the grounds for refusing recognition and enforcement set out in [Article 22 a), c) and d)](https://wetten.overheid.nl/BWBV0005392) of its own motion. It may review any grounds listed in [Articles 20](https://wetten.overheid.nl/BWBV0005392), [22](https://wetten.overheid.nl/BWBV0005392) and [23(7) *c)*](https://wetten.overheid.nl/BWBV0005392) if raised by the respondent or if concerns relating to those grounds arise from the face of the documents submitted in accordance with [Article 25](https://wetten.overheid.nl/BWBV0005392).
 
-9. De verzoeker en verweerder worden onverwijld in kennis gesteld van de beslissing op het bezwaar of beroep.
+5. A refusal of recognition and enforcement may also be founded on the fulfilment of the debt to the extent that the recognition and enforcement relates to payments that fell due in the past.
 
-10. Behalve in buitengewone omstandigheden heeft een hoger beroep, indien wettelijk toegestaan in de aangezochte staat, niet tot gevolg dat de tenuitvoerlegging van de beslissing wordt opgeschort.
+6. Any appeal, if permitted by the law of the State addressed, shall not have the effect of staying the enforcement of the decision unless there are exceptional circumstances.
 
-11. De bevoegde autoriteit treedt voortvarend op bij het geven van beslissingen inzake erkenning en tenuitvoerlegging, met inbegrip van beroep.
+7. In taking any decision on recognition and enforcement, including any appeal, the competent authority shall act expeditiously.
 
-##### Artikel 24. Alternatieve procedure voor een verzoek om erkenning en tenuitvoerlegging
+##### Article 25. Documents
 
-1. In afwijking van [artikel 23, tweede tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), kan een staat in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren de in dit artikel vastgestelde procedure voor erkenning en tenuitvoerlegging toe te passen.
+1. An application for recognition and enforcement under [Article 23](https://wetten.overheid.nl/BWBV0005392) or [Article 24](https://wetten.overheid.nl/BWBV0005392) shall be accompanied by the following –
 
-2. Indien een verzoek om erkenning en tenuitvoerlegging van een beslissing via de centrale autoriteiten in overeenstemming met [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23) is gedaan, dient de aangezochte centrale autoriteit onverwijld:
+- a) a complete text of the decision;
 
-- a. het verzoek door te zenden naar de bevoegde autoriteit die beslist over het verzoek om erkenning en tenuitvoerlegging; of
+- b) a document stating that the decision is enforceable in the State of origin and, in the case of a decision by an administrative authority, a document stating that the requirements of [Article 19(3)](https://wetten.overheid.nl/BWBV0005392) are met unless that State has specified in accordance with [Article 57](https://wetten.overheid.nl/BWBV0005392) that decisions of its administrative authorities always meet those requirements;
 
-- b. deze beslissing zelf te nemen, indien zij zelf de bevoegde autoriteit is.
+- c) if the respondent did not appear and was not represented in the proceedings in the State of origin, a document or documents attesting, as appropriate, either that the respondent had proper notice of the proceedings and an opportunity to be heard, or that the respondent had proper notice of the decision and the opportunity to challenge or appeal it on fact and law;
 
-3. Beslissingen inzake erkenning en tenuitvoerlegging worden door de bevoegde autoriteit gegeven zodra de verweerder naar behoren en onverwijld in kennis is gesteld van de procedure en beide partijen voldoende in de gelegenheid zijn gesteld te worden gehoord.
+- d) where necessary, a document showing the amount of any arrears and the date such amount was calculated;
 
-4. De bevoegde autoriteit kan de in [artikel 22, onderdeel a), c) en d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), bedoelde gronden voor het weigeren van erkenning en tenuitvoerlegging ambtshalve toetsen. Zij kan de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), 22, en [23, zevende lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), bedoelde gronden toetsen indien de verweerder deze aanvoert of indien er, op basis van de in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23) ingediende stukken, twijfel bestaat omtrent deze gronden.
+- e) where necessary, in the case of a decision providing for automatic adjustment by indexation, a document providing the information necessary to make the appropriate calculations;
 
-5. Weigering van erkenning en tenuitvoerlegging kan ook worden gebaseerd op voldoening van de schuld indien de erkenning en tenuitvoerlegging betrekking hebben op vervallen termijnen van betalingen.
+- f) where necessary, documentation showing the extent to which the applicant received free legal assistance in the State of origin.
 
-6. Behalve in buitengewone omstandigheden heeft beroep, indien wettelijk toegestaan in de aangezochte staat, niet tot gevolg dat de tenuitvoerlegging van de beslissing wordt opgeschort.
+2. Upon a challenge or appeal under [Article 23(7) *c)*](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) or upon request by the competent authority in the State addressed, a complete copy of the document concerned, certified by the competent authority in the State of origin, shall be provided promptly –
 
-7. De bevoegde autoriteit treedt voortvarend op bij het geven van beslissingen inzake erkenning en tenuitvoerlegging, met inbegrip van beroep.
+- a) by the Central Authority of the requesting State, where the application has been made in accordance with [Chapter III](https://wetten.overheid.nl/BWBV0005392);
 
-##### Artikel 25. Stukken
+- b) by the applicant, where the request has been made directly to a competent authority of the State addressed.
 
-1. Verzoeken om erkenning en tenuitvoerlegging op grond van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) of [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23) gaan vergezeld van:
+3. A Contracting State may specify in accordance with [Article 57](https://wetten.overheid.nl/BWBV0005392) –
 
-- a. de volledige tekst van de beslissing;
+- a) that a complete copy of the decision certified by the competent authority in the State of origin must accompany the application;
 
-- b. een stuk waarin wordt verklaard dat de beslissing uitvoerbaar is in de staat van herkomst en, in het geval van beslissingen door administratieve autoriteiten, een stuk waarin wordt verklaard dat aan de vereisten van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=19&z=2007-11-23&g=2007-11-23), is voldaan, tenzij die staat in overeenstemming met [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=57&z=2007-11-23&g=2007-11-23) heeft aangegeven dat beslissingen van zijn administratieve autoriteiten altijd voldoen aan die vereisten;
+- b) circumstances in which it will accept, in lieu of a complete text of the decision, an abstract or extract of the decision drawn up by the competent authority of the State of origin, which may be made in the form recommended and published by the Hague Conference on Private International Law; or
 
-- c. indien de verweerder niet was verschenen en niet was vertegenwoordigd in de procedure in de staat van herkomst, een stuk of stukken, naargelang het geval, waarin wordt bevestigd dat de verweerder naar behoren in kennis is gesteld van de procedure en in de gelegenheid is gesteld te worden gehoord of dat de verweerder naar behoren in kennis is gesteld van de beslissing en in de gelegenheid is gesteld bezwaar of beroep aan te tekenen op feitelijke of rechtsgronden;
+- c) that it does not require a document stating that the requirements of [Article 19(3)](https://wetten.overheid.nl/BWBV0005392) are met.
 
-- d. indien noodzakelijk, een stuk met het bedrag aan achterstallige betalingen en de datum waarop dat bedrag is berekend;
+##### Article 26. Procedure on an application for recognition
 
-- e. indien noodzakelijk, in het geval van een beslissing die in een automatische indexering voorziet, een stuk met de vereiste inlichtingen voor het maken van de desbetreffende berekeningen;
+This Chapter shall apply *mutatis mutandis* to an application for recognition of a decision, save that the requirement of enforceability is replaced by the requirement that the decision has effect in the State of origin.
 
-- f. indien noodzakelijk stukken waaruit blijkt in welke mate de verzoeker kosteloze rechtsbijstand heeft ontvangen in de staat van herkomst.
+##### Article 27. Findings of fact
 
-2. Bij bezwaar of beroep ingevolge [artikel 23, zevende lid, onderdeel c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), of op verzoek van de bevoegde autoriteit van de aangezochte staat, wordt een volledig afschrift van het desbetreffende stuk, gewaarmerkt door de bevoegde autoriteit van de staat van herkomst, onverwijld verstrekt:
+Any competent authority of the State addressed shall be bound by the findings of fact on which the authority of the State of origin based its jurisdiction.
 
-- a. door de centrale autoriteit van de verzoekende staat waar het verzoek is gedaan in overeenstemming met [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23);
+##### Article 28. No review of the merits
 
-- b. door de verzoeker indien het verzoek rechtstreeks aan een bevoegde autoriteit van de aangezochte staat is gedaan.
+There shall be no review by any competent authority of the State addressed of the merits of a decision.
 
-3. Een verdragsluitende staat kan in overeenstemming met [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=57&z=2007-11-23&g=2007-11-23) bepalen dat:
+##### Article 29. Physical presence of the child or the applicant not required
 
-- a. een volledig afschrift van de beslissing, gewaarmerkt door de bevoegde autoriteit van de staat van herkomst, het verzoek moet vergezellen;
+The physical presence of the child or the applicant shall not be required in any proceedings in the State addressed under this Chapter.
 
-- b. er omstandigheden zijn waarin hij in plaats van de volledige tekst van de beslissing een samenvatting of uittreksel van de beslissing opgesteld door de bevoegde autoriteit van de staat van herkomst aanvaardt, die of dat kan worden opgesteld met behulp van het door de Haagse Conferentie voor Internationaal Privaatrecht aanbevolen en bekendgemaakte formulier; of
+##### Article 30. Maintenance arrangements
 
-- c. hij geen stuk vereist waarin wordt verklaard dat is voldaan aan de vereisten van [artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=19&z=2007-11-23&g=2007-11-23).
+1. A maintenance arrangement made in a Contracting State shall be entitled to recognition and enforcement as a decision under this Chapter provided that it is enforceable as a decision in the State of origin.
 
-##### Artikel 26. Procedure voor een verzoek om erkenning
+2. For the purpose of [Article 10(1*)*a)*and*b)*and (2*) a)](https://wetten.overheid.nl/BWBV0005392), the term “decision” includes a maintenance arrangement.
 
-Dit hoofdstuk is van overeenkomstige toepassing op verzoeken om erkenning van een beslissing, zij het dat het vereiste van uitvoerbaarheid is vervangen door het vereiste dat de beslissing in de staat van herkomst effect sorteert.
+3. An application for recognition and enforcement of a maintenance arrangement shall be accompanied by the following –
 
-##### Artikel 27. Vaststelling van de feiten
+- a) a complete text of the maintenance arrangement; and
 
-De bevoegde autoriteit van de aangezochte staat is gebonden aan de vaststelling van de feiten waarop de autoriteit van de staat van herkomst haar bevoegdheid heeft gebaseerd.
+- b) a document stating that the particular maintenance arrangement is enforceable as a decision in the State of origin.
 
-##### Artikel 28. Verbod van inhoudelijke toetsing
+4. Recognition and enforcement of a maintenance arrangement may be refused if –
 
-De bevoegde autoriteit van de aangezochte staat toetst beslissingen niet inhoudelijk.
+- a) the recognition and enforcement is manifestly incompatible with the public policy of the State addressed;
 
-##### Artikel 29. Fysieke aanwezigheid van het kind of de verzoeker niet vereist
+- b) the maintenance arrangement was obtained by fraud or falsification;
 
-De fysieke aanwezigheid van het kind of de verzoeker is niet vereist in de op grond van dit hoofdstuk ingestelde procedures in de aangezochte staat.
+- c) the maintenance arrangement is incompatible with a decision rendered between the same parties and having the same purpose, either in the State addressed or in another State, provided that this latter decision fulfils the conditions necessary for its recognition and enforcement in the State addressed.
 
-##### Artikel 30. Regelingen inzake levensonderhoud
+5. The provisions of this Chapter, with the exception of [Articles 20](https://wetten.overheid.nl/BWBV0005392), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), [23(7)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) and [25(1) and (3)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23), shall apply *mutatis mutandis* to the recognition and enforcement of a maintenance arrangement save that –
 
-1. Een in een verdragsluitende staat getroffen regeling inzake levensonderhoud moet in aanmerking komen voor erkenning en tenuitvoerlegging als een beslissing op grond van dit hoofdstuk, mits zij in de staat van herkomst uitvoerbaar is als een beslissing.
+- a) a declaration or registration in accordance with [Article 23(2) and (3)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) may be refused only on the ground set out in paragraph 4 a);
 
-2. Voor de toepassing van [artikel 10, eerste lid, onderdeel a) en b), en tweede lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), wordt onder de term „beslissing” mede verstaan een regeling inzake levensonderhoud.
+- b) a challenge or appeal as referred to in [Article 23(6)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) may be founded only on the following –
 
-3. Verzoeken om erkenning en tenuitvoerlegging van een regeling inzake levensonderhoud gaan vergezeld van:
+   - (i) the grounds for refusing recognition and enforcement set out in paragraph 4;
 
-- a. de volledige tekst van de regeling inzake levensonderhoud; en
+   - (ii) the authenticity or integrity of any document transmitted in accordance with paragraph 3;
 
-- b. een stuk waarin wordt verklaard dat de desbetreffende regeling inzake levensonderhoud in de staat van herkomst uitvoerbaar is als een beslissing.
+- c) as regards the procedure under [Article 24(4)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), the competent authority may review of its own motion the ground for refusing recognition and enforcement set out in paragraph 4 a) of this Article. It may review all grounds listed in paragraph 4 of this Article and the authenticity or integrity of any document transmitted in accordance with paragraph 3 if raised by the respondent or if concerns relating to those grounds arise from the face of those documents.
 
-4. Erkenning en tenuitvoerlegging van een regeling inzake levensonderhoud kan worden geweigerd indien:
+6. Proceedings for recognition and enforcement of a maintenance arrangement shall be suspended if a challenge concerning the arrangement is pending before a competent authority of a Contracting State.
 
-- a. de erkenning en tenuitvoerlegging kennelijk onverenigbaar zijn met de openbare orde van de aangezochte staat;
+7. A State may declare, in accordance with [Article 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23), that applications for recognition and enforcement of a maintenance arrangement shall only be made through Central Authorities.
 
-- b. de regeling inzake levensonderhoud is verkregen door fraude of vervalsing;
+8. A Contracting State may, in accordance with [Article 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23), reserve the right not to recognise and enforce a maintenance arrangement.
 
-- c. de regeling inzake levensonderhoud onverenigbaar is met een beslissing die tussen dezelfde partijen en met hetzelfde doel is gegeven, hetzij in de aangezochte staat hetzij in een andere staat, mits de laatstbedoelde beslissing voldoet aan de vereisten voor erkenning en tenuitvoerlegging in de aangezochte staat.
+##### Article 31. Decisions produced by the combined effect of provisional and confirmation orders
 
-5. De bepalingen van dit hoofdstuk, met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), [23, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), en [artikel 25, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23), zijn van overeenkomstige toepassing op de erkenning en tenuitvoerlegging van een regeling inzake levensonderhoud, met dien verstande dat:
+Where a decision is produced by the combined effect of a provisional order made in one State and an order by an authority in another State (“the confirming State”) confirming the provisional order –
 
-- a. een verklaring of registratie in overeenstemming met [artikel 23, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), alleen kan worden geweigerd op de in het vierde lid, onderdeel a), vermelde grond;
+- a) each of those States shall be deemed for the purposes of this Chapter to be a State of origin;
 
-- b. een in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23), bedoeld bezwaar of beroep alleen kan worden gebaseerd op:
+- b) the requirements of [Article 22 e)](https://wetten.overheid.nl/BWBV0005392) shall be met if the respondent had proper notice of the proceedings in the confirming State and an opportunity to oppose the confirmation of the provisional order;
 
-- i. de in het vierde lid vermelde gronden voor het weigeren van erkenning en tenuitvoerlegging;
+- c) the requirement of [Article 20(6)](https://wetten.overheid.nl/BWBV0005392) that a decision be enforceable in the State of origin shall be met if the decision is enforceable in the confirming State; and
 
-- ii. de authenticiteit of integriteit van een in overeenstemming met het derde lid verzonden stuk;
+- d) [Article 18](https://wetten.overheid.nl/BWBV0005392) shall not prevent proceedings for the modification of the decision being commenced in either State.
 
-- c. de bevoegde autoriteit kan met betrekking tot de procedure op grond van [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), de in het vierde lid, onderdeel a), van dit artikel bedoelde grond voor het weigeren van erkenning en tenuitvoerlegging ambtshalve toetsen. Zij kan alle in het vierde lid van dit artikel vermelde gronden toetsen alsook de authenticiteit of integriteit van elk in overeenstemming met het derde lid verzonden stuk, indien de verweerder daarom verzoekt of indien er, op basis van die stukken, twijfel bestaat omtrent deze gronden.
+### CHAPTER VI. ENFORCEMENT BY THE STATE ADDRESSED
 
-6. Procedures tot erkenning en tenuitvoerlegging van een regeling inzake levensonderhoud worden opgeschort indien een bezwaar betreffende de regeling aanhangig is bij een bevoegde autoriteit van een verdragsluitende staat.
+##### Article 32. Enforcement under internal law
 
-7. Een staat kan in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat verzoeken om erkenning en tenuitvoerlegging van een regeling inzake levensonderhoud alleen via centrale autoriteiten mogen worden gedaan.
+1. Subject to the provisions of this Chapter, enforcement shall take place in accordance with the law of the State addressed.
 
-8. Een verdragsluitende staat kan zich in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) het recht voorbehouden een regeling inzake levensonderhoud niet te erkennen en niet ten uitvoer te leggen.
+2. Enforcement shall be prompt.
 
-##### Artikel 31. Beslissingen die tot stand komen door het gecombineerde effect van voorlopige bevelen en bevelen tot bevestiging
+3. In the case of applications through Central Authorities, where a decision has been declared enforceable or registered for enforcement under [Chapter V](https://wetten.overheid.nl/BWBV0005392), enforcement shall proceed without the need for further action by the applicant.
 
-Indien een beslissing tot stand komt door het gecombineerde effect van een voorlopig bevel in de ene staat en van een bevel van een autoriteit in een andere staat („de bevestigende staat”) waarmee het voorlopige bevel wordt bevestigd:
+4. Effect shall be given to any rules applicable in the State of origin of the decision relating to the duration of the maintenance obligation.
 
-- a. worden voor de toepassing van dit hoofdstuk beide staten beschouwd als staat van herkomst;
+5. Any limitation on the period for which arrears may be enforced shall be determined either by the law of the State of origin of the decision or by the law of the State addressed, whichever provides for the longer limitation period.
 
-- b. wordt voldaan aan de vereisten van [artikel 22, onderdeel e)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), indien de verweerder naar behoren in kennis is gesteld van de procedure in de bevestigende staat en in de gelegenheid is gesteld bezwaar aan te tekenen tegen de bevestiging van het voorlopige bevel;
+##### Article 33. Non-discrimination
 
-- c. wordt aan het vereiste van [artikel 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), dat een beslissing uitvoerbaar moet zijn in de staat van herkomst voldaan indien de beslissing uitvoerbaar is in de bevestigende staat; en
+The State addressed shall provide at least the same range of enforcement methods for cases under the Convention as are available in domestic cases.
 
-- d. belet [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IV&artikel=18&z=2007-11-23&g=2007-11-23) niet dat een procedure tot wijziging van de beslissing wordt ingesteld in een van beide staten.
+##### Article 34. Enforcement measures
 
-### HOOFDSTUK VI. TENUITVOERLEGGING DOOR DE AANGEZOCHTE STAAT
+1. Contracting States shall make available in internal law effective measures to enforce decisions under this Convention.
 
-##### Artikel 32. Tenuitvoerlegging krachtens het nationale recht
+2. Such measures may include –
 
-1. Met inachtneming van de bepalingen van dit hoofdstuk geschiedt tenuitvoerlegging in overeenstemming met het recht van de aangezochte staat.
+- a) wage withholding;
 
-2. Tenuitvoerlegging geschiedt onverwijld.
+- b) garnishment from bank accounts and other sources;
 
-3. In het geval van verzoeken via de centrale autoriteiten, indien een beslissing uitvoerbaar is verklaard of geregistreerd voor tenuitvoerlegging op grond van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&z=2007-11-23&g=2007-11-23), geschiedt tenuitvoerlegging zonder dat verdere stappen door de verzoeker zijn vereist.
+- c) deductions from social security payments;
 
-4. Gevolg wordt gegeven aan de in de staat van herkomst toepasselijke voorschriften betreffende de duur van de onderhoudsverplichting.
+- d) lien on or forced sale of property;
 
-5. Elke beperking van de termijn waarvoor achterstallige bedragen ten uitvoer kunnen worden gelegd, wordt bepaald op grond van het recht van de staat van herkomst van de beslissing of op grond van het recht van de aangezochte staat, al naargelang welk recht voorziet in de langste termijn.
+- e) tax refund withholding;
 
-##### Artikel 33. Non-discriminatie
+- f) withholding or attachment of pension benefits;
 
-De aangezochte staat voorziet in ten minste dezelfde methoden voor tenuitvoerlegging voor zaken uit hoofde van dit Verdrag als die welke beschikbaar zijn voor nationale zaken.
+- g) credit bureau reporting;
 
-##### Artikel 34. Tenuitvoerleggingsmaatregelen
+- h) denial, suspension or revocation of various licenses (for example, driving licenses);
 
-1. De verdragsluitende staten stellen in hun nationale recht effectieve maatregelen beschikbaar voor de uitvoerlegging van beslissingen waarop dit Verdrag van toepassing is.
+- i) the use of mediation, conciliation or similar processes to bring about voluntary compliance.
 
-2. Deze maatregelen kunnen omvatten:
+##### Article 35. Transfer of funds
 
-- a. inhouding van loon;
+1. Contracting States are encouraged to promote, including by means of international agreements, the use of the most cost-effective and efficient methods available to transfer funds payable as maintenance.
 
-- b. beslaglegging op bankrekeningen en andere bronnen;
+2. A Contracting State, under whose law the transfer of funds is restricted, shall accord the highest priority to the transfer of funds payable under this Convention.
 
-- c. inhoudingen van socialezekerheidsuitkeringen;
+### CHAPTER VII. PUBLIC BODIES
 
-- d. verpanding of gedwongen verkoop van bezittingen;
+##### Article 36. Public bodies as applicants
 
-- e. inhouding van belastingteruggaven;
+1. For the purposes of applications for recognition and enforcement under [Article 10(1) a) and b)](https://wetten.overheid.nl/BWBV0005392) and cases covered by [Article 20(4)](https://wetten.overheid.nl/BWBV0005392), “creditor” includes a public body acting in place of an individual to whom maintenance is owed or one to which reimbursement is owed for benefits provided in place of maintenance.
 
-- f. inhouding van of beslaglegging op pensioenuitkeringen;
+2. The right of a public body to act in place of an individual to whom maintenance is owed or to seek reimbursement of benefits provided to the creditor in place of maintenance shall be governed by the law to which the body is subject.
 
-- g. melding aan kredietinformatiebureaus;
+3. A public body may seek recognition or claim enforcement of –
 
-- h. ontzegging, opschorting of intrekking van diverse vergunningen (bijvoorbeeld rijbewijzen);
+- a) a decision rendered against a debtor on the application of a public body which claims payment of benefits provided in place of maintenance;
 
-- i. toepassing van bemiddeling, verzoening of soortgelijke processen om vrijwillige nakoming te bewerkstelligen.
+- b) a decision rendered between a creditor and debtor to the extent of the benefits provided to the creditor in place of maintenance.
 
-##### Artikel 35. Overmaking van gelden
+4. The public body seeking recognition or claiming enforcement of a decision shall upon request furnish any document necessary to establish its right under paragraph 2 and that benefits have been provided to the creditor.
 
-1. De verdragsluitende staten worden aangemoedigd het gebruik te stimuleren, onder meer met behulp van internationale overeenkomsten, van de meest kosteneffectieve en de meest efficiënte methoden die beschikbaar zijn voor het overmaken van verschuldigde levensonderhoudsgelden.
+### CHAPTER VIII. GENERAL PROVISIONS
 
-2. Een verdragsluitende staat waarvan het recht de overmaking van gelden beperkt, verleent de hoogste prioriteit aan de overmaking van krachtens dit Verdrag verschuldigde gelden.
+##### Article 37. Direct requests to competent authorities
 
-### HOOFDSTUK VII. OVERHEIDSLICHAMEN
+1. The Convention shall not exclude the possibility of recourse to such procedures as may be available under the internal law of a Contracting State allowing a person (an applicant) to seize directly a competent authority of that State in a matter governed by the Convention including, subject to [Article 18](https://wetten.overheid.nl/BWBV0005392), for the purpose of having a maintenance decision established or modified.
 
-##### Artikel 36. Overheidslichamen in de hoedanigheid van verzoeker
+2. [Articles 14(5)](https://wetten.overheid.nl/BWBV0005392) and [17 b)](https://wetten.overheid.nl/BWBV0005392) and the provisions of [Chapters V](https://wetten.overheid.nl/BWBV0005392), [VI](https://wetten.overheid.nl/BWBV0005392), [VII](https://wetten.overheid.nl/BWBV0005392) and this Chapter, with the exception of [Articles 40(2)](https://wetten.overheid.nl/BWBV0005392), [42](https://wetten.overheid.nl/BWBV0005392), [43(3)](https://wetten.overheid.nl/BWBV0005392), [44(3)](https://wetten.overheid.nl/BWBV0005392), [45](https://wetten.overheid.nl/BWBV0005392) and [55](https://wetten.overheid.nl/BWBV0005392), shall apply in relation to a request for recognition and enforcement made directly to a competent authority in a Contracting State.
 
-1. Ten behoeve van verzoeken om erkenning en tenuitvoerlegging krachtens [artikel 10, eerste lid, onderdeel a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), en van onder [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), vallende zaken, wordt onder „onderhoudsgerechtigde” tevens verstaan een overheidslichaam dat optreedt in plaats van een persoon aan wie levensonderhoud is verschuldigd of een lichaam waaraan terugbetaling is verschuldigd van uitkeringen die bij wijze van levensonderhoud zijn verstrekt.
+3. For the purpose of paragraph 2, [Article 2(1) a)](https://wetten.overheid.nl/BWBV0005392) shall apply to a decision granting maintenance to a vulnerable person over the age specified in that sub-paragraph where such decision was rendered before the person reached that age and provided for maintenance beyond that age by reason of the impairment.
 
-2. Het recht van een overheidslichaam om op te treden in plaats van een persoon aan wie levensonderhoud is verschuldigd of om terugbetaling te vragen van uitkeringen die bij wijze van levensonderhoud aan de onderhoudsgerechtigde zijn verstrekt, wordt beheerst door het recht dat op het orgaan van toepassing is.
+##### Article 38. Protection of personal data
 
-3. Een overheidslichaam kan de erkenning of de tenuitvoerlegging vragen van:
+Personal data gathered or transmitted under the Convention shall be used only for the purposes for which they were gathered or transmitted.
 
-- a. een beslissing die tegen een onderhoudsplichtige is gegeven op verzoek van een overheidslichaam dat betaling vordert van bij wijze van levensonderhoud verstrekte uitkeringen;
+##### Article 39. Confidentiality
 
-- b. een tussen een onderhoudsgerechtigde en een onderhoudsplichtige gegeven beslissing, ten belope van de bij wijze van levensonderhoud aan de onderhoudsgerechtigde verstrekte uitkeringen.
+Any authority processing information shall ensure its confidentiality in accordance with the law of its State.
 
-4. Het overheidslichaam dat om erkenning verzoekt of tenuitvoerlegging vordert van een beslissing, verstrekt op verzoek elk stuk aan de hand waarvan zijn recht uit hoofde van het tweede lid en de aan de onderhoudsgerechtigde verstrekte uitkeringen, kan worden vastgesteld.
+##### Article 40. Non-disclosure of information
 
-### HOOFDSTUK VIII. ALGEMENE BEPALINGEN
+1. An authority shall not disclose or confirm information gathered or transmitted in application of this Convention if it determines that to do so could jeopardise the health, safety or liberty of a person.
 
-##### Artikel 37. Rechtstreekse verzoeken aan bevoegde autoriteiten
+2. A determination to this effect made by one Central Authority shall be taken into account by another Central Authority, in particular in cases of family violence.
 
-1. Het Verdrag sluit de mogelijkheid niet uit dat gebruik wordt gemaakt van eventueel krachtens het nationale recht van een verdragsluitende staat beschikbare procedures waarbij een persoon (een verzoeker) zich rechtstreeks kan wenden tot een bevoegde autoriteit van die staat betreffende een aangelegenheid waarop het Verdrag van toepassing is, waaronder, met inachtneming van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IV&artikel=18&z=2007-11-23&g=2007-11-23), de vaststelling of wijziging van een beslissing inzake levensonderhoud.
+3. Nothing in this Article shall impede the gathering and transmitting of information by and between authorities in so far as necessary to carry out the obligations under the Convention.
 
-2. [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=14&z=2007-11-23&g=2007-11-23), en [artikel 17, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=17&z=2007-11-23&g=2007-11-23), en de bepalingen van de [hoofdstukken V](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&z=2007-11-23&g=2007-11-23), [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VI&z=2007-11-23&g=2007-11-23), [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VII&z=2007-11-23&g=2007-11-23) en dit hoofdstuk, met uitzondering van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=40&z=2007-11-23&g=2007-11-23), [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=42&z=2007-11-23&g=2007-11-23), [artikel 43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=43&z=2007-11-23&g=2007-11-23), [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), en de [artikelen 45](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=45&z=2007-11-23&g=2007-11-23) en [55](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=55&z=2007-11-23&g=2007-11-23), zijn van toepassing op verzoeken om erkenning en tenuitvoerlegging die rechtstreeks worden ingediend bij een bevoegde autoriteit van een verdragsluitende staat.
+##### Article 41. No legalisation
 
-3. Voor de toepassing van het tweede lid, is [artikel 2, eerste lid, onderdeel a)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), van toepassing op een beslissing tot toekenning van levensonderhoud aan een kwetsbare persoon ouder dan de in dat onderdeel vermelde leeftijd, indien deze beslissing is gegeven voordat die persoon die leeftijd had bereikt en indien zij, gelet op de aantasting van zijn vermogens, voorziet in levensonderhoud boven die leeftijd.
+No legalisation or similar formality may be required in the context of this Convention.
 
-##### Artikel 38. Bescherming van persoonsgegevens
+##### Article 42. Power of attorney
 
-Persoonsgegevens die in het kader van het Verdrag zijn verzameld of verzonden mogen slechts worden gebruikt voor de doeleinden waarvoor zij zijn verzameld of verzonden.
+The Central Authority of the requested State may require a power of attorney from the applicant only if it acts on his or her behalf in judicial proceedings or before other authorities, or in order to designate a representative so to act.
 
-##### Artikel 39. Vertrouwelijkheid
+##### Article 43. Recovery of costs
 
-Elke autoriteit die gegevens verwerkt, waarborgt de vertrouwelijkheid daarvan in overeenstemming met het recht van haar staat.
+1. Recovery of any costs incurred in the application of this Convention shall not take precedence over the recovery of maintenance.
 
-##### Artikel 40. Niet-bekendmaking van informatie
+2. A State may recover costs from an unsuccessful party.
 
-1. Autoriteiten maken geen informatie die voor de toepassing van dit Verdrag is verzameld of verzonden, bekend noch bevestigen zij deze, indien zij vaststellen dat zulks ten koste zou kunnen gaan van de gezondheid, veiligheid of vrijheid van een persoon.
+3. For the purposes of an application under [Article 10(1) b)](https://wetten.overheid.nl/BWBV0005392) to recover costs from an unsuccessful party in accordance with paragraph 2, the term “creditor” in Article 10(1) shall include a State.
 
-2. Indien een centrale autoriteit tot een dergelijke vaststelling komt, wordt daar door andere centrale autoriteiten rekening mee gehouden, met name in het geval van huiselijk geweld.
+4. This Article shall be without prejudice to [Article 8](https://wetten.overheid.nl/BWBV0005392).
 
-3. Niets in dit artikel belet de verzameling en verzending van informatie door en tussen autoriteiten, voor zover zulks noodzakelijk is voor het nakomen van de verplichtingen uit hoofde van het Verdrag.
+##### Article 44. Language requirements
 
-##### Artikel 41. Geen legalisatie
+1. Any application and related documents shall be in the original language, and shall be accompanied by a translation into an official language of the requested State or another language which the requested State has indicated, by way of declaration in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392), it will accept, unless the competent authority of that State dispenses with translation.
 
-Legalisatie of soortgelijke formaliteiten worden niet vereist in het kader van dit Verdrag.
+2. A Contracting State which has more than one official language and cannot, for reasons of internal law, accept for the whole of its territory documents in one of those languages shall, by declaration in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392), specify the language in which such documents or translations thereof shall be drawn up for submission in the specified parts of its territory.
 
-##### Artikel 42. Volmacht
+3. Unless otherwise agreed by the Central Authorities, any other communications between such Authorities shall be in an official language of the requested State or in either English or French. However, a Contracting State may, by making a reservation in accordance with [Article 62](https://wetten.overheid.nl/BWBV0005392), object to the use of either English or French.
 
-De centrale autoriteit van de aangezochte staat kan van de verzoeker alleen een volmacht eisen indien zij namens hem in gerechtelijke procedures of ten overstaan van andere autoriteiten optreedt, of teneinde daartoe een vertegenwoordiger aan te wijzen.
+##### Article 45. Means and costs of translation
 
-##### Artikel 43. Inning van kosten
+1. In the case of applications under [Chapter III](https://wetten.overheid.nl/BWBV0005392), the Central Authorities may agree in an individual case or generally that the translation into an official language of the requested State may be made in the requested State from the original language or from any other agreed language. If there is no agreement and it is not possible for the requesting Central Authority to comply with the requirements of [Article 44(1) and (2)](https://wetten.overheid.nl/BWBV0005392), then the application and related documents may be transmitted with translation into English or French for further translation in to an official language of the requested State.
 
-1. De inning van kosten ontstaan bij de toepassing van dit Verdrag krijgt geen voorrang boven de inning van levensonderhoud.
+2. The cost of translation arising from the application of paragraph 1 shall be borne by the requesting State unless otherwise agreed by Central Authorities of the States concerned.
 
-2. Staten kunnen kosten verhalen op in het ongelijk gestelde partijen.
+3. Notwithstanding [Article 8](https://wetten.overheid.nl/BWBV0005392), the requesting Central Authority may charge an applicant for the costs of translation of an application and related documents, except in so far as those costs may be covered by its system of legal assistance.
 
-3. Ten behoeve van een verzoek krachtens [artikel 10, eerste lid, onderdeel b)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=10&z=2007-11-23&g=2007-11-23), wordt om kosten te verhalen op een in het ongelijk gestelde partij in overeenstemming met het tweede lid, onder de term „onderhoudsgerechtigde” in artikel 10, eerste lid, mede verstaan een staat.
+##### Article 46. Non-unified legal systems – interpretation
 
-4. Dit artikel laat [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=8&z=2007-11-23&g=2007-11-23) onverlet.
+1. In relation to a State in which two or more systems of law or sets of rules of law with regard to any matter dealt with in this Convention apply in different territorial units –
 
-##### Artikel 44. Taalvoorschriften
+- a) any reference to the law or procedure of a State shall be construed as referring, where appropriate, to the law or procedure in force in the relevant territorial unit;
 
-1. Verzoeken en bijbehorende stukken worden opgesteld in de oorspronkelijke taal en gaan vergezeld van een vertaling in een officiële taal van de aangezochte staat of in een andere taal die de aangezochte staat in een verklaring in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) heeft aangegeven te aanvaarden, tenzij de bevoegde autoriteit van die staat vrijstelling verleent van vertaling.
+- b) any reference to a decision established, recognised, recognised and enforced, enforced or modified in that State shall be construed as referring, where appropriate, to a decision established, recognised, recognised and enforced, enforced or modified in the relevant territorial unit;
 
-2. Een verdragsluitende staat met meerdere officiële talen die op grond van zijn nationale recht stukken in een van die talen niet voor zijn gehele grondgebied kan aanvaarden, vermeldt in een verklaring in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) de taal waarin dergelijke stukken of vertalingen daarvan dienen te worden opgesteld voor indiening in de omschreven delen van zijn grondgebied.
+- c) any reference to a judicial or administrative authority in that State shall be construed as referring, where appropriate, to a judicial or administrative authority in the relevant territorial unit;
 
-3. Tenzij anders is overeengekomen door de centrale autoriteiten geschieden overige mededelingen tussen deze autoriteiten in een officiële taal van de aangezochte staat of in de Engelse of de Franse taal. Een verdragsluitende staat kan echter, door het maken van een voorbehoud in de zin van [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23), bezwaar maken tegen het gebruik van hetzij de Engelse, hetzij de Franse taal.
+- d) any reference to competent authorities, public bodies, and other bodies of that State, other than Central Authorities, shall be construed as referring, where appropriate, to those authorised to act in the relevant territorial unit;
 
-##### Artikel 45. Middelen en kosten van vertalingen
+- e) any reference to residence or habitual residence in that State shall be construed as referring, where appropriate, to residence or habitual residence in the relevant territorial unit;
 
-1. In het geval van verzoeken in de zin van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23), kunnen de centrale autoriteiten in afzonderlijke gevallen of in het algemeen overeenkomen dat vertalingen uit de oorspronkelijke taal of uit een andere overeengekomen taal in een officiële taal van de aangezochte staat worden gemaakt in de aangezochte staat. Indien er geen overeenstemming is en het voor de verzoekende centrale autoriteit niet mogelijk is te voldoen aan de vereisten van [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), mogen het verzoek en de bijbehorende stukken samen met een vertaling in de Engelse of de Franse taal worden verzonden voor verdere vertaling in een officiële taal van de aangezochte staat.
+- f) any reference to location of assets in that State shall be construed as referring, where appropriate, to the location of assets in the relevant territorial unit;
 
-2. Tenzij anders is overeengekomen door de centrale autoriteiten van de betrokken staten, worden de kosten van vertaling die voortvloeien uit de toepassing van het eerste lid gedragen door de verzoekende staat.
+- g) any reference to a reciprocity arrangement in force in a State shall be construed as referring, where appropriate, to a reciprocity arrangement in force in the relevant territorial unit;
 
-3. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=8&z=2007-11-23&g=2007-11-23) kan de verzoekende centrale autoriteit een verzoeker de kosten van de vertaling van een verzoek en van de bijbehorende stukken in rekening brengen, tenzij deze kosten vallen onder haar stelsel van rechtsbijstand.
+- h) any reference to free legal assistance in that State shall be construed as referring, where appropriate, to free legal assistance in the relevant territorial unit;
 
-##### Artikel 46. Niet-geünificeerde rechtsstelsels – uitlegging
+- i) any reference to a maintenance arrangement made in a State shall be construed as referring, where appropriate, to a maintenance arrangement made in the relevant territorial unit;
 
-1. Ten aanzien van een staat die met betrekking tot bij dit Verdrag geregelde aangelegenheden twee of meer rechtsstelsels of juridische regelingen heeft die binnen verschillende territoriale eenheden van toepassing zijn:
+- j) any reference to recovery of costs by a State shall be construed as referring, where appropriate, to the recovery of costs by the relevant territorial unit.
 
-- a. wordt elke verwijzing naar het recht of de procedure van een staat in voorkomend geval uitgelegd als een verwijzing naar het in de desbetreffende territoriale eenheid geldende recht of de daar geldende procedure;
+2. This Article shall not apply to a Regional Economic Integration Organisation.
 
-- b. wordt elke verwijzing naar een beslissing gegeven, erkend, erkend en ten uitvoer gelegd of ten uitvoer gelegd en gewijzigd in die staat in voorkomend geval uitgelegd als een verwijzing naar een in de desbetreffende territoriale eenheid gegeven, erkende, erkende en ten uitvoer gelegde of ten uitvoer gelegde en gewijzigde beslissing;
+##### Article 47. Non-unified legal systems – substantive rules
 
-- c. wordt elke verwijzing naar een gerechtelijke of administratieve autoriteit in die staat in voorkomend geval uitgelegd als een verwijzing naar een gerechtelijke of administratieve autoriteit in de desbetreffende territoriale eenheid;
+1. A Contracting State with two or more territorial units in which different systems of law apply shall not be bound to apply this Convention to situations which involve solely such different territorial units.
 
-- d. wordt elke verwijzing naar bevoegde autoriteiten, overheidslichamen en andere lichamen van die staat, anders dan de centrale autoriteiten, in voorkomend geval uitgelegd als een verwijzing naar autoriteiten of lichamen die bevoegd zijn op te treden in de desbetreffende territoriale eenheid;
+2. A competent authority in a territorial unit of a Contracting State with two or more territorial units in which different systems of law apply shall not be bound to recognise or enforce a decision from another Contracting State solely because the decision has been recognised or enforced in another territorial unit of the same Contracting State under this Convention.
 
-- e. wordt elke verwijzing naar woonplaats of gewone verblijfplaats in die staat in voorkomend geval uitgelegd als een verwijzing naar een woonplaats of gewone verblijfplaats in de desbetreffende territoriale eenheid;
+3. This Article shall not apply to a Regional Economic Integration Organisation.
 
-- f. wordt elke verwijzing naar een locatie van vermogensbestanddelen in die staat in voorkomend geval uitgelegd als een verwijzing naar een locatie van vermogensbestanddelen in de desbetreffende territoriale eenheid;
+##### Article 48. Co-ordination with prior Hague Maintenance Conventions
 
-- g. wordt elke verwijzing naar een wederkerige regeling die in die staat van kracht is in voorkomend geval uitgelegd als een verwijzing naar een wederkerige regeling in de desbetreffende territoriale eenheid;
+In relations between the Contracting States, this Convention replaces, subject to [Article 56(2)](https://wetten.overheid.nl/BWBV0005392), the *Hague Convention of 2 October 1973 on the Recognition and Enforcement of Decisions Relating to Maintenance Obligations* and the [Hague Convention of 15 April 1958 concerning the recognition and enforcement of decisions relating to maintenance obligations towards children](https://wetten.overheid.nl/jci1.3:c:BWBV0002908) in so far as their scope of application as between such States coincides with the scope of application of this Convention.
 
-- h. wordt elke verwijzing naar kosteloze rechtsbijstand in die staat in voorkomend geval uitgelegd als een verwijzing naar kosteloze rechtsbijstand in de desbetreffende territoriale eenheid;
+##### Article 49. Co-ordination with the 1956 New York Convention
 
-- i. wordt elke verwijzing naar een regeling inzake levensonderhoud getroffen in een staat in voorkomend geval uitgelegd als een verwijzing naar een regeling inzake levensonderhoud in de desbetreffende territoriale eenheid;
+In relations between the Contracting States, this Convention replaces the [United Nations Convention on the Recovery Abroad of Maintenance](https://wetten.overheid.nl/jci1.3:c:BWBV0005233) of 20 June 1956, in so far as its scope of application as between such States coincides with the scope of application of this Convention.
 
-- j. wordt elke verwijzing naar de inning van kosten door een staat in voorkomend geval uitgelegd als een verwijzing naar de inning van kosten door de desbetreffende territoriale eenheid.
+##### Article 50. Relationship with prior Hague Conventions on service of documents and taking of evidence
 
-2. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
+This Convention does not affect the *Hague Convention of 1 March 1954 on civil procedure*, the *Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters* and the *Hague Convention of 18 March 1970 on the Taking of Evidence Abroad in Civil or Commercial Matters*.
 
-##### Artikel 47. Niet-geünificeerde rechtsstelsels - materiële regels
+##### Article 51. Co-ordination of instruments and supplementary agreements
 
-1. Een verdragsluitende staat met twee of meer territoriale eenheden waarin verschillende rechtsstelsels gelden, is niet gehouden dit Verdrag toe te passen op situaties waarbij alleen die verschillende territoriale eenheden zijn betrokken.
+1. This Convention does not affect any international instrument concluded before this Convention to which Contracting States are Parties and which contains provisions on matters governed by this Convention.
 
-2. Een bevoegde autoriteit in een territoriale eenheid van een verdragsluitende staat met twee of meer territoriale eenheden waarin verschillende rechtsstelsels gelden, is niet gehouden een beslissing van een andere verdragsluitende staat te erkennen of ten uitvoer te leggen alleen omdat de beslissing uit hoofde van dit Verdrag in een andere territoriale eenheid van dezelfde verdragsluitende staat is erkend of ten uitvoer is gelegd.
+2. Any Contracting State may conclude with one or more Contracting States agreements, which contain provisions on matters governed by the Convention, with a view to improving the application of the Convention between or among themselves, provided that such agreements are consistent with the objects and purpose of the Convention and do not affect, in the relationship of such States with other Contracting States, the application of the provisions of the Convention. The States which have concluded such an agreement shall transmit a copy to the depositary of the Convention.
 
-3. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
+3. Paragraphs 1 and 2 shall also apply to reciprocity arrangements and to uniform laws based on special ties between the States concerned.
 
-##### Artikel 48. Samenloop met eerdere Haagse verdragen inzake levensonderhoud
+4. This Convention shall not affect the application of instruments of a Regional Economic Integration Organisation that is a Party to this Convention, adopted after the conclusion of the Convention, on matters governed by the Convention provided that such instruments do not affect, in the relationship of Member States of the Regional Economic Integration Organisation with other Contracting States, the application of the provisions of the Convention. As concerns the recognition or enforcement of decisions as between Member States of the Regional Economic Integration Organisation, the Convention shall not affect the rules of the Regional Economic Integration Organisation, whether adopted before or after the conclusion of the Convention.
 
-In de betrekkingen tussen de verdragsluitende staten vervangt dit Verdrag, met inachtneming van [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=56&z=2007-11-23&g=2007-11-23), het Haags Verdrag **van 2 oktober 1973 inzake de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen** en het Haags Verdrag **van 15 april 1958 nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen**, voor zover het toepassingsgebied daarvan tussen deze staten samenvalt met het toepassingsgebied van dit Verdrag.
+##### Article 52. Most effective rule
 
-##### Artikel 49. Samenloop met het [Verdrag van New York van 1956](https://wetten.overheid.nl/jci1.3:c:BWBV0005233)
+1. This Convention shall not prevent the application of an agreement, arrangement or international instrument in force between the requesting State and the requested State, or a reciprocity arrangement in force in the requested State that provides for –
 
-In de betrekkingen tussen de verdragsluitende staten vervangt dit Verdrag het [Verdrag van de Verenigde Naties inzake het verhaal in het buitenland van uitkeringen tot onderhoud](https://wetten.overheid.nl/jci1.3:c:BWBV0005233) van 20 juni 1956, voor zover het toepassingsgebied daarvan tussen deze staten samenvalt met het toepassingsgebied van dit Verdrag.
+- a) broader bases for recognition of maintenance decisions, without prejudice to [Article 22 f)](https://wetten.overheid.nl/BWBV0005392) of the Convention;
 
-##### Artikel 50. Relatie tot eerdere Haagse verdragen inzake de betekening en de kennisgeving van stukken en de verkrijging van bewijs
+- b) simplified, more expeditious procedures on an application for recognition or recognition and enforcement of maintenance decisions;
 
-Dit Verdrag laat onverlet het [Verdrag van ’s-Gravenhage van 1 maart 1954 betreffende de burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBV0002016), het [Verdrag van ’s-Gravenhage van 15 november 1965 inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0002015), en het [Verdrag van ’s-Gravenhage 18 maart 1970 inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken](https://wetten.overheid.nl/jci1.3:c:BWBV0001993).
+- c) more beneficial legal assistance than that provided for under [Articles 14 to 17](https://wetten.overheid.nl/BWBV0005392); or
 
-##### Artikel 51. Samenloop met instrumenten en aanvullende verdragen
+- d) procedures permitting an applicant from a requesting State to make a request directly to the Central Authority of the requested State.
 
-1. Dit Verdrag laat onverlet alle vóór dit Verdrag gesloten internationale instrumenten waarbij de verdragsluitende partijen partij zijn en die bepalingen bevatten die van toepassing zijn op in dit Verdrag geregelde aangelegenheden.
+2. This Convention shall not prevent the application of a law in force in the requested State that provides for more effective rules as referred to in paragraph 1 a) to c). However, as regards simplified, more expeditious procedures referred to in paragraph 1 b), they must be compatible with the protection offered to the parties under[Articles 23](https://wetten.overheid.nl/BWBV0005392) and [24](https://wetten.overheid.nl/BWBV0005392), in particular as regards the rights of the parties to be duly notified of the proceedings and be given adequate opportunity to be heard and as regards the effects of any challenge or appeal.
 
-2. Elke verdragsluitende staat kan met een of meer verdragsluitende staten verdragen sluiten die bepalingen bevatten inzake in dit Verdrag geregelde aangelegenheden teneinde de toepassing van het Verdrag tussen hen te verbeteren, mits deze verdragen verenigbaar zijn met de doelstellingen van het Verdrag en de toepassing van de bepalingen van het Verdrag in de betrekkingen van deze staten met andere verdragsluitende staten onverlet laten. De staten die een dergelijk verdrag hebben gesloten, zenden een afschrift daarvan aan de depositaris van het Verdrag.
+##### Article 53. Uniform interpretation
 
-3. Het eerste en tweede lid zijn ook van toepassing op wederkerige regelingen en op eenvormige wetten die zijn gebaseerd op het bestaan van bijzondere banden tussen de betrokken staten.
+In the interpretation of this Convention, regard shall be had to its international character and to the need to promote uniformity in its application.
 
-4. Dit Verdrag laat de toepassing onverlet van instrumenten van een regionale organisatie voor economische integratie die partij is bij dit Verdrag, die zijn aangenomen na het sluiten van het Verdrag inzake in het Verdrag geregelde aangelegenheden, mits deze instrumenten de toepassing van de bepalingen van het Verdrag in de betrekkingen van lidstaten van de regionale organisatie voor economische integratie met andere verdragsluitende staten onverlet laten. Wat de erkenning of tenuitvoerlegging van beslissingen tussen lidstaten van de regionale organisatie voor economische integratie betreft, laat het Verdrag de regels van de regionale organisatie voor economische integratie onverlet, ongeacht of deze voor of na het sluiten van het Verdrag zijn aangenomen.
+##### Article 54. Review of practical operation of the Convention
 
-##### Artikel 52. Meest doeltreffende regel
+1. The Secretary General of the Hague Conference on Private International Law shall at regular intervals convene a Special Commission in order to review the practical operation of the Convention and to encourage the development of good practices under the Convention.
 
-1. Dit Verdrag belet niet de toepassing van verdragen, regelingen of internationaal instrumenten die van kracht zijn tussen de verzoekende staat en de aangezochte staat noch van wederkerige regelingen die van kracht zijn in de aangezochte staat, die voorzien in:
+2. For the purpose of such review, Contracting States shall co-operate with the Permanent Bureau of the Hague Conference on Private International Law in the gathering of information, including statistics and case law, concerning the practical operation of the Convention.
 
-- a. ruimere gronden voor erkenning van beslissingen inzake levensonderhoud, onverminderd [artikel 22, onderdeel f)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=22&z=2007-11-23&g=2007-11-23), van het Verdrag;
+##### Article 55. Amendment of forms
 
-- b. vereenvoudigde, snellere procedures voor verzoeken om erkenning of erkenning en tenuitvoerlegging van beslissingen inzake levensonderhoud;
+1. The forms annexed to this Convention may be amended by a decision of a Special Commission convened by the Secretary General of the Hague Conference on Private International Law to which all Contracting States and all Members shall be invited. Notice of the proposal to amend the forms shall be included in the agenda for the meeting.
 
-- c. gunstiger rechtsbijstand dan vastgesteld in de [artikelen 14 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=14&z=2007-11-23&g=2007-11-23); of
+2. Amendments adopted by the Contracting States present at the Special Commission shall come into force for all Contracting States on the first day of the seventh calendar month after the date of their communication by the depositary to all Contracting States.
 
-- d. procedures die verzoekers van een verzoekende staat in staat stellen hun verzoek rechtstreeks bij de centrale autoriteit van de aangezochte staat in te dienen.
+3. During the period provided for in paragraph 2 any Contracting State may by notification in writing to the depositary make a reservation, in accordance with [Article 62](https://wetten.overheid.nl/BWBV0005392), with respect to the amendment. The State making such reservation shall, until the reservation is withdrawn, be treated as a State not Party to the present Convention with respect to that amendment.
 
-2. Dit Verdrag belet niet de toepassing van een in de aangezochte staat van kracht zijnde wet die voorziet in doeltreffender voorschriften in de zin van het eerste lid, onderdeel a) tot en met c). Wat betreft vereenvoudigde, snellere procedures, zoals bedoeld in het eerste lid, onderdeel b), moeten zij evenwel verenigbaar zijn met de bescherming die de partijen wordt geboden krachtens de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=23&z=2007-11-23&g=2007-11-23) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), in het bijzonder wat betreft het recht van de partijen naar behoren in kennis te worden gesteld van de procedures en voldoende in de gelegenheid te worden gesteld te worden gehoord, alsmede wat betreft de gevolgen van een bezwaar of beroep.
+##### Article 56. Transitional provisions
 
-##### Artikel 53. Uniforme uitlegging
+1. The Convention shall apply in every case where –
 
-Bij de uitlegging van dit Verdrag dient rekening te worden gehouden met het internationale karakter ervan en met de noodzaak de uniforme toepassing ervan te bevorderen.
+- a) a request pursuant to [Article 7](https://wetten.overheid.nl/BWBV0005392) or an application pursuant to [Chapter III](https://wetten.overheid.nl/BWBV0005392) has been received by the Central Authority of the requested State after the Convention has entered into force between the requesting State and the requested State;
 
-##### Artikel 54. Toetsing van de werking van het Verdrag in de praktijk
+- b) a direct request for recognition and enforcement has been received by the competent authority of the State addressed after the Convention has entered into force between the State of origin and the State addressed.
 
-1. De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht roept op gezette tijden een bijzondere commissie bijeen teneinde de werking van het Verdrag in de praktijk te toetsen en de ontwikkeling van beproefde methoden krachtens dit Verdrag aan te moedigen.
+2. With regard to the recognition and enforcement of decisions between Contracting States to this Convention that are also Parties to either of the Hague Maintenance Conventions mentioned in [Article 48](https://wetten.overheid.nl/BWBV0005392), if the conditions for the recognition and enforcement under this Convention prevent the recognition and enforcement of a decision given in the State of origin before the entry into force of this Convention for that State, that would otherwise have been recognised and enforced under the terms of the Convention that was in effect at the time the decision was rendered, the conditions of that Convention shall apply.
 
-2. Ten behoeve van deze toetsing werken de verdragsluitende staten samen met het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht bij het verzamelen van informatie, met inbegrip van statistieken en jurisprudentie, betreffende de werking van het Verdrag in de praktijk.
+3. The State addressed shall not be bound under this Convention to enforce a decision or a maintenance arrangement, in respect of payments falling due prior to the entry into force of the Convention between the State of origin and the State addressed, except for maintenance obligations arising from a parent-child relationship towards a person under the age of 21 years.
 
-##### Artikel 55. Wijziging van formulieren
+##### Article 57. Provision of information concerning laws, procedures and services
 
-1. De in de bijlagen bij dit Verdrag opgenomen formulieren kunnen worden gewijzigd bij een beslissing van een bijzondere commissie bijeengeroepen door de Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht waarvoor alle verdragsluitende staten en alle leden worden uitgenodigd. Een kennisgeving van het voorstel tot wijziging van de formulieren wordt opgenomen in de agenda voor de bijeenkomst.
+1. A Contracting State, by the time its instrument of ratification or accession is deposited or a declaration is submitted in accordance with Article 61 of the Convention, shall provide the Permanent Bureau of the Hague Conference on Private International Law with –
 
-2. Wijzigingen aangenomen door de verdragsluitende staten die aanwezig zijn bij de bijzondere commissie worden voor alle verdragsluitende partijen van kracht op de eerste dag van de zevende kalendermaand na de datum waarop de depositaris ze aan alle verdragsluitende staten heeft toegezonden.
+- a) a description of its laws and procedures concerning maintenance obligations;
 
-3. Gedurende het in het tweede lid bedoelde tijdvak kan elke verdragsluitende staat in overeenstemming met [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23) bij schriftelijke kennisgeving aan de depositaris een voorbehoud maken ten aanzien van de wijziging. Een staat die een dergelijk voorbehoud maakt, wordt tot het tijdstip waarop het voorbehoud wordt ingetrokken, behandeld als een staat die ter zake van die wijziging geen partij is bij dit Verdrag.
+- b) a description of the measures it will take to meet the obligations under [Article 6](https://wetten.overheid.nl/BWBV0005392);
 
-##### Artikel 56. Overgangsbepalingen
+- c) a description of how it will provide applicants with effective access to procedures, as required under [Article 14](https://wetten.overheid.nl/BWBV0005392);
 
-1. Het Verdrag is van toepassing op elk geval:
+- d) a description of its enforcement rules and procedures, including any limitations on enforcement, in particular debtor protection rules and limitation periods;
 
-- a. waarin een verzoek uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=7&z=2007-11-23&g=2007-11-23) of een verzoek uit hoofde van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&z=2007-11-23&g=2007-11-23) wordt ontvangen door de centrale autoriteit van de aangezochte staat nadat het Verdrag in werking is getreden tussen de verzoekende staat en de aangezochte staat;
+- e) any specification referred to in [Article 25(1) b) and (3)](https://wetten.overheid.nl/BWBV0005392).
 
-- b. waarin een rechtstreeks verzoek om erkenning en tenuitvoerlegging is ontvangen door de bevoegde autoriteit van de aangezochte staat nadat het Verdrag in werking is getreden tussen de staat van herkomst en de aangezochte staat.
+2. Contracting States may, in fulfilling their obligations under paragraph 1, utilise a country profile form recommended and published by the Hague Conference on Private International Law.
 
-2. Wat betreft de erkenning en tenuitvoerlegging van beslissingen tussen verdragsluitende staten bij dit Verdrag die tevens partij zijn bij een van de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=48&z=2007-11-23&g=2007-11-23) genoemde Haagse verdragen inzake levensonderhoud, indien de voorwaarden voor erkenning en tenuitvoerlegging in de zin van dit Verdrag de erkenning en tenuitvoerlegging van een in de staat van herkomst gegeven beslissing voordat dit Verdrag voor die staat in werking trad, beletten, die anders zou zijn erkend en ten uitvoer gelegd krachtens de bepalingen van het verdrag dat van kracht was op het tijdstip waarop de beslissing werd gegeven, zijn de voorwaarden van dat verdrag van toepassing.
+3. Information shall be kept up to date by the Contracting States.
 
-3. De aangezochte staat is krachtens dit Verdrag niet gehouden een beslissing of regeling inzake levensonderhoud ten uitvoer te leggen betreffende betalingen die verschuldigd waren voordat het Verdrag tussen de staat van herkomst en de aangezochte staat in werking is getreden, met uitzondering van onderhoudsverplichtingen die voortvloeien uit een ouder-kindrelatie jegens een persoon jonger dan 21 jaar.
+### CHAPTER IX. FINAL PROVISIONS
 
-##### Artikel 57. Verstrekken van inlichtingen betreffende wetten, procedures en diensten
+##### Article 58. Signature, ratification and accession
 
-1. Een verdragsluitende staat verstrekt op het tijdstip van de nederlegging van zijn akte van bekrachtiging of toetreding of bij het indienen van een verklaring overeenkomstig artikel 61 van het Verdrag het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht:
+1. The Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law at the time of its Twenty-First Session and by the other States which participated in that Session.
 
-- a. een beschrijving van zijn wetgeving en procedures betreffende onderhoudsverplichtingen;
+2. It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands, depositary of the Convention.
 
-- b. een beschrijving van de maatregelen die hij zal nemen om aan de verplichtingen in de zin van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=II&artikel=6&z=2007-11-23&g=2007-11-23) te voldoen;
+3. Any other State or Regional Economic Integration Organisation may accede to the Convention after it has entered into force in accordance with [Article 60(1)](https://wetten.overheid.nl/BWBV0005392).
 
-- c. een beschrijving van de manier waarop hij verzoekers daadwerkelijk toegang zal verschaffen tot procedures, zoals voorgeschreven in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=14&z=2007-11-23&g=2007-11-23);
+4. The instrument of accession shall be deposited with the depositary.
 
-- d. een beschrijving van zijn tenuitvoerleggingsvoorschriften en -procedures, met inbegrip van beperkingen ten aanzien van tenuitvoerlegging, in het bijzonder aangaande de voorschriften voor de bescherming van onderhoudsplichtigen en verjaringstermijnen;
+5. Such accession shall have effect only as regards the relations between the acceding State and those Contracting States which have not raised an objection to its accession in the 12 months after the date of the notification referred to in [Article 65](https://wetten.overheid.nl/BWBV0005392). Such an objection may also be raised by States at the time when they ratify, accept or approve the Convention after an accession. Any such objection shall be notified to the depositary.
 
-- e. nadere omschrijvingen bedoeld in [artikel 25, eerste lid, onderdeel b), en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=25&z=2007-11-23&g=2007-11-23).
+##### Article 59. Regional Economic Integration Organisations
 
-2. De verdragsluitende staten kunnen bij het nakomen van hun verplichtingen uit hoofde van het eerste lid, gebruikmaken van een door de Haagse Conferentie voor Internationaal Privaatrecht aanbevolen en bekendgemaakt formulier voor een landprofiel (country profile form).
+1. A Regional Economic Integration Organisation which is constituted solely by sovereign States and has competence over some or all of the matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that the Organisation has competence over matters governed by the Convention.
 
-3. De inlichtingen worden geactualiseerd door de verdragsluitende staten.
+2. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, notify the depositary in writing of the matters governed by this Convention in respect of which competence has been transferred to that Organisation by its Member States. The Organisation shall promptly notify the depositary in writing of any changes to its competence as specified in the most recent notice given under this paragraph.
 
-### HOOFDSTUK IX. SLOTBEPALINGEN
+3. At the time of signature, acceptance, approval or accession, a Regional Economic Integration Organisation may declare in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392) that it exercises competence over all the matters governed by this Convention and that the Member States which have transferred competence to the Regional Economic Integration Organisation in respect of the matter in question shall be bound by this Convention by virtue of the signature, acceptance, approval or accession of the Organisation.
 
-##### Artikel 58. Ondertekening, bekrachtiging en toetreding
+4. For the purposes of the entry into force of this Convention, any instrument deposited by a Regional Economic Integration Organisation shall not be counted unless the Regional Economic Integration Organisation makes a declaration in accordance with paragraph 3.
 
-1. Het Verdrag staat open voor ondertekening door de staten die lid waren van de Haagse Conferentie voor Internationaal Privaatrecht op het tijdstip van haar eenentwintigste zitting en door de overige staten die aan die zitting deelnamen.
+5. Any reference to a “Contracting State” or “State” in this Convention shall apply equally to a Regional Economic Integration Organisation that is a Party to it, where appropriate. In the event that a declaration is made by a Regional Economic Integration Organisation in accordance with paragraph 3, any reference to a “Contracting State” or “State” in this Convention shall apply equally to the relevant Member States of the Organisation, where appropriate.
 
-2. Het Verdrag wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het Verdrag.
+##### Article 60. Entry into force
 
-3. Elke andere staat of regionale organisatie voor economische integratie kan tot het Verdrag toetreden nadat het overeenkomstig [artikel 60, eerste lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=60&z=2007-11-23&g=2007-11-23), in werking is getreden.
+1. The Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the second instrument of ratification, acceptance or approval referred to in [Article 58](https://wetten.overheid.nl/BWBV0005392).
 
-4. De akte van toetreding wordt nedergelegd bij de depositaris.
+2. Thereafter the Convention shall enter into force –
 
-5. Deze toetreding heeft slechts gevolgen in de betrekkingen tussen de toetredende staat en die verdragsluitende staten die niet binnen twaalf maanden na de ontvangst van de in [artikel 65](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=65&z=2007-11-23&g=2007-11-23) bedoelde kennisgeving bezwaar hebben gemaakt tegen de toetreding van deze staat. Een dergelijk bezwaar kan ook door een staat worden gemaakt op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van het Verdrag na een toetreding. Van elk bezwaar wordt kennisgeving gedaan aan de depositaris.
+- a) for each State or Regional Economic Integration Organisation referred to in [Article 59(1)](https://wetten.overheid.nl/BWBV0005392) subsequently ratifying, accepting or approving it, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance or approval;
 
-##### Artikel 59. Regionale organisaties voor economische integratie
+- b) for each State or Regional Economic Integration Organisation referred to in [Article 58(3)](https://wetten.overheid.nl/BWBV0005392) on the day after the end of the period during which objections may be raised in accordance with Article 58(5);
 
-1. Een regionale organisatie voor economische integratie die alleen uit soevereine staten is samengesteld en die bevoegd is ter zake van sommige of alle aangelegenheden die in dit Verdrag worden geregeld, kan dit Verdrag ook ondertekenen, aanvaarden, goedkeuren of hiertoe toetreden. In dat geval heeft de regionale organisatie voor economische integratie de rechten en verplichtingen van een verdragsluitende staat, voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop het Verdrag van toepassing is.
+- c) for a territorial unit to which the Convention has been extended in accordance with [Article 61](https://wetten.overheid.nl/BWBV0005392), on the first day of the month following the expiration of three months after the notification referred to in that Article.
 
-2. Op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding stelt de regionale organisatie voor economische integratie de depositaris schriftelijk in kennis van de in dit Verdrag geregelde aangelegenheden ter zake waarvan bevoegdheid aan die organisatie door haar lidstaten is overgedragen. De organisatie stelt de depositaris onverwijld schriftelijk in kennis van wijzigingen van haar bevoegdheid als vermeld in de meest recente kennisgeving krachtens dit lid.
+##### Article 61. Declarations with respect to non-unified legal systems
 
-3. Op het tijdstip van ondertekening, aanvaarding, goedkeuring of toetreding kan een regionale organisatie voor economische integratie in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat zij bevoegdheid uitoefent ter zake van alle aangelegenheden waarop dit Verdrag van toepassing is en dat haar lidstaten die hun bevoegdheid op dat gebied hebben overgedragen aan de regionale organisatie voor economische integratie, door dit Verdrag gebonden zullen zijn krachtens de ondertekening, aanvaarding, goedkeuring of toetreding door de organisatie.
+1. If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in the Convention, it may at the time of signature, ratification, acceptance, approval or accession declare in accordance with [Article 63](https://wetten.overheid.nl/BWBV0005392) that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
 
-4. Voor de inwerkingtreding van dit Verdrag wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld, tenzij de regionale organisatie voor economische integratie een verklaring aflegt in overeenstemming met het derde lid.
+2. Any such declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.
 
-5. Elke verwijzing in dit Verdrag naar een „verdragsluitende staat” of naar een „staat” is in voorkomend geval eveneens van toepassing op een regionale organisatie voor economische integratie die partij is bij het Verdrag. In het geval dat een regionale organisatie voor economische integratie een verklaring in overeenstemming met het derde lid heeft afgelegd, zijn alle verwijzingen in dit Verdrag naar een „verdragsluitende staat” of een „staat” in voorkomend geval eveneens van toepassing op de desbetreffende lidstaten van de organisatie.
+3. If a State makes no declaration under this Article, the Convention shall extend to all territorial units of that State.
 
-##### Artikel 60. Inwerkingtreding
+4. This Article shall not apply to a Regional Economic Integration Organisation.
 
-1. Het Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring, bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23).
+##### Article 62. Reservations
 
-2. Vervolgens treedt het Verdrag in werking:
+1. Any Contracting State may, not later than the time of ratification, acceptance, approval or accession, or at the time of making a declaration in terms of [Article 61](https://wetten.overheid.nl/BWBV0005392), make one or more of the reservations provided for in [Articles 2(2)](https://wetten.overheid.nl/BWBV0005392), [20(2)](https://wetten.overheid.nl/BWBV0005392), [30(8)](https://wetten.overheid.nl/BWBV0005392), [44(3)](https://wetten.overheid.nl/BWBV0005392) and [55(3)](https://wetten.overheid.nl/BWBV0005392). No other reservation shall be permitted.
 
-- a. voor elke staat of in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23), bedoelde regionale organisatie voor economische integratie die dit Verdrag daarna bekrachtigt, aanvaardt of goedkeurt op de eerste dag van de maand volgend op het verstrijken van drie maanden na de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring;
+2. Any State may at any time withdraw a reservation it has made. The withdrawal shall be notified to the depositary.
 
-- b. voor elke staat of in [artikel 58, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23), bedoelde regionale organisatie voor economische integratie op de dag na het verstrijken van de termijn gedurende welke bezwaar kan worden gemaakt overeenkomstig artikel 58, vijfde lid;
+3. The reservation shall cease to have effect on the first day of the third calendar month after the notification referred to in paragraph 2.
 
-- c. voor een territoriale eenheid waartoe het Verdrag in overeenstemming met [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van drie maanden na de in dat artikel bedoelde kennisgeving.
+4. Reservations under this Article shall have no reciprocal effect with the exception of the reservation provided for in [Article 2(2)](https://wetten.overheid.nl/BWBV0005392).
 
-##### Artikel 61. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
+##### Article 63. Declarations
 
-1. Indien een staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Verdrag geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=63&z=2007-11-23&g=2007-11-23) verklaren dat dit Verdrag op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
+1. Declarations referred to in [Articles 2(3)](https://wetten.overheid.nl/BWBV0005392), [11(1) g)](https://wetten.overheid.nl/BWBV0005392), [16(1)](https://wetten.overheid.nl/BWBV0005392), [24(1)](https://wetten.overheid.nl/BWBV0005392), [30(7)](https://wetten.overheid.nl/BWBV0005392), [44(1) and (2)](https://wetten.overheid.nl/BWBV0005392), [59(3)](https://wetten.overheid.nl/BWBV0005392) and [61(1)](https://wetten.overheid.nl/BWBV0005392), may be made upon signature, ratification, acceptance, approval or accession or at any time thereafter, and may be modified or withdrawn at any time.
 
-2. Elke verklaring wordt de depositaris ter kennis gebracht en daarin worden uitdrukkelijk de territoriale eenheden vermeld waarop het Verdrag van toepassing is.
+2. Declarations, modifications and withdrawals shall be notified to the depositary.
 
-3. Indien een staat geen verklaring aflegt uit hoofde van dit artikel, is het Verdrag van toepassing op alle territoriale eenheden van die staat.
+3. A declaration made at the time of signature, ratification, acceptance, approval or accession shall take effect simultaneously with the entry into force of this Convention for the State concerned.
 
-4. Dit artikel is niet van toepassing op regionale organisaties voor economische integratie.
+4. A declaration made at a subsequent time, and any modification or withdrawal of a declaration, shall take effect on the first day of the month following the expiration of three months after the date on which the notification is received by the depositary.
 
-##### Artikel 62. Voorbehouden
+##### Article 64. Denunciation
 
-1. Elke verdragsluitende staat kan, uiterlijk op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op het tijdstip waarop een verklaring bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23) wordt afgelegd, een of meer van de voorbehouden bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), [artikel 30, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), en [artikel 55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=55&z=2007-11-23&g=2007-11-23), maken. Andere voorbehouden zijn niet toegestaan.
+1. A Contracting State to the Convention may denounce it by a notification in writing addressed to the depositary. The denunciation may be limited to certain territorial units of a multi-unit State to which the Convention applies.
 
-2. Elke staat kan te allen tijde een gemaakt voorbehoud intrekken. De intrekking wordt de depositaris ter kennis gebracht.
+2. The denunciation shall take effect on the first day of the month following the expiration of 12 months after the date on which the notification is received by the depositary. Where a longer period for the denunciation to take effect is specified in the notification, the denunciation shall take effect upon the expiration of such longer period after the date on which the notification is received by the depositary.
 
-3. Het voorbehoud houdt op van kracht te zijn op de eerste dag van de derde kalendermaand na de in het tweede lid bedoelde kennisgeving.
+##### Article 65. Notification
 
-4. Met uitzondering van het in [artikel 2, tweede lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), bedoelde voorbehoud hebben voorbehouden uit hoofde van dit artikel geen wederkerige gevolgen.
+The depositary shall notify the Members of the Hague Conference on Private International Law, and other States and Regional Economic Integration Organisations which have signed, ratified, accepted, approved or acceded in accordance with [Articles 58](https://wetten.overheid.nl/BWBV0005392) and [59](https://wetten.overheid.nl/BWBV0005392) of the following –
 
-##### Artikel 63. Verklaringen
+- a) the signatures, ratifications, acceptances and approvals referred to in [Articles 58](https://wetten.overheid.nl/BWBV0005392) and [59](https://wetten.overheid.nl/BWBV0005392);
 
-1. De in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 11, eerste lid, onderdeel g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=11&z=2007-11-23&g=2007-11-23), [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23), [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), [artikel 30, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), [artikel 59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23), en [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23), bedoelde verklaringen mogen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en mogen te allen tijde worden gewijzigd of ingetrokken.
+- b) the accessions and objections raised to accessions referred to in [Articles 58(3) and (5)](https://wetten.overheid.nl/BWBV0005392) and [59](https://wetten.overheid.nl/BWBV0005392);
 
-2. Verklaringen, wijzigingen en intrekkingen worden de depositaris ter kennis gebracht.
+- c) the date on which the Convention enters into force in accordance with [Article 60](https://wetten.overheid.nl/BWBV0005392);
 
-3. Een verklaring die op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding is afgelegd, wordt gelijktijdig met de inwerkingtreding van dit Verdrag voor de betrokken staat van kracht.
+- d) the declarations referred to in [Articles 2(3)](https://wetten.overheid.nl/BWBV0005392), [11(1) g)](https://wetten.overheid.nl/BWBV0005392), [16(1)](https://wetten.overheid.nl/BWBV0005392), [24(1)](https://wetten.overheid.nl/BWBV0005392), [30(7)](https://wetten.overheid.nl/BWBV0005392), [44(1) and (2)](https://wetten.overheid.nl/BWBV0005392), [59(3)](https://wetten.overheid.nl/BWBV0005392) and [61(1)](https://wetten.overheid.nl/BWBV0005392);
 
-4. Een op een later tijdstip afgelegde verklaring en elke wijziging of intrekking van een verklaring, worden van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop de kennisgeving door de depositaris is ontvangen.
+- e) the agreements referred to in [Article 51(2)](https://wetten.overheid.nl/BWBV0005392);
 
-##### Artikel 64. Opzegging
+- f) the reservations referred to in [Articles 2(2)](https://wetten.overheid.nl/BWBV0005392), [20(2)](https://wetten.overheid.nl/BWBV0005392), [30(8)](https://wetten.overheid.nl/BWBV0005392), [44(3)](https://wetten.overheid.nl/BWBV0005392) and [55(3)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=55&z=2007-11-23&g=2007-11-23), and the withdrawals referred to in [Article 62(2)](https://wetten.overheid.nl/BWBV0005392);
 
-1. Een staat die partij is bij het Verdrag kan dit opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een staat met meerdere eenheden waarop dit Verdrag van toepassing is.
-
-2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van deze langere termijn, na de datum waarop de kennisgeving door de depositaris is ontvangen.
-
-##### Artikel 65. Kennisgeving
-
-De depositaris stelt de leden van de Haagse Conferentie voor Internationaal Privaatrecht, en andere staten en regionale organisaties voor economische integratie die in overeenstemming met de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23) hebben ondertekend, bekrachtigd, aanvaard, goedgekeurd of zijn toegetreden, in kennis van het volgende:
-
-- a. de in de [artikelen 58](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23) en [59](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23) bedoelde ondertekeningen, bekrachtigingen, aanvaardingen en goedkeuringen;
-
-- b. de toetredingen en de bezwaren tegen toetredingen bedoeld in [artikel 58, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=58&z=2007-11-23&g=2007-11-23), en in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23);
-
-- c. de datum waarop het Verdrag in werking treedt in overeenstemming met [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=60&z=2007-11-23&g=2007-11-23);
-
-- d. de verklaringen bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 11, eerste lid, onderdeel g)](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=11&z=2007-11-23&g=2007-11-23), [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=III&artikel=16&z=2007-11-23&g=2007-11-23), [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=24&z=2007-11-23&g=2007-11-23), [artikel 30, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), [artikel 59, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=59&z=2007-11-23&g=2007-11-23), en [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=61&z=2007-11-23&g=2007-11-23);
-
-- e. de in [artikel 51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=51&z=2007-11-23&g=2007-11-23), bedoelde verdragen;
-
-- f. de voorbehouden bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=I&artikel=2&z=2007-11-23&g=2007-11-23), [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=20&z=2007-11-23&g=2007-11-23), [artikel 30, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=V&artikel=30&z=2007-11-23&g=2007-11-23), [artikel 44, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=44&z=2007-11-23&g=2007-11-23), en [artikel 55, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=VIII&artikel=55&z=2007-11-23&g=2007-11-23), en de intrekkingen bedoeld in [artikel 62, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=62&z=2007-11-23&g=2007-11-23);
-
-- g. de opzeggingen bedoeld in [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBV0005392&hoofdstuk=IX&artikel=64&z=2007-11-23&g=2007-11-23).
+- g) the denunciations referred to in [Article 64](https://wetten.overheid.nl/BWBV0005392).
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention.
 

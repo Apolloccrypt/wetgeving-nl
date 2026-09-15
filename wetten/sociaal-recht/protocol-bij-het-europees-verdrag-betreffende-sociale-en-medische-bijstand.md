@@ -1,76 +1,49 @@
 ---
 title: "Protocol bij het Europees Verdrag betreffende sociale en medische bijstand"
 identifier: "BWBV0005315"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-08-01"
-last_updated: "1955-08-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005315"
+categorie: "Sociaal recht"
 soort: "verdrag"
-stam_id: "10004558153"
-version_id: "10004784782"
-internal_id: "C10007127371"
-label_id: "10004542634"
-dtd_version: "2.0"
-original_entry_into_force: "1955-08-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005315/1955-08-01/0"
-intitule_bron: "Trb.1954-100"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-07-20"
-intitule_in_force: "1955-08-05"
-intitule_status: "goed"
-original_publication: "Trb.1954-100"
-original_published_date: "1954-07-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-100"
-entry_into_force_date: "1955-08-01"
-jci_1_3: "jci1.3:c:BWBV0005315&z=1955-08-01&g=1955-08-01"
-jci_1_0: "1.0:c:BWBV0005315&g=1955-08-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-08-01"
+publicatiedatum: 1955-08-01
+laatste_update: 1955-08-01
+status: geldig
+toestand: 1955-08-01
+bron: "https://wetten.overheid.nl/BWBV0005315"
+opgehaald: 2026-09-15
 ---
+
 # Protocol bij het Europees Verdrag betreffende sociale en medische bijstand
 
-De Regeringen welke dit Protocol hebben ondertekend, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Having regard to the provisions of the European Convention on Social and Medical Assistance, signed at Paris, on the 11th day of December, 1953 (hereinafter referred to as “the Assistance Convention”); Having regard to the provisions of the Convention relating to the Status of Refugees signed at Geneva on 28th July 1951 (hereinafter referred to as “the Geneva Convention”); Being desirous of extending the provisions of the Assistance Convention so as to apply to refugees as defined in the Geneva Convention, Have agreed as follows:*
 
-Gelet op het bepaalde in het [Europese Verdrag betreffende sociale en medische bijstand](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), ondertekend te Parijs op 11 December 1953 (hierna aangeduid als „het Bijstandsverdrag”);
+##### Article 1
 
-Gelet op het bepaalde in het [Verdrag betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), ondertekend te Genève op 28 Juni 1951 (hierna aangeduid als „het Verdrag van Genève”);
+For the purposes of this Protocol the term “refugee” shall have the meaning ascribed to it in [Article 1 of the Geneva Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), provided that each Contracting Party shall make a declaration at the time of signature or ratification hereof or accession hereto, specifying which of the meanings set out in paragraph B of Article 1 of that Convention it applies for the purpose of its obligations under this Protocol, unless such Party has already made such a declaration at the time of its signature or ratification of [that Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001002).
 
-Verlangende de werking van de bepalingen van het [Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096) uit te strekken tot vluchtelingen, zoals omschreven in het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002),
+##### Article 2
 
-Zijn het volgende overeengekomen:
+The provisions of [Section I of the Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&deel=I) shall apply to refugees under the same conditions as they apply to the nationals of the Contracting Parties thereto.
 
-##### Artikel 1
+##### Article 3
 
-Voor de toepassing van dit Protocol heeft de term „vluchteling” de betekenis, welke daaraan is toegekend in [artikel 1 van het Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), met dien verstande dat iedere Overeenkomstsluitende Partij ten tijde van de ondertekening of van de bekrachtiging van dit Protocol of van de toetreding hiertoe een verklaring moet afleggen, die aangeeft welke van de betekenissen, vermeld in artikel 1, lid B, van dat Verdrag zij toepast met betrekking tot de verplichtingen uit hoofde van dit Protocol, tenzij bedoelde Partij een dergelijke verklaring reeds heeft afgelegd ten tijde van haar ondertekening of bekrachtiging van [dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001002).
+1. The provisions of [Section II of the Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&deel=II) shall not apply to refugees.
 
-##### Artikel 2
+2. In the case of a person who has ceased to qualify for the benefits of the [Geneva Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) in accordance with the provisions of [paragraph (c) of Article 1 thereof](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), the period for repatriation laid down in [Article 7 (a) (1) of the Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&artikel=7) shall begin from the date when he has thus ceased to qualify.
 
-Het bepaalde in de [eerste titel van het Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&titeldeel=I) is toepasselijk op vluchtelingen onder dezelfde voorwaarden, die gelden voor de onderdanen van de Partijen bij [dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096).
+##### Article 4
 
-##### Artikel 3
+As between the Contracting Parties, the provisions of Articles 1, 2 and 3 of this Protocol shall be regarded as additional Articles to the [Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), and the remaining provisions of that Convention shall apply accordingly.
 
-1. Het bepaalde in de [tweede titel van het Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&titeldeel=II) is niet van toepassing op vluchtelingen.
+##### Article 5
 
-2. In het geval van personen, voor wie de mogelijkheid om een beroep te doen op het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) ophoudt overeenkomstig het bepaalde in [artikel 1, lid C, van dat Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001002&artikel=1), vangt het tijdvak voor repatriëring, vastgesteld in [artikel 7 (a) (i) van het Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096&artikel=7), aan op het tijdstip waarop die personen geen beroep meer kunnen doen op het Verdrag van Genève.
+1. This Protocol shall be open to the signature of the Members of the Council of Europe who have signed the [Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096). It shall be ratified.
 
-##### Artikel 4
+2. Any State which has acceded to the [Assistance Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005096) may accede to this Protocol.
 
-De Overeenkomstsluitende Partijen beschouwen de artikelen 1, 2 en 3 van dit Protocol als aanvullende artikelen van het [Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), en de overige bepalingen van dat Verdrag worden dienovereenkomstig toegepast.
+3. This Protocol shall come into force on the first day of the month following the date of deposit of the second instrument of ratification.
 
-##### Artikel 5
+4. As regards any Signatory ratifying subsequently, or any acceding State, the Protocol shall come into force on the first day of the month following the date of the deposit of its instrument of ratification or accession.
 
-1. Dit Protocol staat open voor ondertekening door de Leden van de Raad van Europa, die het [Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096) hebben ondertekend. Het dient te worden bekrachtigd.
-
-2. Iedere Staat, die is toegetreden tot het [Bijstandsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), kan toetreden tot dit Protocol.
-
-3. Dit Protocol treedt in werking op de eerste dag van de maand, volgende op de nederlegging van de tweede akte van bekrachtiging.
-
-4. Ten aanzien van iedere Staat, welke het Protocol op een later tijdstip bekrachtigt of ertoe toetreedt, treedt het Protocol in werking op de eerste dag van de maand, volgende op de nederlegging van zijn akte van bekrachtiging of toetreding.
-
-5. De akten van bekrachtiging en van toetreding zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa, die de Leden van de Raad en de toegetreden Staten verwittigt van de namen van de Staten, die bekrachtigen of toetreden.
+5. Instruments of ratification and accession shall be deposited with the Secretary-General of the Council of Europe, who shall notify the Members of the Council and acceding States of the names of those who have ratified or acceded.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Protocol.
 

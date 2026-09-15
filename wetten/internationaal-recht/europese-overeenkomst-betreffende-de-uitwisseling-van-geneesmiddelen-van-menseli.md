@@ -1,176 +1,93 @@
 ---
 title: "Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong"
 identifier: "BWBV0005318"
-country: "nl"
-rank: "verdrag"
-publication_date: "1982-04-19"
-last_updated: "1982-04-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005318"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10004558633"
-version_id: "10004786152"
-internal_id: "C10007123961"
-label_id: "10004543784"
-dtd_version: "2.0"
-original_entry_into_force: "1961-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005318/1982-04-19/0"
-intitule_bron: "Trb.1959-118"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1959-09-15"
-intitule_in_force: "1961-09-20"
-intitule_status: "goed"
-original_publication: "Trb.1959-118"
-original_published_date: "1959-09-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1959-118"
-entry_into_force_date: "1961-10-01"
-jci_1_3: "jci1.3:c:BWBV0005318&z=1982-04-19&g=1982-04-19"
-jci_1_0: "1.0:c:BWBV0005318&g=1982-04-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1961-10-01"
+publicatiedatum: 1961-10-01
+laatste_update: 1982-04-19
+status: geldig
+toestand: 1982-04-19
+bron: "https://wetten.overheid.nl/BWBV0005318"
+opgehaald: 2026-09-15
 ---
+
 # Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong
 
-De Regeringen voor welke deze Overeenkomst is ondertekend, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Considering that therapeutic substances of human origin are by their very nature the result of an act of the human donor and therefore not available in unlimited quantities; Considering that it is most desirable that member countries, in a spirit of European solidarity, should assist one another in the supply of these therapeutic substances, should the need arise; Considering that such mutual assistance is only possible if the character and use of such therapeutic substances are subject to rules laid down jointly by the member countries and if the necessary import facilities and exemptions are granted, Have agreed as follows:*
 
-Overwegende dat geneesmiddelen van menselijke oorsprong uiteraard slechts door toedoen van de menselijke donor kunnen worden verkregen en derhalve slechts in beperkte hoeveelheden beschikbaar zijn;
+##### Article 1
 
-Overwegende dat het in hoge mate wenselijk is dat de lid-staten, in een geest van Europese saamhorigheid, elkaar helpen door deze geneesmiddelen te verschaffen, indien de noodzakelijkheid zich daartoe doet gevoelen;
+For the purposes of this Agreement, the expression „therapeutic substances of human origin” refers to human blood and its derivatives.
 
-Overwegende dat dergelijke wederzijdse hulp alleen mogelijk is, indien de eigenschappen en het gebruik van deze geneesmiddelen onderworpen zijn aan door de lid-staten gemeenschappelijk vast te stellen regelen en indien voor de invoer van deze geneesmiddelen de nodige faciliteiten en vrijstellingen worden verleend;
+The provisions of this Agreement may be extended to cover other therapeutic substances of human origin by exchange of letters between two or more of the Contracting Parties.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-##### Artikel 1
+The Contracting Parties undertake, provided that they have sufficient stocks for their own needs, to make therapeutic substances of human origin available to other Parties who are in urgent need of them and to charge only those costs involved in the collection, processing and carriage of such substances.
 
-Voor de toepassing van deze Overeenkomst wordt onder „geneesmiddelen van menselijke oorsprong” verstaan menselijk bloed en daaruit bereide produkten.
+##### Article 3
 
-De bepalingen van deze Overeenkomst kunnen door een briefwisseling tussen twee of meer Overeenkomstsluitende Partijen worden uitgebreid tot andere geneesmiddelen van menselijke oorsprong.
+Therapeutic substances of human origin shall be made available to the other Contracting Parties subject to the express condition that no profit is made on them, that they shall be used solely for medical purposes and shall be delivered only to bodies designated by the Governments concerned.
 
-##### Artikel 2
+##### Article 4
 
-De Overeenkomstsluitende Partijen verbinden zich, zo zij over een voldoende voorraad voor eigen behoeften beschikken, om geneesmiddelen van menselijke oorsprong ter beschikking te stellen van andere Partijen die deze dringend nodig hebben, en dat slechts tegen betaling van de kosten van het verwerven, bereiden en verzenden van bedoelde geneesmiddelen.
+The Contracting Parties shall certify that the minimum requirements with regard to the properties of the therapeutic substances, and the regulations on labelling, packing and dispatch, as laid down in the Protocol to this Agreement, have been observed.
 
-##### Artikel 3
+They shall also comply with any rules to which they have subscribed with regard to international standardisation in this field.
 
-Geneesmiddelen van menselijke oorsprong zullen ter beschikking van de andere Overeenkomstsluitende Partijen worden gesteld onder de uitdrukkelijke voorwaarde, dat er geen winst op wordt gemaakt, dat zij alleen voor geneeskundige doeleinden zullen worden gebruikt en dat zij slechts aan de door de betrokken Regeringen aangewezen instellingen zullen worden afgeleverd.
+All consignments of therapeutic substances of human origin shall be accompanied by a certificate to the effect that they were prepared in accordance with the specifications in the Protocol. This certificate shall be based on the model to be found in Annex 1 to the Protocol.
 
-##### Artikel 4
+The Protocol and its Annexes may be amended or supplemented by the Governments of the Parties to this Agreement.
 
-De Overeenkomstsluitende Partijen zullen verklaren, dat aan de minimum voorschriften betreffende de eigenschappen van de geneesmiddelen en aan de regelingen betreffende hun etikettering, verpakking en verzending, zoals bepaald in het Protocol bij deze Overeenkomst, is voldaan.
+##### Article 5
 
-Zij zullen zich bovendien houden aan de regelen welke zij hebben aanvaard betreffende de internationale standaardisatie op dit gebied.
+The Contracting Parties shall take all necessary measures to exempt from all import duties the therapeutic substances of human origin placed at their disposal by the other Parties.
 
-Elke zending van geneesmiddelen van menselijke oorsprong dient vergezeld te gaan van een verklaring, dat zij zijn bereid overeenkomstig de voorschriften van het Protocol. Deze verklaring dient te zijn gebaseerd op het model vervat in Bijlage I bij het Protocol.
+They shall also take all necessary measures to provide for the speedy delivery of these substances, by the most direct route, to the consignees referred to in Article 3 of this Agreement.
 
-Het Protocol en zijn Bijlagen kunnen door de Regeringen van Partijen bij deze Overeenkomst worden gewijzigd of aangevuld.
+##### Article 6
 
-##### Artikel 5
+The Contracting Parties shall forward to one another, through the Secretary-General of the Council of Europe, a list of the bodies empowered to issue certificates as provided in Article 4 of this Agreement.
 
-De Overeenkomstsluitende Partijen zullen alle nodige maatregelen treffen ten einde de hun door andere Partijen ter beschikking gestelde geneesmiddelen vrij te stellen van alle invoerrechten.
+They shall also forward a list of bodies empowered to distribute imported therapeutic substances of human origin.
 
-Zij zullen eveneens alle nodige maatregelen treffen ten einde de snelle aflevering van deze geneesmiddelen, langs de meest rechtstreekse weg, aan de in artikel 3 van deze Overeenkomst bedoelde geadresseerden te bewerkstelligen.
+##### Article 7
 
-##### Artikel 6
+The present Agreement shall be open to the signature of Members of the Council of Europe, who may become Parties to it either by:
 
-De Overeenkomstsluitende Partijen zullen elkaar, door bemiddeling van de Secretaris-Generaal van de Raad van Europa, een lijst doen toekomen van de instellingen die bevoegd zijn tot het afgeven van de verklaringen als bedoeld in artikel 4 van deze Overeenkomst.
+- (a) signature without reservation in respect of ratification, or
 
-Zij zullen elkaar eveneens een lijst van de tot het distribueren van ingevoerde geneesmiddelen van menselijke oorsprong bevoegde instellingen toezenden.
+- (b) signature with reservation in respect of ratification followed by ratification.
 
-##### Artikel 7
+Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-Deze Overeenkomst staat open voor ondertekening voor de Leden van de Raad van Europa, die Partij bij de Overeenkomst kunnen worden door:
+##### Article 8
 
-- (a). ondertekening zonder voorbehoud van bekrachtiging, of
+The present Agreement shall enter into force on the first day of the month following the date on which three Members of the Council shall, in accordance with Article 7, have signed the Agreement without reservation in respect of ratification or shall have ratified it.
 
-- (b). ondertekening onder voorbehoud van bekrachtiging gevolgd door bekrachtiging.
+In the case of any Member of the Council who shall subsequently sign the Agreement without reservation in respect of ratification, or who shall ratify it, the Agreement shall enter into force on the first day of the month following such signature or deposit of the instrument of ratification.
 
-De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+##### Article 9
 
-##### Artikel 8
+The Committee of Ministers of the Council of Europe may invite any non-Member State to accede to the present Agreement. Such accession shall take effect on the first day of the month following the deposit of the instrument of accession with the Secretary-General of the Council of Europe.
 
-Deze Overeenkomst zal in werking treden op de eerste dag van de maand na de datum waarop drie Leden van de Raad, overeenkomstig het in artikel 7 bepaalde, deze Overeenkomst zonder voorbehoud van bekrachtiging hebben ondertekend of haar hebben bekrachtigd.
+##### Article 10
 
-Ten aanzien van ieder Lid dat de Overeenkomst op latere datum ondertekent zonder voorbehoud van bekrachtiging, of haar bekrachtigt, zal deze Overeenkomst in werking treden op de eerste dag van de maand na die ondertekening of nederlegging van de akte van bekrachtiging.
+The Secretary-General of the Council of Europe shall notify Members of the Council and acceding States:
 
-##### Artikel 9
+- (a) of the date of entry into force of this Agreement and of the names of any Members who have signed without reservation in respect of ratification or who have ratified it;
 
-Het Comité van Ministers van de Raad van Europa kan een niet tot de Raad van Europa behorende Staat uitnodigen tot deze Overeenkomst toe te treden. De toetreding wordt van kracht op de eerste dag van de maand na de nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
+- (b) of the deposit of any instrument of accession in accordance with Article 9;
 
-##### Artikel 10
+- (c) of any notification received in accordance with Article 11 and its effective date;
 
-De Secretaris-Generaal van de Raad van Europa geeft aan de Leden en aan de toetredende Staten kennis van:
+- (d) of any amendment to the Protocol or its Annexes under Article 4, paragraph 4.
 
-- (a). de datum van inwerkingtreding van deze Overeenkomst en de namen van de Leden die haar hebben ondertekend zonder voorbehoud van bekrachtiging of haar hebben bekrachtigd;
+##### Article 11
 
-- (b). de nederlegging van iedere akte van toetreding overeenkomstig artikel 9;
+The present Agreement shall remain in force indefinitely.
 
-- (c). elke overeenkomstig artikel 11 ontvangen kennisgeving en de datum waarop deze van kracht wordt;
-
-- (d). elke wijziging van het Protocol en de bijbehorende Bijlagen ingevolge het bepaalde in artikel 4, vierde lid.
-
-##### Artikel 11
-
-Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
-
-Elke Overeenkomstsluitende Partij kan haar toepassing van deze Overeenkomst beëindigen met inachtneming van een opzeggingstermijn van één jaar door middel van een daartoe strekkende kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
-
-## DEEL I. Algemene voorschriften
-
-##### A. Etikettering
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### B. Verpakking en verzending
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### C. Produkten en apparatuur
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### D. Onschadelijkheid van de plastic bloedtransfusie-apparatuur
-
-De tekst van de vertaling is niet beschikbaar.
-
-## DEEL II. Bijzondere voorschriften
-
-##### 1. Volledig menselijk bloed
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 1bis
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 2. Gedroogd menselijk bloedplasma
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 3. Menselijk albumine en gepasteuriseerde plasma-eiwitoplossing
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 4. Menselijk normaal immunoglobuline
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 5. Menselijke specifieke immunoglobulinen
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 6. Gedroogd menselijk fibrinogeen
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 7. Gedroogd of bevroren menselijk bloed stollingsfactor VIII
-
-De tekst van de vertaling is niet beschikbaar.
-
-##### 8. Gedroogd menselijk bloed stollingsfactor IX
-
-De tekst van de vertaling is niet beschikbaar.
+Any Contracting Party may terminate its own application of the Agreement by giving one year's notice to that effect to the Secretary-General of the Council of Europe.
 
 In witness whereof the undersigned, duly authorised thereto by their respective Governments, have signed the present Agreement.
 

@@ -1,104 +1,109 @@
 ---
 title: "Europese Overeenkomst houdende aanvulling van het Verdrag nopens het Wegverkeer en het Protocol nopens de verkeerstekens, ondertekend te Genève op 19 september 1949"
 identifier: "BWBV0005607"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-12-20"
-last_updated: "1953-12-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005607"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004759253"
-version_id: "10005035462"
-internal_id: "C10007614601"
-label_id: "10004743074"
-dtd_version: "2.0"
-original_entry_into_force: "1953-12-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005607/1953-12-20/0"
-intitule_bron: "Trb.1954-124"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-10-02"
-intitule_in_force: "1954-10-02"
-intitule_status: "goed"
-original_publication: "Trb.1954-124"
-original_published_date: "1954-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-124"
-entry_into_force_date: "1953-12-20"
-jci_1_3: "jci1.3:c:BWBV0005607&z=1953-12-20&g=1953-12-20"
-jci_1_0: "1.0:c:BWBV0005607&g=1953-12-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1953-12-20"
+publicatiedatum: 1953-12-20
+laatste_update: 1953-12-20
+status: geldig
+toestand: 1953-12-20
+bron: "https://wetten.overheid.nl/BWBV0005607"
+opgehaald: 2026-09-15
 ---
+
 # Europese Overeenkomst houdende aanvulling van het Verdrag nopens het Wegverkeer en het Protocol nopens de verkeerstekens, ondertekend te Genève op 19 september 1949
 
-##### Artikel 1
+##### Article 1
 
-De ondergetekenden, behoorlijk gemachtigd, zijn overeengekomen om het [Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) en het [Protocol nopens de verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) van 19 September 1949 aan te vullen wat betreft de volgende punten:
+The undersigned, duly authorized, have agreed to supplement the [Convention on Road Traffic](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) and the [Protocol on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0005570), signed on 19 September, 1949, with regard to the following points:
 
-Voertuigen mogen vluchtheuvels links of rechts voorbijrijden behalve ingeval:
+CONVENTION ON ROAD TRAFFIC
 
-- 1). een op de vluchtheuvel aangebrachte pijl de zijde aanduidt waarlangs moet worden voorbijgereden;
+Ad article 9
 
-- 2). de vluchtheuvel gelegen is in de as van een rijbaan met verkeer in twee richtingen, in welk geval de vluchtheuvel rechts moet worden voorbijgereden in de landen waar het verkeer rechts houdt en links in de landen waar het verkeer links houdt.
+Vehicles may pass on either side of refuges, except in the case of:
 
-- 1. Aan invaliden uitgereikte rijbewijzen waarop een aantekening voorkomt dat zij slechts geldig zijn voor voertuigen die speciaal zijn gebouwd met het oog op de invaliditeit, vormen een categorie rijbewijzen in de zin van artikel 24, eerste lid.
+- 1) A refuge bearing an arrow indicating the side on which it should be passed; or of
 
-- 2. Deze aantekening moet, in rode inkt, het woord „RESTREINT” bevatten alsmede het inschrijvingsnummer van het voertuig dat speciaal is uitgerust met het oog op de invaliditeit van de bestuurder.
+- 2) Central refuges on two-way carriageways which should be passed on the right in countries where traffic keeps to the right or on the left in countries where traffic keeps to the left.
 
-Met een hulpmotor uitgeruste rijwielen worden niet als motorrijtuigen beschouwd op voorwaarde dat zij de normale kenmerkende eigenschappen van het rijwiel hebben wat hun gebruiksmogelijkheden betreft.
+Ad article 24
 
-- (a). De symbolen bedoeld in artikel 5, eerste lid, zullen internationaal worden aanvaard.
+- 1. Driving permits issued to disabled persons and including a clause to the effect that they are valid only for vehicles specially designed to take account of the disability, shall constitute a category of permit within the meaning of article 24, paragraph 1.
 
-- (b). Aanvullende aanduidingen zullen slechts zijn toegestaan om de interpretatie van het teken te vergemakkelijken of de betekenis ervan duidelijker aan te geven.
+- 2. This clause must include, in red ink, the word “RESTREINT” as well as the registration number of the vehicle specially equipped to take account of the driver's disability.
 
-- (c). De Overeenkomstsluitende Partijen verbinden zich alle nieuwe symbolen welke zij voornemens zijn vast te stellen, aan een Comité voor te leggen dat zal worden opgericht onder de auspiciën van de Economische Commissie voor Europa of van enig ander lichaam dat in de plaats van deze Commissie zou komen, en waarin zij zijn vertegenwoordigd, ten einde een voorafgaande overeenstemming te bereiken alvorens deze nieuwe symbolen aan de Secretaris-Generaal der Verenigde Naties mede te delen overeenkomstig het bepaalde in lid 5.
+Ad annex 1
 
-De grenzen van werken op de weg dienen door middel van hekken met afwisselend rood en wit geschilderde strepen en bovendien 's nachts door middel van rode lampen of rood reflecterende materialen te worden aangeduid.
+Cycles fitted with an auxiliary motor will not be considered as motor vehicles provided that they have the normal characteristics of bicycles as to their performance.
 
-Het gebruiken van het in artikel 25, eerste lid, bedoelde symbool in het teken „ANDER GEVAAR” is verplicht.
+PROTOCOL ON ROAD SIGNS AND SIGNALS
 
-De uitgesneden rode driehoek mag niet worden gebruikt om de verschillende gevaren bedoeld in de artikelen 12 tot 25 aan te duiden.
+Ad article 5
 
-Het opnemen van het woord „STOP” in het teken „STOP BIJ KRUISPUNT” is verplicht.
+- (a) The symbols referred to in article 5, paragraph 1, shall be adopted for international use.
 
-- 1. Het rode licht moet steeds boven en het groene licht steeds beneden zijn geplaatst.
+- (b) No additional indications may be given except for the purpose of facilitating the interpretation of the sign or for making clear its meaning.
 
-- 2. Voor zoveel rekening wordt gehouden met een aanvullend teken om de betekenis van de lichten onafhankelijk van hun stand te verduidelijken, dient dit teken te bestaan uit een ondoorschijnende horizontale balk dwars door het rode licht.
+- (c) The Contracting Parties undertake to submit to a committee, which would be set up under the auspices of the Economic Commission for Europe or by any other body which may replace the Economic Commission for Europe and on which they themselves shall be represented, any new symbols which they intend to adopt, with a view to reaching preliminary agreement prior to the communication of such symbols to the Secretary-General of the United Nations as stipulated in paragraph 5.
 
-- (a). Het aanvullende verkeersteken ter aanduiding van de routes der internationale hoofd verkeerswegen (wegen welke in overeenstemming met de andere Overeenkomstsluitende Staten door de Staat op wiens grondgebied zij zijn gelegen, als zodanig zijn aangegeven om de continuïteit van de verbindingen en de uniformiteit van de technische kenmerken te verzekeren) heeft een rechthoekige vorm.
+Ad article 19
 
-- (b). Het teken, bestaande uit een wit opschrift op een donkergroene achtergrond, draagt de letter E gevolgd door het nummer van de route in Arabische cijfers.
+The limits of the roadworks shall be indicated by barriers painted in red and white stripes and, in addition, at night, by red lamps or reflectors.
 
-- (c). Het teken kan op andere tekens worden aangebracht of er mede gecombineerd worden.
+Ad article 25
 
-- (d). De afmetingen zijn zodanig, dat de aanduiding gemakkelijk door de bestuurders van zeer snel rijdende voertuigen kan worden waargenomen.
+The symbol referred to in article 25, paragraph 1, shall be obligatory for the sign “OTHER DANGER”.
 
-##### Artikel 2
+Ad article 26
 
-1. Deze Overeenkomst staat tot 30 Juni 1951 open voor ondertekening en na die datum voor toetreding door de landen die aan de werkzaamheden van de Economische Commissie voor Europa deelnemen en Partij zijn bij het [Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) en bij het [Protocol nopens de verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) van 19 September 1949.
+The hollow red triangle shall not be used to indicate the different dangers referred to in articles 12 to 25.
 
-2. De akten van toetreding en eventueel de akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties, die daarvan mededeling doet aan al de landen bedoeld onder het eerste lid van dit artikel.
+Ad article 33
 
-##### Artikel 3
+The word “STOP” shall be obligatory in the sign “STOP AT INTERSECTION”.
 
-Deze Overeenkomst mag worden opgezegd met inachtneming van een opzeggingstermijn van zes maanden aan de Secretaris-Generaal van de Verenigde Naties, die daarvan mededeling doet aan de andere Overeenkomstsluitende Partijen. Na het verstrijken van de termijn van zes maanden houdt de Overeenkomst op van kracht te zijn voor de Overeenkomstsluitende Partij die haar heeft opgezegd.
+Ad article 53
 
-##### Artikel 4
+- 1. The red light shall always be placed at the top and the green light at the bottom.
 
-1. Deze Overeenkomst treedt in werking bij het in werking treden van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) van 19 September 1949, vermeld in artikel 1, op voorwaarde dat drie van de Staten die Partij zijn bij bedoeld Verdrag en Protocol, Partij geworden zijn bij de Overeenkomst.
+- 2. In cases where a supplementary sign is envisaged to indicate more specifically the identity of a light independently of its position, this sign should consist of an opaque horizontal bar across the red light.
 
-2. De Overeenkomst eindigt indien het aantal Overeenkomstsluitende Partijen op enig ogenblik minder dan drie bedraagt.
+Ad article 55
 
-##### Artikel 5
+- (a) The supplementary sign for the identification of routes, intended to distinguish the main international traffic highways (so designated, in agreement with the other Contracting States concerned, by the State through whose territory they run to indicate continuous routes and uniform technical features) shall be rectangular in shape.
 
-Ieder geschil tussen twee of meer Overeenkomstsluitende Partijen met betrekking tot de uitlegging of toepassing van deze Overeenkomst, hetwelk de Partijen niet door onderhandeling of anderszins kunnen oplossen, kan door elk van de Overeenkomstsluitende Partijen ter beslissing aanhangig gemaakt worden bij een arbitrage-commissie, waarvoor elk van de Overeenkomstsluitende Partijen een lid aanwijst en waarvan de Voorzitter door de Secretaris-Generaal van de Verenigde Naties wordt aangewezen.
+- (b) The sign, consisting of white letters on a dark green ground, shall bear the letter E followed by the number of the highway in Arabic figures.
 
-##### Artikel 6
+- (c) The sign may be affixed to other signs or combined with them.
 
-1. Het origineel van deze Overeenkomst wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan elk van de in artikel 2, eerste lid, bedoelde landen een gewaarmerkt afschrift ervan doet toekomen.
+- (d) Its dimensions shall be such that drivers of vehicles moving at high speed can easily follow the directions.
 
-2. De Secretaris-Generaal is gemachtigd deze Overeenkomst bij het in werking treden ervan te registreren.
+##### Article 2
+
+1. This Agreement shall be open until 30 June 1951 for signature and, after that date, for accession by the countries participating in the work of the Economic Commission for Europe and Parties to the [Convention on Road Traffic](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) and the [Protocol on Road Signs and Signals](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) of 19 September 1949.
+
+2. The instruments of accession and, if required, of ratification, shall be deposited with the Secretary-General of the United Nations, who shall notify all the countries referred to in paragraph 1 of this Article of the receipt thereof.
+
+##### Article 3
+
+This Agreement may be denounced by means of six months' notice given to the Secretary-General of the United Nations, who shall notify the other Contracting Parties thereof. After the expiration of the six months' period, the Agreement shall cease to be in force as regards the Contracting Party which has denounced it.
+
+##### Article 4
+
+1. This Agreement shall enter into force at the time of the entry into force of the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) and [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) of 19 September 1949, referred to in article 1, on condition that three of the States Parties to the said Convention and Protocol shall have become Parties to the Agreement.
+
+2. It shall terminate if at any time the number of Contracting Parties thereto is less than three.
+
+##### Article 5
+
+Any dispute between any two or more Contracting Parties concerning the interpretation or application of this Agreement, which the Parties are unable to settle by negotiation or by another mode of settlement, may be referred for decision, at the request of any one of the Contracting Parties concerned, to an arbitral commission, of which each of the Contracting Parties concerned shall designate a member and the chairman of which shall be appointed by the Secretary-General of the United Nations.
+
+##### Article 6
+
+1. The original of this Agreement shall be deposited with the Secretary-General of the United Nations, who shall transmit a certified copy thereof to each of the countries referred to in article 2, paragraph 1.
+
+2. The Secretary-General is authorized to register this Agreement upon its entry into force.
 
 IN FAITH WHEREOF the undersigned representatives, having communicated their full powers, found in good and due form, have signed this Agreement.
 

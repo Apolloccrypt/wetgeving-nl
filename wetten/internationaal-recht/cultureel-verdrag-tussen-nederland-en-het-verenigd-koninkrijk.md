@@ -1,46 +1,19 @@
 ---
 title: "Cultureel Verdrag tussen Nederland en het Verenigd Koninkrijk"
 identifier: "BWBV0005470"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-02-19"
-last_updated: "1958-02-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005470"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004641933"
-version_id: "10004898412"
-internal_id: "C10008336141"
-label_id: "10004626254"
-dtd_version: "2.0"
-original_entry_into_force: "1950-02-26"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005470/1958-02-19/0"
-intitule_bron: "Stb.1949-J 491"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-11-04"
-intitule_published: "1949-12-16"
-intitule_in_force: "1950-05-02"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 491"
-original_signed_date: "1949-11-04"
-original_published_date: "1949-12-16"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1950-02-26"
-jci_1_3: "jci1.3:c:BWBV0005470&z=1958-02-19&g=1958-02-19"
-jci_1_0: "1.0:c:BWBV0005470&g=1958-02-19"
-citeertitel_status: "redactioneel"
-signed_date: "1949-11-04"
-entry_into_force: "1950-02-26"
+publicatiedatum: 1950-02-26
+laatste_update: 1958-02-19
+status: geldig
+toestand: 1958-02-19
+bron: "https://wetten.overheid.nl/BWBV0005470"
+opgehaald: 2026-09-15
 ---
+
 # Cultureel Verdrag tussen Nederland en het Verenigd Koninkrijk
 
-De Nederlandse Regering en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-bezield door de wens een Verdrag te sluiten met het doel, door vriendschappelijke uitwisseling en samenwerking in hun respectieve landen een zo volledig mogelijk begrip te bevorderen zowel van de werkzaamheid op intellectueel, artistiek en wetenschappelijk gebied als van de zeden en gewoonten in het andere land,
-
-hebben dienovereenkomstig gevolmachtigden tot dit doel benoemd, die, daartoe door hun respectieve Regeringen behoorlijk gemachtigd,
-
-als volgt zijn overeengekomen:
+*De Nederlandse Regering en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, bezield door de wens een Verdrag te sluiten met het doel, door vriendschappelijke uitwisseling en samenwerking in hun respectieve landen een zo volledig mogelijk begrip te bevorderen zowel van de werkzaamheid op intellectueel, artistiek en wetenschappelijk gebied als van de zeden en gewoonten in het andere land, hebben dienovereenkomstig gevolmachtigden tot dit doel benoemd, die, daartoe door hun respectieve Regeringen behoorlijk gemachtigd, als volgt zijn overeengekomen:*
 
 ##### Artikel I
 
@@ -68,7 +41,7 @@ De Verdragsluitende Regeringen zullen onderzoeken onder welke voorwaarden zowel 
 
 ##### Artikel VII
 
-Ieder der Verdragsluitende Regeringen zal de instelling bevorderen van vacantiecursussen, bestemd voor docenten en ander personeel van instellingen van hoger onderwijs, leraren en onderwijzers, studenten en scholieren (**a**) van het grondgebied van de andere Verdragsluitende Regering op het grondgebied van de ene, en (**b**) van haar eigen grondgebied op dat van de andere Verdragsluitende Regering.
+Ieder der Verdragsluitende Regeringen zal de instelling bevorderen van vacantiecursussen, bestemd voor docenten en ander personeel van instellingen van hoger onderwijs, leraren en onderwijzers, studenten en scholieren (*a*) van het grondgebied van de andere Verdragsluitende Regering op het grondgebied van de ene, en (*b*) van haar eigen grondgebied op dat van de andere Verdragsluitende Regering.
 
 ##### Artikel VIII
 
@@ -82,15 +55,15 @@ De Verdragsluitende Regeringen zullen de samenwerking bevorderen tussen erkende 
 
 De Verdragsluitende Regeringen zullen elkaar bijstaan om aan de cultuur van het ene land ruimere bekendheid te geven in het andere door middel van:
 
-- (a). boeken (met inbegrip van school- en studieboeken), tijdschriften en andere publicaties;
+- (a) boeken (met inbegrip van school- en studieboeken), tijdschriften en andere publicaties;
 
-- (b). lezingen en concerten;
+- (b) lezingen en concerten;
 
-- (c). kunst- en andere tentoonstellingen;
+- (c) kunst- en andere tentoonstellingen;
 
-- (d). toneelvoorstellingen;
+- (d) toneelvoorstellingen;
 
-- (e). radiouitzendingen, filmvoorstellingen, gramofoonopnamen en andere mechanische middelen.
+- (e) radiouitzendingen, filmvoorstellingen, gramofoonopnamen en andere mechanische middelen.
 
 ##### Artikel XI
 
@@ -126,9 +99,9 @@ Iedere Verdragsluitende Regering kan organisaties aanwijzen ter verzekering van 
 
 In dit Verdrag worden onder „grondgebied” en „land” verstaan:
 
-- (a). Met betrekking tot de Regering van het Verenigd Koninkrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en elk gebiedsdeel waarvoor dit Verdrag door die Regering van toepassing is verklaard door middel van een kennisgeving overeenkomstig Artikel XV, lid 1, met ingang van de datum van zodanige kennisgeving.
+- (a) Met betrekking tot de Regering van het Verenigd Koninkrijk, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en elk gebiedsdeel waarvoor dit Verdrag door die Regering van toepassing is verklaard door middel van een kennisgeving overeenkomstig Artikel XV, lid 1, met ingang van de datum van zodanige kennisgeving.
 
-- (b). Met betrekking tot de Nederlandse Regering, het Nederlandse Rijk in Europa en elk gebiedsdeel, waarvoor dit Verdrag door die Regering van toepassing is verklaard, door middel van een kennisgeving overeenkomstig Artikel XV, lid 1, met ingang van de datum van zodanige kennisgeving.
+- (b) Met betrekking tot de Nederlandse Regering, het Nederlandse Rijk in Europa en elk gebiedsdeel, waarvoor dit Verdrag door die Regering van toepassing is verklaard, door middel van een kennisgeving overeenkomstig Artikel XV, lid 1, met ingang van de datum van zodanige kennisgeving.
 
 ##### Artikel XVII
 
@@ -146,6 +119,6 @@ Ten bewijze hiervan hebben de ondergetekende Gevolmachtigden het onderhavige Ver
 
 In tweevoud opgemaakt te 's-Gravenhage, 7 Juli 1948 in het Nederlands en in het Engels, welke beide teksten gelijkelijk authentiek zijn.
 
-**Voor de Nederlandse Regering,**
+*Voor de Nederlandse Regering,*
 
 (w.g.) W. v. BOETZELAER.

@@ -1,48 +1,19 @@
 ---
 title: "Overeenkomst tussen de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de bescherming van in het belang van de Europese Unie uitgewisselde gerubriceerde informatie"
 identifier: "BWBV0005395"
-country: "nl"
-rank: "verdrag"
-publication_date: "2021-06-25"
-last_updated: "2021-06-25"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005395"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004612153"
-version_id: "10004862362"
-internal_id: "C10009005751"
-label_id: "10004596644"
-dtd_version: "2.0"
-original_entry_into_force: "2015-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005395/2021-06-25/0"
-intitule_bron: "Trb.2011-148"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-08-19"
-intitule_in_force: "2015-11-13"
-intitule_status: "goed"
-original_publication: "Trb.2011-148"
-original_published_date: "2011-08-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-148"
-entry_into_force_date: "2015-12-01"
-jci_1_3: "jci1.3:c:BWBV0005395&z=2021-06-25&g=2021-06-25"
-jci_1_0: "1.0:c:BWBV0005395&g=2021-06-25"
-citeertitel_status: "redactioneel"
-entry_into_force: "2015-12-01"
+publicatiedatum: 2015-12-01
+laatste_update: 2021-06-25
+status: geldig
+toestand: 2021-06-25
+bron: "https://wetten.overheid.nl/BWBV0005395"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst tussen de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de bescherming van in het belang van de Europese Unie uitgewisselde gerubriceerde informatie
 
-De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de raad bijeen,
-
-Overwegende hetgeen volgt:
-
-De lidstaten van de Europese Unie (hierna: „de Partijen”) erkennen dat volledig en doeltreffend overleggen en samenwerken de uitwisseling van geclassificeerde/gerubriceerde informatie tussen hen in het belang van de Europese Unie nodig kan maken, alsmede tussen hen en de door de Europese Unie ingestelde instellingen, agentschappen, organen of instanties.
-
-De Partijen hebben de gemeenschappelijke wens een samenhangend en alomvattend algemeen kader op te zetten voor de bescherming van gerubriceerde informatie in het belang van de Europese Unie, afkomstig uit de Partijen, de instellingen van de Europese Unie of door haar ingestelde agentschappen, organen of instanties, of die in dit verband van derde landen of internationale organisaties worden ontvangen.
-
-De Partijen zijn zich ervan bewust dat de toegang tot en de uitwisseling van dergelijke gerubriceerde informatie passende beveiligingsmaatregelen vereisen voor de bescherming ervan,
-
-Hebben overeenstemming bereikt omtrent de volgende bepalingen:
+*De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de raad bijeen, Overwegende hetgeen volgt: 1. De lidstaten van de Europese Unie (hierna: „de Partijen”) erkennen dat volledig en doeltreffend overleggen en samenwerken de uitwisseling van geclassificeerde/gerubriceerde informatie tussen hen in het belang van de Europese Unie nodig kan maken, alsmede tussen hen en de door de Europese Unie ingestelde instellingen, agentschappen, organen of instanties. 2. De Partijen hebben de gemeenschappelijke wens een samenhangend en alomvattend algemeen kader op te zetten voor de bescherming van gerubriceerde informatie in het belang van de Europese Unie, afkomstig uit de Partijen, de instellingen van de Europese Unie of door haar ingestelde agentschappen, organen of instanties, of die in dit verband van derde landen of internationale organisaties worden ontvangen. 3. De Partijen zijn zich ervan bewust dat de toegang tot en de uitwisseling van dergelijke gerubriceerde informatie passende beveiligingsmaatregelen vereisen voor de bescherming ervan, Hebben overeenstemming bereikt omtrent de volgende bepalingen:*
 
 ##### Artikel 1
 
@@ -58,23 +29,23 @@ Deze overeenkomst beoogt het waarborgen van de bescherming, door de Partijen, va
 
 ##### Artikel 2
 
-In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle informatie of materiaal, in enigerlei vorm, waarvan de openbaarmaking zonder machtiging de belangen van de Europese Unie of van een of meer van haar lidstaten in meerdere of mindere mate zou kunnen schaden en die een van de volgende EU-rubriceringen of een overeenkomstige rubricering, zoals aangegeven in de bijlage, draagt:
+In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle informatie of materiaal, in enigerlei vorm, waarvan de openbaarmaking zonder machtiging de belangen van de Europese Unie of van een of meer van haar lidstaten in meerdere of mindere mate zou kunnen schaden en die een van de volgende EU-rubriceringen of een overeenkomstige rubricering, zoals aangegeven in de [bijlage](https://wetten.overheid.nl/BWBV0005395), draagt:
 
-- −. „TRES SECRET UE/EU TOP SECRET”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten uitzonderlijk ernstig kan schaden.
+- − „TRES SECRET UE/EU TOP SECRET”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten uitzonderlijk ernstig kan schaden.
 
-- −. „SECRET UE/EU SECRET”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten ernstig kan schaden.
+- − „SECRET UE/EU SECRET”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten ernstig kan schaden.
 
-- −. „CONFIDENTIEL UE/EU CONFIDENTIAL”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten kan schaden.
+- − „CONFIDENTIEL UE/EU CONFIDENTIAL”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging de wezenlijke belangen van de Europese Unie of van één of meer van haar lidstaten kan schaden.
 
-- −. „RESTREINT UE/EU RESTRICTED”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging nadelig kan zijn voor de belangen van de Europese Unie of van één of meer van haar lidstaten.
+- − „RESTREINT UE/EU RESTRICTED”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging nadelig kan zijn voor de belangen van de Europese Unie of van één of meer van haar lidstaten.
 
 ##### Artikel 3
 
-1. De Partijen nemen in overeenstemming met hun respectieve nationale wet- en regelgeving alle passende maatregelen om ervoor te zorgen dat het uit hoofde van deze overeenkomst geboden beveiligingsniveau voor gerubriceerde informatie gelijkwaardig is aan de beveiliging die door de beveiligingsregelgeving van de Raad van de Europese Unie wordt geboden voor de bescherming van gerubriceerde EU-informatie welke een overeenkomstige rubricering draagt, zoals aangegeven in de bijlage.
+1. De Partijen nemen in overeenstemming met hun respectieve nationale wet- en regelgeving alle passende maatregelen om ervoor te zorgen dat het uit hoofde van deze overeenkomst geboden beveiligingsniveau voor gerubriceerde informatie gelijkwaardig is aan de beveiliging die door de beveiligingsregelgeving van de Raad van de Europese Unie wordt geboden voor de bescherming van gerubriceerde EU-informatie welke een overeenkomstige rubricering draagt, zoals aangegeven in de [bijlage](https://wetten.overheid.nl/BWBV0005395).
 
 2. Geen enkele bepaling in deze overeenkomst doet afbreuk aan de nationale wet- en regelgeving van de Partijen inzake de toegang van het publiek tot documenten, de bescherming van persoonsinformatie of de bescherming van gerubriceerde informatie.
 
-3. De Partijen stellen de depositaris van deze overeenkomst in kennis van iedere wijziging van de rubriceringen in de bijlage. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=11&z=2021-06-25&g=2021-06-25) is niet van toepassing op deze kennisgevingen.
+3. De Partijen stellen de depositaris van deze overeenkomst in kennis van iedere wijziging van de rubriceringen in de [bijlage](https://wetten.overheid.nl/BWBV0005395). [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005395&artikel=11&z=2021-06-25&g=2021-06-25) is niet van toepassing op deze kennisgevingen.
 
 ##### Artikel 4
 
@@ -92,7 +63,7 @@ In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle i
 
 1. Iedere Partij zorgt ervoor dat toegang tot gerubriceerde informatie wordt verleend op basis van het beginsel „noodzaak van kennisname”.
 
-2. De Partijen garanderen dat toegang tot gerubriceerde informatie welke de rubricering „CONFIDENTIEL UE/EU CONFIDENTIAL” of hoger draagt, dan wel een overeenkomstige rubricering, zoals aangegeven in de bijlage, alleen wordt verleend aan personen die over een passende veiligheidsmachtiging beschikken of anderszins uit hoofde van hun functie naar behoren zijn gemachtigd in overeenstemming met de nationale wet- en regelgeving.
+2. De Partijen garanderen dat toegang tot gerubriceerde informatie welke de rubricering „CONFIDENTIEL UE/EU CONFIDENTIAL” of hoger draagt, dan wel een overeenkomstige rubricering, zoals aangegeven in de [bijlage](https://wetten.overheid.nl/BWBV0005395), alleen wordt verleend aan personen die over een passende veiligheidsmachtiging beschikken of anderszins uit hoofde van hun functie naar behoren zijn gemachtigd in overeenstemming met de nationale wet- en regelgeving.
 
 3. Iedere Partij zorgt ervoor dat alle personen die toegang hebben tot gerubriceerde informatie op de hoogte zijn van hun verantwoordelijkheid om de informatie te beschermen volgens de passende beveiligingswet- en regelgeving.
 

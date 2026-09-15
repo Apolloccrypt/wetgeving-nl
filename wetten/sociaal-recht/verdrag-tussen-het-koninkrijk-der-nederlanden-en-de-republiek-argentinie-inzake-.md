@@ -1,64 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Argentinië inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0005998"
-country: "nl"
-rank: "verdrag"
-publication_date: "2013-10-01"
-last_updated: "2013-10-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005998"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004976863"
-version_id: "10005294782"
-internal_id: "C10008437291"
-label_id: "10004960294"
-dtd_version: "2.0"
-original_entry_into_force: "2013-10-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005998/2013-10-01/0"
-intitule_bron: "Trb.2012-197"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-10-25"
-intitule_in_force: "2013-09-18"
-intitule_status: "goed"
-original_publication: "Trb.2012-197"
-original_published_date: "2012-10-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-197"
-entry_into_force_date: "2013-10-01"
-jci_1_3: "jci1.3:c:BWBV0005998&z=2013-10-01&g=2013-10-01"
-jci_1_0: "1.0:c:BWBV0005998&g=2013-10-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2013-10-01"
+publicatiedatum: 2013-10-01
+laatste_update: 2013-10-01
+status: geldig
+toestand: 2013-10-01
+bron: "https://wetten.overheid.nl/BWBV0005998"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Argentinië inzake wederzijdse administratieve bijstand in douanezaken
 
-Preambule
-
-Het Koninkrijk der Nederlanden
-
-en
-
-de Republiek Argentinië
-
-hierna te noemen de verdragsluitende partijen,
-
-Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen;
-
-Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid, openbare orde en handel van de verdragsluitende partijen;
-
-Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt;
-
-Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving;
-
-Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen wettelijke bepalingen;
-
-Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002;
-
-Gelet op internationale verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten;
-
-Tevens gelet op de [Universele Verklaring van de Rechten van de Mens](https://wetten.overheid.nl/jci1.3:c:BWBV0001008) van de Verenigde Naties van 1948;
-
-Zijn het volgende overeengekomen:
+*Preambule Het Koninkrijk der Nederlanden en de Republiek Argentinië hierna te noemen de verdragsluitende partijen, Gelet op het belang van een juiste vaststelling van de douanerechten en van het waarborgen van een juiste handhaving door hun douaneadministraties van verboden, beperkingen en controlemaatregelen met betrekking tot bepaalde goederen; Overwegend dat inbreuken op de douanewetgeving schadelijk zijn voor de economische, fiscale, sociale en culturele belangen en de belangen op het gebied van de volksgezondheid, openbare orde en handel van de verdragsluitende partijen; Overwegend dat de illegale grensoverschrijdende handel in wapens, explosieven, chemische, biologische en nucleaire stoffen alsmede in verdovende middelen, psychotrope stoffen en precursoren een gevaar voor de samenleving vormt; Erkennend de noodzaak van internationale samenwerking ter zake van aangelegenheden die verband houden met de toepassing en handhaving van hun douanewetgeving; Ervan overtuigd dat het optreden tegen inbreuken op de douanewetgeving doeltreffender kan worden door middel van nauwe samenwerking tussen hun douaneadministraties op basis van wederzijds overeengekomen wettelijke bepalingen; Gelet op de Aanbeveling inzake wederzijdse administratieve bijstand, de Verklaring inzake verbetering van douanesamenwerking en wederzijdse administratieve bijstand (Verklaring van Cyprus) en de Resolutie inzake veiligheid en facilitatie van de internationale logistieke keten, aangenomen door de Internationale Douaneraad, tegenwoordig bekend als de Werelddouaneorganisatie, in respectievelijk december 1953, juli 2000 en juni 2002; Gelet op internationale verdragen die verboden, beperkingen en bijzondere controlemaatregelen met betrekking tot bepaalde goederen bevatten; Tevens gelet op de Universele Verklaring van de Rechten van de Mens van de Verenigde Naties van 1948; Zijn het volgende overeengekomen:*
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
@@ -68,9 +23,9 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - a. „douaneadministratie”:
 
-- –. wat de Republiek Argentinië betreft: de Federale Administratie Overheidsinkomsten;
+   - – wat de Republiek Argentinië betreft: de Federale Administratie Overheidsinkomsten;
 
-- –. wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
+   - – wat het Koninkrijk der Nederlanden betreft: de centrale administratie die verantwoordelijk is voor de toepassing van de douanewetgeving;
 
 - b. „douanevordering”: elk bedrag aan douanerechten alsmede verhogingen, administratieve boetes, achterstallige betalingen, renten en kosten die betrekking hebben op de genoemde rechten die niet in een van de verdragsluitende partijen kunnen worden geïnd;
 
@@ -240,7 +195,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 3. Uit hoofde van dit Verdrag ontvangen informatie wordt vertrouwelijk behandeld en daarvoor gelden ten minste dezelfde vertrouwelijkheid en bescherming als die welke voor soortgelijke informatie gelden krachtens de wettelijke en administratieve bepalingen van de verdragsluitende partij waar zij wordt ontvangen.
 
-4. Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende verdragsluitende partij en is onderworpen aan de bepalingen in de Bijlage bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.
+4. Toezending van persoonsgegevens uit hoofde van dit Verdrag geschiedt in overeenstemming met de wettelijke en administratieve bepalingen van de desbetreffende verdragsluitende partij en is onderworpen aan de bepalingen in de [Bijlage](https://wetten.overheid.nl/BWBV0005998) bij dit Verdrag, die een integrerend deel uitmaakt van dit Verdrag.
 
 ### HOOFDSTUK VIII. UITSLUITINGSGRONDEN
 
@@ -320,10 +275,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verd
 
 GEDAAN te Buenos Aires op 26 September 2012, in tweevoud in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden**
+*Voor het Koninkrijk der Nederlanden*
 
 HEIN DE VRIES
 
-**Voor de Republiek Argentinië**
+*Voor de Republiek Argentinië*
 
 RICARDO ECHEGARAY

@@ -1,53 +1,46 @@
 ---
 title: "Protocol inzake de ouderdomsuitkeringen voor de niet-loonarbeiders"
 identifier: "BWBV0005686"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-12-01"
-last_updated: "1958-12-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005686"
+categorie: "Arbeidsrecht"
 soort: "verdrag"
-stam_id: "10004813323"
-version_id: "10005117182"
-internal_id: "C10007783991"
-label_id: "10004797084"
-dtd_version: "2.0"
-original_entry_into_force: "1958-12-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005686/1958-12-01/0"
-intitule_bron: "Trb.1958-31"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1958-03-20"
-intitule_in_force: "1958-12-22"
-intitule_status: "goed"
-original_publication: "Trb.1958-31"
-original_published_date: "1958-03-20"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1958-31"
-entry_into_force_date: "1958-12-01"
-jci_1_3: "jci1.3:c:BWBV0005686&z=1958-12-01&g=1958-12-01"
-jci_1_0: "1.0:c:BWBV0005686&g=1958-12-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-12-01"
+publicatiedatum: 1958-12-01
+laatste_update: 1958-12-01
+status: geldig
+toestand: 1958-12-01
+bron: "https://wetten.overheid.nl/BWBV0005686"
+opgehaald: 2026-09-15
 ---
+
 # Protocol inzake de ouderdomsuitkeringen voor de niet-loonarbeiders
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek,
+*Le Gouvernement du Royaume des Pays-Bas, et le Gouvernement de la République Française, Considérant que les législations sur la sécurité sociale en vigueur dans les deux Etats s'étendent en matière de vieillesse aux personnes non salariées et que l'allocation supplémentaire instituée en France par la loi du 30 juin 1956 comporte des modalités qui lui sont propres; Ayant résolu de compléter la Convention Générale entre la France et les Pays-Bas sur la sécurité sociale, signée à La Haye le 7 janvier 1950; Sont convenus des dispositions suivantes:*
 
-Overwegende, dat de in de beide landen van kracht zijnde wettelijke regelingen inzake de sociale zekerheid zich op het gebied van de ouderdomsverzekering uitstrekken tot de niet-loonarbeiders en dat de aanvullende uitkering welke in Frankrijk is geregeld bij de wet van 30 juni 1956, een eigen wijze van toepassing met zich brengt;
+- 1. Les ressortissants français non salariés bénéficieront, dans les mêmes conditions que les ressortissants néerlandais, des avantages de la législation néerlandaise sur l'assurance vieillesse générale non subordonnés à des périodes de cotisations, lorsqu'ils auront résidé aux Pays-Bas au moins dix ans au total depuis l'âge de vingt ans et y résident normalement sans interruption depuis cinq années au moins au moment de la demande de prestation.
 
-Besloten hebbende het op 7 januari 1950 te 's-Gravenhage ondertekende Algemene Verdrag tussen Frankrijk en Nederland inzake de sociale zekerheid aan te vullen;
+- 2. Les ressortissants néerlandais non salariés bénéficieront, dans les conditions prévues pour les ressortissants français, des avantages des législations françaises de l'allocation de vieillesse des personnes non salariées ou de l'allocation spéciale lorsqu'ils auront résidé en France au moins dix ans au total depuis l'âge de vingt ans et y résident normalement sans interruption depuis cinq années au moins au moment de la demande de prestation et de l'allocation supplémentaire instituée par la loi française du 30 juin 1956, compte tenu des dispositions ci-après.
 
-Zijn over de volgende bepalingen tot overeenstemming gekomen:
+- 3. Pour l'application des clauses de ressources prévues par la loi française du 30 juin 1956, les services compétents néerlandais prêtent leur concours aux organismes et services français débiteurs de l'allocation supplémentaire en vue de: Les demandes présentées à cet effet par les organismes et services débiteurs français sont adressées à un organisme centralisateur désigné par le Gouvernement néerlandais.
+
+   - a) rechercher les ressources dont les requérants peuvent bénéficier aux Pays-Bas, notamment les avantages viagers servis en vertu du régime néerlandais de sécurité sociale;
+
+   - b) évaluer les biens qu'ils y possèdent;
+
+   - c) intervenir, le cas échéant, auprès des personnes résidant aux Pays-Bas qui sont tenues à l'obligation alimentaire envers les requérants dont il s'agit.
+
+- 4. Les avantages visés au 1. et 2. ci-dessus cessent d'être servis respectivement aux bénéficiaires français qui quittent le territoire néerlandais et aux bénéficiaires néerlandais qui quittent le territoire français métropolitain.
+
+- 5. En ce qui concerne le Royaume des Pays-Bas, le présent Protocole n'est valable que pour le territoire en Europe.
+
+- 6. Le présent Protocole entrera en vigueur le premier jour du mois qui suivra la date à laquelle les deux Gouvernements auront notifié l'un à l'autre que les approbations constitutionnellement requises dans les deux pays ont été obtenues.
 
 En foi de quoi, les représentants soussignés, dûment autorisés à cet effet, ont signé le présent Protocole.
 
 Fait à Paris, le 11 janvier 1958 en deux exemplaires en langue française.
 
-**Pour le Gouvernement du Royaume des Pays-Bas**
+*Pour le Gouvernement du Royaume des Pays-Bas*
 
 (s.) J. A. DE VOS VAN STEENWIJK
 
-**Pour le Gouvernement de la République Française**
+*Pour le Gouvernement de la République Française*
 
 (s.) PHILIPPE MONOD

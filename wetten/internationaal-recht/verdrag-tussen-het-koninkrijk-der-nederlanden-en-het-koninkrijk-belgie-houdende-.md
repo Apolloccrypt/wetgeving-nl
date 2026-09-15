@@ -1,60 +1,23 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen"
 identifier: "BWBV0005822"
-country: "nl"
-rank: "verdrag"
-publication_date: "1952-07-11"
-last_updated: "1952-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005822"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004886043"
-version_id: "10005191012"
-internal_id: "C10007907861"
-label_id: "10004869434"
-dtd_version: "2.0"
-original_entry_into_force: "1952-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005822/1952-07-11/0"
-intitule_bron: "Stb.1951-486"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-11-14"
-intitule_published: "1951-12-18"
-intitule_in_force: "1952-07-23"
-intitule_status: "goed"
-original_publication: "Stb.1951-486"
-original_signed_date: "1951-11-14"
-original_published_date: "1951-12-18"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1952-07-11"
-jci_1_3: "jci1.3:c:BWBV0005822&z=1952-07-11&g=1952-07-11"
-jci_1_0: "1.0:c:BWBV0005822&g=1952-07-11"
-citeertitel_status: "redactioneel"
-signed_date: "1951-11-14"
-entry_into_force: "1952-07-11"
+publicatiedatum: 1952-07-11
+laatste_update: 1952-07-11
+status: geldig
+toestand: 1952-07-11
+bron: "https://wetten.overheid.nl/BWBV0005822"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België, houdende vaststelling van een ontginningsgrens voor de aan beide zijden van de grens langs de Maas gelegen steenkolenmijnen
 
-Hare majesteit de Koningin der Nederlanden, enerzijds,
-
-en
-
-Zijne Koninklijke Hoogheid de Koninklijke Prins, anderzijds,
-
-Geleid door de wens, de winning van steenkolen in de aan beide zijden van de Nederlands-Belgische grens langs de Maas gelegen steenkolenmijnen te vergemakkelijken en daardoor het verlies van ontginbare steenkolen tot een minimum te beperken, hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Baron B. Ph. van Harinxma thoe Slooten, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden te Brussel,
-
-Zijne Koninklijke Hoogheid de Koninklijke Prins:
-
-De Heer Paul van Zeeland, Minister van Buitenlandse Zaken,
-
-Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare majesteit de Koningin der Nederlanden, enerzijds, en Zijne Koninklijke Hoogheid de Koninklijke Prins, anderzijds, Geleid door de wens, de winning van steenkolen in de aan beide zijden van de Nederlands-Belgische grens langs de Maas gelegen steenkolenmijnen te vergemakkelijken en daardoor het verlies van ontginbare steenkolen tot een minimum te beperken, hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Baron B. Ph. van Harinxma thoe Slooten, Buitengewoon en Gevolmachtigd Ambassadeur der Nederlanden te Brussel, Zijne Koninklijke Hoogheid de Koninklijke Prins: De Heer Paul van Zeeland, Minister van Buitenlandse Zaken, Die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ##### Artikel 1
 
-1. Ten behoeve van de steenkolenmijnen van de „Société Anonyme des Charbonnages de Limbourg-Meuse” in België en van de Staatsmijn Maurits in Nederland, welke zich onder de Maas tussen de Punten 64**a** en 152 volgens de bij dit verdrag gevoegde kaart (bijlage) uitstrekken tot de Rijksgrens ter plaatse, wordt, onafhankelijk van genoemde Rijksgrens, voor het ondergronds bedrijf een ontginningsgrens overeengekomen. Zij is op de kaart door een gebroken rode lijn aangeduid.
+1. Ten behoeve van de steenkolenmijnen van de „Société Anonyme des Charbonnages de Limbourg-Meuse” in België en van de Staatsmijn Maurits in Nederland, welke zich onder de Maas tussen de Punten 64*a* en 152 volgens de bij dit verdrag gevoegde kaart (bijlage) uitstrekken tot de Rijksgrens ter plaatse, wordt, onafhankelijk van genoemde Rijksgrens, voor het ondergronds bedrijf een ontginningsgrens overeengekomen. Zij is op de kaart door een gebroken rode lijn aangeduid.
 
 2. De coördinaten van de knikpunten in deze lijn zijn in de bijlage aangegeven zowel in het stelsel van het Belgische Rijksdriehoeksnet als in dat van het Nederlandse Rijksdriehoeksnet.
 
@@ -96,7 +59,7 @@ Voor de tussen de Rijksgrens en de ontginningsgrens liggende gedeelten geldt het
 
 - b. Eveneens is het Toezicht op de Mijnen van die Staat bevoegd tot het uitoefenen van toezicht op de ondergrondse werken.
 
-- c. De rechtstoestand van de ondergrondse mijnarbeiders en beambten wordt beheerst door de wetten, verordeningen en andere bebepalingen, bedoeld onder **a,** van dit artikel.
+- c. De rechtstoestand van de ondergrondse mijnarbeiders en beambten wordt beheerst door de wetten, verordeningen en andere bebepalingen, bedoeld onder *a,* van dit artikel.
 
 - d. Handelingen en nalatigheden in de ondergrondse werken, ook die van straf- en burgerrechtelijke aard, worden geacht te hebben plaats gehad in die Staat, waarin de kolen aan de oppervlakte worden gebracht.
 
@@ -122,8 +85,8 @@ Ter oorkonde waarvan de bovengenoemde Gevolmachtigden dit verdrag hebben onderte
 
 Gedaan te Brussel, de 23ste October 1950, in tweevoud, in de Nederlandse en in de Franse taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor Nederland**
+*Voor Nederland*
 
-**Pour les Pays-Bas:**
+*Pour les Pays-Bas:*
 
 (L.S.) VAN HARINXMA THOE SLOOTEN.

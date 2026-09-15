@@ -1,126 +1,101 @@
 ---
 title: "Overeenkomst inzake de uitwisseling van stagiaires tussen Nederland en Finland"
 identifier: "BWBV0005136"
-country: "nl"
-rank: "verdrag"
-publication_date: "1951-07-11"
-last_updated: "1951-07-11"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005136"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004483213"
-version_id: "10004696342"
-internal_id: "C10006936591"
-label_id: "10004468024"
-dtd_version: "2.0"
-original_entry_into_force: "1951-07-11"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005136/1951-07-11/0"
-intitule_bron: "Trb.1951-113"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1951-08-31"
-intitule_in_force: "1951-08-31"
-intitule_status: "goed"
-original_publication: "Trb.1951-113"
-original_published_date: "1951-08-31"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-113"
-entry_into_force_date: "1951-07-11"
-jci_1_3: "jci1.3:c:BWBV0005136&z=1951-07-11&g=1951-07-11"
-jci_1_0: "1.0:c:BWBV0005136&g=1951-07-11"
-citeertitel_status: "redactioneel"
-entry_into_force: "1951-07-11"
+publicatiedatum: 1951-07-11
+laatste_update: 1951-07-11
+status: geldig
+toestand: 1951-07-11
+bron: "https://wetten.overheid.nl/BWBV0005136"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake de uitwisseling van stagiaires tussen Nederland en Finland
 
-De Regering van Hare Majesteit de Koningin der Nederlanden en
+*Le Gouvernement de Sa Majesté la Reine des Pays-Bas et Le Gouvernement de la République de Finlande, désireux de favoriser l'échange de stagiaires entre leurs pays ont arrêté d'un commun accord, les dispositions suivantes:*
 
-De Regering van de Republiek Finland,
+##### Article 1er
 
-Verlangende de uitwisseling van stagiaires tussen haar landen te bevorderen, komen als volgt overeen:
+Le présent accord s'applique aux „stagiaires”, c'est-à-dire aux ressortissants de l'un des deux pays qui se rendent dans l'autre pays pour une période délimitée, afin de perfectionner leurs connaissances linguistiques et professionnelles, tout en occupant un emploi.
 
-##### Artikel 1
+Les stagiaires seront autorisés à occuper un emploi dans les conditions fixées par les articles ci-après, sans que la situation du marché du travail dans leur profession puisse être prise en considération.
 
-Deze Overeenkomst is van toepassing op „stagiaires”, dat is op onderdanen van een van beide landen, die zich voor een bepaalde tijd naar het andere land begeven ten einde hun kennis te vervolmaken wat de taal of hun beroep betreft, terwijl zij een betrekking vervullen.
+##### Article 2
 
-Het is de stagiaires vergund een betrekking te vervullen overeenkomstig de voorwaarden bij de artikelen hieronder bepaald, zonder dat de toestand van de arbeidsmarkt in overweging zal worden genomen.
+Les stagiaires peuvent être de l'un ou de l'autre sexe. En règle générale, ils ne doivent pas être âgés de plus de 30 ans.
 
-##### Artikel 2
+##### Article 3
 
-Stagiaires kunnen van het manlijk of van het vrouwelijk geslacht zijn. In het algemeen mogen zij niet ouder zijn dan 30 jaar.
+L'autorisation est donnée en principe pour une année. Elle pourra exceptionnellement être prolongée pour six mois.
 
-##### Artikel 3
+##### Article 4
 
-In beginsel wordt de vergunning verleend voor de tijd van een jaar. Bij uitzondering kan deze termijn voor zes maanden worden verlengd.
+Le nombre de stagiaires pouvant être admis dans chacun des deux Etats ne devra pas dépasser 50 par an.
 
-##### Artikel 4
+Cette limite ne s'applique pas aux stagiaires de l'un des deux Etats résidant déjà sur le territoire de l'autre Etat. Elle pourra être atteinte quelle que soit la durée pour laquelle les autorisations délivrées au cours d'une année auront été accordées et pendant laquelle elles auront été utilisées.
 
-Het aantal stagiaires die in elk van beide Staten kunnen worden toegelaten mag ten hoogste jaarlijks 50 bedragen.
+Si ce contingent de 50 autorisations n'était pas atteint au cours d'une année par les stagiaires de l'un des deux Etats, celui-ci ne pourrait pas réduire le nombre des autorisations données aux stagiaires de l'autre Etat, ni reporter sur l'année suivante le reliquat inutilisé de son contingent.
 
-Deze grens geldt niet voor stagiaires van een van beide Staten, die reeds in het gebied van de andere Staat verblijven. Zij mag bereikt worden ongeacht de duur van de tijd voor welke vergunningen, in de loop van een jaar afgegeven, zijn verleend en gedurende welke van deze vergunningen gebruik is gemaakt.
+Ce contingent de 50 stagiaires est valable pour l'année du 1er janvier au 31 décembre. Il pourra être modifié ultérieurement en vertu d'un accord qui devra intervenir, sur la proposition de l'un des deux Etats, le 1er décembre au plus tard pour l'année suivante.
 
-Indien het contingent van 50 stagiaires van een van beide Staten in de loop van een jaar niet wordt bereikt, mag deze het aantal vergunningen, aan de stagiaires van de andere Staat verleend, niet verminderen; evenmin mag hij het niet gebruikte restant van zijn contingent voegen bij dat van het volgend jaar.
+##### Article 5
 
-Het contingent van 50 stagiaires geldt voor het jaar lopend van 1 Januari tot 31 December. Het kan later worden gewijzigd krachtens een overeenkomst welke, op een daartoe door een van beide Staten gedaan voorstel, uiterlijk 1 December met betrekking tot het volgend jaar gesloten moet worden.
+Les stagiaires ne pourront être admis par les autorités compétentes que si les employeurs qui les occupent s'engagent, envers ces autorités, dès que ces stagiaires rendront des services normaux, à les rémunérer, là où il existe des dispositions réglementaires ou des conventions collectives, d'après les tarifs fixés par ces dispositions ou conventions, là où il n'en existe point, d'après les taux normaux et courants de la profession et de la région.
 
-##### Artikel 5
+Dans les autres cas, les employeurs devront s'engager à leur donner une rémunération correspondant à la valeur de leurs services et qui doit au moins leur permettre de subvenir à leurs besoins essentiels.
 
-Stagiaires worden door de bevoegde instanties slechts toegelaten, indien de werkgevers die hen in dienstbetrekking nemen, zich tegenover deze instanties verplichten hun, zodra zij normale arbeid verrichten, een loon uit te betalen, hetzij overeenkomstig de bij collectieve arbeidsovereenkomsten vastgestelde tarieven, hetzij, bij gebreke van zodanige overeenkomsten, overeenkomstig de voor het beroep en in de streek normale gangbare loonschalen.
+Les stagiaires ne peuvent obtenir en Finlande et aux Pays-Bas un permis de travail que si les autorités compétentes sont convaincues par une enquête entreprise par elles-mêmes, que les conditions convenues entre les employeurs et les stagiaires et définies au paragraphe précédent seront respectées.
 
-In alle andere gevallen verbinden de werkgevers zich, hun een beloning te geven welke overeenkomt met hun diensten en welke hen tenminste in staat moet stellen te voorzien in hun noodzakelijke levensbehoeften.
+##### Article 6
 
-Stagiaires kunnen in Nederland en in Finland slechts een werkvergunning krijgen als de bevoegde instanties zich door een door haar zelf ingesteld onderzoek ervan overtuigd hebben, dat de tussen werkgevers en stagiaires overeengekomen en in het voorgaande lid vastgestelde voorwaarden worden nageleefd.
+(a). Les stagiaires jouissent de l'égalité de traitement avec les ressortissants du pays du lieu de travail pour tout ce qui concerne l'application des lois, règlements et usages régissant la sécurité, l'hygiène et les conditions de travail.
 
-##### Artikel 6
+(b). Les stagiaires et leurs employeurs sont tenus de se conformer aux prescriptions en vigueur en matière de sécurité sociale.
 
-(a). Stagiaires genieten dezelfde behandeling als de onderdanen van het land, waar zij werken, met betrekking tot de toepassing van de wetten, reglementen en gebruiken inzake veiligheid, hygiëne en arbeidsvoorwaarden.
+##### Article 7
 
-(b). Zowel de stagiaires als hun werkgevers zijn verplicht de op het gebied van sociale zekerheid geldende wetten en voorschriften in acht te nemen.
+Les stagiaires qui désireront bénéficier des dispositions du présent accord devront en faire la demande à l'autorité chargée, dans leur pays, de l'échange de stagiaires. Ils devront donner, dans leur demande, toutes les indications nécessaires et faire connaître notamment l'établissement dans lequel ils devront être employés. Ils devront en même temps produire les documents suivants:
 
-##### Artikel 7
+- 1. l'engagement visé à l'article 5 du présent accord;
 
-Stagiaires, die gebruik wensen te maken van het bij deze overeenkomst bepaalde, moeten het verzoek daartoe richten tot de instantie welke, in hun land, belast is met de uitwisseling van stagiaires. Zij moeten in dit verzoek alle nodige aanwijzingen geven en in het bijzonder aangeven in welke inrichting zij wensen te werk gesteld te worden. Zij moeten tegelijk de volgende bescheiden overleggen:
+- 2. un certificat officiel de bonne vie et moeurs;
 
-- 1. het contract, bedoeld in artikel 5 van deze Overeenkomst;
+- 3. une déclaration aux termes de laquelle ils s'engagent à ne pas rester dans le pays où leur stage a été effectué dans le dessin d'y occuper un emploi.
 
-- 2. een officieel bewijs van goed gedrag;
+Il appartiendra à l'autorité mentionnée plus haut d'examiner s'il y a lieu, de transmettre la demande à l'autorité correspondante de l'autre État, en tenant compte du contingent annuel auquel elle a droit et de la transmettre, le cas échéant, aux autorités compétentes de l'autre Etat.
 
-- 3. een verklaring waarbij zij zich verbinden om niet in het land waar hun leertijd is doorgebracht, te blijven met de bedoeling er een betrekking te vervullen.
+Les autorités compétentes des deux Etats feront tout leur possible pour assurer l'instruction des demandes dans le plus court délai.
 
-De bovenbedoelde instantie onderzoekt of er aanleiding is, de aanvraag aan de overeenkomstige instantie van de andere Staat te doen toekomen, met inachtneming van het jaarlijks contingent waarop zij recht heeft; in voorkomende gevallen geeft zij deze door aan de bevoegde instanties van de andere Staat.
+##### Article 8
 
-De bevoegde instanties van beide Staten zullen zich beijveren de aanvragen binnen de kortst mogelijke tijd te doen onderzoeken.
+Les autorités compétentes feront tous leurs efforts pour que les décisions des autorités administratives concernant l'entrée et le séjour des stagiaires admis interviennent d'urgence. Elles s'efforceront également d'aplanir avec la plus grande rapidité les difficultés qui pourraient surgir à propos de l'entrée ou du séjour des stagiaires.
 
-##### Artikel 8
+##### Article 9
 
-De bevoegde instanties zullen zich beijveren, de beslissingen van de administratieve instanties inzake binnenkomst en verblijf van de stagiaires met spoed te doen nemen.
+Chaque Gouvernement s'efforcera de faciliter le placement des stagiaires de l'autre Etat.
 
-Zij zullen zich eveneens beijveren, met de meeste spoed alle moeilijkheden uit de weg te ruimen welke zich met betrekking tot het binnenkomen en het verblijf van de stagiaires kunnen voordoen.
+##### Article 10
 
-##### Artikel 9
+L'Office National du Travail aux Pays-Bas et le Ministère des Affaires Sociales en Finlande sont chargés de l'application du présent accord.
 
-Iedere Regering zal zich beijveren, de plaatsing van stagiaires van de andere Staat te bevorderen.
+##### Article 11
 
-##### Artikel 10
+(a). Des arrangements entre les autorités compétentes fixeront, le cas échéant, les mesures nécessaires à l'application du présent accord.
 
-Het Rijksarbeidsbureau in Nederland en het Ministerie van Sociale Zaken in Finland zijn belast met de toepassing van deze Overeenkomst.
+(b). Tout différend venant à s'élever concernant l'interprétation ou l'application du présent accord, sera résolu par voie de négociation directe.
 
-##### Artikel 11
+(c). Si ce différend ne peut être résolu dans un délai de trois mois à dater du début de la négociation, il sera soumis à l'arbitrage d'un organisme dont la composition sera déterminée d'un commun accord. La procédure à suivre sera établie dans les mêmes conditions.
 
-(a). De bevoegde instanties zullen in voorkomende gevallen door onderlinge regelingen de nodige maatregelen treffen voor de toepassing van deze Overeenkomst.
+(d). La décision de l'organisme arbitral sera prise conformément à l'esprit du présent accord; elle sera obligatoire et sans appel.
 
-(b). Elk geschil, dat zich mocht voordoen met betrekking tot de interpretatie of de toepassing van deze Overeenkomst, zal door onderhandelingen tot oplossing worden gebracht.
+##### Article 12
 
-(c). Indien het geschil niet binnen drie maanden na de aanvang van de onderhandelingen is bijgelegd, zal het worden onderworpen aan de scheidsrechterlijke uitspraak van een orgaan, waarvan de samenstelling in gemeen overleg zal worden vastgesteld. De te volgen procedure zal op dezelfde wijze worden vastgesteld.
+Le présent accord entrera en vigueur à partir de la date de signature et restera en vigueur jusqu'au 31 décembre 1951.
 
-(d). De beslissing van het scheidsrechterlijk orgaan zal worden genomen in overeenstemming met de geest van deze Overeenkomst; zij is bindend en niet voor beroep vatbaar.
+Il sera prorogé ensuite par tacite reconduction et chaque fois pour une nouvelle année, à moins qu'il ne soit dénoncé par l'une des parties contractantes, avant le 1er octobre pour la fin de l'année.
 
-##### Artikel 12
-
-Deze Overeenkomst treedt in werking op de dag van ondertekening en blijft van kracht tot 31 December 1951.
-
-Zij zal stilzwijgend worden verlengd, telkens voor de tijd van een jaar, tenzij zij door een van de Overeenkomstsluitende Partijen wordt opgezegd voor de 1ste October tegen het einde van dat jaar.
-
-Ingeval van opzegging blijven desniettemin de vergunningen, welke krachtens deze Overeenkomst zijn verleend, geldig gedurende de tijd waarvoor zij zijn verleend.
+Toutefois, en cas de dénonciation, les autorisations accordées en vertu du présent accord resteront valables pour la durée pour laquelle elles auront été accordées.
 
 EN FOI DE QUOI, les soussignés, dûment autorisés à cet effet, ont signé le présent accord.
 

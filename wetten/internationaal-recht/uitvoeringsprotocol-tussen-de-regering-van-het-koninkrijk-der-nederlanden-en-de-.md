@@ -1,48 +1,19 @@
 ---
 title: "Uitvoeringsprotocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006"
 identifier: "BWBV0005244"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-11-01"
-last_updated: "2011-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005244"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004531663"
-version_id: "10004749512"
-internal_id: "C10007422321"
-label_id: "10004516244"
-dtd_version: "2.0"
-original_entry_into_force: "2011-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005244/2011-11-01/0"
-intitule_bron: "Trb.2011-76"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2011-04-28"
-intitule_in_force: "2011-10-27"
-intitule_status: "goed"
-original_publication: "Trb.2011-76"
-original_published_date: "2011-04-28"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2011-76"
-entry_into_force_date: "2011-11-01"
-jci_1_3: "jci1.3:c:BWBV0005244&z=2011-11-01&g=2011-11-01"
-jci_1_0: "1.0:c:BWBV0005244&g=2011-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-11-01"
+publicatiedatum: 2011-11-01
+laatste_update: 2011-11-01
+status: geldig
+toestand: 2011-11-01
+bron: "https://wetten.overheid.nl/BWBV0005244"
+opgehaald: 2026-09-15
 ---
+
 # Uitvoeringsprotocol tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie inzake de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-de Regering van de Russische Federatie,
-
-hierna genoemd „de Partijen”,
-
-de wens de noodzakelijke voorwaarden vast te leggen voor de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006, hierna genoemd „de Overeenkomst”, in overeenstemming met artikel 20 van de Overeenkomst,
-
-zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie, hierna genoemd „de Partijen”, de wens de noodzakelijke voorwaarden vast te leggen voor de uitvoering van de Overnameovereenkomst tussen de Russische Federatie en de Europese Gemeenschap van 25 mei 2006, hierna genoemd „de Overeenkomst”, in overeenstemming met artikel 20 van de Overeenkomst, zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Bevoegde autoriteiten
 
@@ -154,10 +125,10 @@ Dit Uitvoeringsprotocol kan met wederzijdse instemming van de Partijen worden ge
 
 GEDAAN te Moskou, op 9 maart 2011, in twee exemplaren, in de Nederlandse, Russische en Engelse taal, waarbij al deze teksten gelijkelijk authentiek zijn. Voor de interpretatie van dit Uitvoeringsprotocol zal de Engelse versie worden gebruikt.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 R. MAAS
 
-**Voor de Regering van de Russische Federatie,**
+*Voor de Regering van de Russische Federatie,*
 
 K. ROMODANOVSKY

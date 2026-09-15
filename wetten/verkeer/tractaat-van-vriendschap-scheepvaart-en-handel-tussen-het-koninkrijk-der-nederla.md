@@ -1,50 +1,19 @@
 ---
 title: "Tractaat van vriendschap, scheepvaart en handel tussen het Koninkrijk der Nederlanden en de Republiek Colombia"
 identifier: "BWBV0005898"
-country: "nl"
-rank: "verdrag"
-publication_date: "1830-02-15"
-last_updated: "1830-02-15"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005898"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004940393"
-version_id: "10005257272"
-internal_id: "C10008108051"
-label_id: "10004923864"
-dtd_version: "2.0"
-original_entry_into_force: "1830-02-15"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005898/1830-02-15/0"
-intitule_bron: "Stb.1830-6"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1830-03-05"
-intitule_published: "1830-03-20"
-intitule_in_force: "1830-03-20"
-intitule_status: "goed"
-original_publication: "Stb.1830-6"
-original_signed_date: "1830-03-05"
-original_published_date: "1830-03-20"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1830-02-15"
-jci_1_3: "jci1.3:c:BWBV0005898&z=1830-02-15&g=1830-02-15"
-jci_1_0: "1.0:c:BWBV0005898&g=1830-02-15"
-citeertitel_status: "redactioneel"
-signed_date: "1830-03-05"
-entry_into_force: "1830-02-15"
+publicatiedatum: 1830-02-15
+laatste_update: 1830-02-15
+status: geldig
+toestand: 1830-02-15
+bron: "https://wetten.overheid.nl/BWBV0005898"
+opgehaald: 2026-09-15
 ---
+
 # Tractaat van vriendschap, scheepvaart en handel tussen het Koninkrijk der Nederlanden en de Republiek Colombia
 
-Naardien zich sedert eenigen tijd, handelsbetrekkingen gevormd hebben, tusschen het Koningrijk der Nederlanden en de landen der Republiek van Colombia, is het voor de handhaving en uitbreiding der wederzijdsche belangen nuttig geoordeeld, die betrekkingen door middel van een traktaat van vriendschap, scheepvaart en handel te bevestigen en te beschermen.
-
-Met dit oogmerk hebben respectivelijk tot hunne gemagtigden benoemd,
-
-te weten:
-
-Zijne Majesteit den Koning der Nederlanden, Mr. **Anton Reinhard Falck**, Kommandeur der Orde van den Nederlandschen Leeuw, en Hoogstdeszelfs Ambassadeur Extraordinaris en Plenipotentiaris bij het Hof van Groot-Brittanje,
-
-en
-
-de President - Bevrijder van de Republiek van Colombia, den heer **Joseph Fernandez Madrid**, Extraordinaris Envoyé en Minister Plenipotentiaris bij Zijne Groot-Brittannische Majesteit; dewelke na zich over en weder hunne volmagten te hebben medegedeeld, de volgende artikelen vastgesteld hebben:
+*Naardien zich sedert eenigen tijd, handelsbetrekkingen gevormd hebben, tusschen het Koningrijk der Nederlanden en de landen der Republiek van Colombia, is het voor de handhaving en uitbreiding der wederzijdsche belangen nuttig geoordeeld, die betrekkingen door middel van een traktaat van vriendschap, scheepvaart en handel te bevestigen en te beschermen. Met dit oogmerk hebben respectivelijk tot hunne gemagtigden benoemd, te weten: Zijne Majesteit den Koning der Nederlanden, Mr. Anton Reinhard Falck, Kommandeur der Orde van den Nederlandschen Leeuw, en Hoogstdeszelfs Ambassadeur Extraordinaris en Plenipotentiaris bij het Hof van Groot-Brittanje, en de President - Bevrijder van de Republiek van Colombia, den heer Joseph Fernandez Madrid, Extraordinaris Envoyé en Minister Plenipotentiaris bij Zijne Groot-Brittannische Majesteit; dewelke na zich over en weder hunne volmagten te hebben medegedeeld, de volgende artikelen vastgesteld hebben:*
 
 ##### Art. 1
 

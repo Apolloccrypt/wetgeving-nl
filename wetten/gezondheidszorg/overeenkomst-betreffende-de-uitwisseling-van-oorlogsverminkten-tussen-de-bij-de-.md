@@ -1,116 +1,87 @@
 ---
 title: "Overeenkomst betreffende de uitwisseling van oorlogsverminkten tussen de bij de Raad van Europa aangesloten landen ten behoeve van medische behandeling"
 identifier: "BWBV0005100"
-country: "nl"
-rank: "verdrag"
-publication_date: "1958-11-01"
-last_updated: "1958-11-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005100"
+categorie: "Gezondheidszorg"
 soort: "verdrag"
-stam_id: "10004466553"
-version_id: "10004677822"
-internal_id: "C10007194691"
-label_id: "10004451444"
-dtd_version: "2.0"
-original_entry_into_force: "1958-11-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005100/1958-11-01/0"
-intitule_bron: "Trb.1956-89"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-08-23"
-intitule_in_force: "1958-11-28"
-intitule_status: "goed"
-original_publication: "Trb.1956-89"
-original_published_date: "1956-08-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-89"
-entry_into_force_date: "1958-11-01"
-jci_1_3: "jci1.3:c:BWBV0005100&z=1958-11-01&g=1958-11-01"
-jci_1_0: "1.0:c:BWBV0005100&g=1958-11-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1958-11-01"
+publicatiedatum: 1958-11-01
+laatste_update: 1958-11-01
+status: geldig
+toestand: 1958-11-01
+bron: "https://wetten.overheid.nl/BWBV0005100"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst betreffende de uitwisseling van oorlogsverminkten tussen de bij de Raad van Europa aangesloten landen ten behoeve van medische behandeling
 
-De Regeringen welke deze Overeenkomst hebben ondertekend, Leden van de Raad van Europa,
+*The Governments signatory hereto, being Members of the Council of Europe, Considering that the improvement of therapeutic methods is an important aspect of social progress the development of which among member countries is mentioned in the Preamble and Article 1 of the Statute of the Council of Europe as being one of the primary aims of the Council; Having regard to the principle of equal social and medical treatment for nationals of member countries which governed the signing of the Interim Agreements on Social Security and the European Convention on Social and Medical Assistance; Desirous of making available to any war cripple, being a national of a member country, all existing therapeutic methods in any member country, and hoping therefore that the European nations will introduce a system of mutual exchanges, covering not only cripples but also technical methods and medical personnel; Considering that such exchanges would greatly contribute to the promotion among the peoples of Europe of a spirit of solidarity and general understanding, Have agreed as follows:*
 
-Overwegende dat de verbetering der geneeswijzen een belangrijk aspect vormt van de sociale vooruitgang, waarvan de bevordering in de betrokken landen wordt vermeld in de preambule en in [artikel 1 van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=1) als een der belangrijkste doelstellingen van de Raad;
+##### Article 1
 
-Gezien het beginsel van gelijke sociale verzorging en gelijke medische behandeling van onderdanen van landen-leden, dat bij de ondertekening van de Interim-Overeenkomsten betreffende sociale zekerheid en van het [Europees Verdrag betreffende sociale en medische bijstand](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), voorop stond;
+The term “cripples”, for the purpose of this Agreement, shall include all persons, military or civilian who, as a result of war, have suffered an amputation or who are suffering from impairment of the power of movement.
 
-Verlangend aan elke oorlogsverminkte die onderdaan is van een der landen-leden alle in deze landen bestaande geneeswijzen ter beschikking te stellen en derhalve de hoop uitsprekend dat de volkeren van Europa een stelsel van onderlinge uitwisseling, niet alleen van verminkten, doch eveneens van medische behandelingswijzen en van medisch personeel, zullen invoeren;
+The provisions of the present Agreement may in due course be extended to other categories of invalids following an exchange of letters between two or more of the Contracting Parties.
 
-Overwegende dat zulke uitwisselingen belangrijk zouden bijdragen tot de bevordering onder de volkeren van Europa van een geest van saamhorigheid en algemeen begrip,
+##### Article 2
 
-Zijn het volgende overeengekomen:
+The Contracting Parties shall, through the Secretary-General of the Council of Europe, exchange technical information on medical treatment afforded to cripples in their respective countries.
 
-##### Artikel 1
+They shall, in particular, indicate those specific forms of treatment which it is possible to give in their countries to the various categories of cripples and also the possibilities of receiving cripples who are nationals of the other Parties.
 
-In de zin van deze Overeenkomst worden onder de uitdrukking „verminkten” verstaan alle militairen en burgers die, als gevolg van oorlog, een amputatie hebben ondergaan of aan motorische storingen lijden.
+##### Article 3
 
-De bepalingen van deze Overeenkomst kunnen te zijner tijd worden uitgebreid tot andere categorieën invaliden door een briefwisseling tussen twee of meer der Overeenkomstsluitende Partijen.
+Any Contracting Party shall receive in its territory, within the limits specified in the second paragraph of the preceding Article, crippled nationals, duly sponsored, of the other Parties, in order that they may benefit by any special treatment of which they stand in need and which is not available in their own country.
 
-##### Artikel 2
+The appropriate Ministry in the country responsible for the requesting cripple shall transmit such request for entry directly to the appropriate Ministry in the country able to provide the necessary treatment. Each case shall be treated individually between the said Parties.
 
-De Overeenkomstsluitende Partijen zullen, door tussenkomst van de Secretaris-Generaal van de Raad van Europa, technische gegevens uitwisselen aangaande de medische behandeling welke de verminkten in hun onderscheidene landen ondergaan.
+##### Article 4
 
-Zij zullen in het bijzonder mededeling doen van de speciale behandelingswijzen welke in hun landen op de verschillende categorieën verminkten kunnen worden toegepast, alsmede van de mogelijkheden tot het ontvangen van verminkten die onderdanen zijn van de andere Partijen.
+The Contracting Parties shall facilitate the delivery between themselves of artificial limbs and of orthopaedic equipment where these are lacking and of urgent need to their cripples.
 
-##### Artikel 3
+##### Article 5
 
-Elk der Overeenkomstsluitende Partijen zal binnen haar grondgebied, met inachtneming van de in lid 2 van het vorig artikel aangegeven beperkingen, onderdanen van de andere Partijen, waarvoor wordt ingestaan dat zij verminkten zijn, ontvangen om hen in de gelegenheid te stellen speciale behandelingen waaraan zij behoefte hebben en die in hun eigen land niet beschikbaar zijn, te ondergaan.
+A Contracting Party shall endeavour to receive in its territory medical personnel and skilled technicians from any other Party in order that these may complete their training in therapy, in the manufacture of artificial limbs and in the functional re-education of cripples.
 
-Het bevoegde Ministerie van het land dat verantwoordelijk is voor de verminkte die een verzoek om toelating doet, zal zulk een verzoek rechtstreeks zenden aan het bevoegde Ministerie in het land dat in staat is de gewenste behandeling te verlenen. Elk geval zal afzonderlijk tussen voornoemde Partijen worden geregeld.
+##### Article 6
 
-##### Artikel 4
+The costs arising from the provisions contained in Articles 3 and 5 of the present Agreement shall be borne exclusively by the requesting country.
 
-De Overeenkomstsluitende Partijen zullen de levering aan elkander van prothesen en van orthopedische hulpmiddelen bevorderen waar deze ontbreken en hun verminkten er dringend behoefte aan hebben.
+The receiving country will, as far as possible, reduce the amount of these costs.
 
-##### Artikel 5
+##### Article 7
 
-Elk der Overeenkomstsluitende Partijen zal ernaar streven medisch personeel en vakkundig technisch personeel van een andere Partij op haar grondgebied te ontvangen opdat dit personeel zijn opleiding in de diverse geneeswijzen, in het vervaardigen van prothesen en in de functionele revalidatie van verminkten kan voltooien.
+The present Agreement shall be open to the signature of the Members of the Council of Europe who may accede to it either by:
 
-##### Artikel 6
+- 1. Signature without reservation in respect of ratification.
 
-De kosten voortvloeiende uit de toepassing van de bepalingen van de artikelen 3 en 5 van deze Overeenkomst komen uitsluitend ten laste van het aanvragende land.
+- 2. Signature with reservation in respect of ratification.
 
-Het ontvangende land zal zoveel mogelijk het bedrag van deze kosten beperken.
+Instruments of ratification shall be deposited with the Secretary-General of the Council of Europe.
 
-##### Artikel 7
+##### Article 8
 
-Deze Overeenkomst staat ter ondertekening open voor de Leden van de Raad van Europa, welke tot de Overeenkomst kunnen toetreden door middel van:
+The present Agreement shall enter into force on the first day of the month following the date on which three Members of the Council shall, in accordance with Article 7, have signed the Agreement without reservation in respect of ratification or shall have ratified it.
 
-- 1. ondertekening zonder voorbehoud van bekrachtiging,
+In the case of any Member of the Council who subsequently shall sign the Agreement without reservation in respect of ratification or who shall ratify it, the Agreement shall enter into force on the first day of the month following such signature or deposit of the instrument of ratification.
 
-- 2. ondertekening onder voorbehoud van bekrachtiging.
+##### Article 9
 
-De akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
+The Committee of Ministers of the Council of Europe may invite any non-Member State to accede to the present Agreement. Such accession shall take effect on the first day of the month following the deposit of the instrument of accession.
 
-##### Artikel 8
+##### Article 10
 
-Deze Overeenkomst treedt in werking op de eerste dag van de maand welke volgt op de dag waarop drie Leden van de Raad, overeenkomstig artikel 7, zonder voorbehoud van bekrachtiging deze Overeenkomst hebben ondertekend of deze hebben bekrachtigd.
+The Secretary-General of the Council of Europe shall notify Members of the Council:
 
-Met betrekking tot elk Lid van de Raad dat daarna deze Overeenkomst zonder voorbehoud van bekrachtiging ondertekent of deze bekrachtigt, treedt deze Overeenkomst in werking op de eerste dag van de maand welke volgt op de ondertekening of op de nederlegging van de akte van bekrachtiging.
+- (a) of the date of entry into force of this Agreement and the names of any Members who have signed without reservation in respect of ratification or who have ratified it;
 
-##### Artikel 9
+- (b) of the deposit of any instrument of accession in accordance with Article 9;
 
-Het Comité van Ministers van de Raad van Europa kan elke Staat die geen lid is van de Raad, uitnodigen tot deze Overeenkomst toe te treden. Zulk een toetreding wordt van kracht op de eerste dag van de maand welke volgt op de nederlegging van de akte van toetreding.
+- (c) of any notification received in accordance with Article 11 and its effective date.
 
-##### Artikel 10
+##### Article 11
 
-De Secretaris-Generaal van de Raad van Europa zal de Leden van de Raad in kennis stellen:
+The present Agreement shall remain in force indefinitely.
 
-- (a). van de datum van inwerkingtreding van deze Overeenkomst en van de namen der Leden die zonder voorbehoud van bekrachtiging deze Overeenkomst hebben ondertekend of deze hebben bekrachtigd;
-
-- (b). van de nederlegging van elke akte van toetreding overeenkomstig artikel 9;
-
-- (c). van elke overeenkomstig artikel 11 ontvangen kennisgeving en van de datum waarop het in deze kennisgeving bepaalde van kracht wordt.
-
-##### Artikel 11
-
-Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
-
-Elke Overeenkomstsluitende Partij kan de toepassing van deze Overeenkomst te haren aanzien beëindigen door hiervan kennisgeving te doen aan de Secretaris-Generaal van de Raad van Europa met inachtneming van een termijn van een jaar.
+Any Contracting Party may terminate its own application of the Agreement by giving one year's notice to that effect to the Secretary-General of the Council of Europe.
 
 In witness whereof the undersigned, being duly authorised to that effect, have signed the present Agreement.
 

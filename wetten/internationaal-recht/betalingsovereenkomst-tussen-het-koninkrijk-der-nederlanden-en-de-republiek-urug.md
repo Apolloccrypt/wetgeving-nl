@@ -1,38 +1,19 @@
 ---
 title: "Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Uruguay"
 identifier: "BWBV0005672"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-10-04"
-last_updated: "1955-10-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005672"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004808533"
-version_id: "10005111302"
-internal_id: "C10007762001"
-label_id: "10004792334"
-dtd_version: "2.0"
-original_entry_into_force: "1949-01-24"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005672/1955-10-04/0"
-intitule_bron: "Trb.1954-104"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-07-23"
-intitule_in_force: "1954-07-23"
-intitule_status: "goed"
-original_publication: "Trb.1954-104"
-original_published_date: "1954-07-23"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-104"
-entry_into_force_date: "1949-01-24"
-jci_1_3: "jci1.3:c:BWBV0005672&z=1955-10-04&g=1955-10-04"
-jci_1_0: "1.0:c:BWBV0005672&g=1955-10-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1949-01-24"
+publicatiedatum: 1949-01-24
+laatste_update: 1955-10-04
+status: geldig
+toestand: 1955-10-04
+bron: "https://wetten.overheid.nl/BWBV0005672"
+opgehaald: 2026-09-15
 ---
+
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Uruguay
 
-Ter regeling van het toekomstige betalingsverkeer tusschen de Nederlandsche monetaire zone en de Republiek Uruguay, zijn de Regeering van Uruguay eenerzijds en de Nederlandsche Regeering anderzijds het volgende overeengekomen:
+*Ter regeling van het toekomstige betalingsverkeer tusschen de Nederlandsche monetaire zone en de Republiek Uruguay, zijn de Regeering van Uruguay eenerzijds en de Nederlandsche Regeering anderzijds het volgende overeengekomen:*
 
 ##### Artikel 1
 

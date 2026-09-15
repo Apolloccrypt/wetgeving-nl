@@ -1,76 +1,47 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel"
 identifier: "BWBV0005298"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-05-04"
-last_updated: "1998-05-04"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005298"
+categorie: "Verkeer"
 soort: "verdrag"
-stam_id: "10004552753"
-version_id: "10004778882"
-internal_id: "C10007239691"
-label_id: "10004537264"
-dtd_version: "2.0"
-original_entry_into_force: "1956-03-30"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005298/1998-05-04/0"
-intitule_bron: "Trb.1956-10"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1956-01-19"
-intitule_in_force: "1959-06-16"
-intitule_status: "goed"
-original_publication: "Trb.1956-10"
-original_published_date: "1956-01-19"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1956-10"
-entry_into_force_date: "1956-03-30"
-jci_1_3: "jci1.3:c:BWBV0005298&z=1998-05-04&g=1998-05-04"
-jci_1_0: "1.0:c:BWBV0005298&g=1998-05-04"
-citeertitel_status: "redactioneel"
-entry_into_force: "1956-03-30"
+publicatiedatum: 1956-03-30
+laatste_update: 1998-05-04
+status: geldig
+toestand: 1998-05-04
+bron: "https://wetten.overheid.nl/BWBV0005298"
+opgehaald: 2026-09-15
 ---
+
 # Aanvullend Protocol bij het Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel
 
-De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, Zweden en de Federale Volksrepubliek Zuidslavië,
+*Les Gouvernements de la République Fédérale d'Allemagne, de la République d'Autriche, du Royaume de Belgique, du Royaume de Danemark, d'Espagne, de la République Française, de la République Italienne, du Grand Duché de Luxembourg, du Royaume de Norvège, du Royaume des Pays-Bas, de la République Portugaise, de Suède, et de la République Populaire Fédérative de Yougoslavie, d'une part, et le Gouvernement de la Confédération Suisse d'autre part, signataires de la Convention relative à la constitution de la Société européenne pour le financement de matériel ferroviaire (appelée ciaprès „la Convention”), vu le paragraphe c) de l'Article 7 de ladite Convention; constatant que les Statuts de la Société européenne pour le financement de matériel ferroviaire (appelée ci-après „la Société”) annexés à la Convention prévoient que le siège de la Société sera à Bâle (Suisse); constatant que le Gouvernement de la Suisse est prêt à consentir des avantages particuliers en matière fiscale, en vue de la constitution et du fonctionnement de la Société; sont convenus de ce qui suit:*
 
-enerzijds,
+##### Article 1er
 
-en de Regering van de Zwitserse Bondsstaat,
+La Société bénéficiera en Suisse, aussi longtemps qu'elle y aura son siège, des exonérations fiscales ci-après, sans préjudice de l'application des dispositions de [l'Article 7 a) et b) de la Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7):
 
-anderzijds,
+- 1° Exonération des droits de timbre à l'émission des actions de là Société.
 
-die het [Verdrag nopens de oprichting van de Europese Maatschappij tot financiering van spoorwegmaterieel](https://wetten.overheid.nl/jci1.3:c:BWBV0005045) (hierna te noemen „het Verdrag”) hebben ondertekend,
+- 2° Exonération de l'impôt pour la défense nationale sur le revenu et sur le capital et les réserves, et de tout impôt fédéral direct futur qui le remplacerait.
 
-gelet op [artikel 7, lid c), van genoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7);
+- 3°
 
-vaststellende, dat de Statuten van de Europese Maatschappij tot financiering van spoorwegmaterieel (hierna te noemen „de Maatschappij”), welke gevoegd zijn bij het Verdrag, bepalen, dat de Maatschappij te Bazel (Zwitserland) zal worden gevestigd;
+   - a) Exonération du droit de timbre à l'émission pour les titres de tout emprunt de la Société émis après le 31 mars 1993;
 
-vaststellende, dat de Regering van Zwitserland bereid is met het oog op de oprichting en de werkzaamheid van de Maatschappij bijzondere voordelen op belastinggebied toe te kennen;
+   - b) Exonération de l'assujettissement au droit de négociation pour les transactions de titres de la Société effectuées après le 31 mars 1993;
 
-zijn overeengekomen als volgt:
+   - c) Exonération de l'impôt anticipé pour les intérêts des emprunts de la Société, qui seront mis en souscription exclusivement à l'étranger, qui ne seront pas admis à la cote des bourses suisses et dont le service d'intérêts et de remboursement se fera exclusivement par des offices étrangers.
 
-##### Artikel 1
+- 4° Non-perception de l'impôt anticipé sur les dividende que la Société versera aux administrations de chemin de fer.
 
-De Maatschappij zal in Zwitserland, zolang zij aldaar zal zijn gevestigd, de volgende belastingvrijstellingen genieten, onverminderd de bepalingen van [artikel 7, leden a) en b), van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7):
+- 5° Non-perception du supplément à la taxe pour l'inscription au registre du commerce.
 
-- 1°. Vrijstelling van zegelrecht bij de uitgifte van aandelen van de Maatschappij.
+- 6° Exonération de l'impôt cantonal et communal sur le revenu et sur la fortune de la Société dans le Canton de Bâle-Ville.
 
-- 2°. Vrijstelling van de nationale verdedigingsbelasting op de inkomsten en op het kapitaal en de reserves, en van iedere toekomstige directe federale belasting, die daarvoor in de plaats treedt.
+- 7° Exonération, avec effet à partir du ler janvier 1995, de la taxe suisse sur la valeur ajoutée, c'est-à-dire exonération de l'assujettissement mais avec le droit de demander le dégrèvement de l'impôt préalable.
 
-- 3°. De tekst van de vertaling is niet beschikbaar.
+##### Article 2
 
-- 4°. Niet-inning van de voorheffing op dividenden, welke de Maatschappij zal uitkeren aan de spoorwegen.
-
-- 5°. Niet-inning van de toeslag op de belasting voor de inschrijving in het handelsregister.
-
-- 6°. Vrijstelling van kantonale en gemeentelijke belasting op de inkomsten en op het vermogen van de Maatschappij in het Kanton Bazel-Stad.
-
-- 7°. De tekst van de vertaling is niet beschikbaar.
-
-##### Artikel 2
-
-Dit Protocol zal in werking treden zodra de Regering van Zwitserland het zal hebben bekrachtigd, die van deze bekrachtiging zal kennisgeven aan de andere Regeringen, die dit Protocol hebben ondertekend.
+Le présent Protocole entrera en vigueur dès sa ratification par le Gouvernement de la Suisse, qui donnera notification de ladite ratification aux autres Gouvernements signataires.
 
 En foi de quoi, les représentants soussignés, après avoir communiqué leurs pleins pouvoirs, reconnus en bonne et due forme, ont signé le présent Protocole.
 

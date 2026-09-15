@@ -1,60 +1,19 @@
 ---
 title: "Verdrag tot unificatie van accijnzen en van het waarborgrecht tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groot-Hertogdom Luxemburg"
 identifier: "BWBV0005676"
-country: "nl"
-rank: "verdrag"
-publication_date: "1998-03-01"
-last_updated: "1998-03-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005676"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004810313"
-version_id: "10005113462"
-internal_id: "C10007825331"
-label_id: "10004794424"
-dtd_version: "2.0"
-original_entry_into_force: "1951-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005676/1998-03-01/0"
-intitule_bron: "Stb.1951-215"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1951-06-15"
-intitule_published: "1951-06-19"
-intitule_in_force: "1951-12-27"
-intitule_status: "goed"
-original_publication: "Stb.1951-215"
-original_signed_date: "1951-06-15"
-original_published_date: "1951-06-19"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1951-11-19"
-jci_1_3: "jci1.3:c:BWBV0005676&z=1998-03-01&g=1998-03-01"
-jci_1_0: "1.0:c:BWBV0005676&g=1998-03-01"
-citeertitel_status: "redactioneel"
-signed_date: "1951-06-15"
-entry_into_force: "1951-11-19"
+publicatiedatum: 1951-11-19
+laatste_update: 1998-03-01
+status: geldig
+toestand: 1998-03-01
+bron: "https://wetten.overheid.nl/BWBV0005676"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tot unificatie van accijnzen en van het waarborgrecht tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groot-Hertogdom Luxemburg
 
-Hare Majesteit de Koningin der Nederlanden, enerzijds, en
-
-Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen, en Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, anderzijds,
-
-Overtuigd, dat het wenselijk is, teneinde een economische unie te verwerkelijken tussen Nederland en de Belgisch-Luxemburgse Economische Unie, bepaalde accijnzen af te schaffen en de bedragen en maatstaven van de andere accijnzen aan elkaar gelijk te maken alsmede een gelijke regeling te treffen met betrekking tot de waarborg van rijkswege van platina, gouden en zilveren werken,
-
-Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Mr. D. U. Stikker, Minister van Buitenlandse Zaken,
-
-Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen:
-
-Zijne Excellentie E. Graeffe, Buitengewoon en gevolmachtigd Ambassadeur van het Koninkrijk België, en
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:
-
-Zijne Excellentie Auguste Collart, buitengewoon Gezant en gevolmachtigd Minister van het Groot-Hertogdom Luxemburg,
-
-Die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
+*Hare Majesteit de Koningin der Nederlanden, enerzijds, en Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen, en Hare Koninklijke Hoogheid de Groothertogin van Luxemburg, anderzijds, Overtuigd, dat het wenselijk is, teneinde een economische unie te verwerkelijken tussen Nederland en de Belgisch-Luxemburgse Economische Unie, bepaalde accijnzen af te schaffen en de bedragen en maatstaven van de andere accijnzen aan elkaar gelijk te maken alsmede een gelijke regeling te treffen met betrekking tot de waarborg van rijkswege van platina, gouden en zilveren werken, Hebben besloten te dien einde een verdrag te sluiten en hebben tot Hunne Gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr. D. U. Stikker, Minister van Buitenlandse Zaken, Zijne Koninklijke Hoogheid de Prins Regent, in naam van Zijne Majesteit de Koning der Belgen: Zijne Excellentie E. Graeffe, Buitengewoon en gevolmachtigd Ambassadeur van het Koninkrijk België, en Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: Zijne Excellentie Auguste Collart, buitengewoon Gezant en gevolmachtigd Minister van het Groot-Hertogdom Luxemburg, Die, na elkaar hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:*
 
 ### HOOFDSTUK I. Afgeschafte accijnzen
 
@@ -108,21 +67,21 @@ In dit totaal mogen de hoeveelheden alcohol, vervaardigd in stokerijen, welke in
 
 § 1. Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op ethylalcohol en op ethylalcoholhoudende produkten, met uitsluiting van bier en andere gegiste dranken dan die bedoeld in § 2, no's 1 tot en met 3, een accijns geheven welke als volgt wordt vastgesteld:
 
-| **a.** Ethylalcohol en gedistilleerde dranken: 1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 65 graden en ingevoerd in verpakkingen, inhoudende niet meer dan 2 liter... per hl | f 775,20 of fr. 10.200,-; |   |
-| --- | --- | --- |
-| 2. andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl | f 11,93 of fr. 157,-; |   |
-| **b.** Likeuren en andere gezoete alcoholische dranken, ook indien gearomatiseerd: 1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 15 graden... per hl | f 178,95 of fr. 2.355,-; |   |
-| 2. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van meer dan 15 graden en niet meer dan 65 graden... per hl | f 775,20 of fr. 10.200,-; |   |
-| 3, andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl | f 11,93 of fr. 157 -; |   |
-| **c.** Alle andere ethylalcoholhoudende produkten, met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van: |   |   |
-| 1. meer dan 5 graden en niet meer dan 10 graden... per hl | f 119,30 of fr. 1.570,-; |   |
-| 2. meer dan 10 graden en niet meer dan 20 graden... per hl | f 238,60 of fr. 3.140,-; |   |
-| 3. meer dan 20 graden en niet meer dan 35 graden... per hl | f 417,55 of fr. 5.495,-; |   |
-| 4. meer dan 35 graden en niet meer dan 50 graden... per hl | f 596,50 of fr. 7.850,-; |   |
-| 5. meer dan 50 graden en niet meer dan 75 graden...per hl | f 894,75 of fr. 11.775,-; |   |
-| 6. meer dan 75 graden ...per hl | f 1.193,- of fr 15.700,-; |   |
+| a. Ethylalcohol en gedistilleerde dranken: 1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 65 graden en ingevoerd in verpakkingen, inhoudende niet meer dan 2 liter... per hl | f 775,20 of fr. 10.200,-; |
+| --- | --- |
+| 2. andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl | f 11,93 of fr. 157,-; |
+| b. Likeuren en andere gezoete alcoholische dranken, ook indien gearomatiseerd: 1. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van niet meer dan 15 graden... per hl | f 178,95 of fr. 2.355,-; |
+| 2. met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van meer dan 15 graden en niet meer dan 65 graden... per hl | f 775,20 of fr. 10.200,-; |
+| 3, andere, voor elke graad van de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius... per hl | f 11,93 of fr. 157 -; |
+| c. Alle andere ethylalcoholhoudende produkten, met een sterkte volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, van: |  |
+| 1. meer dan 5 graden en niet meer dan 10 graden... per hl | f 119,30 of fr. 1.570,-; |
+| 2. meer dan 10 graden en niet meer dan 20 graden... per hl | f 238,60 of fr. 3.140,-; |
+| 3. meer dan 20 graden en niet meer dan 35 graden... per hl | f 417,55 of fr. 5.495,-; |
+| 4. meer dan 35 graden en niet meer dan 50 graden... per hl | f 596,50 of fr. 7.850,-; |
+| 5. meer dan 50 graden en niet meer dan 75 graden...per hl | f 894,75 of fr. 11.775,-; |
+| 6. meer dan 75 graden ...per hl | f 1.193,- of fr 15.700,-; |
 
-§ 2. Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie is de in § 1, letter **b,** bedoelde heffing mede van toepassing op:
+§ 2. Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie is de in § 1, letter *b,* bedoelde heffing mede van toepassing op:
 
 - 1. wijn van verse druiven, gedeeltelijk gegiste druivenmost en druivenmost waarvan de gisting door toevoegen van alcohol is gestuit (mistella daaronder begrepen), alsmede vermout en andere wijn van verse druiven, bereid met aromatische planten of met aromatische stoffen, mits de hiervoor bedoelde dranken volgens de alcoholmeter van Gay-Lussac, bij een temperatuur van 15 graden Celsius, een sterkte hebben van meer dan 22 graden;
 
@@ -163,21 +122,21 @@ Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op 
 
 ##### Artikel 9
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 9bis
 
-Vervallen
+*Vervallen*
 
 #### Mousserende gegiste dranken
 
 ##### Artikel 10
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 10bis
 
-Vervallen
+*Vervallen*
 
 #### Suiker
 
@@ -185,11 +144,11 @@ Vervallen
 
 In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de aldaar uit beetwortels of uit suikerriet vervaardigde suiker een accijns geheven, welke als volgt wordt vastgesteld:
 
-|   |   | **Per 100 kg netto-gewicht** |
+|  |  | Per 100 kg netto-gewicht |
 | --- | --- | --- |
 | a. | Ruwe suiker — met uitzondering van de zogenaamde wit-gedraaide ruwe suiker — en basterd ................. | fl. 13,45 of fr. 177,—. |
 | b. | Vloeibare suiker en invertsuiker ................ | fl. 0,14 of fr. 1,84. |
-|   |   | per gehalte percent aan suiker. |
+|  |  | per gehalte percent aan suiker. |
 | c. | Raffinagestroop ..................... | fl. 3,50 of fr. 46,—. |
 | d. | Andere ................. | fl. 14,— of fr. 184,—. |
 | e. | Melasse, ongeschikt voor menselijke consumptie .................... | Vrij. |
@@ -198,14 +157,15 @@ In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op de aldaar u
 
 Bij invoer in Nederland en in de Belgisch-Luxemburgse Economische Unie wordt op suiker en op producten waaraan suiker is toegevoegd een accijns geheven, welke als volgt wordt vastgesteld:
 
-- a. Beetwortelsuiker, rietsuiker en soortgelijke suiker: dezelfde accijns, als is vastgesteld bij artikel 11, letters **a** tot en met **d**.
+- a. Beetwortelsuiker, rietsuiker en soortgelijke suiker: dezelfde accijns, als is vastgesteld bij artikel 11, letters *a* tot en met *d*.
 
-- b. Producten — met uitzondering van likeuren en andere alcoholische dranken — waaraan beetwortelsuiker, rietsuiker of soortgelijke suiker is toegevoegd in de verhouding van:
-
-|   |   | **Per 100 kg netto-gewicht** |
-| --- | --- | --- |
-| 1. | 10 tot en met 50 ten honderd | fl. 75— of fr. 92,—; |
-| 2. | meer dan 50 ten honderd | fl. 14,— of fr. 184,—. |
+- b. Producten — met uitzondering van likeuren en andere alcoholische dranken — waaraan beetwortelsuiker, rietsuiker of soortgelijke suiker is toegevoegd in de verhouding van: *Per 100 kg netto-gewicht*
+ 1.
+ 10 tot en met 50 ten honderd
+ fl. 75— of fr. 92,—;
+ 2.
+ meer dan 50 ten honderd
+ fl. 14,— of fr. 184,—.
 
 - c. Melasse en alle andere producten, ongeschikt voor menselijke consumptie: ............... Vrij.
 
@@ -215,7 +175,7 @@ Voor de berekening van de accijns, bedoeld in de artikelen 11 en 12, worden gede
 
 ##### Artikel 14
 
-Par. 1. Aan fabrikanten van invertsuiker, die op het tijdstip van in werking treding van dit verdrag in het gebied van de Belgisch-Luxemburgse Economische Unie zijn gevestigd, kan voor de suiker, welke zij in hun fabriek verwerken tot invertsuiker, een vermindering worden verleend van de accijns, bedoeld in artikel 11 en artikel 12 letter **a**.
+Par. 1. Aan fabrikanten van invertsuiker, die op het tijdstip van in werking treding van dit verdrag in het gebied van de Belgisch-Luxemburgse Economische Unie zijn gevestigd, kan voor de suiker, welke zij in hun fabriek verwerken tot invertsuiker, een vermindering worden verleend van de accijns, bedoeld in artikel 11 en artikel 12 letter *a*.
 
 Par. 2. Het bedrag van de in paragraaf 1 bedoelde vermindering en de voorwaarden, waaronder deze wordt verleend, worden op voorstel van de Administratieve Raad voor de Douaneregelingen vastgesteld door de Minister van Financiën van België.
 
@@ -225,12 +185,12 @@ Par. 2. Het bedrag van de in paragraaf 1 bedoelde vermindering en de voorwaarden
 
 In Nederland en in de Belgisch-Luxemburgse Economische Unie wordt de accijns op aldaar vervaardigde en op ingevoerde tot verbruik bereide tabak geheven naar de volgende bedragen en maatstaven:
 
-| a. | Sigaren met dichtgewerkte kop, wegende per 1.000 stuks 3½ kg of meer: 27 % | } | } | Van de kleinhandelsprijs, volgens een schaal, welke, eventueel met een minimum prijs als grondslag, door de bevoegde Ministers wordt vastgesteld. |
-| --- | --- | --- | --- | --- |
-| b. | Andere sigaren: 33 % | } | } | Van de kleinhandelsprijs, volgens een schaal, welke, eventueel met een minimum prijs als grondslag, door de bevoegde Ministers wordt vastgesteld. |
-| c. | Sigaretten: 62 % | } | } | Van de kleinhandelsprijs, volgens een schaal, welke, eventueel met een minimum prijs als grondslag, door de bevoegde Ministers wordt vastgesteld. |
-| d. | Rooktabak, snuif en droge pruimtabak: 40 % | } | } | Van de kleinhandelsprijs, volgens een schaal, welke, eventueel met een minimum prijs als grondslag, door de bevoegde Ministers wordt vastgesteld. |
-| e. | Natte pruimtabak: fl. 0,08 of fr. 1,— per kilogram. |   |   |   |
+| a. | Sigaren met dichtgewerkte kop, wegende per 1.000 stuks 3½ kg of meer: 27 % | } | Van de kleinhandelsprijs, volgens een schaal, welke, eventueel met een minimum prijs als grondslag, door de bevoegde Ministers wordt vastgesteld. |
+| --- | --- | --- | --- |
+| b. | Andere sigaren: 33 % |  |  |
+| c. | Sigaretten: 62 % |  |  |
+| d. | Rooktabak, snuif en droge pruimtabak: 40 % |  |  |
+| e. | Natte pruimtabak: fl. 0,08 of fr. 1,— per kilogram. |  |  |
 
 #### Minerale oliën
 
@@ -307,17 +267,11 @@ De in dit verdrag omschreven maatregelen zullen in werking worden gesteld op tij
 
 ##### Artikel 23
 
-Vervallen
+*Vervallen*
 
 ##### Artikel 24
 
 Dit verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te Brussel worden uitgewisseld.
-
-Op het ogenblik van ondertekening van het heden gesloten verdrag inzake de unificatie van accijnzen en van het waarborgrecht, zijn de ondertekenende Gevolmachtigden bovendien het navolgende overeengekomen, hetwelk een wezenlijk bestanddeel van het verdrag zelf uitmaakt.
-
-##### Artikel Enig
-
-In verband met de verlaging van de in artikel 10 van het bovengenoemde verdrag vermelde belasting, zullen de mousserende wijnen, bedoeld in post 154 van het Tarief van invoerrechten behorende bij de Nederlandsch-Belgisch-Luxemburgse douane-overeenkomst, bij de inwerkingstelling van het geunificeerde stelsel van de omzetbelasting (overdrachtstaxe en aanverwante belastingen), worden opgenomen in de lijst van goederen, welke bij verkoop door de fabrikant of bij invoer aan het hoogste tarief worden onderworpen.
 
 Ter oorkonde waarvan de bovengenoemde Gevolmachtigden dit verdrag hebben ondertekend en van hun zegel hebben voorzien.
 

@@ -1,46 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens samenvoeging van douanebehandeling aan de Nederlands-Belgische grens"
 identifier: "BWBV0005782"
-country: "nl"
-rank: "verdrag"
-publication_date: "1948-05-08"
-last_updated: "1948-05-08"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005782"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004865503"
-version_id: "10005170572"
-internal_id: "C10007901721"
-label_id: "10004849114"
-dtd_version: "2.0"
-original_entry_into_force: "1948-05-08"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005782/1948-05-08/0"
-intitule_bron: "Stb.1949-J 54"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1949-02-01"
-intitule_published: "1949-02-25"
-intitule_in_force: "1951-10-17"
-intitule_status: "goed"
-original_publication: "Stb.1949-J 54"
-original_signed_date: "1949-02-01"
-original_published_date: "1949-02-25"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1948-05-08"
-jci_1_3: "jci1.3:c:BWBV0005782&z=1948-05-08&g=1948-05-08"
-jci_1_0: "1.0:c:BWBV0005782&g=1948-05-08"
-citeertitel_status: "redactioneel"
-signed_date: "1949-02-01"
-entry_into_force: "1948-05-08"
+publicatiedatum: 1948-05-08
+laatste_update: 1948-05-08
+status: geldig
+toestand: 1948-05-08
+bron: "https://wetten.overheid.nl/BWBV0005782"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens samenvoeging van douanebehandeling aan de Nederlands-Belgische grens
 
-De Nederlandse en Belgische Regeringen,
-
-verlangend de formaliteiten, welke gepaard gaan met overschrijding van de gemeenschappelijke grens tussen beide landen, zoveel doenlijk te vereenvoudigen en te bespoedigen;
-
-van mening, dat de bevoegdheid om de gevallen aan te wijzen, waarin daartoe strekkende maatregelen genomen moeten worden, in beide landen behoort te worden toegekend aan de bevoegde Ministers;
-
-hebben, om dit doel te bereiken, behoorlijk gevolmachtigde vertegenwoordigers aangewezen, dewelke het hieronder volgende zijn overeengekomen:
+*De Nederlandse en Belgische Regeringen, verlangend de formaliteiten, welke gepaard gaan met overschrijding van de gemeenschappelijke grens tussen beide landen, zoveel doenlijk te vereenvoudigen en te bespoedigen; van mening, dat de bevoegdheid om de gevallen aan te wijzen, waarin daartoe strekkende maatregelen genomen moeten worden, in beide landen behoort te worden toegekend aan de bevoegde Ministers; hebben, om dit doel te bereiken, behoorlijk gevolmachtigde vertegenwoordigers aangewezen, dewelke het hieronder volgende zijn overeengekomen:*
 
 ##### Artikel I
 

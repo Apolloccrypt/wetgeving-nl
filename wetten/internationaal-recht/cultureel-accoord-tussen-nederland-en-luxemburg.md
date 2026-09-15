@@ -1,56 +1,19 @@
 ---
 title: "Cultureel accoord tussen Nederland en Luxemburg"
 identifier: "BWBV0005512"
-country: "nl"
-rank: "verdrag"
-publication_date: "1953-09-22"
-last_updated: "1953-09-22"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005512"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004673153"
-version_id: "10004930442"
-internal_id: "C10008341731"
-label_id: "10004657174"
-dtd_version: "2.0"
-original_entry_into_force: "1953-09-22"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005512/1953-09-22/0"
-intitule_bron: "Stb.1950-K 87"
-intitule_effect: "nieuwe-regeling"
-intitule_signed: "1950-03-16"
-intitule_published: "1950-04-21"
-intitule_in_force: "1953-11-02"
-intitule_status: "goed"
-original_publication: "Stb.1950-K 87"
-original_signed_date: "1950-03-16"
-original_published_date: "1950-04-21"
-original_effect: "nieuwe-regeling"
-entry_into_force_date: "1953-09-22"
-jci_1_3: "jci1.3:c:BWBV0005512&z=1953-09-22&g=1953-09-22"
-jci_1_0: "1.0:c:BWBV0005512&g=1953-09-22"
-citeertitel_status: "redactioneel"
-signed_date: "1950-03-16"
-entry_into_force: "1953-09-22"
+publicatiedatum: 1953-09-22
+laatste_update: 1953-09-22
+status: geldig
+toestand: 1953-09-22
+bron: "https://wetten.overheid.nl/BWBV0005512"
+opgehaald: 2026-09-15
 ---
+
 # Cultureel accoord tussen Nederland en Luxemburg
 
-Hare Majesteit de Koningin der Nederlanden ter eenre, en
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg ter andere,
-
-Bezield door de gelijke wens om de betrekkingen op het gebied van onderwijs, wetenschap en kunst tussen beide landen te versterken,
-
-Hebben besloten te dien einde een Verdrag te sluiten betreffende de culturele en intellectuele betrekkingen tussen beide landen en hebben tot hare gevolmachtigden benoemd, te weten:
-
-Hare Majesteit de Koningin der Nederlanden:
-
-Zijne Excellentie Mr. D. U. Stikker, Hoogstderzelver Minister van Buitenlandse Zaken;
-
-Hare Koninklijke Hoogheid de Groothertogin van Luxemburg:
-
-Zijne Excellentie de Heer Auguste Collart, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister te 's-Gravenhage;
-
-Die, na wederzijdse overlegging van hun respectieve volmachten, dewelke in goede en behoorlijke vorm zijn bevonden, zijn nopens de volgende bepalingen overeengekomen:
+*Hare Majesteit de Koningin der Nederlanden ter eenre, en Hare Koninklijke Hoogheid de Groothertogin van Luxemburg ter andere, Bezield door de gelijke wens om de betrekkingen op het gebied van onderwijs, wetenschap en kunst tussen beide landen te versterken, Hebben besloten te dien einde een Verdrag te sluiten betreffende de culturele en intellectuele betrekkingen tussen beide landen en hebben tot hare gevolmachtigden benoemd, te weten: Hare Majesteit de Koningin der Nederlanden: Zijne Excellentie Mr. D. U. Stikker, Hoogstderzelver Minister van Buitenlandse Zaken; Hare Koninklijke Hoogheid de Groothertogin van Luxemburg: Zijne Excellentie de Heer Auguste Collart, Hoogstderzelver Buitengewoon Gezant en Gevolmachtigd Minister te 's-Gravenhage; Die, na wederzijdse overlegging van hun respectieve volmachten, dewelke in goede en behoorlijke vorm zijn bevonden, zijn nopens de volgende bepalingen overeengekomen:*
 
 ##### Artikel 1
 

@@ -1,54 +1,27 @@
 ---
 title: "Overeenkomst ter bevordering van de uitwisseling van octrooirechten en technische inlichtingen voor defensiedoeleinden"
 identifier: "BWBV0005299"
-country: "nl"
-rank: "verdrag"
-publication_date: "1955-07-13"
-last_updated: "1955-07-13"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005299"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004552913"
-version_id: "10004779152"
-internal_id: "C10007708601"
-label_id: "10004537514"
-dtd_version: "2.0"
-original_entry_into_force: "1955-07-13"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005299/1955-07-13/0"
-intitule_bron: "Trb.1955-59"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1955-06-06"
-intitule_in_force: "1955-08-01"
-intitule_status: "goed"
-original_publication: "Trb.1955-59"
-original_published_date: "1955-06-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1955-59"
-entry_into_force_date: "1955-07-13"
-jci_1_3: "jci1.3:c:BWBV0005299&z=1955-07-13&g=1955-07-13"
-jci_1_0: "1.0:c:BWBV0005299&g=1955-07-13"
-citeertitel_status: "redactioneel"
-entry_into_force: "1955-07-13"
+publicatiedatum: 1955-07-13
+laatste_update: 1955-07-13
+status: geldig
+toestand: 1955-07-13
+bron: "https://wetten.overheid.nl/BWBV0005299"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst ter bevordering van de uitwisseling van octrooirechten en technische inlichtingen voor defensiedoeleinden
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika - hierna te noemen de Regeringen -
-
-die in het op 27 Januari 1950 te Washington ondertekende [Verdrag tot Wederzijdse Hulpverlening inzake Verdediging](https://wetten.overheid.nl/jci1.3:c:BWBV0005675) overeengekomen zijn, op verzoek van elk hunner te zullen onderhandelen over passende regelingen betreffende octrooien en technische inlichtingen,
-
-die in het algemeen behulpzaam wensen te zijn bij de productie van uitrusting en materiëel voor de verdediging door de uitwisseling van octrooirechten en technische inlichtingen te vergemakkelijken en te bevorderen, en
-
-die erkennen, dat de rechten van particuliere eigenaars van octrooien en technische inlichtingen volledig erkend en beschermd moeten worden overeenkomstig de wetten welke van toepassing zijn op zodanige octrooien en technische inlichtingen,
-
-zijn overeengekomen als volgt:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika - hierna te noemen de Regeringen - die in het op 27 Januari 1950 te Washington ondertekende Verdrag tot Wederzijdse Hulpverlening inzake Verdediging overeengekomen zijn, op verzoek van elk hunner te zullen onderhandelen over passende regelingen betreffende octrooien en technische inlichtingen, die in het algemeen behulpzaam wensen te zijn bij de productie van uitrusting en materiëel voor de verdediging door de uitwisseling van octrooirechten en technische inlichtingen te vergemakkelijken en te bevorderen, en die erkennen, dat de rechten van particuliere eigenaars van octrooien en technische inlichtingen volledig erkend en beschermd moeten worden overeenkomstig de wetten welke van toepassing zijn op zodanige octrooien en technische inlichtingen, zijn overeengekomen als volgt:*
 
 ##### Artikel I
 
 Beide Regeringen zullen, steeds als dit zonder al te grote beperking of belemmering van de defensieproductie uitvoerbaar is, het gebruik van octrooirechten bevorderen en het doorgeven en het gebruik van technische inlichtingen in particulier bezit, als omschreven in Artikel VIII, voor defensiedoeleinden aanmoedigen:
 
-- a). door middel van bestaande handelsrelaties tussen de eigenaar van die octrooirechten en van die technische inlichtingen en diegenen in het andere land, die het recht hebben die octrooirechten en technische inlichtingen te gebruiken, en
+- a) door middel van bestaande handelsrelaties tussen de eigenaar van die octrooirechten en van die technische inlichtingen en diegenen in het andere land, die het recht hebben die octrooirechten en technische inlichtingen te gebruiken, en
 
-- b). bij ontbreken van bestaande relaties, door middel van het tot stand brengen van dergelijke relaties door de eigenaar en de toekomstige gebruiker in het andere land,
+- b) bij ontbreken van bestaande relaties, door middel van het tot stand brengen van dergelijke relaties door de eigenaar en de toekomstige gebruiker in het andere land,
 
 mits, in het geval van gerubriceerde inlichtingen, dergelijke regelingen door de wetten en veiligheidseisen van beide landen zijn toegelaten en mits de bepalingen van alle zodanige regelingen onderworpen zullen blijven aan de toepasselijke wetten van beide landen.
 
@@ -64,9 +37,9 @@ Wanneer technische inlichtingen, welke voor defensiedoeleinden door een der Rege
 
 a. Wanneer technische inlichtingen in particulier bezit
 
-- (i). door of namens hun eigenaar aan de Regering van het land waarvan deze onderdaan of ingezetene is, zijn medegedeeld, en
+- (i) door of namens hun eigenaar aan de Regering van het land waarvan deze onderdaan of ingezetene is, zijn medegedeeld, en
 
-- (ii). vervolgens voor defensiedoeleinden door die Regering ter kennis van de andere Regering worden gebracht en door deze laatste al dan niet voor defensiedoeleinden worden gebruikt of bekend gemaakt,
+- (ii) vervolgens voor defensiedoeleinden door die Regering ter kennis van de andere Regering worden gebracht en door deze laatste al dan niet voor defensiedoeleinden worden gebruikt of bekend gemaakt,
 
 komen de Regeringen overeen dat, indien door de Regering, die het eerst de inlichtingen ontvangt, aan de eigenaar enige vergoeding wordt betaald, deze betaling onverlet laat de tussen beide Regeringen eventueel te treffen regelingen ten aanzien van de door ieder van hen te aanvaarden aansprakelijkheid voor vergoeding. De Commissie voor Technische Eigendom, ingesteld krachtens Artikel VI van deze Overeenkomst, zal deze regelingen bespreken en daaromtrent aanbevelingen aan de Regeringen doen.
 
@@ -82,29 +55,29 @@ Wanneer een der Regeringen instellingen bezit of daarin beslissende zeggenschap 
 
 Elk der Regeringen zal een vertegenwoordiger aanwijzen om met de vertegenwoordiger van de andere Regering samen te komen teneinde een Commissie voor Technische Eigendom te vormen. De taak van deze Commissie zal zijn:
 
-- a). het bezien van en het doen van aanbevelingen omtrent aangelegenheden, die op het onderwerp van deze Overeenkomst betrekking hebben en door elk dezer Regeringen aan haar worden voorgelegd;
+- a) het bezien van en het doen van aanbevelingen omtrent aangelegenheden, die op het onderwerp van deze Overeenkomst betrekking hebben en door elk dezer Regeringen aan haar worden voorgelegd;
 
-- b). het doen van aanbevelingen aan de Regeringen ten aanzien van alle vraagstukken betreffende octrooirechten en technische inlichtingen, die rijzen in verband met het wederzijdse verdedigingsprogramma en door elk dezer Regeringen onder haar aandacht worden gebracht;
+- b) het doen van aanbevelingen aan de Regeringen ten aanzien van alle vraagstukken betreffende octrooirechten en technische inlichtingen, die rijzen in verband met het wederzijdse verdedigingsprogramma en door elk dezer Regeringen onder haar aandacht worden gebracht;
 
-- c). het medewerken, waar dienstig, aan het onderhandelen over handels- of andere overeenkomsten betreffende het gebruik van octrooirechten en technische inlichtingen in het wederzijds verdedigingsprogramma;
+- c) het medewerken, waar dienstig, aan het onderhandelen over handels- of andere overeenkomsten betreffende het gebruik van octrooirechten en technische inlichtingen in het wederzijds verdedigingsprogramma;
 
-- d). het kennis nemen van handels- of andere overeenkomsten die betrekking hebben op het gebruik van octrooirechten en technische inlichtingen in het wederzijds verdedigingsprogramma alsmede, waar nodig, het vernemen van de opvattingen van de twee Regeringen aangaande de aanvaardbaarheid van zulke overeenkomsten;
+- d) het kennis nemen van handels- of andere overeenkomsten die betrekking hebben op het gebruik van octrooirechten en technische inlichtingen in het wederzijds verdedigingsprogramma alsmede, waar nodig, het vernemen van de opvattingen van de twee Regeringen aangaande de aanvaardbaarheid van zulke overeenkomsten;
 
-- e). het medewerken, waar dienstig, aan het verkrijgen van licenties en het doen van aanbevelingen, waar dienstig, aangaande de betaling van vergoedingen voor het gebruik van uitvindingen in het wederzijds verdedigingsprogramma;
+- e) het medewerken, waar dienstig, aan het verkrijgen van licenties en het doen van aanbevelingen, waar dienstig, aangaande de betaling van vergoedingen voor het gebruik van uitvindingen in het wederzijds verdedigingsprogramma;
 
-- f). het aanmoedigen van projecten voor technische samenwerking tussen de strijdkrachten van de twee landen en het bevorderen van het gebruik van octrooirechten en technische inlichtingen in dergelijke projecten;
+- f) het aanmoedigen van projecten voor technische samenwerking tussen de strijdkrachten van de twee landen en het bevorderen van het gebruik van octrooirechten en technische inlichtingen in dergelijke projecten;
 
-- g). het blijven volgen van alle vraagstukken aangaande het gebruik, voor doeleinden van het wederzijds verdedigingsprogramma, van alle uitvindingen, die vallen of hierna zullen vallen binnen de bepalingen van Artikel V;
+- g) het blijven volgen van alle vraagstukken aangaande het gebruik, voor doeleinden van het wederzijds verdedigingsprogramma, van alle uitvindingen, die vallen of hierna zullen vallen binnen de bepalingen van Artikel V;
 
-- h). het doen van aanbevelingen aan de Regeringen hetzij in bijzondere gevallen, hetzij in het algemeen, aangaande de middelen, waarmede verschillen verholpen zouden kunnen worden tussen de wetten van de twee landen, die de vergoeding regelen voor technische inlichtingen, welke ter beschikking zijn gesteld voor defensiedoeleinden, of die daarop op andere wijze betrekking hebben.
+- h) het doen van aanbevelingen aan de Regeringen hetzij in bijzondere gevallen, hetzij in het algemeen, aangaande de middelen, waarmede verschillen verholpen zouden kunnen worden tussen de wetten van de twee landen, die de vergoeding regelen voor technische inlichtingen, welke ter beschikking zijn gesteld voor defensiedoeleinden, of die daarop op andere wijze betrekking hebben.
 
 ##### Artikel VII
 
 Desgevraagd zal elk der Regeringen, voorzover uitvoerbaar, de andere Regering alle nodige inlichtingen en passende bijstand verschaffen, vereist teneinde:
 
-- a). de eigenaar van technische inlichtingen, ter beschikking gesteld voor defensiedoeleinden in de gelegenheid te stellen alle rechten die hij op de technische inlichtingen mocht hebben, te beschermen en te bewaren, en
+- a) de eigenaar van technische inlichtingen, ter beschikking gesteld voor defensiedoeleinden in de gelegenheid te stellen alle rechten die hij op de technische inlichtingen mocht hebben, te beschermen en te bewaren, en
 
-- b). betalingen en beloningen vast te stellen, die voortvloeien uit het gebruik van octrooirechten en technische inlichtingen, ter beschikking gesteld voor defensiedoeleinden.
+- b) betalingen en beloningen vast te stellen, die voortvloeien uit het gebruik van octrooirechten en technische inlichtingen, ter beschikking gesteld voor defensiedoeleinden.
 
 ##### Artikel VIII
 

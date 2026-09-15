@@ -1,50 +1,19 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Federale Republiek Brazilië inzake samenwerking ter zake van defensiegerelateerde aangelegenheden"
 identifier: "BWBV0005623"
-country: "nl"
-rank: "verdrag"
-publication_date: "2018-02-01"
-last_updated: "2018-02-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005623"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004781113"
-version_id: "10005072352"
-internal_id: "C10009509361"
-label_id: "10004764844"
-dtd_version: "2.0"
-original_entry_into_force: "2018-02-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005623/2018-02-01/0"
-intitule_bron: "Trb.2012-8"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2012-01-06"
-intitule_in_force: "2019-01-24"
-intitule_status: "goed"
-original_publication: "Trb.2012-8"
-original_published_date: "2012-01-06"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2012-8"
-entry_into_force_date: "2018-02-01"
-jci_1_3: "jci1.3:c:BWBV0005623&z=2018-02-01&g=2018-02-01"
-jci_1_0: "1.0:c:BWBV0005623&g=2018-02-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "2018-02-01"
+publicatiedatum: 2018-02-01
+laatste_update: 2018-02-01
+status: geldig
+toestand: 2018-02-01
+bron: "https://wetten.overheid.nl/BWBV0005623"
+opgehaald: 2026-09-15
 ---
+
 # Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Federale Republiek Brazilië inzake samenwerking ter zake van defensiegerelateerde aangelegenheden
 
-De Regering van het Koninkrijk der Nederlanden
-
-en
-
-De Regering van de Federale Republiek Brazilië,
-
-hun staten hierna gezamenlijk te noemen „de partijen” en afzonderlijk de „partij”,
-
-Geleid door hun gezamenlijke opvatting dat onderlinge samenwerking op defensiegebied de relatie tussen de partijen ten goede zal komen; en
-
-Geleid door de wens de verschillende vormen van samenwerking tussen de partijen te versterken op basis van wederzijds belang,
-
-Zijn het volgende overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en De Regering van de Federale Republiek Brazilië, hun staten hierna gezamenlijk te noemen „de partijen” en afzonderlijk de „partij”, Geleid door hun gezamenlijke opvatting dat onderlinge samenwerking op defensiegebied de relatie tussen de partijen ten goede zal komen; en Geleid door de wens de verschillende vormen van samenwerking tussen de partijen te versterken op basis van wederzijds belang, Zijn het volgende overeengekomen:*
 
 ##### Artikel 1. Reikwijdte
 
@@ -102,7 +71,7 @@ Bij de uitvoering van de samenwerkingsactiviteiten uit hoofde van dit Verdrag ve
 
 - d. gerubriceerde informatie wordt uitsluitend gebruikt voor het doel waarvoor zij is verstrekt;
 
-- e. de toegang tot de gerubriceerde informatie wordt beperkt tot de personen wier taken deze toegang vereisen (**need-to-know**principe), die op het desbetreffende beveiligingsniveau tot toegang bevoegd zijn en beschikken over de vereiste kennis van beveiligingsprocedures;
+- e. de toegang tot de gerubriceerde informatie wordt beperkt tot de personen wier taken deze toegang vereisen (*need-to-know*principe), die op het desbetreffende beveiligingsniveau tot toegang bevoegd zijn en beschikken over de vereiste kennis van beveiligingsprocedures;
 
 - f. een partij stelt de andere partij in kennis van eventuele latere opwaardering van de rubricering van gerubriceerde verzonden informatie;
 
@@ -158,10 +127,10 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun 
 
 GEDAAN te Brasilia, op 7 december 2011, in tweevoud in de Nederlandse, de Portugese en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie van dit Verdrag is de Engelse tekst doorslaggevend.
 
-**Voor het Koninkrijk der Nederlanden,**
+*Voor het Koninkrijk der Nederlanden,*
 
 J. S. J. HILLEN
 
-**Voor de Regering van de Federale Republiek Brazilië,**
+*Voor de Regering van de Federale Republiek Brazilië,*
 
 C. AMORIM

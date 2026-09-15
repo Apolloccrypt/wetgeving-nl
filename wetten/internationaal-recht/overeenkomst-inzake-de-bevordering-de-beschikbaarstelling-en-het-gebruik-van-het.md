@@ -1,120 +1,19 @@
 ---
 title: "Overeenkomst inzake de bevordering, de beschikbaarstelling en het gebruik van het GALILEO- en het GPS-satellietnavigatiesysteem en verwante toepassingen"
 identifier: "BWBV0005636"
-country: "nl"
-rank: "verdrag"
-publication_date: "2011-12-12"
-last_updated: "2011-12-12"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005636"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004797113"
-version_id: "10005096092"
-internal_id: "C10007735761"
-label_id: "10004781024"
-dtd_version: "2.0"
-original_entry_into_force: "2011-12-12"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005636/2011-12-12/0"
-intitule_bron: "Trb.2004-257"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "2004-10-15"
-intitule_in_force: "2012-02-14"
-intitule_status: "goed"
-original_publication: "Trb.2004-257"
-original_published_date: "2004-10-15"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-2004-257"
-entry_into_force_date: "2011-12-12"
-jci_1_3: "jci1.3:c:BWBV0005636&z=2011-12-12&g=2011-12-12"
-jci_1_0: "1.0:c:BWBV0005636&g=2011-12-12"
-citeertitel_status: "redactioneel"
-entry_into_force: "2011-12-12"
+publicatiedatum: 2011-12-12
+laatste_update: 2011-12-12
+status: geldig
+toestand: 2011-12-12
+bron: "https://wetten.overheid.nl/BWBV0005636"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake de bevordering, de beschikbaarstelling en het gebruik van het GALILEO- en het GPS-satellietnavigatiesysteem en verwante toepassingen
 
-de Verenigde Staten van Amerika,
-
-enerzijds,
-
-en
-
-het Koninkrijk België,
-
-de Tsjechische Republiek,
-
-het Koninkrijk Denemarken,
-
-de Bondsrepubliek Duitsland,
-
-de Republiek Estland,
-
-de Helleense Republiek,
-
-het Koninkrijk Spanje,
-
-de Franse Republiek,
-
-Ierland,
-
-de Italiaanse Republiek,
-
-de Republiek Cyprus,
-
-de Republiek Letland,
-
-de Republiek Litouwen,
-
-het Groothertogdom Luxemburg,
-
-de Republiek Hongarije,
-
-de Republiek Malta,
-
-het Koninkrijk der Nederlanden,
-
-de Republiek Oostenrijk,
-
-de Republiek Polen,
-
-de Portugese Republiek,
-
-de Republiek Slovenië,
-
-de Slowaakse Republiek,
-
-de Republiek Finland,
-
-het Koninkrijk Zweden,
-
-het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland,
-
-Verdragsluitende partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), hierna „de lidstaten” genoemd, en de Europese Gemeenschap,
-
-anderzijds,
-
-Erkennende dat de Verenigde Staten onder de naam Global Positioning System een satellietnavigatiesysteem exploiteren, een systeem voor tweeërlei gebruik dat nauwkeurige signalen voor tijdsbepaling, navigatie en plaatsbepaling voor civiele en militaire toepassingen verschaft,
-
-Erkennende dat de Verenigde Staten momenteel de standaardplaatsbepalingsdienst (SPS) van GPS voor vreedzame civiele, commerciële en wetenschappelijke doeleinden op permanente, wereldwijde basis beschikbaar stellen zonder de gebruikers daarvoor directe kosten in rekening te brengen, en opmerkende dat de Verenigde Staten voornemens zijn deze en soortgelijke toekomstige civiele diensten onder dezelfde voorwaarden beschikbaar te blijven stellen,
-
-Erkennende dat de Europese Gemeenschap een civiel wereldwijd systeem voor navigatie, tijds- en plaatsbepaling met behulp van satellieten, Galileo, ontwikkelt en voornemens is te exploiteren, dat frequentiecompatibel is met GPS en op gebruikersniveau interoperabel is met de civiele diensten van GPS,
-
-Erkennende dat GPS-signalen wereldwijd worden gebruikt voor satellietnavigatiediensten, met inbegrip van augmentaties,
-
-Erkennende dat indien de civiele diensten van GPS en Galileo frequentiecompatibel zijn, het aantal zichtbare satellieten vanaf een willekeurige plaats op aarde wordt verhoogd en de toegankelijkheid van navigatiesignalen voor civiele gebruikers wereldwijd wordt verbeterd,
-
-Erkennende dat de Internationale Burgerluchtvaartorganisatie (ICAO) internationale normen, aanbevolen praktijken en andere richtsnoeren voor het gebruik van wereldwijde satellietnavigatiesystemen in de burgerluchtvaart vaststelt, dat de Internationale Maritieme Organisatie (IMO) internationale normen en andere richtsnoeren voor het gebruik van wereldwijde satellietnavigatiesystemen in de scheepvaart opstelt, en dat de Internationale Telecommunicatie-unie (ITU) multilaterale reglementen en procedures vaststelt voor de exploitatie van wereldwijde radionavigatiesystemen, alsmede voor andere radiocommunicatiesystemen,
-
-Wensende een breder pakket diensten en mogelijkheden ter beschikking van de gebruikers van satellietnavigatiesystemen en -apparatuur te stellen, waardoor het aantal toepassingen voor de gebruikers groeit, met behoud van de frequentiecompatibiliteit met al in gebruik zijnde systemen en apparatuur,
-
-Wensende een impuls te geven aan open markten voor en aan de groei van de handel in wereldwijde navigatie- en tijdsbepalingsapparatuur, -diensten met toegevoegde waarde en augmentaties,
-
-Overtuigd van de noodzaak van preventie van en bescherming tegen misbruik van wereldwijde satellietnavigatie- en -tijdsbepalingsdiensten zonder de beschikbare signalen onnodig te verstoren of aan te tasten,
-
-Overtuigd van de noodzaak van samenwerking zodat de voordelen van deze belangrijke technologie voor alle relevante toepassingen volledig worden benut,
-
-Erkennende dat overleg wenselijk is teneinde eventuele geschillen over deze overeenkomst te vermijden of te beslechten, met inbegrip van geschillen over de wijze waarop de partijen hun verantwoordelijkheden nakomen ten aanzien van de onder hun bevoegdheden vallende verplichtingen,
-
-Zijn overeengekomen hetgeen volgt:
+*de Verenigde Staten van Amerika, enerzijds, en het Koninkrijk België, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, hierna „de lidstaten” genoemd, en de Europese Gemeenschap, anderzijds, Erkennende dat de Verenigde Staten onder de naam Global Positioning System een satellietnavigatiesysteem exploiteren, een systeem voor tweeërlei gebruik dat nauwkeurige signalen voor tijdsbepaling, navigatie en plaatsbepaling voor civiele en militaire toepassingen verschaft, Erkennende dat de Verenigde Staten momenteel de standaardplaatsbepalingsdienst (SPS) van GPS voor vreedzame civiele, commerciële en wetenschappelijke doeleinden op permanente, wereldwijde basis beschikbaar stellen zonder de gebruikers daarvoor directe kosten in rekening te brengen, en opmerkende dat de Verenigde Staten voornemens zijn deze en soortgelijke toekomstige civiele diensten onder dezelfde voorwaarden beschikbaar te blijven stellen, Erkennende dat de Europese Gemeenschap een civiel wereldwijd systeem voor navigatie, tijds- en plaatsbepaling met behulp van satellieten, Galileo, ontwikkelt en voornemens is te exploiteren, dat frequentiecompatibel is met GPS en op gebruikersniveau interoperabel is met de civiele diensten van GPS, Erkennende dat GPS-signalen wereldwijd worden gebruikt voor satellietnavigatiediensten, met inbegrip van augmentaties, Erkennende dat indien de civiele diensten van GPS en Galileo frequentiecompatibel zijn, het aantal zichtbare satellieten vanaf een willekeurige plaats op aarde wordt verhoogd en de toegankelijkheid van navigatiesignalen voor civiele gebruikers wereldwijd wordt verbeterd, Erkennende dat de Internationale Burgerluchtvaartorganisatie (ICAO) internationale normen, aanbevolen praktijken en andere richtsnoeren voor het gebruik van wereldwijde satellietnavigatiesystemen in de burgerluchtvaart vaststelt, dat de Internationale Maritieme Organisatie (IMO) internationale normen en andere richtsnoeren voor het gebruik van wereldwijde satellietnavigatiesystemen in de scheepvaart opstelt, en dat de Internationale Telecommunicatie-unie (ITU) multilaterale reglementen en procedures vaststelt voor de exploitatie van wereldwijde radionavigatiesystemen, alsmede voor andere radiocommunicatiesystemen, Wensende een breder pakket diensten en mogelijkheden ter beschikking van de gebruikers van satellietnavigatiesystemen en -apparatuur te stellen, waardoor het aantal toepassingen voor de gebruikers groeit, met behoud van de frequentiecompatibiliteit met al in gebruik zijnde systemen en apparatuur, Wensende een impuls te geven aan open markten voor en aan de groei van de handel in wereldwijde navigatie- en tijdsbepalingsapparatuur, -diensten met toegevoegde waarde en augmentaties, Overtuigd van de noodzaak van preventie van en bescherming tegen misbruik van wereldwijde satellietnavigatie- en -tijdsbepalingsdiensten zonder de beschikbare signalen onnodig te verstoren of aan te tasten, Overtuigd van de noodzaak van samenwerking zodat de voordelen van deze belangrijke technologie voor alle relevante toepassingen volledig worden benut, Erkennende dat overleg wenselijk is teneinde eventuele geschillen over deze overeenkomst te vermijden of te beslechten, met inbegrip van geschillen over de wijze waarop de partijen hun verantwoordelijkheden nakomen ten aanzien van de onder hun bevoegdheden vallende verplichtingen, Zijn overeengekomen hetgeen volgt:*
 
 ##### Artikel 1. Doelstellingen
 
@@ -166,7 +65,7 @@ Voor de toepassing van deze overeenkomst gelden de volgende definities:
 
 Tenzij anders bepaald heeft deze overeenkomst betrekking op alle door de partijen getroffen maatregelen met betrekking tot civiele satellietnavigatie- en -tijdsbepalingssignalen en aanbieders daarvan, civiele satellietnavigatie- en -tijdsbepalingsdiensten en aanbieders daarvan, augmentaties, diensten met toegevoegde waarde en aanbieders van diensten met toegevoegde waarde, en goederen voor wereldwijde navigatie en tijdsbepaling.
 
-De beschikbaarstelling van militaire satellietnavigatie en -tijdsbepalingsdiensten valt buiten het bestek van deze overeenkomst, behalve voor wat betreft het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=4&z=2011-12-12&g=2011-12-12) met betrekking tot frequentiecompatibiliteit, in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2011-12-12&g=2011-12-12) en in de bijlage bij deze overeenkomst.
+De beschikbaarstelling van militaire satellietnavigatie en -tijdsbepalingsdiensten valt buiten het bestek van deze overeenkomst, behalve voor wat betreft het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=4&z=2011-12-12&g=2011-12-12) met betrekking tot frequentiecompatibiliteit, in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=11&z=2011-12-12&g=2011-12-12) en in de [bijlage](https://wetten.overheid.nl/BWBV0005636) bij deze overeenkomst.
 
 De beveiligde gouvernementele diensten vallen buiten het bestek van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=5&z=2011-12-12&g=2011-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=6&z=2011-12-12&g=2011-12-12), [artikel 8, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=8&z=2011-12-12&g=2011-12-12), en [artikel 10, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=10&z=2011-12-12&g=2011-12-12).
 
@@ -236,7 +135,7 @@ Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendom
 
 2. De partijen zijn voornemens vijandig gebruik van satellietnavigatie- en -tijdsbepalingsdiensten te voorkomen, zij het met handhaving van de diensten buiten de gebieden waar vijandelijkheden plaatsvinden. Daartoe worden hun respectieve satellietnavigatie- en -tijdsbepalingssignalen in overeenstemming gebracht met de criteria voor de verenigbaarheid met de nationale veiligheid, als beschreven in de documenten met de titels „National Security Compatibility Compliance for GPS and Galileo Signals in the 1559–1610 MHz Band, Part 1, Part 2 and Part 3” (hierna „de documenten inzake criteria, aannames en methodologie” genoemd), waarnaar wordt verwezen in de bijlage, met behulp van de methodologie en de aannames die in de documenten inzake criteria, aannames en methodologie zijn opgenomen.
 
-3. De partijen komen overeen dat de in de bijlage bij deze overeenkomst gespecificeerde signaalstructuur aan de criteria voor de verenigbaarheid met de nationale veiligheid voldoen welke zijn beschreven in de documenten inzake criteria, aannames en methodologie.
+3. De partijen komen overeen dat de in de [bijlage](https://wetten.overheid.nl/BWBV0005636) bij deze overeenkomst gespecificeerde signaalstructuur aan de criteria voor de verenigbaarheid met de nationale veiligheid voldoen welke zijn beschreven in de documenten inzake criteria, aannames en methodologie.
 
 4. Om de kwaliteit en de veiligheid van de diensten op peil te houden en gestaag te verbeteren, dienen de systemen doeltreffend te kunnen worden aangepast aan onverwachte veranderingen in de technologie, de gebruikersbehoeften en de spectrumomgeving. De partijen zijn voornemens te streven naar de modernisering en ontwikkeling van hun respectieve systemen met behoud van de veiligheid en de marktvoordelen van compatibele en interoperabele gemeenschappelijke signalen voor civiele toepassingen.
 
@@ -244,7 +143,7 @@ Deze overeenkomst heeft in generlei opzicht invloed op de intellectuele-eigendom
 
 6. Tenzij een partij binnen drie maanden na ontvangst van de in lid 5 bedoelde kennisgeving laat weten twijfels te hebben ten aanzien van de verenigbaarheid met de nationale veiligheid, als bedoeld in de documenten inzake criteria, aannames en methodologie, of ten aanzien van de frequentiecompatibiliteit, verzet deze zich niet tegen de vaststelling en implementatie van de in de kennisgeving gespecificeerde alternatieve signaalstructuur. Indien een partij binnen die termijn laat weten twijfels te hebben ten aanzien van de verenigbaarheid met de nationale veiligheid of de frequentiecompatibiliteit, voeren de partijen onmiddellijk overleg teneinde na te gaan of de alternatieve signaalstructuren in overeenstemming zijn met de criteria voor de verenigbaarheid met de nationale veiligheid die zijn beschreven in de documenten inzake criteria, aannames en methodologie en met de criteria voor de frequentiecompatibiliteit, waarbij zij zich voor de beoordeling hiervan baseren op de desbetreffende, in de bijlage bedoelde documenten inzake aannames en methodologie.
 
-7. De partijen komen overeen gebruik te maken van de gemeenschappelijke basismodulatie voor de open dienst van Galileo en het signaal voor civiel gebruik van het toekomstige GPS III (standaardplaatsbepalingsdienst) als beschreven in de bijlage. De partijen werken onafgebroken samen om die modulatie voor hun respectieve systemen te optimaliseren. Indien de ene partij in het kader van de in de leden 5 en 6 beschreven procedure haar modulatie voor de open dienst van Galileo of het signaal voor civiel gebruik van het toekomstige GPS III wijzigt of uitbreidt, is de andere partij niet gehouden haar eigen modulatie eveneens te wijzigen of uit te breiden.
+7. De partijen komen overeen gebruik te maken van de gemeenschappelijke basismodulatie voor de open dienst van Galileo en het signaal voor civiel gebruik van het toekomstige GPS III (standaardplaatsbepalingsdienst) als beschreven in de [bijlage](https://wetten.overheid.nl/BWBV0005636). De partijen werken onafgebroken samen om die modulatie voor hun respectieve systemen te optimaliseren. Indien de ene partij in het kader van de in de leden 5 en 6 beschreven procedure haar modulatie voor de open dienst van Galileo of het signaal voor civiel gebruik van het toekomstige GPS III wijzigt of uitbreidt, is de andere partij niet gehouden haar eigen modulatie eveneens te wijzigen of uit te breiden.
 
 8. De partijen komen overeen in het kader van de uit hoofde van [artikel 13, lid 2, onder d)](https://wetten.overheid.nl/jci1.3:c:BWBV0005636&artikel=13&z=2011-12-12&g=2011-12-12), opgerichte werkgroep voor beveiligingsvraagstukken studie te maken van de middelen voor de bescherming van de beveiligde gouvernementele dienst in het licht van de verenigbaarheid met de nationale veiligheid.
 
@@ -272,7 +171,7 @@ Zowel Galileo- als de toekomstige generaties van GPS-satellieten voorzien in een
 
 5. De partijen komen overeen om, met inachtneming van de toepasselijke wettelijke en bestuursrechtelijke maatregelen en het officiële regeringsbeleid, eventuele verzoeken om toestemming voor de uitvoer van goederen, informatie of technologie en andere gegevens die bestemd zijn voor de ontwikkeling en implementatie van Galileo of GPS zo spoedig mogelijk af te handelen.
 
-6. Geclassificeerde informatie met betrekking tot de uitvoering van deze overeenkomst mag binnen de werkgroepen of anderszins enkel worden uitgewisseld overeenkomstig de voorwaarden van punt 2 van de bijlage bij deze overeenkomst.
+6. Geclassificeerde informatie met betrekking tot de uitvoering van deze overeenkomst mag binnen de werkgroepen of anderszins enkel worden uitgewisseld overeenkomstig de voorwaarden van punt 2 van de [bijlage](https://wetten.overheid.nl/BWBV0005636) bij deze overeenkomst.
 
 7. De partijen komen zo vaak als nodig, doch in principe eenmaal per jaar, bijeen om de behoefte aan werkgroepen te bepalen, de taakomschrijving van de werkgroepen vast te stellen of aan te passen en de door de werkgroepen gemaakte voortgang te evalueren.
 

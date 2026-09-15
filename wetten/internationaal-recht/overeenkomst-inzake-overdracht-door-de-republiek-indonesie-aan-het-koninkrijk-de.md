@@ -1,44 +1,19 @@
 ---
 title: "Overeenkomst inzake overdracht door de Republiek Indonesië aan het Koninkrijk der Nederlanden van vorderingen op Nederlanders"
 identifier: "BWBV0005066"
-country: "nl"
-rank: "verdrag"
-publication_date: "1956-03-19"
-last_updated: "1956-03-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005066"
+categorie: "Staatsinrichting en bestuur"
 soort: "verdrag"
-stam_id: "10004456253"
-version_id: "10004667292"
-internal_id: "C10006991081"
-label_id: "10004440934"
-dtd_version: "2.0"
-original_entry_into_force: "1956-03-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005066/1956-03-19/0"
-intitule_bron: "Trb.1954-126"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1954-10-02"
-intitule_in_force: "1956-03-27"
-intitule_status: "goed"
-original_publication: "Trb.1954-126"
-original_published_date: "1954-10-02"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1954-126"
-entry_into_force_date: "1956-03-19"
-jci_1_3: "jci1.3:c:BWBV0005066&z=1956-03-19&g=1956-03-19"
-jci_1_0: "1.0:c:BWBV0005066&g=1956-03-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1956-03-19"
+publicatiedatum: 1956-03-19
+laatste_update: 1956-03-19
+status: geldig
+toestand: 1956-03-19
+bron: "https://wetten.overheid.nl/BWBV0005066"
+opgehaald: 2026-09-15
 ---
+
 # Overeenkomst inzake overdracht door de Republiek Indonesië aan het Koninkrijk der Nederlanden van vorderingen op Nederlanders
 
-De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië,
-
-Overwegende dat het wenselijk is te komen tot een regeling inzake overdracht door Indonesië van vorderingen ontstaan vóór 1 Januari 1954, welke Indonesië heeft op natuurlijke personen, die op genoemde datum de Nederlandse nationaliteit bezaten,
-
-Willende voldoen aan de op 12 Januari 1954 gesloten overeenkomst tussen de Ministers van Financiën van Nederland en Indonesië met betrekking tot de overdracht van vorderingen als vorenbedoeld,
-
-Zijn als volgt overeengekomen:
+*De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië, Overwegende dat het wenselijk is te komen tot een regeling inzake overdracht door Indonesië van vorderingen ontstaan vóór 1 Januari 1954, welke Indonesië heeft op natuurlijke personen, die op genoemde datum de Nederlandse nationaliteit bezaten, Willende voldoen aan de op 12 Januari 1954 gesloten overeenkomst tussen de Ministers van Financiën van Nederland en Indonesië met betrekking tot de overdracht van vorderingen als vorenbedoeld, Zijn als volgt overeengekomen:*
 
 ##### Artikel 1
 
@@ -70,12 +45,12 @@ Ten blijke waarvan de hiertoe behoorlijk gevolmachtigde vertegenwoordigers deze 
 
 Gedaan in tweevoud te 's-Gravenhage, de 11de Augustus 1954, in de Nederlandse en de Indonesische taal, zijnde beide teksten gelijkelijk authentiek.
 
-**Voor de Regering van het Koninkrijk der Nederlanden,**
+*Voor de Regering van het Koninkrijk der Nederlanden,*
 
 (w.g.) J. W. BEYEN.
 
 (w.g.) J. LUNS.
 
-**Voor de Regering van de Republiek Indonesië,**
+*Voor de Regering van de Republiek Indonesië,*
 
 (w.g.) SUSANTO TIRTOPRODJO.

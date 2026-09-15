@@ -1,208 +1,183 @@
 ---
 title: "Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer"
 identifier: "BWBV0005179"
-country: "nl"
-rank: "verdrag"
-publication_date: "1963-01-20"
-last_updated: "1963-01-20"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005179"
+categorie: "Belastingrecht"
 soort: "verdrag"
-stam_id: "10004497133"
-version_id: "10004712462"
-internal_id: "C10007004451"
-label_id: "10004482064"
-dtd_version: "2.0"
-original_entry_into_force: "1963-01-20"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005179/1963-01-20/0"
-intitule_bron: "Trb.1961-140"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1961-12-11"
-intitule_in_force: "1962-12-28"
-intitule_status: "goed"
-original_publication: "Trb.1961-140"
-original_published_date: "1961-12-11"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1961-140"
-entry_into_force_date: "1963-01-20"
-jci_1_3: "jci1.3:c:BWBV0005179&z=1963-01-20&g=1963-01-20"
-jci_1_0: "1.0:c:BWBV0005179&g=1963-01-20"
-citeertitel_status: "redactioneel"
-entry_into_force: "1963-01-20"
+publicatiedatum: 1963-01-20
+laatste_update: 1963-01-20
+status: geldig
+toestand: 1963-01-20
+bron: "https://wetten.overheid.nl/BWBV0005179"
+opgehaald: 2026-09-15
 ---
+
 # Europese Overeenkomst betreffende de douanebehandeling van laadborden gebruikt bij internationaal vervoer
 
-De Overeenkomstsluitende Partijen,
+*The Contracting Parties, Noting the extension of the use of pallets in international transport, resulting in particular from the pooling of pallets, Desiring, as a means of facilitating international transport and reducing its cost, to encourage this extension, Have agreed as follows:*
 
-Gelet op de uitbreiding van het gebruik van laadborden in het internationale vervoer, voornamelijk als gevolg van het gemeenschappelijk gebruik van laadborden;
+### CHAPTER I. General provisions
 
-Bezield door de wens deze uitbreiding te bevorderen teneinde het internationale vervoer te vergemakkelijken en de kosten daarvan te verminderen;
+##### Article 1
 
-Zijn het volgende overeengekomen:
+1. For the purposes of the present Convention,
 
-### HOOFDSTUK I. Algemene bepalingen
+- (a) the term “import duties and import taxes” shall mean not only Customs duties but also all duties and taxes whatsoever chargeable by reason of importation;
 
-##### Artikel 1
+- (b) the term “pallet” shall mean a device on the deck of which a quantity of goods can be assembled to form a unit load for the purpose of transporting it, or of handling or stacking it with the assistance of mechanical appliances. This device is made up of two decks separated by bearers, or of a single deck supported by feet; its overall height is reduced to the minimum compatible with handling by fork lift trucks and pallet trucks; it may or may not have a superstructure;
 
-1. Voor de toepassing van deze Overeenkomst wordt verstaan:
+- (c) the term “persons” shall mean both natural and legal persons.
 
-- a. onder „rechten en heffingen terzake van de invoer”: niet alleen invoerrechten, doch tevens alle rechten en heffingen, onder welke naam ook, die terzake van de invoer worden geheven;
+2. The present Convention shall apply to pallets imported into the territory of a Contracting Party from the territory of another Contracting Party.
 
-- b. onder „laadbord”: een constructie op de vloer waarvan een bepaalde hoeveelheid goederen kan worden bijeen geplaatst teneinde als een eenheid te kunnen worden behandeld met het oog op het vervoer, het laden en lossen of het opstapelen met behulp van mechanische werktuigen. Deze constructie bestaat of wel uit twee door verbindingsstukken aan elkander bevestigde vloeren, ofwel uit een op poten rustende vloer; de totale hoogte is zo gering mogelijk, doch voldoende voor het vervoer en voor het laden en lossen met vorktrucks of met hefwagens; het laadbord kan al dan niet van een bovenbouw zijn voorzien;
+##### Article 2
 
-- c. onder „personen”: zowel natuurlijke als rechtspersonen.
+1. Each Contracting Party shall grant admission, without payment of import duties and import taxes, and free of import prohibitions or restrictions, to pallets on condition
 
-2. Deze Overeenkomst is van toepassing op laadborden die in het grondgebied van een Overeenkomstsluitende Partij worden ingevoerd vanuit het grondgebied van een andere Overeenkomstsluitende Partij.
+- (a) that they have been previously exported or that they will be subsequently re-exported, or
 
-##### Artikel 2
+- (b) that an equal number of pallets of the same type and substantially the same value have been previously exported or will be subsequently exported.
 
-1. Iedere Overeenkomstsluitende Partij laat laadborden met vrijstelling van rechten en heffingen terzake van de invoer toe, zonder toepassing van invoerverboden of -beperkingen, op voorwaarde:
+2. Subject to the provisions of article 3 of the present Convention, the procedure for the admission of pallets as provided for in paragraph 1 of this article shall be determined by the regulations of each of the Contracting Parties. These regulations, in particular, may include provisions for preventing the permanent importation, free of import duties and import taxes, of a number of pallets greater than the number exported or to be exported.
 
-- a. dat zij voordien werden uitgevoerd of later weder zullen worden uitgevoerd; of
+3. Each Contracting Party shall endeavour to make the formalities as simple as possible and in particular not to require a security in respect of import duties and import taxes.
 
-- b. dat een gelijk aantal laadborden van dezelfde soort en van ongeveer dezelfde waarde voordien werd uitgevoerd of later zal worden uitgevoerd.
+##### Article 3
 
-2. Onder voorbehoud van het bepaalde in artikel 3 van deze Overeenkomst worden de formaliteiten voor de toepassing van de in lid 1 van dit artikel voorziene regeling bepaald door de voorschriften van elk der Overeenkomstsluitende Partijen. Inzonderheid zullen deze voorschriften bepalingen kunnen bevatten ter voorkoming van definitieve invoer, vrij van rechten en heffingen terzake van de invoer van een groter aantal laadborden dan zijn uitgevoerd of zullen worden uitgevoerd.
+1. Each Contracting Party shall apply the provisions of article 2, paragraph 1, of the present Convention, without requiring in respect of importation or exportation either the production of a Customs document or security in respect of import duties and import taxes, to pallets pooled under an agreement by which the parties thereto:
 
-3. Iedere Overeenkomstsluitende Partij streeft er naar de formaliteiten zoveel mogelijk te vereenvoudigen en, inzonderheid, geen zekerheidstelling te eisen voor de rechten en heffingen terzake van de invoer.
+- (a) exchange among themselves, from country to country, pallets of one and the same type in the course of operations involving the international transport of goods,
 
-##### Artikel 3
+- (b) keep accounts, for each type of pallet, showing the number of pallets so exchanged from country to country, and
 
-1. Iedere Overeenkomstsluitende Partij zal de bepalingen van artikel 2, lid 1, van deze Overeenkomst toepassen zonder bij de invoer en de uitvoer een douanedocument te doen overleggen of een zekerheidstelling te eisen voor de rechten en heffingen terzake van de invoer, voor laadborden die gemeenschappelijk worden gebruikt op grond van een contract krachtens hetwelk de belanghebbenden:
+- (c) undertake to deliver to one another within a specified period the number of pallets of each type necessary to offset at regular intervals, on a bilateral or multilateral basis, the outstanding balances of the accounts so kept.
 
-- a. onderling, van land tot land, laadborden van dezelfde soort uitwisselen in het kader van verrichtingen die internationaal goederenvervoer omvatten;
+2. The provisions of paragraph 1 of this article shall be applicable only if:
 
-- b. voor elke soort laadbord rekeningen bijhouden van de aantallen aldus van land tot land uitgewisselde laadborden; en
+- (a) pallets bear a marking conforming to that laid down in the pooling agreement;
 
-- c. de verplichting op zich nemen, elkander binnen een bepaalde termijn het aantal laadborden van elke soort te leveren, dat nodig is om met regelmatige tussenpozen op bilaterale of multilaterale grondslag de saldi van de aldus bijgehouden rekeningen te vereffenen.
+- (b) the pooling agreement has been communicated to the Customs administrations of the Contracting Parties concerned and these administrations have approved it, being satisfied that the types of pallet are sufficiently well defined and that the due and proper implementation of the agreement is adequately ensured.
 
-2. De bepalingen van het eerste lid van dit artikel worden slechts toegepast wanneer:
+##### Article 4
 
-- a. op de laadborden een kenmerk voorkomt zoals is voorzien in het contract tot gemeenschappelijk gebruik, en
+Each of the Contracting Parties reserves the right to levy the internal duties and taxes and the import duties and import taxes, if any, chargeable in its country in respect of pallets purchased, or subject to a similar contract entered into by persons resident or established in its territory. Each of the Contracting Parties reserves its right, in addition, to refuse in respect of pallets exported under the provisions of this Convention the refund of duties or taxes paid or the granting, wholly or in part, of such other benefits as may be provided for in the event of exportation.
 
-- b. het contract tot gemeenschappelijk gebruik is medegedeeld aan de douane-administraties van de betrokken Overeenkomstsluitende Partijen en die administraties voornoemd contract aanvaardbaar hebben geacht op grond van het feit dat zij van oordeel zijn dat de soorten laadborden voldoende nauwkeurig omschreven zijn en dat de juiste uitvoering van het contract voldoende is gewaarborgd.
+##### Article 5
 
-##### Artikel 4
+The present Convention shall not prevent the granting in respect of importation and exportation of pallets of facilities greater than those provided therein.
 
-Iedere Overeenkomstsluitende Partij behoudt zich het recht voor, binnenlandse rechten en belastingen te heffen, evenals, in voorkomende gevallen, rechten en heffingen terzake van de invoer die in haar land verschuldigd zijn voor laadborden die het onderwerp uitmaken van een aankoop of van een soortgelijke transactie door personen wonende of gevestigd op haar grondgebied. Iedere Overeenkomstsluitende Partij behoudt zich eveneens het recht voor, met betrekking tot laadborden die met toepassing van deze Overeenkomst worden uitgevoerd teruggaaf van rechten en belastingen te weigeren, alsook het geheel of gedeeltelijk verlenen van andere voordelen welke bij de uitvoer zijn voorzien.
+### CHAPTER II. Final provisions
 
-##### Artikel 5
+##### Article 6
 
-Deze Overeenkomst verhindert voor de uitvoer en de uitvoer van laadborden niet de toekenning van verdergaande faciliteiten dan hierin voorzien.
+1. Countries members of the Economic Commission for Europe and countries admitted to the Commission in a consultative capacity under paragraph 8 of the Commission's terms of reference may become Contracting Parties of the present Convention -
 
-### HOOFDSTUK II. Slotbepalingen
+- (a) by signing it;
 
-##### Artikel 6
+- (b) by ratifying it after signing it subject to ratification; or
 
-1. De landen die lid zijn van de Economische Commissie voor Europa, alsmede de landen die overeenkomstig paragraaf 8 van het mandaat dezer Commissie met adviserende bevoegdheid tot de Commissie zijn toegelaten, kunnen Partij bij deze Overeenkomst worden:
+- (c) by acceding to it.
 
-- a. door ondertekening;
+2. Countries which may participate in certain activities of the Economic Commission for Europe in accordance with paragraph 11 of the Commission's terms of reference may become Contracting Parties to the present Convention by acceding to it after its entry into force.
 
-- b. door bekrachtiging na ondertekenen onder voorbehoud van bekrachtiging;
+3. The present Convention shall be open for signature until 15 March 1961 inclusive. Thereafter, it shall be open for accession.
 
-- c. door toetreding.
+4. Ratification or accession shall be effected by the deposit of an instrument with the Secretary-General of the United Nations.
 
-2. De landen die ingevolge paragraaf 11 van het mandaat van de Economische Commissie voor Europa in aanmerking komen om aan bepaalde werkzaamheden van deze Commissie deel te nemen, kunnen Partij bij deze Overeenkomst worden door tot de Overeenkomst toe te treden na haar inwerkingtreding.
+##### Article 7
 
-3. De Overeenkomst staat tot en met 15 maart 1961 open voor ondertekening. Na deze datum staat zij open voor toetreding.
+1. The present Convention shall come into force on the ninetieth day after five of the countries referred to in article 6, paragraph 1, thereof have signed it without reservation of ratification or have deposited their instruments of ratification or accession.
 
-4. De bekrachtiging of de toetreding geschiedt door nederlegging van een akte bij de Secretaris-Generaal van de Verenigde Naties.
+2. With respect to any country which ratifies or accedes to this Convention after five countries have signed it without reservation of ratification or have deposited their instruments of ratification or accession, the present Convention shall enter into force on the ninetieth day after the said country has deposited its instrument of ratification or accession.
 
-##### Artikel 7
+##### Article 8
 
-1. Deze Overeenkomst treedt in werking op de negentigste dag nadat vijf van de in het eerste lid van artikel 6 bedoelde landen haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd.
+1. Any Contracting Party may denounce the present Convention by giving notice of denunciation to the Secretary-General of the United Nations.
 
-2. Met betrekking tot elk land dat deze Overeenkomst heeft bekrachtigd of tot de Overeenkomst is toegetreden nadat vijf landen haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging of van toetreding hebben nedergelegd, treedt de Overeenkomst in werking op de negentigste dag na de datum van nederlegging van zijn akte van bekrachtiging of van toetreding.
+2. The denunciation shall take effect fifteen months after the date on which the Secretary-General received the notification of denunciation.
 
-##### Artikel 8
+##### Article 9
 
-1. Deze Overeenkomst kan door elke Overeenkomstsluitende Partij worden opgezegd door een daartoe strekkende kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
+The present Convention shall cease to have effect if, for any period of twelve consecutive months after its entry into force, the number of Contracting Parties is less than five.
 
-2. De opzegging wordt van kracht vijftien maanden na de datum van ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal.
+##### Article 10
 
-##### Artikel 9
+1. Any country may, at the time of signing the present Convention without reservation of ratification or of depositing its instrument of ratification or accession or at any time thereafter, declare by notification addressed to the Secretary-General of the United Nations that the present Convention shall be applicable to all or any of the territories for the international relations of which it is responsible. The present Convention shall be applicable to the territory or territories named in the notification as from the ninetieth day after receipt of the notification by the Secretary-General or, if on that day the present Convention has not yet entered into force, as from the date of its entry into force.
 
-Deze Overeenkomst houdt op van kracht te zijn, indien na haar inwerkingtreding het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf opeenvolgende maanden minder dan vijf bedraagt.
+2. Any country, which has made a declaration under the preceding paragraph making the present Convention applicable to a territory for whose international relations it is responsible, may denounce the present Convention separately in respect of that territory, in accordance with the provisions of article 8 thereof.
 
-##### Artikel 10
+##### Article 11
 
-1. Elk land kan, ten tijde van de ondertekening van deze Overeenkomst zonder voorbehoud van bekrachtiging of bij de nederlegging van zijn akte van bekrachtiging of van toetreding of te eniger tijd daarna, door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties verklaren, dat deze Overeenkomst van toepassing zal zijn ten aanzien van alle of een deel van de gebieden, wier internationale betrekkingen het behartigt. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de negentigste dag na ontvangst van deze kennisgeving door de Secretaris-Generaal of wel, indien de Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
+1. Any dispute between two or more Contracting Parties concerning the interpretation or application of the present Convention shall, so far as possible, be settled by negotiation between them.
 
-2. Elk land dat overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt ten aanzien van een gebied welks internationale betrekkingen het behartigt, kan de Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen, overeenkomstig de bepalingen van artikel 8.
+2. Any dispute which is not settled by negotiation shall be submitted to arbitration if any one of the Contracting Parties concerned in the dispute so requests and shall be referred accordingly to one or more arbitrators selected by agreement between the Parties in dispute. If within three months from the date of the request for arbitration the Parties in dispute are unable to agree on the selection of an arbitrator or arbitrators, any of those Parties may request the Secretary-General of the United Nations to nominate a single arbitrator to whom the dispute shall be referred for decision.
 
-##### Artikel 11
+3. The decision of the arbitrator or arbitrators appointed under the preceding paragraph shall be binding on the Contracting Parties in dispute.
 
-1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk beslecht door middel van onderhandelingen tussen de Partijen waartussen het geschil is gerezen.
+##### Article 12
 
-2. Elk geschil dat niet is beslecht door middel van onderhandelingen, wordt aan een scheidsrechterlijke uitspraak onderworpen indien een der Overeenkomstsluitende Partijen waartussen het geschil is gerezen, zulks verzoekt, en zal dienovereenkomstig worden verwezen naar een of meer scheidsrechters die door de Partijen waartussen het geschil is gerezen in gemeen overleg zijn gekozen. Indien binnen drie maanden na de datum van het verzoek om een scheidsrechterlijke uitspraak de Partijen waartussen het geschil is gerezen niet tot overeenstemming zijn gekomen omtrent de keuze van een of meer scheidsrechters, kan een van die Partijen de Secretaris-Generaal van de Verenigde Naties verzoeken één scheidsrechter aan te wijzen, naar wie het geschil ter beslechting zal worden verwezen.
+1. Any country may, at the time of signing, ratifying or acceding to the present Convention, declare that it does not consider itself bound by paragraphs 2 and 3 of article 11 of the present Convention. The other Contracting Parties shall not be bound by these paragraphs in respect of any Contracting Party which has entered such a reservation.
 
-3. De uitspraak van de overeenkomstig het tweede lid van dit artikel aangewezen scheidsrechter of scheidsrechters is bindend voor de betrokken Overeenkomstsluitende Partijen.
+2. Any Contracting Party which has entered a reservation as provided for in paragraph 1 of this article may at any time withdraw such reservation by notifying the Secretary-General.
 
-##### Artikel 12
+3. Apart from the reservation provided for in paragraph 1 of this article, no reservation to the present Convention shall be permitted.
 
-1. Elk land kan op het ogenblik waarop het deze Overeenkomst ondertekent of bekrachtigt of tot deze Overeenkomst toetreedt, verklaren dat het zich niet gebonden acht aan de leden 2 en 3 van artikel 11 van de Overeenkomst. De andere Overeenkomstsluitende Partijen zijn niet gebonden aan deze leden tegenover elke Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
+##### Article 13
 
-2. Elke Overeenkomstsluitende Partij die overeenkomstig het eerste lid van dit artikel een voorbehoud heeft gemaakt, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
+1. After the present Convention has been in force for three years, any Contracting Party may, by notification to the Secretary-General of the United Nations, request that a conference be convened for the purpose of reviewing the present Convention. The Secretary-General shall notify all Contracting Parties of the request and a review conference shall be convened by the Secretary-General if, within a period of four months from the date of the notification by the Secretary-General, not less than one-third of the Contracting Parties signify their assent to the request.
 
-3. Behoudens de voorbehouden bedoeld in lid 1 van dit artikel, is geen enkel voorbehoud op deze Overeenkomst toegelaten.
+2. If a conference is convened in accordance with the preceding paragraph, the Secretary-General shall notify all the Contracting Parties and invite them to submit, within a period of three months, such proposals as they wish the conference to consider. The Secretary-General shall circulate to all Contracting Parties the provisional agenda for the conference, together with the text of such proposals, at least three months before the date on which the conference is to meet.
 
-##### Artikel 13
+3. The Secretary-General shall invite to any conference convened in accordance with this article all the countries referred to in article 6, paragraph 1, of the present Convention and countries which have become Contracting Parties under the said article 6, paragraph 2.
 
-1. Nadat deze Overeenkomst gedurende drie jaren van kracht is geweest, kan elke Overeenkomstsluitende Partij door een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties de bijeenroeping van een conferentie verzoeken, teneinde deze Overeenkomst te herzien. De Secretaris-Generaal doet van dit verzoek mededeling aan alle Overeenkomstsluitende Partijen en zal een herzieningsconferentie bijeenroepen, indien binnen een termijn van vier maanden, te rekenen van de door hem verzonden mededeling af, ten minste een derde van de Overeenkomstsluitende Partijen hem hun instemming met dit verzoek hebben kenbaar gemaakt.
+##### Article 14
 
-2. Indien overeenkomstig het voorgaande lid een conferentie wordt bijeengeroepen, stelt de Secretaris-Generaal hiervan alle Overeenkomstsluitende Partijen op de hoogte en nodigt hen uit binnen drie maanden voorstellen in te dienen, waarvan zij behandeling door de conferentie wensen. De Secretaris-Generaal deelt uiterlijk drie maanden voor de aanvang van de conferentie aan alle Overeenkomstsluitende Partijen de voorlopige agenda van de conferentie mede, alsmede de tekst der voorstellen.
+1. Any Contracting Party may propose one or more amendments to the present Convention. The text of any proposed amendment shall be communicated to the Secretary-General of the United Nations, who shall communicate it to all Contracting Parties and inform all the other countries referred to in article 6, paragraph 1, of this Convention.
 
-3. De Secretaris-Generaal nodigt alle in het eerste lid van artikel 6 bedoelde landen, alsmede de landen die krachtens artikel 6, lid 2, Overeenkomstsluitende Partij zijn geworden, uit tot bijwoning van elke conferentie die overeenkomstig dit artikel wordt bijeengeroepen.
+2. Within a period of six months from the date on which the proposed amendment is communicated by the Secretary-General, any Contracting Party may inform the Secretary-General -
 
-##### Artikel 14
+- (a) that it has an objection to the amendment proposed, or
 
-1. Elke Overeenkomstsluitende Partij kan een of meer wijzigingen van deze Overeenkomst voorstellen. De tekst van elke voorgestelde wijziging van deze Overeenkomst wordt ingediend bij de Secretaris-Generaal van de Verenigde Naties, die deze tekst ter kennis brengt van alle Overeenkomstsluitende Partijen, alsmede van de overige in het eerste lid van artikel 6 bedoelde landen.
+- (b) that, although it intends to accept the proposal, the conditions necessary for such acceptance are not yet fulfilled in its country.
 
-2. Binnen zes maanden na de datum waarop de Secretaris-Generaal de voorgestelde wijziging heeft medegedeeld, kan elke Overeenkomstsluitende Partij aan de Secretaris-Generaal te kennen geven:
+3. If a Contracting Party sends the Secretary-General a communication such as is provided for in paragraph 2 (*b*), it may, so long as it has not notified the Secretary-General of its acceptance of the proposed amendment, submit an objection to the proposed amendment within a period of 9 months following the expiry of the six-month period from its initial communication.
 
-- a. hetzij dat zij bezwaar heeft tegen de voorgestelde wijziging;
+4. If an objection to the proposed amendment is stated in accordance with the terms of paragraphs 2 and 3 of this article, the amendment shall be deemed not to have been accepted and shall be of no effect.
 
-- b. hetzij dat, hoewel zij voornemens is het voorstel te aanvaarden, de voorwaarden voor de aanvaarding in haar land nog niet zijn vervuld.
+5. If no objection to the proposed amendment in accordance with paragraphs 2 and 3 of the present article has been stated, the amendment shall be deemed to have been accepted as from the date specified below:
 
-3. De Overeenkomstsluitende Partij die de hiervoor in lid 2 sub **b**) bedoelde mededeling heeft gedaan kan, zolang zij de Secretaris-Generaal nog niet van haar aanvaarding van de voorgestelde wijziging kennis heeft gegeven, bezwaar indienen tegen de voorgestelde wijziging, binnen negen maanden na het verstrijken van de termijn van zes maanden voorzien voor de mededeling.
+- (a) if no Contracting Party has sent a communication to the Secretary-General in accordance with paragraph 2 (*b*) of this article, on the expiry of the period of six months referred to in that paragraph;
 
-4. Indien overeenkomstig de leden 2 en 3 van dit artikel bezwaar tegen de voorgestelde wijziging is ingediend, wordt de wijziging geacht niet te zijn aanvaard en heeft zij geen gevolg.
+- (b) if any Contracting Party has sent a communication to the Secretary-General in accordance with paragraph 2 (*b*) of this article, on the earlier of the following two dates:
 
-5. Indien tegen de voorgestelde wijziging geen bezwaar is ingediend overeenkomstig de leden 2 en 3 van dit artikel, wordt de wijziging geacht te zijn aanvaard op het volgende tijdstip:
+   - - the date by which all the Contracting Parties which sent such communications have notified the Secretary-General of their acceptance of the proposal, subject to the proviso that, if all the acceptances were notified before the expiry of the period of six months referred to in paragraph 2, this date shall be taken to be the date of expiry of the said six-month period;
 
-- a. indien geen der Overeenkomstsluitende Partijen een mededeling heeft gedaan overeenkomstig lid 2 sub **b**) van dit artikel: na het verstrijken van de termijn van zes maanden bedoeld in lid 2;
+   - - the date of expiry of the nine-month period referred to in paragraph 3 of this article.
 
-- b. indien een Overeenkomstsluitende Partij een mededeling heeft gedaan aan de Secretaris-Generaal overeenkomstig lid 2 sub **b**) van dit artikel: op het vroegste van de volgende twee tijdstippen:
+6. Any amendment deemed to be accepted shall enter into force six months after the date on which it was deemed to be accepted.
 
-- -. het tijdstip waarop alle Overeenkomstsluitende Partijen die een zodanige mededeling hebben gedaan, de Secretaris-Generaal van hun aanvaarding van het voorstel kennis hebben gegeven, met dien verstande dat indien van alle aanvaardingen mededeling is gedaan voor het verstrijken van de termijn van zes maanden bedoeld in lid 2, dit tijdstip zal worden beschouwd als het tijdstip waarop bedoelde termijn van 6 maanden afloopt;
+7. The Secretary-General shall, as soon as possible, notify all Contracting Parties whether an objection to the proposed amendment has been stated in accordance with paragraph 2 (*a*) of this article and whether one or more Contracting Parties have sent him a communication in accordance with paragraph 2 (*b*) of this article. If one or more Contracting Parties have sent him such a communication, he shall subsequently inform all the Contracting Parties whether the Contracting Party or Parties which have sent such a communication raise an objection to the proposed amendment or accept it.
 
-- -. het tijdstip waarop de termijn van negen maanden bedoeld in lid 3 van dit artikel afloopt.
+##### Article 15
 
-6. Elke wijziging die geacht wordt te zijn aanvaard, wordt van kracht zes maanden na het tijdstip waarop zij geacht werd aanvaard te zijn.
+In addition to the notifications provided for in articles 13 and 14 of the present Convention, the Secretary-General of the United Nations shall notify the countries referred to in article 6, paragraph 1, of the present Convention and the countries which have become Contracting Parties under article 6, paragraph 2, of the present Convention of: -
 
-7. De Secretaris-Generaal deelt alle Overeenkomstsluitende Partijen zo spoedig mogelijk mede of er bezwaar tegen de voorgestelde wijziging is ingediend overeenkomstig lid 2 sub **a**) van dit artikel en of een of meer Overeenkomstsluitende Partijen een mededeling overeenkomstig **b**) van dat lid tot hem hebben gericht. In het geval dat een of meer Overeenkomstsluitende Partijen een zodanige mededeling hebben gedaan, doet hij vervolgens aan alle Overeenkomstsluitende Partijen weten of de Overeenkomstsluitende Partijen die een zodanige mededeling hebben gedaan een bezwaar tegen de ontworpen wijziging inbrengen dan wel de wijziging aanvaarden.
+- (a) signatures, ratifications and accessions under article 6;
 
-##### Artikel 15
+- (b) the dates of entry into force of the present Convention, in accordance with article 7;
 
-Behalve van de in de artikelen 13 en 14 van deze Overeenkomst bedoelde kennisgevingen doet de Secretaris-Generaal van de Verenigde Naties aan alle in het eerste lid van artikel 6 bedoelde landen, alsmede aan de landen welke krachtens artikel 6, lid 2, Overeenkomstsluitende Partij zijn geworden mededeling van:
+- (c) denunciations under article 8;
 
-- a. ondertekeningen, bekrachtigingen en toetredingen krachtens artikel 6;
+- (d) the termination of the present Convention in accordance with article 9;
 
-- b. de data waarop overeenkomstig artikel 7 deze Overeenkomst in werking treedt;
+- (e) notifications received in accordance with article 10;
 
-- c. opzeggingen krachtens artikel 8;
+- (f) declarations and notifications received in accordance with article 12, paragraphs 1 and 2;
 
-- d. het overeenkomstig artikel 9 buiten werking treden van deze Overeenkomst;
+- (g) the entry into force of any amendment in accordance with article 14.
 
-- e. de overeenkomstig artikel 10 ontvangen kennisgevingen;
+##### Article 16
 
-- f. de overeenkomstig artikel 12, leden 1 en 2, ontvangen verklaringen en kennisgevingen;
-
-- g. de inwerkingtreding van elke wijziging overeenkomstig artikel 14.
-
-##### Artikel 16
-
-Na 15 maart 1961 wordt het originele exemplaar van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die daarvan aan alle in artikel 6, leden 1 en 2, bedoelde landen voor eensluidend gewaarmerkte afschriften doet toekomen.
+After 15 March 1961 the original of the present Convention shall be deposited with the Secretary-General of the United Nations, who shall transmit certified true copies to each of the countries mentioned in article 6, paragraphs 1 and 2, of the present Convention.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed the present Convention.
 

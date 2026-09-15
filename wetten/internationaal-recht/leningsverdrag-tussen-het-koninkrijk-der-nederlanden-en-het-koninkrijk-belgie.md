@@ -1,111 +1,86 @@
 ---
 title: "Leningsverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België"
 identifier: "BWBV0005691"
-country: "nl"
-rank: "verdrag"
-publication_date: "1951-11-19"
-last_updated: "1951-11-19"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005691"
+categorie: "Internationaal recht"
 soort: "verdrag"
-stam_id: "10004814193"
-version_id: "10005118462"
-internal_id: "C10007780421"
-label_id: "10004798254"
-dtd_version: "2.0"
-original_entry_into_force: "1951-11-19"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005691/1951-11-19/0"
-intitule_bron: "Trb.1951-157"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1951-12-22"
-intitule_in_force: "1951-12-22"
-intitule_status: "goed"
-original_publication: "Trb.1951-157"
-original_published_date: "1951-12-22"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1951-157"
-entry_into_force_date: "1951-11-19"
-jci_1_3: "jci1.3:c:BWBV0005691&z=1951-11-19&g=1951-11-19"
-jci_1_0: "1.0:c:BWBV0005691&g=1951-11-19"
-citeertitel_status: "redactioneel"
-entry_into_force: "1951-11-19"
+publicatiedatum: 1951-11-19
+laatste_update: 1951-11-19
+status: geldig
+toestand: 1951-11-19
+bron: "https://wetten.overheid.nl/BWBV0005691"
+opgehaald: 2026-09-15
 ---
+
 # Leningsverdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België
 
-De Regering van het Koninkrijk der Nederlanden enerzijds en de Regering van het Koninkrijk België anderzijds,
+*Le Gouvernement du Royaume des Pays-Bas d'une part, et le Gouvernement du Royaume de Belgique, d'autre part, Vu la décision C(49)94 prise par le Conseil de l'Organisation européenne de Coopération économique en sa séance du 2 juillet 1949, concernant le système de paiements intra-européens pour l'exercice 1949-50 et plus particulièrement le paragraphe II de cette décision. Vu la décision C(49)120, prise par le Conseil de l'Organisation européenne de Coopération économique, adoptant l'Accord de Paiements et de Compensations entre les pays européens, pour 1949-50, ainsi que la décision C(49)138 du même Conseil, adoptant le Protocole d'application provisoire du dit Accord de Paiements et de Compensations. ONT CONVENU CE QUI SUIT:*
 
-Gezien het besluit C (49) 94 genomen door de Raad van de Organisatie voor Europese Economische Samenwerking in zijn vergadering van 2 Juli 1949, betreffende het stelsel van intra-Europese betalingen voor de dienst 1949-1950 en in het bijzonder paragraaf II van dit besluit.
+##### Article Premier
 
-Gezien het besluit C (49) 120 genomen door de Raad van de Organisatie voor Europese Economische Samenwerking, houdende goedkeuring van de Overeenkomst inzake intra-Europese Betalingen en Compensaties voor de dienst 1949-1950, alsmede het besluit C (49) 138 van dezelfde Raad, houdende goedkeuring van het Protocol tot voorlopige toepassing van de voornoemde Overeenkomst inzake Betalingen en Compensaties.
+Par les présentes, le Gouvernement du Royaume de Belgique ouvre au Gouvernement du Royaume des Pays-Bas un crédit en francs belges équivalent à trente-huit millions de dollars U.S.A. ($ 38.000.000) en vue de financer le déficit de la zone florin vis-à-vis de la zone monétaire belge, tel que ce déficit sera déterminé par application de l'Accord de Paiements et de Compensations entre les pays européens, conclu à Paris, le 7 septembre 1949.
 
-Zijn het volgende overeengekomen:
+##### Article 2
 
-##### Artikel 1
+Le crédit dont il est question à l'article premier ci-dessus ne sera utilisable par le Gouvernement du Royaume des Pays-Bas qu'après couverture d'un déficit envers la zone monétaire belge, de l'équivalent de cinquante-deux millions de dollars U.S.A., au moyen des droits de tirage qui sont accordés au Gouvernement du Royaume des Pays-Bas par le dit Accord de Paiements et de Compensations.
 
-De Regering van het Koninkrijk België opent hierbij ten gunste van de Regering van het Koninkrijk der Nederlanden een crediet in Belgische franken gelijkwaardig aan acht en dertig millioen U.S.A. dollars (U.S.A. $ 38 000 000) ter financiering van het tekort van het guldensgebied tegenover het Belgisch monetaire gebied, zoals dit tekort zal worden vastgesteld door toepassing van het Verdrag inzake intra-Europese Betalingen en Compensaties gesloten te Parijs op 7 September 1949.
+##### Article 3
 
-##### Artikel 2
+I. Le Gouvernement du Royaume des Pays-Bas devra user du crédit dont il est question à l'article premier ci-dessus en utilisant d'une manière concomitante, pour combler le déficit de la zone florin envers la zone monétaire belge, la part - soit la contre-valeur de quarante-neuf millions de dollars U.S.A. - qui a été attribuée au Gouvernement du Royaume des Pays-Bas dans les droits de tirage destinés à couvrir la partie de l'excédent de la zone monétaire belge envers les zones monétaires des pays participant à l'Accord de Paiements et de Compensations pour 1949-50, qui dépassera deux cents millions de dollars U.S.A.
 
-Het crediet bedoeld in artikel 1 zal eerst dan door de Regering van het Koninkrijk der Nederlanden mogen worden gebruikt, nadat een tekort ten opzichte van het Belgisch monetaire gebied, gelijk aan de tegenwaarde van U.S.A. $ 52 000 000 zal zijn gedekt door middel van trekkingsrechten die aan de Regering van het Koninkrijk der Nederlanden zijn verleend krachtens het voornoemde Verdrag inzake Betalingen en Compensaties.
+II. Cette utilisation concomitante se fera de la manière suivante:
 
-##### Artikel 3
+- a) En proportions égales jusqu' à épuisement d'une première tranche de droits de tirage correspondant à la contre-valeur de vingt-sept millions de dollars U.S.A., c'est-à-dire qu'en même temps que chaque dollar U.S.A. de droits de tirage, il sera utilisé en crédit un montant de francs belges égal à la contre-valeur d'un dollar U.S.A. calculée au taux de change adopté pour le calcul des droits de tirage et de l'aide conditionnelle correspondante, en application des dispositions de l'annexe B de l'Accord de Paiements et de Compensations entre les pays européens pour 1949-50.
 
-I. De Regering van het Koninkrijk der Nederlanden zal het crediet, bedoeld in artikel 1, moeten besteden door gelijktijdig gebruik te maken, ter dekking van het tekort van het guldensgebied ten opzichte van het Belgisch monetaire gebied, van het gedeelte van de trekkingsrechten - te weten de tegenwaarde van negen-en-veertig millioen U.S.A.-dollars - dat aan de Regering van het Koninkrijk der Nederlanden is toegewezen tot dekking van het overschot van het Belgisch monetaire gebied ten opzichte van de monetaire gebieden van de landen die deelnemen in het Verdrag inzake Betalingen en Compensaties voor 1949-1950 en dat tweehonderd millioen U.S.A.-dollars zal overschrijden.
+- b) Dans la proportion d'un à deux pour le solde, c'est-à-dire que pour deux dollars U.S.A. de droits de tirage, il sera utilisé en crédit un montant de francs belges égal à la contre-valeur d'un dollar U.S.A. calculée au taux de change adopté pour le calcul des droits de tirage et de l'aide conditionnelle correspondante, en application des dispositions de l'annexe B de l'Accord de Paiements et de Compensations entre les pays européens pour 1949-50.
 
-II. Dit gelijktijdig gebruik zal op de volgende wijze geschieden:
+III. Sera également considéré, le cas échéant, comme une utilisation des droits de tirage aux fins du présent Accord, le paiement à la Belgique de dollars fournis par l'Administration de Coopération économique des Etats-Unis d'Amérique, pour financer les achats effectués dans la zone monétaire belge par des personnes résidant dans la zone florin, dans des conditions à déterminer par accord entre le Gouvernement du Royaume de Belgique et l'Administration de Coopération économique des Etats-Unis d'Amérique et, éventuellement, le Gouvernement du Royaume des Pays-Bas.
 
-- a. in gelijke verhouding tot aan uitputting van een bedrag aan trekkingsrechten gelijk aan de tegenwaarde van zeven-en-twintig millioen U.S.A.-dollars, in dier voege, dat gelijktijdig met iedere U.S.A.-dollar aan trekkingsrechten, van het crediet zal worden gebruikt een bedrag aan Belgische franken gelijkwaardig aan de tegenwaarde van een U.S.A.-dollar, berekend naar de wisselkoers aanvaard voor de berekening van de trekkingsrechten en de daarmee overeenkomende voorwaardelijke hulp onder toepassing van de voorschriften vervat in bijlage B van het Verdrag inzake intra-Europese Betaligen en Compensaties voor het dienstjaar 1949-1950.
+##### Article 4
 
-- b. in de verhouding een op twee voor het saldo, d.w.z. dat voor twee U.S.A.-dollars aan trekkingsrechten, van het crediet zal worden gebruikt een bedrag aan Belgische franken gelijk aan de tegenwaarde van een U.S.A.-dollar berekend naar de wisselkoers aanvaard voor de berekening van de trekkingsrechten en de daarmee overeenkomende voorwaardelijke hulp onder toepassing van de voorschriften vervat in Bijlage B van het Verdrag inzake intra-Europese Betalingen en Compensaties voor het dienstjaar 1949-1950.
+Le Royaume de Belgique s'engage, par les présentes, à mettre à la disposition du Gouvernement du Royaume des Pays-Bas, dans les limites et conditions prévues ci-dessus, et sur demande de la Banque des Règlements Internationaux agissant dans le cadre des instructions annexées au présent contrat (annexe II), qui lui seront données à cet effet par les parties soussignées, des francs belges pour tels montants et à telles dates qu'il sera nécessaire pour l'exécution du présent contrat et de l'Accord de Paiements et de Compensations entre les pays européens pour 1949-50.
 
-III. Als gebruik van trekkingsrechten zal eventueel voor de doeleinden van de onderhavige overeenkomst ook worden beschouwd, de betaling aan België van dollars verschaft door de Administratie van de Economische Samenwerking der Verenigde Staten van Amerika, ter financiering van aankopen verricht in het Belgische monetaire gebied door peronen gevestigd in het guldensgebied, op voorwaarden in onderlinge overeenstemming vast te stellen door de Regering van het Koninkrijk België en de Administratie van de Economische Samenwerking van de Verenigde Staten van Amerika en, eventueel, de Regering van het Koninkrijk der Nederlanden.
+##### Article 5
 
-##### Artikel 4
+Pour chaque montant de francs belges qui sera mis à sa disposition par application de l'article 4 ci-dessus, le Gouvernement du Royaume des Pays-Bas souscrira en faveur du Gouvernement du Royaume de Belgique, et remettra à celui-ci une oblgation d'un même montant de francs belges, datée du jour où ce montant aura été mis à la disposition du Gouvernement du Royaume des Pays-Bas. Cette obligation sera établie dans la forme spécifiée en annexe au présent contrat (annexe I).
 
-Het Koninkrijk België verbindt zich bij deze, binnen de grenzen en voorwaarden als hierboven gesteld en op verzoek van de „Bank voor Internationale Betalingen”, handelend in het kader van de instructies gevoegd bij deze overeenkomst (bijlage II), die haar te dien einde zullen worden verstrekt door de ondergetekende partijen, Belgische franken ter beschikking te stellen van de Regering van het Koninkrijk der Nederlanden tot zodanige bedragen en op zodanige tijdstippen als noodzakelijk zal zijn voor de uitvoering van deze overeenkomst en van het Verdrag inzake intra-Europese Betalingen en Compensaties voor het dienstjaar 1949-1950.
+##### Article 6
 
-##### Artikel 5
+Le Gouvernement du Royaume de Belgique ne cédera ni ne donnera en gage ou en nantissement les obligations souscrites par le Gouvernement du Royaume des Pays-Bas, en vertu du présent contrat, si ce n'est à une ou des institutions belges de droit public, auquel cas le dit Gouvernement notifiera au Gouvernement du Royaume des Pays-Bas, dans les trente jours, cette cession, mise en gage ou mise en nantissement.
 
-Voor elk bedrag aan Belgische franken dat onder toepassing van artikel 4 hierboven te harer beschikking zal zijn gesteld, zal de Regering van het Koninkrijk der Nederlanden ten gunste van de Regering van het Koninkrijk België afgeven een door haar ondertekende obligatie tot een gelijk bedrag aan Belgische franken, gedateerd op de dag, waarop dit bedrag ter beschikkig van de Regering van het Koninkrijk der Nederlanden zal zijn gesteld. Deze obligatie wordt opgesteld volgens het model gespecificeerd in de bijlage bij deze overeenkomst (bijlage I).
+##### Article 7
 
-##### Artikel 6
+Au cas où une partie de l'aide américaine pour 1949-50 serait accordée au Gouvernement du Royaume des Pays-Bas sous forme de prêts comportant un taux d'intérêt différent de celui prévu à la forme d'obligation mentionnée à l'article 5, ce dernier taux sera, si l'une des parties contractantes le demande, mis en concordance avec le taux d'intérêt fixé pour les prêts américains de 1949-50 accordés au Gouvernement du Royaume des Pays-Bas.
 
-De Regering van het Koninkrijk België zal de krachtens deze overeenkomst door de Regering van het Koninkrijk der Nederlanden ondertekende obligaties niet overdragen, noch in onderpand geven, tenzij dit geschiedt aan een of meer Belgische publiekrechtelijke lichamen, in welk geval genoemde Regering binnen dertig dagen de Regering van het Koninkrijk der Nederlanden van deze overdracht of verpanding in kennis zal stellen.
+##### Article 8
 
-##### Artikel 7
+Dans le cas où, postérieurement à la signature du présent contrat, la zone monétaire belge encourrait un déficit envers la zone florin, et où ce déficit ne pourrait être soldé par des moyens de paiement acceptables pour le Gouvernement du Royaume des Pays-Bas, autres que de l'ors, des dollars U.S.A. ou des devises convertibles en or ou en dollars U.S.A., le Gouvernement du Royaume de Belgique aurait la faculté de solder ce déficit en l'imputant à titre d'amortissement extraordinaire sur la dette contractée envers lui, sur pied du présent contrat, par le Gouvernement du Royaume des Pays-Bas.
 
-Indien een deel van de Amerikaanse hulp voor het dienstjaar 1949-1950 aan de Regering van het Koninkrijk der Nederlanden zal worden toegekend in de vorm van leningen met een rentevoet afwijkend van de rentevoet van de obligatie genoemd in artikel 5, zal laatstgenoemde rentevoet, indien een van de contracterende partijen dit verzoekt, in overeenstemming worden gebracht met de rentevoet vastgesteld voor de Amerikaanse leningen gedurende de dienst 1949-1950 verstrekt aan de Regering van het Koninkrijk der Nederlanden.
+##### Article 9
 
-##### Artikel 8
+Si, à un moment donné, les parties contractantes décident d'un commun accord, qu'il serait de leur intérêt, en raison de circonstances économiques adverses ou pour toute autre raison, de surseoir ou de prévoir qu'il sera sursis au paiement d'une ou plusieurs semestrialités d'amortissement ou d'une manière plus générale d'apporter ou de prévoir un changement à toute stipulation quelconque des obligations mentionnées à l'article 5 du présent contrat, elles pourront, d'un commun accord, pourvoir par écrit à tout sursis, à tout changement ou à toute autre modification aux dites stipulations.
 
-Indien na ondertekening van deze overeenkomst voor het Belgisch monetaire gebied ten opzichte van het guldensgebied een tekort mocht ontstaan en dit tekort niet mocht kunnen worden aangezuiverd met voor de Regering van het Koninkrijk der Nederlanden acceptabele betaalmiddelen anders dan goud, U.S.A.-dollars of deviezen inwisselbaar in goud of U.S.A.-dollars, zal de Regering van het Koninkrijk België de bevoegdheid hebben dit tekort aan te zuiveren door het, bij wijze van buitengewone aflossing door de Regering van het Koninkrijk der Nedelanden, in mindering te brengen van de op de voet van deze overeenkomst aangegane schuld.
+Dans l'éventualité où le Gouvernement du Royaume de Belgique céderait les obligations dont il s'agit à une ou des institutions belges de droit public ou donnerait ces obligations en gage ou en nantissement à pareilles institutions, il prendrait toutes dispositions nécessaires pour que la cession, la mise en gage ou la mise en nantissement ne puissent faire obstacle à l'application du premier alinéa du présent article.
 
-##### Artikel 9
+##### Article 10
 
-Indien op een gegeven ogenblik de contracterende partijen in onderlinge overeenstemming beslissen, dat het in hun belang zou zijn, ter oorzake van tegenwerkende economische omstandigheden of om elke andere oorzaak, de betaling van een of meer halfjaarlijkse aflossingen uit te stellen of een zodanig uitstel in het vooruitzicht te stellen, of om meer in het algemeen een verandering aan te brengen of in het vooruitzicht te stellen in enige voorwaarde verbonden aan de obligaties genoemd in artkel 5 van de onderhavige overeenkomst, kunnen zij in onderlinge overeenstemming schriftelijk voorzien in elk uitstel, elke verandering of elke andere wijziging in de genoemde voorwaarden.
+A concurrence du montant dont le Gouvernement du Royaume des Pays-Bas serait débiteur en vertu du présent contrat, les avoirs en francs belges détenus ou à détenir par lui-même ou par la Nederlandsche Bank ne bénéficieront d'aucune garantie de change.
 
-Indien de Regering van het Koninkrijk België de onderhavige obligaties zou overdragen aan een of meer Belgische publiekrechtelijke lichamen of deze obligaties in onderpand zou geven aan dergelijke instellingen, zal zij alle nodige schikkingen treffen, opdat de overdracht of het in onderpand geven geen beletsel vormen voor het gestelde in de eerste alinea van dit artikel.
+Les accords de paiements ou autres arrangements existant actuellement seront mis en concordance avec les dispositions de l'alinéa qui précède.
 
-##### Artikel 10
+##### Article 11
 
-Tot het bedrag, dat de Regering van het Koninkrijk der Nederlanden krachtens deze overeenkomst schuldig is, zullen de door haarzelf of door de Nederlandsche Bank opgenomen of nog op te nemen tegoeden in Belgische franken geen koersgarantie genieten.
+La présente Convention de Prêt entrera en vigueur après son approbation par les deux Parties Contractantes, conformément à leur droit national.
 
-De betalingsovereenkomsten of andere thans bestaande regelingen zullen in overeenstemming worden gebracht met de bepalingen in de hieraan vooafgaande alinea.
+Les deux Parties Contractantes se communiqueront réciproquement, dans le délai le plus bref, la date à laquelle cette approbation est intervenue.
 
-##### Artikel 11
-
-Dit Leningsverdrag zal van kracht worden na goedkeuring door de beide Contracterende Partijen, overeenkomstig hun nationaal recht.
-
-De beide Contracterende Partijen zullen binnen de kortst mogelijke tijd elkaar mededelen op welke datum deze goedkeuring heeft plaatsgevonden.
-
-Op het ogenblik van ondertekening van dit Leningsverdrag tussen de Regering van het Koninkrijk België en de Regering van het Koninkrijk der Nederlanden hebben de Ondertekenaars van de Contracterende Partijen hun volmachten uitgewisseld, welke in goede en behoorlijke vorm zijn bevonden.
+Au moment de procéder à la signature de la présente Convention de Prêt, intervenue entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume des Pays-Bas, les Signataires des Parties Contractantes ont échangé leurs pleins pouvoirs qu'ils ont trouvés en bonne et due forme.
 
 Fait à Paris, le 7 septembre 1949, en double exemplaire, au siège de la Mission belge auprès de l'Organisation Européenne de Coopération Economique.
 
-**Pour le Gouvernement du Royaume de Belgique:**
+*Pour le Gouvernement du Royaume de Belgique:*
 
 DE MEEUS.
 
-**Pour le Gouvernement du Royaume des Pays-Bas:**
+*Pour le Gouvernement du Royaume des Pays-Bas:*
 
 S. J. VAN TUYLL VAN SEROOSKERKEN.

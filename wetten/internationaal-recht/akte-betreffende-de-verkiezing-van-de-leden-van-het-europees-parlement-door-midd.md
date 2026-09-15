@@ -1,35 +1,16 @@
 ---
 title: "Akte betreffende de verkiezing van de leden van het Europees Parlement door middel van rechtstreekse algemene verkiezingen"
 identifier: "BWBV0005252"
-country: "nl"
-rank: "verdrag"
-publication_date: "2004-04-01"
-last_updated: "2004-04-01"
-status: "in_force"
-source: "https://wetten.overheid.nl/BWBV0005252"
+categorie: "Overig"
 soort: "verdrag"
-stam_id: "10004534753"
-version_id: "10004753462"
-internal_id: "C10008335491"
-label_id: "10004519464"
-dtd_version: "2.0"
-original_entry_into_force: "1978-07-01"
-toestand_uri: "http://wetten.overheid.nl/id/BWBV0005252/2004-04-01/0"
-intitule_bron: "Trb.1976-175"
-intitule_effect: "nieuwe-regeling"
-intitule_published: "1976-11-25"
-intitule_in_force: "1981-05-21"
-intitule_status: "goed"
-original_publication: "Trb.1976-175"
-original_published_date: "1976-11-25"
-original_effect: "nieuwe-regeling"
-original_url_id: "trb-1976-175"
-entry_into_force_date: "1978-07-01"
-jci_1_3: "jci1.3:c:BWBV0005252&z=2004-04-01&g=2004-04-01"
-jci_1_0: "1.0:c:BWBV0005252&g=2004-04-01"
-citeertitel_status: "redactioneel"
-entry_into_force: "1978-07-01"
+publicatiedatum: 1978-07-01
+laatste_update: 2004-04-01
+status: geldig
+toestand: 2004-04-01
+bron: "https://wetten.overheid.nl/BWBV0005252"
+opgehaald: 2026-09-15
 ---
+
 # Akte betreffende de verkiezing van de leden van het Europees Parlement door middel van rechtstreekse algemene verkiezingen
 
 ##### Artikel 1
@@ -70,35 +51,35 @@ Zij wordt uitgebreid of bekort overeenkomstig artikel 11, lid 2, tweede alinea.
 
 1. De hoedanigheid van lid van het Europees Parlement in het Europees Parlement is onverenigbaar met die van:
 
-- -. lid van de Regering van een Lid-Staat;
+- - lid van de Regering van een Lid-Staat;
 
-- -. lid van de Commissie van de Europese Gemeenschappen;
+- - lid van de Commissie van de Europese Gemeenschappen;
 
-- -. rechter in, griffier van of advocaat-generaal bij het Hof van Justitie van de Europese Gemeenschappen of van het Gerecht van eerste aanleg;
+- - rechter in, griffier van of advocaat-generaal bij het Hof van Justitie van de Europese Gemeenschappen of van het Gerecht van eerste aanleg;
 
-- -. lid van de directie van de Europese Centrale Bank;
+- - lid van de directie van de Europese Centrale Bank;
 
-- -. lid van de Rekenkamer van de Europese Gemeenschappen;
+- - lid van de Rekenkamer van de Europese Gemeenschappen;
 
-- -. ombudsman van de Europese Gemeenschappen;
+- - ombudsman van de Europese Gemeenschappen;
 
-- -. lid van het Economisch en Sociaal Comité van de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie;
+- - lid van het Economisch en Sociaal Comité van de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie;
 
-- -. lid van het Comité van de Regio’s;
+- - lid van het Comité van de Regio’s;
 
-- -. lid van comités of lichamen die krachtens de [Verdragen tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en de [Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) zijn ingesteld met het oog op het beheer van middelen der Gemeenschappen of ter vervulling van een duurzame taak van rechtstreeks administratief beheer;
+- - lid van comités of lichamen die krachtens de [Verdragen tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en de [Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) zijn ingesteld met het oog op het beheer van middelen der Gemeenschappen of ter vervulling van een duurzame taak van rechtstreeks administratief beheer;
 
-- -. lid van de Raad van Bewind, van de directie of beambte van de Europese Investeringsbank;
+- - lid van de Raad van Bewind, van de directie of beambte van de Europese Investeringsbank;
 
-- -. ambtenaar of ander personeelslid in actieve dienst van de instellingen der Europese Gemeenschappen of van de daaraan verbonden gespecialiseerde lichamen of van de Europese Centrale Bank.
+- - ambtenaar of ander personeelslid in actieve dienst van de instellingen der Europese Gemeenschappen of van de daaraan verbonden gespecialiseerde lichamen of van de Europese Centrale Bank.
 
 2. Met ingang van de verkiezing van het Europees Parlement in 2004 is de hoedanigheid van lid van het Europees Parlement onverenigbaar met die van lid van een nationaal parlement.
 
 In afwijking daarvan en onverminderd lid 3:
 
-- –. mogen leden van het Ierse parlement die bij een latere verkiezing voor het Europees Parlement gekozen worden, een dubbel mandaat uitoefenen tot de volgende verkiezingen voor het Ierse parlement, waarna de eerste alinea van dit lid van toepassing is;
+- – mogen leden van het Ierse parlement die bij een latere verkiezing voor het Europees Parlement gekozen worden, een dubbel mandaat uitoefenen tot de volgende verkiezingen voor het Ierse parlement, waarna de eerste alinea van dit lid van toepassing is;
 
-- –. mogen leden van het parlement van het Verenigd Koninkrijk die in de periode van vijf jaar voorafgaand aan de verkiezing van het Europees Parlement in 2004 tevens lid zijn van het Europees Parlement, een dubbel mandaat uitoefenen tot de verkiezingen voor het Europees Parlement in 2009, waarna de eerste alinea van dit lid van toepassing is.
+- – mogen leden van het parlement van het Verenigd Koninkrijk die in de periode van vijf jaar voorafgaand aan de verkiezing van het Europees Parlement in 2004 tevens lid zijn van het Europees Parlement, een dubbel mandaat uitoefenen tot de verkiezingen voor het Europees Parlement in 2009, waarna de eerste alinea van dit lid van toepassing is.
 
 3. Bovendien kan iedere Lid-Staat onder de in artikel 8 vastgestelde voorwaarden de incompatibiliteiten uitbreiden die op nationaal niveau van toepassing zijn.
 
